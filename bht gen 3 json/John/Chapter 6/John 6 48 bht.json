@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:07:04",
+    "verseRef": "John 6:48",
+    "bestBHT": {
+        "bht": "Believing in Jesus grants us eternal life because he is the everlasting sustenance. He is the bread of life and offers genuine nourishment to our souls. His doctrines and mediation surpass the symbolic manna in the wilderness. Jesus, as the life-giving bread, infuses life into all who receive and embrace it. This reflects the contrast between Jesus and the old manna, highlighting his supremacy as the ultimate source for our spiritual well-being.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 2.019380112814514,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.49,
+        "commentatorTierSimilarities": [
+            30.66,
+            30.12,
+            39.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "48.] If so, (see ver. 47,) there is full reason for my naming Myself the Bread of Life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "48. I am the bread of life\u2014\"As",
+            "\the that believeth in Me hath everlasting life, so I am Myself the",
+            "\teverlasting Sustenance of that life.\" (Repeated from :-)."
+        ],
+        "Albert Barnes": [
+            "I am that bread of life - My doctrines and the benefits of my mediation are that real support of spiritual life of which the manna in the wilderness was the faint emblem.\" ",
+            "My doctrines and the benefits of my mediation are that real support of spiritual life.",
+            "The manna in the wilderness was the faint emblem."
+        ],
+        "John Calvin": [
+            "I am the bread of life.\" ",
+            "He is the life-giving bread, by which our souls are nourished.\" ",
+            "A contrast between this bread and the ancient manna, together with a comparison of the men."
+        ],
+        "Philip Schaff": [
+            "He is the bread which contains life in itself, and which therefore can give and does give life to all who receive and assimilate it.",
+            "It is interesting to observe, at a point where the discourse is really higher than it was before, a shortening of the formula employed.",
+            "Similar to that already met by us in John 1:29; John 1:36 (see note on John 1:35-36)."
+        ],
+        "Archibald T. Robertson": [
+            "I am the bread of life.\" ",
+            "The believer in Christ has eternal life because he gives himself to him."
+        ],
+        "John Gill": [
+            "I am that bread of life. :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we truly believe in Jesus, we have eternal life because he is the everlasting sustenance of that life. His doctrines and the benefits of his mediation are the real support of our spiritual life, much like the manna in the wilderness was only a faint emblem of what Jesus offers. He is the bread that contains life in itself and gives life to all who receive and assimilate it. This verse highlights the contrast between Jesus as the life-giving bread and the old manna, emphasizing the superiority of Jesus as the ultimate nourishment for our souls.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.18815490508118,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.1,
+            "commentatorTierSimilarities": [
+                29.98,
+                33.4,
+                36.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we truly believe in Jesus, we have eternal life because he is the everlasting sustenance of that life. He is the bread of life, the real support of our spiritual life. His doctrines and the benefits of his mediation are what nourish our souls, surpassing the faint emblem of the manna in the wilderness. Jesus is the life-giving bread, providing life to all who receive and assimilate it. This verse contrasts Jesus with the old manna, emphasizing his superiority as the ultimate nourishment for our souls.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.204431031202743,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+            "commentatorTierSimilarities": [
+                30.5,
+                31.11,
+                38.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believing in Jesus grants us eternal life because he is the everlasting sustenance. As the bread of life, he supports our spiritual well-being. His doctrines and mediation offer genuine nourishment, surpassing the symbolic manna in the wilderness. Jesus is the life-giving bread, infusing life into all who receive and embrace it. This passage highlights the contrast between Jesus and the old manna, underscoring his supremacy as the ultimate source of sustenance for our souls.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.072023047971405,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+            "commentatorTierSimilarities": [
+                31.26,
+                30.18,
+                38.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believing in Jesus grants us eternal life because he is the everlasting sustenance. He is the bread of life and offers genuine nourishment to our souls. His doctrines and mediation surpass the symbolic manna in the wilderness. Jesus, as the life-giving bread, infuses life into all who receive and embrace it. This reflects the contrast between Jesus and the old manna, highlighting his supremacy as the ultimate source for our spiritual well-being.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.019380112814514,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.49,
+            "commentatorTierSimilarities": [
+                30.66,
+                30.12,
+                39.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believing in Jesus grants us eternal life because he is the everlasting sustenance. He is the bread of life, offering genuine nourishment to our souls. His doctrines and mediation surpass the symbolic manna in the wilderness. As the life-giving bread, Jesus infuses life into all who receive and embrace it. This highlights the contrast between Jesus and the old manna, emphasizing his supremacy as the ultimate source for our spiritual well-being.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.0116737234038853,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                30.77,
+                30.01,
+                39.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

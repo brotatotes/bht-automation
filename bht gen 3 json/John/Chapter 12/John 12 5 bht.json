@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:10:55",
+    "verseRef": "John 12:5",
+    "bestBHT": {
+        "bht": "Mary spends a significant amount of money on anointing Jesus' feet, prompting criticism from Judas and the other disciples who argue it could have been given to the poor. John specifically identifies Judas as the one who protests against this perceived waste of money. The commentators suggest that Judas masks his true motives with a concern for the poor. They also maintain that Mary's action lacks any justification or apology, regardless of the substantial amount spent. Through recording Judas's words, the Evangelist uncovers his hypocrisy.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.6566771044687392,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+        "commentatorTierSimilarities": [
+            18.64,
+            41.81,
+            39.54
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "5. three hundred pence] Common (with the slight difference of the insertion of \u201cmore than\u201d) to our narrative, and Mark. The sum is about 9 l. 16 s. of our money."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. three hundred pence\u2014between",
+            "\tnine and ten pounds sterling."
+        ],
+        "Marvin Vincent": [
+            "Three hundred denarii would be about fifty dollars, or twice that amount if we reckon according to the purchasing power.",
+            "No article: to poor people.",
+            "On the denarius, see on Matthew 20:2."
+        ],
+        "John Calvin": [
+            "Had Mary spent little, there would have been some excuse for her; but now, since, in a matter of no importance, she has wasted a vast sum of money, has she not done an injury to the poor?",
+            "What she has done, therefore, admits of no apology.",
+            "The greater the waste of money, the more plausible reason had Judas for murmuring."
+        ],
+        "Philip Schaff": [
+            "Care for the poor is the mask which the murmuring protest of Judas wears.",
+            "Thus sin, that it may the better extinguish the virtue by which at the moment it is offended, is wont to pay reverence to some other virtue.",
+            "But the Evangelist in recording the words strips off the mask."
+        ],
+        "Archibald T. Robertson": [
+            "For three hundred pence (\u03c4\u03c1\u03b9\u03b1\u03ba\u03bf\u03c3\u03b9\u03c9\u03bd \u03b4\u03b7\u03bd\u03b1\u03c1\u03b9\u03c9\u03bd). Genitive of price.",
+            "But only John singles out Judas as the one who made the protest against this waste of money.",
+            "The amount here spent by Mary (ten guineas) would equal a day labourer's wages for a year (Dods)."
+        ],
+        "John Gill": [
+            "[Judas]...pretence...with which he covered himself...",
+            "[Judas'] uneasiness...because it was not sold...money put into his hands...",
+            "[Judas'] uneasiness...as appears by what follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, Mary spends a significant amount of money, three hundred pence, on anointing Jesus' feet. This sum would be worth about fifty dollars in today's money, or twice that based on purchasing power. The other disciples, particularly Judas, protest this seemingly extravagant act as a waste of money that could have been given to the poor. However, John specifically highlights Judas as the one who voices this concern. The commentators suggest that Judas uses the guise of caring for the poor to hide his true motives. They also emphasize that Mary's action does not warrant any excuse or apology, despite the large sum of money involved. Judas's discontent stems from the fact that the money was not handled by him, alluding to his own motives for greed. In recording these words, the Evangelist exposes the hypocrisy behind Judas's protest.",
+            "wordCount": 145,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.5810543988493952,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.91,
+            "commentatorTierSimilarities": [
+                24.55,
+                38.11,
+                37.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary spends a significant amount of money on anointing Jesus' feet. Judas, among the disciples, protests this as a waste that could have been given to the poor. However, among the disciples, it is only John who identifies Judas as the one who voices this concern. The commentators suggest that Judas uses concern for the poor as a disguise to hide his true motives. They also argue that Mary's action does not merit any excuse or apology, despite the large sum of money involved. The Evangelist unmasks the hypocrisy behind Judas's protest.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.575274042949792,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                19.11,
+                40.27,
+                40.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary spends a significant amount of money on anointing Jesus' feet, which prompts Judas and the other disciples to protest, claiming it could have been given to the poor instead. However, it is only John who highlights Judas as the one who voices this concern. The commentators argue that Judas uses his apparent concern for the poor as a cover-up for his true motives. They also assert that Mary's action cannot be justified or excused, despite the large sum of money involved. The truth behind Judas's protest is exposed by the Evangelist.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.5817661243397452,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.94,
+            "commentatorTierSimilarities": [
+                18.83,
+                40.04,
+                41.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary spends a significant amount of money on anointing Jesus' feet, prompting criticism from Judas and the other disciples who argue it could have been given to the poor. John specifically identifies Judas as the one who protests against this perceived waste of money. The commentators suggest that Judas masks his true motives with a concern for the poor. They also maintain that Mary's action lacks any justification or apology, regardless of the substantial amount spent. Through recording Judas's words, the Evangelist uncovers his hypocrisy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.6566771044687392,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                18.64,
+                41.81,
+                39.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary spends a significant sum of money anointing Jesus' feet, evoking objection from Judas and the other disciples regarding the waste. Specifically, John highlights Judas as the one who voices this concern. The commentators suggest that Judas uses his apparent concern for the poor as a disguise for his true motives. They also contend that Mary's action cannot be excused, despite the large amount of money involved. The Evangelist reveals the hypocrisy behind Judas's protest by documenting his words.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.519401776645966,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+            "commentatorTierSimilarities": [
+                20.1,
+                37.47,
+                42.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

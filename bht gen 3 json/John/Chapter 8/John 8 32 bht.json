@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:08:54",
+    "verseRef": "John 8:32",
+    "bestBHT": {
+        "bht": "True freedom from fear, error, and bondage is found in knowing the truth, which is the Gospel of Christ. This knowledge breaks the hard bondage of sin and liberates us from evil passions and corrupted views. By abiding in the word of Jesus and continuing to grow in it, we experience true freedom. The truth not only brings freedom from ignorance and error but also releases us from guilt, sin, misery, and the clutches of Satan. Let the truth, embodied in Jesus himself, shine on us and lead us into all truth.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.3981816321120846,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.08,
+        "commentatorTierSimilarities": [
+            36.7,
+            31.8,
+            31.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The knowing of the truth answers to the feeding on Christ.",
+            "And in the continuing increase of this comes true freedom from all fear and error and bondage.",
+            "True freedom from all fear and error and bondage."
+        ],
+        "Albert Barnes": [
+            "The truth shall make you free - The truth here means the Christian religion. The doctrines of the true religion shall make you free - that is, it will free you from the slavery of evil passions, corrupt propensities, and grovelling views.",
+            "The condition of a sinner is that of a captive or a slave to sin. He is one who serves and obeys the dictates of an evil heart and the promptings of an evil nature.",
+            "The effect of the gospel is to break this hard bondage to sin and to set the sinner free. We learn from this that religion is not slavery or oppression. It is true freedom."
+        ],
+        "John Calvin": [
+            "Wherefore, whatever progress any of us have made in the Gospel, let him know that he needs new additions.",
+            "The truth shall make you free. He commends the knowledge of the Gospel from the fruit which we derive from it, or \u2014 which is the same thing \u2014 from its effect, namely, that it restores us to freedom.",
+            "Let Papists now go and proudly vaunt of their free-will, but let us, who are conscious of our own slavery, glory in none but Christ our Deliverer."
+        ],
+        "Philip Schaff": [
+            "If they shall abide in the word of Jesus, it will be shown that they have begun a true discipleship, and the word in which they abide shall make known to them the truth.",
+            "Jesus read in their hearts a false interpretation of His work and their own needs. He came as Savior, not as Teacher only.",
+            "Here the figure is changed from that of future death to that of present and continued bondage: \u2018the truth\u2019 shall be the means of giving freedom."
+        ],
+        "Archibald T. Robertson": [
+            "Truth is one of the marks of Christ and Jesus will claim to Thomas to be the personification of truth.",
+            "The freedom of which Jesus here speaks is freedom from the slavery of sin...",
+            "Freedom (intellectual, moral, spiritual) is only attainable when we are set free from darkness, sin, ignorance, superstition and let the Light of the World shine on us and in us."
+        ],
+        "John Gill": [
+            "And ye shall know the truth....while others are ever learning, and never come to the knowledge of the truth; but the spirit of truth should lead them into all truth...",
+            "Jesus himself, who is the way, the truth, and the life; and the sense is, that they should know more of him, of the dignity of his person, of the nature and usefulness of his offices...",
+            "the truth shall make you free; from ignorance and error, and the prejudices of education, under which the whole nation laboured, and from the thraldom of the law."
+        ],
+        "John Wesley": [
+            "The truth \u2014 Written in your hearts by the Spirit of God, shall make you free - From guilt, sin, misery, Satan."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "True freedom from fear, error, and bondage is found in knowing the truth, which is the Gospel of Christ. This knowledge breaks the hard bondage of sin and liberates us from the slavery of evil passions and corrupted views. The truth, when abided in and continually sought, reveals the true discipleship and sets us free. It is through the truth that we are restored to freedom and delivered from our own slavery. Let us not boast in our own free will, but rather glory in Christ, our deliverer. The truth not only brings freedom from ignorance and error, but also releases us from guilt, sin, misery, and the clutches of Satan. It is the embodiment of Jesus himself, who is the way, the truth, and the life. May the spirit of truth lead us into all truth and help us to know more of Christ, his person, his offices, and the nature of his truth.",
+            "wordCount": 155,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 2.2517863057125993,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.21,
+            "commentatorTierSimilarities": [
+                34.17,
+                32.55,
+                33.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True freedom from fear, error, and bondage is found in knowing the truth, which is the Gospel of Christ. The knowledge of the truth restores us to freedom and breaks the hard bondage of sin. The truth liberates us from the slavery of evil passions and corrupted views, setting us free. Let us not boast in our own free will, but rather glory in Christ, our deliverer. The truth not only brings freedom from ignorance and error but also releases us from guilt, sin, misery, and Satan's grasp. May the truth, the personification of Jesus, lead us into all truth and illuminate the nature and usefulness of his truth.",
+            "wordCount": 110,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.363562102101407,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.93,
+            "commentatorTierSimilarities": [
+                35.56,
+                31.51,
+                32.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True freedom from fear, error, and bondage is found in knowing the truth, which is the Gospel of Christ. The truth breaks the hard bondage of sin and liberates us from evil passions and corrupt views. By abiding in the word of Jesus, we begin a true discipleship and are set free. Let us glory in Christ, our deliverer, and not in our own free will. The truth not only brings freedom from ignorance and error but also releases us from guilt, sin, misery, and the clutches of Satan. May the truth, which is Jesus Himself, lead us into all truth and reveal the nature and usefulness of His truth.",
+            "wordCount": 110,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.3135097386753536,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+            "commentatorTierSimilarities": [
+                34.8,
+                32.93,
+                32.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True freedom from fear, error, and bondage is found in knowing the truth, which is the Gospel of Christ. This knowledge breaks the hard bondage of sin and liberates us from evil passions and corrupted views. By abiding in the word of Jesus, we begin a true discipleship and experience freedom. Let us glory in Christ, our deliverer, and not in our own free will. The truth not only brings freedom from ignorance and error, but also releases us from guilt, sin, misery, and the clutches of Satan. May the truth, embodied in Jesus himself, guide us into all truth and enlighten us about the nature and usefulness of his truth.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.299982999510357,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.81,
+            "commentatorTierSimilarities": [
+                35.48,
+                32.46,
+                32.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True freedom from fear, error, and bondage is found in knowing the truth, which is the Gospel of Christ. This knowledge breaks the hard bondage of sin and liberates us from evil passions and corrupted views. By abiding in the word of Jesus and continuing to grow in it, we experience true freedom. The truth not only brings freedom from ignorance and error but also releases us from guilt, sin, misery, and the clutches of Satan. Let the truth, embodied in Jesus himself, shine on us and lead us into all truth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3981816321120846,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.08,
+            "commentatorTierSimilarities": [
+                36.7,
+                31.8,
+                31.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

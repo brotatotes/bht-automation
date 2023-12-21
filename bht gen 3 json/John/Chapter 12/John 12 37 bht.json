@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:11:21",
+    "verseRef": "John 12:37",
+    "bestBHT": {
+        "bht": "Despite the multitude of miracles Jesus performed before the Jewish people, they persistently chose not to believe in Him. These signs and wonders, intended as clear evidence of His divine identity, were met with stubborn and deliberate rejection. It is evident that their unbelief was a conscious choice, despite the undeniable proof presented to them. Yet, we must remember that faith is ultimately a gift from God and not something that can be attained through human effort alone.",
+        "wordCount": 78,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.8357364690695368,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+        "commentatorTierSimilarities": [
+            28.56,
+            31.51,
+            39.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "37. they believed not] i.e. the generality did not;\u2014they did not, as a people: see ver. 42."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But here, having arrived at what was virtually the close of our Lord's public ministry, he casts an affecting glance over the fruitlessness of His whole ministry on the bulk of the now doomed people.",
+            "Though he had done so many miracles\u2014The word used suggests their nature as well as number."
+        ],
+        "Albert Barnes": [
+            "So many miracles - This does not refer to any miracles performed on this occasion, but to all his miracles performed in view of the nation, in healing the sick, opening the eyes of the blind, raising the dead, etc.\" ",
+            "John here gives the summary or the result of all his work undeniable proof of his being the Messiah, yet the nation did not believe on him.",
+            "They believed not - The Jewish nation did not believe as a nation, but rejected him."
+        ],
+        "John Calvin": [
+            "We ought to believe that it was not owing to Christ that the Jews did not place confidence in him, because by many miracles he abundantly testified who he was.\" ",
+            "It was therefore unjust and highly unreasonable that their unbelief should diminish his authority.\" ",
+            "Faith does not proceed from the ordinary faculties of men, but is an uncommon and extraordinary gift of God."
+        ],
+        "Philip Schaff": [
+            "But though he had done so many signs before them, they believed not in him.",
+            "All the particulars of the statement heighten the effect.",
+            "Yet, notwithstanding all this, their unbelief had been continued, wilful, as constant as the call addressed to them."
+        ],
+        "Archibald T. Robertson": [
+            "Though he had done so many signs before them... Yet they believed not on him.\" ",
+            "No 'yet' in the Greek. Negative imperfect active of \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c9, 'they kept on not believing on him.'",
+            "Stubborn refusal in face of the light."
+        ],
+        "John Gill": [
+            "But though he had done so many miracles...they believed not on him.\" ",
+            "the miracles done by Christ before their eyes...were aggravations of their unbelief",
+            "the most powerful means, and mighty works, will not bring a person to believe in Christ, without the powerful and efficacious grace of God."
+        ],
+        "John Wesley": [
+            "Though he had done so many miracles before them \u2014 So that they could not but see them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite the multitude of miracles Jesus performed before the Jewish people, they still did not believe in Him. This rejection persisted throughout His entire public ministry, leaving Jesus with a heavy heart as He recognized the fruitlessness of His efforts. The signs and wonders He performed, while numerous and undeniable, were met with obstinate unbelief. It is clear that their refusal to believe was a deliberate choice, a stubborn rejection of the truth presented before their very eyes. Although these miracles were intended to be clear evidence of Jesus' divine identity, the Jewish nation as a whole chose to reject Him. Yet, we must remember that faith is not a natural inclination of human beings, but rather a remarkable gift from God Himself. It is not for us to question or diminish the authority of Christ based on the unbelief of others, for faith ultimately rests in the hands of the Almighty.",
+            "wordCount": 152,
+            "quoteTokenProportion": 41.58,
+            "qualityScore": 1.7941258500243378,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+            "commentatorTierSimilarities": [
+                29.19,
+                31.46,
+                39.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite the multitude of miracles Jesus performed before the Jewish people, they still did not believe in Him. This rejection persisted throughout His entire public ministry, leaving Jesus with a heavy heart as He recognized the fruitlessness of His efforts. The signs and wonders He performed, while numerous, were met with obstinate unbelief. It is clear that their refusal to believe was a deliberate choice, a stubborn rejection of the truth presented before their very eyes. Yet, we must remember that faith is a remarkable gift from God Himself.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.7965656901871587,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                30.75,
+                31.41,
+                37.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite the multitude of miracles Jesus performed before the Jewish people, they persistently chose not to believe in Him. These signs and wonders, intended as clear evidence of His divine identity, were met with stubborn and deliberate rejection. It is evident that their unbelief was a conscious choice, despite the undeniable proof presented to them. Yet, we must remember that faith is ultimately a gift from God and not something that can be attained through human effort alone.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8357364690695368,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                28.56,
+                31.51,
+                39.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though Jesus performed numerous miracles before the Jewish people, their persistent unbelief remained unchanged. Even though these signs and wonders were meant to serve as undeniable proof of His identity, they were met with obstinate rejection. Their refusal to believe was a deliberate choice, an unwillingness to acknowledge the truth that stood right in front of them. Nevertheless, we must remember that faith is ultimately a divine gift, bestowed upon us by God Himself and not something we can attain through our own efforts alone.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.65,
+            "qualityScore": 1.8093322326734036,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                29.59,
+                31.88,
+                38.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite Jesus performing numerous miracles before the Jewish people, their persistent unbelief remained unchanged. Their refusal to believe was a deliberate choice, an unwillingness to acknowledge the truth that stood right in front of them. Yet, we must remember that faith is ultimately a divine gift bestowed upon us by God Himself, and cannot be attained through human effort alone.",
+            "wordCount": 60,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7648202078706303,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "commentatorTierSimilarities": [
+                28.48,
+                30.54,
+                40.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

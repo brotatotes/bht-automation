@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:04:28",
+    "verseRef": "John 2:12",
+    "bestBHT": {
+        "bht": "At the beginning of His ministry, Jesus transformed water into wine, symbolizing His plan to change the Mosaic law into the powerful Gospel of Grace. This marked His first public manifestation as the Son of God in Jerusalem and Judea. Transitioning from His private to public life, Jesus went to Capernaum with His mother, brethren, and disciples. During their brief stay there, Jesus revealed His glory through the miracle and strengthened the faith of His disciples. It was during the first Passover and the initial cleansing of the temple that Jesus demonstrated His divine authority.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.8695584491248625,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+        "commentatorTierSimilarities": [
+            35.97,
+            30.57,
+            33.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Chuist, at the beginning of His ministry, by changing water into wine, signified, that He was about to change the Mosaic law, insipid and cold as water, into the Gospel of Grace, which is as wine, generous, full-flavoured, ardent, and powerful.",
+            "FIRST MANIFESTATION OF HIMSELF AS THE SON OF GOD:\u2014and herein, ii. 13\u2014iii. 36, IN JERUSALEM AND JUD\u00c6A.",
+            "Notice the transition from His private to His public life. His mother and brethren are still with Him, attached merely by nature: His disciples, newly attached by faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. Capernaum\u2014on the Sea of",
+            "\tGalilee. (See on :-). ",
+            "\t",
+            "his mother and his",
+            "\tbrethren\u2014(See on :-, and",
+            "\t :-). ",
+            "\t",
+            " :-. CHRIST'S",
+            "\tFIRST PASSOVER\u2014FIRST",
+            "\tCLEANSING OF THE TEMPLE."
+        ],
+        "Albert Barnes": [
+            "The reason why he remained there no longer was that the Passover was near, and they went up to Jerusalem to attend it.",
+            "Not many days.",
+            "To Capernaum - See the notes at Matthew 4:13."
+        ],
+        "Marvin Vincent": [
+            "He went down [\u03ba\u03b1\u03c4\u03b5\u03b2\u03b7] . Capernaum being on the lake shore, and Nazareth and Cana on the higher ground."
+        ],
+        "John Calvin": [
+            "such a mockery of God could not be endured",
+            "when they depart, however slightly, from the command of God, they deserve reproof and need correction",
+            "it was necessary that he should prove himself to be the Lord of the temple"
+        ],
+        "Philip Schaff": [
+            "All that can be said with certainty as to the position of Capernaum is, that it was situated on the western coast of the Lake of Gennesaret, not far from the northern end of the lake.",
+            "Whether reference is made to this particular visit (which, through the nearness of the passover, was of short duration) or not, it is interesting to note that the two Evangelists agree in recording a residence of Jesus in this town earlier than that brought into prominence in Matthew 4:13.",
+            "In his usual manner John divides the company into three groups, naming separately Jesus, His relations by natural kindred, His disciples."
+        ],
+        "Archibald T. Robertson": [
+            "This brief stay in this important city on the north shore of Galilee was with Christ's mother, brothers (apparently friendly at first) and the six disciples, all in the fresh glow of the glory manifested at Cana.\" ",
+            "Surely Mary's heart was full."
+        ],
+        "John Gill": [
+            "After he had wrought the miracle of turning water into wine; and after he had manifested forth the glory of his deity thereby, and had confirmed the faith of his disciples.\" ",
+            "This refers not to the same journey recorded in Matthew 4:12, for that was after John was cast into prison, whereas this was before.\" ",
+            "And they continued there not many days; not because of the impenitence, unbelief, and wickedness of the place, but for the reason following."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the beginning of His ministry, Jesus changed water into wine, symbolizing His intention to transform the Mosaic law, plain and uninspiring, into the Gospel of Grace, rich and powerful. This was His first public manifestation of Himself as the Son of God, in Jerusalem and Judea. Transitioning from His private to public life, His disciples newly attached by faith, He went to Capernaum with His mother, brethren, and six disciples. During their short stay, Jesus confirmed His glory through the miracle and His disciples' faith was strengthened. This was the first Passover and the first cleansing of the temple, where Jesus proved Himself to be the Lord.",
+            "wordCount": 108,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.8964914683752898,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                35.54,
+                29.8,
+                34.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the beginning of His ministry, Jesus transformed water into wine, signifying His plan to change the Mosaic law into the powerful Gospel of Grace. This marked His first public manifestation as the Son of God in Jerusalem and Judea. Moving from His private to public life, Jesus went to Capernaum with His mother, brethren, and disciples. During their brief stay there, Jesus revealed His glory through the miracle and reinforced the disciples' faith. It was the first Passover and the initial cleansing of the temple, where Jesus demonstrated His authority.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8511485879896323,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+            "commentatorTierSimilarities": [
+                35.86,
+                31.08,
+                33.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the beginning of His ministry, Jesus transformed water into wine, symbolizing the change from the Mosaic law to the abundant Gospel of Grace. This marked His first public manifestation as the Son of God in Jerusalem and Judea. Transitioning from His private to public life, Jesus went to Capernaum with His mother, brethren, and disciples. During their short stay, Jesus displayed His glory through the miracle, confirming the disciples' faith. It was the first Passover and the initial cleansing of the temple, proving His authority.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8243986800052423,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                35.22,
+                31.58,
+                33.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the beginning of His ministry, Jesus transformed water into wine, signifying His intention to change the Mosaic law into the powerful Gospel of Grace. In Jerusalem and Judea, Jesus revealed Himself as the Son of God. Moving from private to public life, Jesus traveled to Capernaum with His mother, brethren, and disciples, reaffirming their faith. Their brief stay witnessed the glory of the miracle and marked the first Passover and the initial cleansing of the temple, showcasing His divine authority.",
+            "wordCount": 81,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.8094945881419613,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                36.58,
+                30.91,
+                32.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the beginning of His ministry, Jesus transformed water into wine, symbolizing His plan to change the Mosaic law into the powerful Gospel of Grace. This marked His first public manifestation as the Son of God in Jerusalem and Judea. Transitioning from His private to public life, Jesus went to Capernaum with His mother, brethren, and disciples. During their brief stay there, Jesus revealed His glory through the miracle and strengthened the faith of His disciples. It was during the first Passover and the initial cleansing of the temple that Jesus demonstrated His divine authority.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8695584491248625,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                35.97,
+                30.57,
+                33.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

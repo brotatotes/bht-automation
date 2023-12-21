@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:15:14",
+    "verseRef": "John 20:30",
+    "bestBHT": {
+        "bht": "This book is not a comprehensive account of all the signs and miracles performed by Jesus. John is reviewing his entire narrative, acknowledging that there were many other signs not mentioned in his Gospel. While some of these signs are alluded to or mentioned in other books, John has made a deliberate selection. Many of the miracles Jesus performed were not recorded in any book, including this one. These signs were sufficient to strengthen faith, even though there were many more miracles Jesus performed that were not written down.",
+        "wordCount": 89,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 2.369405317167748,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.12,
+        "commentatorTierSimilarities": [
+            17.08,
+            47.86,
+            35.06
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This book must not be supposed to be a complete account.",
+            "signs...miracles, in the most general sense.",
+            "St. John is here reviewing his whole narrative, this book."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30. many other signs\u2014miracles."
+        ],
+        "Albert Barnes": [
+            "Other signs - Other miracles. Many were recorded by the other evangelists, and many which he performed were never recorded, John 21:25."
+        ],
+        "John Calvin": [
+            "Many other signs also Jesus did.",
+            "John, therefore, testifies, first, that he has only related some things out of a large number; not that the others were unworthy of being recorded, but because these were sufficient to edify faith.",
+            "Still we must not suppose it to be of little importance for us to know that the Gospel was sealed by a vast number of miracles."
+        ],
+        "Archibald T. Robertson": [
+            "Many other signs...but many alluded to in John's Gospel.\" ",
+            "Are not written...do not stand written, are not described 'in this book.'\" ",
+            "John has made a selection of the vast number wrought by Jesus 'in the presence of the disciples'."
+        ],
+        "John Gill": [
+            "Many there are which he did; which are not particularly written in this, nor in any other book.",
+            "He appeared to, and conversed with no other but them after his resurrection.",
+            "He showed himself alive, by many infallible proofs; all of which are not recorded."
+        ],
+        "John Wesley": [
+            "Jesus wrought many miracles, which are not written in this book \u2014 Of St. John, nor indeed of the other evangelists."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This book is not a comprehensive account of all the signs and miracles performed by Jesus. John is reviewing his entire narrative, acknowledging that there were many other signs not mentioned in his Gospel. While some of these signs are alluded to or mentioned in other books, John has made a deliberate selection. Many of the miracles Jesus performed were not recorded in any book, including this one. These signs were sufficient to strengthen faith, even though there were many more miracles Jesus performed that were not written down.",
+            "wordCount": 89,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.369405317167748,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.12,
+            "commentatorTierSimilarities": [
+                17.08,
+                47.86,
+                35.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This book is not a complete account of all the signs and miracles performed by Jesus. John acknowledges that there were many other signs not described in this book. While other books may mention some of these signs, John has deliberately chosen which ones to include. Many miracles performed by Jesus were not written down, yet the ones recorded here are sufficient for faith. The Gospel being sealed by a vast number of miracles should not be underestimated.",
+            "wordCount": 78,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 2.287341139982544,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.39,
+            "commentatorTierSimilarities": [
+                18.12,
+                46.26,
+                35.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This book is not a complete account, but rather a selective narrative of the signs and miracles performed by Jesus. John acknowledges that there were many other signs, miracles that were not described in this book but were witnessed by the disciples. These unrecorded miracles do not diminish the significance of those that were written. The chosen miracles that John has included are sufficient to strengthen one's faith, and it is important to recognize the multitude of miracles that confirmed the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.2931519849569835,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.59,
+            "commentatorTierSimilarities": [
+                15.5,
+                48.32,
+                36.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This book is not a comprehensive account of the signs and miracles performed by Jesus. John acknowledges that there were many other signs not mentioned in his Gospel, but he has deliberately chosen a selection of miracles that were witnessed by the disciples. These recorded miracles are sufficient to strengthen faith, even though there were many more miracles that Jesus performed that were not written down. Understanding the multitude of miracles that confirmed the Gospel is crucial for our faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.315663262218154,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.34,
+            "commentatorTierSimilarities": [
+                14.42,
+                49.23,
+                36.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This book is not a complete account of all the signs and miracles performed by Jesus, but rather a selective narrative. John acknowledges that there were many other signs, miracles that were witnessed by the disciples, but not explicitly described in this book. The chosen miracles recorded here are sufficient to strengthen faith, even though there were many more miracles Jesus performed that were not written down. Recognizing the abundance of miracles that confirmed the Gospel is important for our understanding and faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.289444978355412,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.46,
+            "commentatorTierSimilarities": [
+                15.07,
+                48.37,
+                36.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

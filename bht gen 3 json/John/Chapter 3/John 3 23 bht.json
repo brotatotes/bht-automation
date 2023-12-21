@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:05:01",
+    "verseRef": "John 3:23",
+    "bestBHT": {
+        "bht": "In \u00c6non near Salim, John was baptizing. The presence of many waters in \u00c6non suggests it was a place with an abundance of water, allowing for immersion baptism even in the summer. The use of imperfect verbs emphasizes the continuous flow of people coming to John to confess their sins and be baptized. While uncertainties exist over \u00c6non's precise location or the mode of baptism, these details do not diminish the significance of John's ministry or his willingness to direct people to Jesus.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.9793440025202211,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+        "commentatorTierSimilarities": [
+            19.73,
+            38.61,
+            41.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If Scythopolis was the ancient Bethshan, both places were in Samaria.",
+            "An \u00c6non in the wilderness of Judah is mentioned Josh. xv. 61... where it is certainly more probable...",
+            "Both places were West of the Jordan: see ver. 26, and compare ch. i. 28."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23. \u00c6non . . . Salim\u2014on the",
+            "\twest of Jordan. (Compare John 3:26;",
+            "\tJohn 1:28)."
+        ],
+        "Albert Barnes": [
+            "In many parts of that country, particularly in the hilly region near where John preached, it was difficult to find water to accommodate the necessities of the people...he selected a spot that was well watered, probably, with springs and rivulets.\" ",
+            "The mention of the fact that there was much water there, and that John selected that as a convenient place to perform his office as a baptizer, proves nothing in regard to the mode in which the ordinance was administered.",
+            "As all the facts in the case are fully met by the supposition that John might have baptized in some other way besides immersion, and as it is easy to conceive another reason that is sufficient to account for the fact that such a place was selected, this passage certainly should not be adduced to prove that he performed baptism only in that manner."
+        ],
+        "Marvin Vincent": [
+            "Was baptizing...was engaged in baptizing.",
+            "Aenon is probably akin to the Hebrew ayin, an eye, a spring.",
+            "Probably referring to a number of pools or springs."
+        ],
+        "Philip Schaff": [
+            "The objection to this identification is that, as John was clearly in the neighbourhood of Jesus, it takes the latter from the route leading to Samaria and Galilee. But the history of the events of the period is so brief and fragmentary that this objection has not much weight.\" ",
+            "It is more probable that Salim is the Shilhim (translated Salem in the LXX.) of Joshua 15:32, a town not far from the southern limit of Judea.\" ",
+            "John no doubt alludes to the meaning of AEnon when he adds that there were 'many waters' there."
+        ],
+        "Archibald T. Robertson": [
+            "There was no real rivalry except in people's minds.",
+            "Therefore even in summer baptism by immersion could be continued.",
+            "Imperfects both, one middle and the other passive, graphically picturing the long procession of pilgrims who came to John confessing their sins and receiving baptism at his hands."
+        ],
+        "John Gill": [
+            "And where that was, is as difficult to know as the other...",
+            "He chose this place, because there was much water there; or 'many waters'; not little purling streams, and rivulets; but, as Nonnus renders it, abundance of water...",
+            "It may be understood of the people coming both to John and Christ, and of their being baptized by them; though it seems rather to be said of John..."
+        ],
+        "John Wesley": [
+            "John also was baptizing \u2014 He did not repel them that offered, but he more willingly referred them to Jesus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 3:23, it is mentioned that John was baptizing in \u00c6non near Salim, a location west of the Jordan. This \u00c6non is likely related to the Hebrew word for eye or spring, possibly referring to a number of pools or springs. One reason for choosing this place may have been the abundance of water, which was important for performing the baptism. The imperfects used in describing John's baptism process vividly illustrate the long line of people who came to confess their sins and receive baptism. While some debate the exact location of \u00c6non and whether the water there implies immersion, these details do not detract from the significance of John's ministry and his willingness to refer those who came to be baptized to Jesus.",
+            "wordCount": 126,
+            "quoteTokenProportion": 37.65,
+            "qualityScore": 1.9649720039765501,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                22.16,
+                41.31,
+                36.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John was baptizing in \u00c6non near Salim, likely a place with numerous pools or springs. The use of imperfects emphasizes the continuous flow of people seeking baptism. The choice of \u00c6non may have been due to its abundance of water, allowing baptism by immersion even in the summer. While there is debate about the exact location and mode of baptism, these details don't diminish John's ministry or his willingness to direct people to Jesus.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8986523738778307,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                21.47,
+                37.76,
+                40.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John was baptizing in \u00c6non near Salim, which was a place west of the Jordan known for its many waters. The imperfect verbs used in the passage vividly portray the long procession of pilgrims who came to John confessing their sins and receiving baptism. The choice of \u00c6non may have been due to its abundance of water, allowing baptism by immersion even in the summer. While there is debate about the exact location and mode of baptism, these details don't overshadow the significance of John's ministry or his willingness to direct people to Jesus.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.9599955972214276,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                19.79,
+                41.33,
+                38.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John was baptizing in \u00c6non near Salim, a place distinguished by its many waters. The procession of pilgrims who came to John, confessing their sins and receiving baptism, is vividly captured by the use of imperfect verbs. The choice of \u00c6non, with its abundance of water, made it possible for baptism by immersion even in the summer. Though there is some debate about the exact location and mode of baptism, it is clear that John's ministry played a significant role in directing people to Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9743358463897436,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.99,
+            "commentatorTierSimilarities": [
+                19.66,
+                41.02,
+                39.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In \u00c6non near Salim, John was baptizing. The presence of many waters in \u00c6non suggests it was a place with an abundance of water, allowing for immersion baptism even in the summer. The use of imperfect verbs emphasizes the continuous flow of people coming to John to confess their sins and be baptized. While uncertainties exist over \u00c6non's precise location or the mode of baptism, these details do not diminish the significance of John's ministry or his willingness to direct people to Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9793440025202211,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                19.73,
+                38.61,
+                41.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:10:16",
+    "verseRef": "John 11:17",
+    "bestBHT": {
+        "bht": "Upon receiving news of Lazarus' illness, Jesus intentionally waited two days before beginning his journey. This suggests that Lazarus must have died on the day the message was delivered and adhered to Jewish burial customs by being buried on the same day. Jesus' deliberate delay contributed to Lazarus being in the tomb for a complete four days when Jesus finally arrived in Bethany. This precise time frame emphasizes the finality and irreversible nature of Lazarus' death.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.2803033693391175,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+        "commentatorTierSimilarities": [
+            40.78,
+            32.53,
+            26.69
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Jesus remained two days after the receipt of the message.",
+            "Lazarus must have died on the day of the messenger\u2019s being sent, and have been buried that evening.",
+            "according to Jewish custom: see ver. 39, and Acts v. 6\u201310."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If he died on the day the tidings came of his illness\u2014and was, according to the Jewish custom, buried the same day...and if Jesus, after two days' further stay in Perea, set out on the day following for Bethany, some ten hours' journey, that would make out the four days; the first and last being incomplete.\" ",
+            "If he died on the day the tidings came of his illness\u2014and was, according to the Jewish custom, buried the same day...and if Jesus, after two days' further stay in Perea, set out on the day following for Bethany, some ten hours' journey, that would make out the four days.\" ",
+            "the first and last being incomplete."
+        ],
+        "Albert Barnes": [
+            "In the grave - It was sometimes the custom to embalm the dead.\" ",
+            "He was probably buried soon after death."
+        ],
+        "Marvin Vincent": [
+            "Had lain in the grave four days already [\u03c4\u03b5\u03c3\u03c3\u03b1\u03c1\u03b1\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2 \u03b7\u03b4\u03b7 \u03b5\u03c7\u03bf\u03bd\u03c4\u03b1 \u03b5\u03bd \u03c4\u03c9 \u03bc\u03bd\u03b7\u03bc\u03b5\u03b9\u03c9] . Literally, found him having already four days in the tomb."
+        ],
+        "Philip Schaff": [
+            "The situation of the Perean Bethany is so uncertain that we are unable to give a certain explanation of these four days.",
+            "Even if Bethany in Perea be placed at a somewhat greater distance from Jerusalem, this explanation removes all difficulties.",
+            "Jesus reaches the village where the sisters lived on the fourth day of their mourning, when the lapse of time had brought home to them the hopelessness of their case."
+        ],
+        "Archibald T. Robertson": [
+            "That he had been in the tomb four days already.",
+            "Literally, 'him (accusative object of \u03b5\u03c5\u03c1\u03b5\u03bd) having already four days in the tomb.",
+            "In Jewish custom burial took place on the day of death."
+        ],
+        "John Gill": [
+            "It looks as if it was not far from Lazarus's grave.",
+            "For he found he had lain in the grave four days already.",
+            "After Christ had this account, he stayed two days where he was, and on the third day, he proposed to his disciples to go into Judea."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After receiving news of Lazarus' illness, Jesus deliberately delayed his journey by two days. It is likely that Lazarus died on the same day the message was sent and was buried according to Jewish custom, which involved burying the dead on the same day. By the time Jesus arrived in Bethany, Lazarus had already been in the tomb for four days. This detail is significant as it emphasizes the complete and irreversible state of his death. Despite the uncertainty surrounding the exact location of Bethany in Perea, the explanation provided removes any difficulties in understanding the timespan. The passage also highlights the sisters' growing sense of hopelessness as the fourth day of mourning approached.",
+            "wordCount": 114,
+            "quoteTokenProportion": 32.05,
+            "qualityScore": 2.0570495909814532,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+            "commentatorTierSimilarities": [
+                37.69,
+                35.75,
+                26.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After receiving news of Lazarus' illness, Jesus intentionally delayed his journey by two days, leading to the tomb already containing Lazarus for four days when he arrived in Bethany. This specific timeframe emphasizes the irreversible nature of Lazarus' death. The custom of burying the dead on the same day of their demise aligns with Lazarus being buried soon after he died. The delay in Jesus' arrival brought home to Lazarus' sisters the hopelessness of their situation, amplifying their despair.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1486449829552026,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.78,
+            "commentatorTierSimilarities": [
+                38.39,
+                37.92,
+                23.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon hearing news of Lazarus' illness, Jesus purposefully remained two days before setting out for Bethany. This deliberate delay aligns with Lazarus being buried according to Jewish custom on the day of his death. As a result, by the time Jesus arrived in Bethany, Lazarus had already been in the tomb for four days. This timespan underscores the complete and irreversible nature of Lazarus' death. Furthermore, the passage highlights the growing sense of hopelessness experienced by Lazarus' sisters as the fourth day of mourning approached.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.2225643616499973,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.24,
+            "commentatorTierSimilarities": [
+                40.11,
+                33.71,
+                26.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After receiving news of Lazarus' illness, Jesus deliberately delayed his journey by two days. It is likely that Lazarus died on the same day the message was sent, and was buried according to Jewish custom, which involved burying the dead on the same day. By the time Jesus arrived in Bethany, Lazarus had already been in the tomb for four days. This detail is significant as it emphasizes the complete and irreversible state of his death.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.2150196137458735,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                39.8,
+                32.57,
+                27.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon receiving news of Lazarus' illness, Jesus intentionally waited two days before beginning his journey. This suggests that Lazarus must have died on the day the message was delivered and adhered to Jewish burial customs by being buried on the same day. Jesus' deliberate delay contributed to Lazarus being in the tomb for a complete four days when Jesus finally arrived in Bethany. This precise time frame emphasizes the finality and irreversible nature of Lazarus' death.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.2803033693391175,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+            "commentatorTierSimilarities": [
+                40.78,
+                32.53,
+                26.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

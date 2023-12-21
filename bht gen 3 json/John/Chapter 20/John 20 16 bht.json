@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:15:14",
+    "verseRef": "John 20:16",
+    "bestBHT": {
+        "bht": "With one word, her name, the Lord awakens all her consciousness of His presence. Mary pours out her joy in this one word, Rabboni, the former name by which Jesus called her. Jesus knows Mary personally, calling her by name and manifesting Himself. His word carries divine power, turning her heart towards Him even from the most excellent creatures. This personal knowledge of Christ, His invitation to Himself, represents a secret and wonderful change on the human understanding, when God enlightens us by His Spirit and renders us clear-sighted.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.1508016365300806,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+        "commentatorTierSimilarities": [
+            29.89,
+            31.57,
+            38.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "With one word, and that one word her name, the Lord awakens all the consciousness of His presence.\" ",
+            "That she gives way to no impassioned exclamations, but pours out her satisfaction and joy in this one word, is also according to the deepest psychological truth.\" ",
+            "'It was the former name, with which He called her: His former appellation, in which she replied; and now she seeks to renew the former intercourse.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is the oft-repeated name, uttered, no doubt, with all the wonted manner, and bringing a rush of unutterable and overpowering associations with it.",
+            "That single word of transported recognition was not enough for woman's full heart.",
+            "Not knowing the change which had passed upon Him, she hastens to express by her action what words failed to clothe; but she is checked."
+        ],
+        "Albert Barnes": [
+            "Jesus saith unto her, Mary - This was spoken, doubtless, in a tone of voice that at once recalled him to her recollection.",
+            "Rabboni - This is a Hebrew word denoting, literally, my great master. It was one of the titles given to Jewish teachers. This title was given under three forms.",
+            "This title, among the Jews, was only given to seven persons, all persons of great eminence. As given by Mary to the Saviour, it was at once an expression of her joy, and an acknowledgment of him as her Lord and Master."
+        ],
+        "Marvin Vincent": [
+            "Saith unto Him, Rabboni. Insert, as Rev., after Him, in Hebrew."
+        ],
+        "John Calvin": [
+            "That Christ allowed Mary, a short time, to fall into a mistake, was useful for confirming her faith; but now, by a single word, he corrects her mistake.",
+            "The only way in which we are admitted to the true knowledge of Christ is, when he first knows us, and then familiarly invites us to himself.",
+            "This is a secret and wonderful change effected on the human understanding, when God, enlightening her by his Spirit, renders her clear-sighted, who formerly was slow of apprehension, and, indeed, altogether blind."
+        ],
+        "Philip Schaff": [
+            "The very mark, indeed, of the relation between Jesus and His people, when that relation is conceived of in its most tender form, is that \u2018He calleth His own sheep by name\u2019.",
+            "She recalls not merely what was most human but what was most Divine in Him.",
+            "The title thus used by Mary is probably the provincial form Rabban or Rabbi, and it is found in the New Testament only here, and in the Gospel of Mark (chap. Mark 10:51), noted, as is well known, for its use of expressions from the common tongue."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly the old familiar tone of Jesus was in the pronunciation of her name.",
+            "Rabboni (\u03a1\u03b1\u03b2\u03b2\u03bf\u03c5\u03bd\u03b5). Aramaic again for \u0394\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03b5 (Teacher), 'my Teacher.'",
+            "These two simple words tell the great fact that Christ is risen and Mary has seen him. One says little in really great moments."
+        ],
+        "John Gill": [
+            "Christ has personal knowledge of all his people, and can call them by name; he knows them, and makes himself known to them before they can know him.",
+            "When Christ is pleased to manifest himself to his people, there goes a power along with his word, making himself known.",
+            "A word from Christ, attended with divine power, will give a soul a turn to him from the most excellent creatures, even angels."
+        ],
+        "John Wesley": [
+            "Jesus saith to her, Mary \u2014 With his usual voice and accent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With one word, her name, the Lord awakens all her consciousness of His presence. Mary pours out her joy and satisfaction in this one word, Rabboni, the former name by which Jesus called her. It is the oft-repeated name, uttered with all the usual manner, and bringing a rush of unutterable associations with it. Jesus knows Mary personally, calling her by name and manifesting Himself to her. His word carries divine power, turning her heart towards Him even from the most excellent creatures.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.089344188159642,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+            "commentatorTierSimilarities": [
+                33.97,
+                31.06,
+                34.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With one word, her name, the Lord awakens all her consciousness of His presence. Mary pours out her joy and satisfaction in this one word, Rabboni, the former name by which Jesus called her. It is the oft-repeated name, uttered with all the usual manner, and bringing a rush of unutterable associations with it. Jesus knows Mary personally, calling her by name and manifesting Himself. His word carries divine power, turning her heart towards Him even from the most excellent creatures.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.080427638002395,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                33.79,
+                31.23,
+                34.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With one word, her name, the Lord awakens all her consciousness of His presence. Mary pours out her joy in this one word, Rabboni, the former name by which Jesus called her. Jesus knows Mary personally, calling her by name and manifesting Himself. His word carries divine power, turning her heart towards Him even from the most excellent creatures. This personal knowledge of Christ, His invitation to Himself, represents a secret and wonderful change on the human understanding, when God enlightens us by His Spirit and renders us clear-sighted.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1508016365300806,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+            "commentatorTierSimilarities": [
+                29.89,
+                31.57,
+                38.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With one word, her name, the Lord awakens all her consciousness of His presence. Mary pours out her joy in this one word, Rabboni, the former name by which Jesus called her. Jesus knows Mary personally, calling her by name and manifesting Himself. His word carries divine power, turning her heart towards Him even from the most excellent creatures. This personal knowledge of Christ represents a secret and wonderful change on the human understanding when God enlightens us by His Spirit.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.135344176372901,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                29.94,
+                31.75,
+                38.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With one word, her name, the Lord awakens all her consciousness of His presence. Mary pours out her joy in this one word, Rabboni, the former name by which Jesus called her. Jesus knows Mary personally, calling her by name and manifesting Himself. This personal knowledge of Christ represents a secret and wonderful change on the human understanding when God enlightens us by His Spirit. His word carries divine power, turning her heart towards Him even from the most excellent creatures.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.135344176372901,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                29.94,
+                31.75,
+                38.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:04:03",
+    "verseRef": "John 1:24",
+    "bestBHT": {
+        "bht": "John 1:24 reveals a question posed by the Pharisees, the strictest sect of religion among the Jews. This inquiry about baptism may have been driven by their role as guardians of religious worship and their commitment to upholding traditional practices. While not indicating hostility, they sought clarification and evidence of Divine authority from John, a respected figure. However, John's response may not have sufficed, as the Pharisees required indisputable proof before accepting any changes to their firmly rooted customs and traditions.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.5708035358166708,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.57,
+        "commentatorTierSimilarities": [
+            28.8,
+            34.81,
+            36.39
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason of this explanation being added is not very clear.",
+            "Might it not be to throw light on their question about baptizing, as the Pharisees were the most precise about all ceremonies, lustrations, &c.?",
+            "Thus the explanation will refer to the nature of the following question."
+        ],
+        "Albert Barnes": [
+            "Were of the Pharisees.",
+            "For an account of this sect, see the notes at Matthew 3:7.",
+            "This circumstance is one of those incidental and delicate allusions which would occur to no impostor."
+        ],
+        "John Calvin": [
+            "He says that they were Pharisees, who at that time held the highest rank in the Church... men clothed with authority.\" ",
+            "Ordinary ministers would have been satisfied with any kind of answer; but those men... accuse him of rashness for venturing to introduce a new religious observance.\" ",
+            "They raise a question about his baptism... because they cannot draw from John what they desired."
+        ],
+        "Philip Schaff": [
+            "The Pharisees considered themselves the guardians of the ordinances of religious worship amongst their countrymen.",
+            "That question does not necessarily indicate a hostile bearing towards him.",
+            "During the earlier part of the life of Jesus do the Pharisees in general appear to have opposed the Saviour in the same manner as the 'Jews'."
+        ],
+        "Archibald T. Robertson": [
+            "They had been sent (\u03b1\u03c0\u03b5\u03c3\u03c4\u03b1\u03bb\u03bc\u03b5\u03bd\u03bf \u03b7\u03c3\u03b1\u03bd). Periphrastic past perfect passive of \u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03bb\u03c9.",
+            "From the Pharisees (\u03b5\u03ba \u03c4\u03c9\u03bd \u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03b9\u03c9\u03bd). As the source (\u03b5\u03ba) of the committee of Sadducees (verse John 1:19). "
+        ],
+        "John Gill": [
+            "Who were the straitest sect of religion among the Jews",
+            "were very zealous of the traditions of the elders",
+            "famous in the nation for their knowledge and learning"
+        ],
+        "John Wesley": [
+            "They who were sent were of the Pharisees \u2014 Who were peculiarly tenacious of old customs, and jealous of any innovation.",
+            "except those brought in by their own scribes)",
+            "unless the innovator had unquestionable proofs of Divine authority."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John 1:24 introduces a question posed by the Pharisees, the strictest sect of religion among the Jews. It is not entirely clear why this explanation is added, but it is possible that it is meant to shed light on their inquiry about baptism. The Pharisees, being meticulous about ceremonies and lustrations, may have wanted to know the nature of John's baptism. Their question does not necessarily indicate hostility, but rather a desire for more information, especially from John, who was seen as an authoritative figure. However, John's response may not have satisfied them, as they were deeply rooted in their traditions and required undeniable evidence of Divine authority for any changes to occur.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.548786488806127,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.84,
+            "commentatorTierSimilarities": [
+                35.04,
+                31.72,
+                33.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John 1:24 presents a question posed by the Pharisees, the strictest sect of religion among the Jews. Their inquiry about baptism may have been motivated by their role as guardians of religious worship and their adherence to traditional customs. While not necessarily hostile, they sought clarification and evidence of Divine authority from John, who was seen as an authoritative figure. However, John's response may not have satisfied them, as they required unquestionable proof before embracing any changes to their established practices.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4916813241458065,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+            "commentatorTierSimilarities": [
+                28.63,
+                32.22,
+                39.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John 1:24 reveals a question posed by the Pharisees, the strictest sect of religion among the Jews. This inquiry about baptism may have been driven by their role as guardians of religious worship and their commitment to upholding traditional practices. While not indicating hostility, they sought clarification and evidence of Divine authority from John, a respected figure. However, John's response may not have sufficed, as the Pharisees required indisputable proof before accepting any changes to their firmly rooted customs and traditions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5708035358166708,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.57,
+            "commentatorTierSimilarities": [
+                28.8,
+                34.81,
+                36.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John 1:24 introduces a question from the Pharisees, the religious sect known for their strict adherence to customs and traditions. They inquired about John's baptism, seeking clarity and confirming Divine authority. While their question did not necessarily imply hostility, they were wary of any new religious observance without unquestionable proof. As guardians of religious practices, the Pharisees were particular about ceremonies and traditions, making them cautious and keen on upholding established rituals unless solid evidence of legitimacy was presented.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5597287636585935,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.2,
+            "commentatorTierSimilarities": [
+                28.46,
+                31.76,
+                39.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John 1:24 unveils a query posed by the Pharisees, characterized as meticulous preservers of religious customs and traditions. Their question pertains to John's baptism, reflecting their desire to comprehend its nature and validate Divine authority. Although their inquiry may not connote enmity, the Pharisees diligently safeguarded established rituals and exhibited caution towards novel religious practices lacking undeniable evidence. Their commitment to upholding tradition prompted them to approach John with scrutiny, expecting him to substantiate any deviations from the customary practices they held dear.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.5238145736565332,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "commentatorTierSimilarities": [
+                30.08,
+                32.41,
+                37.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

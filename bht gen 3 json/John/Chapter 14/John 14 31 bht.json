@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:13:01",
+    "verseRef": "John 14:31",
+    "bestBHT": {
+        "bht": "But Jesus willingly offered himself in obedience to the Father, revealing his great love and submission. He boldly set out to face the impending suffering and death that awaited him. The world and its ruler had no hold on him, as he stood firm in his holiness and the fulfillment of the Father's will. Through his surrender, the world would come to know that Jesus loved the Father and obeyed his command to give his life as a ransom for many. Let us arise and walk steadfastly in faith, for Christ has paved the way. (61 words)",
+        "wordCount": 97,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.8858863294449004,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+        "commentatorTierSimilarities": [
+            27.3,
+            34.31,
+            38.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'But My Death is an act of voluntary obedience, that it may be known that I love and obey the Father\u2014that the glory of the Father in and by Me may be manifested.'\" (21 words)",
+            "Arise, let us go hence...the holy boldness of the Lord in going to meet that which was to come upon Him.\" (19 words)",
+            "These words imply a movement from the table to depart...the preparations for departure would be made.\" (18 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But to the Prince of the world, though he has nothing in Me, I shall yield Myself up even unto death, that the world may know that I love and obey the Father, whose commandment it is that I give My life a ransom for many.",
+            "Arise, let us go hence... a spontaneous and irrepressible expression of the deep eagerness of His spirit to get into the conflict.",
+            "This little outburst of the Lamb hastening to the slaughter, in the very midst of His lofty discourse."
+        ],
+        "Albert Barnes": [
+            "He passed through the severest forms of temptation, that it might be seen and known that his holiness was proof to all trial.\" ",
+            "So should we bear trials and resist temptation; and so, through persecution and calamity, should we show that we are actuated by the love of God.",
+            "Jesus, with a little band, was himself about to die, and he went forth in the stillness of the night, counseling his little company in regard to their duties and dangers, and invoking the protection and blessing of God his Father to attend, to sanctify, and guide them."
+        ],
+        "Marvin Vincent": [
+            "Arise, let us go hence, that the world may know that I love the Father, and that even as the Father commanded me so I do.",
+            "I surrender myself to suffering and death that the world may know, etc.",
+            "The similitude was not drawn from any external object, but was suggested by the familiar Old Testament symbolism of the vineyard and the vine."
+        ],
+        "John Calvin": [
+            "What chiefly deserves our attention is, that the decree of God is here placed in the highest rank; that we may not suppose that Christ was dragged to death by the violence of Satan, in such a manner that anything happened contrary to the purpose of God.",
+            "Christ, therefore, does not resist Satan, in order that he may obey the decree of his Father, and may thus offer his obedience as the ransom of our righteousness.",
+            "Christ intended to exhort the disciples to render the same obedience to God, of which they beheld in him so illustrious an example."
+        ],
+        "Philip Schaff": [
+            "The true interpretation seems to be that there is an absolute barrier between the 'prince of this world' and Jesus. Neither in the Person (in whom is no sin) nor in the work of the Redeemer has he any interest; there is absolutely no point of connection (the expression of the original is strong) between him and these.",
+            "He comes,' and the 'world' ruled by Him comes, to see that He whom they have rejected is the 'consecrated One' of God, the 'Sent' of God, the Fulfiller of the Father's will. But they come to see this only when it is too late;...when out of their own mouth they shall be condemned.",
+            "It is only necessary to add that, while this shall be the fate of this 'world' and of its 'prince,' the possibility of the individual's passing from the power of the world into the blessed region of faith in Jesus is always presupposed."
+        ],
+        "Archibald T. Robertson": [
+            "But I surrendered myself to death,\" etc., before \u03b9\u03bd\u03b1.",
+            "Arise, let us go hence (\u03b5\u03b3\u03b5\u03b9\u03c1\u03b5\u03c3\u03b8\u03b5, \u03b1\u03b3\u03c9\u03bc\u03b5\u03bd \u03b5\u03bd\u03c4\u03b5\u03c5\u03b8\u03b5\u03bd).",
+            "Apparently the group arose and walked out into the night and the rest of the talk (chs. 15 and 16) and prayer (ch. 17) was in the shadows on the way to Gethsemane."
+        ],
+        "John Gill": [
+            "Christ must needs love the Father, as being of the same nature and essence with him, and as standing in the relation of a son to him; he loved all that the Father loves, and approved of all his purposes, counsels, and determinations, concerning himself and the salvation of his people; and therefore he voluntarily laid down his life for them.",
+            "As a son is obedient to a father, so was Christ in all things obedient to the commands of his heavenly Father, in preaching the Gospel, obeying the law, and suffering death; all which he did and suffered, as the Father gave commandment to him, as man and Mediator.",
+            "And that it might fully appear how much he loved his Father, and agreed with him in all his designs of grace; how much his will was resigned to his, and what respect he paid to whatever he said or ordered; he said to his disciples, arise, let us go hence."
+        ],
+        "John Wesley": [
+            "But I suffer him thus to assault me, because it is the Father's commission to me.\" ",
+            "To convince the world of my love to the Father, in being obedient unto death.",
+            "Arise, let us go hence \u2014 Into the city, to the passover."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But Jesus willingly offered himself in obedience to the Father, revealing his great love and submission. He boldly set out to face the impending suffering and death that awaited him, even amidst his profound discourse. The world and its ruler had no hold on him, as he stood firm in his holiness and the fulfillment of the Father's will. Through his surrender, the world would come to know that Jesus loved the Father and obeyed his command to give his life as a ransom for many. With these words, Jesus urged his disciples to follow his example of obedience and love for God. So let us arise and walk steadfastly in the path of faith, for Christ has paved the way for us. (71 words)",
+            "wordCount": 125,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9208925291989218,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                26.22,
+                34.03,
+                39.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But Jesus willingly offered himself in obedience to the Father, revealing his great love and submission. He boldly set out to face the impending suffering and death that awaited him. The world and its ruler had no hold on him, as he stood firm in his holiness and the fulfillment of the Father's will. Through his surrender, the world would come to know that Jesus loved the Father and obeyed his command to give his life as a ransom for many. Let us arise and walk steadfastly in faith, for Christ has paved the way. (61 words)",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8858863294449004,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                27.3,
+                34.31,
+                38.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus willingly and obediently offered himself to the Father, demonstrating his love and devotion. With a boldness that cannot be extinguished, he embraced the impending challenges and hardships that awaited him. The world and its ruler had no power over him, for he remained steadfast in his holiness and commitment to fulfill the Father's will. Through his sacrificial act, the world would witness his love for the Father and his obedience in laying down his life as a ransom for many. Let us follow Jesus's example and embark on our faith journeys with courage and resolve. (86 words)",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7945327196646295,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.01,
+            "commentatorTierSimilarities": [
+                25.68,
+                35.41,
+                38.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus willingly obeyed the Father, showing His love and faithfulness as He faced the imminent suffering and death. The world and its ruler had no power over Him due to His perfect holiness and intimate connection with the Father. Through His self-surrender, the world would come to know that Jesus loved and obeyed the Father. Let us arise, following His example, and walk in the path of faith. Christ has paved the way, and we can trust in His guidance and protection. (77 words)",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.7728210445551684,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                24.03,
+                37.52,
+                38.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus willingly obeyed the Father to demonstrate His love and obedience, showing that He was unswayed by the world or its ruler. As He prepared to face suffering and death, He urged His disciples to follow His example of obedience to God. By surrendering Himself, the world would witness Jesus' love for the Father and His willingness to give His life as a ransom. Let us arise and walk in faith, for Christ has shown us the way. (68 words)",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.8661732509027864,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                25.01,
+                33.66,
+                41.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

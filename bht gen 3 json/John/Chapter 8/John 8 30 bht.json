@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:08:49",
+    "verseRef": "John 8:30",
+    "bestBHT": {
+        "bht": "Many believed on Him with a higher degree of faith than those who witnessed miracles, but they still desired further confirmation. The words spoken by Jesus were of such grandeur that they captivated some who heard them, radiating a divine benignity from His countenance. These new believers came to believe in Him, at least nominally, as the truths presented by Jesus were convincing and had a profound impact on their hearts. However, Jesus tested the faith of these Pharisees-turned-believers, revealing the twofold effect of His teaching: while some became obstinate, others became penitent and believing.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.3,
+        "qualityScore": 2.203552802363868,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+        "commentatorTierSimilarities": [
+            35.09,
+            34.77,
+            30.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They believed on Him with a higher degree of faith than those in ch. ii, 23, inasmuch as faith wrought by hearing is higher than that by miracles...\" ",
+            "...but still wanted confirming.",
+            "Faith wrought by hearing is higher than that by miracles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The wonder would be if words of such unearthly, surpassing grandeur could be uttered without captivating some that heard them.",
+            "Just as 'all that sat in the council' to try Stephen 'saw his face'\u2014though expecting nothing but death\u2014'as it had been the face of an angel,' so may we suppose that, full of the sweet supporting sense of His Father's presence, amidst the rage and scorn of the rulers, a divine benignity beamed from His countenance.",
+            "...a divine benignity beamed from His countenance, irradiated the words that fell from Him, and won over the candid 'many' of His audience."
+        ],
+        "Albert Barnes": [
+            "Such was the convincing nature and force of the truths which he presented, that they believed he was the Messiah and received his doctrine.",
+            "While there were many that became more obstinate and hardened under his preaching, there were many, also, who by the same truth were made penitent and believing.",
+            "The same sun that hardens the clay, softens the wax."
+        ],
+        "Marvin Vincent": [
+            "Believed on [\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03ba\u03bf\u03c4\u03b1\u03c2 \u03b1\u03c5\u03c4\u03c9] . See on 1 12, and compare believed Him, ver. 31."
+        ],
+        "John Calvin": [
+            "Though the Jews, at that time, almost resembled a dry and barren soil, yet God did not permit the seed of his word to be entirely lost.",
+            "Thus, contrary to all hopes, and amidst so many obstructions, some fruit appears.",
+            "He affirms nothing higher concerning them than that they were disposed to receive the doctrine of Christ, to which also the preceding warning refers."
+        ],
+        "Philip Schaff": [
+            "As he spake these things, many believed in him.",
+            "Probably therefore these believers mainly belonged to the general body of the hearers, and not (in any large proportion) to 'the Jews.'",
+            "Once more then we have an illustration of that twofold effect of our Lord\u2019s teaching which John so frequently portrays."
+        ],
+        "Archibald T. Robertson": [
+            "Many believed on him (\u03c0\u03bf\u03bb\u03bb\u03bf \u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03b1\u03bd \u03b5\u03b9\u03c2 \u03b1\u03c5\u03c4\u03bf\u03bd). Ingressive aorist active indicative, came to believe, nominally at any rate, as in John 2:23.",
+            "But the tension was keen and Jesus proceeded to test the faith of these new believers from among the Pharisees."
+        ],
+        "John Gill": [
+            "Concerning his being lifted up, or his crucifixion, and the knowledge the Jews should then have of him; of the excellency and divinity of his doctrine, of his mission from the Father, and of the Father's presence with him, and of his always doing the things that are pleasing in his sight; which were spoken by him with majesty and authority, and came with power.",
+            "Many believed on him: as the Son of God, and true Messiah: faith came by hearing; Christ's hearers were of different sorts; some understood him not, and disbelieved, and rejected him; others had their eyes, and their hearts opened, and received him, and his words."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many believed on Him with a higher degree of faith than those who witnessed miracles, but they still desired further confirmation. The words spoken by Jesus were of such grandeur that they captivated some who heard them, radiating a divine benignity from His countenance. These new believers came to believe in Him, at least nominally, as the truths presented by Jesus were convincing and had a profound impact on their hearts. However, Jesus tested the faith of these Pharisees-turned-believers, revealing the twofold effect of His teaching: while some became obstinate, others became penitent and believing. God did not allow His Word to be completely lost among the Jews, producing unexpected fruit. These believers were disposed to receive the doctrine of Christ, recognizing Him as the Son of God and true Messiah.",
+            "wordCount": 133,
+            "quoteTokenProportion": 41.05,
+            "qualityScore": 2.096882706864555,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+            "commentatorTierSimilarities": [
+                30.85,
+                33.25,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many believed on Him with a higher degree of faith than those who witnessed miracles, but they still desired further confirmation. The words spoken by Jesus were of such grandeur that they captivated some who heard them, radiating a divine benignity from His countenance. These new believers came to believe in Him, at least nominally, as the truths presented by Jesus were convincing and had a profound impact on their hearts. However, Jesus tested the faith of these Pharisees-turned-believers, revealing the twofold effect of His teaching: while some became obstinate, others became penitent and believing.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 2.203552802363868,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                35.09,
+                34.77,
+                30.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many believed on Him with a higher degree of faith than those who witnessed miracles, but they still desired further confirmation. The words spoken by Jesus were of such grandeur that they captivated some who heard them, radiating a divine benignity from His countenance. These new believers came to believe in Him, at least nominally, as the truths presented by Jesus were convincing and had a profound impact on their hearts. However, Jesus tested the faith of these Pharisees-turned-believers, revealing the twofold effect of His teaching: while some became obstinate, others became penitent and believing.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 2.203552802363868,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                35.09,
+                34.77,
+                30.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many believed on Him with a higher degree of faith than those who witnessed miracles, but they still desired further confirmation. The words spoken by Jesus were of such grandeur that they captivated some who heard them. These new believers came to believe in Him as the truths presented by Jesus were convincing and had a profound impact on their hearts. However, Jesus tested the faith of these Pharisees-turned-believers, revealing the twofold effect of His teaching: while some became obstinate, others became penitent and believing.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.147047756735652,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                34.0,
+                35.79,
+                30.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many believed on Him with a higher degree of faith than those who witnessed miracles, but they still desired further confirmation. The words spoken by Jesus were of such grandeur that they captivated some who heard them, radiating a divine benignity from His countenance. These new believers came to believe in Him as the truths presented by Jesus were convincing and had a profound impact on their hearts. However, Jesus tested the faith of these Pharisees-turned-believers, revealing the twofold effect of His teaching: while some became obstinate, others became penitent and believing.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 2.185122093326173,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.0,
+            "commentatorTierSimilarities": [
+                35.14,
+                34.79,
+                30.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

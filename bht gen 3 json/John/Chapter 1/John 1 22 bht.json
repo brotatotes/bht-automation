@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-21-2023 03:03:46",
+    "verseRef": "John 1:22",
+    "bestBHT": {
+        "bht": "He is no one\u2014a voice merely, whose testimony to Christ is everything. The question, Who art thou? is asked to the formalist ever in the church, who cares only about the external appearance of someone who appears. The Baptist, having disowned the suppositions made about him, is now urged to state who he truly is. They desire a positive account of his identity, so that their labor in seeking him might not be in vain and that they can represent him accurately to those who sent them.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4559846662175593,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+        "commentatorTierSimilarities": [
+            34.63,
+            31.47,
+            33.9
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is no one\u2014a voice merely: it is the work of God, the testimony to Christ, which is everything.",
+            "So the formalist ever in the church asks concerning anyone who appears, Who is he?",
+            "The witness for Christ only exalts, only cares for Christ's work."
+        ],
+        "Philip Schaff": [
+            "The Baptist has disowned the three suppositions that have been made.",
+            "He is not \u2018the Christ,\u2019 not \u2018Elijah,\u2019 not \u2018the prophet.\u2019",
+            "The deputation now appeal directly to himself to state who he is."
+        ],
+        "Archibald T. Robertson": [
+            "Who art thou? (\u03a4\u03b9\u03c2 \u03b5\u03b9;). Same question as at first (verse John 1:19), but briefer.",
+            "That we give answer (\u03b9\u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c1\u03b9\u03c3\u03b9\u03bd \u03b4\u03c9\u03bc\u03b5\u03bd). Final use of \u03b9\u03bd\u03b1 with second aorist active subjunctive of \u03b4\u03b9\u03b4\u03c9\u03bc with \u03b1\u03c0\u03bf\u03ba\u03c1\u03b9\u03c3\u03b9\u03bd from \u03b1\u03c0\u03bf\u03ba\u03c1\u03b9\u03bd\u03bf\u03bc\u03b1, above, old substantive as in Luke 2:47.",
+            "What sayest thou of thyself? (\u03a4 \u03bb\u03b5\u03b3\u03b5\u03b9\u03c2 \u03c0\u03b5\u03c1 \u03c3\u03b5\u03b1\u03c5\u03c4\u03bf\u03c5;). This time they opened wide the door without giving any hint at all."
+        ],
+        "John Gill": [
+            "Since, as yet, he had only answered in negatives, who he was not, that he was not the Christ, nor Elias, nor that prophet; they desire he would give them a positive account who he was.\" ",
+            "That their labour might not be in vain; that they might not come so far for nothing, without knowing who he was.",
+            "That from his own mouth, and not from the opinion and conjectures of others, they might represent him in a true light to those who had deputed them on this errand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He is no one\u2014a voice merely, whose testimony to Christ is everything. The question, Who art thou? is asked to the formalist ever in the church, who cares only about the external appearance of someone who appears. The Baptist, having disowned the suppositions made about him, is now urged to state who he truly is. They desire a positive account of his identity, so that their labor in seeking him might not be in vain and that they can represent him accurately to those who sent them.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4559846662175593,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+            "commentatorTierSimilarities": [
+                34.63,
+                31.47,
+                33.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He is no one\u2014a voice merely, whose testimony to Christ is everything. The question, Who art thou? is asked to the formalist ever in the church, who cares only about the external appearance of someone who appears. The Baptist, having disowned the suppositions made about him, is urged to state who he truly is. They desire a positive account of his identity, so that their labor in seeking him might not be in vain and that they can represent him accurately.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.4656922281393017,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.08,
+            "commentatorTierSimilarities": [
+                35.05,
+                31.06,
+                33.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He is no one\u2014a voice merely, whose testimony to Christ is everything. They ask, Who art thou? to know the truth about his identity. The Baptist disowns the suppositions made about him and is urged to state who he truly is. They desire a positive account of his identity, so that their labor seeking him isn't in vain.",
+            "wordCount": 60,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.3589918765582392,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.53,
+            "commentatorTierSimilarities": [
+                30.93,
+                31.43,
+                37.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He is no one\u2014a voice merely, whose testimony to Christ is everything. The formalist in the church asks, Who art thou? to determine one's identity. The Baptist, having denied being the Christ, Elijah, or the prophet, is pressed to reveal his true self. They seek a positive account of who he is, so their efforts in finding him are not futile. This way, they can represent him truthfully to those who sent them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.3507247077506637,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.25,
+            "commentatorTierSimilarities": [
+                30.45,
+                33.15,
+                36.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He is no one\u2014a voice merely, whose testimony to Christ is everything. The formalist in the church asks, Who art thou? to determine one's identity. The Baptist, having disowned the suppositions made about him, is urged to state who he truly is. They desire a positive account of his identity, so that their labor in seeking him might not be in vain, and they can represent him accurately to those who sent them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.4152235909438513,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.4,
+            "commentatorTierSimilarities": [
+                31.8,
+                33.84,
+                34.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:10:44",
+    "verseRef": "John 11:52",
+    "bestBHT": {
+        "bht": "The scope of God's children extends beyond any particular nation, as Christ's sacrifice was meant to gather all people into a united whole. This inclusive concept follows Jesus' words about the other sheep and the one flock, highlighting the potential of His death to bring together all potential children of God from all lands and ages. It is a profound and expansive idea, showcasing the reconciliation and inclusion that Christ's sacrifice offers to both Jews and Gentiles.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.055886374575018,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+        "commentatorTierSimilarities": [
+            24.44,
+            38.8,
+            36.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the children of God] are those who are called by the same name in ch. i. 12\" ",
+            "the \u201cordained to eternal life\u201d of Acts xiii. 48\" ",
+            "among all nations; compare ch. x. 16."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "52. and not for that nation only,",
+            "\t&amp;c.\u2014These are the Evangelist's words, not Caiaphas'."
+        ],
+        "Albert Barnes": [
+            "Should gather together in one - All his chosen among the Jews and Gentiles.",
+            "The children of God - This is spoken not of those who were then Christians, but of all whom God should bring to him.",
+            "All who would be, in the mercy of God, called, chosen, sanctified among all nations."
+        ],
+        "Marvin Vincent": [
+            "The Jews were no longer a people, only one of the nations of the world.",
+            "He wishes to set the Gentiles over against the Jews, and this distinction was national.",
+            "The work of Christ was not to be for any people as specially chosen of God, but for all nations."
+        ],
+        "John Calvin": [
+            "The reconciliation effected by Christ is also extended to the Gentiles.",
+            "God had in his breast children, who in themselves were wandering and lost sheep, or rather who were the farthest possible from being sheep, but, on the contrary, were wolves and wild beasts.",
+            "It is therefore by election that he reckons as the children of God, even before they are called, those who at length begin to be manifested by faith."
+        ],
+        "Archibald T. Robertson": [
+            "The explanation and interpretation of John here follow the lead of the words of Jesus about the other sheep and the one flock in John 10:16.",
+            "The meaning here is not the Diaspora (Jews scattered over the world), but the potential children of God in all lands and all ages that the death of Christ will gather 'into one' (\u03b5\u03b9\u03c2 \u03b5\u03bd).",
+            "A glorious idea, but far beyond Caiaphas."
+        ],
+        "John Gill": [
+            "For though Christ, as prophet, was sent to the Jews only, and was the minister of the circumcision, yet as a priest he did not die for them only, but for the Gentiles also.\" ",
+            "[Christ died for] the elect of God among the Gentiles, called 'the children of God', in opposition to a notion of the Jews, who took this character to themselves, on account of their national adoption, and denied it to the Gentiles.",
+            "Christ died for them, in order to bring them nigh to God, to the one true and living God; and to gather them together under one head, himself, their common head; by whom they were represented in his crucifixion, burial, and resurrection."
+        ],
+        "John Wesley": [
+            "But that, he might gather into one \u2014 Church, all the children of God that were scattered abroad - Through all ages and nations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through this verse, the commentary emphasizes that the children of God are not limited to a specific nation, but rather include all individuals who are called by His name. The death of Christ was not solely for the Jews, but for all nations, bringing together God's chosen people from various backgrounds and circumstances. This idea follows Jesus' words about the other sheep and the one flock, illustrating the potential of the death of Christ to gather all potential children of God from all lands and ages into one unified whole. It is a profound and expansive concept, far beyond the limited perspective of Caiaphas, showcasing the reconciliation and inclusion that Christ's sacrifice offers to both Jews and Gentiles.",
+            "wordCount": 120,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 2.185821128607836,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.02,
+            "commentatorTierSimilarities": [
+                26.24,
+                38.48,
+                35.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scope of God's children extends beyond any particular nation, as Christ's sacrifice was meant to gather all people into a united whole. This inclusive concept follows Jesus' words about the other sheep and the one flock, highlighting the potential of His death to bring together all potential children of God from all lands and ages. It is a profound and expansive idea, showcasing the reconciliation and inclusion that Christ's sacrifice offers to both Jews and Gentiles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.055886374575018,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+            "commentatorTierSimilarities": [
+                24.44,
+                38.8,
+                36.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The death of Christ was not only for a specific nation, but for all nations, gathering all the potential children of God into one. This idea follows Jesus' words about the other sheep and the one flock, bringing together God's chosen people from different backgrounds and circumstances. It is a magnificent concept, far beyond the limited perspective of Caiaphas, illustrating the reconciliation and inclusion that Christ's sacrifice offers to both Jews and Gentiles. This verse reminds us that the scope of God's children expands beyond borders, encompassing all who are called by His name.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.1271148266548887,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.07,
+            "commentatorTierSimilarities": [
+                24.86,
+                39.96,
+                35.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, we are reminded that the work of Christ extends beyond any specific people or nation. The death of Christ was intended for all nations, gathering potential children of God from different lands and ages into one unified whole. This inclusivity goes against the limited perspective of Caiaphas and highlights the reconciliation and inclusion that Christ's sacrifice offers to both Jews and Gentiles. It demonstrates the expansive and profound concept of God's children, going far beyond any national adoption.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9058076952538614,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                26.41,
+                35.03,
+                38.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The meaning behind this verse is that the work of Christ was not exclusive to a single nation or people. Instead, it was meant for all nations, bringing together the potential children of God from various lands and ages into one unified whole. This inclusive concept reflects the words of Jesus about the other sheep and the one flock, highlighting the reconciling and inclusive nature of Christ's sacrifice for both Jews and Gentiles. The verse expands our understanding of God's children and challenges a limited perspective of national adoption.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.0000903866726603,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                28.11,
+                35.61,
+                36.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

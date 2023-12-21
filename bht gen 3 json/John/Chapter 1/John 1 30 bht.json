@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:03:38",
+    "verseRef": "John 1:30",
+    "bestBHT": {
+        "bht": "John the Baptist in his testimony affirms that Jesus is the one on behalf of whom he came, declaring, This is he, there he is. By acknowledging that Jesus is the man who comes after him, John recognizes Christ's superior nature and divine origin, emphasizing that he himself is simply a herald sent to prepare the way for the Messiah. This proclamation highlights the eternal majesty and dignity of Jesus, surpassing any human comparison.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.4676655907918783,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+        "commentatorTierSimilarities": [
+            4.48,
+            55.07,
+            40.44
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "30.] See on ver. 15."
+        ],
+        "John Calvin": [
+            "He comprehends every thing in a few words, when he declares that Christ is the person who, he said, was to be preferred to him; for hence it follows that John is nothing more than a herald sent on his account; and hence again it is evident that Christ is the Messiah.",
+            "When he says that a man cometh after him, he means that he himself was before him in the order of time, to prepare the way for Christ.",
+            "At last, the reason is added, which is, that Christ is far superior in dignity to John the Baptist. That honor, therefore, which the Father bestowed upon him was not accidental, but was due to his eternal majesty."
+        ],
+        "Philip Schaff": [
+            "The words refer to testimony given by the Baptist to Jesus at some point of time and on some occasion not recorded.",
+            "Here, as there, the words refer to testimony given by the Baptist to Jesus.",
+            "The words refer to testimony given by the Baptist to Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "On behalf of whom.",
+            "This is he.",
+            "There he is."
+        ],
+        "John Gill": [
+            "This is he, of whom it is said... after me cometh a man; not a mere man, but the man God's fellow.",
+            "After me cometh a man; not a mere man, but the man God's fellow.",
+            "For the sense of this phrase, and what follows, see Gill 'Joh 1:15'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist declares that Jesus is the one on behalf of whom he came to bear witness, saying, This is he. By affirming that Jesus is the man who comes after him, John acknowledges Christ's superiority and divine nature. John understands that he is just a herald sent to prepare the way for the Messiah. This testimony highlights the eternal majesty and dignity of Jesus, who is far beyond any human comparison.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4038802658170748,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                5.36,
+                52.65,
+                41.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist in his testimony affirms that Jesus is the one on behalf of whom he came, declaring, This is he, there he is. By acknowledging that Jesus is the man who comes after him, John recognizes Christ's superior nature and divine origin, emphasizing that he himself is simply a herald sent to prepare the way for the Messiah. This proclamation highlights the eternal majesty and dignity of Jesus, surpassing any human comparison.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4676655907918783,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                4.48,
+                55.07,
+                40.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist testifies that Jesus is the one he came on behalf of, saying, This is he. By affirming that Jesus is the man who comes after him, John acknowledges Christ's superiority and divine nature. He understands that he is just a herald sent to prepare the way for the Messiah. This testimony highlights the eternal majesty and dignity of Jesus, who is far beyond any human comparison.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.3986281286037803,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+            "commentatorTierSimilarities": [
+                6.08,
+                52.47,
+                41.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist testifies that Jesus is the one he came on behalf of, declaring, This is he. By acknowledging that Jesus is the man who comes after him, John recognizes Christ's superiority and divine origin. This testimony reveals John's role as a herald sent to prepare the way for the Messiah. It underscores the eternal majesty and dignity of Jesus, surpassing all human comparisons.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.32241383070746,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.31,
+            "commentatorTierSimilarities": [
+                2.72,
+                55.96,
+                41.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist declares that Jesus is the one on behalf of whom he came, stating, This is he. By affirming that Jesus is the man who comes after him, John acknowledges Christ's superiority and divine nature. John understands that he is just a herald sent to prepare the way for the Messiah. This testimony highlights the eternal majesty and dignity of Jesus, surpassing any human comparison.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.4026952156039734,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.98,
+            "commentatorTierSimilarities": [
+                5.3,
+                52.85,
+                41.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

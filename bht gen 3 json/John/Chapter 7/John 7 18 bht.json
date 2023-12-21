@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:07:57",
+    "verseRef": "John 7:18",
+    "bestBHT": {
+        "bht": "When it comes to teaching, there are two types: those who seek their own glory and those who seek the glory of God. The first type, self-taught and driven by self-exaltation, is prone to unrighteousness and deceit. In contrast, the teachers who seek to glorify God are true and free from unrighteousness. They humbly fulfill their role as ambassadors of God and aim to exalt Him. Discerning true teaching involves looking for those who prioritize glorifying God and promoting His truth, as they are the ones who are faithful in their teaching.",
+        "wordCount": 94,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.8899163910289616,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.18,
+        "commentatorTierSimilarities": [
+            26.46,
+            37.89,
+            35.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "both are seeking one aim\u2014the glory of God",
+            "self-exaltation and self-seeking necessarily accompany the unaided teaching of man, but that all true teaching is from God",
+            "human infirmity, purity of motive is no sure guarantee for correctness of doctrine"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18. seeketh his own glory\u2014(See",
+            "\ton John 5:41)."
+        ],
+        "Albert Barnes": [
+            "He that speaks by his own authority, without being sent by God, as mere human teachers do.",
+            "In his retiring, unobtrusive disposition; in his not seeking the applause of people.",
+            "In his teaching such doctrines as tended to exalt God and humble man."
+        ],
+        "Marvin Vincent": [
+            "His own glory [\u03c4\u03b7\u03bd \u03b4\u03bf\u03be\u03b1\u03bd \u03c4\u03b7\u03bd \u03b9\u03b4\u03b9\u03b1\u03bd] . Literally, the glow which is His own; the second article throwing His own into sharp contrast with His that sent Him.",
+            "The same [\u03bf\u03c5\u03c4\u03bf\u03c2] . Notice the characteristic use of the pronoun taking up and emphasizing the principal subject of the sentence.",
+            "Unrighteousness [\u03b1\u03b4\u03b9\u03ba\u03b9\u03b1] . See on 2 Peter 2:13."
+        ],
+        "John Calvin": [
+            "For every thing that displays the glory of God is holy and divine; but every thing that contributes to the ambition of men, and, by exalting them, obscures the glory of God, not only has no claim to be believed, but ought to be vehemently rejected.",
+            "He who shall make the glory of God the object at which he aims will never go wrong; he who shall try and prove by this touchstone what is brought forward in the name of God will never be deceived by the semblance of right.",
+            "We are also reminded by it that no man can faithfully discharge the office of teacher in the Church unless he be void of ambition, and resolve to make it his sole object to promote, to the utmost of his power, the glory of God."
+        ],
+        "Philip Schaff": [
+            "He that speaketh from himself seeketh his own glory.",
+            "But he that seeketh the glory of him that sent him, the same is true, and there is no unrighteousness in him.",
+            "By Him the condition is completely fulfilled: of Him the freedom from unrighteousness is absolutely true."
+        ],
+        "Archibald T. Robertson": [
+            "This kind of teacher is self-taught, pushes his own ideas, presses his own claims for position and glory, \"blows his own horn\" as we say.",
+            "Jesus is the other type of teacher, seeks the glory of the one who sent him, whose herald and ambassador he is.",
+            "Old word from \u03b1\u03b4\u03b9\u03ba\u03bf\u03c2 (\u03b1 privative and \u03b4\u03b9\u03ba\u03b7). Here in contrast with 'true' (\u03b1\u03bb\u03b7\u03b8\u03b7\u03c2). See 2 Thessalonians 2:10; 1 Corinthians 13:6 for the deceit of unrighteousness in contrast with truth as here."
+        ],
+        "John Gill": [
+            "He that speaketh of himself...seeketh his own glory...",
+            "but he that seeketh his glory that sent him...the same is true...",
+            "and no unrighteousness is in him..."
+        ],
+        "John Wesley": [
+            "There is no unrighteousness in him \u2014 No deceit or falsehood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it comes to teaching and sharing doctrine, there are two types of teachers. The first type seeks their own glory, pushing their own ideas and personal agenda. They are self-taught and motivated by self-exaltation. These teachers are prone to unrighteousness and deceit. On the other hand, there are teachers like Jesus, who actively seek the glory of God who sent them. They are true and free from any unrighteousness. Their aim is not self-promotion, but rather to exalt God and humbly fulfill their role as His ambassadors. In discerning true teaching, we must look for those who have the motive of glorifying God and promoting His truth, for only they are faithful and trustworthy in their teaching.",
+            "wordCount": 121,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.7080042590581708,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                27.11,
+                37.42,
+                35.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When it comes to teaching, there are two types of teachers. The first seeks their own glory, pushing personal ideas and claiming positions. These teachers are self-taught and prone to unrighteousness. On the other hand, teachers like Jesus seek the glory of God, remaining true and free from deceit. They aim to exalt God and humbly fulfill their role as His ambassadors. To discern true teaching, look for those who glorify God and promote His truth, for only they are faithful in their teaching.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7769237217922704,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+            "commentatorTierSimilarities": [
+                28.61,
+                38.52,
+                32.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When it comes to teaching, there are two types: those who seek their own glory and those who seek the glory of God. The first type, self-taught and driven by self-exaltation, is prone to unrighteousness and deceit. In contrast, the teachers who seek to glorify God are true and free from unrighteousness. They humbly fulfill their role as ambassadors of God and aim to exalt Him. Discerning true teaching involves looking for those who prioritize glorifying God and promoting His truth, as they are the ones who are faithful in their teaching.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8899163910289616,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.18,
+            "commentatorTierSimilarities": [
+                26.46,
+                37.89,
+                35.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There are two types of teachers when it comes to sharing doctrine. The first type seeks their own glory, pushing personal ideas and self-exaltation. They are self-taught and prone to unrighteousness. On the other hand, teachers like Jesus seek the glory of God, remaining true and free from deceit. They aim to exalt God and humbly fulfill their role as His ambassadors. To discern true teaching, look for those who glorify God and promote His truth, for only they are faithful in their teaching.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7781943931942235,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                27.72,
+                37.95,
+                34.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some teachers seek their own glory, pushing their own ideas and self-exaltation, while others, like Jesus, seek the glory of God who sent them. The former are self-taught and prone to unrighteousness and deceit, whereas the latter are true and free from unrighteousness. These teachers prioritize glorifying God and humbly fulfill their role as ambassadors for Him. When discerning true teaching, look for those whose motives are to exalt God and promote His truth, as they are the faithful and trustworthy teachers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.8200526731169862,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                27.93,
+                37.79,
+                34.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

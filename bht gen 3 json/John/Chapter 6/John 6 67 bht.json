@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:07:35",
+    "verseRef": "John 6:67",
+    "bestBHT": {
+        "bht": "Seeking comfort in the faith and attachment of his chosen ones, Jesus asks, Will ye also go away? He expects a negative answer, wanting to confirm their faith and discourage them from joining the apostates. Judas and restlessness among the other apostles may have influenced this question. While Jesus shows no concern for those who turn away, he turns to his beloved apostles with tenderness and expresses his pain and uneasiness at the thought of their departure.",
+        "wordCount": 77,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.9737929485192942,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+        "commentatorTierSimilarities": [
+            32.61,
+            27.35,
+            40.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The question is asked in order to extract from them the confession which follows, and thus to bind them closer to Himself.",
+            "We must not forget likewise, in the mystery of our Lord\u2019s human nature, that at such a moment of desertion, He would seek comfort in the faith and attachment of His chosen ones.",
+            "He would seek comfort in the faith and attachment of His chosen ones."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Will ye also go away?\u2014Affecting appeal!",
+            "Evidently Christ felt the desertion of Him even by those miserable men who could not abide His statements.",
+            "He would nip it in the bud by this home question."
+        ],
+        "Albert Barnes": [
+            "Will you, whom I have chosen, on whom I have bestowed the apostleship, and who have seen the evidence of my Messiahship, will you now also leave me?",
+            "This was the time to try them; and it is always a time to try real Christians when many professed disciples become cold and turn back; and then we may suppose Jesus addressing us, and saying, Will ye also go away!",
+            "Observe here, it was submitted to their choice. God compels none to remain with him against their will..."
+        ],
+        "Marvin Vincent": [
+            "The twelve. John assumes that the number is known. It is implied in the twelve baskets of fragments.\" ",
+            "Will ye also go away? [\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b8\u03b5\u03bb\u03b5\u03c4\u03b5 \u03c5\u03c0\u03b1\u03b3\u03b5\u03b9\u03bd] . The interrogative particle mh shows that a negative answer is expected. Surely ye will not.",
+            "Will ye go is not the future tense of the verb to go, but is expressed by two words, do ye will [\u03b8\u03b5\u03bb\u03b5\u03c4\u03b5], to go away [\u03c5\u03c0\u03b1\u03b3\u03b5\u03b9\u03bd]."
+        ],
+        "John Calvin": [
+            "Christ directs his discourse to them, and shows that there is no reason why they should allow themselves to be hurried away by the lightness and unsteadiness of others.\" ",
+            "He does so in order to confirm their faith; for, by exhibiting to them himself, that they may remain with him, he likewise exhorts them not to become the companions of apostates.\" ",
+            "We ought also to observe this circumstance, that Christ, when deprived of nearly all his disciples, retains the twelve only... By such examples, every one of the believers is taught to follow God, even though he should have no companion."
+        ],
+        "Philip Schaff": [
+            "In contrast with the desertion of many is the strengthened faith of those who, being of the light, are attracted by the light.",
+            "The 'Twelve' are here mentioned by John for the first time."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus puts it with the negative answer (\u03bc\u03b7) expected.\" ",
+            "Judas must have shown some sympathy with the disappointed and disappearing crowds.",
+            "There was possibly restlessness on the part of the other apostles."
+        ],
+        "John Gill": [
+            "Christ takes no notice of those that went away from him, he showed no concern about them; he knew what they were, that the truth of grace was not in them, and that they did not belong to him.",
+            "But turns himself to his apostles, whom he dearly loved, and in a very tender manner thus said to them, will ye also go away?",
+            "And it is as if he should have said, as for these men that have walked with me for some time, and have now turned their backs upon me, it gives me no concern; but should you, my dear friends and companions, go also, it would give me, as man, real pain and great uneasiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this moment of desertion, Jesus seeks comfort in the faith and attachment of his chosen ones. He asks them, Will ye also go away? with the expectation of a negative answer. Judas, possibly showing sympathy with the disappointed crowds, and restlessness among the other apostles, must have played a role in this question. Jesus addresses his chosen ones, wanting to confirm their faith and encourage them not to become companions of apostates. While he shows no concern for those who turn away, he turns to his beloved apostles with tenderness and expresses his pain and uneasiness at the thought of their departure.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.7788704551845071,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.49,
+            "commentatorTierSimilarities": [
+                34.29,
+                24.23,
+                41.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of desertion, Jesus seeks solace in the faith and attachment of his chosen disciples, posing the poignant question, Will ye also go away? He expects a negative answer, reflecting his desire to nip their potential departure in the bud. Despite the abandonment by others, Jesus turns to his beloved apostles, urging them not to align with the apostates and reassuring them of his pain and unease at the thought of their departure.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9423480613659305,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                33.33,
+                25.45,
+                41.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this moment of desertion, Jesus seeks comfort in the faith and attachment of his chosen ones. He asks them, Will ye also go away? with the expectation of a negative answer. Judas, possibly showing sympathy with the disappointed crowds, and restlessness among the other apostles, must have played a role in this question. Jesus addresses his chosen ones, wanting to confirm their faith and encourage them not to become companions of apostates. While he shows no concern for those who turn away, he turns to his beloved apostles with tenderness and expresses his pain and uneasiness at the thought of their departure.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.7788704551845071,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.49,
+            "commentatorTierSimilarities": [
+                34.29,
+                24.23,
+                41.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Seeking comfort in the faith and attachment of his chosen ones, Jesus asks, Will ye also go away? He expects a negative answer, wanting to confirm their faith and discourage them from joining the apostates. Judas and restlessness among the other apostles may have influenced this question. While Jesus shows no concern for those who turn away, he turns to his beloved apostles with tenderness and expresses his pain and uneasiness at the thought of their departure.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9737929485192942,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                32.61,
+                27.35,
+                40.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, feeling the desertion even by his followers, seeks comfort in the faith and attachment of his chosen ones. He asks, Will ye also go away? Expecting a negative answer, Jesus wants to nip the potential desertion in the bud. This poignant appeal is directed towards his beloved apostles, reminding them of their special role and relationship with him. He reassures them of his deep concern and uneasiness at the thought of their departure, distinguishing them from the crowds who turned away.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7471362092919025,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "commentatorTierSimilarities": [
+                36.36,
+                22.05,
+                41.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

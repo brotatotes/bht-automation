@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:08:11",
+    "verseRef": "John 7:49",
+    "bestBHT": {
+        "bht": "The contemptuous words expressed towards the followers of Jesus signify a passionate expression of contempt and do not serve as a formal ban. The term people refers to the ignorant rabble, lacking knowledge of the law, and considered cursed. The religious leaders, holding themselves in high regard due to their supposed wisdom, looked down upon the common people. Ironically, it was among these despised individuals that Jesus found favor, confronting the arrogance and exclusivity of the religious elite.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1439987603290547,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+        "commentatorTierSimilarities": [
+            29.31,
+            34.68,
+            36.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "49.] There is no intention to pronounce a formal ban upon the followers of Jesus;\u2014the words are merely a passionate expression of contempt."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But this people\u2014literally, 'multitude,' meaning the ignorant rabble.",
+            "knoweth not the law\u2014that is, by school learning, which only subverted it by human traditions.",
+            "are cursed\u2014a cursed set (a kind of swearing at them, out of mingled rage and scorn)."
+        ],
+        "Albert Barnes": [
+            "The word here translated 'people' is the one commonly rendered 'the multitude.' It is a word expressive of contempt, or, as we would say, the rabble.",
+            "It may here be remarked that Christianity is the only system of religion ever presented to man that in a proper manner regards the poor, the ignorant, and the needy.",
+            "Are cursed - Are execrable; are of no account; are worthy only of contempt and perdition."
+        ],
+        "Marvin Vincent": [
+            "This people [\u03bf \u03bf\u03c7\u03bb\u03bf\u03c2 \u03bf\u03c5\u03c4\u03bf\u03c2] . Better, multitude, as contrasted with the orthodox Jews.",
+            "Cursed. As specimens of Rabbinical utterances concerning this class may be cited the expressions vermin, people of the earth, and the saying, 'the ignorant is impious; only the learned shall have part in the resurrection.'",
+            "Even more abusive and abominable is this: 'He shall not take a daughter of the people of the earth because they are an abomination, and their wives are an abomination, and concerning their daughters it is said, Deuteronomy 27:21'!"
+        ],
+        "John Calvin": [
+            "They thought that there was no holiness but in their own rank.",
+            "To throw down such madness of pride, God prefers the mean and despised to those who hold the highest authority and power.",
+            "This knowledge is not confined to a few who, swelled with false confidence, wish to exclude themselves from the rank of other men, but belongs in common to all the children of God."
+        ],
+        "Archibald T. Robertson": [
+            "No brutish man is sin-fearing, nor is one of the people of the earth pious.",
+            "No wonder the common people heard Jesus gladly.",
+            "The rabbis scouted and scorned them."
+        ],
+        "John Gill": [
+            "The common people, the dregs of them, the refuse of the earth; and whom they call 'the people of the earth', in distinction from the wise men.",
+            "The people of the earth were not reckoned holy or religious, but generally profane and wicked; that they were abandoned to sin, rejected of God, and to be cast off by men.",
+            "Thus we see in what contempt the common people were with the learned doctors, and what an opinion these men had of the followers of Christ; though, in truth, they were not so ignorant of the law as themselves."
+        ],
+        "John Wesley": [
+            "But this populace, who know not the law \u2014 This ignorant rabble; are accursed - Are by that ignorance exposed to the curse of being thus seduced."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words in John 7:49 are not meant to formally condemn the followers of Jesus, but rather are an expression of contempt towards them. The term people refers to the ignorant rabble, those who lack formal education in the law and are therefore seen as cursed and unworthy. The religious leaders viewed these common people with disdain and held themselves in high regard due to their supposed knowledge of the law. However, it is interesting to note that Jesus found favor among this same group, who were often scorned and scorned themselves. It is through these common people that God chose to reveal His truth, challenging the prideful notions of the religious elite.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 2.1101029750501055,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.5,
+            "commentatorTierSimilarities": [
+                28.12,
+                34.68,
+                37.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The followers of Jesus were not officially condemned in John 7:49, but rather the words uttered were expressions of passionate contempt towards them. The term people signifies the ignorant rabble who lacked formal education in the law and were therefore regarded as cursed. The religious leaders held themselves in high regard due to their supposed knowledge of the law, but it is interesting to note that Jesus found favor among the common people who were often scorned. Through these common people, God challenged the prideful notions of the religious elite.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1015726392377547,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+            "commentatorTierSimilarities": [
+                28.52,
+                33.96,
+                37.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The passionate expression of contempt towards the followers of Jesus in John 7:49 does not amount to a formal ban on them. The term people refers to the ignorant rabble who lacked knowledge of the law and were considered cursed. The religious leaders held themselves in high esteem due to their perceived wisdom, but it is noteworthy that Jesus was warmly received by these common people. God chose to reveal His truth through those considered lowly, challenging the prideful attitudes of the religious elites.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.052250118008839,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                28.82,
+                34.62,
+                36.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The contemptuous words directed towards the followers of Jesus in this verse are not intended to constitute a formal ban; instead, they reflect the disdainful view of the ignorant masses held by the religious leaders. These common people were considered cursed for their lack of education in the law, with derogatory names and oppressive judgments heaped upon them. However, it is worth noting that Jesus found favor among these despised individuals, challenging the pride and exclusivity of the religious elite.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.037823010748187,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                28.83,
+                31.73,
+                39.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The contemptuous words expressed towards the followers of Jesus signify a passionate expression of contempt and do not serve as a formal ban. The term people refers to the ignorant rabble, lacking knowledge of the law, and considered cursed. The religious leaders, holding themselves in high regard due to their supposed wisdom, looked down upon the common people. Ironically, it was among these despised individuals that Jesus found favor, confronting the arrogance and exclusivity of the religious elite.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1439987603290547,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                29.31,
+                34.68,
+                36.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

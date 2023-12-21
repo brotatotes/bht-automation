@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:06:43",
+    "verseRef": "John 5:44",
+    "bestBHT": {
+        "bht": "The Jews' failure to believe in the unity of God, as revealed by Moses, and their preference for seeking human honor over the glory that comes from God prevented them from truly believing in Christ and receiving the Gospel. Their pursuit of earthly glory was incompatible with genuine faith, hindering them from pleasing God. By exalting the law and Moses, they missed the truth. Only by redirecting their focus from the world to God can one be prepared to receive the Gospel message and enter into true faith.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.116561641130114,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+        "commentatorTierSimilarities": [
+            27.85,
+            37.66,
+            34.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words 'the only God' are very important, because they form the point of passage to the next verses.",
+            "The Jews are accused of not believing the writings of Moses, the very pith and kernel of which was the unity of God, and the having no other gods but Him.",
+            "The consequence of the carnal regards in which they lived...the idolatry of the natural heart, which is ever setting up for itself other sources of honour."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'will not' of John 5:40, and 'cannot' here are just different features of the same awful state of the human heart."
+        ],
+        "Albert Barnes": [
+            "A man cannot believe the gospel while he is wholly under the influence of ambition. The two are not compatible.\" ",
+            "Great numbers are deterred from being Christians by pride and ambition. Probably there is no single thing that prevents so really young men from becoming Christians as this passion.\" ",
+            "Seek not the honour - The praise, the glory, the approbation of God. The honor which comes from men is their praise, flattery, commendation; the honor that comes from God is his approbation for doing his will."
+        ],
+        "Marvin Vincent": [
+            "Ye believe. Again the emphatic ye, the reason for the emphasis being given in the succeeding clause.",
+            "Which receive [\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03bd\u03c4\u03b5\u03c2] . Literally, receiving (as ye do) : seeing that ye receive.",
+            "And the glory that cometh from the only God ye seek not."
+        ],
+        "John Calvin": [
+            "The gate of faith is shut against all whose hearts are preoccupied by a vain desire of earthly glory.",
+            "He who in reality presents himself before God as his Judge, must, of necessity, fall down humbled and dismayed, and finding nothing in himself on which he can place reliance.",
+            "There is no other way in which men can be prepared for receiving the doctrine of the Gospel, than by withdrawing all their senses from the world, and turning them to God alone."
+        ],
+        "Philip Schaff": [
+            "Such love of honour from men is altogether inconsistent with the \u2018believing\u2019 of which our Lord speaks. Where there is self-seeking there can be no true faith.",
+            "They who thus sought glory from men sought not glory from \u2018the only God.\u2019",
+            "But with such aims it was impossible to please Him, and thus they missed the recompense which comes from \u2018the only God,\u2019 who is the \u2018only\u2019 dispenser of true glory."
+        ],
+        "Archibald T. Robertson": [
+            "They were not true Jews who cared for the glory of God, but they prefer the praise of men.",
+            "They were not true Jews who cared for the glory of God, but they prefer the praise of men like the Pharisees who feared to confess Christ.",
+            "From the only God."
+        ],
+        "John Gill": [
+            "How can ye believe, which receive honour one of another?",
+            "All this was a hinderance to them from believing in Christ.",
+            "Seek not the honour that cometh from God only."
+        ],
+        "John Wesley": [
+            "While ye receive honour \u2014 That is, while ye seek the praise of men rather than the praise of God.",
+            "At the feast of pentecost, kept in commemoration of the giving the law from Mount Sinai, their sermons used to be full of the praises of the law, and of the people to whom it was given.",
+            "How mortifying then must the following words of our Lord be to them, while they were thus exulting in Moses and his law!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the Jews' failure to believe in the unity of God, as revealed through Moses. Their preference for seeking the praise of men rather than the glory that comes from the only God is indicative of their idolatrous hearts. Pride, ambition, and a desire for earthly glory hindered their ability to truly believe in Christ and please God. The pursuit of human honor proved to be incompatible with genuine faith and prevented them from receiving the Gospel. Their devotion to the law and their exaltation of Moses further blinded them to the truth. Only by turning their senses away from the world and focusing solely on God can one be prepared to receive the message of the Gospel.",
+            "wordCount": 120,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.167969758604772,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.43,
+            "commentatorTierSimilarities": [
+                28.75,
+                38.19,
+                33.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews' disbelief in the unity of God, as revealed by Moses, and their pursuit of human honor over the glory that comes from God prevented them from truly believing in Christ and receiving the Gospel. Their love of earthly glory was incompatible with genuine faith and hindered them from pleasing God. By exalting the law and Moses, they missed the truth. Only by redirecting their focus from the world to God can one be prepared to receive the Gospel message.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.0851782559891943,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.67,
+            "commentatorTierSimilarities": [
+                28.3,
+                36.67,
+                35.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews' failure to believe in the unity of God and their preference for seeking human honor hindered them from truly believing in Christ and receiving the Gospel. Their pursuit of earthly glory was incompatible with genuine faith, preventing them from pleasing God. By exalting the law and Moses, they missed the truth. Only by redirecting their focus from the world to God can one be prepared to receive the Gospel message.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.078545071016144,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                28.37,
+                36.82,
+                34.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews' disbelief in the unity of God, as revealed by Moses, hindered their ability to truly believe in Christ and receive the Gospel. Their desire for human honor over the glory that comes from God prevented them from pleasing Him. By exalting the law and Moses, they missed the truth. Redirecting their focus from the world to God is necessary to prepare oneself to receive the Gospel message.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.9983391629019773,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                28.64,
+                34.54,
+                36.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews' failure to believe in the unity of God, as revealed by Moses, and their preference for seeking human honor over the glory that comes from God prevented them from truly believing in Christ and receiving the Gospel. Their pursuit of earthly glory was incompatible with genuine faith, hindering them from pleasing God. By exalting the law and Moses, they missed the truth. Only by redirecting their focus from the world to God can one be prepared to receive the Gospel message and enter into true faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.116561641130114,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+            "commentatorTierSimilarities": [
+                27.85,
+                37.66,
+                34.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

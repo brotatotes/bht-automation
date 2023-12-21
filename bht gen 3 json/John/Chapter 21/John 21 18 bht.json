@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:15:48",
+    "verseRef": "John 21:18",
+    "bestBHT": {
+        "bht": "When young, Peter had the freedom to clothe himself and go where he desired, reflecting the vigor of his manhood. However, as he grows old, a more confined and arduous service awaits him. He will stretch forth his hands, possibly on a cross, signifying his helplessness and the sacrifice he will make. Another will gird him, leading him where he would not choose to go. This radical inversion of natural order represents Peter's unwavering commitment to God's will, even in the face of a disagreeable death.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.86097138771024,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+        "commentatorTierSimilarities": [
+            21.88,
+            43.49,
+            34.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When thou wast young...thou girdedst thyself...but hereafter there shall be a service for thee harder and more strictly confined.",
+            "Thou shalt stretch forth thy hands...in a more painful manner, on the transverse beam of the cross.",
+            "Another shall gird thee and carry thee whither thou wouldest not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When thou wast young\u2014embracing the whole period of life to the verge of old age.",
+            "Thou girdedst thyself, and walkedst whither thou wouldest\u2014wast thine own master.",
+            "When . . . old thou shalt stretch forth thine hands\u2014to be bound for execution, though not necessarily meaning on a cross."
+        ],
+        "Albert Barnes": [
+            "Thou being now young or in the vigor of life, hast just girded thyself and come freely to the shore.",
+            "Though he was not at liberty as when he was young, though bound by others, yet he freely stretched out his hands on the cross, and was ready to give up his life.",
+            "Though willing when compelled to do it, yet he would not seek it; and though he would not needlessly expose himself to it, yet he would not shrink from it when it was the will of God."
+        ],
+        "Marvin Vincent": [
+            "The word may have been suggested by Peter's girding his fisher's coat round him. The imperfect tense signifies something habitual. Thou wast wont to clothe thyself and to come and go at will.",
+            "Peculiarly appropriate to describe the free activity of vigorous manhood.",
+            "The allusion to the extending of the hands on the cross, which some interpreters have found here, is fanciful. It is merely an expression for the helplessness of age."
+        ],
+        "John Calvin": [
+            "The Lord spares many, and abstains from shedding their blood, satisfied with this alone, that they devote themselves to him sincerely and unreservedly as long as they live.",
+            "Old age appears to be set apart for tranquillity and repose; and, accordingly, old men are usually discharged from public employments, and soldiers are discharged from service. Peter might, therefore, have promised to himself at that age a peaceful life. Christ declares, on the other hand, that the order of nature will be inverted.",
+            "But this must be understood as referring to the contest between the flesh and the Spirit, which believers feel within themselves; for we never obey God in a manner so free and unrestrained as not to be drawn, as it were, by ropes, in an opposite direction, by the world and the flesh."
+        ],
+        "Philip Schaff": [
+            "He will be so truly a partaker of the sufferings of Christ as to find in this fellowship with his dying Lord the very ground and beginning of his apostolic activity.",
+            "Then he will \u2018stretch out his hands,\u2019 will assume the attitude of one who is giving himself up to another\u2019s guidance, and will resign himself entirely to the disposal of that \u2018other,\u2019 to whose will his own has been subdued.",
+            "Will guide him to fields of activity in which he shall joyfully submit himself to Him who immediately adds, \u2018Follow Me.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Thou girdest thyself ... So as to \u03c0\u03b5\u03c1\u03b9\u03b5\u03c0\u03b1\u03c4\u03b5\u03b9\u03c2 (walkedst) and \u03b7\u03b8\u03b5\u03bb\u03b5\u03c2 (wouldest), two other imperfects of customary action.",
+            "When thou shalt be old ... \"whenever thou growest old."
+        ],
+        "John Gill": [
+            "thou girdest thyself, and walkest whither thou wouldst; that is, he could put on his clothes himself, and gird them about him with a girdle... denoting the liberty of his will in things natural and civil.",
+            "thou shalt stretch forth thy hands, and another shall gird thee...to his carrying of his cross on his shoulders, with his hands stretched out and bound to the piece of wood which went across; though his being girded or bound may as well be thought to follow the former, as this.",
+            "and carry thee whither thou wouldst not; to a painful, cruel, shameful, and accursed death, the death of the cross; not that Peter in spirit would be unwilling to die for Christ, nor was he; but it signifies, that he should die a death disagreeable to the flesh."
+        ],
+        "John Wesley": [
+            "When thou art old \u2014 He lived about thirty-six years after this: another shall gird thee...\" ",
+            "...and shall carry thee - With the cross...",
+            "...whither thou wouldest not - According to nature; to the place where the cross was set up."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 21:18, Jesus tells Peter that when he was young, he was able to move freely and go wherever he wanted. But as he grows old, he will face a more difficult and restricted service. Peter's hands will be stretched out in a painful manner, most likely on a cross. Another will gird him and lead him where he would not want to go. This signifies the helplessness of old age and the submission to God's will. Even though Peter willingly embraces his future suffering, it will be a death that is disagreeable to the flesh. This inversion of the natural order highlights the deep sacrifice and commitment that Peter will display in his apostolic activity.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.7661304563279585,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                21.67,
+                42.73,
+                35.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When young, Peter had the freedom to clothe himself and go where he desired, reflecting the vigor of his manhood. However, as he grows old, a more confined and arduous service awaits him. He will stretch forth his hands, possibly on a cross, signifying his helplessness and the sacrifice he will make. Another will gird him, leading him where he would not choose to go. This radical inversion of natural order represents Peter's unwavering commitment to God's will, even in the face of a disagreeable death.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.86097138771024,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                21.88,
+                43.49,
+                34.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, Jesus speaks to Peter about the changes he will experience as he grows old. When Peter was young, he had the freedom to gird himself and travel wherever he wanted. However, in the future, Peter will face a more difficult and restricted service. His hands will be stretched out, possibly on a cross, indicating his helplessness and submission. Another will gird him, leading him where he would not choose to go. This inversion of the natural order shows Peter's deep sacrifice and commitment to following God's will.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.6944826564546647,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.68,
+            "commentatorTierSimilarities": [
+                20.7,
+                43.8,
+                35.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Peter enters old age, he will face a more challenging and restricted service. In his youth, he had the freedom to gird himself and go wherever he desired. However, the future holds a different path. His hands will be stretched out, possibly on a cross, demonstrating his helplessness and submission. Another will gird him and lead him where he would not choose to go. This inversion of the natural order reveals Peter's unwavering commitment and readiness to follow God's will, even in the face of a daunting death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.6693949756908757,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                19.4,
+                45.37,
+                35.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In old age, Peter's service will become more challenging and confined. The days of freedom to gird himself and go wherever he pleased will be over. Instead, his hands will be stretched out, possibly on a cross \u2013 a symbol of helplessness and suffering. Another will gird him, leading him down paths he would never willingly choose. This inversion of expectations showcases Peter's deep commitment to following God's will, even when it leads to a painful and undesired death.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.7710145693434765,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                23.48,
+                42.4,
+                34.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

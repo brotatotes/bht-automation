@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:10:05",
+    "verseRef": "John 10:41",
+    "bestBHT": {
+        "bht": "Though John did not fulfill their expectations by showing a sign or working miracles, many believed on Him based on the ministry of the Baptist. Even without performing miracles, all that John spoke of this man was true, and seeing Jesus only confirmed the divinity of John's mission. Thus, many believed on Him there, as Jesus ministered in a more congenial atmosphere than Jerusalem.",
+        "wordCount": 65,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 2.2327657129244973,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+        "commentatorTierSimilarities": [
+            35.7,
+            31.41,
+            32.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Though John did not fulfil their expectations by showing a sign or working miracles, yet he was a true prophet, and really, as he professed, the forerunner of this Person.",
+            "Many believed on Him.",
+            "The word John [...] expresses the honor paid by the people to the holy man whose memory still lived among them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Many resorted to him\u2014on whom the ministry of the Baptist had left permanent impressions.",
+            "John did no miracle, but all things John spake of this man were true\u2014what they now heard and saw in Jesus only confirming in their minds the divinity of His forerunner's mission, though unaccompanied by any of His Master's miracles.",
+            "And thus, 'many believed on Him there.'"
+        ],
+        "Albert Barnes": [
+            "No miracle - He did not confirm his mission by working miracles, but he showed that he was a prophet by foretelling the character and success of Jesus.",
+            "Either miracle or prophecy is conclusive proof of a divine mission, for no man can foretell a future event, or work a miracle, except by the special aid of God.",
+            "God takes the wise in their own craftiness, and brings glory to himself and salvation to sinners out of the pride, and passions, and rage of wicked men."
+        ],
+        "John Calvin": [
+            "This large assembly shows that Christ did not seek solitude, in order to cease from the discharge of his duty, but to erect a sanctuary of God in the wilderness.",
+            "Miracles, when united with doctrine, have no small weight.",
+            "There were two reasons which induced them to believe in Christ. On the one hand, they saw that the testimony which John had given to him was true; and, on the other hand, the miracles of Christ procured for him greater authority."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus was busy here and in a more congenial atmosphere than Jerusalem.",
+            "John wrought no signs the crowds recall, though Jesus did many here.",
+            "The crowds still bear the impress of John's witness to Christ as 'true'."
+        ],
+        "John Gill": [
+            "John did no miracle; though it was now three years ago, yet the name,",
+            "ministry, and baptism of John, were fresh in the memory of men in those parts.",
+            "If John, who did no miracle, who only taught and baptized, and directed",
+            "men to the Messiah, was justly reckoned a very great person, and his",
+            "doctrine was received, and his baptism was submitted to, then much more",
+            "should this illustrious person be attended to.",
+            "All things that John spake of this man, were true; as that he was greater than he, was the Lamb of God, yea, the Son of God, the Saviour of the world, and true Messiah, who should baptize men with the Holy Ghost and with fire."
+        ],
+        "John Wesley": [
+            "John did no miracle \u2014 An honour reserved for him, whose forerunner he was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though John did not fulfill their expectations by showing a sign or working miracles, yet he was a true prophet, and really, as he professed, the forerunner of this Person. Many believed on Him, as the ministry of the Baptist had left permanent impressions on them. Even though John did no miracle, all things John spoke of this man were true, and what they now heard and saw in Jesus only confirmed in their minds the divinity of His forerunner's mission. Thus, many believed on Him there, as Jesus was busy and ministering in a more congenial atmosphere than Jerusalem.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1191905180306794,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.8,
+            "commentatorTierSimilarities": [
+                39.04,
+                28.01,
+                32.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though John did not fulfill their expectations by showing a sign or working miracles, yet he was a true prophet, and really, as he professed, the forerunner of this Person. Many believed on Him, as the ministry of the Baptist had left permanent impressions on them. Even though John did no miracle, all things John spoke of this man were true, and what they now heard and saw in Jesus only confirmed in their minds the divinity of His forerunner's mission. Thus, many believed on Him there.",
+            "wordCount": 88,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 2.0110765749997634,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                42.58,
+                24.4,
+                33.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though John did not fulfill their expectations by showing a sign or working miracles, many believed on Him based on the ministry of the Baptist. Even without performing miracles, all that John spoke of this man was true, and seeing Jesus only confirmed the divinity of John's mission. Thus, many believed on Him there, as Jesus ministered in a more congenial atmosphere than Jerusalem.",
+            "wordCount": 65,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.2327657129244973,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                35.7,
+                31.41,
+                32.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though John did not fulfill their expectations by performing miracles, many believed on Him, influenced by the ministry of the Baptist. Even without signs, all that John spoke of this man was true, and the presence of Jesus confirmed the divinity of John's mission. As Jesus ministered in a more favorable environment than Jerusalem, many believed on Him there.",
+            "wordCount": 60,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.091447681711996,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.88,
+            "commentatorTierSimilarities": [
+                37.87,
+                29.11,
+                33.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite John not fulfilling their expectations of working miracles, many believed in Him based on the ministry of the Baptist. Although John did not perform miracles, everything he spoke about this man was true, and witnessing Jesus affirmed the divinity of John's mission. This led to the belief in Jesus as the Messiah, as He ministered in a more welcoming context compared to Jerusalem.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.1784842875147397,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.78,
+            "commentatorTierSimilarities": [
+                32.76,
+                33.46,
+                33.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:11:35",
+    "verseRef": "John 12:44",
+    "bestBHT": {
+        "bht": "Jesus, in a solemn cry, emphasized that those who believe in Him also believe in the Father who sent Him. This highlights the intimate connection between Jesus and the Father, underlining that faith in Christ is not solely based on mortal individuals but on God Himself. By rejecting Jesus, one is essentially rejecting the One who sent Him. This proclamation serves as a summary of Jesus' testimony, calling for unwavering faith in Him as it reflects trust in the truth and power of God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 2.13564230594806,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+        "commentatorTierSimilarities": [
+            25.89,
+            38.5,
+            35.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On the close connexion with the Father.",
+            "The words are in logical sequence to ver. 41.",
+            "The glory of Jehovah and His glory were the same."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus cried\u2014in a loud tone, and with peculiar solemnity.\" ",
+            "This seems to be a supplementary record of some weighty proclamations, for which there had been found no natural place before, and introduced here as a sort of summary and winding up of His whole testimony."
+        ],
+        "Albert Barnes": [
+            "Jesus saw their unbelief, and proceeded to state the consequence of believing on him, and of rejecting him and his message.",
+            "Believeth not on me - That is, not on me alone, or his faith does not terminate on me.",
+            "Jesus uniformly represents the union between himself and God as so intimate that there could not be faith in him unless there was also faith in God."
+        ],
+        "Marvin Vincent": [
+            "Believeth - on Him that sent Me [...] The phrase is constantly associated with our Lord.\" ",
+            "It contemplates the Father as the source of the special revelation of Christ.",
+            "Therefore is not absolutely an exception to the habitual usage."
+        ],
+        "John Calvin": [
+            "Faith in Christ does not rely on any mortal man, but on God; for it finds in Christ nothing but what is divine, or rather, it beholds God in his face.",
+            "It is foolish and unreasonable for faith to be wavering or doubtful; for it is impossible to offer a greater insult to God, than not to rely on his truth.",
+            "If, then, we would render to God the honor due to him, we must learn to remain firm in faith, not only though the world were shaken, but even though Satan should disturb and overturn all that is under heaven."
+        ],
+        "Philip Schaff": [
+            "He that believeth in me, believeth not in me, but in him that sent me.",
+            "No words could more strikingly express what Jesus had accomplished for those who received Him: He had led them to the Father, and through Jesus they are now believers in God.",
+            "In each relation He is Mediator between God and men."
+        ],
+        "Archibald T. Robertson": [
+            "Not on me only, but also on.\" ",
+            "The idea of Jesus here is a frequent one (believing on Jesus whom the Father has sent).\" ",
+            "Jesus had already said as in verse John 12:36."
+        ],
+        "John Gill": [
+            "He cried with a loud voice, that he might be heard, and his audience left inexcusable; it denotes the concern of his mind, the vehemence of his spirit, and that openness and freedom in which he discharged his ministry.",
+            "Those that truly believe in him, do not believe in him as a mere man, but as God, as the Son of God; and not as separate from, or to the exclusion of his Father.",
+            "He that despises Christ, despises him that sent him; and he that receives Christ, receives him that sent him; and he that believes on Christ, believes on him that sent him."
+        ],
+        "John Wesley": [
+            "This which follows to the end of the chapter, is with St. John the epilogue of our Lord's public discourses, and a kind of recapitulation of them.",
+            "Believeth not on me \u2014 Not on me alone, but also on him that sent me.",
+            "Because the Father hath sent the Son, and because he and the Father are one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus proclaimed with great solemnity that those who believe in Him, believe not just in Him alone, but also in the Father who sent Him. The phrase believing on Jesus whom the Father has sent is a frequent one and it emphasizes the intimate union between Jesus and the Father. Jesus' cry served as a summary of His whole testimony, making it clear that faith in Christ is not based on any mortal man, but on God Himself. This proclamation highlights the close connection between Jesus and the Father, affirming that to reject Jesus is to reject the One who sent Him.",
+            "wordCount": 102,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.270829821100345,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.85,
+            "commentatorTierSimilarities": [
+                28.95,
+                37.04,
+                34.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus proclaimed with solemnity that faith in Him extends beyond Himself alone, but also encompasses the belief in the Father who sent Him. This phrase of believing on Jesus whom the Father has sent highlights the intimate unity between Jesus and the Father. His cry serves as a summary of His entire testimony, emphasizing that true faith in Christ rests not on mortal individuals, but on God Himself. It is a powerful reminder that rejection of Jesus is, in fact, a rejection of the One who sent Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.1256448104172154,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+            "commentatorTierSimilarities": [
+                27.24,
+                36.28,
+                36.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in a solemn and loud cry, declared that those who believe in Him not only believe in Him alone, but also in the Father who sent Him. This proclamation emphasizes the deep connection and unity between Jesus and the Father. It serves as a summary of His entire testimony, underscoring that genuine faith in Christ is founded on God Himself and not on mere mortals. Rejecting Jesus is, essentially, rejecting the One who sent Him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.0532762656210917,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                27.84,
+                35.85,
+                36.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in a loud and solemn cry, declared that those who believe in Him are also believing in the Father who sent Him. This proclamation highlights the intimate connection between Jesus and the Father, emphasizing that faith in Christ is not based on mortal individuals but on God Himself. It serves as a summary of His entire testimony, reminding us that rejecting Jesus means rejecting the One who sent Him. This declaration underscores the significance of unwavering faith in Christ, as it ultimately reflects our trust in the truth and power of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0759207586944317,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+            "commentatorTierSimilarities": [
+                26.03,
+                37.07,
+                36.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in a solemn cry, emphasized that those who believe in Him also believe in the Father who sent Him. This highlights the intimate connection between Jesus and the Father, underlining that faith in Christ is not solely based on mortal individuals but on God Himself. By rejecting Jesus, one is essentially rejecting the One who sent Him. This proclamation serves as a summary of Jesus' testimony, calling for unwavering faith in Him as it reflects trust in the truth and power of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.13564230594806,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+            "commentatorTierSimilarities": [
+                25.89,
+                38.5,
+                35.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

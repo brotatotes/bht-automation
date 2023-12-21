@@ -1,0 +1,150 @@
+{
+    "timestamp": "12-21-2023 03:13:41",
+    "verseRef": "John 17:2",
+    "bestBHT": {
+        "bht": "The glorification of the Son corresponds to His preparation and the office of the Son, and all flesh is given by the Father to Christ, who rules and judges the whole creation. Only those united with Him in the Spirit receive the ineffable gift of eternal life. Christ's authority over all flesh is a stupendous claim, highlighting the universality of His Gospel. His commission is glory to the Son, while the execution is glory to the Father. The Son has authority over all flesh to give eternal life to those given to Him by the Father.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 2.2253690855562587,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.33,
+        "commentatorTierSimilarities": [
+            26.3,
+            36.34,
+            37.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The glorification, the end, must correspond to the beginning, to the sending, the preparation, and office of the Son.\" ",
+            "All flesh is given by the Father, from before the foundation of the world, to Christ; the whole creation is His to rule, His to judge, by virtue of His being, in the root of that human nature, to which sovereignty over the world was given.",
+            "And to them, and them only, He imparts the further and ineffable gift consequent on union with Him their God in the Spirit,\u2014viz. ETERNAL LIFE."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. given\u2014gavest ",
+            "\t",
+            "him power over all flesh\u2014(See",
+            "\ton :-; :-). ",
+            "\t",
+            "give eternal life to as many",
+            "\tas, &amp;c.\u2014literally, \"to all that which thou hast given",
+            "\thim.\" (See on John 6:37)."
+        ],
+        "Albert Barnes": [
+            "To all on whom the Father has purposed to bestow the blessings of redemption through his Son.",
+            "Men who oppose the gospel should therefore feel that they cannot prevent the salvation of Christians.",
+            "They should be alarmed lest they be found 'fighting against God.'"
+        ],
+        "Marvin Vincent": [
+            "All flesh. A Hebrew phrase, denoting the whole of humanity in its imperfection.",
+            "That He should give eternal life to as many as Thou hast given Him.",
+            "All [\u03c0\u03b1\u03bd], singular number, regards the body of Christian disciples collectively : to them, individually."
+        ],
+        "John Calvin": [
+            "He asks nothing but what is agreeable to the will of the Father; for nothing is more contrary to reason, than to bring forward in the presence of God whatever we choose.",
+            "Christ receives authority, not so much for himself as for the sake of our salvation; and, therefore, we ought to submit to Christ, not only that we may obey God, but because nothing is more lovely than that subjection, since it brings to us eternal life.",
+            "The kingdom of Christ extends, no doubt, to all men; but it brings salvation to none but the elect, who with voluntary obedience follow the voice of the Shepherd."
+        ],
+        "Philip Schaff": [
+            "To the Son the Father gave authority over all flesh, that the Son on His part might give to them eternal life.",
+            "No words could more powerfully bring out that universality which is so characteristic of this Gospel and this prayer.",
+            "The commission, in short, was glory to the Son: the execution was glory to the Father."
+        ],
+        "Archibald T. Robertson": [
+            "Authority over all flesh (\u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03b1\u03bd \u03c0\u03b1\u03c3\u03b7\u03c2 \u03c3\u03b1\u03c1\u03ba\u03bf\u03c2). Stupendous claim impossible for a mere man to make.\" ",
+            "Whatsoever (\u03c0\u03b1\u03bd \u03bf). A peculiar classical Greek idiom, the collective use of the singular \u03c0\u03b1\u03bd \u03bf.\" ",
+            "Nominative absolute (nom. pendens) with \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 (to them), the dative plural explaining the construction."
+        ],
+        "John Gill": [
+            "And this is a power that is 'given' him by his Father, and is not that original power over all things he has as God, and the Creator of them, which is natural, essential, and underived.",
+            "Eternal life is a gift, and not owing to the merits of men; indeed there is no merit in men's works, no, not in the best.",
+            "The persons on whom he confers this gift, are not all men, but such as the Father in the everlasting covenant has given to him, as his people and portion, his spouse and children, his jewels and his treasure, to be saved and enjoyed by him."
+        ],
+        "John Wesley": [
+            "To all whom thou hast given him \u2014 To all believers. This is a clear proof that Christ designed his sacrifice should avail for all: yea, that all flesh, every man, should partake of everlasting life.",
+            "For as the Father had given him power over all flesh, so he gave himself a ransom for all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The glorification of the Son corresponds to His sending, preparation, and office. All flesh, encompassing all of humanity, is given by the Father to Christ to rule and judge. Only those who are united with Him in the Spirit receive the ineffable gift of eternal life. Christ's authority over all flesh is a stupendous claim that highlights the universality of His Gospel and prayer. His commission is glory to the Son, while the execution is glory to the Father. The Son has been given authority over all flesh so that He may give eternal life to those who have been given to Him by the Father. This gift of eternal life is not owed to the merits of men, and it is bestowed upon those who voluntarily submit to Christ's authority.",
+            "wordCount": 133,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.1416762959727187,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                25.75,
+                35.51,
+                38.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The glorification of the Son corresponds to His preparation and the office of the Son, and all flesh is given by the Father to Christ, who rules and judges the whole creation. Only those united with Him in the Spirit receive the ineffable gift of eternal life. Christ's authority over all flesh is a stupendous claim, highlighting the universality of His Gospel. His commission is glory to the Son, while the execution is glory to the Father. The Son has authority over all flesh to give eternal life to those given to Him by the Father.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.2253690855562587,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.33,
+            "commentatorTierSimilarities": [
+                26.3,
+                36.34,
+                37.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The glorification of the Son corresponds to His preparation and office, and all flesh is given to Christ by the Father to rule and judge. Only those united with Him in the Spirit receive eternal life, an ineffable gift. Christ's authority over all flesh is a stupendous claim that highlights the universality of His Gospel. He has the authority to give eternal life to those given to Him by the Father.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.220887316938393,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.19,
+            "commentatorTierSimilarities": [
+                27.93,
+                33.0,
+                39.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The glorification of the Son is in harmony with His sending, preparation, and role. All flesh is bestowed by the Father upon Christ, granting Him the power to rule and judge the entire creation. Only those who are united with Him in the Spirit receive the indescribable gift of eternal life. Christ's authority over all flesh is an astounding claim that emphasizes the comprehensive nature of His Gospel. He has the authority to grant eternal life to those who have been given to Him by the Father.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1597969203173935,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                27.8,
+                32.95,
+                39.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Father's bestowal of all flesh upon Christ grants Him the power to rule and judge the creation. Only those united with Him in the Spirit receive the gift of eternal life. Christ's authority over all flesh is an astounding claim, underscoring the universality of His Gospel. The commission brings glory to the Son, while the execution brings glory to the Father. He has the authority to grant eternal life to those given to Him by the Father.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.1569419620124037,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
+            "commentatorTierSimilarities": [
+                25.48,
+                35.61,
+                38.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

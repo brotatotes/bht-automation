@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:07:47",
+    "verseRef": "John 7:16",
+    "bestBHT": {
+        "bht": "The teaching of Jesus is not his own but a divine revelation from God. He emphasizes that his doctrine is not self-originated or acquired through human learning, but is infused by the one who sent him. Jesus asserts that his teaching surpasses that of the scholars and rabbis, for it carries the authority of God. His words are self-evidential and should be received as the wisdom that comes from above, for he has been taught by God and speaks on God's behalf.",
+        "wordCount": 85,
+        "quoteTokenProportion": 49.12,
+        "qualityScore": 2.4730316814043025,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.57,
+        "commentatorTierSimilarities": [
+            28.41,
+            38.54,
+            33.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sense of Scripture which I teach is not my own, but that in which it was originally penned as a revelation from God.",
+            "My teaching (generally) is not mine, but that of Him who sent me.",
+            "The latter is preferable, as agreeing better with what follows, and because the former assumes that He was expounding Scripture, which, though probable, is not asserted."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16-18. doctrine . . . not mine,",
+            "\tc.\u2014that is, from Myself unauthorized I am here by commission."
+        ],
+        "Albert Barnes": [
+            "My doctrine - My teaching, or what I teach. This is the proper meaning of the word 'doctrine.' It is what is taught us, and, as applied to religion, it is what is taught us by God in the Holy Scriptures.",
+            "It is not originated by me. Though I have not learned in your schools, yet you are not to infer that the doctrine which I teach is devised or invented by me.",
+            "I teach nothing that is contrary to the will of God, and which he has not appointed me to teach. The doctrine is divine in its origin and in its nature."
+        ],
+        "Marvin Vincent": [
+            "Doctrine [\u03b4\u03b9\u03b4\u03b1\u03c7\u03b7] . Better, teaching, as Rev. Doctrine has acquired a conventional sense which might mislead."
+        ],
+        "John Calvin": [
+            "When you see a teacher not trained in the school of men, know that I have been taught by God.",
+            "Christ shows whence we ought to derive the authority of spiritual doctrine, from God alone.",
+            "Both of these things ought to be possessed by every man who takes upon himself the office of a teacher, and wishes that he should be believed."
+        ],
+        "Philip Schaff": [
+            "His teaching, though He had never 'learned' it in the sense in which they use the term, is yet not His own; neither in its substance nor in its authority must they count it His.",
+            "His words are God's words, and the teaching comes with the authority of God.",
+            "Such teaching is self-evidential, where man really wishes to hear the voice of God."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus denies that he is self-taught, though not a schoolman.",
+            "His teaching is not self-originated nor is it the product of the schools.",
+            "The bold claim is here made by Jesus that his teaching is superior in character and source to that of the rabbis."
+        ],
+        "John Gill": [
+            "My doctrine is not mine: it was his, as he was God; as such, he was the author of it, it was from him, by the revelation of him.",
+            "But it was not human; it was not acquired by him, as man; he did not learn it of man; he needed no human teachings.",
+            "His doctrine was that wisdom which comes from above, and is pure and peaceable, divine and heavenly, and ought to be received by men."
+        ],
+        "John Wesley": [
+            "My doctrine is not mine \u2014 Acquired by any labour of learning; but his that sent me - Immediately infused by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The teaching of Jesus is not a result of his own wisdom or human learning, but rather it is divine in its origin and character. He states that the doctrine he teaches is not his own, but comes from God, the one who sent him. Jesus makes a bold claim that his teaching surpasses that of the scholars and rabbis because it is sourced from God himself. His words carry the authority of the divine, and when one truly desires to hear the voice of God, they will recognize that Jesus has been taught by God and speaks on God's behalf.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.4989631303053415,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.43,
+            "commentatorTierSimilarities": [
+                27.71,
+                40.94,
+                31.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The teaching of Jesus is not his own but a divine revelation from God. He emphasizes that his doctrine is not self-originated or acquired through human learning, but is infused by the one who sent him. Jesus asserts that his teaching surpasses that of the scholars and rabbis, for it carries the authority of God. His words are self-evidential and should be received as the wisdom that comes from above, for he has been taught by God and speaks on God's behalf.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.4730316814043025,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.57,
+            "commentatorTierSimilarities": [
+                28.41,
+                38.54,
+                33.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The teaching of Jesus is not his own, but a divine revelation from God. He asserts that his doctrine is not self-originated, but infused by the one who sent him. Jesus boldly claims that his teaching surpasses that of the scholars and rabbis because it carries the authority of God. His words are self-evidential, for he has been taught by God and speaks on God's behalf. Those who truly seek to hear the voice of God will recognize the divine source of Jesus' teaching.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.3587106685220514,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.77,
+            "commentatorTierSimilarities": [
+                28.88,
+                40.86,
+                30.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The teaching of Jesus is not self-derived, but a divine revelation from God. He clarifies that his doctrine is not of his own origination, but rather it is infused by the one who sent him. Jesus boldly claims that his teaching surpasses that of the scholars and rabbis because it carries the authority of God. His words are self-evidential as they come from the divine source, and those who genuinely desire to hear the voice of God will recognize the origin and superiority of Jesus' teaching.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.41646967874998,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.69,
+            "commentatorTierSimilarities": [
+                29.57,
+                39.22,
+                31.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The teaching of Jesus is not his own, but rather a divine revelation from God. He affirms that his doctrine is not self-derived, but is infused by the one who sent him. Jesus boldly declares that his teaching surpasses that of the scholars and rabbis because it carries the authority of God. His words are self-evidential, for he has been taught by God and speaks on God's behalf. Those who sincerely seek to hear the voice of God will recognize the divine origin and supremacy of Jesus' teaching.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.352935264937721,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.58,
+            "commentatorTierSimilarities": [
+                28.36,
+                40.93,
+                30.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:04:21",
+    "verseRef": "John 2:7",
+    "bestBHT": {
+        "bht": "The servants were instructed to fill the waterpots with water, which they did obediently, filling them up to the brim. This may have seemed absurd at first, as they already had an abundance of water, but Jesus often acts in unexpected ways to display his power. By using the waterpots, which were only used for water, there was no room for suspicion that any wine had been left in them. The vessels were filled to their maximum capacity, ensuring that nothing else could be infused into them. Through this miracle, Jesus was able to provide an abundant supply of wine for the feast and demonstrate his ability to fulfill the needs of the people.",
+        "wordCount": 114,
+        "quoteTokenProportion": 53.75,
+        "qualityScore": 1.8112585284841112,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.57,
+        "commentatorTierSimilarities": [
+            14.37,
+            44.46,
+            41.17
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7, 8. Fill . . . draw . . .",
+            "\tbear\u2014directing all, but Himself touching nothing, to prevent",
+            "\tall appearance of collusion."
+        ],
+        "Albert Barnes": [
+            "It was done by 'them,' so that there might be no opportunity of saying that the disciples of Jesus had filled them with wine to produce the 'appearance' of a miracle.",
+            "The quantity was very considerable. The servants would know whether the 'wine' or 'water' had been put in these vessels.",
+            "Further, vessels were used for this miracle in which wine had not been kept. These pots were never used to put wine in, but simply to keep 'water' in for the various purposes of ablution."
+        ],
+        "Marvin Vincent": [
+            "Fill [\u03b3\u03b5\u03bc\u03b9\u03c3\u03b1\u03c4\u03b5] . Compare Mark 4:37, and see on Luke 14:23."
+        ],
+        "John Calvin": [
+            "The servants might be apt to look upon this injunction as absurd; for they had already more than enough of water.",
+            "But in this way the Lord often acts towards us, that his power may be more illustriously displayed by an unexpected result.",
+            "Though this circumstance is added to magnify the miracle; for when the servants drew wine out of vessels which had been filled with water, no suspicion can remain."
+        ],
+        "Philip Schaff": [
+            "Jesus saith unto them, Fill the waterpots with water. Probably they were now empty, perhaps in consequence of the ablutions before the feast.",
+            "And they filled them up to the brim. And when they are thus filled, nothing more can be done to fit them for their original design.",
+            "They are able to furnish all that can be supplied for \u2018the purifying of the Jews.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Fill (\u03b3\u03b5\u03bc\u03b9\u03c3\u03b1\u03c4\u03b5). Effective first aorist active imperative of \u03b3\u03b5\u03bc\u03b9\u03b6\u03c9, to fill full.\" ",
+            "With water (\u03c5\u03b4\u03b1\u03c4\u03bf\u03c2). Genitive case of material.",
+            "Up to the brim (\u03b5\u03c9\u03c2 \u03b1\u03bd\u03c9). 'Up to the top.' No room left in the waterpots now full of water."
+        ],
+        "John Gill": [
+            "Christ chose the water pots, and not the vessel, or vessels, or bottles, now empty, out of which they had drank their wine; that it might not be said that there was any left therein, which gave colour and flavour to the water.",
+            "He ordered them to be filled with water by the servants, that they might take notice, and be witnesses, that that, and nothing else, was put into them.",
+            "And up to the brims, so that they could not be capable of having any other liquor infused into them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The servants were instructed to fill the waterpots with water, which they did obediently, filling them up to the brim. This may have seemed absurd at first, as they already had an abundance of water, but Jesus often acts in unexpected ways to display his power. By using the waterpots, which were only used for water, there was no room for suspicion that any wine had been left in them. The vessels were filled to their maximum capacity, ensuring that nothing else could be infused into them. Through this miracle, Jesus was able to provide an abundant supply of wine for the feast and demonstrate his ability to fulfill the needs of the people.",
+            "wordCount": 114,
+            "quoteTokenProportion": 53.75,
+            "qualityScore": 1.8112585284841112,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
+            "commentatorTierSimilarities": [
+                14.37,
+                44.46,
+                41.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servants obediently filled the waterpots, even though it seemed unnecessary since they already had plenty of water. Jesus intentionally chose the waterpots, which were never used for wine but for ablution purposes, to eliminate any suspicion. The pots were filled to the brim, leaving no room for any other liquid. This miracle showcased Jesus' power and ability to provide abundantly. He transformed the water into wine, meeting the needs of the people and demonstrating his divine nature.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.6041043279375164,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.68,
+            "commentatorTierSimilarities": [
+                14.98,
+                45.61,
+                39.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servants dutifully filled the waterpots, even though it may have seemed superfluous since they already had an ample supply of water. However, Jesus intentionally chose the waterpots, which were never used for wine but rather for cleansing rituals, in order to dispel any suspicion. He specifically instructed the servants to fill the pots to the brim, leaving no room for any other substance. By performing this miracle, Jesus not only met the needs of the people by providing an abundant supply of wine, but also demonstrated his divine power.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.6396720807696283,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                11.82,
+                44.37,
+                43.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The servants dutifully filled the waterpots with water, as Jesus instructed. Though it may have seemed unnecessary, as they already had plenty of water, Jesus intentionally chose these pots to prevent any suspicion. By filling them to the brim, there was no room for any other substance. Through this miracle, Jesus demonstrated his divine power and fulfilled the needs of the people by transforming water into an abundant supply of wine.",
+            "wordCount": 71,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.751348530504776,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.57,
+            "commentatorTierSimilarities": [
+                16.99,
+                43.42,
+                39.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servants filled the waterpots with water, following Jesus' command. Despite having an abundance of water already, it was done to prevent any perceived collusion. The pots were filled up to the top, leaving no room for any other liquid. Jesus intentionally chose these pots, which were never used for wine but for ablutions, in order to dispel any suspicion. This miracle demonstrated Jesus' divine power and his ability to provide abundantly for the needs of the people.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.6036521109565276,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+            "commentatorTierSimilarities": [
+                17.24,
+                44.26,
+                38.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

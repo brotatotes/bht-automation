@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:04:25",
+    "verseRef": "John 2:8",
+    "bestBHT": {
+        "bht": "The ruler of the feast, likely a guest himself, oversaw the arrangements and tasted the wine. The servants were told to draw water from the large water-jars, which remained water while in the jars but turned into wine when served. Jesus performed this miracle quietly, and the servants promptly obeyed His command. The water was drawn from the fountain, not from the purification vessels, emphasizing the transformation from water to wine. The servants' willingness to obey showed their deep reverence for Jesus.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.8770031874633522,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+        "commentatorTierSimilarities": [
+            33.3,
+            33.07,
+            33.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ruler of the feast seems to be the same with the 'master of a feast'.\" ",
+            "It would seem, from the place in Ecclesiasticus, that he was one of the guests raised to the post of presiding over the arrangements of the feast.\" ",
+            "Here, he tastes the wine; and therefore probably was a guest himself."
+        ],
+        "Albert Barnes": [
+            "It showed that the miracle had been performed immediately.",
+            "Jesus made no parade about it, and it does not even appear that he approached the waterpots.",
+            "This was a clear exertion of divine power, and made in such a manner as to leave no doubt of its reality."
+        ],
+        "Marvin Vincent": [
+            "The verb, therefore, originally, means to bale out bilge - water; thence, generally, to draw, as from a well.",
+            "Some explain the word as meaning the superintendent of the banqueting - chamber, a servant whose duty it was to arrange the table - furniture and the courses, and to taste the food beforehand.",
+            "According to the Greek and Roman custom, the ruler of the feast was chosen by throwing the dice."
+        ],
+        "John Calvin": [
+            "The readiness with which the servants obey him in all things shows us the great reverence and respect in which he was held by them.",
+            "The honorable appellations borrowed from the luxury and splendor of the rich are applied even to the marriages of the poor.",
+            "It is an undoubted trial of our sobriety, if we are sparing and moderate in the midst of abundance."
+        ],
+        "Philip Schaff": [
+            "Still there is nothing in the text that leads necessarily to this interpretation; while the language of John 2:9, \u2018the servants which had drawn the water,\u2019 distinctly suggests that what they drew was water, which, either as soon as drawn, or as soon as presented to the guests, became wine.",
+            "The original word is simply \u2018draw,\u2019 or \u2018draw water.\u2019 This would seem to suggest that the servants were sent again to the spring or fountain from which they had drawn the water to fill the waterpots.",
+            "First, the vessels set for the purifying of the Jews are completely filled. Nothing is neglected that can be needed to prepare for all ceremonial requirements. There the water rests, and rests unchanged. Not till now is the water drawn for the thirsty guests, in bowls filled, not from vessels of purification, but at the spring itself; it is borne to the ruler of the feast, and it is wine!"
+        ],
+        "Archibald T. Robertson": [
+            "The servants seem bidden to draw from the large water-jars now full of water. Apparently the water was still water when it came out of the jars, but was changed to wine before reaching the guests. The water in the jars remained water.\" ",
+            "The \u03b1\u03c1\u03c7\u03b9\u03c4\u03c1\u03b9\u03ba\u03bb\u03b9\u03bd\u03bf\u03c2 was originally the superintendent of the dining-room who arranged the couches and tasted the food, not the toast-master.\" ",
+            "Apparently not knowing at first that they bore wine."
+        ],
+        "John Gill": [
+            "As soon as ever the vessels were filled with water, without any more delay, he ordered the servants to draw out of those larger, into lesser vessels.\" ",
+            "He does not say what, water or wine.\" ",
+            "The servants having drawn out of the stone vessels, by cocks, into smaller ones, carried the liquor, as they were ordered, to the above person."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ruler of the feast, possibly a guest himself, had the responsibility of overseeing the arrangements of the banquet. He tasted the wine, as it was customary, and was chosen to preside over the festivities. The servants were instructed to draw water from the large water-jars, which remained water while in the jars but miraculously turned into wine upon reaching the guests. Jesus performed this miracle quietly and the servants obeyed His command without hesitation. The water was drawn from the fountain and not the vessels of purification, highlighting the transformation from water to wine. The readiness of the servants to obey demonstrated their deep respect for Jesus.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.8244281540189051,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                35.57,
+                31.36,
+                33.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ruler of the feast, likely a guest himself, oversaw the arrangements and tasted the wine. The servants were told to draw water from the large water-jars, which remained water while in the jars but turned into wine when served. Jesus performed this miracle quietly, and the servants promptly obeyed His command. The water was drawn from the fountain, not from the purification vessels, emphasizing the transformation from water to wine. The servants' willingness to obey showed their deep reverence for Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8770031874633522,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                33.3,
+                33.07,
+                33.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ruler of the feast, likely a guest himself, oversaw the arrangements and tasted the wine. The servants were told to draw water from the large water-jars, which remained water while in the jars but turned into wine when served. Jesus performed this miracle quietly, and the servants promptly obeyed His command. The water was drawn from the fountain, not from the purification vessels, emphasizing the transformation from water to wine. The servants' willingness to obey showed their deep reverence for Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8770031874633522,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                33.3,
+                33.07,
+                33.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ruler of the feast, possibly a guest himself, tasted the wine as part of his role in overseeing the banquet. The servants were instructed to draw water from the large water-jars, which remained water while in the jars but miraculously turned into wine upon reaching the guests. This quiet miracle demonstrated Jesus' divine power and the servants' prompt obedience showcased their deep respect for Him. The water was drawn from the fountain, highlighting the transformation from water to wine.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.832927445198865,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                36.77,
+                33.59,
+                29.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ruler of the feast, who may have also been a guest, tasted the wine as part of his responsibilities. The servants were instructed to draw water from the large water-jars, which remained water in the jars but miraculously turned into wine when served. This display of divine power was performed quietly by Jesus, without any fanfare. The readiness of the servants to obey demonstrated their deep reverence for Him. The water was drawn from the fountain, underlining the remarkable transformation from water to wine.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7621650919548861,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                34.53,
+                33.81,
+                31.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

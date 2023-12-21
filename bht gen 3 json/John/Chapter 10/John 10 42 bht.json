@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-21-2023 03:09:50",
+    "verseRef": "John 10:42",
+    "bestBHT": {
+        "bht": "After Jesus went beyond the Jordan, to the place where John first baptized, the people witnessed a striking witness to the Messiah that John had described. They realized that Jesus was the original, the one John had been speaking about. This raises the question for us today: what about our sermons and teachings about Jesus? Would they hold up if he were physically present? The people believed in Jesus because of his teachings and the miracles he performed, and it is through this belief that others would come to believe in his name as well.",
+        "wordCount": 95,
+        "quoteTokenProportion": 55.38,
+        "qualityScore": 1.3685873353675362,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.85,
+        "commentatorTierSimilarities": [
+            45.0,
+            0.0,
+            55.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "40-42. went away again beyond Jordan",
+            "\t. . . the place where John at first baptized\u2014(See on :-)."
+        ],
+        "Archibald T. Robertson": [
+            "Striking witness to the picture of the Messiah drawn by John.\" ",
+            "When Jesus came they recognized the original.",
+            "What about our sermons about Jesus if he were to walk down the aisle in visible form according to A.J. Gordon's dream?"
+        ],
+        "John Gill": [
+            "Through the doctrine he preached, the miracles he wrought.",
+            "Through comparing these things with what John had said of him.",
+            "There were others that were to believe in his name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Jesus went beyond the Jordan, to the place where John first baptized, the people witnessed a striking witness to the Messiah that John had described. They realized that Jesus was the original, the one John had been speaking about. This raises the question for us today: what about our sermons and teachings about Jesus? Would they hold up if he were physically present? The people believed in Jesus because of his teachings and the miracles he performed, and it is through this belief that others would come to believe in his name as well.",
+            "wordCount": 95,
+            "quoteTokenProportion": 55.38,
+            "qualityScore": 1.3685873353675362,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.85,
+            "commentatorTierSimilarities": [
+                45.0,
+                0.0,
+                55.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Jesus went beyond the Jordan to the place where John first baptized, the people recognized in him the Messiah that John had described. This serves as a reminder to us of the importance of our teachings about Jesus. Would our sermons and messages still hold true if he were physically present among us? The people believed in Jesus because of the teachings he shared and the miracles he performed. Through their belief, others would also come to believe in his name.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 1.2457719918838068,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.77,
+            "commentatorTierSimilarities": [
+                40.86,
+                0.0,
+                59.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus went beyond the Jordan to the place where John had baptized, the people witnessed a remarkable confirmation of the Messiah as described by John. This challenges us to evaluate the validity of our own teachings about Jesus. Would our sermons stand up if he were to physically appear before us? The people believed in Jesus based on his teachings and the miracles he performed. Through their belief, others would eventually come to believe in his name as well.",
+            "wordCount": 80,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.2638517754473266,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.37,
+            "commentatorTierSimilarities": [
+                41.56,
+                0.0,
+                58.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus went beyond the Jordan to the place of John's baptism, the people encountered a powerful testimony to the fulfillment of John's depiction of the Messiah. This prompts us to reflect on the authenticity of our teachings about Jesus. Would our words hold weight if he were to visibly appear among us? The people believed in Jesus through his teachings and miraculous deeds, leading the way for others to also place their faith in his name.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.2478021467433789,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.83,
+            "commentatorTierSimilarities": [
+                44.57,
+                0.0,
+                55.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After Jesus traveled beyond the Jordan to the place where John had first baptized, the people witnessed a remarkable confirmation of John's depiction of the Messiah. This challenges us to question the authenticity of our own teachings about Jesus. If he were to physically manifest today, would our sermons and messages hold true? The people embraced Jesus due to his teachings and miraculous works, paving the way for others to also believe in his name.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.2423308475782286,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.65,
+            "commentatorTierSimilarities": [
+                44.23,
+                0.0,
+                55.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

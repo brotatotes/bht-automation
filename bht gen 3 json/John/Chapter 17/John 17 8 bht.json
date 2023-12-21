@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:13:31",
+    "verseRef": "John 17:8",
+    "bestBHT": {
+        "bht": "The disciples' faith was the efficient cause of their belief, as the imparting of Jesus' words led them to conviction. They recognized Jesus as God's Apostle to humanity, and this brought comfort to Him. Their faith was not speculative, but a certainty and knowledge based on their reception of Jesus' words. Jesus faithfully delivered the doctrines given to Him by the Father, and their faith was a response to the consciousness they received from Him.",
+        "wordCount": 76,
+        "quoteTokenProportion": 36.17,
+        "qualityScore": 2.2165175368505814,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.04,
+        "commentatorTierSimilarities": [
+            27.89,
+            33.64,
+            38.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The imparting to them of these 'words' was the efficient cause of their faith.",
+            "Our Lord\u2019s coming forth from the Father is with them more a matter of conviction from inference.",
+            "The act of the Father unseen by us is more a matter of pure faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. they . . . have known surely that",
+            "\tI came out from thee\u2014(See on :-; John 17:1)."
+        ],
+        "Albert Barnes": [
+            "The words - The doctrines.",
+            "Christ often represented himself as instructed and sent to teach certain great truths to men.",
+            "Those he taught, and no others."
+        ],
+        "Marvin Vincent": [
+            "The words [\u03c4\u03b1 \u03c1\u03b7\u03bc\u03b1\u03c4\u03b1] . Compare thy word [\u03bb\u03bf\u03b3\u03bf\u03bd] , ver. 6. That signified the gospel message in its entirety. This, the message considered in its constituent parts. See on Luke 1:37. Compare John 5:38, John 5:47; John 6:60, John 6:63, John 6:68; John 8:43, John 8:47, John 8:51; John 12:47, John 12:48; John 14:3, John 14:7."
+        ],
+        "John Calvin": [
+            "He declares that God is the Author of it, when he says, The words which thou gavest me I have given to them. [...] in the person of the Mediator or servant of God, when he says that he taught nothing but what he had received from the Father.",
+            "That Christ came out from the Father, and was sent by him, has the same meaning with what went before, that all things which he has are from the Father.",
+            "In faith there is such certainty that it is justly called knowledge."
+        ],
+        "Philip Schaff": [
+            "The disciples had received a consciousness similar to that of Jesus, because He, on His part, had implanted His words in them.",
+            "They, on their part, had responded, receiving what He gave.",
+            "He has transferred His own mind to His disciples, that He has taught them His own truths and thoughts, and that they, while retaining their own proper individuality, have fully made them their own."
+        ],
+        "Archibald T. Robertson": [
+            "The disciples believed in Christ's mission from the Father.",
+            "There was comfort to Christ in this fact.",
+            "Christ is God's Apostle to man."
+        ],
+        "John Gill": [
+            "But what are called in Scripture the doctrine of God, of Christ, of the apostles, are agreeably to the Scriptures, and according to godliness.",
+            "And these were given him to speak and deliver to others, and in which he was faithful.",
+            "And so the Messiah Jesus did...being fully persuaded he was the true Messiah, and no impostor."
+        ],
+        "John Wesley": [
+            "They have received them \u2014 By faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples' faith was the result of Jesus imparting His words to them. While the disciples did not witness Jesus coming forth from the Father firsthand, they believed in His mission and recognized that He was sent by God. This brought comfort to Jesus, as He understood Himself to be God's Apostle to humanity. The disciples, having received the consciousness of Jesus and fully embracing His teachings, responded by receiving and making His words their own. Through their faith, they had a deep certainty and knowledge of the truth, which was rooted in the doctrines given to them by God through Jesus.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.248119795789707,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.09,
+            "commentatorTierSimilarities": [
+                28.48,
+                36.47,
+                35.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples' faith was the result of Jesus imparting His words to them, which brought deep conviction. Although they did not physically witness Jesus coming from the Father, they believed in His mission and recognized Him as God's Apostle to humanity. This brought comfort to Jesus, as He faithfully delivered the doctrines given to Him by the Father. Their faith was not merely speculative, but a firm knowledge grounded in the teachings they had received and embraced.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1406289754759404,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                29.43,
+                33.67,
+                36.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' faith was the result of Jesus imparting His words to them. They believed in His mission and recognized Him as God's Apostle to humanity. This brought comfort to Jesus. Their faith was not speculative, but a firm knowledge grounded in the teachings they had received and embraced.",
+            "wordCount": 50,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 2.076622259467957,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                29.38,
+                34.03,
+                36.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' faith was the efficient cause of their belief, as the imparting of Jesus' words led them to conviction. They recognized Jesus as God's Apostle to humanity, having a knowledge rooted in the teachings they received. Jesus faithfully delivered the doctrines given to Him by the Father, and this fact brought comfort to Him. Their faith was not speculative, but a certainty and knowledge based on their reception of Jesus' words and the consciousness they received from Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.1691228024130957,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+            "commentatorTierSimilarities": [
+                27.02,
+                35.07,
+                37.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' faith was the efficient cause of their belief, as the imparting of Jesus' words led them to conviction. They recognized Jesus as God's Apostle to humanity, and this brought comfort to Him. Their faith was not speculative, but a certainty and knowledge based on their reception of Jesus' words. Jesus faithfully delivered the doctrines given to Him by the Father, and their faith was a response to the consciousness they received from Him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.2165175368505814,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.04,
+            "commentatorTierSimilarities": [
+                27.89,
+                33.64,
+                38.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:11:32",
+    "verseRef": "John 13:17",
+    "bestBHT": {
+        "bht": "Knowing the duty of humility is easier than actually practicing it. Jesus recognizes the challenge in this task and promises blessings to those who not only know but also do what is required. True knowledge of Christ should lead believers to conform themselves to him. Those who know and do his will experience happiness and communion with their Lord. On the other hand, those who know but do not act upon their knowledge find themselves unhappy. Therefore, it is through both knowing and doing that true blessedness is achieved.",
+        "wordCount": 89,
+        "quoteTokenProportion": 51.61,
+        "qualityScore": 1.5981257560189075,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+        "commentatorTierSimilarities": [
+            30.23,
+            32.65,
+            37.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mere recognition of such a duty of humility, is a very much more easy matter than the putting it in practice."
+        ],
+        "Marvin Vincent": [
+            "Happy [\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03b9] . Better, as Rev., blessed. See on Matthew 5:3."
+        ],
+        "John Calvin": [
+            "He declares that they are happy, if they know and do these things; for knowledge is not entitled to be called true unless it produce such an effect on believers as to lead them to conform themselves to their Head.",
+            "It is a vain imagination when we look upon Christ, and the things which belong to Christ, as separate from ourselves.",
+            "Until a man has learned to yield to his brethren, he does not know if Christ be the Master."
+        ],
+        "Philip Schaff": [
+            "If ye know these things, happy are ye if ye do them.",
+            "Simple as might appear the duty to which the disciples were called, Jesus knew that it was a hard and trying task.",
+            "He connects therefore a promise of blessedness with the actual performance of the duty."
+        ],
+        "Archibald T. Robertson": [
+            "If ye know... if ye do... happy are ye."
+        ],
+        "John Gill": [
+            "Not he that knows and does not, but he that knows and does his master's will, is blessed; he is blessed with communion with his Lord, and shall hereafter enter into his joy, with 'well done good and faithful servant'.\" ",
+            "There is an happiness 'in' doing well, and which follows 'on' it, though not 'for' it, in a way of merit.",
+            "On the other hand, persons who know and do not, are very unhappy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Knowing and understanding the duty of humility is one thing, but actually putting it into practice is much more difficult. Jesus reminds his disciples that they will be blessed if they not only know, but also do these things. This connection between knowledge and action is crucial, for true knowledge of Christ should lead to conformity with him. It is not enough to simply recognize and understand the teachings of Christ; one must actively apply them in their daily lives. Those who know and do the will of their Master will experience true happiness and communion with him, receiving the ultimate reward of entering into his joy. On the other hand, those who know, but do not act upon their knowledge, will experience unhappiness. Therefore, it is through the combination of knowledge and action that true blessedness is attained.",
+            "wordCount": 139,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.552187246779284,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                30.31,
+                31.2,
+                38.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Knowing the duty of humility is easier than actually practicing it. Jesus recognizes the challenge in this task and promises blessings to those who not only know but also do what is required. True knowledge of Christ should lead believers to conform themselves to him. Those who know and do his will experience happiness and communion with their Lord. On the other hand, those who know but do not act upon their knowledge find themselves unhappy. Therefore, it is through both knowing and doing that true blessedness is achieved.",
+            "wordCount": 89,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.5981257560189075,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "commentatorTierSimilarities": [
+                30.23,
+                32.65,
+                37.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is one thing to recognize the duty of humility, but it is much more challenging to put it into practice. Jesus acknowledges this struggle and promises blessings to those who not only possess knowledge but also act upon it. True knowledge of Christ should prompt believers to conform themselves to Him. Those who know and follow His teachings will experience happiness and communion with their Lord. Conversely, those who possess knowledge but fail to act upon it will find themselves unhappy. True blessedness comes from both knowing and doing.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5501895313660516,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "commentatorTierSimilarities": [
+                31.51,
+                30.45,
+                38.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Understanding the duty of humility is easier than actually implementing it. Jesus recognizes that knowing is not enough; action is required. He promises blessings to those who have both knowledge and practice in their lives. True knowledge of Christ should lead to conformity with Him. Those who know and do His will experience happiness and communion with their Lord. Conversely, those who know but do not act upon their knowledge will find unhappiness. True blessedness comes from both knowing and doing.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.5169371766772894,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                33.25,
+                30.85,
+                35.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Knowing the duty of humility is easier than putting it into practice. Jesus promises blessings to those who not only have knowledge, but also act upon it. True knowledge of Christ should lead believers to conform themselves to Him. Those who know and do His will find happiness and communion with their Lord. Conversely, those who know but do not act upon it will suffer unhappiness. True blessedness is attained through the combination of knowledge and action.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.556450487752398,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                32.38,
+                29.6,
+                38.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

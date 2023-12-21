@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:13:28",
+    "verseRef": "John 16:24",
+    "bestBHT": {
+        "bht": "Praying in Jesus' Name was impossible before His glorification, but now it brings a unique joy in the dispensation of the Spirit. By continuously asking in His Name, our prayers are fulfilled, highlighting the lasting permanence of joy. It is a cherished privilege to approach God through Jesus as our Mediator, finding favor and knowing that He hears and answers our prayers. Amid trials and weaknesses, God provides all that we need for our work and grants us success, bringing great satisfaction to the ministers of Christ.",
+        "wordCount": 87,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.8867433066469923,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+        "commentatorTierSimilarities": [
+            21.8,
+            43.14,
+            35.07
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was impossible, up to the time of the glorification of Jesus, to pray to the Father in His Name.",
+            "It is a fulness of joy peculiar to the dispensation of the Spirit, to be able so to do.",
+            "ask, and ye shall receive... that in my name is added."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. Hitherto have ye asked nothing",
+            "\tin my name\u2014for \"prayer in the name of Christ, and",
+            "\tprayer to Christ, presuppose His glorification",
+            "\t[OLSHAUSEN]. ",
+            "\t",
+            "ask\u2014when I am gone, \"in",
+            "\tMy name."
+        ],
+        "Albert Barnes": [
+            "This great truth that we must approach God in the name of the Mediator was reserved for the last that the Saviour was to communicate to them.",
+            "Then they were prepared in some degree to understand it; and then, amid trials, and wants, and a sense of their weakness and unworthiness, they would see its preciousness, and rejoice in the privilege of being thus permitted to draw near to God.",
+            "Now they had the assurance that they might approach God in his name; and, amid all their trials, they, as well as all Christians since, might draw near to God, knowing that he would hear and answer their prayers."
+        ],
+        "Marvin Vincent": [
+            "Ask [\u03b1\u03b9\u03c4\u03b5\u03b9\u03c4\u03b5] . The present imperative, implying continuous asking. Be asking.",
+            "May be full [\u03b7 \u03c0\u03b5\u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b5\u03bd\u03b7] . Very literally, may be having been fulfilled.",
+            "Rev., more correctly, fulfilled. Compare John 14:11."
+        ],
+        "John Calvin": [
+            "It is a wicked profanation of the name of God, when anyone, leaving Christ out of view, ventures to present himself before the judgment-seat of God.",
+            "We are said to pray in the name of Christ when we take him as our Advocate, to reconcile us, and make us find favor with his Father.",
+            "Nothing will be wanting which could contribute to a perfect abundance of all blessings, to the accomplishment of our desires, and to calm satisfaction, provided that we ask from God, in his name, whatever we need."
+        ],
+        "Archibald T. Robertson": [
+            "After the resurrection of Jesus they are to do so, a distinct plea for parity with the Father and for worship like the Father.",
+            "Periphrastic perfect passive subjunctive of \u03c0\u03bb\u03b7\u03c1\u03bf\u03c9 in a purpose clause with \u03b9\u03bd\u03b1. See John 15:11 for some verb (first aorist passive subjunctive with \u03b9\u03bd\u03b1).",
+            "Emphasizing the abiding permanence of the joy."
+        ],
+        "John Gill": [
+            "ask, and ye shall receive; that is, in my name, and whatever ye ask for, ye shall have it, to fit you for your work, to carry you through it, and to give you success in it\" ",
+            "go cheerfully through your work, find much pleasure in it, and with great satisfaction see the Gospel spread, souls converted, Satan's kingdom weakened, and the interest of your Redeemer thrive and flourish",
+            "nothing can more contribute to complete the joy of the ministers of Christ"
+        ],
+        "John Wesley": [
+            "Hitherto ye have asked nothing in my name \u2014 For they had asked him directly for all they wanted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Up until the glorification of Jesus, it was impossible to pray to the Father in His Name. However, with the advent of the dispensation of the Spirit, praying in Jesus' Name brings a special fullness of joy. The disciples had yet to truly ask anything in Jesus' Name, as prayer in His Name and prayer to Him presuppose His glorification. But now, a distinct plea for parity with the Father and worship like the Father is made possible by asking in His Name. By continuously asking in Jesus' Name, our prayers may be fulfilled, emphasizing the abiding permanence of joy. It is a precious privilege to approach God in the name of our Mediator, and amid our trials and weaknesses, God hears and answers our prayers.",
+            "wordCount": 126,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.8750436592806592,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                26.43,
+                40.96,
+                32.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Praying to the Father in Jesus' Name was impossible before His glorification. But now, by continuously asking in His Name, we can experience a special fullness of joy. This privilege allows us to approach God, even amidst trials and weaknesses, knowing that He will hear and answer our prayers. Through Jesus, we have the assurance that God will fulfill our desires and provide all blessings needed for our work and success. It is a precious privilege to take Jesus as our Advocate and find favor with the Father, bringing utmost satisfaction to the ministers of Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.8043388569139052,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.34,
+            "commentatorTierSimilarities": [
+                22.06,
+                43.85,
+                34.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Up until Jesus' glorification, it was impossible to pray to the Father in His Name. However, the dispensation of the Spirit brings a unique joy in being able to do so. By continuously asking in Jesus' Name, our prayers may be fulfilled, emphasizing the abiding permanence of joy. It is a precious privilege to approach God in the name of our Mediator and find favor with Him. Amid trials and weakness, God hears and answers our prayers, providing all we need for our work and success.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7818601917643648,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                24.87,
+                41.91,
+                33.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Praying in Jesus' Name was impossible before His glorification, but now it brings a unique joy in the dispensation of the Spirit. By continuously asking in His Name, our prayers are fulfilled, highlighting the lasting permanence of joy. It is a cherished privilege to approach God through Jesus as our Mediator, finding favor and knowing that He hears and answers our prayers. Amid trials and weaknesses, God provides all that we need for our work and grants us success, bringing great satisfaction to the ministers of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8867433066469923,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                21.8,
+                43.14,
+                35.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Praying to the Father in Jesus' Name was impossible before His glorification but now brings a unique and abiding joy. By continuously asking in His Name, our prayers may be fulfilled, emphasizing the lasting permanence of joy. Approaching God through Jesus as our Mediator is a precious privilege, knowing that He hears and answers our prayers amidst trials and weaknesses. God provides all we need for our work and grants us success, bringing great satisfaction to the ministers of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8533333957636606,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                22.92,
+                41.15,
+                35.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

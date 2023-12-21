@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:06:00",
+    "verseRef": "John 4:50",
+    "bestBHT": {
+        "bht": "The nobleman's weak faith was strengthened by Jesus' words, and his belief in the healing of his son was almost as miraculous as the physical one. In contrast to the centurion, Jesus spoke the word only and the man believed, resulting in the immediate cure of his dying son. The man's faith was evidenced by his departure from Jesus, and the wave of salvation extended to his household. The words Thy son is living seemed too good to be true, but the instantaneous faith of the nobleman trusted in Jesus' word.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.06752155742468,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+        "commentatorTierSimilarities": [
+            40.75,
+            28.9,
+            30.34
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The bringing out and strengthening of the man\u2019s faith by these words was almost as great a spiritual miracle, as the material one which they indicated.",
+            "We may observe the difference between our Lord\u2019s dealing here and in the case of the centurion... Thus the weak faith of the nobleman is strengthened, while the humility of the centurion is honoured.",
+            "Here, when pressed to go down, He speaks the word only."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The man believed the word, and the cure, shooting quicker than lightning from Cana to Capernaum, was felt by the dying youth.",
+            "In token of faith, the father takes his leave of Christ\u2014in the circumstances this evidenced full faith.",
+            "The wave rolled from the head to the members of his household. 'To-day is salvation come to this house'; and no mean house this!"
+        ],
+        "Albert Barnes": [
+            "Thy son liveth - Thy son shall recover; or he shall be restored to health, according to thy request.",
+            "The man believed - The manner in which Jesus spoke it, and the assurance which he gave, convinced the man that he could heal him there as well as to go to Capernaum to do it.",
+            "God will hear our prayers and grant our requests, but often not in the precise manner in which we ask it. It is his to judge of the best way of doing us good."
+        ],
+        "John Calvin": [
+            "When Christ pardons both, we may conclude from it how highly he values even a small measure of faith.",
+            "Thus it frequently happens that our Heavenly Father, while he does not comply with our wishes in every particular, proceeds to relieve us by unexpected methods, that we may learn not to prescribe to him in anything.",
+            "And such is the promptitude with which we ought to receive the word of God, but it is very far from producing always so immediate an effect on the hearers."
+        ],
+        "Philip Schaff": [
+            "Jesus does not need the passionate appeal: the prayer has been already granted.",
+            "\u2018Thy son liveth\u2019 does not mean, \u2018is made to live now after thy second petition\u2019; but, \u2018even while the word is in thy mouth, or before it was so, thy son liveth.\u2019",
+            "He will not come to heal the child; there is no need that He should do so, the child is already whole."
+        ],
+        "Archibald T. Robertson": [
+            "Thy son is living,\" and will not now die, Jesus means. Words too good and gracious to be true.",
+            "Instantaneous faith, trusted the word.",
+            "Started on his way,\" acted on his faith."
+        ],
+        "John Gill": [
+            "Return home in peace, be not over much troubled and distressed about this matter; leave it with me, I will take care of it; all will be well.\" ",
+            "Such power went along with the words of Christ, as not only cured the son at that distance, who lay at the point of death, but also the father of his unbelief.",
+            "He no more insisted on his going down with him, but firmly believed that his son was alive, and well, as Christ had said he was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The nobleman's weak faith was strengthened by Jesus' words, and his belief in the healing of his son was almost as miraculous as the physical healing itself. This is in contrast to the centurion, who displayed humility and had his faith honored by Jesus. Here, Jesus speaks the word only and the man believes, resulting in the immediate cure of his dying son. The man's faith is evidenced by his departure from Jesus, and the wave of salvation extends to his entire household. The words Thy son is living seem almost too good to be true, but the instantaneous faith of the nobleman trusted in Jesus' word. The man acted on his faith and started on his way, fully convinced that his son was already made alive.",
+            "wordCount": 129,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.9627423759382157,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.6,
+            "commentatorTierSimilarities": [
+                40.21,
+                29.61,
+                30.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man's faith was strengthened by Jesus' words, which was a spiritual miracle in itself. Jesus dealt differently with the nobleman compared to the centurion, honoring the humility of the latter. Jesus spoke the word only and the man believed, resulting in the immediate healing of his dying son. In faith, the man left Jesus and the salvation extended to his household. The words Thy son is living seemed almost too good to be true, but the man's instantaneous faith trusted in those words and he started on his way, fully convinced of his son's miraculous healing.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.919480018778455,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                39.31,
+                30.39,
+                30.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The nobleman's faith was strengthened as Jesus spoke the word and his dying son was miraculously healed. The difference between Jesus' interaction with the nobleman and the centurion highlights the honoring of humility and the strengthening of weak faith. The man's immediate belief in the words Thy son is living demonstrated his full faith. His departure from Jesus showed his trust, and the wave of salvation extended to his entire household. The promptitude of receiving God's word should produce an immediate effect in the hearers, as exemplified by the nobleman's instantaneous faith.",
+            "wordCount": 96,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.8788306303855054,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                42.31,
+                28.54,
+                29.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The nobleman's weak faith was strengthened by Jesus' words, and his belief in the healing of his son was almost as miraculous as the physical one. In contrast to the centurion, Jesus spoke the word only and the man believed, resulting in the immediate cure of his dying son. The man's faith was evidenced by his departure from Jesus, and the wave of salvation extended to his household. The words Thy son is living seemed too good to be true, but the instantaneous faith of the nobleman trusted in Jesus' word.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.06752155742468,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+            "commentatorTierSimilarities": [
+                40.75,
+                28.9,
+                30.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The nobleman's weak faith was strengthened by Jesus' words, resulting in a spiritual miracle that paralleled the material one described in the verse. The difference in Jesus' approach between the nobleman and the centurion showcased the honoring of humility and the strengthening of weak faith. Jesus spoke the word only, and the man believed, leading to the immediate healing of his dying son. The man's departure from Jesus was a testament to his faith, and the salvation extended to his entire household. The nobleman's instantaneous faith trusted in the words of Jesus, prompting him to act on his belief.",
+            "wordCount": 102,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.8972176640594127,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.42,
+            "commentatorTierSimilarities": [
+                41.37,
+                28.27,
+                30.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

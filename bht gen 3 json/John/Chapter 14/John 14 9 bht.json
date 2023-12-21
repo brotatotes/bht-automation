@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:12:13",
+    "verseRef": "John 14:9",
+    "bestBHT": {
+        "bht": "The Son, who has been with you for years, wonders why you still do not know Him. He is not just a bodily presence; through Him, you truly come to know the Father. He reproves those who seek God through anything other than Himself, for in Him the Father has been manifested. To see the Son is to see the Father, as they share the same nature and glory. It is a reminder of the intimate connection between the Father and the Son.",
+        "wordCount": 83,
+        "quoteTokenProportion": 62.75,
+        "qualityScore": 1.8862761817109037,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+        "commentatorTierSimilarities": [
+            23.71,
+            45.88,
+            30.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Son is the only Exponent of the Father to men.",
+            "This seeing of the Father in Him, is not only seeing His bodily presence, but knowing Him.",
+            "Dost thou not know me?"
+        ],
+        "Albert Barnes": [
+            "He that hath seen me... hath seen the Father.\" ",
+            "The idea is that God, as God, or as a Father, had been manifested in the incarnation, the works, and the teachings of Christ, so that they who had seen and heard him might be said to have had a real view of God.",
+            "The knowledge of the Son was itself, of course, the knowledge of the Father."
+        ],
+        "Marvin Vincent": [
+            "Have I been. Literally, am I.",
+            "Known. Come to know.",
+            "Sayest thou. Emphatic. Thou who didst say, 'We have found him of whom Moses in the law and the prophets did write'."
+        ],
+        "John Calvin": [
+            "Christ justly reproves Philip for not having the eyes of his faith pure.",
+            "They who, in consequence of not being satisfied with Christ alone, are hurried into foolish speculations, in order to seek God in them, make little progress in the Gospel.",
+            "This foolish desire springs from the meanness of Christ\u2019s low condition; and this is very unreasonable, for by that humiliation he exhibits the infinite goodness of God."
+        ],
+        "Philip Schaff": [
+            "Have I been so long time with you, and yet hast thou not learned to know me, Philip? he that hath seen me hath seen the Father: how sayest thou, Show us the Father?\" ",
+            "The words are those of astonishment and sorrow that the effect of all this spiritual intercourse has failed.\" ",
+            "He does not say 'my Father' but 'the Father,' because He speaks not of the personal relation between the Father and Himself, but of the light in which God is revealed as Father to all who learn to know Him in the Son."
+        ],
+        "Archibald T. Robertson": [
+            "He that hath seen me hath seen the Father.\" (\u03bf \u03b5\u03c9\u03c1\u03b1\u03ba\u03c9\u03c2 \u03b5\u03bc\u03b5 \u03b5\u03c9\u03c1\u03b1\u03ba\u03b5\u03bd \u03c4\u03bf\u03bd \u03c0\u03b1\u03c4\u03b5\u03c1\u03b1)",
+            "Thou.\" (\u03c3\u03c5)",
+            "After these years together."
+        ],
+        "John Gill": [
+            "Surely you cannot be so ignorant as this comes to; as you have seen me with your bodily eyes, as a man, you must know that I am God by the doctrines I have taught you, and the miracles I have wrought among you.",
+            "He that hath seen me; not with the eyes of his body, but with the eyes of his understanding; he that has beheld the perfections of the Godhead in me.",
+            "I am the very image of him, and am possessed of the same nature, attributes, and glory, that he is; so that he that sees the one, sees the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes that the Son reveals the Father to humanity, not just through physical presence, but through knowing Him. It expresses astonishment and sorrow that despite the years spent together, there is still a lack of understanding. The words, He that hath seen me hath seen the Father, convey the idea that God has been manifested in the incarnation, works, and teachings of Christ. It is a reproof for seeking God through anything other than Christ, as the Son is the very image of the Father and to see one is to see the other.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.8259911008958454,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.06,
+            "commentatorTierSimilarities": [
+                19.34,
+                48.01,
+                32.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son is the only Exponent of the Father, not just physically present but known intimately. How can you not know me after these years together? It is through Him that God, as a Father, has been exhibited. Those who have seen and heard Him have truly seen God. The astonishment and sorrow arise from the failure of this spiritual connection. Seeking God through anything but Christ is futile, for to see Him is to see the Father, as they are one and the same.",
+            "wordCount": 85,
+            "quoteTokenProportion": 61.02,
+            "qualityScore": 1.719177797523935,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.5,
+            "commentatorTierSimilarities": [
+                23.74,
+                45.64,
+                30.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son, who has been with you for years, wonders why you still do not know Him. He is not just a bodily presence; through Him, you truly come to know the Father. He reproves those who seek God through anything other than Himself, for in Him the Father has been manifested. To see the Son is to see the Father, as they share the same nature and glory. It is a reminder of the intimate connection between the Father and the Son.",
+            "wordCount": 83,
+            "quoteTokenProportion": 62.75,
+            "qualityScore": 1.8862761817109037,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                23.71,
+                45.88,
+                30.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son, in response to Philip's request to show them the Father, expresses astonishment that after all this time spent together, Philip still does not truly know Him. The Son is the embodiment of the Father, and to see Him is to see the Father Himself. Seeking God through any means other than the Son is futile, as the Son is the perfect revelation of the Father's nature, attributes, and glory. It is through the Son that the Father is made known to humanity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.873982039908991,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                21.01,
+                50.42,
+                28.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son marvels at the lack of understanding despite spending years together, saying that to see Him is to see the Father. Seeking God through anything other than the Son is futile because He is a perfect revelation of the Father's nature, attributes, and glory. The Son's reproach is aimed at those who fail to acknowledge the intimate connection between Himself and the Father. Through the Son, the Father is revealed and known to humanity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8753794336370986,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                21.64,
+                49.17,
+                29.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

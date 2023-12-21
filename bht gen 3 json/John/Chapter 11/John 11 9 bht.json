@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:10:16",
+    "verseRef": "John 11:9",
+    "bestBHT": {
+        "bht": "Jesus speaks of His fixed time appointed by the Father, confidently walking in the light of this world. Just as a traveler walks in the daylight without stumbling, His followers are safe, walking in His light. Jesus displays courage in facing His enemies and doing the Father's will. By obeying God's word and undertaking only what is commanded, we are guided by God from heaven. Those who walk in the day, guided by God's instructions, do not stumble.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.8405827837866227,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+        "commentatorTierSimilarities": [
+            49.77,
+            0.0,
+            50.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I have a fixed time during which to work, appointed me by my Father; during that time I fear no danger, I walk in His light, even as the traveler in the light of this world by day.",
+            "And (by inference) ye too are safe, walking in this light, which light to you is Myself,\u2014walking with Me.",
+            "The twelve-hour division of the day was common among the Jews by this time, being probably borrowed from Babylon."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our Lord's day had now reached its eleventh hour, and having till now 'walked in the day,' He would not mistime the remaining and more critical part of His work, which would be as fatal, He says, as omitting it altogether.\" ",
+            "If a man walk in the night, he stumbleth, because there is no light in him.",
+            "He [Jesus] speaks, putting Himself under the same great law of duty as all other men."
+        ],
+        "Marvin Vincent": [
+            "Walk [\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b7] . Walk about, in the pursuit of his ordinary business. Wyc., wander."
+        ],
+        "John Calvin": [
+            "Whoever, then, obeys the word of God, and undertakes nothing but according to his command, always has God to guide and direct him from heaven.\" ",
+            "We are taught by these words, that whenever a man allows himself to be guided by his own suggestions, without the calling of God, his whole life is nothing else than a course of wandering and mistake.",
+            "It amounts to this, that the eyes of God will always be attentive to guard those who shall be attentive to his instructions."
+        ],
+        "Archibald T. Robertson": [
+            "It is not blind fatalism that Jesus proclaims, but the opposite of cowardice.",
+            "Jesus has courage to face his enemies again to do the Father's will about Lazarus.",
+            "He does not cut (or bump) against this or that obstacle, for he can see."
+        ],
+        "John Gill": [
+            "Twelve hours are a day, or a day consists of twelve hours, which they divided into four parts, each part consisting of three hours.",
+            "If any man walk in the day... he stumbleth not, at any stone or stumbling block in the way, because he seeth the light of this world.",
+            "So our Lord intimates, that as yet it was day with him, his time of life was not expired; and so, as yet, it was a time of walking and working."
+        ],
+        "John Wesley": [
+            "Are there not twelve hours in the day?\" - The Jews always divided the space from sunrise to sunset, were the days longer or shorter, into twelve parts: so that the hours of their day were all the year the same in number, though much shorter in winter than in summer.",
+            "If any man walk in the day he stumbleth not\" - So there is such a space, a determined time, which God has allotted me. During that time I stumble not, amidst all the snares that are laid for me.",
+            "Because he seeth the light of this world\" - And so I see the light of God surrounding me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord Jesus, walking in the light of this world, proclaims that He has a fixed time appointed by His Father to carry out His work. Just as a traveler confidently walks in the daylight, Jesus assures His followers that they too are safe, walking in His light. It is not a blind fatalism that Jesus proclaims, but rather the opposite of cowardice. He has the courage to face His enemies again and continue doing the Father's will. By obeying the word of God and undertaking nothing without His command, we are guided and directed by God Himself. Like Jesus, if we walk in His light and follow His instructions, our eyes will be attentive to the guiding presence of God.",
+            "wordCount": 122,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.8118483291918042,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                49.79,
+                0.0,
+                50.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus speaks of His fixed time appointed by the Father, confidently walking in the light of this world. Just as a traveler walks in the daylight without stumbling, His followers are safe, walking in His light. Jesus displays courage in facing His enemies and doing the Father's will. By obeying God's word and undertaking only what is commanded, we are guided by God from heaven. Those who walk in the day, guided by God's instructions, do not stumble.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.8405827837866227,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                49.77,
+                0.0,
+                50.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus reveals that He has a fixed time appointed by His Father and fearlessly walks in His light, just like a traveler in the daylight. Similarly, His followers are also secure when they walk in His light. By obeying God's word and carrying out His commands, we are guided and directed by Him. This is not blind fatalism, but rather a courageous commitment to fulfill the Father's will. Those who walk in the day, under God's guidance, do not stumble or encounter obstacles along the way.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7877381196362394,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.78,
+            "commentatorTierSimilarities": [
+                49.45,
+                0.0,
+                50.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares that He is guided by a fixed time appointed by the Father. He confidently walks in the light of this world, much like a traveler who wanders during the day without stumbling. His followers are also safe, journeying in His light. It is not blind fatalism, but rather a courageous act of obedience, for Jesus faces His enemies and fulfills the Father's will. By obeying God's commands and being attentive to His instructions, we are guided by His guiding presence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7100284173488887,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                49.04,
+                0.0,
+                50.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus proclaims that He has a fixed time appointed by the Father, during which He fearlessly walks in the light of this world. Similarly, His followers are secure when they walk in His light. This boldness is not blind fatalism, but rather a courageous commitment to fulfill the Father's will. By obeying God's word and undertaking only what is commanded, we are guided and directed by Him. Like Jesus, if we walk in His light and follow His instructions, we will not stumble, for we see the light of God surrounding us.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8377816564153437,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                48.69,
+                0.0,
+                51.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-21-2023 03:07:05",
+    "verseRef": "John 6:50",
+    "bestBHT": {
+        "bht": "Believing in Jesus means partaking of the heavenly bread that grants life. It goes beyond the understanding of the crowd and is not limited to physical death. Eating this bread is a spiritual feast upon Christ by faith. Those who are loved by Christ and desire to partake have the freedom to do so. By partaking, they find soul-reviving and satisfying nourishment, escaping from spiritual and eternal death. This heavenly bread is not confined to a sacrament but is available to all who have a desire to eat.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.3755794435730173,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.08,
+        "commentatorTierSimilarities": [
+            21.64,
+            34.43,
+            43.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "47-51. He that believeth,",
+            "\tc.\u2014(See on John 3:36 John 3:36- :)."
+        ],
+        "Philip Schaff": [
+            "The \u2018bread that cometh down out of heaven\u2019 is of such a nature, and has such an object, that one may eat of it and not die.",
+            "His studious avoidance of every word of limitation points once more to the unbounded offer of life, the offer to \u2018the world\u2019.",
+            "In John 6:50 again physical death may seem to be excluded, but we shall see that John elsewhere regards the believer as freed (in a certain sense) even from this, so entirely has death for him changed its character, so complete is the deliverance granted by his Lord."
+        ],
+        "Archibald T. Robertson": [
+            "That a man may eat thereof, and not die. Purpose clause with \u03b9\u03bd\u03b1 and the second aorist active subjunctive of \u03b5\u03c3\u03b8\u03b9\u03c9 and \u03b1\u03c0\u03bf\u03b8\u03bd\u03b7\u03c3\u03ba\u03c9.\" ",
+            "The wonder and the glory of it all, but quite beyond the insight of this motley crowd."
+        ],
+        "John Gill": [
+            "This heavenly bread is soul quickening, soul strengthening, and soul satisfying food.",
+            "Eating of it is not to be understood corporeally, as these Capernaites took it; nor sacramentally, as if it was confined to the ordinance of the Lord's supper, which was not, as yet, instituted; but more largely of eating and feeding upon Christ spiritually by faith.",
+            "Such as are Christ's beloved, and his friends, 'may' eat; they have liberty, a hearty welcome to eat; and so have everyone that have a will, an inclination, a desire to eat."
+        ],
+        "John Wesley": [
+            "Not die \u2014 Not spiritually; not eternally."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believing in Jesus is like eating of the heavenly bread that gives life. It is a glorious truth that goes beyond the understanding of the crowd. This bread is not limited by physical death, but offers life to the world. Eating this bread is not a literal act, but a spiritual feast upon Christ by faith. Those who are loved by Christ and desire to partake in this feast have the freedom and welcome to do so. By believing in Jesus, we partake in this soul-reviving, soul-strengthening, and soul-satisfying food, and we are saved from spiritual and eternal death.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.3780405563236255,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.16,
+            "commentatorTierSimilarities": [
+                23.02,
+                36.53,
+                40.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believing in Jesus is like partaking in the heavenly bread, which grants eternal life and salvation. This truth is beyond the comprehension of the crowd. The bread is not limited to physical sustenance but offers an unbounded offer of life. Eating of this bread is not a literal act, but a spiritual feast upon Christ by faith. Those who are loved by Christ and desire to partake have the freedom to partake, finding soul-reviving and satisfying nourishment, and escaping from spiritual and eternal death.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.36139297733159,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                22.94,
+                36.84,
+                40.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believing in Jesus means partaking of the heavenly bread that grants life. It goes beyond the understanding of the crowd and is not limited to physical death. Eating this bread is a spiritual feast upon Christ by faith. Those who are loved by Christ and desire to partake have the freedom to do so. By partaking, they find soul-reviving and satisfying nourishment, escaping from spiritual and eternal death. This heavenly bread is not confined to a sacrament but is available to all who have a desire to eat.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.3755794435730173,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.08,
+            "commentatorTierSimilarities": [
+                21.64,
+                34.43,
+                43.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believing in Jesus means partaking of the heavenly bread, which offers life beyond physical death. The crowd fails to grasp this glorious truth. By eating this bread spiritually, we find soul-reviving, soul-strengthening, and soul-satisfying nourishment. This feast is not limited to a sacrament but is a broader act of feeding upon Christ by faith. Those who are loved by Christ and desire to eat have the liberty and warm welcome to do so. By partaking, we escape both spiritual and eternal death.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.306000601287877,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.77,
+            "commentatorTierSimilarities": [
+                21.9,
+                34.73,
+                43.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believing in Jesus means partaking of the heavenly bread, which grants life beyond physical death. Eating this bread is a spiritual feast upon Christ by faith. Those who desire to eat have the liberty and warm welcome to do so. By partaking, we find soul-reviving and satisfying nourishment, escaping both spiritual and eternal death. This heavenly bread is not limited to a sacrament but is available to all who have a desire to eat.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.3630091312589983,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.66,
+            "commentatorTierSimilarities": [
+                19.0,
+                36.02,
+                44.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

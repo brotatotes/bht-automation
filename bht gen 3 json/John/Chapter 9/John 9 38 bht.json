@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:09:33",
+    "verseRef": "John 9:38",
+    "bestBHT": {
+        "bht": "The blind man's genuine and unstudied declaration of Lord, I believe, accompanied by his act of worship, demonstrated a faith that transcended that of any human prophet. Though he may not have fully understood the implications, his worship expressed reverence and adoration towards Jesus. It is tragic that there are those who deny Jesus' worthiness of worship, as he accepted worship from this new convert and even from Thomas, who proclaimed him as God. This act of worship serves as a powerful testament to the transformative power of encountering the Light.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.021609004842638,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+        "commentatorTierSimilarities": [
+            37.93,
+            25.45,
+            36.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "a faith and a worship, beyond doubt, meant to express far more than he would think proper to any human 'prophet'\".",
+            "the unstudied, resistless expression, probably of SUPREME faith and adoration\".",
+            "though without the full understanding of what that implied\"."
+        ],
+        "Albert Barnes": [
+            "I believe - This was the overflowing expression of gratitude and faith.",
+            "And he worshipped him - He did homage to him as the Messiah and as his gracious benefactor.",
+            "This shows:"
+        ],
+        "Marvin Vincent": [
+            "Worshipped [\u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03c5\u03bd\u03b7\u03c3\u03b5\u03bd] . See on Acts 10:25."
+        ],
+        "John Calvin": [
+            "The word which the Evangelist employs (\u03c0\u03c1\u03bf\u03c3\u1f73\u03ba\u03c5\u03bd\u03b7\u03c3\u03b5\u03b9) means nothing more than to express respect and homage by bending the knee, or by other signs.",
+            "And yet I do not think that at that time he had made such progress as to know that Christ was God manifested in the flesh.",
+            "The blind man, convinced that Jesus was the Son of God, nearly lost the command of himself, and, in rapturous admiration, bowed down before him."
+        ],
+        "Philip Schaff": [
+            "The simple and immediate answer shows how little remained to be done to make his faith complete.",
+            "He believes and worships the Son of man, the Messiah, his Lord.",
+            "The Light will attract some out of the darkness: the Light will repel others into yet deeper darkness."
+        ],
+        "Archibald T. Robertson": [
+            "Lord, I believe (\u03a0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c9, \u03ba\u03c5\u03c1\u03b9\u03b5). \u039a\u03c5\u03c1\u03b9\u03b5 here = Lord (reverence, no longer respect as in John 9:36). A short creed, but to the point.",
+            "And he worshipped him (\u03ba\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03c5\u03bd\u03b7\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03c9). Ingressive first aorist active indicative of \u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b5\u03c9, old verb to fall down in reverence, to worship.",
+            "It is tragic to hear men today deny that Jesus should be worshipped. He accepted worship from this new convert as he later did from Thomas who called him 'God' (John 20:28)."
+        ],
+        "John Gill": [
+            "He immediately found faith in his soul...and made an open and hearty profession of it.",
+            "He worshipped him...ascribing honor, glory, and blessing to him, which are due to God only.",
+            "He worshipped him...with religious worship and adoration."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The blind man, though not fully understanding the implications, expressed a profound faith and adoration as he worshipped Jesus. His simple yet powerful declaration of belief in Jesus as Lord was accompanied by an act of homage and reverence. This act of worship displayed his recognition of Jesus as the Messiah and his gratitude for the light that had been brought into his life. It is a tragic denial to refuse Jesus the worship that he rightfully deserves, for even Thomas, upon seeing the risen Jesus, worshipped him and proclaimed him to be God. The blind man's immediate response demonstrates the completeness of his faith and the transformative power of encountering the Light.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9335348375548678,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                30.8,
+                30.34,
+                38.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With an unstudied and resistless expression of supreme faith and adoration, the blind man worshipped Jesus, recognizing that his faith and worship went beyond what he would extend to any human prophet. Although not fully comprehending the implications, he made an open and hearty profession of faith, acknowledging Jesus as Lord. By worshipping Jesus, he ascribed honor, glory, and blessing that are due only to God. This act of worship displayed the transformative power of encountering the Light and serves as a reminder of Jesus' rightful place and the need to offer him our worship.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.9987003448263314,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.8,
+            "commentatorTierSimilarities": [
+                33.62,
+                25.23,
+                41.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blind man's genuine and unstudied declaration of Lord, I believe, accompanied by his act of worship, demonstrated a faith that transcended that of any human prophet. Though he may not have fully understood the implications, his worship expressed reverence and adoration towards Jesus. It is tragic that there are those who deny Jesus' worthiness of worship, as he accepted worship from this new convert and even from Thomas, who proclaimed him as God. This act of worship serves as a powerful testament to the transformative power of encountering the Light.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.021609004842638,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+            "commentatorTierSimilarities": [
+                37.93,
+                25.45,
+                36.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blind man's profound act of worship, as he declared, Lord, I believe, went beyond mere respect and expressed his supreme faith and adoration towards Jesus. Though he may not have fully understood the depth of his confession, his worship reflected his recognition of Jesus as the Messiah and his gratitude for the light that had illuminated his life. It is tragic to hear those today denying Jesus' deserving of worship, as he accepted worship from this new convert and later from Thomas, who acknowledged him as God. This act of worship exemplifies the transformative power of encountering the Light.",
+            "wordCount": 101,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9952300504638492,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                34.82,
+                28.88,
+                36.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blind man's act of worship, along with his heartfelt declaration of Lord, I believe, portrayed a faith that went beyond what he would offer to any human prophet. Though he may not have fully comprehended the implications, his worship exhibited reverence and adoration towards Jesus. Sadly, there are those today who deny Jesus' worthiness of worship. However, Jesus accepted worship from this new convert and from Thomas, who called him God. This act of worship underscored the transformative power of encountering the Light.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9651795455192569,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                38.11,
+                25.45,
+                36.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

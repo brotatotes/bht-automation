@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:08:08",
+    "verseRef": "John 7:45",
+    "bestBHT": {
+        "bht": "The Sanhedrin, already thirsting for their Victim, were left stunned when the temple police failed to arrest Jesus. Their indignant outburst at the officers' return without Him showcased their blind arrogance and eagerness to trample morality and religion. Their hopes to immediately question Him were shattered, fueling their fierce rage. This epic disappointment and anger stemmed from their insatiable craving to seize Him and satisfy their bloodlust.",
+        "wordCount": 67,
+        "quoteTokenProportion": 26.0,
+        "qualityScore": 1.4038462938621752,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+        "commentatorTierSimilarities": [
+            41.33,
+            14.27,
+            44.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Already thirsting for their Victim, and thinking it an easy matter to seize and bring Him.",
+            "Already thirsting for their Victim.",
+            "Thinking it an easy matter to seize and bring Him."
+        ],
+        "John Calvin": [
+            "Here we may see how blind is the arrogance of men.",
+            "To such an extent do they admire and adore the greatness which renders them eminent, that they have no hesitation in trampling under foot morality and religion.",
+            "If any thing happen contrary to their wish, they would willingly mingle heaven and earth."
+        ],
+        "Philip Schaff": [
+            "His last words seem to have deprived them of all power to lay hands on Him.",
+            "The slight change serves to emphasize the union of the two elements (so to speak) into one for the purpose in hand.",
+            "It does not appear that there is formal action of the Sanhedrin earlier than the record in chap. John 11:47."
+        ],
+        "Archibald T. Robertson": [
+            "Indignant outburst of the Sanhedrin at the failure of the temple police to arrest Jesus.",
+            "They were sitting in expectation of immediately questioning him.",
+            "They were stunned at this outcome."
+        ],
+        "John Gill": [
+            "The same officers they sent to take him, returned to them without him; for though they were sent on that errand which they intended to have performed, yet they were not on the side of those who were for seizing him by force, nor of those who objected to his being the Messiah; but rather took part with those who affirmed he was the Messiah; or at least looked upon him to be some extraordinary prophet.",
+            "Seeing them returned without him, they were transported with rage and fury, and fell upon them in a fierce and furious manner, for disobeying their orders, who had sat there waiting some time: and hoping, and not doubting, but they should have him in their hands, whose blood they were thirsting after.",
+            "Wherefore it was a great disappointment to them, and much enraged them to see them come without him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Sanhedrin, full of arrogance and blind to their own shortcomings, were already thirsting for Jesus as their victim, thinking it would be an easy matter to seize and bring Him. Their indignation at the failure of the temple police to arrest Jesus sparked an indignant outburst. They were sitting in expectation, ready to question Him, but instead were stunned at the unexpected outcome. The fact that the officers they sent returned without Jesus further enraged them, as they were hoping to quench their bloodthirst by capturing Him. However, their disappointment and anger only served to highlight their blindness and arrogance.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.4244489198364447,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.71,
+            "commentatorTierSimilarities": [
+                40.47,
+                15.93,
+                43.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The arrogant Sanhedrin already thirsted for Jesus, confident that seizing Him would be easy. Their fury erupted when their temple police failed to arrest Him. Expecting to question Him immediately, they were stunned by the unexpected turn of events. Their officers' return without Jesus further enraged them, as they longed for His blood. This disappointment showcased their blind arrogance, as they were willing to trample morality and religion to achieve their desires.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3849405727859874,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.39,
+            "commentatorTierSimilarities": [
+                38.43,
+                18.42,
+                43.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Sanhedrin, already thirsting for their Victim and considering it an easy matter to seize and bring Him, were left stunned and indignant when the temple police failed to arrest Jesus. Their hope of immediately questioning Him was dashed, and their officers' return without Him fueled their rage and fury. Their blind arrogance and admiration for greatness led them to trample morality and religion, disregarding any contrary outcome. Their epic disappointment and anger were on full display when they saw the officers returning empty-handed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.3370961191742434,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.8,
+            "commentatorTierSimilarities": [
+                37.95,
+                12.43,
+                49.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Sanhedrin, already thirsting for their Victim and deeming it an easy matter to seize Him, were left stunned and indignant when the temple police failed to arrest Jesus. Their hopes of immediately questioning Him were crushed, and their officers' return without Him brought forth a fierce and furious rage. Their blind arrogance and disdain for morality and religion propelled them to mix heaven and earth in their pursuit. The disappointment and fury that gripped them were the result of their insatiable thirst for His blood.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.3340079585958853,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                37.02,
+                13.68,
+                49.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Sanhedrin, already thirsting for their Victim, were left stunned when the temple police failed to arrest Jesus. Their indignant outburst at the officers' return without Him showcased their blind arrogance and eagerness to trample morality and religion. Their hopes to immediately question Him were shattered, fueling their fierce rage. This epic disappointment and anger stemmed from their insatiable craving to seize Him and satisfy their bloodlust.",
+            "wordCount": 67,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 1.4038462938621752,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                41.33,
+                14.27,
+                44.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

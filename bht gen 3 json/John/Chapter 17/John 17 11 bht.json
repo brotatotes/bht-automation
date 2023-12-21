@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:13:57",
+    "verseRef": "John 17:11",
+    "bestBHT": {
+        "bht": "Jesus prays to the Father, appealing to the holy nature of God, asking Him to protect and keep His disciples from the unholy influences of the world. Jesus acknowledges that His struggles are over, but He is mindful of the ongoing conflicts and trials that His disciples will face. He desires for them to be united in will and spirit, just as the Father and Son are. Jesus highlights the significance of the Father's name and the oneness that is achieved through the indwelling of the Holy Spirit, ultimately leading to oneness of nature.",
+        "wordCount": 95,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.145371458972436,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+        "commentatorTierSimilarities": [
+            35.46,
+            29.7,
+            34.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Holy, as applied to God, peculiarly expresses that penetration of all His attributes by LOVE, which He only who here uttered it sees through in its length, breadth, and height.",
+            "The Name of God is that which was to be in the Angel of the Covenant... the Father hath given to Christ, and it is the being kept in this, the truth and confession of this, for which He here prays.",
+            "The oneness here is not merely harmony of will or of love... but oneness by the indwelling of the Spirit of Christ, the gift of the Covenant, and ultimately... oneness of nature."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though My struggles are at an end, theirs are not; though I have gotten beyond the scene of strife, I cannot sever Myself in spirit from them, left behind and only just entering on their great conflict.",
+            "Father... 'Holy' is here prefixed, because His appeal was to that perfection of the Father's nature, to 'keep' or preserve them from being tainted by the unholy atmosphere of 'the world' they were still in.",
+            "Keep through thine own name... in the exercise of that gracious and holy character for which He was known."
+        ],
+        "Albert Barnes": [
+            "Keep - Preserve, defend, sustain them in trials, and save them from apostasy.",
+            "Keep in the knowledge of thyself. Preserve them in obedience to thee and to thy cause.",
+            "That they may be united. As we are."
+        ],
+        "Marvin Vincent": [
+            "Holy [\u03b1\u03b3\u03b9\u03b5] . See on saints, Acts 26:10; also on 1 Peter 1:15. Compare 1 John 2:20, and righteous Father [\u03b4\u03b9\u03ba\u03b1\u03b9\u03b5] , ver. 25. This epithet, now first applied to the Father, contemplates God, the holy One, as the agent of that which Christ desires for His disciples - holiness of heart and life; being kept from this evil world.\" ",
+            "I come [\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9] . I am coming. Spoken of His departure to the Father.\" ",
+            "Those whom [\u03bf\u03c5\u03c2] . The correct reading is w=, referring to name. Thy name which Thou hast given me. So in ver. 12. Compare Philippians 2:9, Philippians 2:10; Revelation 2:17; Revelation 19:12; Revelation 22:4."
+        ],
+        "John Calvin": [
+            "It yields no small consolation to us when we learn that the Son of God becomes so much the more earnest about the salvation of his people when he leaves them as to his bodily presence.",
+            "For Christ, having been appointed by the Father to be their guardian for a time, and having now discharged the duties of that office, gives them back again, as it were, into the hands of the Father, that henceforth they may enjoy his protection and may be upheld by his power.",
+            "Then will our unity be truly happy, when it shall bear the image of God the Father and of Christ, as the wax takes the form of the seal which is impressed upon it."
+        ],
+        "Philip Schaff": [
+            "His labours and sorrows are over, but they [the disciples] are left behind in the struggle which He is leaving. The very greatness of His joy in the thought of His own glorious return to His Father rouses His tenderest sympathy for those who have so much to do and to suffer before they can share His joy.",
+            "'Holy' does not express mere freedom from sin; He who is holy is entirely separated from all that is carnal and outward in this present world, so that pure spirituality and heavenliness alone rule in Him. As, therefore, a state similar to this is that to which God would raise His people, the epithet 'Holy' brings this thought prominently into view, and strengthens the argument of the prayer.",
+            "Then follows the purpose, that they [the disciples] may be one 'even as' are the Father and the Son. It is the Divine unity of love that is referred to, all wills bowing in the same direction, all affections burning with the same flame, all aims directed to the same end one blessed harmony of love."
+        ],
+        "Archibald T. Robertson": [
+            "Christ will no longer be visibly present to the world, but he will be with the believers through the Holy Spirit.",
+            "Oneness of will and spirit, not one person, for which Christ does not pray.",
+            "Jesus offers the unity in the Trinity as the model for believers. The witness of the disciples will fail without harmony."
+        ],
+        "John Gill": [
+            "Christ was not so intent on his own glory, as to neglect the good of his people, and to be unconcerned for them.\" ",
+            "The persons prayed for are those that were given to Christ in election, and in the covenant, to be kept by him, and therefore he is the more solicitous for their preservation.",
+            "His request is that his Father would keep them from the evil of the world; from sinking under temptations and afflictions; faithful to him and to his Gospel, and in unity among themselves."
+        ],
+        "John Wesley": [
+            "Keep them through thy name \u2014 Thy power, mercy, wisdom, that they may be one - with us and with each other; one body, separate from the world.\" ",
+            "One body, separate from the world: as we are - By resemblance to us, though not equality."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 17:11, Jesus prays to the Father, appealing to the holy nature of God, asking Him to protect and keep His disciples from the unholy influences of the world. Jesus acknowledges that His struggles are over, but He is mindful of the ongoing conflicts and trials that His disciples will face. He desires for them to be united in will and spirit, just as the Father and Son are. Jesus highlights the significance of the Father's name and the oneness that is achieved through the indwelling of the Holy Spirit, ultimately leading to oneness of nature. He emphasizes that the disciples' witness and unity are crucial for their mission and future joy.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.089598357656242,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+            "commentatorTierSimilarities": [
+                34.67,
+                30.0,
+                35.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus appeals to the holy nature of God, praying for His disciples to be protected from the world and unified in will and spirit. He empathizes with their ongoing struggles, even though His own have ended. By invoking the Father's name, Jesus emphasizes the importance of preserving their holiness amidst the world's influences. The unity of the disciples and their faithful witness are crucial, mirroring the oneness of the Father and Son and reflecting the divine unity of love.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.935023200770285,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                32.94,
+                30.85,
+                36.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus prays to the Father, appealing to the holy nature of God, asking Him to protect and keep His disciples from the unholy influences of the world. Jesus acknowledges that His struggles are over, but He is mindful of the ongoing conflicts and trials that His disciples will face. He desires for them to be united in will and spirit, just as the Father and Son are. Jesus highlights the significance of the Father's name and the oneness that is achieved through the indwelling of the Holy Spirit, ultimately leading to oneness of nature.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.145371458972436,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+            "commentatorTierSimilarities": [
+                35.46,
+                29.7,
+                34.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus prays to the Father, appealing to His holy nature, asking Him to protect and keep His disciples from the unholy influences of the world. He emphasizes the importance of preserving their holiness by invoking the Father's name. Jesus acknowledges the ongoing struggles of His disciples, even though His own have ended. He desires for them to be unified in will and spirit, mirroring the unity of the Father and Son, and reflecting the divine unity of love.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.047270061009982,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+            "commentatorTierSimilarities": [
+                32.92,
+                30.56,
+                36.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In His prayer, Jesus appeals to the Father, emphasizing His holiness and love as the means of protection for His disciples from the corrupting influences of the world. Jesus recognizes that although His struggles have ended, His disciples are just beginning a great conflict. He highlights the oneness to be achieved through the indwelling of the Holy Spirit, bringing unity in will and spirit among the believers. This unity is vital for their witness and reflects the divine model of harmonious love within the Trinity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.0411427169981327,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.21,
+            "commentatorTierSimilarities": [
+                36.73,
+                29.47,
+                33.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

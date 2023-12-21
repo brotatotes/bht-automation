@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:14:15",
+    "verseRef": "John 18:24",
+    "bestBHT": {
+        "bht": "Jesus was brought before Annas for a preliminary examination, not to be confused with the solemn gathering mentioned in the other Gospels. This meeting, with some of the ablest interpreters, served as a non-official proceeding before Caiaphas' Council convened. Despite the different rooms, Jesus was likely taken to the same building where both Annas and Caiaphas met with Him. After this encounter, Jesus, who had been bound upon His arrest, was seemingly unbound during the examination.",
+        "wordCount": 77,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 2.0114405493690626,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+        "commentatorTierSimilarities": [
+            42.2,
+            25.58,
+            32.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I cannot acquiesce in the pluperfect rendering of this word sent, to bring about which the opening particle, So, has apparently been omitted by the copyists.",
+            "Then,\" says Chrysostom, \"not being able even thus to make progress in their decision, they send Him bound to Caiaphas.",
+            "The Evangelist had no need to relate the hearing before Caiaphas, for he has related ch. xi. 47 ff.: and we have ere this been familiarized with the habit of our Evangelist not to narrate any further the outward process, where he has already by anticipation substantially given us its result."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We take this interview, then, with some of the ablest interpreters, to be a preliminary and non-official one with Annas, at an hour of the night when Caiaphas' Council could not convene.\" ",
+            "But the building in which both met with Jesus appears to have been the same, the room only being different, and the court, of course, in that case, one.",
+            "This interview...ought not to be confounded with that solemn one recorded by the other Evangelists, when all were assembled and witnesses called."
+        ],
+        "Albert Barnes": [
+            "Compare John 18:13 with Matthew 26:57."
+        ],
+        "Marvin Vincent": [
+            "The best texts insert oun, therefore. The rendering of the aorist by the pluperfect here is inadmissible...",
+            "and is a device to bring this examination of Jesus into harmony with that described in Matthew 26:56-68...",
+            "and to escape the apparent inconsistency between the mention of the high - priest [\u03c7\u03b1\u03b9\u03b1\u03c0\u03b7\u03b1\u03c3] as conducting this examination and the statement of ver. 13..."
+        ],
+        "John Calvin": [
+            "This sentence must be read by way of parenthesis; for, having said that Christ was taken to the house of Annas, and having continued his narrative, as if the assembly of the priests had been held there, the Evangelist now reminds the reader that Christ was taken from the house of Annas to the high priest\u2019s house.",
+            "But as the tense of the Greek verb \u1f00\u03c0\u1f73\u03c3\u03c4\u03b5\u03b9\u03bb\u03b5 has led many people into a mistake, I have preferred translating it by the pluperfect tense, Had sent.",
+            "I have chosen to render it in this way, Annas Had Sent, rather than, Annas Sent."
+        ],
+        "Philip Schaff": [
+            "The difficulty connected with these words will be best explained when we have completed the consideration of the three following verses.",
+            "Annas is so introduced to our notice as to lead us directly back to the \u2018Annas\u2019 of John 18:13.",
+            "It is enough to observe that in the original Annas is so introduced to our notice as to lead us directly back to the \u2018Annas\u2019 of John 18:13."
+        ],
+        "Archibald T. Robertson": [
+            "The preliminary examination by Annas was over.",
+            "Jesus was bound on his arrest and apparently unbound during the preliminary examination by Annas."
+        ],
+        "John Gill": [
+            "Now Annas had sent him bound.... sent him away in this manner.\" ",
+            "his son-in-law, as the more proper person to be examined before.\" ",
+            "This was done before Peter's first denial of Christ."
+        ],
+        "John Wesley": [
+            "Now Annas had sent him to Caiaphas \u2014 As is implied John 18:13.",
+            "Bound \u2014 Being still bound, John 18:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus was brought before Annas for a preliminary examination, not to be confused with the solemn gathering recounted in the other Gospels. This meeting, which took place at night, was with some of the ablest interpreters and served as a non-official proceeding before Caiaphas' Council could convene. Despite the different rooms, Jesus was likely taken to the same building where both Annas and Caiaphas met with Him. While the pluperfect rendering in some texts is inappropriate, it was an attempt to reconcile the examination described in Matthew and the mention of the high-priest conducting the inquiry in verse 13. After this encounter, Jesus, who had been bound upon His arrest, was seemingly unbound during the examination.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 2.041621414922626,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                42.35,
+                26.94,
+                30.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus was brought before Annas for a preliminary examination, not to be confused with the solemn gathering mentioned in the other Gospels. This meeting, with some of the ablest interpreters, served as a non-official proceeding before Caiaphas' Council convened. Despite the different rooms, Jesus was likely taken to the same building where both Annas and Caiaphas met with Him. After this encounter, Jesus, who had been bound upon His arrest, was seemingly unbound during the examination.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.0114405493690626,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                42.2,
+                25.58,
+                32.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus was brought before Annas for a preliminary examination, a non-official proceeding with some of the ablest interpreters. Although different rooms were used, the same building was likely involved. Jesus, who had been bound upon His arrest, appeared to be unbound during the examination. This encounter, distinct from the gathering mentioned in other Gospels, preceded the convening of Caiaphas' Council. Reconciling the examination described in Matthew and the mention of the high-priest conducting the inquiry in verse 13 was attempted through the pluperfect rendering, though its appropriateness in some texts is questionable.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.9205721269854314,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                40.26,
+                28.24,
+                31.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus had a preliminary examination before Annas, a non-official proceeding with able interpreters, distinct from the gathering in the other Gospels. Although different rooms were used, the same building was likely involved. Jesus, initially bound upon arrest, seemed unbound during the examination. This encounter, preceding Caiaphas' Council, aimed to reconcile the examination described in Matthew and the mention of the high-priest conducting the inquiry in verse 13, though the appropriateness of the pluperfect rendering in certain texts is questionable.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9629110070291875,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                40.41,
+                28.79,
+                30.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus underwent a preliminary examination by Annas, a meeting with esteemed interpreters that was separate from the gathering recorded in other Gospels. It is likely that this encounter took place in the same building, albeit different rooms, wherein both Annas and Caiaphas questioned Jesus. During this examination, Jesus, who was initially bound upon His arrest, appeared to be unbound. The attempt to reconcile the examination described in Matthew and the mention of the high priest conducting the inquiry in verse 13 led to the use of the pluperfect rendering, though its validity in certain texts remains under scrutiny.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 2.0985548594345946,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.12,
+            "commentatorTierSimilarities": [
+                41.7,
+                27.23,
+                31.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

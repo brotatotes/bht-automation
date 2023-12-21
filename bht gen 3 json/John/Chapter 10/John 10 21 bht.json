@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:09:48",
+    "verseRef": "John 10:21",
+    "bestBHT": {
+        "bht": "The people were astonished by Jesus' words, as they had never heard a demon-possessed person speak with such divine truth and sobriety. Jesus posed the question of whether a demon could open the eyes of the blind, expecting a negative answer. It was an unanswerable question, as demons are inclined to harm, not help. The preaching of Jesus always evoked strong reactions, either creating enemies or steadfast supporters. Despite divisions caused by disbelief and human passions, the power and wisdom of God cannot be hindered by wicked individuals.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.7449237205655206,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+        "commentatorTierSimilarities": [
+            33.69,
+            37.99,
+            28.32
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The concluding words bind this discourse to the miracle of ch. ix., though not necessarily in immediate connexion."
+        ],
+        "Albert Barnes": [
+            "The preaching of Jesus always produced effect. It made bitter enemies or decided friends.",
+            "So will all faithful preaching.",
+            "It is not the fault of the gospel that there are divisions, but of the unbelief and mad passions of men."
+        ],
+        "Marvin Vincent": [
+            "That hath a devil [\u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5] . Literally, of one demonized. Rev., one possessed with a devil. ",
+            "Can a devil [\u03bc\u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03b1\u03b9] . Surely a demon cannot."
+        ],
+        "John Calvin": [
+            "The truth, as we have said, is strong enough to maintain itself.",
+            "The only protection of our faith, that wicked men will never be able to hinder the power and wisdom of God, and his goodness also, from shining in the Gospel.",
+            "Wicked men will never be able to hinder the power and wisdom of God."
+        ],
+        "Archibald T. Robertson": [
+            "They had heard demoniacs talk, but not like this.",
+            "Can a demon open the eyes of the blind? Negative answer expected.",
+            "Demons would more likely put out eyes, not open them. It was an unanswerable question."
+        ],
+        "John Gill": [
+            "No madman or demoniac, one possessed of a devil, and under the influence of Satan, would ever talk in so divine a manner, and speak such words of truth and soberness.",
+            "if it was in the power of a devil to do such an action, which it is not, yet it is not in his nature, it is not usual with him to do any good; but to do all the hurt he can, both to the bodies and souls of men.",
+            "can a madman, one that is a lunatic, one possessed with the devil, either talk in the manner this man does, or do such wonderful actions as he has done, particularly cure a man that was born blind?"
+        ],
+        "John Wesley": [
+            "These are not the words \u2014 The word in the original takes in actions too."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people listening to Jesus were astounded by his words because they had never heard anyone possessed by a demon speak this way before. Jesus posed the question of whether a demon could actually open the eyes of the blind, suggesting a negative answer was expected. It was an unanswerable question because demons are more likely to harm rather than help. The preaching of Jesus always produced a strong effect, either making enemies or gaining staunch supporters, and this is true for all faithful preaching. Despite divisions caused by unbelief and human passions, the truth of the gospel is powerful enough to maintain itself. No matter how wicked people may be, they will never be able to hinder the power and wisdom of God. It is important to note that the term devil encompasses actions as well, and a madman possessed by a devil could never speak in such divine and truthful manner, let alone perform miraculous actions like curing a man born blind.",
+            "wordCount": 164,
+            "quoteTokenProportion": 38.05,
+            "qualityScore": 1.779859035795322,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "commentatorTierSimilarities": [
+                32.24,
+                36.63,
+                31.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were amazed by Jesus' words because they had never heard a demon-possessed person speak like that. Jesus asked if a demon could open the eyes of the blind, implying a negative response. It was an unanswerable question, as demons are more likely to harm than help. The preaching of Jesus always had a profound impact, either creating adversaries or devoted followers. Despite divisions caused by disbelief and human passions, the truth of the gospel is strong enough to withstand. Wicked individuals cannot obstruct the power and wisdom of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.667529129957488,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                31.73,
+                38.52,
+                29.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people were amazed by Jesus' words because they had never heard a demon-possessed person speak like that. Jesus asked if a demon could open the eyes of the blind, implying a negative response. It was an unanswerable question, as demons are more likely to harm than help. The preaching of Jesus always had a profound impact, either creating adversaries or devoted followers. The truth of the gospel is strong enough to withstand divisions caused by disbelief and human passions. No wicked individual can obstruct the power and wisdom of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.6624228564478338,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "commentatorTierSimilarities": [
+                31.7,
+                38.43,
+                29.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people were astonished by Jesus' words, as they had never heard a demon-possessed person speak with such divine truth and sobriety. Jesus posed the question of whether a demon could open the eyes of the blind, expecting a negative answer. It was an unanswerable question, as demons are inclined to harm, not help. The preaching of Jesus always evoked strong reactions, either creating enemies or steadfast supporters. Despite divisions caused by disbelief and human passions, the power and wisdom of God cannot be hindered by wicked individuals.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7449237205655206,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.36,
+            "commentatorTierSimilarities": [
+                33.69,
+                37.99,
+                28.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' words left the people astounded as they had never heard a demon-possessed person speak with such divine truth and sobriety. Jesus asked if a demon could open the eyes of the blind, hinting at the expected negative answer. It was an unanswerable question since demons are prone to causing harm, not performing acts of goodness. Jesus' preaching consistently invoked strong reactions that either birthed staunch adversaries or devoted followers. Despite divisions caused by unbelief and human passions, the power and wisdom of God cannot be hindered by wicked individuals.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6914215944262803,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                32.22,
+                37.89,
+                29.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

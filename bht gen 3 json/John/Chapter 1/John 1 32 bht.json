@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:03:46",
+    "verseRef": "John 1:32",
+    "bestBHT": {
+        "bht": "At Jesus' baptism, the Spirit descended upon Him as a dove, serving as a distinct sign and testimony to John that Jesus was the awaited Messiah. This sight of the Spirit abiding on Jesus provided a permanent proof of His divine identity. The dove symbolized the everlasting presence of the Spirit on Jesus, indicating an enduring possession. It was during His baptism that Jesus chose to make Himself known to the world and begin His public ministry.",
+        "wordCount": 77,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.12561442090358,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+        "commentatorTierSimilarities": [
+            39.68,
+            29.58,
+            30.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The occurrence related by John happened at the baptism of Jesus, which is therefore here pre-supposed as known, Although this has been questioned, I cannot see how it can be reasonably doubted. We cannot surely suppose that such a sign was twice shewn.\" ",
+            "The account here given confirms the view which I have there maintained, that the appearance was confined to our Lord and the Baptist: he was to receive the sign, and then to testify to the others, who were not themselves yet the bearers, but the recipients of testimony.",
+            "It was seen, in a kind of spiritual vision, by John alone."
+        ],
+        "Albert Barnes": [
+            "Bare record - Gave testimony.",
+            "I saw the Spirit ... - See the notes at Matthew 3:16-17."
+        ],
+        "John Calvin": [
+            "But as the dove was a certain and infallible sign of the presence of the Spirit, it is called the Spirit, by a figure of speech in which one name is substituted for another.",
+            "A question now arises, why didthe Spirit at that time appear in the form of a dove? We must always hold that there is a correspondence between the sign and the reality.",
+            "For we know that he remained in concealment, during thirty years, like a private individual, because the time for his manifestation was not yet come; but when he intended to make himself known to the world, he began with his baptism."
+        ],
+        "Philip Schaff": [
+            "I have beheld the Spirit descending. The effect of what the Baptist had seen had remained, and still remains, with him in all its power: 'I have beheld.'",
+            "And it abode upon him. John had not merely seen the Spirit descend with dove-like motion upon Jesus; he had also seen that it 'abode' upon Him, the symbol of an abiding and permanent possession."
+        ],
+        "Archibald T. Robertson": [
+            "Another specimen of John's witness to the Messiah.",
+            "The realization of the promise of the sign (verse John 1:33) by which he should recognize the Messiah.",
+            "This sight of the Spirit descending as a dove upon Jesus at his baptism became permanent proof to him."
+        ],
+        "John Gill": [
+            "I saw the Spirit... descending from heaven like a dove.\" ",
+            "It abode upon him... John had a full sight of it.",
+            "Bearing a certain and distinct testimony to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the baptism of Jesus, John witnessed the Spirit descending upon Him in the form of a dove. This sign, seen by John alone, confirmed his view that Jesus was the awaited Messiah. The Spirit's descent and abiding presence on Jesus served as a permanent and distinct testimony to John. The dove, a sign of the Spirit's presence, symbolized an abiding and permanent possession. Jesus chose this moment to reveal Himself and fulfill the promise of the sign, marking the beginning of His public ministry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.092738083540718,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.92,
+            "commentatorTierSimilarities": [
+                39.94,
+                29.44,
+                30.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At Jesus' baptism, John witnessed the Spirit descending upon Him like a dove, confirming Jesus as the Messiah. This sign, seen by John alone, served as a permanent testimony that remained with him in all its power. The dove symbolized the abiding presence of the Spirit on Jesus, signifying an enduring possession. Jesus chose this significant moment to reveal Himself and fulfill the promised sign, marking the beginning of His public ministry.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.049369409527584,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                39.5,
+                30.9,
+                29.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the baptism of Jesus, John witnessed the Spirit descending like a dove upon Him. This sign confirmed Jesus as the awaited Messiah and served as a permanent proof. The dove symbolized the abiding presence of the Spirit on Jesus, signifying an enduring possession. Jesus chose this moment to reveal Himself and begin His public ministry. This sight, seen by John alone, was a distinct testimony to Jesus' divinity.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.0265698214883194,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.72,
+            "commentatorTierSimilarities": [
+                40.97,
+                29.39,
+                29.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At Jesus' baptism, John witnessed the Spirit descending upon Him in the form of a dove. This sign confirmed Jesus as the awaited Messiah and served as a permanent proof. The dove symbolized the abiding and permanent presence of the Spirit on Jesus. Seen by John alone, this sight provided a distinct testimony to Jesus' divinity and marked the beginning of His public ministry.",
+            "wordCount": 64,
+            "quoteTokenProportion": 34.88,
+            "qualityScore": 2.1109531520162887,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.53,
+            "commentatorTierSimilarities": [
+                40.32,
+                29.4,
+                30.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At Jesus' baptism, the Spirit descended upon Him as a dove, serving as a distinct sign and testimony to John that Jesus was the awaited Messiah. This sight of the Spirit abiding on Jesus provided a permanent proof of His divine identity. The dove symbolized the everlasting presence of the Spirit on Jesus, indicating an enduring possession. It was during His baptism that Jesus chose to make Himself known to the world and begin His public ministry.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.12561442090358,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+            "commentatorTierSimilarities": [
+                39.68,
+                29.58,
+                30.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

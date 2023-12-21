@@ -1,0 +1,108 @@
+{
+    "timestamp": "12-21-2023 03:09:02",
+    "verseRef": "John 9:23",
+    "bestBHT": {
+        "bht": "For this reason, the parents of the man born blind exercised caution and replied, He is of age. Recognizing the weighty implications associated with acknowledging the miraculous healing, they chose to tread carefully.",
+        "wordCount": 33,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.2048597758782928,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.41,
+        "commentatorTierSimilarities": [
+            57.7,
+            0.0,
+            42.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Therefore (\u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf). \"For this reason.\" Reason enough for due caution. "
+        ],
+        "John Gill": [
+            "Therefore said his parents, he is of age,....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For this reason, the parents of the man born blind responded cautiously when questioned about his healing, saying that he was of age. They understood the potential implications and consequences that could arise from openly acknowledging the miracle.",
+            "wordCount": 38,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 0.7719020430074047,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.01,
+            "commentatorTierSimilarities": [
+                40.06,
+                0.0,
+                59.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For this reason, the parents of the man born blind responded cautiously, saying that he was of age. They understood the potential implications and consequences that could arise from openly acknowledging the miracle.",
+            "wordCount": 33,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 0.9392767587061704,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.58,
+            "commentatorTierSimilarities": [
+                44.82,
+                0.0,
+                55.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For this reason, the parents of the man born blind responded with caution, affirming that he was of age. They were aware of the possible outcomes and repercussions that could result from openly acknowledging the miracle.",
+            "wordCount": 36,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 0.9691857930551572,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.57,
+            "commentatorTierSimilarities": [
+                51.57,
+                0.0,
+                48.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For this reason, the parents of the man born blind exercised caution and replied, He is of age. Recognizing the weighty implications associated with acknowledging the miraculous healing, they chose to tread carefully.",
+            "wordCount": 33,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.2048597758782928,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.41,
+            "commentatorTierSimilarities": [
+                57.7,
+                0.0,
+                42.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For this reason, the parents of the man born blind responded cautiously, acknowledging that he was of age. Understanding the potential consequences of openly acknowledging the miraculous healing, they chose their words wisely.",
+            "wordCount": 33,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.835261181782528,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.12,
+            "commentatorTierSimilarities": [
+                43.29,
+                0.0,
+                56.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:52",
+    "verseRef": "John 11:47",
+    "bestBHT": {
+        "bht": "The chief priests, the fierce adversaries of Christ, were aware of the reality of His miracles and the undeniable impact they had on the people. Stricken with fear, they gathered to discuss their next move, acknowledging the signs and wonders performed by Jesus. However, their blindness prevented them from recognizing the urgency to believe in Him. While Jesus was actively teaching and working miracles, they remained idle, failing to grasp the imminent consequences of their actions. Their question, What do we? revealed not only their reproachful selves but also their ignorance of the truth.",
+        "wordCount": 94,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.729155757131383,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.84,
+        "commentatorTierSimilarities": [
+            28.06,
+            43.78,
+            28.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "While we trifle, 'this man,' by His 'many miracles,' will carry all before Him; the popular enthusiasm will bring on a revolution, which will precipitate the Romans upon us, and our all will go down in one common ruin.",
+            "What a testimony to the reality of our Lord's miracles, and their resistless effect, from His bitterest enemies!",
+            "The reality of our Lord's miracles, and their resistless effect."
+        ],
+        "Albert Barnes": [
+            "For this man doeth many miracles - If they admitted that he performed miracles, it was clear what they ought to do. They should have received him as the Messiah.\" (32 words)",
+            "If they really believed that he worked miracles, why did they not believe on him? To this it may be replied that they did not doubt that impostors might work miracles.\" (36 words)",
+            "As they regarded the tendency of the doctrines of Jesus to draw off the people from the worship of God, and from keeping his law, they did not suppose themselves bound to follow him, even if he did work miracles.\" (31 words)"
+        ],
+        "Marvin Vincent": [
+            "The Sadducees, represented by the chief priests, are the leaders in the more decisive measures against Christ.\" (Commentary)",
+            "The chief priests are the deadly enemies of Christ.\" (Commentary)",
+            "This man is at work teaching and working miracles, and what are we doing?\" (Commentary)"
+        ],
+        "John Calvin": [
+            "Not less monstrous is the blindness of the priests, which is here described.",
+            "They unquestionably fight against that power openly by presumption and sacrilege.",
+            "They here employ their own industry as a shield against the Divine power, as if by perseverance they could vanquish God."
+        ],
+        "Philip Schaff": [
+            "Here, probably for the first time in this Gospel, we read of a meeting of the Sanhedrin, not a formal meeting, but one hastily summoned in the sudden emergency that had arisen.",
+            "The question 'What do we?' is not so much deliberative (What are we to do?) as reproachful of themselves, What are we doing?",
+            "The Evangelist is careful to preserve their testimony against themselves; in the moment of their rage they acknowledge the 'many signs' of Jesus, and confess themselves without excuse."
+        ],
+        "Archibald T. Robertson": [
+            "What are we doing?\" (\u03a4 \u03c0\u03bf\u03b9\u03bf\u03c5\u03bc\u03b5\u03bd;)",
+            "He is active and we are idle.\" (He is active and we are idle.)",
+            "There is no mention of the raising of Lazarus as a fact, but it is evidently included in the 'many signs.'\" (There is no mention of the raising of Lazarus as a fact, but it is evidently included in the 'many signs.')"
+        ],
+        "John Gill": [
+            "Why is nothing done? Why are we so dilatory? Why do we sit still, and do nothing?\" ",
+            "This man doth many miracles; this is owned, and could not be denied by them.\" ",
+            "They used it as a reason, why they should think of, and concert some measures, to hinder and put a stop to the belief of him as such."
+        ],
+        "John Wesley": [
+            "What do we? \u2014 What? Believe. Yea, but death yields to the power of Christ sooner than infidelity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests, representing the Sadducees and the deadly enemies of Christ, were filled with fear and jealousy as they witnessed the reality of Jesus' miracles and their resistless effect. They recognized that while they were idle, this man was actively teaching and working signs. In their desperation, they convened a meeting to deliberate on their next move, acknowledging the multitude of signs Jesus had performed. However, their blindness and resistance against divine power blinded them to the truth that these miracles were a testimony to the reality of Jesus and the urgency to believe. Their words, What do we?, echoed not only their reproachful selves but also their ignorance of the impending consequences of their actions.",
+            "wordCount": 117,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.6924448867291892,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                29.26,
+                44.0,
+                26.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests, the fierce adversaries of Christ, were aware of the reality of His miracles and the undeniable impact they had on the people. Stricken with fear, they gathered to discuss their next move, acknowledging the signs and wonders performed by Jesus. However, their blindness prevented them from recognizing the urgency to believe in Him. While Jesus was actively teaching and working miracles, they remained idle, failing to grasp the imminent consequences of their actions. Their question, What do we? revealed not only their reproachful selves but also their ignorance of the truth.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.729155757131383,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.84,
+            "commentatorTierSimilarities": [
+                28.06,
+                43.78,
+                28.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests, representing the Sadducees and the bitter enemies of Christ, acknowledged the reality of His miracles and their undeniable impact. Filled with fear and jealousy, they convened a meeting to discuss their next move. They recognized that while they remained idle, Jesus was actively teaching and performing signs. Despite their blindness, they unwittingly testified against themselves, confessing their lack of excuse in the face of Jesus' many signs. Their question, What do we? revealed their reproachful selves and their ignorance of the inevitable consequences.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.587661302047679,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "commentatorTierSimilarities": [
+                28.51,
+                43.59,
+                27.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing the reality of Jesus' miracles and their undeniable effect, the chief priests, the deadly enemies of Christ, convened to confront the urgency of the situation. While they idly stood by, Jesus was actively teaching and working signs. Their fear and jealousy prompted them to ask, What do we? However, their blindness prevented them from realizing the true consequences and their own lack of excuse. Their testimony against themselves served as evidence of their desperation and ignorance in the face of Jesus' undeniable power.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.604054879797944,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.68,
+            "commentatorTierSimilarities": [
+                28.44,
+                39.6,
+                31.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests, representing the Sadducees, acknowledged the impact of Jesus' miracles and feared the potential revolution that his popularity could bring upon them. They recognized their own inaction in contrast to Jesus' active teaching and miraculous works. Blinded by their hatred, they failed to fully comprehend the significance of his signs. Their question, What do we?, revealed not only their reproachful selves but also their ignorance of the impending consequences of their actions. Their desperate attempts to suppress the belief in Jesus were futile in the face of the undeniable power he displayed.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.6233143626232915,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                26.84,
+                42.28,
+                30.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:08:58",
+    "verseRef": "John 8:23",
+    "bestBHT": {
+        "bht": "Jesus declares that those who oppose him are unable to come where he is going because they originate from a different place. He comes from above, contrasting himself with mankind, who are born from and belong to this earthly order. The fundamental difference in their origin and nature makes it impossible for them to have fellowship or dwell together eternally. These individuals are influenced by sensual and corrupt passions and have a dislike for the heavenly kingdom. Jesus, however, offers a higher perspective that is free from earthly and corrupt notions.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.9253937901747604,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+        "commentatorTierSimilarities": [
+            34.43,
+            37.54,
+            28.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye cannot come where I am going, because we both shall return thither whence we came.",
+            "I to the Father from Whom (from above) I came: ye to the earth and under the earth (for that more awful meaning surely is not excluded) whence ye came.",
+            "Then the term this world of course does not only imply \u2018this present state of things, but involves the deeper meaning, of the origin of that state of things (see ver. 44) and its end, ver. 24."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye are from beneath; I am from above\u2014contrasting Himself, not as in simply with earthborn messengers of God, but with men sprung from and breathing an opposite element from His, which rendered it impossible that He and they should have any present fellowship, or dwell eternally together.",
+            "Rendered it impossible that He and they should have any present fellowship, or dwell eternally together.",
+            "Contrasting Himself, not as in simply with earthborn messengers of God, but with men sprung from and breathing an opposite element from His."
+        ],
+        "Albert Barnes": [
+            "You are of the earth, or are influenced by earthly, sensual, and corrupt passions.",
+            "My views are above these earthly and corrupt notions.",
+            "We see here how difficult it is to excite wicked men to the contemplation of heavenly things."
+        ],
+        "Marvin Vincent": [
+            "Jesus states the radical antagonism between His opposers and Himself, as based upon difference of origin and nature.",
+            "They spring from the lower, sensual, earthly economy; He from the heavenly.",
+            "Ye are of this earthly order or economy."
+        ],
+        "John Calvin": [
+            "He declares that they do not receive his doctrine, because they have an utter dislike of the kingdom of God.",
+            "The Gospel is heavenly wisdom, but our mind grovels on the earth.",
+            "No man will ever be qualified to become a disciple of Christ, till Christ has formed him by his Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "This language, peculiar to John, could take up the idea in Josephus that these rabbis came from Gehenna whence they will go as children of the devil (John 8:44).",
+            "The contrast between \u03ba\u03b1\u03c4\u03c9 and \u03b1\u03bd\u03c9 here is between the earthly (sensual) and the heavenly.",
+            "The contrast is complete in origin and character, already stated in John 3:31, and calculated to intensify their anger."
+        ],
+        "John Gill": [
+            "Ye are of this world; they were, as they were born into the world, sinful, carnal, and corrupt; they were in it, and belonged to it, had never been chosen, or called out of it...",
+            "I am not of this world; he was in it, but not of it; he was come into it to save the chief of sinners, but he did not belong to it, nor did he conform to it...",
+            "nor did he pursue the pleasures, honours, and riches of this world, being all his days a man of sorrows, and despised of men; and though Lord of all, had not where to lay his head."
+        ],
+        "John Wesley": [
+            "Ye are... Of them that are beneath.",
+            "I am of them that are above.",
+            "Here he directly shows whence he came, even from heaven, and whither he goes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares that those who oppose him are unable to come where he is going because they originate from a different place. He comes from above, contrasting himself with mankind, who are born from and belong to this earthly order. The fundamental difference in their origin and nature makes it impossible for them to have fellowship or dwell together eternally. These individuals are influenced by sensual and corrupt passions and have a dislike for the heavenly kingdom. Jesus, however, offers a higher perspective that is free from earthly and corrupt notions. The Gospel is heavenly wisdom, but the minds of these individuals are fixated on earthly matters. Only through the transformative work of Christ's Spirit can one become qualified to be his disciple. Jesus, the one who does not belong to this world, chose to enter it to save sinners, yet he did not conform to its sinful ways, pursuing worldly pleasures, honors, and riches. Rather, he lived a life of suffering and was despised by men, despite being Lord of all. Jesus comes from above, from heaven, and makes it clear that this is his source and ultimate destination.",
+            "wordCount": 191,
+            "quoteTokenProportion": 39.52,
+            "qualityScore": 1.7996430927297746,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                32.12,
+                35.14,
+                32.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus explains that those who oppose him cannot join him in his future destination because they come from a different place, the earthly and sensual realm, while he comes from above, from the heavenly realm. This radical difference in origin and nature creates an insurmountable barrier to fellowship and eternal dwelling. These individuals are fixated on worldly matters and harbor a dislike for the heavenly kingdom. Jesus, on the other hand, offers a higher perspective that transcends earthly and corrupt notions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8411639031188098,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                34.8,
+                39.99,
+                25.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus declares that those who oppose him are unable to come where he is going because they originate from a different place. He comes from above, contrasting himself with mankind, who are born from and belong to this earthly order. The fundamental difference in their origin and nature makes it impossible for them to have fellowship or dwell together eternally. These individuals are influenced by sensual and corrupt passions and have a dislike for the heavenly kingdom. Jesus, however, offers a higher perspective that is free from earthly and corrupt notions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.9253937901747604,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                34.43,
+                37.54,
+                28.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reveals that those who oppose him cannot accompany him to his destination because they come from a different place. He originates from above, in stark contrast to humanity's earthly origin. This disparity in origin and nature makes it impossible for Jesus and his opponents to have present fellowship or dwell together eternally. They are driven by sensual and worldly desires, harboring disdain for the heavenly kingdom. Jesus, however, offers a heavenly perspective that transcends earthly and corrupt notions, inviting them to a higher way.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8901511886273394,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                36.74,
+                36.4,
+                26.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus explains that those who oppose him cannot join him in his future destination because they originate from a different place. He comes from above, contrasting himself with mankind, who belong to this earthly order. The difference in their origin and nature renders it impossible for them to have fellowship or dwell together eternally. These individuals are influenced by sensual and corrupt passions and have a dislike for the heavenly kingdom. Jesus, however, offers a higher perspective that is free from earthly and corrupt notions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.902259516729489,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                34.24,
+                37.86,
+                27.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

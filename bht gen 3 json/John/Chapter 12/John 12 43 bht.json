@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:11:24",
+    "verseRef": "John 12:43",
+    "bestBHT": {
+        "bht": "Many chose the admiration of others over God's approval, which displayed their lack of genuine faith. Their preference for human praise rather than the glory of God was displeasing to Him. This decision highlighted their speculative conviction of Jesus, rather than an active, self-denying belief. However, valuing the applause of men over God's judgment is foolish and even repugnant. They were unwilling to confess Christ, fearing the loss of their positions and the contempt of others, ultimately forsaking God's praise.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.7697571102407508,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+        "commentatorTierSimilarities": [
+            23.61,
+            35.43,
+            40.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "43.] is a reference to ch. v. 44."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They loved the praise of men more than the praise of God.\" ",
+            "A severe remark, considering that several at least of these persons afterwards boldly confessed Christ.\" ",
+            "It indicates the displeasure with which God regarded their conduct at this time, and with which He continues to regard similar conduct."
+        ],
+        "Albert Barnes": [
+            "They had that kind of faith which is so common among people - a speculative acknowledgment that religion is true, but an acknowledgment which leads to no self-denial, which shrinks from the active duties of piety, and fears man more than God.",
+            "True faith is active. It overcomes the fear of man; it prompts to self-denying duties.",
+            "Nevertheless, it was no unimportant proof that Jesus was the Messiah, that any part of the great council of the Jews were even speculatively convinced of it."
+        ],
+        "Marvin Vincent": [
+            "Praise [\u03b4\u03bf\u03be\u03b1\u03bd] . Much better, Rev., glory, because suggesting a contrast with the vision of divine glory referred to in ver. 41.",
+            "Than [\u03b7\u03c0\u03b5\u03c1] The word cannot be rendered by a corresponding word in English The force is, 'more than the glory of God, though He is so much more glorious.'",
+            "The word is found nowhere else in the New Testament. Some authorities read uper, above."
+        ],
+        "John Calvin": [
+            "Can any thing be more foolish, or rather, can any thing be more beastly, than to prefer the silly applause of men to the judgment of God?",
+            "By these words he means that, when any person has fixed his eyes on God, his heart will be invincible, and utterly incapable of being moved.",
+            "For, on the contrary, the Holy Spirit declares that it is more base and monstrous than if heaven and earth were mingled."
+        ],
+        "Philip Schaff": [
+            "Because they loved the glory of men more than the glory of God.",
+            "The solution of the difficulty is to be found in observing (1) that the 'glory' here referred to is that of John 12:23; John 12:41, a glory involving the unity of Jesus and His people.",
+            "Let the latter identify themselves with the former, take up His cross, have part in His sufferings and death, 'confess' Him, and they shall also be partakers of His 'glory.'"
+        ],
+        "John Gill": [
+            "For they loved the praise of men... more than the praise of God.\" ",
+            "By confessing Christ they knew they should run the risk of losing their places of honour and profit, and of falling under the disgrace and contempt of men.",
+            "They chose rather not to confess Christ, than by so doing to glorify God, and please him, and be praised by him, as all the faithful professors of Christ will be at the last day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many of the people in this verse loved the praise of men more than the praise of God. This displeased God and showed their lack of true faith. Rather than having an active, self-denying faith, they had a faith that was only speculatively convinced of Jesus. They preferred the glory of men over the glory of God, even though God's glory is so much greater. This foolish choice to prioritize the applause of men over the judgment of God is base and monstrous. They were unwilling to confess Christ and risk losing their positions and facing contempt, instead choosing to displease God and forfeit His praise.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8116162444694535,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                23.23,
+                36.78,
+                39.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many chose the admiration of others over God's approval, which displayed their lack of genuine faith. Their preference for human praise rather than the glory of God was displeasing to Him. This decision highlighted their speculative conviction of Jesus, rather than an active, self-denying belief. However, valuing the applause of men over God's judgment is foolish and even repugnant. They were unwilling to confess Christ, fearing the loss of their positions and the contempt of others, ultimately forsaking God's praise.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.7697571102407508,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+            "commentatorTierSimilarities": [
+                23.61,
+                35.43,
+                40.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in this passage loved the praise of men more than the praise of God, which showed their lack of true faith. Their choice to prioritize the glory of men over the glory of God displeased Him. They were only speculatively convinced of Jesus, without an active, self-denying faith. However, valuing human applause over God's judgment is not only foolish but also beastly. They refused to confess Christ, fearing the loss of their positions and the contempt of others, willingly forfeiting God's praise.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7980415588868444,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                22.08,
+                38.02,
+                39.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many preferred the admiration of others over God's approval, revealing a lack of genuine faith. They placed the glory of men above the glory of God, which displeased Him. Their speculative conviction of Jesus lacked an active faith that would lead to self-denial. Yet, valuing human applause more than God's judgment is both foolish and beastly. Instead of confessing Christ and risking their status and reputation, they chose to displease God, forsaking His praise.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.7415141355725878,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                22.92,
+                36.15,
+                40.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in this verse loved the praise of men more than the praise of God. Their conduct was displeasing to God, indicating His disapproval. Their speculatively convinced faith lacked self-denial and the courage to confess Christ. Preferring the glory of men over the glory of God was foolish, even beastly. They feared losing their positions and falling into contempt, thus failing to please God and receive His praise.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.809336307566589,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                24.85,
+                33.37,
+                41.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:10:47",
+    "verseRef": "John 12:4",
+    "bestBHT": {
+        "bht": "Only someone with thoughts alien from Jesus could have murmured about the costly devotion Mary showed, contrasting her love with the forthcoming betrayal of Judas. The rebuke of the Lord may have stimulated his long-hidden traitorous scheme. Judas, who would betray Jesus, grudgingly criticized Mary's extravagant display of faith, showcasing the shameful fact that clung to his name. Mary's devotion inadvertently contributed to the honor of the dead, while Judas, driven by selfishness, unknowingly played a role in Jesus' eventual death.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0181036026872716,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+        "commentatorTierSimilarities": [
+            33.17,
+            48.47,
+            18.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Only one with thoughts alien from Jesus could have originated such a murmur.",
+            "And on the other hand, it may well be, as some have supposed, that by the rebuke of the Lord on this occasion, the traitorous scheme of Judas, long hidden in his inmost soul, may have been stimulated to immediate action.",
+            "For example, Nicodemus, Joseph, and others like them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. Judas . . . who should betray",
+            "\thim\u2014For the reason why this is here mentioned, see on :-."
+        ],
+        "Marvin Vincent": [
+            "Simon 's son. Omit."
+        ],
+        "John Calvin": [
+            "But the credulity which the Spirit of God reproves in the Apostles is a warning to us not to be too easy and credulous in listening to calumnious statements.",
+            "...murmurings, by fanning a flame, easily kindle in us a variety of dispositions...",
+            "It is customary in Scripture to apply to many, by way of synecdoche, what belongs to one or to a few."
+        ],
+        "Philip Schaff": [
+            "After the picture of the highest loving homage to Him whom the Jewish rulers had adjudged to death, the Evangelist gives the contrasted view of an apostle...\" ",
+            "...who, apostle as he was, would shortly be seeking to betray his Lord...",
+            "...and who showed the present workings of his heart by grudging the lavish expression of Mary\u2019s faith and love."
+        ],
+        "Archibald T. Robertson": [
+            "Clearly then both father and son were called 'Iscariot' or man of Kerioth in the tribe of Judah.\" ",
+            "This is the shameful fact that clung to the name of Judas.\" ",
+            "Mary in her devotion unconsciously provides for the honour of the dead. Judas in his selfishness unconsciously brings about the death itself."
+        ],
+        "John Gill": [
+            "Who had no true love for his master, was an hypocrite, and a covetous person.",
+            "This was pre-determined by God, foretold in prophecy, and foreknown by Christ.",
+            "To show the temper and character of the man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Only someone with thoughts alien from Jesus would have murmured about the costly devotion Mary showed towards Him. This contrast between Mary's love and the betrayal to come from Judas, whose traitorous scheme was stimulated by the rebuke of the Lord, is significant. Judas, who would ultimately betray Jesus, grudgingly criticized Mary's extravagant display of faith and love. The name Iscariot clung to both Judas and his father, revealing the shameful fact of his betrayal. Mary, in her devotion, honored the dead, unwittingly paving the way for the death itself that Judas, in his selfishness, would bring about.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.002465405672731,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                33.08,
+                47.57,
+                19.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Only someone with thoughts alien from Jesus would have murmured about the costly devotion Mary showed towards Him. This contrast between Mary's love and the betrayal of Judas, stimulated by the rebuke of the Lord, is significant. Judas, who would ultimately betray Jesus, grudgingly criticized Mary's extravagant display of faith and love, revealing the shameful fact of his betrayal. Mary, in her devotion, unwittingly paved the way for the death itself that Judas, in his selfishness, would bring about.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.996405265406118,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                31.79,
+                49.15,
+                19.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Only someone with thoughts alien from Jesus would have murmured about the costly devotion Mary showed towards Him. This contrast between Mary's love and the betrayal of Judas, stimulated by the rebuke of the Lord, is significant. Judas, who would ultimately betray Jesus, grudgingly criticized Mary's extravagant display of faith and love, revealing the shameful fact of his betrayal. Mary, in her devotion, unwittingly paved the way for the death itself that Judas, in his selfishness, would bring about.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.996405265406118,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                31.79,
+                49.15,
+                19.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Only someone with thoughts alien from Jesus could have murmured about the costly devotion Mary showed, contrasting her love with the forthcoming betrayal of Judas. The rebuke of the Lord may have stimulated his long-hidden traitorous scheme. Judas, who would betray Jesus, grudgingly criticized Mary's extravagant display of faith, showcasing the shameful fact that clung to his name. Mary's devotion inadvertently contributed to the honor of the dead, while Judas, driven by selfishness, unknowingly played a role in Jesus' eventual death.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0181036026872716,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                33.17,
+                48.47,
+                18.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Only one with thoughts alien from Jesus could have originated such a murmur. The rebuke of the Lord on this occasion may have stimulated the traitorous scheme of Judas. Judas, who would betray Jesus, grudgingly criticized Mary's devotion, revealing the shameful fact that clung to his name. Mary, in her selfless act, unknowingly provided honor for the dead, while Judas, driven by selfishness, unwittingly played a role in Jesus' eventual death.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.930826928899109,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                35.79,
+                43.51,
+                20.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

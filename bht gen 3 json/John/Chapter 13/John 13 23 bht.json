@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:12:08",
+    "verseRef": "John 13:23",
+    "bestBHT": {
+        "bht": "During the Last Supper, the disciples reclined at the table in the Persian manner, with their heads near the breast of the one on their right. John, whom Jesus loved, modestly denotes himself as the disciple reclining next to Jesus on His right, leaning back on Him. As John laid obliquely with his head on Jesus' bosom, he had the honor of being in close proximity to the Savior. This seating arrangement allowed for intimate conversation between John and Jesus, demonstrating the significance of their relationship.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.3118905711353896,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.21,
+        "commentatorTierSimilarities": [
+            36.2,
+            32.6,
+            31.2
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Since the captivity, the Jews lay at table in the Persian manner, on divans or couches, each on his left side with his face towards the table, his left elbow resting on a pillow and supporting his head.",
+            "Thus the second guest to the right hand lay with his head near the breast of the first, and so on.",
+            "whom Jesus loved] The disciple meant is John himself, see ch. xxi. 20; also designated thus, ch. xix. 26; xxi. 7 (see Introduction to John,\u00a7i. 6)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus modestly does our Evangelist denote himself, as reclining next to Jesus at the table.",
+            "reclining probably at the corresponding place on the other side of Jesus.",
+            "Peter . . . beckoned to him to ask who it should be of whom he spake."
+        ],
+        "Albert Barnes": [
+            "This does not mean that he was at that time actually lying on his bosom, but that he occupied a situation next to him at the table, so that his head naturally fell back on his bosom when he spoke to him.",
+            "John was admitted to special friendship, perhaps, because the natural disposition of our Saviour was more nearly like the amiableness and mildness of John than any of the other disciples.",
+            "The highest honor that can be conferred on any man is to say that Jesus loved him. Yet this is an honor which all may possess, but which none can inherit without his spirit and without loving him."
+        ],
+        "Marvin Vincent": [
+            "Was leaning on Jesus' bosom. As the guests reclined upon the left arm, the feet being stretched out behind, the head of each would be near the breast of his companion on the left.",
+            "John's position relatively to the other guests. As the guests reclined upon the left arm, the feet being stretched out behind, the head of each would be near the breast of his companion on the left.",
+            "John, being in front of Him, could readily lean back and speak to Him."
+        ],
+        "John Calvin": [
+            "The peculiar love with which Christ loved John plainly testifies that, if we love some more than others, this is not always inconsistent with brotherly love.",
+            "With us the case is widely different, for such is the vanity of our mind, that there are few who, in loving men, approach more nearly to God.",
+            "What is here related by John might be regarded in the present day as indecorous; but such was, at that time, the manner of being placed at table."
+        ],
+        "Philip Schaff": [
+            "There was reclining at meat in Jesus\u2019 bosom one of his disciples.",
+            "The reason for the original injunction no longer existing, it had been permitted to fall aside; and our Lord recognised the propriety of the change.",
+            "The universal tradition of the Church, as well as the information afforded by the gospel itself... leave no doubt that this disciple was John himself."
+        ],
+        "Archibald T. Robertson": [
+            "No word for 'table' in the text.",
+            "John's description of himself of which he was proud.",
+            "At the table John was on the right of Jesus lying obliquely so that his head lay on the bosom of Jesus."
+        ],
+        "John Gill": [
+            "The posture of the Jews at table, was either 'sitting' or 'lying', and a difference they make between these two.\" ",
+            "For John to lie next to Jesus, and as it were to lean on his bosom, showed how much he was respected and honored by him.",
+            "Christ, as the Son of God, and surety of his people, loved his true disciples, as he does all his elect, alike; not one more than the other; but as man, he had a particular affection for this disciple, and therefore admitted him near his person, and was very familiar with him."
+        ],
+        "John Wesley": [
+            "There was lying in the bosom of Jesus... And each was said to lie in the bosom of him who was placed next above him.",
+            "St. John avoids with great care the expressly naming himself.",
+            "Perhaps our Lord now gave him the first proof of his peculiar love, by disclosing this secret to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the Last Supper, the disciples were reclining at the table in the Persian manner, with each on his left side facing the table, their heads near the breast of the one on their right. John, whom Jesus loved, modestly denotes himself as the disciple reclining next to Jesus, on His right, probably leaning back on Him. This seating arrangement allowed John to readily lean back and speak to Jesus. As John was laying obliquely with his head on Jesus' bosom, he had the privilege of being in close proximity to the Savior. It is worth noting that John, in his description, takes pride in his position with Jesus.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.3514477982213027,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.53,
+            "commentatorTierSimilarities": [
+                36.32,
+                32.76,
+                30.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Last Supper, the disciples reclined at the table in the Persian manner, with their heads near the breast of the one on their right. John, whom Jesus loved, modestly denotes himself as the disciple reclining next to Jesus on His right, leaning back on Him. As John laid obliquely with his head on Jesus' bosom, he had the honor of being in close proximity to the Savior. John takes pride in this special position, marking it as a unique privilege.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2149591180260915,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                34.81,
+                33.42,
+                31.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Last Supper, the disciples reclined at the table in the Persian manner, with their heads near the breast of the one on their right. John, whom Jesus loved, modestly denotes himself as the disciple reclining next to Jesus on His right, leaning back on Him. As John laid obliquely with his head on Jesus' bosom, he had the honor of being in close proximity to the Savior. John takes pride in this special position, marking it as a unique privilege.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2149591180260915,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                34.81,
+                33.42,
+                31.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Last Supper, the disciples reclined at the table in the Persian manner, with their heads near the breast of the one on their right. John, whom Jesus loved, modestly denotes himself as the disciple reclining next to Jesus on His right, leaning back on Him. As John laid obliquely with his head on Jesus' bosom, he had the honor of being in close proximity to the Savior. John takes pride in this special position, marking it as a unique privilege.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2149591180260915,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                34.81,
+                33.42,
+                31.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the Last Supper, the disciples reclined at the table in the Persian manner, with their heads near the breast of the one on their right. John, whom Jesus loved, modestly denotes himself as the disciple reclining next to Jesus on His right, leaning back on Him. As John laid obliquely with his head on Jesus' bosom, he had the honor of being in close proximity to the Savior. This seating arrangement allowed for intimate conversation between John and Jesus, demonstrating the significance of their relationship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.3118905711353896,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.21,
+            "commentatorTierSimilarities": [
+                36.2,
+                32.6,
+                31.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:53",
+    "verseRef": "John 11:55",
+    "bestBHT": {
+        "bht": "Before the Passover, many from the country went up to Jerusalem to purify themselves so that they could partake in the feast. This purification was not simply a physical journey, but also a spiritual preparation to observe the Passover according to the commands of the law. The significance of this time was profound, as it marked a pivotal moment for Jesus. People from all over Palestine and beyond gathered in Jerusalem to seek the necessary preparation for the approaching Passover.",
+        "wordCount": 80,
+        "quoteTokenProportion": 46.43,
+        "qualityScore": 2.063486781020454,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+        "commentatorTierSimilarities": [
+            27.14,
+            35.89,
+            36.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words, the country, do not mean that country, spoken of in the last verse, but, the country generally.",
+            "They went up thus early, that they might have time to purify themselves from any Levitical uncleanness, that they might be able to keep the P: over.",
+            "They went up thus early, that they might have time to purify themselves from any Levitical uncleanness, that they might be able to keep the P: over."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Many went . . . up . . . before the passover, to purify themselves.",
+            "This is mentioned to introduce the graphic statement which follows.",
+            "which would have disqualified them from keeping the feast."
+        ],
+        "Albert Barnes": [
+            "Its being called the Jews' Passover shows that John wrote this gospel among people who were not Jews, and to whom it was necessary, therefore, to explain their customs.",
+            "This purifying consisted in preparing themselves for the proper observation of the Passover, according to the commands of the law.",
+            "Different periods were necessary in order to be cleansed from ceremonial pollution."
+        ],
+        "John Calvin": [
+            "Many from that country went up to Jerusalem.",
+            "No unclean person, indeed, was permitted to eat.",
+            "This sanctification was undertaken voluntarily and from their own inclination."
+        ],
+        "Philip Schaff": [
+            "No one who has followed the narrative of this Gospel with care up to the present point can doubt that the expression is used with deep, indeed with terrible significance.",
+            "It does not appear that there was any special injunction with regard to purification before the Passover... There can be no doubt, however, that it fell under the general law of purification.",
+            "These strangers from the country, therefore, assembled in Jerusalem several days before the festival, that in the holy city they might seek the preparation that was requisite."
+        ],
+        "Archibald T. Robertson": [
+            "This last passover was the time of destiny for Jesus.",
+            "All this took time. These came 'from the country,' from all over Palestine, from all parts of the world, in fact.",
+            "John simply assumes the Synoptic narrative and gives the picture of things in and around Jerusalem just before the passover."
+        ],
+        "John Gill": [
+            "Christ... put an end to [the passover], and all other ceremonial observances.",
+            "Many went before that time... that they might cleanse themselves, and be ready at the time [of the passover].",
+            "In several cases purification was required... which by reason of distance, might be neglected; wherefore it was necessary they should come up before the time of the passover, to fit themselves for it."
+        ],
+        "John Wesley": [
+            "Many went up to purify themselves \u2014 That they might remove all hinderances to their eating the passover."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many from the country went up to Jerusalem before the Passover, purifying themselves so that they could partake in the feast. This was not merely a journey of physical distance, but also a spiritual preparation to be able to participate in the Passover according to the commands of the law. The significance of this purification was profound, as it marked the time of destiny for Jesus. People came from all over, from Palestine and even from different parts of the world, to assemble in the holy city and seek the necessary preparation for the Passover.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.038918386600606,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                26.19,
+                37.02,
+                36.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before the Passover, many from the country went up to Jerusalem to purify themselves, ensuring their ability to partake in the feast. This purification was not only a physical journey but also a spiritual preparation, removing any obstacles to their observance of the Passover according to the law. The significance of this time was profound, as it marked a crucial moment for Jesus. People from all over Palestine, and even other parts of the world, gathered in Jerusalem to seek the necessary preparation for the upcoming Passover.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.95733352840366,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                26.6,
+                36.01,
+                37.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before the Passover, many from the country went up to Jerusalem to purify themselves so that they could partake in the feast. This purification was not simply a physical journey, but also a spiritual preparation to observe the Passover according to the commands of the law. The significance of this time was profound, as it marked a pivotal moment for Jesus. People from all over Palestine and beyond gathered in Jerusalem to seek the necessary preparation for the approaching Passover.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.063486781020454,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+            "commentatorTierSimilarities": [
+                27.14,
+                35.89,
+                36.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Before the Passover, many from the country traveled to Jerusalem to purify themselves, ensuring their ability to partake in the feast. This purification was not only a physical journey, but also a spiritual preparation to observe the Passover according to the law. The significance of this moment for Jesus was immense, as it marked a crucial time in his life. People from various parts of Palestine and even from around the world assembled in Jerusalem to seek the necessary preparation for the upcoming Passover.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.95598514315113,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                26.77,
+                36.79,
+                36.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many from the country went up to Jerusalem before the Passover to purify themselves for the feast. This purification was necessary to ensure their eligibility to participate in the Passover according to the law. The significance of this time was profound for Jesus, as it marked a pivotal moment in his life. People from various places, both in Palestine and worldwide, gathered in Jerusalem to prepare themselves for the upcoming Passover.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0268369330521248,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.73,
+            "commentatorTierSimilarities": [
+                27.76,
+                33.59,
+                38.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

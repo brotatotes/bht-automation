@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-21-2023 03:10:07",
+    "verseRef": "John 11:13",
+    "bestBHT": {
+        "bht": "Our friend Lazarus sleepeth, but Jesus had a higher meaning when He used the symbol of 'sleep' for death. The disciples had misunderstood this metaphor, thinking that Lazarus was simply resting in a literal and natural sense. However, the phrase our friend Lazarus implies that Christ's affection went beyond being loved by Lazarus, but was also reciprocated. The use of our friend as His title for Lazarus is truly illustrious.",
+        "wordCount": 71,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.0315928098628815,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+        "commentatorTierSimilarities": [
+            40.39,
+            19.59,
+            40.02
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Our friend Lazarus sleepeth; but I go that I may wake him out of sleep\u2014Illustrious title! 'Our friend Lazarus.'",
+            "The phrase here employed, 'our friend Lazarus,' means more than 'he whom Thou lovest' in John 11:3, for it implies that Christ's affection was reciprocated by Lazarus.",
+            "The symbol of 'sleep' for death is common to all languages, and familiar to us in the Old Testament. In the New Testament, however, a higher meaning is put into it, in relation to believers in Jesus."
+        ],
+        "Marvin Vincent": [
+            "Taking rest [\u03ba\u03bf\u03b9\u03bc\u03b7\u03c3\u03b5\u03c9\u03c2] . Akin to the verb in ver. 11 Wyc., the sleeping of sleep. Tyndale's Version of the New Testament, the natural sleep."
+        ],
+        "Philip Schaff": [
+            "The figure can hardly have been here used by Jesus for the first time.",
+            "The misconception of His meaning would seem to have arisen from His words in John 11:4.",
+            "From His delay in setting out for Bethany."
+        ],
+        "Archibald T. Robertson": [
+            "The disciples had misunderstood Christ's metaphor for death.",
+            "The disciples had misunderstood Christ's metaphor for death.",
+            "Only use of \u03ba\u03bf\u03b9\u03bc\u03b7\u03c3\u03b9\u03c2 (from \u03ba\u03bf\u03b9\u03bc\u03b1\u03c9) in the N.T., but it also was used of death (Sirach 46:19)."
+        ],
+        "John Gill": [
+            "Howbeit Jesus spake of his death,.... Under the figurative phrase of sleeping.",
+            "But they thought that he had spoken of taking of rest in sleep; in a literal and natural sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our friend Lazarus sleepeth, but Jesus had a higher meaning when He used the symbol of 'sleep' for death. The disciples had misunderstood this metaphor, thinking that Lazarus was simply resting in a literal and natural sense. However, the phrase our friend Lazarus implies that Christ's affection went beyond being loved by Lazarus, but was also reciprocated. The use of our friend as His title for Lazarus is truly illustrious.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.0315928098628815,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                40.39,
+                19.59,
+                40.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus referred to Lazarus as our friend, showing the reciprocated affection between them. When Jesus said that Lazarus was sleeping, He used a familiar symbol for death, which had a higher meaning in relation to believers. However, the disciples misunderstood this metaphor and thought it referred to Lazarus resting in a literal and natural sense. Their misconception arose from Jesus' previous words and His delay in setting out for Bethany.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.0127158341591365,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                32.65,
+                28.02,
+                39.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus affectionately called Lazarus our friend, indicating a reciprocal bond between them. When Jesus mentioned that Lazarus was sleeping, He employed the symbol of sleep as a metaphor for death, which held a deeper significance for believers. However, the disciples misunderstood this metaphor, assuming that Lazarus was merely resting in a literal and earthly sense. This misconception arose from Jesus' previous words and His delay in departing for Bethany.",
+            "wordCount": 69,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.0008784952361003,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                33.52,
+                26.45,
+                40.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus affectionately referred to Lazarus as our friend, indicating a reciprocal bond between them. When Jesus said that Lazarus was sleeping, He used the symbol of sleep as a metaphor for death, which holds a higher meaning for believers. However, the disciples misunderstood this metaphor, thinking that Lazarus was simply resting in a literal sense. Their misunderstanding could have stemmed from Jesus' previous words and His delay in departing for Bethany.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0178106038134285,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                33.34,
+                26.48,
+                40.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus addressed Lazarus as our friend, highlighting the mutual affection between them. By describing Lazarus as sleeping, Jesus utilized a symbol commonly associated with death, but with a higher spiritual meaning for believers. The disciples, however, failed to grasp the metaphor and mistakenly believed that Lazarus was merely resting in a literal sense. This misunderstanding may have been influenced by Jesus' prior statements and His delayed journey to Bethany.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8355724344660151,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                34.52,
+                25.63,
+                39.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

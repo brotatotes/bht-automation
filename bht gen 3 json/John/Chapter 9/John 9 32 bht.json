@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:09:22",
+    "verseRef": "John 9:32",
+    "bestBHT": {
+        "bht": "The Pharisees, concerned with maintaining the honor of God, refused to acknowledge the miraculous healing performed by Jesus, a supposed sinner, instead instructing the blind man to give praise to God. The rarity of the miracle was highlighted by the phrase since the world began, indicating that such a restoration of sight had never been witnessed before. The blind man's congenital blindness served as a testament to the extraordinary nature of the healing, surpassing anything done by prophets or Moses himself.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.7886999159103656,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+        "commentatorTierSimilarities": [
+            27.45,
+            43.43,
+            29.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Give God the praise; we know that this man is a sinner.\" ",
+            "Not wishing him to own, even to the praise of God, that a miracle had been wrought upon him.\" ",
+            "To show more regard to the honor of God than ascribe any such act to one who was a sinner."
+        ],
+        "Albert Barnes": [
+            "Since the world began - Neither Moses nor any of the prophets had ever done this.",
+            "As this was a miracle which had never been performed, the man argued justly that he who had done it must be from God.",
+            "It may be also remarked that the restoration of sight to the blind by surgical operations was never performed until the year 1728."
+        ],
+        "Marvin Vincent": [
+            "Since the world began [\u03b5\u03ba \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c9\u03bd\u03bf\u03c2] . The exact phrase only here in the New Testament. Ap' is found in Acts 3:21; Acts 14:18; ajpo twn aijwnwn in Colossians 1:26."
+        ],
+        "Archibald T. Robertson": [
+            "Since the world began (\u03b5\u03ba \u03c4\u03bf\u03c5 \u03b1\u03b9\u03c9\u03bd\u03bf\u03c2)...from of old.",
+            "Of a man born blind (\u03c4\u03c5\u03c6\u03bb\u03bf\u03c5 \u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03b5\u03bd\u03bf\u03c5).",
+            "It was congenital blindness."
+        ],
+        "John Gill": [
+            "it was never heard, c. since time was",
+            "Jesus, the author of this miracle, must be greater than any of the prophets, even than Moses himself",
+            "one born in the blindness and darkness of sin, ignorance, and infidelity, should have the eyes of his understanding opened, to behold divine and spiritual things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, unwilling to acknowledge the miracle that had been performed, told the man born blind to Give God the praise but insisted that Jesus, the one who had healed him, was a sinner. This shows their prioritization of God's honor over recognizing the work of a supposed sinner. The phrase since the world began emphasizes the rarity of such a miracle, as it had never been seen or heard of before. The fact that the man had been born blind further highlights the extraordinary nature of the healing. It is clear that Jesus, the one who opened the eyes of a man born blind, must be greater than any prophet or even Moses himself.",
+            "wordCount": 116,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.729507382202562,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                30.21,
+                37.26,
+                32.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, in an attempt to discredit Jesus, demanded the blind man to give praise to God rather than acknowledging the miraculous healing. This revealed their preference for the honor of God over acknowledging the work of someone they deemed a sinner. The phrase since the world began emphasized the unparalleled nature of the miracle. The fact that the man had been born blind further highlighted the extraordinary nature of his restoration. This demonstrated that Jesus surpassed the prophets, including Moses, in power and authority.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5839436311269772,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                30.9,
+                38.85,
+                30.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, concerned with maintaining the honor of God, refused to acknowledge the miraculous healing performed by Jesus, a supposed sinner, instead instructing the blind man to give praise to God. The rarity of the miracle was highlighted by the phrase since the world began, indicating that such a restoration of sight had never been witnessed before. The blind man's congenital blindness served as a testament to the extraordinary nature of the healing, surpassing anything done by prophets or Moses himself.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7886999159103656,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                27.45,
+                43.43,
+                29.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, disregarding the miraculous healing, directed the blind man to give praise to God instead of acknowledging Jesus as the source. By prioritizing the honor of God, they sought to distance themselves from attributing the act to a supposed sinner. The phrase since the world began accentuated the unprecedented nature of the miracle, while the congenital blindness further emphasized its extraordinary character. The remarkable healing elevated Jesus above the prophets and even Moses, highlighting his superiority and divine power.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.544855563586643,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.71,
+            "commentatorTierSimilarities": [
+                32.11,
+                36.25,
+                31.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, focused on upholding God's honor, refused to recognize the miraculous healing and urged the blind man to attribute it to God, disregarding Jesus' involvement as a supposed sinner. The phrase since the world began emphasized the unparalleled nature of the miracle, never witnessed before. The congenital blindness of the man underscored the exceptional quality of the restoration. This extraordinary healing affirmed Jesus' status as greater than any prophet, including Moses, displaying his authority and power.",
+            "wordCount": 78,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.5391514218361277,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.52,
+            "commentatorTierSimilarities": [
+                28.48,
+                38.9,
+                32.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

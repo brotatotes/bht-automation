@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:09:49",
+    "verseRef": "John 10:19",
+    "bestBHT": {
+        "bht": "The Jews were once again divided, with some considering Jesus a devil and a madman, while others were unsettled by the idea that such words could come from a demoniac. This recurring division revealed the contrasting views of light and darkness among the people. The separation of the teachable from the obstinately prejudiced was evident, showing the profound impact Jesus had on them. John's narrative depicts the frequent occurrence of this division, emphasizing the polarization caused by Jesus' teachings and actions.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.7452658108821724,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+        "commentatorTierSimilarities": [
+            33.67,
+            45.39,
+            20.94
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The one saw in Him only 'a devil and a madman'; the other revolted at the thought that such words could come from one possessed, and sight be given to the blind by a demoniac; showing clearly that a deeper impression had been made upon them than their words expressed.",
+            "The light and the darkness revealing themselves with increasing clearness in the separation of the teachable from the obstinately prejudiced.",
+            "Where many believe on Him."
+        ],
+        "Marvin Vincent": [
+            "The word scisma, division, from scizw, to cleave, describes a fact which continually recurs in John's narrative.\" (Commentary)",
+            "See John 6:52, John 6:60, John 6:66; John 7:12, John 7:25 sqq.; John 8:22; John 9:16, John 9:17; John 10:19, John 10:24, John 10:41; John 11:37 sqq.; John 12:19, John 12:29, John 12:42; John 16:18, John 16:19.\" (Commentary)",
+            "Words [\u03bb\u03bf\u03b3\u03bf\u03c5\u03c2] . Or, discourses.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "If that profession had been sincere, Christ, who is the strongest bond of charity, and whose office it is to gather those things which are scattered, would not break up their agreement.",
+            "Thus, the wickedness of many is still the reason why the Church is troubled by divisions, and why contentions are kindled.",
+            "We ought to be deeply grieved that the Church is torn by divisions arising among those who profess the same religion; but it is better that there are some who separate themselves from the wicked, to be united to Christ their Head, than that all should be of one mind in despising God."
+        ],
+        "Philip Schaff": [
+            "There arose a division again among the Jews because of these words. The effect related in chap. John 7:43, John 9:16, is again produced.",
+            "This time however (as in chap. John 8:31) \u2018the Jews\u2019 themselves are divided.",
+            "The preceding parable therefore must have been spoken in the hearing of many who were hostile to Jesus, as well as of Pharisees (chap. John 9:40) who may have been half convinced."
+        ],
+        "Archibald T. Robertson": [
+            "Division of opinion about Jesus is a common thing in John's Gospel.\" ",
+            "Among the hostile Jews, some of whom had previously professed belief in him.\" ",
+            "The direct reference of 'again' may be to when the Pharisees were divided over the problem of the blind man."
+        ],
+        "John Gill": [
+            "There was a division therefore again among the Jews...",
+            "For these sayings; concerning his being the good shepherd...",
+            "...having both a power to lay it down, and take it up again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse depicts the continuing division among the Jews in their opinions about Jesus. Some saw Him as a devil and a madman, while others were revolted at the thought that such words could come from one possessed. This separation of the teachable from the obstinately prejudiced reveals the light and darkness in the people's hearts. The frequent occurrence of this division is notable in John's narrative, and the words spoken by Jesus about being the good shepherd seemed to have sparked this disagreement. However, division and differing opinions about Jesus are a common occurrence in John's Gospel.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.8411588287495242,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                32.61,
+                44.99,
+                22.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews were once again divided in their opinions about Jesus, with some considering Him a devil and a madman, while others were repulsed by the idea that such words could come from a demoniac. This recurring division showcased the contrasting views of light and darkness among the people. The separation of the teachable from the obstinately prejudiced was evident, confirming the lasting impact of Jesus' teachings. The frequent occurrence of this division in John's narrative highlights the polarization caused by Jesus' words and actions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.710240051338519,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.21,
+            "commentatorTierSimilarities": [
+                36.21,
+                43.69,
+                20.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Once again, the Jews found themselves divided in their opinions about Jesus. Some perceived Him as a devil and a madman, while others were disturbed by the thought that such words could come from one possessed. This ongoing division demonstrated the increasing clarity of light and darkness in the separation of the receptive from the stubbornly biased. The prevalence of this division throughout John's Gospel emphasized the frequent disagreements and conflicting beliefs surrounding Jesus' teachings and identity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6155698027556087,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.06,
+            "commentatorTierSimilarities": [
+                33.05,
+                42.93,
+                24.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews were once again divided, with some considering Jesus a devil and a madman, while others were unsettled by the idea that such words could come from a demoniac. This recurring division revealed the contrasting views of light and darkness among the people. The separation of the teachable from the obstinately prejudiced was evident, showing the profound impact Jesus had on them. John's narrative depicts the frequent occurrence of this division, emphasizing the polarization caused by Jesus' teachings and actions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7452658108821724,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                33.67,
+                45.39,
+                20.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The division among the Jews resurfaced as they held differing opinions about Jesus. Some regarded Him as a devil and a madman, while others were disturbed by the notion that such words could come from one possessed. This separation of the teachable from the obstinately prejudiced showcased the clearer revelation of light and darkness in their hearts. This occurrence mirrored the frequent division experienced in John's Gospel and illustrated the varying responses to Jesus' teachings and miracles.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6966371084080074,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                33.58,
+                43.75,
+                22.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

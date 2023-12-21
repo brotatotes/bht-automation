@@ -1,0 +1,103 @@
+{
+    "timestamp": "12-21-2023 03:08:51",
+    "verseRef": "John 8:57",
+    "bestBHT": {
+        "bht": "No inference can be drawn from this as to the age of our Lord at the time as man, but fifty years was with the Jews the completion of manhood. The Jews gave the opposite turn to it, considering it too great an honor for Him to pretend to. His affirmation was not that He had seen Abraham, but that Abraham had seen His day, showing that He was greater than Abraham. The Jews perverted this, affirming that it was impossible for Him and Abraham to have seen each other.",
+        "wordCount": 90,
+        "quoteTokenProportion": 53.57,
+        "qualityScore": 2.360344651754187,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.82,
+        "commentatorTierSimilarities": [
+            30.36,
+            40.5,
+            29.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No inference can be drawn from this verse as to the age of our Lord at the time...",
+            "...according to the flesh.",
+            "Fifty years was with the Jews the completion of manhood."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No inference can be drawn from this as to the age of our Lord at the time as man. Fifty years was with the Jews the completion of manhood\" [ALFORD].",
+            "They give the opposite turn to it\u2014'Hast Thou seen Abraham?' as an honor too great for Him to pretend to."
+        ],
+        "Albert Barnes": [
+            "It is remarkable that when he was so young they should have mentioned the number 50, but they probably designed to prevent the possibility of a reply.",
+            "His affirmation was not that he had seen Abraham, but that Abraham had seen his day. The design of Jesus was to show that he was greater than Abraham.",
+            "The Jews perverted this, and affirmed that it was impossible that he and Abraham should have seen each other."
+        ],
+        "Marvin Vincent": [
+            "Thou art not yet fifty years old [\u03c0\u03b5\u03bd\u03c4\u03b7\u03ba\u03bf\u03bd\u03c4\u03b1 \u03b5\u03c4\u03b7 \u03bf\u03c5\u03c0\u03c9 \u03b5\u03c7\u03b5\u03b9\u03c2] . Literally, thou hast not yet fifty years. The age of completed manhood. Hast thou seen. Again misquoting the Lord 's words."
+        ],
+        "John Calvin": [
+            "Thou certainly wilt not make thyself so old, though thou wert to boast that thou art already fifty years of age.",
+            "Consequently, those who conjecture that he looked older than he actually was, or that the years mentioned in this passage are not solar years, in either case labor to no purpose.",
+            "The notion of Papias, who says that Christ lived more than forty years, cannot at all be admitted."
+        ],
+        "Philip Schaff": [
+            "The Jews understand \u2018my day\u2019 to mean the time of His life; and His knowing that Abraham has witnessed this with joy must certainly imply that He has seen Abraham.",
+            "How can this be, since He is not yet fifty years of age?",
+            "Some have supposed from this verse that sorrow had given to Him the appearance of premature age."
+        ],
+        "Archibald T. Robertson": [
+            "Thou hast not yet fifty years.\" ",
+            "It was the crisis of completed manhood.",
+            "Has Abraam seen thee?"
+        ],
+        "John Gill": [
+            "The reason of their fixing on this age of fifty might be, because Christ might look like such an one, being a man of sorrows and acquainted with griefs, as well as of great gravity.",
+            "At the age of fifty, a man is fit to give counsel, they say...hence the Levites were dismissed from service at that age, it being more proper for them then to give advice, than to bear burdens.",
+            "If he had not, Abraham had seen him, in the sense before given, and in which Christ asserted it, and it is to be understood."
+        ],
+        "John Wesley": [
+            "Thou art not yet fifty years old \u2014 At the most. Perhaps the gravity of our Lord's countenance, together with his afflictions and labours, might make him appear older than he really was.",
+            "Hast thou seen Abraham \u2014 Which they justly supposed must have been, if Abraham had seen him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "No inference can be drawn from this as to the age of our Lord at the time as man, but fifty years was with the Jews the completion of manhood. The Jews gave the opposite turn to it, considering it too great an honor for Him to pretend to. It is remarkable that when He was so young they should have mentioned the number 50, but they probably designed to prevent the possibility of a reply. His affirmation was not that He had seen Abraham, but that Abraham had seen His day, showing that He was greater than Abraham. The Jews perverted this, affirming that it was impossible for Him and Abraham to have seen each other.",
+            "wordCount": 116,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 2.267804018936916,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.74,
+            "commentatorTierSimilarities": [
+                27.36,
+                43.17,
+                29.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No inference can be drawn from this as to the age of our Lord at the time as man, but fifty years was with the Jews the completion of manhood. The Jews gave the opposite turn to it, considering it too great an honor for Him to pretend to. His affirmation was not that He had seen Abraham, but that Abraham had seen His day, showing that He was greater than Abraham. The Jews perverted this, affirming that it was impossible for Him and Abraham to have seen each other.",
+            "wordCount": 90,
+            "quoteTokenProportion": 53.57,
+            "qualityScore": 2.360344651754187,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.82,
+            "commentatorTierSimilarities": [
+                30.36,
+                40.5,
+                29.15
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

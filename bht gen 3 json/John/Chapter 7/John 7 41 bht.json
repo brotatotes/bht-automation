@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-21-2023 03:08:05",
+    "verseRef": "John 7:41",
+    "bestBHT": {
+        "bht": "It was divisive among the people whether Jesus, who came from Galilee, could truly be the Christ. Some boldly declared him to be the Messiah, while others denied it and used his Galilean origins as their reasoning. However, this controversy should not come as a surprise, as even in our present day, disagreements and controversies arise when the Gospel is preached. Nevertheless, the word of God is precious and should be received, even if only by a few. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
+        "wordCount": 99,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.3813473460468446,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.27,
+        "commentatorTierSimilarities": [
+            40.66,
+            0.0,
+            59.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "41. Others said, This is the",
+            "\tChrist\u2014(See on John 1:21).",
+            "\t",
+            "Shall Christ come out of",
+            "\tGalilee?"
+        ],
+        "Marvin Vincent": [
+            "What, doth the Christ come, etc. The idea in full is, 'you cannot say that, for doth the Christ, etc.'\" ",
+            "Shall - come. The present tense. Rev., rightly, doth - come."
+        ],
+        "John Calvin": [
+            "By this example we are warned that we ought not to think it strange in the present day, if men are divided among themselves by various controversies.",
+            "Shall the doctrine of Christ be blamed on that account, as if it were the cause of disturbances? Nay rather, though the whole world were in commotion, the word of God is so precious, that we ought to wish that it were received, at least by a few.",
+            "In short, of all the differences which spring up, when the Gospel is preached, the cause and seed formerly lay concealed in men; but when they are awakened, as it were, out of sleep, they begin to move, just as vapours are produced by something else than the sun, although it is not till the sun arises that they make their appearance."
+        ],
+        "Archibald T. Robertson": [
+            "These went further and dared to call Jesus the Messiah and not merely the prophet who might not be the Messiah. They said it openly.",
+            "These denied that Jesus was the Messiah and gave as their reason (\u03b3\u03b1\u03c1, for) the fact that he came from Galilee.",
+            "The use of \u03bc\u03b7 expects a negative answer."
+        ],
+        "John Gill": [
+            "They concluded...from his speaking of rivers of living water flowing from him that believes in him.",
+            "For if they did not mean this, according to their own accounts, the Messiah was to be in Galilee, and to be first revealed there.",
+            "Jesus, the true Messiah, as he was brought up in Galilee, though not born there, so he first preached there, and there wrought his first miracle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It was divisive among the people whether Jesus, who came from Galilee, could truly be the Christ. Some boldly declared him to be the Messiah, while others denied it and used his Galilean origins as their reasoning. However, this controversy should not come as a surprise, as even in our present day, disagreements and controversies arise when the Gospel is preached. Nevertheless, the word of God is precious and should be received, even if only by a few. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
+            "wordCount": 99,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.3813473460468446,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.27,
+            "commentatorTierSimilarities": [
+                40.66,
+                0.0,
+                59.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It was divisive among the people whether Jesus, who came from Galilee, could truly be the Christ. Some boldly declared him to be the Messiah, while others denied it and used his Galilean origins as their reasoning. However, this controversy should not come as a surprise, as even in our present day, disagreements and controversies arise when the Gospel is preached. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.4455120698023596,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.41,
+            "commentatorTierSimilarities": [
+                42.09,
+                0.0,
+                57.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people were divided over whether Jesus, who came from Galilee, could be the Christ. Some boldly declared him as the Messiah, while others used his Galilean origins to deny it. This controversy is not uncommon as the preaching of the Gospel often sparks disagreements. Nonetheless, even if only a few receive the word of God, it is precious. Jesus, the true Messiah, preached and performed miracles in Galilee, in fulfillment of the prophecies about the Messiah's connection to the region.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.400756009752235,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.92,
+            "commentatorTierSimilarities": [
+                42.86,
+                0.0,
+                57.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people were divided over whether Jesus, who came from Galilee, could truly be the Christ. Some openly declared him as the Messiah, while others denied it, using his Galilean origins as their reason. This controversy should not surprise us, as conflicts often arise when the Gospel is preached. However, despite the divisions, the word of God is precious and should be received, even if only by a few. Jesus, the true Messiah, preached and performed miracles in Galilee, fulfilling the prophecies about the Messiah's connection to the region.",
+            "wordCount": 90,
+            "quoteTokenProportion": 51.43,
+            "qualityScore": 1.3678646268510442,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.82,
+            "commentatorTierSimilarities": [
+                39.85,
+                0.0,
+                60.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people were divided regarding Jesus' identity as the Christ, with some boldly acknowledging him as the Messiah while others rejected him, citing his Galilean origins. This controversy upon the preaching of the Gospel should not be unexpected. Nevertheless, the word of God holds great value and should be embraced, even by a few. Jesus, the true Messiah, preached and performed miraculous signs in Galilee, aligning with the prophecies pertaining to the Messiah's association with that region.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.3793105965785069,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "commentatorTierSimilarities": [
+                44.88,
+                0.0,
+                55.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

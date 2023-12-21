@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:10:45",
+    "verseRef": "John 11:53",
+    "bestBHT": {
+        "bht": "After the raising of Lazarus, the Sanhedrin took Caiaphas's advice seriously and plotted Jesus's death. Their previous rage against him had been connected to moments of excitement, but now they acted deliberately and determinedly. Caiaphas's reasoning gained unanimous support, prompting the council to devise methods for a suitable time and manner to kill Jesus. While Jesus did not flee from his Father's calling, he willingly approached his voluntary death, and the council seized the opportunity to not only eliminate him but also to maintain their own reputation and tarnish his.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.699594039687166,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+        "commentatorTierSimilarities": [
+            34.44,
+            29.27,
+            36.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "53.] The decision, to put Him to death, is understood: and from that day they plotted that they might slay Him (not, how they might slay Him)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Caiaphas but expressed what the party was secretly wishing, but afraid to propose.",
+            "How could He, unless He had wished to die before His time?",
+            "between Jerusalem and Jericho."
+        ],
+        "Albert Barnes": [
+            "The judgment of the high priest silenced opposition.",
+            "They began to devise measures to put him to death without exciting tumult among the people.",
+            "They took counsel to put him to death."
+        ],
+        "John Calvin": [
+            "Yet let us remember that he did not fly in order to withdraw from his Father\u2019s calling; for he had no other intention than to present himself to undergo voluntary death at the time which God had appointed.\" ",
+            "This consultation, which the Evangelist mentions, related not so much to slaying Christ as to find out some method of crushing him.",
+            "They had already determined to put him to death; it only remained to advise in what way they could carry their resolution into effect."
+        ],
+        "Philip Schaff": [
+            "From that day forth, therefore, they took counsel that they might put him to death.",
+            "Their previous efforts of rage against Jesus had been connected with moments of special excitement; henceforward they are deliberate, determined, constant.",
+            "The cup of iniquity of \u2018the Jews\u2019 is full."
+        ],
+        "Archibald T. Robertson": [
+            "The raising of Lazarus brought matters to a head so to speak.",
+            "The Sanhedrin took the advice of Caiaphas seriously and plotted the death of Jesus.",
+            "It is an old purpose now revived with fresh energy due to the raising of Lazarus."
+        ],
+        "John Gill": [
+            "Caiaphas's reasoning appeared so good, and his advice so agreeable, that it was at once, and generally assented to...",
+            "...they resolved upon, before there was any legal process, before any crime was charged upon him, or any proof given, or he was heard what he had to say for himself...",
+            "...they had nothing to do, but to consult of ways and means of getting him into their hands, and of taking away his life in a manner, as would be most for their own credit among the people, and to his shame and disgrace, and at the most proper and suitable time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the raising of Lazarus, the Sanhedrin took Caiaphas's advice to heart and began plotting Jesus's death. This decision was not a sudden reaction, but rather a revival of an old purpose, fueled by the fear of Jesus's influence. Their previous rage against Jesus had been sporadic, but now they were deliberate, determined, and constant in their desire to kill him. Caiaphas's reasoning was so compelling that it was universally accepted, and the council vigorously sought out methods to carry out their resolution. Though Jesus did not flee to evade his Father's calling, his voluntary death was imminent; it was only a matter of the most suitable time for his grim fate to unfold.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 1.6246496448758267,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                33.99,
+                28.08,
+                37.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the raising of Lazarus, the Sanhedrin plotted to kill Jesus, as Caiaphas's advice resonated with their secret wishes. Their previous outbursts of rage were sporadic, but now they were resolute and constant. Caiaphas's reasoning was so persuasive that it gained immediate and widespread agreement, leading the council to devise methods to carry out their desire. Although Jesus did not run away from his Father's calling, his voluntary death was imminent, and the Sanhedrin sought the most opportune moment to fulfill their malicious plan.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.534068769729531,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.35,
+            "commentatorTierSimilarities": [
+                32.06,
+                29.92,
+                38.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the raising of Lazarus, the Sanhedrin took Caiaphas's advice seriously and plotted Jesus's death. Their previous rage against him had been connected to moments of excitement, but now they acted deliberately and determinedly. Caiaphas's reasoning gained unanimous support, prompting the council to devise methods for a suitable time and manner to kill Jesus. While Jesus did not flee from his Father's calling, he willingly approached his voluntary death, and the council seized the opportunity to not only eliminate him but also to maintain their own reputation and tarnish his.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.699594039687166,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+            "commentatorTierSimilarities": [
+                34.44,
+                29.27,
+                36.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Following the miraculous raising of Lazarus, the Sanhedrin, driven by their hidden desires and fears, heeded Caiaphas's counsel, intensifying their resolve to conspire against Jesus. Their previous sporadic outbursts of rage gave way to a deliberate and constant determination to slay him. Caiaphas's persuasive reasoning found unanimous acceptance, spurring the council to strategize the most opportune time and method to execute their sinister plan. Though Jesus did not flee his divine purpose, he submitted willingly to his predetermined voluntary death, awaiting the fateful hour.",
+            "wordCount": 86,
+            "quoteTokenProportion": 22.39,
+            "qualityScore": 1.5846828907610864,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+            "commentatorTierSimilarities": [
+                32.06,
+                31.8,
+                36.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the miraculous raising of Lazarus, the Sanhedrin embraced Caiaphas's advice, kindling their secret desire to conspire against Jesus. Formerly sporadic in their rage, they now displayed a deliberate and resolute determination to extinguish his life. Caiaphas's convincing reasoning gained universal agreement, prompting the council to consider strategies for executing their sinister plot. While Jesus did not flee from his divinely appointed mission, he embraced the imminent voluntary death that awaited him, patiently anticipating the most fitting time for its fulfillment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.485060747865105,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+            "commentatorTierSimilarities": [
+                34.07,
+                29.38,
+                36.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

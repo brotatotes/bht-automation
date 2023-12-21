@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:09:44",
+    "verseRef": "John 10:4",
+    "bestBHT": {
+        "bht": "The Shepherd goes before his sheep, leading and guiding them on the right path. His familiar voice and teachings resonate with the sheep, and they follow him faithfully. He does not neglect any of his sheep; he takes them all out of the fold, keeping them close by his side. The true pastor, like the Shepherd, leads with love, both in words and actions. Just as the sheep recognize and follow the Shepherd's voice, the elect discern the truth of God from the false teachings of men.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.383002870919843,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.57,
+        "commentatorTierSimilarities": [
+            34.42,
+            32.27,
+            33.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He goes before them in his teaching, pointing out the way to them; they follow him, because they know his voice; his words and teaching are familiar to them.",
+            "The sheep know the voice of every true shepherd.",
+            "The sheep follow him, because they know his voice."
+        ],
+        "Albert Barnes": [
+            "He leads them, and guides them, and does not leave them.",
+            "A shepherd spent his time with his flocks.",
+            "In this is beautifully represented the tender care of him who watches for souls as one that must give account."
+        ],
+        "Marvin Vincent": [
+            "Putteth forth [\u03b5\u03ba\u03b2\u03b1\u03bb\u03b7] . Rev., more strictly, hath put forth.\" ",
+            "His own sheep [\u03c4\u03b1 \u03b9\u03b4\u03b9\u03b1 \u03c0\u03c1\u03bf\u03b2\u03b1\u03c4\u03b1] . The best texts read panta, all, for probata, sheep : all his own.",
+            "Follow. 'It is necessary that they should be taught to follow, and not stray away into the unfenced fields of wheat which lie so temptingly on either side."
+        ],
+        "John Calvin": [
+            "We must attend to the reason why it is said that the sheep follow; it is, because they know how to distinguish shepherds from wolves by the voice.\" ",
+            "This is the spirit of discernment, by which the elect discriminate between the truth of God and the false inventions of men.\" ",
+            "And not only does he commend the obedience of the faith, because the sheep assemble submissively at the voice of the shepherd, but also because they do not listen to the voice of strangers, and do not disperse when any one cries to them."
+        ],
+        "Philip Schaff": [
+            "The shepherd leads forth all his own sheep, not one is left behind.",
+            "But the change from leading out to putting out is remarkable.",
+            "To this day the Eastern shepherd goes before his flock, leading, not driving the sheep, and keeping them near him through their recognition of his voice."
+        ],
+        "Archibald T. Robertson": [
+            "They are all out of the fold. He overlooks none.\" ",
+            "He goeth before them. Staff in hand he leads the way in front of the flock and they follow him.\" ",
+            "The true pastor leads in love, in words, in deeds."
+        ],
+        "John Gill": [
+            "Christ, the great shepherd, goes before his flock, not only to provide for them, but by way of example to them.",
+            "He has left them an example in many respects, that they should tread in his steps.",
+            "For they know his voice; in the Gospel, which directs and encourages them to exercise grace in him, and to walk in the path of duty."
+        ],
+        "John Wesley": [
+            "He goeth before them - In all the ways of God, teaching them in every point, by example as well as by precept.",
+            "The sheep follow him - They tread in his steps: for they know his voice - Having the witness in themselves that his words are the wisdom and the power of God.",
+            "Reader, art thou a shepherd of souls? Then answer to God. Is it thus with thee and thy flock?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Shepherd goes before his sheep, leading and guiding them on the right path. His familiar voice and teachings resonate with the sheep, and they follow him faithfully. He does not neglect any of his sheep; he takes them all out of the fold, keeping them close by his side. The true pastor, like the Shepherd, leads with love, both in words and actions. Just as the sheep distinguish the shepherd's voice from that of strangers or wolves, the elect discern the truth of God from the false teachings of men. They gather submissively at the voice of the Shepherd and do not disperse when lured by others. Christ, the great shepherd, sets an example for his flock to follow, teaching them through his own actions. As shepherds of souls, let us reflect on our own leadership and ask ourselves if we are truly guiding our flock in the ways of God.",
+            "wordCount": 153,
+            "quoteTokenProportion": 43.01,
+            "qualityScore": 2.2731352562871825,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.92,
+            "commentatorTierSimilarities": [
+                32.06,
+                32.49,
+                35.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Shepherd leads his sheep, going before them, teaching them and showing them the way. The sheep follow him because they recognize his voice and trust in his guidance. He does not leave any of his sheep behind, but takes them all out of the fold, caring for each one individually. In the same way, as shepherds of souls, we are called to lead in love and example, guiding our flock on the path of duty and discerning between the truth of God and the false teachings of men.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.3222482793413306,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.55,
+            "commentatorTierSimilarities": [
+                32.91,
+                32.6,
+                34.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Shepherd precedes his sheep, teaching them and leading the way. The sheep faithfully follow because they recognize his voice and are familiar with his teachings. Every sheep, without exception, is cared for and led by the Shepherd. As shepherds of souls, we are called to imitate the Shepherd's example, leading with love and guiding our flock in the path of righteousness. Just as the sheep distinguish the Shepherd's voice from that of strangers, we must discern between the truth of God and the false teachings of men.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.316804311192451,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.37,
+            "commentatorTierSimilarities": [
+                31.65,
+                32.64,
+                35.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Shepherd goes before his sheep, leading and guiding them on the right path. His familiar voice and teachings resonate with the sheep, and they follow him faithfully. He does not neglect any of his sheep; he takes them all out of the fold, keeping them close by his side. The true pastor, like the Shepherd, leads with love, both in words and actions. Just as the sheep distinguish the shepherd's voice from strangers or wolves, the elect discern the truth of God from the false teachings of men.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.3627780672323073,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.9,
+            "commentatorTierSimilarities": [
+                34.13,
+                32.58,
+                33.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Shepherd goes before his sheep, leading and guiding them on the right path. His familiar voice and teachings resonate with the sheep, and they follow him faithfully. He does not neglect any of his sheep; he takes them all out of the fold, keeping them close by his side. The true pastor, like the Shepherd, leads with love, both in words and actions. Just as the sheep recognize and follow the Shepherd's voice, the elect discern the truth of God from the false teachings of men.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.383002870919843,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.57,
+            "commentatorTierSimilarities": [
+                34.42,
+                32.27,
+                33.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:07:18",
+    "verseRef": "John 6:52",
+    "bestBHT": {
+        "bht": "The Jews were embroiled in a fervent argument, failing to grasp the spiritual meaning of Jesus' statement. Their fixation on a literal understanding prevented them from comprehending the profound connection believers have with Christ. Their dispute reveals their lack of understanding and their inability to see beyond the physical sense of Jesus' words. Nonetheless, their contentious debate serves as a reminder of Jesus' intention to shift their focus to Himself, rather than merely His gifts.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.0182335758162733,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+        "commentatorTierSimilarities": [
+            27.06,
+            45.18,
+            27.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If He is the Bread, and that Bread is His Flesh, we must eat His Flesh, though not in the sense here meant by them.",
+            "They contended against one another, probably some having more insight into the possibility of a spiritual meaning than others.",
+            "The inference conveyed in the word eat, which word, be it noted, first comes from the Jews themselves, is yet a right one."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "52. Jews strove among",
+            "\tthemselves\u2014arguing the point together. ",
+            "\t",
+            "How can, &amp;c.\u2014that",
+            "\tis, Give us His flesh to eat? Absurd."
+        ],
+        "Marvin Vincent": [
+            "Strove [\u03b5\u03bc\u03b1\u03c7\u03bf\u03bd\u03c4\u03bf] . The murmuring (ver. 41) now breaks out into open contention among the Jews themselves."
+        ],
+        "John Calvin": [
+            "Those persons, therefore, are either led astray through ignorance, or are deficient in candour, who, without taking into account the hardihood and eagerness to quarrel, which alone the Evangelist condemns, direct all their outcry against the word how.",
+            "Not only is it lawful, therefore, to inquire as to the manner of eating the flesh of Christ, but it is of great importance for us to understand it, so far as it is made known by the Scriptures.",
+            "Only we ought to preserve such moderation about the secret works of God, as not to desire to know anything more than what he determines by his word."
+        ],
+        "Philip Schaff": [
+            "The contention of the Jews became violent as they talked of the words of Jesus: the Evangelist\u2019s expression, literally taken, points to \u2018fighting\u2019 rather than strife.\" (100 words)",
+            "Every word that points to a spiritual meaning they ignore; but in doing so they themselves give evidence of the clearness with which our Lord had now shown that His intention had been to fix the whole thought of His hearers on Himself, and not on His gifts.\" (81 words)",
+            "The Jews take hold of those words which are most susceptible of a merely material sense.\" (16 words)"
+        ],
+        "Archibald T. Robertson": [
+            "They were already murmuring, now they began bitter strife with one another over the last words of Jesus.",
+            "Some probably seeing a spiritual meaning in them.",
+            "The mystical appropriation of Christ by the believer they could not comprehend."
+        ],
+        "John Gill": [
+            "Fell to cavilling and disputing one among another.\" ",
+            "How can this man give us his flesh to eat? which is to be understood, not physically, but as morally impossible and unlawful.",
+            "The Jews understood Christ of a corporeal eating of his flesh, being strangers to a figurative or spiritual eating of it by faith, in which sense he meant it."
+        ],
+        "John Wesley": [
+            "Observe the degrees: the Jews are tried here; the disciples, John 6:60-66, the apostles, John 6:67."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews in John 6:52 were not understanding the spiritual meaning behind Jesus' statement about eating His flesh. They began to argue amongst themselves, unable to comprehend the mystical appropriation of Christ by the believer. The contention became violent, as they completely ignored any words that pointed to a spiritual meaning. However, their argument itself reveals the clarity with which Jesus had pointed their attention toward Himself and not just His gifts. Their focus on a literal interpretation led them to miss the deeper message.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.023493461504434,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                28.65,
+                44.57,
+                26.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews in this passage were engaging in a heated dispute over the meaning of Jesus' words. Instead of recognizing the spiritual significance, they focused solely on a physical interpretation. Their argument reveals their inability to comprehend the mystical appropriation of Christ by believers. By fixating on a literal understanding, they failed to grasp the deeper message Jesus was conveying about Himself. The contention among them shows the clarity with which Jesus intended to draw their attention to Himself rather than just His gifts.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.0262310263754055,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.71,
+            "commentatorTierSimilarities": [
+                27.7,
+                44.88,
+                27.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews in John 6:52 were caught up in a heated dispute, unable to grasp the spiritual meaning behind Jesus' words. They focused solely on a physical interpretation and failed to comprehend the mystical appropriation of Christ by believers. Their argument demonstrates their lack of understanding and inability to see beyond the literal sense of Jesus' words. However, their contention serves to highlight the clarity with which Jesus intended to draw their attention to Himself rather than His gifts.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.0694905472934852,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.15,
+            "commentatorTierSimilarities": [
+                26.11,
+                45.2,
+                28.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews in this verse were engaged in a vehement dispute, unable to discern the spiritual significance of Jesus' words. Their focus on a literal understanding deprived them of grasping the mystical appropriation of Christ by believers. Their contentious debate highlights their lack of comprehension and their failure to recognize the deeper message behind Jesus' statement. Evidently, their insistence on a physical interpretation obscured the clear intention of Jesus to direct their attention towards Himself and not merely His gifts.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.0179580383108267,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                26.16,
+                45.46,
+                28.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews were embroiled in a fervent argument, failing to grasp the spiritual meaning of Jesus' statement. Their fixation on a literal understanding prevented them from comprehending the profound connection believers have with Christ. Their dispute reveals their lack of understanding and their inability to see beyond the physical sense of Jesus' words. Nonetheless, their contentious debate serves as a reminder of Jesus' intention to shift their focus to Himself, rather than merely His gifts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0182335758162733,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+            "commentatorTierSimilarities": [
+                27.06,
+                45.18,
+                27.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

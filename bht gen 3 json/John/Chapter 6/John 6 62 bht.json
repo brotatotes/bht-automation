@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:07:33",
+    "verseRef": "John 6:62",
+    "bestBHT": {
+        "bht": "Jesus emphasized the historical reality of his ascent into heaven, dismissing attempts to explain it otherwise as dishonest. He rejected the notion that his words should be understood symbolically, affirming his intention to ascend just as he had descended. Jesus challenged his disciples to perceive the spiritual depth of his message, inviting them to recognize his pre-existence and divine authority. By embracing a spiritual understanding, they would move beyond stumbling and truly grasp the profound significance of his teachings.",
+        "wordCount": 80,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.752599834284168,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+        "commentatorTierSimilarities": [
+            23.6,
+            42.85,
+            33.56
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All attempts to explain this otherwise than of His ascent into heaven, are simply dishonest,\u2014and spring from laxity of belief in the historical reality of that event.",
+            "That it is not recorded by John, is of no moment here.",
+            "To explain it of His death, as part of His going up where he was before, is hardly less disingenuous."
+        ],
+        "Albert Barnes": [
+            "Jesus does not say that those who were then present would see him ascend, but he implies that he would ascend.",
+            "He proceeds to state another doctrine quite as offensive to them - that he would reascend to heaven.",
+            "As Jesus was to ascend to heaven, it was clear that he could not have intended literally that they should eat his flesh."
+        ],
+        "Marvin Vincent": [
+            "if then ye should behold, etc. - the completion would be, would not this still more cause you to stumble?",
+            "Ascend [\u03b1\u03bd\u03b1\u03b2\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1] . Rev., properly, renders the participle, ascending.",
+            "But the correct reading is lelalhka, the perfect tense, I have spoken, or I have just spoken, referring to the preceding discourse."
+        ],
+        "John Calvin": [
+            "Because I converse among men without honor, I am despised by you, and you recognize in me nothing that is Divine; but ere long God will adorn me with splendid power, and, withdrawing me from the contemptible state of mortal life, will raise me above the heavens.",
+            "For, in the resurrection of Christ, so great was the power displayed by the Holy Spirit, that it plainly showed Christ to be the Son of God.",
+            "And when it is said, Thou art my Son, today have I begotten thee, the resurrection is brought forward as a proof from which that glory of Christ ought to be acknowledged, and his ascension to heaven was the completion of that glory."
+        ],
+        "Philip Schaff": [
+            "The meaning of this ascent is surely clear in itself; but if it were not, the mention of a past descent would remove all doubt.",
+            "He would say: \u2018Is the word that speaks of the descent from heaven, of the living bread that alone can give life, of the Son\u2019s descent from heaven to give His flesh and His blood that the world may eat and drink and live, a stumbling-block to you?",
+            "Then at last they may come to see that the words can only be spiritually understood."
+        ],
+        "Archibald T. Robertson": [
+            "If ye then behold.",
+            "Ascending.",
+            "Clear statement of Christ's pre-existence in his own words."
+        ],
+        "John Gill": [
+            "Christ was, he existed before his incarnation, and he was in heaven before; not in his human nature, but as the word and Son of God."
+        ],
+        "John Wesley": [
+            "What if ye shall see the Son of man ascend where he was before?\" ",
+            "How much more incredible will it then appear to you, that he should give you his flesh to eat?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus spoke to his disciples about his divine nature and the impending ascent into heaven. He addressed their doubts and stumbling over his statements by emphasizing the historical reality of his ascension and firmly rejecting any alternative explanations. Though not specifically recorded in John's account, Jesus made it clear that his words were not to be understood symbolically or figuratively. He intended to ascend to heaven just as he had descended from it, asserting his pre-existence and divine authority. Jesus challenged his disciples to grasp the spiritual significance of his words, recognizing that only through a spiritual understanding could they truly comprehend the meaning of his message.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.8103664837747857,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                22.68,
+                40.72,
+                36.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus affirmed the historical reality of his ascent into heaven, rejecting any disingenuous attempts to explain it otherwise. He emphasized his pre-existence and divine authority, challenging his disciples to recognize the significance of his words. While not explicitly mentioned in John's account, Jesus made it clear that his words were not meant to be understood symbolically. He called his disciples to a spiritual understanding of his message, acknowledging that only through this lens could they fully grasp the meaning of his teachings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8185975108126264,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                23.23,
+                42.22,
+                34.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus assured his disciples of the historical reality of his ascent into heaven, cautioning against dishonest interpretations. He emphasized his pre-existence and divine nature, challenging his followers to understand his words spiritually. While the precise moment of his ascension was not mentioned in John's account, Jesus' intent to ascend was undeniable. He urged his disciples to avoid stumbling over the literal meaning and instead discern the deeper spiritual significance of his teachings. Through embracing this perspective, they would truly comprehend his message.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.7001849521197911,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                24.14,
+                40.31,
+                35.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus emphasized the historical reality of his ascent into heaven, dismissing attempts to explain it otherwise as dishonest. He rejected the notion that his words should be understood symbolically, affirming his intention to ascend just as he had descended. Jesus challenged his disciples to perceive the spiritual depth of his message, inviting them to recognize his pre-existence and divine authority. By embracing a spiritual understanding, they would move beyond stumbling and truly grasp the profound significance of his teachings.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.752599834284168,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                23.6,
+                42.85,
+                33.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus emphasized the historical reality of his ascent into heaven, stating that any other explanations were simply dishonest. He firmly rejected symbolic interpretations, urging his disciples to understand his words in their literal sense. Jesus challenged them to recognize his pre-existence and divine authority, emphasizing the spiritual significance of his teachings. By embracing this understanding, his disciples would overcome stumbling and apprehend the profound meaning behind his message. Jesus' ascent, paralleling his descent, affirmed his divine nature and confirmed the glorious power of the resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.6877891219137315,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                22.09,
+                41.19,
+                36.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

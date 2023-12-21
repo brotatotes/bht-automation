@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:14:18",
+    "verseRef": "John 18:33",
+    "bestBHT": {
+        "bht": "Summoned before Pilate in the open air, Jesus faces the accusation of claiming to be the King of the Jews. Pilate, wanting to understand the truth apart from the clamor of the chief priests and the crowd, asks Jesus directly, Art thou the King of the Jews? The question delves into the nature of Jesus' kingship, whether it is in a civil or theocratic sense. Though Pilate's understanding falls short compared to the Jewish leaders, his inquiry demonstrates a genuine attempt to discern the truth amidst the charges brought against Jesus.",
+        "wordCount": 92,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 2.4835565568905227,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.92,
+        "commentatorTierSimilarities": [
+            35.19,
+            33.47,
+            31.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The judgments of the Romans were always public and in the open air.\" ",
+            "Pilate appears to have wished to obtain an account from Jesus apart from the clamours of the chief priests and the mob.",
+            "This was the formal reception of the case before him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They charge our Lord before Pilate with 'perverting the nation, and forbidding to give tribute to C\u00e6sar, saying that He Himself is Christ a king.'\" (33-38. Pilate . . . called Jesus, and said . . . Art thou the King of the Jews?) ",
+            "Perhaps this was what occasioned Pilate's question.\" (33-38. Pilate . . . called Jesus, and said . . . Art thou the King of the Jews?)"
+        ],
+        "Albert Barnes": [
+            "Art thou the King of the Jews? - This was after they had accused him of perverting the nation, and forbidding to give tribute to Caesar, Luke 23:2-3."
+        ],
+        "Marvin Vincent": [
+            "Thou is emphatic.",
+            "The civil title.",
+            "The theocratic title, king of Israel is addressed to Jesus on the cross in mockery."
+        ],
+        "John Calvin": [
+            "But John dwells chiefly on a single point, that Pilate made a laborious inquiry whether Christ was justly or unjustly accused.",
+            "It is absurd to bring that charge against me, fbr not even the slightest suspicion of it can fall upon me.",
+            "You would be allowed by me and by the Romans to live at peace; but you raise disturbances among yourselves, and I am reluctantly compelled to bear a part in them."
+        ],
+        "Philip Schaff": [
+            "Thou, thou so humbled, despised, handed over to me as a malefactor, art thou the King of the Jews?",
+            "Pilate may not embrace the idea, but he at least thinks the question worthy of being asked.",
+            "Boasting of their superiority to the heathen governor, looking upon him as a \u2018sinner\u2019 and reprobate, they yet at this moment fall behind him in spiritual vision."
+        ],
+        "Archibald T. Robertson": [
+            "The charge that Jesus claimed to be a king compelled him to [summon Jesus to his presence].",
+            "Jesus did claim to be the spiritual king of Israel as Nathanael said and as the ecstatic crowd hailed him on the Triumphal Entry.",
+            "The Sanhedrin wish Pilate to understand this in a civil sense as a rival of Caesar as some of the Jews wanted Jesus to be and as the Pharisees expected the Messiah to be."
+        ],
+        "John Gill": [
+            "Jesus did, paying no regard to the superstitious observances of the Jews.",
+            "Wherefore Pilate was the more solicitous about the matter, on account of Caesar, and lest he should be charged with dilatoriness and negligence in this affair.",
+            "Some read these words not by way of question, but affirmation, 'thou art the king of the Jews'; which method he might make use of, the more easily to get it out of him, whether he was or not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of the public judgment, Pilate personally summoned Jesus and asked Him, Art thou the King of the Jews? The charge brought against Jesus was that He claimed to be a king, challenging the authority of Caesar. Pilate, perhaps intrigued by this claim, sought to understand whether Jesus saw Himself as a king in a civil or theocratic sense. However, it is worth noting that while Pilate questioned Jesus about His kingship, his understanding fell short compared to the spiritual vision of the Jewish leaders who accused Jesus. Nonetheless, Pilate's inquiry into the truth of the accusation reflects his desire to ascertain the validity of the claims made against Jesus.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.451852852080843,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.86,
+            "commentatorTierSimilarities": [
+                35.2,
+                33.34,
+                31.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Summoned before Pilate in the open air, Jesus faces the accusation of claiming to be the King of the Jews. Pilate, wanting to understand the truth apart from the clamor of the chief priests and the crowd, asks Jesus directly, Art thou the King of the Jews? The question delves into the nature of Jesus' kingship, whether it is in a civil or theocratic sense. Though Pilate's understanding falls short compared to the Jewish leaders, his inquiry demonstrates a genuine attempt to discern the truth amidst the charges brought against Jesus.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.4835565568905227,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.92,
+            "commentatorTierSimilarities": [
+                35.19,
+                33.47,
+                31.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the public judgment, Pilate privately questions Jesus, asking Him if He is the King of the Jews. This question arises from the charges brought against Jesus by the Sanhedrin, accusing Him of perverting the nation and claiming to be a rival of Caesar. Pilate seeks to understand the nature of Jesus' kingship, whether it is political or spiritual. While Pilate may not fully grasp the significance, his inquiry reveals a genuine attempt to discern the truth amidst the accusations made against Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.3916793497927364,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.86,
+            "commentatorTierSimilarities": [
+                33.65,
+                33.32,
+                33.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Summoned before Pilate in a public setting, Jesus encounters the accusation that He is the King of the Jews. Pilate, wanting to hear Jesus' account separately from the chief priests and the crowd, inquires into this claim directly. The charge against Jesus implies a threat to Caesar's authority and prompts Pilate's question. While Pilate may not fully comprehend the spiritual implications of Jesus' kingship, his inquiry demonstrates a genuine desire to understand the truth amid the accusations brought against Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.3887498980851287,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.77,
+            "commentatorTierSimilarities": [
+                34.97,
+                32.2,
+                32.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the formal reception of the case before him, Pilate questions Jesus about the accusation of being the King of the Jews. The charge brought against Jesus implies a challenge to Caesar's authority. Pilate, seeking to understand the nature of Jesus' kingship, inquires if He is indeed the King of the Jews. Though Pilate's understanding may be limited, his inquiry reflects a genuine attempt to ascertain the truth amidst the allegations made against Jesus.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.354426169566,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.62,
+            "commentatorTierSimilarities": [
+                35.4,
+                32.04,
+                32.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

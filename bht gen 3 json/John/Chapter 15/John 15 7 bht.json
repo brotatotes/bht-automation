@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:12:50",
+    "verseRef": "John 15:7",
+    "bestBHT": {
+        "bht": "Those who abide in Christ with His words living in them will experience answered prayer and bear much fruit, for this union ensures that their requests align with God\u2019s will. However, this astounding promise is not without conditions, as it necessitates an intimate harmony with Christ and obedience to His commandments. By abiding in Him and following His teachings, believers can have confidence that their prayers will be heard and that their lives will produce spiritual growth and abundant fruit.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.230927281221039,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+        "commentatorTierSimilarities": [
+            27.91,
+            31.28,
+            40.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All bringing forth fruit is the result of answered prayer for the assisting grace of God.\" ",
+            "The answer of all prayer is here promised to those who abide in Christ and have His word abiding in them.",
+            "Whatsoever ye will, in the supposed case, is necessarily in the way of God\u2019s will, and as tending to bearing much fruit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mark the change from the inhabitation of Himself to that of His words, paving the way for the subsequent exhortations.\" ",
+            "Because this indwelling of His words in them would secure the harmony of their askings with the divine will.",
+            "This indwelling of His words in them would secure the harmony of their askings with the divine will."
+        ],
+        "Albert Barnes": [
+            "Not only are remembered, but are suffered to remain in you as a living principle, to regulate your affections and life.",
+            "It is only when we keep the commandments of Christ - only when we live by faith in him, and his words are suffered to control our conduct and affections, that our prayers will be heard.",
+            "Just so far as men regard iniquity in their heart, the Lord will not hear them."
+        ],
+        "Marvin Vincent": [
+            "Ye shall ask [\u03b1\u03b9\u03c4\u03b7\u03c3\u03b5\u03c3\u03b8\u03b5] . The best texts read the imperative, aijthsasqe, ask. ",
+            "Shall be done unto you [\u03b3\u03b5\u03bd\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9 \u03c5\u03bc\u03b9\u03bd] . Literally, it shall come to pass for you."
+        ],
+        "John Calvin": [
+            "Believers often feel that they are starved, and are very far from that rich fatness which is necessary for yielding abundant fruit.",
+            "The Lord often suffers us to hunger, in order to train us to earnestness in prayer.",
+            "He limits the wishes of his people to the rule of praying in a right manner, and that rule subjects, to the good pleasure of God, all our affections."
+        ],
+        "Philip Schaff": [
+            "A somewhat similar departure occurs at John 15:3, and in both cases it takes place in connection with a reference to the \u2018word\u2019 or \u2018sayings\u2019 of Jesus: these belong to living men.",
+            "The thought that the \u2018sayings\u2019 of Jesus abide in us as the condition of blessedness is fundamentally the same as that expressed previously in John 15:3, \u2018because of the word;\u2019 the mode in which the word works is now more fully brought out.",
+            "This strikingly illustrates what we have already endeavored to bring out, that \u2018in My name\u2019 implies a union with Jesus by faith, resting on a knowledge of and adherence to the revelation that He has given."
+        ],
+        "Archibald T. Robertson": [
+            "This astounding command and promise is not without conditions and limitations.",
+            "It involves such intimate union and harmony with Christ that nothing will be asked out of accord with the mind of Christ and so of the Father.",
+            "Christ's name is mentioned in John 15:16; cf. John 14:13; John 16:23."
+        ],
+        "John Gill": [
+            "Abiding in Christ is here explained by his words or doctrines abiding in his disciples; by which are meant his Gospel, and the truths of it.\" ",
+            "When they hold fast the profession of it, stand fast in it, steadfastly abide by it, and constantly attend on it; all which is a considerable evidence that they do, yea, there is a promise that they 'shall continue in the Son and in the Father'.\" ",
+            "Whatever is according to the will of God, for the Spirit of God himself asks for no other for the saints; whatever is for the glory of God, and for their own spiritual profit and edification; and whatever is agreeably to the words and doctrines of Christ, which abide in them."
+        ],
+        "John Wesley": [
+            "If ye abide in me, ye shall ask \u2014 Prayers themselves are a fruit of faith, and they produce more fruit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who abide in Christ and have His words abiding in them will experience the power of prayer and bear much fruit. This incredible promise is not without conditions and limitations, as it requires an intimate union and harmony with Christ. Only when we keep the commandments of Christ and allow His words to guide our conduct and affections will our prayers be heard. This union with Jesus by faith, grounded in a knowledge of and adherence to His revelation, is what it means to pray in His name. As believers abide in Him and His teachings, their prayers align with His will and bring about spiritual growth and abundant fruitfulness.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 2.172237850352313,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.57,
+            "commentatorTierSimilarities": [
+                27.49,
+                34.45,
+                38.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who abide in Christ and have His words abiding in them will experience the power of prayer and bear much fruit. This incredible promise is not without conditions and limitations, as it requires an intimate union and harmony with Christ. Only when we keep the commandments of Christ and allow His words to guide our conduct and affections will our prayers be heard. As believers abide in Him and His teachings, their prayers align with His will, bringing about spiritual growth and abundant fruitfulness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.17694932879703,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.72,
+            "commentatorTierSimilarities": [
+                27.84,
+                32.71,
+                39.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who abide in Christ with His words living in them will experience answered prayer and bear much fruit, for this union ensures that their requests align with God\u2019s will. However, this astounding promise is not without conditions, as it necessitates an intimate harmony with Christ and obedience to His commandments. By abiding in Him and following His teachings, believers can have confidence that their prayers will be heard and that their lives will produce spiritual growth and abundant fruit.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.230927281221039,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+            "commentatorTierSimilarities": [
+                27.91,
+                31.28,
+                40.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who abide in Christ, having His words living in them, can expect answered prayers and fruitful lives. This promise comes with conditions and limitations: it requires a deep connection and alignment with Christ's will. Only by keeping His commandments and allowing His words to guide our thoughts and actions can we have confidence that our prayers will be heard. Through this intimate relationship and adherence to His teachings, our lives become fruitful and we experience the fulfillment of our prayers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.095583621707224,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                28.94,
+                34.33,
+                36.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who abide in Christ and have His words living in them will witness the power of prayer and bear abundant fruit. This promise, however, is not unconditional, as it necessitates a close connection and harmony with Christ. By following His commandments and allowing His words to guide our lives, we can rest assured that our prayers will align with the divine will. This intimate relationship with Jesus, rooted in faith and adherence to His teachings, leads to spiritual growth and fruitful lives.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.0888151909877912,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                27.9,
+                33.83,
+                38.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

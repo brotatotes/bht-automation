@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:11:27",
+    "verseRef": "John 12:39",
+    "bestBHT": {
+        "bht": "The reason why some people were unable to believe is because their eyes were blinded by God so that they could not see the truth. This divine act of blinding their eyes does not undermine their free will, but rather it is a result of their own willful choice to reject the truth. God knew beforehand that they would reject the truth, and thus fulfilled the prediction of Isaiah. It was morally impossible for them to believe because of the hardness of their hearts and their obstinate resistance to the truth. Even the miracles and teachings of Jesus could not persuade them to believe.",
+        "wordCount": 104,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 1.805416391074957,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+        "commentatorTierSimilarities": [
+            24.97,
+            32.77,
+            42.26
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this cause refers to the last verse, and because sets forth the reason more in detail.",
+            "The inability, as thus stated, is coincident with the fullest freedom of the human will.",
+            "A more special ground is alleged why they could not believe."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He hath blinded their eyes, that they should not see... those who wilfully close their eyes and harden their hearts against the truth are judicially shut up in their unbelief and impenitence.",
+            "This [blinding of their eyes] expresses a positive divine act... it is in no way inconsistent with the liberty of the human will.",
+            "Those who wilfully close their eyes and harden their hearts... are judicially shut up in their unbelief and impenitence."
+        ],
+        "Albert Barnes": [
+            "The works can and could are often used in the Bible to denote the existence of such obstacles as to make a result certain, or as affirming that while one thing exists another thing cannot follow.",
+            "In this case it means that there was some obstacle or difficulty that made it certain that while it existed they would not believe.",
+            "But this determines nothing about their power of removing that blindness, or of yielding their heart to the gospel."
+        ],
+        "John Calvin": [
+            "Because, if the words be taken in their natural meaning, the way was shut up against the Jews, and the power of believing was taken from them, because the prediction of the prophet adjudged them to blindness, before they determined what choice they should make.",
+            "For God declares not what he beholds from heaven that men will do, but what He himself will do; and that is, that he will strike wicked men with giddiness and stupidity, and thus will take vengeance on their obstinate wickedness.",
+            "This punishment it was impossible for them to escape, because God had once decreed to give them over to a reprobate mind, and to change the light of his word, so as to make it darkness to them."
+        ],
+        "Archibald T. Robertson": [
+            "The negative imperfect (double augment, \u03b5\u03b4\u03c5\u03bd\u03b1\u03bd\u03c4\u03bf) of \u03b4\u03c5\u03bd\u03b1\u03bc\u03b1.",
+            "John is not absolving these Jews from moral responsibility, but only showing that the words of Isaiah 'had to be fulfilled, for they were the expression of Divine foreknowledge' (Bernard).",
+            "\u03c4\u03bf\u03c5\u03c4\u03bf (this) seems to have a double reference (to what precedes and to what follows) as in John 8:47."
+        ],
+        "John Gill": [
+            "They could not believe... and enable them to believe.",
+            "God had determined... decrees of God... predictions of the prophet... hardness of their hearts.",
+            "It was morally impossible they should believe."
+        ],
+        "John Wesley": [
+            "By the just judgment of God, for their obstinacy and wilful resistance of the truth, they were at length so left to the hardness of their hearts.\" ",
+            "Neither the miracles nor doctrines of our Lord could make any impression upon them.",
+            "They could not believe."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The reason why some people were unable to believe is because their eyes were blinded by God so that they could not see the truth. This divine act of blinding their eyes does not undermine their free will, but rather it is a result of their own willful choice to reject the truth. God knew beforehand that they would reject the truth, and thus fulfilled the prediction of Isaiah. It was morally impossible for them to believe because of the hardness of their hearts and their obstinate resistance to the truth. Even the miracles and teachings of Jesus could not persuade them to believe.",
+            "wordCount": 104,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.805416391074957,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+            "commentatorTierSimilarities": [
+                24.97,
+                32.77,
+                42.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reason some people were unable to believe was because God blinded their eyes, preventing them from seeing the truth. This act was not inconsistent with their free will but rather a consequence of their own choice to reject the truth. God knew beforehand that they would reject the truth and fulfilled the prediction of Isaiah. Their inability to believe was due to the hardness of their hearts and their stubborn resistance. Even the miracles and teachings of Jesus could not convince them otherwise.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.669768581888491,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                24.27,
+                32.34,
+                43.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Due to their willful rejection of the truth, some people were unable to believe. God, in his justice, blinded their eyes as a divine act, expressing his foreknowledge and judgment. This act did not compromise their free will but was a consequence of their own choices. Their hearts became hardened, making it morally impossible for them to believe. Despite the miracles and teachings of Jesus, they remained obstinate in their unbelief and resistance to the truth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6177686983276,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                26.44,
+                30.22,
+                43.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The reason certain individuals were unable to believe is because their eyes were blinded by God, which was a result of their own willful choice and hardened hearts. Their inability to believe was not inconsistent with their free will, as God's act of blinding their eyes was an expression of divine foreknowledge and judgment. Even though the miracles and teachings of Jesus were presented to them, they remained obstinate in their unbelief and resistance to the truth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.8546541104728198,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                26.06,
+                33.1,
+                40.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The reason some individuals were unable to believe is because their eyes were blinded by God as a divine act, which expressed divine foreknowledge and judgment. Their inability to believe was not inconsistent with their free will, but rather a consequence of their own choice and the hardness of their hearts. Despite the miracles and teachings of Jesus, they remained obstinate in their unbelief and resistance to the truth.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.768826997176708,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                25.52,
+                31.99,
+                42.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

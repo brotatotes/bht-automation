@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-21-2023 03:06:34",
+    "verseRef": "John 6:6",
+    "bestBHT": {
+        "bht": "To prove him, Jesus asked Philip about the possibility of feeding the crowd, not seeking counsel, but exhibiting Himself as the Life of the World in the flesh. This question served to test Philip's faith, to see if he believed that Jesus had the power to supply their needs. Although Jesus knew what He would do, He wanted to first try the faith of His apostles, preparing them for the forthcoming miracle and strengthening their belief in Him.",
+        "wordCount": 79,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.3660955119622566,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.01,
+        "commentatorTierSimilarities": [
+            21.87,
+            42.31,
+            35.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By this St. John must be understood not only to rescue our Lord from the imputation of asking counsel of Philip.\" ",
+            "To refer the miraculous act, on His part, to His purpose of exhibiting Himself as the Son of Man the Life of the World in the flesh.",
+            "The Son of Man the Life of the World in the flesh."
+        ],
+        "Albert Barnes": [
+            "To prove him - To try him; to see if he had faith, or if he would show that he believed that Jesus had power to supply them."
+        ],
+        "Marvin Vincent": [
+            "To prove [\u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03c9\u03bd] . Literally, proving. See on Matthew 6:13. Wyc., tempting."
+        ],
+        "Philip Schaff": [
+            "Why Philip was addressed is a question often raised... Yet it is more likely that some special reason did exist.",
+            "Philip may have had something to do with making provision for the wants of the company of disciples... Or there may have been something in the character of Philip\u2019s mind that led to the special selection of him for trial.",
+            "A more correct explanation may be that, intending to manifest Himself as the fulfillment of what is written in the law, Jesus turns first to one who had confessed Him as the subject of 'the law and the prophets'... He would test him, and try whether he had entered into the full meaning of his own confession."
+        ],
+        "Archibald T. Robertson": [
+            "To prove him (\u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03c9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Present active participle of \u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03c9, testing him, not here in bad sense of tempting as so often (Matthew 4:1).",
+            "What he would do (\u03c4 \u03b7\u03bc\u03b5\u03bb\u03bb\u03b5\u03bd \u03c0\u03bf\u03b9\u03b5\u03b9\u03bd). Indirect question with change of tense to imperfect.",
+            "As in John 2:25 so here John explains why Jesus put the question to Philip."
+        ],
+        "John Gill": [
+            "And this he said to prove him....in order to discover it to him and them, and to prepare them for the following miracle; and that it might appear the more illustrious and marvellous.",
+            "for he himself knew what he would do; Christ had determined to work a miracle...he was willing first to try the faith of his apostles.",
+            "Christ...was determined to do it, and it would be done; but he was willing first to try the faith of his apostles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To prove him, Jesus asked Philip about the possibility of feeding the crowd, not to seek counsel, but to exhibit Himself as the Son of Man, the Life of the World in the flesh. Thus, the question was meant to test Philip's faith and see if he believed that Jesus had the power to supply their needs. Jesus knew what He would do, that He would work a miracle, but He wanted to first try the faith of His apostles, preparing them for the forthcoming marvellous sign. Through this test, He would reveal Himself and strengthen their belief.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.185495049048775,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.01,
+            "commentatorTierSimilarities": [
+                21.95,
+                41.21,
+                36.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To prove him, Jesus asked Philip about the possibility of feeding the crowd, not seeking counsel, but exhibiting Himself as the Life of the World in the flesh. This question served to test Philip's faith, to see if he believed that Jesus had the power to supply their needs. Although Jesus knew what He would do, He wanted to first try the faith of His apostles, preparing them for the forthcoming miracle and strengthening their belief in Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.3660955119622566,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.01,
+            "commentatorTierSimilarities": [
+                21.87,
+                42.31,
+                35.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To prove him, Jesus asked Philip about the possibility of feeding the crowd, not to seek counsel, but to exhibit Himself as the Son of Man, the Life of the World in the flesh. Thus, the question was meant to test Philip's faith and see if he believed that Jesus had the power to supply their needs. Jesus knew what He would do, that He would work a miracle, but He wanted to first try the faith of His apostles, preparing them for the forthcoming marvellous sign. Through this test, He would reveal Himself and strengthen their belief.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.185495049048775,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.01,
+            "commentatorTierSimilarities": [
+                21.95,
+                41.21,
+                36.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To prove him, Jesus asked Philip about feeding the crowd, not seeking counsel, but exhibiting Himself as the Son of Man, the Life of the World in the flesh. The question aimed to test Philip's faith and see if he believed in Jesus' power to provide. Jesus knew what He would do, planning to work a miracle, but first wanted to test the faith of His apostles, preparing them for the forthcoming remarkable sign, revealing Himself and strengthening their belief.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.2324538938186307,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.57,
+            "commentatorTierSimilarities": [
+                23.84,
+                40.92,
+                35.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To prove him, Jesus asked Philip about the possibility of feeding the crowd, not to seek counsel, but to exhibit Himself as the Son of Man, the Life of the World in the flesh. This question served to test Philip's faith and see if he believed that Jesus had the power to supply their needs. Although Jesus knew what He would do, He wanted to first try the faith of His apostles, preparing them for the forthcoming miracle and strengthening their belief in Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.354012417125802,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.61,
+            "commentatorTierSimilarities": [
+                22.35,
+                41.91,
+                35.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:15:57",
+    "verseRef": "John 21:25",
+    "bestBHT": {
+        "bht": "The purpose of this passage is to assert and vindicate the fragmentary character of the Gospel, highlighting that not even the entire world could contain the full extent of Jesus' works and teachings. The author conveys the immense scale of Jesus' life and ministry, implying that there were many other things Jesus did that were not recorded. This passage contains the clearest proof of inspiration, as the author, an unlettered fisherman of Galilee, has left his mark on almost every line.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.2866032541969235,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.37,
+        "commentatorTierSimilarities": [
+            31.34,
+            41.15,
+            27.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The purpose of this verse seems to he to assert and vindicate the fragmentary character of the Gospel, considered merely as an historical narrative.",
+            "Surely nothing can be more natural than this.",
+            "On the whole, I am persuaded that in this chapter we have a fragment, both authentic and genuine, added, for reasons apparent on the face of it, by the Apostle himself, bearing evidence of his hand, but in a 'second manner,'\u2014a later style."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And there are many other things which Jesus did.",
+            "even the world itself would not hold the books",
+            "But in the limitation of these matchless histories, in point of number, there is as much of that divine wisdom which has presided over and pervades the living oracles, as in their variety and fulness."
+        ],
+        "Albert Barnes": [
+            "When John says that the world could not contain the books that would be written if all the deeds and sayings of Jesus were recorded, he clearly intends nothing more than that a great many books would be required, or that it would be extremely difficult to record them all; intimating that his life was active, that his discourses were numerous, and that he had not pretended to give them all.",
+            "This gospel contains in itself the clearest proof of inspiration. It is the work of a fisherman of Galilee, without any proof that he had any unusual advantages.",
+            "It is in the highest degree absurd to suppose that an unlettered fisherman could have originated this book. Anyone may be convinced of this by comparing it with what would be the production of a man in that rank of life now."
+        ],
+        "John Calvin": [
+            "He does not speak of Christ\u2019s actions of every kind, but of those which relate to his public office; nor ought we to think that the hyperbole is absurd, when we bear with many figures of speech of the same kind in heathen authors.",
+            "If the Evangelist, casting his eyes on that brightness, exclaims in astonishment, that even the whole world could not contain a full narrative, ought we to wonder at it?",
+            "That man who has duly profited under such teachers will be truly wise. And, indeed, since they were appointed by God to be witnesses to us, as they have faithfully discharged their duty; so it is our duty, on the other hand, to depend wholly on their testimony."
+        ],
+        "Philip Schaff": [
+            "To have given a complete history of the facts of Christ\u2019s life would have been impossible. He has chosen those only which bore upon his particular aim.",
+            "It is not more reverent and more true to say that the language here used expresses the infinitude which the apostle beheld in the life of Jesus, the fathomless depths which he knew his Lord\u2019s every work and every word to contain?",
+            "In no part of his work does he expressly name himself, not is this necessary. He is named by almost every line that he has written, by almost every touch of the pencil with which he has drawn his picture."
+        ],
+        "Archibald T. Robertson": [
+            "If they should be written every one (\u03b5\u03b1\u03bd \u03b3\u03c1\u03b1\u03c6\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b8' \u03b5\u03bd).\" - This highlights the possibility of recording every detail, illustrating the immense scale of Jesus' work and teachings.",
+            "I suppose (\u03bf\u03b9\u03bc\u03b1).\" - This phrase demonstrates the author's perspective and assumptions.",
+            "Would not contain (\u03bf\u03c5\u03b4' \u03b1\u03c5\u03c4\u03bf\u03bd \u03c4\u03bf\u03bd \u03ba\u03bf\u03c3\u03bc\u03bf\u03bd \u03c7\u03c9\u03c1\u03b7\u03c3\u03b5\u03b9\u03bd).\" - This statement conveys the idea that not even the entire world could contain the full extent of Jesus' work and teachings."
+        ],
+        "John Gill": [
+            "But has reduced them into a brief compendium, which may be read with ease, delight, and pleasure; and which is abundantly sufficient to attest the truth of Christ's incarnation, miracles, doctrines, obedience, sufferings, death, resurrection, ascension, session at God's right hand, c. and of the whole of Christianity, and all that appertains to it, or whatever is necessary to be known, for the salvation of men.",
+            "For this cannot be understood of the carnal and unbelieving part of the world, not receiving and bearing what would be contained in such volumes, were they written for they are not able to receive and bear what is now written, but reject and despise it as foolishness.",
+            "The intention of this expression, supposing it hyperbolical, is to show, that but a few of the wonderful things done by Christ were recorded by the evangelist, in comparison of the many which he every day did, in all places where he came for he was continually going about doing good, and healing all manner of diseases; but these that were written are sufficient to prove him to be the true Messiah, and to require faith in him as such."
+        ],
+        "John Wesley": [
+            "If they were to be written particularly \u2014 Every fact, and all the circumstances of it.",
+            "I suppose \u2014 This expression, which softens the hyperbole, shows that St. John wrote this verse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose of this verse seems to assert the fragmentary nature of the Gospel, highlighting that not even the entire world could contain the full extent of Jesus' works and teachings. The author conveys the immense scale of Jesus' life and ministry, implying that there were many other things Jesus did that were not recorded. It is clear that the Gospel of John was not intended to provide a complete history, but rather to focus on specific events and teachings that serve the author's purpose. The author, an unlettered fisherman of Galilee, has left his mark on every line he has written, and his work bears the clearest proof of inspiration.",
+            "wordCount": 112,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 2.1867449649619246,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                31.24,
+                41.29,
+                27.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of this passage is to assert the fragmentary nature of the Gospel, highlighting that not even the entire world could contain the full extent of Jesus' works and teachings. The author conveys the immense scale of Jesus' life and ministry, implying that there were many other things Jesus did that were not recorded. This Gospel, written by an unlettered fisherman, bears the clearest proof of inspiration, leaving his mark on every line he has written.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.229321539236338,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.47,
+            "commentatorTierSimilarities": [
+                30.64,
+                42.12,
+                27.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of this verse is to assert and vindicate the fragmentary character of the Gospel, considered merely as an historical narrative. It is stated that not even the entire world could contain the books that would be written if all the deeds and sayings of Jesus were recorded. The author, an unlettered fisherman of Galilee, has left his mark on almost every line written. This passage conveys the immense scale of Jesus' life and ministry, highlighting the impossibility of providing a complete history of all the facts.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1425023198090454,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+            "commentatorTierSimilarities": [
+                30.91,
+                40.07,
+                29.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The purpose of this verse is to assert and vindicate the fragmentary character of the Gospel, considered merely as an historical narrative. Not even the entire world could contain all the books that would be written if all the deeds and sayings of Jesus were recorded. The author, an unlettered fisherman of Galilee, has left his mark on almost every line written. This conveys the immense scale of Jesus' life and ministry, highlighting the impossibility of providing a complete history of all the facts.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.101606074981029,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+            "commentatorTierSimilarities": [
+                30.88,
+                40.23,
+                28.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The purpose of this passage is to assert and vindicate the fragmentary character of the Gospel, highlighting that not even the entire world could contain the full extent of Jesus' works and teachings. The author conveys the immense scale of Jesus' life and ministry, implying that there were many other things Jesus did that were not recorded. This passage contains the clearest proof of inspiration, as the author, an unlettered fisherman of Galilee, has left his mark on almost every line.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.2866032541969235,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.37,
+            "commentatorTierSimilarities": [
+                31.34,
+                41.15,
+                27.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

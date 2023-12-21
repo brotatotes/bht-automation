@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:14:29",
+    "verseRef": "John 18:39",
+    "bestBHT": {
+        "bht": "Jesus' trial before Pilate involved repeated accusations from the chief priests and elders, met by His silent response. Pilate, in an attempt to release Him, sent Jesus to Herod and affirmed His innocence. This incident highlights the variations in the Gospel accounts and the typological significance of Jesus' choice to suffer, allowing Barabbas to go free. The custom of releasing a prisoner at the Passover underscores the context of this event. Pilate's use of the king of the Jews conveys his contemptuous mockery. Above all, this event illustrates God's providential hand as the Jews favored Barabbas over Christ.",
+        "wordCount": 100,
+        "quoteTokenProportion": 27.54,
+        "qualityScore": 1.7462970826408206,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+        "commentatorTierSimilarities": [
+            43.79,
+            17.32,
+            38.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The repeated accusation of Jesus by the chief priests and elders, to which He answered nothing.",
+            "The sending to Herod, and second proclamation of His innocence by Pilate.",
+            "An instructive specimen of the variations in the Gospel narratives, the four accounts of this incident."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "On the typical import of the choice of Christ to suffer, by which Barabbas was set free.\" ",
+            "See the sixteenth chapter of Leviticus, particularly where the subject is the sin offering on the great day of atonement.\" ",
+            "The custom of releasing one prisoner at the Passover."
+        ],
+        "Marvin Vincent": [
+            "Ye have a custom. The word sunhqeia, custom, originally means intimacy, habitual intercourse, and thence naturally passes into the meaning of habit or custom.\" ",
+            "Only John puts the statement of this custom into the mouth of Pilate. Matthew and Mark relate it as a fact.\" ",
+            "At the Passover [\u03b5\u03bd \u03c4\u03c9 \u03c0\u03b1\u03c3\u03c7\u03b1] . More specific than Matthew and Mark, where the expression is general, kata eJorthn, at feast - time."
+        ],
+        "John Calvin": [
+            "That the Jews preferred him to Christ, did not happen without a singular interposition of the providence of God.",
+            "But by his death, he was thrown into the deepest ignominy, so that, in consequence of the release of Barabbas, he was crucified between two robbers.",
+            "Let us learn by this example, that nothing is more ridiculous than to attempt to serve God by our inventions."
+        ],
+        "Philip Schaff": [
+            "Surely the poverty, the humiliation, the sufferings of the latter make Him a fit King for the former.",
+            "As he really cares not what becomes of Him, but sees no reason to detain Him, he will make an effort to let Him go.",
+            "The only theory consistent with the facts is that which proceeds upon the perfect harmony of all the Evangelists, placing us, at the instant before us, in the night between the 14th and the 15th."
+        ],
+        "Archibald T. Robertson": [
+            "This custom, alluded to in Mark 15:6; Matthew 27:15, is termed necessity (\u03b1\u03bd\u03b1\u03b3\u03ba\u03b7) in Luke 23:17 (late MSS., not in older MSS.).\" ",
+            "Then \u03b9\u03bd\u03b1 \u03b1\u03c0\u03bf\u03bb\u03c5\u03c3\u03c9 is a subject clause (\u03b9\u03bd\u03b1 and first aorist active subjunctive) in apposition with \u03c3\u03c5\u03bd\u03b7\u03b8\u03b5\u03b9\u03b1.",
+            "There is contempt and irony in Pilate's use of the phrase 'the king of the Jews.'"
+        ],
+        "John Gill": [
+            "But ye have a custom... which was not originally observed at the feast of the passover, and perhaps was not of any long standing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the trial of Jesus before Pilate, the chief priests and elders accused Him repeatedly, to which He answered nothing. Pilate, in an effort to release Jesus, sent Him to Herod and proclaimed His innocence. This incident is an instructive example of the variations in the Gospel narratives. The choice of Jesus to suffer, allowing Barabbas to go free, carries a typological significance related to the sin offering on the Day of Atonement. This custom of releasing a prisoner at the Passover was specifically associated with the Passover itself. Pilate's contemptuous use of the king of the Jews reflects his mockery of Jesus. This entire event, where the Jews preferred Barabbas to Christ, was a remarkable instance of God's providence.",
+            "wordCount": 122,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7820635334651187,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                42.09,
+                15.87,
+                42.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At Jesus' trial before Pilate, the chief priests and elders persistently accused Him, but He remained silent. Seeking to release Him, Pilate sent Jesus to Herod, reiterating His innocence. This incident highlights the variations in the Gospel accounts. The choice to release Barabbas instead of Jesus holds typological significance, reflecting the sin offering on the Day of Atonement. Releasing a prisoner during the Passover was a custom specifically associated with the feast. Pilate's mocking use of the king of the Jews reveals his contempt for Jesus. This event demonstrated the providence of God as the Jews favored Barabbas over Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.7110016297581416,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                41.49,
+                15.71,
+                42.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During Jesus' trial before Pilate, He faced repeated accusations from the chief priests and elders, but chose to remain silent. In an attempt to release Him, Pilate sent Jesus to Herod, reaffirming His innocence. This incident exemplifies the differences in the Gospel narratives and the significance of Jesus' choice to suffer, allowing Barabbas to go free. The custom of releasing a prisoner during the Passover adds to the depth of this event. Pilate's use of the king of the Jews reveals his disdain and mockery towards Jesus. Ultimately, this situation showcases God's providence as the Jews opt for the release of Barabbas instead of Jesus.",
+            "wordCount": 107,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.7703623275502314,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                41.06,
+                18.8,
+                40.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During Jesus' trial, the chief priests and elders accused Him repeatedly, but He chose not to respond. Pilate, seeking to release Him, sent Jesus to Herod and proclaimed His innocence. This incident demonstrates the variations in the Gospel accounts. Jesus' choice to suffer and Barabbas' release hold typological significance related to the sin offering on the Day of Atonement. Releasing a prisoner at the Passover was a customary practice. Pilate's use of the king of the Jews reveals his contempt and irony. This event showcases God's providence as the Jews preferred Barabbas over Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 1.6721089761523489,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                43.15,
+                16.55,
+                40.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' trial before Pilate involved repeated accusations from the chief priests and elders, met by His silent response. Pilate, in an attempt to release Him, sent Jesus to Herod and affirmed His innocence. This incident highlights the variations in the Gospel accounts and the typological significance of Jesus' choice to suffer, allowing Barabbas to go free. The custom of releasing a prisoner at the Passover underscores the context of this event. Pilate's use of the king of the Jews conveys his contemptuous mockery. Above all, this event illustrates God's providential hand as the Jews favored Barabbas over Christ.",
+            "wordCount": 100,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.7462970826408206,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                43.79,
+                17.32,
+                38.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:12:02",
+    "verseRef": "John 13:26",
+    "bestBHT": {
+        "bht": "During the Last Supper, Jesus gave a morsel of bread dipped in the sauce to Judas, the one who would betray him. This act of giving the sop was a mark of forbearance and goodwill, as well as a final appeal to Judas' conscience against his planned treachery. The sop, a token of intimacy, revealed Jesus' knowledge of Judas' plot. Despite Jesus' tenderness, Judas remained unmoved, allowing Satan to take full possession of him.",
+        "wordCount": 74,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.4394764697303684,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.45,
+        "commentatorTierSimilarities": [
+            30.41,
+            37.34,
+            32.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] This represents Matt. ver. 23, Mark ver. 20. the sop, probably a piece of the unleavened bread, dipped in the broth made of bitter herbs."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus answered\u2014also inaudibly, the answer being communicated to Peter perhaps from behind.",
+            "He... to whom I shall give a sop when I have dipped it\u2014a piece of the bread soaked in the wine or the sauce of the dish; one of the ancient ways of testifying peculiar regard.",
+            "And when he had dipped... he gave it to Judas, &c.\u2014Thus the sign of Judas' treachery was an affecting expression, and the last, of the Saviour's wounded love!"
+        ],
+        "Albert Barnes": [
+            "Jesus answered - That is, he answered John. It does not appear that either Judas or the other apostles heard him.",
+            "Shall give a sop - The word translated \u201csop\u201d means a morsel, a piece of bread, or anything else eaten... Jesus would dip it into the sauce as we do a piece of bread.",
+            "It was an indication to John who the betrayer was, and a hint which Judas also probably understood."
+        ],
+        "Marvin Vincent": [
+            "According to its etymology, the verb means to feed with morsels; and it was used by the Greeks of a nurse chewing the food and administering it to an infant.\" ",
+            "This sense may possibly color the word as used in Romans 12:20: 'If thine enemy hunger, feed [\u03c8\u03c9\u03bc\u03b9\u03b6\u03b5] him;' with tender care.",
+            "The act was a mark of forbearance and goodwill toward the traitor, and a tacit appeal to his conscience against the contemplated treachery."
+        ],
+        "John Calvin": [
+            "The sign was of such a nature, that it discovered Judas to one person only, and did not immediately bring him forward to the view of all.",
+            "Christ intentionally delayed to make Judas publicly known, that, when hypocrites are concealed, we may more patiently bear, till they are dragged forth to the light.",
+            "We see Judas sitting amongst the others, and yet condemned by the mouth of the Judge. In no respect better is the condition of those who hold a place among the children of God."
+        ],
+        "Philip Schaff": [
+            "This particular sign is chosen in order even at the last moment to touch his heart. For this purpose Jesus departs from the ordinary custom at the feast... It is a final appeal to Judas which may yet soften his heart, but which, if it do not soften him, will only make him more hardened than before.",
+            "The giving of the sop then is more than an index to the traitor... Thou art at my table, thou art my guest, I would fain have thee to be my friend; cans thou violate every rule of love and friendship?'",
+            "The going out of Judas is the token that he did not belong to the number of the disciples, and that he could not share in that expression of communion with J"
+        ],
+        "Archibald T. Robertson": [
+            "\u03a8\u03c9\u03bc\u03b9\u03bf\u03bd is a diminutive of \u03c8\u03c9\u03bc\u03bf\u03c2, a morsel, a common Koine word (in the papyri often), in N.T. only in this passage.\" ",
+            "It was and is in the orient a token of intimacy to allow a guest to dip his bread in the common dish (cf. Ruth 2:14). So Mark 14:20.\" ",
+            "Judas now knew that Jesus knew his plot."
+        ],
+        "John Gill": [
+            "Christ, I say, whispered to John, and told him by what sign he might know the person, and that it was he.",
+            "This sop, or rather crust of bread, which whether dipped into a liquid, or only a piece of dry bread, which Christ dipped his hand into the dish for, and took, as some think, is not very material.",
+            "He gave it to Judas Iscariot, the son of Simon; so called, to distinguish him from another apostle, whose name was Judas, and was then present."
+        ],
+        "John Wesley": [
+            "So careful was he not to offend (if it had been possible) even Judas himself.",
+            "And probably the other disciples thought Judas peculiarly happy!",
+            "But when even this instance of our Lord's tenderness could not move him, then Satan took full possession."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the Last Supper, Jesus gave a morsel of bread dipped in the sauce to Judas, the one who would betray him. This act was a mark of forbearance and goodwill toward the traitor, a final appeal to touch his heart and discourage his treachery. The sop was a token of intimacy, and by giving it to Judas, Jesus revealed his knowledge of the plot. While this sign was not witnessed by all, it had a significant impact on Judas, who, despite Jesus' tenderness, remained unmoved and allowed Satan to take full possession of him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.3869056948249927,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.7,
+            "commentatorTierSimilarities": [
+                30.31,
+                37.41,
+                32.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Last Supper, Jesus gave a morsel of bread dipped in the sauce to Judas, the one who would betray him. This act was a mark of goodwill toward the traitor, a final appeal to touch his heart and discourage his treachery. The sop was a token of intimacy, and by giving it to Judas, Jesus revealed his knowledge of the plot. While this sign was not witnessed by all, it had a significant impact on Judas, who remained unmoved, allowing Satan to take full possession of him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.375580884991672,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.33,
+            "commentatorTierSimilarities": [
+                29.85,
+                37.3,
+                32.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Last Supper, Jesus gave a morsel of bread dipped in the sauce to Judas, the one who would betray him. This act was a mark of forbearance and goodwill, a final appeal to touch Judas' heart and discourage his treachery. The sop was a token of intimacy and revealed Jesus' knowledge of the plot. While not witnessed by all, it had a significant impact on Judas, who remained unmoved, allowing Satan to take full possession of him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2922713357368814,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.56,
+            "commentatorTierSimilarities": [
+                29.92,
+                37.73,
+                32.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Last Supper, Jesus gave a morsel of bread dipped in the sauce to Judas, the one who would betray him. This act was a mark of forbearance and goodwill toward the traitor, a final appeal to his conscience and a display of Jesus' wounded love. The sop, a token of intimacy, revealed Jesus' knowledge of Judas' treachery. Unfortunately, despite Jesus' tenderness, Judas remained unmoved, allowing Satan to take full possession of him.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.427328329295122,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.05,
+            "commentatorTierSimilarities": [
+                31.39,
+                37.49,
+                31.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the Last Supper, Jesus gave a morsel of bread dipped in the sauce to Judas, the one who would betray him. This act of giving the sop was a mark of forbearance and goodwill, as well as a final appeal to Judas' conscience against his planned treachery. The sop, a token of intimacy, revealed Jesus' knowledge of Judas' plot. Despite Jesus' tenderness, Judas remained unmoved, allowing Satan to take full possession of him.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.4394764697303684,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.45,
+            "commentatorTierSimilarities": [
+                30.41,
+                37.34,
+                32.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:04:16",
+    "verseRef": "John 1:14",
+    "bestBHT": {
+        "bht": "The eternal Word of God, who was with God and was God, became flesh, fully identifying Himself with the human race. In assuming human nature, Jesus entered into a condition where He could have perfect communion with us, and we with Him. Through His incarnation, the Word took possession of human flesh, shining forth with the fullness of grace and truth. In Christ, the divine glory was manifested, proving His eternal divinity and demonstrating God's abundant love and condescension towards humanity.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.1690045212296267,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+        "commentatorTierSimilarities": [
+            30.8,
+            32.25,
+            36.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is only the same copula as in vv. 1, 3, 4, 5; sing on to a further assertion regarding the Word.",
+            "He became flesh, the most general expression of the great truth that He became man.",
+            "The doctrine in this form may have been, as L\u00fccke observes, alien to St. John\u2019s habits of thought, but not that which is implied in the doctrine, the taking of the nature of man by the Eternal Word."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "BECAME MAN, in man's present frail, mortal condition, denoted by the word 'flesh.'",
+            "Married to our nature, henceforth He is as personally conscious of all that is strictly human as of all that is properly divine.",
+            "In His Person all that Grace and Truth which had been floating so long in shadowy forms, and darting into the souls of the poor and needy its broken beams, took everlasting possession of human flesh and filled it full."
+        ],
+        "Albert Barnes": [
+            "The 'Word' was made 'man.' This is commonly expressed by saying that he became 'incarnate.'",
+            "The expression, then, means that he became a man, and that he became such by the power of God providing for him a body.",
+            "He declared the truth. In him was no falsehood. He was not like the false prophets and false Messiahs, who were wholly impostors; nor was he like the emblems and shadows of the old dispensation, which were only types of the true; but he was truth itself."
+        ],
+        "John Calvin": [
+            "He intended to show to what a mean and despicable condition the Son of God, on our account, descended from the height of his heavenly glory.",
+            "The plain meaning therefore is, that the Speech begotten by God before all ages, and who always dwelt with the Father, was made man.",
+            "The Evangelist therefore means, that in Christ was beheld a glory which was worthy of the Son of God, and which was a sure proof of his Divinity."
+        ],
+        "Philip Schaff": [
+            "He who was in the beginning, who was with God, who was God, \u2018became flesh;\u2019 did not merely take to Him a human body, did not merely become an individual man, but assumed human nature in its entireness... identified Himself with the race, entered into such a condition that He could have perfect communion and fellowship with us, and we with Him.\" ",
+            "The Word remains, with all His essential properties; there is added a new mode of being, the assumption of a new nature, denoted by \u2018flesh.\u2019\" ",
+            "The glory of the Incarnate Word there are two elements, as His one Person unites two natures: in part the glory is unique (in kind and not only in degree), belonging to the God-man and not to the perfect Man; in part it is communicable to men."
+        ],
+        "Archibald T. Robertson": [
+            "The Logos of philosophy is, John declares, the Jesus of history\" (Bernard).",
+            "John insists that in the human Jesus he beheld the Shekinah glory of God who was and is the Logos who existed before with God\" (Bernard).",
+            "John clearly means to say that 'the manifested glory of the Word was as it were the glory of the Eternal Father shared with His only Son'\" (Bernard)."
+        ],
+        "John Gill": [
+            "and \"flesh\" here signifies, not a part of the body, nor the whole body only, but the whole human nature, consisting of a true body, and a reasonable soul; and is so called, to denote the frailty of it, being encompassed with infirmities, though not sinful",
+            "The human nature of Christ was of God's pitching, and not man's; and though it looked mean without, the fulness of the Godhead dwelt in it, as well as a fulness of grace and truth",
+            "he dwelt among men, and appeared to have a fulness of each of these: for this clause is not to be joined with the glory of the only begotten, as if this was a branch of that; but regards him as incarnate, and in his office, as Mediator; who, as such, was full of \"grace\"; the Spirit, and the gifts of the Spirit; of all the blessings of grace, of justifying, pardoning, adopting, sanctifying, and persevering grace; of all the promises of grace; of all light, life, strength, comfort, peace, and joy: and also of truth, of all Gospel truths"
+        ],
+        "John Wesley": [
+            "Flesh sometimes signifies corrupt nature; sometimes the body; sometimes, as here, the whole man.",
+            "And in order to raise us to this dignity and happiness, the eternal Word, by a most amazing condescension, was made flesh, united himself to our miserable nature, with all its innocent infirmities.",
+            "He [Jesus] was himself most benevolent and upright; made those ample discoveries of pardon to sinners, which the Mosaic dispensation could not do: and really exhibited the most substantial blessings, whereas that was but a shadow of good things to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Word of God, who was with God and was God, became flesh, taking on the nature of man, and dwelling among us. In assuming human nature, Jesus identified Himself with the frailty and mortality of mankind, experiencing all that is strictly human while retaining His divine nature. In Him, the grace and truth that were once seen in shadows and glimpses were fully embodied and manifested. Through His incarnation, Jesus revealed the glorious truth of His divinity and brought forth the blessings of grace and truth to humanity. As the eternal Word made flesh, He demonstrated unparalleled love and righteousness, granting forgiveness and substantial blessings that surpassed the limitations of the old covenant. Jesus, in His fullness of grace and truth, invites us to partake in the radiance of His glory and experience the transformative power of His divine-human nature.",
+            "wordCount": 142,
+            "quoteTokenProportion": 31.65,
+            "qualityScore": 2.059540088550656,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                29.8,
+                31.51,
+                38.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Word became flesh, fully assuming human nature while retaining His divine attributes. In His incarnation, Jesus entered into a condition where He could have perfect communion with humanity and vice versa. Through Him, the grace and truth that were previously seen in fragmented forms found their complete expression. Jesus, the Logos of philosophy and the Jesus of history, revealed the glory of God and shared in the Father's everlasting glory. His descent into human frailty demonstrated the immense love and condescension of the Son of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9440932382672578,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                31.96,
+                31.85,
+                36.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The eternal Word of God, who was with God and was God, became flesh and took on the fullness of human nature. In this act of incarnation, Jesus entered into a deep and personal communion with humanity. He dwelt among us, embodying both divine grace and truth. This divine-human union in Jesus affirmed His true divinity and manifested the glory of God. Through His incarnation, Jesus bridged the gap between God and humanity, offering abundant grace and substantial blessings that surpassed all earthly shadows.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9941538760376534,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                30.39,
+                30.59,
+                39.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The eternal Word of God, who was with God and was God, became flesh, fully identifying Himself with the human race. In assuming human nature, Jesus entered into a condition where He could have perfect communion with us, and we with Him. Through His incarnation, the Word took possession of human flesh, shining forth with the fullness of grace and truth. In Christ, the divine glory was manifested, proving His eternal divinity and demonstrating God's abundant love and condescension towards humanity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1690045212296267,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.46,
+            "commentatorTierSimilarities": [
+                30.8,
+                32.25,
+                36.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The eternal Word, who was with God and was God, chose to dwell among us by becoming flesh. In assuming human nature, Jesus fully embraced our frail and mortal condition. Through His incarnation, Jesus united divine grace and truth with human flesh, embodying the glory of the Father and sharing in His everlasting glory. This act of condescension reveals the immense love and compassion of the Son of God towards humanity, as He humbles Himself to bring forth blessings and salvation to all.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.1431630432301843,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.6,
+            "commentatorTierSimilarities": [
+                30.94,
+                30.31,
+                38.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:07:37",
+    "verseRef": "John 7:10",
+    "bestBHT": {
+        "bht": "Jesus, not openly, went up to the feast, possibly taking a different route to avoid attracting attention. This decision was in direct contrast to the advice of his brothers, who urged him to make a more public display of his messianic mission. By going in secret, Jesus demonstrated his fulfillment of the law and purposefully avoided those who sought to harm him. While this journey to the feast was not the one where he would suffer, the subsequent Passover marked his triumphant entrance into Jerusalem as the acclaimed King of Israel.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.6871028547957647,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+        "commentatorTierSimilarities": [
+            22.56,
+            32.07,
+            45.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not openly, i.e. not in the usual caravan-company, nor probably by the usual way.",
+            "Whether the Twelve were with Him, we have no means of judging: probably so, for they appear ch. ix. 2.",
+            "After their becoming once attached to the Person of our Lord as Apostles, we find no trace of His having been for any long time separated from them, except during their mission Matt. x., which was long ago accomplished."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "then went he . . . not openly\u2014not 'in the (caravan) company' [MEYER].",
+            "as it were in secret\u2014rather, 'in a manner secretly'; perhaps by some other route, and in a way not to attract notice."
+        ],
+        "Philip Schaff": [
+            "To have gone up publicly would have been to \u2018manifest Himself to the world.\u2019",
+            "At the next great feast, the Passover of the following year, He did enter the holy city in triumph, thus proclaimed King of Israel by the rejoicing multitudes.",
+            "The sending of messengers implies no publicity; for such a company as this, composed of Jesus and His disciples, such a precaution might well be essential."
+        ],
+        "Archibald T. Robertson": [
+            "The Greek does not always draw the precise distinction between the merely punctiliar (aorist) antecedent action and the past perfect.",
+            "Not publicly... But as it were in secret.",
+            "Plainly Jesus purposely went contrary to the insincere counsel of his brothers as to the manner of his Messianic manifestation."
+        ],
+        "John Gill": [
+            "He went up to this feast yet in the most private manner, that he might escape those who would lie in wait for him, and sought to kill him.",
+            "This was not the feast he was to suffer at, but the passover following; which when near at hand, he went up to it, and entered Jerusalem in the most public manner.",
+            "As he was made under the law, and came to fulfil all righteousness, it was necessary that he should observe every precept, and fulfil the whole law."
+        ],
+        "John Wesley": [
+            "He also went up to the feast \u2014 This was his last journey but one to Jerusalem. The next time he went up he suffered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went up to the feast not openly, but rather in secret. He deliberately disregarded the insincere counsel of his brothers and purposefully chose a different route to avoid drawing attention to himself. Although it is uncertain whether the Twelve were with him, it is likely that they were, as Jesus rarely separated from them for any extended period of time. His decision to go in secret was a deliberate act to fulfill the law and avoid those who sought to harm him. This journey to the feast was not the one where he would suffer, but the following Passover, where he would enter Jerusalem triumphantly, proclaimed as the King of Israel.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.75,
+            "qualityScore": 1.6431583085000385,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.98,
+            "commentatorTierSimilarities": [
+                26.28,
+                29.31,
+                44.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, not openly, went up to the feast, possibly taking a different route to avoid attracting attention. This decision was in direct contrast to the advice of his brothers, who urged him to make a more public display of his messianic mission. By going in secret, Jesus demonstrated his fulfillment of the law and purposefully avoided those who sought to harm him. While this journey to the feast was not the one where he would suffer, the subsequent Passover marked his triumphant entrance into Jerusalem as the acclaimed King of Israel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6871028547957647,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                22.56,
+                32.07,
+                45.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus went up to the feast not openly or in the usual manner, but rather in secret, possibly taking a different route to avoid attracting attention. His decision defied the insincere counsel of his brothers and served as a deliberate act to fulfill the law and escape those who sought to harm him. Although not the feast where he would suffer, this marked his second-to-last journey to Jerusalem before the Passover where he would enter triumphantly, hailed as the King of Israel by the rejoicing multitudes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6806867260715435,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                22.35,
+                31.19,
+                46.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus went up to the feast, not openly, but rather in secret. His purposeful decision to avoid the usual caravan-company and possibly take a different route was in direct contrast to the insincere counsel of his brothers. By going in secret, he fulfilled the law and eluded those who sought to harm him. This journey was not the one where he would suffer, but it preceded the Passover when he would make a triumphant entrance into Jerusalem, hailed as the King of Israel by the rejoicing multitudes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6730768089604164,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                28.19,
+                29.51,
+                42.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus went up to the feast not openly, but rather in secret, purposefully defying the insincere advice of his brothers. He took precautions and possibly a different route to avoid attracting attention. This intentional act fulfilled the law and eluded those who sought to harm him. Although this journey was not the one where he would suffer, it preceded the Passover when he would enter Jerusalem triumphantly, heralded as the King of Israel by the rejoicing multitudes.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.5773295281135853,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                25.16,
+                31.6,
+                43.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

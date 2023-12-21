@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:04:52",
+    "verseRef": "John 2:23",
+    "bestBHT": {
+        "bht": "When the people witnessed the miracles Jesus was performing, their belief in Him was not yet a firm decision but based on the signs they saw. The specific miracles are not recorded, but they were powerful demonstrations of Jesus' authority and His name as the Messiah. These signs led many to believe in Jesus, recognizing Him as the teacher sent from God. While this initial belief was significant, it remained to be seen whether it would develop into a genuine and steadfast trust in Him.",
+        "wordCount": 85,
+        "quoteTokenProportion": 49.18,
+        "qualityScore": 2.1234131974086123,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+        "commentatorTierSimilarities": [
+            28.5,
+            30.65,
+            40.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They believed on Him, but not firmly. Those converts believed in a stricter sense, who believed not owing to the miracles only, but owing to His teaching.\" ",
+            "What miracles these were, is not related:\u2014certainly some notable ones, see ch, iii. 2.",
+            "The mention of them precludes us from understanding ch. iv. 54, as indicating that the healing of the ruler\u2019s son was absolutely His second miracle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Superficially, struck merely by 'the miracles He did.'\" ",
+            "Of these we have no record."
+        ],
+        "Albert Barnes": [
+            "Feast-day - Feast. During the celebration of the Passover, which continued eight days.",
+            "Miracles which he did - These miracles are not particularly recorded.",
+            "We should always seek and embrace opportunities of doing good, and we should not be 'deterred,' but rather 'excited,' by the multitude around us to make known our real sentiments on the subject of religion."
+        ],
+        "Marvin Vincent": [
+            "Believe on His name, compare believe on Him...to believe on the name is rather to believe in Him as being that which he claims to be, in this case the Messiah. It is believing recognition rather than appropriation.",
+            "Their faith in His name (as that of the Messiah) did not yet amount to any decision of their inner life for Jesus, but was only an opinion produced by the sight of His miracles, that He was the Messiah\" (Meyer).",
+            "He did [\u03b5\u03c0\u03bf\u03b9\u03b5\u03b9]. Better, was doing; the imperfect denoting the wonderful works as in progress."
+        ],
+        "John Calvin": [
+            "This appearance of faith, which hitherto was fruitless, might ultimately be changed into true faith, and might be a useful preparation for celebrating the name of Christ among others.",
+            "For hypocrites assent to the Gospel, not that they may devote themselves in obedience to Christ, nor that with sincere piety they may follow Christ when he calls them, but because they do not venture to reject entirely the truth which they have known.",
+            "Miracles do indeed assist the children of God in arriving at the truth; but it does not amount to actual believing, when they admire the power of God so as merely to believe that it is true, but not to subject themselves wholly to it."
+        ],
+        "Philip Schaff": [
+            "In this verse we pass from the public presentation of Jesus to the people and \u2018the Jews\u2019 in the house of His Father to His more private ministry in Jerusalem: rejected as the Son of God, He continues His work as a Prophet, doing many \u2018signs,\u2019 and by these leading many to faith in His mission.",
+            "The words would also point to our Lord\u2019s observing the feast Himself. It is noticeable that we do not here read \u2018the Passover of the Jews:\u2019 the desecration of the festival has been condemned in one of its manifestations, but the festival itself is honored.",
+            "The signs attested His words, which were the description of His \u2018name\u2019 (see chap. John 1:12), and, beholding the signs, many became believers in His name, accepting Him as being in truth what He declared Himself to be."
+        ],
+        "Archibald T. Robertson": [
+            "Believed on his name (\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03b1\u03bd \u03b5\u03b9\u03c2 \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c5). See on John 1:12 for this phrase. Only one has to watch for the real import of \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c9.",
+            "Beholding his signs (\u03b8\u03b5\u03c9\u03c1\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b5\u03b9\u03b1). Present active participle (causal use) of \u03b8\u03b5\u03c9\u03c1\u03b5\u03c9.",
+            "Which he did (\u03b1 \u03b5\u03c0\u03bf\u03b9\u03b5). 'Which he was doing' (imperfect tense). He did his first sign in Cana, but now he was doing many in Jerusalem."
+        ],
+        "John Gill": [
+            "and the feast to be the particular feast of the first day of it, which was the fifteenth; to which may be added, that on this day all the males made their appearance in court... and so was a very proper time for Christ to work his miracles in, when there were so many spectators.",
+            "though the modern ones, in order to shift off the evidence of Jesus being the Messiah, from his miracles, deny that miracles are the characteristic of the Messiah, or will be performed by him; at least, that there is no necessity of them to prove him to be the person.",
+            "being surprised at the marvellous things he did, and upon the evidence of these extraordinary works, there were many that concluded he must be come from God."
+        ],
+        "John Wesley": [
+            "Many believed \u2014 That he was a teacher sent from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the people saw the miracles Jesus was performing, some believed in Him but their belief was not firm, for it was based solely on the signs they beheld. Their faith in Jesus as the Messiah did not go beyond mere recognition, as they had not yet made a decisive commitment to Him. However, these signs and wonders were instrumental in leading many to have faith in His mission. Although the specific miracles are not recorded, they were indicative of His power and authority. The timing of these miracles, taking place during the feast when there were many witnesses, heightened the impact and caused many to conclude that Jesus was a teacher sent from God. Thus, these signs served to spark initial faith, yet it remained to be seen whether this faith would develop into a genuine, wholehearted trust in Jesus.",
+            "wordCount": 141,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.044712809833718,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+            "commentatorTierSimilarities": [
+                28.89,
+                31.39,
+                39.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the people saw the miracles Jesus was doing, some believed on His name, but their belief was not yet a firm decision for Jesus. Instead, it was only an opinion formed by witnessing His signs. These signs, although not specifically recorded, were powerful demonstrations of Jesus' authority and power. The timing of these miracles during the feast allowed for a multitude of witnesses to be amazed and conclude that Jesus was a teacher sent from God. However, it remained to be seen whether this initial faith would develop into a genuine and steadfast trust in Jesus.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.9448399613394227,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                27.93,
+                30.65,
+                41.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the people witnessed the miracles Jesus was performing, some of them believed on His name, though their belief was not yet a decisive commitment. Their faith was based on the signs they beheld, and although the specific miracles are not recorded, these wonders served as powerful demonstrations of Jesus' authority and power. The timing of these miracles during the feast provided a significant opportunity for many to witness them and draw the conclusion that Jesus was a teacher sent from God. However, it remained to be seen whether their initial belief would grow into a genuine and wholehearted trust in Jesus.",
+            "wordCount": 102,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.1476262859885047,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                26.44,
+                30.87,
+                42.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the people saw the miracles Jesus was doing, some believed on His name, but their belief was not yet firm, as it was based solely on witnessing the signs. These signs, although not specifically mentioned, were powerful demonstrations of Jesus' authority. The timing of these miracles during the feast allowed for a multitude of witnesses, leading many to conclude that Jesus was a teacher sent from God. However, it remained to be seen whether this initial faith would develop into a genuine and steadfast trust in Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 2.0742330557905824,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+            "commentatorTierSimilarities": [
+                26.33,
+                32.82,
+                40.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the people witnessed the miracles Jesus was performing, their belief in Him was not yet a firm decision but based on the signs they saw. The specific miracles are not recorded, but they were powerful demonstrations of Jesus' authority and His name as the Messiah. These signs led many to believe in Jesus, recognizing Him as the teacher sent from God. While this initial belief was significant, it remained to be seen whether it would develop into a genuine and steadfast trust in Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.1234131974086123,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+            "commentatorTierSimilarities": [
+                28.5,
+                30.65,
+                40.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

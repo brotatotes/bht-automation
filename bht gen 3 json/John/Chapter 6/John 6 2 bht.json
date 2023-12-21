@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:06:40",
+    "verseRef": "John 6:2",
+    "bestBHT": {
+        "bht": "The people had been witnessing the signs and miracles that Jesus performed for a long time, which caused them to eagerly follow him. Their desire to be in his presence was so great that they had no concern about spending the night in a desert place. Despite their hunger and exhaustion, they followed Jesus, not only out of curiosity or to be healed, but also to hear his teachings. Jesus knew their needs and was careful to provide for them, showing his care for their well-being.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.7885333204893363,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+        "commentatorTierSimilarities": [
+            23.52,
+            37.48,
+            39.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] It is evident from this that a circuit in Galilee and works of healing are presupposed (see Matthew, ver. 13; Mark, ver. 33; Luke, ver. 11)."
+        ],
+        "Albert Barnes": [
+            "Because they saw his miracles ... - They saw that he had the power to supply their wants, and they therefore followed him. See John 6:26. Compare also Matthew 14:14."
+        ],
+        "Marvin Vincent": [
+            "Multitude [\u03bf\u03c7\u03bb\u03bf\u03c2] . See on 1 19.",
+            "Followed [\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03b9] . Imperfect tense, denoting not merely the following on this occasion, but generally.",
+            "Saw [\u03b5\u03c9\u03c1\u03c9\u03bd] . Rev., beheld. See on 1 18."
+        ],
+        "John Calvin": [
+            "Here we see, in the first place, how eager was the desire of the people to hear Christ, since all of them, forgetting themselves, take no concern about spending the night in a desert place.",
+            "Very rarely does it happen that Christ finds us free and disengaged from the entanglements of the world.",
+            "We shall perhaps be told that this does not always happen, for we often see that godly persons, though they have been entirely devoted to the kingdom of God, are exhausted and almost fainting with hunger. I reply, though Christ is pleased to try our faith and patience in this manner, yet from heaven he beholds our wants, and is careful to relieve them, as far as is necessary for our welfare."
+        ],
+        "Philip Schaff": [
+            "The Greek words are very expressive pointing clearly to repeated miracles of healing, on account of which crowds followed him continually from place to place.",
+            "This is the only verse in John\u2019s Gospel corresponding with the many passages in the Synoptic Gospels that briefly record a multitude of such works.",
+            "In Judea, as in unbelieving Nazareth, 'He could not do many mighty works.'"
+        ],
+        "Archibald T. Robertson": [
+            "Followed (\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5). Descriptive imperfect active, picturing the crowd, but without the details of the boat for Christ and the rapid race of the crowd on foot.",
+            "They beheld (\u03b5\u03b8\u03b5\u03c9\u03c1\u03bf\u03c5\u03bd). Imperfect active of \u03b8\u03b5\u03c9\u03c1\u03b5\u03c9. They had been beholding the signs which Jesus had been doing (\u03b5\u03c0\u03bf\u03b9\u03b5, imperfect again) for a long time... The people were eager to hear Jesus again and to get the benefit of his healing power.",
+            "The people were eager to... get the benefit of his healing power 'on them that were sick' (\u03b5\u03c0 \u03c4\u03c9\u03bd \u03b1\u03c3\u03b8\u03b5\u03bd\u03bf\u03c5\u03bd\u03c4\u03c9\u03bd, the weak or feeble, without strength)."
+        ],
+        "John Gill": [
+            "It was not for the sake of his doctrine, or for the good of their souls, they followed him.",
+            "Either to gratify their curiosity in seeing his miracles, or to be healed in their bodies.",
+            "They followed him... to be healed in their bodies, as others had been."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage indicates that there had been a circuit in Galilee and numerous works of healing, which the people had witnessed, causing them to eagerly follow Jesus. They had been beholding the signs and miracles that Jesus had been doing for a long time, and they were eager to hear him again and receive the benefit of his healing power. Despite their hunger and exhaustion, the people took no concern about spending the night in a desert place, illustrating their eagerness to be in the presence of Jesus, whether to witness miracles, gratify their curiosity, or be healed of their physical ailments.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.1728001593684434,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.59,
+            "commentatorTierSimilarities": [
+                28.31,
+                41.13,
+                30.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people had been witnessing the signs and miracles that Jesus performed for a long time, which caused them to eagerly follow him. Their desire to be in his presence was so great that they had no concern about spending the night in a desert place. Despite their hunger and exhaustion, they followed Jesus, not only out of curiosity or to be healed, but also to hear his teachings. Jesus knew their needs and was careful to provide for them, showing his care for their well-being.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.7885333204893363,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+            "commentatorTierSimilarities": [
+                23.52,
+                37.48,
+                39.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people, having witnessed the signs and miracles Jesus had been performing, eagerly followed him, not just for the sake of his teachings or the good of their souls, but to see his miracles and be healed in their bodies. Their enthusiasm was so great that they did not hesitate to spend the night in a desert place. While Christ may test our faith and patience, he is also attentive to our needs and cares for us, providing relief as necessary for our welfare.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.5825270862969203,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.96,
+            "commentatorTierSimilarities": [
+                22.5,
+                35.17,
+                42.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people followed Jesus eagerly, not just for his teachings or the good of their souls, but also to see his miracles and be healed in their bodies. They had been beholding his signs and miracles for a long time, and their desire to hear him again and receive the benefit of his healing power was evident. Despite hunger and exhaustion, they took no concern about spending the night in a desert place. Christ, who sees our wants, is careful to relieve them for our welfare.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6507228495426278,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                22.81,
+                35.34,
+                41.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people eagerly followed Jesus, not only out of curiosity or to be healed physically, but also because they had been witnessing his signs and miracles for a long time. Their desire to hear him again and experience his healing power was so strong that they did not hesitate to spend the night in a desert place. Though Christ may test our faith and patience, he is attentive to our needs and provides relief as necessary for our wellbeing.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.7491430186326216,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                23.35,
+                36.62,
+                40.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:07:15",
+    "verseRef": "John 6:34",
+    "bestBHT": {
+        "bht": "The Jews, like the Samaritan woman, longed for the miraculous bread that would grant everlasting life. With reverence, they implored Jesus, Lord, evermore give us this bread. Their desire for this bread stemmed from sensuality, ignorance, covetousness, idleness, and a vain desire for earthly life. Yet, true believers in Christ, who have tasted the goodness of this bread, earnestly desire always to be supplied with it. They find everything delightful and nourishing in Him, as Christ, the true manna and bread of God, becomes everything to them.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 2.0084945904764306,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+        "commentatorTierSimilarities": [
+            28.05,
+            31.72,
+            40.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Jews understand this bread, as the Samaritan woman understood the water, to be some miraculous kind of sustenance which would bestow life everlasting.",
+            "Perhaps they thought of the heavenly manna, which the Rabbis speak of as prepared for the just in the future world.",
+            "Evermore] emphatic:\u2014not now only, but always."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Lord, evermore give us this bread\u2014speaking now with a certain reverence.",
+            "The perpetuity of the manna floating perhaps in their minds.",
+            "Much like the Samaritan woman, when her eyes were but half opened, 'Sir, give Me this water,' &c."
+        ],
+        "John Calvin": [
+            "Give us always this bread.\" ",
+            "Thus wretched men, while they reject the promises of God.\" ",
+            "They...put Christ in their room."
+        ],
+        "Philip Schaff": [
+            "I am the bread of life, the bread, that is, that contains life in itself, and thus is able to give life unto the world.",
+            "He that is coming to me shall in no wise hunger.",
+            "And he that believeth in me shall in no wise ever thirst."
+        ],
+        "Archibald T. Robertson": [
+            "Lord (\u039a\u03c5\u03c1\u03b9\u03b5). Used now instead of Rabbi (25) though how much the people meant by it is not clear.",
+            "Evermore give us this bread (\u03c0\u03b1\u03bd\u03c4\u03bf\u03c4\u03b5 \u03b4\u03bf\u03c2 \u03b7\u03bc\u03b9\u03bd \u03c4\u03bf\u03bd \u03b1\u03c1\u03c4\u03bf\u03bd \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd). Second aorist active imperative second singular like \u03b4\u03bf\u03c2 in Matthew 6:11 (urgent petition).",
+            "Like the woman at the well (John 4:15) they long 'always' to have 'this bread,' a perpetual supply."
+        ],
+        "John Gill": [
+            "these words are said by them either seriously, and to be understood of bread for their bodies, of which they imagined Christ was speaking; and so sprung from ignorance of his sense; and from sensuality in them who followed him for the loaves; and from a covetous disposition, being desirous of being supplied with such excellent food without charge; and from idleness, to save labour and pains in working for it; and from a vain desire of the continuance of this earthly life, being willing to live for ever, and therefore would have this bread evermore; and from a gross opinion of plenty and delicacy of corporeal food in the times of the Messiah.",
+            "when considered as a petition coming from, and suitable to, a sensible and enlightened soul: for such who are sensible of their famishing condition by nature, and of their need of Christ, the bread of life, and whose taste is changed, and have tasted how good this bread is, will earnestly desire always to be supplied with it, and to live upon it.",
+            "to such who are true believers in Christ, who have tasted that the Lord is gracious, Christ, the true manna, and bread of God, is all things to them; nor do they desire any other: they taste everything that is delightful, and find everything that is nourishing in him."
+        ],
+        "John Wesley": [
+            "Give us this bread \u2014 Meaning it still, in a literal sense: yet they seem now to be not far from believing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews, much like the Samaritan woman, longed for this miraculous bread that would grant everlasting life, perhaps thinking of the heavenly manna. They addressed Jesus with reverence as they implored, Lord, evermore give us this bread. Their request echoed the woman at the well, who said to Jesus, Sir, give me this water. They wished to receive this bread always, a perpetual supply. Their desire for this bread stemmed from a sensuality, ignorance of the true sense of Jesus' words, a covetous disposition, idleness, and a vain desire for earthly life. Yet, for those who are enlightened, believers in Christ who have tasted the goodness of this bread, they earnestly desire always to be supplied with it.",
+            "wordCount": 118,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.9828687234659488,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.27,
+            "commentatorTierSimilarities": [
+                32.45,
+                29.24,
+                38.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews, like the Samaritan woman, longed for the miraculous bread that would grant everlasting life. With reverence, they implored Jesus, Lord, evermore give us this bread. Their desire for this bread stemmed from sensuality, ignorance, covetousness, idleness, and a vain desire for earthly life. Yet, true believers in Christ, who have tasted the goodness of this bread, earnestly desire always to be supplied with it. They find everything delightful and nourishing in Him, as Christ, the true manna and bread of God, becomes everything to them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.0084945904764306,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                28.05,
+                31.72,
+                40.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews, like the Samaritan woman, sought the miraculous bread that would bring them everlasting life, reminiscent of the heavenly manna. Addressing Jesus with reverence, they pleaded, Lord, evermore give us this bread. However, their desire stemmed from sensuality, ignorance, covetousness, idleness, and a vain longing for earthly existence. In contrast, true believers, having tasted the goodness of Christ, earnestly yearn to be continually supplied with this bread, finding in Him all that is delightful and nourishing.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.8790989476238678,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.82,
+            "commentatorTierSimilarities": [
+                31.49,
+                28.5,
+                40.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews, understanding this bread as a miraculous sustenance for eternal life, fervently requested, Lord, evermore give us this bread. Similar to the Samaritan woman desiring the water, their plea revealed reverence, with the perpetuity of manna in their thoughts. Yet, their longing for this bread sprang from ignorance, sensuality, covetousness, idleness, and a misguided expectation of abundance during the Messiah's time. By contrast, true believers, having tasted the goodness of Christ, deeply desire to be continually supplied with this bread, finding in Him all that is fulfilling and nourishing.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.9186721548978225,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                31.46,
+                28.3,
+                40.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews, like the Samaritan woman, longed for the miraculous bread that would grant eternal life. They implored Jesus, Lord, evermore give us this bread, with a reverence similar to the woman's request for water. Their desire for this bread arose from ignorance, sensuality, covetousness, idleness, and a misguided expectation of plenty during the Messiah's time. In contrast, true believers who have tasted the goodness of Christ earnestly desire to be continually supplied with this bread, finding in Him all that is nourishing and fulfilling.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9620171687336665,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                31.65,
+                29.32,
+                39.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

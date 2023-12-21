@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:07:48",
+    "verseRef": "John 7:21",
+    "bestBHT": {
+        "bht": "In recalling His healing of the impotent man on the Sabbath, Jesus exposes the hypocrisy and dark designs of those seeking to kill Him. This reference strengthens Jesus' moral position and highlights the significance of the Sabbath healing. The crowd remains ignorant of the true nature of their marveling, focusing solely on the alleged violation of the Sabbath instead of recognizing the greater benefit it brought.",
+        "wordCount": 66,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 2.434250834281941,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.28,
+        "commentatorTierSimilarities": [
+            37.56,
+            33.57,
+            28.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] The one work was the sabbath healing in ch. v."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Taking no notice of the popular appeal, as there were those there who knew well enough what He meant, He recalls His cure of the impotent man, and the murderous rage it had kindled.",
+            "But their present attempt 'to kill Him' brought up the past scene vividly, not only to Him, but without doubt to them, too, if indeed they had ever forgotten it.",
+            "By this fearless reference to it, exposing their hypocrisy and dark designs, He gave His position great moral strength."
+        ],
+        "Albert Barnes": [
+            "One work - The healing of the man on the Sabbath.\" ",
+            "Ye all marvel - You all wonder or are amazed, and particularly that it was done on the Sabbath.\" ",
+            "This was the particular ground of astonishment, that he should dare to do what they esteemed a violation of the Sabbath."
+        ],
+        "Marvin Vincent": [
+            "One work [\u03b5\u03bd \u03b5\u03c1\u03b3\u03bf\u03bd] . The healing on the Sabbath (v. 1 - 8)."
+        ],
+        "John Calvin": [
+            "It is only of a single crime that he is held guilty, or that it is only for a single work that he is blamed...\" ",
+            "...Christ maintains that the latter is more excellent, because the benefit of it extends to the whole man.",
+            "...they thought that he had"
+        ],
+        "Philip Schaff": [
+            "This answer seems to have been addressed to the multitude, or rather to the whole body of those present including \u2018the Jews,\u2019 not to \u2018the Jews\u2019 alone... hence the calmness of the tone.",
+            "\u2018One work,\u2019 viz. that recorded in chap. John 5:1-8, the miracle, with all its attendant circumstances.",
+            "Many other miracles had Jesus wrought in Jerusalem, but this one had caused all the amazement and repulsion of feeling of which He is here speaking."
+        ],
+        "Archibald T. Robertson": [
+            "One work (\u03b5\u03bd \u03b5\u03c1\u03b3\u03bf\u03bd). Direct allusion to the healing of the impotent man when in Jerusalem before (John 5:1).",
+            "He had wrought others before (John 2:23; John 4:45), but this one on the Sabbath caused the rulers to try to kill Jesus (John 5:18).",
+            "Some wondered then, others had murder in their hearts. This crowd here is ignorant."
+        ],
+        "John Gill": [
+            "I have done one work; that is, on the sabbath day... he mentions with a view to their many, and daily violations of it.",
+            "they charged with being a breach of the sabbath, he mentions with a view to their many, and daily violations of it.",
+            "they did not marvel at the miracle that was wrought; but were amazed, offended, and disturbed, at its being done on the sabbath day."
+        ],
+        "John Wesley": [
+            "I did \u2014 At the pool of Bethesda: one work - Out of many: and ye all marvelled at it - Are amazed, because I did it on the Sabbath day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ignoring the popular appeal and recalling His healing of the impotent man, Jesus exposes the hypocrisy and dark designs of those who seek to kill Him. By referencing this past incident, He strengthens His moral position and highlights the significance of the Sabbath healing. While Jesus had performed other miracles before, it was this specific act on the Sabbath that caused such amazement and repulsion. The crowd, however, remains ignorant of the true nature of their marveling, focusing solely on the alleged violation of the Sabbath rather than recognizing the greater benefit it brought to the man healed.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.368568852299613,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.1,
+            "commentatorTierSimilarities": [
+                35.53,
+                35.81,
+                28.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ignoring the popular appeal, Jesus recalls His healing of the impotent man on the Sabbath to expose the hypocrisy and dark designs of those seeking to kill Him. By referencing this past incident, He strengthens His moral position and highlights the significance of the Sabbath healing. While Jesus had performed other miracles before, it was this specific act that caused both amazement and repulsion. The crowd, however, remains ignorant of the true nature of their marveling, focusing solely on the alleged violation of the Sabbath instead of recognizing the greater benefit it brought.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.329669730827832,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.8,
+            "commentatorTierSimilarities": [
+                35.08,
+                35.81,
+                29.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ignoring the popular appeal, Jesus recalls His healing of the impotent man on the Sabbath to expose the hypocrisy and dark designs of those seeking to kill Him. By referencing this past incident, He strengthens His moral position and highlights the significance of the Sabbath healing. While Jesus had performed other miracles before, it was this specific act that caused both amazement and repulsion. The crowd remains ignorant, focusing solely on the alleged violation of the Sabbath instead of recognizing the greater benefit it brought.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.339165442238377,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.12,
+            "commentatorTierSimilarities": [
+                35.08,
+                35.83,
+                29.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In recalling His healing of the impotent man on the Sabbath, Jesus exposes the hypocrisy and dark designs of those seeking to kill Him. This reference strengthens Jesus' moral position and highlights the significance of the Sabbath healing. While Jesus had performed other miracles before, it was this specific act that caused both amazement and repulsion. The crowd, however, remains ignorant of the true nature of their marveling, focusing solely on the alleged violation of the Sabbath instead of recognizing the greater benefit it brought.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3449795795936357,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.31,
+            "commentatorTierSimilarities": [
+                35.45,
+                36.2,
+                28.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In recalling His healing of the impotent man on the Sabbath, Jesus exposes the hypocrisy and dark designs of those seeking to kill Him. This reference strengthens Jesus' moral position and highlights the significance of the Sabbath healing. The crowd remains ignorant of the true nature of their marveling, focusing solely on the alleged violation of the Sabbath instead of recognizing the greater benefit it brought.",
+            "wordCount": 66,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.434250834281941,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.28,
+            "commentatorTierSimilarities": [
+                37.56,
+                33.57,
+                28.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

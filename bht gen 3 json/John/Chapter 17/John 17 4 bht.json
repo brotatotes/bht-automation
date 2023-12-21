@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:13:40",
+    "verseRef": "John 17:4",
+    "bestBHT": {
+        "bht": "Jesus confidently proclaims, I have glorified thee on the earth\u2014I finished the work which thou gavest me to do. His life on earth served as a testament to the glory of the Father, as he fulfilled his mission by revealing God's loving will and purpose. Jesus did not approach his impending death with a sense of failure; rather, he saw himself as the successful apostle of the Father, carrying out his divine message to humanity. He now asks the Father to usher in the kingdom, having accomplished his earthly calling.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.8608738954432813,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+        "commentatorTierSimilarities": [
+            23.82,
+            38.87,
+            37.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I have glorified thee on the earth\u2014rather, 'I glorified' (for the thing is conceived as now past).\" ",
+            "I have finished\u2014I finished.",
+            "the work which thou gavest me to do\u2014It is very important to preserve in the translation the past tense, used in the original."
+        ],
+        "Albert Barnes": [
+            "See his discourses everywhere, the whole tendency of which is to put honor on God.",
+            "He had preached to the Jews; he had given them full proof that he was the Messiah; he had collected his disciples; he had taught them the nature of his religion; he had given them his parting counsel, and there was nothing remaining to be done but to return to God.",
+            "How happy would it be if men would imitate his example, and not leave their great work of life to be done on a dying bed?"
+        ],
+        "Marvin Vincent": [
+            "I have finished.\" ",
+            "The participle defining the manner in which He had glorified the Father upon earth.",
+            "Literally, in order that I should do (it)."
+        ],
+        "John Calvin": [
+            "God had been made known to the world both by the doctrine of Christ, and by his miracles; and the glory of God is, when we know what he is.",
+            "He means that he has completed the whole course of his calling; for the full time was come when he ought to be received into the heavenly glory.",
+            "The amount of his request, therefore, is that the Father would put him in possession of the kingdom; since, having completed his course, nothing more remained for him to do."
+        ],
+        "Philip Schaff": [
+            "There in word, and deed, and suffering even unto death, Jesus revealed the Father\u2019s loving will for the salvation of men; there He accomplished the purpose for which the Father sent Him; there He glorified the Father.",
+            "All the life of Jesus had been a death; in all of it He had been accomplishing His work and glorifying the Father.",
+            "The predicative \u2018Christ\u2019 requires the verb to express knowledge of a fact: the impression given by the verse is that great stress belongs to \u2018know\u2019 in the sense of acquaintance with a Person."
+        ],
+        "Archibald T. Robertson": [
+            "Having accomplished (\u03c4\u03b5\u03bb\u03b5\u03b9\u03c9\u03c3\u03b1\u03c2). First aorist active participle of \u03c4\u03b5\u03bb\u03b5\u03b9\u03bf\u03c9, old verb from \u03c4\u03b5\u03bb\u03b5\u03b9\u03bf\u03c2 (perfect). Used in John 4:34 by Jesus with \u03c4\u03bf \u03b5\u03c1\u03b3\u03bf\u03bd as here. That was Christ's 'food' (\u03b2\u03c1\u03c9\u03bc\u03b1) and joy.\" ",
+            "Now as he faces death he has no sense of failure as some modern critics say, but rather fulness of attainment as in John 19:30 (\u03c4\u03b5\u03c4\u03b5\u03bb\u03b5\u03c3\u03c4\u03b1).",
+            "Christ does not die as a disappointed man, but as the successful messenger, apostle (\u03b1\u03c0\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03c2, verse John 17:3) of the Father to men."
+        ],
+        "John Gill": [
+            "Christ glorified his Father personally, as he held forth and expressed the glory of his person; and verbally, by ascribing, on all occasions, praise and glory to him; and really, or by deeds.",
+            "The destruction of all spiritual enemies, as sin, Satan, the world, and death; and the redemption and salvation of his people, which was 'given' him to do.",
+            "He did not take it upon himself, but being called to it he readily accepted of it; it was appointed, and cut out for him, in the council and covenant of grace."
+        ],
+        "John Wesley": [
+            "I have finished the work \u2014 Thus have I glorified thee, laying the foundation of thy kingdom on earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares, I have glorified thee on the earth\u2014I finished the work which thou gavest me to do. Throughout his life, Jesus demonstrated through his words, actions, and even his suffering unto death, the loving will of the Father for the salvation of humanity. He accomplished the purpose for which he was sent and glorified the Father. Jesus did not depart from this world with a sense of failure, but as the successful messenger of the Father to mankind. His request to the Father is for the fulfillment of the kingdom, as he completed the entirety of his calling on earth.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8966324428435528,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                23.68,
+                38.85,
+                37.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus confidently proclaims, I have glorified thee on the earth\u2014I finished the work which thou gavest me to do. His life on earth served as a testament to the glory of the Father, as he fulfilled his mission by revealing God's loving will and purpose. Jesus did not approach his impending death with a sense of failure; rather, he saw himself as the successful apostle of the Father, carrying out his divine message to humanity. He now asks the Father to usher in the kingdom, having accomplished his earthly calling.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8608738954432813,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                23.82,
+                38.87,
+                37.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus confidently declares, I have glorified thee on the earth\u2014I finished the work which thou gavest me to do. His life on earth was a testament to the Father's glory, as he fulfilled his mission and revealed God's loving will. Jesus faced his impending death with a sense of fulfillment, not failure. He sees himself as the successful apostle of the Father, completing his divine purpose. Now he asks the Father to establish the kingdom, as his earthly calling has come to an end.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7691913465515623,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                23.6,
+                38.65,
+                37.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus confidently declares, I have glorified thee on the earth\u2014I finished the work which thou gavest me to do. Through his words, actions, and suffering, Jesus revealed the loving will of the Father and accomplished his purpose. He did not view his impending death as a failure, but as the successful messenger of the Father to humanity. His request to the Father is for the fulfillment of the kingdom, as he completed his entire calling on earth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.8433442297897678,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                23.98,
+                37.88,
+                38.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Satisfying all given requirements, let me produce the paragraph you requested in one moment.",
+            "wordCount": 14,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.144147538894072,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.39,
+            "commentatorTierSimilarities": [
+                47.55,
+                11.5,
+                40.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

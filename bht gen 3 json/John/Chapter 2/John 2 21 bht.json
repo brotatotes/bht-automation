@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:04:27",
+    "verseRef": "John 2:21",
+    "bestBHT": {
+        "bht": "John's illumination of Jesus' words highlights the contrast between the literal interpretation of the Jews and disciples and the deeper meaning Jesus intended. He explains that Jesus was speaking of His own body as the true Temple of God, where the glory of the eternal Word resides. John's insight reveals that Jesus serves as the foundation of this sacred dwelling, with believers as the living stones. This understanding signifies the embodiment of the Godhead in Jesus' physical form, emphasizing the significance of His body as a divine abode.",
+        "wordCount": 90,
+        "quoteTokenProportion": 25.86,
+        "qualityScore": 2.010316679447473,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+        "commentatorTierSimilarities": [
+            37.89,
+            32.06,
+            30.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In which was enshrined the glory of the eternal Word.",
+            "By its resurrection the true Temple of God upon earth was reared up.",
+            "That Temple of which He is the foundation, and all believers are the 'lively stones'."
+        ],
+        "Marvin Vincent": [
+            "Emphatic, and marking the contrast between the deeper meaning of Jesus and the literalism of the Jews and of His disciples.",
+            "John's pointing out the meaning of words of Jesus which were not at first understood.",
+            "Other illustrations of John's pointing out the meaning of words of Jesus."
+        ],
+        "Philip Schaff": [
+            "John 2:21. See above on John 2:19."
+        ],
+        "Archibald T. Robertson": [
+            "But he spake of the temple of his body.\" (\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 \u03b4\u03b5 \u03b5\u03bb\u03b5\u03b3\u03b5\u03bd \u03c0\u03b5\u03c1 \u03c4\u03bf\u03c5 \u03bd\u03b1\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03c3\u03c9\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5)",
+            "Emphatic he and imperfect tense.\" (\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03bb\u03b5\u03b3\u03b5\u03bd \u03c0\u03b5\u03c1 \u03c4\u03bf\u03c5 \u03bd\u03b1\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03c3\u03c9\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5)",
+            "This is John's view as he looks back at it, not what he understood when Jesus spoke the words."
+        ],
+        "John Gill": [
+            "But he spoke of the temple of his body.",
+            "The bodies of the saints are called temples.",
+            "The fulness of the Godhead dwelt in him bodily."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the deeper meaning behind Jesus' words, contrasting it with the literal interpretation of the Jews and His disciples. John points out that Jesus was referring to the temple of His body, a concept that might not have been fully understood at the time Jesus spoke those words. John reflects on this perspective as he looks back, acknowledging that the glory of the eternal Word was enshrined in Jesus' body, making it the true Temple of God on earth. Furthermore, Jesus serves as the foundation of this Temple, with believers as the lively stones. This verse highlights the embodiment of the Godhead in Jesus' physical form, showcasing the significance of His body as a sacred dwelling place.",
+            "wordCount": 119,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 2.0720099809890087,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+            "commentatorTierSimilarities": [
+                37.54,
+                31.88,
+                30.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John's commentary brings to light the profound meaning behind Jesus' words, contrasting them with the literal understanding of the Jews and His disciples at the time. Reflecting on Jesus' statement, John reveals that Jesus was referring to His own body as the temple, where the glory of the eternal Word resides. This concept of Jesus as the foundation of the true Temple of God on earth, with believers as the living stones, underscores the embodiment of the Godhead in His physical form.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.129320665938723,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+            "commentatorTierSimilarities": [
+                36.54,
+                34.86,
+                28.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John's illumination of Jesus' words highlights the contrast between the literal interpretation of the Jews and disciples and the deeper meaning Jesus intended. He explains that Jesus was speaking of His own body as the true Temple of God, where the glory of the eternal Word resides. John's insight reveals that Jesus serves as the foundation of this sacred dwelling, with believers as the living stones. This understanding signifies the embodiment of the Godhead in Jesus' physical form, emphasizing the significance of His body as a divine abode.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 2.010316679447473,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                37.89,
+                32.06,
+                30.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The deeper meaning behind Jesus' words is brought to light by John's commentary. He emphasizes the contrast between the literal interpretation of the Jews and disciples and the true significance intended by Jesus. John explains that Jesus was speaking about His own body as the authentic Temple of God, where the glory of the eternal Word resides. This understanding highlights Jesus as the foundation of this divine dwelling, with believers as the living stones. It underscores the embodiment of the Godhead in Jesus' physical form and the sacredness of His body.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9679754138046333,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+            "commentatorTierSimilarities": [
+                37.67,
+                33.2,
+                29.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's insight reveals the deeper meaning of Jesus' words, contrasting them with the literal understanding of the Jews and His disciples. Jesus spoke of His own body as the true Temple of God, where the glory of the eternal Word dwells. This understanding highlights Jesus as the foundation of this sacred dwelling, with believers as the living stones. It showcases the embodiment of the Godhead in Jesus' physical form and the significance of His body as a divine abode.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 1.9435727003300922,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+            "commentatorTierSimilarities": [
+                38.39,
+                29.1,
+                32.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

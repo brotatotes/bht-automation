@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-21-2023 03:13:51",
+    "verseRef": "John 18:7",
+    "bestBHT": {
+        "bht": "In this encounter, the soldiers and officers are momentarily taken aback by Jesus' response and have a fleeting understanding of the gravity of their actions. However, their primary concern is still to carry out their orders, and they are unable to fully comprehend who Jesus truly is. The repetition of the question highlights their continued awe and confusion. Their stubbornness and hardened hearts reflect their deep spiritual blindness, making them more unyielding than even brute beasts. Nevertheless, Jesus exhibits mercy, allowing them to rise again and showcasing His power while seeking their repentance.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.4142334716625007,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.37,
+        "commentatorTierSimilarities": [
+            31.85,
+            32.15,
+            35.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Giving them a door of escape from the guilt of a deed which now they were able in some measure to understand.",
+            "The stunning effect of His first answer wearing off, they think only of the necessity of executing their orders."
+        ],
+        "John Calvin": [
+            "Hence it appears what is the powerful effect of that blindness with which God strikes the minds of wicked men...",
+            "Let us learn, therefore, to fear the judgment of God, by which the reprobate, delivered into the hands of Satan, become more stupid than brute beasts.",
+            "Their obstinacy renders them harder than stones, so that they never suffer themselves to be subdued."
+        ],
+        "Philip Schaff": [
+            "Again therefore he asked them, Whom seek ye? Their reply is in the same terms as before.",
+            "The moment is come when Jesus is to deliver Himself up, and His sole concern now is for the safety of His disciples."
+        ],
+        "Archibald T. Robertson": [
+            "Again (\u03c0\u03b1\u03bb\u03b9\u03bd). The repeated question receives the same answer. The soldiers and officers know who it is, but are still overawed. "
+        ],
+        "John Gill": [
+            "He only did this to show his power, and not to do them any real damage; and the same divine person that struck them down, suffered them to rise, and gave them power and strength to get up; which showed his great clemency and goodness.",
+            "A plain proof of that judicial hardness of heart, under which they were; and that even miracles wrought will not bring hardened sinners to repentance without powerful and efficacious grace.",
+            "Having recovered their spirits, and being hardened in desperate malice and wickedness, impudently make this reply to him; nor would they, notwithstanding this instance of his power, own him to be the Messiah; but still contemptuously style him Jesus of Nazareth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus is giving the soldiers and officers an opportunity to grasp the gravity of their actions and reconsider. However, their minds are clouded by their orders, and they are unable to comprehend the true identity and power of Jesus. This repetition of the question further emphasizes their awe and confusion. It is clear that God's judgment has rendered them blind and obstinate, making them harder than stones and even more stubborn than brute beasts. Yet, even while demonstrating His power, Jesus shows His goodness and clemency by not inflicting any lasting harm. This moment serves as a stark reminder of the hardened hearts of these individuals, who remain unrepentant despite witnessing miracles and experiencing the divine persona of Jesus.",
+            "wordCount": 123,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.3317102277289636,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.62,
+            "commentatorTierSimilarities": [
+                25.58,
+                31.92,
+                42.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this encounter, Jesus takes the opportunity to grant the soldiers and officers a chance to understand the magnitude of their actions and possibly reconsider. Unfortunately, their focus is solely on carrying out their orders without comprehending who Jesus truly is. The repetition of the question highlights their continued awe and confusion. Their hardened hearts and obstinacy, even in the face of miracles, demonstrate the extent of their blindness and their resistance to change. Nonetheless, Jesus showcases His mercy and power by not causing lasting harm.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.3470260123212032,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.13,
+            "commentatorTierSimilarities": [
+                31.84,
+                29.88,
+                38.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this moment, Jesus presents the soldiers and officers an opportunity to grasp the weight of their actions. However, they remain fixated on fulfilling their orders without truly comprehending Jesus' identity. The repetition of the question underscores their continued bewilderment and awe. Their hardened hearts and obstinacy reveal the depth of their spiritual blindness and resistance to repentance. Despite their unyielding attitude, Jesus displays both mercy and power by not causing lasting harm. This interaction serves as a stark reminder of their refusal to acknowledge Jesus as the Messiah.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.370008736728459,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+            "commentatorTierSimilarities": [
+                30.0,
+                34.21,
+                35.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this encounter, the soldiers and officers are given an opportunity to understand the gravity of their actions, but their focus remains fixed on fulfilling their orders. The repetitive question emphasizes their ongoing awe and inability to grasp the true identity of Jesus. Their hardened hearts and stubbornness reveal the extent of their spiritual blindness and resistance to change. Despite their hardened state, Jesus demonstrates both his mercy and power by not inflicting lasting harm. This interaction serves as a poignant reminder of their refusal to acknowledge Jesus as the Messiah.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.3545421331501488,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.38,
+            "commentatorTierSimilarities": [
+                31.6,
+                29.22,
+                39.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this encounter, the soldiers and officers are momentarily taken aback by Jesus' response and have a fleeting understanding of the gravity of their actions. However, their primary concern is still to carry out their orders, and they are unable to fully comprehend who Jesus truly is. The repetition of the question highlights their continued awe and confusion. Their stubbornness and hardened hearts reflect their deep spiritual blindness, making them more unyielding than even brute beasts. Nevertheless, Jesus exhibits mercy, allowing them to rise again and showcasing His power while seeking their repentance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.4142334716625007,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.37,
+            "commentatorTierSimilarities": [
+                31.85,
+                32.15,
+                35.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:11:56",
+    "verseRef": "John 13:30",
+    "bestBHT": {
+        "bht": "In the solemn narrative, the remark it was night provides precise context to the events that unfolded on that fateful night. The darkness of the night not only serves as a literal backdrop but symbolically represents the depth of the spiritual darkness in Judas' heart. After receiving the sop, Judas swiftly departed, severing his ties with the faithful community. Jesus' love, however, remained steadfast, even extending to Judas, emphasizing the completion and preservation of His devoted followers.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.7183758715512738,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+        "commentatorTierSimilarities": [
+            28.3,
+            43.88,
+            27.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The remark, and it was night, seems to be added to bring the whole narrative...into precision, as happening on one and the same night.",
+            "I quite feel, with Meyer, that there is something awful in this termination\u2014it was night.",
+            "HIS LOVE IS KEEPING AND COMPLETING HIS OWN."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He then, having received the sop, went immediately out\u2014severing himself for ever from that holy society with which he never had any spiritual sympathy.\" ",
+            "and it was night\u2014but far blacker night in the soul of Judas than in the sky over his head.",
+            "DISCOURSE AFTER THE TRAITOR'S DEPARTURE\u2014PETER'S SELF-CONFIDENCE\u2014HIS FALL PREDICTED."
+        ],
+        "Albert Barnes": [
+            "It was night - It was in the evening, or early part of the night. What is recorded in the following chapters took place the same night."
+        ],
+        "Marvin Vincent": [
+            "He [\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2] . See on ver. 27."
+        ],
+        "Philip Schaff": [
+            "He therefore having received the sop went immediately out. Again nothing is said of the sop\u2019s being eaten.",
+            "And it was night.",
+            "In the darkness of the night in which Judas went out the Evangelist sees the symbol of the darkness of his deed of treachery."
+        ],
+        "Archibald T. Robertson": [
+            "Judas knew what Jesus meant, however ignorant the disciples.\" ",
+            "So he acted 'straightway'.\" ",
+            "Out into the terror and the mystery of this dreadful night Judas went."
+        ],
+        "John Gill": [
+            "He then having, received the sop... went immediately out; fearing lest an entire discovery should be made, and he be prevented accomplishing his design.\" ",
+            "Or being more violently stirred up to it by Satan, who after the sop entered into him, he directly went from Bethany to Jerusalem.",
+            "Though it was night, it did not hinder or discourage him from setting out on his journey to Jerusalem; and as this was a work of darkness, the night was the fittest time for it, and was a proper emblem of the blackness of the crime he was going to perpetrate."
+        ],
+        "John Wesley": [
+            "He went out \u2014 To the chief priests.",
+            "But he returned afterward, and was with them when they ate the passover.",
+            "Though not at the Lord's Supper."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 13:30, the mention that it was night emphasizes the solemnity and gravity of the events that occurred. This darkness not only refers to the physical time of day but also symbolizes the deeper spiritual darkness of Judas' betrayal. After receiving the sop, Judas immediately went out, separating himself forever from the company of believers. This departure marked the fulfillment of Jesus' prediction and highlighted the tragic consequences of Judas' actions. Despite the darkness, Jesus' love for his disciples remained unwavering, even extending to Judas in the hope of redemption.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.7076044077850996,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.12,
+            "commentatorTierSimilarities": [
+                28.52,
+                40.23,
+                31.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the solemn narrative, the remark it was night provides precise context to the events that unfolded on that fateful night. The darkness of the night not only serves as a literal backdrop but symbolically represents the depth of the spiritual darkness in Judas' heart. After receiving the sop, Judas swiftly departed, severing his ties with the faithful community. Jesus' love, however, remained steadfast, even extending to Judas, emphasizing the completion and preservation of His devoted followers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7183758715512738,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                28.3,
+                43.88,
+                27.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In John 13:30, the mention that it was night adds precision and intensity to the narrative, emphasizing the gravity of the events unfolding on that particular night. As Judas received the sop, he immediately departed, signifying his permanent separation from the holy fellowship he had no true spiritual alliance with. The darkness of the night serves as a symbolic reflection of the profound darkness within Judas' soul, contrasting with the night sky above. Despite this darkness, Jesus' love remains unwavering and encompasses His faithful followers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7381644730734012,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+            "commentatorTierSimilarities": [
+                28.49,
+                43.88,
+                27.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the narrative, the mention that it was night brings a sense of precision and significance to the events occurring on that specific night. The darkness of the night, both literal and symbolic, represents the immense spiritual darkness within Judas. After receiving the sop, Judas immediately departs, separating himself forever from the community of believers. This departure fulfills Jesus' earlier prediction and underscores the tragic consequences of Judas' actions. Nevertheless, Jesus' unwavering love continues to protect and complete those who remain faithful to Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6627822149757896,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                30.79,
+                40.2,
+                29.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the narrative unfolds, the mention that it was night adds precision to the timeline of events, emphasizing that they all transpired on a single, fateful night. Symbolically, the darkness of this night reflects the profound darkness in Judas' soul, even darker than the night sky above. After receiving the sop, Judas immediately separates himself from the holy fellowship, forever cutting any spiritual ties. This departure fulfills Jesus' earlier prediction, revealing the tragic consequences of Judas' treachery. Despite this darkness, Jesus' love remains steadfast and continues to guard and perfect His faithful followers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.699100626626917,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.84,
+            "commentatorTierSimilarities": [
+                30.07,
+                42.27,
+                27.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:04:10",
+    "verseRef": "John 1:31",
+    "bestBHT": {
+        "bht": "John, the Baptist, who had known Jesus since youth, believed Him to be the Christ. However, it was not until he witnessed the visible descent of the Spirit upon Jesus after His baptism that John saw and bore witness to Jesus being the Son of God. John's baptism was meant to spiritually prepare people for the knowledge of Jesus through repentance, rather than making Him known to all. John's testimony was based on divine inspiration, affirming his limited knowledge of Christ prior to the baptism.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.48340214294866,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.91,
+        "commentatorTierSimilarities": [
+            31.02,
+            35.89,
+            33.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Both accounts are entirely consistent with the supposition that John had been from youth upwards acquainted with our Lord, and-\u2013\u2014 indeed may have in his own mind believed Him to be the Christ...",
+            "Until that sign was given, he, like the rest of the people (the words may be rendered, I also, as well as you, see ver. 26), had no certain knowledge of Him.",
+            "But our narrative is not built upon any such Jewish belief, for it is evidently only as a spiritual preparation, through repentance, for the knowledge of Him, that John regarded his baptism, not as anything making Him manifest to all."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Arise, anoint Him, for this is He!",
+            "But the sign which he was told to expect was the visible descent of the Spirit upon Him as He emerged out of the baptismal water.",
+            "He saw and bare record that this is the Son of God."
+        ],
+        "Albert Barnes": [
+            "John was not personally acquainted with Jesus.",
+            "He understood that he was to announce that the Messiah was about to appear.",
+            "That the Messiah should be 'exhibited,' or made known."
+        ],
+        "John Calvin": [
+            "That his testimony may not be suspected of having been given either from friendship or favor, he anticipates such a doubt, by affirming that he had no other knowledge of Christ than what he had obtained by divine inspiration.",
+            "I came baptizing with water; that is, I was called and appointed to this office, that I might manifest him to Israel.",
+            "It is not in the power of any man whatever to institute sacraments, but that this right belongs to God alone."
+        ],
+        "Philip Schaff": [
+            "I baptize that I may declare the necessity of that forsaking of sin without which no true manifestation of Jesus can be made to the heart.",
+            "The advance of thought from the unrecognised Jesus of John 1:26 to the 'made manifest' of John 1:31 is obvious.",
+            "It corresponds with the 'standeth' of John 1:26, and the 'coming unto' him of John 1:29; with the fact, also, that the one is the first, the other the second, testimony of the Baptist."
+        ],
+        "Archibald T. Robertson": [
+            "He had predicted the Messiah and described him before he met him and baptized him."
+        ],
+        "John Gill": [
+            "John was in the deserts, until the day of his showing unto Israel; and Christ dwelt with his parents at Nazareth, in a very mean and obscure manner, till he came from thence to Jordan to John, to be baptized by him; and which was the first interview they had.\" ",
+            "And though he had been known to Joseph and Mary, and to Zacharias and Elisabeth, and to Simeon and Anna; yet he was not made manifest to the people of Israel in common; nor did they know that the Messiah was come.",
+            "For by administering this new ordinance, the people were naturally put upon inquiry after the Messiah, whether come, and where he was, since such a new rite was introduced; and besides, John, when he baptized any, he exhorted them to believe on him, which should come after him, that is, on Christ Jesus."
+        ],
+        "John Wesley": [
+            "I knew him not \u2014 Till he came to be baptized. How surprising is this; considering how nearly they were related, and how remarkable the conception and birth of both had been.",
+            "But there was a peculiar providence visible in our Saviour's living, from his infancy to his baptism, at Nazareth: John all the time living the life of a hermit in the deserts of Judea, Luke 1:80, ninety or more miles from Nazareth.",
+            "Hereby that acquaintance was prevented which might have made John's testimony of Christ suspected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John, the Baptist, had a unique relationship with Jesus. He may have known Jesus since youth and believed Him to be the Christ. However, he did not have certain knowledge of Jesus until he saw the visible descent of the Spirit upon Him after His baptism. John's baptism was not meant to make Jesus manifest to all, but rather to spiritually prepare people for the knowledge of Him through repentance. John had predicted and described the Messiah even before he baptized Him. Despite being related, John and Jesus had limited contact, as Jesus lived in Nazareth while John lived as a hermit in the desert. Yet, their divine meeting at the baptism marked the beginning of John's testimony that Jesus is the Son of God.",
+            "wordCount": 127,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 2.4138655051249884,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.6,
+            "commentatorTierSimilarities": [
+                32.92,
+                35.46,
+                31.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John, the Baptist, had known Jesus since youth and believed Him to be the Christ. Until the visible descent of the Spirit upon Jesus after His baptism, John did not have certain knowledge of Him. John's baptism was a spiritual preparation for the knowledge of Jesus through repentance. Though related, John and Jesus had limited contact, as Jesus lived in Nazareth while John lived as a hermit in the desert. Their divine meeting at the baptism marked the beginning of John's testimony that Jesus is the Son of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.3662563297720434,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.02,
+            "commentatorTierSimilarities": [
+                30.56,
+                37.23,
+                32.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John, the Baptist, had prior knowledge of Jesus and believed Him to be the Messiah. However, it was only after Jesus's baptism, when the Spirit descended upon Him, that John saw and bore witness that Jesus is the Son of God. John's baptism served as a spiritual preparation for the knowledge of Jesus through repentance, rather than a means of making Him manifest to all. John's testimony, rooted in divine inspiration, affirmed that he had no other knowledge of Christ beyond what God had revealed to him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.4662707638708445,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.34,
+            "commentatorTierSimilarities": [
+                31.34,
+                36.78,
+                31.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John, the Baptist, held a unique position in relation to Jesus. He had known Jesus since youth and believed Him to be the Christ. However, it was only when he witnessed the visible descent of the Spirit upon Jesus after His baptism that John truly saw and bore record that Jesus is the Son of God. John's baptism served as a spiritual preparation for the knowledge of Jesus through repentance, not as a means of making Him manifest to all. His testimony was rooted in divine inspiration, affirming his exclusive knowledge of Christ.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.342950890650858,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.24,
+            "commentatorTierSimilarities": [
+                32.61,
+                36.21,
+                31.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John, the Baptist, who had known Jesus since youth, believed Him to be the Christ. However, it was not until he witnessed the visible descent of the Spirit upon Jesus after His baptism that John saw and bore witness to Jesus being the Son of God. John's baptism was meant to spiritually prepare people for the knowledge of Jesus through repentance, rather than making Him known to all. John's testimony was based on divine inspiration, affirming his limited knowledge of Christ prior to the baptism.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.48340214294866,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.91,
+            "commentatorTierSimilarities": [
+                31.02,
+                35.89,
+                33.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

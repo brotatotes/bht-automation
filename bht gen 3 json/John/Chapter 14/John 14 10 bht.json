@@ -1,0 +1,100 @@
+{
+    "timestamp": "12-21-2023 03:12:09",
+    "verseRef": "John 14:10",
+    "bestBHT": {
+        "bht": "Jesus clarifies in this statement that His words and works are not His own, but rather a manifestation and expression of the Father. By observing Jesus and his actions, we can gain insight into the character and nature of the Father. The connection between Jesus and the Father is so intimate that the Father's presence dwells within Him, enabling Him to carry out the works of the Father. Jesus had already demonstrated this unity with the Father through His teachings and miracles, underscoring their oneness of essence and divine nature.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.6167096864493553,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.34,
+        "commentatorTierSimilarities": [
+            36.45,
+            33.23,
+            30.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All the working of the Lord Jesus being a speaking, a revelation of the Father.",
+            "[Works and words] are taken as correlative and co-extensive.",
+            "They are not Mine, but His, done in and by Me: but in Me present and abiding, so that \u2018he that hath seen Me hath seen the Father.\u2019"
+        ],
+        "Albert Barnes": [
+            "I am in the Father - See the notes at John 10:38.",
+            "The words that I speak ... - See the notes at John 7:16-17.",
+            "The Father that dwelleth in me - Literally, 'The Father remaining in me.' This denotes most intimate union, so that the works which Jesus did might be said to be done by the Father."
+        ],
+        "Marvin Vincent": [
+            "The Father abiding in me doeth His works.",
+            "His words, spoken not from Himself, are from the Father, and therefore He utters them from within the Father, and is Himself in the Father.",
+            "His works are the works of the Father abiding in Him; therefore the Father is in Him."
+        ],
+        "John Calvin": [
+            "Christ, so far as regards his hidden Divinity, is not better known to us than the Father.",
+            "Christ does not simply inquire what he is in himself, but what we ought to acknowledge him to be, this description applies to his power rather than to his essence.",
+            "If my assertion does not produce conviction, and if you have so mean an opinion of me, that you do not think that you ought to believe my words, consider, at least, that power which is a visible image of the presence of God."
+        ],
+        "Philip Schaff": [
+            "The statement is that of one great truth with two sides, each of which has its appropriate proof the first, in the \u2018words\u2019 of Jesus; the second, in the Father\u2019s \u2018works.\u2019",
+            "The Father does not work directly, He works only through the Son; therefore as the Father He can be known only in the Son.",
+            "The distinction between \u2018words\u2019 and \u2018works\u2019 in this verse thus springs from a point of view wholly different from that which refers the one to the teaching, the other to the miracles, of Jesus; it is connected with the essential qualities of that Son who is the Word, of that God who is the Father."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus had a right to expect greater faith from these men than from the blind man or Martha.",
+            "This oneness with the Father Jesus had already stated as shown by his 'words' and his 'works'.",
+            "Jesus had already stated his oneness with the Father through his words and works."
+        ],
+        "John Gill": [
+            "Phrases which are expressive of the sameness of nature in the Father and the Son; of the Son's perfect equality with the Father, since the Son is as much in the Father, as the Father is in the Son.",
+            "The Father must be distinct from the Son who is in him, and the Son must be distinct from the Father, in whom he is; the Father and Son, though of one and the same nature, cannot be one, and the same person.",
+            "The doctrines which I preach among you are a proof of what I assert, and to them I appeal; for these are not of myself, as man, but the Father that dwelleth in me."
+        ],
+        "John Wesley": [
+            "I am in the Father \u2014 The words that I speak, etc.-That is, I am one with the Father, in essence, in speaking, and in acting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus emphasizes the close relationship between Himself and the Father. He declares that His words and works are not His own, but are a revelation and reflection of the Father. By seeing Jesus and his actions, we are able to see and understand the Father as well. This profound connection between Jesus and the Father is demonstrated through the Father's abiding presence in Him and the works that He does. Jesus had already established this oneness with the Father through His teachings and miracles. It is through this unity that Jesus expects a greater faith from His disciples. This passage highlights the essential nature of Jesus as the Son of God, carrying out the works and speaking the words of the Father, revealing their sameness in nature and essence.",
+            "wordCount": 133,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.5743022997909106,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.94,
+            "commentatorTierSimilarities": [
+                39.14,
+                32.95,
+                27.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus clarifies in this statement that His words and works are not His own, but rather a manifestation and expression of the Father. By observing Jesus and his actions, we can gain insight into the character and nature of the Father. The connection between Jesus and the Father is so intimate that the Father's presence dwells within Him, enabling Him to carry out the works of the Father. Jesus had already demonstrated this unity with the Father through His teachings and miracles, underscoring their oneness of essence and divine nature.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.6167096864493553,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.34,
+            "commentatorTierSimilarities": [
+                36.45,
+                33.23,
+                30.31
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

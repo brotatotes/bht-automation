@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:07:14",
+    "verseRef": "John 6:49",
+    "bestBHT": {
+        "bht": "The bread from heaven, though miraculous, didn't have the power to prevent death; but in contrast, the Bread of Life, Jesus Himself, brings a resurrection state from sin and death. While their fathers ate manna in the wilderness and subsequently died, the Bread of Life, which comes down from heaven, offers eternal life to those who partake of it. This spiritual food will prevent spiritual death and sustain believers forever. Despite being nourished with physical manna, their fathers still died.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.8126232643255586,
+        "qualityScoreNormalizedComparedToV2BHTs": 84.86,
+        "commentatorTierSimilarities": [
+            35.97,
+            34.06,
+            29.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That bread from heaven had no power to keep off death, and that, death owing to unbelief.",
+            "Death is regarded as being swallowed up in the glory of the resurrection.",
+            "He is brought, even here into a resurrection state from sin and death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Your fathers, ye say, ate manna in the wilderness; and ye say well, for so they did, but they are dead.\" ",
+            "Even they whose carcasses fell in the wilderness did eat of that bread.\" ",
+            "The Bread whereof I speak cometh down from heaven, which the manna never did, that men, eating of it, may live forever."
+        ],
+        "Albert Barnes": [
+            "Your fathers did eat manna - There was a real miracle performed in their behalf; there was a perpetual interposition of God which showed that they were his chosen people.",
+            "And are dead - The bread which they ate could not save them from death.",
+            "Though God interfered in their behalf, yet they died. We may learn,"
+        ],
+        "Marvin Vincent": [
+            "Are dead [\u03b1\u03c0\u03b5\u03b8\u03b1\u03bd\u03bf\u03bd] . The aorist points, not to their present condition but to the historical fact; they died. So Rev."
+        ],
+        "John Calvin": [
+            "Souls do not find anywhere else than in him that food by which they are fed to spiritual life.",
+            "He declares that their fathers are dead, that is, those who in the same manner, were devoted to the belly, or, in other words, who thought of nothing higher than this world.",
+            "That not one of those who have once eaten Christ shall die \u2014 must be understood to mean, that the life which he bestows on us is never extinguished."
+        ],
+        "Philip Schaff": [
+            "No other bread has given life eternal.",
+            "Even the manna, the bread given out of heaven, did not bestow life on their fathers.",
+            "The fathers, who 'did not believe the Lord' and died, are contrasted with the believer who 'hath eternal life'."
+        ],
+        "Archibald T. Robertson": [
+            "And they died (\u03ba\u03b1 \u03b1\u03c0\u03b5\u03b8\u03b1\u03bd\u03bf\u03bd). Physical death. The manna did not prevent death. But this new manna will prevent spiritual death. "
+        ],
+        "John Gill": [
+            "Your fathers did eat manna in the wilderness...this was their only food on which they lived.\" ",
+            "For though Christ, as concerning the flesh, came of these fathers, yet in every sense they were rather theirs than his.",
+            "This food, though it supported them in life for a while, could not preserve them from a corporeal death, and still less from an eternal one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The bread from heaven, though miraculous, didn't have the power to prevent death; but in contrast, the Bread of Life, Jesus Himself, brings a resurrection state from sin and death. While their fathers ate manna in the wilderness and subsequently died, the Bread of Life, which comes down from heaven, offers eternal life to those who partake of it. This spiritual food will prevent spiritual death and sustain believers forever. Despite being nourished with physical manna, their fathers still died. It is only in Jesus, the true Bread, that souls find the nourishment for spiritual life.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.7390922501821473,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.41,
+            "commentatorTierSimilarities": [
+                34.97,
+                34.22,
+                30.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The bread from heaven, though miraculous, didn't have the power to prevent death; but in contrast, the Bread of Life, Jesus Himself, brings a resurrection state from sin and death. While their fathers ate manna in the wilderness and subsequently died, the Bread of Life, which comes down from heaven, offers eternal life to those who partake of it. This spiritual food will prevent spiritual death and sustain believers forever. Despite being nourished with physical manna, their fathers still died.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.8126232643255586,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.86,
+            "commentatorTierSimilarities": [
+                35.97,
+                34.06,
+                29.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The bread from heaven, though miraculous, couldn't prevent death; but the Bread of Life, Jesus Himself, brings a resurrection from sin and death. While their fathers ate manna in the wilderness and died, the Bread of Life offers eternal life. This spiritual food prevents spiritual death and sustains believers forever. Even though their fathers were nourished with physical manna, they still died. It is only in Jesus, the true Bread, that souls find the nourishment for spiritual life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.7319790525776924,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.18,
+            "commentatorTierSimilarities": [
+                34.56,
+                35.16,
+                30.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The bread from heaven, though miraculous, had no power to keep off death, but the Bread of Life, Jesus Himself, brings a resurrection state from sin and death. Even though their fathers ate manna in the wilderness, they are dead. The Bread that Jesus speaks of comes down from heaven and gives eternal life to those who partake of it. This true food sustains believers and prevents spiritual death. Only in Jesus can souls find the nourishment for eternal life, unlike the manna that could not preserve their fathers from death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.7708952757302803,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.47,
+            "commentatorTierSimilarities": [
+                35.08,
+                34.68,
+                30.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The bread from heaven, though miraculous, had no power to prevent death. However, in contrast, the Bread of Life, Jesus Himself, brings a resurrection state from sin and death. While their fathers ate manna in the wilderness and subsequently died, the Bread of Life, which comes down from heaven, offers eternal life to those who partake of it. This spiritual food sustains believers and prevents spiritual death. Only in Jesus can souls find the nourishment for eternal life, unlike the manna that could not preserve their fathers from death.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.7519443605555667,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.84,
+            "commentatorTierSimilarities": [
+                35.35,
+                34.97,
+                29.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

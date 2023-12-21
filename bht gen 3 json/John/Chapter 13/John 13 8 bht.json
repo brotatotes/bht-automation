@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:11:51",
+    "verseRef": "John 13:8",
+    "bestBHT": {
+        "bht": "If we refuse the spiritual washing that is necessary for our participation in Christ, we demonstrate false humility and hinder our relationship with Him. The act of foot-washing goes beyond symbolism and becomes a veritable expression. By rejecting this act, Peter reveals his pride and inability to submit to Christ. Only by embracing the self-sacrificing work of love demonstrated by Christ can we truly have a part in Him. Genuine humility is found in receiving and acknowledging the gifts of grace.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.8873730621650897,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+        "commentatorTierSimilarities": [
+            32.21,
+            36.43,
+            31.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The same well-meaning but false humility would prevent him (and does prevent many) from stooping to receive at the hands of the Lord that spiritual washing which is absolutely necessary in order to have any part in Him.\" ",
+            "If I wash thee not, thou hast no part with Me.",
+            "We are here in the realm of another and deeper logic: the act being no longer symbolic, but veritable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Never shalt Thou wash my feet\": that is, \"That is an incongruity to which I can never submit.\" How like the man!",
+            "If Peter then could not submit to let his Master go down so low as to wash his feet, how should he suffer himself to be served by Him at all?",
+            "The truest humility is to receive reverentially, and thankfully to own, the gifts of grace."
+        ],
+        "Albert Barnes": [
+            "We should yield to all the plain and positive requirements of God, even if we cannot now see how obedience would promote his glory.",
+            "If he [Peter] was not willing to submit his will to that of Christ and implicitly obey him, he had no evidence of piety.",
+            "Unless by my doctrine and spirit I shall purify you...you can have no part in me."
+        ],
+        "Marvin Vincent": [
+            "Never [\u03bf\u03c5 \u03bc\u03b7 - \u03b5\u03b9\u03c2 \u03c4\u03bf\u03bd \u03b1\u03b9\u03c9\u03bd\u03b1] . A very strong expression. Literally, thou shalt by no means wash my feet as long as the world stands."
+        ],
+        "John Calvin": [
+            "The true wisdom of faith, therefore, is to approve and embrace with reverence whatever proceeds from God, as done with propriety and in good order.",
+            "The same thing will always happen to us, whenever the Lord begins to contend with us. So long as he remains silent, men imagine that they have a good right to differ from him: but nothing is easier for him than to refute, by a single word, all the plausible arguments which they employ.",
+            "For Christ washes us when he removes the guilt of our sins by his atoning sacrifice, that they may not come into judgment before God; and, on the other hand, he washes us when he takes away, by his Spirit, the wicked and sinful desires of the flesh."
+        ],
+        "Philip Schaff": [
+            "If I wash thee not, thou hast no part with me.\" ",
+            "They refer to something different from either of these two great truths, and express... unless Peter enters into the spirit of that self-sacrificing work of love which Jesus performs, makes that spirit his own spirit, sees the beauty and owns the glory of the Master\u2019s becoming the servant for His people\u2019s sake... he must be content to separate from One whom he loved with all his heart, and to have no more a part with Him either in His sufferings or His reward.\" ",
+            "It is this thought, even though it may be as yet imperfectly apprehended by the apostle, that leads to the sudden revulsion of feeling in the following verse."
+        ],
+        "Archibald T. Robertson": [
+            "Peter's sudden humility should settle the issue, he felt.",
+            "The first condition of discipleship is self-surrender.",
+            "Jesus does not make foot-washing essential to spiritual fellowship, but simply tests Peter's real pride and mock-humility by this symbol of fellowship."
+        ],
+        "John Gill": [
+            "Peter, if I had not washed thee with the washing of regeneration by my Spirit, and if I should not shed my blood for thee, and wash thee in it from thy sins, sad would be thy case; thou couldest have no communion with me in this world, nor any part and portion with me in the heavenly inheritance hereafter.",
+            "Hence it may be observed, that unless a man is washed by Christ, he can have no part with him in this, or the other world.",
+            "God's elect have a part, an interest in Christ through eternal, electing, and covenant grace, and in consequence of this are washed by Christ both with his blood, and with the washing of regeneration."
+        ],
+        "John Wesley": [
+            "If thou dost not submit to my will, thou hast no part with me - Thou art not my disciple.",
+            "If I do not wash thee in my blood, and purify thee by my Spirit, thou canst have no communion with me.",
+            "Nor any share in the blessings of my kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we refuse to receive the spiritual washing that Christ offers, we hinder our relationship with Him. The act of foot-washing represents a deeper logic, no longer just symbolic but veritable. Peter's unwillingness to let Christ wash his feet exposes his pride and inability to submit to his Master and receive the gifts of grace. By rejecting this act, Peter fails to understand the necessity of self-surrender as a condition of discipleship. The washing of the feet is not essential for fellowship, but a test of Peter's humility. Only by embracing the self-sacrificing work of love that Christ exhibits can we truly have a part in Him.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 2.0405194948121244,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                37.36,
+                33.23,
+                29.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we refuse the spiritual washing that is necessary for our participation in Christ, we demonstrate false humility and hinder our relationship with Him. The act of foot-washing goes beyond symbolism and becomes a veritable expression. By rejecting this act, Peter reveals his pride and inability to submit to Christ. Only by embracing the self-sacrificing work of love demonstrated by Christ can we truly have a part in Him. Genuine humility is found in receiving and acknowledging the gifts of grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8873730621650897,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                32.21,
+                36.43,
+                31.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we refuse the spiritual washing that Christ offers, we hinder our relationship with Him. The act of foot-washing is not just symbolic but veritable, revealing Peter's lack of humility. Only by embracing the self-sacrificing work of love exhibited by Christ can we truly have a part in Him. Genuine humility lies in receiving and acknowledging the gifts of grace. The first condition of discipleship is self-surrender.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.8863696167939623,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                36.6,
+                33.54,
+                29.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If we refuse to receive the spiritual washing that Christ offers, we hinder our relationship with Him. The act of foot-washing represents a veritable, rather than symbolic, expression. Peter's rejection of this act reveals his pride and his failure to submit to Christ. Only by embracing the self-sacrificing love shown by Christ can we truly have a part in Him. Genuine humility is found in gratefully accepting the gifts of grace. The first requirement of discipleship is self-surrender.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8243391333102132,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                34.31,
+                35.3,
+                30.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If we refuse the spiritual washing that Christ offers, we hinder our relationship with Him. The act of foot-washing goes beyond symbolism, becoming a veritable expression. Peter's rejection of this act reveals his pride and failure to submit to Christ. Embracing the self-sacrificing love shown by Christ is the key to having a true part in Him. Genuine humility lies in receiving and acknowledging the gifts of grace. Self-surrender is the first step of discipleship.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7541640353560597,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                34.88,
+                35.4,
+                29.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

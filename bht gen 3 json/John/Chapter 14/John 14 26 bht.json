@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:12:36",
+    "verseRef": "John 14:26",
+    "bestBHT": {
+        "bht": "The Paraclete, or Comforter, is the Advocate who will teach the disciples all things necessary for their work and life in Jesus. It is on the fulfilment of this promise that the authenticity of the Gospel narrative and the sufficiency of the disciples as witnesses are established. The Holy Spirit, as our Teacher, imparts both new and old truths, knowing the deep things of God. Both the Father and the Son will send the Holy Spirit, enabling the disciples to better understand what Jesus taught and to receive new revelations.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.0908942944610454,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.86,
+        "commentatorTierSimilarities": [
+            32.58,
+            39.3,
+            28.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Paraclete, or Comforter, is now more closely defined by this well-known Name.",
+            "Shall teach you all things,\u2014all that can and may be learnt by you, all that belongs to your work and life in Me.",
+            "It is on the fulfilment of this promise to the Apostles, that their sufficiency as Witnesses of all that the Lord did and taught, and consequently THE AUTHENTICITY OF THE GOSPEL NARRATIVE, is grounded."
+        ],
+        "Albert Barnes": [
+            "Shall teach you all things - All things which it was needful for them to understand in the apostolic office, and particularly those things which they were not prepared then to hear or could not then understand.",
+            "He would seasonably remind them of the sayings of Jesus, which they might otherwise have forgotten. In the organization of the church, and in composing the sacred history, he would preside over their memories.",
+            "The Holy Spirit would teach them the meaning of those things which the Saviour had spoken."
+        ],
+        "Marvin Vincent": [
+            "Setting the Advocate distinctly and sharply before the hearers.\" ",
+            "The pronoun is used in John's First Epistle, distinctively of our Lord.\" ",
+            "The aorist tense, I said."
+        ],
+        "Philip Schaff": [
+            "The Father sends the Holy Spirit 'in the name' of Jesus; that is, the sending of the Spirit is grounded in the Father\u2019s revelation of Himself in the Son.",
+            "The Spirit is spoken of in His training power, as He applies to the heart 'the truth' which is His being.",
+            "What Jesus taught shall be the 'all things' that they are taught; can they be taught for any other purpose than to be again spoken for the salvation of men?"
+        ],
+        "Archibald T. Robertson": [
+            "The Holy Spirit knows 'the deep things of God' and he is our Teacher in the Dispensation of the Holy Spirit of both new truth and old.",
+            "The Father will send the Holy Spirit, but so will the Son... There is no contradiction in this relation of the Persons in the Trinity.",
+            "After Pentecost, the disciples will be able better to recall and understand what Jesus had said and to be open to new revelations from God."
+        ],
+        "John Gill": [
+            "The word used there, as here, signifies an 'advocate', and is so rendered, 1 John 2:1, a patron, one that pleads and defends, the cause of another, before kings and princes...",
+            "...inasmuch as it also signifies a 'comforter', and this being agreeably to the present condition of the apostles, as before observed; it may be most proper to retain that sense of it here, who is explained to be the Holy Ghost...",
+            "This accounts for it, how the evangelists some years after the death of Christ; at different times and places, and without consulting each other, could commit to writing the life, actions, sayings, and sermons of Christ, with all the minute circumstances attending them."
+        ],
+        "John Wesley": [
+            "In my name \u2014 For my sake, in my room, and as my agent.",
+            "He will teach you all things \u2014 Necessary for you to know.",
+            "Here is a clear promise to the apostles, and their successors in the faith, that the Holy Ghost will teach them all that truth which is needful for their salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Paraclete, or Comforter, is now more closely defined by this well-known Name. Shall teach you all things\u2014all that can and may be learnt by you, all that belongs to your work and life in Me. It is on the fulfilment of this promise to the Apostles, that their sufficiency as Witnesses of all that the Lord did and taught, and consequently THE AUTHENTICITY OF THE GOSPEL NARRATIVE, is grounded. The Holy Spirit knows 'the deep things of God' and He is our Teacher in the Dispensation of the Holy Spirit of both new truth and old. The Father will send the Holy Spirit, but so will the Son... After Pentecost, the disciples will be able better to recall and understand what Jesus had said and to be open to new revelations from God.",
+            "wordCount": 136,
+            "quoteTokenProportion": 43.37,
+            "qualityScore": 1.9093546396596741,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+            "commentatorTierSimilarities": [
+                36.77,
+                37.01,
+                26.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Paraclete, or Comforter, is now more closely defined by this well-known Name. Shall teach you all things\u2014all that can and may be learnt by you, all that belongs to your work and life in Me. It is on the fulfilment of this promise to the Apostles, that their sufficiency as Witnesses of all that the Lord did and taught, and consequently THE AUTHENTICITY OF THE GOSPEL NARRATIVE, is grounded. The Holy Spirit knows 'the deep things of God' and He is our Teacher in the Dispensation of the Holy Spirit of both new truth and old. The Father will send the Holy Spirit, but so will the Son... After Pentecost, the disciples will be able better to recall and understand what Jesus had said and to be open to new revelations from God.",
+            "wordCount": 136,
+            "quoteTokenProportion": 43.37,
+            "qualityScore": 1.9093546396596741,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+            "commentatorTierSimilarities": [
+                36.77,
+                37.01,
+                26.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Paraclete, or Comforter, is defined as the Advocate, who will teach the disciples all things that they need to know for their work and life in Jesus. This promise is essential for the authenticity of the Gospel narrative and their sufficiency as witnesses. The Holy Spirit, being our Teacher, knows the deep things of God and imparts truth to us. Both the Father and the Son will send the Holy Spirit, ensuring the disciples' ability to recall and understand what Jesus had said and opening them up to new revelations after Pentecost.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.0906855129178945,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.86,
+            "commentatorTierSimilarities": [
+                32.87,
+                39.26,
+                27.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Paraclete, or Comforter, is the Advocate who will teach the disciples all things necessary for their work and life in Jesus. This promise is crucial for affirming the authenticity of the Gospel narrative and the sufficiency of the disciples as witnesses. The Holy Spirit, knowing the deep things of God, is our Teacher, imparting both new and old truths. Both the Father and the Son will send the Holy Spirit, enabling the disciples to better remember and understand what Jesus taught and to receive new revelations from God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.082310192868949,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+            "commentatorTierSimilarities": [
+                32.71,
+                39.49,
+                27.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Paraclete, or Comforter, is the Advocate who will teach the disciples all things necessary for their work and life in Jesus. It is on the fulfilment of this promise that the authenticity of the Gospel narrative and the sufficiency of the disciples as witnesses are established. The Holy Spirit, as our Teacher, imparts both new and old truths, knowing the deep things of God. Both the Father and the Son will send the Holy Spirit, enabling the disciples to better understand what Jesus taught and to receive new revelations.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0908942944610454,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.86,
+            "commentatorTierSimilarities": [
+                32.58,
+                39.3,
+                28.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

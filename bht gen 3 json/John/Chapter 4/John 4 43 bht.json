@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:05:36",
+    "verseRef": "John 4:43",
+    "bestBHT": {
+        "bht": "After two days in Sychar, Jesus left Judea for Galilee to avoid the growing attention around Him. He intentionally went to Galilee, His own country, where He would be least likely to receive honor as a prophet. His departure from Sychar and journey to Galilee align with His original intention to go there before being interrupted. It is probable that He visited other towns in Galilee, potentially Cana, while purposely avoiding Nazareth, where He did not receive honor.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 2.0471457504269024,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+        "commentatorTierSimilarities": [
+            22.25,
+            37.56,
+            40.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason (ver. 1) why Jesus left Jud\u00e6a for Galilee was, because of the publicity which was gathering round Himself and his ministry.",
+            "He betakes himself to Galilee therefore, to avoid fame, testifying that His own country (Galilee) was that where, as a prophet, He was least likely to be honoured.",
+            "The above explanation seems to me completely satisfactory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "43, 44. after two days\u2014literally,",
+            "\tthe two days of His stay at Sychar."
+        ],
+        "Albert Barnes": [
+            "Into Galilee - Into some of the parts of Galilee, though evidently not into Nazareth, but probably direct to Cana, John 4:46."
+        ],
+        "Archibald T. Robertson": [
+            "After the two days (\u039c\u03b5\u03c4\u03b1 \u03c4\u03b1\u03c2 \u03b4\u03c5\u03bf \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2). Those in verse John 4:40.",
+            "Into Galilee (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03b9\u03b1\u03bd). As he had started to do (verse John 4:3) before the interruption at Sychar."
+        ],
+        "John Gill": [
+            "When he had stayed two days at Sychar conversing with, and discoursing to the Samaritans, which were the means of the conversion of many of them...",
+            "...he departed out of that country, and passed on his way...",
+            "...and went into Galilee; as he first intended..."
+        ],
+        "John Wesley": [
+            "He went into Galilee \u2014 That is, into the country of Galilee: but not to Nazareth. It was at that town only that he had no honour. Therefore he went to other towns."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus left Judea for Galilee to avoid the increasing attention and fame surrounding Him and His ministry. He specifically chose Galilee because it was His own country where, as a prophet, He was unlikely to be honored. After spending two days in Sychar, Jesus proceeded to Galilee, as He had intended to do before the interruption in Sychar. It is likely that He went to other parts of Galilee, possibly even Cana, but not to Nazareth, where He was not esteemed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.152875240019316,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                22.36,
+                40.15,
+                37.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After two days in Sychar, Jesus left Judea for Galilee to avoid the growing attention around Him. He intentionally went to Galilee, His own country, where He would be least likely to receive honor as a prophet. His departure from Sychar and journey to Galilee align with His original intention to go there before being interrupted. It is probable that He visited other towns in Galilee, potentially Cana, while purposely avoiding Nazareth, where He did not receive honor.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 2.0471457504269024,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+            "commentatorTierSimilarities": [
+                22.25,
+                37.56,
+                40.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After two days of staying in Sychar and conversing with the Samaritans, Jesus left for Galilee. He chose to go to Galilee to avoid further fame and because it was the place where he was least likely to be honored as a prophet. This decision was made to prevent the increasing publicity gathering around himself and his ministry. Though he had initially intended to go to Galilee before the interruption at Sychar, he may have gone to Cana directly rather than Nazareth. His departure from Sychar and journey to Galilee marked the continuation of his ministry while also fulfilling his purpose in seeking less attention and honor.",
+            "wordCount": 107,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8337639214156307,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                25.05,
+                36.1,
+                38.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After two days in Sychar, conversing with and converting many Samaritans, Jesus departed for Galilee to avoid the growing fame surrounding Him. Galilee was the region where He would be least honored as a prophet. This decision highlights His humble nature and desire to focus on His ministry rather than worldly acclaim. By going to Galilee, He continued His mission while also avoiding the intense attention that was gathering around Him.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.6632482844161283,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                26.35,
+                32.64,
+                41.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After two days of staying in Sychar and conversing with the Samaritans, Jesus left for Galilee. He chose to go to Galilee to avoid further fame and because it was the place where he was least likely to be honored as a prophet. This decision was made to prevent the increasing publicity gathering around himself and his ministry. Though he had initially intended to go to Galilee before the interruption at Sychar, he may have gone to Cana directly rather than Nazareth. His departure from Sychar and journey to Galilee marked the continuation of his ministry while also fulfilling his purpose in seeking less attention and honor.",
+            "wordCount": 107,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8337639214156307,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                25.05,
+                36.1,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

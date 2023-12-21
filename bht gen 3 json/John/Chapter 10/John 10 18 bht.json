@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:09:57",
+    "verseRef": "John 10:18",
+    "bestBHT": {
+        "bht": "The voluntary nature of Jesus' death is evident in His whole sufferings and resurrection, which exemplify His obedience to the Father's command. His sacrifice was purely voluntary, demonstrating His authority over life and death. The necessity of His death is apparent, as it was planned in the eternal counsel of God. Jesus, in His obedience to the Father's will, fulfills His commission by willingly laying down His life for the salvation of humanity.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.96,
+        "qualityScore": 2.318124738395973,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.42,
+        "commentatorTierSimilarities": [
+            33.51,
+            36.03,
+            30.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The truth of this voluntary rendering up was shewn by His whole sufferings\".",
+            "His resurrection also was eminently His own work, by virtue of the Spirit of the Father dwelling in and filling Him\".",
+            "The power in both these cases being the commandment, appointment, ordinance of the Father, from the counsel of whose will the whole mediatorial office of Christ sprung\"."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is impossible for language more plainly and emphatically to express the absolute voluntariness of Christ's death.",
+            "Here lay the glory of His sacrifice, that it was purely voluntary.",
+            "The necessity of Christ's death, in the light of these profound sayings, must be manifest to all but the superficial student."
+        ],
+        "Albert Barnes": [
+            "No man taketh it from me - That is, no one could take it by force, or unless I was willing to yield myself into his hands.",
+            "His death was voluntary. His coming was voluntary - the fruit of love. His death was the fruit of love.",
+            "None but God can raise the dead; and as Jesus had this power over his own body it proves that he was divine."
+        ],
+        "Marvin Vincent": [
+            "Took away...would point back to the work of Jesus as conceived and accomplished in the eternal counsel of God.\" ",
+            "I put it from myself.\" ",
+            "Power...right."
+        ],
+        "John Calvin": [
+            "No man taketh it from me... he does not die by constraint, but offers himself willingly for the salvation of his flock.",
+            "Christ intended... that he should die for the redemption of his flock.",
+            "He recalls our attention to the eternal purpose of the Father, in order to inform us that He had such care about our salvation, that he dedicated to us his only-begotten Son great and excellent as he is."
+        ],
+        "Philip Schaff": [
+            "He lays down His life of Himself. He has the right to do this, and the right to take the life again.",
+            "By His Father\u2019s express commission He has this right of free decision.",
+            "Jesus took His life again in voluntarily accepting the exercise of His Father\u2019s power."
+        ],
+        "Archibald T. Robertson": [
+            "John is representing Jesus as speaking sub specie aeternitatis\" (Bernard). He speaks of his death as already past and the resurrection as already accomplished.",
+            "The Father \"gave\" the Son who was glad to be given and to give himself.",
+            "He always follows the Father's command (\u03b5\u03bd\u03c4\u03bf\u03bb\u03b7) in all things. So now he is doing the Father's will about his death and resurrection."
+        ],
+        "John Gill": [
+            "No man taketh it from me... yet no man could, nor did take it away, without his Father's will, and determinate counsel and knowledge, by which he was delivered up into the hands of the above persons.",
+            "but I lay it down of myself... with the greatest patience and meekness, resolution, courage and magnanimity; and with a full will, and with the greatest cheerfulness and alacrity.",
+            "I have power to lay it down... Christ, the Prince of life, had a power of laying down his life of his own accord, as a ransom price for his sheep."
+        ],
+        "John Wesley": [
+            "I have power to lay it down, and I have power to take it again \u2014 I have an original power and right of myself.",
+            "This commission have I received of my Father \u2014 Which I readily execute.",
+            "He did it in obedience to his Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The voluntary nature of Jesus' death is evident in the whole sufferings He endured, which exemplify His obedience to the Father's command. By willingly giving up His life and subsequently resurrecting Himself, Jesus demonstrates His authority over life and death, a power that can only belong to one who is divine. His death was necessary for the salvation of humanity, as it had been planned in the eternal counsel of God. Jesus' obedience to the Father's will is seen throughout His ministry, and in laying down His life, He fulfills His Father's commission.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.300079941524216,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.82,
+            "commentatorTierSimilarities": [
+                32.06,
+                36.89,
+                31.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The voluntary nature of Jesus' death is evident in His whole sufferings and resurrection, which exemplify His obedience to the Father's command. His sacrifice was purely voluntary, demonstrating His authority over life and death. The necessity of His death is apparent, as it was planned in the eternal counsel of God. Jesus, in His obedience to the Father's will, fulfills His commission by willingly laying down His life for the salvation of humanity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 2.318124738395973,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.42,
+            "commentatorTierSimilarities": [
+                33.51,
+                36.03,
+                30.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The truth of Jesus' voluntary sacrifice is shown through His sufferings and resurrection, which were His own work empowered by the Spirit of the Father. The commandment and appointment of the Father, from His eternal counsel, gave power to both these acts. Jesus' death was absolute voluntariness, showcasing the glory of His sacrifice. This necessity is clear, as Jesus speaks sub specie aeternitatis, representing His death as already past and the resurrection as already accomplished. He willingly followed the Father's command and gladly gave Himself.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.203243719488426,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                36.15,
+                33.56,
+                30.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' voluntary sacrifice is revealed through His sufferings and resurrection, accomplished by the Spirit of the Father. His death was purely voluntary, demonstrating the necessity of His sacrifice. This obedience to the Father's command is seen in His willingness to lay down His life and take it up again, as He always fulfills the Father's will. Jesus' death and resurrection were part of the eternal purpose of the Father, dedicated to the redemption of humanity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.284470887079535,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+            "commentatorTierSimilarities": [
+                34.19,
+                34.56,
+                31.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The absolute voluntariness of Jesus' death is clearly expressed, as it was His own work by virtue of the Spirit of the Father. His resurrection also shows His own power, derived from the Father's commandment. The necessity of His death becomes evident in light of these profound sayings. Jesus willingly gave Himself and received the power to lay down His life and take it up again. His obedience to the Father's will is evident throughout His entire ministry, as He fulfills the commission He received.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.185094260568517,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.0,
+            "commentatorTierSimilarities": [
+                33.45,
+                35.55,
+                31.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

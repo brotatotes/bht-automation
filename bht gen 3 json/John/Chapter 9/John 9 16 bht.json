@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:09:27",
+    "verseRef": "John 9:16",
+    "bestBHT": {
+        "bht": "Among those who opposed Jesus were Nicodemus, Joseph, and potentially Gamaliel, who eventually withdrew and left the majority to carry out their hatred of Jesus. The Pharisees accused Jesus of violating their Sabbath rules and saw it as clear evidence that he was a sinner. This division arose from differing interpretations of the Scriptures. While some focused on the inviolability of the Sabbath law and denied Jesus any divine mission, others saw the miracles as proof of Jesus' holy character and implicitly denied accusations of Sabbath-breaking.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 2.1457247434964293,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+        "commentatorTierSimilarities": [
+            31.53,
+            41.06,
+            27.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Among the latter party would be such as Nicodemus, Joseph, [Gamaliel?]; who probably (Joseph certainly, Luke xxiii. 51) at last withdrew, and left the majority to carry out their hate against Jesus.\" (Commentary)",
+            "Nicodemus, Joseph, [Gamaliel?]... at last withdrew, and left the majority to carry out their hate against Jesus.\" (Commentary)",
+            "Joseph certainly, Luke xxiii. 51) at last withdrew, and left the majority to carry out their hate against Jesus.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16, 17. This man is not of God,",
+            "\tc.\u2014(See on John 5:9 John 5:9- :). ",
+            "\t",
+            "Others said, &amp;c.\u2014such",
+            "\tas Nicodemus and Joseph."
+        ],
+        "Albert Barnes": [
+            "Men often assume their own interpretations of the Scriptures to be infallible, and then judge and condemn all others by those interpretations.",
+            "The miracles were such as could not be denied, nor did even the enemies of Jesus attempt to deny them or to explain them away.",
+            "It is scarcely possible to conceive of more conclusive proof that those miracles were really performed, and, if so, then the Lord Jesus was sent by God."
+        ],
+        "Marvin Vincent": [
+            "It is forbidden to apply even fasting - spittle to the eyes on the Sabbath.",
+            "The words in ver. 14, made the clay, also mark a specific point of offense."
+        ],
+        "John Calvin": [
+            "Among good men and those who fear God, miracles are undoubted pledges of the power of the Holy Spirit; but it happens by a just judgment of God, that Satan deceives unbelievers by false miracles, as by enchantments.",
+            "Let us then remember that we ought to seek God with a sincere disposition of heart, that he may reveal himself to us by the power of his Spirit; and that we ought to lend our ears submissively to his word, that he may clearly point out true prophets by miracles that are not delusive.",
+            "A schism is a highly pernicious and destructive evil in the Church of God; and how comes it then that Christ sows the occasion of discord among the very teachers of the Church? The answer is easy. Christ had no other object in view than to bring all men to God the Father, by stretching out his hand to them."
+        ],
+        "Philip Schaff": [
+            "The one party, taking as their starting-point the inviolability of the sabbatic law, deny to Jesus as a transgressor of this law any divine mission whatever; and from this logically follows the denial of the miracle.",
+            "The others, setting out from the fact of the miracle, infer the holy character of Jesus, and implicitly deny the breaking of the sabbath.",
+            "The choice of premiss depends in this case, as in all cases, upon the moral freedom; it is at this point of departure that the friends of light and the friends of darkness separate; the rest is simply a matter of logic."
+        ],
+        "Archibald T. Robertson": [
+            "He violates our rules about the Sabbath and therefore is a Sabbath-breaker as charged when here before.",
+            "How can a man that is a sinner do such signs?\" ",
+            "It was a conundrum for the Pharisees. No wonder there was 'a division'."
+        ],
+        "John Gill": [
+            "He is not sent of God, he does not come from him to do his will and work, nor does he seek his glory, nor is he on his side, or for his interest.",
+            "How can a man that is a sinner, or a sabbath breaker, do such miracles?",
+            "Even in the sanhedrim, they could not agree about the character of the person that had done this miracle."
+        ],
+        "John Wesley": [
+            "This man is not of God \u2014 Not sent of God.",
+            "How can a man that is a sinner \u2014 That is, one living in wilful sin, do such miracles?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Among those who opposed Jesus were Nicodemus, Joseph, and potentially Gamaliel, who eventually withdrew and left the majority to carry out their hatred of Jesus. The Pharisees accused Jesus of violating their Sabbath rules, seeing it as clear evidence that he was a sinner. They found it difficult to reconcile his ability to perform such signs with their understanding of him as a Sabbath-breaker. This division of opinions arose from differing interpretations of the Scriptures. While some focused on the inviolability of the sabbatic law as their starting point and denied Jesus any divine mission, others saw the miracles as proof of Jesus' holy character and implicitly denied accusations of Sabbath-breaking. Ultimately, these differing interpretations led to a division among the Pharisees and a questioning of Jesus' origins and authority.",
+            "wordCount": 132,
+            "quoteTokenProportion": 33.72,
+            "qualityScore": 2.005834083481077,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                31.0,
+                42.4,
+                26.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nicodemus, Joseph, and potentially Gamaliel eventually withdrew, leaving the majority to carry out their hate against Jesus. The Pharisees accused Jesus of violating their Sabbath rules and reasoned that a sinner couldn't perform such signs. This division arose from differing interpretations of the Scriptures. Some, starting with the inviolability of the Sabbath law, denied Jesus any divine mission. Others saw the miracles as evidence of Jesus' holy character and implicitly denied the accusations of Sabbath-breaking. This divergence of perspectives led to a division among the Pharisees and questioning of Jesus' origin and authority.",
+            "wordCount": 95,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 2.0704114566703984,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                32.8,
+                40.38,
+                26.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Among those who opposed Jesus were Nicodemus, Joseph, and potentially Gamaliel, who eventually withdrew and left the majority to carry out their hatred of Jesus. The Pharisees accused Jesus of violating their Sabbath rules and saw it as clear evidence that he was a sinner. This division arose from differing interpretations of the Scriptures. While some focused on the inviolability of the Sabbath law and denied Jesus any divine mission, others saw the miracles as proof of Jesus' holy character and implicitly denied accusations of Sabbath-breaking.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.1457247434964293,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+            "commentatorTierSimilarities": [
+                31.53,
+                41.06,
+                27.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Among the Pharisees, there were those who eventually withdrew, such as Nicodemus, Joseph, and potentially Gamaliel, leaving the majority to carry out their hatred against Jesus. They accused Jesus of violating the Sabbath rules, which they saw as evidence of his being a sinner. This division among them arose from conflicting interpretations of the Scriptures. While some focused on the inviolability of the Sabbath law, denying Jesus any divine mission, others recognized the miracles as indications of Jesus' holy character, implicitly denying the charges of Sabbath-breaking.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.1447866727590013,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.65,
+            "commentatorTierSimilarities": [
+                31.81,
+                40.31,
+                27.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nicodemus, Joseph, and potentially Gamaliel eventually withdrew, leaving the majority to carry out their hate against Jesus. The Pharisees accused Jesus of Sabbath-breaking, questioning how a sinner could perform miracles. This division stemmed from conflicting interpretations of the Scriptures. While some denied Jesus any divine mission based on the inviolability of the Sabbath law, others viewed the miracles as evidence of his holy character, implicitly dismissing the charges of Sabbath-breaking. This disagreement fueled a division among the Pharisees, raising doubts about Jesus' origins and authority.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.0909929748041294,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+            "commentatorTierSimilarities": [
+                31.09,
+                40.53,
+                28.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:47",
+    "verseRef": "John 11:41",
+    "bestBHT": {
+        "bht": "In the filial relation of the Lord Jesus to the Father, all power is given to Him. These acts of power were done by Him, not by that glory of His own which He had laid aside, but by the mighty working of the Father in Him, and in answer to His prayer. Jesus lifted up his eyes\u2014an expression marking His calm solemnity. He prayed not for what He wanted, but for the manifestation of what He had.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.951607239779578,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+        "commentatorTierSimilarities": [
+            38.61,
+            33.37,
+            28.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the filial relation of the Lord Jesus to the Father, all power is given to Him: the Son can do nothing of Himself.",
+            "These acts of power were done by Him, not by that glory of His own which He had laid aside, but by the mighty working of the Father in Him, and in answer to His prayer.",
+            "His prayer was always heard,\u2014even (Heb. v. 7) that in Gethsemane."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus lifted up his eyes\u2014an expression marking His calm solemnity.\" ",
+            "He prayed not for what He wanted, but for the manifestation of what He had.",
+            "Having the bright consciousness of the answer in the felt liberty to ask it, and the assurance that it was at hand, He gives thanks for this with a grand simplicity before performing the act."
+        ],
+        "Albert Barnes": [
+            "Lifted up his eyes - In an attitude of prayer.\" ",
+            "I thank thee that thou hast heard me.\" ",
+            "In all his actions, he recognized his union to the Father, and his dependence upon him as Mediator."
+        ],
+        "Marvin Vincent": [
+            "From the place where the dead was laid. Omit."
+        ],
+        "John Calvin": [
+            "And Jesus again raised his eyes. This was the token of a mind truly prepared for prayer; for before any one calls on God aright, he must be brought into communication with him...",
+            "True, this is not done by the eyes; for hypocrites, who are plunged in the deep filth of their flesh, appear to draw down heaven to them by their stern aspect; but what they only pretend to do must be sincerely accomplished by the children of God.",
+            "Certainly, we cannot doubt that, when Christ raised his eyes to heaven, he was carried towards it with extraordinary vehemence."
+        ],
+        "Archibald T. Robertson": [
+            "I thank thee that thou heardest me.\" ",
+            "No pomp of incantation, no wrestling in prayer even; but simple words of thanksgiving, as if already Lazarus was restored.\" ",
+            "Jesus well knew the issues involved on this occasion. If he failed, his own claims to be the Son of God (the Messiah), would be hopelessly discredited with all. If he succeeded, the rulers would be so embittered as to compass his own death."
+        ],
+        "John Gill": [
+            "From the door of the sepulchre",
+            "Father, I thank thee that thou hast heard me",
+            "it relates to everything in which he had before heard him"
+        ],
+        "John Wesley": [
+            "Not as if he applied to his Father for assistance. There is not the least show of this.",
+            "He wrought the miracle with an air of absolute sovereignty, as the Lord of life and death.",
+            "I thank thee, that by the disposal of thy providence, thou hast granted my desire, in this remarkable opportunity of exerting my power, and showing forth thy praise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the filial relation of the Lord Jesus to the Father, all power is given to Him. These acts of power were done by Him, not by that glory of His own which He had laid aside, but by the mighty working of the Father in Him, and in answer to His prayer. Jesus lifted up his eyes\u2014an expression marking His calm solemnity. He prayed not for what He wanted, but for the manifestation of what He had. Having the bright consciousness of the answer in the felt liberty to ask it, and the assurance that it was at hand, He gives thanks for this with a grand simplicity before performing the act. No pomp of incantation, no wrestling in prayer even; but simple words of thanksgiving, as if already Lazarus was restored. Jesus well knew the issues involved on this occasion. If he failed, his own claims to be the Son of God (the Messiah), would be hopelessly discredited with all. If he succeeded, the rulers would be so embittered as to compass his own death.",
+            "wordCount": 178,
+            "quoteTokenProportion": 39.81,
+            "qualityScore": 1.755644063244274,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                41.82,
+                28.31,
+                29.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the filial relation of the Lord Jesus to the Father, all power is given to Him. These acts of power were done by Him, not by that glory of His own which He had laid aside, but by the mighty working of the Father in Him, and in answer to His prayer. Jesus lifted up his eyes\u2014an expression marking His calm solemnity. He prayed not for what He wanted, but for the manifestation of what He had. Having the bright consciousness of the answer in the felt liberty to ask it, and the assurance that it was at hand, He gives thanks for this with a grand simplicity before performing the act.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.9079207572220693,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                38.68,
+                32.38,
+                28.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the filial relation of the Lord Jesus to the Father, all power is given to Him. These acts of power were done by Him, not by that glory of His own which He had laid aside, but by the mighty working of the Father in Him, and in answer to His prayer. Jesus lifted up his eyes\u2014an expression marking His calm solemnity. He prayed not for what He wanted, but for the manifestation of what He had. Having the bright consciousness of the answer in the felt liberty to ask it, and the assurance that it was at hand, He gives thanks for this with a grand simplicity before performing the act.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.9079207572220693,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                38.68,
+                32.38,
+                28.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the filial relation of the Lord Jesus to the Father, all power is given to Him. These acts of power were done by Him, not by that glory of His own which He had laid aside, but by the mighty working of the Father in Him, and in answer to His prayer. Jesus lifted up his eyes\u2014an expression marking His calm solemnity. He prayed not for what He wanted, but for the manifestation of what He had. Having the bright consciousness of the answer in the felt liberty to ask it, and the assurance that it was at hand, He gives thanks for this with a grand simplicity before performing the act.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.9079207572220693,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                38.68,
+                32.38,
+                28.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the filial relation of the Lord Jesus to the Father, all power is given to Him. These acts of power were done by Him, not by that glory of His own which He had laid aside, but by the mighty working of the Father in Him, and in answer to His prayer. Jesus lifted up his eyes\u2014an expression marking His calm solemnity. He prayed not for what He wanted, but for the manifestation of what He had.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.951607239779578,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                38.61,
+                33.37,
+                28.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

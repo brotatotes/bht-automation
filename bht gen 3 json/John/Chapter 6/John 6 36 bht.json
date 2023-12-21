@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:07:08",
+    "verseRef": "John 6:36",
+    "bestBHT": {
+        "bht": "Jesus admonishes the people for failing to believe in Him, even though they have witnessed the true Bread from heaven through His life, teachings, and works. Though unclear in its specific reference, whether unrecorded sayings or a previous statement, their lack of faith is apparent. Their refusal to recognize Him as the spiritual Savior exposes their baseness and voluntary blindness, despite the undeniable evidence before them.",
+        "wordCount": 66,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.8911408050525025,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+        "commentatorTierSimilarities": [
+            24.97,
+            39.6,
+            35.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I said unto you...perhaps it was said, but has not been recorded.",
+            "Ye have seen the true Bread from heaven, the sign greater than the manna, even Me Myself: and yet have not believed.",
+            "We have instances of reference to sayings not recorded, in ch. x. 26; xii. 34."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "36. But . . . ye have seen me, and",
+            "\tbelieve not\u2014seen Him not in His mere bodily presence, but in",
+            "\tall the majesty of His life, His teaching, His works."
+        ],
+        "Albert Barnes": [
+            "Though they saw him, and had full proof of his divine mission, yet they did not believe.",
+            "Jesus then proceeds to state that, although they did not believe on him, yet his work would not be in vain.",
+            "For others would come to him and be saved."
+        ],
+        "Marvin Vincent": [
+            "But. Though you have seen as you asked, I repeat what I said to you that you have seen and do not believe."
+        ],
+        "John Calvin": [
+            "If Christ had not made known his power, and plainly showed that he came from God, the plea of ignorance might have alleviated their guilt; but when they reject the doctrine of him whom they formerly acknowledged to be the Lord\u2019s Messiah, it is extreme baseness.",
+            "It is no doubt true, that men never resist God purposely, so as to reflect that they have to do with God; but unbelievers, because they willingly shut their eyes against the light are justly said to see that which immediately vanishes from their sight, because Satan darkens their understandings.",
+            "This, at least, is beyond all controversy, that when he said that they saw, we must not understand him to mean his bodily appearance, but rather that he describes their voluntary blindness, because they might have known what he was, if their malice had not prevented them."
+        ],
+        "Philip Schaff": [
+            "We must take the words as referring to the substance, to the spirit if not the letter, of something previously said in this chapter, and we can do this without any violence of interpretation.",
+            "The charge, therefore, that 'they seeing saw not' is perfectly equivalent to what is said in that verse; they had indeed seen Him in the works which were the manifestation of Himself, but they had not been led to faith.",
+            "The charge is very grave, but it is not made in anger, nor does it leave the accused in hopelessness: not judgment, but encouragement, is the spirit that pervades this part of the discourse."
+        ],
+        "Archibald T. Robertson": [
+            "It is not certain that \u03bc\u03b5 is genuine... If genuine, some other saying is referred to that we do not have.\" ",
+            "If not, Jesus may refer to verse John 6:26.\" ",
+            "Use of \u03ba\u03b1 = and yet."
+        ],
+        "John Gill": [
+            "That ye also have seen me, and believe not.\" ",
+            "They had seen his miracles, and had shared in the advantages of them, being healed, and fed corporeally by him, and yet believed not in him as the spiritual Saviour and Redeemer of their souls.",
+            "Nor did they come to him in a spiritual way, for eternal life and salvation."
+        ],
+        "John Wesley": [
+            "I have told you \u2014 Namely, John 6:26."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though Jesus claims that the people have seen the true Bread from heaven and yet have not believed, it is unclear as to what exactly he is referring. He may be alluding to other sayings that were not recorded, or he could be referencing a previous statement made in verse 26. Regardless, his message remains the same: despite witnessing his majesty through his life, teachings, and works, the people still do not believe. This charge is not made in anger, but rather with the intention of encouraging faith. Jesus recognizes the gravity of their disbelief, as they had seen his miracles and experienced his provisions firsthand, yet they did not recognize him as the spiritual Savior of their souls. Their voluntary blindness and refusal to acknowledge him reveal their extreme baseness.",
+            "wordCount": 130,
+            "quoteTokenProportion": 42.7,
+            "qualityScore": 1.8585874201750787,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                26.79,
+                40.92,
+                32.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reproaches the people for not believing in him despite having seen the true Bread from heaven, which is greater than the manna. It is unclear what exactly he refers to when he says they have seen but not believed, but he may be alluding to unrecorded sayings or a previous statement in verse 26. Regardless, Jesus emphasizes that their disbelief is serious, as they have witnessed his life, teachings, and works. Their refusal to recognize him as the spiritual Savior reflects their extreme baseness and voluntary blindness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.908394892565065,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                26.18,
+                37.59,
+                36.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus rebukes the people, pointing out that they have seen the manifestation of Himself through His life, teachings, and works, and yet have not been led to faith. While the exact reference to what they have seen but not believed is unclear, it could be unrecorded sayings or a previous statement in verse 26. Their refusal to recognize Him as the spiritual Savior reveals their extreme baseness and voluntary blindness, despite encountering undeniable evidence of His divine mission.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.9908336365213737,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.54,
+            "commentatorTierSimilarities": [
+                25.19,
+                42.31,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus chides the people for not believing in Him, despite witnessing His life, teachings, and works. He highlights that they have seen Him, but their lack of faith is evident. The exact reference to what they have seen but not believed remains uncertain, whether it be unrecorded sayings or a previous statement. Their refusal to acknowledge Him as the spiritual Savior exposes their extreme baseness and voluntary blindness.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.821829217557656,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                23.76,
+                40.12,
+                36.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus admonishes the people for failing to believe in Him, even though they have witnessed the true Bread from heaven through His life, teachings, and works. Though unclear in its specific reference, whether unrecorded sayings or a previous statement, their lack of faith is apparent. Their refusal to recognize Him as the spiritual Savior exposes their baseness and voluntary blindness, despite the undeniable evidence before them.",
+            "wordCount": 66,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.8911408050525025,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                24.97,
+                39.6,
+                35.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

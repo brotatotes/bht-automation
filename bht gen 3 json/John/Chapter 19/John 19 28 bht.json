@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:14:53",
+    "verseRef": "John 19:28",
+    "bestBHT": {
+        "bht": "As Jesus hung on the cross, fully aware that the time for the fulfillment of Scripture had come, he uttered the words, I thirst. His request for relief was driven not only by a need for refreshment but also by the knowledge that this act of receiving vinegar to drink was a distinguishing sign of the Messiah as prophesied in the Psalms. Everything in his sufferings, even the burning thirst, was a part of perfecting his role as the Messiah, bringing about the atonement and salvation.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.038823566272164,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.13,
+        "commentatorTierSimilarities": [
+            29.17,
+            28.48,
+            42.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that all was now done in order to the accomplishment of Scripture.",
+            "Jesus, speaking doubtless also in intense present agony of thirst, but only speaking because He so willed it.",
+            "He would not have sought this alleviation of His sufferings, had He not known that this also pertained to the distinguishing signs of the Messiah as given in the Prophets."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "After this, Jesus knowing that all things were now accomplished\u2014that is, the moment for the fulfilment of the last of them; for there was one other small particular, and the time was come for that too, in consequence of the burning thirst which the fevered state of His frame occasioned.",
+            "Now there was set a vessel full of vinegar\u2014on the offer of the soldiers' vinegar.",
+            "and they\u2014\"one of them,\" (Matthew 27:48)."
+        ],
+        "Marvin Vincent": [
+            "Are finished corresponds better with it is finished.\" ",
+            "Finished corresponds better with it is finished, ver. 30.\" ",
+            "This sentence may be taken with the preceding one, or with that which follows."
+        ],
+        "John Calvin": [
+            "No words can fully express the bitterness of the sorrows which he endured; and yet he does not desire to be freed from them, till the justice of God has been satisfied, and till he has made a perfect atonement.",
+            "Christ had not yet died: and had not yet risen again; but he saw that nothing now remained to hinder him from going forward to death and resurrection.",
+            "Those who contrive a metaphorical meaning for the word thirst, as if he meant that, instead of a pleasant and agreeable beverage, they gave him bitterness... are more desirous to be thought ingenious than to promote true edification."
+        ],
+        "Philip Schaff": [
+            "He is in the position of One whose work is done, and for whom nothing remains but to depart.",
+            "The strong counter-argument is that everywhere else in this Gospel 'the scripture' denotes some special passage. As, however, we cannot doubt that John regarded the utterance here recorded as fulfilling Psalms 69:21, the difference between the two interpretations is less than it at first appears.",
+            "It was not merely to temper suffering that Jesus cried, but it was for refreshment to the body symbolizing a deeper refreshment to the soul. The request thus made was answered."
+        ],
+        "Archibald T. Robertson": [
+            "As in John 13:1, where Jesus is fully conscious (knowing, \u03b5\u03b9\u03b4\u03c9\u03c2) of the meaning of his atoning death.",
+            "Thirst is one of the severest agonies of crucifixion.",
+            "For the 'perfecting' of the Messiah by physical suffering see Hebrews 2:10; Hebrews 5:7."
+        ],
+        "John Gill": [
+            "Jesus knowing that all things were now accomplished; or just upon being accomplished, were as good as finished; and as they were to be, would be in a very short time; even all things relating to his sufferings, and the circumstances of them, which were afore appointed by God, and foretold in prophecy, and of which he had perfect knowledge.",
+            "that the Scripture might be fulfilled: might appear to have its accomplishment, which predicted the great drought and thirst that should be on him, Psalms 22:15 and that his enemies at such a time would give him vinegar to drink, Psalms 69:21",
+            "saith, I thirst; which was literally true of him, and may be also understood spiritually of his great thirst and eager desire after the salvation of his people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus hung on the cross, fully aware that the time for the fulfillment of Scripture had come, he uttered the words, I thirst. Though his physical agony was intense, his request for relief was not solely driven by a need for refreshment, but also by the knowledge that this act of receiving vinegar to drink was a distinguishing sign of the Messiah as prophesied in the Psalms. Everything in his sufferings, even the burning thirst, was a part of perfecting his role as the Messiah, bringing about the atonement and salvation of his people. In this moment, Jesus not only experienced the severe agony of crucifixion but also the deep spiritual thirst to fulfill his mission.",
+            "wordCount": 117,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 2.031381989724656,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.88,
+            "commentatorTierSimilarities": [
+                28.69,
+                29.03,
+                42.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus hung on the cross, fully aware that the time for the fulfillment of Scripture had come, he uttered the words, I thirst. His request for relief was driven not only by a need for refreshment but also by the knowledge that this act of receiving vinegar to drink was a distinguishing sign of the Messiah as prophesied in the Psalms. Everything in his sufferings, even the burning thirst, was a part of perfecting his role as the Messiah, bringing about the atonement and salvation. Jesus experienced the physical and spiritual agony of crucifixion, thirsting for the fulfillment of his mission.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.992545592681724,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.59,
+            "commentatorTierSimilarities": [
+                30.18,
+                27.84,
+                41.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of his excruciating crucifixion, Jesus, conscious of the fulfillment of Scripture, uttered the words, I thirst. This cry for relief from his agonizing thirst was not merely a response to physical suffering but also a recognition of the prophetic significance of this act. It symbolized his identification as the Messiah, fulfilling the Psalms' prophecy and perfecting his role in bringing salvation. Jesus's request for vinegar to quench his thirst carried profound spiritual implications, signifying his deep desire for the redemption of his people.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.8625267574389004,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                29.63,
+                27.74,
+                42.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus hung on the cross, fully aware that the time for the fulfillment of Scripture had come, he uttered the words, I thirst. His request for relief was driven not only by a need for refreshment but also by the knowledge that this act of receiving vinegar to drink was a distinguishing sign of the Messiah as prophesied in the Psalms. Everything in his sufferings, even the burning thirst, was a part of perfecting his role as the Messiah, bringing about the atonement and salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.038823566272164,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.13,
+            "commentatorTierSimilarities": [
+                29.17,
+                28.48,
+                42.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the final moments of his crucifixion, Jesus, aware that all things were now accomplished, spoke the words, I thirst. This cry for relief from his intense present agony of thirst was not only a plea for physical comfort but also a deliberate act linked to the fulfillment of Scripture. By requesting vinegar, he fulfilled the prophecy and distinguishing signs of the Messiah given in the Psalms. His thirst encompassed both the physical and spiritual, representing his yearning for the salvation of his people.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8976003952794216,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                29.24,
+                27.25,
+                43.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

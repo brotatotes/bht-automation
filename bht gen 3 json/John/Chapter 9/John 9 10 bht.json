@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-21-2023 03:08:59",
+    "verseRef": "John 9:10",
+    "bestBHT": {
+        "bht": "The people asked a natural and logical question, wanting to know how the man born blind was healed. It was a simple inquiry and didn't reveal any malice towards Jesus. They were amazed because it was unheard of for someone born blind to receive their sight. This miracle of physical healing reflects the miracle of being spiritually enlightened or born again, a great mystery of grace in the eyes of a natural man.",
+        "wordCount": 74,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.0962781586779955,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.8,
+        "commentatorTierSimilarities": [
+            13.82,
+            35.16,
+            51.03
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "It does not appear that this was more than a simple inquiry.",
+            "As yet no element of malice against Jesus is introduced."
+        ],
+        "Archibald T. Robertson": [
+            "Natural and logical (\u03bf\u03c5\u03bd) question.",
+            "First aorist passive indicative (triple augment) of \u03b1\u03bd\u03bf\u03b9\u03b3\u03c9.",
+            "They want the manner ('how') of the cure made clear."
+        ],
+        "John Gill": [
+            "They might well ask this question, since such a thing was never known before, that one born blind received his sight.\" ",
+            "As great a miracle it is in grace, and as great a mystery to a natural man, how one should be born again.",
+            "Or be spiritually enlightened."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people asked a natural and logical question, wanting to know how the man born blind was healed. It was a simple inquiry and didn't reveal any malice towards Jesus. They were amazed because it was unheard of for someone born blind to receive their sight. This miracle of physical healing reflects the miracle of being spiritually enlightened or born again, a great mystery of grace in the eyes of a natural man.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.0962781586779955,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.8,
+            "commentatorTierSimilarities": [
+                13.82,
+                35.16,
+                51.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people's natural and logical question inquiring about the manner of the blind man's cure reflects their amazement at an unprecedented miracle \u2013 one born blind receiving sight. This simple inquiry, not driven by malice towards Jesus, points to the great mystery of being born again or spiritually enlightened, just as astounding and incomprehensible to the natural man.",
+            "wordCount": 59,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.0511285164445412,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.29,
+            "commentatorTierSimilarities": [
+                14.99,
+                27.73,
+                57.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people's natural and logical question, asking the manner of the cure, reveals their astonishment at the extraordinary miracle of a blind man receiving sight. This simple inquiry, devoid of malice towards Jesus, underscores the remarkable mystery of spiritual transformation, akin to being born again or spiritually enlightened, which remains puzzling and incomprehensible to the natural man.",
+            "wordCount": 58,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 1.0533020890417217,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.37,
+            "commentatorTierSimilarities": [
+                22.94,
+                24.26,
+                52.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people's natural and logical question, prompted by the remarkable miracle of a blind man receiving sight, sought to understand the manner in which the cure occurred. Their inquiry was simple and devoid of malice towards Jesus. This extraordinary event, where one born blind gained vision, parallels the profound mystery of spiritual enlightenment or being born again, a concept that remains perplexing and inexplicable to those without understanding.",
+            "wordCount": 69,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.063248201587333,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.7,
+            "commentatorTierSimilarities": [
+                18.88,
+                37.32,
+                43.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people's question about the manner of the blind man's cure was a natural and logical inquiry, demonstrating their amazement at witnessing a miracle where someone born blind received their sight. This simple question didn't display any malice towards Jesus, but rather highlighted the astonishing nature of the event. The healing of physical blindness serves as a profound symbol of the spiritual transformation and enlightenment that comes with being born again, a deep mystery that may perplex those who lack spiritual understanding.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 0.9673134009560715,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.51,
+            "commentatorTierSimilarities": [
+                17.18,
+                29.74,
+                53.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

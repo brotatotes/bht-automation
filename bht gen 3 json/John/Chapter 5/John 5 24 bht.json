@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:06:38",
+    "verseRef": "John 5:24",
+    "bestBHT": {
+        "bht": "Those who truly hear and believe in Jesus' word receive eternal life and escape judgment. This genuine belief goes beyond outward actions, requiring an internal understanding and experiential knowledge of Christ's teachings. It is a transformative experience, bringing those who were spiritually dead into a state of spiritual life. This transition is immediate and comes with the assurance that believers are no longer subject to condemnation. It is crucial to not only profess Christianity, but to obey the Gospel and have a genuine faith in Jesus, which also includes belief in God the Father.",
+        "wordCount": 95,
+        "quoteTokenProportion": 34.72,
+        "qualityScore": 2.0348953112915344,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+        "commentatorTierSimilarities": [
+            30.86,
+            35.06,
+            34.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He that heareth my word...answers to 'the dead shall hear the voice of the Son of God'... It is a kind of hearing which awakens to life.",
+            "The believing, and the having everlasting life, are commensurate:\u2014where the faith is, the possession of eternal life is:\u2014and when the one remits, the other is forfeited.",
+            "he who believes comes not into, has no concern with, judgment... The reward is of free grace... It is to be observed that our Lord speaks in very similar terms of the unbelieving being condemned already."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have spoken of the Son's right not only to heal the sick but to raise from the dead, and quicken whom He will: And now I say unto you, That life-giving operation has already passed upon all who receive My words as the Sent of the Father on the great errand of mercy.",
+            "hath everlasting life\u2014immediately on his believing.",
+            "is passed... from death unto life\u2014What a transition!"
+        ],
+        "Albert Barnes": [
+            "To 'hear' ... denotes not the outward act of hearing, but to receive in a proper manner; to suffer it to make its proper impression on the mind; to obey.",
+            "The belief of one of the true doctrines of religion is connected with, and will lead to, the belief of all.",
+            "He has already entered on his inheritance - that inheritance which is everlasting."
+        ],
+        "Marvin Vincent": [
+            "Heareth. Closely connected with believeth.",
+            "From death. Rev., correctly, out of death, pointing to the previous condition in which he was.",
+            "Life. The life; the ideal of perfect life."
+        ],
+        "John Calvin": [
+            "Nothing is more common than a false profession of Christianity; for even the Papists, who are most inveterate enemies of Christ, do in the most presumptuous manner boast of his name. But here Christ demands from us no other honor than to obey his Gospel.",
+            "Though their life be hidden, they do not on that account cease to possess it by faith; and though they are besieged on every side by faith, they do not cease to be calm on this account, that they know that they are in perfect safety through the protection of Christ.",
+            "But though life be only begun in us, Christ declares that believers are so certain of obtaining it, that they ought not to fear death; and we need not wonder at this, since they are united to him who is the inexhaustible fountain of life."
+        ],
+        "Philip Schaff": [
+            "He that heareth my word, and believeth Him that sent me, hath eternal life, and cometh not into judgment, but hath passed out of death into life.",
+            "The Son maketh to live the dead, even those whom He will: he that heareth His word hath eternal life, and hath passed out of his state of death into life.",
+            "The believer has passed into a state to which judgment does not apply; he has received into himself that word which will at the last day judge all who reject it."
+        ],
+        "Archibald T. Robertson": [
+            "Has now this spiritual life which is endless.",
+            "Jesus speaks now of physical life and death, now of spiritual, and one must notice carefully the quick transition.",
+            "Out of spiritual death into spiritual life and so no judgement."
+        ],
+        "John Gill": [
+            "By 'hearing' it is meant, not a bare external hearing it; but an internal hearing it is here designed, so as to understand it spiritually, or to have an experimental knowledge of it...to feel the power of it on the heart, and yield the obedience of faith unto it.\" ",
+            "Faith in Christ...is hereby expressed; to which is joined faith in God his Father, they being equally the object of it; and which is introduced as a further proof of the equality in nature which is between them.",
+            "He that hears Christ's words, and receives him, and believes in him, receives and believes in him that sent him; and the same effects and consequences follow upon the one as on the other, upon hearing the word of Christ, as upon believing on the Father of Christ."
+        ],
+        "John Wesley": [
+            "And cometh not into condemnation \u2014 Unless he make shipwreck of the faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of those who hear and believe in the word of Jesus, and as a result, they receive eternal life and are no longer subject to judgment. This belief is not simply an outward act, but a true reception and acceptance of Jesus' teachings, resulting in a transformation from spiritual death to spiritual life. It is important to note the immediate nature of this transformation, as believers pass out of death into life upon their faith. This passage emphasizes the inseparable connection between hearing and believing, as well as the transition from a state of spiritual death to a state of eternal life. Those who possess this spiritual life have passed into a realm where judgment does not apply. It is not enough to simply profess Christianity, but one must obey the Gospel and have an internal, experiential knowledge of Christ's teachings. This belief in Jesus also extends to belief in God the Father, highlighting the equality in nature between them.",
+            "wordCount": 164,
+            "quoteTokenProportion": 36.26,
+            "qualityScore": 2.122928263565801,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                32.47,
+                35.18,
+                32.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who truly hear and believe in Jesus' word receive eternal life and escape judgment. This genuine belief goes beyond outward actions, requiring an internal understanding and experiential knowledge of Christ's teachings. It is a transformative experience, bringing those who were spiritually dead into a state of spiritual life. This transition is immediate and comes with the assurance that believers are no longer subject to condemnation. It is crucial to not only profess Christianity, but to obey the Gospel and have a genuine faith in Jesus, which also includes belief in God the Father.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 2.0348953112915344,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                30.86,
+                35.06,
+                34.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who truly hear and believe in Jesus' word receive eternal life and escape judgment. This genuine belief goes beyond outward actions, requiring an internal understanding and experiential knowledge of Christ's teachings. It is a transformative experience, bringing those who were spiritually dead into a state of spiritual life. This transition is immediate and comes with the assurance that believers are no longer subject to condemnation. It is crucial to not only profess Christianity, but to obey the Gospel and have a genuine faith in Jesus, which also includes belief in God the Father.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 2.0348953112915344,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                30.86,
+                35.06,
+                34.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers in Jesus who truly hear and receive His word are granted everlasting life and exemption from judgment. Upon faith, there is a profound shift from spiritual death to abundant spiritual life. This transformation occurs immediately, demonstrating the close connection between hearing and believing. Those who possess this eternal life are no longer subject to condemnation. It is not enough to simply profess Christianity; genuine obedience to the Gospel and a sincere faith in Jesus, as well as belief in God the Father, are necessary for this life-giving transition.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.019897223270606,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.5,
+            "commentatorTierSimilarities": [
+                34.69,
+                33.03,
+                32.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers who truly hear and receive Jesus' word are granted eternal life and escape judgment. This genuine faith brings about a complete transformation from spiritual death to abundant spiritual life. This immediate transition highlights the inseparable connection between hearing and believing. Those who possess this new life are no longer subject to condemnation. Mere profession of Christianity is insufficient; obedience to the Gospel and a sincere faith in Jesus, along with belief in God the Father, are essential for experiencing this life-giving change.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9320806397907115,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                35.94,
+                31.8,
+                32.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

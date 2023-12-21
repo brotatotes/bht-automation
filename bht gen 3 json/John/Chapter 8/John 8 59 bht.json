@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:09:07",
+    "verseRef": "John 8:59",
+    "bestBHT": {
+        "bht": "The Jews' anger towards Jesus stemmed from his claim to be God, prompting them to accuse him of pretending to have seen Abraham. In the midst of their desire to stone him, Jesus disappeared, either by supernatural means or by blending in with his disciples. This event in the temple portrayed a vivid picture of a mob ready to kill Jesus, but he calmly and boldly went out of the temple, quietly escaping their hands.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.054339417762434,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+        "commentatorTierSimilarities": [
+            24.41,
+            43.58,
+            32.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason of the Jews\u2019 doing this is given by them on a similar occasion, for that thou, being a man, makest thyself God.",
+            "There does not appear to be any miraculous escape intended here, although certainly the assumption of one is natural under the circumstances.",
+            "Jesus was probably surrounded by His disciples, and might thus hide Himself and go out of the temple."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No inference can be drawn from this as to the age of our Lord at the time as man.\" ",
+            "Fifty years was with the Jews the completion of manhood.",
+            "They give the opposite turn to it\u2014'Hast Thou seen Abraham?' as an honor too great for Him to pretend to."
+        ],
+        "Albert Barnes": [
+            "The fact that the Jews understood him in this sense is strong proof that his words naturally conveyed the idea that he was divine.",
+            "This was in the temple. Herod the Great had not yet completed its repairs, and Dr. Lightfoot has remarked that stones would be lying around the temple in repairing it, which the people could easily use in their indignation.",
+            "Jesus hid himself - See Luke 4:30. That is, he either by a miracle rendered himself invisible, or he so mixed with the multitude that he was concealed from them and escaped."
+        ],
+        "Marvin Vincent": [
+            "Going through the midst of them, and so passed by. The best texts omit. "
+        ],
+        "John Calvin": [
+            "Hence we infer how great is the madness of inconsiderate zeal; for they have no ears to know the cause, but they have hands ready to commit murder.",
+            "I have no doubt that Christ rescued himself by his secret power, but yet under the appearance of a low condition; for he did not intend to make a clear display of his Divinity without leaving something for human infirmity.",
+            "After having banished Christ, and in this manner profaned the Church, they foolishly glory in the false disguise of a Church."
+        ],
+        "Philip Schaff": [
+            "They took up stones therefore that they might cast them upon him; but Jesus hid himself, and went forth from the temple-courts.",
+            "The Jews were enraged at what they considered blasphemy, and in their rage they would have stoned Him.",
+            "But His hour was not yet come. He hid Himself and went forth from the temple."
+        ],
+        "Archibald T. Robertson": [
+            "The time for argument had past.",
+            "Vivid picture of a mob ready to kill Jesus.",
+            "No Docetic vanishing, but quietly and boldly Jesus went out of the temple."
+        ],
+        "John Gill": [
+            "Should it be asked how they came by their stones in the temple? it may be replied, the temple was still building... and stones, or pieces of stones, might lie about, with which they furnished themselves, in order to have destroyed Christ.\" ",
+            "But Jesus hid himself, not in any corner of the temple, or behind a pillar; but he withdrew himself from them directly, and made himself invisible to them, by holding their eyes, or casting a mist before them, that they could not see him.",
+            "and so passed by, and escaped out of their hands; the last words, going through the midst of them, and so passed by, are not in Beza's most ancient copy, and in the Vulgate Latin version."
+        ],
+        "John Wesley": [
+            "To stone him as a blasphemer.\" ",
+            "Jesus concealed himself - Probably by becoming invisible.\" ",
+            "Passed on - With the same ease as if none had been there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews were furious with Jesus because he had made claims that suggested he was divine. As they prepared to stone him, Jesus miraculously hid himself or blended into the crowd of his disciples, who were likely surrounding him. This escape cannot be used to determine Jesus' age since the completion of manhood for Jews was considered to be at fifty years. The Jews, however, twisted the situation, suggesting that Jesus was too young to have seen Abraham. Jesus left the temple without drawing attention to himself, passing through the midst of the angry mob. It is evident that his departure was not a Docetic vanishing, but a bold and deliberate exit.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.91,
+            "qualityScore": 1.9570308418693871,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+            "commentatorTierSimilarities": [
+                25.04,
+                45.99,
+                28.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews' anger towards Jesus stemmed from his claim to be God, prompting them to accuse him of pretending to have seen Abraham. In the midst of their desire to stone him, Jesus disappeared, either by supernatural means or by blending in with his disciples. This event in the temple portrayed a vivid picture of a mob ready to kill Jesus, but he calmly and boldly went out of the temple, quietly escaping their hands.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.054339417762434,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                24.41,
+                43.58,
+                32.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews' hostility towards Jesus was driven by their belief that he was making himself out to be God. As they sought to stone him, Jesus managed to hide himself, potentially using the crowd surrounding him as cover. His departure from the temple displayed a powerful image of a frenzied mob ready to harm him, but Jesus confidently and purposely slipped away, eluding their grasp. This was not a mere vanishing act, but a deliberate and bold exit from the scene.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.953347902523785,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                23.97,
+                43.17,
+                32.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews were enraged by Jesus' apparent claim to be divine, provoking them to try to stone him. However, Jesus concealed himself, either by becoming invisible or blending in with the crowd of disciples. This escape from their grasp showcased an intense and ominous crowd ready to harm him. Jesus departed the temple with confidence, going through the midst of them without drawing attention, demonstrating a quiet and deliberate exit rather than a miraculous disappearance.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9061305210751778,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                23.89,
+                42.23,
+                33.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews' anger at Jesus arose from their belief that he was asserting his divinity. In response, they prepared to stone him, but Jesus managed to hide himself, possibly through miraculous means or by blending into the crowd of his disciples. This event paints a vivid picture of an angry mob, poised to harm Jesus. Nevertheless, he confidently and boldly left the temple, slipping away without being noticed. Rather than a miraculous vanishing, Jesus quietly escaped their clutches.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9002590945168034,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.53,
+            "commentatorTierSimilarities": [
+                24.7,
+                41.69,
+                33.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

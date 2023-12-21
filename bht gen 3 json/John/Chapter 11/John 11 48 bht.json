@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:10:50",
+    "verseRef": "John 11:48",
+    "bestBHT": {
+        "bht": "Their fear of Jesus being hailed as a king and their concern for their own political stability led the Jewish religious leaders to plot against Him. They didn't hesitate to prioritize their own standing over acknowledging Jesus as the Messiah. By rejecting Him, they unwittingly brought about the very outcome they feared, losing both their place of worship and their national existence. They failed to see the opportunity for the establishment of a spiritual kingdom had they believed in Jesus.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.7471392719395071,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+        "commentatorTierSimilarities": [
+            19.78,
+            48.05,
+            32.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They evidently regarded the result of \u2018all believing on Him,\u2019 as likely to be, that He would be set up as king: which would soon bring about the ruin here mentioned.",
+            "Our place, as in reff.: i.e. our local habitation, and our national existence. Both these literally came to pass.",
+            "Respecting this man\u2019s pretensions, they do not pretend to decide: all they know is that if he is to go on thus, THEIR standing is gone."
+        ],
+        "Albert Barnes": [
+            "They believed, or feigned to believe, that Jesus was intending to set up a temporal kingdom.",
+            "They supposed that it would involve the nation in war if he was not arrested, and that the effect would be that they would be vanquished and destroyed.",
+            "Our place - This probably refers to the temple, Acts 6:13-14. It was called 'the place' by way of eminence, as being the chief or principal place on earth - being the seat of the special worship of God."
+        ],
+        "Marvin Vincent": [
+            "Place, the temple and city.",
+            "Nation, the civil organization.",
+            "In the Sanhedrim were many devoted adherents of Rome, and the rest were well aware of the weakness of the national power."
+        ],
+        "John Calvin": [
+            "They cloak their wickedness by a plausible disguise, their zeal for the public good.",
+            "What is right and lawful gives them no concern, for their whole attention is directed to the consequences.",
+            "They who are desirous to be regarded as prudent and cautious have continually this song in their mouth: 'We must consult the public tranquillity; the reformation which we attempt is not unaccompanied by many dangers.'"
+        ],
+        "Philip Schaff": [
+            "If Jesus (whom they will not recognise in His religious claims) shall be owned as Messiah, and popular tumult shall ensue, all these privileges will be taken away from them.",
+            "Their fear therefore is real; their guilt lay not in a hypocritical pretence of alarm, but in their wilful blindness to the truth.",
+            "Because the Jewish people did not believe in Jesus but rejected Him, the Romans did take away both their \u2018place and nation:\u2019 had they believed they would have been established for ever in the spiritual kingdom of the Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "Suppose we leave him thus alone... Suppose also that he keeps on raising the dead right here next door to Jerusalem!\" ",
+            "The inevitable conclusion, 'all' (\u03c0\u03b1\u03bd\u03c4\u03b5\u03c2), not just 'some' (\u03c4\u03b9\u03bd\u03b5\u03c2). as now.\" ",
+            "Note the order here when 'place' (job) is put before nation (patriotism), for all the world like modern politicians who make the fate of the country turn on their getting the jobs which they are seeking."
+        ],
+        "John Gill": [
+            "If we let him thus alone...all men will believe on him; the whole nation will receive him as the Messiah...\" ",
+            "The Romans will come...and take away both our place and nation.\" ",
+            "...will destroy the temple, their holy place, the place of their religion and worship; and their city, the place of their habitation, and lay waste their country..."
+        ],
+        "John Wesley": [
+            "All men will believe \u2014 And receive him as the Messiah.",
+            "And this will give such umbrage to the Romans that they will come and subvert both our place - Temple; and nation - Both our Church and state.",
+            "For they could not but know, that he that raised the dead was able to conquer the Romans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their fear of Jesus gaining popularity and being hailed as a king led the Jewish religious leaders to plot against Him, fearing that the Romans would take away their temple and nation. They were more concerned about their own standing and political power than recognizing Jesus as the Messiah. They saw Jesus as a threat that could potentially overthrow their religious and civil authority. In their attempt to maintain their position and control, they failed to see the spiritual kingdom that could have been established if they had believed in Jesus. Instead, their rejection of Him resulted in the loss of both their place of worship and their national existence.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7865386682402797,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                19.02,
+                47.64,
+                33.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their fear of Jesus being hailed as a king and their concern for their own political stability led the Jewish religious leaders to plot against Him. They didn't hesitate to prioritize their own standing over acknowledging Jesus as the Messiah. By rejecting Him, they unwittingly brought about the very outcome they feared, losing both their place of worship and their national existence. They failed to see the opportunity for the establishment of a spiritual kingdom had they believed in Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7471392719395071,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "commentatorTierSimilarities": [
+                19.78,
+                48.05,
+                32.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jewish leaders feared Jesus' growing popularity, seeing it as a potential threat to their own standing and political power. They were more concerned with maintaining their position than recognizing Jesus as the Messiah. By rejecting Him, they unknowingly brought about the very outcome they feared, losing both their place of worship and their national existence. Their failure to believe in Jesus prevented them from experiencing the establishment of a spiritual kingdom that could have been theirs.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7396063643148612,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.18,
+            "commentatorTierSimilarities": [
+                20.15,
+                48.4,
+                31.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fears of the Jewish leaders revolved around the potential consequences of Jesus being acknowledged as a king, ultimately resulting in the loss of their place of worship and the destruction of their nation. Their primary concern was their own political stability and retaining their power, rather than recognizing Jesus as the Messiah. However, by rejecting Him, they unknowingly played a hand in bringing about the very outcome they sought to avoid. Their failure to accept Jesus hindered them from embracing the spiritual kingdom that could have been theirs.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6978642207413106,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.8,
+            "commentatorTierSimilarities": [
+                20.51,
+                48.03,
+                31.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jewish leaders' fears centered on Jesus being acknowledged as a king, leading to the loss of their place of worship and the destruction of their nation. Their primary concern was their own political stability and power rather than recognizing Jesus as the Messiah. However, their rejection of Him unwittingly contributed to the very outcome they sought to prevent. By refusing to believe in Jesus, they missed out on the opportunity to participate in the establishment of a spiritual kingdom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.6207982208968597,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                19.65,
+                49.58,
+                30.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

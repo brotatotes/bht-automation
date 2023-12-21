@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:13:00",
+    "verseRef": "John 15:23",
+    "bestBHT": {
+        "bht": "In rejecting Christ, one also rejects the Father, as Christ is the sole embodiment of God to His creation. The weight of sin becomes evident in this rejection, brought about by the revelation that Christ's presence has provided. Dishonoring Christ is tantamount to dishonoring God Himself. Hatred towards Christ implies a corresponding hatred towards the Father, for the two are inseparable. However, followers of Christ can find solace and endure the world's animosity, as it serves as affirmation of their steadfast devotion to God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.1197107799788752,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+        "commentatorTierSimilarities": [
+            43.12,
+            19.48,
+            37.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Human regards, whether of love or of hatred, towards Him who is the only manifestation of the Father to His creatures, are in fact directed towards the Father Himself.",
+            "Human regards, whether of love or of hatred, towards Him who is the only manifestation of the Father to His creatures, are in fact directed towards the Father Himself.",
+            "Human regards, whether of love or of hatred, towards Him who is the only manifestation of the Father to His creatures, are in fact directed towards the Father Himself."
+        ],
+        "Albert Barnes": [
+            "To show them that this was no slight crime, he reminds them that a rejection of himself is also a rejection of God.",
+            "Such is the union between them, that no one can hate the one without also hating the other.",
+            "See John 5:19-20; John 14:7, John 14:9."
+        ],
+        "John Calvin": [
+            "This is a remarkable passage, which teaches us that no man can hate the doctrine of the Gospel without manifesting his impiety against God.",
+            "There are many, indeed, who profess differently in words; for, though they abhor the Gospel, still they wish to be thought very good servants of God; but it is false, for a contempt of God is concealed within.",
+            "In this manner Christ discovers the hypocrisy of many by the light of his doctrine."
+        ],
+        "Philip Schaff": [
+            "He that hateth me hateth my Father also.",
+            "In hating Jesus the world was also setting itself against that very God whom it professed to honour.",
+            "Not they who inflicted suffering, but they who suffered, were the conquerors."
+        ],
+        "Archibald T. Robertson": [
+            "Because Christ reveals God and to dishonour Christ is to dishonour God.",
+            "The coming of Christ has revealed the weight of sin on those who reject him."
+        ],
+        "John Gill": [
+            "The hatred the world bears to the followers of Christ, is interpretatively hatred to Christ himself; and hatred to Christ himself, is no other than hatred to his Father.",
+            "Indeed, all the hatred that is shown by the men of the world to Christ, to his Gospel, and to his faithful ministers and followers, originally arises from that enmity, that is naturally in the heart of every unregenerate man against God.",
+            "Now since not only Christ, but the Father also, is hated by the world, the children of God and disciples of Christ may sit easier under all the resentment, frowns, and malice of the world."
+        ],
+        "John Wesley": [
+            "He that hateth me \u2014 As every unbeliever doth, For as the love of God is inseparable from faith, so is the hatred of God from unbelief."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To reject Christ is to reject the Father himself, for Christ is the manifestation of God to humanity. The weight of sin is revealed in the rejection of Christ, as the coming of Christ has exposed the true nature of those who refuse to acknowledge him. This rejection is not to be taken lightly, as it is a dishonor to God himself. Those who hate Christ also hate the Father, and their enmity towards Christ is ultimately rooted in their enmity towards God. But for the followers of Christ, this hatred should not cause fear or dismay, for it is a sign of their true allegiance to God.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.200830199740764,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.52,
+            "commentatorTierSimilarities": [
+                42.37,
+                20.1,
+                37.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To disregard Christ is to disregard the Father, as Christ serves as the only representation of God to His creation. Hatred or love towards Christ is, in truth, directed towards God Himself. Rejecting Christ signifies a rejection of God, and thus the weight of sin becomes apparent on those who refuse Him. This rejection is a dishonor to God. Those who detest Christ also hold hostility towards the Father, as the hatred towards Christ is, effectively, a hatred towards God. Nonetheless, believers can find solace in the face of this opposition, for it confirms their devotion to God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.100385723104198,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                41.26,
+                20.78,
+                37.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To reject Christ is to reject the Father Himself, for Christ is the only manifestation of God to His creatures. The weight of sin is revealed in the rejection of Christ, as the coming of Christ has exposed the true nature of those who refuse to acknowledge Him. This rejection is a dishonor to God Himself. Those who hate Christ also hate the Father, and their enmity towards Christ is ultimately rooted in their enmity towards God. But for the followers of Christ, this hatred should not cause fear or dismay, for it is a sign of their true allegiance to God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.2295902533639715,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.47,
+            "commentatorTierSimilarities": [
+                42.75,
+                20.53,
+                36.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In rejecting Christ, one also rejects the Father, as Christ is the sole embodiment of God to His creation. The weight of sin becomes evident in this rejection, brought about by the revelation that Christ's presence has provided. Dishonoring Christ is tantamount to dishonoring God Himself. Hatred towards Christ implies a corresponding hatred towards the Father, for the two are inseparable. However, followers of Christ can find solace and endure the world's animosity, as it serves as affirmation of their steadfast devotion to God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.1197107799788752,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+            "commentatorTierSimilarities": [
+                43.12,
+                19.48,
+                37.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rejecting Christ is, in fact, rejecting the Father, as Christ represents God to His creation. The rejection of Christ unveils the weight of sin on those who refuse to acknowledge Him. This rejection dishonors God Himself. Hatred towards Christ is inherently hatred towards the Father, for the two are intertwined. Yet, believers can find comfort in the face of this hostility, as it confirms their allegiance to God. The enmity of the world towards Christ and His followers stems from the innate enmity towards God in the hearts of the unregenerate.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.075861432457177,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.36,
+            "commentatorTierSimilarities": [
+                41.53,
+                21.25,
+                37.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

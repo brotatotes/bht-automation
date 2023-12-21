@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:06:35",
+    "verseRef": "John 5:36",
+    "bestBHT": {
+        "bht": "The works Jesus did were not simply displays of power, but means to awaken faith. They were the very works the Father had given Him and were a greater witness than John's. These works bore the seal of the Father's approval and revealed Jesus as the promised Messiah. Every word and deed of Jesus was a testimony to the truth that the Father had sent Him, revealing the presence of the Father and manifestly showing Jesus as the Son of God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.0155458785855616,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.36,
+        "commentatorTierSimilarities": [
+            27.01,
+            34.84,
+            38.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His greatest work was the awakening of faith, the quickening of which we have heard before, to which the miracles were but as means to an end.",
+            "The works which the Father hath given me to do, those very works which I am doing.",
+            "Yet there is a form of this direct testimony of the Father, accessible even to you;\u2014 'Search the Scriptures,'&c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The witness which I have is greater.",
+            "The works... bear witness of me.",
+            "These miracles, as He did them, with a will and a power, a majesty and a grace manifestly His own."
+        ],
+        "Albert Barnes": [
+            "Greater witness - Stronger, more decisive evidence.\" ",
+            "The works - The miracles - healing the sick and raising the dead.\" ",
+            "To finish - To do or to perform until the task is completed."
+        ],
+        "Marvin Vincent": [
+            "The witness which I have is greater.",
+            "Hath given.",
+            "The very works."
+        ],
+        "John Calvin": [
+            "He wishes to be recognized as the Messiah promised by God, that he may be heard, and, therefore, he maintains that he is now manifested to be such a person as Scripture describes him.",
+            "Those miracles which God performed by the agency of the Prophets did not go beyond the purpose for which they were intended... But God intended to exalt his Son more highly, and this purpose of God ought to be regarded by us as the design of miracles.",
+            "Therefore, if the Jews had not been prejudiced by malice and voluntarily shut their eyes, Christ might easily have proved to them by his miracles who and what he was."
+        ],
+        "Philip Schaff": [
+            "The witness that I have is greater than that of John.",
+            "The evidence is works that the Father hath given Him to accomplish; and these works are His evidence, not as external evidence merely, but because, as expressive of the Father in Him, they appeal to that inner light in men which ought to have led men to recognize the Father in the Son.",
+            "Every word and every deed of Jesus is, as a work, bearing testimony to the truth that the Father hath sent Him; for, where the heart of the beholder is prepared, every work reveals the presence of the Father, and is manifestly a work of God."
+        ],
+        "Archibald T. Robertson": [
+            "But I have the witness greater than John's.",
+            "The works bear the seal of the Father's approval and to reject their witness is wrong.",
+            "The continuance of the witness is emphasized."
+        ],
+        "John Gill": [
+            "Christ had a greater witness than the witness of John.",
+            "These works include not only what Christ did on earth, but what he has done since and will do.",
+            "The same works that I do, bear witness of me, that the Father hath sent me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The works that Jesus did, the miracles that He performed, were not just a display of His power, but a means to awaken faith in those who witnessed them. These works were the very works that the Father had given Him to do, acts that bore the seal of the Father's approval. In fact, these works were a greater witness than that of John the Baptist, for they revealed Jesus as the Messiah promised by God. The evidence of these works, which included healing the sick and raising the dead, was stronger and more decisive than any external testimony. Every word and every deed of Jesus, as a work, bore testimony to the truth that the Father had sent Him, revealing the presence of the Father and manifestly showing that Jesus was indeed the Son of God.",
+            "wordCount": 138,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 2.029608343968614,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.83,
+            "commentatorTierSimilarities": [
+                24.82,
+                35.83,
+                39.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The works Jesus did were not simply displays of power, but means to awaken faith. They were the very works the Father had given Him and were a greater witness than John's. These works bore the seal of the Father's approval and revealed Jesus as the promised Messiah. Every word and deed of Jesus was a testimony to the truth that the Father had sent Him, revealing the presence of the Father and manifestly showing Jesus as the Son of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.0155458785855616,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.36,
+            "commentatorTierSimilarities": [
+                27.01,
+                34.84,
+                38.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The works that Jesus performed were not mere acts of power, but served a greater purpose of awakening faith in those who witnessed them. These works were given to Him by the Father and were a testament to His divine mission. The works bore the seal of the Father's approval, validating Jesus as the promised Messiah. They were a powerful witness, surpassing even the testimony of John the Baptist. Through these works, Jesus manifested the presence of the Father and established Himself as the Son of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9284568630127157,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                25.52,
+                34.03,
+                40.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The works that Jesus performed were not merely to display His power, but had a greater purpose of awakening faith in those who witnessed them. These works were given to Him by the Father as a means of testifying His divine mission. They served as a powerful witness, even greater than the testimony of John the Baptist. The works bore the seal of the Father's approval, solidifying Jesus as the promised Messiah. Through these works, He manifested the presence of the Father and demonstrated His identity as the Son of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9687056483426848,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                25.98,
+                33.82,
+                40.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The works Jesus performed were not just a demonstration of power, but had a greater purpose of awakening faith. These works were given to Him by the Father and served as a powerful witness, even greater than that of John the Baptist. They bore the seal of the Father's approval and revealed Jesus as the promised Messiah. Every word and deed of Jesus was a testimony to the truth that the Father had sent Him, manifesting the presence of the Father and confirming Jesus as the Son of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9945868557086883,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.66,
+            "commentatorTierSimilarities": [
+                25.98,
+                35.33,
+                38.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

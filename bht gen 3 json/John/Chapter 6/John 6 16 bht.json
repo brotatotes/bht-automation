@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:06:42",
+    "verseRef": "John 6:16",
+    "bestBHT": {
+        "bht": "As evening fell, the disciples were constrained to reluctantly leave Jesus and go down to the sea. This late evening differed from the early evening and may have been marked by their reluctance to part with Him and their hesitation to set sail at night, leaving Jesus alone on the mountain. Jesus, for His part, desired to conceal Himself until the crowd dispersed. The disciples, following Jesus's orders, descended to the sea, creating an opportunity for solitude and prayer.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 1.856046269416233,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+        "commentatorTierSimilarities": [
+            25.71,
+            41.56,
+            32.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Even, here, will be during the time between the 'evening' of Matt. xiv. 15, and that of the same, ver. 23.",
+            "The Jews commonly reckoned two evenings: see the note on Matt. xxvi. 17, p. 182, bottom of col. 1.",
+            "Went down by the command of Jesus (Matthew, Mark)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word 'constrained' implies reluctance on their part, perhaps from unwillingness to part with their Master and embark at night, leaving Him alone on the mountain.",
+            "The place they left was of the same name.",
+            "They probably lingered in hopes of His still joining them, and so let the darkness come on."
+        ],
+        "Marvin Vincent": [
+            "Even [\u03bf\u03c8\u03b9\u03b1] . An adjective; oyiov, late with wra, hour, understood."
+        ],
+        "John Calvin": [
+            "Christ undoubtedly intended to conceal himself until the crowd should disperse.",
+            "Meanwhile, he spent all that time in prayer, as the other Evangelists relate; probably, that God the Father might repress that folly of the people.",
+            "The advantage extended still farther; for next day all the people would easily see that he had not been brought thither by a boat or ship, but that he had come by his own power."
+        ],
+        "Philip Schaff": [
+            "Before Jesus retired to the mountain He had constrained His disciples to leave Him for the shore.\" ",
+            "When they had left He dismissed the people, withdrawing from them.",
+            "Probably by exercising such influence as is implied in chap. John 5:13, John 8:59, John 10:39."
+        ],
+        "Archibald T. Robertson": [
+            "It is late evening (real evening), not the early evening in mid-afternoon.",
+            "The disciples were in no hurry to start back to Bethsaida in Galilee.",
+            "Capernaum in John (John 6:17)."
+        ],
+        "John Gill": [
+            "The last of the evenings, when night was coming on...\" ",
+            "His disciples went down unto the sea...by the order, and even constraint of Christ\" ",
+            "that he might be clear of the multitude, and have an opportunity for solitary prayer"
+        ],
+        "John Wesley": [
+            "Matthew 14:22; Mark 6:45."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As evening fell, the disciples were reluctant to leave Jesus and embark on the sea, but Jesus commanded them to go ahead while he remained on the mountain alone. The disciples likely lingered, hoping Jesus would join them, ultimately allowing darkness to envelop them. Jesus, on his part, intended to conceal himself until the crowd dispersed. In the late evening, the disciples made their way down to the sea by Jesus's order, creating an opportunity for solitude and prayer.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8531658177537964,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                25.09,
+                41.41,
+                33.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As evening fell, the disciples were constrained to reluctantly leave Jesus and go down to the sea. This late evening differed from the early evening and may have been marked by their reluctance to part with Him and their hesitation to set sail at night, leaving Jesus alone on the mountain. Jesus, for His part, desired to conceal Himself until the crowd dispersed. The disciples, following Jesus's orders, descended to the sea, creating an opportunity for solitude and prayer.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.856046269416233,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.06,
+            "commentatorTierSimilarities": [
+                25.71,
+                41.56,
+                32.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As evening descended, the disciples were constrained to depart from Jesus and make their way down to the sea. The disciples likely hesitated, clinging to the hope that Jesus would join them and not wanting to embark in the darkness of night, leaving Him alone on the mountain. Jesus intended to conceal Himself until the crowd dispersed, finding solace in solitude and prayer. Following Jesus's command, the disciples went down to the sea, creating a space for reflection and communion with God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7330415157627215,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                24.14,
+                41.42,
+                34.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As evening fell, the disciples were reluctant to leave Jesus and embark on the sea, but Jesus commanded them to go ahead while he remained on the mountain alone. The disciples likely lingered, hoping Jesus would join them, and let darkness come on. Jesus intended to conceal himself until the crowd dispersed, finding solace in solitude and prayer. The disciples went down to the sea by Jesus's order, creating an opportunity for solitude and communion with God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7436079571602958,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "commentatorTierSimilarities": [
+                23.66,
+                40.21,
+                36.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As evening fell, the disciples, feeling constrained, hesitated to leave Jesus and venture out onto the sea. Reluctant to part with their Master and embark in the darkness, they likely lingered, waiting for Jesus to join them. Jesus, desiring to conceal himself until the crowd dispersed, sought solace in solitary prayer. Following Jesus's order, the disciples reluctantly descended to the sea, creating an opportunity for both reflection and communion with God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.7235921040103985,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                25.0,
+                41.11,
+                33.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

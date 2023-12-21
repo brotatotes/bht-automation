@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:04:15",
+    "verseRef": "John 1:45",
+    "bestBHT": {
+        "bht": "Nathanael, meaning the gift of God, is mentioned only in two places, possibly the same person as Bartholomew. Jesus being the eternal Word who became flesh suggests a supernatural conception. Philip unites himself with believers by using the same phrase about Jesus. Describing Jesus as the son of Joseph from Nazareth reflects common perception. This confession acknowledges Jesus as the fulfillment of the law and the prophets. Despite humble beginnings, we should recognize divine glory in the early Church, as teaching's purpose is to lead others to Christ.",
+        "wordCount": 89,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.8001781914259882,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+        "commentatorTierSimilarities": [
+            25.25,
+            40.8,
+            33.95
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nathanael (meaning, 'the gift of God,' corresponding to Theodore or Theodosius in Greek) is mentioned only in these two places.\" ",
+            "It has been supposed that Nathanael and Bartholomew were the same person (see note on Matt. x. 3). This is however mere conjecture.",
+            "By combining the two declarations of John, that in Jesus the Eternal Word of God became flesh (ver. 14), and that \u2018that which is born of the flesh is flesh\u2019 (ch. iii. 6), we cannot escape the inference, that a supernatural working of God in the conception of the Ban Christ Jesus is implied."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "45. Nathanael\u2014(See on :-). ",
+            "\t",
+            "Moses\u2014(See :-). ",
+            "\t",
+            "son of Joseph\u2014the",
+            "\tcurrent way of speaking. (See :-)."
+        ],
+        "Albert Barnes": [
+            "Moses, in that part of the Old Testament which he wrote, called by the Jews 'the law.'\" ",
+            "They spoke of him as the son of Joseph because he was commonly supposed to be.",
+            "They spoke of him as dwelling at Nazareth, though they might not have been ignorant that he was born at Bethlehem."
+        ],
+        "John Calvin": [
+            "Though proud men despise these feeble beginnings of the Church, yet we ought to perceive in them a brighter display of the divine glory...\" ",
+            "His modesty, too, is remarkable, in desiring and seeking nothing else than to have others learn along with him, from Him who is a Teacher common to all.",
+            "We see, then, that the chief design of doctrine is, that those who hear us should come to Christ in some way or other."
+        ],
+        "Philip Schaff": [
+            "We have found him of whom Moses in the law and the prophets did write, Jesus of Nazareth, the son of Joseph.",
+            "He does not speak of Jesus simply as the Messiah, but as the fulfillment of the law and the prophets.",
+            "There is an advance in fullness on the confession of John 1:41, and the special character of the advance is important; it helps to explain the words of the following verse."
+        ],
+        "Archibald T. Robertson": [
+            "If that glorious beginning had only kept on! Now it takes a hundred to win one.",
+            "Philip uses \u03b5\u03c5\u03c1\u03b7\u03ba\u03b1\u03bc\u03b5\u03bd (verse John 1:41) also to Nathanael and so unites himself with the circle of believers.",
+            "Jesus, son of Joseph, the one from Nazareth."
+        ],
+        "John Gill": [
+            "And saith unto him, we have found him of whom Moses, in the law, and the prophets, did write.\" ",
+            "And Philip having given this general account of him, proceeds to name him particularly.",
+            "That his name was Jesus, which signifies a saviour; and answers to the promises, and prophecies, and character of him in the Old Testament."
+        ],
+        "John Wesley": [
+            "Nathanael was probably the same with Bartholomew, that is, the son of Tholomew.",
+            "St. Matthew joins Bartholomew with Philip, Matthew 10:3.",
+            "St. John places Nathanael in the midst of the apostles, immediately after Thomas, John 21:2, just as Bartholomew is placed, Acts 1:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nathanael, whose name means the gift of God, is mentioned only in two places in the Bible, and some speculate that he might be the same person as Bartholomew. By combining the declarations that Jesus is the eternal Word who became flesh and that what is born of flesh is flesh, we can infer a supernatural working of God in the conception of Jesus. Philip joins himself with the circle of believers by using the same phrase he used to tell Nathanael about Jesus. The mention of Jesus as the son of Joseph from Nazareth reveals the common perception of who he was. It is significant that they specifically refer to him as the fulfillment of the law and the prophets. Despite humble beginnings, we should recognize the divine glory in the early stages of the Church. Nathanael's humility shines through as he seeks to learn from Jesus. The purpose of teaching is to lead others to Christ.",
+            "wordCount": 159,
+            "quoteTokenProportion": 38.95,
+            "qualityScore": 1.7471130939176898,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "commentatorTierSimilarities": [
+                23.61,
+                40.64,
+                35.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nathanael, meaning the gift of God, is mentioned only in two places, possibly the same person as Bartholomew. Jesus being the eternal Word who became flesh suggests a supernatural conception. Philip unites himself with believers by using the same phrase about Jesus. Describing Jesus as the son of Joseph from Nazareth reflects common perception. This confession acknowledges Jesus as the fulfillment of the law and the prophets. Despite humble beginnings, we should recognize divine glory in the early Church, as teaching's purpose is to lead others to Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.8001781914259882,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                25.25,
+                40.8,
+                33.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Nathanael, known as the gift of God, is mentioned only twice and is possibly Bartholomew. The idea of Jesus being the Word made flesh implies a supernatural conception. Philip's use of the same phrase connects him with the believers. Describing Jesus as the son of Joseph from Nazareth reflects the common perception. This confession acknowledges Jesus as the fulfillment of the law and the prophets. Despite modest beginnings, we should recognize divine glory in the early Church and the purpose of teaching to lead others to Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.73053514837595,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                23.7,
+                41.4,
+                34.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nathanael, also known as Bartholomew, is mentioned only twice. The idea of Jesus being the Word made flesh implies a supernatural conception. Describing Jesus as the son of Joseph from Nazareth reflects the common perception. This confession acknowledges Jesus as the fulfillment of the law and the prophets. We should recognize divine glory in the early Church, despite its humble beginnings. Teaching's purpose is to lead others to Christ.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6709891750324473,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.9,
+            "commentatorTierSimilarities": [
+                22.15,
+                42.09,
+                35.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nathanael, whose name means the gift of God, is mentioned only in two places in the Bible. Some speculate that he might be the same person as Bartholomew. By combining the declarations that Jesus is the eternal Word who became flesh and that what is born of flesh is flesh, we can infer a supernatural working of God in the conception of Jesus. Philip joins himself with the circle of believers by using the same phrase he used to tell Nathanael about Jesus. The mention of Jesus as the son of Joseph from Nazareth reveals the common perception of who he was. It is significant that they specifically refer to him as the fulfillment of the law and the prophets. Despite humble beginnings, we should recognize the divine glory in the early stages of the Church. Nathanael's humility shines through as he seeks to learn from Jesus. The purpose of teaching is to lead others to Christ.",
+            "wordCount": 158,
+            "quoteTokenProportion": 38.95,
+            "qualityScore": 1.7037142253412974,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.99,
+            "commentatorTierSimilarities": [
+                23.78,
+                40.43,
+                35.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

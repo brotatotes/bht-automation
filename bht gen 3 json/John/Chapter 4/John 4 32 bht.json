@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:05:49",
+    "verseRef": "John 4:32",
+    "bestBHT": {
+        "bht": "Unaware of the divine work in the Samaritan woman's soul, Jesus tells his disciples that he has been consuming a different kind of sustenance. While they are confused by his words, Jesus understands their thoughts and emphasizes the spiritual nourishment he receives from fulfilling his Father's will. Through this metaphor of eating and drinking, he prioritizes the kingdom of God over bodily comforts, displaying the value and delight he finds in the harvest of souls.",
+        "wordCount": 77,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.8297739258795382,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+        "commentatorTierSimilarities": [
+            28.66,
+            24.5,
+            46.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The bodily thirst (and hunger probably, from the time of day) which our Lord had felt before, had been and was forgotten in the carrying on of His divine work in the soul of this Samaritan woman.",
+            "Although I and you are emphatic, the words are not spoken in blame, for none was deserved: but in fulness and earnestness of spirit.",
+            "In a feeling analogous to that which comes upon us when called from high and holy employment to the supply of the body or to the business of this world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have been eating all the while, and such food as ye dream not of.",
+            "What can that be? they ask each other; have any supplies been brought Him in our absence?",
+            "He knows what they are saying though He hears it not."
+        ],
+        "Albert Barnes": [
+            "I have meat to eat - See John 4:34."
+        ],
+        "Marvin Vincent": [
+            "Meat (brwsin). Originally the act of eating (Colossians 2:16), but often of that which is eaten. A parallel is found in the vulgar phrase, a thing is good or poor eating.\" ",
+            "The word is always used by Paul in its original sense.",
+            "Know not of [\u03bf\u03c5\u03ba \u03bf\u03b9\u03b4\u03b1\u03c4\u03b5] . Incorrect. Rev., rightly, ye know not; i.e., you do not know its virtue."
+        ],
+        "John Calvin": [
+            "He only points out what he must do first, and what must be done afterwards; and thus he shows, by his example, that the kingdom of God ought to be preferred to all the comforts of the body.",
+            "He who shall place it before him as the end of life to serve the Lord, from which we are not at liberty to turn aside even for the immediate danger of death, will certainly reckon it to be of more value than eating and drinking.",
+            "The metaphor of eating and drinking is so much the more graceful on this occasion, that it was drawn seasonably from the present discourse."
+        ],
+        "Philip Schaff": [
+            "I have meat to eat that ye know not.\" ",
+            "This 'eating' the disciples 'knew not. The common rendering entirely obscures the meaning: our Lord does not say 'know not of, but 'know not,' ye have no experience of it.",
+            "As yet, they had not learned the power of such work as His (the complete fulfilment of His Father\u2019s will, John 4:34) to satisfy every want."
+        ],
+        "Archibald T. Robertson": [
+            "Meat (\u03b2\u03c1\u03c9\u03c3\u03b9\u03bd). Originally the act of eating (Romans 14:17) from \u03b2\u03b9\u03b2\u03c1\u03c9\u03c3\u03ba\u03c9, but soon and commonly as that which is eaten like \u03b2\u03c1\u03c9\u03bc\u03b1 once in John (verse John 4:34).",
+            "So here and John 6:27; John 6:55. Cf. vernacular English 'good eating,' 'good eats.'",
+            "I ... ye (\u03b5\u03b3\u03c9 ... \u03c5\u03bc\u03b5\u03b9\u03c2). Emphatic contrast. Spiritual food Jesus had."
+        ],
+        "John Gill": [
+            "I have meat to eat that ye know not of: meaning the conversion of the Samaritan woman, and of other Samaritans, who were flocking in great numbers to him, which he knew, though his disciples did not...",
+            "...and the harvest of souls he had a prospect of, see John 4:35, was as meat unto him, delightful and refreshing...",
+            "...his mind and thoughts were so taken up with these things, that he had no inclination to any corporeal food."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Unaware of the divine work being done in the soul of the Samaritan woman, Jesus tells his disciples, I have been eating all the while, and such food as ye dream not of. They are puzzled by his words, wondering if someone had brought him food. Yet, Jesus knows their thoughts, and in these words, he emphasizes the spiritual nourishment he receives from fulfilling his Father's will. The disciples, however, do not yet understand the power of this work to satisfy every need. Through this metaphor of eating and drinking, Jesus prioritizes the kingdom of God over bodily comforts, displaying the value and delight he finds in the harvest of souls.",
+            "wordCount": 112,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.8224557508788597,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.94,
+            "commentatorTierSimilarities": [
+                30.93,
+                27.39,
+                41.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Unaware of the divine work in the Samaritan woman's soul, Jesus tells his disciples that he has been consuming a different kind of sustenance. While they are confused by his words, Jesus understands their thoughts and emphasizes the spiritual nourishment he receives from fulfilling his Father's will. The disciples, however, do not yet comprehend this satisfying power. Through this metaphor of eating and drinking, Jesus prioritizes the kingdom of God over bodily comforts, showing the value and delight he finds in the harvest of souls.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7536413022335033,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                30.04,
+                26.15,
+                43.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Unaware of the divine work in the Samaritan woman's soul, Jesus tells his disciples that he has been consuming a different kind of sustenance. While they are confused by his words, Jesus understands their thoughts and emphasizes the spiritual nourishment he receives from fulfilling his Father's will. Through this metaphor of eating and drinking, he prioritizes the kingdom of God over bodily comforts, displaying the value and delight he finds in the harvest of souls.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8297739258795382,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                28.66,
+                24.5,
+                46.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Unaware of the divine work in the Samaritan woman's soul, Jesus tells his disciples that he has been consuming such food as ye dream not of. Although the disciples are perplexed, Jesus understands their thoughts. He emphasizes the spiritual nourishment he receives from fulfilling his Father's will, contrasting it with the bodily needs of hunger and thirst. Through the metaphor of eating and drinking, Jesus highlights the value he places on the kingdom of God, showing that it surpasses temporal comforts and finds fulfillment in the harvest of souls.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7866620365121157,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                31.26,
+                24.33,
+                44.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unaware of the divine work in the Samaritan woman's soul, Jesus shares with his disciples that he has been consuming such food as ye dream not of. Although the disciples are puzzled, Jesus comprehends their thoughts. He emphasizes the spiritual nourishment he receives from fulfilling his Father's will, contrasting it with bodily hunger and thirst. Through the metaphor of eating and drinking, Jesus demonstrates the superiority of the kingdom of God over worldly comforts, finding delight and satisfaction in the harvest of souls.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7752461179096848,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                31.45,
+                24.75,
+                43.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:14:04",
+    "verseRef": "John 17:26",
+    "bestBHT": {
+        "bht": "The purpose of this expression is to reveal the manifestation of God's Name through the work and testimony of the Spirit in the Kingdom of God. Through this revelation, the remarkable Love that God has for Christ takes up its permanent abode in believers. It is through Christ dwelling in their hearts by faith and renewing them by His Spirit that this love becomes a reality. Jesus, in His final moments, imparts the most profound and glorious sentiments, emphasizing the perpetual mission of Christ through the Spirit.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.062291312078375,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.91,
+        "commentatorTierSimilarities": [
+            43.23,
+            29.96,
+            26.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The making known, here spoken of, is carried on by the whole work and testimony of the Spirit completed in the Kingdom of God.",
+            "And the great result of this manifestation of the Father\u2019s Name is, that the wonderful Love wherewith He loved Christ, may dwell in them.",
+            "And this can only be by I in them\u2014by Christ dwelling in their hearts by faith, and renewing and enlightening them by His Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And I have declared\u2014I made known or communicated.",
+            "This eternal love of the Father, resting first on Christ, is by His Spirit imparted to and takes up its permanent abode in all that believe in Him.",
+            "He has compressed into the last moments given Him for conversation with His own the most sublime and glorious sentiments ever uttered by mortal lips."
+        ],
+        "Albert Barnes": [
+            "The discourse in John 14:0; John 15:0; John 16:0 is the most tender and sublime that was ever pronounced in our world.",
+            "No composition can be found anywhere so fitted to sustain the soul in trial or to support it in death.",
+            "This prayer for the church will yet be fully answered; and he who loves the church and the world cannot but cast his eyes onward to that time when all believers shall be one."
+        ],
+        "John Calvin": [
+            "Though he speaks of the apostles, we ought to draw from this a general exhortation, to study to make constant progress, and not to think that we have run so well that we have not still a long journey before us, so long as we are surrounded by the flesh.",
+            "That the love with which thou hast loved me may be in them; that is, that thou mayest love them in me, or, that the love with which thou hast loved me may be extended to them.",
+            "This clause deserves our attention, for it teaches us that the only way in which we are included in that love which he mentions is, that Christ dwells in us; for, as the Father cannot look upon his Son without having likewise before his eyes the whole body of Christ, so, if we wish to be beheld in him, we must be actually his members."
+        ],
+        "Philip Schaff": [
+            "How exhaustive is the mode in which Jesus teaches the 'name' of God, the revelation of the Father in the Son, 'I made it known to them; they know; I shall make it known to them!'",
+            "Thus the third section of the prayer closes, its main burden having been that the whole Church of God, believers of every age and country, may be so brought to and kept in the unity of the Father and the Son that the glory of the Son in the Father may be theirs.",
+            "For then, the conflicts of this world ended, they shall be partakers of the fullness of that love of the Father which shall encompass them as it encompassed the Son before the foundation of the world, pure, undimmed, undisturbed by the presence of either sin or sorrow, the Father in the Son and the Son in them, all in perfect holiness and blessedness consummated into One."
+        ],
+        "Archibald T. Robertson": [
+            "Future active of \u03b3\u03bd\u03c9\u03c1\u03b9\u03b6\u03c9, the perpetual mission of Christ through the Spirit.",
+            "The perpetual mission of Christ through the Spirit as he himself has done heretofore.",
+            "Cognate accusative relative with \u03b7\u03b3\u03b1\u03c0\u03b7\u03c3\u03b1\u03c2 which has also the accusative of the person \u03bc\u03b5 (me)."
+        ],
+        "John Gill": [
+            "A very fit person Christ was to make this declaration, since he was with him from all eternity, and was in his bosom.",
+            "Nor is anything of God to be known savingly, but in and through Christ.",
+            "That a sense of that love with which God loves his Son, as Mediator, might be in them and abide in them."
+        ],
+        "John Wesley": [
+            "I have declared to them thy name \u2014 Thy new, best name of love.",
+            "That the love wherewith thou hast loved me - That thou and thy love, and I and my love, may be in them.",
+            "That they may love me with that love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose of John 17:26 is to reveal the manifestation of the Father's Name through the work and testimony of the Spirit in the Kingdom of God. This manifestation results in the amazing Love that God has for Christ dwelling within believers. This can only happen through Christ dwelling in their hearts by faith and renewing them through His Spirit. In the last moments of His conversation with His disciples, Jesus utters the most sublime and glorious sentiments ever spoken, exemplifying the perpetual mission of Christ through the Spirit. Through this verse, believers are urged to continually strive for progress and to understand that they are included in God's love through their union with Christ.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9899191627362216,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                39.91,
+                32.98,
+                27.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of this passage is to reveal the manifestation of the Father's Name through the work and testimony of the Spirit in the Kingdom of God. This results in the Love that God has for Christ dwelling within believers. Christ dwells in their hearts by faith, renewing them through His Spirit. In His final moments with His disciples, Jesus speaks the most glorious and sublime sentiments ever uttered, exemplifying the perpetual mission of Christ through the Spirit. Believers are encouraged to constantly progress and understand their union with Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.9096401041080022,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                42.01,
+                31.49,
+                26.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of this verse is to reveal the manifestation of the Father's Name through the work and testimony of the Spirit in the Kingdom of God. As a result, the Love that God has for Christ dwells within believers. Christ resides in their hearts by faith, renewing them through His Spirit. In His final moments with His disciples, Jesus speaks the most glorious and sublime sentiments ever uttered, exemplifying the perpetual mission of Christ through the Spirit. Believers are reminded to constantly progress and grow in their union with Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9235882874502126,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.3,
+            "commentatorTierSimilarities": [
+                42.73,
+                30.2,
+                27.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The purpose of this expression is to reveal the manifestation of the Father's Name through the work and testimony of the Spirit in the Kingdom of God. As a result, the wondrous Love that God has for Christ dwells within believers. This can only occur by Christ dwelling in their hearts through faith, renewing and enlightening them by His Spirit. In His final moments with His own, Jesus conveys the most sublime and glorious sentiments ever proclaimed by mortal lips, exemplifying the perpetual mission of Christ through the Spirit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.030632423715519,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.86,
+            "commentatorTierSimilarities": [
+                42.97,
+                31.48,
+                25.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The purpose of this expression is to reveal the manifestation of God's Name through the work and testimony of the Spirit in the Kingdom of God. Through this revelation, the remarkable Love that God has for Christ takes up its permanent abode in believers. It is through Christ dwelling in their hearts by faith and renewing them by His Spirit that this love becomes a reality. Jesus, in His final moments, imparts the most profound and glorious sentiments, emphasizing the perpetual mission of Christ through the Spirit.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.062291312078375,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.91,
+            "commentatorTierSimilarities": [
+                43.23,
+                29.96,
+                26.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:05:26",
+    "verseRef": "John 4:14",
+    "bestBHT": {
+        "bht": "The living water offered by Jesus surpasses earthly sources in its ability to satisfy deep longings. It is a divine life principle that enters the depths of personal being, continually flowing forth and meeting every holy desire. In contrast to temporal provisions, this water is a single act of drinking that fulfills all needs. Once tasted, it becomes an everlasting fountain of life, producing a connection between believers and Christ through the Holy Spirit. Whoever partakes of this living water shall never thirst again, finding true satisfaction and refreshment.",
+        "wordCount": 89,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1469258075662094,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+        "commentatorTierSimilarities": [
+            30.33,
+            35.22,
+            34.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The manna was as insufficient to satisfy hunger,\u2014as this water, thirst... it is only the living water, and the bread of life, which can satisfy.",
+            "Whosoever shall have drunk sets forth the once having tasted, and ever continuing in the increasing power, and living forth-flowing, of that life-long draught. Shall thirst no more for ever, shall never have to go away and be exhausted, and come again to be filled.",
+            "All earthly supplies have access only into those lower parts of our being... but the heavenly gift of spiritual life... enters into the very secret and highest place of their personal life."
+        ],
+        "Albert Barnes": [
+            "The grace of Christ is 'as cold waters to a thirsty soul.'",
+            "He who drinks this will not wish to seek for happiness in other objects. 'Satisfied' with the grace of Christ, he will not desire the pleasures and amusements of this world.",
+            "Religion always lives; and, amid all changes of external circumstances... it still lives on, and refreshes and cheers the soul."
+        ],
+        "Marvin Vincent": [
+            "The drinking of the living water is put as a single act, in order to indicate the divine principle of life as containing in itself alone the satisfaction of all holy desires as they successively arise; in contrast with human sources, which are soon exhausted, and drive one to other fountains.",
+            "Thirst is to be taken in the same sense in both clauses, as referring to that natural craving which the world cannot satisfy, and which is therefore ever restless.",
+            "Christ in a believer is life. This life ever tends toward its divine source, and issues in eternal life."
+        ],
+        "Philip Schaff": [
+            "But whosoever hath drunk of the water that I shall give him shall never thirst; but the water that I shall give him shall become in him a fountain of springing water, unto eternal life.",
+            "The living water of which Jesus speaks becomes in him who hath drunk of it a perennial fountain, a fountain of water that is ever springing up in freshness and life.",
+            "The Holy Spirit is the special gift of Jesus; and, reciprocally, it is through the Holy Spirit that the believer remains united to his Lord in an abiding fellowship."
+        ],
+        "Archibald T. Robertson": [
+            "Shall never thirst...the strongest possible negative.\" ",
+            "Jesus has not answered the woman's question save by the necessary implication here that he is superior to Jacob.",
+            "'Spring (or fountain) of water leaping (bubbling up) unto life eternal.' The woman's curiosity is keenly excited about this new kind of water."
+        ],
+        "John Gill": [
+            "Whoever truly partakes [of the Spirit and His grace] shall never thirst.\" ",
+            "[Regenerate persons] do not hanker after sin as they did, nor drink up iniquity like water, or commit sin with greediness, as before.",
+            "The water that I shall give him shall be in him a well of water...springing up into everlasting life."
+        ],
+        "John Wesley": [
+            "Will never thirst \u2014 Will never (provided he continue to drink thereof) be miserable, dissatisfied, without refreshment.\" ",
+            "If ever that thirst returns, it will be the fault of the man, not the water.",
+            "But the water that I shall give him \u2014 The spirit of faith working by love, shall become in him - An inward living principle, a fountain - Not barely a well, which is soon exhausted, springing up into everlasting life - Which is a confluence, or rather an ocean of streams arising from this fountain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The living water that Jesus offers is far superior to the temporary satisfaction found in earthly supplies. It not only quenches one's physical thirst, but also satisfies the deepest longings of the soul. This divine principle of life enters into the very secret and highest place of personal life, constantly flowing forth in increasing power. It is the answer to the restless craving that the world cannot fulfill. It is a single act of drinking that contains within it the satisfaction of all holy desires. The grace of Christ, once tasted, becomes a perpetual fountain, springing up in freshness and life, leading to eternal life. It is through the Holy Spirit that the believer remains united to Christ in an abiding fellowship. Whoever partakes of this living water shall never thirst again, finding true contentment and refreshment in the depths of their being.",
+            "wordCount": 144,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0332734581671743,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.95,
+            "commentatorTierSimilarities": [
+                30.71,
+                37.38,
+                31.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The living water offered by Jesus surpasses the temporal satisfaction of earthly sources. It not only quenches physical thirst but also satisfies the deepest longings of the soul. This divine life principle enters the innermost parts, continuously flowing, and meeting every holy desire. Unlike the world's offerings that soon fade, this water is a single act of drinking that fulfills and satisfies. It springs up perpetually, leading to eternal life, and through the Holy Spirit, believers remain united with Christ in an abiding fellowship, finding true contentment.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 2.05405046763651,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                30.41,
+                37.41,
+                32.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The living water, offered by Jesus, thoroughly satisfies the hunger and thirst that earthly provisions cannot quench. It is not a temporary solution, but rather a perpetual source of refreshment that flows from within. This divine gift enters the highest and most intimate parts of personal life, meeting every holy desire that arises. In contrast to worldly sources that leave one restless and unsatisfied, the living water continually satisfies, leads to eternal life, and fosters an unbreakable connection between believers and Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.0964084815795414,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+            "commentatorTierSimilarities": [
+                32.03,
+                34.77,
+                33.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The living water offered by Jesus surpasses earthly supplies in its ability to satisfy deep cravings. It is a divine principle of life that enters into the very core of personal existence. Unlike human sources that quickly fade, this water provides perpetual refreshment, quenching all holy desires as they arise. It is a single act of drinking that encompasses the satisfaction of all needs. The grace of Christ, once tasted, becomes an eternal spring of life, flowing through the believer united with Him in the Holy Spirit.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.965443536843892,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+            "commentatorTierSimilarities": [
+                30.94,
+                37.58,
+                31.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The living water offered by Jesus surpasses earthly sources in its ability to satisfy deep longings. It is a divine life principle that enters the depths of personal being, continually flowing forth and meeting every holy desire. In contrast to temporal provisions, this water is a single act of drinking that fulfills all needs. Once tasted, it becomes an everlasting fountain of life, producing a connection between believers and Christ through the Holy Spirit. Whoever partakes of this living water shall never thirst again, finding true satisfaction and refreshment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1469258075662094,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                30.33,
+                35.22,
+                34.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

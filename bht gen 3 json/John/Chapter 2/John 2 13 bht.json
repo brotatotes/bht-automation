@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:04:30",
+    "verseRef": "John 2:13",
+    "bestBHT": {
+        "bht": "During the Passover, Jesus arrived in Capernaum, accompanied by his disciples, possibly including the Gospel writer John. His purpose for attending the feast was not to endorse the religious ceremonies but rather to challenge the degenerate worship of the time. This Passover marked the beginning of Jesus' public ministry, which lasted over a year. It is thanks to John's narrative that we learn the duration and significance of Jesus' ministry, otherwise unknown to us.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.9653939270327352,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+        "commentatorTierSimilarities": [
+            31.65,
+            30.71,
+            37.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No data are given to determine whether the reason of the short stay at Capernaum was the near approach of the Passover.",
+            "His already called disciples would be with Him, and among them in all probability the Evangelist himself.",
+            "But not the rest of the Twelve, who were not yet called."
+        ],
+        "Albert Barnes": [
+            "The Jews\u2019 passover - The feast among the Jews called the Passover.",
+            "Jesus, in obedience to the law, went up to observe it.",
+            "As his baptism when he entered on his ministry had taken place some time before this - probably not far from six months - it follows that the period of his ministry was not far from three years and a half, agreeably to the prophecy in Daniel 9:27."
+        ],
+        "Marvin Vincent": [
+            "On John's use of the term Jews, see on 1 19. So it is used here with an under - reference to the national religion as consisting in mere ceremonies.",
+            "The same hint underlies the words in ver. 6, 'after the Jews' manner of purifying.'",
+            "Only John mentions this earliest passover of Christ's ministry."
+        ],
+        "John Calvin": [
+            "The Son of God became subject to the Law on our account, he intended, by observing with exactness all the precepts of the Law, to present in his own person a pattern of entire subjection and obedience.",
+            "He did so, first, that along with others he might observe the exercises of religion which God had appointed, and, next, that he might publish his doctrine amidst a larger concourse of people.",
+            "Whenever...Christ came to Jerusalem at the feast, let the reader observe that he did so...to publish his doctrine amidst a larger concourse of people."
+        ],
+        "Philip Schaff": [
+            "The light was come, but it was shining in darkness: this darkness rested on what had been the temple, the city, the festivals, of the Lord.",
+            "The prevailing spirit of the time has severed the feast from the sacred associations which belonged to it.",
+            "Jesus must go up rather as Prophet than as worshipper, not to sanction by His presence, but powerfully to protest against the degenerate worship of that day."
+        ],
+        "Archibald T. Robertson": [
+            "John mentions the passovers in Christ's ministry outside of the one when Christ was crucified, this one and one in John 6:4.",
+            "There may be another (John 5:1), but we do not know.",
+            "But for John we should not know that Christ's ministry was much over a year in length."
+        ],
+        "John Gill": [
+            "This was the first 'passover' after Christ's baptism, which is generally thought to have been about half a year before; though so much time cannot be made out from the scriptural account.",
+            "The Evangelist John is the only writer that gives an account of the passovers after Christ entered on his public ministry; by which is known the duration of it, which is generally thought to be about three years and a half.",
+            "He [Jesus] is said to go up to Jerusalem, because that stood on higher ground than the low lands of Galilee, and was the only place where the passover might be kept."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, along with his disciples, arrived in Capernaum during the time of the Passover, a major feast among the Jews. His purpose for attending this feast was not to participate in the traditional rituals and ceremonies of the religion, but rather to protest against the degenerate worship and to present himself as a pattern of obedience to the Law. This was the first Passover after Jesus' baptism, marking the beginning of his public ministry, which lasted around three and a half years. John is the only writer to include these details about the passovers, shedding light on the length and significance of Jesus' ministry.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9877074443519231,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+            "commentatorTierSimilarities": [
+                28.67,
+                31.98,
+                39.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Passover, Jesus arrived in Capernaum, possibly due to its proximity to the feast. He was accompanied by his disciples, including the writer of the Gospel of John. His presence at the feast was not an endorsement of the Jewish religious practices, but rather a powerful protest against the decadence and corruption of worship. John's account of this earliest Passover highlights the length of Jesus' ministry, which spanned over a year and would have remained unknown without his narrative.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.931503508510437,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                30.3,
+                30.74,
+                38.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Arriving in Capernaum during the Passover, Jesus and his disciples, likely including the writer of the Gospel of John, were present for the observance. However, Jesus did not attend in order to partake in the rituals, but rather as a means of challenging the corrupted worship of the time. This Passover marked the beginning of Jesus' public ministry, which lasted approximately a year and a half. John's account unveils the length and significance of Jesus' ministry, which would remain unknown without his report.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9511375922387022,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                32.01,
+                29.73,
+                38.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Passover, Jesus arrived in Capernaum, accompanied by his disciples, possibly including the Gospel writer John. His purpose for attending the feast was not to endorse the religious ceremonies but rather to challenge the degenerate worship of the time. This Passover marked the beginning of Jesus' public ministry, which lasted over a year. It is thanks to John's narrative that we learn the duration and significance of Jesus' ministry, otherwise unknown to us.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9653939270327352,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.69,
+            "commentatorTierSimilarities": [
+                31.65,
+                30.71,
+                37.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Arriving at Capernaum near the approaching Passover, Jesus was accompanied by his disciples, possibly including the Gospel writer John. The term Jews used in this context refers to the religious practices centered around mere ceremonies rather than true devotion. Jesus attended the Passover not to conform to the degenerate worship but to powerfully protest against it. This particular Passover was the starting point of Jesus' ministry, which lasted around a year. It is through John's account that we gain insight into the duration and purpose of Jesus' ministry.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.9648104950859056,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                32.45,
+                30.31,
+                37.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

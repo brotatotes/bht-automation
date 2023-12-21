@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:05:14",
+    "verseRef": "John 3:16",
+    "bestBHT": {
+        "bht": "God's love for the world is the driving force behind His purpose in redemption and salvation. His love is not limited to a select few, but extends to the entire human race, including both Jews and Gentiles. The gift of His only Son, Jesus Christ, is a profound expression of this unfathomable love. This act of divine self-sacrifice stands in stark contrast to the gods of paganism, who demand sacrifices from mortals without offering anything in return. Through faith in Christ, believers can find deliverance from destruction and inherit eternal life.",
+        "wordCount": 93,
+        "quoteTokenProportion": 31.88,
+        "qualityScore": 2.220437514783765,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+        "commentatorTierSimilarities": [
+            29.01,
+            36.23,
+            34.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord here reveals Love as the one ground of the divine counsel in redemption,\u2014salvation of men, as its one purpose with regard to them.",
+            "These words seem to carry a reference to the offering of Isaac; and Nicodemus in that case would at once be reminded by them of the love there required, the substitution there made, and the prophecy there uttered to Abraham, to which the following words of our Lord so nearly correspond.",
+            "By the repetition of this final clause verbatim from ver. 15, we have the identity of the former clauses established: i.e. the uplifting of the Son of Man like the serpent in the wilderness is the manifestation of the divine Love in the gift of the Son of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For God so loved, c.\u2014What proclamation of the Gospel has been so oft on the lips of missionaries and preachers in every age since it was first uttered?",
+            "What has sent such thrilling sensations through millions of mankind?",
+            "What to kindle in the cold and selfish breasts of mortals the fires of self-sacrificing love to mankind, as these words of transparent simplicity, yet overpowering majesty?"
+        ],
+        "Albert Barnes": [
+            "God hates wickedness, but he still desires the Happiness of those who are sinful... 'He hates the sin, but loves the sinner.'",
+            "His love for the world, or for all mankind, in giving his Son, was shown by these circumstances: That he gave - It was a free and unmerited gift.",
+            "A parent who should give up his only son to die for others who are guilty if this could or might be done - would show higher love than could be manifested in any other way."
+        ],
+        "Marvin Vincent": [
+            "This attitude of God toward the world is in suggestive contrast with that in which the gods of paganism are represented.",
+            "Man has no assurance of forgiveness even when he offers the sacrifices in which the gods especially delight.",
+            "No Homeric deity ever will be found to make a personal sacrifice on behalf of a human client."
+        ],
+        "John Calvin": [
+            "For God so loved the world. [...] we must see whence Christ came to us, and why he was offered to be our Savior. [...] the Heavenly Father loves the human race, and wishes that they should not perish. And this order ought to be carefully observed; for such is the wicked ambition which belongs to our nature, that when the question relates to the origin of our salvation, we quickly form diabolical imaginations about our own merits.",
+            "And, indeed, it is very evident that Christ spoke in this manner, in order to draw away men from the contemplation of themselves to look at the mercy of God alone. Nor does he say that God was moved to deliver us, because he perceived in us something that was worthy of so excellent a blessing, but ascribes the glory of our deliverance entirely to his love.",
+            "This, he says, is the proper look of faith, to be fixed on Christ, in whom it beholds the breast of God filled with love: this is a firm and enduring support, to rely on the death of Christ as the only pledge of that love. [...] we should not doubt or fear death, for the faith of Christ brings deliverance and eternal life."
+        ],
+        "Philip Schaff": [
+            "The humiliation and exaltation of Him who came down out of heaven were the expression of God\u2019s love to the whole world.",
+            "The universality of the blessing is marked with twofold emphasis; designed, not for Israel only, but for the whole world, it is the actual possession of every believer.",
+            "The Divine purpose is presented under two aspects, not one only; it is that the believer may be saved from perdition, and may now possess eternal life."
+        ],
+        "Archibald T. Robertson": [
+            "This 'Little Gospel' as it is often called, this 'comfortable word' (the Anglican Liturgy), while not a quotation from Jesus is a just and marvellous interpretation of the mission and message of our Lord.",
+            "Loved... used here as often in John of God's love for man... In John 21:15 John presents a distinction between \u03b1\u03b3\u03b1\u03c0\u03b1\u03c9 and \u03c6\u03b9\u03bb\u03b5\u03c9.",
+            "The whole cosmos of men, including Gentiles, the whole human race. This universal aspect of God's love appears also in 2 Corinthians 5:19; Romans 5:8."
+        ],
+        "John Gill": [
+            "God has so loved the Gentiles, as well as the Jews, that he gave his only begotten Son; to, and for them, as well as for the Jews.",
+            "A gift which is a sufficient evidence of his love to them; it being a large and comprehensive one, an irreversible and unspeakable one.",
+            "[Whosoever believes in Him] should not perish, but have everlasting life."
+        ],
+        "John Wesley": [
+            "Whosoever believeth on him \u2014 With that faith which worketh by love, and hold fast the beginning of his confidence steadfast to the end.",
+            "God so loved the world \u2014 That is, all men under heaven; even those that despise his love, and will for that cause finally perish.",
+            "He gave his only Son \u2014 Truly and seriously. And the Son of God gave himself, Galatians 4:4, truly and seriously."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For God so loved the world that He gave His only Son as a manifestation of His divine Love in the gift of the Son of God. This proclamation of the Gospel has resonated throughout the ages, stirring within countless hearts the fires of self-sacrificing love for humanity. In vivid contrast to the gods of paganism, who demand sacrifices without offering any personal sacrifice themselves, God's love encompasses the entire cosmos of men, including Gentiles, and is not dependent on human merit. The gift of His Son is an irrevocable and all-encompassing expression of God's love, leading to the surpassing gift of eternal life for all who believe.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 2.403664601416847,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.26,
+            "commentatorTierSimilarities": [
+                30.34,
+                36.13,
+                33.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For God so loved the world that He gave His only Son as a manifestation of His divine Love in the gift of the Son of God. This proclamation of the Gospel has resonated throughout the ages, stirring within countless hearts the fires of self-sacrificing love for humanity. In vivid contrast to the gods of paganism, who demand sacrifices without offering any personal sacrifice themselves, God's love encompasses the entire cosmos of men, including Gentiles, and is not dependent on human merit. The gift of His Son is an irrevocable and all-encompassing expression of God's love, leading to the surpassing gift of eternal life for all who believe.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 2.403664601416847,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.26,
+            "commentatorTierSimilarities": [
+                30.34,
+                36.13,
+                33.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's love for the world is the driving force behind His purpose in redemption and salvation. His love is not limited to a select few, but extends to the entire human race, including both Jews and Gentiles. The gift of His only Son, Jesus Christ, is a profound expression of this unfathomable love. This act of divine self-sacrifice stands in stark contrast to the gods of paganism, who demand sacrifices from mortals without offering anything in return. Through faith in Christ, believers can find deliverance from destruction and inherit eternal life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 2.220437514783765,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                29.01,
+                36.23,
+                34.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's love for the world is the foundation of His plan for redemption. The gift of His Son demonstrates His profound love for all of humanity, devoid of any self-serving motives. This message of love has reverberated through history, evoking powerful emotions and inspiring acts of sacrificial love. It stands in stark contrast to the gods of paganism who demand offerings without making any personal sacrifices. God's love extends to all people, transcending boundaries and offering the assurance of forgiveness and eternal life to those who believe.",
+            "wordCount": 90,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 2.1698547059049496,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+            "commentatorTierSimilarities": [
+                30.55,
+                36.78,
+                32.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's love for the world is the ultimate motivation behind His redemptive plan. Through His Son, God manifests His incomprehensible love, surpassing the limited and conditional love of pagan deities. This Little Gospel has resounded throughout history, igniting flames of self-sacrificing love in countless hearts. It is a proclamation that embraces the entire cosmos of humanity, devoid of any human merit, offering the gift of forgiveness and eternal life to all who believe. This message is a profound interpretation of the mission and message of Jesus, inspiring awe and gratitude.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 2.1211687440981226,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                31.16,
+                35.05,
+                33.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

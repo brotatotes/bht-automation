@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-21-2023 03:13:00",
+    "verseRef": "John 16:6",
+    "bestBHT": {
+        "bht": "Your grief has completely consumed your heart, causing you to neglect understanding the purpose of my departure. However, there is some consolation in this rebuke, as Jesus also excuses their negligence due to their overwhelming sorrow. They are paralyzed by their sorrow, unable to see a way forward without Jesus. Their sorrow has taken hold of their minds and thoughts, preventing them from even asking where Jesus is going. If only they had a proper understanding of his destination, it could have lessened their sorrow and brought peace to their minds, allowing them to accept his departure more easily.",
+        "wordCount": 99,
+        "quoteTokenProportion": 50.7,
+        "qualityScore": 1.6313863705065317,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+        "commentatorTierSimilarities": [
+            42.49,
+            0.0,
+            57.51
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Grief has filled, entirely occupied, your heart, to the exclusion of any regard of my object in leaving you.",
+            "These are the same disciples who afterwards, when their risen Lord had ascended to heaven,\u2014without any pang at parting with Him, returned with great joy to Jerusalem.",
+            "There is beneath this mild rebuke a tacit consolation. For while He blames them in that they neglected enquiring whither He was going, He virtually excuses this their negligence, in that it arose from their being overwhelmed with sorrow."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6, 7. But because I have said these",
+            "\tthings . . . sorrow hath filled your heart\u2014Sorrow had too much",
+            "\tparalyzed them, and He would rouse their energies."
+        ],
+        "Archibald T. Robertson": [
+            "Sorrow hath filled.\" This word is not used of Jesus in the Gospels, in John only in this chapter.",
+            "They do not see their way to go on without Jesus.\" "
+        ],
+        "John Gill": [
+            "Sorrow for his absence so possessed their minds, seized on all the powers and faculties of their souls, and engrossed all their thoughts.\" ",
+            "It never entered into the heart of any of them, to inquire about the place he was going to, or the state he should enter upon.",
+            "Which had they had any right notions of, would have greatly contributed to have abated their sorrow, quieted their minds, made them easy under, and reconciled them unto, his departure from them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Your grief has completely consumed your heart, causing you to neglect understanding the purpose of my departure. However, there is some consolation in this rebuke, as Jesus also excuses their negligence due to their overwhelming sorrow. They are paralyzed by their sorrow, unable to see a way forward without Jesus. Their sorrow has taken hold of their minds and thoughts, preventing them from even asking where Jesus is going. If only they had a proper understanding of his destination, it could have lessened their sorrow and brought peace to their minds, allowing them to accept his departure more easily.",
+            "wordCount": 99,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 1.6313863705065317,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                42.49,
+                0.0,
+                57.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Your grief has completely consumed your heart, causing you to neglect understanding the purpose of my departure. However, there is some consolation in this rebuke, as Jesus excuses their negligence due to their overwhelming sorrow. They are paralyzed by their sorrow, unable to see a way forward without Jesus. If only they had a proper understanding of his destination, it could have lessened their sorrow and brought peace to their minds, allowing them to accept his departure more easily.",
+            "wordCount": 79,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.5570432457174292,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.11,
+            "commentatorTierSimilarities": [
+                43.06,
+                0.0,
+                56.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Grief has entirely occupied their hearts and prevented them from understanding the purpose of Jesus' departure. However, this rebuke is accompanied by a tacit consolation, as Jesus understands that their sorrow has overwhelmed them. He acknowledges that their sorrow has paralyzed them but wants to rouse their energies. Their sorrow has filled their minds to the extent that they cannot see a way forward without Jesus. They are so consumed by the absence of Jesus that they have not thought to inquire about where he is going or what he will be doing. If they had a proper understanding, it would have helped alleviate their grief and reconcile them to his departure.",
+            "wordCount": 112,
+            "quoteTokenProportion": 51.39,
+            "qualityScore": 1.6750656122889587,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                43.16,
+                0.0,
+                56.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Grief has entirely occupied their hearts and prevented them from understanding the purpose of Jesus' departure. However, Jesus offers a tacit consolation, recognizing that their sorrow has overwhelmed them. Their sorrow has paralyzed them, blinding them from seeing a way forward without Jesus. They are so consumed by his absence that they have not thought to inquire about where he is going or what he will be doing. If they had a proper understanding, it would have alleviated their grief and reconciled them to his departure.",
+            "wordCount": 86,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 1.61078591078399,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                40.85,
+                0.0,
+                59.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Grief has filled their hearts, paralyzing them and preventing them from comprehending the purpose of Jesus' departure. Although Jesus rebukes them for neglecting to inquire about his destination, he sympathizes with their sorrow. Their overwhelming grief has blinded them, making it difficult to envision a future without Jesus. If they had a deeper understanding of his plans, it would have brought solace, peace, and acceptance to their hearts as they grappled with his imminent departure.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.6270909551262362,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.44,
+            "commentatorTierSimilarities": [
+                40.02,
+                0.0,
+                59.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

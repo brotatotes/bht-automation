@@ -1,0 +1,87 @@
+# John 14:16 Commentary Help Text
+
+## BHT:
+Jesus promises to pray for the disciples, assuring them that they will not be left alone. The word used for pray signifies a manner of asking with actual presence and nearness, conveying the Holy Spirit's role as our Advocate. The Spirit suggests true reasonings, convicts the world of wrong, pleads our cause before God, and provides help, strength, and consolation. The promise of another Advocate like Christ, who will be with us forever, highlights the trinity, and ensures that Jesus will always be present with his people through the indwelling of the Holy Spirit.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The word rendered I will pray betokens, probably, a manner of asking implying actual presence and nearness."
+2. "The etymology of the word requires the latter as its strict meaning, and in this strict meaning it satisfies 1 John ii. 1, 'we have an Advocate (Paraclete, as here) with the Father,' but not so all the places where it is used of the Holy Spirit."
+3. "Thus the idea of help and strength is conveyed by it, as well as of consolation."
+
+### Albert Barnes:
+1. "In what way he makes intercession in heaven for his people we do not know... It is as the result of his intercession in heaven that we obtain all our blessings." 
+2. "The other Comforter was to be given as a compensation for his absence, or to perform the offices toward them which he would have done if he had remained personally with them... It is to furnish to all Christians the instruction and consolation which would be given by the personal presence of Jesus."
+3. "To comfort the disciples; to be with them in his absence and to supply his place... To teach them, or remind them of truth... To aid them in their work; to advocate their cause, or to assist them in advocating the cause of religion in the world, and in bringing sinners to repentance."
+
+### Marvin Vincent:
+1. "The Holy Spirit is represented as our Advocate or Counsel, 'who suggests true reasonings to our minds, and true courses of action for our lives, who convicts our adversary, the world, of wrong, and pleads our cause before God our Father.'" 
+2. "The advocate who is to be sent is not different from Christ, but another similar to Himself." 
+3. "Notice the three prepositions used in this verse to describe the Spirit's relation to the believer: with you [μετα], in fellowship; by you [παρα], in His personal presence; in you [εν], as an indwelling personal energy, at the springs of the life."
+
+### John Calvin:
+1. "He therefore loses no time in informing them that, though he be absent from them in body, yet he will never allow them to remain destitute of assistance; for he will be present with them by his Spirit."
+2. "Both statements are true and correct; for in so far as Christ is our Mediator and Intercessor, he obtains from the Father the grace of the Spirit, but in so far as he is God, he bestows that grace from himself."
+3. "Christ is a continual Protector, but not in a visible way. So long as he dwelt in the world, he openly manifested himself as their Protector; but now he guards us by his Spirit."
+
+### Philip Schaff:
+1. "The word here translated in our English Version ‘Comforter,’ and partially introduced into the English language as ‘Paraclete,’ means properly, One called to stand by us for our help, our Advocate, Helper, Representative. ‘Comforter’ is not its meaning."
+2. "The ‘Paraclete’ is really One who stands by our side, sustains us in our Christian calling, and breathes into us ever new measures of a spirit of boldness and daring in the warfare we have to wage."
+3. "The promise of this Paraclete or Advocate is given four times in the chapters before us... it has reference mainly to the preparation of the heart and mind of the disciples; in the other two... to their actual work."
+
+### Archibald T. Robertson:
+1. "Another of like kind, besides Jesus who becomes our Paraclete, Helper, Advocate, with the Father."
+2. "So the Christian has Christ as his Paraclete with the Father, the Holy Spirit as the Father's Paraclete with us."
+3. "This the purpose in view and thus Jesus is to be with his people here forever."
+
+### John Gill:
+1. "This is no inconsiderable proof of a trinity of persons in the Godhead; here is the Father prayed unto, the Son in human nature praying, and the Holy Ghost the Comforter prayed for."
+2. "He promises to use his interest with his Father, that he would give them another Comforter, meaning the Spirit, who performs this his work and office, by taking of the things of Christ, and showing them to his people."
+3. "When we consider these words, in connection with the preceding exhortation, to keep the commands of Christ, and as an encouragement so to do, it brings to mind a saying... 'he that does one commandment gets for himself... "one advocate," or "comforter"; and he that transgresses one command, gets for himself one accuser.'"
+
+### John Wesley:
+1. "And I will ask the Father...And he will give you another Comforter..." 
+2. "The Greek word signifies also an advocate, instructor, or encourager." 
+3. "To remain with you for ever — With you, and your followers in faith, to the end of the world."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-21-2023 03:12:36
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 36.36%
+- BHT Quality Score: 2.0873291615963128
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (66):
+	['a', 'actual', 'advocate', 'alone', 'always', 'and', 'another', 'as', 'asking', 'assuring', 'be', 'before', 'cause', 'christ', 'consolation', 'conveying', 'convicts', 'disciples', 'ensures', 'for', 'forever', 'god', 'help', 'highlights', 'his', 'holy', 'indwelling', 'jesus', 'left', 'like', 'manner', 'nearness', 'not', 'of', 'our', 'people', 'pleads', 'pray', 'presence', 'present', 'promise', 'promises', 'provides', 'reasonings', 'role', 's', 'signifies', 'spirit', 'strength', 'suggests', 'that', 'the', 'them', 'they', 'through', 'to', 'trinity', 'true', 'us', 'used', 'who', 'will', 'with', 'word', 'world', 'wrong']
+- ChatGPT injected words (significant words only) (42):
+	['actual', 'advocate', 'asking', 'assuring', 'cause', 'christ', 'consolation', 'conveying', 'convicts', 'disciples', 'ensures', 'forever', 'god', 'help', 'highlights', 'holy', 'indwelling', 'jesus', 'left', 'like', 'manner', 'nearness', 'people', 'pleads', 'pray', 'presence', 'present', 'promise', 'promises', 'provides', 'reasonings', 'role', 's', 'signifies', 'spirit', 'strength', 'suggests', 'trinity', 'true', 'word', 'world', 'wrong']
+
+### Logs
+- Attempt 1 BHT: In John 14:16, Jesus promises to pray for the disciples, assuring them that they will not be left alone. The word used for pray signifies a manner of asking that implies Jesus's actual presence and nearness. This word satisfies the idea of help, strength, and consolation, conveying the Holy Spirit's role as our Advocate. The Holy Spirit not only suggests true reasonings and convicts the world of wrong, but also pleads our cause before God. The Spirit's relationship with believers is described through three prepositions: with us, by us, and in us. This promise of another Advocate who is like Christ and will be with us forever highlights the trinity of persons in the Godhead, with the Father being prayed to, the Son praying, and the Holy Spirit prayed for. Ultimately, Jesus ensures that even though he will be physically absent, he will always be with his people through the indwelling presence and personal energy of the Holy Spirit.
+- 🔄 John 14:16 (attempt 1, 161 words, 37.89% quotes quality score: 2.016259876693341, V2 normalized quality score: 58.38, commentator tiers 1-3: 37.5%, 31.64%, 30.87%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Jesus promises to pray for the disciples, assuring them that they will not be left alone. The word used for pray signifies a manner of asking with actual presence and nearness, conveying the Holy Spirit's role as our Advocate. The Spirit suggests true reasonings, convicts the world of wrong, pleads our cause before God, and provides help, strength, and consolation. The promise of another Advocate like Christ, who will be with us forever, highlights the trinity, and ensures that Jesus will always be present with his people through the indwelling of the Holy Spirit.
+- 🔄 John 14:16 (attempt 2, 95 words, 36.36% quotes quality score: 2.0873291615963128, V2 normalized quality score: 60.74, commentator tiers 1-3: 35.81%, 33.52%, 30.67%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Jesus promises to pray for the disciples, assuring them that they will not be left alone. The word used for pray signifies a manner of asking with actual presence and nearness, conveying the Holy Spirit's role as our Advocate. The Spirit suggests true reasonings, convicts the world of wrong, pleads our cause before God, and provides help, strength, and consolation. The promise of another Advocate like Christ, who will be with us forever, highlights the trinity, and ensures that Jesus will always be present with his people through the indwelling of the Holy Spirit.
+- 🔄 John 14:16 (attempt 3, 95 words, 36.36% quotes quality score: 2.0873291615963128, V2 normalized quality score: 60.74, commentator tiers 1-3: 35.81%, 33.52%, 30.67%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Jesus promises to pray for the disciples, assuring them that they will not be left alone. The word used for pray signifies a manner of asking with actual presence and nearness, conveying the Holy Spirit's role as our Advocate. The Holy Spirit provides help, strength, and consolation, suggesting true reasonings to our minds and convicting the world of wrong. The Spirit acts as our Counsel, pleading our cause before God our Father and indwelling in us as an energy at the springs of life.
+- 🔄 John 14:16 (attempt 4, 85 words, 35.48% quotes quality score: 2.022188215099564, V2 normalized quality score: 58.58, commentator tiers 1-3: 36.65%, 34.06%, 29.29%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: In John 14:16, Jesus pledges to advocate for the disciples through prayer, using a word that implies His actual presence and nearness. This assurance signifies the Holy Spirit's role as our Advocate, who not only brings consolation but also supports us with help and strength. The Spirit works alongside us as a Counsel, inspiring true reasonings and guiding our actions. Through the Spirit's presence, we have Christ as our Advocate with the Father, while the Holy Spirit acts as the Father's Advocate with us, ensuring that Jesus remains with His people forever.
+- 🔄 John 14:16 (attempt 5, 94 words, 38.33% quotes quality score: 2.0933127883446527, V2 normalized quality score: 60.94, commentator tiers 1-3: 37.69%, 31.97%, 30.34%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ John 14:16 bht prompt v0.8 (95 words, 36.36% quotes)
+- quality score: 2.0873291615963128, V2 normalized quality score: 60.74, commentator tiers 1-3: 35.81%, 33.52%, 30.67%)

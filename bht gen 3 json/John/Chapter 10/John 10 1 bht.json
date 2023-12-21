@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:09:45",
+    "verseRef": "John 10:1",
+    "bestBHT": {
+        "bht": "The focus here is not on the character of the sheep, but rather on the qualities of the shepherd and the relationship between him and his faithful followers. The true sheep are distinguished from the false ones; those who enter by the legitimate way are the genuine sheep. Jesus, as the good Shepherd, possesses the qualities of a good shepherd, including laying down his life for the sheep. Those who do not enter through the proper way are like thieves, coming from unknown directions and relying on their own methods, distinguishing them from Jesus, the true Shepherd.",
+        "wordCount": 97,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.17959847468064,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.81,
+        "commentatorTierSimilarities": [
+            32.81,
+            31.17,
+            36.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The false sheep (goats, Matt. xxv. 32) do not appear; for it is not the character of the flock, but that of the shepherd, and the relation be-tween him and his sheep, which is here prominent.\" ",
+            "The sheep, throughout this parable, are not the min-gled multitude of good and bad; but the real sheep, the faithful, who are, what all in the fold should be.",
+            "He is the good Shepherd in this verse, as having most eminently the qualities of a good shepherd, one of which is to lay down His life for the sheep."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that entereth not by the door\u2014the legitimate way (without saying what that was, as yet).\" ",
+            "into the sheepfold\u2014the sacred enclosure of God's true people.\" ",
+            "climbeth up some other way\u2014not referring to the assumption of ecclesiastical office without an external call, for those Jewish rulers, specially aimed at, had this (Matthew 23:2), but to the want of a true spiritual commission, the seal of heaven going along with the outward authority; it is the assumption of the spiritual guidance of the people without this that is meant."
+        ],
+        "Albert Barnes": [
+            "The true pastors of the church are those who enter by the influences of the Spirit of Jesus, and in the manner which he has appointed.",
+            "The Pharisees claimed to be pastors, but not under his appointment. They entered some other way.",
+            "Jesus here designates those pastors or ministers of religion who are influenced not by love to him, but who seek the office from ambition, or the love of power, or wealth, or ease."
+        ],
+        "Marvin Vincent": [
+            "The thief does not, like the shepherd, come from some well-known direction, as from his dwelling or from the pasture, but from an unknown quarter and by a road of his own.\" ",
+            "This from is significant, because, in the previous discourses, Jesus has laid great stress on the source from which He proceeded, and has made the difference in character between Himself and His opposers turn upon a difference of origin.",
+            "Thief - robber [\u03ba\u03bb\u03b5\u03c0\u03c4\u03b7\u03c2 - \u03bb\u03b7\u03c3\u03c4\u03b7\u03c2]. For the distinction see on Mark 11:17. There is a climax in the order of the words; one who will gain his end by craft, and, if that will not suffice, by violence."
+        ],
+        "John Calvin": [
+            "No plague is more destructive to the Church, than when wolves ravage under the garb of shepherds.",
+            "We must therefore, above all things, guard against being deceived by pretended shepherds or counterfeit sheep.",
+            "He who turns aside from [Christ] to go elsewhere neither keeps the road nor enters by the door."
+        ],
+        "Archibald T. Robertson": [
+            "Into the fold of the sheep... \u03b1\u03c5\u03bb\u03b7 was just an uncovered space around the house enclosed by a wall... It later came to mean the house itself or palace... In the papyri it means the court attached to the house.",
+            "One who goes up, not by the door, has to climb up over the wall.",
+            "The man jumping over the wall comes to steal and to do it by violence like a bandit. He is both thief and robber."
+        ],
+        "John Gill": [
+            "The design of which is to show, that Christ is the true and only shepherd, who was appointed, called, and sent of God, whose the sheep are, whose voice they hear, and know, and whom they follow.",
+            "The church may be compared to a sheepfold because it is separated from the world: it is where the people of God, and sheep of Christ are gathered together; where there is a strict union between them.",
+            "Now he that does not come into the church of God, whether as a member of it or officer in it, at this door, but climbeth up some other way... the same is a thief and a robber."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the focus is not on the character of the sheep, but on the qualities of the shepherd and the relationship between him and his sheep. The true sheep are the faithful ones, while the false sheep or goats are not mentioned here. Jesus, as the good Shepherd, has the qualities of a good shepherd, including being willing to lay down his life for the sheep. Those who do not enter the sheepfold through the legitimate way are like thieves who come from an unknown direction and by their own means. The distinction here is that Jesus, the true Shepherd, comes from a known and legitimate source, highlighting the difference in character between Himself and his opposers.",
+            "wordCount": 119,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.1013832757135464,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                34.04,
+                29.99,
+                35.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage emphasizes the relationship between the shepherd and his sheep, rather than focusing on the sheep themselves. The true sheep are the faithful followers, while the false ones are not mentioned. Jesus is portrayed as the good Shepherd who is willing to sacrifice his life for his sheep. Those who do not enter through the proper way are like thieves, coming from unknown directions and relying on their own methods. Jesus, in contrast, comes from a known and legitimate source that sets Him apart from His opponents.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9423551070844285,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                32.95,
+                30.11,
+                36.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The focus here is not on the character of the sheep, but rather on the qualities of the shepherd and the relationship between him and his faithful followers. The true sheep are distinguished from the false ones; those who enter by the legitimate way are the genuine sheep. Jesus, as the good Shepherd, possesses the qualities of a good shepherd, including laying down his life for the sheep. Those who do not enter through the proper way are like thieves, coming from unknown directions and relying on their own methods, distinguishing them from Jesus, the true Shepherd.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.17959847468064,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.81,
+            "commentatorTierSimilarities": [
+                32.81,
+                31.17,
+                36.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The emphasis in this verse is not on the character of the sheep, but on the qualities of the shepherd and the relationship between him and his faithful followers. The true sheep are highlighted as the genuine ones, while the false ones are not mentioned. Jesus is described as the good Shepherd, characterized by his willingness to lay down his life for the sheep. The contrast is made between those who enter into the sheepfold through the legitimate way and those who come from an unknown direction and lack true spiritual commission.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.0899886222763255,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.83,
+            "commentatorTierSimilarities": [
+                31.76,
+                33.31,
+                34.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The main focus here is not on the sheep themselves, but on the qualities of the shepherd and the relationship between him and his faithful followers. The true sheep are the faithful ones, while the false ones are not mentioned. Jesus, as the good Shepherd, possesses the qualities of a good shepherd, one of which includes being willing to lay down his life for the sheep. Those who do not enter through the proper way are likened to thieves, coming from unknown directions and depending on their own methods, setting them apart from Jesus, the true Shepherd.",
+            "wordCount": 97,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.1778059201800133,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.75,
+            "commentatorTierSimilarities": [
+                32.57,
+                30.94,
+                36.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

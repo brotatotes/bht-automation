@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:05:51",
+    "verseRef": "John 4:29",
+    "bestBHT": {
+        "bht": "Is this not the Christ, the long-awaited Savior? She posed the question with a hint of uncertainty, being mindful of the magnitude of this revelation. His insight into her life and His intimate knowledge of her deeds convinced her that He was more than just an ordinary man. Perhaps, she thought, this could be the Messiah? Her belief was expressed cautiously, prompting others to investigate and draw their own conclusions. Come and see for yourselves the one who revealed the hidden depths of my soul.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6530015021528177,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+        "commentatorTierSimilarities": [
+            29.35,
+            38.36,
+            32.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Is not this the Christ\u2014The form of the question is a distant, modest way of only half insinuating what it seemed hardly fitting for her to affirm.",
+            "Nor does she refer to what He said of Himself, but solely to His disclosure to her of the particulars of her own life."
+        ],
+        "Albert Barnes": [
+            "Is not this the Christ? - Though she probably believed it, yet she proposed it modestly, lest she should appear to dictate in a case which was so important, and which demanded so much attention.",
+            "The evidence on which she was satisfied that he was the Messiah was that he had told her all things that she had done - perhaps much more than is here recorded.",
+            "The question which she submitted to them was whether this was not satisfactory proof that he was the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Jesus' insight in the one case convinced her that He knew everything, and to her awakened conscience it seemed as though He had told everything.",
+            "Is not this the Christ? Rather, can this be. The particle suggests a negative answer. Surely this cannot be, yet with some hope."
+        ],
+        "John Calvin": [
+            "It was a very powerful stimulant which she employed to excite them, when she knew, by a sign which was not obscure or doubtful, that he was a prophet.",
+            "This having been ascertained, they begin to attend to his doctrine.",
+            "Yet we see that the woman, kindled by a holy zeal, does not spare herself, or her reputation, to magnify the name of Christ."
+        ],
+        "Philip Schaff": [
+            "Come, see a man, which told me all things that ever I did. She fixes on the wonderful knowledge which the Stranger had displayed: what had impressed her must also convince them.",
+            "Let them come for themselves, not rest on her testimony; and let them draw their own conclusions.",
+            "Her own belief she expresses in the form of doubt, or problem to be solved; and every reader must feel how natural and wise was her procedure."
+        ],
+        "Archibald T. Robertson": [
+            "All things that ever I did... Ha, not \u03bf\u03c3\u03b1 (as many as), no 'ever' in the Greek.\" ",
+            "But a guilty conscience (verse John 4:18) led her to exaggerate a bit.\" ",
+            "She is already convinced herself (verses John 4:26), but she puts the question in a hesitant form to avoid arousing opposition."
+        ],
+        "John Gill": [
+            "Come, see a man,.... An uncommon, an extraordinary man, a prophet, and, who himself says, he is the Messiah...",
+            "Which told me all things that ever I did... referring more especially to the account he had given her of her having had five husbands...",
+            "is not this the Christ? that was to come, has been promised and prophesied of, and we have expected, who is of quick understanding, and even God omniscient; surely this must be he, as he himself says he is."
+        ],
+        "John Wesley": [
+            "His words awakened her conscience, which soon told her all the rest.",
+            "She does not doubt of it herself but incites them to make the inquiry."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Is this not the Christ? Can this be the long-awaited Messiah? She hesitated in her question, not wanting to assert too boldly. Yet, in her heart, she was convinced. His knowledge of her past, the details He revealed, it stirred something within her. How could He know all this if He wasn't the Christ? And so, she invites them, her friends, to come and see for themselves. To witness the extraordinary man who spoke truth into her life. Could this be the promised one? She does not doubt, but rather, she incites them to inquire, to find out for themselves.",
+            "wordCount": 102,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 1.5761915016445962,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "commentatorTierSimilarities": [
+                32.08,
+                33.49,
+                34.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Is this not the Christ? Can this be the long-awaited Messiah? She hesitated in her question, not wanting to assert too boldly. Yet, in her heart, she was convinced. His knowledge of her past, the details He revealed, it stirred something within her. How could He know all this if He wasn't the Christ? And so, she invites them, her friends, to come and see for themselves. To witness the extraordinary man who spoke truth into her life. Could this be the promised one?",
+            "wordCount": 86,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.5183250313997365,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.83,
+            "commentatorTierSimilarities": [
+                32.35,
+                33.95,
+                33.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Is this not the Christ, the long-awaited Savior? She posed the question with a hint of uncertainty, being mindful of the magnitude of this revelation. His insight into her life and His intimate knowledge of her deeds convinced her that He was more than just an ordinary man. Perhaps, she thought, this could be the Messiah? Her belief was expressed cautiously, prompting others to investigate and draw their own conclusions. Come and see for yourselves the one who revealed the hidden depths of my soul.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6530015021528177,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+            "commentatorTierSimilarities": [
+                29.35,
+                38.36,
+                32.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Is not this the Christ? With a hesitant hope, she poses this question, refraining from making a definitive statement. Yet, her conviction is evident as she points to the profound revelation of her own life that Jesus has shared with her. This encounter with His omniscience has ignited her conscience, causing her to ponder whether He could indeed be the promised Messiah. Inviting others to witness his extraordinary knowledge, she anticipates their own discovery and recognition of the long-awaited Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7909855863071469,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                32.06,
+                35.33,
+                32.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Is not this the Christ? Can this be the long-awaited Messiah? She hesitates, unsure of the answer, yet her heart is convinced. His knowledge of her past, the details He revealed, stir something within her conscience. How could He know all this if He wasn't the Christ? And so, she invites her friends to come and see for themselves. To witness the extraordinary man who spoke truth into her life. Could this be the promised one? She doesn't doubt, but incites their inquiry.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.5351797632411248,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+            "commentatorTierSimilarities": [
+                32.05,
+                32.12,
+                35.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

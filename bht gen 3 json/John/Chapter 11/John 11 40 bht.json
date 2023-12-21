@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:55",
+    "verseRef": "John 11:40",
+    "bestBHT": {
+        "bht": "Martha, longing for something to be done, hesitated to open the cave due to her anxiety for decorum. Jesus rebukes this mindset, reminding her that simple faith is necessary to witness the unfolding of the resurrection and the glory of God. By testing Martha's faith, Jesus reminds her of his promise and the power of belief. Faith opens our eyes to see God's power in miracles, allowing us to behold His glory. Trusting in God's ability to perform the impossible leads to seeing the resurrection revealed.",
+        "wordCount": 89,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 2.1001427802255286,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.17,
+        "commentatorTierSimilarities": [
+            34.28,
+            34.87,
+            30.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "She expected something was about to be done, but in her anxiety for decorum she was willing to avoid the consequence of opening the cave.\" ",
+            "This feeling Jesus here rebukes, by referring her to the plain duty of simple faith, insisted on by Him before as the condition of beholding the glory of God.",
+            "Not merely in the event about to follow, but in a deeper sense, that of the unfolding of the Resurrection and the Life in the personal being."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Said I not unto thee, that if thou wouldest believe, thou shouldest see the glory of God?\" ",
+            "Why doth the restoration of life, even to a decomposing corpse, seem hopeless in the presence of the Resurrection and the Life?\" ",
+            "Hast thou yet to learn that 'if thou canst believe, all things are possible to him that believeth?'"
+        ],
+        "Albert Barnes": [
+            "Said I not unto thee - This was implied in what he had said about the resurrection of her brother, John 11:23-25. There would be a manifestation of the glory of God in raising him up which she would be permitted, with all others, to behold.",
+            "The glory of God - The power and goodness displayed in the resurrection.",
+            "It is probable that Martha did not really expect that Jesus would raise him up, but supposed that he went there merely to see the corpse."
+        ],
+        "John Calvin": [
+            "Did not I tell thee? He reproves Martha\u2019s distrust, in not forming a hope sufficiently vigorous from the promise which she had heard.",
+            "If thou believe... faith opens our eyes, that we may be able to see the power of God shining in his works.",
+            "Thou shalt see the glory of God. Observe, that a miracle is called the glory of God, because God, displaying in it the power of his hand, glorifies his name."
+        ],
+        "Philip Schaff": [
+            "If thou believedst, thou shouldest see the glory of God.\" ",
+            "Martha would have prevented the removal of the stone; but this wish was but a symbol of a real hindrance in the Saviour\u2019s way, her decline in faith.",
+            "She has for the time come completely under the influence of \u2018the things seen:\u2019 the reality of her loss is too much for her, and she cannot join the words of Jesus in John 11:25-26 with His present actions."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus pointedly reminds Martha of his promise to raise Lazarus.",
+            "He meant to test Martha as to her faith already hinted at on this very point.",
+            "Jesus means the glory of God as shown in the resurrection of Lazarus."
+        ],
+        "John Gill": [
+            "That if thou wouldst believe thou shouldest see the glory of God.",
+            "To 'see the glory of God' is to see Christ, who is the brightness of his father's glory.",
+            "Such who have their faith most in exercise, see much of the glory of God."
+        ],
+        "John Wesley": [
+            "Said I not \u2014 It appears by this, that Christ had said more to Martha than is before recorded."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Martha, in her anxiety for decorum, hesitated to fully embrace the possibility of Jesus raising Lazarus from the dead. Jesus rebukes her, reminding her of the importance of simple faith in witnessing the unfolding of the resurrection and the glory of God. He tests Martha's faith, pointing to his promise to raise Lazarus and emphasizing that all things are possible through belief. Martha\u2019s struggle to fully trust in the power of God is reflected in her desire to prevent the removal of the stone. However, faith opens our eyes to see the power of God's hand displayed in miracles, and by believing, we can truly behold the glory of God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.1394533615672584,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.48,
+            "commentatorTierSimilarities": [
+                34.0,
+                36.19,
+                29.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Martha, longing for something to be done, hesitated to open the cave due to her anxiety for decorum. Jesus rebukes this mindset, reminding her that simple faith is necessary to witness the unfolding of the resurrection and the glory of God. By testing Martha's faith, Jesus reminds her of his promise and the power of belief. Faith opens our eyes to see God's power in miracles, allowing us to behold His glory. Trusting in God's ability to perform the impossible leads to seeing the resurrection revealed.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.1001427802255286,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.17,
+            "commentatorTierSimilarities": [
+                34.28,
+                34.87,
+                30.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Martha's cautiousness about opening the cave concealed her expectation for something to be done. Jesus reproves her reluctance, emphasizing the importance of simple faith in witnessing the unveiling of the resurrection and the glory of God. By reminding Martha of his promise to raise Lazarus, Jesus aims to test her faith. Belief opens our eyes to behold the power of God in His miraculous works, allowing us to truly witness His glory. Trusting in God's ability to perform the impossible unlocks the sight of His resurrection power.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 2.0680682479721844,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                34.83,
+                34.41,
+                30.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Martha wrestled with the balance between her expectation for something miraculous to occur and her concern for decorum. Jesus gently rebukes this mindset, reminding her of the importance of simple faith in witnessing the revealing of the resurrection and the glory of God. By testing Martha's faith, Jesus underscores his promise to raise Lazarus and highlights the limitless possibilities that belief brings. Through faith, our eyes are opened to witness the power and glory of God displayed in miraculous acts. Trusting in God's capabilities allows us to truly see His resurrection power at work.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.0586609861164877,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+            "commentatorTierSimilarities": [
+                33.41,
+                35.93,
+                30.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Martha, balancing her expectation for a miracle with her concern for decorum, hesitated to open the cave. Jesus gently reproves her, pointing her towards the necessity of simple faith to behold the unfolding of the resurrection and the glory of God. He tests Martha's faith by reminding her of his promise to raise Lazarus and encourages her to believe in the limitless possibilities that faith brings. Through faith, our eyes are opened to witness the power and glory of God displayed in miraculous acts, truly unveiling His resurrection power.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.0817130174136063,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                34.33,
+                36.03,
+                29.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

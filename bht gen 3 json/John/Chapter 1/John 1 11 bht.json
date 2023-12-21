@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:04:05",
+    "verseRef": "John 1:11",
+    "bestBHT": {
+        "bht": "The Word came to his own, Jud\u00e6a, and the Jews, his own people, did not receive him. This rejection displayed the wickedness and malice of men, failing to acknowledge or receive the manifestation of the Son of God. This unfaithfulness to the truth was a recurring theme in the history of Israel.",
+        "wordCount": 52,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.9905318259201819,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+        "commentatorTierSimilarities": [
+            29.1,
+            34.81,
+            36.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first his own is neuter\u2014his own things, or possessions: the second, masculine, his own people.",
+            "His own things here cannot well mean the world, or his own people mankind in general.",
+            "But abundance of passages bear out the meaning which makes the former His own inheritance or possession, i.e. Jud\u00e6a; and the latter, the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His own (people)\"; for now the word is masculine. It means the Jews, as the \"peculiar people.",
+            "Both they and their land, with all that this included, were 'HIS OWN,' not so much as part of 'the world which was made by Him,\" but as 'THE HEIR' of the inheritance.",
+            "Received him not\u2014nationally, as God's chosen witnesses."
+        ],
+        "Albert Barnes": [
+            "He came unto his own - His own 'land' or 'country.' It was called his land because it was the place of his birth, and also because it was the chosen land where God delighted to dwell and to manifest his favor.",
+            "His own - His own 'people.' They were his people, because God had chosen them to be his above all other nations; had given to them his laws; and had signally protected and favored them.",
+            "Received him not - Did not acknowledge him to be the Messiah. They rejected him and put him to death, agreeably to the prophecy."
+        ],
+        "John Calvin": [
+            "Here is displayed the absolutely desperate wickedness and malice of men; here is displayed their execrable impiety, that when the Son of God was manifested in flesh to the Jews, he was not acknowledged or received.",
+            "The Son of God had solicited an abode for himself in one nation; when he appeared there, he was rejected; and this shows clearly the awfully wicked blindness of men.",
+            "He came. The Evangelist says that the Son of God came to that place where he formerly was; and by this expression he must mean a new and extraordinary kind of presence, by which the Son of God was manifested, so that men might have a nearer view of him."
+        ],
+        "Philip Schaff": [
+            "He came unto his own home, and his own accepted him not.",
+            "Every change seems to point to a more intimate relationship, a clearer manifestation, and a rejection that is still more without excuse.",
+            "In the whole history of Israel had been illustrated unfaithfulness to the truth."
+        ],
+        "Archibald T. Robertson": [
+            "Unto his own things,\" the very idiom used in John 19:27 when the Beloved Disciple took the mother of Jesus \"to his own home.",
+            "His own family,\" \"his own friends\" as in John 13:1.",
+            "Israel slew the Heir (Hebrews 1:2) when he came, like the wicked husbandmen (Luke 20:14)."
+        ],
+        "John Gill": [
+            "By his own are meant the whole body of the Jewish nation; so called, because they were chosen by the Lord above all people; had distinguishing favours bestowed upon them.",
+            "Now Christ, the word, came to the Jews before his incarnation, not only in types, personal and real, and in promises and prophecies, and in the word and ordinances, but in person.",
+            "They did not believe in him, nor obey his voice; they rebelled against him, and tempted him often, particularly at Massah and Meribah; they provoked trim to anger, and vexed, and grieved his holy Spirit."
+        ],
+        "John Wesley": [
+            "He came \u2014 In the fulness of time, to his own - Country, city, temple: And his own - People, received him not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Word came to his own, it was not just to any place or people, but specifically to his own inheritance and possession, Jud\u00e6a, and his own people, the Jews. However, tragically, the Jews, as God's chosen witnesses, nationally rejected him, just as they had slain the Heir when he came. The Son of God, desiring to make his home among them, faced an execrable impiety and awfully wicked blindness from humanity. The rejection displayed the desperate wickedness and malice of men, as they failed to acknowledge or receive the manifestation of the Son of God. This unfaithfulness to the truth was a recurring theme in the history of Israel.",
+            "wordCount": 112,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0218582017093296,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.57,
+            "commentatorTierSimilarities": [
+                31.76,
+                31.64,
+                36.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Word came to his own, his own inheritance and possession, Jud\u00e6a, and his own people, the Jews, rejected him. The Son of God, desiring to make his home among them, faced an execrable impiety and wicked blindness from humanity. The rejection displayed the desperate wickedness and malice of men, failing to acknowledge or receive the manifestation of the Son of God. This unfaithfulness to the truth was a recurring theme in the history of Israel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9285953090292611,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                31.0,
+                32.38,
+                36.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Word came to his own, his own inheritance and possession, Jud\u00e6a, and his own people, the Jews, rejected him. The Son of God, desiring to make his home among them, faced an execrable impiety and awfully wicked blindness from humanity. The rejection displayed the desperate wickedness and malice of men, as they failed to acknowledge or receive the manifestation of the Son of God. This unfaithfulness to the truth was a recurring theme in the history of Israel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9538784087677972,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                30.71,
+                32.59,
+                36.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Word came to his own, Jud\u00e6a, and the Jews, his own people, did not receive him. This rejection displayed the wickedness and malice of men, failing to acknowledge or receive the manifestation of the Son of God. This unfaithfulness to the truth was a recurring theme in the history of Israel.",
+            "wordCount": 52,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9905318259201819,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                29.1,
+                34.81,
+                36.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Word came to his own inheritance, Jud\u00e6a, and his own people, the Jews, rejected him. The Son of God desired to make his home among them but faced execrable impiety and wicked blindness from humanity. This rejection revealed the desperate wickedness and malice of men, who failed to acknowledge or receive the manifestation of the Son of God. This unfaithfulness to the truth was a recurring theme in the history of Israel.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9306911077092355,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                30.83,
+                32.1,
+                37.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

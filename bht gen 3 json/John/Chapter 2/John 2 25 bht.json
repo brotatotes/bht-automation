@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:04:33",
+    "verseRef": "John 2:25",
+    "bestBHT": {
+        "bht": "Nothing less than divine knowledge is here set forth. Christ himself knew what was in man and knew all men. This supernatural knowledge of man is a mark of his deity. He perceived everything in men, could distinguish between a wicked man and a good man, and knew the secret springs of all actions. This knowledge that Christ possesses shows him to be a suitable Savior of sinners and qualifies him to be the Judge of the whole earth.",
+        "wordCount": 79,
+        "quoteTokenProportion": 49.02,
+        "qualityScore": 1.9696446709617281,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+        "commentatorTierSimilarities": [
+            29.16,
+            32.8,
+            38.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nothing less than divine knowledge is here set forth.",
+            "The words are even stronger than if the reference had been to the persons here mentioned.",
+            "It asserts an entire knowledge of all that is in all men."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25. knew what was in man\u2014It is",
+            "\timpossible for language more clearly to assert of Christ what in",
+            "\tJeremiah 17:9; Jeremiah 17:10,",
+            "\tand elsewhere, is denied of all mere creatures."
+        ],
+        "Albert Barnes": [
+            "He knew what was in man - This he did because he had made all.",
+            "There can be no higher evidence than this that he was omniscient, and was therefore divine.",
+            "He also knows the wants and desires of all his real friends. He hears their groans, he sees their sighs, he counts their tears, and in the day of need will come to their relief."
+        ],
+        "Marvin Vincent": [
+            "He himself knew.",
+            "He knew what was in man.",
+            "He knew all men."
+        ],
+        "John Calvin": [
+            "Christ perceived every thing in men that is concealed from our view, so that he could on his own authority make a distinction among men.",
+            "Christ, therefore, who knows the hearts, had no need of any one to inform him what sort of men they were.",
+            "That we may not always be deceived by hypocrites, and that the Church may not be too much exposed to their wicked impostures, it belongs to Christ to impart to us the Spirit of discretion."
+        ],
+        "Archibald T. Robertson": [
+            "And because he did not have need.",
+            "For he himself kept on knowing.",
+            "This supernatural knowledge of man is a mark of deity."
+        ],
+        "John Gill": [
+            "He needed no proofs to be made, or testimonies bore, or evidence given of men's characters and actions; he was of quick understanding, and could distinguish at once between a wicked man and a good man.",
+            "Christ being God, knows all that is in man; that there is no good in him naturally, nothing but what comes from his Father, is imparted by himself, or implanted by his Spirit.",
+            "He knows the secret springs of all actions, good and bad; all which prove his true and proper deity, and show him to be a suitable Savior of sinners, and qualify him to be the Judge of the whole earth."
+        ],
+        "John Wesley": [
+            "He \u2014 To whom all things are naked, knew what was in man - Namely, a desperately deceitful heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nothing less than divine knowledge is set forth in this verse. It asserts an entire knowledge of all that is in all men. Christ himself knew what was in man and knew all men. This supernatural knowledge of man is a mark of his deity. He perceived everything in men, could distinguish between a wicked man and a good man, and knew the secret springs of all actions. This knowledge that Christ possesses shows him to be a suitable Savior of sinners and qualifies him to be the Judge of the whole earth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.009294180287455,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                30.77,
+                31.7,
+                37.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nothing less than divine knowledge is set forth in this passage. Christ himself knew what was in man and knew all men. This supernatural knowledge of man is a mark of his deity. He perceived everything in men, could distinguish between a wicked man and a good man, and knew the secret springs of all actions. This knowledge that Christ possesses shows him to be a suitable Savior of sinners and qualifies him to be the Judge of the whole earth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.9700275521798671,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                28.89,
+                32.85,
+                38.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Nothing less than divine knowledge is here set forth. Christ himself knew what was in man and knew all men. This supernatural knowledge of man is a mark of his deity. He perceived everything in men, could distinguish between a wicked man and a good man, and knew the secret springs of all actions. This knowledge that Christ possesses shows him to be a suitable Savior of sinners and qualifies him to be the Judge of the whole earth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.9696446709617281,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                29.16,
+                32.8,
+                38.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse portrays a remarkable display of divine knowledge, asserting an entire understanding of all that resides within humankind. Christ, possessing supernatural insight, comprehended the true nature of mankind and had an intimate awareness of individuals. This extraordinary knowledge demonstrated his status as deity, enabling him to perceive every hidden aspect of human behavior and discern between the righteous and the wicked. Such profound understanding qualifies him as the Savior of sinners and fittingly equips him to serve as the ultimate Judge.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.8353102588585355,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                24.55,
+                34.98,
+                40.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse reveals the extraordinary divine knowledge possessed by Christ. He had an entire understanding of all that resides within humankind, knowing what was in man and knowing all men. This supernatural perception marks his deity and allows him to discern between the righteous and the wicked, perceiving every hidden aspect of human behavior. Such profound understanding qualifies him as the Savior of sinners and fittingly equips him to serve as the ultimate Judge.\n",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.8609908726028905,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.22,
+            "commentatorTierSimilarities": [
+                25.09,
+                36.39,
+                38.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

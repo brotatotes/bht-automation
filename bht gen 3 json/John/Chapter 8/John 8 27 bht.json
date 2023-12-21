@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:08:35",
+    "verseRef": "John 8:27",
+    "bestBHT": {
+        "bht": "The listeners failed to grasp that he that sent me referred to God the Father. Despite the clarity of Jesus' words, their unbelief and preoccupation with an earthly deliverer hindered their understanding. The Evangelist emphasizes the certainty of this fact and highlights the importance of correcting our misconceptions. Jesus, by claiming the Divine name and speaking plainly of the Father, reveals the comprehensive nature of God's grace and the entirety of His redemptive plan.",
+        "wordCount": 75,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 1.7538367014878564,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.66,
+        "commentatorTierSimilarities": [
+            28.33,
+            40.86,
+            30.81
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They did not identify 'him that sent me' with 'my Father.' However improbable this may be, after the plain words 'the Father that sent me,' in ver. 18, it is stated as a fact.",
+            "There is no accounting for the ignorance of unbelief, as any minister of Christ knows by painful experience.",
+            "The Evangelist certainly would not have done so without some sure ground."
+        ],
+        "Albert Barnes": [
+            "They understood not - They knew not, or they were unwilling to receive him as a messenger from God.",
+            "They doubtless understood that he meant to speak of God, but they were unwilling to acknowledge that he really came from God."
+        ],
+        "Marvin Vincent": [
+            "They understood [\u03b5\u03b3\u03bd\u03c9\u03c3\u03b1\u03bd] . Perceived, as Rev. ",
+            "He spake. Imperfect. Was speaking would be much better."
+        ],
+        "John Calvin": [
+            "Hence we see how stupid those men are whose understandings are possessed by Satan.",
+            "Nothing could be more plain than that they were summoned to the judgment-seat of God.",
+            "But what then? They are altogether blind."
+        ],
+        "Philip Schaff": [
+            "This statement of the Evangelist is very remarkable; and, as it is so different from anything we might have expected, its importance as a guide and correction is the greater.",
+            "Hence though we might have over-looked the fact but for the Evangelist\u2019s timely words we cannot feel great surprise that these hearers had not yet perceived that Jesus was making mention of 'the Father.'",
+            "In this Name and in the words just spoken is contained the whole economy of grace."
+        ],
+        "Archibald T. Robertson": [
+            "Preoccupied as they were with thoughts of an earthly deliverer\" (Westcott) and prejudiced against recognizing Jesus as the one sent from God.",
+            "Indirect assertion, but with the present indicative (\u03bb\u03b5\u03b3\u03b5) changed to the imperfect (\u03b5\u03bb\u03b5\u03b3\u03b5\u03bd) as was sometimes done (John 2:25) after a secondary tense."
+        ],
+        "John Gill": [
+            "They understood not that he spake to them of the Father.",
+            "Their hearts were made fat, and hardened, and their eyes were blinded.",
+            "They did not know that he meant God the Father by him that sent him."
+        ],
+        "John Wesley": [
+            "They understood not... he meant God the Father.",
+            "He speaks plainly of the Father.",
+            "He... again claims the Divine name, I AM."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people listening to Jesus did not recognize that when he said, he that sent me, he was referring to God the Father. Their lack of understanding can be attributed to their preoccupation with an earthly deliverer and their prejudice against acknowledging Jesus as a messenger from God. The Evangelist emphasizes the significance of this fact, highlighting the correction it provides. It is evident that these listeners were either unwilling or unable to perceive that Jesus was speaking of the Father. Their hearts were hardened and their eyes blinded to the truth that Jesus was making mention of God the Father. Yet, Jesus, in claiming the Divine name and speaking plainly of the Father, reveals the full extent of God's grace and the entire economy of His redemptive plan.",
+            "wordCount": 130,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.9711173504599535,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                27.05,
+                40.99,
+                31.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people listening to Jesus did not recognize that when he said, he that sent me, he was referring to God the Father. Their lack of understanding can be attributed to their preoccupation with an earthly deliverer and their prejudice against acknowledging Jesus as a messenger from God. The Evangelist emphasizes the significance of this fact, highlighting the correction it provides. It is evident that these listeners were either unwilling or unable to perceive that Jesus was speaking of the Father. Their hearts were hardened and their eyes blinded to the truth that Jesus was making mention of God the Father. Yet, Jesus, in claiming the Divine name and speaking plainly of the Father, reveals the full extent of God's grace and the entire economy of His redemptive plan.",
+            "wordCount": 130,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.9711173504599535,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                27.05,
+                40.99,
+                31.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The listeners did not identify him that sent me with my Father despite the clear words in verse 18. Their ignorance of unbelief is inexplicable, but the Evangelist assures that he would not state it without certainty. Their preoccupation with an earthly deliverer and prejudice against recognizing Jesus as the one sent from God hindered their understanding. However, Jesus, by claiming the Divine name and speaking plainly of the Father, reveals the complete economy of grace and the extent of God's redemptive plan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9015736683923037,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                29.98,
+                41.11,
+                28.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The listeners failed to grasp that he that sent me referred to God the Father. Despite the clarity of Jesus' words, their unbelief and preoccupation with an earthly deliverer hindered their understanding. The Evangelist emphasizes the certainty of this fact and highlights the importance of correcting our misconceptions. Jesus, by claiming the Divine name and speaking plainly of the Father, reveals the comprehensive nature of God's grace and the entirety of His redemptive plan.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.7538367014878564,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.66,
+            "commentatorTierSimilarities": [
+                28.33,
+                40.86,
+                30.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They did not recognize that Jesus was referring to God the Father when he spoke of he that sent me. Their lack of understanding may be attributed to their preoccupation with an earthly deliverer and their reluctance to accept Jesus as a messenger from God. The Evangelist emphasizes the importance of this fact, affirming its certainty as a guide and a correction. Their failure to perceive that Jesus was speaking of the Father can be attributed to their hardened hearts and blinded eyes. Nevertheless, Jesus, by claiming the Divine name and speaking openly about the Father, reveals the entirety of God's redemptive plan and the boundless nature of His grace.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9607868330411946,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.54,
+            "commentatorTierSimilarities": [
+                27.42,
+                42.05,
+                30.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

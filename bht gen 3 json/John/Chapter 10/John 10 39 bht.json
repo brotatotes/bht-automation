@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:10:08",
+    "verseRef": "John 10:39",
+    "bestBHT": {
+        "bht": "The crowd, who perfectly understood Jesus' declaration to be God throughout their dialogue, made yet another futile attempt to seize him. However, Jesus miraculously withdrew himself from their midst, escaping their grasp. Overawed by his words, the stones they intended to throw fell to the ground as Jesus walked away. While their anger towards him remained, they gave up their effort to harm him. This escape, reminiscent of previous instances, demonstrated Jesus' divine power and the fulfillment of his purpose.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.9775515375705597,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+        "commentatorTierSimilarities": [
+            31.05,
+            31.5,
+            37.44
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The attempt to stone Him seems to have been abandoned.",
+            "they tried again to take Him into custody",
+            "He (miraculously?) withdrew Himself from them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They saw perfectly well that He meant to 'make Himself God' throughout all this dialogue.",
+            "True to their original understanding of His words.",
+            "He escaped out of their hand."
+        ],
+        "Albert Barnes": [
+            "They evidently understood him as still claiming equality with God, and under this impression Jesus left them.",
+            "Nor can it be doubted that he intended to leave them with this impression; and if so, then he is divine.",
+            "He escaped."
+        ],
+        "Marvin Vincent": [
+            "Again. Pointing back to John 7:30, John 7:32, John 7:44, where the word piasai, to seize, is found.",
+            "Escaped out of [\u03b5\u03be\u03b7\u03bb\u03b8\u03b5\u03bd \u03b5\u03ba] . Rev., literally, went forth out of. The phrase occurs only here."
+        ],
+        "John Calvin": [
+            "This reminds us that we are not exposed to the lawless passions of wicked men, which God restrains by his bridle, whenever he thinks fit.",
+            "This was undoubtedly that they might drive him out of the temple, and immediately stone him; for their rage was not at all abated by the words of Christ.",
+            "As to what the Evangelist says, that he escaped out of their hands, this could not be accomplished in any other way than by a wonderful exertion of Divine power."
+        ],
+        "Philip Schaff": [
+            "\u2018Again\u2019 seems to point back to chap. 7, where the same word \u2018seize\u2019 is found three times (John 7:30; John 7:32; John 7:44).",
+            "We cannot suppose that the Jews had laid aside their design of stoning Him in consequence of the words just spoken, for these words would either lead to faith or repel to greater enmity.",
+            "For some reason not mentioned they now seek not to stone Him on the spot, but to seize Him and carry Him away."
+        ],
+        "Archibald T. Robertson": [
+            "They kept on seeking to seize...but in vain.\" ",
+            "They gave up the effort to stone him.",
+            "Overawed, but still angry, the stones fell to the ground, and Jesus walked out."
+        ],
+        "John Gill": [
+            "He being so far from clearing himself from the charge of blasphemy, they had brought against him, that in their opinion he had greatly strengthened it.",
+            "They thought they had now sufficient proof and evidence to convict him as a blasphemer, in their high court of judicature.",
+            "He escaped out of their hands... not through fear of death, but because his time was not yet come, and he had other work to do."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, the people once again attempted to seize Jesus, fully aware of his claims to be God. However, miraculously, he escaped from their grasp. The repeated attempts to seize him point back to previous instances where the crowd sought to stone him. It is clear that their anger towards Jesus remained, but they were overawed by his words and their stones fell to the ground as he walked away. Jesus intentionally left them with the impression that he is divine, causing them to question and reaffirm their understanding of his claims. Despite their ongoing efforts, he eluded their grasp, not out of fear, but because his time had not yet come.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.0375305859448685,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                30.93,
+                33.16,
+                35.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their ongoing quest to seize Jesus, the crowd, fully aware of his intention to make himself God, attempted to stone him once again. However, Jesus miraculously escaped their clutches, leaving them overawed but still angry. The repeated attempts to seize him underscore the seriousness of their hostility towards him. Despite their persistent efforts, Jesus managed to elude their grasp, not out of fear, but because his appointed time had not yet arrived.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.950629955279346,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.2,
+            "commentatorTierSimilarities": [
+                30.13,
+                31.23,
+                38.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowd, who perfectly understood Jesus' declaration to be God throughout their dialogue, made yet another futile attempt to seize him. However, Jesus miraculously withdrew himself from their midst, escaping their grasp. Overawed by his words, the stones they intended to throw fell to the ground as Jesus walked away. While their anger towards him remained, they gave up their effort to harm him. This escape, reminiscent of previous instances, demonstrated Jesus' divine power and the fulfillment of his purpose.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9775515375705597,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+            "commentatorTierSimilarities": [
+                31.05,
+                31.5,
+                37.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their repeated attempts to seize Jesus, fully aware of his claims to be God, were ultimately in vain. Despite their anger and determination, Jesus miraculously escaped from their clutches, leaving them overawed but unsuccessful in their pursuit. The fact that Jesus repeatedly eluded their grasp showcases his divine power and purpose, signifying that his time had not yet come. Their failure to seize him only served to reinforce their understanding of his words and the strength of their accusations against him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9537724634942522,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.3,
+            "commentatorTierSimilarities": [
+                27.64,
+                32.22,
+                40.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite the crowd's repeated attempts to seize Jesus, fully aware of his claim to be God, he miraculously escaped from their clutches. This escape not only left them overawed but also reinforced their understanding of his words. Jesus eluded their grasp, not out of fear, but because his time had not yet come. Through his actions, he demonstrated his divine power and the fulfillment of his purpose, leaving the crowd in awe and disbelief.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.893836855808092,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                25.75,
+                33.78,
+                40.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

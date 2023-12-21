@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:08:17",
+    "verseRef": "John 7:53",
+    "bestBHT": {
+        "bht": "The inclusion of this fragment raises doubts about its authenticity but its connection to the woman taken in adultery suggests it occurs towards the end of Jesus' ministry. It serves as a stark illustration of the destructive power of pride, envy, contempt, and anger when directed against Jesus. God's intervention is apparent as a tumult arises, causing the assembly to disperse and ensuring Jesus' safety. It highlights the futile endeavors of Jesus' opponents and bears witness to the divine wisdom manifested in this incident.",
+        "wordCount": 85,
+        "quoteTokenProportion": 26.23,
+        "qualityScore": 1.8046330503839987,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+        "commentatorTierSimilarities": [
+            34.29,
+            41.73,
+            23.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The circumstance that this verse is included in the dubious passage is remarkable, and seems to shew, as remarked above, that the doubt has not arisen from any ethical difficulty.\" (Commentary)",
+            "We must now regard it as fragmentary, forming the beginning of the account of the woman taken in adultery.\" (Commentary)",
+            "Taken in conjunction with what follows, I should say that they indicate some time during the last days of the Lord\u2019s ministry.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "finding their plot could not at that time be carried into effect.",
+            "Is your rage thus impotent, ye chief priests?",
+            "Is your rage thus impotent?"
+        ],
+        "Albert Barnes": [
+            "It is a most instructive and melancholy exhibition of the influence of pride, envy, contempt, and anger, when brought to bear on an inquiry, and when they are manifestly opposed to candor, to argument, and to truth.",
+            "So wild and furious are the passions of men when they oppose the person and claims of the Son of God!",
+            "It is remarkable, too, how God accomplishes his purposes. They wished to destroy Jesus. God suffered their passions to be excited, a tumult to ensue, the assembly thus to break up in disorder, and Jesus to be safe, for his time had not yet come."
+        ],
+        "Marvin Vincent": [
+            "This verse, and the portion of Chapter 8, as far as ver. 12, are generally pronounced by the best critical authorities not to belong to John's Gospel. "
+        ],
+        "John Calvin": [
+            "If any one take into account what was the reign of the priests at that time, with what rage they were excited, and how vast was their retinue, and, on the other hand, if he consider that Christ was unarmed and defenceless, and that there was no body of men to protect him, the conclusion must be, that it was all over with him a hundred times.",
+            "When so formidable a conspiracy is dissolved of its own accord, and when all those men, like waver of the sea, break themselves by their own violence, who will not acknowledge that they were scattered by the hand of God?",
+            "And we have often found that, whatever contrivances our enemies have made to extinguish the Gospel, yet by the amazing kindness of God, it immediately fell powerless to the ground."
+        ],
+        "Philip Schaff": [
+            "The narrative before us to be no genuine part of the Gospel of John.",
+            "It bears the almost unmistakeable impress of a wisdom which could not have originated with the men of our Lord\u2019s time, and which the world even in our own time hardly comprehends.",
+            "It may be noted in addition that the incident bears in its spirit a striking similarity to that recorded in Mark 12:13-17."
+        ],
+        "Archibald T. Robertson": [
+            "This verse and through John 8:12 (the passage concerning the woman taken in adultery) is certainly not a genuine part of John's Gospel.\" ",
+            "It is probably a true story for it is like Jesus, but it does not belong to John's Gospel.\" ",
+            "First aorist passive indicative of \u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03b1 used as a deponent verb without passive idea. In this context the verb has to refer to the Sanhedrin with a rather pointless contrast to Jesus."
+        ],
+        "John Gill": [
+            "The officers not bringing Jesus with them, and the sanhedrim being posed with Nicodemus, broke up without doing any business, and every member of it went home.",
+            "This we may suppose was about the time of the evening sacrifice.",
+            "After the evening daily sacrifice, the sanhedrim went, 'to their own houses'; as they now did, and not to their booths, the feast of tabernacles being now over."
+        ],
+        "John Wesley": [
+            "So that short plain question of Nicodemus spoiled all their measures, and broke up the council!",
+            "A word spoken in season, how good it is!",
+            "Especially when God gives it his blessing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fragmentary nature of this verse, along with the following passage, indicates that it might be the beginning of the account of the woman taken in adultery, occurring during the last days of the Lord's ministry. It is worth noting that the best critical authorities doubt the authenticity of this verse and do not consider it to be a genuine part of John's Gospel. However, this passage serves as a powerful reminder of the destructive influence of pride, envy, contempt, and anger when they are directed against Jesus. Despite the violent passions of the adversaries, God allowed a tumult to arise, dispersing the assembly and ensuring Jesus' safety because his time had not yet come. This incident exposes the futile attempts of Jesus' enemies and the wisdom of his divine origins.",
+            "wordCount": 133,
+            "quoteTokenProportion": 32.58,
+            "qualityScore": 1.9501370801666584,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                38.01,
+                39.3,
+                22.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The doubt surrounding this verse's authenticity, coupled with its connection to the woman taken in adultery, suggests that it occurs during the final days of Jesus' ministry. While various commentators question its inclusion in John's Gospel, its portrayal of the destructive influence of pride, envy, contempt, and anger against Jesus is instructive. God's intervention is evident, allowing a tumult to disrupt the assembly and ensuring Jesus' safety. This incident showcases the futility of Jesus' adversaries and attests to the wisdom beyond human comprehension.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.875537285080609,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                36.2,
+                42.02,
+                21.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The dubious nature of this passage, along with its potential connection to the woman taken in adultery, points to its occurrence during the final days of Jesus' ministry. While some question its authenticity, it serves as a powerful reminder of the destructive influence of pride, envy, contempt, and anger against Jesus. God's intervention becomes evident as a tumult disrupts the assembly, safeguarding Jesus from harm. This incident highlights the futility of Jesus' adversaries and reveals the wisdom beyond human comprehension.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8391442172888595,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                32.76,
+                42.48,
+                24.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The inclusion of this verse in a dubious context suggests that the doubt surrounding it does not stem from ethical concerns. It appears to be a fragmentary account of the woman taken in adultery, possibly taking place during the last days of Jesus' ministry. Although critics question its authenticity, this passage vividly demonstrates the detrimental effects of pride, envy, contempt, and anger when directed against Jesus. God's intervention is evident as a tumult arises, dispersing the assembly and ensuring Jesus' safety. This incident reveals the futile attempts of Jesus' adversaries and attests to the divine wisdom behind it.",
+            "wordCount": 99,
+            "quoteTokenProportion": 29.33,
+            "qualityScore": 1.7708629180401854,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                38.92,
+                38.84,
+                22.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inclusion of this fragment raises doubts about its authenticity but its connection to the woman taken in adultery suggests it occurs towards the end of Jesus' ministry. It serves as a stark illustration of the destructive power of pride, envy, contempt, and anger when directed against Jesus. God's intervention is apparent as a tumult arises, causing the assembly to disperse and ensuring Jesus' safety. It highlights the futile endeavors of Jesus' opponents and bears witness to the divine wisdom manifested in this incident.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.8046330503839987,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                34.29,
+                41.73,
+                23.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

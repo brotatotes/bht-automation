@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:08:34",
+    "verseRef": "John 8:12",
+    "bestBHT": {
+        "bht": "During the feast of tabernacles, Jerusalem was illuminated by two large golden chandeliers. In the midst of this celebration, Jesus declared, I am the light of the world, a claim that startled the Pharisees and challenged their opposition. By closely following Christ, believers receive the divine light, guiding them away from darkness and towards a life filled with knowledge, holiness, and joy. This light of life leads them to everlasting life, illuminating their path with the truth and freeing them from spiritual darkness.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 2.114636320829817,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+        "commentatorTierSimilarities": [
+            34.28,
+            30.48,
+            35.24
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was the custom during the first night, if not during every night, of the feast of tabernacles, to light up two large golden chandeliers in the court of the women, the light of which illuminated all Jerusalem.",
+            "Surely to say in both cases, as L\u00fccke and De Wette do, that the allusion could not have been made unless the usage took place on that day, is mere trifling.",
+            "While the feast lasted, and the remembrance of the ceremonies was fresh, the allusion would be perfectly natural."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I AM THE LIGHT OF THE WORLD\"\u2014plainly in the most absolute sense.",
+            "he that followeth me\u2014as one does a light going before him, and as the Israelites did the pillar of bright cloud in the wilderness.",
+            "but shall have the light of life\u2014the light, as of a new world, a newly awakened spiritual and eternal life."
+        ],
+        "Albert Barnes": [
+            "I am the light of the world - See the notes at John 1:4, John 1:9."
+        ],
+        "Marvin Vincent": [
+            "The Word was among men as light before the incarnation, and light came with the incarnation.",
+            "The object of Christ's work is to make men sons of light and to endow them with the light of life.",
+            "Christ's disciples are the light of the world."
+        ],
+        "John Calvin": [
+            "It is a beautiful commendation of Christ, when he is called the light of the world; for, since we are all blind by nature, a remedy is offered, by which we may be freed and rescued from darkness and made partakers of the true light.",
+            "Hence it follows, that out of Christ there is not even a spark of true light. There may be some appearance of brightness, but it resembles lightning, which only dazzles the eyes.",
+            "We ought also to be powerfully affected by so large and magnificent a promise, that they who shall direct their eyes to Christ are certain that, even in the midst of darkness, they will be preserved from going astray; and that not only for a short period, but until they have finished their course."
+        ],
+        "Philip Schaff": [
+            "Like the water poured on the altar, the light may well have had a twofold symbolism, commemorating the mighty guidance of Israel by the pillar of fire, and also prefiguring the light which was to spring up in the times of Messiah.",
+            "He that followeth me shall in no wise walk in the darkness, but shall have the light of life.",
+            "No true disciple shall walk in the darkness, but shall have as his own inward possession the light of life, the light which life gives."
+        ],
+        "Archibald T. Robertson": [
+            "I am the light of the world...this supreme and exclusive claim of Jesus...to being the light of the whole world startled the Pharisees and challenged their opposition.",
+            "The light which springs from and issues in life...In this sublime claim we come to a decisive place.",
+            "Only as the Son of God can we justify and accept this language which otherwise is mere conceit and froth."
+        ],
+        "John Gill": [
+            "I am the light of the world; which he might say, on occasion of the rising sun, which was now up, and might shine brightly in their faces.",
+            "Christ came to be a light of the Gentiles, as well as the glory of his people Israel.",
+            "He that followeth me; not corporeally, but spiritually, by faith; for as believing is expressed by coming to Christ, so by following after him."
+        ],
+        "John Wesley": [
+            "He that followeth me shall in nowise walk in darkness \u2014 In ignorance, wickedness, misery: but shall have the light of life.",
+            "He that closely, humbly, steadily follows me, shall have the Divine light continually shining upon him.",
+            "diffusing over his soul knowledge, holiness, joy, till he is guided by it to life everlasting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the feast of tabernacles, two large golden chandeliers were lit up, illuminating all of Jerusalem. It is within the context of this vibrant celebration that Jesus proclaims, I am the light of the world. This claim startles the Pharisees and challenges their opposition. Christ, in the most absolute sense, is the light that brings forth a newly awakened spiritual and eternal life, shining as a beacon before his followers. By following him closely and humbly, believers are guided by the divine light, receiving knowledge, holiness, and joy, ultimately leading to everlasting life. It is through Christ, the true light, that we are delivered from darkness and made partakers of the abundant light of life.",
+            "wordCount": 115,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.1514525963420725,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                32.68,
+                31.9,
+                35.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the feast of tabernacles, two large golden chandeliers were lit up in the court of the women, illuminating all of Jerusalem. It was in the midst of this celebration that Jesus proclaimed, I am the light of the world. This powerful and exclusive claim startled the Pharisees and challenged their opposition. By closely and humbly following Christ, believers are guided by the divine light, receiving knowledge, holiness, and joy, leading to life everlasting. In Christ, we find deliverance from darkness and partake in the true light of life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0086720413600263,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                34.02,
+                31.31,
+                34.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the feast of tabernacles, two large golden chandeliers were lit up, illuminating all of Jerusalem. Christ seized this opportunity to boldly declare, I am the light of the world. This exclusive claim shook the Pharisees, challenging their opposition. By following Christ closely and humbly, believers receive the divine light, leading them away from darkness and towards the light of life. In Christ, we find deliverance from our spiritual blindness, and only through Him can we truly experience the radiance of true light.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.98222357615444,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                31.66,
+                32.55,
+                35.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the feast of tabernacles, two large golden chandeliers were lit up, illuminating Jerusalem. It is within this context that Jesus declared, I am the light of the world. This exclusive claim shocked the Pharisees and challenged their opposition. By closely following Christ, believers receive the divine light, leading them away from the darkness of ignorance and wickedness. Through this light, they are guided to a life filled with knowledge, holiness, and joy, ultimately reaching the eternal life that Christ offers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9566977124941092,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+            "commentatorTierSimilarities": [
+                34.02,
+                30.47,
+                35.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the feast of tabernacles, Jerusalem was illuminated by two large golden chandeliers. In the midst of this celebration, Jesus declared, I am the light of the world, a claim that startled the Pharisees and challenged their opposition. By closely following Christ, believers receive the divine light, guiding them away from darkness and towards a life filled with knowledge, holiness, and joy. This light of life leads them to everlasting life, illuminating their path with the truth and freeing them from spiritual darkness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.114636320829817,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                34.28,
+                30.48,
+                35.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

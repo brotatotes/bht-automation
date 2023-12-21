@@ -1,0 +1,78 @@
+# John 9:25 Commentary Help Text
+
+## BHT:
+The man shrewdly evades the Pharisees' inference and states, whereas I was blind, now I see. He refrains from insinuating any doubt about Jesus being a sinner but chooses to speak only to what he knows as fact in his own case. This straightforward response exposes the Pharisees' quibbling and emphasizes the life-changing experience the man has undergone.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The man shrewdly evades the inference and states again the simple fact." 
+2. "The shrewd and naïve disposition of the man furnishes the key to the ænigmatical expression." 
+3. "He puts it to them as the problem, the fact of which he knows for certain but the reason of which it was for them to solve."
+
+### Jamieson-Fausset-Brown:
+1. "Not that the man meant to insinuate any doubt in his own mind on the point of His being 'a sinner,' but as his opinion on such a point would be of no consequence to others..."
+2. "...he would speak only to what he knew as fact in his own case."
+3. "...he would speak only to what he knew as fact in his own case."
+
+### Albert Barnes:
+1. "Whether he be a sinner or no, I know not."
+2. "What follows shows that he did not believe that he was a sinner, and these words were probably spoken in irony to deride the Pharisees."
+3. "One thing I know ..."
+
+### John Calvin:
+1. "The blind man appears not to have been at all prevented by fear from giving a sincere testimony."
+2. "He had already confessed that Christ was a Prophet, (verse 17.) Perceiving that he gains nothing by doing so, he suspends his judgment about the person, and brings forward the fact itself."
+3. "While he makes this admission in their favor, he is not free from ridiculing them."
+
+### Philip Schaff:
+1. "Whether he be a sinner, I know not: one thing I know, that, whereas I was blind, now I see." 
+2. "His simplicity leaves them no real excuse for condemning."
+3. "He most effectually brings condemnation on his judges, who, had they been sincere, would first have sought certain knowledge of the fact."
+
+### Archibald T. Robertson:
+1. "One thing I know...He passes by their quibbling about Jesus being a 'sinner' and clings to the one fact of his own experience."
+2. "Whereas I was blind, now I see...Literally, 'Being blind I now see.'"
+3. "It must be borne in mind that the man did not at this stage know who Jesus was and so had not yet taken him as Saviour."
+
+### John Gill:
+1. "Whether he be a sinner or not, I know not...one thing I know, that whereas I was blind, now I see."
+2. "And so it is with persons enlightened in a spiritual sense, whatever things they may be ignorant of...yet this they know, that they were once blind, as to the knowledge of spiritual things."
+3. "But now they are comfortably assured, they see the exceeding sinfulness of sin, the plague of their own hearts, the insufficiency of their righteousness to justify them before God, and the beauty, fulness, suitableness, and ability of Christ as a Saviour."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-21-2023 03:09:30
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 59
+- BHT Commentary Usage: 46.94%
+- BHT Quality Score: 2.075842595836943
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (49):
+	['a', 'about', 'and', 'any', 'as', 'being', 'blind', 'but', 'case', 'changing', 'chooses', 'doubt', 'emphasizes', 'evades', 'experience', 'exposes', 'fact', 'from', 'has', 'he', 'his', 'i', 'in', 'inference', 'insinuating', 'jesus', 'knows', 'life', 'man', 'now', 'only', 'own', 'pharisees', 'quibbling', 'refrains', 'response', 'see', 'shrewdly', 'sinner', 'speak', 'states', 'straightforward', 'the', 'this', 'to', 'undergone', 'was', 'what', 'whereas']
+- ChatGPT injected words (significant words only) (26):
+	['blind', 'case', 'changing', 'chooses', 'doubt', 'emphasizes', 'evades', 'experience', 'exposes', 'fact', 'inference', 'insinuating', 'jesus', 'knows', 'life', 'man', 'pharisees', 'quibbling', 'refrains', 'response', 'shrewdly', 'sinner', 'speak', 'states', 'straightforward', 'undergone']
+
+### Logs
+- Attempt 1 BHT: The man in this passage cleverly avoids getting caught up in the Pharisees' questioning and restates the simple truth that he knows: whereas I was blind, now I see. He disregards their arguments about Jesus being a sinner and instead focuses on his own personal experience. He may not have known who Jesus was at this point, but he was certain about the impact Jesus had on his own life. This straightforward response not only exposes the Pharisees' insincerity but also highlights the transformative power of Jesus in opening the man's eyes to spiritual truths.
+- 🔄 John 9:25 (attempt 1, 96 words, 44.12% quotes quality score: 1.9196260735144883, V2 normalized quality score: 55.17, commentator tiers 1-3: 34.31%, 28.91%, 36.78%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 2 BHT: The man cleverly evades the Pharisees' questions and emphasizes the simple fact of his personal experience: whereas I was blind, now I see. He disregards their arguments about Jesus being a sinner and refrains from stating his opinion, focusing instead on what he knows as a fact in his own case. His straightforward response exposes the insincerity of the Pharisees and highlights the transformative power of Jesus in opening the man's eyes to spiritual truths.
+- 🔄 John 9:25 (attempt 2, 76 words, 38.18% quotes quality score: 2.0023744776313808, V2 normalized quality score: 57.92, commentator tiers 1-3: 33.4%, 29.47%, 37.13%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The man shrewdly evades the Pharisees' inference and states the simple fact that whereas he was blind, now he sees. He puts the problem to them, leaving it for them to solve the reason behind it. While he refrains from insinuating any doubt in his own mind about Jesus being a sinner, he chooses to speak only to what he knows as fact in his own case. This straightforward response exposes the Pharisees' quibbling and emphasizes the life-changing experience the man has undergone.
+- 🔄 John 9:25 (attempt 3, 84 words, 43.33% quotes quality score: 1.9308460536049992, V2 normalized quality score: 55.54, commentator tiers 1-3: 38.31%, 27.88%, 33.81%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The man shrewdly evades the Pharisees' inference and states the simple fact that whereas he was blind, now he sees. He puts the problem to them, leaving it for them to solve. He refrains from insinuating any doubt about Jesus being a sinner, choosing to speak only to what he knows as fact in his own case. This straightforward response exposes the Pharisees' quibbling and emphasizes the life-changing experience the man has undergone.
+- 🔄 John 9:25 (attempt 4, 74 words, 42.86% quotes quality score: 1.9235991588508332, V2 normalized quality score: 55.3, commentator tiers 1-3: 37.28%, 29.27%, 33.45%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The man shrewdly evades the Pharisees' inference and states, whereas I was blind, now I see. He refrains from insinuating any doubt about Jesus being a sinner but chooses to speak only to what he knows as fact in his own case. This straightforward response exposes the Pharisees' quibbling and emphasizes the life-changing experience the man has undergone.
+- 🔄 John 9:25 (attempt 5, 59 words, 46.94% quotes quality score: 2.075842595836943, V2 normalized quality score: 60.36, commentator tiers 1-3: 34.26%, 31.64%, 34.11%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ John 9:25 bht prompt v0.8 (59 words, 46.94% quotes)
+- quality score: 2.075842595836943, V2 normalized quality score: 60.36, commentator tiers 1-3: 34.26%, 31.64%, 34.11%)

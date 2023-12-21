@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:12:29",
+    "verseRef": "John 14:13",
+    "bestBHT": {
+        "bht": "Prayer is not limited to the Father alone, for when we pray, we are also praying to the Son. It is through the Spirit of grace and supplication that Jesus brings down upon the Church that we are empowered to do greater works. By accomplishing these works of grace and triumph, the Father's glory is made evident in and through the Son. When we pray in Jesus' name, our prayers must be consistent with His character and contribute to our salvation. Approaching God in the name of His Son grants us the privilege of receiving blessings and salvation.",
+        "wordCount": 99,
+        "quoteTokenProportion": 48.33,
+        "qualityScore": 2.123264462747852,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+        "commentatorTierSimilarities": [
+            32.02,
+            35.16,
+            32.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He who prays to the Father, prays to the Son.",
+            "This doing answers to the doing in ver. 12; the reason why you shall do these greater works, is, on account of the all-powerful Spirit of grace and supplication which My going to the Father shall bring down upon the Church.",
+            "And the end of this is, that by these greater works, the wonders of grace and triumphs of the Spirit, the Father may be glorified (His glory shewn forth) in and by the Son."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whatsoever ye . . . ask in my name\u2014as Mediator.\" ",
+            "That will I do\u2014as Head and Lord of the kingdom of God.",
+            "This comprehensive promise is emphatically repeated."
+        ],
+        "Albert Barnes": [
+            "If a man who has money in a bank authorizes us to draw it, we are said to do it in his name.",
+            "So we are permitted to apply to God in the name of his Son Jesus Christ, because God is in him well pleased.",
+            "No privilege is greater than that of approaching God in the name of his Son; no blessings of salvation can be conferred on any who do not come in his name."
+        ],
+        "Marvin Vincent": [
+            "Prayer is made in the name of Jesus, 'if this name, Jesus Christ, as the full substance of the saving faith and confession of him who prays, is, in his consciousness, the element in which the prayerful activity moves...\" (Meyer)",
+            "The express use of the name of Jesus therein is no specific token; the question is of the spirit and mind of him who prays\" (Meyer).",
+            "The prayer in Christ's name must be consistent with Christ's character, and that He fulfills it as Savior, and therefore just so far as it conduces to salvation\" (Augustine, cited by Westcott)."
+        ],
+        "John Calvin": [
+            "And whatever you ask in my name, that I will do.",
+            "The end of all things is the sanctification of the name of God; but here the true method of sanctifying it is declared; that is, in the Son, and by the Son.",
+            "In the benefits which the Father bestows upon us, we have no right to separate the Father from the Son."
+        ],
+        "Archibald T. Robertson": [
+            "This is an advance thought over verse John 14:12.",
+            "First mention of his 'name' as the open sesame to the Father's will.",
+            "Plead Christ's name in prayer to the Father."
+        ],
+        "John Gill": [
+            "And whatsoever ye shall ask in my name,.... Whether it be for assistance in preaching of the Gospel; or for the performance of miraculous operations in confirmation of it; or for success to attend it; or for any blessings whatsoever, whether for themselves or others...\" ",
+            "that will I do; he does not say, that he would be a Mediator between God, and them, an advocate with the Father for them, and would intercede, and use his interest with him that it might be done... but he declares he will do it himself, which is a proof of his deity, and an instance of his omnipotence...",
+            "that the Father may be glorified in the Son. This may be referred either to the petition, which must be made with this view, that the Father may be glorified by, or in the Son, in whose name it is put up, and for whose sake it is made; or to Christ's promise to do it; who in doing it, seeks not his own glory, at least not singly; but as the good of his people, so the glory of his heavenly Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we pray to the Father, we are also praying to the Son. The reason why we are able to do greater works is because of the all-powerful Spirit of grace and supplication that Jesus brought down upon the Church when He went to the Father. By these greater works of grace and triumph, the Father's glory is shown forth in and through the Son. When we ask in Jesus' name, our prayer must be consistent with His character and must contribute to our salvation. It is important to understand that praying in Jesus' name is not just about using His name in prayer, but about having the right spirit and mind. As we approach God in the name of His Son, we have the privilege of receiving blessings and salvation.",
+            "wordCount": 133,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 2.166763528493796,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                31.69,
+                35.54,
+                32.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we pray, we are not only praying to the Father, but also to the Son. The Spirit of grace and supplication that Jesus brings down upon the Church enables us to do greater works. Through these works, the Father's glory is revealed in and through the Son. When we pray in Jesus' name, our prayers must align with His character and contribute to our salvation. It is not just about using His name, but about having the right spirit and mindset. Approaching God in the name of His Son grants us the privilege of receiving blessings and salvation.",
+            "wordCount": 100,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.069181046751617,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                31.04,
+                36.13,
+                32.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we pray, we are not only praying to the Father, but also to the Son. The Spirit of grace and supplication that Jesus brings down upon the Church enables us to do greater works. Through these works, the Father's glory is revealed in and through the Son. Praying in Jesus' name means that our prayers must align with His character and contribute to our salvation. It is not just about using His name, but about having the right spirit and mindset. Approaching God in the name of His Son grants us the privilege of receiving blessings and salvation.",
+            "wordCount": 100,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.0550099371133363,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.67,
+            "commentatorTierSimilarities": [
+                31.29,
+                35.85,
+                32.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prayer is not limited to the Father alone, for when we pray, we are also praying to the Son. It is through the Spirit of grace and supplication that Jesus brings down upon the Church that we are empowered to do greater works. By accomplishing these works of grace and triumph, the Father's glory is made evident in and through the Son. When we pray in Jesus' name, our prayers must be consistent with His character and contribute to our salvation. Approaching God in the name of His Son grants us the privilege of receiving blessings and salvation.",
+            "wordCount": 99,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.123264462747852,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+            "commentatorTierSimilarities": [
+                32.02,
+                35.16,
+                32.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we pray, we are not only praying to the Father, but also to the Son. Through the Spirit of grace and supplication, Jesus brings down upon the Church, we are empowered to do greater works of grace and triumph. These works reveal the Father's glory in and through the Son. Praying in Jesus' name means aligning our prayers with His character and contributing to our salvation. Approaching God in the name of His Son grants us the privilege of receiving blessings and salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.096904578263154,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+            "commentatorTierSimilarities": [
+                31.93,
+                34.66,
+                33.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

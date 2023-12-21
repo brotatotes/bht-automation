@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:15:02",
+    "verseRef": "John 19:38",
+    "bestBHT": {
+        "bht": "The narrative implies that Joseph himself took down Jesus' body from the cross. It is remarkable that Joseph, who refrained from openly supporting Jesus while He was alive, showed courage in this darkest hour and went to Pilate to request permission to bury Jesus. Pilate granted this request, confirming the reality of Jesus' death. Joseph's heroism ensured that Jesus' body was not discarded but properly buried.",
+        "wordCount": 67,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 2.270267043784168,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+        "commentatorTierSimilarities": [
+            33.02,
+            34.15,
+            32.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The narrative implies, though it does not mention (as St. Mark and St. Luke do), that Joseph himself took down the Body from the cross.",
+            "The words of ver. 31, 'that they might be taken away,' need not imply, 'by their hands.' It was customary to grant the bodies of executed persons to their friends.",
+            "On Joseph, and the other particulars, see notes on Matthew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Marvellous it certainly is, that one who while Jesus was yet alive merely refrained from condemning Him, not having the courage to espouse His cause by one positive act, should, now that He was dead, and His cause apparently dead with Him, summon up courage to go in personally to the Roman governor and ask permission to take down and inter the body.",
+            "The heroism of faith is usually kindled by desperate circumstances, and is not seldom displayed by those who before were the most timid, and scarce known as disciples at all.",
+            "But, whatever were Pilate's motives, two most blessed objects were thus secured: The reality of our Lord's death was attested by the party of all others most competent to decide on it, and certainly free from all bias\u2014the officer in attendance\u2014in full reliance on whose testimony Pilate surrendered the body."
+        ],
+        "Marvin Vincent": [
+            "A disciple of Jesus. Matt. calls him a rich man; Mark, an honorable counselor, i e., a member of the Sanhedrim; and Luke, a counselor, good and just.",
+            "Gave him leave. According to Roman law...The bodies of those who are capitally punished cannot be denied to their relatives.",
+            "Avaricious governors sometimes sold this privilege...If this is grievous to parents, they may buy the liberty of burial."
+        ],
+        "John Calvin": [
+            "Till now, therefore, riches had prevented them from professing to be the disciples of Christ, and might afterwards have no less influence in keeping them from making a profession so much hated and abhorred.",
+            "They bring their spices to embalm the body of Christ; but they would never have done so, if they had been perfumed with the sweet savor of his death.",
+            "Our slothfulness will be base and shameful if, now that he reigns in the heavenly glory, we withhold from him the confession of our faith."
+        ],
+        "Philip Schaff": [
+            "It is easy to understand that Pilate should at once grant the permission asked. He had no interest in keeping the body; and by giving it up to disciples of Jesus he would have a fresh opportunity of at once doing despite to, and exasperating, the Jews.",
+            "It seems not unlikely that in the fact that disciples receive the body of the Lord the Evangelist beholds a token of the care with which it was watched over by His Father in Heaven.",
+            "Joseph, however, was not alone."
+        ],
+        "Archibald T. Robertson": [
+            "An example of the rulers described in John 12:41-43 who through cowardice feared to own their faith in Jesus as the Messiah.\" ",
+            "But it must be put down to the credit of Joseph that he showed courage in this darkest hour when the majority had lost heart.",
+            "Else the body of Jesus might have gone to the potter's field. Pilate gladly consented."
+        ],
+        "John Gill": [
+            "But now being inspired with zeal and courage, 'went in boldly', as Mark says, and besought Pilate that he might take away the body of Jesus.",
+            "This Pilate, the Roman governor, had the disposal of, and to him Joseph applies for it; which was a great instance of his affection for Christ, and was a declaring openly for him, and must unavoidably expose him to the malice and resentment of the Jews.",
+            "he took the body of Jesus; down from the cross, and carried it away. The Alexandrian copy, different from all others, and in language uncommon, reads, 'the body of God'."
+        ],
+        "John Wesley": [
+            "Acknowledging Christ, when even his chosen disciples forsook him.",
+            "In that extremity Joseph was no longer afraid, Nicodemus no longer ashamed.",
+            "Joseph of Arimathea asked Pilate \u2014 And Nicodemus also came."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is implied that Joseph himself took down the body of Jesus from the cross. Although Joseph may have refrained from openly supporting Jesus while He was alive, his courage to personally go to the Roman governor and request permission to bury Jesus is truly remarkable. Pilate, by granting this permission, inadvertently confirmed the reality of Jesus' death, as testified by the officer in attendance. Joseph, a disciple of Jesus, displayed the heroism of faith in this darkest hour, when many had lost heart. Ultimately, Pilate gladly consented to Joseph's request, ensuring that Jesus' body would not go to the potter's field.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.2543252910692306,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.3,
+            "commentatorTierSimilarities": [
+                32.99,
+                34.71,
+                32.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The narrative implies that Joseph himself took down Jesus' body from the cross. It is remarkable that Joseph, who refrained from openly supporting Jesus while He was alive, showed courage in this darkest hour and went to Pilate to request permission to bury Jesus. Pilate's granting of this permission confirmed the reality of Jesus' death, as testified by the officer in attendance. Joseph's heroism in the face of adversity ensured that Jesus' body would not be discarded but properly buried.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.258787977858494,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.45,
+            "commentatorTierSimilarities": [
+                33.34,
+                34.57,
+                32.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The narrative implies that Joseph himself took down Jesus' body from the cross. It is remarkable that Joseph, who refrained from openly supporting Jesus while He was alive, showed courage in this darkest hour and went to Pilate to request permission to bury Jesus. Pilate granted this request, confirming the reality of Jesus' death. Joseph's heroism ensured that Jesus' body was not discarded but properly buried.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.270267043784168,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+            "commentatorTierSimilarities": [
+                33.02,
+                34.15,
+                32.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Joseph, a disciple of Jesus, displayed the heroism of faith in this darkest hour when many had lost heart. Although he had refrained from openly supporting Jesus while He was alive, Joseph summoned the courage to go to the Roman governor and ask permission to take down and inter Jesus' body. By granting this permission, Pilate inadvertently confirmed the reality of Jesus' death, as testified by the officer in attendance. Ultimately, Pilate gladly consented to Joseph's request, ensuring that Jesus' body would not go to the potter's field.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.2503363684227855,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                32.99,
+                34.71,
+                32.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joseph, a disciple of Jesus, displayed the heroism of faith in this darkest hour when many had lost heart. By going personally to the Roman governor and requesting permission to take down and bury Jesus' body, Joseph showed courage and commitment. Pilate's granting of this request not only confirmed the reality of Jesus' death but also ensured that His body would receive a proper burial, rather than being discarded. Joseph's actions exemplify the transformative power of faith, even in the face of adversity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0729835837488775,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                33.36,
+                33.39,
+                33.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

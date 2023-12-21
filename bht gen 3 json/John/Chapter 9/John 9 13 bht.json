@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:09:11",
+    "verseRef": "John 9:13",
+    "bestBHT": {
+        "bht": "The neighbors, out of hostility to Jesus, brought the once blind man before the Pharisees, possibly the court presiding over the synagogue or the lesser local courts of Sanhedrim. Their purpose was to accuse Jesus of Sabbath violation rather than examining the evidence of his divinity. This incident highlights the conflict between Jesus and the spirit of Judaism, as the Pharisees, supposed guardians of Israel's religious institutions, condemned rather than rejoiced in the restoration of sight to the man.",
+        "wordCount": 80,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.0091820149366146,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+        "commentatorTierSimilarities": [
+            27.39,
+            52.34,
+            20.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The neighbours appear to have brought him to the Pharisees, out of hostility to Jesus.",
+            "The 'Pharisees' here may have been the court presiding over the synagogue, or one of the lesser local courts of Sanhedrim.",
+            "L\u00fccke inclines to think they were an assembly of the great Sanhedrim, whom St. John sometimes names the Pharisees."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13. They brought to the",
+            "\tPharisees\u2014sitting probably in council, and chiefly of that sect",
+            "\t(John 7:47; John 7:48)."
+        ],
+        "Albert Barnes": [
+            "To the members of the Sanhedrin. They did this, doubtless, to accuse Jesus of having violated the Sabbath.\" ",
+            "Not, as they ought to have done, to examine into the evidence that he was from God."
+        ],
+        "John Calvin": [
+            "The restoration of sight to the blind man ought undoubtedly to have softened even hearts of stone.",
+            "Their hatred of Christ drives them to such stupidity, that they instantly condemn what they are told that he has done.",
+            "It is a foolish superstition of the common people that, under the pretense of honoring God, they adore the wicked tyrants of the Church, and despise God himself, both in his word and in his works."
+        ],
+        "Philip Schaff": [
+            "They bring him to the Pharisees as the especial guardians of the religious institutions of Israel.",
+            "It is not at all likely that the man was brought before any formal court or assembly, but only before leading men amongst the Pharisees.",
+            "The less formal and judicial their action was, the better does it illustrate the conflict of Jesus with the spirit of Judaism."
+        ],
+        "Archibald T. Robertson": [
+            "These neighbors bring him.",
+            "The accepted professional teachers who posed as knowing everything.",
+            "Simply, 'the once blind man.'"
+        ],
+        "John Gill": [
+            "And something like this is the method used by carnal relations and friends...",
+            "...who when they have any belonging to them under a work of grace...",
+            "...have them to their learned doctors of a different religion..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The neighbors, out of hostility to Jesus, brought the once blind man to the Pharisees, possibly the court presiding over the synagogue or the lesser local courts of Sanhedrim. Some scholars suggest that they may have been an assembly of the great Sanhedrim. The purpose of bringing the man before the Pharisees was to accuse Jesus of violating the Sabbath, rather than examining the evidence of his divinity. Their hatred for Christ blinded them to the miracle that had taken place before their eyes. This incident illustrates the conflict between Jesus and the spirit of Judaism, as the Pharisees, the supposed guardians of Israel's religious institutions, choose to condemn rather than rejoice in the restoration of sight to the once blind man.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.8574099115218916,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+            "commentatorTierSimilarities": [
+                27.72,
+                48.67,
+                23.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The neighbors, out of hostility to Jesus, brought the once blind man before the Pharisees, possibly the court presiding over the synagogue or the lesser local courts of Sanhedrim, with the purpose of accusing Jesus. Rather than examining the evidence of his divinity, their hatred for Christ blinded them to the miracle. This incident highlights the conflict between Jesus and Judaism, as the Pharisees, supposed guardians of Israel's religious institutions, condemned rather than rejoiced in the restoration of the man's sight.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8832591815919746,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                26.47,
+                49.0,
+                24.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Out of hostility to Jesus, the neighbors brought the once blind man to the Pharisees, possibly the court presiding over the synagogue or the lesser local courts of Sanhedrim. They did this in order to accuse Jesus of violating the Sabbath, without examining the evidence of his divinity. The conflict between Jesus and the spirit of Judaism is evident in this incident, as the Pharisees, who were supposed to be the guardians of Israel's religious institutions, chose to condemn rather than rejoice in the restoration of the man's sight.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0078050288445803,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+            "commentatorTierSimilarities": [
+                27.29,
+                51.28,
+                21.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The neighbors, out of hostility to Jesus, brought the once blind man before the Pharisees, possibly the court presiding over the synagogue or the lesser local courts of Sanhedrim. Their purpose was to accuse Jesus of Sabbath violation rather than examining the evidence of his divinity. This incident highlights the conflict between Jesus and the spirit of Judaism, as the Pharisees, supposed guardians of Israel's religious institutions, condemned rather than rejoiced in the restoration of sight to the man.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.0091820149366146,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                27.39,
+                52.34,
+                20.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an act of hostility towards Jesus, the neighbors brought the once blind man before the Pharisees, possibly the court presiding over the synagogue or one of the lesser local courts of Sanhedrim. It is suggested that they may have been an assembly of the great Sanhedrim. The purpose of this action was to accuse Jesus of violating the Sabbath, instead of examining the evidence of his divinity. This incident highlights the clash between Jesus and the spirit of Judaism, as the Pharisees, the supposed guardians of Israel's religious institutions, condemned rather than rejoiced in the restoration of sight to the man.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.8100141462907562,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                28.94,
+                51.59,
+                19.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

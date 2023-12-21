@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:05:10",
+    "verseRef": "John 3:32",
+    "bestBHT": {
+        "bht": "Though multitudes were drawn to Jesus, few truly received his testimony as the Christ, the Saviour and Lord. They were more ready to accept him for their own desires rather than embrace him for who he truly was. Even though his doctrine was pure, plain, and sublime, few truly believed and accepted it in faith. Jesus alone bears witness to that which he has seen and heard, teaching nothing but what has been fully ascertained. Yet, so few receive, that they seem as nothing in comparison with those who reject him.",
+        "wordCount": 91,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 1.6195310594894625,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+        "commentatorTierSimilarities": [
+            17.61,
+            43.95,
+            38.44
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Would it were so, but alas! they are next to 'none'\" ",
+            "They were far readier to receive himself",
+            "I am not the Christ, and he seems pained at this"
+        ],
+        "Albert Barnes": [
+            "No man receiveth his testimony - The words 'no man' are here to be understood in the sense of 'few.' Though his doctrine is pure, plain, sublime, yet 'few,' comparatively, received it in faith.",
+            "Though multitudes came to him, drawn by various motives John 6:26, yet 'few' became his 'real' disciples.",
+            "Often many persons 'appear' for a time to become the followers of Christ, who in the end are seen to have known nothing of religion."
+        ],
+        "John Calvin": [
+            "He means that Christ teaches nothing but what has been fully ascertained.",
+            "Seeing and hearing are contrasted with doubtful opinions, unfounded rumors, and every kind of falsehoods.",
+            "He afterwards charges the world with ingratitude, in basely and wickedly rejecting such an undoubted and faithful interpreter of God."
+        ],
+        "Philip Schaff": [
+            "He that cometh out of heaven beareth witness of what he hath seen and heard; and no man receiveth his witness.",
+            "Jesus alone, then, beareth witness to that which He hath seen and which He heard, and no one receiveth His witness.",
+            "So few receive, that they seem as nothing in comparison with those who reject."
+        ],
+        "Archibald T. Robertson": [
+            "There is no confusion of tenses here.",
+            "No one is not to be pressed too far, for it is the rhetorical use.",
+            "They do not really accept him as Saviour and Lord."
+        ],
+        "John Gill": [
+            "The phrases express the clear and perfect knowledge Christ has of all truths and doctrines; he having all the treasures of wisdom and knowledge in him.",
+            "He [Jesus] withholds nothing, but declares the whole counsel of God; and is deservedly called the faithful witness.",
+            "No one person can receive the testimony of Christ, and believe in him, unless it be given him from above, by the grace of God."
+        ],
+        "John Wesley": [
+            "No man \u2014 None comparatively, exceeding few; receiveth his testimony - With true faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though multitudes were drawn to Jesus, few truly received his testimony as the Christ, the Saviour and Lord. They were more ready to accept him for their own desires rather than embrace him for who he truly was. Even though his doctrine was pure, plain, and sublime, few truly believed and accepted it in faith. Jesus alone bears witness to that which he has seen and heard, teaching nothing but what has been fully ascertained. Yet, so few receive, that they seem as nothing in comparison with those who reject him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.6195310594894625,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                17.61,
+                43.95,
+                38.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though multitudes were drawn to Jesus, few truly received his testimony as the Christ, the Saviour and Lord. They were more ready to accept him for their own desires rather than embrace him for who he truly was. Even though his doctrine was pure, plain, and sublime, few truly believed and accepted it in faith. Jesus alone bears witness to that which he has seen and heard, teaching nothing but what has been fully ascertained. Yet, so few receive, that they seem as nothing in comparison with those who reject him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.6195310594894625,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                17.61,
+                43.95,
+                38.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though many came to Jesus, only a few truly accepted him as the Christ, the Saviour and Lord. While Jesus bore witness to what he had seen and heard, most did not receive his testimony. They were more interested in their own desires than in truly believing and accepting him. Only a small number recognized the purity and clarity of his teachings. The majority rejected him, making those who accepted him seem insignificant.",
+            "wordCount": 73,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.5519213750069136,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+            "commentatorTierSimilarities": [
+                18.98,
+                41.96,
+                39.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though many came to Jesus, it is disheartening to see that only a few truly embraced him as the Christ. They were more eager to receive him than to accept his message, and he seemed saddened by this. However, it is important to note that there is no confusion here, as the use of no one is rhetorical and should not be pressed too far. The truth is that they do not wholeheartedly accept Jesus as their Savior and Lord. It is a sobering reality that so few receive his testimony, especially when contrasted with the vast number of those who reject him.",
+            "wordCount": 103,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 1.5796494718255776,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                25.64,
+                39.91,
+                34.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though many came to Jesus, it is disheartening to see that only a few truly embraced him as the Christ. They were more eager to receive him than to accept his message, and he seemed saddened by this. However, it is important to note that there is no confusion here, as the use of no one is rhetorical and should not be pressed too far. The truth is that they do not wholeheartedly accept Jesus as their Savior and Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 61.4,
+            "qualityScore": 1.5424017584818328,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                30.9,
+                37.43,
+                31.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

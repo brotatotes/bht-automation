@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:03:56",
+    "verseRef": "John 1:7",
+    "bestBHT": {
+        "bht": "John came to bear witness to a divine revelation, testifying about the Light and aiming to lead others to believe in it. His testimony was based on what he had seen and heard, reflecting the truth just as a faithful mirror reflects light. Through John's witness, the hope was that all people, particularly the Jews, would trustfully accept the Light and yield to its influence. This testimony was intended to produce greater results than what was actually realized, showing the significance of John's mission.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.1731206293563665,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.6,
+        "commentatorTierSimilarities": [
+            19.94,
+            46.56,
+            33.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The purpose of John\u2019s coming was to bear witness to a fact, which fact... was made known to him by divine revelation.\" (Commentary)",
+            "We must not render, as A.V., \u2018for a witness, but for witness or for testimony, for the purpose of bearing witness.\" (Commentary)",
+            "The subject of his testimony was to be,\u2014the Light,\u2014and the aim of it,\u2014that all might believe through him.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. through him\u2014John."
+        ],
+        "Philip Schaff": [
+            "The true witness declares what he has seen and heard (1 John 1:2-3); his testimony reflects \u2018the truth\u2019 so far as he has received it, just as the faithful mirror reflects the light that has come upon it.",
+            "John came to bear such witness concerning the Light, that through him all might be led to \u2018believe\u2019 trustfully to accept that Light, and yield themselves up to its influence.",
+            "More clearly than any other passage this verse teaches us how great were the results which the Baptist\u2019s mission was intended to produce, immeasurably greater than those which were actually realised."
+        ],
+        "Archibald T. Robertson": [
+            "That he might bear witness.",
+            "John had his own eyes opened.",
+            "The preacher is merely the herald."
+        ],
+        "John Gill": [
+            "This was one of the names of the Messiah with the Jews; of whom they say, '\u05e0\u05d4\u05d9\u05e8\u05d0 \u05e9\u05de\u05d5, 'light is his name'; as it is said in Daniel 2:22 and the light dwelleth with him.",
+            "John came to bear a testimony to him, as he did; of which an account is given in this chapter, very largely, and elsewhere.",
+            "The end of which witness was, that all men through him might believe; that is, that the Jews, to whom he preached, might, through his testimony, believe that Jesus was the light, and true Messiah."
+        ],
+        "John Wesley": [
+            "The same came for (that is, in order to give) a testimony - The evangelist, with the most strong and tender affection, interweaves his own testimony with that of John.",
+            "What St. Matthew, Mark, and Luke term the Gospel, in respect of the promise going before, St. John usually terms the testimony.",
+            "To testify of the light - Of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose of John's coming was to bear witness to a divine revelation, for the purpose of declaring the truth about the Light and leading others to believe in it. John's testimony reflected the truth he had received, just as a faithful mirror reflects light. He came to bear witness concerning the Light, so that through him all might be led to trustfully accept the Light and yield to its influence. This testimony was intended to produce great results, greater even than what was actually realized. Through John's witness, the hope was that all people, particularly the Jews, would come to believe that Jesus was the Light and the true Messiah.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.195594705020664,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.34,
+            "commentatorTierSimilarities": [
+                20.22,
+                46.07,
+                33.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of John's coming was to bear witness to a divine revelation, declaring the truth about the Light and leading others to believe in it. His testimony reflected the truth he had received, just as a mirror reflects light. John aimed to testify to the Light in order to guide others to trusting acceptance, yielding to its influence. This testimony was intended to produce greater results than what was realized. Through John's witness, the hope was that all people, especially the Jews, would believe that Jesus was the Light and the true Messiah.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0762303419996835,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+            "commentatorTierSimilarities": [
+                21.01,
+                43.7,
+                35.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John came to bear witness to a divine revelation, testifying about the Light and aiming to lead others to believe in it. His testimony was based on what he had seen and heard, reflecting the truth just as a faithful mirror reflects light. Through John's witness, the hope was that all people, particularly the Jews, would trustfully accept the Light and yield to its influence. This testimony was intended to produce greater results than what was actually realized, showing the significance of John's mission.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1731206293563665,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.6,
+            "commentatorTierSimilarities": [
+                19.94,
+                46.56,
+                33.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John's purpose was to bear witness to a divine revelation, testifying about the Light and aiming to lead others to believe in it. Through his testimony, he hoped that all people, particularly the Jews, would trustingly accept the Light and yield to its influence. John's mission was intended to produce even greater results than were actually realized, underscoring the importance of his role in pointing others to the Light.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.05101370425591,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                19.02,
+                46.7,
+                34.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's purpose was to bear witness to a divine revelation, testifying about the Light and aiming to lead others to believe in it. Through his testimony, he hoped that all people, particularly the Jews, would trustfully accept the Light and yield to its influence. John's mission was intended to produce greater results than were actually realized, showing the significance of his role in pointing others to the Light.",
+            "wordCount": 70,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.085041345918019,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.67,
+            "commentatorTierSimilarities": [
+                19.35,
+                46.62,
+                34.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

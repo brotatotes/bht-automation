@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-21-2023 03:09:04",
+    "verseRef": "John 9:12",
+    "bestBHT": {
+        "bht": "Upon witnessing a miraculous healing, the people inquired, Where is he?(\u03a0\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c3;), possibly to apprehend Jesus and bring him before the sanhedrim. In response, the healed blind man said, I know not. It is uncertain whether Christ had withdrawn himself due to the Jews' irritation or to avoid seeking popularity. There are instances where, after experiencing God's grace, one may find themselves unaware of Christ's whereabouts, as if he has temporarily withdrawn.",
+        "wordCount": 76,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.1477996431664872,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.51,
+        "commentatorTierSimilarities": [
+            31.39,
+            13.5,
+            55.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "John 9:12. And they said unto him, Where is he? He saith, I know not. Comp. chap. John 5:12-13.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Where is he? (\u03a0\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c3;). The very question of John 7:11. "
+        ],
+        "John Gill": [
+            "For Christ had withdrawn himself and was gone; whether on account of the Jews, who he knew would be irritated by this miracle, or whether to avoid all popular applause and glory, which he sought not, is not certain...",
+            "...this question, however, was put, not out of good will to Christ, but that they might apprehend him, and bring him before the sanhedrim, for doing work on the sabbath day...",
+            "...and so it sometimes is, that when Christ has wrought a good work of grace upon the heart, he withdraws himself for a while, and the converted sinner knows not where he is."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon witnessing a miraculous healing, the people inquired, Where is he?(\u03a0\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c3;), a question previously asked in John 7:11. Perhaps they were seeking to apprehend Jesus and bring him before the religious leaders who opposed him. Interestingly, the blind man who was healed replied, I know not. It is possible that Christ chose to withdraw, either to avoid the Jews who would be irritated by the miracle or to avoid seeking popular glory that he did not desire. In a spiritual sense, after experiencing a transformative work of grace, there may be times when Christ appears to withdraw, leaving the converted soul uncertain of his whereabouts.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.269210824264967,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.54,
+            "commentatorTierSimilarities": [
+                37.49,
+                13.52,
+                48.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon witnessing a miraculous healing, the people inquired, Where is he?(\u03a0\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c3;), a question previously asked in John 7:11. Perhaps they were seeking to apprehend Jesus and bring him before the religious leaders who opposed him. Interestingly, the blind man who was healed replied, I know not. In a spiritual sense, after experiencing a transformative work of grace, there may be times when Christ appears to withdraw, leaving the converted soul uncertain of his whereabouts.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.294100726502744,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.37,
+            "commentatorTierSimilarities": [
+                41.79,
+                14.41,
+                43.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Witnessing a miraculous healing, the people inquired, Where is he?(\u03a0\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c3?), echoing a previous question in John 7:11. This inquiry may have been motivated by a desire to capture Jesus and present him to the opposition. Interestingly, the healed blind man responded, I know not. It is possible that Jesus deliberately withdrew, either to avoid the ire of the Jews or to shun worldly acclaim. Sometimes, after experiencing the transformative grace of Christ, one may feel a sense of his absence, unsure of his whereabouts.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.161682570171696,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.97,
+            "commentatorTierSimilarities": [
+                40.84,
+                12.83,
+                46.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon witnessing a miraculous healing, the people inquired, Where is he?(\u03a0\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c3?), possibly with the intention of apprehending Jesus and presenting him to the religious authorities who opposed him. Strikingly, the healed blind man responded, I know not. It is possible that Jesus purposely withdrew, either to avoid causing trouble with the Jews or to avoid seeking personal glory. After experiencing the transforming power of Christ, there may be times when one feels a temporary absence of his presence, leading to uncertainty about his whereabouts.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.0088760485996235,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.89,
+            "commentatorTierSimilarities": [
+                31.72,
+                12.65,
+                55.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon witnessing a miraculous healing, the people inquired, Where is he?(\u03a0\u03bf\u03c5 \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c3;), possibly to apprehend Jesus and bring him before the sanhedrim. In response, the healed blind man said, I know not. It is uncertain whether Christ had withdrawn himself due to the Jews' irritation or to avoid seeking popularity. There are instances where, after experiencing God's grace, one may find themselves unaware of Christ's whereabouts, as if he has temporarily withdrawn.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.1477996431664872,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.51,
+            "commentatorTierSimilarities": [
+                31.39,
+                13.5,
+                55.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

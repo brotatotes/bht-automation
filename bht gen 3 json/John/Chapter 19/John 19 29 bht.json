@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:14:58",
+    "verseRef": "John 19:29",
+    "bestBHT": {
+        "bht": "The sour wine, or vinegar and water, was a common drink of the Roman soldiers, while the hyssop plant was used for sprinkling and represented the height of the cross. Jesus' loud voice was not an indicator of His remaining strength, but rather an expression of the exultant spirit of a Dying Victor. The vinegar offered earlier was a stupefying draught, while the vinegar here likely aimed to revive Him. The sponge soaked in vinegar was fastened to the hyssop end of the rod and raised to Christ's mouth, symbolizing the transfer of the draught to Him.",
+        "wordCount": 98,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 2.200385161882239,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.5,
+        "commentatorTierSimilarities": [
+            33.34,
+            50.94,
+            15.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The vinegar was the sour wine, or vinegar and water, the common drink of the Koman soldiers.",
+            "A stalk of hyssop - An aromatic plant growing on walls, common in the south of England and on the Continent, with blue or white flowers.",
+            "It was much used for sprinkling, Exod. xii. 22; Levit. xiv. 4&c.; Ps. li. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This 'loud voice,' noticed by three of the Evangelists, does not imply, as some able interpreters contend, that our Lord's strength was so far from being exhausted that He needed not to die then, and surrendered up His life sooner than Nature required, merely because it was the appointed time.",
+            "But just as even His own dying saints, particularly the martyrs of Jesus, have sometimes had such gleams of coming glory immediately before breathing their last, as to impart to them a strength to utter their feelings which has amazed the by-standers, so this mighty voice of the expiring Redeemer was nothing else but the exultant spirit of the Dying Victor, receiving the fruit of His travail just about to be embraced, and nerving the organs of utterance to an ecstatic expression of its sublime feelings.",
+            "Yes, the darkness is past, and the true light now shineth. His soul has emerged from its mysterious horrors; 'My God' is heard no more, but in unclouded light He yields sublime into His Father's hands the infinitely precious spirit\u2014using here also the words of those matchless Psalms which were ever on His lips."
+        ],
+        "Marvin Vincent": [
+            "The vinegar mingled with gall, or the wine mingled with myrrh, was offered to Jesus before his crucifixion as a stupefying draught.\" ",
+            "The hyssop gives a hint of the height of the cross.",
+            "The vinegar in this case was offered in order to revive Christ."
+        ],
+        "John Calvin": [
+            "When he says that they fixed the sponge on hyssop, the meaning is, that they fastened it to the end of a bunch of hyssop, that it might be raised to Christ\u2019s mouth.\" ",
+            "In that country, hyssops grow as large as small shrubs.\" ",
+            "Car l\u2019a les hyssopes sont grans comme petits arbnsseaux."
+        ],
+        "Philip Schaff": [
+            "It is possible that the vinegar here referred to may have been the mixture of vinegar and water used by the Roman soldiers to quench their thirst.",
+            "The \u2018hyssop\u2019 cannot be equivalent to the \u2018reed\u2019 of Matthew 27:48 and Mark 15:36, for the hyssop plant was of too low and bushy a habit to supply a reed.",
+            "A piece of sponge soaked in vinegar was fastened to the hyssop end of the rod, and the draught was in this way conveyed to the lips of Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "John, as eyewitness, had noticed it there.",
+            "Not vinegar drugged with myrrh and gall which Jesus had refused just before the crucifixion.",
+            "The reed of the hyssop bush was only three or four feet long."
+        ],
+        "John Gill": [
+            "Vinegar indeed is good to revive the spirits, and hyssop, which is after mentioned, is an herb of a sweet smell.",
+            "The hyssop with the Jews was not reckoned among herbs, but trees.",
+            "How high crosses usually were is not certain, nor was there any fixed measure for them; sometimes they were higher, and sometimes lower."
+        ],
+        "John Wesley": [
+            "A stalk of hyssop \u2014 Which in those countries grows exceeding large and strong. Psalm 69:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sour wine, or vinegar and water, was a common drink of the Roman soldiers, while the hyssop was a plant used for sprinkling and had hints of the height of the cross. Some argue that the loud voice of Jesus does not suggest that His strength was still intact, but rather that He was expressing the exultant spirit of a Dying Victor. The vinegar offered to Jesus earlier was a stupefying draught, but the vinegar here was probably offered to revive Him. The sponge soaked in vinegar was fastened to the hyssop end of the rod and raised to Christ's mouth. Ultimately, the act of fixing the sponge on hyssop represented the transfer of the draught to Jesus.",
+            "wordCount": 120,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.141286784051264,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.54,
+            "commentatorTierSimilarities": [
+                32.49,
+                51.15,
+                16.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sour wine, or vinegar and water, was a common drink of the Roman soldiers, while the hyssop plant was used for sprinkling and represented the height of the cross. Jesus' loud voice was not an indicator of His remaining strength, but rather an expression of the exultant spirit of a Dying Victor. The vinegar offered earlier was a stupefying draught, while the vinegar here likely aimed to revive Him. The sponge soaked in vinegar was fastened to the hyssop end of the rod and raised to Christ's mouth, symbolizing the transfer of the draught to Him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.200385161882239,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.5,
+            "commentatorTierSimilarities": [
+                33.34,
+                50.94,
+                15.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sour wine, commonly consumed by Roman soldiers, and the hyssop plant, associated with sprinkling, hold significance in understanding John 19:29. Although Jesus' loud voice is not an indication of His strength, it represents the triumphant spirit of a Dying Victor. The vinegar offered to Him earlier had sedative properties, while the vinegar provided here may have been offered for revival. The sponge soaked in vinegar was attached to the hyssop, perhaps symbolically conveying the draught to Jesus. This act sheds light on the symbolism behind the vinegar and hyssop mentioned in the verse.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 2.015950356759068,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                34.41,
+                48.36,
+                17.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus hung on the cross, he was offered sour wine, a common drink of Roman soldiers. The hyssop plant, often used for sprinkling, held the vinegar to be raised to his mouth. His loud voice, acknowledged by the Evangelists, did not imply a lack of strength, but was an expression of the exultant spirit of a Dying Victor. This act of offering vinegar on hyssop highlights the symbolic significance of their presence in this crucial moment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.917281936092818,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.09,
+            "commentatorTierSimilarities": [
+                34.46,
+                45.78,
+                19.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus hung on the cross, the sour wine, a common drink of Roman soldiers, was offered to revive Him. The hyssop plant, known for its use in sprinkling, was used to raise the vinegar to His mouth. Jesus' loud voice was not indicative of His remaining strength, but rather expressed the triumphant spirit of a Dying Victor. This act of offering vinegar on hyssop holds symbolic significance, shedding light on the meaning behind their presence in this solemn moment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.9434556947617927,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                35.62,
+                45.03,
+                19.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

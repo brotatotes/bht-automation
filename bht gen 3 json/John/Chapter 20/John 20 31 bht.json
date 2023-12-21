@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:15:30",
+    "verseRef": "John 20:31",
+    "bestBHT": {
+        "bht": "The purpose of this book is to inspire faith in Jesus Christ as the Son of God, presenting sufficient evidence of His glory and divinity. The miracles described in this Gospel serve as aids to prepare believers, fostering a greater reverence for the word of God. By believing in Jesus as the Christ, the Son of God, one can attain eternal life. This book confirms and establishes faith, leading believers to a spiritual and everlasting life through Christ.",
+        "wordCount": 78,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.9827938168963986,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.27,
+        "commentatorTierSimilarities": [
+            38.97,
+            15.44,
+            45.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mere miracle-faith, so often reproved by our Lord, is not that intended here. This is faith in Himself, as the Christ the Son of God.",
+            "The Evangelist means, that enough is related in this book to be a ground for such a faith, by shewing us His glory manifested forth.",
+            "These words (see Acts iv. 10; 1 Cor. vi. 11) describe the whole standing of the faithful man in Christ,\u2014by which and in which he has life eternal."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But these are written\u2014as sufficient specimens.",
+            "the Christ, the Son of God\u2014the one His official, the other His personal, title.",
+            "believing... may have life."
+        ],
+        "Albert Barnes": [
+            "The whole scope or end of the book is to accomplish two objects.\" ",
+            "This point had not been kept in view so directly by either of the other evangelists.",
+            "If this design of John is kept steadily in view, it will throw much light on the book, and the argument is unanswerable, framed after the strictest rules of reasoning, infinitely beyond the skill of man, and having throughout the clearest evidence of demonstration."
+        ],
+        "Marvin Vincent": [
+            "Are written [\u03b3\u03b5\u03b3\u03c1\u03b1\u03c0\u03c4\u03b1\u03b9] . Have been or stand written. The perfect tense. John's intent was to write a gospel rather than a biography. "
+        ],
+        "John Calvin": [
+            "No other use is here assigned to miracles than to be the aids and supports of faith; for they serve to prepare the minds of men, that they may cherish greater reverence for the word of God.",
+            "Faith does not confine its view to miracles, but carries us direct to the word.",
+            "He who, after having received those striking proofs, which are to be found in the Gospel, does not perceive Christ to be God, does not deserve to look even at the sun and the earth, for he is blind amidst the brightness of noonday."
+        ],
+        "Archibald T. Robertson": [
+            "The book has had precisely this effect of continuous and successive confirmation of faith in Jesus Christ through the ages.",
+            "Jesus is the Son of God with all that this high term implies, the Logos of John 1:1-18 (the Prologue). 'Very God of very God,' Incarnate Revealer of God.",
+            "Life (\u03b6\u03c9\u03b7\u03bd) is eternal life so often mentioned in this Gospel, life to be found only in the name (and power) of Jesus Christ the Son of God."
+        ],
+        "John Gill": [
+            "that ye might believe that Jesus is the Christ, the Son of God",
+            "believers have their spiritual and eternal life through Christ",
+            "faith is the way and means in which they enjoy it"
+        ],
+        "John Wesley": [
+            "But these things are written that ye may believe \u2014 That ye may be confirmed in believing. Faith cometh sometimes by reading; though ordinarily by hearing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This book is written to inspire a faith in Jesus Christ as the Son of God. It presents enough evidence of His glory and divinity to be a foundation for such faith. The purpose is to show that through a belief in Jesus as the Christ, the Son of God, one can have eternal life. The miracles described in this book are meant to support and strengthen faith, directing us to the word of God. The aim is for readers to come to the realization that Jesus is the Son of God, the Incarnate Revealer of God. The book serves to confirm and establish faith, leading believers to a spiritual and eternal life through Christ.",
+            "wordCount": 115,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.0167532547888403,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                37.91,
+                18.23,
+                43.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This book is written to inspire a faith in Jesus Christ as the Son of God. It presents enough evidence of His glory and divinity to be a foundation for such faith. The miracles described in this Gospel serve as aids and supports to prepare the minds of believers to have a greater reverence for the word of God. The purpose is to show that through a belief in Jesus as the Christ, the Son of God, one can have eternal life. The book confirms and establishes faith, leading believers to a spiritual and eternal life through Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9799423667530802,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                37.59,
+                15.89,
+                46.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of this book is to inspire a faith in Jesus Christ as the Son of God. It presents enough evidence of His glory and divinity to be a foundation for such faith. The miracles described in this Gospel serve to prepare the minds of believers, fostering a greater reverence for the word of God. Through believing in Jesus as the Christ, the Son of God, one can experience eternal life. This book confirms and establishes faith, leading believers to a spiritual and eternal life through Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.9698891420407265,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                37.53,
+                16.35,
+                46.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The purpose of this book is to inspire faith in Jesus Christ as the Son of God. It provides evidence of His glory and divinity, serving as a foundation for such faith. The miracles described in this Gospel aid and support faith, preparing believers to have a greater reverence for the word of God. Through believing in Jesus as the Christ, the Son of God, one can attain eternal life. This book confirms and establishes faith, leading believers to a spiritual and everlasting life through Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.9737787202112198,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                36.89,
+                16.34,
+                46.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The purpose of this book is to inspire faith in Jesus Christ as the Son of God, presenting sufficient evidence of His glory and divinity. The miracles described in this Gospel serve as aids to prepare believers, fostering a greater reverence for the word of God. By believing in Jesus as the Christ, the Son of God, one can attain eternal life. This book confirms and establishes faith, leading believers to a spiritual and everlasting life through Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9827938168963986,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.27,
+            "commentatorTierSimilarities": [
+                38.97,
+                15.44,
+                45.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

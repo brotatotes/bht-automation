@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:08:50",
+    "verseRef": "John 8:31",
+    "bestBHT": {
+        "bht": "To truly be disciples of Jesus, we are called to continue in His word. This means not only obeying His teachings, but also having an inner conviction of the truth revealed in His word. Our continuance in the faith is the true test of our Christian character and sincerity. It is through remaining in His word that we come to know the truth and experience the freedom it brings. Therefore, our commitment to His word is crucial in distinguishing true disciples from mere professing believers.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.1868068017523536,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+        "commentatorTierSimilarities": [
+            32.86,
+            32.71,
+            34.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Remaining in His word is not merely obeying His teaching, but is the inner conviction of the truth of that revelation of Himself, which is his word.\" ",
+            "Continue in my word means to 'abide in Me,' though that perhaps is spoken of a deeper entrance into the state of union with Christ.\" ",
+            "Ye are [continuing in my word], for probably they had given some outward token of believing on Him, e.g. that of ranging themselves among His disciples."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If ye continue in my word, then are ye my disciples indeed.\" ",
+            "Continuance in the faith... then only were they His real disciples.",
+            "Then should they experimentally 'know the truth,' and 'by the truth be made (spiritually) free.'"
+        ],
+        "Albert Barnes": [
+            "If ye continue in my word - If you continue to obey my commandments and to receive my doctrines.",
+            "This is the true test of Christian character.",
+            "Do not repress your love or your joy, but do not be too confident. Your faith has not yet been tried, and if it does not produce a holy life it is vain."
+        ],
+        "Marvin Vincent": [
+            "Believed on Him...believed Him.\" ",
+            "If ye continue...abide.\" ",
+            "In my word...peculiarly mine, characteristic of me."
+        ],
+        "John Calvin": [
+            "It is not enough for any one to have begun well, if their progress to the end do not correspond to it.",
+            "He distinguishes his followers from hypocrites by this mark, that they who falsely boasted of faith give way as soon as they have entered into the course, or at least in the middle of it.",
+            "If, therefore, we wish that Christ should reckon us to be his disciples, we must endeavor to persevere."
+        ],
+        "Philip Schaff": [
+            "The former denotes a true faith in Jesus, such an acceptance of Him as includes a surrender of the heart, the 'self,' to Him; the latter, an acceptance of His words as true.",
+            "These men stand between the two companies, the Jews with whom they had been associated, and the believers who had joined themselves to the Lord.",
+            "They believed His word; if they abide in this word of His, clinging to it, continuing under its influence, the word will be to them a revelation of Jesus, and will assert its power."
+        ],
+        "Archibald T. Robertson": [
+            "They believed him as to his claims to being the Messiah with their own interpretation, but they did not commit themselves to him.\" ",
+            "If ye abide in my word, are ye truly my disciples.\" ",
+            "Continuance in the word (teaching) proves the sincerity or insincerity of the profession. It is the acid test of life."
+        ],
+        "John Gill": [
+            "And when men continue thus steadfast in it, and faithful to it, it is an evidence that it has come with power, and has a place in their hearts, and that they are the true followers of Christ.",
+            "For the genuine disciples of Christ continue in his Gospel, hold fast to him, the head, and remain with his people; which to do to the end, is an evidence, of their being disciples indeed.",
+            "Which shows that they never were of them, nor are the true disciples of Jesus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Remaining in His word is not just about obeying His teaching, but about having an inner conviction of the truth revealed in His word. It signifies a deep union with Christ and a genuine commitment to Him as His disciples, as evidenced by their continuance in His word. It is important to distinguish between believing Him and believing in Him, as some might have given outward signs of belief, but did not truly commit themselves to Jesus. Continuance in the word is the acid test of life, proving the sincerity of one's profession of faith. It is through remaining in His word that they would come to truly know the truth and be spiritually set free.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.1781706731608206,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+            "commentatorTierSimilarities": [
+                34.27,
+                32.44,
+                33.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Remaining in His word involves not only obeying His teaching but having an inner conviction of the revealed truth. It signifies a deep union with Christ and a genuine commitment as disciples. Continuance in His word proves the sincerity of one's faith. It is the acid test of life, separating true disciples from hypocrites. Believing in Jesus and His words is not enough; one must continue steadfastly in His Gospel to be considered a disciple indeed. Only then will the word reveal Jesus and exert its power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0914988279675915,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.88,
+            "commentatorTierSimilarities": [
+                32.17,
+                31.41,
+                36.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly be disciples of Jesus, we are called to continue in His word. This means not only obeying His teachings, but also having an inner conviction of the truth revealed in His word. Our continuance in the faith is the true test of our Christian character and sincerity. It is through remaining in His word that we come to know the truth and experience the freedom it brings. Therefore, our commitment to His word is crucial in distinguishing true disciples from mere professing believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1868068017523536,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                32.86,
+                32.71,
+                34.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Continuing in Jesus' word is more than just obeying His teaching; it is an inner conviction of His revealed truth. It signifies a deep union with Him, as true disciples who commit themselves to His word. This continuance in the faith is the acid test of life, proving the sincerity of one's profession. By remaining in His word, we come to truly know the truth and experience the transformative freedom it offers. Our commitment to His word distinguishes us as genuine disciples of Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.138541052712457,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                33.71,
+                32.98,
+                33.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Remaining in Jesus' word involves not only obeying His teaching but also having an inner conviction of the truth revealed in His word. It signifies a deep union with Him and a genuine commitment as disciples. Continuance in His word is the acid test of life, proving the sincerity of one's profession. By remaining in His word, we come to truly know the truth and experience the freedom it brings. It is through this enduring commitment that we demonstrate ourselves to be true followers of Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.007377426162135,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                32.86,
+                31.83,
+                35.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

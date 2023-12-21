@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:07:30",
+    "verseRef": "John 6:37",
+    "bestBHT": {
+        "bht": "The Father has given to the Son a unity of believers, so all whom He has given should be united in Christ's unfolding. Jesus' statement I will in no wise cast out expresses the grace and readiness with which He receives those who come to Him. Even though the disciples may have struggled with faith, Jesus assures them that God's purpose will not be defeated; everyone given to Him by the Father will infallibly come. His invitation to come is open to all, emphasizing the voluntary act of coming and accepting Him.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1695409782842887,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+        "commentatorTierSimilarities": [
+            29.15,
+            35.55,
+            35.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Father hath given to the Son as it were one mass, that all whom He hath given should be one: that whole mass the Son unfoldeth one by one in this following out of the Father\u2019s design.",
+            "I will in no wise cast out does not refer here to the office of the Son of God as Judge; but is another way of expressing the grace, and readiness with which He will receive all who come to Him.",
+            "But Bengel\u2019s observation is very important: 'all that which\u2014a most significant expression, and, compared with what follows, most worthy of consideration.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though ye, as I told you, have no faith in Me, My errand into the world shall in no wise be defeated for all that the Father giveth Me shall infallibly come to Me.",
+            "And him that cometh to Me I will in no wise cast out.",
+            "He speaks of that certainty as taking effect only by men's voluntary advances to Him and acceptance of Him\u2014\"Him that cometh to Me,\" \"whosoever will,\" throwing the door wide open."
+        ],
+        "Albert Barnes": [
+            "The sinner comes to Jesus feeling that he is poor, and needy, and wretched, and casts himself on his mercy, believing that he alone can save him.",
+            "This expression also proves that men are not compelled to believe on Christ. Though they who believe are given to him, and though his Spirit works in them faith and repentance, yet they are made willing in the day of his power.",
+            "This invitation is wide, and full, and free. It shows the unbounded mercy of God; and it shows, also, that the reason, and the only reason, why men are not saved, is that they will not come to Christ."
+        ],
+        "Marvin Vincent": [
+            "All believers are regarded as one complete whole.",
+            "Emphasizing the idea of reaching or arriving.",
+            "A different verb, emphasizing the process of coming."
+        ],
+        "John Calvin": [
+            "Christ meets this offense, when he affirms, that all those who do not believe are not his own, and that we need not wonder if such persons have no relish for the word of God, but that it is embraced by all the children of God.",
+            "In the first place, he says, that all whom the Father giveth him come to him; by which words he means, that faith is not a thing which depends on the will of men, so that this man and that man indiscriminately and at random believe, but that God elects those whom he hands over, as it were, to his Son.",
+            "This is added for the consolation of the godly, that they may be fully persuaded that they have free access to Christ by faith, and that, as soon as they have placed themselves under his protection and safeguard, they will be graciously received by him."
+        ],
+        "Philip Schaff": [
+            "All that which the Father giveth me shall come to me; and him that is coming to me I will in no wise cast out.",
+            "The gift of the Father must not be understood by us in the sense of a predestinating decree. Both here and in the other passages of this Gospel where we read of the Father as giving to the Son His people, it is the moral and spiritual state of the heart that is thought of under the word.",
+            "The test, then, of this work in the heart is the coming to Christ."
+        ],
+        "Archibald T. Robertson": [
+            "All that (\u03c0\u03b1\u03bd \u03bf)...Perhaps the notion of unity like \u03b5\u03bd in John 17:21 underlies this use of \u03c0\u03b1\u03bd \u03bf.\" ",
+            "Giveth me (\u03b4\u03b9\u03b4\u03c9\u03c3\u03b9\u03bd \u03bc\u03bf)...For the idea that the disciples are given to the Son see also John 6:39; John 6:65; John 10:29; John 17:2; John 17:6; John 17:9; John 17:12; John 17:24; John 18:9.\" ",
+            "I will in no wise cast out (\u03bf\u03c5 \u03bc\u03b7 \u03b5\u03ba\u03b2\u03b1\u03bb\u03c9 \u03b5\u03be\u03c9)...Definite promise of Jesus to welcome the one who comes."
+        ],
+        "John Gill": [
+            "The whole body of the elect are here meant, who, when they were chosen by God the Father, were given and put into the hands of Christ.",
+            "And it certainly respects an act of God, antecedent to coming to Christ, and believing in him, which is a fruit and effect of electing love.",
+            "Christ will never cast them out of his affections; nor out of his arms; nor out of that family that is named of him; nor out of, and from his church, which is his body, and of which they are members; nor out of a state of justification and salvation; and therefore they shall never perish, but have everlasting life."
+        ],
+        "John Wesley": [
+            "All that the Father giveth me...he in a peculiar manner giveth to the Son...\" ",
+            "And him that thus cometh to me, I will in nowise cast out...",
+            "I will give him pardon, holiness, and heaven, if he endure to the end-to rejoice in his light."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Father has given to the Son a complete unity of believers, one by one, so that all whom He has given should be united in Christ's unfolding of the Father's design. When Jesus says, I will in no wise cast out, He is expressing the grace and readiness with which He will receive all who come to Him. Even though the disciples may have struggled with faith, Jesus assures them that God's purpose will not be defeated, for everyone whom the Father gives to Him will infallibly come. His invitation to come is open to all, emphasizing the voluntary act of coming and accepting Him. It is a definite promise from Jesus to welcome the one who chooses to come.",
+            "wordCount": 124,
+            "quoteTokenProportion": 48.05,
+            "qualityScore": 2.1506187516395343,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+            "commentatorTierSimilarities": [
+                29.4,
+                35.07,
+                35.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Father has given to the Son a unity of believers, so all whom He has given should be united in Christ's unfolding. Jesus' statement I will in no wise cast out expresses the grace and readiness with which He receives those who come to Him. Even though the disciples may have struggled with faith, Jesus assures them that God's purpose will not be defeated; everyone given to Him by the Father will infallibly come. His invitation to come is open to all, emphasizing the voluntary act of coming and accepting Him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1695409782842887,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+            "commentatorTierSimilarities": [
+                29.15,
+                35.55,
+                35.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Father's gift of believers to the Son ensures their unity in Christ's unfolding plan. With the assurance of grace and readiness, Jesus promises not to cast out those who come to Him. Despite the disciples' lack of faith, God's purpose in the world will not be deterred, as all whom the Father gives to Jesus will come to Him without fail. This invitation is open to all, emphasizing the voluntary act of coming and accepting Jesus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.0797405196400067,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+            "commentatorTierSimilarities": [
+                27.33,
+                37.57,
+                35.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Father's gift of believers guarantees their unity in Christ's plan. Jesus affirms His readiness to receive all who come to Him by saying, I will in no wise cast out. Even if the disciples lack faith, God's purpose will not fail, for everyone the Father gives to Jesus will come to Him. This invitation is open to all, emphasizing the voluntary act of coming and accepting Jesus.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.143666336912327,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.62,
+            "commentatorTierSimilarities": [
+                28.96,
+                36.66,
+                34.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Father's gift of believers ensures their unity, as all whom He has given should come to the Son. Jesus promises to never cast out those who come to Him, emphasizing His grace and readiness to receive all. Despite the disciples' faith struggles, God's purpose will not be defeated, for everyone given to Jesus by the Father will infallibly come. This invitation is open to all, highlighting the voluntary act of coming and accepting Jesus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.1215585637409378,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+            "commentatorTierSimilarities": [
+                28.51,
+                36.67,
+                34.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

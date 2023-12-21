@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:10:06",
+    "verseRef": "John 11:7",
+    "bestBHT": {
+        "bht": "Jesus's delay in going to see Lazarus was not based on secondary reasons, but for the glory of God. He desired the miracle to happen as it did and not in any other way. By telling His disciples to go to Judea, Jesus dispelled their perception that He had forgotten about Lazarus.",
+        "wordCount": 53,
+        "quoteTokenProportion": 54.55,
+        "qualityScore": 1.7429075380609471,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+        "commentatorTierSimilarities": [
+            33.68,
+            32.9,
+            33.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The question, why our Lord did not go immediately on receiving the message, is not to be answered by any secondary reasons.\" ",
+            "For the glory of God, He would have the miracle happen as it did and no otherwise."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7-10. Let us go into Judea again\u2014He",
+            "\twas now in Perea, \"beyond Jordan."
+        ],
+        "John Calvin": [
+            "At length he now shows that he cared about Lazarus, though the disciples thought that he had forgotten him, or, at least, that there were other matters which he reckoned of more importance than the life of Lazarus.\" ",
+            "He therefore enjoins them to cross the Jordan, and go to Judea."
+        ],
+        "Philip Schaff": [
+            "Jesus does not say \u2018to Bethany,\u2019 but to \u2018Judea;\u2019 for He knows that this visit to Bethany will bring Him again into the midst of His enemies.\" ",
+            "In the full consciousness of what awaits Him He prepares to depart for Bethany."
+        ],
+        "Archibald T. Robertson": [
+            "\u03b5\u03c0\u03b5\u03b9\u03c4\u03b1 (only here in John) means thereafter (Luke 16:7) and it is made plainer by the addition of \u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf (cf. John 2:12; John 11:11), meaning after the two days had elapsed.",
+            "Volitive (hortative) subjunctive of \u03b1\u03b3\u03c9 (intransitive use as in verses John 11:11; John 11:16).",
+            "They had but recently escaped the rage of the Jews in Jerusalem (John 10:39) to this haven in Bethany beyond Jordan (John 10:40)."
+        ],
+        "John Gill": [
+            "Then after that,.... The next day, the third day after he had heard of Lazarus's sickness.\" ",
+            "Let us go into Judea again; for the country beyond Jordan was distinguished from Judea."
+        ],
+        "John Wesley": [
+            "Let us go into Judea.\" ",
+            "From the country east of Jordan.",
+            "Whither he had retired some time before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the glory of God, Jesus chose not to go immediately upon receiving the message about Lazarus's sickness. His decision to delay was not motivated by any secondary reasons. He desired for the miracle to happen as it did and no other way. Aware of His impending persecution, Jesus prepared to depart for Bethany in Judea, where He knew He would be among enemies. By instructing His disciples to cross the Jordan and go into Judea, He showed His care for Lazarus, contrary to their initial belief.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.5931663900782684,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                28.42,
+                40.76,
+                30.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the glory of God, Jesus's decision to delay in going to see Lazarus was not based on secondary reasons. He desired the miracle to happen as it did and not in any other way. In anticipation of his enemies, Jesus prepared to depart for Bethany in Judea. By instructing His disciples to go to Judea, He dispelled their perception that He had forgotten about Lazarus and showed His concern for him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.792500664747232,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                26.86,
+                42.88,
+                30.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's delay in going to see Lazarus was not based on secondary reasons but for the glory of God. His desire was for the miracle to happen as it did and not in any other way. Anticipating His enemies, Jesus prepared to depart for Bethany in Judea. By instructing His disciples to go to Judea, He dispelled their perception that He had forgotten about Lazarus.",
+            "wordCount": 66,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.8492291505683198,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.83,
+            "commentatorTierSimilarities": [
+                28.12,
+                41.86,
+                30.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's delay in going to see Lazarus was not based on secondary reasons, but for the glory of God. He desired the miracle to happen as it did and not in any other way. By telling His disciples to go to Judea, Jesus dispelled their perception that He had forgotten about Lazarus.",
+            "wordCount": 53,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.7429075380609471,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                33.68,
+                32.9,
+                33.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus received a message about Lazarus' sickness, but instead of going immediately, he chose to wait for two days. This delay was not due to any secondary reasons but was part of God's plan for the glory of God. Jesus wanted the miracle to happen exactly as it did. He instructed his disciples to go to Judea again, where the Jews had recently been hostile towards them. By going beyond Jordan to Bethany, Jesus showed that he cared deeply about Lazarus and wanted to demonstrate his power over death.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.6015770173134012,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                31.13,
+                38.26,
+                30.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:05:00",
+    "verseRef": "John 3:4",
+    "bestBHT": {
+        "bht": "The notion of new birth was foreign to Nicodemus, who couldn't fathom the need for such a spiritual transformation among Jews. He failed to realize the distinction between a second beginning and a different beginning, highlighting his lack of comprehension. Nicodemus, a learned Pharisee, struggled to grasp the deeper meaning of Jesus' words, fixating on a literal interpretation. His incredulous question about re-entering his mother's womb demonstrates his perplexity and an inability to embrace the straightforward teachings of Scripture.",
+        "wordCount": 82,
+        "quoteTokenProportion": 27.42,
+        "qualityScore": 2.0800221701299915,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.5,
+        "commentatorTierSimilarities": [
+            34.1,
+            39.52,
+            26.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The idea of new birth was by no means alien from the Rabbinical views.",
+            "The proselyte might be regarded as born again, when he became one of the seed of Abraham.",
+            "But that every man should need this, was beyond Nicodemus\u2019s comprehension."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The figure of the new birth, if it had been meant only of Gentile proselytes to the Jewish religion, would have been intelligible enough to Nicodemus.",
+            "That Jews themselves should need a new birth was to him incomprehensible.",
+            "Being quite in keeping with the language of that day."
+        ],
+        "Albert Barnes": [
+            "Prejudice leads men to misunderstand the plainest doctrines of religion.",
+            "Things which are at first incomprehensible or apparently absurd, may, when explained, become clear.",
+            "The doctrine of regeneration, so difficult to Nicodemus, is plain to a 'child' that is born of the Spirit."
+        ],
+        "Marvin Vincent": [
+            "When he is old [\u03b3\u03b5\u03c1\u03c9\u03bd \u03c9\u03bd] . Literally, being an old man.\" ",
+            "Can he [\u03bc\u03b7 \u03b4\u03c5\u03bd\u03b1\u03c4\u03b1\u03b9] . The interrogative particle anticipates a negative answer. Surely he cannot.",
+            "Nicodemus looks at the subject merely from the physical side. His second time is not the same as Jesus ' anew. As Godet remarks, 'he does not understand the difference between a second beginning and a different beginning.'"
+        ],
+        "John Calvin": [
+            "While they weary out their whole life with profound speculations, as to all that strictly relates to the worship of God, to the confident hope of our salvation, or to the exercises of religion, they know no more on these subjects than a cobbler or a cowherd knows about the course of the stars...",
+            "...taking delight in foreign mysteries, they openly despise the true doctrine of Scripture as unworthy of the elevated rank which belongs to them as teachers.",
+            "We need not wonder, therefore, to find here that Nicodemus stumbles at a straw; for it is a just vengeance of God, that they who think themselves the highest and most excellent teachers, and in whose estimation the ordinary simplicity of doctrine is vile and despicable, stand amazed at small matters."
+        ],
+        "Philip Schaff": [
+            "The solemn emphasis laid on the words \u2018born anew\u2019 forbids his thinking of a mere figure of speech, and apparently banishes from his mind the Old Testament expressions which approach the same truth.\" ",
+            "The privilege which he attached to natural birth within the bounds of Israel is tom away by a word; the\u2019 any one \u2018of our Lord\u2019s answer, makes all men equal; and the prize which seemed almost within his grasp is given to every one who has been born anew.",
+            "In his bewilderment he sees no meaning in the words of Jesus, except they be understood physically of a second natural birth; and the evident impossibility of this he expresses in the very strongest terms."
+        ],
+        "Archibald T. Robertson": [
+            "This stupid misunderstanding of the meaning of Jesus is precisely what John represents Nicodemus as making.\" ",
+            "The blunder of Nicodemus is emphasized by the second question with the \u03bc\u03b7 expecting the negative answer.\" ",
+            "The learned Pharisee is as jejune in spiritual insight as the veriest tyro."
+        ],
+        "John Gill": [
+            "How can a man be born when he is old?",
+            "Can he enter the second time into his mother's womb, and be born?",
+            "This he urges, as absurd, impracticable, and impossible."
+        ],
+        "John Wesley": [
+            "When he is old \u2014 As Nicodemus himself was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The idea of new birth was unfamiliar to Nicodemus, as it was beyond his comprehension that every person, including Jews themselves, should need to experience this. Prejudice and a lack of spiritual insight led Nicodemus to misunderstand Jesus' teachings, as he failed to grasp the difference between a second beginning and a different beginning. Despite his position as a learned Pharisee, Nicodemus was as spiritually ignorant as a beginner. His inability to understand Jesus' words is emphasized by his incredulous question about entering his mother's womb again. This misunderstanding is a just punishment for those who despise the simplicity of Scripture and instead pursue foreign mysteries.",
+            "wordCount": 107,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 2.103086198116463,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+            "commentatorTierSimilarities": [
+                33.07,
+                38.55,
+                28.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nicodemus, a learned Pharisee, struggled to grasp the concept of new birth that Jesus taught. The idea that every person, including Jews, needed this spiritual transformation was incomprehensible to him. Nicodemus's lack of understanding stemmed from his reliance on physical interpretations rather than grasping the spiritual significance. His question about entering his mother's womb again is a testament to his misunderstanding and inability to comprehend Jesus' teachings. This confusion serves as a reminder that prejudice and a refusal to embrace the simplicity of Scripture hinders true understanding.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 2.050184646827338,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.51,
+            "commentatorTierSimilarities": [
+                33.04,
+                39.66,
+                27.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The notion of new birth was foreign to Nicodemus, who couldn't fathom the need for such a spiritual transformation among Jews. He failed to realize the distinction between a second beginning and a different beginning, highlighting his lack of comprehension. Nicodemus, a learned Pharisee, struggled to grasp the deeper meaning of Jesus' words, fixating on a literal interpretation. His incredulous question about re-entering his mother's womb demonstrates his perplexity and an inability to embrace the straightforward teachings of Scripture.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 2.0800221701299915,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.5,
+            "commentatorTierSimilarities": [
+                34.1,
+                39.52,
+                26.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nicodemus, a learned Pharisee, couldn't comprehend the need for new birth, a concept he associated with Gentile proselytes. His inability to grasp the spiritual significance of Jesus' teachings led him to focus on physical interpretations. Nicodemus failed to understand the difference between a second beginning and a different beginning, exemplifying his lack of spiritual insight. His question about re-entering his mother's womb demonstrated his perplexity and revealed his ignorance. This confusion serves as a reminder that prejudice and a preference for elaborate doctrines obstruct true understanding of Scripture.",
+            "wordCount": 91,
+            "quoteTokenProportion": 24.64,
+            "qualityScore": 1.9790925112771838,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                33.24,
+                39.09,
+                27.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nicodemus, a learned Pharisee, couldn't fathom the need for new birth, a concept only familiar to Gentile proselytes. His confusion stemmed from his reliance on physical interpretations, overlooking the spiritual essence. Nicodemus failed to discern the distinction between a second beginning and a different beginning, highlighting his lack of insight. His incredulous question about re-entering his mother's womb exemplified his perplexity and underscored his spiritual ignorance. This serves as a reminder that prejudice and a disdain for simple Scripture hinders true understanding.",
+            "wordCount": 85,
+            "quoteTokenProportion": 24.62,
+            "qualityScore": 1.9611374498795109,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                33.38,
+                38.73,
+                27.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

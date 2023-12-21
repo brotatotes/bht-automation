@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:13:16",
+    "verseRef": "John 16:15",
+    "bestBHT": {
+        "bht": "The Son, bestowed by the Father, holds life and all things within Himself. This reveals the orthodox doctrine of the Trinity and grants insight into the divine relationships. The Holy Spirit continues the Father's revelation through the Son, teaching the disciples about Christ's death and resurrection. The Son's unity with the Father is so close that whatever is done to the Son is also done to the Father. The Son, as both man and God, shares with us what He has received from the Father, inviting us to partake in His riches.",
+        "wordCount": 95,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.211429757575,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+        "commentatorTierSimilarities": [
+            36.01,
+            32.9,
+            31.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Father hath given the Son to have life and all things in Himself.",
+            "And this Revelation, the Revelation of the Father by Christ\u2014is carried on by the blessed Spirit in the hearts of the disciples of Christ.",
+            "This verse contains the plainest proof by inference of the orthodox doctrine of the Holy Trinity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A plainer expression than this of absolute community with the Father in all things cannot be conceived.\" ",
+            "We have here a wonderful glimpse into the inner relations of the Godhead."
+        ],
+        "Albert Barnes": [
+            "No one could have said this who was not equal with the Father.",
+            "The union was so intimate, though mysterious, that it might with propriety be said that whatever was done in relation to the Son, was also done in regard to the Father.",
+            "See John 14:9."
+        ],
+        "Marvin Vincent": [
+            "All things as many as.",
+            "The relation between the Son and the Spirit is present and constant."
+        ],
+        "John Calvin": [
+            "He acknowledges that he has received from the Father all that he communicates to us by the Spirit.",
+            "He always keeps his eye on us.",
+            "He speaks of his riches, that he may invite us to enjoy them."
+        ],
+        "Philip Schaff": [
+            "All things whatsoever the Father hath are mine: therefore said I that he receiveth of that which is mine, and will declare it unto you.\" ",
+            "It is of Himself as Son of man as well as Son of God, not of Himself only as the Eternal Son, that Jesus speaks.",
+            "What was so received and declared would not fall short, therefore, of leading them into the highest truth the truth as to \u2018the Father.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The Holy Spirit as Guide and Teacher will teach them what they can only receive and understand after the resurrection and ascension of Jesus.",
+            "Jesus explains how and why the Holy Spirit can and will reveal to the disciples what they need to know further concerning him.",
+            "They had failed so far to understand Christ's words about his death and resurrection."
+        ],
+        "John Gill": [
+            "All things that the Father hath are mine.",
+            "In these Christ is equally concerned with the Father.",
+            "They are jointly concerned in every thing relating to the salvation, benefit, comfort, and happiness of the saints."
+        ],
+        "John Wesley": [
+            "All things that the Father hath are mine \u2014 Could any creature say this?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals the Son's relationship with the Father, emphasizing that the Father has given the Son life and all things in Himself, and this revelation is carried on by the Holy Spirit in the hearts of disciples. This verse serves as proof of the orthodox doctrine of the Holy Trinity, providing a glimpse into the inner relations of the Godhead. Through the Holy Spirit, Jesus will teach the disciples the deeper understanding they failed to grasp about His death and resurrection. The Son and the Spirit have an ongoing relationship, constantly connected. The Son, as both Son of man and Son of God, acknowledges His reception of all that He communicates from the Father to us, offering an invitation to partake in His riches. The Son and the Father are jointly concerned in everything relating to the salvation and happiness of the saints.",
+            "wordCount": 145,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 2.154218011512315,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                41.93,
+                29.21,
+                28.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the Holy Spirit, the Son reveals the Father and carries on the revelation of the Father given by Him. This demonstrates the orthodox doctrine of the Holy Trinity and offers a glimpse into the inner relations of the Godhead. The Son emphasizes His intimate communion with the Father, speaking of their absolute community in all things. He assures that the Holy Spirit, as Guide and Teacher, will further teach the disciples about Him after His resurrection and ascension. The Son's reception from the Father and subsequent declaration indicates the joint concern of the Father and the Son for the salvation and happiness of believers.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.2056921391723083,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.68,
+            "commentatorTierSimilarities": [
+                41.7,
+                30.24,
+                28.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son, bestowed by the Father, holds life and all things within Himself. This reveals the orthodox doctrine of the Trinity and grants insight into the divine relationships. The Holy Spirit continues the Father's revelation through the Son, teaching the disciples about Christ's death and resurrection. The Son's unity with the Father is so close that whatever is done to the Son is also done to the Father. The Son, as both man and God, shares with us what He has received from the Father, inviting us to partake in His riches.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.211429757575,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                36.01,
+                32.9,
+                31.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son, given by the Father, possesses life and all things within Himself. This highlights the orthodox doctrine of the Holy Trinity and provides a glimpse into the inner relations of the Godhead. Through the Holy Spirit, the disciples will receive further understanding from Jesus regarding His death and resurrection. The Son's union with the Father is so intimate that whatever pertains to the Son also pertains to the Father. He invites us to partake in His richness, as the Father and Son are both committed to the salvation and happiness of believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.163563962680886,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+            "commentatorTierSimilarities": [
+                38.13,
+                31.36,
+                30.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son, given by the Father, possesses all things and life within Himself, further revealing the Trinity and the inner relations of the Godhead. Through the Holy Spirit, the disciples will receive deeper understanding from Jesus about His death and resurrection. The Son's connection with the Father is so close that whatever affects the Son also affects the Father. He invites us to share in His abundance, as the Father and Son work together for the salvation and joy of believers.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.178838360248669,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+            "commentatorTierSimilarities": [
+                38.58,
+                30.81,
+                30.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

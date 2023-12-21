@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:06:26",
+    "verseRef": "John 5:32",
+    "bestBHT": {
+        "bht": "The Son, even in the days of his humiliation, is fully aware of the righteousness of the Father and recognizes the fulfillment of prophecies in Himself. Jesus finds solace in the witness of the Father, which sustains Him amidst the growing opposition. He emphasizes the importance of this divine testimony, surpassing any additional witness, as a profound statement of His own dignity and union with the Father. Some interpret another to refer to John the Baptist, whose ongoing testimony holds weight among the Jews.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.1172474840574207,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.74,
+        "commentatorTierSimilarities": [
+            32.4,
+            29.22,
+            38.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This other can, by the inner coherence of the discourse, be no other than THE FATHER, of Whom so much has been said in the former part.",
+            "It testifies to the full consciousness on the part of the Son, even in the days of his humiliation, of the righteousness of the Father.",
+            "Also to His distinct recognition and approval of psalm and type and prophecy, as applied to Himself and His work."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How brightly the distinction of the Persons shines out here!",
+            "It testifies to the full consciousness on the part of the Son, even in the days of His humiliation, of the righteousness of the Father.",
+            "And thus He cheered His spirit under the cloud of human opposition which was already gathering over His head."
+        ],
+        "Albert Barnes": [
+            "There is another - That is, God. See John 5:36."
+        ],
+        "Philip Schaff": [
+            "Not \u2018There is another,\u2019 as if He would merely cite an additional witness. He would lay the whole stress of the witnessing upon this \u2018other witness.\u2019",
+            "[...] his testimony is not that on which Jesus relies.",
+            "These words are not said in attestation of the Father\u2019s truth, a point admitted by all: they are the utterance of the Son\u2019s profound consciousness of His own dignity and union with the Father."
+        ],
+        "Archibald T. Robertson": [
+            "This continual witness of the Father is mentioned again in verses John 5:36-38 as in John 8:17.",
+            "The Father, not the Baptist who is mentioned in verse John 5:33.",
+            "The Father...is bearing witness."
+        ],
+        "John Gill": [
+            "This is indeed the sense of some interpreters; but the Father is particularly mentioned in John 5:37; and the thread of the discourse, and the climax, or gradation, here used, show, that it is to be understood of 'another man', as Nonnus paraphrases it; of John the Baptist...",
+            "John was now alive, though in prison, and continued to bear a testimony to Christ; and therefore he speaks of him as now bearing witness of him, and abiding by that which he had bore...",
+            "Christ knew not only that what he testified of him was true in itself, but that his testimony was a valid and authentic testimony, with the generality of the Jews; who held John to be a prophet, and looked upon him as a man of great probity and integrity, and whose word was to be taken..."
+        ],
+        "John Wesley": [
+            "There is another \u2014 The Father, John 5:37, and I know that, even in your judgment, his testimony in beyond exception."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Son, even in the days of his humiliation, is fully aware of the righteousness of the Father, as well as the Father's affirmation of the prophecies applied to the Son and His work. The distinction of the Persons and the witness of the Father serve to strengthen Jesus' spirit amid the human opposition gathering against Him. The Father's continuous testimony, mentioned in other verses, is of utmost importance, surpassing any additional witness. Jesus' mention of another is a profound declaration of His own dignity and union with the Father. Some interpret this another to refer to John the Baptist, who was alive in prison, continuing to testify to Christ and maintaining the validity and integrity of his testimony.",
+            "wordCount": 121,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 2.232053059994407,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.56,
+            "commentatorTierSimilarities": [
+                31.11,
+                29.1,
+                39.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son, even in the days of his humiliation, is fully aware of the righteousness of the Father and recognizes the fulfillment of prophecies in Himself. Jesus finds solace in the witness of the Father, which sustains Him amidst the growing opposition. He emphasizes the importance of this divine testimony, surpassing any additional witness, as a profound statement of His own dignity and union with the Father. Some interpret another to refer to John the Baptist, whose ongoing testimony holds weight among the Jews.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.1172474840574207,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.74,
+            "commentatorTierSimilarities": [
+                32.4,
+                29.22,
+                38.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of His humiliation, the Son possesses a profound consciousness of the Father's righteousness and acknowledges the application of psalm, type, and prophecy as it relates to Himself and His mission. By highlighting the witness of the Father, Jesus finds comfort and encouragement, countering the mounting human opposition. This divine testimony holds tremendous significance, far surpassing any additional witness. Some interpret this other to refer to John the Baptist, whose ongoing testimony is considered valid and authentic by many.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.027755806184709,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                29.2,
+                30.86,
+                39.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even in His days of humble existence, the Son possesses a deep understanding of the righteousness of the Father. He acknowledges the application of psalm, type, and prophecy to Himself and His work, finding solace in the witness of the Father. This divine testimony serves as a source of encouragement to Jesus, especially in the face of the growing human opposition. It holds greater weight than any other witness. Some view this other as a reference to John the Baptist, whose ongoing testimony is regarded as trustworthy and widely accepted.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.915827468245509,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                29.72,
+                31.62,
+                38.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son, even during His days of humiliation, understands the righteousness of the Father and affirms the fulfillment of prophecies in Himself and His work. The Father's witness is a source of comfort to Jesus as He faces opposition. Its significance outweighs any additional witness. Some suggest that the other refers to John the Baptist, whose ongoing testimony is considered valid and trustworthy among the general populace, reinforcing Jesus' acknowledgment of it.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.029510628884357,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                29.21,
+                32.46,
+                38.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

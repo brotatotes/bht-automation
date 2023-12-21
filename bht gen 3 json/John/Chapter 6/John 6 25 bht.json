@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:06:58",
+    "verseRef": "John 6:25",
+    "bestBHT": {
+        "bht": "The people in Capernaum were amazed at Jesus' presence, questioning how he had arrived there. They wondered if he had traveled all night or arrived before them. Jesus left their questions unanswered, as their focus was on the sign of his arrival rather than the true significance. Capernaum, located on the western coast, made it unusual for Jesus to be there without a boat. Their curiosity provided an opportunity for Jesus to offer deeper instruction and insight.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.5336646918632015,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+        "commentatorTierSimilarities": [
+            34.24,
+            37.87,
+            27.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When? as Stier remarks, includes 'how?' in its meaning.",
+            "Our Lord leaves the question unanswered, because it was not for a sign to these people that He had miraculously crossed the lake.",
+            "not for a sign to these people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "astonished at His being there, and wondering how He could have accomplished it",
+            "they could not see how, unless He had travelled all night round the head of the lake alone, He could have reached Capernaum",
+            "even then, how He could have arrived before themselves"
+        ],
+        "John Calvin": [
+            "On the other side of the sea...we must not understand him as if its position were directly across, but because, at the lower extremity, the lake made a large winding.\" ",
+            "The Evangelist therefore says, on the other side of the sea, adopting the mode of expression used by the common people.",
+            "The only direct and ordinary mode of conveyance was by a boat."
+        ],
+        "Philip Schaff": [
+            "The question is not answered, but the eager search which it implied is made to lead the way to deeper instruction...\" (John 6:25)",
+            "The \u2018other side\u2019 denotes the western coast.\" (John 6:25)",
+            "Their question on finding Jesus in Capernaum but partly expresses their thoughts, which would rest as much on the how as on the \u2018when\u2019 of His coming to this place.\" (John 6:25)"
+        ],
+        "Archibald T. Robertson": [
+            "Found him after search and in the synagogue as John explains in Capernaum, perhaps that very synagogue built by a centurion.",
+            "Rabbi. See on John 1:38 for this courteous title.",
+            "When hast thou come? We sought you anxiously on the other side of the lake and could not see how you came across."
+        ],
+        "John Gill": [
+            "When camest thou hither? since he did not go with his disciples, and there was no other boat that went off the night before, but that in which they went; and they came over in the first that came out that morning, and he did not come in any of them; and therefore it was amazing to them, both when and how he came...\" ",
+            "They said unto him, Rabbi; or 'master', a name now much in use with the Jewish doctors, and by which they delighted to be called...",
+            "...since they could not devise how he should get there by shipping, and also how he should so soon get there on foot."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people were astonished when they found Jesus in Capernaum, for they could not see how he had traveled there. They wondered if he had traveled all night around the head of the lake alone or had arrived before them. They eagerly asked, When have you come? and How did you come? Their question, though unanswered, gave Jesus an opportunity to provide deeper instruction. The location of Capernaum on the western coast meant that the journey to it would usually require a boat. Therefore, the people were puzzled by Jesus' presence in Capernaum without any visible means of transportation.",
+            "wordCount": 99,
+            "quoteTokenProportion": 52.78,
+            "qualityScore": 1.362307858906468,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.64,
+            "commentatorTierSimilarities": [
+                35.75,
+                33.51,
+                30.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were astonished and perplexed as to how Jesus had arrived in Capernaum. They wondered if he had traveled all night around the head of the lake alone, or if he had somehow arrived before them. Their eager questions of When have you come? and How did you come? were left unanswered by Jesus. This situation provided an opportunity for Jesus to offer deeper instruction. The people were puzzled by Jesus' presence without any visible means of transportation, considering that the usual mode of conveyance was by boat.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2879440776423028,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.17,
+            "commentatorTierSimilarities": [
+                35.7,
+                32.79,
+                31.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people were astonished to find Jesus in Capernaum, wondering how he had arrived there. They questioned, When have you come? and How did you come? Jesus did not directly answer, as it was not the sign that mattered to them, but rather the mystery of his arrival. Capernaum was situated on the western coast, making it unusual for Jesus to be there without the usual mode of transportation by boat. Their curiosity opened the door for deeper instruction from Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 1.3549726062529048,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.4,
+            "commentatorTierSimilarities": [
+                34.28,
+                36.71,
+                29.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in Capernaum were amazed at Jesus' presence, questioning how he had arrived there. They wondered if he had traveled all night or arrived before them. Jesus left their questions unanswered, as their focus was on the sign of his arrival rather than the true significance. Capernaum, located on the western coast, made it unusual for Jesus to be there without a boat. Their curiosity provided an opportunity for Jesus to offer deeper instruction and insight.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.5336646918632015,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                34.24,
+                37.87,
+                27.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people were astonished to find Jesus in Capernaum and wondered how He had arrived there. Their question about the timing was also an inquiry about the method of His arrival. Jesus did not explicitly answer their question, as He did not perform the miracle of crossing the lake to impress them. The people were left amazed, unable to comprehend how Jesus could have made the journey without them seeing Him. This eagerness to know puzzled them, leading to a deeper understanding of Jesus' teachings. The location referred to as the other side denotes the western coast, and the phrase when camest thou hither? expresses their astonishment and curiosity about both the how and the when of Jesus' arrival in Capernaum.",
+            "wordCount": 121,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.5103484225947899,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                31.71,
+                39.17,
+                29.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

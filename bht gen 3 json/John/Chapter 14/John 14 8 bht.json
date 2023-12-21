@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:12:13",
+    "verseRef": "John 14:8",
+    "bestBHT": {
+        "bht": "Philip, misunderstanding Jesus' words, asks for a visible manifestation of God, not realizing that Jesus himself is the perfect revelation of the Father. However, Jesus reminds Philip that His words and works should be sufficient evidence, even though their faith is weak. We can empathize with their shortcomings, often failing to perceive God's presence when He is right in front of us. If we could physically see God, we would be satisfied and free from doubt. But Jesus assures us that through faith in Him, we can find peace and contentment in knowing the Father.",
+        "wordCount": 96,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9194541544180632,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+        "commentatorTierSimilarities": [
+            40.34,
+            32.0,
+            27.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Philip misunderstands the words ye have seen him to mean \u2018seeing in a vision,\u2019\u2014and intimates that one such sight of God would set at rest all their fears, and give them perfect confidence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Son is the ordained and perfect manifestation of the Father, that His own word for this ought to His disciples to be enough.",
+            "If any doubts remained His works ought to remove them.",
+            "These works of His were designed merely to aid weak faith, and would be repeated, nay exceeded, by His disciples, in virtue of the power He would confer on them after His departure."
+        ],
+        "Albert Barnes": [
+            "Philip here referred to some outward and visible manifestation of God.",
+            "It was right to desire evidence that Jesus was the Messiah, but such evidence 'had been' afforded abundantly in the miracles and teaching of Jesus.",
+            "That 'should' have sufficed them."
+        ],
+        "John Calvin": [
+            "Show us the Father. It appears to be very absurd that the Apostles should offer so many objections to the Lord.",
+            "Yet there is not one of their faults that is here described that may not be charged on us as well as on them.",
+            "We profess to be earnest in seeking God; and when he presents himself before our eyes, we are blind."
+        ],
+        "Philip Schaff": [
+            "The same bluntness of spiritual sight (that is, really the same weakness of faith)",
+            "Philip fails to understand; and, thinking perhaps of the revelation given to Moses in Exodus 33:18-19, misusing also those words of our Lord which alone made his request possible",
+            "The reply of Jesus, John 14:9-21, falls into three leading parts"
+        ],
+        "Archibald T. Robertson": [
+            "Show us (\u03b4\u03b5\u03b9\u03be\u03bf\u03bd \u03b7\u03bc\u03b9\u03bd). Philip now speaks up, possibly hoping for a theophany (Exodus 33:18), certainly not grasping the idea of Jesus just expressed. "
+        ],
+        "John Gill": [
+            "Show us the Father; it was a corporeal sight of him he asked for... if this could be obtained, it would give them full satisfaction.",
+            "...we shall be no more uneasy at thy departure from us; we shall have no doubt about thy Father's house... we shall sit down easy and contented.",
+            "...and trouble time no more with questions about this matter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Philip misunderstands and asks for a visible manifestation of God, not comprehending that Jesus is the ordained and perfect manifestation of the Father. Jesus reminds Philip that His words and works are enough evidence, but they still struggle with weak faith. We can relate to their faults, as we often fail to see God's presence even when He is right in front of us. If we could see God with our physical eyes, we would be satisfied and no longer doubt or question. But Jesus assures us that through faith in Him and the power He imparts, we can be at peace and find contentment in knowing the Father.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.67,
+            "qualityScore": 1.9049804783222077,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                40.06,
+                30.84,
+                29.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Philip misunderstands and asks for a visible manifestation of God, not comprehending that Jesus is the ordained and perfect manifestation of the Father. Jesus reminds Philip that His words and works are enough evidence, but they still struggle with weak faith. We can relate to their faults, as we often fail to see God's presence when He is right in front of us. If we could see God, we would be satisfied and no longer doubt. But Jesus assures us that through faith in Him, we can find peace and contentment in knowing the Father.",
+            "wordCount": 96,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 1.883885328237639,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                39.86,
+                31.41,
+                28.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Philip misunderstands and requests a visible manifestation of God, failing to grasp that Jesus himself is the perfect manifestation of the Father. Jesus reiterates that His words and works should be sufficient evidence, yet their faith remains weak. We can empathize with their shortcomings, as we often overlook God's presence when it is right in front of us. If we could physically see God, we would be content and no longer question. However, Jesus assures us that through faith in Him, we can find peace and satisfaction in knowing the Father.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.823748280702301,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.98,
+            "commentatorTierSimilarities": [
+                38.7,
+                31.76,
+                29.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Philip misunderstands and requests a visible manifestation of God, failing to comprehend that Jesus is the perfect manifestation of the Father. Jesus reminds Philip that His words and works should be enough evidence, though their faith remains weak. We can relate to their shortcomings, often failing to perceive God's presence when He is right in front of us. If we could physically see God, we would be content and no longer question. But through faith in Jesus, we can find peace and satisfaction in knowing the Father.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.862195472606158,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                39.44,
+                32.31,
+                28.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Philip, misunderstanding Jesus' words, asks for a visible manifestation of God, not realizing that Jesus himself is the perfect revelation of the Father. However, Jesus reminds Philip that His words and works should be sufficient evidence, even though their faith is weak. We can empathize with their shortcomings, often failing to perceive God's presence when He is right in front of us. If we could physically see God, we would be satisfied and free from doubt. But Jesus assures us that through faith in Him, we can find peace and contentment in knowing the Father.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9194541544180632,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                40.34,
+                32.0,
+                27.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

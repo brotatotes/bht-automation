@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:06:00",
+    "verseRef": "John 5:8",
+    "bestBHT": {
+        "bht": "Jesus commands the man, Arise, take up thy bed, and walk, marking the perfection of the cure. The act of carrying his bed serves as a lasting reminder of his past sin and symbolizes the completeness of his healing. Through this miracle, Jesus not only restores his health but also engages in his first open controversy with the Jews. The immediate response of the man showcases the instantaneous and miraculous nature of the healing, highlighting the transformative power of Christ's words.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.7281463057764717,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+        "commentatorTierSimilarities": [
+            31.9,
+            36.45,
+            31.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The command, Take up thy bed, has been treated as making a difference between the man lame from his birth in Acts iii. 8, who walked and leaped and praised God; and this man, who, since sin had been the cause of his disease (ver. 14), is ordered to carry his bed, \u2018a present memento of his past sin.\u2019\" ",
+            "Possibly; but our Lord must have had in his view what was to follow, and have ordered it also to bring about this his first open controversy with the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Immediately\" he did so. \"He spake and it was done.\" ",
+            "The slinging of his portable couch over his shoulders was designed to show the perfection of the cure."
+        ],
+        "Albert Barnes": [
+            "Jesus not only restored him to health, but he gave evidence to those around him that this was a real miracle.",
+            "The weak and helpless sinner should put forth his efforts in obedience to the command of Jesus.",
+            "Seldom is more mischief done than by attempting to draw from the Bible what it was not intended to teach."
+        ],
+        "Marvin Vincent": [
+            "Bed [\u03ba\u03c1\u03b1\u03b2\u03b2\u03b1\u03c4\u03bf\u03bd] . Used by both Mark and Luke. See on Mark 2:4, and compare Acts 5:15; Acts 9:33."
+        ],
+        "Philip Schaff": [
+            "The cure is performed in the most simple and direct manner.",
+            "It is not said that Jesus laid His hands on him or that He touched him.",
+            "He speaks: the man hears the voice of the Son of God and lives."
+        ],
+        "Archibald T. Robertson": [
+            "Arise, take up thy bed, and walk.",
+            "The first active imperative (\u03b1\u03c1\u03bf\u03bd of \u03b1\u03b9\u03c1\u03c9) means to pick up the pallet.",
+            "For \u03ba\u03c1\u03b1\u03b2\u03b1\u03c4\u03c4\u03bf\u03bd (pallet) see Mark 2:2-12; Mark 6:55; Acts 5:15; Acts 9:33."
+        ],
+        "John Gill": [
+            "Jesus saith to him, rise.... and take up thy bed and walk; these words were spoken by the same power, as those to Lazarus, which called him out of his grave...",
+            "...as appears from the effect they had upon the man, who was in himself impotent, weak, and helpless.",
+            "...called him out of his grave; as appears from the effect they had upon the man..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this powerful verse, Jesus commands the man to rise, take up his bed, and walk, an action that symbolizes the perfection of the cure. The act of carrying his bed, a visible reminder of his past sin, highlights the transformative power of Christ's healing. Jesus not only restores the man to health but also engages in his first open confrontation with the Jews. The immediacy of the man's obedience further emphasizes the instantaneous and miraculous nature of the healing. Through this display of authority and compassion, Jesus demonstrates that the weak and helpless sinner should respond to His command and actively participate in their own transformation.",
+            "wordCount": 109,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.7342304196061302,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                26.15,
+                38.2,
+                35.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By commanding the man, Arise, take up thy bed, and walk, Jesus not only brings about a remarkable cure but also initiates a significant confrontation with the Jews. The immediate obedience of the man showcases the swift and efficacious power of Christ's words. The act of carrying his bed serves as a visible reminder of his past sin and signifies the completeness of his healing. This healing demonstrates that the weak and helpless sinner should respond actively to Jesus' commands, participating in their own transformation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.701262772275558,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+            "commentatorTierSimilarities": [
+                27.62,
+                37.53,
+                34.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon Jesus' command to arise, take up thy bed, and walk, the man immediately obeys and demonstrates the perfection of the cure. Jesus' deliberate instruction to carry the bed serves as a memento of the man's past sin, while also signifying his miraculous healing. This miraculous healing not only restores the man's health but also initiates a significant confrontation with the Jews. It emphasizes the transformative power of Christ's words and highlights the need for active obedience in response to His commands.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7273771152733328,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.78,
+            "commentatorTierSimilarities": [
+                29.89,
+                38.46,
+                31.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through Jesus' command to arise, take up thy bed, and walk, the man's immediate obedience showcases the profound and instant healing power in these words. The act of carrying his bed serves as a visible reminder of his past sin, highlighting the completeness of his transformation. Jesus' deliberate instruction also sets the stage for a significant confrontation with the Jews, marking the beginning of His public disputes. This healing miracle emphasizes the need for active obedience to Jesus' commands in experiencing profound transformation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.640336892111917,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                30.13,
+                35.89,
+                33.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus commands the man, Arise, take up thy bed, and walk, marking the perfection of the cure. The act of carrying his bed serves as a lasting reminder of his past sin and symbolizes the completeness of his healing. Through this miracle, Jesus not only restores his health but also engages in his first open controversy with the Jews. The immediate response of the man showcases the instantaneous and miraculous nature of the healing, highlighting the transformative power of Christ's words.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.7281463057764717,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                31.9,
+                36.45,
+                31.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

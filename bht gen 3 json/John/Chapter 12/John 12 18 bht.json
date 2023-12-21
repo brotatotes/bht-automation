@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:10:53",
+    "verseRef": "John 12:18",
+    "bestBHT": {
+        "bht": "The multitude that went out to meet Jesus was not a distinct group but the same one mentioned earlier. Their purpose for going out to meet Him was the raising of Lazarus, which became a powerful testimony to Jesus being the long-awaited Messiah. The witnesses and the strong evidence of Lazarus' resurrection created widespread belief in Jesus among the people. This belief compelled them to gather and meet Jesus, acknowledging Him as the promised King of Israel with great excitement and anticipation.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.7723095223030565,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+        "commentatorTierSimilarities": [
+            54.38,
+            0.0,
+            45.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I see no necessity for supposing this multitude distinct from that in the last verse.",
+            "The also here does not imply another multitude, but And on this account the multitude also went out to meet Him.",
+            "their coming out to meet Him and their testimony on the Mount of Olives, had one and the same cause\u2014the raising of Lazarus."
+        ],
+        "Marvin Vincent": [
+            "Met [\u03c5\u03c0\u03b7\u03bd\u03c4\u03b7\u03c3\u03b5\u03bd] . The verb means to go to meet. Hence Rev., went and met."
+        ],
+        "Archibald T. Robertson": [
+            "The multitude of verse John 12:13, not the crowd just mentioned that had been with Jesus at the raising of Lazarus.",
+            "\u03c5\u03c0\u03b7\u03bd\u03c4\u03b7\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03c9. First aorist active indicative of \u03c5\u03c0\u03b1\u03bd\u03c4\u03b1\u03c9, old compound verb (\u03c5\u03c0\u03bf, \u03b1\u03bd\u03c4\u03b1\u03c9) to go to meet, with associative instrumental case \u03b1\u03c5\u03c4\u03c9.",
+            "Clearly there was much talk about the raising of Lazarus as the final proof that Jesus in truth is the Messiah of Jewish hope."
+        ],
+        "John Gill": [
+            "This was a principal reason, among others, which induced them to set out in the manner they did, with palm tree branches in their hands, and accost him as the king of Israel, when they met him, and hosanna'd him into the city.",
+            "The witnesses were so many, and the proofs they gave so strong, that they firmly believed it.",
+            "It made a very strong impression upon the minds of the people, and engaged their attention to him, and belief in him."
+        ],
+        "John Wesley": [
+            "The multitude went to meet him, because they heard.\" ",
+            "From those who had seen the miracle.",
+            "So in a little time both joined together, to go before and to follow him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The multitude that went out to meet Jesus in John 12:18 is the same multitude mentioned in the previous verse and their purpose for going out to meet Him was the raising of Lazarus. This testimony of Lazarus being raised from the dead by Jesus created much talk and discussion among the people, leading them to believe that Jesus is the long-awaited Messiah. This belief made a strong impression on their minds and influenced their actions of going to meet Him, waving palm tree branches, and declaring Him as the king of Israel. The witnesses and proofs of the miracle played a significant role in solidifying their faith in Jesus.",
+            "wordCount": 110,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.7152481392406913,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.37,
+            "commentatorTierSimilarities": [
+                49.31,
+                0.0,
+                50.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The multitude that went out to meet Him had the same cause as their testimony on the Mount of Olives: the raising of Lazarus. This miracle created much talk among the people, solidifying their belief that Jesus is the Messiah. Their strong faith in Him influenced their actions of going to meet Him, waving palm tree branches, and declaring Him as the king of Israel. The witnesses and proofs of the miracle made a powerful impression on their minds, leading them to join together in following Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.686810544154464,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.43,
+            "commentatorTierSimilarities": [
+                43.57,
+                0.0,
+                56.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The multitude that went out to meet Jesus did so because of the raising of Lazarus, as both their coming out and their testimony shared the same cause. This miracle of raising Lazarus had a significant impact on the people's belief in Jesus as the Messiah. The witnesses and the strong evidence of this miracle generated much discussion and firmly convinced them of His identity. Their belief in Jesus compelled them to go out and meet Him, proclaiming Him as the King of Israel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.6725817255830027,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.96,
+            "commentatorTierSimilarities": [
+                46.14,
+                0.0,
+                53.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The multitude that went out to meet Jesus, the same multitude mentioned in the previous verse, did so because of the raising of Lazarus. This miracle had a profound effect on the people's belief in Jesus as the Messiah. The witnesses and the strong evidence of Lazarus' resurrection sparked extensive discussion and firmly convinced them of Jesus' identity. Their unwavering faith in Him led them to eagerly go out and meet Him, waving palm tree branches as they declared Him the King of Israel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6339752972585833,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                50.05,
+                0.0,
+                49.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The multitude that went out to meet Jesus was not a distinct group but the same one mentioned earlier. Their purpose for going out to meet Him was the raising of Lazarus, which became a powerful testimony to Jesus being the long-awaited Messiah. The witnesses and the strong evidence of Lazarus' resurrection created widespread belief in Jesus among the people. This belief compelled them to gather and meet Jesus, acknowledging Him as the promised King of Israel with great excitement and anticipation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7723095223030565,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                54.38,
+                0.0,
+                45.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

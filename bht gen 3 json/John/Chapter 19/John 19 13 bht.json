@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:14:54",
+    "verseRef": "John 19:13",
+    "bestBHT": {
+        "bht": "In the perplexity of his situation, Pilate, fearing accusations at Rome, decided to sacrifice the innocent Jesus rather than risk exposing himself to danger. He took his seat upon the \u03b2\u03b7\u03bc\u03b1, the raised platform outside the palace, prepared for the final stage of the examination. The place of judgment, Gabbatha, was an elevated area distinguished by a mosaic or tessellated pavement. It was appropriate that Christ should be condemned from such a lofty place, for he will come again as the supreme Judge to acquit us all.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.8186260260345244,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+        "commentatorTierSimilarities": [
+            35.16,
+            30.26,
+            34.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In such a perplexity, a man like Pilate could not long hesitate.",
+            "As Caiaphas had before said, it were better that one even innocent man should die, than that all should perish.",
+            "Pilate decided rather to sacrifice Jesus though innocent, than to expose himself to so great danger."
+        ],
+        "Albert Barnes": [
+            "He came here to deliver him, in due form of law, into the hands of the Jews.",
+            "This was an area or room of the judgment hall whose floor was made of small square stones of various colors.",
+            "The name given to the place by the Hebrews was conferred from its being the place of the tribunal, as an elevated place."
+        ],
+        "Marvin Vincent": [
+            "He was afraid of an accusation at Rome before Tiberius, an accusation which could be justified by his misrule.",
+            "Judgment - seat. The best texts omit the article, which may indicate that the tribunal was an improvised one.",
+            "Gabbatha. From the Hebrew gab, 'back,' and meaning, therefore, a raised place. Thus the Aramaic term is not a translation of the Greek term, which indicates that the place, wherever it was, was distinguished by a mosaic or tessellated pavement."
+        ],
+        "John Calvin": [
+            "Hence we see what conflicting opinions passed through the mind of Pilate, as if he had been a stage-player who was acting two characters.",
+            "He ascends the judgment-seat, in order to pronounce sentence of death on Christ solemnly, and in the customary form; and yet he declares openly, that he does so reluctantly and against his conscience.",
+            "It was proper, therefore, that Christ should be condemned from a lofty place, that he, coming from heaven as the supreme Judge, may acquit us at the last day."
+        ],
+        "Philip Schaff": [
+            "The Greek name was probably given because the floor was laid down in the mosaic work common in those days in places of importance, such as theatres and halls of justice, and before altars of the gods. It literally means inlaid with stones.\" ",
+            "The Aramaic word Gabbatha signifies a hill or elevated spot of ground, so that we are to think of a spot in the open air where a tribunal was erected on a rising ground, the top of which was laid with tesselated pavement.",
+            "The time is next noted."
+        ],
+        "Archibald T. Robertson": [
+            "Took his seat upon the \u03b2\u03b7\u03bc\u03b1\" (the raised platform for the judge outside the palace as in Acts 7:5). The examination is over and Pilate is now ready for the final stage.",
+            "The Pavement (\u039b\u03b9\u03b8\u03bf\u03c3\u03c4\u03c1\u03c9\u03c4\u03bf\u03bd). Late compound from \u03bb\u03b9\u03b8\u03bf\u03c2, stone, and the verbal adjective \u03c3\u03c4\u03c1\u03c9\u03c4\u03bf\u03c2 form \u03c3\u03c4\u03c1\u03c9\u03bd\u03bd\u03c5\u03bc, to speak, a mosaic or tesselated pavement, spread with stones, in 2 Chronicles 7:3, Josephus, Epictetus, papyri.",
+            "The Chaldean name \u0393\u03b1\u03b2\u03b2\u03b1\u03b8\u03b1, an elevation, was apparently given because of the shape."
+        ],
+        "John Gill": [
+            "a freeing of Jesus would show an unfriendliness to Caesar; and gave very broad hints that they would accuse him to Caesar of treachery and unfaithfulness",
+            "and fearing lest it would turn to his own disrepute and disadvantage",
+            "This place, in the Greek tongue, was called 'Lithostrotos'; or 'the pavement of stones'"
+        ],
+        "John Wesley": [
+            "Pilate sat down on the judgment seat...in Hebrew, Gabbatha - Or the high place, because it stood on an eminence.\" ",
+            "The judgment seat...so that the judge sitting on his throne might be seen and heard by a considerable number of people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of his dilemma, Pilate, a man who could not hesitate for long, made the decision to sacrifice Jesus, though innocent, in order to protect himself from potential accusations at Rome. He took his seat upon the raised platform, known as the \u03b2\u03b7\u03bc\u03b1, ready for the final stage of this ordeal. The place where this judgment took place was called Gabbatha, an elevated spot with a mosaic or tessellated pavement, and it was fitting that Christ should be condemned from such a lofty place, for he will one day return as the supreme Judge to acquit us all. Ultimately, Pilate's fear of accusations and desire to maintain his own reputation led him to hand Jesus over to the Jews.",
+            "wordCount": 122,
+            "quoteTokenProportion": 41.57,
+            "qualityScore": 1.8203243931237094,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.87,
+            "commentatorTierSimilarities": [
+                36.45,
+                28.12,
+                35.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the perplexity of his situation, Pilate, fearing accusations at Rome, decided to sacrifice the innocent Jesus rather than risk exposing himself to danger. He took his seat upon the \u03b2\u03b7\u03bc\u03b1, the raised platform outside the palace, prepared for the final stage of the examination. The place of judgment, Gabbatha, was an elevated area distinguished by a mosaic or tessellated pavement. It was appropriate that Christ should be condemned from such a lofty place, for he will come again as the supreme Judge to acquit us all.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.8186260260345244,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                35.16,
+                30.26,
+                34.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a state of perplexity, Pilate, a man who could not hesitate for long, decided to sacrifice Jesus though innocent, rather than expose himself to danger and potential accusations at Rome. He took his seat upon the raised platform, the \u03b2\u03b7\u03bc\u03b1, ready for the final stage. The place, Gabbatha, was characterized by a mosaic or tessellated pavement, signifying its elevated nature. This association with a lofty place was fitting, as Christ, the supreme Judge, will one day acquit us all.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.6512431430714174,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.25,
+            "commentatorTierSimilarities": [
+                36.92,
+                31.38,
+                31.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his perplexity, Pilate knew he could not hesitate for long and made the difficult decision to sacrifice Jesus, an innocent man, rather than risk the danger of accusations. Taking his seat on the raised \u03b2\u03b7\u03bc\u03b1 platform, Pilate prepared for the final stage of the examination. The place of judgment, Gabbatha, was notable for its mosaic or tessellated pavement, symbolizing its elevated nature. This elevated spot was fitting for the condemnation of Christ, who will return as the supreme Judge to deliver our final acquittal.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.76560250811188,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                36.71,
+                27.76,
+                35.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his perplexity, Pilate swiftly made the decision to sacrifice the innocent Jesus rather than face potential accusations. Taking his seat on the raised \u03b2\u03b7\u03bc\u03b1, he prepared for the final stage of the examination. The place of judgment, Gabbatha, was characterized by its mosaic or tessellated pavement, symbolizing its elevated nature. This elevated spot was fitting for the condemnation of Christ, who will return as the supreme Judge to deliver our final acquittal.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7096861730755748,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                35.43,
+                29.5,
+                35.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

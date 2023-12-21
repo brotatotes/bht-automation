@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:06:26",
+    "verseRef": "John 5:38",
+    "bestBHT": {
+        "bht": "Though familiar with the testimony about Jesus from the Scriptures, they rejected both Him and the word of God. By rejecting Jesus, they also rejected the word that He had given them. Those who believe have this word deeply ingrafted in their hearts, while those who reject it prove that they have not truly embraced the Messiah.",
+        "wordCount": 57,
+        "quoteTokenProportion": 58.14,
+        "qualityScore": 2.0662215003417153,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+        "commentatorTierSimilarities": [
+            27.48,
+            33.75,
+            38.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Passing now from the Witness to the testimony borne by Him in 'the lively oracles': both were alike strangers to their breasts.",
+            "Not his word abiding in you.",
+            "Their rejecting Him to whom all that witness was borne."
+        ],
+        "Albert Barnes": [
+            "His word abiding in you - His law does not abide in you - that is, you do not regard or obey it.",
+            "This was the 'third' thing that he charged them with.",
+            "Now they rejected him, and this was proof that they did not regard the word of God."
+        ],
+        "Marvin Vincent": [
+            "His word. Emphatic, commencing the sentence. Compare John 17:6 sqq.; 1 John 1:10; 1 John 2:14."
+        ],
+        "John Calvin": [
+            "This is the true way of profiting, when the word of God takes root in us, so that, being impressed on our hearts, it has its fixed abode there.",
+            "And justly does he bring this reproach against them; for it was not in vain that God spake by Moses and the Prophets.",
+            "For the Law without Christ is empty and has no solidity."
+        ],
+        "Philip Schaff": [
+            "\u2018Word\u2019 here must not be understood as directly signifying the Scriptures of the Old Testament: it is rather the substance of God\u2019s whole revelation of Himself, however and wherever made.",
+            "By all previous teaching concerning Himself God has prepared the way for man\u2019s reception of His Son.",
+            "The refusal therefore of the Jews to believe Him, that is, to accept His claims, is of itself a proof that they have had no spiritual aptitude for discerning the presence and the revelation of God."
+        ],
+        "Archibald T. Robertson": [
+            "And yet\" as in John 1:10 and John 5:40 below.",
+            "His word abiding in you (\u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5 \u03b5\u03bd \u03c5\u03bc\u03b9\u03bd \u03bc\u03b5\u03bd\u03bf\u03bd\u03c4\u03b1).",
+            "Jesus has given them God's word, but they reject both Jesus and God's word (John 14:9)."
+        ],
+        "John Gill": [
+            "And ye have not his word abiding in you...",
+            "...the Scriptures of truth; and especially that part of them, which contains prophecies concerning the Messiah...",
+            "...if they had had either a due regard to the sacred oracles, or to that voice from heaven at his baptism, they would have received and embraced him as the Messiah..."
+        ],
+        "John Wesley": [
+            "Ye have not his word \u2014 All who believe have the word of the Father (the same with the word of the Son) abiding in them, that is, deeply ingrafted in their hearts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though they were familiar with the testimony about Jesus from the Scriptures, they rejected both Him and the word of God. They did not regard or obey His law, demonstrating that they had no spiritual aptitude for discerning the presence and revelation of God. By rejecting Jesus, they also rejected the word that He had given them. This word is not simply the Scriptures, but the substance of God's whole revelation of Himself. Those who believe have this word deeply ingrafted in their hearts, while those who reject it prove that they have not truly embraced the Messiah.",
+            "wordCount": 99,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.049934660215028,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                25.94,
+                36.95,
+                37.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though familiar with the testimony about Jesus from the Scriptures, they rejected both Him and the word of God. By rejecting Jesus, they also rejected the word that He had given them. Those who believe have this word deeply ingrafted in their hearts, while those who reject it prove that they have not truly embraced the Messiah.",
+            "wordCount": 57,
+            "quoteTokenProportion": 58.14,
+            "qualityScore": 2.0662215003417153,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                27.48,
+                33.75,
+                38.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their rejection of Him is a clear indication that they did not have His word abiding in them. They failed to recognize and accept His claims because they had no spiritual aptitude for discerning the presence and revelation of God. The Jews refused to believe Him, disregarding the substance of God's whole revelation of Himself that had been given to them. By rejecting Jesus and His word, they demonstrated their lack of regard for the word of God. They missed the opportunity for the word of God to take root in their hearts and have a fixed abode there, causing them to be empty and devoid of spiritual understanding.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.979121669089771,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                24.38,
+                37.71,
+                37.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their rejection of Him is a clear indication that they did not have His word abiding in them. They failed to recognize and accept His claims because they had no spiritual aptitude for discerning the presence and revelation of God. The Jews refused to believe Him, disregarding the substance of God's whole revelation of Himself. By rejecting Jesus and His word, they demonstrated their lack of regard for the word of God. They missed the opportunity for the word of God to take root in their hearts.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9834971561306876,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+            "commentatorTierSimilarities": [
+                25.49,
+                37.64,
+                36.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their rejection of Him is proof that they did not have His word abiding in them. The Jews refused to believe Him, demonstrating their lack of spiritual discernment. By rejecting Jesus and His word, they disregarded God's revelation of Himself. Their failure to accept His claims showed their disregard for the word of God. They missed the opportunity for the word of God to take root in their hearts, leaving them empty and devoid of spiritual understanding.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.063137027882343,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                28.56,
+                35.83,
+                35.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:12:16",
+    "verseRef": "John 14:5",
+    "bestBHT": {
+        "bht": "Thomas, known for his slow belief and apprehension, expressed doubt about Jesus' destination and the path to get there. The disciples' difficulty in understanding stemmed from their preconceived notions of an earthly kingdom and their minds filled with contrary opinions. Thomas, unlike Peter, questioned the nature of Jesus' journey and the way to reach it. Their confusion reflected a lack of understanding rather than a lack of explanation. The saints' knowledge can be muddled when they don't perceive or comprehend certain aspects fully, just as Thomas struggled with spiritual truth.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.21,
+        "qualityScore": 1.8403763323298246,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+        "commentatorTierSimilarities": [
+            27.68,
+            34.09,
+            38.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thomas is slow of belief and apprehension.",
+            "The answer to 'whither goest thou?' ch. xiii. 37, which Peter seems to have apprehended, was not sufficient for him.",
+            "He thought... that the road thither was of the same kind."
+        ],
+        "Albert Barnes": [
+            "They entertained the common notions of a temporal kingdom; they supposed still that he was to be an earthly prince and leader, and they did not comprehend the reason why he should die.",
+            "All this shows the difficulty of believing when the mind is full of prejudice and of contrary opinions.",
+            "If he were willing to receive the plain and unequivocal doctrines of the Bible, there would be no difficulty; but his mind is full of opposite opinions and plans, occupied with errors and vanities, and these are the reasons, and the only reasons, why he is not a Christian."
+        ],
+        "Marvin Vincent": [
+            "And how can we know the way.",
+            "The best texts substitute oidamen, know we, for dunameqa, can we; reading, how know we the way.",
+            "Some also omit and before how."
+        ],
+        "John Calvin": [
+            "The knowledge possessed by the saints is sometimes confused, because they do not understand the manner or the reason of those things which are certain, and which have been explained to them.",
+            "For example, the Prophets foretold the calling of the Gentiles with a true perception of faith, and yet Paul declares that it was a mystery hidden from them.",
+            "Hence he concludes that they know still less about the way; for before we enter into a road, we must know where we intend to go."
+        ],
+        "Philip Schaff": [
+            "Thomas saith unto him, Lord, we know not whither thou goest away: how do we know the way?\" ",
+            "The idea of separation is thus again brought prominently forward, and Thomas is overborne by the thought of it.",
+            "His discouragement, which blinds his eyes, is uttered in the words before us."
+        ],
+        "Archibald T. Robertson": [
+            "Thomas is the spokesman for the materialistic conception then and now.",
+            "It is Thomas, not Peter, who renews the doubt about the destination of Jesus.",
+            "Thomas... renews the doubt about... the path or way thither."
+        ],
+        "John Gill": [
+            "Thomas saith unto him, Lord,.... Who was one of his apostles, and here betrays his ignorance, as elsewhere his unbelief; and not only speaks for himself, but for the rest of the apostles...",
+            "we know not whither thou goest; though he had but just told them of his Father's house, and of his going to prepare a place for them...",
+            "Thomas seemed to have no other notion than that Christ was talking of some particular place in Judea, whither he was going, and of the road to it."
+        ],
+        "John Wesley": [
+            "Thomas saith \u2014 Taking him in a gross sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thomas, known for his slow belief, questioned Jesus, expressing his doubts about where Jesus was going and how they could know the way. His materialistic conception blinded him to the spiritual truth. The disciples, still clinging to the idea of an earthly kingdom, struggled to comprehend Jesus' teachings. Their minds were filled with prejudice and contrary opinions. Yet, Thomas, who once doubted the resurrection, now voiced his uncertainty about their destination and the path to get there. However, the disciples' confusion stemmed from a lack of understanding rather than the lack of an explanation. It is important to note that the knowledge possessed by the saints is sometimes vague due to their inability to comprehend certain aspects of faith. Similarly, Thomas, willing to accept only the plain and unequivocal, struggled to grasp the spiritual significance of Jesus' words.",
+            "wordCount": 138,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.6581476341694725,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+            "commentatorTierSimilarities": [
+                25.48,
+                36.17,
+                38.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thomas, slow in belief and apprehension, questioned Jesus about his destination and the way to get there. His doubts arose from a materialistic conception and uncertainty about the path ahead. The disciples struggled to understand Jesus' teachings due to their preconceived notions of an earthly kingdom. Thomas, known for his doubts, renewed the uncertainty about their destination and the way to get there. Their confusion stemmed from a lack of understanding and a mind filled with contrary opinions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.7758465821892977,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                30.62,
+                33.71,
+                35.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thomas, slow in belief and apprehension, questioned Jesus about his destination and the way to get there. His doubts arose from a materialistic conception and uncertainty about the path ahead. The disciples struggled to understand Jesus' teachings due to their preconceived notions of an earthly kingdom. Thomas, known for his doubts, renewed the uncertainty about their destination and the way to get there. Their confusion stemmed from a lack of understanding and a mind filled with contrary opinions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.7758465821892977,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                30.62,
+                33.71,
+                35.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thomas, known for his slow belief and apprehension, expressed doubt about Jesus' destination and the path to get there. The disciples' difficulty in understanding stemmed from their preconceived notions of an earthly kingdom and their minds filled with contrary opinions. Thomas, unlike Peter, questioned the nature of Jesus' journey and the way to reach it. Their confusion reflected a lack of understanding rather than a lack of explanation. The saints' knowledge can be muddled when they don't perceive or comprehend certain aspects fully, just as Thomas struggled with spiritual truth.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.8403763323298246,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                27.68,
+                34.09,
+                38.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thomas, known for his slow belief and apprehension, expressed doubt about Jesus' destination and the path to get there. The disciples' difficulty in understanding stemmed from their preconceived notions of an earthly kingdom and their minds filled with contrary opinions. Their confusion reflected a lack of understanding rather than a lack of explanation. The saints' knowledge can be muddled when they don't fully perceive or comprehend certain aspects, just as Thomas struggled with spiritual truth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8049766419163635,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                25.8,
+                36.68,
+                37.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

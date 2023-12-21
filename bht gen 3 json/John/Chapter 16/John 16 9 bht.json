@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:13:09",
+    "verseRef": "John 16:9",
+    "bestBHT": {
+        "bht": "The great opening of sin to the world is to show them that its root and essence is unbelief in Christ as the Son of God. The first step towards recovery is to lay hold of the only safety provided, which is faith. This unbelief is not just a lack of historical faith, but a lack of personal and living recognition of Jesus as Lord. The Spirit, in fastening this truth upon the conscience, intensifies the sense of all other sins. Without the conviction by the Paraclete, there is a pride of intellectual superiority in refusing to believe in Jesus.",
+        "wordCount": 100,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 2.1729763060151335,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.59,
+        "commentatorTierSimilarities": [
+            42.22,
+            28.09,
+            29.69
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the great opening of Sin to the world is to shew them that its root and essence is, unbelief in Christ as the Son of God.\" ",
+            "The first step towards their recovery must be to lay hold on that only safety which He has provided for them; and that laying hold is faith.",
+            "Remember, this unbelief is not a mere want of historical faith,\u2014but unbelief in its very root,\u2014the want of a personal and living recognition of Jesus as the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As all sin has its root in unbelief, so the most aggravated form of unbelief is the rejection of Christ.",
+            "The Spirit, however, in fastening this truth upon the conscience, does not extinguish, but, on the contrary, does consummate and intensify, the sense of all other sins.",
+            "The Spirit... does consummate and intensify, the sense of all other sins."
+        ],
+        "Albert Barnes": [
+            "The first thing specified of which the world would be convinced is sin.",
+            "Sin, in general, is any violation of a law of God, but the particular sin of which men are here said to be convinced is that of rejecting the Lord Jesus.",
+            "Throughout the New Testament this is regarded as the sin that is pre-eminently offensive to God, and which, if unrepented of, will certainly lead to perdition."
+        ],
+        "John Calvin": [
+            "The judgment of the Spirit commences with the demonstration of sin; for the commencement of spiritual instruction is, that men born in sin have nothing in them but what leads to sin.",
+            "When the Spirit is come, he will produce full conviction that, apart from me, sin reigns in the world.",
+            "He condemns the corruption and depravity of human nature, that we may not suppose that a single drop of integrity is in us without Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Without this conviction by the Paraclete such men actually have a pride of intellectual superiority in refusing to believe on Jesus.",
+            ""
+        ],
+        "John Gill": [
+            "The 'sin' here primarily intended, is that of the Jews, in disbelieving, rejecting, and crucifying Christ.",
+            "The Spirit of God convinces of the sinfulness and corruption of nature, the wickedness and plague of a man's heart, the sin that dwells in him.",
+            "He also convinces of the sin of unbelief, here particularly mentioned: showing the evil nature and consequences of it, to persons enjoying a Gospel revelation."
+        ],
+        "John Wesley": [
+            "Of sin \u2014 Particularly of unbelief, which is the confluence of all sins, and binds them all down upon us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The great opening of sin to the world is to show them that its root and essence is unbelief in Christ as the Son of God. The first step towards recovery is to lay hold of the only safety provided, which is faith. This unbelief is not just a lack of historical faith, but a lack of personal and living recognition of Jesus as Lord. The Spirit, in fastening this truth upon the conscience, intensifies the sense of all other sins. Without the conviction by the Paraclete, there is a pride of intellectual superiority in refusing to believe in Jesus.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1729763060151335,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.59,
+            "commentatorTierSimilarities": [
+                42.22,
+                28.09,
+                29.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The world needs to understand that the root of sin is unbelief in Jesus as the Son of God. In order to be saved, the first step is to have faith in Him. It is not just a lack of historical faith, but the absence of a personal recognition of Jesus as Lord. The Holy Spirit intensifies the awareness of all sins, while those who refuse to believe in Jesus out of intellectual pride are blind to their own sinfulness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1713881614208885,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.54,
+            "commentatorTierSimilarities": [
+                36.42,
+                32.96,
+                30.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The opening of sin to the world reveals its essence as unbelief in Christ, the Son of God. To be restored, one must grasp the safety found in faith. Recognize that this unbelief is more than a lack of historical faith, but a failure to personally acknowledge Jesus as Lord. The Spirit, in impressing this truth on the conscience, intensifies the recognition of all other sins. By rejecting Christ, there is a pride in intellectual superiority that obstructs belief.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0123238597940625,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                38.33,
+                30.91,
+                30.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The world needs to understand that the root and essence of sin lies in unbelief in Jesus Christ as the Son of God. To be restored, one must grasp the safety provided through faith in Him. This unbelief is not merely a lack of historical faith, but a failure to personally and consciously recognize Jesus as Lord. The Spirit, in impressing this truth on the conscience, intensifies the sense of all other sins. It is important to note that rejecting Christ is the most serious form of unbelief, reflecting a prideful intellectual superiority.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1081659820404837,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.44,
+            "commentatorTierSimilarities": [
+                37.91,
+                30.45,
+                31.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The world must recognize that the essence of sin is rooted in unbelief in Jesus as the Son of God. The first step towards restoration is to have faith in Him. Keep in mind that this unbelief goes beyond a lack of historical faith; it involves a failure to personally acknowledge Jesus as Lord. The Spirit, in convicting the conscience, intensifies the awareness of all other sins. Rejection of Christ stems from a pride of intellectual superiority, obstructing belief.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0937408359312015,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+            "commentatorTierSimilarities": [
+                37.26,
+                32.4,
+                30.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

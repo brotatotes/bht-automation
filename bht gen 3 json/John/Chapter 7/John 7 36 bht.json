@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-21-2023 03:07:52",
+    "verseRef": "John 7:36",
+    "bestBHT": {
+        "bht": "Perplexed and curious, the crowd questioned the meaning behind Jesus' enigmatic words, asking, What is this saying? Struggling to understand, they wondered, What manner of saying is this? Even Peter, one of Jesus' closest disciples, felt distressed by these words. Scholars suggest that their inability to comprehend stemmed not from a lack of intelligence, but rather from their hardened hearts and unwillingness to truly listen. If only they had been open, they could have been drawn to the enlightening and transformative power of Jesus' words.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.7204740449192661,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+        "commentatorTierSimilarities": [
+            33.54,
+            37.75,
+            28.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They do not however believe the hypothesis; but ask again, What is this saying?"
+        ],
+        "Marvin Vincent": [
+            "What manner of saying is this [\u03c4\u03b9\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd \u03bf\u03c5\u03c4\u03bf\u03c2 \u03bf \u03bb\u03bf\u03b3\u03bf\u03c2] ? Rev., more simply and literally, what is this word?"
+        ],
+        "Philip Schaff": [
+            "We must not suppose that they pondered and then rejected the teaching of Jesus: their enmity rendered impossible that patient thought which would have found the key to His mysterious language.",
+            "They understood enough to have been attracted, had they only been willing listeners, by the light and the life of His words.",
+            "Their ignorance resulted from the absence of the will to learn and do God\u2019s will."
+        ],
+        "Archibald T. Robertson": [
+            "What is this word? (\u03a4\u03b9\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd \u03bf \u03bb\u03bf\u03b3\u03bf\u03c2 \u03bf\u03c5\u03c4\u03bf\u03c3;). Puzzled and uneasy over this unintelligible saying. Even Peter is distressed over it later (13:37). "
+        ],
+        "John Gill": [
+            "What [manner] of saying is this that he said... It is not easy to be understood...\" ",
+            "...what should he mean by saying, ye shall seek me, and shall not find me, and where I am, thither ye cannot come?",
+            "repeating the words of Christ just now expressed by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crowd was perplexed and curious about Jesus' enigmatic words, asking, What is this saying? Their struggle to understand his message was genuine, as they questioned, What manner of saying is this? Even Peter, one of his closest disciples, would later express distress over his words. The commentators note that the people's lack of comprehension stemmed not from a lack of intelligence, but from their hardened hearts and unwillingness to truly listen. Had they been open to the truth, they could have been drawn to the light and life found in Jesus' words.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6857917332417718,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                28.55,
+                42.92,
+                28.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowd, both perplexed and curious, found themselves questioning the meaning behind Jesus' enigmatic words, What is this saying? In their struggle to understand, they wondered, What manner of saying is this? Even Peter, one of Jesus' closest disciples, would later express distress over these words. The deeper issue, according to the scholars, was not their lack of intellectual ability, but rather their hardened hearts and unwillingness to truly listen. Had they been open, they could have been drawn to the light and life found in Jesus' words.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.6964381473485317,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.75,
+            "commentatorTierSimilarities": [
+                30.82,
+                42.37,
+                26.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Perplexed and curious, the crowd puzzled over Jesus' enigmatic words, questioning the meaning behind them, What is this saying? Their struggle to comprehend led them to wonder, What manner of saying is this? Even Peter, one of Jesus' closest disciples, would later express distress over these words. The scholars assert that their inability to understand was not due to lack of intelligence, but rather their hardened hearts and unwillingness to truly listen. Their closed minds prevented them from experiencing the light and life embedded in Jesus' teachings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.679856998263509,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.2,
+            "commentatorTierSimilarities": [
+                30.98,
+                43.45,
+                25.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Perplexed by Jesus' cryptic words, the crowd asked, What is this saying? Their struggle to comprehend the message led them to ponder, What manner of saying is this? Even Peter, troubled by the words, would later express his confusion. The commentators suggest that their lack of understanding stemmed from their unwillingness to truly listen, rather than a lack of intellectual capacity. Had they been open and receptive, they could have been drawn to the light and life encapsulated within Jesus' profound teachings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7100048001362156,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                31.98,
+                39.87,
+                28.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Perplexed and curious, the crowd questioned the meaning behind Jesus' enigmatic words, asking, What is this saying? Struggling to understand, they wondered, What manner of saying is this? Even Peter, one of Jesus' closest disciples, felt distressed by these words. Scholars suggest that their inability to comprehend stemmed not from a lack of intelligence, but rather from their hardened hearts and unwillingness to truly listen. If only they had been open, they could have been drawn to the enlightening and transformative power of Jesus' words.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7204740449192661,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                33.54,
+                37.75,
+                28.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

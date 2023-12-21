@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:08:13",
+    "verseRef": "John 8:1",
+    "bestBHT": {
+        "bht": "Jesus chose to go to the Mount of Olives, a place St. John never mentions elsewhere, which adds significance to this location. He preferred the tranquility of Bethany, the home of Mary, Martha, and Lazarus, over the busyness of the city. By spending the night on the Mount, Jesus deliberately contrasted the people's return to their homes with his own nomadic way of living. It is possible that he went there for private prayer, like before choosing his apostles, and to avoid the dangers the Jews posed.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.8247197238391495,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.01,
+        "commentatorTierSimilarities": [
+            30.21,
+            34.57,
+            35.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. John never elsewhere mentions the Mount of Olives...when he introduces a new place, it is his habit to give explanations.",
+            "The simple answer to Alford's remark is that John here, and here only, mentions the Mt. of O.",
+            "Most of the many differences from the style and expression of St. John must be gathered from the notes in the Greek Test., as they cannot be made clear to the mere English reader."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The return of the people to the inert quiet and security of their dwellings, at the close of the feast, is designedly contrasted with our Lord's homeless way, so to speak, of spending the short night.\" ",
+            "One cannot well see why what is recorded in Luke 21:37; Luke 21:38 may not even thus early have taken place; it might have been the Lord's ordinary custom from the beginning to leave the brilliant misery of the city every night.",
+            "Preferring for His resting-place Bethany, and the Mount of Olives, the scene thus consecrated by many preparatory prayers for His final humiliation and exaltation."
+        ],
+        "Albert Barnes": [
+            "Mount of Olives - The mountain about a mile directly east of Jerusalem.",
+            "The Garden of Gethsemane, to which he was accustomed to resort.",
+            "Bethany, the abode of Martha and Mary, on its east side."
+        ],
+        "Philip Schaff": [
+            "He could thus pass from the hurry and confusion of a large city to the solitude of a hillside or of its retiring hollows, where the sense of peace is deepened by the thought of the busy life which is so near at hand.",
+            "It is probable that our Lord intended to spend the whole night upon the Mount; and it may be that He would spend it as He did before making choice of His twelve apostles, \u2018in prayer to God\u2019 (Luke 6:12)."
+        ],
+        "Archibald T. Robertson": [
+            "But Jesus went... in contrast to the Sanhedrin's conduct.\" ",
+            "Though it seems 'pointless' (Dods).",
+            "Apparently Jesus was lodging in the home of Mary, Martha, and Lazarus."
+        ],
+        "John Gill": [
+            "Partly to decline the danger, and avoid the snares the Jews might lay for him in the night season.",
+            "For the sake of recreation and diversion, to sup with his dear friends Lazarus, Martha, and Mary.",
+            "Chiefly for private prayer to God, on account of himself as man, and for his disciples, and for the spread of his Gospel, and for the enlargement of his interest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went to the Mount of Olives, a place that St. John never mentions elsewhere, indicating the significance of this location. It was Jesus' custom to withdraw to this place, the scene thus consecrated by many preparatory prayers for His final humiliation and exaltation. He preferred the quietude of Bethany, the abode of Martha and Mary, over the bustling city. By spending the night on the Mount, Jesus intentionally contrasted the people's return to their homes after the feast with His own homeless way of living. It is possible that Jesus went to the Mount of Olives for private prayer, as he did before selecting His apostles, and to avoid danger from the Jews.",
+            "wordCount": 115,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.8189918884143284,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.82,
+            "commentatorTierSimilarities": [
+                30.61,
+                33.95,
+                35.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus went to the Mount of Olives, a place John mentions only here, giving it special significance. He preferred the solitude of Bethany, the abode of Martha and Mary, over the city. By spending the night on the Mount, Jesus contrasted the people's return home with His homeless lifestyle. It is possible that Jesus went to the Mount for private prayer, as He did before selecting His apostles, and to avoid danger from the Jews.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7919688753268854,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.92,
+            "commentatorTierSimilarities": [
+                30.25,
+                35.75,
+                34.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus chose to go to the Mount of Olives, a place St. John never mentions elsewhere, which adds significance to this location. He preferred the tranquility of Bethany, the home of Mary, Martha, and Lazarus, over the busyness of the city. By spending the night on the Mount, Jesus deliberately contrasted the people's return to their homes with his own nomadic way of living. It is possible that he went there for private prayer, like before choosing his apostles, and to avoid the dangers the Jews posed.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8247197238391495,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.01,
+            "commentatorTierSimilarities": [
+                30.21,
+                34.57,
+                35.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus went to the Mount of Olives, a place that St. John never elsewhere mentions, indicating its significance. He chose to spend the night in Bethany, the home of Mary, Martha, and Lazarus, preferring its tranquility over the city. By doing so, Jesus contrasted the people's return to their homes after the feast with his own homeless way of living. It is possible that he went there for private prayer, like before selecting his apostles, and to avoid potential dangers from the Jews.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.759375101435447,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                32.08,
+                32.75,
+                35.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus chose to spend the night on the Mount of Olives, a location uniquely mentioned by St. John and thus imbued with significance. Bethany, the home of Mary, Martha, and Lazarus, offered Jesus solace away from the bustling city. By separating himself from the people returning to their homes, Jesus highlighted his humble, itinerant lifestyle. The Mount of Olives likely provided Jesus with a quiet place for private prayer and protection from potential harm by the Jews.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.8051394594943693,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                30.54,
+                34.8,
+                34.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

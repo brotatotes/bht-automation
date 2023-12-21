@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:14:03",
+    "verseRef": "John 17:23",
+    "bestBHT": {
+        "bht": "Through Jesus' prayer, the world's recognition of the believers is not a mere acknowledgment, but a transformative knowledge that leads to salvation. It is a recognition rooted in love, exemplifying the unity perfected in the Son. Jesus prayed for believers to be perfected into one, visible in the Church, revealing God's love. This unity is a testament to God's immense love for His people, demonstrated by His love for His Son and His desire to impart blessings.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 1.7046568188447,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+        "commentatorTierSimilarities": [
+            19.36,
+            39.04,
+            41.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That the world may know\" here, parallel as it is to \"that the world may believe\" above, cannot be interpreted of a bare recognition, or of a recognition at the final judgment.",
+            "but must be taken to mean that salutary knowledge by which from time to time the children of the world are by God called to become the children of light.",
+            "the recognition is that of love;\u2014in ch. xiii, 35, of the disciples one to another; in ch. xiv. 31, of Jesus to the Father; here, of the Father to believers, as perfected into unity in the Son of His love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23. I in them, and thou in me, that",
+            "\tthey may be made perfect in one\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "A machine is perfect or complete when it has all its parts and is in good order when there is no portion of it wanting.",
+            "He saw how prone they would be to passion and ambition; how ready to mistake love of sect or party for zeal for pure religion; how selfish and worldly men in the church might divide his followers, and produce unholy feeling and contention.",
+            "All that is needful now, under the blessing of God, to convince the world\u201d that God sent the Lord Jesus, is that very union among all Christians for which he prayed."
+        ],
+        "John Calvin": [
+            "He intends to teach that in him dwells all fullness of blessings, and that what was concealed in God is now manifested in him, that he may impart it to his people.",
+            "It is a very striking exhibition, and a very excellent pledge, of the love of God towards believers, which the world is compelled to feel, whether it will or not, when the Holy Spirit dwelling in them sends forth the rays of righteousness and holiness.",
+            "Yet this gives rise to some appearance of contradiction; for Christ... declares that the unspeakable love of God towards the world was the reason why he gave his only-begotten Son. If the cause must go before the effect, we infer that God the Father loved men apart from Christ; that is, before he was appointed to be the Redeemer."
+        ],
+        "Philip Schaff": [
+            "That is: not only that this oneness may be readied, but that, in its being so, the last step to be taken with believers may be accomplished, the final issue and perfect of all that Jesus has to do for them.",
+            "The whole world shall recognise what Jesus speaks of: even they who do not confess in faith shall confess in shame, that He whom they rejected was the loved of the Father, and that He has gathered His people into the same blessed unity of love.",
+            "It is therefore a visible unity for which Jesus prays. His Church is visible; and that idea of an invisible Church, in which Christians seek an escape from the sentence of condemnation which their divisions compel them to pronounce upon themselves, finds as little countenance in these verses as in any other part of Scripture."
+        ],
+        "Archibald T. Robertson": [
+            "That they may be perfected into one...with \u03b5\u03b9\u03c2 \u03b5\u03bd (into one) as the goal and final result.",
+            "Present active subjunctive of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9 with \u03b9\u03bd\u03b1 like the present tense of \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c9... 'that the world may keep on knowing'.",
+            "Timeless aorist, but love shown by sending Christ and illustrated and proven by the way Christians love one another."
+        ],
+        "John Gill": [
+            "Christ is in his saints; not as he is in all the world, being the omnipresent God...but he is in them, in a gracious manner, in regeneration...",
+            "This regards not their justification, which is already perfect; nor their sanctification, which will be; but either perfection in glory, when they will be perfect in knowledge, in holiness, in peace, joy, and love...",
+            "God has loved his people, as he has loved his Son; he loves them not merely as creatures, as the descendants of Adam, or as considered in themselves, but as in Christ..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through Jesus' prayer in John 17:23, it becomes clear that the world's recognition of the believers goes beyond a mere acknowledgment or understanding, but rather, it is a knowledge that leads to salvation and a transformation of darkness into light. This recognition is rooted in love, exemplifying the unity between the Father and the believers perfected in the Son. Jesus prays for this perfect oneness among believers, that the world may know God's love and be convinced of His sending Jesus. This unity is not merely invisible, but visible in the Church, compelling even non-believers to acknowledge the Father's love for His people. This unity also signifies the complete and full blessings that Christ imparts to his people, making them radiant with righteousness and holiness by the power of the Holy Spirit. Above all, this prayer is a testament to God's immense love for His people, affirming that He loved them even before Christ was appointed as their Redeemer, loving them in Christ, and loving them as He loves His own Son.",
+            "wordCount": 176,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.8352346247334288,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                17.99,
+                40.27,
+                41.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through Jesus' prayer, the world's recognition of the believers is not a mere acknowledgment, but a transformative knowledge that leads to salvation. It is a recognition rooted in love, exemplifying the unity perfected in the Son. Jesus prayed for believers to be perfected into one, visible in the Church, revealing God's love. This unity is a testament to God's immense love for His people, demonstrated by His love for His Son and His desire to impart blessings.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.7046568188447,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                19.36,
+                39.04,
+                41.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through Jesus' prayer, the world's recognition of the believers goes beyond a mere acknowledgment or understanding, but rather, it is a knowledge that leads to salvation and a transformative recognition of God's love. This recognition is rooted in love, exemplifying the unity between the Father and the believers perfected in the Son. Jesus prays for this perfect oneness among believers, that the world may know God's love and be convinced of His sending Jesus. This unity is not merely invisible, but visible in the Church, compelling even non-believers to acknowledge the Father's love for His people. This unity also signifies the complete and full blessings that Christ imparts to his people, making them radiant with righteousness and holiness by the power of the Holy Spirit. Above all, this prayer is a testament to God's immense love for His people, affirming that He loved them even before Christ was appointed as their Redeemer, loving them in Christ, and loving them as He loves His own Son.",
+            "wordCount": 171,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.83602158636165,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                17.94,
+                40.24,
+                41.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through Jesus' prayer, the world's recognition of believers surpasses mere acknowledgment, leading to salvation. This knowledge reflects the unity perfected in the Son\u2014a love-filled recognition between the Father and believers. Jesus prays for oneness, visible in the Church, compelling non-believers to acknowledge God's love. This unity demonstrates God's immense love for His people, loving them in Christ as He loves His own Son. It imparts complete blessings, radiating righteousness and holiness through the Holy Spirit. The recognition is a transformative understanding that reveals God's love even before Christ's appointment as Redeemer.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.629636975708899,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                18.78,
+                38.74,
+                42.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through Jesus' prayer, the recognition from the world is not a mere acknowledgment but a transformative knowledge leading to salvation. This recognition, rooted in love, showcases the unity perfected in the Son. Jesus prays for the believers to be perfected into one, visible in the Church, compelling even non-believers to confess the Father's love. This unity testifies to God's immense love, resembling the love He has for His Son. It bestows complete blessings, radiating righteousness and holiness through the Holy Spirit. The recognition reveals God's immeasurable love, prior to Christ's appointment as Redeemer.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.6129896532080492,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                20.37,
+                37.92,
+                41.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

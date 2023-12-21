@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:07:50",
+    "verseRef": "John 7:6",
+    "bestBHT": {
+        "bht": "Jesus tells his brothers that his time has not yet come to go up to the feast. He distinguishes between their readiness to go, as they have no great plans or divine mission, and his own purpose to manifest himself to the world. While the brothers are always ready to associate with the world, Jesus, being in essential antagonism to the world, waits for the appropriate and fitting occasion to fulfill his role as the Messiah and denounce the hypocrisy and abominations of the world.",
+        "wordCount": 85,
+        "quoteTokenProportion": 49.12,
+        "qualityScore": 1.975370524045593,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+        "commentatorTierSimilarities": [
+            34.61,
+            33.36,
+            32.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My time can hardly be taken as directly meaning 'the time of my sufferings and death,'\u2014but as the same expression in ch. ii. 4: 'My time for the matter of which you speak, viz. manifestation to the world'\".",
+            "That (ch. xii. 82), was to take place in a very different manner.",
+            "But they, having no definite end before them, no glory of God to shew forth, but being of the world, always had their opportunity ready of mingling with and standing well with the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "My time is not yet come\u2014that is, for showing Himself to the world.\" ",
+            "It matters little when we go up, for ye have no great plans in life, and nothing hangs upon your movements. With Me it is otherwise; on every movement of Mine there hangs what ye know not.\" ",
+            "I am here to lift up My voice against its hypocrisy, and denounce its abominations; therefore it cannot endure Me, and one false step might precipitate its fury on its Victim's head before the time."
+        ],
+        "Albert Barnes": [
+            "My time ... - The proper time for my going up to the feast.",
+            "It might excite too much notice, and be more likely to expose him to the envy and opposition of the rulers.",
+            "Your time ... - It makes no difference to you when you go up. Your going will excite no tumult or opposition; it will not attract attention, and will not endanger your lives."
+        ],
+        "Marvin Vincent": [
+            "Time [\u03ba\u03b1\u03b9\u03c1\u03bf\u03c2] . The appropriate season or juncture.",
+            "Alway ready. The disciples might at any time associate with the world, with which they were still in sympathy.",
+            "Not so Jesus, who was in essential antagonism to the world."
+        ],
+        "John Calvin": [
+            "My time is not yet come. There are some who erroneously interpret this as referring to the time of his death, for it denotes the time of his setting out on the journey to go to the feast.",
+            "He assures them that, in this respect, he differs from his relations. They may freely and without danger appear, at all hours, before the world, because the world is friendly and favorable to them.",
+            "By these words he means that they do wrong in giving advice on a matter which they do not understand."
+        ],
+        "Philip Schaff": [
+            "My time is not yet present, but your time is always ready.",
+            "His time was at hand, but not yet 'present;' and until the moment appointed by the Father He whose will is one with that of the Father can do nothing.",
+            "Such limitation did not apply to His brethren; they were not separated from the 'world,' and with that world they might at any time associate."
+        ],
+        "Archibald T. Robertson": [
+            "My time is not yet come.\" ",
+            "\u03ba\u03b1\u03b9\u03c1\u03bf\u03c2 is the fitting or proper occasion for Christ's manifesting himself publicly as Messiah.",
+            "The brothers of Jesus had the regular Jewish obligation to go up to the feast, but the precise day was a matter of indifference to them."
+        ],
+        "John Gill": [
+            "My time is not yet come.",
+            "Your time is always ready.",
+            "Their lives were not in any danger...it was all one to them."
+        ],
+        "John Wesley": [
+            "Jesus saith, Your time is always ready \u2014 This or any time will suit you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus responds to his brothers, who encourage him to go up to the feast, by saying, My time is not yet come. He explains that while their going up to the feast holds no significance or risk, his time to show himself to the world and speak out against its hypocrisy and abominations has not yet arrived. Jesus warns them that his movements carry weight and could provoke the fury of the world before the appropriate season for him to manifest himself as the Messiah. The brothers, being of the world and in sympathy with it, were always ready to associate with it, while Jesus, in essential antagonism to the world, awaited the fitting occasion for his public revelation.",
+            "wordCount": 119,
+            "quoteTokenProportion": 49.33,
+            "qualityScore": 2.013579055377745,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+            "commentatorTierSimilarities": [
+                34.26,
+                35.2,
+                30.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus tells his brothers that his time has not yet come to go up to the feast. He distinguishes between their readiness to go, as they have no great plans or divine mission, and his own purpose to manifest himself to the world. While the brothers are always ready to associate with the world, Jesus, being in essential antagonism to the world, waits for the appropriate and fitting occasion to fulfill his role as the Messiah and denounce the hypocrisy and abominations of the world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.975370524045593,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                34.61,
+                33.36,
+                32.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus responds to his brothers, who urge him to go up to the feast, by saying that his time has not yet come. He clarifies that while they can freely appear before the world at any time, his actions carry greater significance. Jesus is here to expose hypocrisy and denounce abominations, which makes him unacceptable to the world. One false step might bring the world's fury upon him before the appropriate juncture. His time is distinct from theirs, and he awaits the fitting occasion to reveal himself publicly as the Messiah.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.872579737304295,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                33.79,
+                35.42,
+                30.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "My time is not yet come, Jesus tells his brothers in response to their urging him to go up to the feast. He explains that while they have no definite end or glory of God to show forth, his movements hold great importance. Jesus is here to denounce the world's hypocrisy and abominations, and to do so before the appropriate season might bring fury upon him. He emphasizes the contrast between his essential antagonism toward the world and his brothers' readiness to associate with it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.8037652188510833,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.32,
+            "commentatorTierSimilarities": [
+                35.52,
+                35.58,
+                28.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in response to his brothers, declares that his time has not yet come to go up to the feast. He explains that while they have no significant plans or divine mission, his movements carry weight. Jesus is on a mission to denounce the world's hypocrisy and abominations, which makes him unacceptable to the world. He warns his brothers that one false step may incite the world's fury before it is the appropriate occasion for him to reveal himself publicly as the Messiah.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.7564624183058721,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+            "commentatorTierSimilarities": [
+                36.78,
+                33.51,
+                29.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

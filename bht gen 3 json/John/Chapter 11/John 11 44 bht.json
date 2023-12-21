@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:54",
+    "verseRef": "John 11:44",
+    "bestBHT": {
+        "bht": "Lazarus, wrapped in grave-clothes, emerged from the tomb where he had been lying lifeless. This miraculous act of being freed from death showcased Jesus' power as the Lord of life. The napkin covering Lazarus' face was unwrapped, allowing him to see clearly. Jesus did not physically remove the grave-clothes himself, leaving that task to others. Through Lazarus' resurrection, Jesus demonstrated his compassion, comforting words, and his position as the eternal solution to life and death. This event stands in stark contrast to other tales, symbolizing that Jesus alone possesses the power to give life.",
+        "wordCount": 96,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.8037315814804034,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.32,
+        "commentatorTierSimilarities": [
+            32.16,
+            36.69,
+            31.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered grave-clothes is explained to mean a sort of band, of rush or tow, used to swathe infants, and to bind up the dead.",
+            "Basil speaks of the bound man coming forth from the sepulchre, as a miracle in a miracle: and ancient pictures represent Lazarus gliding forth from the tomb, not stepping; which apparently is right.",
+            "The napkin, or handkerchief, appears to have tied up his chin. let him go, probably, to his home."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus will no more do this Himself than roll away the stone.",
+            "THE LIFE-GIVING ACT ALONE HE RESERVES TO HIMSELF.",
+            "So in the quickening of the dead to spiritual life, human instrumentality is employed first to prepare the way, and then to turn it to account."
+        ],
+        "Albert Barnes": [
+            "He that was dead - The same man, body and soul.",
+            "It would be clearly impossible for a person thus treated to move his arms or legs if restored to existence.",
+            "The effect of this miracle is said to have been that many believed on him. It may be remarked in regard to it that there could not be a more striking proof of the divine mission and power of Jesus."
+        ],
+        "Marvin Vincent": [
+            "The gospel story is thrown into strongest contrast with the classical by the truth of resurrection which dominates it in the person and energy of the Lord of life.",
+            "Jesus enters at once as the consolation of bereaved love, and the eternal solution of the problem of life and death.",
+            "His warm sympathy, His comforting words, His tears at His friend's tomb, are in significant contrast with the politic, timid, at times reproachful attitude of the chorus of Theban elders towards Antigone."
+        ],
+        "John Calvin": [
+            "The Evangelist is careful to mention the napkin and bandages, in order to inform us that Lazarus went out of the tomb, in the same manner that he was laid in it.",
+            "To magnify the glory of the miracle, it only remained that the Jews should even touch with their hands that Divine work which they had beheld with their eyes.",
+            "The Papists act an excessively ridiculous part, by endeavoring to draw auricular confession from this passage."
+        ],
+        "Archibald T. Robertson": [
+            "He that was dead came forth (\u03b5\u03be\u03b7\u03bb\u03b8\u03b5\u03bd \u03bf \u03c4\u03b5\u03b8\u03bd\u03b7\u03ba\u03c9\u03c2). Literally, 'Came out the dead man,' (effective aorist active indicative and perfect active articular participle of \u03b8\u03bd\u03b7\u03c3\u03ba\u03c9). Just as he was and at once.",
+            "Bound hand and foot (\u03b4\u03b5\u03b4\u03b5\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03b4\u03b1\u03c2 \u03ba\u03b1 \u03c4\u03b1\u03c2 \u03c7\u03b5\u03b9\u03c1\u03b1\u03c2). Perfect passive participle of \u03b4\u03b5\u03c9 with the accusative loosely retained according to the common Greek idiom (Robertson, Grammar, p. 486), but literally 'as to the feet and hands' (opposite order from the English). Probably the legs were bound separately.",
+            "With grave-clothes (\u03ba\u03b5\u03b9\u03c1\u03b9\u03b1\u03b9\u03c2). Or 'with bands.' Instrumental case of this late and rare word (in Plutarch, medical papyrus in the form \u03ba\u03b7\u03c1\u03b9\u03b1, and Proverbs 7:16). Only here in N.T."
+        ],
+        "John Gill": [
+            "he who had been dead, being now made alive, and raised up, and set on his feet, came out of the cave.\" ",
+            "there was another miracle besides that of raising him from the dead; that in such a situation, in which he could have no natural use of his hands and feet, he should rise up, stand on his feet, walk, and come forth thus bound, out of the cave.",
+            "unwind the linen rolls about him, and set his hands and feet at liberty, and let him go to his own house."
+        ],
+        "John Wesley": [
+            "And he came forth bound hand and foot with grave clothes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Lazarus, bound and shrouded in grave-clothes, emerged from the tomb where he had been lying lifeless. This act of being freed from the grip of death was a miracle within the miracle of his resurrection. The napkin that covered his face was untied, allowing him to see clearly. Jesus, demonstrating his divine power, did not physically remove the grave-clothes Himself, leaving it to others to unwind the linen rolls about him. In this spectacular event, Jesus reveals his compassion and healing power as the Lord of life. Through Lazarus' resurrection, a profound contrast is drawn between the gospel story and other narratives; Jesus' sympathy and comforting words stand apart from the reproachfulness presented in other tales. As Lazarus walks out, still bound by his burial garments, it symbolizes the truth that Jesus alone has the power to give life.",
+            "wordCount": 141,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.845404106351411,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "commentatorTierSimilarities": [
+                30.51,
+                34.42,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Lazarus, wrapped in grave-clothes, emerged from the tomb where he had been lying lifeless. This miraculous act of being freed from death showcased Jesus' power as the Lord of life. The napkin covering Lazarus' face was unwrapped, allowing him to see clearly. Jesus did not physically remove the grave-clothes himself, leaving that task to others. Through Lazarus' resurrection, Jesus demonstrated his compassion, comforting words, and his position as the eternal solution to life and death. This event stands in stark contrast to other tales, symbolizing that Jesus alone possesses the power to give life.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.8037315814804034,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.32,
+            "commentatorTierSimilarities": [
+                32.16,
+                36.69,
+                31.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Lazarus, bound in grave-clothes, emerged from the tomb as a living testament to Jesus' power as the Lord of life. As he walked out, still wrapped in burial garments, the scene stood in stark contrast to the reproachful attitudes of others. Jesus, displaying warm sympathy and comforting words, revealed himself as the consolation of bereaved love. While human instrumentality prepared the way, it was Jesus alone who reserved the life-giving act to himself, highlighting his role as the eternal solution to the mysteries of life and death.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.741982559748438,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "commentatorTierSimilarities": [
+                36.49,
+                28.84,
+                34.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Bound in grave-clothes, Lazarus emerged from the tomb, a miraculous act that highlighted Jesus' power. His resurrection demonstrated the contrast between the gospel story and other narratives, as Jesus displayed warmth and sympathy towards the bereaved. While human instrumentality played a role in preparing the way, Jesus reserved the life-giving act for himself. In this event, Jesus revealed his role as the eternal solution to the enigma of life and death, offering comfort and hope to those in grief.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.7517498269171978,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                34.48,
+                32.24,
+                33.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Lazarus, still bound in his burial garments, emerged from the tomb, a living testimony to the power of Jesus as the Lord of life. While others were responsible for unbinding him, it was Jesus alone who reserved the life-giving act for himself. This event starkly contrasted with other narratives, highlighting Jesus' warm sympathy, comforting words, and tears at the tomb. Through Lazarus' resurrection, Jesus entered as the eternal solution to the mysteries of life and death, offering consolation to those in sorrow.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7990600910512269,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                34.62,
+                32.25,
+                33.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

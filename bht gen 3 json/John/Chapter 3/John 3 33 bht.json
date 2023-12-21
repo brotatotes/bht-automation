@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:05:12",
+    "verseRef": "John 3:33",
+    "bestBHT": {
+        "bht": "Those who accept the witness of Jesus are attesting to the fact that Jesus speaks the message of God. By fully believing His doctrine, they seal it as their own, expressing conviction in its truth, and giving glory to God. This act of faith is a way of worshiping God's truth. Conversely, those who disbelieve the witness of Jesus are disbelieving God and declaring Him to be false. Through our faith, we rely on God's words, finding confirmation in them and setting our seal that God is true.",
+        "wordCount": 90,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 2.129527824339449,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.15,
+        "commentatorTierSimilarities": [
+            25.09,
+            39.46,
+            35.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "gives glory to God",
+            "a partial communication of the Spirit",
+            "a seal to the truth"
+        ],
+        "Albert Barnes": [
+            "Hath received and fully believed his doctrine. Hath yielded his heart to its influence.",
+            "To believe a doctrine is to 'seal it,' or by believing it we express our firm conviction that it is true, and that God who has spoken it is true.",
+            "To be a believer is to 'pledge ourselves' for the truth, to seal it as our own, to adopt it, to choose it, and solemnly assent to it."
+        ],
+        "John Calvin": [
+            "Though the whole world should refuse or withhold faith in the Gospel, this ought not to prevent good men from giving their assent to God.",
+            "It is peculiar to faith to rely on God, and to be confirmed by his words; for there can be no assent, unless God have, first of all, come forward and spoken.",
+            "As nothing is more dear to him than his truth, so we cannot render to him more acceptable worship than when we acknowledge by our faith that He is true."
+        ],
+        "Philip Schaff": [
+            "He that received his witness set his seal to this, that God is true.",
+            "Every man who accepts His witness and thus declares that Jesus is true, in that very act attests, sets his seal to, the declaration that God is true.",
+            "To disbelieve Him is to disbelieve God, to declare Him true is to declare God true."
+        ],
+        "Archibald T. Robertson": [
+            "The metaphor of sealing is a common one for giving attestation.\" ",
+            "The one who accepts the witness of Jesus attests that Jesus speaks the message of God."
+        ],
+        "John Gill": [
+            "He that hath received his testimony, hath set to his seal that God is true.\" ",
+            "He firmly believes that God is true to every word of his, and will make good every promise.",
+            "On the contrary, he that believes not makes God a liar, than which, nothing can be more reproachful to him."
+        ],
+        "John Wesley": [
+            "Hath set to his seal \u2014 It was customary among the Jews for the witness to set his seal to the testimony he had given.",
+            "That God is true \u2014 Whose words the Messiah speaks."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who accept the witness of Jesus are attesting to the fact that Jesus speaks the message of God and giving glory to God. By receiving and fully believing His doctrine, they are sealing it as their own, expressing their firm conviction in its truth. In doing so, they set their seal to the declaration that God is true. This act of faith is a way of acknowledging and worshiping God's truth. On the other hand, those who disbelieve the witness of Jesus are disbelieving God and declaring Him to be false. It is through faith that we rely on God's words and find confirmation in them, for without God speaking, there can be no assent. Thus, by accepting His testimony, we set our seal that God is true, firmly believing that He will make good on every promise.",
+            "wordCount": 141,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.107124087460557,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                22.46,
+                41.3,
+                36.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who accept the witness of Jesus are attesting to the fact that Jesus speaks the message of God. By fully believing His doctrine, they seal it as their own, expressing conviction in its truth, and giving glory to God. This act of faith is a way of worshiping God's truth. Conversely, those who disbelieve the witness of Jesus are disbelieving God and declaring Him to be false. Through our faith, we rely on God's words, finding confirmation in them and setting our seal that God is true.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.129527824339449,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.15,
+            "commentatorTierSimilarities": [
+                25.09,
+                39.46,
+                35.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Accepting the witness of Jesus is an attestation that He speaks God's message. Fully believing His doctrine seals our conviction in its truth, giving glory to God. This act of faith worships God's truth. Disbelieving Jesus equates to disbelieving God. Through faith, we rely on God's words, finding confirmation and setting our seal that God is true. This act of trust affirms that God will fulfill every promise.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.0582121847663437,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+            "commentatorTierSimilarities": [
+                25.81,
+                37.89,
+                36.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who accept the witness of Jesus attest to the fact that Jesus speaks the message of God and give glory to God. By fully believing His doctrine, they seal their conviction in its truth. This act of faith acknowledges and worships God's truth. Conversely, those who disbelieve the witness of Jesus are disbelieving God and declaring Him false. Through faith, we rely on God's words to find confirmation and set our seal that God is true, firmly believing that He will fulfill every promise.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.107051880231821,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                24.3,
+                40.3,
+                35.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who accept the witness of Jesus attest that He speaks God's message, giving glory to God. By fully believing His doctrine, they seal their conviction in its truth. Conversely, disbelieving Jesus means disbelieving God. Through faith, we rely on God's words, finding confirmation and setting our seal that God is true. This act of trust affirms that God will fulfill every promise.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.0401224724450224,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.18,
+            "commentatorTierSimilarities": [
+                24.79,
+                38.82,
+                36.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:09:01",
+    "verseRef": "John 8:46",
+    "bestBHT": {
+        "bht": "Jesus confidently proclaims his absolute sinlessness and issues a challenge to his opponents to convict him of any wrongdoing. He emphasizes that the concept of sin in this context should not be softened to mean mere error, but rather refers to the general sense of sin in the New Testament. His faultless life and teachings leave his enemies with no grounds to accuse him, highlighting their prejudice and baseless rejection of his claims. Jesus' question exposes the irrationality behind their hostility and reinforces the credibility of his message.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.01994587732435,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.5,
+        "commentatorTierSimilarities": [
+            30.61,
+            34.6,
+            34.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The meaning here of sin is to be strictly adhered to, and not softened into \u2018error in argument,\u2019 or \u2018falsehood.\u2019",
+            "The words amount to a declaration of His absolute sinlessness, in thought, word, and deed.",
+            "If I say the truth] and if it be thence (from the impossibility of convicting me of sin) evident, that I speak the truth, why do ye not believe me?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Glorious dilemma! 'Convict Me of sin, and reject Me: If not, why stand ye out against My claims?'\" ",
+            "Of course, they could only be supposed to impeach His life; but in One who had already passed through unparalleled complications, and had continually to deal with friends and foes of every sort and degree\" ",
+            "such a challenge thrown wide among His bitterest enemies, can amount to nothing short of a claim to absolute sinlessness."
+        ],
+        "Albert Barnes": [
+            "Which of you convinces me? Which of you can prove that I am guilty of sin?",
+            "The word 'sin' here evidently means 'error, falsehood, or imposture.' It stands opposed to truth.",
+            "A doctrine might be rejected if it could be proved that he that delivered it was an impostor; but as you cannot prove this of me, you are bound to receive my words."
+        ],
+        "Marvin Vincent": [
+            "Convinceth [\u03b5\u03bb\u03b5\u03b3\u03c7\u03b5\u03b9] . See on 3 20. Rev., convicteth.\" ",
+            "Sin [\u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1\u03c2] . Not fault or error, but sin in general, as everywhere in the New Testament.",
+            "The truth [\u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1\u03bd] . Without the article, and therefore not the whole truth, but that which is true as to any part of divine revelation."
+        ],
+        "John Calvin": [
+            "He means that no crime dwells in him.\" ",
+            "Yet those who think that Christ here asserts his complete innocence, because he alone surpassed all men, so far as he was the Son of God, are mistaken.\" ",
+            "...he is rather defending his doctrine than his person."
+        ],
+        "Philip Schaff": [
+            "No charge of sin could any one of them bring home to Him, no responsive consciousness of sin could any one awaken in His breast.\" ",
+            "These words are implicitly an assertion of His perfect sinlessness.\" ",
+            "Their knowledge of His sinless life took from them all pretext for their disbelief."
+        ],
+        "Archibald T. Robertson": [
+            "The rhetorical question which receives no answer involves sinlessness (Hebrews 4:15) without specifically saying so.",
+            "Why do ye not believe me? This question drives home the irrationality of their hostility to Jesus.",
+            "It was based on prejudice and predilection."
+        ],
+        "John Gill": [
+            "Which of you convinceth me of sin?.... Of any immorality in life, or of any imposture, corruption, or deceit in doctrine.",
+            "They called him a wine bibber, and a glutton; gave out they knew he was a sinner; charged him with blasphemy and sedition; sought to bring proof of it, but failed in their attempt.",
+            "Since as no sin in life, so no corruption in doctrine, could be proved against him, what he said must be truth; and therefore it was a most unreasonable thing in them, and showed invincible obstinacy, not to believe him."
+        ],
+        "John Wesley": [
+            "Which of you convicteth me of sin? \u2014 And is not my life as unreprovable as my doctrine? Does not my whole behaviour confirm the truth of what I teach?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in John 8:46, makes a powerful statement about his sinlessness, challenging his opponents to convict him of any wrongdoing. The word sin here should be understood in its true sense, not softened to mean mere error or falsehood. Jesus boldly declares his absolute sinlessness in every aspect of his life, thoughts, words, and actions. This challenge, thrown among his bitterest enemies, can only be seen as a claim to perfect righteousness. Their refusal to believe him is shown to be irrational and based on their prejudice and bias. The knowledge of his sinless life leaves them without any grounds to reject his teaching.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.0514819654242906,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                29.68,
+                37.95,
+                32.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus asserts his sinlessness and challenges his opponents to convict him of any wrongdoing. His claim to absolute righteousness is evident in his impeccable life and teachings. He confronts their irrational rejection of him by highlighting their inability to find fault in his character or doctrine. Their prejudice and bias prevent them from accepting the truth he speaks. Consequently, Jesus' sinlessness serves as a powerful testimony to the authenticity of his message.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9061123061785366,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                29.43,
+                35.26,
+                35.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus confidently proclaims his absolute sinlessness and issues a challenge to his opponents to convict him of any wrongdoing. He emphasizes that the concept of sin in this context should not be softened to mean mere error, but rather refers to the general sense of sin in the New Testament. His faultless life and teachings leave his enemies with no grounds to accuse him, highlighting their prejudice and baseless rejection of his claims. Jesus' question exposes the irrationality behind their hostility and reinforces the credibility of his message.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.01994587732435,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.5,
+            "commentatorTierSimilarities": [
+                30.61,
+                34.6,
+                34.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus boldly asserts his sinlessness and challenges his opponents to prove otherwise. He clarifies that the term sin should not be diluted to mean error or falsehood, but rather encompasses general sin as understood in the New Testament. Jesus' flawless life and teachings leave his enemies unable to find any fault in him. Their refusal to believe him is revealed as unreasonable and rooted in prejudice. His sinlessness serves as a testament to the truth of his words and exposes their baseless rejection.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.0135901457395775,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+            "commentatorTierSimilarities": [
+                29.56,
+                37.01,
+                33.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus boldly asserts his sinlessness and challenges his opponents to prove him wrong. He emphasizes that the term sin should not be softened to mean mere error, but rather encompasses general sin as understood in the New Testament. Jesus' flawless life and teachings leave his enemies unable to find any fault in him. Their refusal to believe him is revealed as irrational and fueled by prejudice. His sinlessness stands as a testament to the truth of his words, reinforcing the credibility of his message.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9646380905705034,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                28.67,
+                37.54,
+                33.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

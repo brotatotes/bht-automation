@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:05:29",
+    "verseRef": "John 4:30",
+    "bestBHT": {
+        "bht": "When the Samaritan woman left, the men of the city were drawn to Jesus. They eagerly went out of the city in a rush, coming to Him in a long procession. This immediate response and openness to conviction by the Samaritans is a testament to the preparedness of Samaria for the gospel. The inhabitants of Sychar left their business to hear about Jesus, moved both by curiosity and the efficacy of divine grace.",
+        "wordCount": 73,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 1.7677676410238403,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+        "commentatorTierSimilarities": [
+            15.87,
+            48.13,
+            36.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "30.] came,\u2014more properly, were coming,\u2014had not arrived, when what follows happened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30. Then they went out, &amp;c.\u2014How",
+            "\tdifferent from the Jews! and richly was their openness to conviction",
+            "\trewarded."
+        ],
+        "Albert Barnes": [
+            "They went out of the city - The men of the city left it and went to Jesus, to hear and examine for themselves."
+        ],
+        "Marvin Vincent": [
+            "Went out is the aorist tense, denoting the coming forth from the city as a single act at a point of time.",
+            "Came is the imperfect, denoting action in progress. The observance of the distinction makes the narrative more graphic.",
+            "The imperfect also is required by the following words: 'In the mean while' (while the woman was still absent and the Samaritans were coming toward Him) 'the disciples were praying' Him to eat."
+        ],
+        "Philip Schaff": [
+            "This verse is here introduced partly to show the immediate success of the woman\u2019s message.",
+            "No slight evidence of the preparedness of Samaria for the gospel.",
+            "To make plain the words of Jesus in a later verse."
+        ],
+        "Archibald T. Robertson": [
+            "They went out... at once and in a rush.",
+            "And were coming to him... picturing the long procession.",
+            "Imperfect middle... graphically picturing."
+        ],
+        "John Gill": [
+            "The men, as the Syriac version expresses it; the inhabitants of Sychar left their business, and came out of the city...",
+            "...such power went along with her words, that what with the strangeness of the relation, and the curiosity with which they were led, and chiefly through the efficacy of divine grace, at least in many of them, they were moved to regard what she said...",
+            "...to follow her directions and solicitations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Samaritan woman left to tell the people about Jesus, the men of the city were drawn to Him. They eagerly went out of the city in a rush, coming to Jesus in a long procession. This immediate response and openness to conviction by the Samaritans stands in stark contrast to the Jews. It is a testament to the preparedness of Samaria for the gospel and the power that accompanied the woman's words. The inhabitants of Sychar left their business to follow her directions and to hear about Jesus, moved both by curiosity and the efficacy of divine grace.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.7780048979776732,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                14.27,
+                48.19,
+                37.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Samaritan woman left, the men of the city were drawn to Jesus. They eagerly went out of the city in a rush, coming to Him in a long procession. This immediate response and openness to conviction by the Samaritans is a testament to the preparedness of Samaria for the gospel. The inhabitants of Sychar left their business to hear about Jesus, moved both by curiosity and the efficacy of divine grace.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.7677676410238403,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                15.87,
+                48.13,
+                36.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Samaritan woman left, the men of the city were coming towards Jesus in a long procession, leaving their business behind. Their immediate response and openness to conviction highlight the preparedness of Samaria for the gospel. This rush of people towards Jesus is evidence of the power that accompanied the woman's words and the curiosity that led them to seek Him. Their eagerness to listen and examine for themselves is a testament to the efficacy of divine grace at work in their hearts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6916095637383908,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
+            "commentatorTierSimilarities": [
+                15.06,
+                47.36,
+                37.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the Samaritan woman left, the men of the city were coming towards Jesus in a long procession, leaving their business behind. Their immediate response and openness to conviction highlight the preparedness of Samaria for the gospel. This rush of people towards Jesus is evidence of the power that accompanied the woman's words and the curiosity that led them to seek Him. Their eagerness to listen and examine for themselves is a testament to the efficacy of divine grace at work in their hearts.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6916095637383908,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.59,
+            "commentatorTierSimilarities": [
+                15.06,
+                47.36,
+                37.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the Samaritan woman went out to tell the people about Jesus, the men of the city came to Him in a long procession, leaving their business behind. Their immediate response and openness to conviction demonstrate the preparedness of Samaria for the gospel. This rush of people towards Jesus is evidence of the power that accompanied the woman's words and the curiosity that led them to seek Him. Their eagerness to listen and examine for themselves is a testament to the efficacy of divine grace at work in their hearts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.665421149134145,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                14.32,
+                47.99,
+                37.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:14:28",
+    "verseRef": "John 18:37",
+    "bestBHT": {
+        "bht": "Art thou, thus captured, bound, standing as a criminal in peril of thy life, a king? To this end have I been born...I have been born, but not therein commencing my being\u2014I am (or, have) come into the world. The King is the representative of the truth: the truth of dealing between man and man;\u2014the truth of that power which in its inmost truth belongs to the great and only Potentate, the King of Kings. Every one that is of the truth heareth my voice.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.0298986014903435,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+        "commentatorTierSimilarities": [
+            38.81,
+            34.22,
+            26.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Art THOU, thus captured, bound, standing here as a criminal in peril of thy life, A KING?",
+            "To this end have I been born...I have been born, but not therein commencing my being\u2014I am (or, have) come into the world.",
+            "The King is the representative of the truth: the truth of dealing between man and man;\u2014the truth of that power, which in its inmost truth belongs to the great and only Potentate, the King of Kings."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To this end was I born and for this cause came I into the world, that I may bear witness to the truth.\" ",
+            "His Incarnation was expressly in order to the assumption of Royalty in our nature.",
+            "Every one that is of the truth heareth my voice."
+        ],
+        "Albert Barnes": [
+            "Thou affirmest the truth; thou declarest what is correct, for I am a king.",
+            "It was simply to present truth to men, and to exercise dominion only by the truth.",
+            "Men are not forced or compelled to be Christians. They are made to see that they are stoners, that God is merciful, that they need a Redeemer, and that the Lord Jesus is fitted to their case, and yield themselves then wholly to his reign."
+        ],
+        "Marvin Vincent": [
+            "So then, after all, thou art a king.",
+            "The perfect describes His birth and coming not merely as historical facts, but as abiding in their results.",
+            "Whose life and words issue from the truth."
+        ],
+        "John Calvin": [
+            "The doctrine concerning Christ's kingdom is of no ordinary importance since he has deemed it worthy of so solemn an affirmation.",
+            "There is no danger, therefore, that we shall be deceived by trusting him, since it is impossible that he who has been commissioned by God, and whose natural disposition leads him to maintain the truth, shall teach anything that is not true.",
+            "They are of the truth, he does not mean that they naturally know the truth, but that they are directed by the Spirit of God."
+        ],
+        "Philip Schaff": [
+            "In the first passage \u2018thou\u2019 is emphatic; \u2018thou so poor, so humbled, thou a King?\u2019 In the second \u2018King\u2019 is emphatic; \u2018a King then, high as that is, art thou?\u2019 In the first the thing is regarded as impossible; in the second the possibility has dawned upon the mind.",
+            "Thou usest the word king in regard to Me, but not in the right sense.",
+            "Jesus is not only the perfect, He is also the free and willing, Exponent or Revealer of all this truth to men. It is in His entire and voluntary surrender to it that His kingdom lies: His service is really His authority and power."
+        ],
+        "Archibald T. Robertson": [
+            "Yes, because I am a king.",
+            "The Incarnation was for this purpose.",
+            "Jesus bore such witness always."
+        ],
+        "John Gill": [
+            "The end of Christ's being born, which was of a virgin, in a very miraculous manner, and of his coming into the world, which was by the assumption of human nature, among many other things, was to bear testimony to truth in general.",
+            "Everyone that is of the truth; that is of God, belongs to the sheep of Christ, knows the truth as it is in Jesus, and is on the side of truth, and stands by it.",
+            "Heareth my voice; the voice of his Gospel; and that not only externally, but internally; so as to approve of it, rejoice at it, and distinguish it; and the voice of his commands, so as cheerfully to obey them from a principle of love to him."
+        ],
+        "John Wesley": [
+            "To this end was I born \u2014 Speaking of his human origin: his Divine was above Pilate's comprehension.",
+            "I came into the world, that I might witness to the truth - Which was both declared to the Jews, and in the process of his passion to the princes of the Gentiles also.",
+            "Every one that is of the truth \u2014 That is, a lover of it, heareth my voice - A universal maxim. Every sincere lover of truth will hear him, so as to understand and practise what he saith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Are you, standing here as a captured criminal, a king? You were born and came into the world for this purpose, to be the representative of truth, the truth of dealing between man and man, and the truth of God's power. Your incarnation was expressly for the assumption of royalty in our nature, and your life and words are witnesses of the truth. Those who are of the truth will hear your voice, for you are a king, and your kingdom lies in your entire surrender to truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.1860606604260466,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                32.62,
+                36.26,
+                31.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Are you, thus captured, standing as a criminal in peril of your life, a king? To this end have you been born, coming into the world to bear witness to the truth. Your incarnation was for the assumption of Royalty in our nature, and your life and words issue from the truth. Those who are of the truth hear your voice, for you are a king. Your kingdom lies in your surrender to truth, as your service is your authority and power.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.091395897469825,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.88,
+            "commentatorTierSimilarities": [
+                36.25,
+                35.8,
+                27.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Art thou, thus captured, bound, standing as a criminal in peril of thy life, a king? To this end have I been born...I have been born, but not therein commencing my being\u2014I am (or, have) come into the world. The King is the representative of the truth: the truth of dealing between man and man;\u2014the truth of that power which in its inmost truth belongs to the great and only Potentate, the King of Kings. Every one that is of the truth heareth my voice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.0298986014903435,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+            "commentatorTierSimilarities": [
+                38.81,
+                34.22,
+                26.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Are you, standing here as a captured criminal, a king? You were born and came into the world for this purpose, to be the representative of truth, the truth of dealing between man and man, and the truth of God's power. Your incarnation was expressly for the assumption of royalty in our nature, and your life and words are witnesses of the truth. Those who are of the truth will hear your voice, for you are a king.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 2.141917981035859,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.56,
+            "commentatorTierSimilarities": [
+                34.36,
+                35.89,
+                29.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Are you, thus captured, standing as a criminal in peril of your life, a king? To this end have you been born, coming into the world to bear witness to the truth. Your incarnation was for the assumption of Royalty in our nature, and your life and words issue from the truth. Those who are of the truth hear your voice, for you are a king. Your kingdom lies in your surrender to truth, as your service is your authority and power.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.091395897469825,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.88,
+            "commentatorTierSimilarities": [
+                36.25,
+                35.8,
+                27.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

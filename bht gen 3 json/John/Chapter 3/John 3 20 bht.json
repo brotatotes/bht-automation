@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:04:57",
+    "verseRef": "John 3:20",
+    "bestBHT": {
+        "bht": "Those who live righteous lives have their deeds, which have lasting value and fruit, but those who practice evil have nothing to show for their deeds, only condemnation. The light of truth exposes and rebukes their wickedness, leaving them uncomfortable and resistant to Christ, choosing to remain in darkness in order to hide their sins. They hate the light because it condemns their actions and reveals their own wickedness. Therefore, they reject Christ and His Gospel, cherishing their condemnation and preferring to remain in sinful darkness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 2.2069373556163994,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.72,
+        "commentatorTierSimilarities": [
+            19.18,
+            36.94,
+            43.88
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He who practises, has nothing but his practice, which is an event, a thing of the past, a source to him only of condemnation; he has nothing to shew for it, for it is also empty, worthless.",
+            "He that does, makes, creates (for this is the force of the second verb), has his deed, or thing made,\u2014he has abiding fruit; his works do follow him.",
+            "In the allusion to darkness, there may possibly be a hint at the coming by night of Nicodemus, but surely only by a distant implication."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. reproved\u2014by detection."
+        ],
+        "Albert Barnes": [
+            "They choose to practice their deeds of wickedness in darkness. They are afraid of the light, because they could be easily detected.",
+            "He hates the gospel, for it condemns his conduct, and his conscience would trouble him if it were enlightened.",
+            "No man who is a sinner loves it; and no man by nature is disposed to come to it, any more than an adulterer or thief is disposed to come to the daylight, and do his deeds of wickedness there."
+        ],
+        "Marvin Vincent": [
+            "Evil, therefore, considered on the side of worthlessness.",
+            "The test exposes and demonstrates the error, and refutes it, thus convincing, convicting, and rebuking the subject of it.",
+            "The man is thus convicted of sin, of right, and of judgment."
+        ],
+        "John Calvin": [
+            "The light is hateful to them for no other reason than because they are wicked and desire to conceal their sins.\" ",
+            "By rejecting the remedy, they may be said purposely to cherish the ground of their condemnation.",
+            "They abhor and shun the light, that they may more freely flatter themselves in darkness."
+        ],
+        "Philip Schaff": [
+            "The universal law is, that he who committeth evil hateth the light.",
+            "Every one whose life is thus evil knows that in the presence of the light he must stand self-condemned.",
+            "The last word of the verse is remarkable, as it is more naturally applied to the doer than to his deed. Not only will the works be shown by the light be exposed in their true character: the works are looked on as of themselves the criminals they will be self-convicted, self-condemned."
+        ],
+        "Archibald T. Robertson": [
+            "Hence talks against it, ridicules Christ, Christianity, churches, preachers, etc. Does it in talk, magazines, books, in a supercilious tone of sheer ignorance.",
+            "The light hurts his eyes, reveals his own wickedness, makes him thoroughly uncomfortable. Hence he does not read the Bible, he does not come to church, he does not pray. He goes on in deeper darkness.",
+            "To escape this unpleasant process the evil man cuts out Christ."
+        ],
+        "John Gill": [
+            "Every man, the series of whose life and conversation is evil, hates Christ and his Gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who live righteous lives have their deeds, which have lasting value and fruit, but those who practice evil have nothing to show for their deeds, only condemnation. The light of truth exposes and rebukes their wickedness, leaving them uncomfortable and resistant to Christ, choosing to remain in darkness in order to hide their sins. They hate the light because it condemns their actions and reveals their own wickedness. Therefore, they reject Christ and His Gospel, cherishing their condemnation and preferring to remain in sinful darkness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2069373556163994,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.72,
+            "commentatorTierSimilarities": [
+                19.18,
+                36.94,
+                43.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who practice righteousness have their deeds as evidence, while those who practice evil are left with nothing but condemnation. The light of truth exposes their wickedness and convicts them, making them uncomfortable and resistant to Christ. They hate the light because it brings their actions to light and reveals their own wickedness. Thus, they choose to reject Christ and His Gospel, preferring to remain in darkness where they can hide their sins and avoid facing the consequences of their actions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.172432222895704,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.57,
+            "commentatorTierSimilarities": [
+                19.92,
+                38.14,
+                41.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who practice righteousness have lasting fruit to show for their deeds, while those who practice evil are empty and worthless. The light of truth exposes their wickedness and convinces, convicts, and rebukes them. They hate the light because it reveals their own wickedness and makes them uncomfortable. Consequently, they choose to reject Christ, ridicule Christianity, and avoid reading the Bible or going to church. Preferring darkness, they cut out Christ to evade the unpleasant process of facing their sins and condemnation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.0134132854005924,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+            "commentatorTierSimilarities": [
+                20.73,
+                35.36,
+                43.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who practice righteousness have abiding fruit to show for their deeds. On the other hand, those who practice evil have nothing but condemnation. The light of truth exposes and demonstrates the error, convicting and rebuking them. They hate the light because it reveals their own wickedness, making them uncomfortable. Therefore, they choose to reject Christ and Christianity, avoiding reading the Bible, coming to church, and praying. They prefer to remain in darkness, cutting out Christ to escape the uncomfortable process of facing their sins.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.894068521820107,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                20.8,
+                36.34,
+                42.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who practice righteousness have their deeds as evidence, while those who practice evil are left with nothing but condemnation. The light of truth exposes and rebukes their wickedness, leaving them uncomfortable and resistant to Christ. They hate the light because it condemns their actions and reveals their own wickedness. Therefore, they reject Christ and His Gospel, cherishing their condemnation and preferring to remain in sinful darkness.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.1768030643129115,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.72,
+            "commentatorTierSimilarities": [
+                20.11,
+                36.72,
+                43.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

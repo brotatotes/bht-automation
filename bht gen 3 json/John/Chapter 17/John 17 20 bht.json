@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:13:55",
+    "verseRef": "John 17:20",
+    "bestBHT": {
+        "bht": "Through the apostolic word, all believers enter a state of faith, past and future alike. Jesus prays not only for his disciples, but also for all those who will believe through their word. This prayer includes believers of every age and nation, as the proclamation of the apostles brings people to faith. Christ's prayer ensures the salvation of believers and provides a safe harbor against attacks from Satan. Let the world condemn us, as it is our assurance that Christ acknowledges and pleads for us.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.9647905805225063,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+        "commentatorTierSimilarities": [
+            27.51,
+            36.84,
+            35.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The description, them which believe expresses the state of faith in which all believers are found.\" ",
+            "The future would refer more to the act of belief by which that state is begun.",
+            "It is strikingly set forth here, that all subsequent belief on Christ would take place through the apostolic word."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Neither pray I for these alone... but for them also which shall believe.\" ",
+            "The majority of the best manuscripts read 'which believe,' all future time being viewed as present.",
+            "The present is viewed as past and gone."
+        ],
+        "Marvin Vincent": [
+            "The future body of believers is conceived as actually existing.",
+            "Believe through their word on me.",
+            "Believe through their word\" forms a compound idea."
+        ],
+        "John Calvin": [
+            "This prayer of Christ is a safe harbour, and whoever retreats into it is safe from all danger of shipwreck; for it is as if Christ had solemnly sworn that he will devote his care and diligence to our salvation.",
+            "He began with his apostles, that their salvation, which we know to be certain, might make us more certain of our own salvation; and, therefore, whenever Satan attacks us, let us learn to meet him with this shield, that it is not to no purpose that the Son of God united us with the apostles, so that the salvation of all was bound up, as it were, in the same bundle.",
+            "Let the world then condemn us a thousand times, this alone ought to satisfy us, that Christ acknowledges us to be his heritage and pleads with the Father for us."
+        ],
+        "Philip Schaff": [
+            "From the thought of the disciples whom He was sending forth to carry on His work, Jesus now turns, in the third and last section of His prayer, to the thought of all who through their word shall be brought to faith, to the thought of believers in every country and in every age.",
+            "They are spoken of as those 'which' believe, not indeed in actual fact, for none had as yet believed through the instrumentality of the disciples; but in idea they rise before the mind of Jesus, His Church down to the very end of time.",
+            "The 'word' spoken of is that of John 17:14, the special word which is the revelation of the Father, and which brings man to recognize the love of the Father as it appears in the Son, and in the Son to them."
+        ],
+        "Archibald T. Robertson": [
+            "Through their word (\u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03bb\u03bf\u03b3\u03bf\u03c5 \u03b1\u03c5\u03c4\u03c9\u03bd). Through the agency of conversation and preaching, blessed privilege open to all believers thus to win men to Christ...",
+            "...but an agency sadly limited by the lives of those who speak in Christ's name."
+        ],
+        "John Gill": [
+            "Neither pray I for these alone,....but for them also which shall believe in me through their word.\" ",
+            "Christ is the object of true faith; which faith is not a mere assent of the mind to any truth concerning Christ, but it is a spiritual sight of him, a going forth unto him, laying hold on him, and depending upon him for life and salvation.",
+            "Our Lord knew that there would be a number, in all successive generations, that would believe in him, through the ministry of the word; and for these persons, and their conversion, and the success of the Gospel, to the good of their souls, he prays."
+        ],
+        "John Wesley": [
+            "For them who will believe \u2014 In all ages."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the apostolic word, all believers, both present and future, enter into a state of faith. Jesus prays not only for his immediate disciples, but also for all those who will believe in him through their word. This prayer encompasses believers in every country and in every age, as it is through their proclamation of the word that people are brought to faith. Christ's prayer is a safe harbor, a shield against the attacks of Satan, as it unites all believers and ensures their salvation. Let the condemnation of the world be of no concern, for Christ acknowledges us as his heritage and pleads for us with the Father. True faith is not just an intellectual acceptance of truths about Christ, but a spiritual sight of him, a dependence on him for life and salvation. Our Lord's prayer extends to all who will believe, throughout all generations.",
+            "wordCount": 149,
+            "quoteTokenProportion": 44.32,
+            "qualityScore": 1.9931862128929976,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                26.28,
+                37.42,
+                36.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the apostolic word, all believers, both present and future, enter into a state of faith. Jesus prays not only for his immediate disciples, but also for all those who will believe in him through their word. This prayer encompasses believers in every country and in every age, as it is through their proclamation of the word that people are brought to faith. Christ's prayer is a safe harbor, uniting all believers and ensuring their salvation. Let the condemnation of the world be of no concern, for Christ acknowledges us as his heritage and pleads for us with the Father.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.03782385121463,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                26.79,
+                37.73,
+                35.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the apostolic word, all believers, both present and future, enter into a state of faith. Jesus prays not only for his immediate disciples, but also for all those who will believe in him through their word. This prayer encompasses believers in every country and in every age, as it is through their proclamation of the word that people are brought to faith. Christ's prayer is a safe harbor, uniting all believers and ensuring their salvation. Let the condemnation of the world be of no concern, as Christ acknowledges us as his heritage and pleads for us with the Father.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.034399278409687,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                26.91,
+                37.69,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the apostolic word, all believers, both present and future, enter into a state of faith. Jesus prays not only for his immediate disciples, but also for all those who will believe in him through their word. This prayer encompasses believers in every country and in every age, as it is through their proclamation of the word that people are brought to faith. Christ's prayer is a safe harbor, uniting all believers and ensuring their salvation. Let the condemnation of the world be of no concern, as Christ acknowledges us as his heritage and pleads for us with the Father.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.034399278409687,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.98,
+            "commentatorTierSimilarities": [
+                26.91,
+                37.69,
+                35.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the apostolic word, all believers enter a state of faith, past and future alike. Jesus prays not only for his disciples, but also for all those who will believe through their word. This prayer includes believers of every age and nation, as the proclamation of the apostles brings people to faith. Christ's prayer ensures the salvation of believers and provides a safe harbor against attacks from Satan. Let the world condemn us, as it is our assurance that Christ acknowledges and pleads for us.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9647905805225063,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                27.51,
+                36.84,
+                35.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

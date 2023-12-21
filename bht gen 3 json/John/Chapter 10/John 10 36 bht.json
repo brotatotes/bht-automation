@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:10:02",
+    "verseRef": "John 10:36",
+    "bestBHT": {
+        "bht": "Jesus, as the Son of God, was consecrated and separated for a special mission by the Father. He refutes the accusation of blasphemy by highlighting the significance of his claim. Unlike the judges referred to in Psalms, Jesus is the Son of God in a unique way. This sanctification is not just common to believers but represents a divine designation. By asserting his identity as the Son of God, Jesus demonstrates his eternal, pre-existent nature and his superiority over any judges or representatives of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.6157461733078158,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+        "commentatorTierSimilarities": [
+            43.27,
+            0.0,
+            56.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The fundamental idea of the word is separation and consecration to the service of Deity.\" ",
+            "The judges, to whom the quotation in ver. 35 refers, were called gods, as being representatives of God.",
+            "How do I blaspheme in calling myself Son of God, since the Father has consecrated me and sent me on a special mission to the world?"
+        ],
+        "John Calvin": [
+            "There is a sanctification that is common to all believers.",
+            "But here Christ claims for himself something far more excellent, namely, that he alone was separated from all others, that the power of the Spirit and the majesty of God might be displayed in him.",
+            "Christ does not now argue what he is in himself, but what we ought to acknowledge him to be, from his miracles in human flesh."
+        ],
+        "Archibald T. Robertson": [
+            "Every word counts heavily here in contrast with the mere judges of Psalms 82:6.",
+            "Thou blasphemest (\u03bf\u03c4 \u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03b5\u03b9\u03c2). Recitative \u03bf\u03c4 again before direct quotation.",
+            "Jesus does not use the article here with \u03c5\u03b9\u03bf\u03c2, perhaps (Westcott) fixing attention on the character of Son rather than on the person as in Hebrews 1:2."
+        ],
+        "John Gill": [
+            "Sanctification here, designs something previous to that, and respects the eternal separation of him to his office, as Mediator, in the counsel, purposes, and decrees of God.\" ",
+            "Thou blasphemest, because I said, I am the Son of God; for what he had said in John 10:30 is equivalent to it; and in it he was rightly understood by the Jews.",
+            "Surely it cannot be blasphemy in Christ, to assert himself to be the Son of God, who existed as a divine person from all eternity."
+        ],
+        "John Wesley": [
+            "This sanctification (whereby he is essentially the Holy One of God) is mentioned as prior to his mission.\" ",
+            "Christ was God in the highest sense, infinitely superior to that wherein those judges were so called."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the Son of God, Jesus was consecrated and separated for a specific purpose by the Father. In John 10:36, Jesus refutes the accusation of blasphemy by emphasizing the weightiness of his claim. Unlike the judges referred to in Psalms 82:6 who were called gods, Jesus is the Son of God in a unique and unparalleled way. This separation and sanctification was not just a common attribute shared by believers, but a divine designation that demonstrated the power of the Spirit and the majesty of God in human flesh. By asserting his identity as the Son of God, Jesus showcases his eternal, pre-existent nature and reinforces his superiority over any judges or representatives of God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.6933417341568964,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                42.43,
+                0.0,
+                57.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, as the Son of God, was consecrated and separated for a special mission by the Father. He refutes the accusation of blasphemy by highlighting the significance of his claim. Unlike the judges referred to in Psalms, Jesus is the Son of God in a unique way. This sanctification is not just common to believers but represents a divine designation. By asserting his identity as the Son of God, Jesus demonstrates his eternal, pre-existent nature and his superiority over any judges or representatives of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6157461733078158,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+            "commentatorTierSimilarities": [
+                43.27,
+                0.0,
+                56.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, as the Son of God, was consecrated and separated for a special mission by the Father. He refutes the accusation of blasphemy by highlighting the significance of his claim. Unlike the judges referred to in Psalms, Jesus is the Son of God in a unique way. This sanctification represents a divine designation. By asserting his identity as the Son of God, Jesus demonstrates his eternal, pre-existent nature and his superiority over any judges or representatives of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.5562081309014197,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                43.15,
+                0.0,
+                56.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, as the Son of God, was consecrated and separated by the Father for a special mission. Refuting the accusation of blasphemy, he emphasizes the weightiness of his claim. He highlights that unlike the judges referred to in Psalms, he is the Son of God in a unique and unparalleled way. This sanctification demonstrates a divine designation and showcases the power of the Spirit and the majesty of God in human flesh. By proclaiming his identity as the Son of God, Jesus reinforces his eternal, pre-existent nature and his superiority over any representative of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.528166953923563,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                40.42,
+                0.0,
+                59.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, as the Son of God, was consecrated and separated by the Father for a special mission. Refuting the accusation of blasphemy, he emphasizes the uniqueness of his claim. This sanctification demonstrates a divine designation, showcasing the power of the Spirit and the majesty of God in human flesh. By proclaiming his identity as the Son of God, Jesus reinforces his pre-existent nature and superiority over any representative of God.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.497053583594935,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.12,
+            "commentatorTierSimilarities": [
+                39.96,
+                0.0,
+                60.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

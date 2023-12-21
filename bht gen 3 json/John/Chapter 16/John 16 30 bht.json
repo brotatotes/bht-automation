@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:13:19",
+    "verseRef": "John 16:30",
+    "bestBHT": {
+        "bht": "We are so confident in our understanding of You, in Your knowledge of our hearts, and in Your divine origin, that we have no need to ask anything of You. By Your ability to read our thoughts, we recognize that You have come from God. This knowledge, that You possess all things, including the secrets of our hearts, strengthens our faith and deepens our belief in Your divine nature.",
+        "wordCount": 69,
+        "quoteTokenProportion": 45.24,
+        "qualityScore": 1.7420539658787377,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+        "commentatorTierSimilarities": [
+            32.52,
+            34.32,
+            33.17
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou hast spoken so clearly of our feeling towards Thee, and of Thyself, that we have no occasion to ask Thee any thing.\" ",
+            "We know therefore, by its being so, that Thou knowest the secrets of our hearts (all things by inference).\" ",
+            "Hence believe that Thou camest forth from God."
+        ],
+        "Albert Barnes": [
+            "They were convinced that there was 'no need that any man should ask him,' or propose his difficulties to him, since he knew them all and could answer them.",
+            "It satisfied them that he knew the heart, and that he assuredly came from God.",
+            "They were convinced that he knew the heart, and that he assuredly came from God."
+        ],
+        "Marvin Vincent": [
+            "We are sure [\u03bf\u03b9\u03b4\u03b1\u03bc\u03b5\u03bd] . Better, as Rev., we know. ",
+            "By this [\u03b5\u03bd \u03c4\u03bf\u03c5\u03c4\u03c9] . Literally, in this. Compare 1 John 2:3, 1 John 2:5; 1 John 3:16, 1 John 3:19, 1 John 3:24; 1 John 4:9, 1 John 4:10, 1 John 4:1 1 John 4:3, 1 John 4:17; 1 John 5:2."
+        ],
+        "Archibald T. Robertson": [
+            "They had failed to understand the plain words of Jesus about going to the Father heretofore, but Jesus read their very thoughts and this fact seemed to open their minds to grasp his idea.",
+            "Should ask. Present active subjunctive with \u03b9\u03bd\u03b1 in the original sense of asking a question.",
+            "In Christ's supernatural insight into their very hearts."
+        ],
+        "John Gill": [
+            "they were fully assured that he must know all things",
+            "should Christ deliver anything not so intelligible to any of his audience, and they were desirous of knowing the sense of it, there would be no need of putting the question in form to him",
+            "this instance of Christ's omniscience was a strengthening proof of it"
+        ],
+        "John Wesley": [
+            "Thou knowest all things \u2014 Even our hearts.",
+            "Although no question is asked thee, yet thou answerest the thoughts of every one.",
+            "By this we believe that thou camest forth from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are so confident in our understanding of You, in Your knowledge of our hearts, and in Your divine origin, that we have no need to ask anything of You. By Your ability to read our thoughts, we recognize that You have come from God. This knowledge, that You possess all things, including the secrets of our hearts, strengthens our faith and deepens our belief in Your divine nature.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.7420539658787377,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.27,
+            "commentatorTierSimilarities": [
+                32.52,
+                34.32,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this moment, we are certain that we don't need to ask anything because You have already spoken so clearly about our feelings towards You and Your divine identity. Your ability to know the secrets of our hearts confirms our belief that You have come forth from God. The fact that You can understand our thoughts without us even posing the questions demonstrates Your supernatural insight. Consequently, we trust in Your omniscience and the divine origin that You possess.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.593527926401629,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+            "commentatorTierSimilarities": [
+                35.95,
+                30.47,
+                33.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are fully aware that we have no need to ask anything, for You have already spoken so clearly about our feelings towards You and Your divine nature. Your knowledge of the secrets of our hearts verifies our belief in Your origin from God. This instance of Your omniscience not only strengthens our faith, but also assures us that You know all things, even our innermost thoughts and desires. Your ability to answer the unspoken questions within us is a testament to Your divine nature and the truth that You came forth from God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.6790469616082733,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.17,
+            "commentatorTierSimilarities": [
+                30.73,
+                36.55,
+                32.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are certain that we need not ask anything, as You have spoken so clearly about our feelings towards You and Your divine nature. Your knowledge of the secrets of our hearts confirms our belief in Your origin from God. This strengthens our faith and deepens our trust in Your omniscience. Your ability to answer our unspoken thoughts affirms that You know all things, even the hidden depths of our hearts. Through this, we come to believe that You truly came forth from God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.6166878327952543,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                31.91,
+                33.1,
+                34.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our assurance is firm that we have no need to seek clarification from You, as You have already vividly expressed our sentiments towards You and Your divine essence. Your profound understanding of our hearts confirms our faith in Your origin from God. This remarkable display of omniscience not only strengthens our belief but also deepens our conviction that You possess comprehensive knowledge of all things, including our innermost thoughts. It is through this revelation that our confidence in Your divine origin is solidified.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.4853625138205933,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.73,
+            "commentatorTierSimilarities": [
+                32.13,
+                34.96,
+                32.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

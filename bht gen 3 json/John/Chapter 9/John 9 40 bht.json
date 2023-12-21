@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:09:47",
+    "verseRef": "John 9:40",
+    "bestBHT": {
+        "bht": "Are we also blind, the leaders of the people? The Pharisees, in their pride and rage, ask this question, vaguely suspecting that Jesus was referring to them as blind guides who stumble into the pit. Jesus, contrasting those who see not with those who have sight obtained from Him, calls into question the Pharisees' spiritual understanding. It is a common fault among the distinguished to be intoxicated with pride, and yet no one is qualified to be a disciple of Christ until they have been divested of self.",
+        "wordCount": 88,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 2.2257156410200576,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.35,
+        "commentatorTierSimilarities": [
+            34.3,
+            37.21,
+            28.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They ask the question, not understanding the words of Jesus in a bodily sense, but well aware of their meaning.",
+            "Are then we meant by these blind, we, the leaders of the people?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "40. Are we blind also?\u2014We, the",
+            "\tconstituted, recognized guides of the people in spiritual things?",
+            "\tpride and rage prompting the question."
+        ],
+        "Marvin Vincent": [
+            "Are we blind also [\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03b7\u03bc\u03b5\u03b9\u03c2 \u03c4\u03c5\u03c6\u03bb\u03bf\u03b9 \u03b5\u03c3\u03bc\u03b5\u03bd] ? The also belongs with we. The interrogative particle has the force of we are surely not, and the we is emphatic. Are we also blind ? So Rev."
+        ],
+        "John Calvin": [
+            "No man is qualified to be a disciple of Christ, until he has been divested of self.",
+            "Hypocrisy has always been full of pride and venom.",
+            "It is too common a fault among those who are distinguished above others, that they are intoxicated with pride, and almost forget that they are men."
+        ],
+        "Philip Schaff": [
+            "No one, probably, who duly apprehends the difference in the usage of John between \u2018the Pharisees\u2019 and \u2018the Jews,\u2019 will think that necessarily these words were uttered in derision, or that these men were \u2018with Him\u2019 as enemies and spies.",
+            "Does He class them also amongst those who \u2018see not\u2019? Surely (they think) this cannot be His meaning? And yet, if not, Pharisees are excluded from all hope of blessing, for His words speak of but two classes.",
+            "The future lot is the result of the coming of Jesus into this world, It is very clear that He means that those who see not (like the despised blind man who has just been \u2018put out\u2019) will come to Him and obtain sight from Him."
+        ],
+        "Archibald T. Robertson": [
+            "Are we also blind?\" - Negative answer expected (\u03bc\u03b7)",
+            "vaguely suspected that Jesus was referring to them by the last clause\" - The Pharisees vaguely suspected Jesus was referring to them.",
+            "called the Pharisees blind guides who stumble into the pit\" - Jesus called the Pharisees blind guides who stumble into the pit."
+        ],
+        "John Gill": [
+            "they perceived he pointed at them, and therefore with indignation ask this question",
+            "taking it as a great affront unto them, to put such wise, learned, and knowing men as they in company with the ignorant and unlearned common people",
+            "wise, learned, and knowing men as they in company with the ignorant and unlearned common people"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Are we also blind, the leaders of the people? The Pharisees, in their pride and rage, ask this question, vaguely suspecting that Jesus was referring to them as blind guides who stumble into the pit. Jesus, contrasting those who see not with those who have sight obtained from Him, calls into question the Pharisees' spiritual understanding. It is a common fault among the distinguished to be intoxicated with pride, and yet no one is qualified to be a disciple of Christ until they have been divested of self. The Pharisees, feeling the affront of being associated with the ignorant and unlearned common people, fail to grasp the deeper meaning of Jesus' words.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.2487238483367404,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.11,
+            "commentatorTierSimilarities": [
+                32.25,
+                38.86,
+                28.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Are we also blind, the leaders of the people? The Pharisees, in their pride and rage, ask this question, vaguely suspecting that Jesus was referring to them as blind guides who stumble into the pit. Jesus, contrasting those who see not with those who have sight obtained from Him, calls into question the Pharisees' spiritual understanding. It is a common fault among the distinguished to be intoxicated with pride, and yet no one is qualified to be a disciple of Christ until they have been divested of self.",
+            "wordCount": 88,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.2257156410200576,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.35,
+            "commentatorTierSimilarities": [
+                34.3,
+                37.21,
+                28.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Are we also blind, the leaders of the people? The Pharisees, in their pride and rage, ask this question, vaguely suspecting that Jesus was referring to them as blind guides who stumble into the pit. Jesus contrasts those who see not with those who have sight obtained from Him, calling into question the Pharisees' spiritual understanding. It is a common fault among the distinguished to be intoxicated with pride, yet no one is qualified to be a disciple of Christ until they have been divested of self.",
+            "wordCount": 87,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.212256075877006,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.9,
+            "commentatorTierSimilarities": [
+                34.52,
+                36.93,
+                28.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, in their pride and rage, question if they too are blind, not understanding the deeper meaning of Jesus' words. They vaguely suspect that Jesus is referring to them as blind guides who stumble into destruction. Jesus contrasts those who have spiritual sight obtained from Him with the Pharisees, highlighting their lack of understanding. It is a common fault among the distinguished to become intoxicated with pride, hindering them from true discipleship and veiling their spiritual insight.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.244633712113714,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.97,
+            "commentatorTierSimilarities": [
+                32.81,
+                39.85,
+                27.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, in their pride and rage, indignantly ask if they too are blind, failing to comprehend the true meaning behind Jesus' words. Their suspicion is fueled by their awareness that Jesus referred to the Pharisees as blind guides, stumbling into the pit. Jesus emphasizes the contrast between those who receive sight from Him and the spiritual blindness of the Pharisees. Sadly, the Pharisees, intoxicated with pride, cannot fathom the idea of being associated with the ignorant and unlearned common people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.317505529278842,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.4,
+            "commentatorTierSimilarities": [
+                32.48,
+                39.95,
+                27.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

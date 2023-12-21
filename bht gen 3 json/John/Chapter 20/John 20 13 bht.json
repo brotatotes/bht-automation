@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:15:07",
+    "verseRef": "John 20:13",
+    "bestBHT": {
+        "bht": "Driven by her singular love and desire to recover Jesus' lost body, Mary approaches the supernatural presence of angels without fear, her focus undeterred by their presence. In her intense grief, she expresses her sorrow openly, reiterating the words she had spoken to Peter and John. Although the supernatural manifestation would have typically been overwhelming, Mary's unwavering faith and love enable her to engage in conversation as if with a human being. Her profound devotion creates the perfect conditions for a direct encounter with the risen Savior.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.9754269613144326,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+        "commentatorTierSimilarities": [
+            41.4,
+            31.31,
+            27.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The angels doubtless are proceeding further to assure her as they did the women before:\u2014but this is broken off by the appearance of the Lord Himself.\" ",
+            "Mary, having but one thought or desire, to recover the lost Body of her Lord, feels no fear."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "You would think the vision too much for a lone woman. But absorbed in the one Object of her affection and pursuit, she speaks out her grief without fear.",
+            "Can I choose but weep, when 'they have taken away,' ... repeating her very words to Peter and John.",
+            "She answers not the stranger's question, but comes straight to her point with him."
+        ],
+        "Albert Barnes": [
+            "They have taken away - That is the disciples or friends of Jesus who had laid him there.",
+            "Perhaps it was understood that the body was deposited there only to remain over the Sabbath, with an intention then of removing it to some other place of burial.",
+            "Hence, they hastened early in the morning to make preparation, and Mary supposed they had arrived before her and had taken him away."
+        ],
+        "Marvin Vincent": [
+            "She is so absorbed in her grief and love that she is not appalled by the supernatural manifestation.",
+            "Under ordinary circumstances, [the supernatural manifestation] would have terrified her.",
+            "She enters into conversation as if addressed by a human being."
+        ],
+        "John Calvin": [
+            "Woman, why weepest thou?\" ",
+            "The conversation consists of reproof mingled with comfort.\" ",
+            "There is no reason to weep, since Christ has risen."
+        ],
+        "Philip Schaff": [
+            "Her words are exactly the same as those spoken by her in John 20:2, except that, as she is now expressing simply her own feelings and not those of companions, the utterance becomes more tender.",
+            "She thus comes before us as more fully prepared for receiving a manifestation of the risen Saviour.",
+            "To such a faith Jesus will reveal Himself directly, and without the interposition of any other."
+        ],
+        "Archibald T. Robertson": [
+            "I do not know (\u03bf\u03c5\u03ba \u03bf\u03b9\u03b4\u03b1). Singular here, not plural as in verse John 20:2, because clearly Mary is alone here.",
+            "She did not see Peter and John at the tomb."
+        ],
+        "John Gill": [
+            "She had no reason to weep, but to rejoice and be glad; since, though the body of her Lord was not there, yet he was risen from the dead, and was alive.",
+            "Her grief made her fearless, and she cared not who she opened the case to, so that she could get any relief, and any tidings of her Lord.",
+            "Nothing short of this could dry up her tears."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, overwhelmed by grief and love, encounters the supernatural manifestation of the angels without fear. Addressing the unknown figure, she is so absorbed in her pursuit to recover the lost body of Jesus that she does not even answer his question. Her single-mindedness and deep sorrow move her to speak out her grief, and she repeats the words she had spoken to Peter and John. Though the supernatural manifestation would have terrified her under normal circumstances, Mary's intense focus on her deep love for the Lord enables her to engage in conversation as if with a human being. Her steadfast faith and longing for Jesus create the perfect conditions for a direct revelation of the risen Savior.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9755839948917782,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                41.72,
+                30.57,
+                27.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Overwhelmed by grief and love, Mary encounters the supernatural manifestation of angels without fear. Absorbed in her pursuit to recover the lost body of Jesus, she repeats her words to Peter and John, speaking out her grief. Despite the terrifying supernatural presence, her single-mindedness and deep sorrow allow her to engage the figure in conversation. Her steadfast faith and longing for Jesus create the perfect conditions for a direct revelation of the risen Savior.",
+            "wordCount": 75,
+            "quoteTokenProportion": 22.64,
+            "qualityScore": 1.9066442526513305,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                41.71,
+                29.25,
+                29.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary, consumed by her desire to find the lost body of Jesus, is unafraid when she encounters the supernatural manifestation of angels. Her deep love and grief drive her to openly express her sorrow, repeating the same words she had spoken to Peter and John. Despite the potentially terrifying nature of the supernatural presence, Mary's intense focus on her pursuit allows her to engage in conversation with the figure. Her unwavering faith and longing for Jesus create the perfect conditions for a direct revelation of the risen Savior.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.904838445907659,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                41.07,
+                31.6,
+                27.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In her relentless pursuit to find the lost body of Jesus, Mary's overwhelming grief and love enable her to fearlessly encounter the supernatural presence of angels. Her singular focus and deep sorrow prompt her to openly express her grief, echoing the words she had spoken to Peter and John. Despite the potential terror the supernatural manifestation might bring, Mary's unwavering faith and longing allow her to engage in conversation with the mysterious figure. It is her unyielding devotion and longing for Jesus that create the perfect setting for a direct revelation of the risen Savior.",
+            "wordCount": 97,
+            "quoteTokenProportion": 22.73,
+            "qualityScore": 1.9284396380621325,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                40.55,
+                32.14,
+                27.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven by her singular love and desire to recover Jesus' lost body, Mary approaches the supernatural presence of angels without fear, her focus undeterred by their presence. In her intense grief, she expresses her sorrow openly, reiterating the words she had spoken to Peter and John. Although the supernatural manifestation would have typically been overwhelming, Mary's unwavering faith and love enable her to engage in conversation as if with a human being. Her profound devotion creates the perfect conditions for a direct encounter with the risen Savior.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.9754269613144326,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                41.4,
+                31.31,
+                27.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

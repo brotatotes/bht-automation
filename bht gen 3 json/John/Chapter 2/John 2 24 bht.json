@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:04:38",
+    "verseRef": "John 2:24",
+    "bestBHT": {
+        "bht": "Jesus did not fully trust those who claimed to be His disciples. He did not commit Himself to them due to their hypocrisy and fickleness, knowing their temporary and self-centered motivations. This shows the importance of being genuine disciples chosen and approved by Jesus alone. We should learn from this, exercising caution in whom we trust while avoiding excessive suspicion or blind trust. Only Jesus, with His perfect knowledge, can truly discern who are His disciples.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 2.0049814618942343,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+        "commentatorTierSimilarities": [
+            31.66,
+            42.53,
+            25.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He did not trust Himself to them,\u2014i. e. treat them as true and earnest disciples...",
+            "They entered into no spiritual relation with Him, and He in consequence into none with them.",
+            "The fact of this being narrated shews that it made an impression on the Evangelist..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. did not commit\u2014\"entrust,",
+            "\tor let Himself down familiarly to them, as to His genuine disciples."
+        ],
+        "Albert Barnes": [
+            "Jesus did not put 'trust' or 'reliance' in them. He did not leave himself in their hands.",
+            "The reason why he did not commit himself to them is 'that he knew all men.'",
+            "He knew the 'inconstancy' and 'fickleness' of the multitude. He knew how easily they might be turned against him."
+        ],
+        "Marvin Vincent": [
+            "He had no faith in their faith\" (Godet).",
+            "He did not trust His person to them.",
+            "Peter says to Jesus, appealing to His absolute knowledge, 'Thou knowest [\u03bf\u03b9\u03b4\u03b1\u03c2] all things :' appealing to his discernment, 'Thou knowest or perceivest [\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03b5\u03b9\u03c2] that I love Thee.'"
+        ],
+        "John Calvin": [
+            "Nothing is more dangerous than hypocrisy, for this reason among others, that it is an exceedingly common fault.",
+            "We imagine that God is blind like ourselves. But here we are reminded how widely his judgment differs from ours.",
+            "Let us remember, therefore, that none are the true disciples of Christ but those whom He approves, because in such a matter He alone is competent to decide and to judge."
+        ],
+        "Archibald T. Robertson": [
+            "But Jesus himself kept on refusing (negative imperfect) to trust himself to them.",
+            "He merely believed that he wanted what Philip had.",
+            "Causal use of \u03b4\u03b9\u03b1 and the accusative case of the articular infinitive \u03c4\u03bf \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03b5\u03b9\u03bd (because of the knowing) with the object of the infinitive (\u03c0\u03b1\u03bd\u03c4\u03b1\u03c2, all men) and the accusative of general reference (\u03b1\u03c5\u03c4\u03bf\u03bd, as to himself)."
+        ],
+        "John Gill": [
+            "He knew all men: good and bad: all openly profane sinners, and all their actions...",
+            "...he knows their persons, as they are his Father's choice, his gift of them to him, his own purchase, and as called by his grace...",
+            "...he knew the hypocrisy and dissimulation of some of them; and he knew the notions they had of a temporal Messiah, and the temporal views they had in believing in him."
+        ],
+        "John Wesley": [
+            "Let us learn hence not rashly to put ourselves into the power of others.",
+            "Let us study a wise and happy medium between universal suspiciousness and that easiness.",
+            "Make us the property of every pretender to kindness and respect."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in John 2:24, did not fully trust those who simply claimed to be His disciples. He did not commit Himself to them or enter into a deep spiritual relationship because He knew their true intentions. He recognized their hypocrisy and fickleness, understanding that they could easily turn against Him. Jesus' discernment highlights the importance of truly being His disciple, approved and chosen by Him alone. We should learn from this and be cautious about putting ourselves into the power of others, avoiding both universal suspiciousness and blind trust. Jesus' knowledge surpasses ours, and He alone is competent to judge who are truly His disciples.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.72,
+            "qualityScore": 2.025865928470931,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                28.64,
+                42.21,
+                29.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus did not fully trust those who claimed to be His disciples. He did not commit Himself to them due to their hypocrisy and fickleness, knowing their temporary and self-centered motivations. This shows the importance of being genuine disciples chosen and approved by Jesus alone. We should learn from this, exercising caution in whom we trust while avoiding excessive suspicion or blind trust. Only Jesus, with His perfect knowledge, can truly discern who are His disciples.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.0049814618942343,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+            "commentatorTierSimilarities": [
+                31.66,
+                42.53,
+                25.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus did not trust Himself to His followers, as they did not enter into a true spiritual relationship with Him. This lack of trust made an impression on the Evangelist, highlighting its significance. Jesus did not commit Himself to them because He knew all men and their inconstancy, fickleness, and hypocrisy. This reminds us that only those whom Christ approves can be considered true disciples. We should be cautious about putting ourselves in the power of others, striking a balance between being overly suspicious and too easily trusting.",
+            "wordCount": 88,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.9258637638439207,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                31.04,
+                42.2,
+                26.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus did not trust Himself to His followers, as they did not enter into a true spiritual relationship with Him. This lack of trust made an impression on the Evangelist, highlighting its significance. Jesus did not commit Himself to them because He knew all men and their inconstancy, fickleness, and hypocrisy. Only those whom Christ approves can be considered true disciples. We should be cautious about putting ourselves in the power of others, striking a balance between being overly suspicious and too easily trusting.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.07,
+            "qualityScore": 1.9321034290248726,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                31.43,
+                42.13,
+                26.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus did not trust Himself to His followers, as they did not enter into a true spiritual relationship with Him. This lack of trust made an impression on the Evangelist, highlighting its significance. Jesus did not commit Himself to them because He knew all men and their inconstancy, fickleness, and hypocrisy. Only those whom Christ approves can be considered true disciples. We should be cautious about putting ourselves in the power of others, striking a balance between being overly suspicious and too easily trusting.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.07,
+            "qualityScore": 1.9321034290248726,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                31.43,
+                42.13,
+                26.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

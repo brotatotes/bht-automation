@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:05:52",
+    "verseRef": "John 4:45",
+    "bestBHT": {
+        "bht": "The Galileans received Jesus not because they held Him in high regard, but because of His fame in Jerusalem. This initial reception was not despised by Jesus, as saving conversion often begins with less. His miracles at the first Passover caused a stir, even among the Galileans who had gone to the feast. Their reception of Jesus was marked by kindness, belief in His miracles, and even welcoming Him into their homes.",
+        "wordCount": 72,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 1.9631859517786083,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.62,
+        "commentatorTierSimilarities": [
+            35.3,
+            33.86,
+            30.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They received Him, but in accordance with the proverbial saying just recorded;\u2014not for any honour in which they themselves held Him, or value which they had for His teaching...",
+            "...but on account of His fame in Jerusalem, the metropolis,\u2014which set them the fashion in their estimate of men and things.",
+            "For they also went unto the feast is inserted for those readers who might not be aware of the practice of the Galileans to frequent the feasts at Jerusalem."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Even this our Lord did not despise, for saving conversion often begins in less than this.",
+            "Saving conversion often begins in less than this.",
+            "Saving conversion."
+        ],
+        "Albert Barnes": [
+            "Received him - Received him kindly, or as a messenger of God. They had seen his miracles, and believed on him."
+        ],
+        "John Calvin": [
+            "There is nothing to which men are more prone than forgetfulness of the gifts of God.",
+            "Christ performed miracles in presence of many witnesses, so that the report of them was spread far and wide.",
+            "Miracles...prepare the way for doctrine; for they cause reverence to be paid to Christ."
+        ],
+        "Philip Schaff": [
+            "The \u2018feast\u2019 is no doubt the Passover of which we read in chap. 2",
+            "faith... real, but not of the highest kind.",
+            "real, but not of the highest kind."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus had evidently anticipated a quiet arrival.",
+            "The miracles of Jesus at that first passover made a stir.",
+            "The Samaritans did not go and so Jesus was a new figure to them, but the Galileans, as orthodox Jews, did go and so were predisposed in his favour."
+        ],
+        "John Gill": [
+            "The Galilaeans received him; willingly, readily, and cheerfully, with much delight and pleasure, and with marks of great esteem and respect.",
+            "...they received him into their houses, and entertained him, and provided for him and his disciples.",
+            "They kept the feast of the passover, and went yearly to Jerusalem on that account..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Galileans received Jesus, not necessarily because they held Him in high regard or valued His teachings, but because He had gained fame in Jerusalem. Jesus did not despise their initial interest, as saving conversion often begins with less. However, Jesus had expected a quiet arrival, but His miracles at the first Passover created a stir. While the Samaritans had not gone to the feast and were unfamiliar with Jesus, the Galileans, as orthodox Jews, had gone and were predisposed to favor Him. Their reception of Jesus was marked by kindness, belief in His miracles, and even welcoming Him into their homes.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9474735630838553,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                38.38,
+                30.95,
+                30.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Galileans received Jesus not because they held Him in high regard, but because of His fame in Jerusalem. This initial reception was not despised by Jesus, as saving conversion often begins with less. His miracles at the first Passover caused a stir, even among the Galileans who had gone to the feast. Their reception of Jesus was marked by kindness, belief in His miracles, and even welcoming Him into their homes.",
+            "wordCount": 72,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 1.9631859517786083,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.62,
+            "commentatorTierSimilarities": [
+                35.3,
+                33.86,
+                30.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Galileans received Him, not out of their own high regard for Him or His teachings, but because of His fame in Jerusalem. Although Jesus had expected a quiet arrival, His miracles at the first Passover caused quite a stir. The Galileans, being orthodox Jews, went to the feasts at Jerusalem and were predisposed in His favor. This reception by the Galileans, though not the highest kind of faith, was the beginning of saving conversion. It is important to remember the gifts of God, and the miracles performed by Christ prepared the way for His teachings, causing reverence to be paid to Him.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8983599665806326,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                35.23,
+                33.46,
+                31.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Galileans received Him not for their own honor but on account of His fame in Jerusalem. The miracles Jesus performed at the first Passover made a stir, and the Galileans, being orthodox Jews, were predisposed in His favor. This reception, though not the highest kind of faith, marked the beginning of saving conversion. It is important to remember the gifts of God, and the miracles performed by Christ prepared the way for His teachings, causing reverence to be paid to Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.897093618405576,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.42,
+            "commentatorTierSimilarities": [
+                33.64,
+                34.21,
+                32.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Galileans received Jesus because of His fame in Jerusalem, not due to their high regard or value for Him. The miracles He performed at the first Passover generated attention and curiosity. While this reception may not have been the highest kind of faith, it was the beginning of a saving conversion. It is essential to remember the gifts of God and how miracles can pave the way for the acceptance of Christ's teachings.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.8852542012733666,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                32.57,
+                37.09,
+                30.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

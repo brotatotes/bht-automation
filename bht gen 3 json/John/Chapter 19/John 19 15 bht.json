@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:14:54",
+    "verseRef": "John 19:15",
+    "bestBHT": {
+        "bht": "The declaration of the chief priests, We have no king but Caesar, epitomized their degradation and rejection of Jesus as the promised Messiah. In renouncing God as their King, they forfeited the theocratic principles that had defined their faith. Their allegiance to Caesar, a temporal and pagan power, underscored their willingness to sacrifice truth for their own purposes. This shameful confession revealed their desperation to see Jesus crucified, disregarding the spiritual kingdom of God and sealing their own tragic fate.",
+        "wordCount": 80,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8540803498742557,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+        "commentatorTierSimilarities": [
+            30.06,
+            35.49,
+            34.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have no king but C\u00e6sar, was a degrading confession from the chief priests of that people of whom it was said, \u2018The Lord your God is your King.\u2019\" ",
+            "They were so earnest in repudiating Jesus...that they repudiate their Messiah altogether.\" ",
+            "The cry furthered the present purpose, and to this all was sacrificed, including truth itself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Crucify your King? . . . We have no king but C\u00e6sar.\" [ALFORD]",
+            "Some of those who thus cried died miserably in rebellion against C\u00e6sar forty years afterwards.\" [ALFORD]",
+            "But it suited their present purpose\" [ALFORD]"
+        ],
+        "Marvin Vincent": [
+            "These chief representatives of the theocratic government of Israel thus formally and expressly renounce it, and declare their allegiance to a temporal and pagan power.",
+            "This utterance is 'the formal abdication of the Messianic hope.'",
+            "The pronoun of remote reference isolates and sharply distinguishes them from Jesus."
+        ],
+        "John Calvin": [
+            "This is a display of shocking madness.",
+            "They revolt from the spiritual kingdom of God.",
+            "The sole happiness of the godly is, to be subject to the royal authority of Christ."
+        ],
+        "Philip Schaff": [
+            "Instinct tells them that the last moment when they may accomplish their object is arrived: and, roused to the utmost pitch of fury by the words of Pilate.",
+            "What an answer is it! It is the utterance of self-condemnation, the renouncing of the chief honour of the chosen people, the casting away of what had most distinguished them in the past, of what they hoped most from in the future, 'We have no king but C\u00e6sar.'",
+            "In the moment of securing the death of their true King, 'the Jews,' by the mouth of their leaders and representatives, plunge themselves into the lowest depths of guilt and shame."
+        ],
+        "Archibald T. Robertson": [
+            "This thing has gotten on the nerves of the crowd. Note the repetition.",
+            "In a second-century papyrus letter (Moulton and Milligan's Vocabulary) a nervous mother cries 'He upsets me; away with him.'",
+            "The chief priests were Sadducees, who had no Messianic hope like that of the Pharisees. So to carry their point against Jesus they renounce the principle of the theocracy that God was their King."
+        ],
+        "John Gill": [
+            "They were impatient until he was ordered away for execution; and nothing would satisfy them but the crucifixion of him.",
+            "They rejected the government of the King Messiah, and tacitly confessed that the sceptre was departed from Judah.",
+            "They could name no one as king but Jesus, or Caesar; the former they rejected, and were obliged to own the latter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests, in their fierce opposition against Jesus, declared their allegiance to Caesar, exclaiming, We have no king but Caesar. This shameful confession revealed their rejection of the theocratic government of Israel and the renouncing of their hope in the Messiah. In their desperate pursuit to have Jesus crucified, they sacrificed truth itself and abdicated their loyalty to God as their King. This display of madness and rebellion sealed their fate, as some of them would later meet a miserable end in rebellion against Caesar. In their plea for Jesus' crucifixion, they rejected the spiritual kingdom of God and silenced any hope for the true reign of the Messiah.",
+            "wordCount": 110,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.9179923548843698,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                28.44,
+                35.5,
+                36.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests, representing the theocratic government of Israel, shockingly renounced their allegiance to God as their King and confessed their loyalty to Caesar. This disgraceful choice demonstrated their rejection of the Messianic hope and a willingness to sacrifice truth for their own interests. The repetition of their cry displayed their determination to have Jesus crucified, even if it meant abandoning their faith and embracing a pagan power. Their actions were not only a display of madness, but also a tragic downfall that would result in their own ruin.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.802247689757234,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                29.33,
+                38.36,
+                32.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In an alarming display of rejection, the chief priests uttered the degrading confession, We have no king but Caesar. This renunciation not only undermined their faith and the theocratic government of Israel, but also symbolized the abandonment of their Messianic hope. Their allegiance to a temporal and pagan power revealed their willingness to sacrifice truth itself. Their desperate plea for Jesus' crucifixion showcased their impatience and a disregard for the spiritual kingdom of God. Their actions were not only astonishingly misguided but would ultimately lead to their own downfall.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7487362769750727,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.49,
+            "commentatorTierSimilarities": [
+                29.1,
+                36.95,
+                33.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests, in pursuing their agenda to have Jesus crucified, shockingly proclaimed, We have no king but Caesar, relinquishing their faith in God as their King and forsaking their hope in the Messiah. Their willingness to sacrifice truth for their own purpose marked a palpable decline in their spiritual devotion. Their rejection of Jesus and embrace of Caesar as their temporal and pagan authority not only demonstrated their desperation, but also their abandonment of theocratic principles. Their actions sealed their tragic fate and exposed their spiritual blindness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.7270313786523421,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                29.4,
+                35.67,
+                34.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The declaration of the chief priests, We have no king but Caesar, epitomized their degradation and rejection of Jesus as the promised Messiah. In renouncing God as their King, they forfeited the theocratic principles that had defined their faith. Their allegiance to Caesar, a temporal and pagan power, underscored their willingness to sacrifice truth for their own purposes. This shameful confession revealed their desperation to see Jesus crucified, disregarding the spiritual kingdom of God and sealing their own tragic fate.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8540803498742557,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                30.06,
+                35.49,
+                34.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

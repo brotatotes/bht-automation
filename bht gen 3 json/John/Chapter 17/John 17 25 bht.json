@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:13:55",
+    "verseRef": "John 17:25",
+    "bestBHT": {
+        "bht": "The righteousness of the Father is witnessed by the fact that the world does not know Him, yet Jesus and His disciples have known Him. Though the world may despise or reject God, it does not take away from His righteousness. Jesus not only knew the Father, but He also communicated that knowledge to His disciples. The disciples had received this knowledge and entered into a love relationship with God, and it is fitting that they should obtain the glory prepared for them. Believers are admitted to God through Christ, and their access to Him flows from His justice.",
+        "wordCount": 99,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 1.7974065727120085,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+        "commentatorTierSimilarities": [
+            21.15,
+            29.86,
+            49.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Righteousness of the Father is witnessed by the beginning of Redemption before the foundation of the world.",
+            "The Righteousness of the Father is witnessed by...the fact of the world\u2019s not knowing the Father.",
+            "The final distinction made by His Justice between the world and His."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "O righteous Father, the world hath not known thee\u2014knew thee not.",
+            "but I have known thee\u2014knew thee.",
+            "and these have known\u2014knew."
+        ],
+        "Albert Barnes": [
+            "Hath not known thee - See the notes at John 17:3."
+        ],
+        "John Calvin": [
+            "By calling him Righteous Father, Christ defies the world and its malice; as if he had said, 'However proudly the world may despise or reject God, still it takes nothing from him, and cannot hinder the honor of his righteousness from remaining unimpaired.'\" ",
+            "Christ does not merely say that God was known by the disciples, but mentions two steps; first, that he has known the Father; and, secondly, that the disciples have known that he was sent by the Father.\" ",
+            "The Son came out of the bosom of the Father, and, properly speaking, he alone knows the Father; and, therefore, all who desire to approach God must betake themselves to Christ meeting them, and must devote themselves to him."
+        ],
+        "Philip Schaff": [
+            "It is just and right that those who have been prepared for the glory to be beheld should at last obtain it.",
+            "Because they had received this knowledge, therefore, it was fitting that the love into which, along with the knowledge, they had entered, should bring to them its full reward.",
+            "He who was human as well as Divine 'learned,' practically and experimentally, 'to know' the Father; and it was because He so learned that He was able to communicate that knowledge His own knowledge to His people."
+        ],
+        "Archibald T. Robertson": [
+            "The righteousness of God is appealed to like God's holiness.\" ",
+            "Though the world did not know thee, yet I knew thee, and these knew thee.",
+            "\u03ba\u03b1 is almost concessive like 'though' and \u03b4\u03b5=yet."
+        ],
+        "John Gill": [
+            "God is righteous in all the divine persons: the Father is righteous, the Son is righteous, and the Holy Spirit is righteous.",
+            "The world hath not known thee; the unbelieving Jews, and idolatrous Gentiles, wicked men, one or another, know not God.",
+            "But I have known thee; his nature, perfections and glory, his secret thoughts, purposes and designs, his covenant, promises and blessings, his love, grace and good will to his people, his whole mind and will."
+        ],
+        "John Wesley": [
+            "Righteous Father \u2014 The admission of believers to God through Christ, flows even from the justice of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The righteousness of the Father is witnessed by the fact that the world does not know Him, yet Jesus and His disciples have known Him. Though the world may despise or reject God, it does not take away from His righteousness. Jesus not only knew the Father, but He also communicated that knowledge to His disciples. The disciples had received this knowledge and entered into a love relationship with God, and it is fitting that they should obtain the glory that has been prepared for them. Believers are admitted to God through Christ, and their access to Him flows from the justice of God.",
+            "wordCount": 104,
+            "quoteTokenProportion": 55.22,
+            "qualityScore": 1.801199216813485,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.23,
+            "commentatorTierSimilarities": [
+                21.43,
+                29.12,
+                49.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The righteousness of the Father is witnessed by the fact that the world does not know Him, yet Jesus and His disciples have known Him. Though the world may despise or reject God, it does not take away from His righteousness. Jesus not only knew the Father, but He also communicated that knowledge to His disciples. The disciples had received this knowledge and entered into a love relationship with God, and it is fitting that they should obtain the glory prepared for them. Believers are admitted to God through Christ, and their access to Him flows from His justice.",
+            "wordCount": 99,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.7974065727120085,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+            "commentatorTierSimilarities": [
+                21.15,
+                29.86,
+                49.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The righteousness of the Father is revealed by the world's lack of knowledge of Him, while Jesus and His disciples have known Him intimately. Even though the world may reject God, His righteousness remains unimpaired. Jesus not only knew the Father, but He also shared that knowledge with His disciples. Through this knowledge and love relationship with God, the disciples are destined to receive the glory that has been prepared for them. Their access to God is made possible through Christ and is rooted in His justice.",
+            "wordCount": 88,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.7768370421009947,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.42,
+            "commentatorTierSimilarities": [
+                23.04,
+                29.5,
+                47.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The righteousness of the Father is manifested by the world's ignorance of Him, contrasting with Jesus and His disciples who have known Him intimately. Despite the world's rejection, God's righteousness remains unimpaired. Jesus not only knew the Father, but also imparted this knowledge to His disciples. Through their knowledge and loving relationship with God, the disciples are destined to receive the prepared glory. Their access to God is granted through Christ and is a reflection of His justice.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7257251305597379,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "commentatorTierSimilarities": [
+                23.83,
+                26.79,
+                49.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The righteousness of the Father is witnessed by the world's lack of knowledge of Him, contrasting with Jesus and His disciples who have known Him. Though the world may despise or reject God, it cannot diminish His righteousness. Jesus not only knew the Father, but also shared that knowledge. Through this knowledge and love relationship with God, the disciples are destined to obtain the glory prepared for them. Access to God is granted through Christ, reflecting His justice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.7758366396411294,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                23.67,
+                28.5,
+                47.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

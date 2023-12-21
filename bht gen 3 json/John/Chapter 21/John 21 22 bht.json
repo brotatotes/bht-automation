@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:15:47",
+    "verseRef": "John 21:22",
+    "bestBHT": {
+        "bht": "The rebuke given to Peter reminds believers to focus on their own journey instead of being curious about others. It highlights the authority of Jesus over human life and alludes to the significant events surrounding the destruction of Jerusalem. The verse emphasizes the need to trust in God's plan and prioritize following Jesus rather than being preoccupied with the circumstances and destinies of others. It serves as a reminder to stay faithful and obedient in one's own walk with Christ.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.572166144057938,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+        "commentatorTierSimilarities": [
+            27.98,
+            37.37,
+            34.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words what is that to thee? imply a rebuke;\u2014not perhaps however so sharp a one as has been sometimes seen in them.",
+            "His appointed lot is no element in thy onward course: it is ME that thou must follow.",
+            "At the destruction of Jerusalem began that mighty series of events of which the Apocalypse is the prophetic record, and which is in the complex known as the \u2018COMING OF THE LORD,\u2019 ending, as it shall, with His glorious and personal Advent."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From the fact that John alone of the Twelve survived the destruction of Jerusalem, and so witnessed the commencement of that series of events which belongs to 'the last days,' many good interpreters think that this is a virtual prediction of fact, and not a mere supposition.",
+            "It seems more natural to consider our Lord as intending to give no positive indication of John's fate at all, but to signify that this was a matter which belonged to the Master of both, who would disclose or conceal it as He thought proper, and that Peter's part was to mind his own affairs.",
+            "Observe the absolute disposal of human life which Christ claims: 'If I will that he tarry till I come,' &c."
+        ],
+        "Albert Barnes": [
+            "If I will that he should not die at all, it is nothing to thee.",
+            "Our main business is to follow the Lord Jesus Christ.",
+            "We should go forward to whatever he calls us to persecution or death - not envying the lot of any other man, and anxious only to do the will of God."
+        ],
+        "Marvin Vincent": [
+            "Till I come [\u03b5\u03c9\u03c2 \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9] . Rather, while I am coming. Compare John 9:4; John 12:35, John 12:36; 1 Timothy 4:13. ",
+            "What is that to thee [\u03c4\u03b9 \u03c0\u03c1\u03bf\u03c2 \u03c3\u03b5; ] ? Literally, what as concerns thee?"
+        ],
+        "John Calvin": [
+            "It is no concern of yours... think only about yourself, and prepare to follow where you are called.",
+            "Not that all anxiety about brethren is uncalled for, but it ought to have some limit, so that it may be anxiety, and not curiosity, that occupies our attention.",
+            "Let every man, therefore, look to his neighbors, if by any means he may succeed in drawing them along with him to Christ, and let not the offenses of others retard his own progress."
+        ],
+        "Archibald T. Robertson": [
+            "If I will (\u03b5\u03b1\u03bd \u03b8\u03b5\u03bb\u03c9). Condition of the third class with \u03b5\u03b1\u03bd and the present active subjunctive of \u03b8\u03b5\u03bb\u03c9.",
+            "Till I come (\u03b5\u03c9\u03c2 \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1). Literally, 'while I am coming' (\u03b5\u03c9\u03c2 and the present indicative, not \u03b5\u03c9\u03c2 \u03b5\u03bb\u03b8\u03c9 (second aorist active subjunctive).",
+            "What is that to thee? (\u03c4 \u03c0\u03c1\u03bf\u03c2 \u03c3\u03b5;). A sharp rebuke to Peter's keen curiosity."
+        ],
+        "John Gill": [
+            "If it was his pleasure that he should live, not till his second coming to judge the quick and dead at the last day, but till he should come in his power and take vengeance on the Jewish nation, in the destruction of their city and temple by the Romans, and in dispersing them through the nations of the world; till which time John did live, and many years after; and was the only one of the disciples that lived till that time, and who did not die a violent death; what was that to Peter? it was no concern of his.",
+            "The question was too curious, improper, and impertinent; it became him to attend only to what concerned himself, and he was bid to do.",
+            "It becomes the saints to mind their duty in following Christ, and not concern themselves in things that do not belong to them."
+        ],
+        "John Wesley": [
+            "Certainly he did tarry, till Christ came to destroy Jerusalem.",
+            "And who can tell, when or how he died?",
+            "What is that to thee? - Who art to follow me long before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse challenges Peter's curiosity about John's fate, reminding him that it is not his concern. Instead, his focus should be on following Jesus. This rebuke highlights the importance of minding one's own affairs and trusting in God's plan for others. The mention of the coming of the Lord refers to the events starting with the destruction of Jerusalem, leading to the glorious and personal Advent. Jesus asserts His authority over human life, indicating that John may live while Jesus is coming. Ultimately, the verse encourages believers to seek their own walk with Christ and not to be distracted by the fate or circumstances of others.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.5986185587624684,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                29.23,
+                37.98,
+                32.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rebuke towards Peter's curiosity about John's fate reminds believers that they must focus on following Jesus. It implies that individual destinies are in the hands of the Master alone. The mention of the coming of the Lord refers to the events surrounding the destruction of Jerusalem and the future Advent. Jesus' authority over human life is highlighted, as He states that John may live while He is coming. This verse urges believers to prioritize their own walk with Christ, rather than being consumed by the circumstances of others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.6113869021968554,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.92,
+            "commentatorTierSimilarities": [
+                32.68,
+                34.7,
+                32.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rebuke given to Peter's curiosity about John's fate emphasizes the need for believers to focus on following Jesus. It conveys that understanding one's own path and trusting in God's plan for others is key. The mention of the coming of the Lord refers to significant events starting with the destruction of Jerusalem. Jesus asserts His authority over human life by stating that John may live while He is coming. Ultimately, this verse encourages believers to prioritize their own spiritual journey rather than fixating on the circumstances or destinies of others.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.5851807199673527,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.05,
+            "commentatorTierSimilarities": [
+                32.09,
+                36.9,
+                31.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rebuke towards Peter's curiosity about John's fate reminds believers to focus on following Jesus. The mention of the coming of the Lord refers to the events surrounding the destruction of Jerusalem and the future Advent. Jesus asserts His authority over human life, stating that John may live while He is coming. This verse urges believers to prioritize their own walk with Christ, rather than being consumed by the circumstances of others. Trusting in God's plan and staying faithful to one's own journey is key.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.6044069966064725,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+            "commentatorTierSimilarities": [
+                30.67,
+                37.02,
+                32.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rebuke given to Peter reminds believers to focus on their own journey instead of being curious about others. It highlights the authority of Jesus over human life and alludes to the significant events surrounding the destruction of Jerusalem. The verse emphasizes the need to trust in God's plan and prioritize following Jesus rather than being preoccupied with the circumstances and destinies of others. It serves as a reminder to stay faithful and obedient in one's own walk with Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.572166144057938,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+            "commentatorTierSimilarities": [
+                27.98,
+                37.37,
+                34.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

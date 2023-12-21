@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:11:19",
+    "verseRef": "John 12:27",
+    "bestBHT": {
+        "bht": "In the face of death, Jesus finds himself torn between the horror it brings and the obedience he must show. His prayer is sincere, mirroring the Messianic prayers in the Psalms. Although the death of the cross is terrifying to his spirit, he knows that shrinking from subjection to the Father is even worse. He carefully considers both options, thinking aloud to reveal his deliberate and spontaneous choice. Amidst inward turmoil, Jesus ultimately surrenders to God's will, as his suffering ushers in triumph and glorifies the Father's name.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9141588325962267,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+        "commentatorTierSimilarities": [
+            38.85,
+            37.79,
+            23.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The horror of death and the ardour of obedience were in conflict.",
+            "The prayer is a veritable prayer; and answers to the prophetic Messianic prayers in the Psalms.",
+            "'I came to this hour for this very purpose,\u2014that I might be saved from this hour.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The death of the cross was, and could not but be, appalling to His spirit. But to shrink from absolute subjection to the Father, was worse still.\" ",
+            "In asking Himself, 'What shall I say?' He seems as if thinking aloud, feeling His way between two dread alternatives, looking both of them sternly in the face, measuring, weighing them, in order that the choice actually made might be seen, and even by himself the more vividly felt, to be a profound, deliberate, spontaneous election.\" ",
+            "What He recoils from is not subjection to His Father's will: but to show how tremendous a self-sacrifice that obedience involved, He first asks the Father to save Him from it, and then signifies how perfectly He knows that He is there for the very purpose of enduring it."
+        ],
+        "Albert Barnes": [
+            "On the decision of that moment - the fixed and unwavering purpose of the Son of God depended man's salvation. If Jesus had forsaken his purpose then, all would have been lost.",
+            "Shall I say, Father, save me? Shall I apply to God to rescue me? or shall I go forward to bear these trials?",
+            "As this was the design of his coming, as he did it deliberately - as the salvation of the world depended on it, he felt that it would not be proper to pray to be delivered from it."
+        ],
+        "Marvin Vincent": [
+            "His inward agitation did not arise from personal sorrow or sympathy, but from some shock to His moral and spiritual sense.",
+            "The shrinking from suffering belongs to the human personality of our Lord; but the prayer, save me from this hour, is not for deliverance from suffering, but for victory in the approaching trial.",
+            "For this cause. Explained by glorify thy name. For this use, namely, that the Father's name might be glorified."
+        ],
+        "John Calvin": [
+            "In his death we ought chiefly to consider his atonement, by which he appeased the wrath and curse of God, which he could not have done, without taking upon himself our guilt.",
+            "It was highly useful, and even necessary for our salvation, that the Son of God should have experience of such feelings.",
+            "If the dread of death had occasioned no uneasiness to the Son of God, which of us would have thought that his example was applicable to our case?"
+        ],
+        "Philip Schaff": [
+            "Because this is the moment of highest exaltation in the contemplation of the universal triumph symbolized in the coming of the Greeks, it is also that when all the intensity of suffering by which the triumph is procured is most present to the mind of Jesus.",
+            "And what shall I say? Not, What feelings shall I cherish at this hour, What mood of mind becomes the circumstances in which I am placed? but, How shall I find utterance for the emotions that now fill my heart?",
+            "Such a prayer is as consistent with His knowledge of 'the glory that should follow' as is Matthew 26:39 with Matthew 16:21. But the very prayer for deliverance is checked. 'For this cause' (that He may be delivered out of the hour) 'came I unto this hour:\u2019 the object of the hour of suffering is to bring triumph."
+        ],
+        "Archibald T. Robertson": [
+            "The soul (\u03c8\u03c5\u03c7\u03b7) here is synonymous with spirit (\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1) in John 13:21.\" ",
+            "While John proves the deity of Jesus in his Gospel, he assumes throughout his real humanity.\" ",
+            "Here as in Gethsemane the soul of Jesus instinctively and naturally shrinks from the Cross, but he instantly surrenders to the will of God in both experiences."
+        ],
+        "John Gill": [
+            "Now is my soul troubled...",
+            "shall I say, father, save me from this hour?",
+            "but for this cause came I unto this hour."
+        ],
+        "John Wesley": [
+            "And what shall I say? \u2014 Not what shall I choose? For his heart was fixed in choosing the will of his Father: but he laboured for utterance.\" ",
+            "Save me from this hour - For this cause I came - Into the world; for the sake of this hour (of suffering) seem to have glanced through his mind in one moment.",
+            "But human language could not so express it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the horror of death and the ardor of obedience are in conflict. The prayer is a genuine one and reflects the Messianic prayers in the Psalms. Jesus came to this hour for the very purpose of being saved from it. The death of the cross was appalling to His spirit, but to shrink from absolute subjection to the Father was worse. He carefully weighs the two alternatives, thinking aloud, to vividly show the profound, deliberate, and spontaneous election He makes. His inward agitation arises from some shock to His moral and spiritual sense. While Jesus naturally shrinks from the Cross, He instantly surrenders to the will of God. The prayer for deliverance is checked because the hour of suffering is intended to bring triumph and glorify the Father's name.",
+            "wordCount": 133,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 1.9118828854460959,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+            "commentatorTierSimilarities": [
+                41.1,
+                36.52,
+                22.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this hour, the horror of death and the ardor of obedience collide. The prayer is genuine, reflecting the Messianic prayers in the Psalms. Though the death of the cross appalled His spirit, shrinking from subjection to the Father was worse. Jesus carefully weighs the dread alternatives, thinking aloud to make a deliberate and spontaneous choice. His inward agitation arises from a shock to His moral and spiritual sense. While naturally shrinking from the Cross, Jesus instantly surrenders to the will of God, as the hour of suffering brings triumph and glorifies the Father's name.",
+            "wordCount": 96,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.8602879034069466,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                41.49,
+                35.06,
+                23.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of death, Jesus finds himself torn between the horror it brings and the obedience he must show. His prayer is sincere, mirroring the Messianic prayers in the Psalms. Although the death of the cross is terrifying to his spirit, he knows that shrinking from subjection to the Father is even worse. He carefully considers both options, thinking aloud to reveal his deliberate and spontaneous choice. Amidst inward turmoil, Jesus ultimately surrenders to God's will, as his suffering ushers in triumph and glorifies the Father's name.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9141588325962267,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                38.85,
+                37.79,
+                23.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this crucial moment, Jesus experiences conflict between the terror of death and the passion to obey. His prayer is not a mere formality, but a heartfelt one that echoes the Messianic prayers in the Psalms. Though the weight of the cross is agonizing, He realizes that resisting submission to the Father is even worse. He thoughtfully ponders the two options, audibly grappling with them to highlight the profound and deliberate choice He is about to make. Despite His inner turmoil, Jesus wholeheartedly embraces God's will, recognizing that His suffering will ultimately bring about victory and glorify the Father's name.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.9342891023996431,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                36.42,
+                39.12,
+                24.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of death, Jesus grapples with the conflicting emotions of horror and obedience. His sincere prayer reflects the Messianic prayers in the Psalms, as He acknowledges His purpose in coming to endure this hour. While the death of the cross is terrifying to His spirit, He understands that resisting subjection to the Father would be even worse. Jesus thoughtfully weighs the two alternatives, audibly contemplating them to highlight the profound and deliberate choice He is about to make. Though inwardly troubled, He humbly surrenders to God's will, knowing that His suffering will lead to triumph and bring glory to the Father's name.",
+            "wordCount": 106,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 2.0658977502687677,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+            "commentatorTierSimilarities": [
+                37.17,
+                38.35,
+                24.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

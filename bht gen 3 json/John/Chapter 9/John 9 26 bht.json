@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:09:24",
+    "verseRef": "John 9:26",
+    "bestBHT": {
+        "bht": "The youth remained unfazed by the relentless questioning of the religious leaders, who sought to trap him or provoke him into contradicting himself. Their repeated inquiries about Jesus' actions on the Sabbath demonstrated their ulterior motives rather than a genuine search for truth. Despite their efforts, the blind man stood firm and resolute, refusing to deny the reality of Jesus' miraculous healing. This account highlights the boldness and unwavering faith of the blind man, serving as a testament to God's grace and strength working in him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.3,
+        "qualityScore": 1.6735034155653876,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+        "commentatorTierSimilarities": [
+            28.84,
+            33.92,
+            37.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] They perhaps are trying to shake his evidence,\u2014or to make him state something which should bring out some stronger violation of the sabbath."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The youth is more than a match for them.",
+            "Hoping by repeated questions to ensnare him.",
+            "What did he to thee?"
+        ],
+        "Albert Barnes": [
+            "The reason why they asked this so often was doubtless to attempt to draw him into a contradiction.",
+            "But God gave to this poor man grace and strength to make a bold confession of the truth.",
+            "Sufficient common sense completely to confound his proud and subtle examiners."
+        ],
+        "John Calvin": [
+            "When we see wicked men so delighted in performing their own base actions, we ought to be ashamed of our slothfulness, in acting with such coolness about the affairs of Christ.",
+            "Though they search on all sides to obtain grounds of slander, the Lord defeats their attempts, in a remarkable manner, by the unshaken firmness of the blind man.",
+            "If that which was nothing more than a small preparation for faith gave him so much boldness, when he came to the struggle, what excuse can be pleaded by great preachers of the Gospel, who, though they are beyond the reach of darts, are silent as soon as danger is threatened?"
+        ],
+        "Philip Schaff": [
+            "Every attempt to overthrow the fact has failed: possibly renewed inquiry as to the mode of cure may disclose something that may be used against Jesus.",
+            "But the man has now perceived their design: they are not seeking the truth.",
+            "He will be the tool of no such judges as they are proving themselves to be."
+        ],
+        "Archibald T. Robertson": [
+            "What did he do to thee?\" - Another cross-examination, now admitting that Jesus opened his eyes and wishing again to know \"how.\" "
+        ],
+        "John Gill": [
+            "Finding they could not bring him to deny the fact, or cause him to entertain an ill opinion of him that did it...\" ",
+            "...they examine him again about the manner of it: what did he to thee? how opened he thine eyes?",
+            "...they were always ready to charge him with, and to impute his miracles to a diabolical familiarity and influence; and they would have been glad to have had something to support such a calumny."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders were relentless in their questioning, hoping to trap the young man into saying something that would further expose Jesus as a sabbath-breaker. However, the youth proved to be more than a match for them, not succumbing to their repeated questioning. He recognized their ulterior motives and refused to be swayed by their attempts to undermine Jesus. The blind man's firmness and bold confession of the truth demonstrated God's grace and strength in him. Despite the religious leaders' desperate search for grounds to slander Jesus, they found themselves defeated by the unwavering testimony of the blind man. This interaction serves as a reminder for us to be diligent and not be ashamed or silent when it comes to standing up for Christ, especially when faced with opposition and danger.",
+            "wordCount": 134,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5752047803767792,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                24.04,
+                37.16,
+                38.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The relentless religious leaders continuously questioned the young man, hoping to ensnare him or elicit a contradictory statement regarding Jesus' actions on the Sabbath. However, the youth's unwavering testimony and perception of their ulterior motives left them confounded and unable to bring him to deny the truth. The firmness and bold confession of the blind man reflected God's grace and strength in him, while simultaneously exposing the religious leaders' desperate attempts to slander Jesus. This encounter serves as a powerful reminder to boldly stand up for Christ without fear, even in the face of opposition and danger.",
+            "wordCount": 99,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.5871042723772306,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                24.45,
+                36.19,
+                39.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The youth remained unfazed by the relentless questioning of the religious leaders, who sought to trap him or provoke him into contradicting himself. Their repeated inquiries about Jesus' actions on the Sabbath demonstrated their ulterior motives rather than a genuine search for truth. Despite their efforts, the blind man stood firm and resolute, refusing to deny the reality of Jesus' miraculous healing. This account highlights the boldness and unwavering faith of the blind man, serving as a testament to God's grace and strength working in him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.6735034155653876,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                28.84,
+                33.92,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The relentless religious leaders relentlessly questioned the youth, trying to trip him up or force him to say something that would incriminate Jesus. However, the youth was clever enough to see through their ulterior motives and refused to be manipulated. With unwavering resolve, he boldly confessed the truth, demonstrating the grace and strength given to him by God. The religious leaders' desperate attempts to undermine Jesus were in vain as the blind man's unwavering testimony stood firm. This serves as an example for us to boldly defend our faith, even in the face of opposition.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6085671438262963,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                25.25,
+                36.61,
+                38.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The relentless religious leaders attempted to ensnare the youth, repeatedly questioning him in hopes of finding a contradiction. Yet, the youth's astuteness and unwavering testimony thwarted their efforts. Recognizing their ulterior motives, he refused to deny the truth about Jesus' miraculous healing. Through his bold confession, he exemplified the grace and strength bestowed upon him by God. The religious leaders' relentless pursuit to slander Jesus was in vain, as the blind man's steadfastness exposed their true intentions. This account serves as a reminder to boldly defend and stand firm in our faith, regardless of opposition.",
+            "wordCount": 97,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 1.5108557950640034,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.58,
+            "commentatorTierSimilarities": [
+                23.34,
+                38.38,
+                38.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

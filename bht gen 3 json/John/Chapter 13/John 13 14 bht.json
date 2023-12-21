@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:11:41",
+    "verseRef": "John 13:14",
+    "bestBHT": {
+        "bht": "This command goes beyond the literal act of foot-washing, instead requiring mutual condescension and help in various forms of service. The ceremonial washing of feet did not exist until the fourth century, but we are under a debt of ministry due to Jesus' ministry to us. We are called to serve and care for one another in the humblest ways, fulfilling this mutual obligation. As disciples, we ought to wash each other's feet by performing all sorts of good offices and acts of love.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.877968326713849,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.78,
+        "commentatorTierSimilarities": [
+            32.99,
+            38.82,
+            28.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The command will rather find its fulfillment in all kinds of mutual condescension and help, than in any literal observance.",
+            "In these times... it would be a more wonderful thing to see a pontiff, for example, wash the feet of one equal, than of twelve poor beggars.",
+            "The custom of literally and ceremonially washing the feet in obedience to this command, is not found before the fourth century."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If I then\u2014the Lord.",
+            "ought to wash one another's feet\u2014not in the narrow sense of a literal washing, profanely caricatured by popes and emperors",
+            "but by the very humblest real services one to another."
+        ],
+        "Marvin Vincent": [
+            "Jesus here puts the obligation to ministry as a debt under which His disciples are laid by His ministry to them.\" ",
+            "The word ought is the past tense of owe.",
+            "Dei, ought or must (see John 3:7, John 3:14, John 3:30, etc.) expresses an obligation in the nature of things; ojfeilein, a special, personal obligation."
+        ],
+        "John Calvin": [
+            "Pride hinders us from maintaining that equality which ought to exist amongst us.",
+            "Christ, who is far exalted above all others, stoops down, that he may make the proud men ashamed.",
+            "The man who does not think of associating with weak brethren...claims more than he has a right to claim, and has too high an opinion of himself."
+        ],
+        "Philip Schaff": [
+            "If I therefore, the Lord and the Master, have washed your feet, ye also ought to wash one another\u2019s feet.\" ",
+            "They, then, were to wash one another\u2019s feet when He would no longer be beside them to do so: they could not bathe one another, make one another \u2018clean;\u2019 but this they could do in self-denying love and fellowship.",
+            "They could restore one another\u2019s failing faith and love by ever-renewed manifestations of that love to one another which, springing from the love of Jesus, leads back to Him."
+        ],
+        "Archibald T. Robertson": [
+            "If I, being what I am, washed your feet\" (as I did).",
+            "The obligation rests on you a fortiori.",
+            "The mutual obligation is to do this or any other needed service."
+        ],
+        "John Gill": [
+            "Christ argues from these titles and characters, which his disciples rightly gave him, and from what he had done to them, though he stood in such a superior relation to them, to their duty one towards another.",
+            "He would teach them hereby, to behave in a spirit of humility and condescension to one another.",
+            "He would teach them to do every kind and good office, and by love to serve one another in all things."
+        ],
+        "John Wesley": [
+            "He designed to teach them the great lesson of humble love, as well as to confer inward purity upon them.\" ",
+            "In every possible way to assist each other in attaining that purity.\" ",
+            "To wash each other's feet, by performing all sorts of good offices to each other, even those of the lowest kind, when opportunity serves, and the necessity of any calls for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The command in this verse goes beyond the literal act of foot-washing - it calls for mutual condescension and help. While the ceremonial washing of feet did not exist until the fourth century, the true fulfillment of this command lies in humble service and ministry to one another. Jesus, as the Lord, set an example for his disciples to follow by washing their feet. The obligation to ministry is a debt under which we are laid by his ministry to us. It is a personal and special obligation that we owe to one another, to serve and care for each other in the humblest ways.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.834470210273258,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                35.87,
+                36.47,
+                27.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fulfillment of this command lies in mutual condescension and help, not in a literal observance. The custom of ceremonially washing feet did not exist until the fourth century, but the obligation to ministry is a debt under which we are laid by the ministry of Jesus to us. We are called to serve and care for one another in the humblest ways, performing all sorts of good offices and even the lowest kinds of service.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.739765614868323,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                38.39,
+                31.54,
+                30.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The command in this passage extends beyond the literal act of foot-washing into a call for mutual condescension and help. The obligation to ministry, as a debt under which we are laid by Jesus' ministry to us, involves the humblest real services we can offer one another. It is not about a narrow interpretation of a literal washing, but about genuine acts of service and care. As disciples, we are called to wash one another's feet, to perform any needed service, and to fulfill this mutual obligation to ministry.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.814250890694763,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.67,
+            "commentatorTierSimilarities": [
+                38.85,
+                35.3,
+                25.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The command in this verse exceeds mere foot-washing, requiring mutual condescension and help. The ceremonial washing of feet did not exist until the fourth century, but the obligation to ministry is a debt under which we are laid by Jesus' ministry to us. We are called to serve and care for one another in the humblest real services, fulfilling this mutual obligation. As disciples, we must wash each other's feet, perform acts of humble love, and assist one another in attaining purity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.937498446816564,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                31.97,
+                37.53,
+                30.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This command goes beyond the literal act of foot-washing, instead requiring mutual condescension and help in various forms of service. The ceremonial washing of feet did not exist until the fourth century, but we are under a debt of ministry due to Jesus' ministry to us. We are called to serve and care for one another in the humblest ways, fulfilling this mutual obligation. As disciples, we ought to wash each other's feet by performing all sorts of good offices and acts of love.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.877968326713849,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.78,
+            "commentatorTierSimilarities": [
+                32.99,
+                38.82,
+                28.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

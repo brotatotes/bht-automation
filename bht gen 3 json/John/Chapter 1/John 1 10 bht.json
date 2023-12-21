@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:04:04",
+    "verseRef": "John 1:10",
+    "bestBHT": {
+        "bht": "He came into the created world, which He Himself made, but it failed to recognize Him. The compact simplicity and sonorousness of this statement reflect the profound truth that the Creator walked amidst His creation, healing the sick, raising the dead, and revealing the secrets of the human heart. Despite His continuous existence in the universe before His incarnation, the world remained unaware. This verse starkly exposes the ingratitude and blindness of humanity, who failed to acknowledge the source of their existence and blessings.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.9547667294424766,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+        "commentatorTierSimilarities": [
+            30.64,
+            37.86,
+            31.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The world is the created world, into which He came (ver. 9), which was made by Him (ver. 3), which nevertheless knew, recognized Him not.",
+            "He was in the world (and therefore the world should have known Him), and the world was made by Him (much more then should it have known Him), and the world knew Him not.",
+            "The three members of the sentence form a climax."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Observe its compact simplicity, its sonorousness...\" (Commentary)",
+            "The most vivid commentary on this entire verse will be got by tracing (in His matchless history) Him of whom it speaks walking amidst all the elements of nature, the diseases of men and death itself, the secrets of the human heart...\" (Commentary)",
+            "And this is He of whom it is added, 'the world knew Him not!'\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "He was in the world - This refers, probably, not to his pre-existence, but to the fact that he became incarnate; that he dwelt among human beings.",
+            "And the world was made by him - This is a repetition of what is said in John 1:3. Not only 'men,' but all material things, were made by him.",
+            "The world knew him not - The word 'knew' is sometimes used in the sense of 'approving' or 'loving'. The world did not love or approve him, but rejected him and put him to death."
+        ],
+        "John Calvin": [
+            "He accuses men of ingratitude, because of their own accord, as it were, they were so blinded, that the cause of the light which they enjoyed was unknown to them.\" ",
+            "What can be more unreasonable than to draw water from a running stream, and never to think of the fountain from which that stream flows?",
+            "The whole may be summed up by saying, that never was Christ in such a manner absent from the world, but that men, aroused by his rays, ought to have raised their eyes towards him."
+        ],
+        "Philip Schaff": [
+            "He was in the world, and the world came into being through him, and the world knew him not."
+        ],
+        "Archibald T. Robertson": [
+            "Imperfect tense of continuous existence in the universe before the Incarnation as in verses John 1:1; John 1:2.",
+            "\"Through him.\" Same statement here of \"the world\" (\u03bf \u03ba\u03bf\u03c3\u03bc\u03bf\u03c2) as that made in verse John 1:3 of \u03c0\u03b1\u03bd\u03c4\u03b1.",
+            "Not only did the world fail to know the Pre-incarnate Logos, but it failed to recognize him when he became Incarnate (John 1:26)."
+        ],
+        "John Gill": [
+            "He was in the world, when first made, and since, by his essence, by which he fills the whole world; and by his power, upholding and preserving it; and by his providence, ordering and managing all the affairs of it, and influencing and governing all things in it.\" ",
+            "He was frequently visible in the world, in a human form, before his incarnation, as in Eden's garden to our first parents, to Abraham, Jacob, Manoah, and his wife, and others.",
+            "The inhabitants of the world knew him not as their Creator: nor did they acknowledge the mercies they received from him; nor did they worship, serve, and obey him, or love and fear him."
+        ],
+        "John Wesley": [
+            "He was in the world \u2014 Even from the creation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He was in the world, the world that He Himself created, and yet the world did not recognize Him. The compact simplicity and sonorousness of this verse reflect the remarkable truth that the Creator was walking amidst His creation, healing the sick, raising the dead, and revealing the secrets of the human heart. It is astonishing that the world failed to know Him, both before His incarnation and even when He walked among them in human form. This verse serves as a powerful reminder of the ingratitude and blindness of humanity, who drew water from the running stream but failed to acknowledge the fountain from which it flowed.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 2.1792200535784714,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                28.78,
+                39.66,
+                31.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He walked among the very world that he himself had created, and yet the world remained oblivious to his presence. The simplicity and sonorousness of this statement highlight the profound truth of the Creator's interaction with his creation, performing miracles and unveiling the depths of human hearts. It is astonishing that the world failed to recognize him, both before and during his incarnation. This verse serves as a poignant reminder of humanity's ingratitude and blindness, drawing from the flowing stream without acknowledging its divine source.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.927088351949289,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                29.34,
+                37.8,
+                32.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He came into the created world, which He Himself made, but it failed to recognize Him. The compact simplicity and sonorousness of this statement reflect the profound truth that the Creator walked amidst His creation, healing the sick, raising the dead, and revealing the secrets of the human heart. Despite His continuous existence in the universe before His incarnation, the world remained unaware. This verse starkly exposes the ingratitude and blindness of humanity, who failed to acknowledge the source of their existence and blessings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.9547667294424766,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                30.64,
+                37.86,
+                31.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He entered into the world He Himself created, yet the world did not recognize Him. The profound simplicity and sonorousness of these words reveal the Creator's presence walking amidst His creation, performing miracles and unveiling the deepest truths of the human heart. The world, however, remained oblivious, failing to acknowledge Him even in His various appearances. This verse serves as a stark reminder of humanity's ingratitude and blindness, neglecting to recognize the very One from whom all blessings flow.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8516539216905603,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                32.51,
+                37.1,
+                30.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He came into the world He Himself made, yet it did not know Him. The profound simplicity and sonorousness of this statement reveal the Creator's presence walking amidst His creation, performing miracles, and unveiling the hidden depths of the human heart. Astonishingly, the world failed to recognize Him, both before His incarnation and during His time on Earth. This passage serves as a poignant reminder of humanity's ingratitude and blindness, drawing from the flowing stream without acknowledging the fountain from which it comes.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.91628642845288,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                28.89,
+                38.59,
+                32.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

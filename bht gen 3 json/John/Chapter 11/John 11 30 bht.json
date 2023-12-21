@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-21-2023 03:10:18",
+    "verseRef": "John 11:30",
+    "bestBHT": {
+        "bht": "Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.83,
+        "qualityScore": 1.3885877123377914,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+        "commentatorTierSimilarities": [
+            34.68,
+            18.83,
+            46.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "28-32. The Master is come and",
+            "\tcalleth for thee\u2014The narrative does not give us this",
+            "\tinteresting detail, but Martha's words do."
+        ],
+        "Philip Schaff": [
+            "Avoiding the presence of 'the Jews,' so painful and incongruous at such a time.\" ",
+            "This verse is purely parenthetical."
+        ],
+        "Archibald T. Robertson": [
+            "Martha had her interview while he was still coming.\" ",
+            "Martha... left him to hurry to Mary with the news.\" ",
+            "Why Jesus tarried still where he had met Martha we do not know."
+        ],
+        "John Gill": [
+            "Now Jesus was not yet come into the town...but stayed without...\" ",
+            "but was in that place where Martha met him; here he stopped, and here he continued...",
+            "he chose it for the reason above given."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. After speaking with Jesus, Martha immediately left to inform Mary. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.",
+            "wordCount": 107,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.3974964988176997,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.81,
+            "commentatorTierSimilarities": [
+                38.6,
+                16.29,
+                45.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.3885877123377914,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                34.68,
+                18.83,
+                46.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Martha's words reveal that Jesus had come and asked for her, even though the narrative doesn't mention it explicitly. It is interesting to note that Martha's meeting with Jesus occurred while he was still on his way. The reason why Jesus stayed where he met Martha is uncertain. Some speculate that he may have wanted to avoid the presence of the Jews, while others believe that he chose to stay there intentionally. In any case, Jesus had not yet entered the town but chose to remain at the place where Martha had encountered him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.3885877123377914,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                34.68,
+                18.83,
+                46.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Martha's encounter with Jesus reveals that he had come and called for her, even though it is not explicitly mentioned in the narrative. It is interesting to consider that this meeting took place while Jesus was still on his way. The reason for Jesus staying at the meeting place is uncertain, with some speculating that he may have wanted to avoid the presence of the Jews, while others believe that he intentionally chose to remain there. Regardless, Jesus had not yet entered the town, preferring to stay at the spot where Martha had initially met him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.3272706412728372,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.47,
+            "commentatorTierSimilarities": [
+                29.59,
+                21.65,
+                48.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Martha's encounter with Jesus unveils the fact that he had come and called for her, despite the narrative omitting this detail. Notably, their meeting transpired while Jesus was still on his way. The reason behind Jesus staying at the place where he met Martha remains uncertain. Some suggest avoiding the presence of the Jews, while others propose a deliberate choice. Ultimately, Jesus did not enter the town, opting to remain at the spot where Martha had encountered him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.311286075192206,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.94,
+            "commentatorTierSimilarities": [
+                32.32,
+                24.0,
+                43.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

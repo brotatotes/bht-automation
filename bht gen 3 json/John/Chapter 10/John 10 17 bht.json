@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:09:57",
+    "verseRef": "John 10:17",
+    "bestBHT": {
+        "bht": "The profound love between the Father and the Son is unveiled in this mystery. The Son's act of laying down His life for His sheep is the ultimate expression of His love and obedience to the Father. Christ's atoning death holds immense value because He is the sinless Son of God offering Himself willingly. Beyond the cross, His resurrection plays a vital role in accomplishing His redemptive purpose. Through His death and resurrection, both our salvation and His exaltation are secured.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.188199090126549,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.1,
+        "commentatorTierSimilarities": [
+            34.52,
+            34.43,
+            31.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The speaking in allegories is now over, and He speaks plainly,\u2014My Father.",
+            "In this wonderful verse lies the mystery of the love of the Father for the Son.",
+            "The that here is strictly of the ultimate purpose, in order that."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Therefore doth my Father love me, because I lay down my life, &c.\" ",
+            "As the highest act of the Son's love to the Father was the laying down of His life for the sheep at His 'commandment,' so the Father's love to Him as His incarnate Son reaches its consummation, and finds its highest justification, in that sublimest and most affecting of all acts.",
+            "that I might take it again\u2014His resurrection-life being indispensable to the accomplishment of the fruit of His death."
+        ],
+        "Albert Barnes": [
+            "I offer myself a sacrifice to show the willingness of my Father to save them; to provide an atonement, and thus to open the way for their salvation.",
+            "This proves that the salvation of man was an object dear to God.",
+            "It was a source of special gratification to him that his Son was willing to lay down his life to accomplish his great purposes of benevolence."
+        ],
+        "John Calvin": [
+            "We need not wonder if he declares it to be the reason why the Father loveth him, that our salvation is dearer to him than his own life.",
+            "This is a wonderful commendation of the goodness of God to us, and ought justly to arouse our whole souls into rapturous admiration, that not only does God extend to us the love which is due to the only-begotten Son, but he refers it to us as the final cause.",
+            "And even at the present day, we ought to contemplate the death of Christ, so as to remember, at the same time, the glory of his resurrection."
+        ],
+        "Philip Schaff": [
+            "The perfect conformity to the Father\u2019s will is shown not in laying down the life only, but also in taking it again.",
+            "He died that His own may ever live in His life.",
+            "If the Father\u2019s love can rest on the Son who is obedient even unto death, and unto life through death, it is essential that the obedience be entirely free."
+        ],
+        "Archibald T. Robertson": [
+            "The value of the atoning death of Christ lies in the fact that he is the Son of God, the Son of Man, free of sin, and that he makes the offering voluntarily.",
+            "He looked beyond his death on the Cross to the resurrection.",
+            "The purpose of the Passion was not merely to exhibit his unselfish love; it was in order that He might resume His life, now enriched with quickening power as never before."
+        ],
+        "John Gill": [
+            "Christ was the object of his Father's love from all eternity, and was loved by him on various accounts.",
+            "He loved him on this account; the bruising of him was a pleasure to him, not for the sake of that itself, but because hereby his counsels and decrees were accomplished, his covenant fulfilled, and the salvation of his people obtained.",
+            "And the laying down his life on this account, was not only well pleasing to his Father, but likewise was done, with the following view; or at least this was the event of it, that I might take it again."
+        ],
+        "John Wesley": [
+            "I lay down my life that I may take it again \u2014 I cheerfully die to expiate the sins of men, to the end I may rise again for their justification."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The love between the Father and the Son is a deep mystery revealed in John 10:17. The Son's ultimate act of love was laying down His life for His sheep at the commandment of His Father. The Father's love for the Son, as His incarnate Son, reaches its highest point in this act. The value of Christ's atoning death lies in His identity as the sinless Son of God, willingly offering Himself as a sacrifice. This act of love goes beyond the cross, looking toward the resurrection, for His death and resurrection are intricately connected. The Son's willingness to lay down His life is a reflection of His perfect submission to the Father's will. Ultimately, Christ's death and resurrection secure not only our salvation, but also His own glorification and exaltation.",
+            "wordCount": 136,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2696176959832632,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.81,
+            "commentatorTierSimilarities": [
+                34.76,
+                34.38,
+                30.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The profound love between the Father and the Son is unveiled in this verse. The Son's self-sacrificial act of laying down His life for His sheep demonstrates the depths of this divine love. The true value of Christ's atoning death lies in His identity as the sinless Son of God, offering Himself voluntarily. This act of love not only displays Christ's obedience to the Father but also looks forward to His resurrection, which is essential for the fulfillment of His saving work. Through His death and resurrection, both our salvation and His supreme glorification are secured.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.249715984868054,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+            "commentatorTierSimilarities": [
+                34.28,
+                34.11,
+                31.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The deep love between the Father and the Son is a profound mystery revealed here. The Son's act of laying down His life for His sheep reflects the highest act of love and obedience. The value of Christ's atoning death lies in His identity as the sinless Son of God, willingly offering Himself as a sacrifice. This act of self-sacrifice looks beyond the cross to the resurrection, which is essential for the fulfillment of His redemptive purpose. Through His death and resurrection, both our salvation and His exaltation are accomplished.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.158990665706688,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.13,
+            "commentatorTierSimilarities": [
+                34.44,
+                34.21,
+                31.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The true depth of the love between the Father and the Son is unveiled in this verse. The Son's act of self-sacrifice in laying down His life for His sheep is the ultimate display of His love and obedience to the Father. The value of Christ's atoning death lies in His identity as the sinless Son of God, willingly offering Himself as a sacrifice to accomplish the Father's purposes. Moreover, the resurrection is crucial for the fulfillment of His redemptive mission. Ultimately, through His death and resurrection, both our salvation and His glorification are accomplished.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.250068773750921,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                34.34,
+                34.29,
+                31.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The profound love between the Father and the Son is unveiled in this mystery. The Son's act of laying down His life for His sheep is the ultimate expression of His love and obedience to the Father. Christ's atoning death holds immense value because He is the sinless Son of God offering Himself willingly. Beyond the cross, His resurrection plays a vital role in accomplishing His redemptive purpose. Through His death and resurrection, both our salvation and His exaltation are secured.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.188199090126549,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.1,
+            "commentatorTierSimilarities": [
+                34.52,
+                34.43,
+                31.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

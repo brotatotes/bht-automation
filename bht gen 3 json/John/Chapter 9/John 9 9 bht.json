@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-21-2023 03:09:06",
+    "verseRef": "John 9:9",
+    "bestBHT": {
+        "bht": "The use of the strong demonstrative \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 emphasizes the central role of the blind man in this exchange. Amidst doubts and disagreement about his identity, he firmly proclaims, I am he, effectively resolving the dispute. This encounter underscores the extent to which the miraculous healing became well-known and firmly established. Those who have experienced the transformative power of God's grace are similarly eager to openly acknowledge their previous state of brokenness.",
+        "wordCount": 73,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.1490978854403824,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.55,
+        "commentatorTierSimilarities": [
+            36.93,
+            24.93,
+            38.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He said [\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2] . The strong demonstrative throws the man into strong relief as the central figure."
+        ],
+        "Philip Schaff": [
+            "Others said, It is he: others said, No, but he is like him.\" ",
+            "He said, I am he.\" ",
+            "The object of this verse and the last is to show how notorious the cure became, and how firmly the fact had been established."
+        ],
+        "Archibald T. Robertson": [
+            "Nay but he is like him.\" ",
+            "Vigorous denial (\u03bf\u03c5\u03c7) and mere similarity suggested.\" ",
+            "Emphatic demonstrative (as in John 9:11; John 9:12; John 9:25; John 9:36), 'That one spake up.' He knew."
+        ],
+        "John Gill": [
+            "What is come to such an one? is he mad or melancholy? he is not the man he was: he is scarcely the same; is it he, or another? what is the matter with him?",
+            "[But] he said, I am [he]; and so put an end to the dispute between them, by his frank acknowledgment that he was the blind man, and the beggar they before knew as such.",
+            "So persons enlightened by the Spirit of God, and effectually called by his grace, are very free and ready to acknowledge what they were before conversion, what poor, blind, and miserable, and contemptible creatures they were."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man who was blind, mentioned in John 9:9, stands out as a central figure in this verse. It is clear that there was a strong denial and disagreement among others regarding his identity. However, he confidently asserts, I am he, ending the dispute. This encounter demonstrates how well-known and firmly established the miraculous healing was. Just as this man openly acknowledged his previous state of blindness, those who have been transformed by the Spirit of God readily confess their former brokenness and recognize the immense grace they have received.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.2004520978809439,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.26,
+            "commentatorTierSimilarities": [
+                31.49,
+                28.74,
+                39.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The strong demonstrative used in this passage focuses attention on the man who was blind. Others dispute his identity, raising questions about whether he is the same person. In response, the man confidently affirms, I am he, settling the dispute. This interaction highlights the widespread recognition and acceptance of his miraculous healing. Similarly, individuals who have been touched by the Spirit of God readily acknowledge their former condition and the transformative grace that has brought them new life.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.0800941046578176,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.26,
+            "commentatorTierSimilarities": [
+                31.07,
+                24.96,
+                43.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The emphatic demonstrative used in this verse draws attention to the blind man, placing him at the center of the discussion. Others question whether he is truly the same person, expressing doubt and disbelief. However, he confidently asserts, I am he, bringing an end to the dispute. This encounter serves to highlight the widespread recognition and acceptance of the miraculous healing. It also parallels the humble acknowledgment of one's former state and the transformative power of God's grace in the lives of believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.1133607146365525,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.36,
+            "commentatorTierSimilarities": [
+                30.35,
+                30.71,
+                38.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The strong demonstrative \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 used prominently in this encounter brings the blind man to the forefront, emphasizing his significant role. As doubts arise about his identity, he confidently declares, I am he, putting an end to the dispute. This incident highlights the widespread acknowledgment of the powerful healing he experienced. In a similar way, those enlightened by the Spirit and transformed by God's grace readily testify to their former brokenness and the amazing change they have undergone.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.1283961489612533,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.86,
+            "commentatorTierSimilarities": [
+                38.96,
+                21.94,
+                39.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The use of the strong demonstrative \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 emphasizes the central role of the blind man in this exchange. Amidst doubts and disagreement about his identity, he firmly proclaims, I am he, effectively resolving the dispute. This encounter underscores the extent to which the miraculous healing became well-known and firmly established. Those who have experienced the transformative power of God's grace are similarly eager to openly acknowledge their previous state of brokenness.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.1490978854403824,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.55,
+            "commentatorTierSimilarities": [
+                36.93,
+                24.93,
+                38.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

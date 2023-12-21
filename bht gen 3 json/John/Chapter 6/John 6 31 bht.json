@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:07:14",
+    "verseRef": "John 6:31",
+    "bestBHT": {
+        "bht": "The people, in comparing Jesus' miracle of the loaves to Moses' miracle of the manna, insinuate the inferiority of Jesus' miracle. They fail to remember that their ancestors doubted Moses despite being provided with bread from heaven daily throughout their journey. By claiming to be the Messiah, Jesus offers bread for eternal life that surpasses the temporal bread their fathers consumed. Jesus challenges them to recognize the spiritual food He provides, condemning their desire for earthly sustenance.",
+        "wordCount": 77,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.3697004604081693,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.13,
+        "commentatorTierSimilarities": [
+            38.93,
+            28.26,
+            32.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The manna was extolled by the Jews, as the greatest miracle of Moses.",
+            "They forgot that their fathers disbelieved Moses almost from the time when they began to eat the manna.",
+            "They despised the manna, and preferred ordinary meat to it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When Moses claimed the confidence of the fathers, 'he gave them bread from heaven to eat'\u2014not for a few thousands, but for millions, and not once only, but daily throughout their wilderness journey.",
+            "insinuating the inferiority of Christ's miracle of the loaves to those of Moses",
+            "the inferiority of Christ's miracle of the loaves"
+        ],
+        "Albert Barnes": [
+            "The manna which is sold in the shops of druggists is a different substance from this. It is obtained from the bark of certain trees in Armenia, Georgia, Persia, and Arabia.",
+            "The Jews, as appears from their writings (see Lightfoot), expected that the Messiah would provide his followers with plenty of delicious food.",
+            "They supposed that Christ would make provision for the temporal wants of his friends. This was the sign, probably, which they were now desirous of seeing."
+        ],
+        "Marvin Vincent": [
+            "As the first Redeemer made the manna to descend, as it is written, 'Behold I will rain bread from heaven for you'; so the later Redeemer also shall make the manna to descend.\" ",
+            "May there be abundance of corn in the earth."
+        ],
+        "John Calvin": [
+            "Thus we see that Christ put his finger on the sore, when he told them that they came like brute beasts to fill their belly.",
+            "And as to the magnificent terms in which they extol the grace of God in the manna, they do this cunningly, in order to bury the doctrine of Christ, by which he condemned them for immoderate desire of corruptible food.",
+            "They are without excuse, when they wickedly reject the spiritual food of the soul, which God now offers to them."
+        ],
+        "Philip Schaff": [
+            "The bread with which they themselves had just been fed, though marvellously increased in quantity, was still natural bread, the bread of earth: \u2018bread out of heaven\u2019 was the proof received by their fathers that their Benefactor was the God of heaven.\" ",
+            "The change is important, because it points more distinctly to the source of the supply and not its quality only, and because the expression \u2018out of heaven\u2019 is taken up by our Lord and used by Him with marked emphasis.\" ",
+            "What similar evidence could Jesus offer?"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus was claiming to be the Messiah and able to give bread for eternal life.",
+            "The key to the understanding of the whole situation is an acquaintance with the national expectation of the greater Moses.",
+            "Their plea is that Moses gave us bread 'from heaven.' Can Jesus equal that deed of Moses?"
+        ],
+        "John Gill": [
+            "Our fathers did eat manna in the wilderness...which was a small round thing...like bdellium...it was prepared, and got ready for the Israelites...what is it?...food peculiar to them."
+        ],
+        "John Wesley": [
+            "Our fathers ate manna \u2014 This sign Moses gave them.",
+            "He gave them bread from heaven \u2014 From the lower sublunary heaven",
+            "to which Jesus opposes the highest heaven: in which sense he says seven times... that he himself came down from heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people, comparing Jesus' miracle of the loaves to Moses' miracle of the manna, subtly imply that Jesus' miracle is inferior. However, they forget that their ancestors doubted Moses even though he provided them with bread from heaven daily throughout their journey. Jesus, in claiming to be the Messiah, is offering bread for eternal life, surpassing the temporal bread their fathers ate. The people's plea for a sign is driven by their expectation that the Messiah would provide abundant food. Jesus challenges them to recognize the spiritual food He offers, condemning their desire for earthly sustenance.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.32338361051922,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.59,
+            "commentatorTierSimilarities": [
+                36.96,
+                29.99,
+                33.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people, in comparing Jesus' miracle of the loaves to Moses' miracle of the manna, insinuate the inferiority of Jesus' miracle. They fail to remember that their ancestors doubted Moses despite being provided with bread from heaven daily throughout their journey. By claiming to be the Messiah, Jesus offers bread for eternal life that surpasses the temporal bread their fathers consumed. Jesus challenges them to recognize the spiritual food He provides, condemning their desire for earthly sustenance.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.3697004604081693,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.13,
+            "commentatorTierSimilarities": [
+                38.93,
+                28.26,
+                32.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people, in comparing Jesus' miracle of the loaves to Moses' miracle of the manna, subtly imply that Jesus' miracle is inferior. However, they forget that their ancestors doubted Moses even though he provided them with bread from heaven daily throughout their journey. Jesus, in claiming to be the Messiah, is offering bread for eternal life, surpassing the temporal bread their fathers ate. The people's plea for a sign is driven by their expectation that the Messiah would provide abundant food. Jesus challenges them to recognize the spiritual food He offers, condemning their desire for earthly sustenance.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.325693808347212,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.67,
+            "commentatorTierSimilarities": [
+                36.92,
+                29.96,
+                33.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people's comparison of Jesus' miracle of the loaves to Moses' miracle of the manna suggests that they consider Jesus' miracle to be inferior. However, they fail to remember that their ancestors doubted Moses despite being provided with daily bread from heaven throughout their journey. In claiming to be the Messiah, Jesus offers bread for eternal life, surpassing the temporary bread their fathers consumed. The people's desire for a sign stems from their expectation that the Messiah would provide abundant food. Jesus challenges them to recognize the spiritual nourishment He offers, condemning their earthly cravings.",
+            "wordCount": 97,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.2850691382120445,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.32,
+            "commentatorTierSimilarities": [
+                36.5,
+                30.25,
+                33.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people, comparing Jesus' miracle of the loaves to Moses' miracle of the manna, subtly imply that Jesus' miracle is inferior. However, they forget that their ancestors doubted Moses despite being provided with bread from heaven daily throughout their journey. Jesus, in claiming to be the Messiah, offers bread for eternal life, surpassing the temporal bread their fathers ate. The people's plea for a sign is driven by their expectation that the Messiah would provide abundant food. Jesus challenges them to recognize the spiritual food He offers, condemning their desire for earthly sustenance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.3153216167540664,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.32,
+            "commentatorTierSimilarities": [
+                37.03,
+                30.1,
+                32.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:13:17",
+    "verseRef": "John 16:10",
+    "bestBHT": {
+        "bht": "The righteousness in this context is not confined to Christ's righteousness, but relates to the world. It is through Christ's journey to the Father that this righteousness is secured, and by its effect, the Spirit brings conviction to our hearts. This conviction serves as irrefutable evidence that Christ is indeed the Savior. Without the Holy Spirit, we cannot behold Jesus with spiritual eyes, thus losing our perception of righteousness. Yet, through the Spirit, we are convinced of the genuine righteousness established by Christ's ascension.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.2858921707179123,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.35,
+        "commentatorTierSimilarities": [
+            32.11,
+            30.74,
+            37.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The righteousness here spoken of cannot be only the righteousness of Christ, the mere conviction of which would only bring condemnation to that world which rejected and crucified Him.",
+            "The conviction of the world concerning sin, righteousness, and judgment must be concerning a sin that is theirs, a righteousness that is (or, in the case of condemnation might have been) theirs, a judgment which is theirs.",
+            "It is His going to the Father by which this righteousness is assured to us, and by the effect of which, the Spirit, the conviction respecting it is wrought in our hearts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Beyond doubt, it is Christ's personal righteousness which the Spirit was to bring home to the sinner's heart.",
+            "This triumphant vindication of Christ's rectitude is to us divine evidence, bright as heaven, that He is indeed the Saviour of the world.",
+            "So far from mourning over His absence from us, as an irreparable loss, we learn to glory in it, as the evidence of His perfect acceptance on our behalf."
+        ],
+        "Albert Barnes": [
+            "Though condemned, he says that the Holy Spirit would descend and convince the world that he was innocent.",
+            "God would not raise up an impostor. If he had been truly guilty, as the Jews who condemned him pretended, God would not have set his seal to the imposture by raising him from the dead.",
+            "One of the deepest feelings which an awakened sinner has, is his conviction of the righteousness of Jesus Christ."
+        ],
+        "Marvin Vincent": [
+            "I go [\u03c5\u03c0\u03b1\u03b3\u03c9] . Withdraw from their sight and earthly fellowship. See on 8 21, and footnote. ",
+            "Ye see [\u03b8\u03b5\u03c9\u03c1\u03b5\u03b9\u03c4\u03b5] . Rev., behold. See on 1 18."
+        ],
+        "John Calvin": [
+            "We must attend to the succession of steps which Christ lays down. He now says that the world must be convinced of righteousness; for men will never hunger and thirst for righteousness, but, on the contrary, will disdainfully reject all that is said concerning it, if they have not been moved by a conviction of sin",
+            "By righteousness must here be understood that which is imparted to us through the grace of Christ.",
+            "Next to the conviction of sin, this is the second step, that the Spirit should convince the world what true righteousness is, namely, that Christ, by his ascension to heaven, has established the kingdom of life, and now sits at the right hand of the Father, to confirm true righteousness."
+        ],
+        "Archibald T. Robertson": [
+            "Without the Holy Spirit they are unable to behold Jesus with the spiritual vision.",
+            "Without Christ they lose the sense of righteousness.",
+            "They lose the sense of righteousness as is seen in the 'new morals'."
+        ],
+        "John Gill": [
+            "The Spirit of God, by the mouth of Peter, on the day of 'Pentecost', proved, to the conviction of the Jews, that all this was slander; that Christ was an innocent, holy, and righteous person, and a man approved of God among them.",
+            "The effusion of the Spirit in that extraordinary manner upon the disciples, showed that he was gone to the Father, and had received from him the promise of the Holy Ghost, which he then shed abroad.",
+            "The Spirit of God proceeds to convince men of the glory, excellency, fulness, and suitableness of the righteousness of Christ; which he does, by revealing it to them in the Gospel, setting it before them, and working faith in them to lay hold upon it."
+        ],
+        "John Wesley": [
+            "Of righteousness, because I go to my Father \u2014 Which the Spirit will testify, though ye do not then see me.",
+            "But I could not go to him if I were not righteous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The righteousness spoken of in this verse is not just the righteousness of Christ, but a righteousness that belongs to the world - a righteousness that is theirs, a judgment which is theirs. It is through Christ's going to the Father that this righteousness is assured to us, and by the effect of which, the Spirit convicts our hearts of it. This conviction is evidence of Christ's perfect acceptance on our behalf. Without the Holy Spirit, we are unable to behold Jesus with spiritual vision and lose the sense of righteousness. However, through the Spirit, we are convinced of the true righteousness that Christ has established through his ascension to heaven and his sitting at the right hand of the Father. The Spirit reveals to us the glory and excellency of Christ's righteousness and enables us to have faith in it. Ultimately, Christ's righteousness is essential for him to go to the Father.",
+            "wordCount": 156,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.2957371638668085,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.67,
+            "commentatorTierSimilarities": [
+                32.32,
+                29.65,
+                38.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The righteousness mentioned here is not limited to Christ's, but a righteousness that belongs to the world. The Spirit convicts our hearts of this righteousness, assuring us of Christ's acceptance on our behalf. Without the Holy Spirit, we cannot truly see Christ or comprehend righteousness. Through the Spirit, we are convinced of the righteousness established by Christ's ascension to heaven and his position at the right hand of the Father. This conviction reveals the glory and excellence of Christ's righteousness and enables us to have faith in it. Ultimately, this righteousness is crucial for Christ's return to the Father.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.2837739364106358,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.28,
+            "commentatorTierSimilarities": [
+                32.18,
+                29.08,
+                38.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The righteousness mentioned in this passage goes beyond just the righteousness of Christ. It pertains to the world and the conviction of sin, righteousness, and judgment. Through Christ's ascension to the Father, this righteousness is assured to us, and the Holy Spirit works in our hearts to bring about the conviction of it. This conviction is evidence of Christ's perfect acceptance on our behalf. Without the Holy Spirit, we are unable to truly see Jesus and lose the sense of righteousness. However, through the Spirit, we are convinced of the true righteousness that Christ has established.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.3356169482577553,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.0,
+            "commentatorTierSimilarities": [
+                32.36,
+                31.51,
+                36.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The righteousness being spoken of here is not solely the righteousness of Christ, but rather a righteousness that belongs to the world. It is through Christ's going to the Father that this righteousness is assured to us, and by the effect of it, the Spirit convicts our hearts of this truth. This conviction serves as a divine evidence that Christ is the Savior of the world. Without the Holy Spirit, we are unable to see Jesus with spiritual vision and lose our understanding of righteousness. However, through the Spirit, we are convinced of the true righteousness that Christ has established.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.282115667572248,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.22,
+            "commentatorTierSimilarities": [
+                31.95,
+                30.35,
+                37.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The righteousness in this context is not confined to Christ's righteousness, but relates to the world. It is through Christ's journey to the Father that this righteousness is secured, and by its effect, the Spirit brings conviction to our hearts. This conviction serves as irrefutable evidence that Christ is indeed the Savior. Without the Holy Spirit, we cannot behold Jesus with spiritual eyes, thus losing our perception of righteousness. Yet, through the Spirit, we are convinced of the genuine righteousness established by Christ's ascension.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2858921707179123,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.35,
+            "commentatorTierSimilarities": [
+                32.11,
+                30.74,
+                37.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

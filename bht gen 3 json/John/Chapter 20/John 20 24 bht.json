@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:15:22",
+    "verseRef": "John 20:24",
+    "bestBHT": {
+        "bht": "Thomas, also called Didymus, had been absent since the scattering of the Apostles, perhaps due to sullen despondency or a loss of hope. His slow belief is presented as a loving apology for his skepticism. Described as the twin, Thomas is known as the pessimist of the group. The unbelief and obstinacy of Thomas provide an example of human frailty. It is important to gather with fellow believers and not neglect assemblies, as it leads to a loss of Christ's presence and spiritual leanness.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.5992022286167573,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.52,
+        "commentatorTierSimilarities": [
+            30.52,
+            29.55,
+            39.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is probable that he, since the scattering of the Apostles.... had not yet joined them.",
+            "On such a day, and in such a man, such an absence must have been designed.",
+            "Perhaps he had abandoned hope;\u2014the strong evidence of his senses having finally convinced him that the pierced side and wounded hands betokened such a death that revivification was impossible."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The fact merely is here stated, as a loving apology for his slowness of belief.",
+            "...we are loath to think... it was intentional, from sullen despondency.",
+            "...a loving apology for his slowness of belief."
+        ],
+        "John Calvin": [
+            "The unbelief of Thomas is here related, that by means of it the faith of the godly may be more fully confirmed.",
+            "His dulness of apprehension was the reason why Christ again permitted them both to see and to feel him, in the same manner as before.",
+            "The obstinacy of Thomas is an example to show, that this wickedness is almost natural to all men, to retard themselves of their own accord, when the entrance to faith is opened to them."
+        ],
+        "Philip Schaff": [
+            "On the object of thus interpreting the name Thomas, see on chap. John 11:16.\" ",
+            "It is impossible to think that the Evangelist translates the word for the mere purpose of mentioning that Thomas had a Greek as well as an Aramaic name.",
+            "The man appears in the name."
+        ],
+        "Archibald T. Robertson": [
+            "Didymus (\u0394\u03b9\u03b4\u03c5\u03bc\u03bf\u03c2). The same expression applied to Thomas in John 11:16; John 21:2, but nowhere else in N.T.",
+            "Old word for twin (double), 'the pessimist of the apostolic band' (Bernard).",
+            "The term twelve is still applied to the group, though Judas, the traitor, is dead."
+        ],
+        "John Gill": [
+            "It is of good consequence to attend the assemblies of Christ's disciples and followers, so it is of bad consequence to neglect or forsake them.",
+            "Neglect of assembling together exposes to many snares and temptations; brings on a spiritual leanness; leads to an indifference and lukewarmness.",
+            "Not to attend is of bad consequence; neglect of assembling together... issues in a low degree of grace, and a non-exercise of it, and in a loss of Christ's presence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thomas, also known as Didymus, had been absent from the group of Apostles since Jesus' death and resurrection. It is possible that he had lost hope and was convinced that Jesus could not have been revived. However, the narrator presents this as an explanation for his slow belief rather than intentional disbelief. Thomas' reputation as the pessimist of the group is reinforced by the reference to him as the twin, emphasizing his doubtful nature. The fact that the group is still referred to as twelve, even though Judas had died, highlights the significance of Thomas' presence among them. The unbelief and obstinacy of Thomas serve as examples to confirm and strengthen the faith of others. It is important to gather with fellow believers and not neglect the assemblies, as neglect can lead to spiritual leanness, indifference, and a loss of Christ's presence.",
+            "wordCount": 143,
+            "quoteTokenProportion": 39.78,
+            "qualityScore": 1.5160611043291454,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.75,
+            "commentatorTierSimilarities": [
+                29.18,
+                31.34,
+                39.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thomas, also known as Didymus, had been absent from the group of Apostles since Jesus' death and resurrection. It is probable that he had abandoned hope and was convinced that Jesus could not have been revived. The fact that Thomas is referred to as the twin, the pessimist of the group, reinforces his doubtful nature. The unbelief and obstinacy of Thomas serve as examples to confirm and strengthen the faith of others. It is important to gather with fellow believers and not neglect the assemblies, as neglect can lead to a loss of Christ's presence.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.548960104470884,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.85,
+            "commentatorTierSimilarities": [
+                28.01,
+                30.72,
+                41.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thomas, also called Didymus, had been absent since the scattering of the Apostles, perhaps due to sullen despondency or a loss of hope. His slow belief is presented as a loving apology for his skepticism. Described as the twin, Thomas is known as the pessimist of the group. The unbelief and obstinacy of Thomas provide an example of human frailty. It is important to gather with fellow believers and not neglect assemblies, as it leads to a loss of Christ's presence and spiritual leanness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.5992022286167573,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.52,
+            "commentatorTierSimilarities": [
+                30.52,
+                29.55,
+                39.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is probable that Thomas, also called Didymus, had not yet rejoined the Apostles since their scattering. His absence may have been intentional, arising from sullen despondency or a loss of hope. Thomas, known as the pessimist of the apostolic band, had a reputation for slow belief. The unbelief and obstinacy of Thomas serve as examples of human frailty and the hesitations that can hinder faith. Neglecting to assemble with fellow believers can lead to a loss of Christ's presence and a decline in spiritual growth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.57422548423117,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.69,
+            "commentatorTierSimilarities": [
+                30.22,
+                30.23,
+                39.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thomas, also known as Didymus, had been absent since the scattering of the Apostles. It is probable that his absence was intentional due to sullen despondency or a loss of hope. Thomas, referred to as the pessimist of the apostolic band, had a reputation for slow belief. The unbelief and obstinacy of Thomas demonstrate the natural tendency of people to hesitate and delay their entrance into faith. Neglecting to assemble with other believers can lead to spiritual leanness, indifference, and a loss of Christ's presence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5939641432040927,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.34,
+            "commentatorTierSimilarities": [
+                30.03,
+                30.7,
+                39.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

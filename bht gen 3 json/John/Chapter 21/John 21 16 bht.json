@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:15:47",
+    "verseRef": "John 21:16",
+    "bestBHT": {
+        "bht": "In this repetition of the question, Jesus intentionally avoids mentioning more than these to spare Peter further guilt and shame. By using a different word meaning to tend as a shepherd, Jesus shows the abiding nature of Peter's calling. Peter's reiteration of personal affection leads to Jesus commissioning him not only to feed and tend, but also to shepherd and care for the sheep and lambs. This exchange emphasizes the responsibility of faithful teachers to gather all to Christ and nurture those who are docile and teachable.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.813258542725969,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+        "commentatorTierSimilarities": [
+            32.93,
+            39.52,
+            27.55
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In this repetition of the question, though the wound was meant to be reopened, the words 'more than these' are not repeated for Christ is a tender as well as skilful Physician, and Peter's silence on that point was confession enough of his sin and folly.",
+            "On Peter's repeating his protestation in the same words, our Lord rises higher in the manifestation of His restoring grace.",
+            "It has been observed that the word here is studiously changed, from one signifying simply to feed, to one signifying to tend as a shepherd, denoting the abiding exercise of that vocation, and in its highest functions."
+        ],
+        "Albert Barnes": [
+            "Feed my sheep - The word here rendered 'feed'...has the sense of governing, caring for, guiding, protecting...the kind of faithful vigilance which a shepherd uses to guide his flock...\" ",
+            "It may be implied here that the care needed for the young in the church is to instruct them, and for those in advanced years both to instruct and govern them.",
+            "My sheep - This term commonly denotes the church in general, without respect to age."
+        ],
+        "Marvin Vincent": [
+            "Lovest. Again the colder word, but more than these is omitted.",
+            "I love. Peter reiterates his former word expressive of personal affection.",
+            "Feed. A different word: tend, as Rev."
+        ],
+        "John Calvin": [
+            "True, faithful teachers ought to endeavor to gather all to Christ; and as they cannot distinguish between sheep and wild beasts, they ought to try by all methods if they can tame those who resemble wolves rather than sheep.",
+            "After having put forth their utmost efforts, their labor will be of no avail to any but the elect sheep; for docility and faith arise from this, that the heavenly Father delivers to his Son, that they may obey him, those whom he elected before the creation of the world.",
+            "None can be fed to salvation by the doctrine of the Gospel but those who are mild and teachable; for it is not without reason that Christ compares his disciples to lambs and sheep; but it must also be observed, that the Spirit of God tames those who by nature were bears or lions."
+        ],
+        "Philip Schaff": [
+            "The same verb (\u2018lovest\u2019) which had been used by our Lord in His first question again occurs here, and the question only differs from the first in the gracious omission of the words more than these.",
+            "Jesus had appreciated the motive which had led Peter in his previous reply to avoid all comparison between his own love to Jesus and that of others.",
+            "He accepts the evidence of humility afforded by His apostle, and in that direction at least will no longer test him."
+        ],
+        "Archibald T. Robertson": [
+            "Lovest thou me?\" ",
+            "Tend my sheep.\" ",
+            "Shepherd my lambs."
+        ],
+        "John Gill": [
+            "Will you love me more than these?",
+            "Lord, what can I say more? I can say no more than I have done, and by that I abide.",
+            "Every instance of care and love shown to these, he takes as a mark of affection and respect to himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Peter's initial denial of Jesus, the repetition of the question Lovest thou me? by Jesus is a tender yet intentional act. Jesus, in His role as a compassionate and skilled Physician, reopens the wound without uttering the words more than these to spare Peter further guilt and shame. Instead, Jesus rises higher in the manifestation of His restoring grace. By using a different word that signifies tending as a shepherd, He emphasizes the abiding exercise of Peter's calling. And in response to Peter's reiteration of his personal affection, Jesus appoints him to not only feed and tend His sheep but also to shepherd and care for His lambs and sheep. This exchange reminds us that true, faithful teachers ought to gather all to Christ and that their labor will be fruitful for the elect sheep who are docile and teachable.",
+            "wordCount": 144,
+            "quoteTokenProportion": 36.46,
+            "qualityScore": 1.7214299089374134,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                34.36,
+                38.57,
+                27.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Peter's denial, Jesus, being a tender and skilful Physician, intentionally reopens the wound by repeating the question Lovest thou me? without mentioning more than these. This gracious omission signifies His acceptance of Peter's heartfelt confession. By using a different word meaning to tend as a shepherd, Jesus highlights the abiding nature of Peter's calling. He appoints Peter to not only feed and tend His sheep but also to shepherd and care for His lambs. This exchange reminds us that true teachers should gather all to Christ and nourish those who are humble and teachable.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.5774827075309632,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.79,
+            "commentatorTierSimilarities": [
+                34.68,
+                37.5,
+                27.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this repetitive questioning, Jesus deliberately avoids mentioning more than these, recognizing Peter's silent confession of sin and folly. He graciously rises higher in the manifestation of His restoring grace. By using a different word, signifying the ongoing duty of shepherding, Jesus emphasizes Peter's abiding vocation. Peter's affirmation of personal affection is met with the commission to not only feed and tend, but also to shepherd and care for the sheep and lambs. This exchange reminds us of the responsibility of true teachers to gather all to Christ and nurture those who are meek and teachable.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.6671638666452668,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                34.46,
+                38.79,
+                26.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Peter's denial, Jesus deliberately reopens the wound by repeatedly asking, Lovest thou me? without mentioning more than these. By using a different word meaning to tend as a shepherd, Jesus highlights the ongoing duty of Peter's calling. The repetition of Peter's affirmation of personal affection leads to Jesus commissioning him to not only feed and tend, but also shepherd and care for the sheep and lambs. This exchange reminds us of the crucial responsibility of true teachers to gather all to Christ and nurture those who are humble and teachable.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.6178344297125562,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "commentatorTierSimilarities": [
+                34.71,
+                36.59,
+                28.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this repetition of the question, Jesus intentionally avoids mentioning more than these to spare Peter further guilt and shame. By using a different word meaning to tend as a shepherd, Jesus shows the abiding nature of Peter's calling. Peter's reiteration of personal affection leads to Jesus commissioning him not only to feed and tend, but also to shepherd and care for the sheep and lambs. This exchange emphasizes the responsibility of faithful teachers to gather all to Christ and nurture those who are docile and teachable.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.813258542725969,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "commentatorTierSimilarities": [
+                32.93,
+                39.52,
+                27.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

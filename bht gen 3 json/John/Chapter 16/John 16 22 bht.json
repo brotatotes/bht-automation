@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:13:22",
+    "verseRef": "John 16:22",
+    "bestBHT": {
+        "bht": "Jesus promises his disciples that they will see him again at his resurrection and second advent, which brings them a deep and lasting joy. This joy is not easily taken away and is a reflection of their unwavering faith in Jesus as the risen Messiah. Through the power of the Holy Spirit, Jesus maintains a close relationship with his disciples, causing their hearts to rejoice with a triumphant and abiding joy. This joy sustains them even in the face of persecution and affliction, offering them a source of peace and love that endures.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.8315432152416458,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+        "commentatorTierSimilarities": [
+            15.74,
+            44.98,
+            39.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "22.] I will see you again\u2014in the same manifold meaning as before noticed\u2014will see you\u2014at My Resurrection\u2014by My Spirit\u2014at My second Advent."
+        ],
+        "Albert Barnes": [
+            "You shall be so firmly persuaded that I have risen and that I am the Messiah, that neither the threats nor persecutions of men shall ever be able to shake your faith and produce doubt or unbelief, and thus take away your joy.",
+            "It is evident that after his ascension not one of the apostles ever doubted for a moment that he had risen from the dead.",
+            "No persecution or trial was able to shake their faith; and thus, amid all their afflictions, they had an unshaken source of joy."
+        ],
+        "Marvin Vincent": [
+            "It expresses a distinct, personal realization of the virtue or fault or sentiment in question.",
+            "to have sorrow is more than to be sorrowful.",
+            "if faith, in ever so small a degree, is possessed by you as a conscious, living principle and motive."
+        ],
+        "John Calvin": [
+            "Your joy no man shall take from you. The value of the joy is greatly enhanced by its perpetuity; for it follows that the afflictions are light, and ought to be patiently endured, because they are of short duration.",
+            "The world must unavoidably be soon deprived of its joys, which it seeks only in fading things; and, therefore, we must come to the resurrection of Christ, in which there is eternal solidity.",
+            "When he says that he will see his disciples, he means that he will visit them again by the grace of his Spirit, that they may continually enjoy his presence."
+        ],
+        "Philip Schaff": [
+            "I will see you again, and your heart shall rejoice, and your joy no one taketh away from you.",
+            "It is the blessed reciprocity of intercourse between Him and His own.",
+            "In the power of the Spirit He will see them and they Him, and they shall rejoice with a triumphant and abiding joy."
+        ],
+        "Archibald T. Robertson": [
+            "The 'sorrow' is like that of the mother in childbirth (real, but fleeting, with permanent joy following).",
+            "But I will see you again...I shall see you, showing 'that we are the objects of God's regard.'",
+            "This joy is a permanent possession."
+        ],
+        "John Gill": [
+            "Nothing more sensibly touches believers to the quick, and gives them more uneasiness, than when Christ is out of sight.",
+            "To see the glory and beauty of Christ's person, the fulness and suitableness of him as a Saviour; to have an appropriating view of him as such; or to see him so as to have sensible communion with him, must needs fill the heart of a believer with joy unspeakable, and full of glory.",
+            "The joy of the hypocrite is but for a moment, and the joy of the chief priests, Scribes, and Pharisees, was a short lived one, on account of Christ's death; but the joy of the disciples was durable."
+        ],
+        "John Wesley": [
+            "They never need lose either their peace, or love, or the witness that they are the children of God.",
+            "They never can lose these, but either through sin, or ignorance, or vehement temptation, or bodily disorder.",
+            "This gives us no manner of authority to assert all believers must come into a state of darkness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At His resurrection and second advent, Jesus assures his disciples that they will see him again, a realization that brings about a distinct, personal joy. This joy is not fleeting but a permanent possession that cannot be taken away. The disciples' unwavering faith in Jesus, firmly convinced of his resurrection and Messiahship, shields them from doubt and unbelief. Through the power of the Spirit, Jesus maintains a blessed reciprocity of intimate fellowship with his disciples, causing their hearts to rejoice with triumphant and abiding joy. This joy, rooted in the constant presence of Christ, withstands persecution and affliction, offering believers an enduring source of peace and love.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.792004953107421,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                19.08,
+                41.27,
+                39.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus promises his disciples that they will see him again at his resurrection and second advent, which brings them a deep and lasting joy. This joy is not easily taken away and is a reflection of their unwavering faith in Jesus as the risen Messiah. Through the power of the Holy Spirit, Jesus maintains a close relationship with his disciples, causing their hearts to rejoice with a triumphant and abiding joy. This joy sustains them even in the face of persecution and affliction, offering them a source of peace and love that endures.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8315432152416458,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                15.74,
+                44.98,
+                39.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus assures his disciples of his return, both at his resurrection and second advent, resulting in a profound and enduring joy. This joy is not fleeting but a permanent possession that cannot be taken away. Their unwavering faith in Jesus as the risen Messiah shields them from doubt and unbelief, providing them with an unshaken source of joy, even in the midst of persecution. Through the power of the Holy Spirit, Jesus and his disciples share a reciprocal relationship that brings them triumphant and abiding joy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7741423759854764,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                19.53,
+                42.73,
+                37.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus assures his disciples of his return, both at his resurrection and second advent, resulting in a profound and enduring joy. This joy is not fleeting but a permanent possession. Through the power of the Holy Spirit, Jesus maintains an intimate relationship with his disciples, causing their hearts to rejoice with a triumphant and abiding joy. This joy remains unshaken, even in the face of persecution and affliction, offering believers a constant source of peace and love in their lives.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.790127654173983,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
+            "commentatorTierSimilarities": [
+                20.57,
+                40.97,
+                38.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus assures his disciples that they will see him again at his resurrection and second advent, bringing them a deep and lasting joy. This joy is not easily taken away and is a reflection of their unwavering faith in Jesus as the risen Messiah. Through the power of the Holy Spirit, Jesus maintains a close relationship with his disciples, causing their hearts to rejoice with a triumphant and abiding joy. This joy sustains them even in the face of persecution and affliction, offering them a source of peace and love that endures.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8220710139737677,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.93,
+            "commentatorTierSimilarities": [
+                15.57,
+                44.9,
+                39.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:12:50",
+    "verseRef": "John 14:30",
+    "bestBHT": {
+        "bht": "I will no more talk much with you, Jesus said. The prince of the world cometh with hostile intent, seeking a last grand attack, but he has nothing in me. In Christ, there is nothing to fasten on, no right nor power over Him that sin could give. He is pure and sinless, and the prince of this world cannot prevail over Him.",
+        "wordCount": 63,
+        "quoteTokenProportion": 61.22,
+        "qualityScore": 2.073792214473567,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+        "commentatorTierSimilarities": [
+            34.88,
+            30.75,
+            34.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I will no more talk much with you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have a little more to say, but My work hastens apace, and the approach of the adversary will cut it short.",
+            "Cometh with hostile intent, for a last grand attack, having failed in His first formidable assault from which he 'departed [only] for a season'.",
+            "Nothing of His own\u2014nothing to fasten on. Glorious saying! The truth of it is, that which makes the Person and Work of Christ the life of the world."
+        ],
+        "Albert Barnes": [
+            "The prince of this world - See the notes at John 12:31.",
+            "Cometh - Satan is represented as approaching him to try him in his sufferings.",
+            "Hath nothing in me - There is in me no principle or feeling that accords with his, and nothing, therefore, by which he can prevail."
+        ],
+        "Marvin Vincent": [
+            "Hereafter I will not talk [\u03bf\u03c5\u03ba \u03b5\u03c0\u03b9 \u03bb\u03b1\u03bb\u03b7\u03c3\u03c9]. Rev., more correctly, I will no more speak.",
+            "The prince of this world. The best texts read, 'of the world.'",
+            "Hath nothing in me. No right nor power over Christ which sin in Him could give. The Greek order is, in me he hath nothing."
+        ],
+        "John Calvin": [
+            "In order, therefore, to make them more desirous of hearing his doctrines, he threatens that he will very soon go away.",
+            "For the prince of this world cometh... to fortify their minds beforehand, lest, terrified by a kind of death so hideous and detestable, they should faint.",
+            "[Christ] asserts here not only his own purity, but likewise his Divine power, which was not subject to death; for it was proper to assure the disciples that he did not yield through weakness."
+        ],
+        "Philip Schaff": [
+            "\u2018the prince of this world\u2019 is equivalent to the world in its essence.",
+            "He embodies the spirit of the world, so that what is said of it may be said of him, what is said of him may be said of it.",
+            "And he hath nothing in me."
+        ],
+        "Archibald T. Robertson": [
+            "The prince of the world (\u03bf \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c3\u03bc\u03bf\u03c5 \u03b1\u03c1\u03c7\u03c9\u03bd). Satan as in John 12:31 which see. "
+        ],
+        "John Gill": [
+            "The reason why Christ chooses to use this circumlocution, rather than to say Satan or the devil cometh, is partly to point out what a powerful adversary he had, and was about to engage with, and partly to observe to his disciples, what they must expect from the world, even hatred and persecution.",
+            "Christ had no sin in him, which can be said of none but him... though he had sin upon him, he had none in him; hence, though he the Messiah was 'cut off,' according to Daniel 9:26, 'but not for himself'; which by the Septuagint is rendered \u03ba\u03b1\u03b9 \u03ba\u03c1\u03b9\u03bc\u03b1 \u03bf\u03c5\u03ba \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03bd \u03b1\u03c5\u03c4\u03c9, 'but there is no judgment' or 'condemnation in him,' i.e. no cause of condemnation.",
+            "So that the devil had no power over him, no rightful power, nor any but what he had by permission, nor indeed did he prevail over him; for though according to the first prophecy of the Messiah, Satan bruised the heel of Christ; yet Christ bruised his head, destroyed him and his works, spoiled him, and his principalities and powers."
+        ],
+        "John Wesley": [
+            "The prince of this world is coming - To make his grand assault.",
+            "But he hath nothing in me - No right, no claim, or power.",
+            "There is no guilt in me, to give him power over me; no corruption to take part with his temptation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I will no more talk much with you, Jesus said. I have a little more to say, but My work hastens apace, and the approach of the adversary will cut it short. This adversary, the prince of the world, is coming with hostile intent, seeking a last grand attack. However, he has nothing in me, no right nor power over me. In Him, there is nothing to fasten on, nothing that sin could give to give him power. So, even though he may try, the prince of this world cannot prevail over the sinless and powerful Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 58.21,
+            "qualityScore": 1.8605741584443543,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                35.4,
+                29.6,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I will no more talk much with you, Jesus said, for He had a little more to say before His work hastens apace and the approaching adversary, the prince of the world, cuts it short. The prince of the world comes with hostile intent, seeking a last grand attack, but he has nothing in Jesus. There is no guilt or corruption in Him, no right nor power that sin could give. Thus, the prince of this world cannot prevail over the sinless and powerful Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 2.0473567369230583,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                32.45,
+                28.85,
+                38.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I will no more talk much with you, Jesus said. The prince of the world cometh with hostile intent, seeking a last grand attack, but he has nothing in me. In Christ, there is nothing to fasten on, no right nor power over Him that sin could give. He is pure and sinless, and the prince of this world cannot prevail over Him.",
+            "wordCount": 63,
+            "quoteTokenProportion": 61.22,
+            "qualityScore": 2.073792214473567,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                34.88,
+                30.75,
+                34.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I have a little more to say, but My work hastens apace, and the approach of the adversary will cut it short, for the prince of this world, Satan, cometh with hostile intent, for a last grand attack, having failed in His first formidable assault. However, he hath nothing in me, for there is no sin or corruption in Christ that can give the enemy power over Him. Indeed, Christ's purity and divine power assure us that He will not yield to the darkness. Though we must be prepared for hatred and persecution from the world, we can take comfort in knowing that the devil has no rightful power over Christ, and His victory over the enemy is assured.",
+            "wordCount": 120,
+            "quoteTokenProportion": 51.19,
+            "qualityScore": 1.957910947981233,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                27.37,
+                26.98,
+                45.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I have a little more to say, but My work hastens apace, and the approach of the adversary will cut it short, for the prince of this world, Satan, cometh with hostile intent, for a last grand attack, having failed in His first formidable assault. However, he hath nothing in me, for there is no sin or corruption in Christ that can give the enemy power over Him. We can take comfort in knowing that the devil has no rightful power over Christ, and His victory over the enemy is assured.",
+            "wordCount": 91,
+            "quoteTokenProportion": 52.94,
+            "qualityScore": 2.0327647715842607,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.93,
+            "commentatorTierSimilarities": [
+                29.34,
+                26.61,
+                44.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

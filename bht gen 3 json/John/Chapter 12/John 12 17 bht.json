@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:10:52",
+    "verseRef": "John 12:17",
+    "bestBHT": {
+        "bht": "The testimony which they bore is given in Luke xix. 37, 38. This crowning triumph of Jesus gave an added sense of importance to the crowds. They were compelled to testify about the extraordinary power he displayed in raising Lazarus from the dead. The multitude who witnessed this event had good reason to believe in Jesus, as they were eye and ear witnesses of the whole spectacle. The simplicity and ease with which the Scripture describes this grand occurrence is more sublime than any pomp of orators.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.6159788220460969,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+        "commentatorTierSimilarities": [
+            54.09,
+            0.0,
+            45.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] The testimony which they bore is given in Luke xix. 37, 38."
+        ],
+        "John Calvin": [
+            "The multitude gave their testimony.",
+            "He again repeats what he had said, that many persons, aroused by the report of so great a miracle, came to meet Christ.",
+            "They had good reason, therefore, for ascribing to the son of Mary the honor of the Messiah, since he was known to possess such extraordinary power."
+        ],
+        "Archibald T. Robertson": [
+            "This crowning triumph of Jesus gave an added sense of importance to the crowds...\" ",
+            "For this description of this portion of the crowd...\" ",
+            "See John 11:45; John 12:1; John 12:9-11."
+        ],
+        "John Gill": [
+            "The people therefore that was with him... believed in Christ.",
+            "He called Lazarus out of his grave... Lazarus, come forth.",
+            "Bare record... of the truth of that fact; declaring, that they were eye and ear witnesses of the whole."
+        ],
+        "John Wesley": [
+            "The easiness of the Scripture style on the most grand occurrences, is more sublime than all the pomp of orators.",
+            "How admirably does the apostle express, as well the greatness of the miracle, as the facility with which it was wrought!",
+            "The easiness of the Scripture style on the most grand occurrences"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This crowning triumph of Jesus gave an added sense of importance to the crowds who witnessed it. They were compelled to testify about the extraordinary power he displayed in raising Lazarus from the dead. By calling Lazarus out of his grave, Jesus not only performed an awe-inspiring miracle but also confirmed his identity as the Messiah. The multitude who witnessed this event had good reason to believe in Jesus, as they were eye and ear witnesses to the whole spectacle. The simplicity and ease with which the Scripture describes this grand occurrence is more sublime than any pomp of orators, emphasizing the greatness of the miracle and the power of Jesus.",
+            "wordCount": 112,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.4702859692124381,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.23,
+            "commentatorTierSimilarities": [
+                41.1,
+                0.0,
+                58.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This crowning triumph of Jesus gave an added sense of importance to the crowds who witnessed it. They were compelled to testify about the extraordinary power he displayed in raising Lazarus from the dead. By calling Lazarus out of his grave, Jesus not only performed an awe-inspiring miracle but also confirmed his identity as the Messiah. The multitude who witnessed this event had good reason to believe in Jesus, as they were eye and ear witnesses to the whole spectacle. The simplicity and ease with which the Scripture describes this grand occurrence is more sublime than any pomp of orators.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.4258170822421288,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.75,
+            "commentatorTierSimilarities": [
+                39.92,
+                0.0,
+                60.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The testimony which the crowds bore is a testament to the greatness of Jesus. This remarkable event of raising Lazarus from the dead not only affirmed his divine power but also deepened the belief that he was the long-awaited Messiah. The eyewitnesses saw firsthand the extraordinary nature of this miracle and were compelled to bear witness to the truth of what they experienced. The simple, yet profound, description in the Scripture captures the grandeur of this moment, surpassing the eloquence of any orator.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.549781937714566,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                43.43,
+                0.0,
+                56.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The testimony which they bore is given in Luke xix. 37, 38. This crowning triumph of Jesus gave an added sense of importance to the crowds. They were compelled to testify about the extraordinary power he displayed in raising Lazarus from the dead. Jesus not only performed an awe-inspiring miracle but also confirmed his identity as the Messiah. The multitude who witnessed this event had good reason to believe in Jesus, as they were eye and ear witnesses of the whole spectacle. The simplicity and ease with which the Scripture describes this grand occurrence is more sublime than any pomp of orators.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.5513962672833843,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                51.92,
+                0.0,
+                48.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The testimony which they bore is given in Luke xix. 37, 38. This crowning triumph of Jesus gave an added sense of importance to the crowds. They were compelled to testify about the extraordinary power he displayed in raising Lazarus from the dead. The multitude who witnessed this event had good reason to believe in Jesus, as they were eye and ear witnesses of the whole spectacle. The simplicity and ease with which the Scripture describes this grand occurrence is more sublime than any pomp of orators.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6159788220460969,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.07,
+            "commentatorTierSimilarities": [
+                54.09,
+                0.0,
+                45.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

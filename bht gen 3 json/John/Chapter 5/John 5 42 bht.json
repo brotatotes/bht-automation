@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:06:41",
+    "verseRef": "John 5:42",
+    "bestBHT": {
+        "bht": "The absence of love for God prevents His covenant people from seeking honor from Him and appreciating the glory He has given to His Son. Without this love in them, they do not have a single desire to know God's will or yield themselves to it, regardless of prejudice or consequences. These rabbis did not love God, and therefore, they did not love Christ. Love for God is the foundation for self-sacrifice and seeking the Father's will rather than seeking glory from men. Their lack of understanding of God's righteousness and the purpose behind His commands was their error. When the love of God does not prevail, there is no desire to obey Him.",
+        "wordCount": 118,
+        "quoteTokenProportion": 50.7,
+        "qualityScore": 2.4620796055287593,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.2,
+        "commentatorTierSimilarities": [
+            28.91,
+            39.52,
+            31.57
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words are spoken, not of an ungodly mind in general, but of an absence of that love which God\u2019s covenant people should have for Him.",
+            "This love, if they had it, would teach them... to seek honor only from him.",
+            "...and thus to appreciate the glory which He hath given to His Son, and His testimony concerning Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not the love of God in you - which would inspire you with a single desire to know His mind and will.\" ",
+            "Not the love of God in you - which would yield yourselves to it, in spite of prejudice and regardless of consequences.\" ",
+            "Not the love of God in you - which would inspire you with a single desire to know His mind and will, and yield yourselves to it, in spite of prejudice and regardless of consequences."
+        ],
+        "Marvin Vincent": [
+            "I know. The love of God.",
+            "Love toward God. This was the summary of their own law.",
+            "In you. In yourselves."
+        ],
+        "John Calvin": [
+            "The love of God is here put for all religious feelings; for no man can love God without beholding him with admiration and submitting entirely to his authority.\" ",
+            "When the love of God does not prevail, there can be no desire to obey him."
+        ],
+        "Philip Schaff": [
+            "Love to God is the foundation of the spirit of self-sacrifice, through which a man seeks not his own but the Father\u2019s will.",
+            "When love to God rules, therefore, the guiding principle is not desire after glory from men.",
+            "Their error was that they had not entered into the spirit of these things, had not seen why God had given them, had not therefore understood that glorious righteousness of God in the presence of which man feels himself to be nothing."
+        ],
+        "Archibald T. Robertson": [
+            "I have come to know and still know,\" the knowledge of personal experience.",
+            "The love toward God.",
+            "These rabbis did not love God and hence did not love Christ."
+        ],
+        "John Gill": [
+            "love to God, is one of the weightier matters of the law, the Jews passed over; without which, all the actions of men signify nothing",
+            "they were lovers of themselves, and not God; they were covetous men, and loved the world, and the things in it, which is inconsistent with the love of the Father",
+            "if they had loved him, they would have loved him that was begotten of him, and not sought to have killed him"
+        ],
+        "John Wesley": [
+            "But I know you \u2014 With this ray he pierces the hearts of the hearers. And this doubtless he spake with the tenderest compassion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The absence of love for God prevents His covenant people from seeking honor from Him and appreciating the glory He has given to His Son. Without this love in them, they do not have a single desire to know God's will or yield themselves to it, regardless of prejudice or consequences. These rabbis did not love God, and therefore, they did not love Christ. Love for God is the foundation for self-sacrifice and seeking the Father's will rather than seeking glory from men. Their lack of understanding of God's righteousness and the purpose behind His commands was their error. When the love of God does not prevail, there is no desire to obey Him.",
+            "wordCount": 118,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 2.4620796055287593,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.2,
+            "commentatorTierSimilarities": [
+                28.91,
+                39.52,
+                31.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The absence of love for God prevents His covenant people from seeking honor from Him and appreciating the glory He has given His Son. These rabbis did not love God, and therefore, they did not love Christ. Love for God is the foundation for self-sacrifice and seeking the Father's will rather than seeking glory from men. Their lack of understanding of God's righteousness and the purpose behind His commands was their error. When the love of God does not prevail, there is no desire to obey Him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.4443869947208627,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.62,
+            "commentatorTierSimilarities": [
+                27.38,
+                40.66,
+                31.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The absence of love for God prevents His covenant people from seeking honor only from Him and appreciating the glory He has given to His Son. These rabbis did not love God and, as a result, did not love Christ. Love for God is the foundation for self-sacrifice and seeking His will, regardless of prejudice or consequences. Their lack of understanding of God's righteousness and purpose behind His commands was their error. Without the love of God, there is no desire to obey Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.4102597977401694,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.48,
+            "commentatorTierSimilarities": [
+                29.29,
+                38.28,
+                32.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The absence of love for God prevents His covenant people from seeking honor only from Him and appreciating the glory He has given to His Son. These rabbis did not love God and, as a result, did not love Christ. Love for God is the foundation for self-sacrifice and seeking His will, regardless of prejudice or consequences. Their lack of understanding of God's righteousness and purpose behind His commands was their error. Without the love of God, there is no desire to obey Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.4102597977401694,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.48,
+            "commentatorTierSimilarities": [
+                29.29,
+                38.28,
+                32.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The absence of love for God prevents His covenant people from seeking honor only from Him and appreciating the glory He has given to His Son. These rabbis did not love God and, as a result, did not love Christ. Love for God is the foundation for self-sacrifice and seeking His will, regardless of prejudice or consequences. Without the love of God, there is no desire to obey Him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 48.89,
+            "qualityScore": 2.532451389402214,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.54,
+            "commentatorTierSimilarities": [
+                29.82,
+                37.02,
+                33.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

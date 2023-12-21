@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:05:37",
+    "verseRef": "John 4:10",
+    "bestBHT": {
+        "bht": "Using water as a metaphor, Jesus reveals himself as the One who can offer the gift of God. He emphasizes the honorable, free nature of this gift, awakening the woman's desire for a deeper understanding. If she grasped the identity of Jesus and the significance of God's gift, she would eagerly seek Him, recognizing Him as the source of living water. This living water represents not only physical water but also the gift of the Holy Spirit, which Jesus, the gift of God Himself, offers to all who seek true fulfillment and salvation.",
+        "wordCount": 95,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 2.326062427568071,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.68,
+        "commentatorTierSimilarities": [
+            28.78,
+            44.92,
+            26.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The WATER is, in this first part of the discourse, the subject, and serves as a point of connexion, whereby the woman\u2019s thoughts may be elevated, and her desire aroused.",
+            "He who speaks with thee is no ordinary Jew, nor any ordinary man, but One who can give thee the gift of God; One sent from God, and God Himself.",
+            "Designedly used in a double sense by our Lord, that the woman may lay hold of the material meaning, and by it be awakened to the higher one."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In Me thou seest only a petitioner to thee but if thou knewest who that Petitioner is, and the Gift that God is giving to men, thou wouldst have changed places with Him, gladly suing of Him living water\u2014nor shouldst thou have sued in vain.",
+            "If thou knewest who that Petitioner is, and the Gift that God is giving to men, thou wouldst have changed places with Him.",
+            "Thou wouldst have changed places with Him, gladly suing of Him living water\u2014nor shouldst thou have sued in vain."
+        ],
+        "Albert Barnes": [
+            "The word 'gift,' here denotes 'favor.' It may refer to Jesus Himself, as the gift of God to the world...",
+            "If thou knewest how favorable an opportunity God now gives thee to gain a knowledge of himself, etc.",
+            "Jesus here means to denote by it his doctrine, or his grace and religion, in opposition to the impure and dead notions of the Jews and the Samaritans."
+        ],
+        "Marvin Vincent": [
+            "The gift [\u03b4\u03c9\u03c1\u03b5\u03b1\u03bd]... carries the sense of a bountiful, free, honorable gift.",
+            "Asked [\u03b7\u03c4\u03b7\u03c3\u03b1\u03c2]... the appropriate word.",
+            "Living water [\u03c5\u03b4\u03c9\u03c1 \u03b6\u03c9\u03bd]... Not necessarily the same as water of life."
+        ],
+        "John Calvin": [
+            "This is certainly an astonishing instance of his goodness. For what was there in this wretched woman, that, from being a prostitute, she suddenly became a disciple of the Son of God?",
+            "And it appears at first sight a wonderful arrangement, that he passed by so many great men in Judea, and yet held familiar discourse with this woman.",
+            "The only true and profitable knowledge of the grace of God is, when we know that it is exhibited to us in Christ, and that it is held out to us by his hand."
+        ],
+        "Philip Schaff": [
+            "The \u2018gift of God\u2019 is probably not different from the \u2018living water\u2019 afterwards mentioned.",
+            "\u2018Living water,\u2019 then, denotes the gift of the Holy Spirit.",
+            "Had the woman known God\u2019s gift, known also that the Dispenser of this gift stood before her, she would have been the petitioner, and He, with no delay and without upbraiding, would have given her living water."
+        ],
+        "Archibald T. Robertson": [
+            "The first aorist passive (\u03b1\u03c0\u03b5\u03ba\u03c1\u03b9\u03b8\u03b7) is deponent, no longer passive in sense.",
+            "The gift of God (\u03c4\u03b7\u03bd \u03b4\u03c9\u03c1\u03b5\u03b1\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Naturally the gift mentioned in John 3:16 (Westcott), the inexpressible gift (2 Corinthians 9:15).",
+            "Jesus supplies the water of life (John 7:39). Cf. Revelation 7:17; Revelation 22:1."
+        ],
+        "John Gill": [
+            "He is, by way of eminency, 'the gift of God'; which is comprehensive of all others, is exceeding large, and very suitable to the wants and cases of men.",
+            "They know not the dignity of his person; nor the nature and usefulness of his offices; nor the way of peace, righteousness, and salvation by him.",
+            "But when he is made known to any, in his fulness and suitableness, they will have recourse to him, and ask grace and mercy of him."
+        ],
+        "John Wesley": [
+            "If thou hadst known the gift... thou wouldst have asked of him - On those words the stress lies.",
+            "Water - the most simple, necessary, common, and salutary things in nature.",
+            "Living water - The Spirit and its fruits."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in this verse, uses water as a metaphor to awaken the woman's desire for a deeper understanding. He reveals himself as One who can offer the gift of God, emphasizing both his divine nature and the bountiful, honorable nature of the gift. If the woman truly knew who Jesus was and the gift God was bestowing upon humanity, she would eagerly seek him, recognizing that he is the source of living water. This living water signifies not only physical water but also the gift of the Holy Spirit. Jesus, the gift of God himself, offers this living water to all who seek him, providing true fulfillment and salvation.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.3086950983509618,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.1,
+            "commentatorTierSimilarities": [
+                28.06,
+                44.01,
+                27.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus uses water as a metaphor to awaken the woman's desire for a deeper understanding. He reveals himself as One who can offer the gift of God, emphasizing the honorable, bountiful nature of the free gift. If the woman truly knew who Jesus was and the gift God was bestowing upon humanity, she would eagerly seek him, recognizing that he is the source of living water. This living water signifies not only physical water but also the gift of the Holy Spirit. Jesus, the gift of God himself, offers this living water to all who seek him for true fulfillment and salvation.",
+            "wordCount": 103,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.303638346249076,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.94,
+            "commentatorTierSimilarities": [
+                28.68,
+                44.28,
+                27.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Using water as a metaphor, Jesus reveals himself as the One who can offer the gift of God. He emphasizes the honorable, free nature of this gift, awakening the woman's desire for a deeper understanding. If she grasped the identity of Jesus and the significance of God's gift, she would eagerly seek Him, recognizing Him as the source of living water. This living water represents not only physical water but also the gift of the Holy Spirit, which Jesus, the gift of God Himself, offers to all who seek true fulfillment and salvation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.326062427568071,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.68,
+            "commentatorTierSimilarities": [
+                28.78,
+                44.92,
+                26.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in this conversation, uses water as a metaphor to ignite the woman's curiosity and desire for a deeper connection. He introduces himself as someone who can offer the precious gift of God, arousing her interest in the conversation. If she truly understood the identity of Jesus and the extraordinary gift that God is giving to humanity, she would gladly seek Him, realizing that He alone can provide the living water of true fulfillment and spiritual renewal.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.114154267336044,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+            "commentatorTierSimilarities": [
+                28.77,
+                43.13,
+                28.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus employs the image of water as a starting point to pique the woman's interest and stimulate her desire. He presents himself as no ordinary man, but as someone who can bestow the free, honorable gift of God, if only she knew who He truly was. By using the term living water, Jesus alludes to both physical and spiritual nourishment. This water represents the invaluable gift of the Holy Spirit, symbolizing rebirth and eternal life. Jesus, the ultimate Gift of God Himself, offers this living water to all who seek Him for genuine fulfillment and spiritual transformation.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.117419092894011,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.75,
+            "commentatorTierSimilarities": [
+                28.68,
+                43.38,
+                27.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-21-2023 03:08:46",
+    "verseRef": "John 8:42",
+    "bestBHT": {
+        "bht": "To truly belong to God and be His children, the evidence would be your love for me, the Son of God who has come from the essence of the Father. Understand that my coming was not self-initiated, but a result of proceeding forth from the Father. Failure to love me is proof that you do not truly belong to God. Those who reject the Bible and me cannot be friends of God, for if they truly loved God, they would love me, who came from Him and bears His image.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.94,
+        "qualityScore": 2.35971812943865,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.8,
+        "commentatorTierSimilarities": [
+            28.75,
+            43.38,
+            27.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If you were the children of God, the moral proof of such descent would be, that you would love Me, who am specially the Son of God, and who am come by the mission, and bearing the character of God.",
+            "Am come conveys the result of proceeded forth, as Meyer; who also remarks that mere sending will not exhaust the term proceeded forth.",
+            "Proceeded forth must be taken in its deeper theological meaning, of the proceeding forth of the Eternal Son from the essence of the Father."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If ye had anything of His moral image, as children have their father's likeness, ye would love Me, for I am immediately of Him and directly from Him.",
+            "My speech is unintelligible to you because ye cannot take in the truth which it conveys."
+        ],
+        "Albert Barnes": [
+            "Everyone that loveth him that begat, loveth him also that is begotten of him\" (1 John 5:1). ",
+            "That men that pretend that they love God, and reject his Son, have no evidence that they are the friends of God.\" ",
+            "Those who reject the Bible cannot be the friends of God. If they loved God, they would love Him who came from him, and who bears his image."
+        ],
+        "Marvin Vincent": [
+            "Exelqein is found in John 13:3; John 16:30, and emphasizes the idea of separation; a going from God to whom He was to return (and goeth unto God).",
+            "Exelqein para (John 16:27; John 17:8), is going from beside, implying personal fellowship with God.",
+            "Exelqein ejk, here, emphasizes the idea of essential, community of being: 'I came forth out of.'"
+        ],
+        "John Calvin": [
+            "Whoever is a child of God will acknowledge his first-born Son; but you hate me, and therefore you have no reason to boast, that you are God\u2019s children.",
+            "We ought carefully to observe this passage, that there is no piety and no fear of God where Christ is rejected.",
+            "You cannot show that anything about me is contrary to God. In short, you will find nothing that is either earthly or human in my doctrine, or in the whole of my ministry."
+        ],
+        "Philip Schaff": [
+            "If God were your Father, ye would love me: for from God I came forth.\" ",
+            "Were they true children of God, then they would love whomsoever God loves.",
+            "Alike in His Incarnation, in His whole manifestation to the world, and in His mission, He sustains the same relation to the Father: all is from and of the Father."
+        ],
+        "Archibald T. Robertson": [
+            "Failure to love Jesus is proof that God is not their Father.",
+            "The distinction [between coming from God and coming from the Father] is not to be pressed.",
+            "His coming was not self-initiated nor independent of the Father."
+        ],
+        "John Gill": [
+            "Love to Christ is always implanted in regeneration: it is a fruit of the Spirit.",
+            "Whoever are begotten again, according to abundant mercy, love an unseen Jesus.",
+            "Christ is to be loved by all regenerate persons, both on account of his being the Son of God and on account of his mission into this world as the Saviour of lost sinners."
+        ],
+        "John Wesley": [
+            "I proceeded forth \u2014 As God, and come - As Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "If you truly belonged to God, the evidence of your descent would be your love for me, the Son of God who has come from God's essence. My words may be unintelligible to you because you cannot comprehend the truth they convey. Understand that my coming was not self-initiated but a result of proceeding forth from and being sent by the Father. Failure to love me is proof that you do not truly belong to God. Those who reject the Bible and me cannot be friends of God, for if they truly loved God, they would love me, who came from him and bears his image.",
+            "wordCount": 108,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.204174853648225,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.63,
+            "commentatorTierSimilarities": [
+                28.97,
+                42.62,
+                28.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you were the children of God, the moral proof of such descent would be your love for me, who am specially the Son of God, and who am come by the mission and bearing the character of God. My speech is unintelligible to you because you cannot take in the truth which it conveys. Failure to love me is proof that God is not your Father. Understand that my coming was not self-initiated but a result of proceeding forth from and being sent by the Father.",
+            "wordCount": 88,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 2.228696825385664,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.44,
+            "commentatorTierSimilarities": [
+                36.46,
+                36.68,
+                26.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly belong to God and be His children, the evidence would be your love for me, the Son of God who has come from the essence of the Father. Understand that my coming was not self-initiated, but a result of proceeding forth from the Father. Failure to love me is proof that you do not truly belong to God. Those who reject the Bible and me cannot be friends of God, for if they truly loved God, they would love me, who came from Him and bears His image.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 2.35971812943865,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.8,
+            "commentatorTierSimilarities": [
+                28.75,
+                43.38,
+                27.86
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

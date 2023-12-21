@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:06:43",
+    "verseRef": "John 6:9",
+    "bestBHT": {
+        "bht": "There was a young boy present with five barley loaves, a type of bread typically consumed by the lower orders, and two small fish, which were considered a delicacy. The boy's meager supply seemed insignificant in comparison to the large crowd of five thousand people. However, Andrew, one of the apostles, recognized the potential in this modest offering. It is remarkable that everyone was able to eat and be satisfied, as even a small portion of these humble provisions proved to be enough for all.",
+        "wordCount": 86,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.4409146233382755,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+        "commentatorTierSimilarities": [
+            37.53,
+            32.96,
+            29.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] barley loaves\u2014this was the usual barley bread which formed the food of the lower orders."
+        ],
+        "Marvin Vincent": [
+            "A lad. Diminutive. Only here in the New Testament.",
+            "Barley. A detail peculiar to John. An inferior sort of bread is indicated by the term.",
+            "Fish becomes among the Greeks a chief dainty to gourmands."
+        ],
+        "Philip Schaff": [
+            "There is a little lad here which hath five barley loaves and two fishes: but what are they among so many?",
+            "John shows Andrew as standing somewhat in advance of Philip...perplexed at his own suggestion.",
+            "This is in accordance with the fact that in the lists of the apostles Andrew takes precedence of Philip."
+        ],
+        "Archibald T. Robertson": [
+            "A lad here (\u03c0\u03b1\u03b9\u03b4\u03b1\u03c1\u03b9\u03bf\u03bd \u03c9\u03b4\u03b5). Old word, diminutive of \u03c0\u03b1\u03b9\u03c2, here only in N.T., not genuine in Matthew 11:16. How he came to have this small supply we do not know.",
+            "Barley (\u03ba\u03c1\u03b9\u03b8\u03b9\u03bd\u03bf\u03c5\u03c2). Adjective, here and verse John 6:13 only in N.T., in the papyri, from \u03ba\u03c1\u03b9\u03b8\u03b7, barley (Revelation 6:6). Considered an inferior sort of bread.",
+            "Fishes (\u03bf\u03c8\u03b1\u03c1\u03b9\u03b1). Late diminutive of \u03bf\u03c8\u03bf\u03bd, common in papyri and inscriptions for delicacies with bread like fish. In N.T. only here, verse John 6:11; John 21:9-13. Synoptics have \u03b9\u03c7\u03b8\u03c5\u03b1\u03c2."
+        ],
+        "John Gill": [
+            "brown bread and the Gospel are good fare",
+            "These loaves were, if not designed for the use of Christ and his twelve apostles, yet for some of his followers, and which they all ate of; it is an instance of the meanness and poverty of them",
+            "it is amazing, that five thousand persons should everyone have something of them, and enough"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There was a young boy present with five barley loaves, a type of bread typically consumed by the lower classes, and two small fish, which were considered a delicacy among the Greeks. The boy's meager supply seemed insignificant compared to the crowd of five thousand people. However, Andrew, one of the apostles, recognized the potential in this modest offering. It is remarkable that everyone was able to eat and be satisfied, as even a small portion of these humble provisions proved to be enough for all. The presence of the barley loaves and fish not only highlights the simplicity and poverty of the disciples, but also demonstrates the abundance that can be found in Christ's hands.",
+            "wordCount": 118,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 1.4750112606270176,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.39,
+            "commentatorTierSimilarities": [
+                36.48,
+                31.15,
+                32.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There was a young boy present with five barley loaves, a type of bread typically consumed by the lower orders, and two small fish, which were considered a delicacy. The boy's meager supply seemed insignificant in comparison to the large crowd of five thousand people. However, Andrew, one of the apostles, recognized the potential in this modest offering. It is remarkable that everyone was able to eat and be satisfied, as even a small portion of these humble provisions proved to be enough for all.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.4409146233382755,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+            "commentatorTierSimilarities": [
+                37.53,
+                32.96,
+                29.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of a large crowd, there was a young boy who possessed five barley loaves, a type of bread that was typically consumed by the lower classes. In addition, he had two small fish, which were considered a delicacy among the Greeks. Though his offering seemed insignificant in the face of the vast need, Andrew, one of the disciples, recognized its potential. It is truly remarkable that such a meager provision was able to satisfy the hunger of the five thousand people present.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.434067619525207,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.03,
+            "commentatorTierSimilarities": [
+                40.86,
+                31.88,
+                27.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Among the crowd, a young boy was found with five barley loaves, a type of bread considered inferior. He also had two small fish, valued as a delicacy. Despite the seemingly insignificant amount, Andrew, one of the disciples, recognized the potential of this meager offering. In a remarkable turn of events, the five thousand people in attendance were able to eat and be satisfied. This miracle not only highlights the simplicity and poverty of the disciples, but also demonstrates the abundance that can be found in Christ's hands.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3338819300091007,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.69,
+            "commentatorTierSimilarities": [
+                34.66,
+                30.93,
+                34.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of a large crowd, a young boy appeared with five barley loaves, an inferior sort of bread, and two small fish, which were considered a delicacy. This modest offering seemed insignificant considering the vast need. However, Andrew, one of the disciples, recognized the potential in the boy's provision. It is truly remarkable that such a meager supply was able to satisfy the hunger of the five thousand people present, demonstrating the abundance that can be found in Christ's hands.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.3951853258066356,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.73,
+            "commentatorTierSimilarities": [
+                35.91,
+                34.96,
+                29.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

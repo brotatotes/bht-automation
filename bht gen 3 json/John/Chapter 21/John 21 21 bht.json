@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-21-2023 03:15:22",
+    "verseRef": "John 21:21",
+    "bestBHT": {
+        "bht": "Peter's question in John 21:21 reveals that he had correctly understood Jesus' prophecy regarding him. His inquiry into John's fate was not mere idle curiosity, but rather a longing we all have for our friends. Perhaps Peter suspected that John, as a favored disciple, would have a happier fate and be spared the same death as them. However, Jesus did not choose to gratify Peter's curiosity, indicating that each person's journey and suffering are uniquely appointed by God.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 1.8336436726996301,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+        "commentatorTierSimilarities": [
+            22.25,
+            65.13,
+            12.62
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter\u2019s question shews that he had rightly understood the Lord\u2019s prophecy respecting him.\" ",
+            "This was not mere idle curiosity, but that longing which we all feel for our friends.\" ",
+            "Is he not to follow Thee too? is he not to go the same way of death with us?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "21. Peter . . . saith to Jesus,",
+            "\tLord, and what shall this man do?\u2014What of this man? or, How",
+            "\tshall it fare with him?"
+        ],
+        "Albert Barnes": [
+            "John was a favorite disciple, and perhaps Peter suspected that he would have a happier lot, and not be put to death in this manner.",
+            "Peter was grieved at the question of Jesus; he was probably deeply affected with the account of his own approaching sufferings; and, with perhaps a mixture of grief and envy, he asked what would be his lot.",
+            "Whatever the motive was, it was a curiosity which the Lord Jesus did not choose to gratify."
+        ],
+        "Marvin Vincent": [
+            "And what shall this man do [\u03bf\u03c5\u03c4\u03bf\u03c2 \u03b4\u03b5 \u03c4\u03b9; ] ? Literally, and this one what?"
+        ],
+        "Archibald T. Robertson": [
+            "And what shall this man do? (\u03bf\u03c5\u03c4\u03bf\u03c2 \u03b4\u03b5 \u03c4\u03b9;). Literally, \"But this one ... what?\" The abrupt ellipsis is intelligible. "
+        ],
+        "John Gill": [
+            "Lord, and what shall this man do?",
+            "it looks as if he was of the same mind with me to follow thee",
+            "and what shall this man suffer?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's question in John 21:21 reveals that he had correctly understood Jesus' prophecy regarding him. His inquiry into John's fate was not mere idle curiosity, but rather a longing we all have for our friends. Perhaps Peter suspected that John, as a favored disciple, would have a happier fate and be spared the same death as them. However, Jesus did not choose to gratify Peter's curiosity, indicating that each person's journey and suffering are uniquely appointed by God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.8336436726996301,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                22.25,
+                65.13,
+                12.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's question inquiring about John's fate after Jesus' prophecy shows his understanding. It reflects a universal longing for our friends and perhaps Peter's assumption that John would have a different fate than his own impending suffering. However, Jesus does not indulge Peter's curiosity, emphasizing that each person's path and suffering are appointed by God.",
+            "wordCount": 59,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8090615263238181,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                24.08,
+                60.15,
+                15.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's question reflects his understanding of Jesus' prophecy about him. It reveals a common longing we have for our friends and perhaps Peter's assumption that John would have a different fate. Jesus does not satisfy Peter's curiosity, highlighting that God appoints each person's path and suffering.",
+            "wordCount": 50,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.8009218432441956,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.22,
+            "commentatorTierSimilarities": [
+                25.63,
+                58.67,
+                15.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's question reveals that he had rightly understood the Lord\u2019s prophecy about him. It was not mere idle curiosity, but a longing we all feel for our friends. Peter's inquiry into John's fate may have been driven by a mix of grief and envy, wondering if John would have a different, happier destiny. Yet Jesus does not gratify Peter's curiosity, emphasizing that every person's journey and suffering are uniquely appointed by God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.764849403712329,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "commentatorTierSimilarities": [
+                25.4,
+                59.32,
+                15.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's question shows that he had rightly grasped the significance of Jesus' prophecy concerning him. It was not mere idle curiosity, but rather a deep longing we all have for our friends. Peter's inquiry about John's fate may have stemmed from a mix of grief and envy, wondering if John would escape a similar fate. However, Jesus did not choose to satisfy Peter's curiosity, indicating that each person's journey and suffering are uniquely determined by God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.6998039774725222,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+            "commentatorTierSimilarities": [
+                24.03,
+                62.79,
+                13.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

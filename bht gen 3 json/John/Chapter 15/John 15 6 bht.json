@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:12:51",
+    "verseRef": "John 15:6",
+    "bestBHT": {
+        "bht": "This verse serves as a striking testimony against the error of falling from grace and emphasizes the consequences of not abiding in Christ. Just like a branch that dries up without the life-giving sap, those who do not remain connected to Jesus wither away and become useful only as fuel. The imagery used here vividly illustrates the certainty and immediacy of the judgment that awaits those who do not truly abide in Christ. It is a sobering warning against presumption and a reminder of the importance of staying in vital union with Jesus, the true vine.",
+        "wordCount": 97,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.8661086385306822,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+        "commentatorTierSimilarities": [
+            27.27,
+            38.19,
+            34.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This verse is a most important testimony against supra-lapsarian error, shewing us that falling from grace is possible, and pointing out the steps of the fall.",
+            "He becomes dried up, having lost the supply of life-giving sap.",
+            "'Burneth;' not, 'is burned,' in any sense of being consumed; 'and must burn,' as Luther renders it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The one proper use of the vine is to bear fruit; failing this, it is good for one other thing\u2014fuel.",
+            "How awfully striking the figure, in this view of it!",
+            "How awfully striking the figure, in this view of it!"
+        ],
+        "Albert Barnes": [
+            "If a man, abide not in me... refers to those who are professors of religion, but who have never known anything of true and real connection with him.",
+            "A branch cut off withers. So of a soul unconnected with Christ, however fair it may have appeared... when it is tried, and it is seen that there was no true grace, everything withers and dies.",
+            "Like a withered branch reserved for the fire of the last great day... it will be done by the angels. The expression means, as the withered and useless branches of trees are gathered for fuel, so shall it be with all hypocrites and false professors of religion."
+        ],
+        "Marvin Vincent": [
+            "The aorist, denoting a momentary act, indicates that it was cast forth at the moment it ceased to abide in the vine.\" ",
+            "Strictly, the branch: the unfruitful branch.",
+            "The aorist, as in was cast forth. Wyc, shall wax dry."
+        ],
+        "John Calvin": [
+            "He again lays before them the punishment of ingratitude, and, by doing so, excites and urges them to perseverance.",
+            "Those who are cut off from Christ are said to wither like a dead branch.",
+            "Not that it ever happens that any one of the elect is dried up, but because there are many hypocrites who, in outward appearance, flourish and are green for a time, but who afterwards, when they ought to yield fruit, show the very opposite of that which the Lord expects and demands from his people."
+        ],
+        "Philip Schaff": [
+            "If any one abide not in me he is cast forth as the branch, and is withered; and they gather them, and cast them into the fire, and they burn.\" ",
+            "The words \u2018cast forth\u2019 and \u2018is withered\u2019 are so used in the original as to denote the certainty, the immediateness, of the doom referred to.",
+            "Instead of exhibiting beauty of leaf and bearing clusters of fruit, these branches shrivel up, die, and are consumed."
+        ],
+        "Archibald T. Robertson": [
+            "The apostles are thus vividly warned against presumption.",
+            "Jesus as the vine will fulfil his part of the relation as long as the branches keep in vital union with him.",
+            "They gather up the broken off branches."
+        ],
+        "John Gill": [
+            "The branch that is withered; expressing the condition the branch is in before it is cast forth out of the vineyard, and the reason of its being cast forth.",
+            "So mere external professors of religion, when they are cast out, of the communion of the church, presently the leaf of profession, which once seemed green, decays, loses its verdure, and that seeming fruit which grew upon them shrinks to nothing.",
+            "This may respect either the gnawings of conscience, that distress of mind, if not despair, that fearful looking for of judgment, and fiery indignation, which attend apostates in this life; or their being cast into the everlasting burnings of hell fire by angels at the last day."
+        ],
+        "John Wesley": [
+            "He may thus abide in Christ, and be withered all the time, and cast into the fire at last.",
+            "He is cast out \u2014 Of the vineyard, the invisible Church.",
+            "Therefore he was in it once."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse serves as a powerful reminder that falling from grace is possible and emphasizes the dire consequences of not abiding in Christ. Just as a branch that does not bear fruit withers and becomes fuel for fire, those who do not remain connected to Jesus will be cast forth, wither, and be gathered to be thrown into the fire. This image of withering and burning highlights the certainty and immediacy of the judgment that awaits those who do not truly abide in Christ. It serves as a warning against presumption and reminds us of the importance of maintaining a vital union with Jesus as the vine.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.8950889975479073,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                25.26,
+                37.8,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This important verse warns against the possibility of falling from grace and emphasizes the consequences of not remaining connected to Christ. Like a branch that withers and becomes fuel for fire, those who do not abide in Jesus will be cast forth and gathered to be thrown into the fire. This vivid imagery highlights the certainty and immediacy of the judgment that awaits those who do not truly abide in Christ. It serves as a powerful reminder of the need to maintain a vital union with Jesus as the vine.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8342550353629101,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                26.18,
+                36.58,
+                37.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse serves as a striking testimony against the error of falling from grace and emphasizes the consequences of not abiding in Christ. Just like a branch that dries up without the life-giving sap, those who do not remain connected to Jesus wither away and become useful only as fuel. The imagery used here vividly illustrates the certainty and immediacy of the judgment that awaits those who do not truly abide in Christ. It is a sobering warning against presumption and a reminder of the importance of staying in vital union with Jesus, the true vine.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8661086385306822,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                27.27,
+                38.19,
+                34.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse provides a powerful testimony against the error of falling from grace, as it demonstrates that losing connection with Christ is indeed possible. The image of a withered branch that has lost its life-giving sap showcases the consequences of not bearing fruit or abiding in Jesus. It serves as a vivid metaphor for individuals who fail to fulfill their purpose and end up being fit only for fuel. This warns against presumption and reminds us of the necessity of maintaining a vital and fruitful relationship with Jesus, the vine.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.7803474248737707,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                28.35,
+                37.19,
+                34.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse serves as a crucial testimony against the error of falling away from grace and highlights the process of that spiritual decline. Just as a branch without fruit becomes dry and useless, those who do not abide in Christ wither away and are fit only for burning. The imagery here is striking, emphasizing the certainty and immediacy of the consequence for those who do not remain in vital union with Jesus. It is a poignant reminder to avoid presumption and to maintain a fruitful connection with Him, our source of life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8376441532373393,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                26.31,
+                38.39,
+                35.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

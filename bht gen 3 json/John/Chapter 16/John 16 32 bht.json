@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:13:31",
+    "verseRef": "John 16:32",
+    "bestBHT": {
+        "bht": "Even in the depths of His suffering, the Son finds solace in the unwavering presence of the Father. The cry of abandonment, Why hast Thou forsaken me?, is not a true forsaking but rather aligns with the divine plan. As foretold, the disciples will scatter and leave Christ alone, like sheep fleeing from a wolf. The hour of trial draws near and is virtually underway. Despite human desertion, the steadfast support of God is paramount. Christ's dignity remains unyielding, for He is self-reliant as the Son of God and the Mediator.",
+        "wordCount": 93,
+        "quoteTokenProportion": 29.85,
+        "qualityScore": 1.3341489199243197,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+        "commentatorTierSimilarities": [
+            26.92,
+            33.33,
+            39.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Father can never leave the Son, even in the darkest hour of His human suffering.",
+            "The apparent desertion implied in the cry 'Why hast Thou forsaken me?' being perfectly consistent with this.",
+            "I am not alone."
+        ],
+        "Albert Barnes": [
+            "Leave me alone - Leave me to die without human sympathy or compassion.",
+            "It matters little who else forsakes us if God be with us in the hour of pain and of death.",
+            "Without his favor then, death will be full of horrors, though we be surrounded by weeping relatives, and by all the honor, and splendor, and wealth which the world can bestow."
+        ],
+        "Marvin Vincent": [
+            "In the divine counsel the hour cometh that ye may be scattered, and may leave, etc.",
+            "To his own home.",
+            "To his own."
+        ],
+        "John Calvin": [
+            "When Christ is forsaken by men, he loses nothing of his dignity.",
+            "He is in no degree impaired, because he is God, and needs not any assistance from another.",
+            "The revolt of all men will not overturn his faith; for we do not render to God the honor which is due to him, if we are not satisfied with having God alone."
+        ],
+        "Archibald T. Robertson": [
+            "The long-looked-for hour is so close that it has virtually begun.",
+            "Ye shall be scattered, used in John 10:12 of sheep scampering from the wolf.",
+            "Clear case of \u03ba\u03b1 in adversative sense, not just 'and'."
+        ],
+        "John Gill": [
+            "Behold the hour cometh, yea, is now come... it may, in a sense, be said to be already come.\" ",
+            "...that ye shall be scattered, every man to his own...and shall leave me alone...And yet I am, not alone.\" ",
+            "Because the Father is with me; not only as the Son of God, by virtue of union to him, and as one with him; but as Mediator, in consequence of his promise to uphold him, and assist him in his human nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the darkest hour of His suffering, there is reassurance that the Father can never leave the Son. The cry Why hast Thou forsaken me? may imply apparent desertion, but the divine counsel has already foreseen the scattering and desertion of others. Christ's disciples will flee to their own homes, leaving Him alone, as sheep scatter from a wolf. However, the hour of suffering, though close, has already begun. It matters little who else forsakes us if God is with us in our pain and death. Even in the face of revolt and abandonment, Christ's dignity remains intact, for He is God and needs no assistance from another. His faith will not be overturned, and the honor due to God is satisfied in having Him alone. The Father is with Christ, upholding and assisting Him, not just as the Son of God, but also as the Mediator.",
+            "wordCount": 149,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.484380599220784,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.7,
+            "commentatorTierSimilarities": [
+                24.64,
+                35.57,
+                39.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Son's darkest hour of suffering, the Father's unwavering presence is evident. Though the cry of desertion is heard, it aligns with the divine plan. As predicted, the disciples scatter, leaving Christ alone. Despite feeling abandoned, the approaching hour is so close that it may as well have already begun. Even if others forsake us, the presence of God is all that truly matters. Christ's dignity remains unshaken, as He is God and requires no assistance. The Father stands by Him, fulfilling His promise to support and aid Him as the Mediator.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.3123131129426315,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.98,
+            "commentatorTierSimilarities": [
+                25.88,
+                32.77,
+                41.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the Son's suffering, the Father's constant presence cannot be denied. Although the cry of abandonment is made, it is in harmony with the divine intention. As anticipated, the disciples will scatter and leave Christ solitary. The hour of tribulation is so imminent that it is practically underway. Even if others forsake us, the most significant factor is having God by our side. Christ's honor and integrity remain unscathed, as He is divine and independent. The Father stands with Him, keeping His promise to provide assistance and support as the Mediator.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.2561129486930642,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+            "commentatorTierSimilarities": [
+                25.2,
+                33.1,
+                41.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even in the depths of His suffering, the Son finds solace in the unwavering presence of the Father. The apparent abandonment expressed in the cry Why hast Thou forsaken me? is not a true forsaking, but aligns with the divine plan. As foretold, the disciples will scatter and leave Christ alone, similar to sheep fleeing from a wolf. The approaching hour of trial is so close that it may as well have already begun. Regardless of human desertion, the steadfast support of God is paramount. Christ's dignity and faith remain unshakeable, for He is self-reliant as God. The Father stands beside Him, upholding and assisting Him as both the Son of God and the Mediator.",
+            "wordCount": 117,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 1.3406307961936434,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+            "commentatorTierSimilarities": [
+                27.67,
+                31.67,
+                40.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even in the depths of His suffering, the Son finds solace in the unwavering presence of the Father. The cry of abandonment, Why hast Thou forsaken me?, is not a true forsaking but rather aligns with the divine plan. As foretold, the disciples will scatter and leave Christ alone, like sheep fleeing from a wolf. The hour of trial draws near and is virtually underway. Despite human desertion, the steadfast support of God is paramount. Christ's dignity remains unyielding, for He is self-reliant as the Son of God and the Mediator.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.3341489199243197,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                26.92,
+                33.33,
+                39.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

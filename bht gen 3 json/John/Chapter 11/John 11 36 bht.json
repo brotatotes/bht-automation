@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:10:27",
+    "verseRef": "John 11:36",
+    "bestBHT": {
+        "bht": "Behold the incredible love Jesus had for Lazarus, a testament to the tender compassion of the Son of God. Even the Jews recognized this love, and it is truly awe-inspiring considering that it comes from the eternal Son of God, the Creator and King. Christ's love for his people, even when they are dead in sin, is a remarkable display of his grace and care. He willingly becomes their surety, enters into covenant, and provides for all their needs and blessings.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.6579434944335922,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+        "commentatorTierSimilarities": [
+            36.98,
+            0.0,
+            63.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This second being greatly moved of our Lord I would refer to the same reason as the first."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Behold how he loved him!",
+            "...spontaneous testimony to the human tenderness of the Son of God.",
+            "...testimony to the human tenderness of the Son of God."
+        ],
+        "Marvin Vincent": [
+            "Loved [\u03b5\u03c6\u03b9\u03bb\u03b5\u03b9] . Not the word in ver. 5. See on 5 20, and compare John 20:2."
+        ],
+        "John Calvin": [
+            "Though they think less highly of Christ than they ought to have done, since they ascribe to him nothing but what may belong to a man, yet they speak of him with greater candor and modesty than the latter.\" ",
+            "It is evident enough from their words, that the miracles which Christ had performed were not unknown to them; but so much the more base is their ingratitude, that they do not scruple to complain, because now, in a single instance, he abstained from working.",
+            "Men have always been ungrateful to God in the same manner, and continue to be so. If he does not grant all our wishes, we immediately launch into complaints: 'Since he has been accustomed to aid us hitherto, why does he now forsake and disappoint us?'"
+        ],
+        "Archibald T. Robertson": [
+            "Loved (\u03b5\u03c6\u03b9\u03bb\u03b5). As in verse John 11:3 which see. Imperfect active. Even the Jews saw that Jesus loved Lazarus. "
+        ],
+        "John Gill": [
+            "Christ's love to all his people, even when they are dead in trespasses and sins, is wonderful, and passes knowledge.\" ",
+            "And it is amazing indeed, if it be considered who the lover is, the eternal Son of God, who is God over all, blessed for ever, the Creator of all things, the King of kings, and Lord of lords.\" ",
+            "His love appears to them; as before time, in espousing their persons, becoming their surety, engaging in covenant with his Father for them, agreeing to all he proposed, taking the care of their persons, and of all blessings and promises, grace and glory for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold how Jesus loved Lazarus! This verse is a testimony to the deep and genuine tenderness of the Son of God. Even the Jews recognized Jesus' love for Lazarus, and it is truly remarkable when you consider who the lover is - the eternal Son of God, the Creator, the King of kings. Christ's love for his people, even when they are dead in sin, is truly amazing. It is a love that goes beyond our understanding, as he espouses our persons, becomes our surety, engages in covenant with his Father for us, and cares for all our needs and blessings.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.830363102456301,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.2,
+            "commentatorTierSimilarities": [
+                46.23,
+                0.0,
+                53.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold the incredible love Jesus had for Lazarus, a testament to the tender compassion of the Son of God. Even the Jews recognized this love, and it is truly awe-inspiring considering that it comes from the eternal Son of God, the Creator and King. Christ's love for his people, even when they are dead in sin, is a remarkable display of his grace and care. He willingly becomes their surety, enters into covenant, and provides for all their needs and blessings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6579434944335922,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+            "commentatorTierSimilarities": [
+                36.98,
+                0.0,
+                63.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold the profound love of Jesus for Lazarus, a testament to the tender compassion displayed by the Son of God. Even the Jews recognized this love, giving spontaneous testimony to the human tenderness of Jesus. It is truly remarkable that such affection comes from the eternal Son of God, the Creator and King. Christ's love for his people, even when they are dead in sin, is a striking manifestation of his unfathomable grace and care. He becomes their surety, enters into covenant, and provides for all their needs and blessings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6324557943491298,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+            "commentatorTierSimilarities": [
+                40.51,
+                0.0,
+                59.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold the powerful love Jesus had for Lazarus, a testament to the tender compassion of the Son of God. Even the Jews recognized this love, giving spontaneous testimony to the human tenderness of Jesus. It is truly remarkable that such affection comes from the eternal Son of God, the Creator and King. Christ's love for his people, even when they are dead in sin, is a remarkable display of his grace and care. He becomes their surety, enters into covenant, and provides for all their needs and blessings.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6370171662801267,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+            "commentatorTierSimilarities": [
+                39.8,
+                0.0,
+                60.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold the profound love Jesus had for Lazarus, a testament to the tender compassion displayed by the Son of God. Even the Jews recognized this love, giving spontaneous testimony to the human tenderness of Jesus. Christ's love for his people, even when they are dead in sin, is a striking manifestation of his unfathomable grace and care. He becomes their surety, entering into covenant and providing for all their needs and blessings. The love of the eternal Son of God extends beyond our comprehension, offering hope and salvation to all.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6374611209799754,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                42.11,
+                0.0,
+                57.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

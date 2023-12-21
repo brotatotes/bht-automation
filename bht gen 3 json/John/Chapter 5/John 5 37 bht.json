@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:06:43",
+    "verseRef": "John 5:37",
+    "bestBHT": {
+        "bht": "Jesus' statement regarding the Father's testimony highlights that God's witness does not come through audible voice or visible form. The witness of the Father is a permanent state of failure to hear and see Him. Instead, God's witness is found in the Scriptures and in the hearts of believers. The Jews, however, have disregarded God's voice and failed to recognize Him in their midst. Had they truly known the Father, they would have recognized Him when Jesus spoke.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.2877048412588614,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.41,
+        "commentatorTierSimilarities": [
+            33.62,
+            37.26,
+            29.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The Father himself . . . hath borne witness of me.\" ",
+            "Neither heard his voice.",
+            "The words are 'designedly mysterious, like many others which our Lord uttered'."
+        ],
+        "Albert Barnes": [
+            "He affirmed that God had given sufficient evidence of his divine mission, but they had disregarded it.",
+            "The Saviour said that it had been the 'characteristic' of the Jews that they had not listened to the voice or command of God.",
+            "He had manifested himself, but they disregarded it, and, in particular, they had disregarded his manifestations in attestation of the Messiah."
+        ],
+        "Marvin Vincent": [
+            "The Father which sent me, He hath born witness.",
+            "Not referring to the descent of the dove and the voice from heaven at Jesus' baptism, but generally and figuratively to God's witness in the Old Testament Scriptures.",
+            "This is in harmony with the succeeding reference to the word."
+        ],
+        "John Calvin": [
+            "I explain, therefore, that God testified concerning his Son, whenever in past times he held out to the ancient people the hope of salvation, or promised that the kingdom of Israel would be fully restored.",
+            "For as men are made known by the countenance and speech, so God utters his voice to us by the voice of the Prophets, and, in the sacraments, takes, as it were, a visible form, from which he may be known by us according to our feeble capacity.",
+            "But he who does not recognize God in his lively image, plainly shows by this very fact that he worships no Deity but what he has himself contrived."
+        ],
+        "Philip Schaff": [
+            "And thus, in the abiding gift of the 'works,' it is the Father that sent me that hath borne witness of me.\" ",
+            "The Father has borne witness, but they have not known His presence. In the words of Jesus He has spoken, and the ear not closed through wilfulness and unbelief would have recognised the voice of God.\" ",
+            "Had they done so, had they ever been acquainted with the Father's voice, they would have recognized it when Jesus spoke: had the eyes of their understanding ever been enlightened so as to see God, they would have seen the Father manifested in their very presence in His Son."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus is not speaking of the voice of the Father at his baptism, the transfiguration, nor even at the time of the visit of the Greeks. This last voice was heard by many who thought it was thunder or an angel.",
+            "The language of Jesus refers to the witness of the Father in the heart of the believers.",
+            "God's witness does not come by audible 'voice' nor visible 'form'. It is a permanent state of failure to hear and see God."
+        ],
+        "John Gill": [
+            "And the Father himself, which hath sent me... hath borne witness of me... by an audible articulate voice from heaven... which was a full testimony of the sonship of Christ.\" ",
+            "The sonship of Christ is the grand thing which the three that bear record in heaven, the Father, the Word, and the Holy Ghost, testify of.",
+            "It was unusual, and wonderful, and remarkable, that the Father should bear a testimony to the sonship of Christ by a voice from heaven; and which therefore ought to be attended to, and received as a sufficient and valid testimony."
+        ],
+        "John Wesley": [
+            "He hath testified of me \u2014 Namely at my baptism. I speak not of my supposed father Joseph. Ye are utter strangers to him of whom I speak."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the testimony of the Father concerning Jesus, but not in the literal sense of an audible voice. Instead, Jesus refers to the witness of the Father in the Old Testament Scriptures and the witness in the hearts of believers. The Jews, however, had failed to recognize this witness, disregarding God's voice in their midst. If they had truly known God and His manifestations, they would have recognized Him when Jesus spoke. Therefore, the witness of the Father is not through audible voice or visible form, but through a permanent state of failure to hear and see God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.412988401854042,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.57,
+            "commentatorTierSimilarities": [
+                33.34,
+                37.12,
+                29.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reminds his audience that the Father Himself bears witness to Him, not through audible or visible signs, but through the Scriptures and in the hearts of believers. However, the Jews have failed to listen to God's voice, disregarding His manifestations and failing to recognize Him when Jesus speaks. This highlights the permanent state of their inability to see and hear God. The witness of the Father is not a physical presence, but a missed opportunity to recognize Him in their midst.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1481897437914963,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                30.94,
+                39.09,
+                29.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus points out that the Father Himself testifies about Him, not through audible voices or visible forms, but through the witness of the Scriptures and in the hearts of believers. He highlights the Jews' failure to hear and see God's presence in their midst and their disregard for His manifestations. If they had truly known the Father, they would have recognized Him when Jesus spoke. This emphasizes the permanent state of their inability to hear and see God's witness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.242719774325443,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.91,
+            "commentatorTierSimilarities": [
+                29.86,
+                40.31,
+                29.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' statement regarding the Father's testimony highlights that God's witness does not come through audible voice or visible form. The witness of the Father is a permanent state of failure to hear and see Him. Instead, God's witness is found in the Scriptures and in the hearts of believers. The Jews, however, have disregarded God's voice and failed to recognize Him in their midst. Had they truly known the Father, they would have recognized Him when Jesus spoke.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.2877048412588614,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.41,
+            "commentatorTierSimilarities": [
+                33.62,
+                37.26,
+                29.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus explains that the Father Himself testifies about Him, not through audible voice or visible form, but through the witness of the Scriptures and in the hearts of believers. The Jews, however, have failed to hear and see God's witness. They have disregarded His voice, even when Jesus speaks. This failure to recognize God's presence in their midst highlights their inability to truly hear and see His testimony. The witness of the Father is not a fleeting occurrence, but a continuous state of failure to perceive Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2524210947090904,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.23,
+            "commentatorTierSimilarities": [
+                32.68,
+                37.69,
+                29.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

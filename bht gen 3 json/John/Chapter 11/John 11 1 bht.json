@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:10:11",
+    "verseRef": "John 11:1",
+    "bestBHT": {
+        "bht": "In this context, the conjunction used serves as a contrast to the previous sojourn in Per\u00e6a, directing our attention to Bethany, the village of Martha and Mary. It is mentioned that Mary and Martha were already well known from the current apostolic teaching. Bethany, situated at the east side of Mount Olivet, is specifically identified to distinguish it from another Bethany. This interruption in Jesus' retirement sets the stage for the powerful resurrection of Lazarus, a remarkable demonstration of Jesus' Divine power and a foreshadowing of future resurrection.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.9813400381525557,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+        "commentatorTierSimilarities": [
+            34.09,
+            41.86,
+            24.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This conjunction here is not merely a word of passage to another subject, but expresses a contrast to the sojourn in Per\u00e6a...",
+            "Bethany is designated as \u2018the village of Martha and Mary,\u2019 to distinguish it from that Bethany be-yond Jordan...",
+            "Mary and Martha are mentioned as already well known from the current apostolic teaching..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1. of Bethany\u2014at the east side",
+            "\tof Mount Olivet. ",
+            "\t",
+            "the town of Mary and her",
+            "\tsister Martha\u2014thus distinguishing it from the other Bethany,",
+            "\t\"beyond Jordan.\" (See on :-; John 10:40)."
+        ],
+        "Albert Barnes": [
+            "The resurrection of Lazarus has been recorded only by John.",
+            "There was the more need, therefore, that he should enter minutely into the account of the miracle.",
+            "Those occurred in December, and these at the approach of the Passover in April."
+        ],
+        "Marvin Vincent": [
+            "Now [\u03b4\u03b5] . Marking the interruption to Jesus ' retirement (x. 40). ",
+            "Lazarus. See on Luke 16:20."
+        ],
+        "John Calvin": [
+            "For not only did Christ give a remarkable proof of his Divine power in raising Lazarus, but he likewise placed before our eyes a lively image of our future resurrection.",
+            "There were others whom Christ had raised from the dead, but he now displays his power on a rotting corpse.",
+            "It is really too ridiculous a blunder, to suppose that Monks, and such fry as the Papists have, made this small town or village a castle."
+        ],
+        "Philip Schaff": [
+            "The scene of the miracle to be related in this chapter is Bethany, a village about two miles south-east of Jerusalem over the southern shoulder of the Mount of Olives.\" ",
+            "Bethany itself is 'the village of Mary and her sister Martha.'\" ",
+            "The circumstance referred to in John 11:2 probably accounts for the prior mention of Mary, for Martha appears to have been the elder sister."
+        ],
+        "Archibald T. Robertson": [
+            "Periphrastic imperfect active of \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03c9, old verb (from \u03b1\u03c3\u03b8\u03b5\u03bd\u03b7\u03c2, \u03b1 privative, and \u03c3\u03b8\u03b5\u03bd\u03bf\u03c2, strength).\" ",
+            "It is doubtful if a distinction is meant here by \u03b1\u03c0\u03bf and \u03b5\u03ba between Bethany as the residence and some other village (\u03b5\u03ba \u03c4\u03b7\u03c2 \u03ba\u03c9\u03bc\u03b7\u03c2) as the birthplace of Lazarus and the sisters.",
+            "The identification of Mary with Mary Magdalene is a mere conjecture supported by no direct evidence, and opposed to the general tenor of the Gospels\" (Westcott)."
+        ],
+        "John Gill": [
+            "A certain man was sick.... Very likely of a fever; Nonnus calls it a morbid fire, a hot and burning disease.",
+            "The town of Mary and her sister Martha; where they were both born, as well as Lazarus, or at least where they dwelt.",
+            "Some account is given in the next verse, and of the latter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 11:1, the conjunction used expresses a contrast to the sojourn in Per\u00e6a and brings attention to Bethany, the village of Martha and Mary. It is mentioned that Mary and Martha were well known from the current apostolic teaching. Bethany is specifically located at the east side of Mount Olivet and is distinguished from the other Bethany beyond Jordan. The interruption to Jesus' retirement is marked by the word now. The periphrastic imperfect active of \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03c9 is used to describe Lazarus' illness, indicating a sense of weakness. The identification of Mary with Mary Magdalene is not supported by direct evidence and goes against the general tenor of the Gospels. This verse sets the stage for the resurrection of Lazarus, a remarkable proof of Jesus' Divine power and a preview of future resurrection.",
+            "wordCount": 132,
+            "quoteTokenProportion": 29.27,
+            "qualityScore": 1.8912208163283672,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                34.97,
+                40.28,
+                24.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the conjunction used contrasts the previous sojourn with the focus on Bethany, specifically the village of Martha and Mary. It is worth mentioning that Mary and Martha were already well known from apostolic teaching. Notably, Bethany is situated at the east side of Mount Olivet and is distinguished from another Bethany. The interruption to Jesus' retirement is marked by the word now. This sets the stage for the powerful resurrection of Lazarus, demonstrating Jesus' Divine power and foreshadowing our own future resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9188525056150323,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                33.68,
+                41.33,
+                24.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this conjunction, there is a clear contrast to the sojourn in Per\u00e6a, directing our attention to Bethany, specifically the village of Martha and Mary. Mary and Martha are noted to be already well known from current apostolic teaching. Bethany is situated at the east side of Mount Olivet, distinguishing it from the other Bethany. This interruption to Jesus' retirement is significant, as it sets the stage for the remarkable resurrection of Lazarus, showcasing Jesus' Divine power and providing a glimpse of our own future resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9599184606707833,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                35.93,
+                41.06,
+                23.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The conjunction used in this context serves not only as a word of transition, but also implies a contrast to the previous sojourn in Per\u00e6a. It draws our attention to Bethany, specifically referred to as the village of Martha and Mary, distinguishing it from another Bethany beyond Jordan. Additionally, it is worth noting that Mary and Martha were already well known due to the current apostolic teaching. Bethany, located at the east side of Mount Olivet, serves as the backdrop for the powerful resurrection of Lazarus, a profound display of Jesus' Divine power and a glimpse of our own future resurrection.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8916700085595735,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.24,
+            "commentatorTierSimilarities": [
+                34.07,
+                40.5,
+                25.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this context, the conjunction used serves as a contrast to the previous sojourn in Per\u00e6a, directing our attention to Bethany, the village of Martha and Mary. It is mentioned that Mary and Martha were already well known from the current apostolic teaching. Bethany, situated at the east side of Mount Olivet, is specifically identified to distinguish it from another Bethany. This interruption in Jesus' retirement sets the stage for the powerful resurrection of Lazarus, a remarkable demonstration of Jesus' Divine power and a foreshadowing of future resurrection.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9813400381525557,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                34.09,
+                41.86,
+                24.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:05:14",
+    "verseRef": "John 3:36",
+    "bestBHT": {
+        "bht": "Unbelief implies disobedience and a state of darkness, where one will never have everlasting life or see it. This contradicts the idea that there was no need for anything in God to be removed by Christ, as the removal of sin is necessary for life. On the other hand, he who believes in the Son has the highest blessing of life eternal, already possessing it through faith. The contrast is between those who obey the Son and those who do not, with the latter facing the wrath of God. Ultimately, Jesus is the test of human life, and enjoyment and life are found in Him alone through faith.",
+        "wordCount": 108,
+        "quoteTokenProportion": 54.67,
+        "qualityScore": 2.0951431590490066,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+        "commentatorTierSimilarities": [
+            29.16,
+            33.68,
+            37.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Unbelief implies disobedience.",
+            "Abideth...in his state of darkness and nature\u2014",
+            "Can only be removed by faith in the Son of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The contrast here is striking: The one has already a life that will endure for ever\u2014the other not only has it not now, but shall never have it\u2014never see it.",
+            "It was on Him before, and not being removed in the only possible way, by 'believing on the Son,' it necessarily remaineth on him!",
+            "How flatly does this contradict the teaching of many in our day, that there neither was, nor is, anything in God against sinners which needed to be removed by Christ, but only in men against God!"
+        ],
+        "Albert Barnes": [
+            "Piety here is the same that it will be there, except that it will be expanded, matured, purified, made more glorious.",
+            "The Christian here has a foretaste of the world of glory, and enjoys the same kind of felicity, though not the same degree, that he will there.",
+            "Such is the miserable condition of the sinner! Yet thousands choose to remain in this state, and to encounter alone all that is terrible in the wrath of Almighty God, rather than come to Jesus."
+        ],
+        "John Calvin": [
+            "Enjoyment consists in faith; and not without reason, since by means of it we possess Christ, who brings along with him both righteousness and life.",
+            "Life is to be found in Christ alone, and that in no other way do we become partakers of it than by the grace of Christ himself.",
+            "Nor is any one enabled to object that it is unjust that those who are otherwise devout and holy should perish, because they do not believe; for it is folly to imagine that there is any holiness in men, unless it have been given to them by Christ."
+        ],
+        "Philip Schaff": [
+            "He that believeth in the Son has in Him the highest of all blessings, life eternal; has this in present possession-involved in the communion of faith in which he lives.\" ",
+            "Over against the believer is here set, not the man who does not believe, but he that disobeys... not faith only, but the obedience of faith, is His due.\" ",
+            "The rejection of the Son brings with it the wrath of God, by whom all things were given into the Son\u2019s hand: this is the present and the abiding heritage of him that obeyeth not the Son."
+        ],
+        "Archibald T. Robertson": [
+            "Has it here and now and for eternity.",
+            "'He that is disobedient to the Son.'",
+            "Jesus is the test of human life."
+        ],
+        "John Gill": [
+            "He that believeth on the Son,.... Who is a proper object of faith and trust; which, if he was not truly and properly God, he would not be...",
+            "he hath everlasting life; he has it in Christ his head, in whom he believes; he has a right unto it through the justifying righteousness of Christ, and a meetness for it by his grace...",
+            "But the wrath of God abideth on him; as the sentence of wrath, of condemnation, and death, and the curse of the law were pronounced upon him in Adam, as on all mankind, it continues, and will continue..."
+        ],
+        "John Wesley": [
+            "He that believeth on the Son hath everlasting life \u2014 He hath it already. For he loves God. And love is the essence of heaven.",
+            "He that obeyeth not \u2014 A consequence of not believing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Unbelief implies disobedience and results in a state of darkness, where one will never have everlasting life or see it. This contradicts the idea that there was no need for anything in God to be removed by Christ, as the removal of sin is necessary for life. On the other hand, he who believes in the Son has the highest blessing of life eternal, already possessing it through faith. The contrast is between those who obey the Son and those who do not, with the latter facing the wrath of God. Ultimately, Jesus is the test of human life, and enjoyment and life are found in Him alone through faith.",
+            "wordCount": 110,
+            "quoteTokenProportion": 53.95,
+            "qualityScore": 2.0916655743979478,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                28.95,
+                33.85,
+                37.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Unbelief implies disobedience and a state of darkness without everlasting life. It contradicts the notion that Christ's sacrifice was unnecessary. Believers, however, possess eternal life through faith in the Son. Those who disobey the Son will face the wrath of God. Ultimately, Jesus is the test of human life and the source of true enjoyment and life. Only through faith in Him can one find righteousness and receive the blessings of everlasting life.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9590574794094266,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                30.37,
+                31.28,
+                38.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Unbelief implies disobedience and a state of darkness, where one will never have everlasting life or see it. This contradicts the idea that there was no need for anything in God to be removed by Christ, as the removal of sin is necessary for life. On the other hand, he who believes in the Son has the highest blessing of life eternal, already possessing it through faith. The contrast is between those who obey the Son and those who do not, with the latter facing the wrath of God. Ultimately, Jesus is the test of human life, and enjoyment and life are found in Him alone through faith.",
+            "wordCount": 108,
+            "quoteTokenProportion": 54.67,
+            "qualityScore": 2.0951431590490066,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                29.16,
+                33.68,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Unbelief implies disobedience and a state of darkness without everlasting life. It contradicts the notion that Christ's sacrifice was unnecessary. Believers, however, possess eternal life through faith in the Son. Those who disobey the Son will face the wrath of God. Jesus is the test of human life, and only through faith in Him can one find righteousness and receive everlasting life.",
+            "wordCount": 63,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.016559871176917,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.39,
+            "commentatorTierSimilarities": [
+                31.19,
+                31.28,
+                37.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unbelief implies disobedience and a state of darkness without everlasting life. Those who do not believe on the Son have already a life that will endure for ever and the wrath of God remaineth on him! On the contrary, he who believes in the Son has everlasting life, already possessing it by faith. The contrast is between obedience to the Son, which brings life, and disobedience, which incurs the wrath of God. Ultimately, Jesus is the test of human life, the source of true enjoyment and eternal life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.145978819998854,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+            "commentatorTierSimilarities": [
+                29.7,
+                33.43,
+                36.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

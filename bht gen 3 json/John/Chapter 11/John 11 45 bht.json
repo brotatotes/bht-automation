@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:10:34",
+    "verseRef": "John 11:45",
+    "bestBHT": {
+        "bht": "The raising of Lazarus created a clear division among the people, which was a common occurrence throughout the Gospel history. A multitude gathered to witness this extraordinary event, echoing the pattern seen when Jesus raised the dead on previous occasions. The preceding miracle stood out due to the thorough investigation of its facts by eyewitnesses. Many who witnessed the miracle became believers in Jesus, recognizing him as the true Messiah. This remarkable event brought glory to the Son of God and fulfilled his words.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.9979455748684534,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.77,
+        "commentatorTierSimilarities": [
+            32.79,
+            37.67,
+            29.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The two classes which continually reappear in the Gospel history; nor is there ever any great work of God which does not produce both.",
+            "It is remarkable that on each of the three occasions on which our Lord raised the dead, a large number of persons was assembled.",
+            "The preceding miracle (cure of the man born blind) is distinguished from all others by the open and formal investigation of its facts."
+        ],
+        "Marvin Vincent": [
+            "The things which Jesus did. The best texts omit Jesus. Some read o, that which He did; others a, the things which."
+        ],
+        "John Calvin": [
+            "Christ did not permit the miracle which he had wrought to be without fruit, for by means of it he drew some persons to the faith.",
+            "For we ought to understand that miracles have a twofold use. They are intended either to prepare us for faith, or to confirm us in faith.",
+            "Accordingly, by the word believe we must not suppose anything else to be meant than a willingness to embrace the doctrine of Christ."
+        ],
+        "Philip Schaff": [
+            "The great manifestations of our Lord to the people, whether in word or in miracle, were usually, as we have several times seen, followed by a marked division of opinion and feeling among His hearers.",
+            "There is such a division in the present instance, as the next verse shows; but the effect of the miracle is great beyond precedent.",
+            "All those of \u2018the Jews\u2019 who had come to the house of Mary (John 11:19), and who with her witnessed the actions of Jesus, became believers in Him."
+        ],
+        "Archibald T. Robertson": [
+            "They were eye-witnesses of all the details and did not depend on hearsay.",
+            "Such a result had happened before.",
+            "This tremendous miracle which held many to Jesus."
+        ],
+        "John Gill": [
+            "Believed on him; that he was the true Messiah: such an effect the miracle had on them...",
+            "Such an effect the miracle had on them; so that it was a happy day for them...",
+            "It was a happy day for them, that they came from Jerusalem to Bethany to pay this visit."
+        ],
+        "John Wesley": [
+            "Many believed on Him \u2014 And so the Son of God was glorified, according to what our Lord had said, John 11:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The events surrounding Jesus raising Lazarus from the dead showcased the two classes that consistently appeared throughout the Gospel history. On this occasion, a large number of individuals had gathered, as had happened with the previous instances of Jesus raising the dead. The thorough investigation of the previous miracle had made it distinct, with eyewitnesses testifying to the details of the event. This tremendous miracle had a profound impact on those who witnessed it, prompting many to believe in Jesus. The miracles performed by Jesus not only served to confirm those with faith but also to draw others towards embracing his teachings. Such was the case with those who believed that Jesus was the true Messiah after witnessing this miracle. The Son of God was indeed glorified through this remarkable event.",
+            "wordCount": 131,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 2.065516770113166,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                33.28,
+                34.33,
+                32.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The raising of Lazarus divided the people into two classes, a recurring pattern in the Gospel history. A significant number of individuals had gathered to witness this miracle, just as they had with Jesus' previous acts of raising the dead. The thorough investigation of the preceding miracle made it stand out, as eyewitnesses testified to its facts. This tremendous miracle held many to Jesus as they became believers. Miracles like these serve to prepare and confirm faith in the doctrine of Christ, glorifying the Son of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9817023388304258,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                32.82,
+                34.48,
+                32.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The raising of Lazarus divided the people into two classes, a recurring pattern in the Gospel history. A significant number of individuals had gathered to witness this miracle, just as they had with Jesus' previous acts of raising the dead. The thorough investigation of the preceding miracle made it stand out, as eyewitnesses testified to its facts. Many became believers in Jesus, finding the miracle to be a powerful confirmation of his identity as the true Messiah. This event served to glorify the Son of God, fulfilling his words.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8865357664672069,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.07,
+            "commentatorTierSimilarities": [
+                32.31,
+                35.19,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The division among the people following the raising of Lazarus was a typical occurrence in the Gospel history. As with previous instances of Jesus raising the dead, a significant number of individuals had gathered to witness this remarkable event. Eyewitnesses thoroughly investigated the preceding miracle, attesting to its factual details. This tremendous miracle had a profound impact on the witnesses, prompting many to believe in Jesus as the true Messiah. Through this miracle, the Son of God was glorified, fulfilling his words and drawing people to the faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.9864115281915948,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                32.49,
+                35.66,
+                31.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The raising of Lazarus created a clear division among the people, which was a common occurrence throughout the Gospel history. A multitude gathered to witness this extraordinary event, echoing the pattern seen when Jesus raised the dead on previous occasions. The preceding miracle stood out due to the thorough investigation of its facts by eyewitnesses. Many who witnessed the miracle became believers in Jesus, recognizing him as the true Messiah. This remarkable event brought glory to the Son of God and fulfilled his words.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9979455748684534,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.77,
+            "commentatorTierSimilarities": [
+                32.79,
+                37.67,
+                29.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

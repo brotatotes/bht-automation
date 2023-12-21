@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:10:55",
+    "verseRef": "John 12:12",
+    "bestBHT": {
+        "bht": "Even from the day of Jesus' triumphant entry into Jerusalem, he was set apart as the Passover lamb to be sacrificed for humanity. As the people celebrated and hailed him as their King, Jesus openly declared the beginning of his reign through his approaching death. The great multitude that gathered for this event included Galileans who came to Jerusalem for the Passover. Interestingly, it was the strangers, not the residents of Jerusalem, who showed more respect towards Jesus as the Son of God. This marked the commencement of Jesus' journey towards fulfilling his role as the ultimate Passover lamb.",
+        "wordCount": 99,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.936627251615064,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+        "commentatorTierSimilarities": [
+            30.09,
+            38.72,
+            31.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Even so, from the day of this solemn entry into Jerusalem, 'Christ our Passover' was virtually set apart to be 'sacrificed for us'.\" (John 12:12)",
+            "On the next day\u2014the Lord's day, or Sunday... the paschal lamb was set apart to be 'kept up until the fourteenth day of the same month, when the whole assembly of the congregation of Israel were to kill it in the evening.'\" (John 12:12)",
+            "Christ our Passover was virtually set apart to be 'sacrificed for us'.\" (John 12:12)"
+        ],
+        "Marvin Vincent": [
+            "A great multitude [\u03bf\u03c7\u03bb\u03bf\u03c2 \u03c0\u03bf\u03bb\u03c5\u03c2] . Some editors add the article and render, the common people."
+        ],
+        "John Calvin": [
+            "He wishes to be solemnly acknowledged by the people as their King; nay, he openly declares that he commences his reign by advancing to death.",
+            "Thus strangers were more ready to discharge the duty of paying respect to the Son of God than the citizens of Jerusalem.",
+            "When the multitudes wished to make him a king, while he was in the wilderness, he withdrew secretly into the mountain; for at that time they dreamed of no other kingdom than one under which they might be well fattened, in the same manner as cattle."
+        ],
+        "Philip Schaff": [
+            "Tradition thus confirming the exegesis of the text, and finding in the latter support for its own correctness.",
+            "This first day of the Jewish week was the 10th Nisan, the day on which the typical Paschal lamb was selected and set apart for sacrifice.",
+            "The common people here spoken of are not 'the Jews,' but the multitude that had assembled at Jerusalem at the time in order to celebrate the Passover."
+        ],
+        "Archibald T. Robertson": [
+            "On our Sunday, Palm Sunday.",
+            "A great multitude, the common people.",
+            "Jesus is coming into Jerusalem, defying the Sanhedrin."
+        ],
+        "John Gill": [
+            "though the following account is a stretching it too far, yet it may serve to illustrate this matter.\" ",
+            "would you desire to know what multitudes were at Jerusalem of the priests, you may know, as it is written, 1 Kings 8:63...",
+            "King Agrippa sought to know what was the number of the multitude, which were in Jerusalem; he said to the priests, lay by for me one kidney of every passover lamb..."
+        ],
+        "John Wesley": [
+            "The next day \u2014 On Sunday.",
+            "Who were come to the feast \u2014 So that this multitude consisted chiefly of Galileans, not men of Jerusalem. Matthew 21:8."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even from the day of Jesus' triumphal entry into Jerusalem, he was being set apart as the sacrificial Passover lamb for all of humanity. As the people hailed him as their King, Jesus was defying the Sanhedrin and openly declaring that his reign began with his journey to the cross. The great multitude that welcomed Jesus into Jerusalem were not just the common people, but specifically the multitude that had gathered to celebrate the Passover. Interestingly, it was the strangers who were more willing to show respect and acknowledge Jesus as the Son of God than the citizens of Jerusalem. Even though this account may be stretching it, it's worth considering the multitude of priests who attended the Passover and the number of people who were in Jerusalem during this time. Ultimately, Jesus' entry into Jerusalem on that Sunday marked the beginning of his journey to the cross, where he would fulfill his role as the ultimate Passover lamb.",
+            "wordCount": 160,
+            "quoteTokenProportion": 41.11,
+            "qualityScore": 2.0771317802895117,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                29.71,
+                38.89,
+                31.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even from the day of Jesus' triumphal entry into Jerusalem, he was set apart as the sacrificial Passover lamb. As the people hailed him as their King, Jesus openly declared that his reign began with his journey to the cross. The great multitude that welcomed him consisted primarily of Galileans celebrating the Passover. Strangers were more willing to acknowledge Jesus than the citizens of Jerusalem. Jesus' entry on that Sunday marked the start of his journey to fulfill his role as the ultimate Passover lamb.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9110456974785084,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                29.91,
+                38.38,
+                31.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From the day of Jesus' entry into Jerusalem, he was set apart as the sacrificial Passover lamb. Hailed as their King, Jesus declared his reign by choosing the path to the cross. The multitude that celebrated this event consisted mainly of Galileans there for the Passover. Interestingly, it was the strangers, not the citizens of Jerusalem, who acknowledged Jesus as the Son of God. Jesus' entry signaled the beginning of his journey to fulfill his role as the ultimate Passover lamb.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8789843587546433,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.82,
+            "commentatorTierSimilarities": [
+                28.83,
+                40.66,
+                30.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even from the day of Jesus' triumphant entry into Jerusalem, he was set apart as the Passover lamb to be sacrificed for humanity. As the people celebrated and hailed him as their King, Jesus openly declared the beginning of his reign through his approaching death. The great multitude that gathered for this event included Galileans who came to Jerusalem for the Passover. Interestingly, it was the strangers, not the residents of Jerusalem, who showed more respect towards Jesus as the Son of God. This marked the commencement of Jesus' journey towards fulfilling his role as the ultimate Passover lamb.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.936627251615064,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                30.09,
+                38.72,
+                31.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "From the day of Jesus' entry into Jerusalem, he was set apart as the sacrificial Passover lamb. The multitude that celebrated consisted primarily of Galileans there for the Passover. Strangers were more willing to acknowledge Jesus as the Son of God than the citizens of Jerusalem. Jesus declared the beginning of his reign as he journeyed to the cross. This marked the start of his journey to fulfill his role as the ultimate Passover lamb.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.8973550634518617,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                29.24,
+                41.05,
+                29.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

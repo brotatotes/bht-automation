@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-21-2023 03:10:26",
+    "verseRef": "John 11:34",
+    "bestBHT": {
+        "bht": "Where have ye laid him? Jesus inquired, not needing the information himself, but rather to retain composure and proceed with them to the spot. It was a natural and polite question, demonstrating His willingness to follow their lead, although they had no idea of His purpose. Jesus, although being able to know where the man was laid, chose to ask for their guidance to show both His deep sympathies as a man and to ensure there was no trickery between Him and the deceased's loved ones.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.5868918703716335,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+        "commentatorTierSimilarities": [
+            38.2,
+            37.92,
+            23.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Where have ye laid him? . . . Lord, come and see.\" (34)",
+            "Perhaps it was to retain composure enough to ask this question, and on receiving the answer to proceed with them to the spot, that He checked Himself.\" (34)"
+        ],
+        "Albert Barnes": [
+            "Jesus spoke as a man. In all this transaction he manifested the deep sympathies of a man.\" ",
+            "He who could raise the dead man up could also know where he was, yet he chose to lead them to the grave by inducing them to point the way.",
+            "Hence, he asked this question."
+        ],
+        "Archibald T. Robertson": [
+            "Where have ye laid him? (\u03a0\u03bf\u03c5 \u03c4\u03b5\u03b8\u03b5\u03b9\u03ba\u03b1\u03c4\u03b5 \u03b1\u03c5\u03c4\u03bf\u03bd;).",
+            "A simple question for information.",
+            "It was a natural and polite reply as they would show Jesus the way, but they had no idea of his purpose."
+        ],
+        "John Gill": [
+            "This he might say as man, though he, as the omniscient God, knew where he was laid.",
+            "And that it might appear there was no juggle and contrivance between him, and the relations of the deceased.",
+            "Lord, come and see; it being but a little way off."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Where have ye laid him? Jesus inquired, not because he needed the information, but perhaps to compose Himself before proceeding to the spot with them. This simple and polite question showed His willingness to follow their lead and indicated that they had no idea of His purpose. Although Jesus could have known exactly where the dead man was, He chose to ask for their guidance, demonstrating His human sympathies. In this way, He not only showed His genuine concern but also made it clear that there was no trickery between Him and the deceased's loved ones.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.550481016611196,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                34.41,
+                38.77,
+                26.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Where have ye laid him? Jesus inquired, not needing the information himself, but rather to retain composure and proceed with them to the spot. It was a natural and polite question, demonstrating His willingness to follow their lead, although they had no idea of His purpose. Jesus, although being able to know where the man was laid, chose to ask for their guidance to show both His deep sympathies as a man and to ensure there was no trickery between Him and the deceased's loved ones.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5868918703716335,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                38.2,
+                37.92,
+                23.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Where have ye laid him? Jesus asked, not only as a simple question for information, but also to retain composure before proceeding to the spot with them. It was a polite reply, showing His willingness to be shown the way, even though they had no idea of His purpose. Although Jesus, as the omniscient God, already knew where the dead man was, He chose to ask for their guidance to demonstrate His human sympathies and to ensure there was no deception involved.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.504335519287269,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                39.15,
+                35.74,
+                25.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Where have ye laid him? Jesus inquired, not needing the information Himself, yet choosing to ask the question to compose Himself and to follow them to the spot. It was a natural and polite way for Jesus to show His willingness to be shown the way by them, even though they had no idea of His purpose. By asking for their guidance, Jesus revealed His deep sympathies as a man and ensured that there was no suspicion of trickery involved.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.566446449607747,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.43,
+            "commentatorTierSimilarities": [
+                38.82,
+                37.71,
+                23.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Where have ye laid him? Jesus inquired, not needing the information Himself, but perhaps to retain composure before proceeding to the spot with them. This simple and polite question showed His willingness to follow their lead and indicated that they had no idea of His purpose. Although Jesus could have known exactly where the dead man was, He chose to ask for their guidance, demonstrating His human sympathies. In this way, He not only showed His genuine concern but also made it clear that there was no trickery between Him and the deceased's loved ones.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.513542599791808,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                34.71,
+                39.11,
+                26.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

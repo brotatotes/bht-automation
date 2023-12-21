@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:06:48",
+    "verseRef": "John 5:45",
+    "bestBHT": {
+        "bht": "Christ's purpose is not to accuse or condemn, but to judge by the appointment of the Father. Moses, whom they disbelieved, already accused them through the Law. If they reject the Son of God, Moses, in whom they have set their hope, will rise up as an accuser against them. Christ's errand is not to gather evidence for their condemnation, but to bring salvation. His intention is not to accuse, but to save.",
+        "wordCount": 75,
+        "quoteTokenProportion": 47.06,
+        "qualityScore": 1.8394680956573626,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.5,
+        "commentatorTierSimilarities": [
+            36.61,
+            26.16,
+            37.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The work of Christ is not to accuse, even as He is Judge;\u2014but to judge, by the appointment. of the Father.\" ",
+            "He will not accuse them; nay, it is not needful;\u2014for Moses, whom they disbelieved, while vainly hoping in him, already accused them.\" ",
+            "Already accused them: see Deut. xxxi. 21, 26, and ch. vii. 19."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "My errand hither is not to collect evidence to condemn you at God's bar.",
+            "Alas! that will be too well done by another, and him the object of all your religious boastings\u2014Moses.",
+            "Moses, here put for 'the Law', the basis of the Old Testament Scriptures."
+        ],
+        "Marvin Vincent": [
+            "I will accuse [\u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03c3\u03c9]...properly, to bring an accusation in court.",
+            "In whom ye trust [\u03b5\u03b9\u03c2 \u03bf\u03bd \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b7\u03bb\u03c0\u03b9\u03ba\u03b1\u03c4\u03b5] . A strong expression. Literally, into whom ye have hoped.",
+            "Rev., admirably, on whom ye have set your hope."
+        ],
+        "John Calvin": [
+            "This is the way in which we ought to deal with obstinate and hardened persons, when they learn nothing by instruction and friendly warnings.",
+            "If we do not honor the Son of God by the true obedience of faith, all whom God hath raised up to be his witnesses will rise up against us as accusers at the last day.",
+            "We ought not to glory in the Scriptures without a good reason; for if we do not honor the Son of God by the true obedience of faith, all whom God hath raised up to be his witnesses will rise up against us as accusers at the last day."
+        ],
+        "Philip Schaff": [
+            "Their objects of trust have been successively taken away.\" ",
+            "The chief tenet in their faith is that \u2018God is one\u2019...but, in the absence of the \u2018love of God\u2019 from their hearts, their zeal for orthodox faith has not gained for them the \u2018glory that is from the only God.\u2019",
+            "When we refuse to enter into all the parts of God\u2019s plan, the very parts of it for whose sake our refusal is given, and whose honour we imagine we are maintaining, turn round upon us and disown our aid."
+        ],
+        "Archibald T. Robertson": [
+            "Think not (\u03bc\u03b7 \u03b4\u03bf\u03ba\u03b5\u03b9\u03c4\u03b5). Prohibition with \u03bc\u03b7 and the present imperative.",
+            "I will accuse you (\u03b5\u03b3\u03c9 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03c3\u03c9 \u03c5\u03bc\u03c9\u03bd). Emphasis on \u03b5\u03b3\u03c9 (I).",
+            "On whom ye have set your hope (\u03b5\u03b9\u03c2 \u03bf\u03bd \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b7\u03bb\u03c0\u03b9\u03ba\u03b1\u03c4\u03b5). Perfect active indicative of \u03b5\u03bb\u03c0\u03b9\u03b6\u03c9, state of repose in Moses."
+        ],
+        "John Gill": [
+            "Christ is no accuser of men no, not of the worst of men; he came not into the world to bring charges against men and condemn them, but to save them.",
+            "There were enough to accuse these persons of...but though he hints these things to them, he would not have them think that he accused them of them to the Father.",
+            "However, there was no need for Christ to accuse them; for as it follows, there is one that accuseth you, even Moses, in whom ye trust."
+        ],
+        "John Wesley": [
+            "There is one that accuseth you \u2014 By his writings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The work of Christ is not to accuse, even as He is Judge, but to judge by the appointment of the Father. He will not accuse them, for Moses, whom they disbelieved, already accused them. Already accused them: see Deuteronomy 31:21,26 and chapter 7 verse 19. My errand hither is not to collect evidence to condemn you at God's bar. Alas! that will be too well done by another, and him the object of all your religious boastings - Moses, here put for 'the Law', the basis of the Old Testament Scriptures. I will accuse you properly, to bring an accusation in court, in whom ye trust, on whom ye have set your hope. Think not, Prohibition with the present imperative.",
+            "wordCount": 118,
+            "quoteTokenProportion": 48.1,
+            "qualityScore": 1.710088703443638,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.2,
+            "commentatorTierSimilarities": [
+                45.41,
+                18.1,
+                36.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The work of Christ is not to accuse or condemn, but to judge by the appointment of the Father. Moses, whom they disbelieved, already accused them through the Law. Christ's purpose is not to collect evidence against them, but rather to offer salvation. His intentions are not to accuse, but to save. However, if they continue to reject the Son of God, Moses will rise up as an accuser against them, in whom they have placed their hope.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.7846509625463467,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+            "commentatorTierSimilarities": [
+                36.05,
+                26.18,
+                37.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's purpose is not to accuse or condemn, but rather to judge by the appointment of the Father. Moses, whom they disbelieved, already accused them through the Law. If they continue to reject the Son of God, Moses will rise up as an accuser against them, in whom they have placed their hope. The work of Christ is not to collect evidence against them at God's bar, but to offer salvation. His intentions are not to accuse, but to save.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.824844666557313,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "commentatorTierSimilarities": [
+                35.83,
+                27.08,
+                37.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's purpose is not to condemn, but to judge by the Father's appointment. Moses, whom they disbelieved, already accused them. If they reject the Son of God, Moses will rise as an accuser against them, in whom they have placed their hope. Christ's errand is not to gather evidence for their condemnation, but to bring salvation. His intention is not to accuse, but to save.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.806287657777487,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                35.98,
+                27.0,
+                37.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's purpose is not to accuse or condemn, but to judge by the appointment of the Father. Moses, whom they disbelieved, already accused them through the Law. If they reject the Son of God, Moses, in whom they have set their hope, will rise up as an accuser against them. Christ's errand is not to gather evidence for their condemnation, but to bring salvation. His intention is not to accuse, but to save.",
+            "wordCount": 75,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.8394680956573626,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.5,
+            "commentatorTierSimilarities": [
+                36.61,
+                26.16,
+                37.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

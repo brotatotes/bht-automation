@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:14:34",
+    "verseRef": "John 19:8",
+    "bestBHT": {
+        "bht": "The fear that Pilate had before increased as the Jews charged Jesus with being the Son of God. This claim served to confirm the omen of his wife's dream and had a profound impact on Pilate. Pilate's superstitious fears were stirred, and he was already afraid because of his wife's message. The conviction of Jesus' innocence and the fear of the consequences created a turbulent state of mind for Pilate, leading him to seek further clarification amidst the conflicted thoughts that haunted him.",
+        "wordCount": 86,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.408567118874337,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.42,
+        "commentatorTierSimilarities": [
+            33.02,
+            37.28,
+            29.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This charge served to increase the fear which Pilate had before.",
+            "The name Son of God served also to confirm the omen already furnished by the dream of his wife.",
+            "That this fear was not a fear of the Jews, nor of acting unjustly, but of the Person of Jesus, is evident from what follows."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the lofty sense evidently attached to it by His Jewish accusers",
+            "the dialogue he had already held with Him",
+            "the dream of his wife"
+        ],
+        "Albert Barnes": [
+            "He was the more afraid - What was the ground of his fear is not declared by the evangelist. It was probably, however, the alarm of his conscience, and the fear of vengeance if he suffered such an act of injustice to be done as to put an innocent man to death.",
+            "He was convinced of his innocence. He saw more and more clearly the design of the Jews; and it is not improbable that a pagan, who believed that the gods often manifested themselves to people, dreaded their vengeance if he suffered one who claimed to be divine, and who might be, to be put to death.",
+            "It is clear that Pilate was convinced that Jesus was innocent; and in this state of agitation between the convictions of his own conscience, and the clamors of the Jews, and the fear of vengeance, and the certainty that he would do wrong if he gave him up, he was thrown into this state of alarm, and resolved again to question Jesus, that he might obtain satisfaction on the subjects that agitated his mind."
+        ],
+        "Marvin Vincent": [
+            "These words of the Jews produced an effect on Pilate for which they were not prepared.",
+            "All that he had heard related of the miracles of Jesus, the mysterious character of His person, of His words and of His conduct, the strange message which he had just received from his wife - all is suddenly explained by the term 'Son of God.'",
+            "Was this extraordinary man truly a divine being who had appeared on the earth? The truth naturally presents itself to his mind in the form of pagan superstitions and mythological legends."
+        ],
+        "John Calvin": [
+            "Pilate dreaded lest some blame should be imputed to him, if a tumult arose, because he had not condemned Christ.",
+            "After having heard the name of the Son of God, his mind was moved by religion.",
+            "His mind was moved by religion."
+        ],
+        "Archibald T. Robertson": [
+            "He was already afraid because of his wife's message.\" ",
+            "The claim of Jesus to deity excited Pilate's superstitious fears."
+        ],
+        "John Gill": [
+            "He was afraid to put him to death, or to consent to it before; partly on account of his wife's message to him, and partly upon a conviction of the innocence of Christ, in his own conscience.\" ",
+            "He might be the more uneasy, lest the thing they charged him with asserting, should be really fact; that he was one of the gods come down in the likeness of man.",
+            "He was strengthened... by calling to mind what he had lately said to him, that his kingdom was not of this world, and that he was come into it to bear witness to the truth."
+        ],
+        "John Wesley": [
+            "He was the more afraid \u2014 He seems to have been afraid before of shedding innocent blood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fear that Pilate had before increased as the Jews charged Jesus with being the Son of God. This claim not only confirmed the omen of his wife's dream but also had a profound impact on Pilate. It made him question whether this extraordinary man truly was a divine being who had appeared on earth. Pilate's superstitious fears were stirred, and he was already afraid because of his wife's message. The conviction of Jesus' innocence and the fear of the consequences of delivering him to be killed created a turbulent state of mind for Pilate. He sought further clarification, hoping to find resolution amidst the conflicted thoughts that haunted him.",
+            "wordCount": 113,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 2.2223922831360885,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.24,
+            "commentatorTierSimilarities": [
+                31.02,
+                37.77,
+                31.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fear that Pilate had before increased as the Jews charged Jesus with being the Son of God. This claim served to confirm the omen of his wife's dream and had a profound impact on Pilate. It made him question whether this extraordinary man truly was a divine being. Pilate's superstitious fears were stirred, and he was already afraid because of his wife's message. The conviction of Jesus' innocence and the fear of the consequences created a turbulent state of mind for Pilate, leading him to seek further clarification.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.3071496997586154,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.05,
+            "commentatorTierSimilarities": [
+                32.32,
+                37.19,
+                30.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fear that Pilate had before increased as the Jews charged Jesus with being the Son of God. This claim served to confirm the omen of his wife's dream and had a profound impact on Pilate. Pilate's superstitious fears were stirred, and he was already afraid because of his wife's message. The conviction of Jesus' innocence and the fear of the consequences created a turbulent state of mind for Pilate, leading him to seek further clarification amidst the conflicted thoughts that haunted him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.408567118874337,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.42,
+            "commentatorTierSimilarities": [
+                33.02,
+                37.28,
+                29.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fear that Pilate had before increased as the Jews charged Jesus with being the Son of God. This claim served to confirm the omen of his wife's dream and had a profound impact on Pilate. The conviction of Jesus' innocence and the fear of the consequences created a turbulent state of mind for Pilate, leading him to seek further clarification amidst the conflicted thoughts that haunted him.",
+            "wordCount": 69,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.3702158414349226,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.15,
+            "commentatorTierSimilarities": [
+                31.46,
+                39.96,
+                28.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fear that Pilate had before increased as the Jews charged Jesus with being the Son of God. This claim served to confirm the omen already furnished by the dream of his wife. All that he had heard related to the mysterious character of Jesus' person, words, and conduct suddenly made sense with the term Son of God. Pilate's superstitious fears were stirred, afraid that this extraordinary man might truly be a divine being who had appeared on earth. In this state of agitation, Pilate sought further clarification from Jesus amidst his conflicted thoughts, fearing the consequences of delivering him to be killed.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 2.1863028020731257,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                33.78,
+                36.98,
+                29.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

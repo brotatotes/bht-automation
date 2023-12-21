@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:11:02",
+    "verseRef": "John 12:7",
+    "bestBHT": {
+        "bht": "Mary's act of anointing Jesus' feet with expensive ointment was not a remnant from Lazarus' burial; it was a prophetic deed. Jesus understood her devotion as already accomplished, allowing her to keep it for the day of my burial. This act showed Mary's comprehension of his impending death that the disciples lacked. Jesus instructed the others to leave her alone, acknowledging the unique and extraordinary nature of her service. Through this act, Mary symbolically prepared Jesus for burial as the time of his death drew near.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.145504549881883,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.68,
+        "commentatorTierSimilarities": [
+            34.36,
+            35.72,
+            29.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To suppose that the ointment was a remnant from that used at the burial of Lazarus, is not only fanciful, but at variance with the character of the deed as apparent in the narrative.",
+            "The common reading, 'against the day of my burying she hath kept this,' seems to be an adaptation to Mark xiv. 8, in order to escape from the difficulty of understanding how she could keep for His burial, what she poured out now.",
+            "I understand the words, which, like all our Lord\u2019s anticipatory expressions, have something enigmatical in them, of her whole act, regarded as a thing past, but spoken of in the abstract, as to be allowed or disallowed: Let her keep it for the day of my burial."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "against the day of my burying hath she done this",
+            "she was not to have that privilege even alter the spices were brought for the purpose",
+            "He lovingly regards it as done now"
+        ],
+        "Marvin Vincent": [
+            "Mary had kept the ointment... against the day of Christ's preparation for the tomb.",
+            "Mary...has kept the ointment in order to embalm Jesus with it on this day, as though He were already dead.",
+            "Let her alone: it was that she might keep it."
+        ],
+        "John Calvin": [
+            "Let her alone. When Christ bids them let Mary alone, he shows that they act improperly and unjustly who disturb their neighbors without a good reason, and raise a disturbance about nothing.\" ",
+            "Christ, therefore, does not approve of it as an ordinary service, or one which ought to be commonly used in the Church... He rather excuses Mary on the ground of her having rendered to him an extraordinary service, which ought not to be regarded as a perpetual rule for the worship of God.\" ",
+            "As it was the will of God that the childhood of his ancient people should be guided by such exercises, so, in the present day, it would be foolish to attempt the same thing; nor could it be done without offering an insult to Christ, who has driven away such shadows by the brightness of his coming."
+        ],
+        "Philip Schaff": [
+            "The meaning of the word which in the Authorised Version is rendered 'burial' is made clear by chap. John 19:40 (where substantially the same word is used); 'they took the body of Jesus and wrapped it in linen cloths with the spices, as the manner of the Jews is to prepare for burial.'",
+            "Our Lord was not distinctly affirming that this day was, so to speak, the day on which He was prepared for entombment...Hence here, in speaking of the (unconscious or half-unconscious) purpose of Mary, He uses words which leave the time of the conception and fulfilment of the purpose altogether doubtful.",
+            "The word which our Lord uses in this verse shows in what light this section is to be viewed. It is not so much the living Saviour that we have before us as the Saviour on whom sentence of death has been passed."
+        ],
+        "Archibald T. Robertson": [
+            "Let her alone: it was that,\" etc. (supplying \"it was\"). Either makes good sense.",
+            "Preparation for my burial\" is the idea here and in Mark. The idea of Jesus is that Mary had saved this money to use in preparing his body for burial.",
+            "We really keep what we give to Christ. This is Mary's glory that she had some glimmering comprehension of Christ's death which none of the disciples possessed."
+        ],
+        "John Gill": [
+            "Do not disturb her in what she does, or hinder her, or blame her for it.\" ",
+            "Christ suggests, that the time of his death and burial were nigh, and that this woman had kept this ointment till now, for such a purpose.\" ",
+            "Though without any knowledge of his death, or any such intention and design in her, but the Holy Ghost so directing her."
+        ],
+        "John Wesley": [
+            "Against the day of my burial \u2014 Which now draws nigh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary's act of anointing Jesus' feet with expensive ointment was not a mere remnant from the burial of Lazarus, but rather a prophetic deed. Jesus, in his enigmatic way, understood this act as already accomplished, allowing Mary to keep it for the day of my burial. This act of devotion was Mary's way of preparing Jesus for the tomb, demonstrating her understanding of his impending death which none of the disciples possessed. Jesus instructs the others to leave her alone, acknowledging the unique and extraordinary nature of her service. Through this act, Mary was symbolically keeping the ointment for the preparation of Jesus' burial, as the time of his death and burial was drawing near.",
+            "wordCount": 117,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.277753111581304,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.08,
+            "commentatorTierSimilarities": [
+                33.78,
+                37.97,
+                28.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary's act of anointing Jesus' feet was not a mere leftover from Lazarus' burial; it was a prophetic deed. Jesus understood her devotion as already accomplished, allowing her to keep it for the day of my burial. This act showed Mary's comprehension of his impending death that the disciples lacked. Jesus instructed the others to leave her alone, recognizing the exceptional nature of her service. Through this act, Mary symbolically prepared Jesus for burial as the time of his death drew near.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.1237783834093302,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.96,
+            "commentatorTierSimilarities": [
+                34.2,
+                35.88,
+                29.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary's act of anointing Jesus' feet with expensive ointment was not merely a residue from the burial of Lazarus. It was a prophetic gesture, already accomplished in her mind. Mary had kept the ointment for the specific purpose of preparing Jesus for burial, demonstrating her understanding of his impending death. Jesus acknowledged the uniqueness of her service, instructing the others to let her be. Through her act, Mary symbolically anticipated the day of Jesus' burial, which was approaching.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.037165674552816,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.08,
+            "commentatorTierSimilarities": [
+                36.45,
+                35.85,
+                27.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary's act of anointing Jesus' feet was not a remnant from Lazarus' burial, but a prophetic deed. Jesus saw this act as already accomplished and allowed Mary to keep it for the day of my burial. Her action demonstrated her understanding of Jesus' impending death that the disciples lacked. Jesus instructed the others to leave her alone, recognizing the extraordinary nature of her service. Through her act, Mary symbolically prepared Jesus for burial as the time of his death drew near.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0691575050810638,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                34.2,
+                35.83,
+                29.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary's act of anointing Jesus' feet with expensive ointment was not a remnant from Lazarus' burial; it was a prophetic deed. Jesus understood her devotion as already accomplished, allowing her to keep it for the day of my burial. This act showed Mary's comprehension of his impending death that the disciples lacked. Jesus instructed the others to leave her alone, acknowledging the unique and extraordinary nature of her service. Through this act, Mary symbolically prepared Jesus for burial as the time of his death drew near.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.145504549881883,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.68,
+            "commentatorTierSimilarities": [
+                34.36,
+                35.72,
+                29.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

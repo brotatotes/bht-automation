@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:08:15",
+    "verseRef": "John 7:48",
+    "bestBHT": {
+        "bht": "Many of them did believe on him, including Nicodemus and Joseph, but not one of these had openly confessed Him. This appeal must have stung such of them as heard it to the quick. Power was slipping through their fingers and that was the secret of their hostility to Jesus. Is there any instance in which those who are high in rank or in office have embraced him as the Messiah? This shows the rule by which they judged of religion - a wider circle and the most orthodox of all. But they err in this respect, that, while they claim for themselves the highest authority, they are unwilling to submit to God. All the authority that is possessed by pastors, therefore, is subject to the word of God, that all may be kept in their own rank, from the greatest to the smallest, and that God alone may be exalted.",
+        "wordCount": 150,
+        "quoteTokenProportion": 51.09,
+        "qualityScore": 1.9691775824574465,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+        "commentatorTierSimilarities": [
+            33.14,
+            36.81,
+            30.05
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Many of them [the rulers and Pharisees] did [believe], including Nicodemus and Joseph, but not one of these had openly 'confessed Him'.\" ",
+            "This appeal must have stung such of them as heard it to the quick.",
+            "This appeal must have stung such of them as heard it to the quick."
+        ],
+        "Albert Barnes": [
+            "The rulers - The members of the Sanhedrin, who were supposed to have control over the religious rites and doctrines of the nation.\" ",
+            "The Pharisees - The sect possessing wealth, and office, and power. The name Pharisees sometimes denotes those who were high in honor and authority.",
+            "Believed on him - Is there any instance in which those who are high in rank or in office have embraced him as the Messiah? This shows the rule by which they judged of religion:"
+        ],
+        "Marvin Vincent": [
+            "Of the rulers or of the Pharisees. The Greek order, as followed by Rev., is more suggestive : Hath any of the rulers believed on Him, or (to appeal to a larger circle) of the Pharisees ?"
+        ],
+        "John Calvin": [
+            "But they err in this respect, that, while they claim for themselves the highest authority, they are unwilling to submit to God.",
+            "All the authority that is possessed by pastors, therefore, is subject to the word of God, that all may be kept in their own rank, from the greatest to the smallest, and that God alone may be exalted.",
+            "It is a horrible blindness, indeed, when a mortal man is not ashamed to oppose himself to God; but to such a pitch of madness does Satan carry those who set a higher value on their own ambition than on the truth of God."
+        ],
+        "Archibald T. Robertson": [
+            "Did any one of the rulers believe on him?\" \"What right have subordinates to have a mind of their own?\" (Dods).",
+            "Power was slipping through their fingers\" (Dods) and that was the secret of their hostility to Jesus.",
+            "A wider circle and the most orthodox of all."
+        ],
+        "John Gill": [
+            "Men famous for wisdom, learning, and holiness.",
+            "The far greater part of his followers were poor and illiterate.",
+            "God is pleased to hide the great things of the Gospel from the wise and prudent, the rich and noble, and preach and reveal them to the poor and foolish."
+        ],
+        "John Wesley": [
+            "Hath any of the rulers \u2014 Men of rank or eminence, or of the Pharisees - Men of learning or religion, believed on him?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many of them did believe on him, including Nicodemus and Joseph, but not one of these had openly confessed Him. This appeal must have stung such of them as heard it to the quick. Power was slipping through their fingers and that was the secret of their hostility to Jesus. Is there any instance in which those who are high in rank or in office have embraced him as the Messiah? This shows the rule by which they judged of religion - a wider circle and the most orthodox of all. But they err in this respect, that, while they claim for themselves the highest authority, they are unwilling to submit to God. All the authority that is possessed by pastors, therefore, is subject to the word of God, that all may be kept in their own rank, from the greatest to the smallest, and that God alone may be exalted.",
+            "wordCount": 150,
+            "quoteTokenProportion": 51.09,
+            "qualityScore": 1.9691775824574465,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                33.14,
+                36.81,
+                30.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many rulers and Pharisees believed in Jesus, but none openly confessed Him, causing their authority to be threatened. Their hostility towards Him stemmed from the fear of power slipping through their fingers. The question remains: have any rulers or Pharisees embraced Jesus as the Messiah? It reveals their flawed judgment of religion. Their unwillingness to submit to God exposes their misguided self-importance, which should be subordinate to God's authority alone. Pastors and leaders should recognize that their authority is subject to God's word, humbly placing God above themselves.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0784473265736816,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                29.33,
+                38.96,
+                31.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many rulers and Pharisees believed in Jesus, but not publicly, fearing the loss of their authority. The question arises: have any high-ranking individuals embraced Jesus as the Messiah? Their flawed judgment of religion is evident in their refusal to submit to God. Pastors and leaders must recognize that their authority is subject to God's word, humbling themselves before Him. Authority should be kept in proper order, with God alone exalted above all.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0437438538386448,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.3,
+            "commentatorTierSimilarities": [
+                26.24,
+                40.86,
+                32.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many rulers and Pharisees believed in Jesus, but not openly confessed Him, fearing the threat to their authority. Their hostility towards Him stemmed from the power slipping through their fingers. Have any rulers or Pharisees embraced Jesus as the Messiah? This reveals their flawed judgment of religion. Their refusal to submit to God demonstrates their misplaced self-importance, with pastors' authority subject to God's word alone. All should be kept in their own rank, exalting God above all.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.942711262154825,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                29.99,
+                38.09,
+                31.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many rulers and Pharisees believed in Jesus, including Nicodemus and Joseph, but they did not openly confess Him. Their fear of losing authority struck them deeply, causing hostility towards Jesus. The question remains: have influential individuals ever embraced Jesus as the Messiah? This exposes their flawed judgment of religion, as they prioritize their own ambitions over God's truth. Authority should be subject to God's word, humbling pastors and keeping all in their respective ranks, with God ultimately exalted.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9962981031670104,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                27.3,
+                40.06,
+                32.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

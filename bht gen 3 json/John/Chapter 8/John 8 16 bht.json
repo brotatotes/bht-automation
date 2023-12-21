@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:08:43",
+    "verseRef": "John 8:16",
+    "bestBHT": {
+        "bht": "The judgment that Jesus pronounces is genuine, true, and final, as it is formed by the testimony of both Himself and the Father who sent Him. It is a judgment that corresponds to the eternal reality of things and is based on the Father's will. Jesus and the Father are not separate, but rather inseparable as one God. Therefore, His judgment is entitled to authority and should be regarded as such.",
+        "wordCount": 72,
+        "quoteTokenProportion": 54.17,
+        "qualityScore": 2.1553549631671354,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+        "commentatorTierSimilarities": [
+            25.39,
+            38.42,
+            36.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The end of all testimony is the forming, or pronouncing, of judgment.",
+            "My judgment is decisive: the word meaning not exactly true in its ordinary meaning, but rather, genuine.",
+            "A judgment can only be genuine by being true and final."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And yet if I judge, my judgment is true.\" ",
+            "I am not here to carry this into execution\u2014that is reserved for a future day.",
+            "The judgment I now pronounce and the witness I now bear is not Mine only as ye suppose, but His also that sent Me."
+        ],
+        "Albert Barnes": [
+            "He was not limited, nor forbidden to do it, nor restrained by any fear that his judgment would be erroneous.",
+            "My judgment is true - Is worthy to be regarded.",
+            "For I am not alone - I concur with the Father who hath sent me."
+        ],
+        "Marvin Vincent": [
+            "True [\u03b1\u03bb\u03b7\u03b8\u03b7\u03c2] . The best texts, however, read ajlhqinh, true to the perfect ideal of judgment."
+        ],
+        "John Calvin": [
+            "If I judge, my judgment is true, that is, it is entitled to authority.",
+            "Now the authority arises from this consideration, that he does nothing but according to the commandment of the Father.",
+            "Still, the object of the discourse is, to show that all that he does and teaches ought to be accounted Divine."
+        ],
+        "Philip Schaff": [
+            "Because in no action is He alone, even if He judges His judgment is true.",
+            "It is a real judgment, a judgment corresponding, not to outward appearance, but to the eternal reality of things, because according to the Father\u2019s will.",
+            "The assertion of this verse, that the Father is ever with Him, corresponds to the words, \u2018I know whence I came,\u2019 in John 8:14: the link which binds together all these verses is His constant and perfect knowledge that the Father is with Him and in Him."
+        ],
+        "Archibald T. Robertson": [
+            "And even if I pass judgment.",
+            "True, genuine, soundly based.",
+            "I and the Father that sent me."
+        ],
+        "John Gill": [
+            "Because he saw not as man did, nor looked unto, and judged according to the outward appearance of things; but looked into the heart, and knew what was in it, being the searcher and trier of it; to whom all things are naked and open, and therefore cannot be deceived or imposed upon; his judgment must be sure and infallible.",
+            "He was not separate from the Father, or at a distance from him, when he was here on earth; he was in his bosom, and in heaven, as the Son of God, when as the son of man, he was below.",
+            "Nor was he alone in his testimony and judgment, the Father joined with him therein: and which is a further proof of the truth of his testimony, and the certainty of his judgment."
+        ],
+        "John Wesley": [
+            "I am not alone \u2014 No more in judging, than in testifying",
+            "His Father and he are not one and another God, but one God, (though distinct persons,) and so inseparable from each other",
+            "And though the Son came from the Father, to assume human nature, and perform his office as the Messiah upon earth, as God is sometimes said to come from heaven, for particular manifestations of himself; yet Christ did not leave the Father, nor the Father leave him, any more than God leaves heaven when he is said to come down to the earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The end of all testimony is the forming of judgment, a judgment that is genuine, true, and final. The judgment and witness that Jesus pronounces is not His alone, but also belongs to the Father who sent Him. It is a real judgment, corresponding to the eternal reality of things and according to the Father's will. He is not limited in His judgment but concurs with the Father. His judgment is entitled to authority because He does nothing but according to the commandment of the Father. He is not separate from the Father, but in Him, as the Son of God. He is not alone in His testimony and judgment, for the Father is with Him. As the Son and the Father are one God, they are inseparable from each other.",
+            "wordCount": 132,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 2.225013767355617,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.32,
+            "commentatorTierSimilarities": [
+                22.99,
+                38.53,
+                38.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The judgment that Jesus pronounces is genuine, true, and final, as it is formed by the testimony of both Himself and the Father who sent Him. It is a judgment that corresponds to the eternal reality of things and is based on the Father's will. Jesus and the Father are not separate, but rather inseparable as one God. Therefore, His judgment is entitled to authority and should be regarded as such.",
+            "wordCount": 72,
+            "quoteTokenProportion": 54.17,
+            "qualityScore": 2.1553549631671354,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+            "commentatorTierSimilarities": [
+                25.39,
+                38.42,
+                36.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The end of all testimony is the forming of judgment, and Jesus declares that if he judges, his judgment is true and genuine. His judgment is not based solely on his own authority, but is in accordance with the Father's will. He is not here to execute judgment at this moment, but a future day is reserved for that. He emphasizes that the witness he gives and the judgment he pronounces are not his alone, but also belong to the Father who sent him. Jesus affirms that he and the Father are inseparable, concurring with each other in all actions and judgments. His constant and perfect knowledge that the Father is with him and in him underlies the authority of his judgment.",
+            "wordCount": 123,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.27832369331371,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.09,
+            "commentatorTierSimilarities": [
+                25.17,
+                39.24,
+                35.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The end of all testimony is the forming of judgment, and Jesus declares that if he judges, his judgment is true and genuine. His judgment is not based solely on his own authority, but is in accordance with the Father's will. He is not here to execute judgment at this moment, but a future day is reserved for that. He emphasizes that the witness he gives and the judgment he pronounces are not his alone, but also belong to the Father who sent him. Jesus affirms that he and the Father are inseparable, concurring with each other in all actions and judgments.",
+            "wordCount": 103,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.278883259865437,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.11,
+            "commentatorTierSimilarities": [
+                25.79,
+                39.09,
+                35.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The judgment Jesus pronounces is decisive, genuine, and true. He conveys that his judgment is not solely his own, but also in accordance with the Father who sent him. Although he is not here to execute judgment at the present moment, a future day is reserved for that. Jesus affirms the inseparable unity between him and the Father, with their concurring actions and judgments. His constant awareness of the Father's presence underlies the authority and genuineness of his judgment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.1696802839821805,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+            "commentatorTierSimilarities": [
+                27.83,
+                39.13,
+                33.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

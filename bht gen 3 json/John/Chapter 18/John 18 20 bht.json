@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:14:12",
+    "verseRef": "John 18:20",
+    "bestBHT": {
+        "bht": "Jesus, in response to the high priest's question, declares that He did not speak in secret, but openly and honestly to the world. His teachings were not confined to private conversations, but were consistently proclaimed in synagogues and temples where the Jews gathered. His private instructions to the Twelve were merely explanations and extensions of His public teaching. By speaking openly, Jesus challenges the notion that His doctrine was suspect, as He taught with clarity and without reservation.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 2.163195939519809,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.27,
+        "commentatorTierSimilarities": [
+            24.49,
+            45.59,
+            29.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I am one, who... plainly.",
+            "Not openly... which the world will not hear.",
+            "In secret spake I nothing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I ever taught in the synagogues and in the temple, whither the Jews always resort\u2014courting publicity, though with sublime noiselessness.",
+            "In secret have I said\u2014spake nothing\u2014that is, nothing of any different nature; all His private communications with the Twelve being but explanations and developments of His public teaching.",
+            "All His private communications with the Twelve being but explanations and developments of His public teaching."
+        ],
+        "Albert Barnes": [
+            "If his doctrine had tended to excite sedition and tumult, if he had aimed to overthrow the government, he would have trained his friends in secret; he would have retired from public view, and would have laid his plans in private.",
+            "He had proclaimed his views to all. He had done it in every place of public concourse in the synagogue and in the temple.",
+            "He had taught no private or concealed doctrine. He had taught nothing to his disciples which he had not himself taught in public and commanded them to do."
+        ],
+        "Marvin Vincent": [
+            "In synagogue: when the people were assembled. Like our phrase, in church.\" ",
+            "Always resort. For pantote always, read pantev all. Sunercontai is rather come together, assemble.\" ",
+            "Rev., where all the Jews come together."
+        ],
+        "John Calvin": [
+            "Christ does not argue as to what is lawful and what is not lawful, but his intention was to put down the insolent malice of Caiaphas.",
+            "This refers to the substance of the doctrine, which was always the same, though the form of teaching it was various.",
+            "He could, therefore, testify with a good conscience that he had openly declared and honestly proclaimed the substance of his doctrine."
+        ],
+        "Archibald T. Robertson": [
+            "Openly (\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1). As already shown...for same contrast between \u03b5\u03bd \u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1 and \u03b5\u03bd \u03ba\u03c1\u03c5\u03c0\u03c4\u03c9.\" ",
+            "I ever taught (\u03b5\u03b3\u03c9 \u03c0\u03b1\u03bd\u03c4\u03bf\u03c4\u03b5 \u03b5\u03b4\u03b9\u03b4\u03b1\u03be\u03b1). Constative aorist active indicative...Examples of private teaching are Nicodemus and the woman of Samaria.\" ",
+            "Jesus ignores the sneer at his disciples, but challenges the inquiry about his teaching as needless."
+        ],
+        "John Gill": [
+            "Not because he would not betray them; nor because he would suffer alone; but because if his doctrine was good; it could not be blameworthy to have disciples, and to teach them.",
+            "I spake openly to the world; with all plainness, freedom, and boldness, without any reserve or ambiguity.",
+            "And in secret have I said nothing; not but that our Lord taught in other places than what are here mentioned, as on mountains, in deserts, by the sea shore, and in private houses, yet generally to great multitudes."
+        ],
+        "John Wesley": [
+            "I spake openly \u2014 As to the manner: continually - As to the time: in the synagogue and temple - As to the place.",
+            "In secret have I said nothing \u2014 No point of doctrine which I have not taught in public."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in response to the high priest's inquiry, affirms that He did not speak in secret, but openly and honestly to the world. Despite the world's rejection of His message, Jesus taught in synagogues and temples, where the Jews frequently gathered. His private communications with the Twelve only served to explain and expand upon His public teaching. If Jesus' teaching had been seditious or aimed at overthrowing the government, He would have trained His disciples in secret. However, His intent was to challenge the malicious accusations and demonstrate the consistency of His doctrine. Jesus spoke openly and with boldness, leaving no room for ambiguity or concealment.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.9742058942422975,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.98,
+            "commentatorTierSimilarities": [
+                22.89,
+                46.6,
+                30.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in response to the high priest's question, declares that He did not speak in secret, but openly and honestly to the world. His teachings were not confined to private conversations, but were consistently proclaimed in synagogues and temples where the Jews gathered. His private instructions to the Twelve were merely explanations and extensions of His public teaching. By speaking openly, Jesus challenges the notion that His doctrine was suspect, as He taught with clarity and without reservation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.163195939519809,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.27,
+            "commentatorTierSimilarities": [
+                24.49,
+                45.59,
+                29.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus affirms that He spoke openly and honestly, not in secret. He taught in synagogues and temples where the Jews gathered, leaving no room for ambiguity or concealment. His private communications with the Twelve were simply explanations and expansions of His public teaching. By speaking openly, Jesus challenges the idea that His doctrine was questionable, emphasizing that He consistently taught the same substance both publicly and privately. His intention was to confront the unfounded accusations against Him and assert the integrity of His teachings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.067996334436538,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                23.55,
+                44.93,
+                31.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares that He spoke openly, not in secret. He taught in synagogues and temples, leaving no room for ambiguity. His private communications with the Twelve were merely explanations of His public teaching. By speaking openly, Jesus challenges the notion that His doctrine was questionable, emphasizing the consistency of His teachings in both public and private settings. His intention was to refute baseless accusations and affirm the integrity of His message.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.036528752128012,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+            "commentatorTierSimilarities": [
+                23.99,
+                45.62,
+                30.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus asserts that He spoke plainly and openly, without keeping anything a secret. His teaching was not limited to private conversations but was done in synagogues and the temple where the Jews would come together. His private communications with the Twelve were merely explanations and developments of His public teaching. By speaking openly, Jesus refutes the insinuation that His doctrine was questionable, demonstrating the consistency of His message. He confronts the inquiry about His teaching by challenging its necessity, having already taught openly to the world.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.060575702243383,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+            "commentatorTierSimilarities": [
+                25.63,
+                44.4,
+                29.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

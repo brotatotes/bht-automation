@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:10:06",
+    "verseRef": "John 10:22",
+    "bestBHT": {
+        "bht": "The feast of dedication mentioned here was a significant celebration instituted by Jude Maccabeus in 165 B.C. to commemorate the temple's purification. Lasting for eight days, it involved lighting lamps in the temple and each home. The mention of winter implies inclement weather, explaining why Jesus walked in Solomon's porch. The choice of this specific time must have held great significance for Jesus as it allowed Him to minister to a large assembly of people. Overall, this feast reminded the people of God's grace in ending Antiochus' tyranny.",
+        "wordCount": 91,
+        "quoteTokenProportion": 28.36,
+        "qualityScore": 1.788615513400586,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+        "commentatorTierSimilarities": [
+            29.59,
+            38.77,
+            31.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "It was instituted by Jude Maccabeus, to commemorate the purification of the temple from the profanations to which it had been subjected by Antiochus Epiphanes 165 B.C.\" ",
+            "It was kept for eight days, from the twenty-fifth Chisleu (December), the day on which Judas began the first joyous celebration of it.",
+            "It was winter\u2014implying some inclemency."
+        ],
+        "Albert Barnes": [
+            "The feast of the dedication - Literally, the feast of the renewing, or of the renovation.",
+            "The festival continued for eight days, with continued demonstrations of joy.",
+            "The word here implies that it was cold and inclement, and it is given as a reason why he walked in Solomon\u2019s porch."
+        ],
+        "Marvin Vincent": [
+            "The word signifies renewal, from kainov, new, fresh.",
+            "Their first impulse was to cast themselves headlong on the pavement, and blow the loud horns which accompanied all mournful as well as all joyful occasions - the tocsin as well as the chimes of the nation.",
+            "The festival lasted for eight days. Lights mere kindled, not only in the temple, but in every home."
+        ],
+        "John Calvin": [
+            "The Greek word (\u1f10\u03b3\u03ba\u03b1\u1f77\u03bd\u03b9\u03b1) which we have translated dedication, properly signifies renovations.",
+            "Christ appeared in the temple at that time, according to custom, that his preaching might yield more abundant fruit amidst a large assembly of men.",
+            "The people might recall to remembrance the grace of God, which had put an end to the tyranny of Antiochus."
+        ],
+        "Philip Schaff": [
+            "The festival here spoken of was instituted by Judas Maccabeus, B.C. 165 ... The altar of burnt-offering was taken down, and a new altar built; and all Israel 'ordained that the days of the dedication of the altar should be kept in their season from year to year by the space of eight days, from the five and twentieth day of the month Cisleu, with mirth and gladness.'\" ",
+            "Having heard the words of chap. John 2:19, he could not but associate his Lord with the temple: and a feast which commemorated the reconstruction of the temple must have had great significance in his eyes.",
+            "The mention of the time of year connects itself naturally with the choice, spoken of in the next verse, of the covered walk ('Solomon\u2019s Porch'); but the mode in which the fact is mentioned recalls at once chap. John 13:30, where every one acknowledges that the closing words are more than a note of time: the 'night' there and the 'winter' here are felt by the narrator to be true emblems of the events which he records."
+        ],
+        "Archibald T. Robertson": [
+            "At that time came the feast of dedication in Jerusalem.\" ",
+            "Clearly there is a considerable lapse between the events in John 10:22-39 and John 10:1-21, possibly nearly three months.\" ",
+            "Winter (\u03c7\u03b5\u03b9\u03bc\u03c9\u03bd). Old word from \u03c7\u03b5\u03b9\u03bc\u03b1 (\u03c7\u03b5\u03c9, to pour, rain, or from \u03c7\u03b9\u03c9\u03bd, snow)."
+        ],
+        "John Gill": [
+            "the dedication of Solomon's temple was in autumn, at the feast of tabernacles, about September",
+            "these lamps we light, because of the wonders and marvellous things, and salvations, and wars, thou hast wrought for our fathers on those days at this time, by the hand of thine holy priests.",
+            "he that honours it more, lights up a lamp for every man the first night, and adds as he goes, every night a lamp; for instance, if there be ten men in the house, the first night he lights up ten lamps, and on the second night twenty, and on the third night thirty; until he comes to the eighth night, when he lights up fourscore lamps."
+        ],
+        "John Wesley": [
+            "It was the feast of the dedication - Instituted by Judas Maccabeus...when he purged and dedicated the altar and temple after they had been polluted.",
+            "So our Lord observed festivals even of human appointment.",
+            "Is it not, at least, innocent for us to do the same?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The feast of dedication mentioned in this verse was a significant celebration for the Jews, instituted by Jude Maccabeus in 165 B.C. to commemorate the purification of the temple from Antiochus Epiphanes. This festival lasted eight days, with lights kindled both in the temple and in every home. The mention of winter implies that it was a cold and inclement time, which explains why Jesus walked in Solomon's porch. Although there is a considerable lapse between the events in this passage and the previous verses, the choice of this specific time of year must have held great significance for Jesus. Overall, this feast served as a reminder to the people of God's grace in ending the tyranny of Antiochus and as an opportunity for Jesus to minister to a large assembly of people in the temple.",
+            "wordCount": 138,
+            "quoteTokenProportion": 31.4,
+            "qualityScore": 1.9474993639206033,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                30.95,
+                39.77,
+                29.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The feast of dedication mentioned here was a significant celebration instituted by Jude Maccabeus in 165 B.C. to commemorate the temple's purification. Lasting for eight days, it involved lighting lamps in the temple and each home. The mention of winter implies inclement weather, explaining why Jesus walked in Solomon's porch. The choice of this specific time must have held great significance for Jesus as it allowed Him to minister to a large assembly of people. Overall, this feast reminded the people of God's grace in ending Antiochus' tyranny.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.788615513400586,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+            "commentatorTierSimilarities": [
+                29.59,
+                38.77,
+                31.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The feast of dedication mentioned in this verse commemorates the purification of the temple by Jude Maccabeus in 165 B.C. It lasted for eight days and involved the kindling of lights in both the temple and homes. The mention of winter suggests inclement weather, explaining Jesus' presence in Solomon's porch. This timing would have been significant to Jesus, providing Him with an opportunity to minister to a large gathering of people. The feast served as a reminder of God's grace in ending Antiochus' tyranny.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.796620389155863,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                29.2,
+                39.55,
+                31.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The feast of dedication, instituted by Jude Maccabeus, commemorated the temple's purification. Lasting eight days, it involved kindling lights in the temple and homes. The mention of winter implies inclement weather, explaining Jesus' presence in Solomon's porch. This timing would have been significant to Jesus, providing an opportunity for His ministry. The feast served as a reminder of God's grace in ending Antiochus' tyranny.",
+            "wordCount": 67,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7354702050730682,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.05,
+            "commentatorTierSimilarities": [
+                30.01,
+                38.06,
+                31.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The feast of dedication, instituted by Jude Maccabeus, was a celebration that lasted for eight days. It involved the kindling of lights in both the temple and homes. The mention of winter implies that it was a cold and inclement time. This timing must have held great significance for Jesus, as it provided an opportunity for Him to minister to a large assembly of people in the temple. Overall, this feast served as a reminder of God's grace in ending the tyranny of Antiochus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.7676369747433691,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                31.71,
+                38.47,
+                29.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

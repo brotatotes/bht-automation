@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:07:10",
+    "verseRef": "John 6:38",
+    "bestBHT": {
+        "bht": "Jesus came into the world to do the will of His Father and to offer salvation to all who come to Him by faith. He did not come to fulfill His own will, but to faithfully carry out the divine will of the One who sent Him. Jesus's descent from heaven represents the fulfillment of the Father's decrees for our salvation. Through our faith in Him, we become part of God's chosen people and experience the joy of doing His will.",
+        "wordCount": 84,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 2.08700634034634,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+        "commentatorTierSimilarities": [
+            21.88,
+            38.02,
+            40.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His reception of men is not capricious, nor even of His own arbitrary choice.",
+            "He came into the world to do the Father\u2019s will.",
+            "That will is that all who come to Him by faith shall have life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For I came down from heaven not to do Mine own will\u2014to play an independent part.",
+            "but\u2014in respect to both the foregoing things, the divine and the human side of salvation.",
+            "the will of Him that sent Me\u2014What this twofold will of Him that sent Him is, we are next sublimely told."
+        ],
+        "Albert Barnes": [
+            "This verse shows that he came for a specific purpose, which he states in the next verse, and means that, as he came to do his Father's will, he would be faithful to the trust.",
+            "Though his hearers should reject him, yet the will of God would be accomplished in the salvation of some who should come to Him.",
+            "Mine own will - See notes at John 5:30."
+        ],
+        "Marvin Vincent": [
+            "From heaven...the idea being rather that of departure (I came down) than of origin.\" ",
+            "The tense is the perfect."
+        ],
+        "John Calvin": [
+            "We do not seek Christ in vain. For faith is a work of God, by which he shows that we are his people, and appoints his Son to be the protector of our salvation.",
+            "Consequently, he will never reject those whom his Father hath sent. Hence, finally, it follows, that faith will never be useless.",
+            "Christ declares, that he has been manifested to the world, in order that he may actually ratify what the Father hath decreed concerning our salvation."
+        ],
+        "Philip Schaff": [
+            "Because I have come down from heaven, not to do mine own will, but the will of him that sent me.",
+            "The previous verse was full of the power and energy of love; but even then Jesus expresses no feeling or purpose of His own as the motive of His acts.",
+            "He will cast out none, because such is the Father\u2019s will, and to do this will He has come down from heaven."
+        ],
+        "Archibald T. Robertson": [
+            "Not that I keep on doing.",
+            "But that I keep on doing.",
+            "This is the fulness of joy for Jesus, to do his Father's will."
+        ],
+        "John Gill": [
+            "For I came down from heaven...this must be understood in a manner becoming his proper deity, his divine sonship, and personality.",
+            "this descent regards neither his soul nor body, but his divine person, which always was in heaven...an assumption of human nature.",
+            "Christ came not to do any will of his own different from that of his Father's; nor do these words imply a difference of wills in them, much less a contrariety in them, but rather the sameness of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus came into the world with a clear purpose - to do the will of His Father. His reception of people is not based on caprice or arbitrary choice, but rather on the will of the Father, which is that all who come to Him by faith shall have life. Jesus did not come to play an independent role or to fulfill His own will, but to faithfully carry out the will of the One who sent Him. This divine will is that Jesus would be the protector and savior of humanity, offering salvation and never rejecting those who seek Him. His descent from heaven signifies His divine nature and the fulfillment of the Father's decrees concerning our salvation. Jesus finds joy in doing the Father's will, and through our faith in Him, we become part of God's chosen people, entrusted to the care of His Son.",
+            "wordCount": 149,
+            "quoteTokenProportion": 47.13,
+            "qualityScore": 2.133431761816146,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.28,
+            "commentatorTierSimilarities": [
+                21.82,
+                37.66,
+                40.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus came into the world not to fulfill His own will, but to faithfully carry out the will of His Father. Through faith in Him, we become part of God's chosen people, and He becomes the protector and savior of our salvation. His descent from heaven signifies the fulfillment of the Father's decrees, and we can be confident that our seeking of Jesus will never be in vain. His joy comes from doing the Father's will, and through our faith, we demonstrate that we are His people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 2.0858176759005818,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                20.95,
+                36.48,
+                42.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus came into the world to do the will of His Father and to offer salvation to all who come to Him by faith. He did not come to fulfill His own will, but to faithfully carry out the divine will of the One who sent Him. Jesus's descent from heaven represents the fulfillment of the Father's decrees for our salvation. Through our faith in Him, we become part of God's chosen people and experience the joy of doing His will.",
+            "wordCount": 84,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.08700634034634,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                21.88,
+                38.02,
+                40.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus came into the world to do the Father's will and offer life to those who come to Him in faith. His purpose was not to fulfill His own will, but to faithfully carry out the will of the One who sent Him. He did not come to play an independent role, but to do the divine will for the salvation of humanity. Jesus finds fulfillment and joy in doing the Father's will, which includes never rejecting those who seek Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 2.1004066783729534,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                21.78,
+                39.1,
+                39.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus came into the world to fulfill the Father's will, offering life to those who have faith. He did not come to fulfill His own will, but to faithfully carry out the divine will set by the One who sent Him. His descent from heaven represents the fulfillment of the Father's decrees for our salvation. By seeking Jesus in faith, we become part of God's chosen people, entrusted to the care of His Son, who will never reject those the Father has sent.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.087716195376846,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.76,
+            "commentatorTierSimilarities": [
+                21.04,
+                37.96,
+                41.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

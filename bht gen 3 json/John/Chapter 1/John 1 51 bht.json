@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:04:23",
+    "verseRef": "John 1:51",
+    "bestBHT": {
+        "bht": "The ongoing ministry of the Lord reveals divine grace and revelation, with heaven opening as a symbol of imparting divine help and communication. Jesus, as the Son of Man and the Son of God, is the dwelling place of God and the gate of Heaven, facilitating the flow of divine assistance and grace from above. Believers witness this divine connection, growing in faith, while the disciples glimpse heavenly beings and anticipate a clearer manifestation of God's kingdom through Christ's ministry, where heaven opens and the angels descend and ascend upon him.",
+        "wordCount": 93,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 2.3181366252873854,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.42,
+        "commentatorTierSimilarities": [
+            39.2,
+            30.24,
+            30.55
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The glories of a period beginning from the opening of the Lord\u2019s public ministry, and at this day not yet completed, are described.",
+            "The opening of heaven is a symbolical expression, signifying the imparting of divine grace, help, and revelation.",
+            "He, the Son of Man, was the dwelling of God and the gate of Heaven, and that through Him, and on Him in the first place, was to descend all communication of help and grace from above."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To show the patriarch that though alone and friendless on earth his interests were busying all heaven.",
+            "He was made to see 'heaven opened and the angels of God ascending and descending upon a' mystic 'ladder reaching from heaven to earth.'",
+            "'By and by,' says Jesus here, 'ye shall see this communication between heaven and earth thrown wide open, and the Son of man the real Ladder of this intercourse.'"
+        ],
+        "Albert Barnes": [
+            "Ye shall see - Not, perhaps, with the bodily eyes, but you shall have 'evidence' that it is so. The thing shall take place, and you shall be a witness of it.",
+            "By their ascending and descending upon him it is probable that he meant that Nathanael would have evidence that they came to his aid, and that he would have 'the' kind of protection and assistance from God which would show 'more fully that he was the Messiah.'",
+            "If we have faith in Jesus, it will be continually strengthened the evidence will grow brighter and brighter."
+        ],
+        "John Calvin": [
+            "I acknowledge indeed, that the disciples sometimes saw angels, who are not seen in the present day; and I acknowledge also that the manifestation of the heavenly glory, when Christ ascended to heaven, was different from what we now behold. But if we duly consider what took place at that time, it is of perpetual duration; for the kingdom of God, which was formerly closed against us, is actually opened in Christ."
+        ],
+        "Philip Schaff": [
+            "There is real and unceasing intercourse between earth and heaven. It is to Jesus that the angels descend; it is from Him that they return to heaven; through His presence on earth this union between earth and heaven exists.\" ",
+            "Through the Incarnation and sufferings of Jesus heaven is opened, is brought into the closest and most constant communion with earth, so that the latter is itself transfigured with the glory of God\u2019s special abode.",
+            "Jesus is the Son of man, connected with no special race, or class, or condition, equally associated with all, equally near to all, in whom all are equally interested, and may be equally blessed."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus is both 'the Son of God' as Nathanael said and 'the Son of Man' as Jesus here calls himself. God and man meet in Christ.",
+            "He is the true Jacob's Ladder. 'I am the Way,' Jesus will say. He is more than King of Israel, he is the Son of Man (the race).",
+            "Here at the start Jesus is conscious of the final culmination and in apocalyptic eschatological language that we do not fully understand he sets forth the dignity and majesty of his Person."
+        ],
+        "John Gill": [
+            "Hereafter you shall see heaven open; either in a literal sense, as it had been at his baptism; or, in a mystical sense, that there should be a clearer manifestation of heavenly truths made by his ministry...",
+            "And it is observable, that some of the Jewish writers understand the ascent, and descent of the angels, in Genesis 28:12, to be, not upon the ladder, but upon Jacob; which makes the phrase there still more agreeable to this...",
+            "There would be immediately made such clearer discoveries of his person, and grace by his ministry, and such miracles would be wrought by him in confirmation of it, that it would look as if heaven was open, and the angels of God were continually going to and fro, and bringing fresh messages..."
+        ],
+        "John Wesley": [
+            "All of these, as well as thou, who believe on me now in my state of humiliation, shall hereafter see me come in my glory...\" ",
+            "This seems the most natural sense of the words, though they may also refer to his ascension."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 1:51, the glories of the Lord's ministry are described as a period that is not yet completed. The opening of heaven symbolizes the imparting of divine grace and revelation. Jesus is both the Son of God and the Son of Man, the true Jacob's Ladder and the way to heaven. Through him, there is constant communication between heaven and earth. As believers, we shall see heaven open and witness the evidence of this divine connection, growing in faith and understanding. The disciples had glimpses of angels and heavenly glory, but the manifestation of God's kingdom in Christ is perpetual. Through his ministry, there would be clearer revelations and miracles, giving the appearance that heaven is open and the angels of God are constantly bringing fresh messages.",
+            "wordCount": 130,
+            "quoteTokenProportion": 32.05,
+            "qualityScore": 2.1385833958150666,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                37.11,
+                30.71,
+                32.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the Lord's ministry is described as a period not yet completed, where heaven opens to impart divine grace and revelation. Jesus, as both the Son of God and the Son of Man, serves as the true Jacob's Ladder, bridging the gap between heaven and earth. Through him, believers witness the evidence of this divine connection, growing in faith and understanding. The disciples experienced glimpses of angels and heavenly glory, anticipating a clearer manifestation of God's kingdom through Christ's ministry, with constant communication between heaven and earth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.2684956194070383,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.77,
+            "commentatorTierSimilarities": [
+                37.62,
+                31.64,
+                30.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord's ministry is an ongoing process where heaven opens to reveal divine grace and revelation. Jesus, as both the Son of God and the Son of Man, acts as the true Jacob's Ladder, connecting heaven and earth. Through him, believers witness the evidence of this divine connection, growing in faith. The disciples received glimpses of angels and heavenly glory, anticipating a clearer manifestation of God's kingdom through Christ's ministry, enabling constant communication between heaven and earth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 2.193976981014236,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.29,
+            "commentatorTierSimilarities": [
+                36.74,
+                32.51,
+                30.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's ongoing ministry is a period yet to be completed, where heaven opens to impart divine grace and revelation. Jesus is the Son of God and the Son of Man - the true Jacob's Ladder. Through him, believers witness the evidence of this divine connection, growing in faith. The disciples glimpsed angels and heavenly glory, anticipating a clearer manifestation of God's kingdom through Christ's ministry, enabling constant communication between heaven and earth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.1601571503976267,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.17,
+            "commentatorTierSimilarities": [
+                37.04,
+                32.18,
+                30.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ongoing ministry of the Lord reveals divine grace and revelation, with heaven opening as a symbol of imparting divine help and communication. Jesus, as the Son of Man and the Son of God, is the dwelling place of God and the gate of Heaven, facilitating the flow of divine assistance and grace from above. Believers witness this divine connection, growing in faith, while the disciples glimpse heavenly beings and anticipate a clearer manifestation of God's kingdom through Christ's ministry, where heaven opens and the angels descend and ascend upon him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.3181366252873854,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.42,
+            "commentatorTierSimilarities": [
+                39.2,
+                30.24,
+                30.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

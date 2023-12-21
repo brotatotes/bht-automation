@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:14:54",
+    "verseRef": "John 19:42",
+    "bestBHT": {
+        "bht": "Joseph of Arimathea's decision to bury Jesus in his own nearby tomb may have been influenced by the practicality of the location. The proximity of the tomb to the crucifixion site, outside the city in a garden, likely played a role in determining the course of events. Additionally, the fact that it was a new sepulchre, and the urgency to bury Jesus quickly due to the approaching Sabbath, further emphasize the convenience and timeliness of this burial place.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9012307355104374,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+        "commentatorTierSimilarities": [
+            43.47,
+            36.18,
+            20.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words because the sepulchre was nigh at hand, may certainly at first sight appear as if St. John were not aware that the tomb belonged to Joseph...",
+            "It is more likely that the thought of asking for the Body may have been originally suggested to Joseph by his possessing a tomb close to the place of crucifixion...",
+            "...the nearness of the tomb may have been the real original reason of the whole proceeding."
+        ],
+        "Philip Schaff": [
+            "These words can hardly mean that Jesus was laid in this tomb simply as a matter of convenience, owing to the nearness of the Sabbath.",
+            "The meaning must rather be that, owing to this nearness, the embalming had been more readily left in that unfinished state of which we read in the other Evangelists.",
+            "The reader cannot fail to be struck with the touching pathos lent to the whole sentence by making it close with the words 'laid they Jesus.'"
+        ],
+        "Archibald T. Robertson": [
+            "This tomb was outside of the city, near a road as the Cross was, and in a garden.",
+            "The hill looked like a skull and was probably Gordon's Calvary seen from the Mount of Olives today."
+        ],
+        "John Gill": [
+            "Because it was a new sepulchre, and no man had been ever laid there before.",
+            "For this reason, they could not dig a grave purposely for him; for it was forbidden on feast days.",
+            "They hastened the interment, and took the most opportune place that offered."
+        ],
+        "John Wesley": [
+            "Because of the preparation \u2014 That is, they chose the rather to lay him in that sepulchre which was nigh, because it was the day before the Sabbath...\" (Commentary)",
+            "...which also was drawing to an end...\" (Commentary)",
+            "...so that they had no time to carry him far.\" (Commentary)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Joseph of Arimathea's decision to bury Jesus in his own nearby tomb in John 19:42 may have been influenced by the practicality of the location. The proximity of the tomb to the place of crucifixion may have prompted Joseph to request Jesus' body. Moreover, the fact that the tomb was outside the city, near a road, and situated in a garden adds to the significance of this burial place. The closeness of the tomb to the crucifixion site, which resembled a skull-shaped hill, likely played a role in determining the course of events.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9722352903399112,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.92,
+            "commentatorTierSimilarities": [
+                50.09,
+                34.41,
+                15.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The convenient proximity of Joseph's tomb to the crucifixion site in a garden outside the city likely influenced his decision to bury Jesus there. This nearness may have initially prompted him to request Jesus' body. Moreover, the fact that the tomb was new and had never been used before might have played a role in their selection. The urgency to bury Jesus quickly due to the approaching Sabbath and the expediency of finding a burial spot close by further support Joseph's choice.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.8015138847195113,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+            "commentatorTierSimilarities": [
+                40.5,
+                37.63,
+                21.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The proximity of Joseph's tomb to the place of crucifixion likely played a significant role in the decision to bury Jesus there. The nearness of the tomb, situated outside the city and close to a road in a garden, may have initially prompted Joseph to request Jesus' body. Additionally, the fact that it was a new sepulchre, never used before, added to the significance of this choice. The urgency to bury Jesus quickly before the Sabbath further supports this practical and convenient decision.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7479552227319632,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                41.47,
+                36.4,
+                22.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Joseph of Arimathea's decision to bury Jesus in his own nearby tomb may have been influenced by the practicality of the location. The proximity of the tomb to the crucifixion site, outside the city in a garden, likely played a role in determining the course of events. Additionally, the fact that it was a new sepulchre, and the urgency to bury Jesus quickly due to the approaching Sabbath, further emphasize the convenience and timeliness of this burial place.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9012307355104374,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                43.47,
+                36.18,
+                20.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because the sepulchre was nigh, Joseph's decision to bury Jesus in his own nearby tomb was likely influenced by its practicality. The close proximity of the tomb to the place of crucifixion, situated outside the city in a garden, played a significant role in this choice. Moreover, the fact that it was a new sepulchre, never used before, added to the importance of this burial place. The nearing Sabbath and the urgency to bury Jesus quickly also contribute to the understanding of why Joseph selected this opportune location.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8580392941789277,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                40.49,
+                35.53,
+                23.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

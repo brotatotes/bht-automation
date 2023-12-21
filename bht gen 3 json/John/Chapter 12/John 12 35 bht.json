@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:11:21",
+    "verseRef": "John 12:35",
+    "bestBHT": {
+        "bht": "Walk in the Light, Jesus Himself, while you have the opportunity. Take advantage of your privilege and let in the Light, for it will not be with you much longer. Jesus warns against trifling with this brief opportunity and encourages them to make use of the Light to do their work. Embrace the truth and learn the way to life, lest darkness overtake you and you go blindly to destruction. So, walk in the Light, believe in the Messiah and his Gospel, and embrace him as children of the light.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.193480530833525,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.27,
+        "commentatorTierSimilarities": [
+            35.5,
+            35.06,
+            29.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Walk, according to your present state of privilege in possessing the Light: which indeed can only be done while it is with you.",
+            "The light, i.e. 'Myself.'",
+            "Walk... make use of the Light, do your work in it, and by it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Yet a little while is the light with you. Walk while ye have the light.\" ",
+            "He warns them, with mingled majesty and tenderness, against trifling with their last brief opportunity.",
+            "Let in the Light while they have it in the midst of them, that they themselves might be 'light in the Lord.'"
+        ],
+        "Albert Barnes": [
+            "They ought to improve the opportunity while they had it to listen to his instructions, to require with candor, and thus to forsake their false notions respecting the Messiah.",
+            "Make good use of your privileges before they are removed. That is, while the Messiah is with you, avail yourselves of his instructions and learn the way to life.",
+            "God leaves a sinner to darkness and misery when he has long rejected the gospel."
+        ],
+        "John Calvin": [
+            "When he says that yet a little while there is some remaining light, he confirms what he had already said about his death; for though by the light he does not mean his bodily presence, but his Gospel, yet he alludes to his departure.",
+            "Walk while you have the light lest darkness overtake you. This statement, that the light does not continue to shine on them but for a little while, applies equally to all unbelievers.",
+            "But now Christ declares that we are in darkness, unless he shine upon us. Hence infer what is the value of the sagacity of the human mind, when it is the sole guide and instructor, apart from Christ."
+        ],
+        "Philip Schaff": [
+            "Yet a little while is the light among you...if they did not pass beyond all doubts to faith, they would be overtaken by darkness.",
+            "Walk as ye have the light, that darkness overtake you not.",
+            "And he that walketh in the darkness knoweth not whither he goeth... they will go blindly to destruction."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus does not argue the point of theology with the crowd who would not understand.",
+            "He turns to the metaphor used before when he claimed to be the light of the world (John 8:12) and urges that they take advantage of their privilege 'while ye have the light.'",
+            "The dark streets were a terror to travellers."
+        ],
+        "John Gill": [
+            "Yet a little while is the light with you: meaning either himself, the light of the world, John 8:12, who was to be but a very little while longer with them, a few days more.",
+            "Believe in the Messiah, and in his Gospel; embrace him and that, and walk on in him, and worthy of him and of his Gospel, as children of the light.",
+            "For he that walketh in darkness, knoweth not whither he goeth; he cannot see his way, nor the stumbling blocks that lie in it, and the dangers he is exposed unto."
+        ],
+        "John Wesley": [
+            "Then Jesus said to them \u2014 Not answering them directly, but exhorting them to improve what they had heard already.",
+            "The light \u2014 I and my doctrine."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Walk in the light while you have it, for it will not be with you for much longer. Make use of the privilege of having the Light, Jesus Himself, among you. Jesus, in His majesty and tenderness, warns against wasting the opportunity to embrace Him as the Light and to be light in Him. By urging them to walk while ye have the light, Jesus emphasizes the importance of not trifling with their last chance to accept Him as the true Messiah. Do not be like those who walk in darkness, unaware of the dangers and destined for destruction, but instead embrace the Light and walk in it.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.2717274727273953,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.88,
+            "commentatorTierSimilarities": [
+                36.57,
+                32.96,
+                30.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Walk in the light while you have it, for it will not be with you for much longer. Make use of the privilege of having the Light, Jesus Himself, among you. Jesus warns against wasting the opportunity to embrace Him as the Light and to be light in Him. By urging them to walk while ye have the light, Jesus emphasizes the importance of not trifling with their last chance to accept Him as the true Messiah. Do not be like those who walk in darkness, unaware of the dangers and destined for destruction, but embrace the Light and walk in it.",
+            "wordCount": 102,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 2.308270170701946,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.09,
+            "commentatorTierSimilarities": [
+                36.38,
+                32.95,
+                30.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Walk in the light while it is with you, for the opportunity is fleeting. Embrace Jesus, the Light of the world, and let His teachings guide your path. He urges you to make the most of your privilege, for soon the light will be taken away. Do not trifle with this last chance to embrace the truth, for those who walk in darkness are blind to the dangers ahead. Embrace the Light and let it illuminate your way.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.085355707829211,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                38.44,
+                33.34,
+                28.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Walk according to your present state of privilege in possessing the Light, which is Jesus himself. Take advantage of the opportunity to let in the Light while you have it, for it will not be with you much longer. Jesus warns against trifling with this brief opportunity and urges them to make use of the Light, doing their work in it and by it. The metaphor of light is used to emphasize the importance of embracing the truth and learning the way to life. Otherwise, they would be overtaken by darkness and go blindly to destruction. So, walk in the Light, believe in the Messiah and his Gospel, and embrace him as children of the light.",
+            "wordCount": 116,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 2.0900832517194234,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                35.45,
+                33.94,
+                30.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Walk in the Light, Jesus Himself, while you have the opportunity. Take advantage of your privilege and let in the Light, for it will not be with you much longer. Jesus warns against trifling with this brief opportunity and encourages them to make use of the Light to do their work. Embrace the truth and learn the way to life, lest darkness overtake you and you go blindly to destruction. So, walk in the Light, believe in the Messiah and his Gospel, and embrace him as children of the light.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.193480530833525,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.27,
+            "commentatorTierSimilarities": [
+                35.5,
+                35.06,
+                29.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:15:45",
+    "verseRef": "John 21:20",
+    "bestBHT": {
+        "bht": "Jesus motioning Peter away in private may appear unnatural and unclear. However, the disciple whom Jesus loved, who had a deep bond with Him, was following both Jesus and Peter. This disciple's actions justified his following and explained Peter's curiosity. It serves as a reminder for us not to be preoccupied with others' lives, but to focus on our own duties and listen to the direction of our heavenly Captain.",
+        "wordCount": 72,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9614954819088837,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+        "commentatorTierSimilarities": [
+            29.47,
+            30.96,
+            39.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The details necessary to complete the narrative are obscure.",
+            "I can hardly conceive Him moving away on uttering these words, and summoning Peter away in private. It seems in the highest degree unnatural.",
+            "This description and identification of the disciple whom Jesus loved is evidently inserted to justify his following, and is a strong token of St. John\u2019s hand having written this chapter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peter, turning about\u2014showing that he followed immediately as directed.",
+            "The Evangelist makes these allusions to the peculiar familiarity to which he had been admitted on the most memorable of all occasions.",
+            "...lovingly to account for Peter's somewhat forward question about him to Jesus."
+        ],
+        "Albert Barnes": [
+            "Which also leaned ... - See John 13:24-25."
+        ],
+        "Marvin Vincent": [
+            "Leaned [\u03b1\u03bd\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd] . Rev., leaned back. See on 13 25. The reference is to the special act of John, leaning back to whisper to Jesus, and not to his position at table."
+        ],
+        "John Calvin": [
+            "We have in Peter an instance of our curiosity, which is not only superfluous, but even hurtful, when we are drawn aside from our duty by looking at others.",
+            "It is almost natural to us to examine the way in which other people live, instead of examining our own, and to attempt to find in them idle excuses.",
+            "Let every man learn to keep his own station, and let us not make inquiries like busybodies about this or that person, when the heavenly Captain addresses each of us."
+        ],
+        "Philip Schaff": [
+            "John is here not simply the individual: he is the apostle following Peter in apostolic work, and like him, representative (though in a different aspect) of all Christian labourers and witnesses.",
+            "He is not only the \u2018disciple whom Jesus loved;\u2019 he is the apostle who \u2018leaned back on the breast of Jesus at the supper and said, Lord, which is he that betrayeth Thee?\u2019",
+            "In other words, he is the apostle whose mind was nearest to the mind of Jesus, and whom Jesus found most fitted to receive the deeper revelations of His will."
+        ],
+        "Archibald T. Robertson": [
+            "Turning about (\u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u03b9\u03c2). Second aorist passive participle of \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b5\u03c6\u03c9, old verb, here a sudden turning round (ingressive aorist).\" ",
+            "For the simplex verb \u03c3\u03c4\u03c1\u03b5\u03c6\u03c9 see John 20:14; John 20:16.",
+            "Following (\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u03c5\u03bd\u03c4\u03b1). Following both Jesus and Peter, perhaps having heard the graphic dialogue above."
+        ],
+        "John Gill": [
+            "This disciple had a peculiar share in the love of Christ, as man, and was admitted to great nearness and freedom with him, signified by his leaning on his breast.",
+            "Who being so near his person, and allowed to use a liberty with him, everyone did not take, at the motion of Peter, asked our Lord at supper, who the person was he meant that should betray him.",
+            "All this is said as descriptive of the disciple here spoken of, which leaves it without any doubt, that it was the Apostle John."
+        ],
+        "John Wesley": [
+            "Christ orders St. Peter to follow him in token of his readiness to be crucified in his cause."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As we read this passage, it may seem unclear and unnatural why Jesus would motion Peter away in private. However, it becomes evident that the disciple whom Jesus loved had a deep bond and familiarity with Jesus, as indicated by him leaning back to whisper to Jesus during the supper. It is this disciple who is following both Jesus and Peter, and his presence and actions serve to justify his following. In this context, Peter's curiosity about this disciple and his questioning to Jesus are lovingly accounted for, but it is also a reminder for us to avoid being drawn away from our own duties and to refrain from idle excuses. Each of us must focus on our own station and listen to the heavenly Captain's direction for our lives.",
+            "wordCount": 132,
+            "quoteTokenProportion": 48.24,
+            "qualityScore": 2.0428921541795946,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.27,
+            "commentatorTierSimilarities": [
+                31.09,
+                30.43,
+                38.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus motioning Peter away in private may appear unnatural and unclear. However, the disciple whom Jesus loved, who had a deep bond with Him, was following both Jesus and Peter. This disciple's actions justified his following and explained Peter's curiosity. It serves as a reminder for us not to be preoccupied with others' lives, but to focus on our own duties and listen to the direction of our heavenly Captain.",
+            "wordCount": 72,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9614954819088837,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "commentatorTierSimilarities": [
+                29.47,
+                30.96,
+                39.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The details surrounding this verse are obscure, leaving room for speculation about the narrative. One commentator finds it unnatural for Jesus to move away and summon Peter in private after uttering these words. Another commentator argues that the mention of the disciple whom Jesus loved is John's way of justifying his presence in the narrative. However, despite the ambiguity, Peter immediately followed Jesus as directed. It is clear that the disciple whom Jesus loved had a unique familiarity with Him, as shown by his leaning back and whispering to Jesus during a supper. This disciple's proximity and liberty with Jesus granted him the privilege of asking about the identity of the betrayer. It is apparent that this disciple is none other than John, the author of this chapter, and Jesus orders Peter to follow him as a sign of his willingness to be crucified for Christ's cause. Ultimately, this verse cautions against the curiosity that leads us astray from our own duties while distracting us with idle excuses about others.",
+            "wordCount": 173,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0952646872248515,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.01,
+            "commentatorTierSimilarities": [
+                33.03,
+                31.9,
+                35.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The details mentioned in this passage are vague, which may lead to different interpretations. Some find it unnatural for Jesus to move away and summon Peter privately, while others believe the mention of the disciple whom Jesus loved justifies his presence. It is clear that this disciple had a unique familiarity with Jesus, being close enough to lean back and whisper to Him during a supper. This disciple, identified as John, had the liberty to inquire about the betrayer. Jesus orders Peter to follow John, displaying his willingness to sacrifice for Christ's cause. This verse warns against the curiosity that distracts us from our own responsibilities and leads to idle excuses about others.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 2.0655360841758554,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                29.9,
+                34.25,
+                35.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The details mentioned in this narrative are unclear and open to interpretation. It seems unnatural for Jesus to move away and summon Peter privately. However, the disciple whom Jesus loved had a unique familiarity, as demonstrated by their close relationship and intimate conversations. This disciple, identified as John, leaned back and whispered to Jesus during a supper, showing their special bond. Jesus orders Peter to follow John, indicating his readiness to sacrifice for Christ's cause. This passage serves as a caution against the curiosity that distracts us from our own responsibilities and leads to idle excuses about others.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.9821454493227009,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                32.26,
+                31.89,
+                35.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

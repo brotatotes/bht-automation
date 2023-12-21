@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:14:48",
+    "verseRef": "John 19:27",
+    "bestBHT": {
+        "bht": "The Romanist idea that Jesus entrusted all his disciples to the care of his mother is absurd. We cannot draw a certain conclusion about whether the brethren of the Lord believed in him at the time. The phrase he took her to his own home does not necessarily imply that John had a house in Jerusalem, but rather that wherever he was, she lived with him. This act demonstrates Jesus' humanity, John's love for him, and the importance of showing affectionate regard and tender care towards Jesus' mother.",
+        "wordCount": 89,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 1.9302169857286917,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+        "commentatorTierSimilarities": [
+            31.47,
+            39.31,
+            29.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Romanist idea, that the Lord commended all his disciples, as represented by the beloved one, to the patronage of His mother, is simply absurd.",
+            "No certain conclusion can be drawn from this commendation, as to the 'brethren of the Lord' believing on Him or not at this time.",
+            "The words, he took her to his own home, need not imply that John had a house in Jerusalem. The name would equally apply to his lodging during the feast; only meaning, that henceforth, wherever he was, she was an inmate with him."
+        ],
+        "Albert Barnes": [
+            "Behold thy mother! - One who is to be to thee as a mother.",
+            "The fact that she was the mother of Jesus would secure the kindness of John, and the fact that she was now intrusted to him demanded of him affectionate regard and tender care.",
+            "John seems to have been in better circumstances than the other apostles."
+        ],
+        "Marvin Vincent": [
+            "His own home [\u03c4\u03b1 \u03b9\u03b4\u03b9\u03b1] . See on 1 11. ",
+            "- 30. Compare Matthew 27:45-50; Mark 14:33-37; Luke 23:44-46."
+        ],
+        "John Calvin": [
+            "It is a token of the reverence due by a disciple to his master, that John so readily obeys the command of Christ.",
+            "Hence also it is evident, that the Apostles had their families; for John could not have exercised hospitality towards the mother of Christ, or have taken her to his own home, if he had not had a house and a regular way of living.",
+            "Those men, therefore, are fools, who think that the Apostles relinquished their property, and came to Christ naked and empty; but they are worse than fools, who make perfection to consist in beggary."
+        ],
+        "Archibald T. Robertson": [
+            "Unto his own home (\u03b5\u03b9\u03c2 \u03c4\u03b1 \u03b9\u03b4\u03b9\u03b1).",
+            "John had a lodging in Jerusalem, whether a house or not.",
+            "The mother of Jesus lived with him there."
+        ],
+        "John Gill": [
+            "This shows the meanness of Christ, who had nothing to leave her, though Lord of all.",
+            "He now, in his dying moments, commits her to the care of this disciple; which is an instance of his humanity, and of his regard to every duty.",
+            "His doing this forthwith shows his great regard to Christ, his readiness and cheerfulness to comply with his orders and directions, and his unfeigned love unto him."
+        ],
+        "John Wesley": [
+            "Behold thy mother \u2014 To whom thou art now to perform the part of a son in my place, a peculiar honour which Christ conferred on him.",
+            "From that hour \u2014 From the time of our Lord's death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From the commentary, we can conclude that the idea that Jesus commended all his disciples to the patronage of His mother is absurd. Additionally, we cannot draw a certain conclusion as to whether the brethren of the Lord believed in Him at that time or not. The phrase he took her to his own home simply means that wherever John was, she lived with him. This shows the meanness of Christ, who had nothing to leave her, though He was Lord of all. John readily obeyed the command of Christ, which demonstrates his reverence for his master. Overall, this incident displays Jesus' humanity, his regard for every duty, and the tender care required towards His mother.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.8035756804486134,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+            "commentatorTierSimilarities": [
+                28.03,
+                35.0,
+                36.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Romanist idea that Jesus commended all his disciples to His mother is absurd. The phrase he took her to his own home does not imply that John had a house in Jerusalem, but simply that wherever John was, she was an inmate with him. This incident showcases Jesus' humanity, his regard for every duty, and John's reverence for his master. Despite Jesus having nothing material to leave her, John readily obeyed His command and took care of His mother.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.927313520014308,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                29.92,
+                37.7,
+                32.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "According to the commentary, the idea that all of Jesus' disciples were commended to His mother is absurd. It cannot be concluded whether the brethren of the Lord believed in Him at that time. The phrase he took her to his own home implies that John had a lodging in Jerusalem, where the mother of Jesus lived with him. This act displays Jesus' humanity and John's willingness to comply with His orders and directions. It also emphasizes the importance of affectionate regard and tender care towards Jesus' mother.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7997209651795414,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                30.58,
+                39.01,
+                30.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The idea that all of Jesus' disciples were commended to His mother is absurd. We cannot determine whether the brethren of the Lord believed in Him at that time. The phrase he took her to his own home suggests that John had a lodging in Jerusalem, where the mother of Jesus lived with him. This incident reveals Jesus' humanity and John's willingness to comply with His orders and demonstrate his love for Him. It emphasizes the importance of affectionate regard and tender care towards Jesus' mother.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.8314943513904272,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                29.91,
+                40.09,
+                29.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Romanist idea that Jesus entrusted all his disciples to the care of his mother is absurd. We cannot draw a certain conclusion about whether the brethren of the Lord believed in him at the time. The phrase he took her to his own home does not necessarily imply that John had a house in Jerusalem, but rather that wherever he was, she lived with him. This act demonstrates Jesus' humanity, John's love for him, and the importance of showing affectionate regard and tender care towards Jesus' mother.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.9302169857286917,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                31.47,
+                39.31,
+                29.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

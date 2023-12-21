@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:09:11",
+    "verseRef": "John 8:58",
+    "bestBHT": {
+        "bht": "Jesus' statement highlights His divine nature and eternal being. By declaring I am, He emphasizes His essential pre-existence and eternal existence, distinct from Abraham or any ordinary man. The Jews, understanding the implication of His words, sought to stone Him for making Himself equal with God. Jesus' use of the absolute phrase signifies His timeless existence and absolute deity. His claim challenges human understanding and establishes His divine authority and superiority over Abraham.",
+        "wordCount": 74,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.2559838620779367,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+        "commentatorTierSimilarities": [
+            30.69,
+            38.22,
+            31.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All unbiassed explanation of these words must recognize in them a declaration of the essential pr\u00e6-existence of Christ.",
+            "The present, I am, expresses essential existence, see Col. i. 17, and was often used by our Lord to assert His divine Being.",
+            "In this verse the Godhead of Christ is involved; and this the Jews clearly understood, by their conduct to Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The statement therefore is not that Christ came into existence before Abraham did (as Arians affirm is the meaning), but that He never came into being at all, but existed before Abraham had a being; in other words, existed before creation, or eternally (as John 1:1).",
+            "[The Jews] then took they up stones to cast at Him, just as they had before done when they saw that He made Himself equal with God (John 1:1- :).",
+            "hid himself"
+        ],
+        "Albert Barnes": [
+            "Before Abraham was - Before Abraham lived.",
+            "The expression I am, though in the present tense, is clearly designed to refer to a past time. Thus, in Psalms 90:2, 'From everlasting to everlasting thou art God.'",
+            "This declaration must be referred to another nature; and the passage proves that, while he was a man, he was also endowed with another nature existing before Abraham, and to which he applied the term (familiar to the Jews as expressive of the existence of God) I AM."
+        ],
+        "Marvin Vincent": [
+            "Abraham came into being, or was born. Jesus' life was from and to eternity.\" ",
+            "Hence the formula for absolute, timeless existence, I am.\" ",
+            "It is important to observe the distinction between the two verbs."
+        ],
+        "John Calvin": [
+            "Christ reminds them that he has something greater and higher than human appearance, which is hidden from the senses of the flesh, and is perceived only by the eyes of faith.",
+            "By these words he excludes himself from the ordinary rank of men, and claims for himself a power more than human, a power heavenly and divine.",
+            "The power and grace of Christ, so far as he is the Redeemer of the world, was common to all ages. It agrees therefore with that saying of the apostle, Christ yesterday, and to-day, and for ever."
+        ],
+        "Philip Schaff": [
+            "In the clearest possible manner Jesus declares, not only His existence before Abraham, but also the essential distinction between His being and that of any man.",
+            "He claims for Himself that absolute, unchanging existence which is the attribute of God alone.",
+            "The conduct of the Jews...clearly understood them to be a distinct (and in their mind a blasphemous) claim of that which belonged to God alone."
+        ],
+        "Archibald T. Robertson": [
+            "Before Abraham came into existence or was born.",
+            "Jesus claims eternal existence with the absolute phrase used of God.",
+            "The contrast between \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1 (entrance into existence of Abraham) and \u03b5\u03b9\u03bc (timeless being) is complete."
+        ],
+        "John Gill": [
+            "before Abraham was, I am; which is to be understood, not of his being in the purpose and decree of God, foreordained to sufferings, and to glory... but refers to the passage in Exodus 3:14.\" ",
+            "he was concerned in the creation of all things out of nothing, as the efficient cause thereof; he was set up from everlasting as Mediator; and the covenant of grace was made with him, and the blessings and promises of it were put into his hands before the world began.",
+            "his being of the same nature proves his eternity, as well as deity, that he is from everlasting to everlasting God; and is what he ever was, and will be what he now is: he is immutable, the same today, yesterday, and for ever."
+        ],
+        "John Wesley": [
+            "Before Abraham was I AM \u2014 Even from everlasting to everlasting.",
+            "This is a direct answer to the objection of the Jews.",
+            "...and shows how much greater he was than Abraham."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus' statement in John 8:58 is a declaration of His essential pre-existence and divine being. By using the phrase I am, He asserts His timeless existence, existing before Abraham or creation itself. The Jews understood the implication of this claim and became so enraged that they picked up stones to stone Him. Jesus differentiates Himself from Abraham by highlighting the contrast between Abraham's entrance into existence and His timeless being. His use of the absolute phrase denotes His eternal existence and equality with God. Jesus' words not only emphasize His pre-existence but also the essential distinction between His being and that of any ordinary man.",
+            "wordCount": 107,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 2.3369196905166456,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.04,
+            "commentatorTierSimilarities": [
+                32.48,
+                38.7,
+                28.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' statement reveals His eternal existence and divine nature. He declares His essential pre-existence, using the phrase I am to express His timeless being. The Jews understood this claim and became enraged, recognizing that He made Himself equal with God. By contrasting Abraham's entrance into existence with His own timeless being, Jesus emphasizes His eternal existence and essential distinction from any ordinary man. His words highlight His divine nature and challenge the Jews' objection.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.177312632109946,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.74,
+            "commentatorTierSimilarities": [
+                32.26,
+                37.62,
+                30.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' claim of I am in John 8:58 asserts His essential existence and eternal nature. By using this phrase, He affirms His divine being and pre-existence before Abraham. The contrast between Abraham's birth and Jesus' timeless existence establishes His eternal nature and divine identity. The Jews responded with anger, recognizing His claim of equality with God. Jesus' words serve as a profound declaration of His divinity and challenge the limitations of human understanding.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.310526591346651,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.17,
+            "commentatorTierSimilarities": [
+                31.29,
+                38.56,
+                30.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' statement highlights His divine nature and eternal being. By declaring I am, He emphasizes His essential pre-existence and eternal existence, distinct from Abraham or any ordinary man. The Jews, understanding the implication of His words, sought to stone Him for making Himself equal with God. Jesus' use of the absolute phrase signifies His timeless existence and absolute deity. His claim challenges human understanding and establishes His divine authority and superiority over Abraham.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2559838620779367,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+            "commentatorTierSimilarities": [
+                30.69,
+                38.22,
+                31.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' assertion of I am in John 8:58 affirms His essential pre-existence and divine being. This phrase expresses His timeless existence, denoting that He never came into being but eternally existed. The contrast between the entrance into existence of Abraham and Jesus' timeless being is clear. The Jews understood the implication of His words and sought to stone Him, recognizing His claim to equality with God. Jesus' statement serves as a declaration of His divinity, challenging human understanding and highlighting His eternal nature and superiority over Abraham.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.377862032111393,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.4,
+            "commentatorTierSimilarities": [
+                32.74,
+                38.76,
+                28.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

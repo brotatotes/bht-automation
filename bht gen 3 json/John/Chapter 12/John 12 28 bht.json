@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:11:10",
+    "verseRef": "John 12:28",
+    "bestBHT": {
+        "bht": "Jesus prays to the Father, asking Him to glorify His name, as the glorification of the Son is intertwined with the glorification of the Father. The Father's response, through a miraculous voice, confirms Jesus' request and strengthens Him for the forthcoming trials. This dialogue highlights Jesus' unwavering commitment to prioritize the glory of God above all else, even at the cost of His own life. The name of God represents His character, and the Father's answer affirms His unchanging purpose.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.2818627392405393,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.21,
+        "commentatorTierSimilarities": [
+            34.8,
+            33.95,
+            31.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The glorifying the Name of the Father can only take place by the glorification of the Son; and this latter only by His death: so that this is the 'ardour of obedience' triumphant.",
+            "This 'voice' can no otherwise be understood, than as a plain articulate sound, miraculously spoken, heard by all, and variously interpreted.",
+            "I have glorified it] In the manifestation hitherto made of the Son of God, imperfect as it was; in all Old Testament type and prophecy; in Creation; and indeed before the world was made."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Father, glorify thy name\u2014by a present testimony.\" ",
+            "I have both glorified it\u2014referring specially to the voice from heaven at His baptism, and again at His transfiguration.",
+            "and will glorify it again\u2014that is, in the yet future scenes of His still deeper necessity; although this promise was a present and sublime testimony, which would irradiate the clouded spirit of the Son of man."
+        ],
+        "Albert Barnes": [
+            "I am willing to bear any trials; I will not shrink from any sufferings. Let thy name be honored.",
+            "Thus Jesus showed us that God\u2019s glory is to be the great end of our conduct, and that we are to seek that, whatever sufferings it may cost us.",
+            "Whatever was done by Christ tended to honor the name of God. This was what he had in view. He lived and suffered, not for himself, but to glorify God in the salvation of men."
+        ],
+        "Marvin Vincent": [
+            "Glorify [\u03b4\u03bf\u03be\u03b1\u03c3\u03bf\u03bd] . (Wyc., clarify, as the Vulgate clarifca.) Name. See on Matthew : 19."
+        ],
+        "John Calvin": [
+            "He testifies, that he prefers the glory of the Father to all things else, and even neglects and disregards his own life.",
+            "The true regulation of all our desires is, to seek the glory of God in such a manner that all other things shall give way to it.",
+            "But as it is the purpose of God to prevent the offense of the cross, he not only promises that the death of Christ will be glorious, but also mentions with commendation the numerous ornaments with which he had already adorned it."
+        ],
+        "Philip Schaff": [
+            "Father, glorify thy name. \u2018Let Thy glory shine forth in Thy name, in Thy character, as Father and in all that is involved in establishing Thy fatherly relation to men.\u2019",
+            "The answer is a voice from heaven which is supposed (John 12:29) by some to be thunder, by others to be that of an angel. Both these suppositions disclose the character of the voice. It was loud and terrible, a voice of awe and majesty.",
+            "The words rather express the unchangeableness of the purpose of Him \u2018which is and which was and is to come,\u2019 and intimate that the great work whereby God\u2019s name was to be especially glorified would certainly, as resolved on in eternity, be accomplished."
+        ],
+        "Archibald T. Robertson": [
+            "The 'name' (\u03bf\u03bd\u03bf\u03bc\u03b1) of God expresses the character of God.\" ",
+            "This was the Father's answer to the prayer of Jesus for help.\" ",
+            "This definite assurance from the Father will nerve the soul of Jesus for the coming ordeal."
+        ],
+        "John Gill": [
+            "Father, glorify thy name,.... The perfections of his nature, particularly his justice and holiness...",
+            "intimating hereby, that his Father's glory was what he had in view, and that the securing of that would give him an infinite pleasure amidst all his sorrows.",
+            "I have both, glorified [it]; meaning in the incarnation, ministry, obedience and miracles of Christ..."
+        ],
+        "John Wesley": [
+            "Father, glorify thy name \u2014 Whatever I suffer. Now the trouble was over.",
+            "I have glorified it \u2014 By thy entrance into this hour.",
+            "And I will glorify it \u2014 By thy passing through it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 12:28, Jesus prays to the Father, asking Him to glorify His name. This request signifies the inseparable connection between the glorification of the Father and the Son, and specifically emphasizes the upcoming triumph of obedience through Christ's death. The response from the Father is an audible voice, conveying a clear and miraculous message. This assurance from the Father strengthens Jesus for the trials He will face. The name of God represents His character, and the Father's answer reaffirms His steadfast purpose. This dialogue between the Father and the Son underscores Jesus' unwavering commitment to prioritize the glory of God above all else, even at the cost of His own life.",
+            "wordCount": 113,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 2.2149102735248984,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                36.21,
+                32.57,
+                31.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus prays to the Father, asking Him to glorify His name, as the glorification of the Son is intertwined with the glorification of the Father. The Father's response, through a miraculous voice, confirms Jesus' request and strengthens Him for the forthcoming trials. This dialogue highlights Jesus' unwavering commitment to prioritize the glory of God above all else, even at the cost of His own life. The name of God represents His character, and the Father's answer affirms His unchanging purpose.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.2818627392405393,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.21,
+            "commentatorTierSimilarities": [
+                34.8,
+                33.95,
+                31.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, Jesus prays to the Father, requesting Him to glorify His name, signifying the inseparable connection between the glorification of the Father and the Son. The Father's response takes the form of a clear and miraculous voice, confirming Jesus' plea and fortifying Him for the upcoming trials. This exchange emphasizes Jesus' utmost dedication to prioritize the glory of God above all else, even though it may require sacrificing His own life. The name of God represents His character, and the Father's answer affirms His unwavering purpose.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.2656579622500774,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.67,
+            "commentatorTierSimilarities": [
+                35.02,
+                33.89,
+                31.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in his prayer to the Father, requests that He glorify His name, illustrating the integral relationship between the glorification of the Father and the Son. The Father's response, conveyed through a miraculous voice, affirms Jesus' appeal and reinforces His resolve in the face of imminent trials. This conversation underscores Jesus' unwavering commitment to prioritize the glory of God above all else, even at the cost of His own life. The name of God represents His character, and the Father's answer confirms His unchanging purpose.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.2422069000548817,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.89,
+            "commentatorTierSimilarities": [
+                34.4,
+                34.71,
+                30.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in His prayer to the Father, asks Him to glorify His name, revealing the inseparable connection between the glorification of the Father and the Son. The Father's response, conveyed through a miraculous voice, confirms Jesus' plea and strengthens Him for the challenges ahead. This dialogue underscores Jesus' unwavering commitment to prioritize the glory of God over everything else, even at the cost of His own life. The name of God represents His character, and the Father's response affirms His unchanging purpose.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.2422357268316793,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.89,
+            "commentatorTierSimilarities": [
+                35.13,
+                33.43,
+                31.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

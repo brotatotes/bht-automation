@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-21-2023 03:10:09",
+    "verseRef": "John 11:14",
+    "bestBHT": {
+        "bht": "Jesus describes the death of Lazarus as sleep, using divine language to convey the passing of a saint. This choice of words reveals the generosity and incomparable manner of Christ's discourse. His straightforward statement declares Lazarus as truly dead, but the disciples' inability to grasp his meaning showcases their slow apprehension and the need for Scripture to sometimes descend to human discourse. Jesus's patience in dealing with their ignorance reflects his astonishing goodness, as he waits to demonstrate a greater miracle of renewing their understanding.",
+        "wordCount": 87,
+        "quoteTokenProportion": 25.4,
+        "qualityScore": 1.4350006160191502,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+        "commentatorTierSimilarities": [
+            46.45,
+            0.0,
+            53.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Sleep is the death of the saints, in the language of heaven.",
+            "Incomparable is the generosity of the divine manner of discoursing.",
+            "Such is the slowness of men's apprehension that Scripture often has to descend to the more miserable style of human discourse."
+        ],
+        "John Calvin": [
+            "The goodness of Christ was astonishing, in being able to bear with such gross ignorance in the disciples.",
+            "The reason why he delayed, for a time, to bestow upon them the grace of the Spirit in larger measure, was, that the miracle of renewing them in a moment might be the greater.",
+            "The miracle of renewing them in a moment might be the greater."
+        ],
+        "Archibald T. Robertson": [
+            "Plainly (\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1). Adverb (see on John 7:4), without metaphor as in John 16:29.",
+            "Is dead (\u03b1\u03c0\u03b5\u03b8\u03b1\u03bd\u03b5\u03bd). First aorist active indicative, \"died.\" "
+        ],
+        "John Gill": [
+            "Without a figure, when he perceived they did not understand him, and yet it was a very easy and usual metaphor which he had made use of.",
+            "But such was the present stupidity of their minds, that they did not take in his meaning.",
+            "Lazarus is dead indeed, as he really was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 11:14, Jesus refers to the death of Lazarus as sleep, using divine language to describe the passing of a saint. This metaphor is necessary because of the limited understanding of humanity. Jesus speaks plainly about Lazarus being dead, highlighting the finality of his condition. The disciples' failure to comprehend this straightforward language reveals their ignorance, yet Jesus patiently bears with them, delaying the bestowal of the Spirit's grace to demonstrate the miraculous renewal that will surpass their comprehension. Thus, Lazarus is truly dead, emphasizing the reality of his state.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.402787864394077,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                49.6,
+                0.0,
+                50.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus describes the death of Lazarus as sleep, using divine language to convey the passing of a saint. This choice of words reveals the generosity and incomparable manner of Christ's discourse. His straightforward statement declares Lazarus as truly dead, but the disciples' inability to grasp his meaning showcases their slow apprehension and the need for Scripture to sometimes descend to human discourse. Jesus's patience in dealing with their ignorance reflects his astonishing goodness, as he waits to demonstrate a greater miracle of renewing their understanding.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.4350006160191502,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+            "commentatorTierSimilarities": [
+                46.45,
+                0.0,
+                53.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus refers to the death of Lazarus as sleep, conveying the heavenly language used for the saints. By using plain and direct language, Jesus makes it clear that Lazarus is truly dead. The disciples' lack of comprehension highlights their slow understanding and the need for Scripture to accommodate human discourse. Jesus exhibits remarkable patience in dealing with their ignorance, delaying the imparting of greater grace to demonstrate the miraculous renewal that will surpass their limited understanding.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.3527973414044285,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.32,
+            "commentatorTierSimilarities": [
+                48.06,
+                0.0,
+                51.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus describes the death of Lazarus as sleep, using divine language to convey the passing of a saint. This choice of words reveals the generosity and incomparable manner of Christ's discourse. His straightforward statement declares Lazarus as truly dead, emphasizing the reality of his state. The disciples' inability to grasp this simple expression demonstrates their ignorance, but Jesus patiently bears with them, postponing the bestowal of the Spirit's grace to highlight the magnificence of the forthcoming miraculous renewal that will surpass their comprehension.",
+            "wordCount": 85,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 1.353693822937593,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.35,
+            "commentatorTierSimilarities": [
+                48.05,
+                0.0,
+                51.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus uses the metaphor of sleep to depict the death of Lazarus, employing divine language to describe the passing of a saint. This exemplifies the extraordinary manner in which Christ speaks. He straightforwardly states that Lazarus is dead, emphasizing the finality of his condition. The disciples' lack of understanding necessitates such plain speech, as they struggle to comprehend metaphors. Jesus patiently accommodates their ignorance, delaying the outpouring of the Holy Spirit to accentuate the magnitude of the upcoming miraculous renewal that will surpass their understanding.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.3099154330581866,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.9,
+            "commentatorTierSimilarities": [
+                46.49,
+                0.0,
+                53.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

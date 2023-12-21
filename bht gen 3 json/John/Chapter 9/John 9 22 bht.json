@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:09:26",
+    "verseRef": "John 9:22",
+    "bestBHT": {
+        "bht": "The authorities had already agreed that anyone confessing Jesus as the Christ would be excommunicated, facing separation from religious fellowship and ordinary life. This decree aimed to prevent premature confessions before the council's decision. Many rulers believed in Jesus but refrained from confessing Him due to fear of being expelled from the synagogue and facing the penalty of excommunication. Excommunication was a severe consequence, separating individuals from the congregation. However, the misuse of excommunication should be dismissed, as it cannot suppress the truth of Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.6844788479345014,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.35,
+        "commentatorTierSimilarities": [
+            45.63,
+            0.0,
+            54.37
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It could hardly have been before the council at the conclusion of ch. vii.",
+            "Probably the first of the three stages of Jewish excommunication.",
+            "Trench regards the resolution not as a token that the Sanhedrim had pronounced Him a false Christ, but as shewing that they forbade a private man to anticipate their decision on this point by confessing Him."
+        ],
+        "Marvin Vincent": [
+            "Had formed an agreement in order to bring about this end.",
+            "The confessor of Christ should be excommunicated.",
+            "The penalty which the blind man's parents feared was probably separation from all religious fellowship, and from ordinary intercourse of life for perhaps thirty days."
+        ],
+        "John Calvin": [
+            "This passage shows that the custom of excommunication is ancient, and has been observed in all ages.",
+            "The truth of Christ being so powerful that they were not able to put it down by law, or by a regular course of proceedings, they launched the thunders of excommunications to crush it.",
+            "We ought to believe that excommunication, when it is violently applied to a different purpose by the passions of men, may safely be treated with contempt."
+        ],
+        "Archibald T. Robertson": [
+            "Had agreed already (\u03b7\u03b4\u03b7 \u03c3\u03c5\u03bd\u03b5\u03c4\u03b5\u03b8\u03b5\u03b9\u03bd\u03c4\u03bf).",
+            "We know that many of the rulers nominally believed on Jesus (John 12:42) and yet 'did not confess him because of the Pharisees' (\u03b1\u03bb\u03bb\u03b1 \u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03a6\u03b1\u03c1\u03b9\u03c3\u03b1\u03b9\u03bf\u03c5\u03c2 \u03bf\u03c5\u03c7 \u03c9\u03bc\u03bf\u03bb\u03bf\u03b3\u03bf\u03c5\u03bd), for the very reason given here, 'that they might not be put out of the synagogue' (\u03b9\u03bd\u03b1 \u03bc\u03b7 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03bf \u03b3\u03b5\u03bd\u03c9\u03bd\u03c4\u03b1).",
+            "\u0391\u03c0\u03bf\u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03bf\u03c2 (\u03b1\u03c0\u03bf and \u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03b7) is found in N.T. only here and John 12:42; John 16:2. A purely Jewish word naturally."
+        ],
+        "John Gill": [
+            "for the Jews had agreed already; the sanhedrim had made a decree, either at this time, upon this account, or some time before, that if any man did confess that he was Christ; that Jesus of Nazareth was the Messiah, he should be put out of the synagogue.",
+            "though these are sometimes put one for another, and signify the same thing; and he that was under the former of those censures, is said to be \u05de\u05df \u05e6\u05d9\u05d1\u05d5\u05e8 \u05de\u05d5\u05d1\u05d3\u05dc, 'separated from the congregation', a phrase by which the word here used may be very well rendered",
+            "And it may be further observed, that excommunication with the Jews was not only on religious accounts, but on civil accounts; on account of money, or when a man would not pay his debts, according to the decree of the sanhedrim."
+        ],
+        "John Wesley": [
+            "He should be put out of the synagogue \u2014 That is be excommunicated."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious authorities had already reached an agreement that anyone who confessed Jesus as the Christ should be excommunicated and separated from religious fellowship and ordinary life. This decree was enacted to prevent individuals from anticipating the council's decision by publicly confessing their faith in Jesus. Many of the rulers believed in Jesus but refrained from confessing Him due to their fear of being put out of the synagogue and facing the penalty of excommunication. Excommunication was a severe consequence, both religious and civil, as it meant being separated from the congregation and facing social isolation. Though excommunication was meant to suppress the truth of Christ, it is a practice that, when misused, can be disregarded.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.7324004416772751,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+            "commentatorTierSimilarities": [
+                44.6,
+                0.0,
+                55.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The authorities had already agreed that anyone confessing Jesus as the Christ would face excommunication, a penalty likely resulting in isolation from religious fellowship and ordinary life. This decree aimed to prevent premature confessions before the council's decision. Though some rulers believed in Jesus, they refrained from confessing Him out of fear of being expelled from the synagogue, a form of excommunication. Excommunication, both religious and civil, separated individuals from the congregation, emphasizing its severity. However, the misuse of excommunication should be dismissed, as it can fail to suppress Christ's truth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.6653451033237288,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                44.54,
+                0.0,
+                55.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious authorities had already agreed that anyone confessing Jesus as the Christ would be excommunicated, facing separation from religious fellowship and ordinary life as the penalty. This decision aimed to prevent individuals from surpassing the council's decision by confessing their faith prematurely. Many rulers believed in Jesus but refrained from confessing Him due to fear of being expelled from the synagogue and facing the severe consequence of excommunication. Excommunication was a form of social isolation, indicating its seriousness. However, the misuse of excommunication should be disregarded, as it cannot suppress the truth of Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5944055340914627,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.36,
+            "commentatorTierSimilarities": [
+                44.83,
+                0.0,
+                55.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The authorities had already agreed that anyone confessing Jesus as the Christ would be excommunicated, facing separation from religious fellowship and ordinary life. This decree aimed to prevent premature confessions before the council's decision. Many rulers believed in Jesus but refrained from confessing Him due to fear of being expelled from the synagogue and facing the penalty of excommunication. Excommunication was a severe consequence, separating individuals from the congregation. However, the misuse of excommunication should be dismissed, as it cannot suppress the truth of Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.6844788479345014,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.35,
+            "commentatorTierSimilarities": [
+                45.63,
+                0.0,
+                54.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The authorities had already agreed that anyone confessing Jesus as the Christ would face excommunication, resulting in separation from religious fellowship and ordinary life. This decree aimed to prevent premature confessions before the council's decision. Many rulers believed but refrained from confessing Jesus for fear of being expelled from the synagogue and experiencing the penalty of excommunication. Excommunication was a severe consequence, socially isolating individuals from the congregation. However, the misuse of excommunication should be disregarded, as it cannot suppress the truth of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.66245401985022,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "commentatorTierSimilarities": [
+                46.13,
+                0.0,
+                53.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

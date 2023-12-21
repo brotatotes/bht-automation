@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:06:47",
+    "verseRef": "John 6:13",
+    "bestBHT": {
+        "bht": "John goes into fuller detail than the Synoptists, emphasizing the identity of the fragments with the original loaves. The baskets used were stout wicker baskets, distinguishable from the soft and frail ones used in a different feeding miracle. With twelve baskets, one for each apostle, this miracle highlights God's blessing and prompts frugality. Christ's instruction to gather the leftovers reminds those with abundance to use their wealth for good purposes, being mindful of their stewardship and the day when they will be held accountable.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.5796413050188,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+        "commentatorTierSimilarities": [
+            31.68,
+            33.86,
+            34.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "John goes into fuller detail than the Synoptists.",
+            "A detail peculiar to John, emphasizing the identity of the fragments with the original loaves.",
+            "Unto them that had eaten (bebrwkosin). Only here in the New Testament."
+        ],
+        "John Calvin": [
+            "Since, therefore, a smaller quantity is sufficient for a greater number of men, and since the quantity left is nearly double, hence we see more clearly of what value is that blessing of God, against the sight of which we deliberately shut our eyes.\" ",
+            "We ought also to observe, in passing, that though Christ commands them to fill the baskets for illustrating the miracle, yet he likewise exhorts his disciples to frugality, when he says, Gather the fragments which are left, that nothing may be lost; for the increase of the bounty of God ought not to be an excitement to luxury.\" ",
+            "Let those, therefore, who have abundance, remember that they will one day render an account of their immoderate wealth, if they do not carefully and faithfully apply their superfluity to purposes which are good, and of which God approves."
+        ],
+        "Philip Schaff": [
+            "The repetition of the words, \u2018the five barley loaves,\u2019 is remarkable; the writer wishes to lay emphasis on the identity of the fragments with the loaves of the original supply.\" ",
+            "Nor is it fanciful to see in this a token that what was symbolized by the precious bread was destined for each tribe of Israel.\" ",
+            "John\u2019s agreement with the other Evangelists in so minute a point as the use of cophinus in connection with this miracle is interesting and important."
+        ],
+        "Archibald T. Robertson": [
+            "Twelve baskets (\u03b4\u03c9\u03b4\u03b5\u03ba\u03b1 \u03ba\u03bf\u03c6\u03b9\u03bd\u03bf\u03c5\u03c2). One for each of the apostles.",
+            "Stout wicker baskets (coffins, Wycliff) in distinction from the soft and frail \u03c3\u03c6\u03c5\u03c1\u03b9\u03b4\u03b5\u03c2 used at the feeding of the four thousand.",
+            "Unto them that had eaten (\u03c4\u03bf\u03b9\u03c2 \u03b2\u03b5\u03b2\u03c1\u03c9\u03ba\u03bf\u03c3\u03b9\u03bd). Articular perfect active participle (dative case) of \u03b2\u03b9\u03b2\u03c1\u03c9\u03c3\u03ba\u03c9, old verb to eat, only here in N.T., though often in LXX."
+        ],
+        "John Gill": [
+            "Therefore they gathered [them] together,.... The several broken bits of bread, which lay about upon the grass, which the people had left, after they had been sufficiently refreshed.\" ",
+            "and filled twelve baskets; every disciple had a basket filled.",
+            "which remained over and above unto them that had eaten; such a marvellous increase was there, through the power of Christ going along with them; insomuch that they multiplied to such a degree, either in the hands of the distributors, or of the eaters."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John goes into fuller detail than the Synoptists, emphasizing the identity of the fragments with the original loaves. The baskets used for collecting the leftovers were stout wicker baskets in distinction from the soft and frail ones used at the feeding of the four thousand. The fact that there were twelve baskets, one for each of the apostles, is noteworthy. This miracle showcases the blessing of God and encourages frugality, as Christ exhorts his disciples to gather the fragments that nothing may be lost. Let those who have abundance take heed and apply their wealth to good purposes, for they will one day give an account of their immoderate riches.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 1.559277385672364,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+            "commentatorTierSimilarities": [
+                31.85,
+                33.21,
+                34.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John provides a more detailed account of the miracle, emphasizing the connection between the fragments and the original loaves. The baskets used were sturdy and different from the ones used in a previous feeding miracle. The twelve baskets indicate that there was one for each apostle. This miracle highlights the blessing of God and prompts a call for frugality as Christ instructs them to gather the leftovers. It serves as a reminder for those with abundance to use their wealth for good purposes and to be mindful of their stewardship.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4868957962803955,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.78,
+            "commentatorTierSimilarities": [
+                27.31,
+                37.86,
+                34.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John goes into fuller detail than the Synoptists, emphasizing the identity of the fragments with the original loaves. The baskets used were stout wicker baskets, distinguishable from the soft and frail ones used in a different feeding miracle. With twelve baskets, one for each apostle, this miracle highlights God's blessing and prompts frugality. Christ's instruction to gather the leftovers reminds those with abundance to use their wealth for good purposes, being mindful of their stewardship and the day when they will be held accountable.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.5796413050188,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                31.68,
+                33.86,
+                34.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John provides a detailed account, emphasizing the connection between the fragments and the original loaves. The stout wicker baskets used here are distinct from the soft and frail ones used in a different feeding miracle. The presence of twelve baskets, one for each apostle, is significant. This miracle showcases God's blessing and calls for frugality, as Christ urges the gathered fragments to be saved. It serves as a reminder for those with abundance to use their wealth wisely, knowing they will be held accountable.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3895836831613138,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.55,
+            "commentatorTierSimilarities": [
+                30.58,
+                36.71,
+                32.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's detailed account highlights the connection between the fragments and the original loaves. The use of stout wicker baskets, instead of soft ones, sets this feeding miracle apart. The twelve baskets, one for each apostle, add significance. Through this miracle, God's blessing is evident, and Christ's instruction to gather the leftovers promotes frugality. It reminds those with abundance to use their superfluity for God-approved purposes, as they will one day be held accountable for their wealth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4038268903812594,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                29.28,
+                37.09,
+                33.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

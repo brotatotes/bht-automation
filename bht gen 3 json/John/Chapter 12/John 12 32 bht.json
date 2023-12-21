@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:11:23",
+    "verseRef": "John 12:32",
+    "bestBHT": {
+        "bht": "The Savior's crucifixion represents His glorification and exaltation to God's right hand. Though aware of His inevitable lifting up, in His human weakness, He expresses a seeming doubt. By uplifting Himself on the Cross, the Son draws all people to Himself. The death on the Cross, illuminated by the Holy Spirit, possesses a magnetic attraction over the entire world. Jesus' words, I will draw all men unto myself, indicate that people from all backgrounds will be drawn to Christ through the Cross as the only way to the Father.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.9185248659409098,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+        "commentatorTierSimilarities": [
+            39.11,
+            26.85,
+            34.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Saviour crucified, is in fact the Saviour glorified; so that the exalting to God\u2019s right hand is set forth by that uplifting on the Cross.",
+            "The Lord Jesus, though knowing that the lifting up would really take place, yet in the weakness of His humanity, puts Himself into this seeming doubt, \u2018if is so to be.\u2019",
+            "Then it was 'no man can come except the Father draw him:' now the Son draws all. And, to Himself, as thus uplifted, thus exalted;\u2014the great object of Faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If lifted up,\" means not only after that I have been lifted up, but, through the virtue of that uplifting.",
+            "The death of the Cross, in all its significance, revealed in the light, and borne in upon the heart, by the power of the Holy Ghost, possesses an attraction over the wide world.",
+            "Will draw all men 'UNTO ME,'\" says He. What lips could venture to utter such a word but His, which \"dropt as an honeycomb,\" whose manner of speaking was evermore in the same spirit of conscious equality with the Father?"
+        ],
+        "Albert Barnes": [
+            "Be lifted up - See John 3:14; John 8:28.",
+            "Will draw - John 6:44. The same word is used in both places.",
+            "All men - I will incline all kinds of men; or will make the way open by the cross, so that all men may come. I will provide a way which shall present a strong motive or inducement - the strongest that can be presented to all men to come to me."
+        ],
+        "Marvin Vincent": [
+            "In the very cross there was already something tending towards glory.\" ",
+            "From the earth, out of the earth.",
+            "Will draw all men unto myself."
+        ],
+        "John Calvin": [
+            "Christ, being lifted up on the cross, shall gather all men to himself, in order that he may raise them from earth to heaven.",
+            "He declares, that he will go in a very different manner, so as to draw upwards to himself those who were fixed on the earth.",
+            "The word all, which he employs, must be understood to refer to the children of God, who belong to his flock."
+        ],
+        "Archibald T. Robertson": [
+            "I, if I be lifted from the earth...Will draw all men unto myself.\" ",
+            "The magnetism of the Cross is now known of all men, however little they understand the mystery of the Cross.\" ",
+            "By 'all men' Jesus does not mean every individual man, for some, as Simeon said, are repelled by Christ, but this is the way that Greeks can and will come to Christ, by the way of the Cross, the only way to the Father."
+        ],
+        "John Gill": [
+            "The death of Christ is here signified by his being 'lifted up from the earth', in allusion to the lifting up of the brazen serpent on the pole; and shows, that his death would not be natural, but violent, and would be public, and not private.",
+            "Now when this will be, Christ says, I will draw all men to me; which is not to be understood of the concourse of people about him, when on the cross, but rather of the gathering of the elect to him.",
+            "Christ died indeed for all men who are drawn unto him; but this is not true of all men, that are, were, or shall be in the world."
+        ],
+        "John Wesley": [
+            "Lifted up from the earth... signifies dying... our Lord made use of this phrase, rather than others that were equivalent, because it so well suited the particular manner of his death.",
+            "I will draw all men... Gentiles as well as Jews.",
+            "Those who follow my drawings, Satan shall not be able to keep."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Savior, when He was crucified, was actually being glorified. His exaltation to God's right hand was symbolized by His lifting up on the Cross. Though He knew that He would be lifted up, in His humanity, He expressed a seeming doubt. The Son draws all to Himself through His uplifting and exaltation. The death of the Cross, revealed and borne by the power of the Holy Spirit, possesses a magnetism that attracts people from all over the world. Jesus, with the consciousness of equality with the Father, spoke the words, I will draw all men unto myself. This does not mean every individual, but rather that all kinds of people will be drawn to Christ through the way of the Cross, the only way to the Father.",
+            "wordCount": 129,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 1.9207061190271544,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                39.17,
+                26.45,
+                34.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crucifixion of the Savior serves as both His glorification and exaltation to God's right hand. He expresses a sense of doubt in His humanity, knowing that His lifting up is imminent. By being uplifted and exalted, the Son draws all people to Himself, becoming the great object of faith. The magnetism of the Cross, revealed and borne through the Holy Spirit, possesses a worldwide attraction. Jesus, conscious of His equality with the Father, proclaims, I will draw all men unto myself, indicating that people from all walks of life will be drawn to Christ through the way of the Cross, the sole path to the Father.",
+            "wordCount": 108,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 1.867517455404722,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.44,
+            "commentatorTierSimilarities": [
+                39.01,
+                27.25,
+                33.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Savior's crucifixion represents His glorification and exaltation to God's right hand. Though aware of His inevitable lifting up, in His human weakness, He expresses a seeming doubt. By uplifting Himself on the Cross, the Son draws all people to Himself. The death on the Cross, illuminated by the Holy Spirit, possesses a magnetic attraction over the entire world. Jesus' words, I will draw all men unto myself, indicate that people from all backgrounds will be drawn to Christ through the Cross as the only way to the Father.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9185248659409098,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                39.11,
+                26.85,
+                34.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Savior's crucifixion reflects His glorification and exaltation, symbolizing His ascent to God's right hand. Although aware of His forthcoming lifting, in His human frailty, Christ expresses doubts. By being lifted up, the Son draws all people to Himself, becoming the focal point of faith. The power and significance of the Cross, revealed and embraced through the Holy Spirit, exert a profound attraction worldwide. Through the words, I will draw all men unto myself, Christ indicates that individuals of all backgrounds will be drawn to Him through the pathway of the Cross, the exclusive gateway to the Father.",
+            "wordCount": 100,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.907939879944049,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                38.51,
+                27.46,
+                34.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crucifixion of the Savior exemplifies His glorification and exaltation. While aware of His forthcoming lifting, He reveals a hint of doubt. Through His uplifting and exaltation, the Son draws all to Himself, becoming the great focus of faith. The magnetism of the Cross, revealed and embraced through the power of the Holy Spirit, holds a universal appeal. With the words, I will draw all men unto myself, Jesus indicates that people from all backgrounds will be drawn to Him through the path of the Cross, the singular route to the Father.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7500358632817563,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "commentatorTierSimilarities": [
+                38.78,
+                28.74,
+                32.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

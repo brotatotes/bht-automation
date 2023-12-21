@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:05:46",
+    "verseRef": "John 4:39",
+    "bestBHT": {
+        "bht": "The truth of this saying is manifested as the Samaritans, who were the foundation of the Church, were awakened on a large scale by the unparalleled supernatural knowledge displayed through the woman's testimony. Her clear and discreet witness bore enough fruit to contribute to the harvest, as many believed in Jesus based on her account. Their faith, albeit only acknowledging Jesus as a Prophet, was called forth by the woman's word, demonstrating the power of the Gospel even in its early stages.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.9707352670052132,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+        "commentatorTierSimilarities": [
+            31.26,
+            32.32,
+            36.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The truth of the saying of ver. 35 begins to be manifested."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These Samaritans were the foundation of the Church afterwards built up there.\" ",
+            "No miracle appears to have been wrought there (but unparalleled supernatural knowledge displayed).",
+            "This incident is further remarkable as a rare instance of the Lord's ministry producing an awakening on a large scale."
+        ],
+        "Marvin Vincent": [
+            "The word. It does not refer merely to the woman's statement, He told me, etc., but to her whole testimony concerning Christ.",
+            "It does not refer merely to the woman's statement, He told me, etc., but to her whole testimony concerning Christ.",
+            "Her whole testimony concerning Christ."
+        ],
+        "John Calvin": [
+            "The Evangelist here relates what was the success of the woman\u2019s announcement to her citizens, from which it is evident that the expectation and desire of the promised Messiah had no small vigor among them.",
+            "Now, the word believe is here used inaccurately, and means that they were induced by the woman\u2019s statement to acknowledge Christ to be a Prophet.",
+            "Such an entrance to faith receives here the honorable appellation offaith, in order to inform us how highly God esteems reverence for his word, when he confers so great honor on the docility of those who have not yet been taught."
+        ],
+        "Philip Schaff": [
+            "The arrangement of the words shows the prominence which John would give\" ",
+            "their faith, too, was only mediately called forth by the woman's word\" ",
+            "the Evangelist describes her by his favourite and most expressive term"
+        ],
+        "Archibald T. Robertson": [
+            "She bore her witness clearly and with discretion.",
+            "She told enough to bring her neighbours to Christ.",
+            "She had her share in this harvest."
+        ],
+        "John Gill": [
+            "And many of the Samaritans of that city... believed on him... for the saying of the woman which testified, he told me all that ever I did.\" ",
+            "The account she gave was so plain, and honest, and disinterested, that they could not but give credit to it.",
+            "They concluded he could be no other than the Messiah, who should tell all things; and being of quick understanding or smell, was able to disclose the secrets of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The truth of the saying of an earlier verse begins to be manifested as the Samaritans, who were the foundation of the Church, were awakened on a large scale. Though no miracle was performed, the unparalleled supernatural knowledge displayed by Jesus through the woman's testimony was enough to bring her neighbors to Christ. Her clear and discrete witness bore enough fruit to contribute to the harvest. Their faith, albeit only acknowledging Jesus as a Prophet, was called forth by the woman's word, demonstrating the power of the Gospel even in its early stages.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.822699504556435,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                33.68,
+                30.95,
+                35.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The truth of this saying is manifested by the awakening of the Samaritans, who laid the foundation for the Church. Despite no miracles being performed, Jesus displayed unparalleled supernatural knowledge through the woman's testimony, compelling her neighbors to turn to Christ. Her clear and discreet witness was enough to bring about a harvest, as many believed in Jesus based on her account. Their faith, though acknowledging Jesus as a Prophet, was called forth by the woman's word, illustrating the early power of the Gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.891392658240294,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.23,
+            "commentatorTierSimilarities": [
+                32.31,
+                31.54,
+                36.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The truth of this saying is manifested as the Samaritans, who were the foundation of the Church, were awakened on a large scale by the unparalleled supernatural knowledge displayed through the woman's testimony. Her clear and discreet witness bore enough fruit to contribute to the harvest, as many believed in Jesus based on her account. Their faith, albeit only acknowledging Jesus as a Prophet, was called forth by the woman's word, demonstrating the power of the Gospel even in its early stages.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9707352670052132,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                31.26,
+                32.32,
+                36.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The truth of this saying is manifested as the Samaritans, the foundation of the Church, were awakened on a large scale. The woman's testimony concerning Christ played a significant role in bringing her neighbors to Him. Her clear and discreet witness bore enough fruit to contribute to the harvest. Their faith, though acknowledging Jesus as a Prophet, was called forth by the woman's word, demonstrating the power of the Gospel even in its early stages.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8817172087642362,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                34.27,
+                32.96,
+                32.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The truth of this saying is manifested as the Samaritans, who formed the foundation of the Church, were awakened on a large scale by the unparalleled supernatural knowledge displayed through the woman's testimony. Her clear and discreet witness was enough to bring her neighbors to Christ. Their faith, although acknowledging Jesus as a Prophet, was called forth by the woman's word, demonstrating the power of the Gospel even in its early stages.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9684841280564456,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "commentatorTierSimilarities": [
+                32.43,
+                31.69,
+                35.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

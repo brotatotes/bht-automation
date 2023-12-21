@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:07:41",
+    "verseRef": "John 6:70",
+    "bestBHT": {
+        "bht": "Jesus had chosen the twelve disciples as a result of their being given to Him by the Father, but even within this select group, there was one who would ultimately betray Him. Judas, under the influence of Satan himself, had become like a devil, embracing slanderous thoughts and evil intentions. The use of the word devil emphasizes the opposition to Christ inherent in Judas' nature. Despite the graveness of Judas' betrayal, Jesus reminds the remaining disciples that His choice of them does not guarantee their faithfulness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 2.2001632478654054,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.5,
+        "commentatorTierSimilarities": [
+            37.15,
+            32.84,
+            30.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The selection of the Twelve by Jesus is the consequence of the giving of them to Him by the Father... So that His selecting, and the Father's giving and drawing, do not exclude final falling away.",
+            "In the dark act here prophesied, Judas was under the immediate instigation of and yielded himself up to Satan... I would understand this expression as having reference to that league with and entertainment of the Evil One in his thoughts and purposes.",
+            "This meaning can perhaps hardly be rendered by any single word in another language... devilish would be better, but not unobjectionable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Well said, Simon-Barjonas, but that 'we' embraces not so wide a circle as in the simplicity of thine heart thou thinkest...\" (Quote 1)",
+            "...for though I have chosen you but twelve, one even of these is a 'devil'\" (Quote 2)",
+            "...the temple, the tool of that wicked one.\" (Quote 3)"
+        ],
+        "Albert Barnes": [
+            "Have not I - I, the Saviour, the Messiah, chosen you in mercy and in love, and therefore it will be a greater sin to betray me?",
+            "Chosen to the apostolic office; conferred on you marks of special favor, and treason is therefore the greater sin.",
+            "Is a devil - Has the spirit, the envy, the malice, and the treasonable designs of a devil."
+        ],
+        "Marvin Vincent": [
+            "The word [devil] is an adjective, meaning slanderous, but is almost invariably used in the New Testament as a noun, and with the definite article.\" ",
+            "The article is wanting only in 1 Peter 5:8; Acts 13:10; Revelation 12:9; and perhaps Revelation 20:2.",
+            "It is of the very essence of the devilish nature to oppose Christ."
+        ],
+        "John Calvin": [
+            "Since Christ replies to all, we infer from it that all spake by the mouth of Peter.",
+            "It was a powerful instrument of Satan for shaking their faith, when they were reduced to so small a number, but the fall of Judas might take away all their courage.",
+            "He used the word chosen, therefore, to denote those who were eminent and distinguished from the ordinary rank."
+        ],
+        "Philip Schaff": [
+            "Alas! even in this small circle there is an element that the light attracts not but repels.",
+            "In this inner circle He knew who would show himself a traitor 'a devil.'",
+            "The traitor will do his work at the instigation of the Evil One, and animated by his spirit: his work will be the work of the devil."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus does not say that Judas was a devil when he chose him, but that he is one now.",
+            "In John 13:2; John 13:27 John speaks of the devil entering Judas.",
+            "One wonders if the words of Jesus here did not cut Judas to the quick."
+        ],
+        "John Gill": [
+            "Have not I chosen you twelve; not to grace and glory, to holiness and happiness; though this was true of eleven of them, but to be apostles.\" ",
+            "One of you is a devil? or like to one, is a deceiver, a liar, and a murderer, as the devil is from the beginning; all which Judas was, and appeared to be, in the betraying of his master.",
+            "And this our Lord said, partly that they might not too much presume upon their faith and love, and steady attachment, and be over confident of their standing; and partly, to prepare them for the apostasy of one from among them."
+        ],
+        "John Wesley": [
+            "And yet even ye have not all acted suitable to this knowledge.",
+            "But they might fall even from that election.",
+            "Judas ought to have repented; is a devil - Is now influenced by one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus had chosen the twelve disciples as a result of their being given to Him by the Father, but even within this select group, there was one who would ultimately betray Him. Judas, under the influence of Satan himself, had become like a devil, embracing slanderous thoughts and evil intentions. The use of the word devil emphasizes the opposition to Christ inherent in Judas' nature. Jesus knew that Judas would later be filled with the devil, and his words may have cut him to the core. Despite the graveness of Judas' betrayal, Jesus reminds the remaining disciples that His choice of them does not guarantee their faithfulness, so they should not be overconfident in their standing.",
+            "wordCount": 116,
+            "quoteTokenProportion": 46.25,
+            "qualityScore": 2.238340445607209,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.77,
+            "commentatorTierSimilarities": [
+                37.92,
+                32.16,
+                29.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus had chosen the twelve disciples as a result of their being given to Him by the Father, but even within this select group, there was one who would ultimately betray Him. Judas, under the influence of Satan himself, had become like a devil, embracing slanderous thoughts and evil intentions. The use of the word devil emphasizes the opposition to Christ inherent in Judas' nature. Despite the graveness of Judas' betrayal, Jesus reminds the remaining disciples that His choice of them does not guarantee their faithfulness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.2001632478654054,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.5,
+            "commentatorTierSimilarities": [
+                37.15,
+                32.84,
+                30.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus selected the twelve disciples as a result of the Father giving them to Him. However, even among this chosen group, there was one who would become a devil. Judas, influenced by Satan, entertained evil thoughts and intentions. Jesus acknowledges that His selection does not prevent final falling away. He knew that Judas would later be possessed by the devil. This revelation may have deeply affected Judas. Jesus reminds the remaining disciples that His choice of them does not guarantee their faithfulness, serving as a cautionary reminder.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.9088171453985296,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                36.65,
+                32.39,
+                30.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus chose twelve disciples, knowing that one among them would become a devil. Judas, under the influence of Satan, embraced evil thoughts and intentions. The word devil emphasizes the opposition to Christ inherent in Judas' nature. Although Jesus selected the twelve, it does not guarantee their faithfulness. His choice of them does not exclude the possibility of falling away. This revelation may have deeply affected Judas, and Jesus uses it as a reminder for the remaining disciples to not be overconfident in their standing.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9813835834510156,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                38.16,
+                31.31,
+                30.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus chose twelve disciples, one of whom would become like a devil under the influence of Satan. Judas entertained evil thoughts and succumbed to the purposes of the Evil One. The word devil highlights Judas' slanderous and oppositional nature. Despite being chosen by Jesus, the disciples should not presume upon their faith and love, as even they have not always acted according to their knowledge. Jesus' words served as both a warning and a preparation for the apostasy of one among them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.0441973448956334,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+            "commentatorTierSimilarities": [
+                37.92,
+                31.01,
+                31.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:07:45",
+    "verseRef": "John 7:14",
+    "bestBHT": {
+        "bht": "In the midst of the feast, Jesus began to teach openly in Jerusalem, entering unexpectedly to create awe. He went up to the temple, His rightful place as the Lord, to teach the people His doctrine and give the true sense of Scriptures. This was a significant act, as He was the great High Priest, undertaking the role of a teacher with authority from the Father. By seizing this opportunity and speaking the word of God, Jesus revealed His purpose and prepared for His final words on the last day of the feast.",
+        "wordCount": 93,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 2.0764653870421803,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+        "commentatorTierSimilarities": [
+            28.63,
+            39.15,
+            32.21
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "when it was now the midst of the feast] Probably on a sabbath. It appears to have been the first time that He taught publicly at Jerusalem;"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This was probably the first time that He did so thus openly in Jerusalem.",
+            "He had kept back till the feast was half through, to let the stir about Him subside.",
+            "Entering the city unexpectedly, had begun His 'teaching' at the temple, and created a certain awe."
+        ],
+        "Albert Barnes": [
+            "About the midst - Or about the middle of the feast. It continued eight days.",
+            "The temple - See the notes at Matthew 21:12.",
+            "And taught - Great multitudes were assembled in and around the temple, and it was a favorable time and place to make known his doctrine."
+        ],
+        "Marvin Vincent": [
+            "About the midst of the feast... the feast being midway.\" ",
+            "The midst is expressed by a participle from the verb mesow, to be in the middle.",
+            "Began to teach. Imperfect tense."
+        ],
+        "John Calvin": [
+            "We may sometimes, therefore, expose ourselves to dangers, but we ought never to disregard or omit a single opportunity of doing good.",
+            "That their usefulness might be known, it was necessary that they should be accompanied by doctrine; and in this manner, external rites are lively images of spiritual things, when they take their shape from the word of God.",
+            "Christ undertook the office of a teacher; and justly, because he was the great High Priest, as he affirms shortly afterwards, that he attempts nothing but by the command of the Father."
+        ],
+        "Philip Schaff": [
+            "The Lord suddenly comes to His temple, and, at this feast of peculiar joy and hope, He brings with Him a special message and promise of the new covenant.\" ",
+            "His teaching during the latter half of the sacred week is to prepare for His words on the last day of the feast."
+        ],
+        "Archibald T. Robertson": [
+            "But feast being already midway.",
+            "And taught...began to teach.",
+            "He went up...there he was now before their very eyes."
+        ],
+        "John Gill": [
+            "Jesus went up into the temple; as the Lord and proprietor of it, and as was his usual method; he had for some reasons kept himself retired till now, and now he appeared publicly.",
+            "and taught the people his doctrine; he expounded the Scriptures, gave the true sense of them, and instructed the people out of them.",
+            "he expounded the Scriptures, gave the true sense of them, and instructed the people out of them."
+        ],
+        "John Wesley": [
+            "Now at the middle of the feast \u2014 Which lasted eight days.",
+            "Jesus went up into the temple \u2014 Directly, without stopping anywhere else."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of the feast, Jesus began to teach openly in Jerusalem, entering unexpectedly to create awe. He went up to the temple, His rightful place as the Lord, to teach the people His doctrine and give the true sense of Scriptures. This was a significant act, as He was the great High Priest, undertaking the role of a teacher with authority from the Father. By seizing this opportunity and speaking the word of God, Jesus revealed His purpose and prepared for His final words on the last day of the feast.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0764653870421803,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+            "commentatorTierSimilarities": [
+                28.63,
+                39.15,
+                32.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of the feast, Jesus began to teach openly in Jerusalem, entering unexpectedly to create awe. He went up to the temple, His rightful place as the Lord, to teach the people His doctrine and give the true sense of Scriptures. This was a significant act, as He was the great High Priest, undertaking the role of a teacher with authority from the Father. By seizing this opportunity and speaking the word of God, Jesus revealed His purpose and prepared for His final words on the last day of the feast.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.0764653870421803,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+            "commentatorTierSimilarities": [
+                28.63,
+                39.15,
+                32.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the midst of the feast, Jesus made His first public teaching in Jerusalem, entering unexpectedly to generate awe. He went up to the temple, commencing His instruction with authority as the great High Priest. Jesus expounded the Scriptures, giving the true meaning and imparting knowledge to the people. By seizing this opportune moment, He revealed His purpose and laid the groundwork for His final teachings on the last day of the feast.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0625461829495504,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.92,
+            "commentatorTierSimilarities": [
+                29.27,
+                38.72,
+                32.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the feast, Jesus began to teach publicly in Jerusalem, entering unexpectedly to create awe. He entered the temple, His rightful place, to instruct the people His doctrine and give the true sense of Scriptures. This was a significant act, as He was the great High Priest, undertaking the role of a teacher with authority from the Father. By seizing this opportunity and speaking the word of God, Jesus revealed His purpose and prepared for His final words on the last day of the feast.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.064983801371552,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.0,
+            "commentatorTierSimilarities": [
+                28.48,
+                38.65,
+                32.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of the feast, Jesus entered the temple and began to teach publicly in Jerusalem, creating awe. He expounded the Scriptures, giving the true sense of them, and instructed the people. This act was significant as He was the great High Priest, assuming the role of a teacher with authority from the Father. By seizing this opportunity and speaking the word of God, Jesus revealed His purpose and prepared for His final teachings on the last day of the feast.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0553666577778174,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                27.54,
+                37.96,
+                34.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

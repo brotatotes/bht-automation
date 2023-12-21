@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:05:54",
+    "verseRef": "John 4:46",
+    "bestBHT": {
+        "bht": "A nobleman, possibly connected to the royal family or a king's servant, heard that Jesus had come out of Judea. Making his way to Cana, where Jesus had performed his first miracle, he sought Jesus' help for his son who was sick in Capernaum, about a day's journey away. This nobleman's status and the memory of Jesus' previous miraculous act in Cana add weight to the significance of the healing that is about to occur.",
+        "wordCount": 78,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.9894699941009475,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.49,
+        "commentatorTierSimilarities": [
+            31.58,
+            35.72,
+            32.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "One of the royal race, or one in possession of some dignity from which he was called 'royal.'\" ",
+            "He may have been one of the household of C\u00e6sar, having some business in Jud\u00e6a at that time.\" ",
+            "He was probably an officer of Herod Antipas."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "nobleman\u2014courtier, king's servant, or one connected with a royal household; such as Chuza (Luke 8:3), or Manaen (Luke 8:3- :).\" ",
+            "heard that Jesus was come out of Judea\u2014\"where he had doubtless seen or heard what things Jesus had done at Jerusalem\" (Luke 8:3- :), [BENGEL].\" ",
+            "come down\u2014for Capernaum was down on the northwest shore of the Sea of Galilee."
+        ],
+        "Albert Barnes": [
+            "A certain nobleman - One who was of the royal family, connected by birth with Herod Antipas.\" ",
+            "Capernaum was about a day\u2019s journey from Cana, where Jesus then was."
+        ],
+        "John Calvin": [
+            "I acknowledge indeed that, at that time, they gave the name of Reguli (or, little kings) to those who are now called Dukes, or Barons, or Earls; but the state of Galilee at that time was such that there could be no person of that rank dwelling in Capernaum.\" ",
+            "I think that he was some nobleman (90) of the court of Herod; for there is some plausibility in the opinion of those who think that he was sent by Caesar.\" ",
+            "This is expressly mentioned by the Evangelist, because the rank of this personage made the miracle the more illustrious."
+        ],
+        "Philip Schaff": [
+            "His coming revives the fame of that first miracle.\" ",
+            "The officer himself may have been in attendance on the court in Tiberias, but his son . . . was lying ill at Capernaum.",
+            "The officer's son was sick at Capernaum."
+        ],
+        "Archibald T. Robertson": [
+            "Unto Cana (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u039a\u03b1\u03bd\u03b1). Note article, 'the Cana of Galilee' already mentioned in John 2:1.",
+            "Where he made the water wine (\u03bf\u03c0\u03bf\u03c5 \u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b5\u03bd \u03c4\u03bf \u03c5\u03b4\u03c9\u03c1 \u03bf\u03b9\u03bd\u03bf\u03bd). That outstanding first miracle would still be remembered in Cana and would indicate that Jesus had some friends there.",
+            "Nobleman (\u03b2\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03bf\u03c2). One connected with the king (\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03c5\u03c2), whether by blood or by office."
+        ],
+        "John Gill": [
+            "There was a certain nobleman; the Vulgate Latin renders it, 'a petty king'; the Arabic version, and Nonnus, call him, 'a royal man'; and the Syriac version renders it, 'a king's servant'.",
+            "From the whole he seems to be one that belonged to the palace of Herod Antipas, and was one of his courtiers; who, though he was but tetrarch of Galilee, yet is sometimes called a king.",
+            "Some think this nobleman was either Chuza, Herod's steward, Luke 8:3, or Manaen, who had been brought up with Herod, Acts 13:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A nobleman, possibly connected to the royal family or a king's servant, heard that Jesus had come out of Judea and made his way down to Cana, where Jesus had performed his first miracle of turning water into wine. Capernaum, where the nobleman's son was lying ill, was about a day's journey from Cana. The nobleman sought out Jesus in Cana, desperate for him to come and heal his son. The royal standing of the nobleman adds to the significance of the miracle that will take place.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9804399938629929,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+            "commentatorTierSimilarities": [
+                29.39,
+                39.93,
+                30.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A nobleman, possibly connected to the royal family or a king's servant, heard that Jesus had come out of Judea and made his way down to Cana, where Jesus had performed his first miracle of turning water into wine. Capernaum, where the nobleman's son was lying ill, was about a day's journey from Cana. The nobleman sought out Jesus in Cana, desperate for him to come and heal his son. The nobleman's royal status emphasizes the importance of the forthcoming miracle.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9210557465748848,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                29.22,
+                40.51,
+                30.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A nobleman, possibly connected to the royal family or a king's servant, heard that Jesus had come out of Judea. Making his way to Cana, where Jesus had performed his first miracle, he sought Jesus' help for his son who was sick in Capernaum, about a day's journey away. This nobleman's status and the memory of Jesus' previous miraculous act in Cana add weight to the significance of the healing that is about to occur.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9894699941009475,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.49,
+            "commentatorTierSimilarities": [
+                31.58,
+                35.72,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A nobleman, potentially a royal figure or connected to a king's household, learned that Jesus had come out of Judea and went down to Cana where Jesus had transformed water into wine. Capernaum, where the nobleman's son was critically ill, was located a day's journey from Cana. Seeking Jesus' intervention, the nobleman appealed to him to heal his son. The nobleman's prestigious position highlights the extraordinariness of the upcoming miracle, amplified by the remembrance of Jesus' astounding initial sign in Cana.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8446762483256451,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.68,
+            "commentatorTierSimilarities": [
+                30.65,
+                38.13,
+                31.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A nobleman, possibly of royal descent or serving in a king's household, sought out Jesus in Cana after hearing about his miraculous works in Judea. The nobleman's son was gravely ill in Capernaum, prompting him to urgently request Jesus' intervention. The nobleman's elevated status adds weight to the forthcoming miracle, and the previous water-to-wine miracle Jesus performed in Cana further underscores the significance of this act of healing.",
+            "wordCount": 73,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.76717961917241,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                31.47,
+                35.1,
+                33.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

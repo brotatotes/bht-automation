@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:10:03",
+    "verseRef": "John 10:37",
+    "bestBHT": {
+        "bht": "If those who claim to follow God's ways do not bear His character, then there is no reason to believe their words. However, if they do bear His character, even if they hate and disbelieve Jesus, they should recognize the unquestionable testimony of His works. The self-evidencing truth, majesty, and grace in Christ's words, along with His miracles, were meant to lead people to a higher faith in the unity of Himself and the Father. Thus, He urges them to have faith in His testimony rather than solely in His person.",
+        "wordCount": 94,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 1.9900454722720056,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+        "commentatorTierSimilarities": [
+            41.57,
+            30.72,
+            27.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If they bear not the character of the Father, believe Me not: but if they do (which even yourselves admit), though ye may hate and disbelieve Me, recognize the unquestionable testimony of the works.\" ",
+            "That ye may be led on to the higher faith of the unity of Myself and the Father."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There was in Christ's words, independently of any miracles, a self-evidencing truth, majesty, and grace.",
+            "When these failed, the case was desperate indeed.",
+            "Thus reiterating His claim to essential oneness with the Father, which He had only seemed to soften down."
+        ],
+        "Marvin Vincent": [
+            "Believe me [\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b5\u03c4\u03b5 \u03bc\u03bf\u03b9] . Notice believe, with the simple dative; believe me, not on me. It is a question of faith in His testimony, not in His person. See on 1 12."
+        ],
+        "John Calvin": [
+            "I do not wish you to be bound to give me credit on any other condition than that you see the fact plainly before your eyes.",
+            "You may safely reject me, if God has not openly given testimony to me.",
+            "Those works were truly Divine, and because so great power shone in them, that they could not be ascribed to a man."
+        ],
+        "Philip Schaff": [
+            "If I do not the works of my Father, believe me not.\" ",
+            "If He does no such works they have no right to believe His word and acknowledge His claims.",
+            "It is otherwise if He does them."
+        ],
+        "Archibald T. Robertson": [
+            "Believe me not. Either 'cease believing me' or 'do not have the habit of believing me.'",
+            "Jesus rests his case on his doing the works of 'my Father', repeating his claims to sonship and deity.",
+            "Jesus rests his case on his doing the works of 'my Father."
+        ],
+        "John Gill": [
+            "Not only what the Father had given him to finish, and which he wrought by him as man, but such as were as great as the Father had done, and were equal to them; and which could not be done by any, but by the Father, or by one that is equal with him.",
+            "Christ appeals to his miracles as proofs of his deity, sonship, and Messiahship, and desires no other credit than what they demand; see Matthew 11:3.",
+            "Believe me not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If those who claim to follow God's ways do not bear His character, then there is no reason to believe their words. However, if they do bear His character, then even if they hate and disbelieve Jesus, they should recognize the unquestionable testimony of His works. The self-evidencing truth, majesty, and grace in Christ's words, along with His miracles, were meant to lead people to a higher faith in the unity of Himself and the Father. By doing such works, Jesus emphasized His claim to essential oneness with the Father, and those who rejected His miracles were left in a desperate situation. Thus, He urges them to have faith in His testimony rather than solely in His person.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.941869307088287,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                41.05,
+                29.57,
+                29.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If those who claim to follow God's ways do not bear His character, then there is no reason to believe their words. However, if they do bear His character, then even if they hate and disbelieve Jesus, they should recognize the unquestionable testimony of His works. The self-evidencing truth, majesty, and grace in Christ's words were meant to lead people to a higher faith in the unity of Himself and the Father. Thus, He urges them to have faith in His testimony rather than solely in His person.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9691883067854508,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                42.33,
+                30.73,
+                26.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If those who claim to follow God's ways do not bear His character, then there is no reason to believe their words. However, if they do bear His character, then even if they hate and disbelieve Jesus, they should recognize the unquestionable testimony of His works. The self-evidencing truth, majesty, and grace in Christ's words, along with His miracles, were meant to lead people to a higher faith in the unity of Himself and the Father. Thus, He urges them to have faith in His testimony rather than solely in His person.",
+            "wordCount": 95,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.984467710695598,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                41.48,
+                30.74,
+                27.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If those who claim to follow God's ways do not bear His character, then there is no reason to believe their words. However, if they do bear His character, then even if they hate and disbelieve Jesus, they should recognize the unquestionable testimony of His works. The self-evidencing truth, majesty, and grace in Christ's words were meant to lead people to a higher faith in the unity of Himself and the Father. Thus, He urges them to have faith in His testimony rather than solely in His person.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9691883067854508,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                42.33,
+                30.73,
+                26.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If those who claim to follow God's ways do not bear His character, then there is no reason to believe their words. However, if they do bear His character, even if they hate and disbelieve Jesus, they should recognize the unquestionable testimony of His works. The self-evidencing truth, majesty, and grace in Christ's words, along with His miracles, were meant to lead people to a higher faith in the unity of Himself and the Father. Thus, He urges them to have faith in His testimony rather than solely in His person.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.9900454722720056,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                41.57,
+                30.72,
+                27.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

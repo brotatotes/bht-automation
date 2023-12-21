@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:15:18",
+    "verseRef": "John 20:19",
+    "bestBHT": {
+        "bht": "The closed doors mentioned here demonstrate the supernatural nature of Jesus' appearances. His ability to enter and stand among them without using ordinary means shows the extraordinary power within Him. When Jesus greeted them with Peace be unto you, He not only conveyed His desire for peace to enter their hearts but also opened their understanding to comprehend the scriptures. This event took place in the evening on the first day of the week, according to Roman time, highlighting its significance.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 1.833565087498429,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+        "commentatorTierSimilarities": [
+            29.71,
+            40.21,
+            30.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The circumstance of the doors being shut is mentioned here and in ver. 26, to indicate what sort of appearances these were.",
+            "Both were done by that supernatural Power dwelling in Him, by which His other miracles were wrought.",
+            "The into (see on ch. xxi. 4) denotes the coming and standing, in one\u2014the standing without motion thither, which in ordinary cases would be standing as the result of motion thither."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus came ... plainly not by the ordinary way of entrance.\" ",
+            "Peace be unto you\u2014not the mere wish that even His own exalted peace might be theirs, but conveying it into their hearts.",
+            "He 'opened their understandings to understand the scriptures."
+        ],
+        "Albert Barnes": [
+            "It is not certainly said what was the object of their assembling, but it is not unreasonable to suppose that it was to talk over the events which had just occurred, to deliberate about their condition, and to engage in acts of worship.",
+            "True Christians will love to meet together for worship. Nothing will prevent this; and one of the evidences of piety is a desire to assemble to hear the Word of God, and to offer to him prayer and praise.",
+            "The sudden manner of his appearance, and the fact that most of them had not before seen him since his resurrection, tended to alarm them. Hence, he addressed them in the usual form of salutation to allay their fears, and to assure them that it was their own Saviour and Friend."
+        ],
+        "Marvin Vincent": [
+            "Assembled. Omit."
+        ],
+        "John Calvin": [
+            "It is worthy of notice how gently Christ acted towards them, in not keeping them in suspense any longer than till the evening.",
+            "This example is worthy of notice; for, though they are less courageous than they ought to have been, still they do not give way to their weakness.",
+            "Let us be satisfied with knowing that Christ intended, by a remarkable miracle, to confirm his disciples in their belief of his resurrection."
+        ],
+        "Philip Schaff": [
+            "Hence the structure of John\u2019s narrative, in which it will be observed that the second \u2018Peace be unto you\u2019 (John 20:21) takes up again the same expression in John 20:19...",
+            "This aim of our Evangelist also explains the stress which is laid upon the fact that this manifestation of Jesus took place \u2018when the doors had been shut.\u2019",
+            "In this absolute subjection of the body to the spirit, John sees proof and illustration of the fact that in the person of Jesus dualism has disappeared, and that the perfect unity of body and spirit has been reached."
+        ],
+        "Archibald T. Robertson": [
+            "When therefore it was evening on that day... John often uses this note of time.",
+            "The addition of \u03c4\u03b7 \u03bc\u03b9\u03b1 \u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03c9\u03bd proves that John is using Roman time, not Jewish, for here evening follows day instead of preceding it.",
+            "Peace be unto you... here with probable reference to John 14:27 (Christ's legacy of peace)."
+        ],
+        "John Gill": [
+            "Being the first day of the week; as is said in John 20:1 and here repeated, to prevent any mistake; and that it might be clear what day it was the disciples were assembled together, and Christ appeared to them.",
+            "However, the doors were shut; which is not merely expressive of the time of night, when this was usually done; but signifies that they were really locked and bolted, and barred.",
+            "He being the Almighty God, did, by his omnipotent power, cause the bars and bolts, and doors, in the most secret and unobserved manner, to give way to him, and let him in at once among them."
+        ],
+        "John Wesley": [
+            "Mark 16:14; Luke 24:36."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The circumstances surrounding the closed doors mentioned in the verse indicate that these were supernatural appearances of Jesus that were not ordinary in nature. His ability to come and stand among them without using the usual means of entrance demonstrates the extraordinary power dwelling within Him. In addressing them with the greeting of Peace be unto you, Jesus not only conveyed His wish for peace to enter their hearts, but also opened their understanding to comprehend the scriptures. The fact that this event took place in the evening on the first day of the week according to Roman time further emphasizes its significance.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.8900101269946759,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.18,
+            "commentatorTierSimilarities": [
+                30.41,
+                41.49,
+                28.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The closed doors mentioned in this account signify the supernatural nature of Jesus' appearances. His ability to enter and stand among them without using the ordinary means of entrance demonstrates the supernatural power residing within Him. When Jesus greeted them with Peace be unto you, He not only expressed His desire for peace to fill their hearts, but also opened their understanding to comprehend the scriptures. In the evening on the first day of the week, according to Roman time, this profound event took place.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8159376088767023,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                30.02,
+                40.86,
+                29.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The closed doors in this passage indicate the extraordinary nature of Jesus' appearances. His ability to come and stand among them without using the usual means of entrance is evidence of the supernatural power residing within Him. When Jesus greeted them with Peace be unto you, He not only wished for peace to fill their hearts, but also opened their understanding to comprehend the scriptures. This significant event occurred in the evening on the first day of the week according to Roman time.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.8378367544468364,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                29.73,
+                40.75,
+                29.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The closed doors mentioned here demonstrate the supernatural nature of Jesus' appearances. His ability to enter and stand among them without using ordinary means shows the extraordinary power within Him. When Jesus greeted them with Peace be unto you, He not only conveyed His desire for peace to enter their hearts but also opened their understanding to comprehend the scriptures. This event took place in the evening on the first day of the week, according to Roman time, highlighting its significance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.833565087498429,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                29.71,
+                40.21,
+                30.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of the closed doors signifies the supernatural appearances of Jesus. These extraordinary manifestations reveal His divine power, similar to His other miracles. By entering and standing among them without the usual means of entrance, Jesus showcases His exceptional ability. When He greeted them with Peace be unto you, the words carried a deeper significance, conveying not only a wish but also bestowing inner peace upon their hearts. Additionally, Jesus opened their understanding to comprehend the scriptures, further enriching their spiritual journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7713487939242922,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                28.79,
+                42.76,
+                28.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

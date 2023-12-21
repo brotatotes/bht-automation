@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:07:58",
+    "verseRef": "John 7:26",
+    "bestBHT": {
+        "bht": "Do the rulers know indeed? Can it be that the rulers indeed know that this is the Christ, the Messiah? Some suspect a change in their purpose, on account of His being permitted to teach freely. But there is bewilderment in the inconsistency between the rulers' supposed wishes and the boldness with which Jesus speaks openly. Could it be that there is some secret reason behind this, that the rulers have made a discovery but are reluctant to reveal it?",
+        "wordCount": 80,
+        "quoteTokenProportion": 54.72,
+        "qualityScore": 2.099039137741303,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.13,
+        "commentatorTierSimilarities": [
+            33.18,
+            37.03,
+            29.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and suspect some change in their purpose, on account of His being thus permitted to teach freely."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "26. Do the rulers know, &amp;c.\u2014Have",
+            "\tthey got some new light in favor of His claims?"
+        ],
+        "Albert Barnes": [
+            "Do the rulers know indeed... that from some cause they were not willing yet to make it known to the people.",
+            "They concluded, therefore, that some change had taken place in the sentiments of the rulers in regard to him, though they had not yet made it public.",
+            "Indeed - Truly; certainly. Have they certain evidence, as would appear from their suffering him to speak without interruption?"
+        ],
+        "Marvin Vincent": [
+            "Do the rulers know indeed? The interrogative particle mhpote may be rendered by the familiar expression they do not, do they?",
+            "Can it be that the rulers, etc. Indeed [\u03b1\u03bb\u03b7\u03b8\u03c9\u03c2] ; literally, truly.",
+            "The very [\u03b1\u03bb\u03b7\u03b8\u03c9\u03c2]. Omit."
+        ],
+        "Philip Schaff": [
+            "There is only bewilderment, occasioned by the inconsistency between the supposed wishes of the rulers and the boldness and freedom with which Jesus is allowed to speak.",
+            "Can it be that there is some secret reason for this, that the rulers have really made a discovery, which they will not allow, that this is the Christ?",
+            "The question is no sooner asked than it is answered by themselves."
+        ],
+        "Archibald T. Robertson": [
+            "But only make sneering comments about him (John 7:16) in spite of his speaking 'openly' (\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1, for which word see John 7:13; John 18:20) before all.",
+            "Can it be that the rulers indeed know (\u03bc\u03b7 \u03c0\u03bf\u03c4\u03b5 \u03b1\u03bb\u03b7\u03b8\u03c9\u03c2 \u03b5\u03b3\u03bd\u03c9\u03c3\u03b9\u03bd \u03bf \u03b1\u03c1\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2). Negative answer expected by \u03bc\u03b7 \u03c0\u03bf\u03c4\u03b5 and yet there is ridicule of the rulers in the form of the question.",
+            "That this is the Christ (\u03bf\u03c4 \u03bf\u03c5\u03c4\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd \u03bf \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2). The Messiah of Jewish hope."
+        ],
+        "John Gill": [
+            "But lo, he speaketh boldly,.... And with great freedom, and openly and publicly in the temple, as if he had a licence from the chief priests for so doing.",
+            "he goes on without control; though he takes great liberty in charging the Jews with an intention to kill him, in arguing from their practices in vindication of himself, and in suggesting that they judged in favour of men, and not according to the truth of things.",
+            "Do the rulers know indeed that this is the very Christ? have they changed their minds concerning him, and so their conduct towards him? are they convinced, and do they know by plain demonstrations, and full proof, that he is really the Messiah that has been promised of old, and long expected?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do the rulers know indeed? Can it be that the rulers indeed know that this is the Christ, the Messiah of Jewish hope? Some suspect a change in their purpose, as He is permitted to teach freely and speak boldly. However, there is bewilderment in the inconsistency between the rulers' supposed wishes and the freedom with which Jesus is allowed to speak. Could it be that there is some secret reason behind this, that the rulers have made a discovery but refuse to acknowledge it? The question is no sooner asked than it is answered by themselves, as they make sneering comments about him despite his speaking openly before all.",
+            "wordCount": 110,
+            "quoteTokenProportion": 52.7,
+            "qualityScore": 2.0555692503755116,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                30.15,
+                38.33,
+                31.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do the rulers know indeed? Can it be that the rulers indeed know that this is the Christ, the Messiah of Jewish hope? Some suspect a change in their purpose, as He is permitted to teach freely and speak boldly. However, there is bewilderment in the inconsistency between the rulers' supposed wishes and the freedom with which Jesus is allowed to speak. Could it be that there is some secret reason behind this, that the rulers have made a discovery but refuse to acknowledge it?",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.0979697527559638,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                31.74,
+                36.73,
+                31.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do the rulers know indeed? Can it be that the rulers indeed know that this is the Christ, the Messiah? Some suspect a change in their purpose, on account of His being permitted to teach freely. But there is bewilderment in the inconsistency between the rulers' supposed wishes and the boldness with which Jesus speaks openly. Could it be that there is some secret reason behind this, that the rulers have made a discovery but are reluctant to reveal it?",
+            "wordCount": 80,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 2.099039137741303,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.13,
+            "commentatorTierSimilarities": [
+                33.18,
+                37.03,
+                29.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do the rulers truly know that this is the Christ? Is it possible that they have had a change of heart and now recognize His true identity? There seems to be some confusion and skepticism among the people, as they observe the rulers allowing Jesus to teach openly and without interruption. They speculate about the motives and knowledge of the rulers, wondering if they possess new understanding regarding the claims of Jesus. Could it be that the rulers have indeed come to believe that He is the Messiah, despite their previous opposition towards Him?",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.011868130860527,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                28.35,
+                35.07,
+                36.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do the rulers truly know that this is the Christ? Is it possible that they have had a change of heart and now recognize His true identity? There seems to be some confusion and skepticism among the people, as they observe the rulers allowing Jesus to teach openly and without interruption. They speculate about the motives and knowledge of the rulers, wondering if they possess new understanding regarding the claims of Jesus. Could it be that the rulers have indeed come to believe that He is the Messiah?",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.023302606899609,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                29.15,
+                35.11,
+                35.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

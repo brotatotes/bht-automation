@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:14:27",
+    "verseRef": "John 18:31",
+    "bestBHT": {
+        "bht": "Pilate deftly redirected the situation, making the Jews confess their intention to execute Jesus without a fair trial. He revealed their hypocrisy as they claimed an inability to carry out capital punishment while secretly desiring Jesus's crucifixion. By appealing to their own law and feigning a commitment to justice, they sought to manipulate Pilate into condemning Jesus. However, Pilate, realizing that this matter didn't pertain to civil order, declined to involve himself in their religious conflicts and left the matter in their hands, exposing their underlying motives. (76 words, 52.6% from the quotes)",
+        "wordCount": 93,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.9389432354957403,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+        "commentatorTierSimilarities": [
+            27.08,
+            39.03,
+            33.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If you suppose I am to have such implicit confidence in your judgment concerning this prisoner as to take his guilt on your word, take him and put him to death (for so 'judge ye Him' must be understood).",
+            "It is not lawful for us to put any man to death.",
+            "In other provinces the governors made circuits and held assizes throughout their jurisdictions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "29-32. Pilate went out to them, and",
+            "\tsaid, What accusation bring ye against this man?\u2014State your",
+            "\tcharge."
+        ],
+        "Albert Barnes": [
+            "It has been doubted whether this gave them the power of putting him to death, or whether it was not rather a direction to them to inquire into the case, and inflict on him, if they judged him guilty, the mild punishment which they were yet at liberty to inflict on criminals.\" ",
+            "The Jews were accustomed to put persons to death still in a popular tumult, but they had not the power to do it in any case in a regular way of justice.\" ",
+            "If they had this power in the case of blasphemy and irreligion, they did not dare to exert it here, because they were afraid of tumult among the people."
+        ],
+        "Marvin Vincent": [
+            "Take him yourselves, and judge him according to your law.",
+            "By our law, he ought to die.",
+            "It is not lawful, etc."
+        ],
+        "John Calvin": [
+            "Were he in your power, he would instantly be executed, without being heard in his own defense; and, is this the equity of your Law, to condemn a man without any crime?",
+            "Thus do wicked men, falsely assuming the name of God as an excuse for their conduct, expose his holy doctrine to the reproaches of enemies, and the world eagerly seizes on it as an occasion of slander.",
+            "You would not allow it; and since you are the judge, execute your office."
+        ],
+        "Philip Schaff": [
+            "Pilate has already seen enough to satisfy him that no offence against civil order, calling for his interposition, has been committed.",
+            "He will have nothing to do with merely religious squabbles, and he remits the whole matter to the Jews themselves.",
+            "The bitter irony of circumstances forces from them an acknowledgment of their shame."
+        ],
+        "Archibald T. Robertson": [
+            "Pilate shrewdly turns the case over to the Sanhedrin in reply to their insolence.",
+            "He drew out at once the admission that they wanted the death of Jesus, not a fair trial for him.",
+            "Pilate's approval of their purpose to kill him."
+        ],
+        "John Gill": [
+            "Take ye him, and judge him according to your law; this he said, as choosing to understand them in no other sense, than that he had broken some peculiar law of theirs, though they had otherwise suggested; and as giving them liberty to take him away to one of their courts, and proceed against him as their law directed, and inflict some lesser punishment on him than death.",
+            "The Jews therefore said unto him, it is not lawful for us to put any man to death thereby insinuating, that he was guilty of a crime, which deserved death, and which they could not inflict; not that they were of such tender consciences, that they could not put him to death, or that they had no law to punish him with death, provided he was guilty; but because judgments in capital cases had ceased among them.",
+            "Had they took him and judged him according to their law, which must have been as a false prophet, or for blasphemy or idolatry, the death they must have condemned him to, would have been stoning; but it was crucifixion they were set upon; and therefore deliver him up as a traitor, and a seditious person, in order thereunto."
+        ],
+        "John Wesley": [
+            "It is not lawful for us to put any man to death.",
+            "The power of inflicting capital punishment had been taken from them that very year.",
+            "So the sceptre was departed from Judah, and transferred to the Romans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews, in their attempt to obtain a death sentence for Jesus, brought him before Pilate, hoping to manipulate his judgment and carry out their own desired outcome. Pilate skillfully shifted the responsibility back to them, forcing them to acknowledge their intention of putting Jesus to death without a fair trial. The irony of the situation exposed their shameful behavior, as they claimed an inability to execute Jesus themselves due to their lack of authority to carry out capital punishment. In reality, they wanted Jesus crucified, a punishment that only the Romans could administer. By invoking their own law and feigning concern for justice, they hoped to manipulate Pilate into condemning Jesus to death. However, Pilate, recognizing that this case did not involve civil order, declined to engage in their religious disputes and left the matter in the hands of the Jews themselves, ultimately revealing their true intentions.",
+            "wordCount": 148,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.1691805136059195,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.47,
+            "commentatorTierSimilarities": [
+                24.79,
+                40.55,
+                34.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate cunningly shifted the burden of judgment back to the Jews, making them admit their desire to see Jesus executed without a fair trial. He exposed their hypocrisy as they feigned an inability to exercise capital punishment while deceitfully seeking Jesus's crucifixion. By deferring to their own law and supposedly respecting justice, they aimed to manipulate Pilate into condemning Jesus. However, Pilate, recognizing that this matter did not pertain to civil order, refused to be entangled in their religious disputes and left the decision in their hands, revealing their true motives. (73 words, 55.5% from the quotes)",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.9304983953022274,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                26.73,
+                38.24,
+                35.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate cleverly passed the responsibility back to the Jews, forcing them to acknowledge their intent to execute Jesus without a fair trial. The Jews, claiming an inability to carry out capital punishment themselves, sought to manipulate Pilate into condemning Jesus to death. However, Pilate, recognizing that this matter did not involve civil order, refused to involve himself in their religious disputes. He handed the decision over to the Jews, thereby exposing their true motive and revealing their hypocrisy. (62 words, 54.8% from the quotes)",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9157483726926912,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                27.06,
+                40.03,
+                32.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate tactfully turned the tables on the Jews, making them admit their desire to have Jesus executed without a fair trial. He exposed their hypocrisy as they claimed an inability to carry out capital punishment while secretly seeking Jesus's crucifixion. By invoking their own law and pretending to uphold justice, they attempted to manipulate Pilate into condemning Jesus. However, Pilate, recognizing that this matter didn't involve civil order, refused to be entangled in their religious disputes and left the final decision in their hands, exposing their true motives. (78 words, 53.8% from the quotes)",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.9223665436064907,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                26.48,
+                37.9,
+                35.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate deftly redirected the situation, making the Jews confess their intention to execute Jesus without a fair trial. He revealed their hypocrisy as they claimed an inability to carry out capital punishment while secretly desiring Jesus's crucifixion. By appealing to their own law and feigning a commitment to justice, they sought to manipulate Pilate into condemning Jesus. However, Pilate, realizing that this matter didn't pertain to civil order, declined to involve himself in their religious conflicts and left the matter in their hands, exposing their underlying motives. (76 words, 52.6% from the quotes)",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9389432354957403,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                27.08,
+                39.03,
+                33.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

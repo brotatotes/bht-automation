@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:13:12",
+    "verseRef": "John 16:11",
+    "bestBHT": {
+        "bht": "The Spirit of God convicts the world of the judgment against it, showing how erroneous and destructive its bondage has been under the prince of this world. Through Christ's victory, the Spirit leads people into a state of redemption, righteousness, and wisdom. This judgment condemns Satan and his dominion over humanity, setting us free from his power to enslave and ruin. Those who reject Christ's deliverance will remain slaves of Satan, while those who embrace it find liberation.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.293368047748172,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.59,
+        "commentatorTierSimilarities": [
+            32.57,
+            31.35,
+            36.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Spirit of God shall convict this judgment of wrong;\u2014shall shew them how erroneous and destructive it is, and what a bondage they have been under.",
+            "This better judgment itself is that very truth of God manifested in the Lord Jesus, by which the Prince of this world is cast out.",
+            "The great convictive work of the Spirit is to bring man OUT OF HIMSELF INTO CHRIST, Who (in His objective manifestation) must be made unto him (subjectively), 1. redemption, 2. righteousness, 3. wisdom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The prince of this world is judged...his dominion over men, or his power to enslave and so to ruin them, is destroyed.",
+            "Thus, then, the Spirit shall bring home to men's conscience...the sense of emancipation from the fetters of Satan, whose judgment brings to men liberty to be holy.",
+            "Such, abiding voluntarily under the dominion of the prince of this world, are judged in his judgment, the visible consummation of which will be at the great day."
+        ],
+        "Albert Barnes": [
+            "The death of Christ was a judgment or a condemnation of Satan.",
+            "If he vanquished his great enemy who had so long triumphed in this world, he will subdue all others in due time.",
+            "From this state of alarm there is no refuge but to flee to Him who subdued the great enemy of man, and who is able to deliver him from the vengeance due to his sins."
+        ],
+        "Marvin Vincent": [
+            "Is judged [\u03ba\u03b5\u03ba\u03c1\u03b9\u03c4\u03b1\u03b9] . Perfect tense. Rev., therefore, rightly, hath been judged."
+        ],
+        "John Calvin": [
+            "The light of the Gospel having been kindled, the Spirit manifests that the world has been brought into a state of good order by the victory of Christ, by which he overturned the authority of Satan.",
+            "Judgment, therefore, is contrasted with what is confused and disordered, or, to express it briefly, it is the opposite of confusion, or, we might call it righteousness, a sense which it often bears in Scripture.",
+            "Thus the Spirit convinces the world of judgment; that is, having vanquished the prince of wickedness, Christ restores to order those things which formerly were torn and decayed."
+        ],
+        "Archibald T. Robertson": [
+            "Because the prince of this world hath been judged.",
+            "He stands condemned.",
+            "The sinful world is in his grip, but he will be cast out."
+        ],
+        "John Gill": [
+            "Christ, by his death, has destroyed [Satan] and his works; has spoiled his principalities and powers; and by his resurrection from the dead, and ascension to heaven, has carried him and them captive, triumphing over them.",
+            "Satan was judged, condemned, and cast out of the Heathen world, their temples, and the souls of men; the prey was taken from the mighty, and the lawful captive delivered.",
+            "He [the Holy Spirit] convinces them of the excellency, truth, power, and usefulness of the Gospel, which is called 'judgment', Isaiah 42:1, so as to understand it truly, believe it cordially, receive it in the love of it, and feel the power of it."
+        ],
+        "John Wesley": [
+            "The prince of this world is judged.\" ",
+            "And in consequence thereof dethroned, deprived of the power he had so long usurped over men.",
+            "Yet those who reject the deliverance offered them will remain slaves of Satan still."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Spirit of God convicts the world of the judgment against it by showing how erroneous and destructive its bondage under the prince of this world has been. Through Christ's victory over Satan and the liberation He brings, the Spirit leads people out of themselves and into a state of redemption, righteousness, and wisdom. This judgment condemns Satan and his dominion over humanity, setting us free from his power to enslave and ruin. However, those who refuse to embrace this deliverance offered by Christ will remain in bondage to Satan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2036411153884625,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                31.85,
+                32.12,
+                36.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit of God convicts the world of the judgment against it, revealing the erroneous and destructive bondage under the prince of this world. Christ's victory over Satan and the subsequent liberation from his dominion brings redemption, righteousness, and wisdom. This condemns Satan and his power to enslave and ruin. Those who reject this deliverance remain slaves to Satan, while those who embrace Christ find freedom from his grasp.",
+            "wordCount": 70,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 2.2502377415964903,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                30.99,
+                32.76,
+                36.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit of God convicts the world of the judgment against it, showing how erroneous and destructive its bondage has been under the prince of this world. Through Christ's victory, the Spirit leads people into a state of redemption, righteousness, and wisdom. This judgment condemns Satan and his dominion over humanity, setting us free from his power to enslave and ruin. Those who reject Christ's deliverance will remain slaves of Satan, while those who embrace it find liberation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.293368047748172,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.59,
+            "commentatorTierSimilarities": [
+                32.57,
+                31.35,
+                36.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Spirit of God convicts the world of the judgment against it, revealing the bondage under the prince of this world and the destructive nature thereof. Through Christ's victory, the Spirit brings people out of themselves and into a state of redemption, righteousness, and wisdom. This judgment condemns Satan's dominion and his power to enslave and ruin humanity. Rejecting deliverance means remaining as slaves to Satan, but accepting it brings forth freedom.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.1901306052947707,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.16,
+            "commentatorTierSimilarities": [
+                32.47,
+                30.98,
+                36.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit of God convicts the world of its judgment, demonstrating the erroneous and destructive bondage humanity has been under the leadership of the prince of this world. By manifesting the truth of Christ, the Spirit initiates a convictive work that brings individuals out of themselves and into a transformative experience of redemption, righteousness, and wisdom. Through this judgment, Satan's dominion is destroyed, liberating people from his power to enslave and destroy them. Those who choose to remain voluntarily under his control will face the visible consummation of his judgment on the great day.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.1928393518691816,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.25,
+            "commentatorTierSimilarities": [
+                34.55,
+                30.19,
+                35.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

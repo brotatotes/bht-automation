@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:13:27",
+    "verseRef": "John 16:31",
+    "bestBHT": {
+        "bht": "Their faith in Jesus was sincere but lacked deep grounding, and they were too self-confident and ignorant of the perils that awaited them. Jesus acknowledged their belief but also pointed out its weakness. He reminded them that their faith would soon be tested in ways they didn't expect. Through persecution, their smallness of faith would become evident and they would be humbled. Jesus wanted them to recognize their need for a stronger, humbler faith that relied on Him.",
+        "wordCount": 80,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.9789506164527888,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+        "commentatorTierSimilarities": [
+            30.55,
+            32.69,
+            36.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their belief, though sincere and loving, was not so deeply grounded in knowledge of Him and His appointed course, as they imagined.",
+            "It was the aim and purpose of the whole prophetic office of Jesus, to prepare some first disciples for the reception of the Spirit of Truth and the fruits of His Death, by grounding in them firm belief in His Person.",
+            "He therefore recognizes their faith; but shows them how weak it as yet was."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is well ye do, for it is soon to be tested, and in a way ye little expect.",
+            "That He was not to be utterly deserted, that there was One who would not forsake Him, was to Him matter of ineffable support and consolation.",
+            "How near, and with what sustaining power, who can express?"
+        ],
+        "Albert Barnes": [
+            "This question was evidently asked to put them on a full examination of their hearts.",
+            "When we feel strong in the faith we should examine ourselves.",
+            "It may be that we are deceived; and it may be that God may even then be preparing trials for us that will shake our faith to its foundation."
+        ],
+        "Marvin Vincent": [
+            "Now [\u03b1\u03c1\u03c4\u03b9] . See on 13 33. With reference to the coming time of greater trial."
+        ],
+        "John Calvin": [
+            "As the disciples were too highly pleased with themselves, Christ reminds them that, remembering their weakness, they ought rather to confine themselves within their own little capacity.",
+            "Now, we never are fully aware of what we want, and of our great distance from the fullness of faith, till we come to some serious trial.",
+            "Persecution is a touchstone to try faith, and when its smallness becomes evident, they who formerly were swelled with pride begin to tremble and to draw back."
+        ],
+        "Archibald T. Robertson": [
+            "Their belief in Christ was genuine as far as it went, but perils await them of which they are ignorant.",
+            "They are too self-confident as their despair at Christ's death shows."
+        ],
+        "John Gill": [
+            "Not as calling their faith in question; or as denying they had any; or as despising it for the smallness of it; but as reproving them for their security, vain confidence and boasting.\" ",
+            "the words may be read affirmatively, without an interrogation, 'ye do believe now'; they are in the Syriac and Arabic versions read imperatively, 'believe ye now'.",
+            "it is suggested to them they would meet with something that would try their faith: and it is as if Christ had said, ye believe in me now, while I am with you, and all things go according to your mind; but what will you do anon, when I shall be taken from you?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their belief in Him was sincere and loving, but it lacked deep knowledge and grounding in His purpose. Jesus recognized their faith but also revealed the weakness that they were unaware of. He wanted them to understand that their belief was soon to be tested in a way they least expected. Their self-confidence needed to be shaken before they could truly grasp the fullness of faith. Persecution would be the crucible that tested and revealed the smallness of their faith. Jesus wanted them to understand that their belief, although genuine, needed to be tempered and strengthened with humility and reliance on Him.",
+            "wordCount": 103,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.871079513072945,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                30.61,
+                33.12,
+                36.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their sincere and loving belief in Him was not deeply grounded in knowledge of His purpose. Jesus recognized their faith, but also saw its weakness. He warned them that their belief would soon be tested in unexpected ways, shaking their self-confidence. Persecution would reveal the smallness of their faith and humble them. Jesus wanted them to understand that their belief needed to be tempered with humility and reliance on Him. They needed to grasp the fullness of faith before they faced the trials that awaited them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9187394152070036,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                31.4,
+                33.08,
+                35.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their faith in Jesus was sincere but lacked deep grounding, and they were too self-confident and ignorant of the perils that awaited them. Jesus acknowledged their belief but also pointed out its weakness. He reminded them that their faith would soon be tested in ways they didn't expect. Through persecution, their smallness of faith would become evident and they would be humbled. Jesus wanted them to recognize their need for a stronger, humbler faith that relied on Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.9789506164527888,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+            "commentatorTierSimilarities": [
+                30.55,
+                32.69,
+                36.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their sincere and loving belief in Jesus was not firmly grounded in knowledge of His purpose. Although Jesus recognized their faith, He also revealed its weakness, cautioning them that it would soon be tested in unexpected ways. Persecution would serve as a touchstone to expose the smallness of their faith and shake their self-confidence. Jesus desired them to understand the need for a stronger, more humble faith that trusted in Him rather than relying on their own capabilities.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.8693666857465958,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                31.13,
+                29.07,
+                39.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their sincere belief in Jesus, while genuine, was not deeply grounded in knowledge of Him and His purpose. Their self-confidence and ignorance of the perils awaiting them were evident. Jesus recognized their faith but also saw its weakness, knowing that it would soon be tested in unexpected ways. Through persecution, the smallness of their faith would be revealed, humbling them and prompting them to rely on Him more fully. Jesus wanted them to understand the need for a stronger, humbler faith that rested in Him alone.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8634446736696282,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                32.24,
+                30.03,
+                37.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:09:17",
+    "verseRef": "John 9:4",
+    "bestBHT": {
+        "bht": "Jesus proclaims, I must work the works of him that sent me while it is day: the night cometh, when no one can work. He emphasizes the urgency of His mission on earth, associating His disciples with Himself. The day signifies the appointed time for Jesus' earthly work, while the impending night represents its close. As believers, we are reminded to diligently engage in the tasks assigned by God, recognizing the shortness of life. Let us use our time wisely, for the night is coming for all, when no one can work.",
+        "wordCount": 92,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 2.0290304967162642,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+        "commentatorTierSimilarities": [
+            31.37,
+            35.53,
+            33.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Connected by the words, work the works, to the former verse.",
+            "From ver. 5, it seems evident that the day is the appointed course of the working of Jesus on earth, and the night the close of it.",
+            "It is true, that, according to St. John\u2019s universal diction, the death of Jesus is His glorification; but the similitude here regards the effect on the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I must work the works of him that sent me, c.",
+            "a most interesting statement from the mouth of Christ intimating... that He had a precise work to do upon earth... all He did upon earth was just 'the works of God'\u2014particularly 'going about doing good,' though not exclusively by miracles.",
+            "He acted ever under the impulse of these considerations, as man\u2014'the night cometh when no man (or no one) can work.'"
+        ],
+        "Albert Barnes": [
+            "While the day lasts it is proper to labor.\" ",
+            "My life is near its close. While it continues I must employ it in doing the works which God has appointed.",
+            "The night of death is a time when nothing can be done."
+        ],
+        "Marvin Vincent": [
+            "Literally, it is necessary for us to work.",
+            "The disciples are thus associated by Jesus with Himself.",
+            "The Son sends the disciples, as the Father sends the Son."
+        ],
+        "John Calvin": [
+            "He borrows also a comparison from the ordinary custom of life; for, when the sun is risen, man rises to labor, but the night is allotted to repose...",
+            "He therefore employs the word Day to denote the time which the Father had fixed, during which he must finish the work assigned him...",
+            "...when we see that a short period of life is allotted to us, we ought to be ashamed of languishing in idleness."
+        ],
+        "Philip Schaff": [
+            "We must work the works of him that sent me, while it is day: the night cometh, when no one can work.\" ",
+            "The substitution of \u2018we\u2019 for \u2018I\u2019 lends peculiar force and beauty to the verse.\" ",
+            "He does not say \u2018Him that sent us,\u2019 for it is the Son who sends His disciples, even as the Father sends the Son."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus associates us with him in the task committed to him by the Father.",
+            "This clause gives the note of urgency upon us all.",
+            "Night was coming for Jesus and for each of us. Even electric lights do not turn night into day."
+        ],
+        "John Gill": [
+            "This shows, that the works of God, that were to be manifest, were to be done by Christ...",
+            "...suggesting his own death hereby, that he had but a little time to be in this world...",
+            "This life is but short, it is but as the length of a day; a great deal of business is to be done..."
+        ],
+        "John Wesley": [
+            "The night is coming \u2014 Christ is the light.",
+            "No man can do any thing toward working out his salvation after this life is ended.",
+            "But he was not to work upon earth, only during the day, or season which was appointed for him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares, I must work the works of him that sent me, while it is day: the night cometh, when no one can work. He emphasizes the urgency of His mission on earth and the limited time He has to accomplish it. This applies to all of us as well, as we are called to be associated with Jesus in the task committed to Him by the Father. The day signifies the appointed course of Jesus' earthly work, and the night represents its close, including His death. Just as day is the time for labor, we are reminded that while our lives continue, we should diligently engage in the works assigned to us by God. The night is coming for Jesus and for each of us, and even the brightest artificial lights cannot turn that night into day. Therefore, let us seize the day and use our time wisely for the glory of God.",
+            "wordCount": 154,
+            "quoteTokenProportion": 46.59,
+            "qualityScore": 2.016624090731753,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.39,
+            "commentatorTierSimilarities": [
+                30.63,
+                36.52,
+                32.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, affirming the urgency of His mission, declares, I must work the works of him that sent me while it is day: the night cometh, when no one can work. The day represents the appointed time for Jesus' works on earth, while the impending night symbolizes its close and the effect on the world. As Jesus associates His disciples with Himself, His words extend to all believers, urging us to diligently engage in the tasks assigned by God. Let us recognize the shortness of life and use our time purposefully, for the night is coming for all of us, when no one can work.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.1155101252866477,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.68,
+            "commentatorTierSimilarities": [
+                32.12,
+                35.82,
+                32.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus proclaims, I must work the works of him that sent me while it is day: the night cometh, when no one can work. He emphasizes the urgency of His mission on earth, associating His disciples with Himself. The day signifies the appointed time for Jesus' earthly work, while the impending night represents its close. As believers, we are reminded to diligently engage in the tasks assigned by God, recognizing the shortness of life. Let us use our time wisely, for the night is coming for all, when no one can work.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.0290304967162642,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                31.37,
+                35.53,
+                33.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus acknowledges the urgency of His mission, stating, I must work the works of him that sent me, while it is day: the night cometh, when no one can work. This emphasizes the limited time Jesus has to accomplish His Father's work on earth. As believers, we are urged to associate ourselves with Jesus in carrying out the tasks assigned by God. The impending night represents the close of Jesus' earthly work, signifying the shortness of life. Let us seize the opportunity to diligently engage in our own God-given tasks before the night comes when no one can work.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.03766378542468,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                33.64,
+                34.0,
+                32.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus recognizes the necessity to work the works of God during His earthly time, acknowledging that the night cometh, when no one can work. This urgency extends to His disciples, as He associates them with Himself, reminding them that just as the Father sends the Son, so the Son sends His followers. The impending night represents the close of Jesus' earthly work and the limited time we all have to fulfill the tasks assigned to us. May we diligently engage in the work entrusted to us while it is still day, for the night will come when no one can work.",
+            "wordCount": 101,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.1088314283354403,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.46,
+            "commentatorTierSimilarities": [
+                32.26,
+                36.67,
+                31.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:06:07",
+    "verseRef": "John 5:16",
+    "bestBHT": {
+        "bht": "Angered by Jesus healing on the Sabbath, the Pharisees began their persecution against Him, providing a perfect opportunity for Him to assert His claims. His powerful and concise defense only intensified their resentment. Accusing Him of being a Sabbath breaker and seeking His life, they labeled Him a sinful and wicked man. By choosing to perform miracles on the Sabbath, Jesus highlighted the fulfillment of the law and exemplified His divine authority.",
+        "wordCount": 72,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 1.7924333569504034,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+        "commentatorTierSimilarities": [
+            28.13,
+            26.7,
+            45.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What to these hypocritical religionists was the doing of the most glorious and beneficent miracles, compared with the atrocity of doing them on the sabbath day!",
+            "Having given them this handle, on purpose to raise the first public controversy with them, and thus open a fitting opportunity of laying His claims before them.",
+            "He rises at once to the whole height of them, in a statement which for grandeur and terseness exceeds almost anything that ever afterwards fell from Him, at least to His enemies."
+        ],
+        "Albert Barnes": [
+            "Thus every bigot and persecutor does in regard to those who differ from them.",
+            "Men are often extremely envious because good is done by others, especially if it is not done according to the way of their denomination or party.",
+            "Here was an instance of the common feelings of a hypocrite. He often covers his enmity against the power of religion by great zeal for the form of it."
+        ],
+        "Marvin Vincent": [
+            "The imperfect tense [\u03b5\u03b4\u03b9\u03c9\u03ba\u03bf\u03bd] might be rendered began to persecute, as this is an opening of hostilities against Jesus.\" ",
+            "Diwkw, to persecute, is originally to run after, to pursue with hostile purpose, and thence to harass.",
+            "The imperfect malignantly expresses the idea that the violation of the Sabbath has become with Him a sort of maxim."
+        ],
+        "Philip Schaff": [
+            "He comes as one who claims to be above the law, having the right, as Lawgiver, to set aside its letter.",
+            "As the temple had its idea fulfilled in Himself, so was it with the sabbath.",
+            "The choice of the sabbath day for the miracle is the kernel of the paragraph."
+        ],
+        "Archibald T. Robertson": [
+            "Persecute (\u03b5\u03b4\u03b9\u03c9\u03ba\u03bf\u03bd). Inchoative imperfect, 'began to persecute' and kept it up.\" ",
+            "They took this occasion as one excuse (\u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c4\u03bf, because of this).\" ",
+            "Because he did (\u03bf\u03c4 \u03b5\u03c0\u03bf\u03b9\u03b5). Imperfect active, not just this one act, but he was becoming a regular Sabbath-breaker."
+        ],
+        "John Gill": [
+            "With their tongues, reproaching and reviling him, as a sabbath breaker, a destroyer of the law, and a sinful wicked man.",
+            "Either in a violent way, by setting the zealots, a sort of ruffians under the pretence of religion, upon him; or rather in a judicial way, summoning him before the sanhedrim, in order to condemn him to death for the breach of the sabbath.",
+            "This drew upon him their resentment to such a degree, that they not only persecuted him with their tongues, but sought to take away his life. Nothing would satisfy them but his blood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees were furious with Jesus for healing on the Sabbath, as they regarded this act as a violation of the law. This event marked the beginning of their persecution against Jesus, providing Him with the perfect opportunity to present His claims before them. His bold statement, in which He defended His actions with grandeur and terseness, only fueled their anger further. Not only did they reproach and revile Him, accusing Him of being a Sabbath breaker and a destroyer of the law, but they also sought to take away His life. At the heart of this passage lies the significance of Jesus choosing the Sabbath day for the miraculous healing, emphasizing the fulfillment of the law and His divine authority.",
+            "wordCount": 121,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.777385568384592,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                29.09,
+                27.27,
+                43.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees were seething with anger at Jesus for performing miracles on the Sabbath, viewing it as a violation of the law. This marked the start of their hostile pursuit against Him and gave Him the opportunity to present His claims before them. His powerful response calling attention to the grandeur and terseness of His mission provoked their resentment even further. Accusing Him of being a Sabbath breaker, they viciously sought to silence Him. Choosing to heal on the Sabbath accentuated the significance of fulfilling the law and demonstrated His authority.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7287560413862533,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                30.2,
+                26.02,
+                43.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees were vehemently indignant towards Jesus for performing miracles on the Sabbath, considering it a violation of the law. This incited their persecution against Him, providing an opportune moment for Him to present His claims. His powerful rebuttal, characterized by its grandeur and conciseness, further fueled their animosity. They labeled Him a Sabbath breaker and relentlessly sought to undermine Him. By choosing to heal on the Sabbath, Jesus underscored the fulfillment of the law and asserted His divine authority.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7441765030192613,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                29.56,
+                27.03,
+                43.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees were furious with Jesus for healing on the Sabbath, as they regarded this act as a violation of the law. This event marked the beginning of their persecution against Jesus, providing Him with the perfect opportunity to present His claims before them. His bold statement, in which He defended His actions with grandeur and terseness, only fueled their anger further. They accused Him of being a Sabbath breaker and sought to take away His life. At the heart of this lies the significance of Jesus choosing the Sabbath day for the miraculous healing, emphasizing the fulfillment of the law and His divine authority.",
+            "wordCount": 105,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7692490459054784,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                29.96,
+                27.44,
+                42.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Angered by Jesus healing on the Sabbath, the Pharisees began their persecution against Him, providing a perfect opportunity for Him to assert His claims. His powerful and concise defense only intensified their resentment. Accusing Him of being a Sabbath breaker and seeking His life, they labeled Him a sinful and wicked man. By choosing to perform miracles on the Sabbath, Jesus highlighted the fulfillment of the law and exemplified His divine authority.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.7924333569504034,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                28.13,
+                26.7,
+                45.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

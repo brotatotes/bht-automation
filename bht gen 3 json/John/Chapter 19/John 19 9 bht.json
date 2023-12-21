@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:14:47",
+    "verseRef": "John 19:9",
+    "bestBHT": {
+        "bht": "Pilate, overwhelmed by fear and uncertainty, asks Jesus about His origin. The governor's question is not merely about Jesus' mission but about His personal lineage, as if he wonders if Jesus is a man or a god. Yet Jesus chooses not to answer, just as He did before Caiaphas and Herod. Pilate becomes irritated by Jesus' silence, feeling a challenge to his own dignity despite his deep-seated fears. This exchange reveals Pilate's wavering nature, indicating surrender to the unjust demands of the people.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.6998792091456578,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+        "commentatorTierSimilarities": [
+            42.58,
+            23.0,
+            34.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whence is thine origin? Observe that the fear of Pilate is not mere superstition, nor does it enter into the Jewish meaning of 'the Son of God:' but arises from an indefinite impression made on him by the Person and bearing of our Lord.\" ",
+            "Our Lord, in His silence, was acting according to His own precept, Matt. vii. 6.\" ",
+            "Notwithstanding Pilate\u2019s fear of Him, he was not in earnest;\u2014not determined to be led by his conscience, but had already given way to the unjust demands of the people."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whence art thou?\u2014beyond all doubt a question relating not to His mission but to His personal origin.",
+            "He had said enough; the time for answering such a question was past.",
+            "The weak and wavering governor is already on the point of giving way."
+        ],
+        "Albert Barnes": [
+            "Whence art thou?",
+            "See the notes at John 7:27.",
+            "Jesus gave him no answer."
+        ],
+        "John Calvin": [
+            "It ought to be observed that, when he asks whence Christ is, he does not inquire about his country, but the meaning is, as if he had said, 'Art thou a man born on the earth, or art thou some god?'",
+            "This example is highly worthy of observation. Though the countenance of Christ was so disfigured, yet, as soon as Pilate hears the name of God, he is seized with the fear of violating the majesty of God in a man who was utterly mean and despicable.",
+            "We ought not to think it strange that Jesus makes no reply; at least, if we keep in mind what I have formerly mentioned, that he did not stand before Pilate to plead his own cause, \u2014 as is customary with persons accused who are desirous to be acquitted, \u2014 but rather to suffer condemnation; for it was proper that he should be condemned, when he appeared in our room."
+        ],
+        "Archibald T. Robertson": [
+            "Whence art thou? (\u03c0\u03bf\u03b8\u03b5\u03bd \u03b5 \u03c3\u03c5;). Pilate knew that Jesus was from Galilee (Luke 23:6). He is really alarmed. See a like question by the Jews in John 8:25.",
+            "Gave him no answer (\u03b1\u03c0\u03bf\u03ba\u03c1\u03b9\u03c3\u03b9\u03bd \u03bf\u03c5\u03ba \u03b5\u03b4\u03c9\u03ba\u03b5\u03bd \u03b1\u03c5\u03c4\u03c9). See same idiom in John 1:22. \u0391\u03c0\u03bf\u03ba\u03c1\u03b9\u03c3\u03b9\u03c2 (old word from \u03b1\u03c0\u03bf\u03ba\u03c1\u03b9\u03bd\u03bf\u03bc\u03b1) occurs also in Luke 2:47; Luke 20:26.",
+            "The silence of Jesus, like that before Caiaphas (Mark 14:61; Matthew 26:63) and Herod (Luke 23:9), irritates the dignity of Pilate in spite of his fears."
+        ],
+        "John Gill": [
+            "Whence art thou?...from whence he sprung, who were his ancestors, and whether his descent was from the gods, or from men.\" ",
+            "For his question was frivolous, and deserved none; and besides, he was not worthy of one, who had used him so ill, when he knew, in his own conscience, that he was innocent.",
+            "Since Christ was come to die for the salvation of his people, it was not proper he should say anything that might be a means of hindering it."
+        ],
+        "John Wesley": [
+            "Whence art thou? \u2014 That is, whose son art thou?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, driven by a mix of fear and curiosity, asks Jesus, Whence art thou? His question goes beyond Jesus' mission; he wants to know Jesus' personal origin. But Jesus remains silent, fulfilling His own teaching to not cast pearls before swine. Pilate's fear intensifies, yet he lacks sincere determination and has already succumbed to the unjust demands of the people. This exchange, similar to the Jews' question in John 8:25, deeply unsettles the weak governor, pushing him closer to conceding to the pressure. Jesus' silence not only irritates Pilate's dignity, but it also serves a higher purpose: He did not come to plead His own case but to be condemned in our place.",
+            "wordCount": 114,
+            "quoteTokenProportion": 32.1,
+            "qualityScore": 1.6460218927306671,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.07,
+            "commentatorTierSimilarities": [
+                43.06,
+                21.98,
+                34.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate's inquiry about Jesus' origin stems from both fear and curiosity. However, Jesus' silence in response to Pilate's question is intentional, in accordance with His teaching not to cast pearls before swine. This silence further unsettles Pilate, a weak and wavering governor on the verge of giving in to the unjust demands of the people. Jesus' purpose in remaining silent is not to plead His own case, but to fulfill His mission of being condemned on behalf of humanity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5596118103898284,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.2,
+            "commentatorTierSimilarities": [
+                46.75,
+                16.7,
+                36.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, overwhelmed by fear and uncertainty, asks Jesus about His origin. The governor's question is not merely about Jesus' mission but about His personal lineage, as if he wonders if Jesus is a man or a god. Yet Jesus chooses not to answer, just as He did before Caiaphas and Herod. Pilate becomes irritated by Jesus' silence, feeling a challenge to his own dignity despite his deep-seated fears. This exchange reveals Pilate's wavering nature, indicating surrender to the unjust demands of the people.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6998792091456578,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.86,
+            "commentatorTierSimilarities": [
+                42.58,
+                23.0,
+                34.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Questioning the origin of Jesus, Pilate's fear is not based on superstition or Jewish beliefs but arises from his impression of Jesus' person and demeanor. Jesus chooses to remain silent, acting in accordance with His own teaching of not casting pearls before swine. Pilate, though afraid, lacks sincerity and is already inclined to appease the crowd's demands. This question of origin is not about Jesus' mission but about His personal background, and Jesus' silence only amplifies Pilate's internal struggle.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.569966810080416,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                49.55,
+                17.03,
+                33.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, driven by fear and curiosity, asks Jesus about His origin. Jesus' silence in response to this question is intentional, aligning with His teaching not to cast pearls before swine. Pilate's fear intensifies, but he lacks genuine resolve and has already given in to the unjust demands of the people. This exchange reveals Pilate's wavering and weak character as he teeters on the brink of conceding. Jesus' silence serves a greater purpose, as He is not there to defend Himself but to be condemned on our behalf.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5429111959729707,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                45.89,
+                18.06,
+                36.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

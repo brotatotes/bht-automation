@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:14:58",
+    "verseRef": "John 19:24",
+    "bestBHT": {
+        "bht": "The soldiers, heathen and unfamiliar with Jewish jargon, mock Jesus as a pretender to royalty, while the ecclesiastics inadvertently testify to His trust in God and his identity as the Sufferer in Psalm 22. The soldiers divide His garments, and astonishingly, without knowing the significance, cast lots for His vesture, fulfilling the Scriptures. This scene displays the meticulous fulfillment of a specific prediction, accomplished by unforeseen parties, a truly remarkable addition to the wondrous events surrounding Jesus' crucifixion.",
+        "wordCount": 77,
+        "quoteTokenProportion": 24.56,
+        "qualityScore": 1.854507497361574,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+        "commentatorTierSimilarities": [
+            28.75,
+            32.97,
+            38.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The citation is verbatim from the LXX."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That a prediction so exceedingly specific \u2014 distinguishing one piece of dress from others, and announcing that while those should be parted amongst several, that should be given by lot to one person \u2014 that such a prediction should not only be fulfilled to the letter, but by a party of heathen military, without interference from either the friends or the enemies of the Crucified One, is surely worthy to be ranked among the wonders of this all-wonderful scene.",
+            "We thank you, O ye chief priests, scribes, and elders, for this triple testimony, unconsciously borne by you, to our Christ: first to His habitual trust in God, as a feature in His character so marked and palpable that even ye found upon it your impotent taunt; next, to His identity with the Sufferer of the twenty-second Psalm, whose very words ye unwittingly appropriate, thus serving yourselves heirs to the dark office and impotent malignity of Messiah's enemies; and again, to the true sense of that august title which He took to Himself, 'THE SON OF GOD,' which He rightly interpreted at the very first as a claim to that oneness of nature with Him, and dearness to Him, which a son has to his father.",
+            "While the ecclesiastics deride Him for calling Himself, 'the Christ, the King of Israel, the Chosen, the Son of God,' the soldiers, to whom all such phraseology was mere Jewish jargon, make sport of Him as a pretender to royalty ('KING of the Jews'), an office and dignity which it belonged to them to comprehend."
+        ],
+        "Albert Barnes": [
+            "Let us not rend it - It would then have been useless.",
+            "The outer garment, being composed of several parts - fringes, borders, etc.",
+            "That the scripture ..."
+        ],
+        "Marvin Vincent": [
+            "Vesture [\u03b9\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03bd] . Clothing, collectively. Rev., garments, for iJmatia, is better than raiment, which is collective, while the word is used of the separate pieces of clothing."
+        ],
+        "Philip Schaff": [
+            "Both in the dividing and in the casting of lots the Evangelist sees Scripture fulfilled.",
+            "That the scripture might be fulfilled, They parted my garments among them, and upon my vesture they cast lots.",
+            "The words may either be intended to emphasize the presence of God in the scene, as He made the Roman soldiers fulfil His Scripture; or may simply arise out of the intense interest with which John narrates each particular of these eventful hours."
+        ],
+        "Archibald T. Robertson": [
+            "Let us not rend it. It was too valuable to ruin.",
+            "Cast lots...no example has been found where it means 'cast lots' as here.",
+            "The enemies of the Lord's Anointed treated him as already dead and so cast lots."
+        ],
+        "John Gill": [
+            "The whole psalm is to be understood of the Messiah, not of David, as some do... all which had their literal accomplishment in Jesus.",
+            "The Scriptures are the garments of Christ... these exhibit and show forth Christ in his glory... though it may be played with, betrayed, sold, or denied, it cannot be destroyed, but is, and will be preserved by divine providence.",
+            "The righteousness of Christ may be signified by this robe, which is often compared to one, because it is put on the saints, and they are clothed with it... it covers, keeps warm, protects, beautifies, and adorns them; this is seamless, and all of a piece, and has nothing of men's works and services tacked unto it."
+        ],
+        "John Wesley": [
+            "No circumstance of David's life bore any resemblance to this, or to several other passages in the 22nd Psalm.",
+            "In this scripture, as in some others, the prophet seems to have been thrown into a preternatural ecstasy.",
+            "He spoke barely what the Spirit dictated, without any regard to himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse mentions the soldiers dividing the garments of Jesus and casting lots for His vesture. The fulfillment of this prediction is seen as remarkable, particularly because it was carried out by heathen soldiers without any interference. The chief priests, scribes, and elders unintentionally provide a triple testimony to Jesus -- acknowledging His trust in God, associating Him with the sufferer in Psalm 22, and confirming the title Son of God as a claim of oneness of nature with God. While the ecclesiastics mocked Him as the King of the Jews, the soldiers ridiculed Him as a pretender to royalty. The term vesture refers to Jesus' clothing, which they did not tear apart to preserve its value. The soldiers casting lots for His vesture, or garments, is a unique event. The commentators highlight the fulfillment of Scripture in these events, emphasizing the presence of God or the intense interest in the details. Overall, this scene serves as a testament to the prophecy being fulfilled and the divinity of Jesus.",
+            "wordCount": 167,
+            "quoteTokenProportion": 29.59,
+            "qualityScore": 1.7709879454998019,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                30.29,
+                32.67,
+                37.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the soldiers divide Jesus' garments and cast lots for His vesture, the scene unfolds in accordance with specific predictions from the Scriptures. This fulfillment is extraordinary, considering it is orchestrated by heathen soldiers without intervention. The ecclesiastics unintentionally provide evidence of Jesus' trust in God and His identity with the suffering depicted in Psalm 22. Meanwhile, the soldiers mockingly regard Jesus' claim to royalty as the King of the Jews. Remarkably, Jesus' vesture remains intact, showcasing its value, while the soldiers cast lots for His garments, fulfilling prophecy. This event exemplifies the divine fulfillment of Scripture and reinforces Jesus' divine nature.",
+            "wordCount": 101,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.7006290127953831,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                26.85,
+                33.12,
+                40.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers, heathen and unfamiliar with Jewish jargon, mock Jesus as a pretender to royalty, while the ecclesiastics inadvertently testify to His trust in God and his identity as the Sufferer in Psalm 22. The soldiers divide His garments, and astonishingly, without knowing the significance, cast lots for His vesture, fulfilling the Scriptures. This scene displays the meticulous fulfillment of a specific prediction, accomplished by unforeseen parties, a truly remarkable addition to the wondrous events surrounding Jesus' crucifixion.",
+            "wordCount": 77,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.854507497361574,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                28.75,
+                32.97,
+                38.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this awe-inspiring scene, heathen soldiers fulfill the prophecy in remarkable specificity, parting Jesus' garments and casting lots for His vesture. Their ignorance of Jewish customs allows them to mockingly treat Jesus as a pretender to royalty, while unknowingly validating His claim to be the Son of God. The ecclesiastics, on the other hand, unintentionally provide a triple testimony to Jesus' faith in God, his identity with the Sufferer in Psalm 22, and the true sense of His title as THE SON OF GOD. This event is a wondrous reminder of the fulfillment of Scripture and the divine nature of Jesus.",
+            "wordCount": 101,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.7501714623786242,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "commentatorTierSimilarities": [
+                26.79,
+                30.39,
+                42.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers, ignorant of Jewish jargon, mock Jesus as a pretender king while dividing His garments. Remarkably, they unknowingly fulfill the specific prediction of casting lots for His vesture. The ecclesiastics unintentionally provide a triple testimony, confirming Jesus' trust in God, His association with the Sufferer in Psalm 22, and the significance of His claim as the Son of God. This scene exemplifies the wonders of Jesus' crucifixion, showcasing the meticulous fulfillment of prophecy by unexpected parties.",
+            "wordCount": 76,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.6992183547533408,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.84,
+            "commentatorTierSimilarities": [
+                29.97,
+                30.92,
+                39.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

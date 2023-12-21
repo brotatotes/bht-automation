@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:13:06",
+    "verseRef": "John 16:2",
+    "bestBHT": {
+        "bht": "The disciples of Jesus were warned that they would face persecution and be expelled from the synagogues, experiencing the bitter reality of being killed by those who believed they were serving God. This cruel persecution by religious zealots and bigots offered a distorted view that shedding their blood was an acceptable sacrifice to God. Amidst such injustice, believers should remain steadfast, enduring the reproach of the cross, confident that their cause is approved by God, even if it means enduring excommunication within His Church's disciplined order.",
+        "wordCount": 87,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.9678371666020102,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+        "commentatorTierSimilarities": [
+            18.82,
+            38.56,
+            42.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On putting out of the Synagogue, see ch. ix. 22; xii. 42.",
+            "The word yea introduces a yet more grievous and decisive proof of their nature.",
+            "The Rabbinical books say that 'he who sheds the blood of an infidel is as one offering a sacrifice.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They shall put you out of the synagogue.\" ",
+            "Whosoever killeth you will think that he doeth God service.\" ",
+            "He is offering a service to God."
+        ],
+        "Albert Barnes": [
+            "The people of God have suffered most from those who have been conscientious persecutors.",
+            "Men often suppose, or profess to suppose, that they are rendering God service when they persecute others.",
+            "It is no evidence of piety that a man is full of zeal against those whom he supposes to be heretics."
+        ],
+        "Marvin Vincent": [
+            "They shall excommunicate you, but worse than this, the hour cometh, etc.",
+            "The hour is ordained with that end in view: it comes fraught with the fulfillment of a divine purpose.",
+            "Everyone who bringeth or offereth service."
+        ],
+        "John Calvin": [
+            "We ought not to be dismayed by the perverse judgments of men, but ought to endure boldly the reproach of the cross of Christ, satisfied with this single consideration, that our cause which men unjustly and wickedly condemn, is approved by God.",
+            "The ministers of the Gospel not only are ill treated by the avowed enemies of the faith, but sometimes also endure the greatest reproaches from those who appear to belong to the Church.",
+            "...let us observe that, though the abuse of excommunication was so gross, still it did not effect the destruction of that discipline which God had appointed in his Church from the beginning..."
+        ],
+        "Philip Schaff": [
+            "They shall put you out of the synagogues; yea, an hour cometh that every one that killeth you should think that he offereth service unto God.",
+            "Not merely excommunication but death in every one of its varied forms shall be their portion.",
+            "They shall even be regarded by their murderers as a sacrifice to be offered to God."
+        ],
+        "Archibald T. Robertson": [
+            "They will make you outcasts from the synagogues.",
+            "So blind will he be.",
+            "No persecution is more bitter than when done by religious enthusiasts and bigots."
+        ],
+        "John Gill": [
+            "For this is not to be understood of their being delivered up into the hands of civil magistrates, but of their being murdered by a set of men called 'zealots'...and which was reckoned laudable and praiseworthy.\" ",
+            "these men were accounted good men...and thought...that they 'did God service.'",
+            "whoever sheds the blood of wicked men... 'it is all one as if he offered a sacrifice'... they looked upon this to be a sacrifice acceptable and well pleasing to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 16:2, Jesus warns his disciples that they will face persecution and be expelled from the synagogues. This persecution will not only involve being excommunicated, but it will also escalate to the point where their lives will be taken by those who believe they are doing God's service. The hour of persecution is ordained, representing a divine purpose fulfilled through religious zealots and bigots who view their actions as sacrifices to God. This is a bitter form of persecution, as the perpetrators consider themselves righteous and the killing of the disciples as an acceptable and pleasing sacrifice to God. In the face of such perverse judgment, believers should remain steadfast, enduring the reproach of the cross and finding solace in the approval of God. Despite the abuse of excommunication, this discipline remains an essential part of God's Church.",
+            "wordCount": 140,
+            "quoteTokenProportion": 37.36,
+            "qualityScore": 1.9026332354876634,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "commentatorTierSimilarities": [
+                20.91,
+                38.11,
+                40.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of persecution, Jesus warns his disciples that they will be expelled from the synagogues and even face death. Persecutors, believing they are serving God, will consider the killing of the disciples as an act of sacrifice to God. This form of persecution is particularly bitter, as it is perpetrated by religious zealots and bigots. Despite these perverse judgments, believers should remain steadfast, enduring the reproach of the cross, knowing that their cause is approved by God and that the discipline of excommunication remains integral to God's Church.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9039694987945293,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                21.11,
+                39.06,
+                39.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples of Jesus were forewarned by Him that they would face persecution, including expulsion from the synagogues and even death. What makes this persecution particularly bitter is the fact that the persecutors believe they are offering a sacrifice to God by killing them. This twisted mindset of religious zealots and bigots reflects the blindness and erroneous judgment they possess. Nonetheless, despite the unjust treatment and abuse, believers should stand firm, enduring the reproach of the cross, and finding solace in the knowledge that their cause is approved by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8577938619273713,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                20.81,
+                38.91,
+                40.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples of Jesus were warned that they would face persecution and be expelled from the synagogues, experiencing the bitter reality of being killed by those who believed they were serving God. This cruel persecution by religious zealots and bigots offered a distorted view that shedding their blood was an acceptable sacrifice to God. Amidst such injustice, believers should remain steadfast, enduring the reproach of the cross, confident that their cause is approved by God, even if it means enduring excommunication within His Church's disciplined order.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9678371666020102,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                18.82,
+                38.56,
+                42.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus warned his disciples that they would face persecution, leading to their expulsion from the synagogues and even death. Persecutors, believing they were offering a sacrifice to God, considered the disciples as outcasts and murderers justified in their actions. This form of extreme persecution by religious zealots and bigots was fueled by a distorted sense of righteousness. Despite these twisted judgments, believers should remain steadfast, embracing the reproach of the cross, finding solace in God's approval, and recognizing the importance of discipline within the Church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.776611128677565,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                18.39,
+                38.25,
+                43.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

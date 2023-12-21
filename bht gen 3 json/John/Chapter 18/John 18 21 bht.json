@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:14:05",
+    "verseRef": "John 18:21",
+    "bestBHT": {
+        "bht": "Standing before the high priest, Jesus refuses to self-incriminate, instead demanding to be accused by competent witnesses. He highlights the attempt to draw Him into self-crimination and asserts the right of every accused party to have charges brought against them properly. Jesus challenges the high priest to consult those who have heard Him, pointing to the abundance of witnesses available. This response reveals the disbelief and unwillingness of His enemies to accept the truth, and Jesus stands firm, seeking fair and incontrovertible evidence.",
+        "wordCount": 85,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.8284564212877936,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+        "commentatorTierSimilarities": [
+            34.81,
+            43.04,
+            22.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Behold, THESE know. Our Lord appeals to persons there present in court, pointing at or otherwise designating them.\" ",
+            "The word 'they' in the A.V., makes it appear as if He meant 'those which heard Me.'\" ",
+            "The 'officers' mentioned in ch. vii. 46 may have been present: see next verse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why askest thou me? ask them which heard me . . . they know what I . . . said\u2014This seems to imply that He saw the attempt to draw Him into self-crimination, and resented it by falling back upon the right of every accused party to have some charge laid against Him by competent witnesses.",
+            "He saw the attempt to draw Him into self-crimination, and resented it by falling back upon the right of every accused party to have some charge laid against Him by competent witnesses.",
+            "He resented it by falling back upon the right of every accused party to have some charge laid against Him by competent witnesses."
+        ],
+        "Albert Barnes": [
+            "Jesus here insisted on his rights and reproves the high priest for his unjust and illegal manner of extorting a confession from him.",
+            "If he had done wrong, or taught erroneous and seditious doctrines, it was easy to prove it.",
+            "The course which he had a right to demand was that they should establish the charge by fair and incontrovertible evidence."
+        ],
+        "Archibald T. Robertson": [
+            "Ask them that have heard me.\" ",
+            "There were abundant witnesses to be had.\" ",
+            "The Sanhedrin were routed to the joy of the common people who heard Jesus gladly."
+        ],
+        "John Gill": [
+            "He seems surprised at the high priest's conduct, that he should put such questions to him, who stood bound before him; was brought there as a criminal, and was the defendant, and not obliged to accuse himself.",
+            "[Jesus] even submits to have his case issued and determined by what his hearers should say of him; and these not his friends, but his enemies.",
+            "Behold, they, or these, know what I have said; pointing at some persons present, perhaps the very officers who had been sent to take him before, but returned without him, declaring that never man spake like him."
+        ],
+        "John Wesley": [
+            "Why askest thou me \u2014 Whom thou wilt not believe?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus confronts the high priest and challenges the unjust manner in which he is being questioned. Rather than incriminate Himself, Jesus asserts His right to be accused by competent witnesses. He recognizes the attempt to draw Him into self-incrimination and refuses to play along. Instead, Jesus points to the crowd and asks them to testify, knowing that there were plenty of witnesses who had heard His teachings. This surprising response causes confusion and frustration among His enemies, highlighting their disbelief and unwillingness to accept the truth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7206452371451681,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                31.39,
+                43.72,
+                24.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, standing before the high priest as a defendant, refuses to self-incriminate. He rightly demands that competent witnesses accuse Him, disregarding the unjust and illegal manner in which He is being questioned. Instead, Jesus points to the people present who had heard His teachings, challenging them to testify to the truth. His response exposes the disbelief and unwillingness of His enemies to accept Him as they attempt to draw Him into acknowledging false charges against Himself.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.8140410791240145,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.66,
+            "commentatorTierSimilarities": [
+                30.24,
+                43.66,
+                26.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, standing before the high priest as a defendant, resents the attempt to draw Him into self-crimination. He falls back on the right of every accused party to have charges brought against them by competent witnesses. Rather than incriminate Himself, Jesus challenges the high priest to seek testimony from those who have heard Him. His response exposes the disbelief and unwillingness of His enemies to accept the truth. Jesus stands firm, demanding fair and incontrovertible evidence instead of succumbing to unjust tactics.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7246163748659393,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                32.74,
+                44.48,
+                22.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus faces the high priest, He resents being drawn into self-incrimination. Instead, He asserts His right to have charges brought against Him by competent witnesses. Jesus challenges the high priest to ask those who have heard Him, pointing out that there were ample witnesses available. This refusal to incriminate Himself exposes the disbelief and unwillingness of His enemies to accept His teachings. Jesus firmly stands his ground, demanding fair and incontrovertible evidence instead of playing along with unjust tactics.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7307316867523643,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.89,
+            "commentatorTierSimilarities": [
+                31.26,
+                46.09,
+                22.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Standing before the high priest, Jesus refuses to self-incriminate, instead demanding to be accused by competent witnesses. He highlights the attempt to draw Him into self-crimination and asserts the right of every accused party to have charges brought against them properly. Jesus challenges the high priest to consult those who have heard Him, pointing to the abundance of witnesses available. This response reveals the disbelief and unwillingness of His enemies to accept the truth, and Jesus stands firm, seeking fair and incontrovertible evidence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8284564212877936,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                34.81,
+                43.04,
+                22.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

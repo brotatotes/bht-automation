@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:14:59",
+    "verseRef": "John 19:25",
+    "bestBHT": {
+        "bht": "At the cross, Jesus' mother and his mother's sister, who may be Salome, along with Mary the wife of Cleophas and Mary Magdalene, stood as witnesses. Though there is uncertainty about the identity of Mary, whether she is the mother of James and Joses or someone else, the devotion and love shown by these women inspire us. They serve as a reminder to fix our gaze upon the crucified Christ, reflecting on his sorrows and the weight of our sins upon him. Let us respond with heartfelt tears of affection, humility, and joy for our crucified Savior.",
+        "wordCount": 98,
+        "quoteTokenProportion": 44.29,
+        "qualityScore": 1.5887891229223754,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.17,
+        "commentatorTierSimilarities": [
+            27.19,
+            23.62,
+            49.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We may well believe that his mother\u2019s sister here represents Salome.",
+            "Four women are designated by this description.",
+            "This Mary was wife of Klopas, the mother of James the Less and Joses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Now there stood by the cross of Jesus his mother, and his mother's sister, Mary, wife of Cleophas.\" ",
+            "This should be read, as in the Margin, 'Clopas,' the same as 'Alpheus'.",
+            "The 'Cleopas' of [Luke 24:18] was a different person."
+        ],
+        "Marvin Vincent": [
+            "There stood. Imperfect tense, were standing. ",
+            "Mary Magdalene. Strictly, the [\u03b7] Magdalene. She is introduced abruptly, as well known."
+        ],
+        "John Calvin": [
+            "True, he forgot himself, and he forgot every thing, so far as was necessary for the discharge of obedience to his Father, but, after having performed that duty, he did not neglect what he owed to his mother.\" ",
+            "We must, therefore, give the preference to the command, the worship, and the service of God; after which, as far as we are able, we must give to men what is their due.",
+            "Such is the import of the following statements: He who loveth father or mother more than me, is not worthy of me, and, If any one hate not his father, and mother, and wife, and children, and brethren, and sisters, he cannot be my disciple."
+        ],
+        "Philip Schaff": [
+            "If the third of the women here mentioned be the same as the second, we shall have two sisters of the same name in one family; for \u2018sister\u2019 cannot mean cousin.",
+            "The high improbability of this leads to the supposition that we have here four women, in two groups of two each.",
+            "This view is confirmed by the fact that the lists of apostles are in like manner given us in groups of two, and by what does not seem to have been urged as an argument upon the point, that the four women seem designedly placed in contrast with the four soldiers."
+        ],
+        "Archibald T. Robertson": [
+            "Vivid contrast this to the rude gambling of the soldiers.",
+            "John alone mentions the mother of Jesus in the group.",
+            "The point cannot be settled with our present knowledge."
+        ],
+        "John Gill": [
+            "though she herself was exposed to danger, and liable to be abused by the outrageous multitude; and it also showed that she stood in need, as others, of a crucified Saviour;",
+            "These good women standing by the cross of Christ, may teach us to do, as they did, look upon a crucified Christ, view his sorrows, and his sufferings, and our sins laid upon him, and borne and taken away by him;",
+            "we should also weep, as they did, whilst we look on him; shed even tears of affection for, and sympathy with him; of humiliation for sin, and of joy for a Saviour;"
+        ],
+        "John Wesley": [
+            "She was her father's heir, and as such transmitted the right of the kingdom of David to Jesus.",
+            "Mary, the wife of Cleopas - Called likewise Alpheus, the father.",
+            "Mary was the mother of James, and Joses, and Simon, and Judas."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the cross where Jesus was crucified, there stood by him his mother Mary, his mother's sister Salome, Mary the wife of Cleophas, and Mary Magdalene. Salome is understood to be the sister of Jesus' mother, and Mary the wife of Cleophas is believed to be another sister. These women witness the crucifixion and are present when Jesus breathes his last. The presence of Mary, the mother of Jesus, in this group is mentioned only by John. We are not certain if this Mary is the same as the mother of James and Joses or a different person, as the information is not clear. Despite the uncertainty, the devotion and love shown by these women at the cross serve as an example to us. They do not turn away but stand witness to the suffering of Jesus. We can learn from them to look upon a crucified Christ, reflect on his sorrows and sufferings, and the weight of our sins laid upon him. May we also respond with genuine tears of affection, humility, and joy for our crucified Savior.",
+            "wordCount": 180,
+            "quoteTokenProportion": 43.0,
+            "qualityScore": 1.6994548634838018,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+            "commentatorTierSimilarities": [
+                30.8,
+                28.65,
+                40.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the cross, Jesus' mother, his mother's sister (possibly Salome), Mary the wife of Cleophas, and Mary Magdalene stood as witnesses to his crucifixion. The presence of Jesus' mother, Mary, is specifically mentioned only by John. Though there is uncertainty regarding the identification of Mary, whether she is the mother of James and Joses or a different individual, her presence along with the other women demonstrates their devotion and love. Their example encourages us to behold the crucified Christ, meditate on his sorrows and our sins borne by him, and respond with heartfelt tears of affection, humility, and joy for our Savior.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.7247107840863871,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                31.5,
+                23.64,
+                44.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the cross, Jesus' mother and his mother's sister, who may be Salome, along with Mary the wife of Cleophas and Mary Magdalene, stood as witnesses. Though there is uncertainty about the identity of Mary, whether she is the mother of James and Joses or someone else, the devotion and love shown by these women inspire us. They serve as a reminder to fix our gaze upon the crucified Christ, reflecting on his sorrows and the weight of our sins upon him. Let us respond with heartfelt tears of affection, humility, and joy for our crucified Savior.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.5887891229223754,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.17,
+            "commentatorTierSimilarities": [
+                27.19,
+                23.62,
+                49.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the cross endured by Jesus, his mother and his mother's sister, potentially identified as Salome, stood alongside Mary, the wife of Cleophas, and Mary Magdalene. Although there is uncertainty about the exact identity of Mary, whether she is the mother of James and Joses or someone else, the loyalty and love demonstrated by these women serve as a powerful example. They prompt us to fix our eyes on the crucified Christ, contemplating his sorrows and the weight of our sins borne by him. May we respond with heartfelt tears of affection, humility, and gratitude for our crucified Savior.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.569760493995084,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                27.57,
+                22.54,
+                49.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the cross, Jesus' mother and his mother's sister, potentially Salome, stood alongside Mary, the wife of Cleophas, and Mary Magdalene. The exact identity of Mary remains uncertain, whether she is the mother of James and Joses or someone else. Nevertheless, the devoted love displayed by these women inspires us. They encourage us to fix our gaze on the crucified Christ, to ponder his sorrows and the weight of our sins laid upon him. Let us respond with heartfelt tears of affection, humility, and joy for our crucified Savior.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5290478619108339,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                28.82,
+                26.43,
+                44.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

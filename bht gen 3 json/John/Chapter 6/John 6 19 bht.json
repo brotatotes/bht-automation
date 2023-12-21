@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:06:51",
+    "verseRef": "John 6:19",
+    "bestBHT": {
+        "bht": "There can be no doubt about the intention of the author to relate a miracle. The disciples were afraid, taking Jesus, initially mistaken for a spirit, into the ship. How often do we miscall our chiefest mercies, thinking them distant when they are near, or thinking the best the worst? They rowed for a little over halfway across the sea before they beheld Jesus slipping closer and closer to them on the water. Upon His reassurance, their fear turned to joy and peace.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 1.5395370169837568,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+        "commentatorTierSimilarities": [
+            38.49,
+            28.81,
+            32.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There surely can be no question in the mind of an unprejudiced reader, that it is John\u2019s intention to relate a miracle.\" ",
+            "There could be in the minds of the disciples no doubt about that miracle,\u2014no chance of a mistake as to what they saw.\" ",
+            "They were afraid:\u2014but upon being reassured by His voice, they were willing to take Him into the ship [...] the ship in a comparatively short time was at the land."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "lo! this is here done in flesh, by 'THE SON OF MAN.'\" ",
+            "He would appear to them at first like a dark moving speck upon the waters; then as a human figure, but\u2014in the dark tempestuous sky, and not dreaming that it could be their Lord\u2014they take it for a spirit.",
+            "How often thus we miscall our chiefest mercies\u2014not only thinking them distant when they are near, but thinking the best the worst!"
+        ],
+        "Marvin Vincent": [
+            "Had rowed [\u03b5\u03bb\u03b7\u03bb\u03b1\u03ba\u03bf\u03c4\u03b5\u03c2] . Literally, had driven or propelled (the boat).\" ",
+            "Five and twenty, etc. The lake being about forty furlongs, six miles, at its broadest, they had gone only a little more than half - way.",
+            "They see [\u03b8\u03b5\u03c9\u03c1\u03bf\u03c5\u03c3\u03b9] . Rev., behold; with an intent gaze."
+        ],
+        "John Calvin": [
+            "It is impossible not to be seized with consternation and dread when an apparition is presented before our eyes; for we conclude that it is either some imposture of Satan, or some bad omen which God sends us.\" ",
+            "John here holds out to us, as in a mirror, what kind of knowledge of Christ we may obtain without the word, and what advantage may be reaped from that knowledge.",
+            "After we have thus wandered in our understanding, this is immediately followed by trembling and a confused terror of heart. But when he begins to speak, we then obtain from his voice clear and solid knowledge, and then also joy and delightful peace dawn upon our minds."
+        ],
+        "Philip Schaff": [
+            "The agreement between the two narratives is clearly \u2018undesigned,\u2019 and therefore the more interesting.",
+            "When Jesus drew near to the boat, it was the \u2018fourth watch\u2019 (Matthew 14:25), and therefore the darkest part of the night; some eight or nine hours had passed since they left Him with the multitude.",
+            "They knew not that it was He, and were terrified."
+        ],
+        "Archibald T. Robertson": [
+            "Furlongs (\u03c3\u03c4\u03b1\u03b4\u03b9\u03bf\u03c5\u03c2). Stadia, accusative of extent of space, a little over halfway across, 'in the midst of the sea' (Mark 6:47). It was about forty stadia (six miles) across.",
+            "They behold (\u03b8\u03b5\u03c9\u03c1\u03bf\u03c5\u03c3\u03b9\u03bd). Graphic dramatic present active indicative of \u03b8\u03b5\u03c9\u03c1\u03b5\u03c9, vividly preserving the emotions of the disciples.",
+            "They behold Jesus slipping closer and closer to them on the water."
+        ],
+        "John Gill": [
+            "They saw Jesus walking on the sea...",
+            "And drawing nigh unto the ship...",
+            "And they were afraid."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, already frightened by the tempestuous sea, mistook Jesus walking on the water for a spirit. How often do we miscall our greatest blessings, thinking them distant when they are near, or even thinking the best is the worst? But when Jesus spoke, their fears were reassured and they willingly took Him into the ship. In that moment, they received not only clear and solid knowledge from His voice, but also joy and delightful peace.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.4996635974128227,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.21,
+            "commentatorTierSimilarities": [
+                33.0,
+                28.91,
+                38.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There can be no doubt that John intended to relate a miracle, as the disciples were terrified by what they saw: Jesus walking on water, initially mistaken for a spirit. How often do we misjudge our greatest blessings, viewing them as distant or even mistaking them for something negative? The disciples' fear turned to reassurance when Jesus spoke, and they willingly took Him into the ship. From His voice, they gained not only clear knowledge but also joy and peace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5768286092328636,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                32.73,
+                30.06,
+                37.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "There can be no doubt about the intention of the author to relate a miracle. The disciples were afraid, taking Jesus, initially mistaken for a spirit, into the ship. How often do we miscall our chiefest mercies, thinking them distant when they are near, or thinking the best the worst? They rowed for a little over halfway across the sea before they beheld Jesus slipping closer and closer to them on the water. Upon His reassurance, their fear turned to joy and peace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.5395370169837568,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+            "commentatorTierSimilarities": [
+                38.49,
+                28.81,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There can be no doubt that John intended to relate a miracle. The disciples were afraid, mistaking Jesus for a spirit in the midst of the tempestuous sea. How often do we miscall our chiefest mercies, thinking them distant when they are near, or thinking the best the worst? They rowed for a little over halfway across the sea before they beheld Jesus slipping closer and closer to them on the water. Upon His reassurance, their fear turned to joy and peace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.5432603714934272,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.66,
+            "commentatorTierSimilarities": [
+                38.72,
+                29.2,
+                32.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's intention was to share a miracle displayed by Jesus - walking on water. Initially, the disciples were filled with fear, mistaking Jesus for a spirit in the midst of the stormy sea. It is common for us to misunderstand our greatest blessings, considering them distant or even deeming the best as the worst. However, when Jesus spoke, their fears were calmed, and they willingly brought Him into the ship. His voice provided clarity, knowledge, and a comforting peace.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5419619688515023,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.61,
+            "commentatorTierSimilarities": [
+                32.98,
+                31.74,
+                35.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

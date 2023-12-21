@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:04:30",
+    "verseRef": "John 2:16",
+    "bestBHT": {
+        "bht": "By openly announcing His Messiahship and referring to the temple as my Father's house, Jesus asserts His authority as the Son of God. The act of driving out the merchants and denouncing the commercialization of the temple expresses His deep concern for the sacredness of the house of God, which had been defiled by the people who had made it a market-place. Jesus's words and actions symbolize His mission to purify and restore proper worship, calling for reverence and the exclusion of anything that defiles God's dwelling place.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.8264385557804212,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+        "commentatorTierSimilarities": [
+            29.88,
+            30.25,
+            39.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By this expression thus publicly used, our Lord openly announces His Messiahship.",
+            "Nathanael had named Him \u2018the Son of God\u2019 with this meaning\u2014see on ch. i. 50,\u2014and these words, coupled with the expectation which the confession of John the Baptist would arouse, could leave no doubt on the minds of the Jews as to their import.",
+            "An house of merchandise, not yet as at the end of His ministry."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "my Father's house\u2014How close the resemblance of these remarkable words to...the symbol of all that is due to Him on earth\u2014dictating both speeches.\" ",
+            "Only, when but a youth, with no authority, He was simply 'a SON IN His own house'; now He was 'a SON OVER His own house', the proper Representative, and in flesh 'the Heir,' of his Father's rights.",
+            "There was nothing wrong in the merchandise; but to bring it, for their own and others' convenience, into that most sacred place, was a high-handed profanation which the eye of Jesus could not endure."
+        ],
+        "Marvin Vincent": [
+            "The people had made God's house their own.",
+            "The Synoptists say a den of robbers.",
+            "Merchandise. Only here in the New Testament."
+        ],
+        "John Calvin": [
+            "Make not my Father's house a house of merchandise.",
+            "He may bring back to its original purity the worship of God, which had been corrupted by the wickedness of men, and in this way may restore and maintain the holiness of the Temple.",
+            "We ought always, therefore, to keep before our eyes the majesty of God, which dwells in the Church, that it may not be defiled by any pollutions; and the only way in which its holiness can remain unimpaired is, that nothing shall be admitted into it that is at variance with the word of God."
+        ],
+        "Philip Schaff": [
+            "Make not my Father\u2019s house an house of merchandise.",
+            "He offers Himself to Israel as the Son of God.",
+            "Those who, yielding to the impulse of right, and listening to the voice of conscience, accepted the act, would be led to ponder the words."
+        ],
+        "Archibald T. Robertson": [
+            "Take these things hence...Probably the doves were in baskets or cages and so had to be taken out by the traders.",
+            "Make not my Father's house a house of merchandise...They had made it a market-house.",
+            "Note the clear-cut Messianic claim here (My Father as in Luke 2:49)."
+        ],
+        "John Gill": [
+            "Make not my Father's house an house of merchandise.",
+            "He asserts God, whose house this was, to be his Father, and himself to be his son.",
+            "A like action with this, done by Christ at another time, is recorded in Matthew 21:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By openly announcing His Messiahship, Jesus uses the expression my Father's house to convey His close connection to God. The act of driving out the merchants and overturning their tables expresses His deep concern for the sacredness of the temple, which had been corrupted by the people who had made it a market-house. Jesus's words and actions assert His authority as the Son of God and symbolize His mission to purify and restore proper worship. Through this act, Jesus calls for reverence and the exclusion of anything that defiles the holiness of God's dwelling place.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.719515310443109,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                30.88,
+                28.67,
+                40.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By openly announcing His Messiahship and referring to the temple as my Father's house, Jesus asserts His authority as the Son of God. The act of driving out the merchants and denouncing the commercialization of the temple expresses His deep concern for the sacredness of the house of God, which had been defiled by the people who had made it a market-place. Jesus's words and actions symbolize His mission to purify and restore proper worship, calling for reverence and the exclusion of anything that defiles God's dwelling place.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8264385557804212,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                29.88,
+                30.25,
+                39.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By openly announcing His Messiahship and referring to the temple as my Father's house, Jesus asserts His authority as the Son of God. The act of driving out the merchants and denouncing the commercialization of the temple expresses His deep concern for the sacredness of the house of God, which had been defiled by the people who had made it a market-place. Jesus's words and actions symbolize His mission to purify and restore proper worship, calling for reverence and the exclusion of anything that defiles God's dwelling place.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8264385557804212,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                29.88,
+                30.25,
+                39.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus openly proclaims His Messiahship by referring to the temple as my Father's house, asserting His authority as the Son of God. His actions of driving out the merchants and rebuking the commercialization of the temple demonstrate His deep concern for its sanctity, which had been compromised by those who turned it into a market. Jesus's words and deeds embody His mission to purify and restore true worship, emphasizing the importance of reverence and the exclusion of anything that defiles the holy dwelling place of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7378461743272244,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+            "commentatorTierSimilarities": [
+                29.62,
+                31.55,
+                38.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus openly declares His Messiahship by referring to the temple as my Father's house, solidifying His connection to God. His expulsion of the merchants and condemnation of the marketplace within the sacred space demonstrate His strong disapproval of the desecration taking place. Jesus's actions and words serve as a symbol of His mission to cleanse and restore proper worship, urging the exclusion of anything that defiles God's dwelling place and the preservation of its sanctity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7235348605802425,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                29.16,
+                30.85,
+                39.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

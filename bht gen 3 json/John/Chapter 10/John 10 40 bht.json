@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:03",
+    "verseRef": "John 10:40",
+    "bestBHT": {
+        "bht": "Jesus retreated to the region called Peroea, where John had first baptized beyond the Jordan River. This retreat was not for personal comfort, but to continue preaching, working miracles, and bringing souls to believe in Him. His time in this place served as the foundation for His later ministry, affirming the significance of John's testimony. It reminds us to seize opportunities and fulfill our mission, just as Jesus did in this secluded location.",
+        "wordCount": 74,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.97350740198369,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.96,
+        "commentatorTierSimilarities": [
+            24.51,
+            34.71,
+            40.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "40.] On Bethany beyond Jor-dan, see ch. i. 28 and note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "40-42. went away again beyond Jordan",
+            "\t. . . the place where John at first baptized\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "Where John at first baptized - At Bethabara, or Bethany, John 1:28."
+        ],
+        "Marvin Vincent": [
+            "Beyond Jordan (peran tou Iordanou). Into the region called Peroea, from peran, beyond.",
+            "It was on the east side of the river, and was the ancient possession of Gad and Reuben.",
+            "It corresponds, in an enlarged sense, to the region round about Jordan (Matthew 3:5; Luke 3:3)."
+        ],
+        "John Calvin": [
+            "Christ passed beyond Jordan, that he might not have to fight continually without any advantage.",
+            "He has therefore taught us, by his example, that we ought to avail ourselves of opportunities, when they occur.",
+            "As to the place of his retreat, the reader may consult the observations which I have made at Chapter 1, verse 28."
+        ],
+        "Philip Schaff": [
+            "He gathers together the whole ministry of Jesus up to this time under one point of view.",
+            "By mentioning the association of the place and not the name of the place itself, [the Evangelist] leads his readers to survey with him all the period of the ministry of Him to whom John bore witness.",
+            "Whatever Jesus had since done or said ratified the witness borne by the Baptist."
+        ],
+        "Archibald T. Robertson": [
+            "Again (\u03c0\u03b1\u03bb\u03b9\u03bd). Referring to John 1:28 (Bethany beyond Jordan).\" ",
+            "Here the identical language of John 1:28 is used with the mere addition of \u03c4\u03bf \u03c0\u03c1\u03c9\u03c4\u03bf\u03bd (\u03bf\u03c0\u03bf\u03c5 \u03b7\u03bd \u0399\u03c9\u03b1\u03bd\u03b7\u03c2 \u03b2\u03b1\u03c0\u03c4\u03b9\u03b6\u03c9\u03bd, 'where John was baptizing').",
+            "Probably from here Jesus carried on the first part of the later Perean Ministry (Luke 13:22-16) before the visit to Bethany at the raising of Lazarus (John 11:1-44)."
+        ],
+        "John Gill": [
+            "And went away again beyond Jordan... not merely for the security of his person, much less to indulge himself in ease, but to preach the Gospel, work miracles, and bring many souls to believe on him.\" ",
+            "and he went into the place where John at first baptized... and was the place where Christ himself was baptized, and where John bore such a testimony of him.\" ",
+            "and there he abode... till he went to Bethany, on account of raising Lazarus from the dead."
+        ],
+        "John Wesley": [
+            "To the desert place where John baptized, and gave so honourable a testimony of him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went away again beyond Jordan to the region called Peroea, where John had first baptized. This place, on the east side of the river, held significance as the ancient possession of Gad and Reuben. Jesus retreated here not for personal comfort, but to continue preaching the Gospel, working miracles, and bringing many souls to believe in Him. His ministry in this area, marked by the same language used in John 1:28, served as the foundation for the later Perean Ministry. By returning to the location where John gave such a honorable testimony of Him, Jesus confirmed the validity of the Baptist's witness. His retreat beyond Jordan teaches us the importance of seizing opportunities to fulfill our purpose and make a meaningful impact.",
+            "wordCount": 123,
+            "quoteTokenProportion": 34.12,
+            "qualityScore": 2.0135667433552467,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+            "commentatorTierSimilarities": [
+                27.92,
+                36.55,
+                35.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus went beyond Jordan to the region called Peroea, the ancient possession of Gad and Reuben, where John had first baptized. This retreat wasn't for His own comfort but to continue preaching the Gospel, performing miracles, and inspiring belief in Him. His ministry in this area laid the groundwork for future endeavors, reinforcing the validity of the Baptist's testimony. Jesus exemplifies the importance of seizing opportunities as He taught us in His retreat beyond Jordan.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.9509722062008925,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                25.79,
+                34.37,
+                39.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus went away again beyond Jordan to the region called Peroea, the ancient possession of Gad and Reuben. This retreat wasn't for personal ease, but to preach the Gospel, work miracles, and bring many souls to believe in Him. By returning to the place where John had first baptized, Jesus confirmed the validity of the Baptist's witness. His example teaches us to seize opportunities when they arise and fulfill our purpose.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.887631317500511,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.11,
+            "commentatorTierSimilarities": [
+                23.77,
+                36.42,
+                39.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus retreated to the region called Peroea, beyond the Jordan River in the place where John had first baptized. His purpose was not personal comfort, but rather to continue preaching the Gospel, performing miracles, and bringing many souls to believe in Him. This retreat served as a foundation for the later Perean Ministry, affirming the significance of the Baptist's testimony. It is a reminder for us to seize opportunities and make the most of our circumstances in fulfilling our mission.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.765772412042717,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                22.4,
+                34.77,
+                42.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus retreated to the region called Peroea, where John had first baptized beyond the Jordan River. This retreat was not for personal comfort, but to continue preaching, working miracles, and bringing souls to believe in Him. His time in this place served as the foundation for His later ministry, affirming the significance of John's testimony. It reminds us to seize opportunities and fulfill our mission, just as Jesus did in this secluded location.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.97350740198369,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.96,
+            "commentatorTierSimilarities": [
+                24.51,
+                34.71,
+                40.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

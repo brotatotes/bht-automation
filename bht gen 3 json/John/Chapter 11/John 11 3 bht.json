@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:10:10",
+    "verseRef": "John 11:3",
+    "bestBHT": {
+        "bht": "The message delivered to Jesus was a heartfelt plea for His help, recognizing the known affection and love He had for Lazarus. It was a request for healing, acknowledging that even those loved by Christ are not exempt from earthly trials and suffering. This shows the importance of friendships tempered with the spirit of Christ and the need to implore Jesus in times of distress. Their confidence in His love and power is evident in the absence of a specific request, highlighting the trust they had in Him.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.0652518760226872,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+        "commentatorTierSimilarities": [
+            29.07,
+            41.23,
+            29.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] The message (see vv. 21, 32) evidently was to request the Lord to come and heal him: and implies that the sickness was of a dangerous kind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Those whom Christ loves are no more exempt than others from their share of earthly trouble and anguish: rather are they bound over to it more surely\" [TRENCH].",
+            "A most womanly appeal, yet how reverential, to the known affection of her Lord for the patient\" [Commentary].",
+            "Those whom Christ loves are no more exempt than others from their share of earthly trouble and anguish\" [TRENCH]."
+        ],
+        "Albert Barnes": [
+            "This shows that special attachments are lawful for Christians, and that those friendships are especially lovely which are tempered and sweetened with the spirit of Christ.",
+            "Friendships should always be cemented by religion, and one main end of those attachments should be to aid one another in the great business of preparing to die.",
+            "In sickness we should implore the aid and presence of Jesus. He only can restore us and our friends; he only can perform for us the office of a friend when all other friends fail; and he only can cheer us with the hope of a blessed resurrection."
+        ],
+        "Marvin Vincent": [
+            "Thou lovest [\u03c6\u03b9\u03bb\u03b5\u03b9\u03c2] . See on 5 20. \"They do not say, come. He who loves needs but know\" (Bengel)."
+        ],
+        "John Calvin": [
+            "We are not forbidden, indeed, to use a longer form of prayer; but our principal object ought to be, to pour into the bosom of God all our cares, and every thing that distresses us, that he may afford deliverance.",
+            "They plainly tell him their distress, in consequence of which they expect some alleviation.",
+            "Where the love of God is, there deliverance is certain and at hand, because God cannot forsake him whom he loveth."
+        ],
+        "Philip Schaff": [
+            "Their confidence in the love and in the power of Jesus is shown by the absence of any request: the message is a tender and delicate expression of their need.",
+            "The message is a tender and delicate expression of their need.",
+            "With the description of Lazarus compare chap. John 20:2 (where the same verb for \u2018love\u2019 is used), \u2018the disciple whom Jesus loved.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The message was delivered by the messenger.",
+            "\u03a6\u03b9\u03bb\u03b5\u03c9 means to love as a friend and so warmly, while \u03b1\u03b3\u03b1\u03c0\u03b1\u03c9 means high regard.",
+            "Here both terms occur of the love of Jesus for Lazarus. Both occur of the Father's love for the Son. Hence the distinction is not always observed."
+        ],
+        "John Gill": [
+            "For it seems that Lazarus was in a very singular manner loved by Christ, as man, as John the beloved disciple was.",
+            "And it may be further observed, that such who are the peculiar objects of Christ's love, are attended in this life with bodily sickness, disorders, and diseases, which are sent unto them, not in a way of vindictive wrath, but in love, and as fatherly chastisements.",
+            "Which, as they are designed, so they are overruled for their good; and are to be considered, not as instances of wrath, but as tokens of love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The message delivered to Jesus was a heartfelt plea for help, recognizing His known affection for Lazarus and the desperate need for healing. This verse reminds us that even those loved by Christ are not exempt from earthly trials and suffering, but are bound to them more surely. It is a womanly and reverential appeal, showcasing the special attachments that are lawful for Christians and emphasizing the importance of friendships tempered and sweetened with the spirit of Christ. In times of sickness and distress, we should implore the aid and presence of Jesus, who alone can restore and comfort us. The absence of a specific request in this message reflects their confidence in the love and power of Jesus.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 2.1407373329543593,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                28.03,
+                42.98,
+                28.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The message delivered to Jesus was a heartfelt plea for His help, recognizing the known affection and love He had for Lazarus. It was a request for healing, acknowledging that even those loved by Christ are not exempt from earthly trials and suffering. This shows the importance of friendships tempered with the spirit of Christ and the need to implore Jesus in times of distress. Their confidence in His love and power is evident in the absence of a specific request, highlighting the trust they had in Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0652518760226872,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+            "commentatorTierSimilarities": [
+                29.07,
+                41.23,
+                29.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The message to Jesus was a heartfelt appeal for His help, recognizing His affection for Lazarus and the seriousness of his illness. This verse reminds us that even those loved by Christ are not spared from earthly troubles, but are bound to them more surely. It highlights the importance of friendships tempered with the spirit of Christ and the need to seek Jesus in times of distress. The absence of a specific request in the message reflects their confidence in His love and power.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1114563026555286,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+            "commentatorTierSimilarities": [
+                29.07,
+                40.56,
+                30.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The message delivered to Jesus was a heartfelt plea, recognizing His affection for Lazarus and the seriousness of his illness. It reminds us that those loved by Christ are not exempt from earthly troubles and suffering, but are bound to them more surely. This verse emphasizes the importance of friendships tempered with the spirit of Christ and the need to seek Jesus in times of distress. The absence of a specific request in the message showcases their trust in His love and power.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.1215613077563114,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+            "commentatorTierSimilarities": [
+                29.51,
+                40.13,
+                30.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The heartfelt message to Jesus acknowledged His affection for Lazarus and the gravity of his illness. It serves as a reminder that even those loved by Christ are not exempt from earthly trials, but rather bound to them more surely. This plea highlights the significance of friendships infused with the spirit of Christ and the importance of seeking Jesus in times of distress. Their trust in His love and power is evident in the absence of a specific request, demonstrating their unwavering faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9485908574756068,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                27.78,
+                40.16,
+                32.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

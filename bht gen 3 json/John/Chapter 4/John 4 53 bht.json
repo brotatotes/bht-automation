@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:05:56",
+    "verseRef": "John 4:53",
+    "bestBHT": {
+        "bht": "The nobleman and his entire family fully believed in Jesus as the Messiah, becoming disciples with unwavering faith. This belief set them apart from all other beliefs in the world. Upon hearing Jesus's assurance, the nobleman immediately embarked on his journey, spending the night on the way. The father confidently knew that the healing occurred at the same hour Jesus spoke. This powerful miracle not only dispelled doubts but also brought piety and faith to the wealthy and noble. They openly professed their discipleship and actively spread the Christian religion among others.",
+        "wordCount": 93,
+        "quoteTokenProportion": 36.11,
+        "qualityScore": 1.6507255715048226,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+        "commentatorTierSimilarities": [
+            33.79,
+            34.04,
+            32.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word believed, absolutely, implies that in the fullest sense he and all his became disciples of Jesus.",
+            "Believing on HIM must be always different from believing on any thing else in the world.",
+            "The nobleman probably set out, as indeed the narrative implies, immediately on hearing our Lord\u2019s assurance, and spent the night on the way."
+        ],
+        "Albert Barnes": [
+            "This miracle removed all his doubts, and he became a real disciple and friend of Jesus.",
+            "God often takes away earthly blessings that he may impart rich spiritual mercies.",
+            "There is a special charm when piety thus comes into the families of the rich and the noble."
+        ],
+        "John Calvin": [
+            "It must be understood that this man, being a Jew and educated in the doctrine of the Law, had already obtained some taste of faith when he came to Christ.\" ",
+            "But now he began to believe in a different manner; that is, because, embracing the doctrine of Christ, he openly professed to be one of his disciples.",
+            "His whole family joins him, which was an evidence of the miracle; nor can it be doubted that he did his utmost to bring others along with him to embrace the Christian religion."
+        ],
+        "Philip Schaff": [
+            "Believed that is, with a faith increased and confirmed: true faith he had manifested before.",
+            "Many have supposed that this king\u2019s officer may have been Chuza, \u2018Herod\u2019s steward (Luke 8:3), whose wife Joanna was amongst those women who ministered of their substance to the wants of Jesus and His disciples."
+        ],
+        "Archibald T. Robertson": [
+            "So the father knew... Inferential use of \u03bf\u03c5\u03bd.\" ",
+            "Himself believed... complete faith in Jesus himself as the Messiah.\" ",
+            "And his whole house... the first example of a whole family believing in Jesus."
+        ],
+        "John Gill": [
+            "The father knew that it was at the same hour, precisely.",
+            "He and they all believed, that Jesus was the Messiah, and became his disciples and followers.",
+            "If my prayer is ready in my mouth, I know that he is accepted; and if not, I know that he shall be snatched away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The nobleman and his entire family became disciples of Jesus, believing in him fully and embracing his teachings. This belief was not like any other belief in the world; it was a complete and unwavering faith in Jesus as the Messiah. As soon as the nobleman heard Jesus's words, he set out on his journey, spending the night on the way. The father knew, without a doubt, that this miraculous healing occurred at the same hour when Jesus spoke the words. This miracle not only removed the nobleman's doubts, but it also brought piety and faith into the lives of the rich and noble. This wholehearted belief led the nobleman and his family to openly profess their discipleship to Jesus, and they eagerly sought to bring others along with them in embracing the Christian faith.",
+            "wordCount": 137,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.8657185671547367,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.38,
+            "commentatorTierSimilarities": [
+                32.9,
+                33.9,
+                33.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The nobleman and his whole household became disciples of Jesus, believing in him completely as the Messiah. Their faith was different from any other in the world. Immediately upon hearing Jesus's assurance, the nobleman set out on his journey, spending the night on the way. The father knew with certainty that this miraculous healing occurred at the same hour when Jesus spoke. This profound miracle not only removed all doubts but also brought piety and faith into the lives of the rich and noble. They openly professed their discipleship and made earnest efforts to bring others to embrace the Christian faith.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6635592943853665,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.66,
+            "commentatorTierSimilarities": [
+                32.33,
+                34.06,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The nobleman and his whole household became disciples of Jesus, believing fully in him as the Messiah. Their faith set them apart from all other beliefs in the world. Immediately after hearing Jesus's assurance, the nobleman began his journey and even spent the night on the way. The father knew without a doubt that the healing occurred at the exact same hour Jesus spoke. This extraordinary miracle not only removed all doubts but also brought faith and piety into the lives of the rich and noble. They openly professed their discipleship and diligently worked to lead others to embrace the Christian faith.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.6980644476958349,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.8,
+            "commentatorTierSimilarities": [
+                33.37,
+                33.63,
+                33.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon hearing Jesus's assurance, the nobleman and his entire household embraced complete faith in Jesus as the Messiah, becoming his disciples. This faith was distinct, set apart from any other belief in the world. Without hesitation, the nobleman embarked on his journey, not even hesitating to spend the night on the way. The fact that the father knew the exact timing of the healing serves as evidence of the miracle. The nobleman's unwavering belief not only removed his doubts but also instilled piety and faith among the wealthy and noble. This sincere faith led the nobleman and his family to openly profess their discipleship and actively seek to draw others into the Christian faith.",
+            "wordCount": 116,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.6551442633325828,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.38,
+            "commentatorTierSimilarities": [
+                32.81,
+                36.15,
+                31.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The nobleman and his entire family fully believed in Jesus as the Messiah, becoming disciples with unwavering faith. This belief set them apart from all other beliefs in the world. Upon hearing Jesus's assurance, the nobleman immediately embarked on his journey, spending the night on the way. The father confidently knew that the healing occurred at the same hour Jesus spoke. This powerful miracle not only dispelled doubts but also brought piety and faith to the wealthy and noble. They openly professed their discipleship and actively spread the Christian religion among others.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.6507255715048226,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                33.79,
+                34.04,
+                32.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

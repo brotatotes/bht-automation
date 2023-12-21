@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:11:17",
+    "verseRef": "John 12:38",
+    "bestBHT": {
+        "bht": "The Jews' unbelief fulfilled God's purposes, rather than setting them aside. The saying of Isaiah was not merely a fulfillment for the sake of it, but had a specific design. The few who believed in the Gospel report experienced the powerful grace of God, while others did not receive this revelation and continued in unbelief. This echoes the pattern of previous generations of Israel, who also rejected the message of the prophets.",
+        "wordCount": 73,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.7849936877582357,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+        "commentatorTierSimilarities": [
+            28.18,
+            29.24,
+            42.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Beware of understanding them to mean merely 'so that the saying of Esaias was fulfilled,' which the original will not bear."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "38. That the saying of Esaias . . .",
+            "\tmight be fulfilled\u2014This unbelief did not at all set aside the",
+            "\tpurposes of God, but, on the contrary, fulfilled them."
+        ],
+        "Albert Barnes": [
+            "That the same effect should occur which occurred in the time of Isaiah.",
+            "His message was despised by the nation, and he himself put to death.",
+            "The arm of the Lord... denotes the power displayed by the miracles of Christ."
+        ],
+        "John Calvin": [
+            "John does not mean that the prediction laid a necessity on the Jews; for Isaiah uttered nothing but what the Lord revealed to him from the secret treasures of his purpose.",
+            "In this second clause he assigns the reason why they are few; and that reason is, that men do not attain it by their own strength, and God does not illuminate all without distinction, but bestows the grace of his Holy Spirit on very few.",
+            "The prophet declares that the arm of God, which is contained in the doctrine of the Gospel, lies hid until it is revealed, and at the same time testifies that all are not indiscriminately partakers of this revelation."
+        ],
+        "Philip Schaff": [
+            "By \u2018report\u2019 we are to understand the burden of the prophet\u2019s message, the word as heard rather than as spoken.",
+            "And by \u2018arm of the Lord,\u2019 the manifestation of His power alike in the deliverance of His people and in the destruction of His enemies.",
+            "Israel was ever the same: \u2018As their fathers did, so did they\u2019; they \u2018filled up\u2019 the measure of their fathers."
+        ],
+        "Archibald T. Robertson": [
+            "It is usually assumed that \u03b9\u03bd\u03b1 here with the first aorist passive subjunctive of \u03c0\u03bb\u03b7\u03c1\u03bf\u03c9 has its full telic force.",
+            "That is probable as God's design, but it is by no means certain since \u03b9\u03bd\u03b1 is used in the N.T. with the idea of result.",
+            "The next verse adds strength to the idea of design."
+        ],
+        "John Gill": [
+            "they were to have, and had an infallible event or completion, otherwise the foreknowledge of God, and the authority of the prophetic writings, could not be maintained.",
+            "in those times there would be but few that would believe the report made in the ministry of the Gospel, concerning the Messiah, his person, office, and grace; though so true in itself, and so much confirmed by miracles, and mighty deeds.",
+            "the powerful and efficacious grace of God itself is designed, which was not put forth, and did not attend the report of the Gospel, and therefore it was not believed."
+        ],
+        "John Wesley": [
+            "The arm of the Lord \u2014 The power of God manifested by Christ, in his preaching, miracles, and work of redemption. Isaiah 53:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The unbelief of the Jews in John 12:38 fulfilled God's purposes rather than setting them aside. The saying of Isaiah was not simply fulfilled for the sake of fulfillment, but rather to accomplish God's design. The few who believed the report of the Gospel regarding the Messiah experienced the powerful and efficacious grace of God. This grace was not universally bestowed, as not all received the revelation of the arm of the Lord, the power displayed by Christ's miracles and the work of redemption. Israel, like their fathers before them, continued in their unbelief and thus fulfilled the prophecy of Isaiah.",
+            "wordCount": 103,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8724774438392522,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                22.8,
+                30.45,
+                46.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unbelief of the Jews in fulfilling the saying of Isaiah actually accomplished God's purposes. While some assume that this fulfillment was solely intentional, it is not certain since the idea of result is also associated with it. The few who believed in the report of the Gospel concerning the Messiah experienced the powerful and efficacious grace of God, while others did not receive this revelation and continued in their unbelief. This pattern mirrors the previous generations of Israel, who also rejected the prophet's message.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6678084965953817,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                27.26,
+                29.86,
+                42.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The unbelief of the Jews in John 12:38 ultimately fulfilled God's purposes. The saying of Isaiah was not simply fulfilled for the sake of it, but rather to accomplish God's design. The few who believed the report of the Gospel about the Messiah experienced the powerful and efficacious grace of God, while others did not receive this revelation and continued in their unbelief. This pattern of unbelief, seen in previous generations, fulfills the prophecy of Isaiah.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.8323470264460302,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                25.82,
+                27.96,
+                46.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The unbelief of the Jews in fulfilling the saying of Isaiah accomplished God's purposes. While the assumption is made that this fulfillment had a specific intention, it is not certain since the idea of result is associated with it. The few who believed in the report of the Gospel experienced the powerful grace of God, while others did not receive this revelation and continued in their unbelief. This mirrors the pattern of previous generations of Israel, who also rejected the prophet's message.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6591368446082488,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                27.67,
+                29.52,
+                42.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews' unbelief fulfilled God's purposes, rather than setting them aside. The saying of Isaiah was not merely a fulfillment for the sake of it, but had a specific design. The few who believed in the Gospel report experienced the powerful grace of God, while others did not receive this revelation and continued in unbelief. This echoes the pattern of previous generations of Israel, who also rejected the message of the prophets.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.7849936877582357,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                28.18,
+                29.24,
+                42.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

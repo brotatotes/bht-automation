@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:06:20",
+    "verseRef": "John 5:20",
+    "bestBHT": {
+        "bht": "The Father's love for the Son establishes an intimate relationship, where the Son is shown all that the Father does, executing it in His mediatorial role. Their unity of interest is characterized by glorious consciousness, will, and love. The Father's love is a deliberate choice of one out of many, based on sufficient grounds. Through the Son's execution of the Father's will, even greater works will be shown to evoke wonder and honor. This eternal and continuous love between them results in an ever-increasing manifestation of the Son.",
+        "wordCount": 93,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 2.0289855942950394,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+        "commentatorTierSimilarities": [
+            31.29,
+            35.07,
+            33.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (this last is ensured by the fact, that) the Father loveth the Son, and sheweth him... all things that himself doeth... and this manifestation will go on increasing in majesty.\" ",
+            "...the wonder which now is excited in you by these works may be brought out to its full measure.\" ",
+            "...wonder leading naturally to the 'honour' of ver. 23."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As love has no concealments... the Father communicates to the Son all His counsels, and what has been thus shown to the Son is by Him executed in His mediatorial character.\" ",
+            "With the Father, doing is willing; it is only the Son who acts in Time.\" ",
+            "Their oneness of interest is no unconscious or involuntary thing, but a thing of glorious consciousness, will, and love, of which the Persons themselves are the proper Objects."
+        ],
+        "Albert Barnes": [
+            "This authority he traces to the love which the Father has for him - that special, ineffable, infinite love which God has for his only-begotten Son, feebly and dimly illustrated by the love which an earthly parent has for an only child.",
+            "From apostles, prophets, and philosophers no small part of the doings of God are concealed. From the 'Son' nothing is.",
+            "The greater works to which he refers are those which he proceeds to specify - he will raise the dead and judge the world, etc."
+        ],
+        "Marvin Vincent": [
+            "Filew represents a warmer, more instinctive sentiment, more closely allied to feeling, and implying more passion. Hence ajgapaw is represented by the Latin diligo, the fundamental idea of which is selection, the deliberate choice of one out of a number, on sufficient grounds, as an object of regard.\" ",
+            "Both elements are combined in the Father 's love for the Son (Matthew 3:17; John 3:35; John 4:20).\" ",
+            "'Eraw, in which the idea of sensual passion predominates, is nowhere used in the New Testament."
+        ],
+        "John Calvin": [
+            "Christ is loved by the Father, as he is the Head of the Church. He shows that this love is the cause why the Father does all things by his hand.",
+            "And, indeed, out of Christ it will be in vain to seek the power of God.",
+            "Though you are dull and stupid, yet the works which God shall afterwards perform by me will draw you, however reluctantly, into admiration."
+        ],
+        "Philip Schaff": [
+            "The principle of the relation between the Father and the Son, out of which this communion springs, is 'love,' an eternal and continuous and infinite love, the source of an eternal and continuous and perfect communion.",
+            "The word \u2018showeth\u2019 in the first part of the verse includes all time: here the future tense is used, not as pointing to a change in the relation of the Son to the Father, but because the eternal purpose of the Father for mankind is fulfilled in time.",
+            "The design of these greater works, of this higher and more complete manifestation of Jesus, is \u2018that ye may marvel.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "\u03c6\u03b9\u03bb\u03b5\u03c9 presents the notion of intimate friendship (\u03c6\u03b9\u03bb\u03bf\u03c2, friend), fellowship, the affectionate side, while \u03b1\u03b3\u03b1\u03c0\u03b1\u03c9 (Latin diligo) is more the intelligent choice.",
+            "The Father who does these works... There is more to follow.",
+            "Wonder belongs to childhood and to men of knowledge. Modern science has increased the occasion for wonder."
+        ],
+        "John Gill": [
+            "For the Father loveth the Son...and showeth him all things that himself doth...",
+            "He shows him all things he does, by doing all things; and by him he shows himself, and his works, to men.",
+            "Greater works would be shown and done by Christ than these he had now done...such as raising Jairus's daughter to life, the widow of Naim's son, and Lazarus."
+        ],
+        "John Wesley": [
+            "The Father showeth him all things that himself doth \u2014 A proof of the most intimate unity.",
+            "At the same time (not at different times) the Father showeth and doth, and the Son seeth and doth.",
+            "Greater works \u2014 Jesus oftener terms them works, than signs or wonders, because they were not wonders in his eyes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Father's love for the Son is the foundation of their intimate relationship, as the Father reveals all things to the Son and the Son executes the Father's will. This communion between them is characterized by a conscious, deliberate, and passionate love, rather than a mere instinctive or sensual affection. The Father's love for the Son is a love of selection, a deliberate choice based on sufficient grounds, and it is this love that empowers the Son to perform even greater works. The purpose of these greater works is to evoke wonder and marvel in those who witness them, solidifying their recognition of the Son's authority and the Father's love for him. This love and manifesting power are not limited to a particular time but are eternal and continuous. The Father's love for the Son is the source of an eternal and perfect communion, resulting in a complete and ever-increasing manifestation of the Son.",
+            "wordCount": 161,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 2.1189084659931714,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.79,
+            "commentatorTierSimilarities": [
+                28.2,
+                40.61,
+                31.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Father's love for the Son establishes an intimate relationship, where the Son is shown all that the Father does, executing it in His mediatorial role. Their unity of interest is characterized by glorious consciousness, will, and love. The Father's love is a deliberate choice of one out of many, based on sufficient grounds. Through the Son's execution of the Father's will, even greater works will be shown to evoke wonder and honor. This eternal and continuous love between them results in an ever-increasing manifestation of the Son.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.0289855942950394,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+            "commentatorTierSimilarities": [
+                31.29,
+                35.07,
+                33.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Father's love for the Son ensures an intimate relationship, where the Son is shown all that the Father does, executing it in His mediatorial role. Their unity of interest is conscious, willful, and loving. The Father's love is a deliberate choice, based on sufficient grounds. Through the Son's execution, even greater works will be shown to evoke wonder and honor. This eternal love results in an ever-increasing manifestation of the Son.\n",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.8668930235699661,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.42,
+            "commentatorTierSimilarities": [
+                32.66,
+                33.56,
+                33.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Father's love for the Son guarantees an intimate relationship, where the Son is shown all that the Father does, executing it as the Mediator. Their unity of interest is a conscious and loving connection. The Father's love is a deliberate choice, a warm sentiment closely linked to feeling. Through the Son's execution, even greater works will arise, evoking admiration. This eternal love brings about an ever-increasing manifestation of the Son's authority in a union with the Father that is characterized by will, consciousness, and love.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9593079863684992,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                32.11,
+                35.42,
+                32.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Father's love for the Son establishes an intimate relationship, where the Son is shown all that the Father does, executing it in His mediatorial role. Their unity of interest is conscious, willful, and loving. The Father's love is a deliberate choice, based on sufficient grounds. Through the Son's execution, even greater works will be shown to evoke a sense of wonder and honor. This eternal love ensures an ever-increasing manifestation of the Son's authority.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9126104415102088,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                31.81,
+                34.24,
+                33.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

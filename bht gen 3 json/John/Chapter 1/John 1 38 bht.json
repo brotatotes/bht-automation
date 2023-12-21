@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:04:09",
+    "verseRef": "John 1:38",
+    "bestBHT": {
+        "bht": "In the Gospel of John, there is a gentle and winning question posed by Jesus: What seek ye? It was not asked out of ignorance but to invite them to express their desires and open their minds. Jesus turned towards them, recognizing their steps behind him, and welcomed them to follow and see where He dwelt. This question remains relevant for all of us. If we had the chance for a calm hour in private with Jesus, we would gladly open our burdens and seek His wisdom. Through this encounter, we are reminded to not be satisfied with a passing look, but to seek a deeper relationship with Christ so that He may receive us as guests.",
+        "wordCount": 117,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.633350606361648,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+        "commentatorTierSimilarities": [
+            32.16,
+            32.14,
+            35.7
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was not asked in ignorance, seeing that He witnesses the inner thoughts of men's minds, but that He might attach them to Himself by the enquiry, and give them confidence.",
+            "They ask where dwellest thou? wishing to find Him alone and in quiet.",
+            "But He furthers their wish by inviting them to follow, and they will see."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What seek ye\u2014gentle, winning question, remarkable as the Redeemer's first public utterance.\" ",
+            "That is a question we cannot answer in a moment; but had we Thy company for a calm hour in private, gladly should we open our burden."
+        ],
+        "Albert Barnes": [
+            "What seek ye? - This was not asked to obtain 'information.' It was a kind inquiry respecting their desires; an invitation to lay open their minds, to state their wishes, and to express all their feelings respecting the Messiah and their own salvation.",
+            "Rabbi - This was a Jewish title conferred somewhat as literary degrees now are, and meaning literally 'a great one,' and was applied to a teacher or master in the Jewish schools.",
+            "Religion teaches people true politeness, or a disposition to consult the convenience of others, and not improperly to molest them, or to break in upon them when engaged."
+        ],
+        "John Calvin": [
+            "Although, therefore, those two disciples do not yet recognize Christ as the only Teacher of the Church, yet, moved by the commendation bestowed on him by John the Baptist, they hold him to be a Prophet and teacher, which is the first step towards receiving instruction.",
+            "By this example we are taught that from the first, rudiments of the Church we ought to draw such a relish for Christ as will excite our desire to profit; and next, that we ought not to be satisfied with a mere passing look, but that we ought to seek his dwelling, that he may receive us as guests.",
+            "For there are very many who smell the gospel at a distance only, and thus allow Christ suddenly to disappear, and all that they have learned concerning him to pass away."
+        ],
+        "Philip Schaff": [
+            "They who thus follow Jesus shall not do so in vain. As in the sense of their own unworthiness they walked after Him, He turned, and inquired what they sought.",
+            "\u2018Where is Thy permanent resting-place and home, that as pupils we may seek Thee there, and may abide with Thee till we have seen the glory of which we have heard?\u2019",
+            "By the title Rabbi (which strictly meant my master or lord, but which in the time of Jesus had already come to be applied to teachers) they had been wont to address their own master... and they naturally give the same name of honour to Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "Turned (\u03c3\u03c4\u03c1\u03b1\u03c6\u03b5\u03b9\u03c2). Second aorist passive participle of \u03c3\u03c4\u03c1\u03b5\u03c6\u03c9, vividly picturing the sudden act of Jesus on hearing their steps behind him.",
+            "Beheld (\u03b8\u03b5\u03b1\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). First aorist middle participle of \u03b8\u03b5\u03b1\u03bf\u03bc\u03b1 (verse John 1:32). Both participles here express antecedent action to \u03bb\u03b5\u03b3\u03b5 (saith).",
+            "What seek ye? (\u03a4 \u03b6\u03b7\u03c4\u03b5\u03b9\u03c4\u03b5;). Not 'whom' (\u03c4\u03b9\u03bd\u03b1 John 18:4; John 20:15), but 'what purpose have you.' The first words of Jesus preserved in this Gospel."
+        ],
+        "John Gill": [
+            "He who will not break the bruised reed, nor quench the smoking flax, but cherishes and encourages the first motions of grace, begins first with them, and treats them in a free and familiar manner.",
+            "Encourage them to speak to him, which, through fear and bashfulness, they might be backward to do.",
+            "That was not a proper place, in the public way, to enter into a conversation with him, and acquaint him with what they were desirous of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the Gospel of John, there is a gentle and winning question posed by Jesus: What seek ye? It was not asked out of ignorance but to invite them to express their desires and open their minds. Jesus turned towards them, recognizing their steps behind him, and welcomed them to follow and see where He dwelt. This question remains relevant for all of us. If we had the chance for a calm hour in private with Jesus, we would gladly open our burdens and seek His wisdom. Through this encounter, we are reminded to not be satisfied with a passing look, but to seek a deeper relationship with Christ so that He may receive us as guests.",
+            "wordCount": 117,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.633350606361648,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                32.16,
+                32.14,
+                35.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the Gospel of John, Jesus addresses two disciples with a gentle question: What seek ye? This question was not asked out of ignorance but to invite them to express their desires and open their minds. By turning towards them and inviting them to follow and see where He dwelt, Jesus shows His willingness to hear their burdens and provide guidance. This encounter serves as a reminder to seek a deeper relationship with Christ and to not be satisfied with a mere passing look.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8131951923276082,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "commentatorTierSimilarities": [
+                30.04,
+                34.01,
+                35.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Gospel of John, Jesus poses a gentle and winning question, asking, What seek ye? This inquiry is not made out of ignorance, as Jesus knows their inner thoughts, but rather to draw them closer to Himself and instill trust. He turns towards them, acknowledging their steps behind Him, and invites them to follow. This question is a reminder to seek Jesus in a deeper, personal way, opening up our burdens and desires to Him, and not settling for a superficial encounter.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.74949624358451,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                31.3,
+                33.69,
+                35.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the Gospel of John, Jesus begins His public ministry with a remarkable question: What seek ye? This question is not asked out of ignorance but rather as an invitation to lay open their minds, express their desires, and state their wishes regarding the Messiah and their own salvation. By turning towards them and inviting them to follow, Jesus demonstrates His willingness to meet them in their inquiries and provide guidance. This exchange prompts us to seek a deeper relationship with Christ, not settling for a passing look but pursuing His presence and wisdom.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8870396887937022,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                29.98,
+                34.79,
+                35.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Gospel of John, Jesus begins His public ministry with a gentle and winning question, asking, What seek ye? This question serves as an invitation for them to express their desires and open their hearts. As Jesus turns towards them, He acknowledges their steps, and by inviting them to follow, He demonstrates His willingness to provide guidance. This inquiry prompts us to seek a deeper connection with Christ, not settling for a superficial encounter, but rather opening up our burdens and desires to Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.793588874408771,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                31.17,
+                32.6,
+                36.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

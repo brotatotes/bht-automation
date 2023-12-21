@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:06:05",
+    "verseRef": "John 5:1",
+    "bestBHT": {
+        "bht": "The specific feast mentioned in this portion of Scripture is not definitively identified, with suggestions including the Passover, Pentecost, and the Feast of Tabernacles. The lack of a clear designation is consistent with the Gospel of John's approach of only including what is relevant to the narrative. While the evidence leans towards it being a Passover, the reasons for this conclusion cannot be fully elaborated. It is worth noting that John does not aim to provide a comprehensive account of Jesus' actions, leaving room for the possibility of Jesus visiting Jerusalem prior to the events in chapter 6.",
+        "wordCount": 98,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 2.1614857778099914,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.21,
+        "commentatorTierSimilarities": [
+            37.84,
+            28.33,
+            33.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I believe, with L\u00fccke, De Wette, and Tholuck, that we cannot with any probability gather what feast it was.",
+            "No reason need be given why St. John does not name the feast; it is quite in accordance with his practice of mentioning nothing that does not concern his subject-matter.",
+            "It can hardly have been a Passover, both because it is called a feast, not the feast, as in ch. vi. 4, and because if so, we should have an interval of a whole year between this chapter and the next, which is not probable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No question has more divided the Harmonists of the Gospels, and the duration of our Lord's ministry may be said to hinge on it.",
+            "Those who are dissatisfied with the Passover-view all differ among themselves what other feast it was, and some of the most acute think there are no grounds for deciding.",
+            "In our judgment the evidence is in favor of its being a Passover, but the reasons cannot be stated here."
+        ],
+        "Albert Barnes": [
+            "A feast - Probably the Passover, though it is not certain.",
+            "There were two other feasts - the Pentecost and the Feast of Tabernacles - at which all the males were required to be present.",
+            "It is of no consequence, however, which of them is intended."
+        ],
+        "Marvin Vincent": [
+            "A feast [\u03b5\u03bf\u03c1\u03c4\u03b7] . Or festival. What festival is uncertain. It has been identified with the Passover, Pentecost, and the Feast of Tabernacles; also with the Day of Atonement, the Feast of Dedication, and the Feast of Purim."
+        ],
+        "John Calvin": [
+            "Though the Evangelist does not expressly state what feast this was, yet the probable conjecture is that he means Pentecost.\" ",
+            "The order of time leads us to conclude that we ought to understand it to be Pentecost.",
+            "Christ came to Jerusalem to the feast, partly because at that time, on account of the great multitude of people who were assembled, he had the opportunity of publishing his doctrine more extensively."
+        ],
+        "Philip Schaff": [
+            "It is quite impossible here to examine the attempts which have been made to give more precision to this statement.",
+            "To John, through clearness of insight, not from power of fancy, every action of his Master was fraught with deep significance.",
+            "Never, we may say, is any festival named in this Gospel in connection with our Lord, without an intention on the writer\u2019s part that we should see the truth which he saw, and behold in it a type of his Master or His work."
+        ],
+        "Archibald T. Robertson": [
+            "John does not attempt a full story of the work of Jesus.",
+            "Surely it is not incongruous to think of Jesus making a visit to Jerusalem before the events in chapter 6.",
+            "It was up towards Jerusalem from every direction save from Hebron."
+        ],
+        "John Gill": [
+            "After Christ had been in Samaria, which was four months ago...the time came on for one of the three festivals of the Jews.\" ",
+            "...the feast of the passover, so called, in John 4:45 since John is very particular, in giving an account of the several passovers, in Christ's ministry.\" ",
+            "...that he might have an opportunity of discoursing, and doing his miracles before all the people, which came at this time, from the several parts of the land."
+        ],
+        "John Wesley": [
+            "A feast \u2014 Pentecost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is uncertain which specific feast is being referred to in this verse, with some suggesting the Passover, Pentecost, or the Feast of Tabernacles. The lack of clarity is consistent with the Gospel of John's practice of mentioning only what is relevant to the narrative. Although the evidence leans towards it being a Passover, the reasons cannot be fully explained here. It is important to note that John does not attempt to present a comprehensive account of Jesus' work, so it is not unlikely for Jesus to have made a visit to Jerusalem prior to the events mentioned in chapter 6. We can imagine Jesus traveling towards Jerusalem from various directions, except from Hebron. Throughout the Gospel of John, the mention of festivals is always intended to convey deeper truths and serve as types of Jesus and His work.",
+            "wordCount": 139,
+            "quoteTokenProportion": 42.05,
+            "qualityScore": 2.1544641395968984,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.98,
+            "commentatorTierSimilarities": [
+                37.2,
+                27.82,
+                34.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The identity of the feast in this passage remains uncertain, with some suggesting the Passover, Pentecost, or the Feast of Tabernacles. The lack of a specific feast name aligns with the Gospel of John's tendency to include only what is relevant. While the evidence leans towards it being a Passover, the reasons cannot be fully explained. John does not aim to provide a complete account of Jesus' actions, so it is plausible for Jesus to have visited Jerusalem before the events in chapter 6.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.29686848865494,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.71,
+            "commentatorTierSimilarities": [
+                37.52,
+                27.43,
+                35.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The specific feast mentioned in this portion of Scripture is not definitively identified, with suggestions including the Passover, Pentecost, and the Feast of Tabernacles. The lack of a clear designation is consistent with the Gospel of John's approach of only including what is relevant to the narrative. While the evidence leans towards it being a Passover, the reasons for this conclusion cannot be fully elaborated. It is worth noting that John does not aim to provide a comprehensive account of Jesus' actions, leaving room for the possibility of Jesus visiting Jerusalem prior to the events in chapter 6.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.1614857778099914,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.21,
+            "commentatorTierSimilarities": [
+                37.84,
+                28.33,
+                33.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The exact feast mentioned in this part of the text remains uncertain, as scholars have debated whether it is the Passover, Pentecost, or the Feast of Tabernacles. The Gospel of John often omits details that are not directly relevant to the narrative, explaining the lack of a specific feast name here. While the evidence seems to lean towards it being a Passover, the reasons for this conclusion cannot be fully explained in this context. It is important to remember that John's purpose is not to provide a comprehensive account of Jesus' actions, so it is plausible for Jesus to have visited Jerusalem before the events recorded in chapter 6.",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.2801490542871994,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+            "commentatorTierSimilarities": [
+                36.29,
+                28.9,
+                34.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The specific feast in this passage is uncertain, with suggestions including the Passover, Pentecost, or the Feast of Tabernacles. The lack of a named feast aligns with the Gospel of John's practice of mentioning only what is relevant. Although there is evidence towards it being a Passover, the reasons cannot be fully explained here. John does not aim to provide a complete account of Jesus' actions, so it is plausible for Jesus to have visited Jerusalem before the events in chapter 6.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.3351053981391674,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.98,
+            "commentatorTierSimilarities": [
+                37.58,
+                27.53,
+                34.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

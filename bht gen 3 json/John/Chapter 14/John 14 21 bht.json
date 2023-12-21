@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:12:31",
+    "verseRef": "John 14:21",
+    "bestBHT": {
+        "bht": "The one who has my commandments and keeps them is truly my disciple, and it is through the inward will to keep them that one can truly show their love for me. In return, I promise to manifest myself in a clear and conspicuous manner, surpassing mere physical presence. This promise of a real and spiritual presence is a testament to the deep love and affection the Father and I have for those who are obedient and loving towards us.",
+        "wordCount": 80,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 2.2159298655985262,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+        "commentatorTierSimilarities": [
+            37.79,
+            26.96,
+            35.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He who has my commandments, as being my disciple by outward profession... and keeps them...",
+            "This keeping is more of the inner will to keep them, than the absolute observance...",
+            "I will manifest myself to him... This is the highest promise which can be made to man, and yet it is made to every man who has and keeps the commandments of the Lord Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that hath my commandments and keepeth them...my Father and I will love him.\" ",
+            "Mark the sharp line of distinction here, not only between the Divine Persons but the actings of love in Each respectively, towards true disciples."
+        ],
+        "Albert Barnes": [
+            "Will manifest myself to him - To manifest is to show, to make appear, to place before the eyes so that an object may be seen.",
+            "This means that Jesus would so show himself to his followers that they should see and know that he was their Savior.",
+            "In what way this is done, see John 14:23."
+        ],
+        "Marvin Vincent": [
+            "Who has in memory and keeps in life.",
+            "A clear, conspicuous manifestation is indicated.",
+            "It conveys more than the disclosing of an undiscovered presence, or the manifesting of a hidden one."
+        ],
+        "John Calvin": [
+            "The undoubted proof of our love to him lies in our keeping his commandments.",
+            "The fruit of piety is progress in the knowledge of Christ.",
+            "A more abundant knowledge of Christ is here represented as an extraordinary reward of our love to Christ; and hence it follows that it is an invaluable treasure."
+        ],
+        "Philip Schaff": [
+            "He that hath my commandments, and keepeth them, he it is that loveth me; and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself to him.\" ",
+            "The thought of privilege in John 14:14 led to that condition on which alone privilege can be preserved (John 14:15). We have a similar transition now.\" ",
+            "In this fellowship of love the result of all will be the manifestation by Himself of the glorified Redeemer to His people."
+        ],
+        "Archibald T. Robertson": [
+            "He it is that loveth me (\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd \u03bf \u03b1\u03b3\u03b1\u03c0\u03c9\u03bd \u03bc\u03b5). Emphatic demonstrative pronoun \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2: 'that is the one who loves me.'",
+            "And will manifest myself unto him (\u03ba\u03b1 \u03b5\u03bc\u03c6\u03b1\u03bd\u03b9\u03c3\u03c9 \u03b1\u03c5\u03c4\u03c9 \u03b5\u03bc\u03b1\u03c5\u03c4\u03bf\u03bd). Future active of \u03b5\u03bc\u03c6\u03b1\u03bd\u03b9\u03b6\u03c9, old verb from \u03b5\u03bc\u03c6\u03b1\u03bd\u03b7\u03c2. The Unseen and Risen Christ will be a real and spiritual Presence to the obedient and loving believer.",
+            "The Unseen and Risen Christ will be a real and spiritual Presence to the obedient and loving believer."
+        ],
+        "John Gill": [
+            "He that hath my commandments, and keepeth them...he it is that loveth me: others may talk of loving Christ, but this is the man that truly does love him.\" ",
+            "This expression denotes some further and greater manifestation of the Father's love to such persons, and shows how grateful to the Father are love and obedience to the Son.\" ",
+            "But this phrase signs a clearer discovery of his love to them, which passeth knowledge; and some fresh mark and token of his affection for them."
+        ],
+        "John Wesley": [
+            "He that hath my commandments \u2014 Written in his heart.",
+            "I will manifest myself to him \u2014 More abundantly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The one who has my commandments and keeps them is truly my disciple, not only in outward profession but also in inner will. As a result, I will manifest myself to him in a clear and conspicuous manner, surpassing mere physical presence. This promise is given to every person who has and keeps the commandments of the Lord Jesus, and it signifies the highest level of love from both the Father and the Son. In this act of love, the unseen and risen Christ becomes a real and spiritual presence to the obedient and loving believer, revealing himself in a way that goes beyond human comprehension.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.2287159008491804,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.45,
+            "commentatorTierSimilarities": [
+                37.32,
+                27.85,
+                34.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The one who has my commandments and keeps them is truly my disciple, and it is through the inward will to keep them that one can truly show their love for me. In return, I promise to manifest myself in a clear and conspicuous manner, surpassing mere physical presence. This promise of a real and spiritual presence is a testament to the deep love and affection the Father and I have for those who are obedient and loving towards us.",
+            "wordCount": 80,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.2159298655985262,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+            "commentatorTierSimilarities": [
+                37.79,
+                26.96,
+                35.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who not only have the commandments of Jesus but also inwardly desire to keep them are the ones who truly love Him. In return, both the Father and Jesus will love them and make a clear and spiritual manifestation of themselves to these obedient and loving believers. This is the highest promise made to any individual who faithfully keeps the commandments of the Lord Jesus. This manifestation is not merely a revealing of hidden presence, but a real and intimate spiritual experience. It is a privilege and reward for our love and obedience to Christ, resulting in a deeper knowledge and fellowship with Him.",
+            "wordCount": 105,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0846512654930187,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                34.09,
+                29.39,
+                36.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who have and inwardly desire to keep the commandments of Jesus are the ones who truly love Him. In return, both the Father and Jesus will love them and make a clear and spiritual manifestation to these obedient and loving believers. This manifestation is not merely a revealing of hidden presence, but a real and intimate spiritual experience. It is a privilege and reward for our love and obedience to Christ, resulting in a deeper knowledge and fellowship with Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0778957255753765,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.43,
+            "commentatorTierSimilarities": [
+                33.82,
+                30.6,
+                35.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ones who have and keep the commandments of Jesus are the true lovers of Him. In return, both the Father and Jesus will love them, and there will be a clear, spiritual manifestation of themselves to these obedient and loving believers. This manifestation is not just about revealing a hidden presence, but it's a genuine and intimate experience of the risen Christ for those who are obedient and loving. It is a reward and privilege that leads to a deeper knowledge and fellowship with Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0852213986189154,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.67,
+            "commentatorTierSimilarities": [
+                33.16,
+                31.8,
+                35.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

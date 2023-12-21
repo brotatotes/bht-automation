@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:13:10",
+    "verseRef": "John 16:1",
+    "bestBHT": {
+        "bht": "Jesus warned his disciples about the world's hatred and reassured them of the testifying Spirit's presence. He wanted to prevent them from stumbling or being offended by these trials. Without these warnings and encouragements, his followers might have fallen away. Jesus desired to secure their fidelity and ensure their unwavering faith. By familiarizing ourselves with his teachings, we can stand firm against stumbling, armed with the knowledge of his tender concern and the removal of potential stumbling blocks. Let us remain steadfast in our allegiance to Jesus, no matter the difficulties we face.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.14,
+        "qualityScore": 1.804200121306237,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+        "commentatorTierSimilarities": [
+            26.26,
+            36.32,
+            37.42
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "1.] These things, viz. ch. xv. 18\u201327,\u2014not only the warning of the hatred of the world, but the promise of the testifying Spirit (Stier)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-5. These things have I spoken unto",
+            "\tyou, that ye should not be offended\u2014both the warnings",
+            "\tand the encouragements just given."
+        ],
+        "Albert Barnes": [
+            "If they had not been apprised of this, if they had not known why Jesus was about to die, and if they had not been encouraged with the promised aid of the Holy Spirit, they would have sunk under these trials, and forsaken him and his cause.",
+            "That if Christians were left to themselves they would fall away and perish.",
+            "That Jesus beforehand secured the fidelity and made certain the continuance in faith of his apostles, seeing all their dangers and knowing all their enemies."
+        ],
+        "Marvin Vincent": [
+            "Be offended [\u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03c3\u03b8\u03b7\u03c4\u03b5] Rev., made to stumble. In this Gospel only here and John 6:61. See on Matthew 5:29. Wyc, be not slandered."
+        ],
+        "John Calvin": [
+            "We ought not to wait till the struggle be actually commenced, but ought rather to endeavor to become well acquainted with these discourses of Christ, and to render them familiar to our minds.",
+            "For we must not doubt that the victory is in our hands, so long as those admonitions of Christ shall be deeply imprinted on our minds.",
+            "Let us, therefore accustom ourselves to use this armor in such a manner that it may never drop out of our hands."
+        ],
+        "Philip Schaff": [
+            "These things have I spoken unto you, that ye may not be made to stumble.",
+            "The difference between this passage and the earlier is simply one climax.",
+            "It points to the danger of having faith and constancy shaken by trial instead of standing firm in allegiance to Jesus, whatever might be the difficulties encountered in His service."
+        ],
+        "Archibald T. Robertson": [
+            "the \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b1 of faith, the stumblingblocks which trip up a disciple\" (Bernard)",
+            "the \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b1 of faith",
+            "the stumblingblocks which trip up a disciple"
+        ],
+        "John Gill": [
+            "These things Christ thought proper to give them notice of beforehand, that expecting them, they might be prepared for them, and be fortified against them.",
+            "His view in speaking of them was not to discourage them, but to prevent their stumbling at them, and falling by them.",
+            "This shows the tender concern of Christ for his disciples, how careful he was to remove every occasion of stumbling, or what might be a matter of offense to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus warned his disciples about the hatred of the world and assured them of the testifying Spirit's presence (Stier). He spoke these things to prevent them from stumbling or being offended (Bernard). Jesus knew that without this warning and encouragement, his followers would be prone to fall away and abandon him (Second-tier commentary). By forewarning the disciples, Jesus wanted to secure their fidelity and ensure their continued faith (Second-tier commentary). These words served to fortify them against the trials that lay ahead, ensuring that they would stand firm in their allegiance to Jesus, no matter the difficulties they encountered (Second-tier commentary). So let us too familiarize ourselves with the teachings of Christ, keeping them in mind as our armor against stumbling (Third-tier commentary). Jesus gave these warnings not to discourage his disciples, but to prevent them from being shaken in their faith (Third-tier commentary). This demonstrates Christ's tender concern for his followers, his desire to remove any stumbling blocks that could lead them astray (Third-tier commentary).",
+            "wordCount": 174,
+            "quoteTokenProportion": 35.58,
+            "qualityScore": 1.9657490973095366,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                27.49,
+                34.01,
+                38.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus warned his disciples about the hatred of the world and assured them of the testifying Spirit's presence. He spoke these things to prevent them from stumbling or being offended. Jesus knew that without this warning and encouragement, his followers would be prone to fall away and abandon him. By forewarning the disciples, Jesus wanted to secure their fidelity and ensure their continued faith. These words served to fortify them against the trials that lay ahead, ensuring that they would stand firm in their allegiance to Jesus, no matter the difficulties they encountered. So let us too familiarize ourselves with Christ's teachings, keeping them as our armor against stumbling. Jesus gave these warnings not to discourage his disciples, but to prevent them from being shaken in their faith. This demonstrates Christ's tender concern for his followers, his desire to remove any stumbling blocks that could lead them astray.",
+            "wordCount": 151,
+            "quoteTokenProportion": 37.11,
+            "qualityScore": 1.9740528104159711,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.98,
+            "commentatorTierSimilarities": [
+                25.22,
+                35.57,
+                39.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus warned his disciples about the world's hatred and promised the testifying Spirit. These warnings and encouragements aimed to prevent them from stumbling or being offended. Without them, his followers might have fallen away and forsaken him. Jesus sought to secure their fidelity and ensure their continued faith, preparing them for the trials to come. By familiarizing ourselves with his teachings and keeping them in mind, we can stand firm against stumbling. His warnings reflect his tender concern for his followers, removing any potential stumbling blocks.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.800010205503484,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.19,
+            "commentatorTierSimilarities": [
+                27.36,
+                34.48,
+                38.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warned his disciples about the world's hatred, assuring them of the testifying Spirit. These admonitions aimed to prevent them from stumbling or being offended. Without them, his followers might have fallen away. Jesus sought to secure their fidelity and ensure their continued faith, preparing them for the trials ahead. By familiarizing ourselves with his teachings, we can stand firm against stumbling, armed with the knowledge of his tender concern and desire to remove any potential stumbling blocks. Let us be fortified in our allegiance to Jesus, unwavering in the face of difficulties.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.747520389628313,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+            "commentatorTierSimilarities": [
+                26.62,
+                35.01,
+                38.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus warned his disciples about the world's hatred and reassured them of the testifying Spirit's presence. He wanted to prevent them from stumbling or being offended by these trials. Without these warnings and encouragements, his followers might have fallen away. Jesus desired to secure their fidelity and ensure their unwavering faith. By familiarizing ourselves with his teachings, we can stand firm against stumbling, armed with the knowledge of his tender concern and the removal of potential stumbling blocks. Let us remain steadfast in our allegiance to Jesus, no matter the difficulties we face.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.804200121306237,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.33,
+            "commentatorTierSimilarities": [
+                26.26,
+                36.32,
+                37.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

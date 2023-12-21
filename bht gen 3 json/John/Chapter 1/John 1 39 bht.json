@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:03:58",
+    "verseRef": "John 1:39",
+    "bestBHT": {
+        "bht": "Around 4 P.M. in Jewish time, two disciples sought to abide with Jesus. Kindly extending an invitation, Jesus assured them, Come and see, encouraging them that their seeking would not be in vain. Eagerly, the disciples accepted and spent the rest of the day with Jesus, engaging in delightful conversation and gaining a deeper understanding of Him. May we learn from their example and eagerly seek Jesus, knowing that in His presence, our hearts will find fulfillment.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.5710022636552394,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.58,
+        "commentatorTierSimilarities": [
+            18.6,
+            37.95,
+            43.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "about the tenth hour] i.e. 4 P.M., according to the Jewish reckoning; not, as some have thought, 10 A.M., according to that of the Romans.",
+            "Our Evangelist appears always to reckon according to the Jewish method.",
+            "They remained with Him the rest of that day, which would be four or five hours, and need not strictly be limited by sunset."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Come and see\u2014His second utterance, more winning still."
+        ],
+        "Albert Barnes": [
+            "Come and see - This was a kind and gracious answer. He did not put them off to some future period.\" ",
+            "Jesus is ever ready to admit those who seek him to his presence and favor.",
+            "The tenth hour - The Jews divided their day into twelve equal parts, beginning at sunrise. If John used their mode of computation, this was about four o\u2019clock p. m. The Romans divided time as we do, beginning at midnight. If John used their mode, it was about ten o\u2019clock in the forenoon. It is not certain which he used."
+        ],
+        "John Calvin": [
+            "It was about the tenth hour; that is, the evening was approaching, for it was not more than two hours till sunset.",
+            "But from this circumstance we infer that those disciples were so eagerly desirous to hear Christ, and to gain a more intimate knowledge of him, that they gave themselves no concern about a night\u2019s lodging.",
+            "On the contrary, we are, for the most part, very unlike them, for we incessantly delay, because it is not convenient for us to follow Christ."
+        ],
+        "Philip Schaff": [
+            "The seeker shall not seek in vain.",
+            "We have found.",
+            "The Evangelist designs to convey to us something more than the thought of mere outward presence with Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "Come and ye shall see. Polite invitation and definite promise.",
+            "Where he abode. Indirect question preserving the present active indicative after secondary tense.",
+            "That day. Accusative of extent of time, all during that day."
+        ],
+        "John Gill": [
+            "He saith unto them, come and see.... He gave them an invitation, to go along with him directly, and see with their own eyes, where he dwelt.",
+            "They came and saw where he dwelt... they accepted of the invitation, and went along with him immediately.",
+            "And abode with him that day... the remaining part of the day, which they spent in delightful conversation with him; by which they knew that he was the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At about the tenth hour, around 4 P.M. in Jewish time, two disciples approached Jesus, seeking to abide with Him. Jesus kindly extended an invitation, stating, Come and see, assuring them that their seeking would not be in vain. The disciples eagerly accepted and spent the rest of the day with Jesus, engaging in delightful conversation and gaining a deeper understanding of Him. Their response stands in contrast to our own hesitations and delays when it comes to following Christ. May we learn from their example and eagerly seek to spend time with Jesus, knowing that in His presence, we will find the fulfillment of our hearts' desires.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.5868932716381443,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                19.94,
+                33.16,
+                46.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Around 4 P.M. in Jewish time, two disciples sought to abide with Jesus. Kindly extending an invitation, Jesus assured them, Come and see, encouraging them that their seeking would not be in vain. Eagerly, the disciples accepted and spent the rest of the day with Jesus, engaging in delightful conversation and gaining a deeper understanding of Him. Their response differs from our own delays in following Christ. May we learn from their example and eagerly seek Jesus, knowing that in His presence, our hearts will find fulfillment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5103409833194323,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                19.91,
+                35.85,
+                44.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Around 4 P.M. in Jewish time, two disciples sought to abide with Jesus. Kindly extending an invitation, Jesus assured them, Come and see, encouraging them that their seeking would not be in vain. Eagerly, the disciples accepted and spent the rest of the day with Jesus, engaging in delightful conversation and gaining a deeper understanding of Him. May we learn from their example and eagerly seek Jesus, knowing that in His presence, our hearts will find fulfillment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5710022636552394,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.58,
+            "commentatorTierSimilarities": [
+                18.6,
+                37.95,
+                43.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the late afternoon, around 4 P.M. according to Jewish timekeeping methods, two disciples approached Jesus, desiring to dwell with Him. Jesus kindly responded, saying, Come and see, assuring them that their pursuit would not be in vain. Without hesitation, the disciples accepted His invitation and spent the remainder of the day conversing with Him, deepening their understanding of His true identity. Their eager response challenges us to reflect on our own hesitations in following Christ. Let us strive to seek after Jesus eagerly, knowing that in His presence, our hearts will find true fulfillment.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.5221190762249948,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.95,
+            "commentatorTierSimilarities": [
+                20.98,
+                35.06,
+                43.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the late afternoon, around 4 P.M. according to Jewish reckoning, two disciples approached Jesus, seeking to abide with Him. Jesus warmly invited them, saying, Come and see, assuring them that their search would not be in vain. Without hesitation, the disciples embraced the opportunity, spending the remaining hours of the day in conversation with Jesus, deepening their understanding of His true nature. Their immediate response highlights our own tendencies to delay following Christ. May we learn from their eagerness and actively seek the presence of Jesus, finding ultimate fulfillment in Him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5153839878960413,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                19.7,
+                35.99,
+                44.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

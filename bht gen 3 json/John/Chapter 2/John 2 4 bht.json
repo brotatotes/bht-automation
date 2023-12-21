@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:04:26",
+    "verseRef": "John 2:4",
+    "bestBHT": {
+        "bht": "The Lord's response to his mother's request serves as a respectful reproof, signifying the end of his subjection to her as his earthly parent. Addressing her as woman, he expresses affectionate deference while asserting that his hour for miraculous works has not yet come. This interaction underscores the importance of embracing God's timing and plans in our lives, even when it may be challenging for parents to relinquish control and trust in His divine providence.",
+        "wordCount": 78,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.7650781990361173,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+        "commentatorTierSimilarities": [
+            26.57,
+            27.79,
+            45.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The answer of our Lord is beyond question one of reproof, and disclaimer of participation in the grounds on which the request was made.",
+            "In this answer the Lord declares His period of subjection to her as His earthly parent to be at an end.",
+            "My time, the time at which, from the Father\u2019s appointment and my own concurring will, I am to begin miraculous working, is not yet arrived: forestall it not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Woman\u2014no term of disrespect in the language of that day.\" ",
+            "In my Father's business I have to do with Him only.",
+            "Mine hour, c.\u2014hinting that He would do something, but at His own time."
+        ],
+        "Albert Barnes": [
+            "It is evident that no such reproof or disrespect was intended by the use of the term 'woman' instead of 'mother.'",
+            "The words sound to us harsh, but they might have been spoken in a tender manner, and not have been intended as a reproof.",
+            "Mine hour ... - My time. The proper time for my interposing."
+        ],
+        "Marvin Vincent": [
+            "Woman. Implying no severity nor disrespect. ... It was a highly respectful and affectionate mode of address.",
+            "What have I to do with thee [\u03c4\u03b9 \u03b5\u03bc\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03bf\u03b9] . Literally, what is there to me and to thee.",
+            "Mine hour is not yet come. ... Here the hour of His Messianic manifestation (ver. 11)."
+        ],
+        "John Calvin": [
+            "Her anxiety about the inconvenience endured by others, and her desire to have it in some way mitigated, proceeded from humanity, and ought to be regarded as a virtue; but still, by putting herself forward, she might obscure the glory of Christ.",
+            "This saying of Christ openly and manifestly warns men to beware lest, by too superstitiously elevating the honor of the name of mother in the Virgin Mary, they transfer to her what belongs exclusively to God.",
+            "The instruction conveyed here is still more extensive that whenever the Lord holds us in suspense, and delays his aid, he is not therefore asleep, but, on the contrary, regulates all His works in such a manner that he does nothing but at the proper time."
+        ],
+        "Philip Schaff": [
+            "The use of the Greek word for 'woman' is consistent with the utmost respect.",
+            "Yet the contrast of 'woman' and 'mother' must strike every one who reads with attention.",
+            "The Son waited for the very moment chosen by the Father's will."
+        ],
+        "Archibald T. Robertson": [
+            "That is always a difficult lesson for mothers and fathers to learn, when to let go.",
+            "Literally the phrase means, 'What is it to me and to thee?'",
+            "This phrase marks a crisis whenever it occurs, especially of his death."
+        ],
+        "John Gill": [
+            "Calling her 'woman', as it was no ways contrary to her being a virgin, Galatians 4:4, so it was no mark of disrespect; it being an usual way of speaking with the Jews, when they showed the greatest respect to the person spoken to.",
+            "It is enough that she was a virgin when she conceived, and when she brought forth her firstborn.",
+            "Hereby signifying, that though, as man, and a son of hers, he had been subject to her, in which he had set an example of obedience to parents; yet, as God, he had a Father in heaven, whose business he came to do; and in that, and in his office, as Mediator, she had nothing to do with him."
+        ],
+        "John Wesley": [
+            "He regarded his Father above all, not knowing even his mother after the flesh.",
+            "May we not learn hence... how absurd it is to address her as if she had a right to command him, on the throne of his glory?",
+            "Likewise how indecent it is for us to direct his supreme wisdom, as to the time or manner in which he shall appear for us in any of the exigencies of life!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord's response to his mother's request is one of reproof and a declaration that his period of subjection to her as his earthly parent has ended. By using the term woman, he does not show disrespect, but rather addresses her respectfully and affectionately. He reminds her that his time for miraculous works, his hour, has not yet come, indicating that he will act according to the Father's appointment. This interaction teaches us the importance of understanding and accepting the timing of God's plans, even if it may be difficult for parents to let go and trust in His timing.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.7898851774175744,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
+            "commentatorTierSimilarities": [
+                28.6,
+                28.42,
+                42.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord's response to his mother's request is a respectful but firm reproof, indicating an end to his period of subjection as her earthly parent. He addresses her affectionately and reminds her that his hour, the time appointed by the Father, has not yet come. This teaches us the importance of understanding and accepting God's timing in our lives, even if it requires letting go of our own desires and trusting in His plans.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7325020958782673,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                30.03,
+                24.62,
+                45.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord's reproof to his mother's request emphasizes the end of his subjection to her as his earthly parent. By addressing her as woman, he shows respectful and affectionate deference, while also asserting that his time for miraculous works, his hour, has not yet come. This interaction serves as a valuable lesson in understanding and accepting God's timing and plans in our lives, even when it may be difficult for parents to let go and trust in His providence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.7486851974802402,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.49,
+            "commentatorTierSimilarities": [
+                27.04,
+                26.78,
+                46.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's response to his mother's request serves as a respectful reproof, signifying the end of his subjection to her as his earthly parent. Addressing her as woman, he expresses affectionate deference while asserting that his hour for miraculous works has not yet come. This interaction underscores the importance of embracing God's timing and plans in our lives, even when it may be challenging for parents to relinquish control and trust in His divine providence.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7650781990361173,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+            "commentatorTierSimilarities": [
+                26.57,
+                27.79,
+                45.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord's response to his mother's request politely rebukes her, indicating that his time of being subject to her as his earthly parent has come to an end. Addressing her as woman in this context is not disrespectful but rather a highly respectful and affectionate way of speaking. He reminds her that his hour, the moment of his Messianic manifestation, has not yet arrived, implying that he will act on his own timeline according to the Father's will. This interaction teaches us the importance of trusting in God's timing and plan, even if it requires letting go of our own desires.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.7469839878268214,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "commentatorTierSimilarities": [
+                27.13,
+                28.85,
+                44.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

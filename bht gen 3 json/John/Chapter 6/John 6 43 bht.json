@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:07:03",
+    "verseRef": "John 6:43",
+    "bestBHT": {
+        "bht": "Do not be startled or stumbled at these sayings, for it requires divine teaching to understand them and divine drawing to submit to them. Jesus reprimands those who murmur among themselves, directing them to cease their protests. He focuses on the spirit of His opponents, reminding them that His doctrine contains no offense, and that their lack of relish for it is due to their own vitiated taste.",
+        "wordCount": 68,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6302609117439528,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.55,
+        "commentatorTierSimilarities": [
+            33.51,
+            37.71,
+            28.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord does not answer their objection, because it lay far from His present purpose to disclose aught of those mysteries which the answer must have indicated.",
+            "It was not till the faith of the apostolic Christians was fully fixed on Him as the Son of God, and the outline of the doctrine of His Person was firmly sketched out.",
+            "The Spirit brought out those historical records which assure us of His supernatural conception."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "43, 44. Murmur not . . . No man\u2014that",
+            "\tis, Be not either startled or stumbled at these sayings; for it needs",
+            "\tdivine teaching to understand them, divine drawing to submit to them."
+        ],
+        "John Calvin": [
+            "My doctrine contains no ground of offense, but because you are reprobate, it irritates your envenomed breasts...",
+            "The reason why you do not relish it is, that you have a vitiated taste.",
+            "Murmur not among yourselves."
+        ],
+        "Philip Schaff": [
+            "Murmur not among yourselves. For such murmurers Jesus has only reproof.",
+            "It is very strange that in our day some writers on this Gospel should have had difficulty in understanding why Jesus did not refute the objection raised by declaring the truth of the miraculous conception.",
+            "At first the reply of Jesus deals only with the spirit His opponents manifest."
+        ],
+        "Archibald T. Robertson": [
+            "Murmur not (\u03bc\u03b7 \u03b3\u03bf\u03b3\u03b3\u03c5\u03b6\u03b5\u03c4\u03b5). Prohibition with \u03bc\u03b7 and the present active imperative, \"stop murmuring\" (the very word of verse John 6:41). There was a rising tide of protest. "
+        ],
+        "John Gill": [
+            "Murmur not among yourselves: meaning neither about his descent from heaven, nor about coming to him, and believing in him.\" ",
+            "Jesus...knowing, as God, their secret murmurs, and private cavils among themselves.",
+            "Jesus...thus addressed them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be startled or stumbled at these sayings, for it requires divine teaching to understand them and divine drawing to submit to them. Jesus reprimands those who murmur among themselves, directing them to cease their protests. While it may seem strange why Jesus does not address the objection raised, he chooses to withhold any further clarification, as it is not His present purpose to disclose these mysteries. Instead, He focuses on the spirit of His opponents, reminding them that His doctrine contains no offense and that their lack of relish for it is due to their own vitiated taste.",
+            "wordCount": 100,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.6734381562530884,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                32.71,
+                40.64,
+                26.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not be startled or stumbled at these sayings, for it requires divine teaching to understand them and divine drawing to submit to them. Jesus reprimands those who murmur among themselves, directing them to cease their protests. He focuses on the spirit of His opponents, reminding them that His doctrine contains no offense, and that their lack of relish for it is due to their own vitiated taste.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6302609117439528,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.55,
+            "commentatorTierSimilarities": [
+                33.51,
+                37.71,
+                28.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not be startled or stumbled at these sayings, even though our Lord does not answer your objections directly. It is not His purpose to disclose all the mysteries yet; rather, He wants to firmly establish your faith in Him as the Son of God. Divine teaching is needed to understand His words and divine drawing is required to submit to them. So, stop murmuring among yourselves and do not be like those who protest against His teachings. Jesus knows the secret murmurs and private cavils among you, and He addresses them with reproof.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.5900874421300866,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.21,
+            "commentatorTierSimilarities": [
+                32.24,
+                38.76,
+                29.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not be startled or stumbled at these sayings, even though our Lord does not answer your objections directly. It is not His purpose to disclose all the mysteries yet; rather, He wants to firmly establish your faith in Him as the Son of God. So, stop murmuring among yourselves and do not be like those who protest against His teachings. Jesus knows your secret murmurs and private cavils, and He addresses them with reproof.",
+            "wordCount": 75,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.6043787398338685,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+            "commentatorTierSimilarities": [
+                28.83,
+                38.38,
+                32.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not be disheartened by the objections raised against Jesus' teachings for He did not intend to reveal the mysteries that would have answered them. It was only when the apostolic Christians firmly believed in Him as the Son of God that the doctrine of His supernatural conception was unveiled. Therefore, Jesus instructs His followers to not murmur or be stumbled by His words, as divine teaching and drawing are needed to comprehend and accept them. Despite the rising protests, Jesus reproves those who murmur among themselves, highlighting the need for a spirit receptive to His message. The objections raised were met with silence by Jesus, for it was their reprobate disposition that made them reject His words.",
+            "wordCount": 118,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7933595029916667,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                35.86,
+                45.43,
+                18.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

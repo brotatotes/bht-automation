@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:12:34",
+    "verseRef": "John 14:20",
+    "bestBHT": {
+        "bht": "In the days to come, the disciples will gain an increasing understanding of their unity with Jesus and the Father, as well as Jesus dwelling in them through the Spirit. This knowledge will be given to them by the Spirit's coming, particularly at Pentecost. Through this deepening experience, they will come to know that Jesus is eternally united with the Father, and in turn, they are united with Jesus in an unbreakable union. This perfect union will be fully realized in the future, encompassing all believers in an uninterrupted unity of glory.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7061994860913807,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+        "commentatorTierSimilarities": [
+            24.68,
+            39.49,
+            35.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Each of these periods, as its continually increasing light breaks upon you, shall bring increased knowledge of your unity in Me with the Father, and my dwelling in you by the Spirit.",
+            "If any particular day is to be thought of, it would naturally be the Pentecost.",
+            "At that day, no particular day."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. At that day\u2014of the",
+            "\tSpirit's coming. ",
+            "\t",
+            "ye shall know that I am in my",
+            "\tFather, ye in me, I in you\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "At that day - In the time when my life shall be fully manifested to you, and you shall receive the assurance that I live.",
+            "That I am in my 'Father ... - That we are most intimately and indissolubly united.",
+            "Ye in me - That there is a union between us which can never be severed."
+        ],
+        "John Calvin": [
+            "For the object of these words is, to show that we cannot, by indolent speculation, know what is the sacred and mystical union between us and him, and again, between him and the Father; but that the only way of knowing it is, when he diffuses his life in us by the secret efficacy of the Spirit; and this is the trial of faith.",
+            "As the Father has laid up in the Son all fullness of blessings, so, on the other hand, the Son has conveyed himself entirely into us.",
+            "He is said to be in us, because he plainly shows, by the efficacy of his Spirit, that he is the Author and the cause of our life."
+        ],
+        "Philip Schaff": [
+            "Then in the knowledge of ever-deepening experience they shall know that the Son of man whom they had thought 'gone away' is really in the bosom of His Father, glorified in the Father.",
+            "So shall the end of all be attained, the perfect union in glory of Father, Son, and all believers, in one uninterrupted, unchanging, eternal unity.",
+            "The fulness of the union referred to belongs only to the time of Jesus glorified. The limiting influences of the world, of the flesh, must be overpassed before that perfect union of all existence is reached."
+        ],
+        "Archibald T. Robertson": [
+            "In that day (\u03b5\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03b7 \u03c4\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1). The New Dispensation of the Holy Spirit, beginning with Christ's Resurrection and the Coming of the Holy Spirit at pentecost.",
+            "Shall know (\u03b3\u03bd\u03c9\u03c3\u03b5\u03c3\u03b8\u03b5). Future middle of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9.",
+            "Chapters 1 to 3 of Acts bear eloquent witness to these words."
+        ],
+        "John Gill": [
+            "That I [am] in my Father; in his bosom, in union with him, partaker of the same nature, perfections, and glory with him, and equal to him.",
+            "The knowledge of these things promised, designs a more clear and distinct knowledge of them; something of them was known already, but not so perfectly as should be hereafter.",
+            "nor does it suggest that they shall begin to be known; only that they shall be known in a more perfect manner: the time when this will be, is 'at that day'."
+        ],
+        "John Wesley": [
+            "At that day \u2014 When ye see me after my resurrection; but more eminently at the day of pentecost."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 14:20, Jesus tells his disciples that in the days to come they will come to know the depth of their unity with him, the Father, and the Holy Spirit. This knowledge will be given to them by the Spirit, who will bring them into a deep and intimate understanding of their union with God. This unity will be fully manifested in the New Dispensation of the Holy Spirit, beginning with Christ's Resurrection and the coming of the Holy Spirit at Pentecost. Through this profound knowledge, the disciples will recognize that Jesus is in the Father, they are in Jesus, and Jesus is in them. This mutual indwelling is a foretaste of the perfect union that will be attained in the future, where Father, Son, and all believers will be united in one uninterrupted, unchanging, and eternal unity. This knowledge is not something that can be attained through mere speculation or intellectual inquiry, but it is a deep and personal experience of the life of Christ being diffused in them through the hidden workings of the Holy Spirit.",
+            "wordCount": 179,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6323019752841645,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+            "commentatorTierSimilarities": [
+                22.65,
+                39.09,
+                38.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future, the disciples will come to know the deep unity they share with Jesus, the Father, and the Holy Spirit. Through the Spirit's work, they will have an intimate understanding of their union with God. This knowledge will be fully manifested in the New Dispensation of the Holy Spirit, particularly seen in Jesus' Resurrection and the coming of the Holy Spirit at Pentecost. It is through the Spirit's secret efficacy that the disciples will experience the life of Christ being diffused in them, establishing a profound and personal union.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5839911886981657,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.01,
+            "commentatorTierSimilarities": [
+                25.25,
+                34.99,
+                39.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the days to come, the disciples will gain an increasing understanding of their unity with Jesus and the Father, as well as Jesus dwelling in them through the Spirit. This knowledge will be given to them by the Spirit's coming, particularly at Pentecost. Through this deepening experience, they will come to know that Jesus is eternally united with the Father, and in turn, they are united with Jesus in an unbreakable union. This perfect union will be fully realized in the future, encompassing all believers in an uninterrupted unity of glory.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7061994860913807,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                24.68,
+                39.49,
+                35.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future days, the disciples will receive greater knowledge of their unity with Jesus and the Father. This knowledge will be granted by the Spirit, who will deepen their understanding of their union. The New Dispensation of the Holy Spirit, beginning with Christ's Resurrection and the coming of the Spirit at Pentecost, will bring forth this revelation. Through the Spirit's workings, the disciples will realize that Jesus is in the Father, they are in Jesus, and Jesus is in them. This profound knowledge of unity will ultimately lead to the perfect union of all believers.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.5832376829175727,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                26.31,
+                38.46,
+                35.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future, the disciples will come to know the depth of their unity with Jesus, the Father, and the Holy Spirit. This knowledge will be given to them by the Spirit, who will bring them into a deep and intimate understanding of their union with God. This unity will be fully manifested in the New Dispensation of the Holy Spirit, beginning with Christ's Resurrection and the coming of the Holy Spirit at Pentecost. Through this profound knowledge, the disciples will recognize that Jesus is in the Father, they are in Jesus, and Jesus is in them.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.619671897923073,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                26.08,
+                35.63,
+                38.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

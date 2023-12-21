@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:06:51",
+    "verseRef": "John 6:11",
+    "bestBHT": {
+        "bht": "In the distribution of the loaves and fishes, St. John presents it as the act of the Lord Himself, while the disciples play a secondary role. The shift from blessing to giving thanks may hold intentional significance, possibly referencing the significance of thanksgiving in the Paschal meal. This event showcases the boundless goodness and love of God, inviting us to serve one another and highlighting that God blesses our labor. Jesus, appointed by the Father, entrusts the distribution to the disciples, emphasizing our participation in God's work. The abundance of food further magnifies the miraculous nature of the event.",
+        "wordCount": 100,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.581789167512551,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.94,
+        "commentatorTierSimilarities": [
+            25.17,
+            40.76,
+            34.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. John describes the distribution as being the act of the Lord Himself, and leaves the intervention of the disciples to be understood.",
+            "The giving thanks here answers to blessing in the other Gospels. It was the 'grace' of the father of the family; perhaps the ordinary one in use among the Jews.",
+            "St. John seems to connect with it the idea brought out by St. Luke, 'He blessed them,' i.e. the loaves."
+        ],
+        "Marvin Vincent": [
+            "Perhaps he used the familiar formula, 'Blessed art thou Jehovah our God, King of the world, who causes to come forth bread from the earth.'\" (100 words)",
+            "He distributed to them that were set down.\" (7 words)",
+            "As much as they would. Peculiar to John.\" (6 words)"
+        ],
+        "John Calvin": [
+            "Those things which God has appointed for our use, being evidences of his infinite goodness and fatherly love towards us, call on us to offer praise to Him; and thanksgiving, as Paul informs us, is a kind of solemn sanctification, by means of which the use of them begins to be pure to us.",
+            "When Christ determined that the bread given to the disciples should grow among their hands, we are taught by it that God blesses our labor when we are serviceable to each other.",
+            "And not only does this office belong to his eternal Divinity, but even in his human nature, and so far as he has taken upon him our flesh, the Father has appointed him to be the dispenser, that by his hands he may feed us."
+        ],
+        "Philip Schaff": [
+            "However done, the work of distribution was really His, and the Evangelist would fix our thoughts on Him alone.",
+            "It is curious to note that in all the other narratives of it our Lord is said to have \u2018blessed\u2019 before He broke the loaves, whereas in the two accounts of the feeding of the four thousand He \u2018gave thanks\u2019 before breaking the bread: here, however, giving thanks takes the place of blessing.",
+            "This would seem to show that the word is here used with intentional significance, probably with marked reference to the Paschal meal, at which thanksgiving played so important a part."
+        ],
+        "Archibald T. Robertson": [
+            "The Synoptics use 'blessed' \u03b5\u03c5\u03bb\u03bf\u03b3\u03b7\u03c3\u03b5\u03bd (Mark 6:41; Matthew 14:19; Luke 9:16).",
+            "He distributed (\u03b4\u03b9\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd). First aorist active indicative of \u03b4\u03b9\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc, old verb to give to several (\u03b4\u03b9\u03b1, between).",
+            "As much as they would (\u03bf\u03c3\u03bf\u03bd \u03b7\u03b8\u03b5\u03bb\u03bf\u03bd). Imperfect active of \u03b8\u03b5\u03bb\u03c9, 'as much as they wished.'"
+        ],
+        "John Gill": [
+            "And Jesus took the loaves... and when he had given thanks; he distributed to the disciples, and the disciples to them that were sat down.\" ",
+            "It was not by his own hands, but by the means of the disciples...so that the sense is the same.",
+            "They had as much... as they chose: in some printed copies it is read, 'as much as he would,' and so the Persic version; that is, as much as Jesus would; but the former is the true reading, and makes the miracle more illustrious."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 6:11, the act of distributing the loaves and fishes to the multitude is attributed to the Lord Himself, as St. John describes it. While the other Gospels mention Jesus blessing the food before distributing it, interestingly, in this account, the act of giving thanks replaces the mention of blessing. This may hold intentional significance, possibly with a reference to the Paschal meal, where thanksgiving played a crucial role. The distribution was not only a testament to God's infinite goodness and love, but it also signifies that God blesses our labor when we serve one another. Jesus, acting as the dispenser appointed by the Father, entrusted the task to the disciples, emphasizing the significance of our participation in God's work. The miraculous nature of the event is further highlighted by the fact that the multitude received as much as they desired.",
+            "wordCount": 143,
+            "quoteTokenProportion": 35.16,
+            "qualityScore": 1.7013568548518432,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+            "commentatorTierSimilarities": [
+                24.51,
+                41.88,
+                33.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the distribution of the loaves and fishes in this account, St. John presents it as the act of the Lord Himself, while the disciples' involvement is understood but not explicitly stated. The use of giving thanks instead of blessing could carry intentional significance, possibly referencing the importance of thanksgiving in the Paschal meal. This event demonstrates God's goodness and love towards us, as well as highlighting the blessing that comes from serving one another. Jesus, appointed by the Father, distributed the food through the hands of the disciples, exemplifying our participation in God's work. The miracle of this distribution is magnified by the fact that the multitude received as much as they desired.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 1.721629224891621,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.59,
+            "commentatorTierSimilarities": [
+                24.55,
+                40.52,
+                34.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the account of the distribution of the loaves and fishes, St. John focuses on the Lord's act of giving, leaving the disciples' intervention implied. He describes the act of giving thanks, which may signify a deliberate connection to the Paschal meal and its emphasis on thanksgiving. This event showcases God's infinite goodness and love, encouraging us to serve one another and recognizing that God blesses our labor. Jesus, appointed by the Father, entrusted the distribution to the disciples, emphasizing our participation in God's work. The miracle is magnified by the fact that the multitude received as much as they desired.",
+            "wordCount": 104,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.6755763291371677,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.06,
+            "commentatorTierSimilarities": [
+                26.87,
+                36.87,
+                36.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the distribution of the loaves and fishes, St. John highlights that it was the Lord Himself who distributed the food, while the involvement of the disciples is implied. The use of giving thanks instead of blessing carries intentional significance, possibly relating to the importance of thanksgiving in the Paschal meal. This event demonstrates God's goodness and love towards us, and also emphasizes that God blesses our labor when we serve one another. Jesus, appointed by the Father, entrusted the task to the disciples, underscoring our involvement in God's work. The miracle is further emphasized by the fact that the multitude received as much as they desired.",
+            "wordCount": 109,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.672632961547626,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.96,
+            "commentatorTierSimilarities": [
+                24.1,
+                39.11,
+                36.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the distribution of the loaves and fishes, St. John presents it as the act of the Lord Himself, while the disciples play a secondary role. The shift from blessing to giving thanks may hold intentional significance, possibly referencing the significance of thanksgiving in the Paschal meal. This event showcases the boundless goodness and love of God, inviting us to serve one another and highlighting that God blesses our labor. Jesus, appointed by the Father, entrusts the distribution to the disciples, emphasizing our participation in God's work. The abundance of food further magnifies the miraculous nature of the event.",
+            "wordCount": 100,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.581789167512551,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.94,
+            "commentatorTierSimilarities": [
+                25.17,
+                40.76,
+                34.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

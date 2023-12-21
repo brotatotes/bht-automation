@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:08:11",
+    "verseRef": "John 8:3",
+    "bestBHT": {
+        "bht": "Interrupting Jesus' teaching, the religious authorities present a woman caught in adultery, tempting Him and hoping to entrap Him. Aware of His inclination to forgive sinners, they force the woman into the midst of the crowd. The authenticity of this account has been questioned by some, but its authority should not be doubted. Regardless, it reveals the wickedness of the religious leaders and showcases Jesus' response to those who fall short.",
+        "wordCount": 71,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.551938208908289,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+        "commentatorTierSimilarities": [
+            28.13,
+            38.36,
+            33.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. John never mentions, 'the Scribes' elsewhere, but usually calls the opponents of Jesus 'the Jews,' or 'the rulers.'",
+            "'The Scribes and Pharisees' is a very common expression in the three Gospels.",
+            "Probably, only as tempting Jesus, and not in the course of any legal proceedings against her."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3-6. scribes and Pharisees\u2014foiled",
+            "\tin their yesterday's attempt, and hoping to succeed better in this."
+        ],
+        "John Calvin": [
+            "It is plain enough that this passage was unknown anciently to the Greek Churches; and some conjecture that it has been brought from some other place and inserted here.",
+            "In adopting this pretense for slander, they display enormous wickedness, and even their own lips accuse them.",
+            "They expressly state that adulteresses are condemned by Moses, that they may hold Christ bound by the sentence already given by the Law."
+        ],
+        "Philip Schaff": [
+            "The scene described in the words before us must have been in a high degree impressive and exciting.",
+            "The people are still gathered around Jesus and listening intently to His words, when suddenly His discourse is interrupted by the religious authorities of the land.",
+            "Without the slightest feeling of compunction, they compel the woman to stand in the midst of the throng, and then they address themselves to Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "John does not mention 'scribes,' though this combination (note two articles) is common enough in the Synoptics.",
+            "Dods calls this 'in itself an unlawful thing to do' since they had a court for the trial of such a case. Their purpose is to entrap Jesus.",
+            "They knew his proneness to forgive sinners."
+        ],
+        "John Gill": [
+            "They were far from drawing the Holy Ghost at this time upon them; that on the contrary, they fell into the hands, and under the power of the unclean spirit.",
+            "This history of the woman taken in adultery, is wanting in the Alexandrian copy, and in other ancient copies; nor is it in Nonnus, Chrysostom, and Theophylact; nor in any of the editions of the Syriac version...",
+            "Nor need the authenticness of it be doubted of; Eusebius says, it is in the Gospel according to the Hebrews; nor should its authority be called in question."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During Jesus' teaching, the religious authorities abruptly interrupt Him, bringing a woman caught in adultery before Him. They were not interested in any legal proceedings, but rather in tempting Jesus and entrapping Him. They knew that Jesus was prone to forgiving sinners. The scene must have been dramatic and shocking as the woman stood in the midst of the crowd and the authorities addressed Jesus. Some commentators debate the authenticity of this passage, but its authority should not be questioned. It sheds light on the wickedness of the religious leaders and highlights Jesus' response to sinners.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.5674298219567833,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                31.21,
+                37.3,
+                31.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Interrupting Jesus' teaching, the religious authorities present a woman caught in adultery, tempting Him and hoping to entrap Him. Aware of His inclination to forgive sinners, they force the woman into the midst of the crowd. The authenticity of this account has been questioned by some, but its authority should not be doubted. Regardless, it reveals the wickedness of the religious leaders and showcases Jesus' response to those who fall short.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.551938208908289,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+            "commentatorTierSimilarities": [
+                28.13,
+                38.36,
+                33.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While Jesus was teaching, the religious authorities interrupted Him and presented a woman caught in adultery, hoping to tempt and trap Him. Knowing that Jesus had a tendency to forgive sinners, they brought the woman into the midst of the crowd. Some debate the authenticity of this account, but its authority should not be questioned. It exposes the wickedness of the religious leaders and demonstrates how Jesus responded to those who fell short.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.5474680968099426,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                28.79,
+                38.11,
+                33.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During Jesus' teaching, the religious authorities abruptly interrupted Him, bringing a woman caught in adultery before Him. They were not interested in any legal proceedings, but rather in tempting Jesus and entrapping Him. They knew that Jesus was prone to forgiving sinners. The scene must have been dramatic and shocking as the woman stood in the midst of the crowd and the authorities addressed Jesus. Some commentators debate the authenticity of this account, but its authority should not be questioned. It sheds light on the wickedness of the religious leaders and highlights Jesus' response to sinners.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.5310944500214358,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                31.52,
+                37.76,
+                30.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Interrupting Jesus' teaching, the religious authorities present a woman caught in adultery, tempting Him and hoping to entrap Him. Aware of His inclination to forgive sinners, they force the woman into the midst of the crowd. The authenticity of this account has been questioned, but its authority should not be doubted. Regardless, it reveals the wickedness of the religious leaders and showcases Jesus' response to those who fall short.",
+            "wordCount": 69,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.544904083170443,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.71,
+            "commentatorTierSimilarities": [
+                28.3,
+                38.12,
+                33.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

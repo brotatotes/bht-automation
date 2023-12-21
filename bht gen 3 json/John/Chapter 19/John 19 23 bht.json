@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:14:56",
+    "verseRef": "John 19:23",
+    "bestBHT": {
+        "bht": "As Jesus was crucified, the soldiers divided His garments, including His tunic, which closely resembled a priest's garment skillfully woven with labor and care. This seamless tunic symbolized Christ's role as both King and Priest, emphasizing His unity and completeness. Jesus being stripped of His clothes serves as a reminder of sacrilege and the tearing apart of Scripture. Through His sacrifice, He clothes us with righteousness, enabling us to stand before God in glory. The seamless tunic represents the unique and significant role of Christ as our High Priest.",
+        "wordCount": 91,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 2.112155253766166,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+        "commentatorTierSimilarities": [
+            28.01,
+            38.38,
+            33.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The garments of the executed were by law the perquisite of the soldiers on duty.",
+            "The coat was the tunic. It reached from the neck to the feet, and was fastened round the throat with a clasp.",
+            "It was properly a priest's garment, and was woven of linen, or perhaps of wool."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the four who nailed Him to the cross, and whose perquisite they were.\" ",
+            "the Roman tunic, or close-fitting vest.\" ",
+            "perhaps denoting considerable skill and labor as necessary to produce such a garment, the work probably of one or more of the women who ministered in such things unto Him"
+        ],
+        "Albert Barnes": [
+            "His garments - The plural here is used to denote the outer garment.",
+            "Four parts - It seems, from this, that there were four soldiers employed as his executioners.",
+            "His coat - His under garment, called the tunic."
+        ],
+        "Marvin Vincent": [
+            "On His head He wore a white sudar, fastened under the chin and hanging down from the shoulders behind.\" ",
+            "Over the tunic which covered the body to the hands and feet, a blue tallith with the blue and white fringes on the four ends.\" ",
+            "Like the tunic of the High - Priest. Only John records this detail."
+        ],
+        "John Calvin": [
+            "Let us also learn that Christ was stripped of his garments, that he might clothe us with righteousness; that his naked body was exposed to the insults of men, that we may appear in glory before the judgment-seat of God.",
+            " ... there are perverse men who, by foreign inventions, tear the whole of the Scripture, with which Christ is clothed, in order that he may be manifested to us.",
+            " ... they not only strip Christ of his garments, but tear in pieces his body by shocking sacrilege."
+        ],
+        "Philip Schaff": [
+            "By the \u2018garments\u2019 here spoken of we are to understand all the articles of clothing belonging to Jesus with the exception of His \u2018vesture\u2019 or tunic.\" ",
+            "Another course had to be taken with the tunic or under-garment. By it we are without doubt to understand the long garment reaching to the feet, woven so as to fit closely to the body.",
+            "It is hardly possible not to feel that this vestment is to John the symbol of the fact that He who now hangs upon the cross as King is also Priest of His people."
+        ],
+        "Archibald T. Robertson": [
+            "The clothes (\u03b9\u03bc\u03b1\u03c4\u03b9\u03b1, outer clothes) of the criminal were removed before the crucifixion and belonged to the soldiers.",
+            "The four pieces would be the head gear, the sandals, the girdle, the \u03c4\u03b1\u03bb\u03bb\u03b9\u03b8 (outer garment with fringes).",
+            "The coat was without seam (\u03bf \u03c7\u03b9\u03c4\u03c9\u03bd \u03b1\u03c1\u03b1\u03c6\u03bf\u03c2)."
+        ],
+        "John Gill": [
+            "the coat was without seam, woven from the top throughout",
+            "So that this was an entire woven garment from top to bottom",
+            "such a garment Christ our great High Priest wore, which had no seam in it, but was a curious piece of texture from top to bottom."
+        ],
+        "John Wesley": [
+            "The vesture \u2014 The upper garment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus hung on the cross, the soldiers divided His garments among themselves, following the custom that allowed them to claim the clothing of the executed. One of the articles of clothing was His tunic, which was like a priest's garment, woven with great skill and labor. John specifically mentions this detail, highlighting the significance of Jesus as both King and Priest. His clothes were stripped from Him, leaving Him exposed and humiliated, so that we could be clothed with His righteousness and stand before God in glory. It is a reminder of the sacrilege done to His body and the tearing apart of the Scripture, which clothes Christ and reveals Him to us. The seamless tunic, woven from top to bottom, represents the unity and completeness of Christ as our High Priest.",
+            "wordCount": 134,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 2.179166047025842,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                28.36,
+                36.61,
+                35.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus was crucified, soldiers divided and claimed His garments, including His tunic, which closely resembled a priest's garment carefully woven with great skill. This seamless tunic, uniquely described by John, symbolizes Christ's role as both King and Priest. Stripped of His clothes, Jesus was exposed to insult and sacrilege, reflecting His sacrifice to clothe us with righteousness before God's judgment seat. Such actions tear Scripture and dishonor His body. The seamless tunic signifies the unity and completeness of Christ as our High Priest.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 2.0813144349138453,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.54,
+            "commentatorTierSimilarities": [
+                28.9,
+                37.48,
+                33.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus was crucified, the soldiers claimed His garments as per their rights. One of these garments was His tunic, resembling the attire of a priest. This seamless tunic, mentioned only by John, held symbolism as it represented Jesus' dual roles of Priest and King. His stripped clothes and sacrilegious treatment portray the tearing of Scripture. The seamless tunic was significant, as it mirrored the unity and completeness of Christ, emphasizing His role as our High Priest.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1976834957533766,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.41,
+            "commentatorTierSimilarities": [
+                29.76,
+                36.76,
+                33.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus was crucified, the soldiers divided His garments, including His tunic, which closely resembled a priest's garment skillfully woven with labor and care. This seamless tunic symbolized Christ's role as both King and Priest, emphasizing His unity and completeness. Jesus being stripped of His clothes serves as a reminder of sacrilege and the tearing apart of Scripture. Through His sacrifice, He clothes us with righteousness, enabling us to stand before God in glory. The seamless tunic represents the unique and significant role of Christ as our High Priest.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.112155253766166,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                28.01,
+                38.38,
+                33.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus was crucified, soldiers took His garments, including a seamless tunic resembling a priest's garment skilfully woven with labor. This tunic, mentioned only by John, signifies Jesus' role as both King and Priest. Stripped of His clothes, Jesus suffered sacrilege, representing the tearing apart of Scripture. Through His sacrifice, He clothes us with righteousness, allowing us to stand gloriously before God. The seamless tunic illustrates Christ's unity and completeness as our High Priest.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.179247266535977,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                29.2,
+                37.73,
+                33.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

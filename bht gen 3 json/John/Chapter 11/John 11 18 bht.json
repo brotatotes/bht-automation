@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:10:22",
+    "verseRef": "John 11:18",
+    "bestBHT": {
+        "bht": "Bethany was a small village situated about two miles from Jerusalem. This proximity between the two places allowed for easy visits of sympathy, which is important to note since Bethany was the location of the miracles performed by Jesus. It is worth mentioning that St. John wrote using past tense when describing the locations, suggesting that he may have regarded Jerusalem as a laid waste city at the time of writing. The closeness of Bethany to Jerusalem also meant that Jesus was stepping into the immediate presence of His enemies when visiting the village.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.8752012173762145,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+        "commentatorTierSimilarities": [
+            41.99,
+            30.27,
+            27.75
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The geographical notice is given, to account for the occurrence detailed in the next verse.",
+            "Meyer remarks, that the use of the past tense, was nigh, does not necessarily imply that the places no longer existed when the Apostle wrote.",
+            "But seeing that St. John alone uses this form of designation (compare ch. xviii. 1; xix. 41), and that he probably wrote after the destruction of Jerusalem, it is more natural (as Meyer himself confesses) to explain the past tense by his regarding Jerusalem and its neighbourhood as laid waste at the time when he published his Gospel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Bethany was nigh Jerusalem, about fifteen furlongs\u2014rather less than two miles; mentioned to explain the visits of sympathy noticed in the following words, which the proximity of the two places facilitated.",
+            "",
+            ""
+        ],
+        "Albert Barnes": [
+            "The village is small, and appears never to have been large, but it is pleasantly situated near the southeastern base of the mount, and has many fine trees about and above it.",
+            "By the dim light of a taper we also descended very cautiously, by 25 slippery steps, to the reputed sepulchre of Lazarus, or El Azariyeh, as both tomb and village are now called.",
+            "It is a wretched cavern, every way unsatisfactory, and almost disgusting."
+        ],
+        "Marvin Vincent": [
+            "Fifteen furlongs. About two miles."
+        ],
+        "John Calvin": [
+            "For, though the desire of performing an office of kindness was their inducement to go, yet they were assembled there, by a secret decree of God, for another purpose.\" ",
+            "It is a convincing proof of the base ingratitude of the nation, that this striking demonstration of Divine power...instantly vanishes from the eyes of men.\" ",
+            "Men who, with excessive eagerness, continually gape for miracles, are altogether dull and stupid in the consideration of them."
+        ],
+        "Philip Schaff": [
+            "This verse is of importance, not merely as preparing for John 11:19.",
+            "They had pronounced Him a blasphemer, and they were determined to bring Him to the blasphemer\u2019s death.",
+            "Jesus in visiting Bethany was coming into the immediate presence of His enemies."
+        ],
+        "Archibald T. Robertson": [
+            "The idiom of \u03b1\u03c0\u03bf with the ablative for distance is like the Latin a millibus passum duobus.",
+            "See it again in John 21:8; Revelation 14:20."
+        ],
+        "John Gill": [
+            "Now Bethany was nigh unto Jerusalem... about two miles...",
+            "Hence a furlong was called one seventh and a half of a mile...",
+            "which was 266 cubits, and two thirds of one."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Bethany was a small village situated about two miles from Jerusalem. This proximity between the two places allowed for easy visits of sympathy, which is important to note since Bethany was the location of the miracles performed by Jesus. It is worth mentioning that St. John wrote using past tense when describing the locations, suggesting that he may have regarded Jerusalem as a laid waste city at the time of writing. The closeness of Bethany to Jerusalem also meant that Jesus was stepping into the immediate presence of His enemies when visiting the village.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.8752012173762145,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                41.99,
+                30.27,
+                27.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Bethany, located about two miles from Jerusalem, played a significant role in the events that followed. The close proximity facilitated the visits of sympathy mentioned in the verse. St. John's use of past tense when describing the location may indicate that he regarded Jerusalem as a destroyed city at the time of writing. It is important to note that Jesus, in visiting Bethany, was stepping into the immediate presence of His enemies. This demonstrates the ungratefulness of the people who witnessed the miracles performed in their midst.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.70320688706656,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.97,
+            "commentatorTierSimilarities": [
+                43.46,
+                29.06,
+                27.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Bethany, a village located about two miles from Jerusalem, held significance in the events that unfolded. The close proximity between the two places facilitated the visits of sympathy mentioned, allowing for interactions between individuals. St. John's use of the past tense suggests that he may have regarded Jerusalem as a desolate city at the time of writing. Additionally, Jesus visiting Bethany meant that He was coming face to face with His enemies, underscoring the opposition He faced.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7132137430543468,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.31,
+            "commentatorTierSimilarities": [
+                46.64,
+                28.57,
+                24.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Bethany, a village situated about two miles from Jerusalem, played a crucial role in the unfolding events. The close proximity between the two locations facilitated the visits of sympathy mentioned in the passage. St. John's use of the past tense may indicate that he saw Jerusalem as a devastated city when he wrote his Gospel. Jesus' visits to Bethany brought Him into direct contact with His adversaries, demonstrating the opposition He faced.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6835166205609082,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                47.71,
+                27.76,
+                24.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Bethany, located about two miles from Jerusalem, served as a significant backdrop for the subsequent events. The close proximity facilitated the visits of sympathy mentioned, highlighting the ease of interaction between the two places. St. John's usage of the past tense suggests his perspective of Jerusalem as a desolate city during the time of writing. Moreover, Jesus' visits to Bethany brought Him face to face with His adversaries, highlighting the opposition He encountered.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.6289237560698737,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                49.28,
+                25.03,
+                25.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

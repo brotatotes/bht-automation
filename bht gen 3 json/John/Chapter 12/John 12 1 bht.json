@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:10:42",
+    "verseRef": "John 12:1",
+    "bestBHT": {
+        "bht": "Six days before the Passover, Jesus arrived in Bethany, a place of danger after the great miracle and the rage of the Sanhedrin. He came to visit Lazarus, who had been dead but was now raised by Jesus. It was on this day, probably the Jewish Sabbath, that Jesus prepared Himself for the ultimate sacrifice, knowing that the time and place for His betrayal by Judas would come at the appointed hour. Thus, there is a perfect agreement in the account of His anointing at Bethany, where He willingly exposed Himself to danger in order to fulfill God's plan.",
+        "wordCount": 100,
+        "quoteTokenProportion": 42.25,
+        "qualityScore": 2.1138995429441634,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.63,
+        "commentatorTierSimilarities": [
+            30.24,
+            34.32,
+            35.44
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "1-8. six days before the",
+            "\tpassover\u2014that is, on the sixth day before it; probably after",
+            "\tsunset on Friday evening, or the commencement of the Jewish",
+            "\tsabbath preceding the passover."
+        ],
+        "Albert Barnes": [
+            "Then Jesus came to Bethany - This was near to Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "Which had been dead. (Omit.) He raised. For He, read Jesus."
+        ],
+        "John Calvin": [
+            "We ought not to be so hasty as not to wait patiently and quietly, till the season arrive, which is unknown to us.",
+            "He intended to give Judas a fit time and place for betraying him, that he might present himself, ready to be sacrificed, at the appointed time.",
+            "There is thus a perfect agreement in the account of his having been anointed at Bethany."
+        ],
+        "Philip Schaff": [
+            "The word therefore marks a close connection with the preceding chapter, not however with its concluding words.",
+            "The Paschal meal, therefore, was eaten at the close of the fourteenth natural day, but at the beginning of the fifteenth day according to the computation of the Jews.",
+            "It was therefore on the 8 th of Nisan, at some part of the day which we should call the Friday before the Passover, that Jesus arrived in Bethany."
+        ],
+        "Archibald T. Robertson": [
+            "Here \u03bf\u03c5\u03bd is not causal, but simply copulative and transitional, 'and so' (Bernard), as often in John.",
+            "If the crucifixion was on Friday, as seems certain from both John and the Synoptics, then six days before would be the Jewish Sabbath preceding or more probably the Friday afternoon before.",
+            "It was a place of danger now after that great miracle and the consequent rage of the Sanhedrin."
+        ],
+        "John Gill": [
+            "if there were six complete days between this and the passover, as this way of speaking seems to imply; then this must be the day before the Jewish sabbath",
+            "at this time Jesus came to Bethany, where Lazarus was, which had been dead",
+            "and hither Christ came to see him, and the rest of the family, though he knew he exposed himself to danger in so doing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Six days before the Passover, Jesus arrived in Bethany, a place of danger after the great miracle and the rage of the Sanhedrin. He came to visit Lazarus, who had been dead but was now raised by Jesus. It was on this day, probably the Jewish Sabbath, that Jesus prepared Himself for the ultimate sacrifice, knowing that the time and place for His betrayal by Judas would come at the appointed hour. Thus, there is a perfect agreement in the account of His anointing at Bethany, where He willingly exposed Himself to danger in order to fulfill God's plan.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.1138995429441634,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.63,
+            "commentatorTierSimilarities": [
+                30.24,
+                34.32,
+                35.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Six days before the Passover, Jesus arrived in Bethany, where Lazarus had been dead. It was a place of danger after the great miracle and the rage of the Sanhedrin. He exposed himself to danger in order to fulfill God's plan. There is a perfect agreement in the account of His anointing, as He prepared Himself for the ultimate sacrifice, knowing the appointed time and place for His betrayal by Judas would come.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.85759306335102,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                30.64,
+                31.3,
+                38.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Six days before the Passover, Jesus arrived in Bethany, a place of danger after that great miracle and the consequent rage of the Sanhedrin. He came to see Lazarus and the rest of the family, even though He knew He exposed himself to danger in doing so. It was on this day, probably the Jewish Sabbath, that Jesus prepared Himself to be sacrificed, knowing that He would be betrayed by Judas at the appointed time and place. Thus, there is a perfect agreement in the account of Jesus being anointed at Bethany.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.1096498100174284,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+            "commentatorTierSimilarities": [
+                27.79,
+                34.17,
+                38.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Six days before the Passover, Jesus arrived in Bethany, a place of danger after the great miracle and the rage of the Sanhedrin. He came to see Lazarus, even though He knew it exposed Himself to danger. It was on this day, probably the Jewish Sabbath, that Jesus prepared Himself for the appointed time and place of His betrayal by Judas. This visit to Bethany perfectly aligns with the account of Jesus being anointed and serves as a significant moment in His journey towards sacrifice.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.0440039246319435,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.3,
+            "commentatorTierSimilarities": [
+                28.76,
+                34.68,
+                36.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Six days before the Passover, Jesus arrived in Bethany, a place that had become dangerous after the great miracle and the consequent rage of the Sanhedrin. Despite the risk, Jesus came to see Lazarus and the rest of the family. He knew that by visiting Bethany, He was exposing Himself to danger. This visit served as a significant moment, aligning with the account of Jesus being anointed, as He prepared Himself for the appointed time and place of His betrayal by Judas.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9701139592758297,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+            "commentatorTierSimilarities": [
+                27.29,
+                35.97,
+                36.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

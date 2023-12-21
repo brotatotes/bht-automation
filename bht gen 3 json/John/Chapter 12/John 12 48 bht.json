@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:11:27",
+    "verseRef": "John 12:48",
+    "bestBHT": {
+        "bht": "Those who reject Jesus and his teachings will face the consequences on the last day. The words they have rejected will become evidence and accusation against them, with no way to escape the judgment they bring. Jesus himself will bear witness and evaluate their conduct, revealing their attitude towards God's message. Rejecting Jesus will lead to condemnation, as the word they have rejected serves as both judge and declaration of guilt. Their acceptance or rejection of the Gospel here determines their judgment in the future.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.6983200364570399,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+        "commentatorTierSimilarities": [
+            17.77,
+            40.25,
+            41.98
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "48.] See ch. iii. 18, also v. 45 ff., and Heb. iv. 12."
+        ],
+        "Albert Barnes": [
+            "That a guilty conscience needs no accuser.",
+            "That the words of Christ, and the messages of mercy which the sinner has rejected, will be remembered by him.",
+            "That this will be the source of his condemnation. This will make him miserable, and there will be no possibility of his being happy."
+        ],
+        "Marvin Vincent": [
+            "The resumptive, isolating pronoun places in emphatic prominence the teaching which is regarded as past, and separated from those to whom it was addressed. It stands, as it were, in the distance, as a witness and an accuser.",
+            "Comprehending all the sayings.",
+            "Peculiar to John."
+        ],
+        "John Calvin": [
+            "Though I should altogether hold my peace, the word alone, which you have despised, is sufficient to judge you.",
+            "Christ is rejected when we do not embrace the pure doctrine of the Gospel.",
+            "The last judgment shall be nothing else than an approbation or ratification of the doctrine of the Gospel."
+        ],
+        "Philip Schaff": [
+            "He that rejecteth me, and receiveth not my sayings, hath one that judgeth him: the word that I spake, the same shall judge him in the last day.",
+            "Even to him that word shall come, but as a judge.",
+            "The very word of Jesus which they have rejected shall declare their doom."
+        ],
+        "Archibald T. Robertson": [
+            "The same (\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2). 'That' very word of Christ which one rejects will confront him and accuse him to the Father 'at the last day.' There is no escaping it.",
+            "And yet Jesus himself will bear witness for or against the one whose conduct has already revealed his attitude towards the message of God.",
+            "One that judgeth him (\u03c4\u03bf\u03bd \u03ba\u03c1\u03b9\u03bd\u03bf\u03bd\u03c4\u03b1 \u03b1\u03c5\u03c4\u03bf\u03bd). Articular present active participle of \u03ba\u03c1\u03b9\u03bd\u03c9. See same idea in John 5:45; John 9:50."
+        ],
+        "John Gill": [
+            "He that rejecteth me...hath one that judgeth him...the word that I have spoken unto you, the same shall judge him in the last day.\" ",
+            "According to the different dispensations wicked men are under in this world, will be the rule of their judgment hereafter...such who have been under the Gospel dispensation, and have been favored with the revelation of the Gospel, but have condemned and denied it, that will judge them at the last day.\" ",
+            "The judge will act by its present declaration, and according to that proceed, as it stands in Mark 16:16. It will rise up in judgment against such persons, and be an aggravation of their condemnation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words of Jesus, which some have rejected, will ultimately serve as evidence and an accusation against them when they stand before the Father on the last day. There will be no escape from the very word that they have disregarded. Yet, Jesus himself will also be a witness, evaluating their conduct and revealing their attitude towards God's message. The decision to reject Jesus and his teachings will result in their condemnation. The word of Jesus that they have spurned will pronounce their doom, acting as both a judge and a declaration of their guilt. Whether they have accepted or rejected the Gospel during their time on earth will determine their judgment in the future.",
+            "wordCount": 116,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.6623566057428603,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.62,
+            "commentatorTierSimilarities": [
+                19.29,
+                39.74,
+                40.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rejected words of Jesus will confront and accuse those who have chosen to reject them on the last day. There is no escape from the judgment that the very word they have discarded will pass upon them. Furthermore, Jesus himself will bear witness and evaluate their conduct, revealing their stance towards God's message. Consequently, their rejection of Jesus and his teachings will lead to their condemnation. The word of Jesus, which they have spurned, will serve as both a judge and a declaration of their guilt, determining their future fate.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.677992276880968,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                19.65,
+                41.33,
+                39.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rejection of Jesus and his teachings will have consequences on the last day. The words that have been rejected will stand as evidence and accusation against those who turned away from them. There is no escape from the judgment that the very word they have disregarded will bring upon them. Jesus himself will bear witness to their conduct, reflecting their attitude towards God's message. The decision to reject Jesus will result in condemnation, as the word they have rejected will serve as both a judge and a declaration of guilt.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.6836352270427015,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                18.56,
+                40.98,
+                40.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of Jesus and his teachings will have consequences on the last day. The words that have been rejected will stand as evidence and accusation against those who turned away from them. There is no escape from the judgment that the very word they have disregarded will bring upon them. Jesus himself will bear witness to their conduct, reflecting their attitude towards God's message. The decision to reject Jesus will result in condemnation, as the word they have rejected will serve as both a judge and a declaration of guilt.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.6836352270427015,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                18.56,
+                40.98,
+                40.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who reject Jesus and his teachings will face the consequences on the last day. The words they have rejected will become evidence and accusation against them, with no way to escape the judgment they bring. Jesus himself will bear witness and evaluate their conduct, revealing their attitude towards God's message. Rejecting Jesus will lead to condemnation, as the word they have rejected serves as both judge and declaration of guilt. Their acceptance or rejection of the Gospel here determines their judgment in the future.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6983200364570399,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                17.77,
+                40.25,
+                41.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

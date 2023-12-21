@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:11:14",
+    "verseRef": "John 12:30",
+    "bestBHT": {
+        "bht": "The voice that was heard, though some perceived it as thunder, was not for Jesus' sake, but for the sake of those who did not understand its meaning. Just as the testimonies at Jesus' Baptism and Transfiguration were given for the benefit of others, so too was this voice from heaven. It was meant to correct the negative impressions and provide a mysterious prayer for deliverance. Jesus emphasizes that the voice did not come because of Him, but rather for the sake of those who heard it, to convince them that He was the Messiah and to leave them without excuse.",
+        "wordCount": 101,
+        "quoteTokenProportion": 53.33,
+        "qualityScore": 1.9809759400054583,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.21,
+        "commentatorTierSimilarities": [
+            28.86,
+            32.56,
+            38.57
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The voice had been heard by those, who did not apprehend its meaning, as thunder.",
+            "Our Lord does not say that the assurance was not made for His sake:\u2014He had prayed, and His prayer had been answered:\u2014but that it had not been thus outwardly expressed for His, but for their sake.",
+            "This is likewise true in the case of all testimonies to Him; and especially of those two other voices from heaven,\u2014at His Baptism and His Transfiguration."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This voice came not because of me, but for your sakes.",
+            "To correct the unfavorable impressions.",
+            "Mysterious prayer for deliverance."
+        ],
+        "Albert Barnes": [
+            "Not to strengthen or confirm me; not that I had any doubts about my course, or any apprehension that God would not approve me and glorify his name.",
+            "To give you a striking and indubitable proof that I am the Messiah.",
+            "That you may remember it when I am departed, and be yourselves comforted, supported, and saved."
+        ],
+        "Marvin Vincent": [
+            "For my sake. Emphatic in the Greek order. It is not for my sake that this voice hath come."
+        ],
+        "John Calvin": [
+            "Had Christ no need of being strengthened, or did the Father care less for him than for us?",
+            "But we must attend to this principle. As it was on our account that Christ clothed himself with flesh, so all the blessings which he received from the Father were bestowed on our account.",
+            "Besides, there is here an indirect reproof, that the Jews are deaf like stones to the voice of God; for since God speaks for their sake, there can be no excuse for their ingratitude when they do not lend their ears."
+        ],
+        "Philip Schaff": [
+            "Not for my sake hath this voice come, but for your sakes.",
+            "He needed not the voice, for he knew that He was one with the Father, and that He was carrying out the Father's will.",
+            "To show them that in all this there was no defeat on His part, but only the carrying out of the eternal purpose of the Father, the words were spoken."
+        ],
+        "Archibald T. Robertson": [
+            "Not for my sake, but for your sakes.\" ",
+            "These words seem to contradict verses John 12:28; John 12:29.",
+            "But why not take it to be the figure of exaggerated contrast, 'not merely for my sake, but also for yours'?"
+        ],
+        "John Gill": [
+            "This voice came not because of me; at least not only and chiefly; it was not so much in answer to his prayer, or in order to comfort him under the apprehensions he had of his sufferings and death, or to assure him of his future glorification, though all this was true.\" ",
+            "But for your sakes; to convince them that he was the Messiah, and engage them to believe in him, or to leave them without excuse; since not only miracles were wrought before their eyes, but with their ears they heard God speaking to him.",
+            "And which is the rule that they themselves prescribe; for according to them, no man is to be hearkened to, though he should do as many signs and wonders as Moses, the son of Amram, unless they hear with their ears, that the Lord speaks to him as he did to Moses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The voice that was heard, though some perceived it as thunder, was not for Jesus' sake, but for the sake of those who did not understand its meaning. Just as the testimonies at Jesus' Baptism and Transfiguration were given for the benefit of others, so too was this voice from heaven. It was meant to correct the negative impressions and provide a mysterious prayer for deliverance. Jesus emphasizes that the voice did not come because of Him, but rather for the sake of those who heard it, to convince them that He was the Messiah and to leave them without excuse.",
+            "wordCount": 101,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 1.9809759400054583,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.21,
+            "commentatorTierSimilarities": [
+                28.86,
+                32.56,
+                38.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The voice that was heard, though some perceived it as thunder, was not for Jesus' sake, but for the sake of those who did not understand its meaning. Just as the testimonies at Jesus' Baptism and Transfiguration were given for the benefit of others, so too was this voice from heaven. It was meant to correct the negative impressions and provide a mysterious prayer for deliverance. Jesus emphasizes that the voice did not come because of Him, but rather for the sake of those who heard it, to convince them that He was the Messiah and to leave them without excuse.",
+            "wordCount": 101,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 1.9809759400054583,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.21,
+            "commentatorTierSimilarities": [
+                28.86,
+                32.56,
+                38.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The voice heard, initially mistaken for thunder, was not meant for Jesus' sake but for the benefit of those who did not comprehend its meaning. This pattern is consistent with previous testimonies from heaven, such as at Jesus' Baptism and Transfiguration. The purpose of these divine voices is to correct misconceptions and offer a mysterious prayer for deliverance. Jesus emphasizes that the voice did not come because of Him, but rather for the sake of those who heard it, to convince them of His Messianic identity and remove any excuse for disbelief.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8922372632320936,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.26,
+            "commentatorTierSimilarities": [
+                30.48,
+                31.3,
+                38.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The voice that sounded like thunder was not for Jesus' own benefit, but for the sake of those who did not understand its meaning. Similar to the testimonies at Jesus' Baptism and Transfiguration, these divine voices aim to correct misconceptions and serve as a mysterious prayer for deliverance. Jesus clarifies that the voice did not come because of Him, but for the sake of those who heard it, to convince them of His Messianic identity and remove any excuse for unbelief.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.0651531929506173,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+            "commentatorTierSimilarities": [
+                30.46,
+                31.21,
+                38.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The voice, initially mistaken for thunder, came not for Jesus' sake, but for the sake of those who could not understand its meaning. Just as the testimonies at Jesus' Baptism and Transfiguration served a purpose beyond His own assurance, this voice from heaven aimed to correct misconceptions and provide a mysterious prayer for deliverance. Emphasizing that the voice did not come because of Him, Jesus intended to convince others of His Messianic identity and leave them without excuse for disbelief.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.070082622185611,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.17,
+            "commentatorTierSimilarities": [
+                30.65,
+                31.27,
+                38.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

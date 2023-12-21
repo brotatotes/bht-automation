@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:12:59",
+    "verseRef": "John 15:8",
+    "bestBHT": {
+        "bht": "Bearing much fruit is the ultimate goal of being a disciple of Christ. It goes beyond achieving success in the apostolic mission and encompasses personal growth in manifesting the fruits of the Spirit. By remaining in Christ's word, we enter into a vital union that leads to a fruitful life, bringing glory to God. Our fruitfulness not only confirms our discipleship but also signifies progress and growth. Through our actions and holy living, we display the power, grace, and mercy of God to the world, truly exemplifying what it means to be disciples of Christ.",
+        "wordCount": 96,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.069043319715843,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+        "commentatorTierSimilarities": [
+            31.85,
+            27.39,
+            40.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The much fruit is not merely \u2018large success in the apostolic mission,\u2019 but \u2018individual advance in bringing forth the fruits of the Spirit.\" (Quote 1)",
+            "It is the foundation of being a Christian, to become a disciple of Christ: it is the completion of being a Christian, to be a disciple of Christ.\" (Quote 2)",
+            "According to the reading with the verb in the future, the actual result of what precedes is stated: and so ye shall become My disciples.\" (Quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Glorified that ye bear much fruit\u2014not only from His delight in it for its own sake, but as from 'the juices of the Living Vine.'\" ",
+            "So shall ye be my disciples\u2014evidence your discipleship."
+        ],
+        "Albert Barnes": [
+            "Bear much fruit - Are fruitful in good works; are faithful, zealous, humble, devoted, always abounding in the work of the Lord. This honors God.\" ",
+            "It is not by profession, but it is by a holy life, that the character is tried. This is a test which it is easy to apply, and one which decides the case.\" ",
+            "Nor should anyone take comfort in the belief that he is a Christian who does not aim to do much good, and who does not devote to God all that he has in an honest effort to glorify his name, and to benefit a dying world."
+        ],
+        "Marvin Vincent": [
+            "In the perfect unity of will between the Son and the disciple, which results in the disciple's obtaining whatever he asks, the Father is glorified.\" ",
+            "The design of this glorification is that you may bear much fruit.\" ",
+            "Christian discipleship implies progress and growth."
+        ],
+        "John Calvin": [
+            "We ought not to doubt that God will listen to the prayers of his people, when they desire to be rendered fruitful; for this contributes very greatly to his glory.",
+            "There is nothing which we ought to value more highly than that the name of God may be glorified by us.",
+            "He declares that he has no one in his flock who does not bear fruit to the glory of God."
+        ],
+        "Philip Schaff": [
+            "The purpose is union, communion, fellowship; and out of these flows an ever-increasing bearing of fruit, and an ever-growing conformity of the believer with his Lord.",
+            "Hence the rendering 'was glorified' seems preferable to 'is glorified.' It is an ideal state of things with which we are dealing.",
+            "The much fruit and the discipleship referred to do not belong only to the present, but are also future and continuous."
+        ],
+        "Archibald T. Robertson": [
+            "Herein, in the vital union and the much fruit bearing.",
+            "Is glorified, another timeless first aorist passive indicative.",
+            "Become my disciples (learners) in the fullest sense of rich fruit-bearing."
+        ],
+        "John Gill": [
+            "The fruitfulness of the disciples...shows them to be trees of righteousness, the planting of the Lord, and the work of his hands; wherein the glory of his power, grace, and mercy, is greatly displayed.",
+            "By the fruitfulness of grace, and of life and conversation, by the lively exercise of grace, and conscientious discharge of duty, disciples of Christ not only glorify God themselves but are the means of others glorifying him.",
+            "Just as good fruit does not make the tree good; the tree is first good, and therefore it brings forth good fruit; but shows it to be good: as by continuing in his word, abiding by his Gospel they appeared to be 'disciples indeed', John 8:31, really and truly such."
+        ],
+        "John Wesley": [
+            "So shall ye be my disciples \u2014 Worthy of the name. To be a disciple of Christ is both the foundation and height of Christianity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the importance of bearing much fruit, which goes beyond achieving large success in the apostolic mission, but rather encompasses the individual advancement in bringing forth the fruits of the Spirit. By becoming disciples of Christ and remaining in His word, we participate in the divine unity and bear fruit that brings glory to God. This fruit-bearing not only demonstrates our discipleship but also leads to progress and growth in our Christian journey. As we aim to do much good, devote ourselves to God, and live holy lives, we honor God and display His power, grace, and mercy to the world. By seeking to be rendered fruitful, we glorify the name of God and truly become disciples worthy of the name.",
+            "wordCount": 124,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 2.0664739258872618,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "commentatorTierSimilarities": [
+                28.76,
+                28.38,
+                42.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Bearing much fruit goes beyond the apostolic mission and reflects individual growth in bringing forth the fruits of the Spirit. Discipleship is both the foundation and completion of being a Christian. By remaining in Christ's word and experiencing the vital union with Him, we can bear much fruit that glorifies God. This fruit-bearing is a testament to our discipleship and signifies progress and growth in our Christian journey. By dedicating ourselves to doing good and living holy lives, we honor God and display His power, grace, and mercy to the world. As we strive to be fruitful, we truly become disciples that glorify the name of God.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 2.0728992448399555,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+            "commentatorTierSimilarities": [
+                31.42,
+                26.99,
+                41.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Bearing much fruit is not simply achieving success in the apostolic mission, but rather signifies individual progress in bringing forth the fruits of the Spirit. It is the essence of being a disciple of Christ and the culmination of Christian faith. By remaining in His word and experiencing vital union with Him, we display a fruitful life that brings glory to God. This fruit-bearing not only validates our discipleship, but also indicates growth and advancement in our Christian journey. Through our devoted actions and holy living, we honor God and manifest His power, grace, and mercy to the world. Truly becoming disciples, we exemplify the name of God.",
+            "wordCount": 109,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.9753922728351627,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                30.56,
+                27.28,
+                42.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Bearing much fruit is the ultimate goal of being a disciple of Christ. It goes beyond achieving success in the apostolic mission and encompasses personal growth in manifesting the fruits of the Spirit. By remaining in Christ's word, we enter into a vital union that leads to a fruitful life, bringing glory to God. Our fruitfulness not only confirms our discipleship but also signifies progress and growth. Through our actions and holy living, we display the power, grace, and mercy of God to the world, truly exemplifying what it means to be disciples of Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.069043319715843,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                31.85,
+                27.39,
+                40.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Bearing much fruit is not only about achieving success in the apostolic mission, but it signifies personal growth in bringing forth the fruits of the Spirit. It is the foundation and completion of being a disciple of Christ. By remaining in His word and experiencing a vital union with Him, we can bear fruit that glorifies God. This fruit-bearing demonstrates our discipleship, as well as leads to progress and growth in our Christian journey. By dedicating ourselves to doing good and living holy lives, we honor God and display His power, grace, and mercy to the world.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.027669859281051,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                31.59,
+                26.52,
+                41.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

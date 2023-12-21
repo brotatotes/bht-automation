@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:09:02",
+    "verseRef": "John 8:35",
+    "bestBHT": {
+        "bht": "If we only have a connection with God's family as bond-servants, our tie to the house is precarious; we must be manumitted and adopted as sons and daughters of the Lord Almighty for a real, rightful, and permanent relationship. Unlike a slave, who has no permanent place in the house and can be cast out, the Son, the Lord Jesus Christ, will always continue as a Son in his own house.",
+        "wordCount": 73,
+        "quoteTokenProportion": 49.06,
+        "qualityScore": 2.8124669893233394,
+        "qualityScoreNormalizedComparedToV2BHTs": 84.85,
+        "commentatorTierSimilarities": [
+            38.69,
+            35.16,
+            26.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord shows them that there may be, of that seed, two kinds; the son, properly so called, and the slave.",
+            "The latter does not abide in the house forever: it is not his right nor his position.",
+            "'But the son abideth ever.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And if your connection with the family of God be that of BOND-SERVANTS, ye have no natural tie to the house; your tie is essentially uncertain and precarious. But the SON'S relationship to the FATHER is a natural and essential one; it is an indefeasible tie; His abode in it is perpetual and of right.",
+            "If, then, ye would have your connection with God's family made real, rightful, permanent, ye must by the Son be manumitted and adopted as sons and daughters of the Lord Almighty.",
+            "That is My relationship, My tie: If, then, ye would have your connection with God's family made real, rightful, permanent, ye must by the Son be manumitted and adopted as sons and daughters of the Lord Almighty."
+        ],
+        "Albert Barnes": [
+            "The servant does not, of course, remain forever, or until his death. with his master... He is not the heir, and may at any time be expelled from the house of his master.\" ",
+            "So said the Saviour to the Jews: 'You, if you are disobedient and rebellious, may at any time be rejected from being the people of God, and be deprived of your special privileges as a nation.'",
+            "The Son - The heir. He remains, and cannot be sold or cast off. Ever - Continually. Till the day of his death. This is the privilege of a son, to inherit and dispose of the property."
+        ],
+        "Marvin Vincent": [
+            "A slave has no permanent place in the house. He may be sold, exchanged, or cast out.\" ",
+            "The elder son in the parable of the prodigal denies his sonship by the words, 'These many years do I serve thee [\u03b4\u03bf\u03c5\u03bb\u03b5\u03c5\u03c9].' ",
+            "House. See Hebrews 3:6; John 14:2."
+        ],
+        "John Calvin": [
+            "He adds a comparison, taken from the laws and from political law.",
+            "He accuses the Jews of vanity, because they hold but a mask instead of the reality.",
+            "They held a place in the Church of God, but such a place as Ishmael, a slave, rising up against his freeborn brother, usurped for a short time."
+        ],
+        "Philip Schaff": [
+            "The Jews believed that they were free, the sons of God; and that, as such, they were permanent possessors of His house, and thus permanent recipients of His favour and love, inheritors of eternal life.",
+            "They are not God\u2019s sons, but slaves of sin.",
+            "A son only can claim a place in the house and the possession of what belongs to the house, as a right permanent, uninterrupted, as long as he is a son."
+        ],
+        "Archibald T. Robertson": [
+            "The slave has no footing or tenure and may be cast out at any moment while the son is the heir and has a permanent place.",
+            "The contrast between the positions of the son and the slave in the house.",
+            "Christ as Son (\u03c5\u03b9\u03bf\u03c2) over God's house."
+        ],
+        "John Gill": [
+            "The servant of God, and of Christ, does, but not the servant of sin: there may be servants of sin in the house or church of God here below; and such were these Jews Christ is speaking to; but such shall not abide there for ever.",
+            "None but sons are brought to glory; these are the only heirs of salvation; others will be bid to depart, as workers of iniquity, as the servants of sin; even such who have made a profession of religion, and have been, and have had a standing in the house of God below.",
+            "The Son of God, the only begotten Son of God the Lord Jesus Christ will always continue as a Son in his own house, as the Lord and proprietor of it; and as an high priest over it, having an unchangeable priesthood; and as he that takes care of it, provides for it, and manages all the affairs thereof, the family in heaven and in earth being named of him. And as he, so all the adopted sons of God shall continue, being pillars in this house, that shall never go out."
+        ],
+        "John Wesley": [
+            "All sinners shall be cast out of God's house, as the slave was out of Abraham's...",
+            "...but I, the Son, abide therein for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If our connection with God's family is that of bond-servants, our tie to the house is uncertain and precarious. But if we are manumitted and adopted as sons and daughters of the Lord Almighty, our relationship becomes real, rightful, and permanent. A slave has no permanent place in the house, but the son is the heir and has a permanent place. We, as slaves of sin, cannot abide in the house forever. Only the Son, who is the Lord Jesus Christ, will always continue as a Son in his own house.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.443183151314349,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.58,
+            "commentatorTierSimilarities": [
+                37.35,
+                35.29,
+                27.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we only have a connection with God's family as bond-servants, our tie to the house is precarious; we must be manumitted and adopted as sons and daughters of the Lord Almighty for a real, rightful, and permanent relationship. Unlike a slave, who has no permanent place in the house and can be cast out, the Son, the Lord Jesus Christ, will always continue as a Son in his own house.",
+            "wordCount": 73,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.8124669893233394,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.85,
+            "commentatorTierSimilarities": [
+                38.69,
+                35.16,
+                26.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If our connection with God's family is that of bond-servants, our tie to the house is uncertain and precarious. But if we are manumitted and adopted as sons and daughters of the Lord Almighty, our relationship becomes real, rightful, and permanent. A slave has no permanent place in the house, but the Son, who is the Lord Jesus Christ, will always continue as a Son in his own house.",
+            "wordCount": 71,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.4351815473700373,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.31,
+            "commentatorTierSimilarities": [
+                40.67,
+                33.97,
+                25.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If our connection with God's family is that of bond-servants, our tie to the house is uncertain and precarious. Yet, if we are manumitted and adopted as sons and daughters of the Lord Almighty, our relationship becomes real, rightful, and permanent. Unlike a slave who has no permanent place in the house, the Son, the Lord Jesus Christ, will always continue as a Son in his own house.",
+            "wordCount": 70,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.451660818615629,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.86,
+            "commentatorTierSimilarities": [
+                40.14,
+                34.54,
+                25.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If our connection with God's family is that of bond-servants, our tie to the house is uncertain and precarious. But if we are manumitted and adopted as sons and daughters of the Lord Almighty, our relationship becomes real, rightful, and permanent. A slave has no permanent place in the house, but the Son, who is the Lord Jesus Christ, will always continue as a Son in his own house.",
+            "wordCount": 71,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.4351815473700373,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.31,
+            "commentatorTierSimilarities": [
+                40.67,
+                33.97,
+                25.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

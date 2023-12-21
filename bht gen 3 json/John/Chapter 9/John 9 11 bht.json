@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:09:08",
+    "verseRef": "John 9:11",
+    "bestBHT": {
+        "bht": "The restoration of this man's sight was viewed as a recovery since sight is regarded as natural and the loss of it a deprivation. He obeyed Jesus' command to go to Siloam and by doing so, he recovered sight that he had never had before. Although he did not yet recognize Jesus as the Messiah, he followed His instructions and was rewarded with the restoration of his vision. This account highlights the importance of obedience and trust in the Lord's guidance, even when we may not fully comprehend His plans.",
+        "wordCount": 92,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.576007387976673,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+        "commentatorTierSimilarities": [
+            29.47,
+            35.9,
+            34.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Sight being natural to men, the deprivation of it is regarded as a loss.\" ",
+            "The reception of [sight], though never enjoyed before, is a recovery."
+        ],
+        "Marvin Vincent": [
+            "Go to Siloam.",
+            "Received sight. Originally, to look up, [...] but better, I recovered sight.",
+            "I recovered sight."
+        ],
+        "John Calvin": [
+            "So happy a result of obedience warns us to surmount every obstacle, and to proceed courageously wherever the Lord calls us.\" ",
+            "Not even to entertain a doubt that everything which we undertake by his authority, and under his guidance, will have a prosperous issue."
+        ],
+        "Philip Schaff": [
+            "This man, then, knew his Deliverer, though not His true nature.",
+            "The wording of the phrase would seem to imply that he had in his thoughts the meaning of the name \u2018Jesus,\u2019 so wonderfully illustrated in his own case.",
+            "He answered, The man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to Siloam, and wash. I went away therefore and washed, and I received sight."
+        ],
+        "Archibald T. Robertson": [
+            "He does not yet know Jesus as the Messiah the Son of God.",
+            "I received sight...He got back sight that he had never had.",
+            "Originally the verb means to look up."
+        ],
+        "John Gill": [
+            "A man that is called Jesus...whom he had as yet little knowledge of, only by some means or another he had learned his name.\" ",
+            "Made clay and anointed mine eyes.\" ",
+            "He answered and said..."
+        ],
+        "John Wesley": [
+            "A man called Jesus \u2014 He seems to have been before totally ignorant of him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man in this verse had lost his sight and, therefore, he considered the restoration of his vision a recovery. He received sight, or rather recovered sight, as he had never experienced it before. This man, however, did not yet recognize Jesus as the Messiah, only knowing Him as a man called Jesus. Despite his lack of knowledge, the man obeyed Jesus' command to go to Siloam and wash, resulting in the restoration of his sight. This demonstrates the importance of obedience and the need to trust in the Lord's guidance, even when we may not fully understand His ways.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6435773621350924,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                26.12,
+                37.32,
+                36.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The restoration of this man's sight was viewed as a recovery since sight is regarded as natural and the loss of it a deprivation. He obeyed Jesus' command to go to Siloam and by doing so, he recovered sight that he had never had before. Although he did not yet recognize Jesus as the Messiah, he followed His instructions and was rewarded with the restoration of his vision. This account highlights the importance of obedience and trust in the Lord's guidance, even when we may not fully comprehend His plans.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.576007387976673,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                29.47,
+                35.9,
+                34.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The restoration of this man's sight was seen as a recovery, as sight is considered a natural ability that is lost when deprived. He followed Jesus' command to go to Siloam and was rewarded with the restoration of his vision, which he had never experienced before. Although he did not yet recognize Jesus as the Messiah, he obeyed His instructions and received the blessing of sight. This story serves as a reminder of the importance of obedience and trust in following the guidance of the Lord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5167756300631958,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                32.18,
+                34.97,
+                32.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The restoration of sight in this story is depicted as a recovery, as losing sight is considered a loss. By following Jesus' instruction to go to Siloam, the man regained his sight, which he never had before. While he didn't fully comprehend Jesus' identity as the Messiah, he obeyed and received the blessing of sight. This account emphasizes the significance of obedience and trust in the Lord's guidance, even when we may not fully understand His plans.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6095085298472602,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                30.13,
+                36.3,
+                33.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Losing one's sight is perceived as a loss, thus the restoration of sight is regarded as a recovery. The man in the story recovered sight that he had never previously experienced. Although he hadn't recognized Jesus as the Messiah, he obeyed His command to go to Siloam and received the blessing of restored vision. This narrative shows the importance of obedience and trust in following the guidance of the Lord, even without a complete understanding of His plans.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.4983091050765327,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.16,
+            "commentatorTierSimilarities": [
+                40.96,
+                29.19,
+                29.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

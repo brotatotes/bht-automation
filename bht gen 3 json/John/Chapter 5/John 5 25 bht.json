@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:06:45",
+    "verseRef": "John 5:25",
+    "bestBHT": {
+        "bht": "The hour is coming, and now is the spiritually dead. Jesus calls them to awake, speaking through His preaching, His apostles, and His ministers. He brings a resurrection-power to those who are dead in trespasses and sins, allowing them to come to life spiritually. Jesus declared that those who have heard His voice shall live, and sinners were brought to spiritual life under His ministry. The grace of Christ is a true resurrection from the dead, bestowed upon the elect through the Gospel. The voice of the Son of God is the voice of love, grace, mercy, and salvation.",
+        "wordCount": 100,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.294685696667997,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.64,
+        "commentatorTierSimilarities": [
+            31.13,
+            32.23,
+            36.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The hour is coming, and now is...the spiritually dead:\u2014see below on ver. 28.\" ",
+            "His call to awake, in its widest and deepest sense;\u2014by His own preaching, by His Apostles, His ministers, &c. &c. In all these He speaks to the spiritually dead.",
+            "They who have heard it (or, who hear it) shall live. This determines the verse to be spoken of spiritual, not bodily awakening."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The hour cometh... and now is.\" ",
+            "He rises from the calmer phrase 'hearing his word'... to signify that as it finds men in a dead condition, so it carries with it a resurrection-power.\" ",
+            "Shall live - in the sense of John 5:24."
+        ],
+        "Albert Barnes": [
+            "Sinners were converted under his ministry and brought to spiritual life.",
+            "Jesus raised up the dead by his command, or by his authority.",
+            "So it is by his command that those who are dead in sins are quickened or made alive."
+        ],
+        "Marvin Vincent": [
+            "The dead. Spiritually."
+        ],
+        "John Calvin": [
+            "When the Evangelist represents the Son of God as swearing so frequently in reference to our salvation, hence we perceive, first, how eagerly he desires our welfare, and next, of how great importance it is that the faith of the Gospel should be deeply fixed and thoroughly confirmed.",
+            "Christ declares that we are fully condemned to death. And indeed as we have been, since the revolt of the first man, alienated from God through sin, all who do not acknowledge that they are overwhelmed with everlasting destruction do nothing else than deceive themselves by empty flatteries.",
+            "The grace of Christ is a true resurrection from the dead. This grace is conferred on us by the Gospel...For he does not speak indiscriminately of all the dead, but means the elect only, whose ears God pierces and opens, that they may receive the voice of his Son, which restores them to life."
+        ],
+        "Philip Schaff": [
+            "An hour cometh, and now is, when the dead shall hear the voice of the Son of God: and they that have heard shall live.",
+            "The \u2018will show\u2019 is brought into prominence, for it is of the historical fulfilment of those words that the verse before us speaks.",
+            "In saying \u2018the voice of the Son of God,\u2019 Jesus recalls to our thought all the majesty of His first words."
+        ],
+        "Archibald T. Robertson": [
+            "Not the future resurrection in verse John 5:28, but the spiritual resurrection here and now.",
+            "The spiritually dead, dead in trespasses and sins.",
+            "Shall come to life spiritually."
+        ],
+        "John Gill": [
+            "the dead shall hear the voice of the Son of God, and they that hear shall live\" ",
+            "the dead in trespasses and sins; who are separated from God, alienated from the life of God, and in whom the image of God is defaced",
+            "the voice of Christ is intended his Gospel, which is a voice of love, grace, and mercy, of life and liberty, of peace, pardon, righteousness, and salvation by him"
+        ],
+        "John Wesley": [
+            "The dead shall hear the voice of the Son of God \u2014 So did Jairus's daughter, the widow's son, Lazarus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The hour is coming, and now is the spiritually dead. Jesus calls them to awake, speaking through His preaching, His apostles, and His ministers. He brings a resurrection-power to those who are dead in trespasses and sins, allowing them to come to life spiritually. This is not referring to the future resurrection, but rather the spiritual resurrection that can happen here and now. Jesus declared that those who have heard His voice shall live, and sinners were converted and brought to spiritual life under His ministry. The grace of Christ is a true resurrection from the dead, bestowed upon the elect through the Gospel. The voice of the Son of God, which restores the dead to life, is the voice of love, grace, mercy, and salvation.",
+            "wordCount": 127,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.321428629619465,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.53,
+            "commentatorTierSimilarities": [
+                32.61,
+                31.15,
+                36.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The hour is coming, and now is the spiritually dead. Jesus calls them to awake, speaking through His preaching, His apostles, and His ministers. He brings a resurrection-power to those who are dead in trespasses and sins, allowing them to come to life spiritually. Jesus declared that those who have heard His voice shall live, and sinners were brought to spiritual life under His ministry. The grace of Christ is a true resurrection from the dead, bestowed upon the elect through the Gospel. The voice of the Son of God is the voice of love, grace, mercy, and salvation.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.294685696667997,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.64,
+            "commentatorTierSimilarities": [
+                31.13,
+                32.23,
+                36.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The hour is coming, and now is the spiritually dead. Jesus calls them to awake, speaking through His preaching. This determines the verse to be spoken of spiritual, not bodily awakening. He brings a resurrection-power to those who are dead in trespasses and sins, allowing them to come to life spiritually. The grace of Christ is a true resurrection from the dead, bestowed upon the elect through the Gospel. The voice of the Son of God is the voice of love, grace, mercy, and salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2618163732379806,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.55,
+            "commentatorTierSimilarities": [
+                33.99,
+                30.58,
+                35.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The hour is coming, and now is the spiritually dead. Jesus calls them to awake, speaking through His preaching and His ministers. He brings a resurrection-power to those who are dead in trespasses and sins, allowing them to come to life spiritually. The grace of Christ is a true resurrection from the dead, bestowed upon the elect through the Gospel. The voice of the Son of God is the voice of love, grace, mercy, and salvation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.2750889667013245,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.99,
+            "commentatorTierSimilarities": [
+                32.71,
+                30.39,
+                36.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The hour is coming, and now is the spiritually dead. Jesus calls them to awake, speaking through His preaching, His apostles, and His ministers. He brings a resurrection-power to those who are dead in trespasses and sins, allowing them to come to life spiritually. Jesus declared that those who have heard His voice shall live, and sinners were converted and brought to spiritual life under His ministry. The grace of Christ is a true resurrection from the dead, bestowed upon the elect through the Gospel. The voice of the Son of God is the voice of love, grace, mercy, and salvation.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.2910656934159874,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.52,
+            "commentatorTierSimilarities": [
+                31.08,
+                32.23,
+                36.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

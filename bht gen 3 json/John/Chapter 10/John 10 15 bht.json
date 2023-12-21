@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:09:44",
+    "verseRef": "John 10:15",
+    "bestBHT": {
+        "bht": "Jesus affirms the intimate knowledge shared between Himself and the Father, emphasizing His sacrificial love for His sheep. By laying down His life for them, He embodies the role of the Good Shepherd, displaying profound devotion. This selfless act not only serves as an example to follow, but it primarily aims to save the sheep from the dangers of sin and the attacks of the enemy. The depth of Jesus' love is evident in His willingness to both reach up to the throne of God and embrace the experience of death.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.733182537764423,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+        "commentatorTierSimilarities": [
+            29.62,
+            31.41,
+            38.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As the Father knoweth me and I know the Father.",
+            "The Lord lays down His life strictly and properly, and in the depths of the divine counsel.",
+            "For those who are his sheep."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What claim to absolute equality with the Father could exceed this?",
+            "It is the riches and the poverty of 'the Word made flesh'\u2014one glorious Person reaching at once up to the Throne and down even to the dust of death.",
+            "A candid interpretation of the words, 'for the sheep,' ought to go far to establish the special relation of the vicarious death of Christ to the Church."
+        ],
+        "Albert Barnes": [
+            "I lay down my life for the sheep - That is, I give my life as an atoning sacrifice for their sins.",
+            "I die in their place, to redeem them from sin, and danger, and death.",
+            "See John 10:17-18."
+        ],
+        "Marvin Vincent": [
+            "As the Father knoweth me. Connect these words with the previous sentence : mine own know me, even as the Father knoweth me, etc."
+        ],
+        "John Calvin": [
+            "It is no more possible for him to forget us, than that he should be rejected or disregarded by the Father.",
+            "[Jesus] demands the duty which we mutually owe to him, because, as he employs all the power which he has received from the Father for our protection.",
+            "[Jesus] wishes that we should be obedient and devoted to him, as he is wholly devoted to his Father, and refers everything to him."
+        ],
+        "Archibald T. Robertson": [
+            "And I know the Father... Hence he is qualified to reveal the Father.\" ",
+            "We cannot claim such perfect knowledge of the Good Shepherd as exists between the Father and the Son and yet the real sheep do know the Shepherd's voice and do love to follow his leadership here and now in spite of thieves, robbers, wolves, hirelings.",
+            "This he does not just as an example for the sheep and for under-shepherds, but primarily to save the sheep from the wolves, the thieves and robbers."
+        ],
+        "John Gill": [
+            "The mutual knowledge of Christ, and his sheep, is like that which his Father and he have of each other.",
+            "The Father knows Christ as his own Son, and loves him as such, in the most strong and affectionate manner.",
+            "And I lay down my life for the sheep; which proves him to be the good shepherd."
+        ],
+        "John Wesley": [
+            "With such a knowledge as implies an inexpressible union.",
+            "I lay down my life - Speaking of the present time.",
+            "For his whole life was only a going unto death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 10:15, Jesus affirms the intimate relationship between Himself and the Father, emphasizing His sacrificial love for His sheep. He declares that just as the Father knows Him, so does He know the Father. This mutual knowledge denotes a profound union and reveals Jesus' authority to reveal the Father to humanity. His willingness to lay down His life for His sheep exemplifies the depth of His love and demonstrates His role as the Good Shepherd. This sacrificial act not only serves as an example, but primarily aims to save the sheep from the dangers of sin and the attacks of the enemy.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8352462501213767,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                36.74,
+                23.62,
+                39.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus expresses the depth of His relationship with the Father and His sacrificial love for His sheep. His statement that the Father knows Him and He knows the Father reveals a profound union between them. By laying down His life for His sheep, Jesus exemplifies Himself as the Good Shepherd, demonstrating His love and dedication. This act of sacrifice serves not only as an example but also as a means of salvation, protecting the sheep from sin and the attacks of the enemy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.9229145327136536,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                34.35,
+                26.69,
+                38.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Jesus speaks of the profound mutual knowledge between Himself and the Father, highlighting the depths of their relationship. He emphasizes His sacrificial act of laying down His life for His sheep, revealing His role as the Good Shepherd. By giving Himself as an atoning sacrifice, Jesus demonstrates His love and commitment to His sheep, protecting them from the dangers of sin and the attacks of the enemy. His selfless act serves as both an example and a means of salvation for His beloved flock.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7884238949984193,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+            "commentatorTierSimilarities": [
+                29.35,
+                33.48,
+                37.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus affirms the intimate knowledge shared between Himself and the Father, emphasizing His sacrificial love for His sheep. By laying down His life for them, He embodies the role of the Good Shepherd, displaying profound devotion. This selfless act not only serves as an example to follow, but it primarily aims to save the sheep from the dangers of sin and the attacks of the enemy. The depth of Jesus' love is evident in His willingness to both reach up to the throne of God and embrace the experience of death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.733182537764423,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                29.62,
+                31.41,
+                38.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus declares the deep knowledge between Himself and the Father, emphasizing His sacrificial love for His sheep. This intimate understanding highlights His divine nature and the special relationship He shares with His followers. By laying down His life for His sheep, Jesus demonstrates His role as the Good Shepherd, protecting them from harm and ensuring their salvation. This act of selflessness serves as both an example and a means of rescue, showcasing the extent of His love and commitment to His beloved flock.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.7201429278317149,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                31.93,
+                27.08,
+                40.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

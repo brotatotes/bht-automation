@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:15:43",
+    "verseRef": "John 21:11",
+    "bestBHT": {
+        "bht": "After an entire night of fishing with no success, the disciples were astounded by the abundant catch they witnessed. The narrator takes part in the careful counting that followed this remarkable event. The multitude and size of the fish symbolically foreshadowed the disciples' impending ministry success. The weight of the fish caused the net to strain, reflecting the difficulties of retaining those they would catch for Christ. Additionally, Jesus Himself invisibly gathers individuals who will later be recognized by the apostles. This memorable experience served as a powerful testament to the triumph of the glorified Lord.",
+        "wordCount": 96,
+        "quoteTokenProportion": 33.8,
+        "qualityScore": 1.6387627664676423,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.83,
+        "commentatorTierSimilarities": [
+            40.36,
+            30.17,
+            29.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This enumeration is singular, and not to be accounted for by any mystical significance of the number, but as betokening the careful counting which took place after the event, and in which the narrator took a part.",
+            "The careful counting which took place after the event.",
+            "The narrator took a part."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The multitude and the size of the fishes they caught symbolically foreshadowed the vast success of their now fast approaching ministry...",
+            "The net 'was breaking' through the weight of what it contained\u2014expressive of the difficulty with which, after they had 'caught men,' they would be able to retain, or keep them from escaping back into the world...",
+            "Jesus Himself, by unseen methods, gathers some, who afterwards are recognized by the constituted fishers of men, and mingle with the fruit of their labors."
+        ],
+        "Albert Barnes": [
+            "The number is mentioned because it seems to have been a very unusual draught, and it was particularly gratifying and striking to them after they had spent the whole night and had caught nothing.",
+            "This convinced them that it was no other than the same Saviour who had so often worked wonders before them that was now with them.",
+            "It was particularly gratifying and striking to them after they had spent the whole night and had caught nothing."
+        ],
+        "Marvin Vincent": [
+            "Great fishes. All authorities agree as to the abundance of fish in the Lake of Galilee.",
+            "Bethsaida (...) means House of the Fisheries.",
+            "Possibly the expression great fishes may imply a contrast with the small fishes which swarmed in the lake, and the salting and pickling of which was a special industry among its fishermen."
+        ],
+        "Philip Schaff": [
+            "No fish was lost.",
+            "The fishes drawn to shore by means of the net were \u2018great:\u2019 yet neither by their sire nor by their number was the net rent.",
+            "The contrasts all point to the difference between a ministry of trial with a suffering Lord, and a ministry of triumph with a glorified Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Peter now did what they had failed to do.",
+            "It was a great fish story that John recalls vividly.",
+            "Was not rent."
+        ],
+        "John Gill": [
+            "An emblem of the whole number of God's elect being brought safe to shore, to Christ, and to heaven, through various tribulations and afflictions in the world, fitly signified by the waves of the sea.",
+            "The power of God attending the Gospel to the regeneration, conversion, and salvation of his people.",
+            "The great usefulness of [the Gospel], however mean and despicable it may be in the eyes of men, and of its permanence and duration, until all the elect of God are gathered in by it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After spending the entire night without catching any fish, the disciples witnessed the miraculous event of a bountiful catch. The narrator emphasizes the meticulous counting that occurred after this extraordinary event. The multitude and size of the fish symbolically foreshadowed the tremendous success that awaited the disciples' ministry. Despite the net being on the verge of breaking, this difficulty alluded to the challenges they would face in retaining those they would catch for Christ. However, it is not solely the disciples' efforts that bring people to Christ; Jesus Himself invisibly gathers individuals who will later be recognized by the apostles. The mention of great fishes underscores the plentiful fish in the Lake of Galilee, and the significance of Bethsaida as the House of the Fisheries. Peter's action of hauling in the net demonstrates his leadership and obedience in fulfilling what others had failed to do. This meaningful event of an abundant catch will remain vividly engrained in John's memory, for it was a remarkable occurrence that exemplified the power and triumph of the glorified Lord.",
+            "wordCount": 177,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.6854188268392072,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                39.35,
+                31.58,
+                29.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After an entire night of fishing with no success, the disciples were astounded by the abundant catch they witnessed. The narrator takes part in the careful counting that followed this remarkable event. The multitude and size of the fish symbolically foreshadowed the disciples' impending ministry success. The weight of the fish caused the net to strain, reflecting the difficulties of retaining those they would catch for Christ. Additionally, Jesus Himself invisibly gathers individuals who will later be recognized by the apostles. This memorable experience served as a powerful testament to the triumph of the glorified Lord.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6387627664676423,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.83,
+            "commentatorTierSimilarities": [
+                40.36,
+                30.17,
+                29.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Witnessing the miraculous catch of a multitude of great fish, the disciples were amazed. The narrator emphasizes the careful counting that occurred after this extraordinary event. The size and abundance of the fish foreshadowed the immense success of the disciples' impending ministry. The strain on the net, caused by the weight of the fish, represents the challenges they would face in retaining those they would catch for Christ. Furthermore, Jesus invisibly gathers individuals who will later be recognized by the apostles. This momentous event exemplified the power and triumph of the glorified Lord.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6198096988375021,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                38.48,
+                29.02,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After a fruitless night of fishing, the disciples were astounded by the grand catch they witnessed. The narrator emphasizes the meticulous counting that followed the event. The multitude and size of the fish symbolically foreshadowed the imminent success of the disciples' ministry. The strain on the net, on the verge of breaking, illustrated the challenges of retaining those they would catch for Christ. Yet, it is Jesus Himself who covertly gathers individuals who will later be acknowledged by the apostles. This awe-inspiring catch served as a vivid reminder of the power and triumph of the glorified Lord.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.5879679546365517,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.14,
+            "commentatorTierSimilarities": [
+                39.19,
+                29.91,
+                30.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After a night of no success, the disciples were amazed by the abundant catch of great fish. The narrator provides meticulous details, emphasizing the careful counting that took place. This remarkable catch symbolically indicated the immense success the disciples would have in their ministry. The strain on the net, on the verge of breaking, represented the challenges they would face in retaining those they would catch for Christ. Additionally, Jesus Himself secretly gathers individuals who will be recognized by the apostles. This event vividly showcased the power and triumph of the glorified Lord.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.5174856955225615,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                40.52,
+                32.17,
+                27.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

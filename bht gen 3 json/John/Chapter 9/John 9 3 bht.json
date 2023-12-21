@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:09:09",
+    "verseRef": "John 9:3",
+    "bestBHT": {
+        "bht": "Jesus states that the cause of this man's blindness is not his sin or the sin of his parents, but rather for the purpose of revealing the works of God in his healing. Disease is sometimes a result of personal sin, but this case is blameless, offering comfort to those who suffer. Through this man's affliction, the love and grace of God will be manifested in his physical and spiritual restoration, displaying the power of divine grace in bringing them out of darkness into marvelous light.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.0670067833338437,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+        "commentatorTierSimilarities": [
+            22.97,
+            38.64,
+            38.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "3. Neither . . . this man,",
+            "\t&amp;c.\u2014The cause was neither in himself nor his parents, but, in",
+            "\torder to the manifestation of \"the works of God,\" in his",
+            "\tcure."
+        ],
+        "Albert Barnes": [
+            "His blindness is not the effect of his sin, or that of his parents.",
+            "This thing has happened that it might appear how great and wonderful are the works of God.",
+            "It has all happened, not by the fault of his parents or of himself, but by the wise arrangement of God, that it might be seen in what way calamities come, and in what way God meets and relieves them."
+        ],
+        "Marvin Vincent": [
+            "But that [\u03b1\u03bb\u03bb \u03b9\u03bd\u03b1] . There is an ellipsis : but (he was born blind) that."
+        ],
+        "John Calvin": [
+            "Christ does not absolutely say that the blind man, and his parents, were free from all blame; but he declares that we ought not to seek the cause of the blindness in sin.",
+            "When the causes of afflictions are concealed, we ought to restrain curiosity, that we may neither dishonor God nor be malicious towards our brethren.",
+            "Christ intended, by these words, to excite in his disciples the expectation of a miracle; but at the same time reminds them in a general manner, that this must be abundantly exhibited on the theater of the world, as the true and lawful cause, when God glorifies his name."
+        ],
+        "Philip Schaff": [
+            "Neither did this man sin, nor his parents: but that the works of God should be made manifest in him.\" ",
+            "Not to suggest or unravel speculative questions, but to present a sphere for the manifestation of the works of God, hath this man borne this infirmity.\" ",
+            "In him' alike in his physical and in his spiritual healing the love and grace of God are to be made manifest."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus denies both alternatives, and puts God's purpose as the true solution.\" ",
+            "It is sometimes true that disease is the result of personal sin... but there are cases free from blame like this.\" ",
+            "There is comfort for many sufferers in the words of Jesus here."
+        ],
+        "John Gill": [
+            "Not but that both were guilty of original sin, and had committed actual transgressions... it was not any sin that either of them had committed... that was the cause of this blindness.\" ",
+            "Otherwise, all such irregularities and afflictions arise from sin, and the fall of man... spiritual blindness with which all mankind are attended.",
+            "But that the works of God should be manifest in him... that the power of divine grace might be displayed in bringing them out of darkness into marvelous light."
+        ],
+        "John Wesley": [
+            "Neither hath this man sinned, nor his parents \u2014 It was not the manner of our Lord to answer any questions that were of no use, but to gratify an idle curiosity.",
+            "The scope of his answer is, It was neither for any sins of his own, nor yet of his parents; but that the power of God might be displayed.",
+            "It was not the manner of our Lord to answer any questions that were of no use, but to gratify an idle curiosity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The reason for this man's blindness, as Jesus states, is not because of his sin or the sin of his parents, but rather for the purpose of manifesting the works of God in his healing. Jesus denies both possibilities and emphasizes that God's purpose is the true solution. While it is true that disease can sometimes be a result of personal sin, this case is free from blame and serves as a source of comfort for many sufferers. Ultimately, this man's affliction is a means for the love and grace of God to be made manifest in his physical and spiritual healing.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.023294020212064,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                28.05,
+                37.44,
+                34.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The cause of this man's blindness, as Jesus explains, was not a result of his own sin or the sin of his parents. Instead, it was for the purpose of displaying the works of God in his healing. Jesus rejects both possibilities and highlights God's intention as the true solution. While disease can sometimes be linked to personal sin, this man's case is free from blame and offers solace to many sufferers. In both his physical and spiritual healing, the love and grace of God are wonderfully displayed.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.938810912234291,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                26.51,
+                38.69,
+                34.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The reason for this man's blindness, as Jesus states, is not because of his sin or the sin of his parents, but rather for the purpose of manifesting the works of God in his healing. Jesus denies both possibilities and emphasizes that God's purpose is the true solution. While it is true that disease can sometimes be a result of personal sin, this case is free from blame and serves as a source of comfort for many sufferers. Ultimately, this man's affliction is a means for the love and grace of God to be made manifest in his physical and spiritual healing.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.023294020212064,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                28.05,
+                37.44,
+                34.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus states that the cause of this man's blindness is not his sin or the sin of his parents, but rather for the purpose of revealing the works of God in his healing. Disease is sometimes a result of personal sin, but this case is blameless, offering comfort to those who suffer. Through this man's affliction, the love and grace of God will be manifested in his physical and spiritual restoration, displaying the power of divine grace in bringing them out of darkness into marvelous light.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.0670067833338437,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.07,
+            "commentatorTierSimilarities": [
+                22.97,
+                38.64,
+                38.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The reason behind this man's blindness, as Jesus explains, is not due to his own sin or the sin of his parents. Instead, it is for the purpose of revealing the works of God in his healing. While it is true that disease can be a consequence of personal sin, this particular case is exempt from blame and offers solace to many sufferers. Through his affliction, both his physical and spiritual healing will showcase the love and grace of God in a remarkable way.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.9845070900178297,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.33,
+            "commentatorTierSimilarities": [
+                24.92,
+                40.37,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

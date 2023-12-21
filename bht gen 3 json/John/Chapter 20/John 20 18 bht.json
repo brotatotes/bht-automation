@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:15:06",
+    "verseRef": "John 20:18",
+    "bestBHT": {
+        "bht": "Mary Magdalene, the first to see the Risen Lord, carried the news to the disciples. With great cheerfulness and faith, she faithfully related her eyewitness account of the resurrection. She carried in her heart the vision of the Risen Christ, inviting the disciples to join her in the future. Although initially doubted, Mary's message set the stage for what was to follow and reinforced the reality of the resurrection. Her honor was remarkable, being the first woman to witness the risen Redeemer and share the transformative encounter.",
+        "wordCount": 88,
+        "quoteTokenProportion": 28.3,
+        "qualityScore": 2.0858209663039897,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+        "commentatorTierSimilarities": [
+            27.02,
+            39.65,
+            33.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To a woman was this honor given to be the first that saw the risen Redeemer, and that woman was not His mother.",
+            "Mary Magdalene came and told the disciples that she had seen the Lord.",
+            "JESUS APPEARS TO THE ASSEMBLED DISCIPLES."
+        ],
+        "Marvin Vincent": [
+            "Came and told [\u03b5\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03b1\u03b3\u03b3\u03b5\u03bb\u03bb\u03bf\u03c5\u03c3\u03b1] . Literally, cometh telling. ",
+            "- 23. Compare Mark 16:14-18; Luke 24:36-49."
+        ],
+        "Philip Schaff": [
+            "Mary has now recognized her Lord... in all that awakened at the same time her reverence and awe, in all that reminded her of the Divine in Him.\" ",
+            "She saw before her the risen and glorified Lord; and she could look forward to the future, inviting at the same time the disciples to join her in the prospect.",
+            "With a message of this kind she goes to the disciples, and they are prepared for what is now to follow."
+        ],
+        "Archibald T. Robertson": [
+            "She will always carry in her heart that vision (picture) of the Risen Christ.",
+            "The disciples (brethren) did not believe Mary's story nor that of the other women.",
+            "But Mary Magdalene was the first one to see the Risen Lord."
+        ],
+        "John Gill": [
+            "Mary Magdalene came... with the utmost cheerfulness; and glad to go on such an errand, and carry such news to his disciples.\" ",
+            "she had seen him herself, and was an eyewitness of his resurrection, and which she firmly believed.\" ",
+            "all which she faithfully related to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary Magdalene, a woman of great reverence and awe, was the first to see the Risen Lord and carry the news to the disciples. Although initially skeptical, Mary's faith in the resurrection remained steadfast. She had the privilege of experiencing the vision of the Risen Christ and eagerly shared this life-changing encounter with the disciples. Mary's role in proclaiming the resurrection of Jesus was significant, as she faithfully relayed her personal eyewitness account to the others. Her devotion and joy in delivering this message reinforced the reality of the resurrection and set the stage for what would follow.",
+            "wordCount": 101,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9859435362237396,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                26.38,
+                38.67,
+                34.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary Magdalene, the first to see the Risen Lord, carried the news to the disciples. With great cheerfulness and faith, she faithfully related her eyewitness account of the resurrection. She carried in her heart the vision of the Risen Christ, inviting the disciples to join her in the future. Although initially doubted, Mary's message set the stage for what was to follow and reinforced the reality of the resurrection. Her honor was remarkable, being the first woman to witness the risen Redeemer and share the transformative encounter.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.0858209663039897,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                27.02,
+                39.65,
+                33.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary Magdalene, the first witness of the risen Redeemer, felt the reverence and awe in seeing the glorified Lord. Her cherished vision of the Risen Christ remained in her heart, as she joyfully carried the news to the doubting disciples. Despite their initial skepticism, Mary's steadfast faith in the resurrection prompted her to faithfully relay her eyewitness account. Her role in proclaiming the reality of Jesus' resurrection was significant, establishing the foundation for what was to come.",
+            "wordCount": 78,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.931291995254421,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                26.72,
+                38.52,
+                34.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary Magdalene, the first to see the Risen Lord, carried the news to the disciples. With great cheerfulness and faith, she faithfully related her eyewitness account of the resurrection. She carried in her heart the vision of the Risen Christ, inviting the disciples to join her in the future. Although initially doubted, Mary's message set the stage for what was to follow and reinforced the reality of the resurrection. Her honor was remarkable, being the first woman to witness the risen Redeemer and share the transformative encounter.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.0858209663039897,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                27.02,
+                39.65,
+                33.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary Magdalene, as the first to witness the risen Redeemer, carried the news to the disciples, joyfully sharing her experience. Despite their initial disbelief, Mary's unwavering faith in the resurrection compelled her to faithfully recount her eyewitness account. Her encounter with the glorified Lord left an indelible imprint on her heart, forever reminding her of the vision of the Risen Christ. Mary's role in proclaiming the reality of Jesus' resurrection was significant, paving the way for what would follow. Her devotion and testimony served to reinforce the truth of the resurrection.",
+            "wordCount": 93,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.9150471074208744,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                27.07,
+                37.13,
+                35.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:06:00",
+    "verseRef": "John 4:49",
+    "bestBHT": {
+        "bht": "In this narrative, the man's faith is mingled with doubt, as he believed Jesus had the power to heal his son but considered His physical presence necessary for the healing. The urgency and desperation in the man's plea reflect his fear that it may already be too late. Jesus, however, uses this opportunity to deepen the man's faith, refining and educating him. This story teaches us to examine our prayers, eliminating anything that hinders their effectiveness, while reminding us of the delicate and impatient nature of our hearts until humbled by adversity.",
+        "wordCount": 95,
+        "quoteTokenProportion": 41.43,
+        "qualityScore": 1.6676959868484609,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+        "commentatorTierSimilarities": [
+            25.39,
+            42.54,
+            32.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Here is the same weakness of faith as there,\u2014but our Lord\u2019s last words have made visible impression.",
+            "He seems to believe it necessary that Jesus should be on the spot;\u2014not that there was anything strange or blameable in this.",
+            "To think that it would be too late when his child had expired;\u2014not imagining that He to whom he spoke could raise the dead."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "While we talk, the case is at its crisis, and if Thou",
+            "come not instantly, all is over.\" ",
+            "The man cannot believe the cure could",
+            "be wrought without the Physician coming to the patient\u2014the thought",
+            "of such a thing evidently never occurred to him.",
+            "But Jesus will in a",
+            "moment bring him up to this."
+        ],
+        "Albert Barnes": [
+            "The earnestness of the nobleman evinces the deep and tender anxiety of a father.",
+            "So anxious was he for his son that he was not willing that Jesus should delay a moment.",
+            "He still seems to have supposed that Jesus had no power to heal his son except he was present with him."
+        ],
+        "John Calvin": [
+            "And we ought to remember \u2014 what I have formerly stated \u2014 that this was a general reproof of a whole people, and was not peculiarly addressed to one individual.",
+            "In this manner, whatever is improper, or distorted, or superfluous, in our prayers, must be corrected or removed, that dangerous obstructions may be taken out of the way.",
+            "We find the same things in ourselves; for we are astonishingly delicate, impatient, and fretful until, subdued by adversities, we are constrained to lay aside our pride and disdain."
+        ],
+        "Philip Schaff": [
+            "The answer of Jesus, which had seemed perhaps to imply cold neglect, calls forth an impassioned appeal for pity and help.\" ",
+            "There were no moments to be lost, even now the help may come too late.\" ",
+            "Jesus was but educating, refining, and deepening his faith."
+        ],
+        "Archibald T. Robertson": [
+            "Come down (\u03ba\u03b1\u03c4\u03b1\u03b2\u03b7\u03b8). Second aorist active imperative, tense and tone of urgency.\" ",
+            "\u0395\u03c1\u03b5 \u03bc\u03c8 \u03c7\u03b9\u03bb\u03b4 \u03b4\u03b9\u03b5 (\u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03bf\u03b8\u03b1\u03bd\u03b5\u03b9\u03bd \u03c4\u03bf \u03c0\u03b1\u03b9\u03b4\u03b9\u03bf\u03bd \u03bc\u03bf\u03c5). Regular idiom with \u03c0\u03c1\u03b9\u03bd in positive clause, second aorist active infinitive of \u03b1\u03c0\u03bf\u03b8\u03bd\u03b7\u03c3\u03ba\u03c9 and accusative of general reference, 'before dying as to my child.'",
+            "Bengel notes that he only thought Jesus had power before death as even Martha and Mary felt at first (John 11:21; John 11:32). But the father's heart goes out to Jesus."
+        ],
+        "John Gill": [
+            "Here was faith with a mixture of unbelief; he believed that Christ was able to heal his son, but he still thought that his going down with him was necessary.\" ",
+            "He must be corporeally present, and must lay his hands on him, or touch him, or speak, and command the distemper off, or something of this kind.",
+            "He had no notion of Christ being able to raise him from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see a man who exhibits both faith and doubt. He believed that Jesus had the power to heal his son, but he thought that Jesus had to be physically present to do so. The man's urgency and desperation are evident as he pleads with Jesus to come quickly before it is too late. Jesus, however, uses this opportunity to deepen and refine the man's faith. This story serves as a reminder for us to examine our prayers and remove anything that may hinder their efficacy. We can also relate to the man's impatience and fretfulness, which are eventually softened by our experiences and trials. Ultimately, the man's initial lack of understanding is corrected by Jesus, who will raise him up to a higher level of faith.",
+            "wordCount": 134,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.5702855046555668,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+            "commentatorTierSimilarities": [
+                26.54,
+                42.18,
+                31.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Here, a man displays a mix of faith and doubt as he recognizes Jesus' ability to heal but believes His physical presence is necessary for the healing. The man's sense of urgency is palpable as he pleads with Jesus to come quickly before it is too late. Jesus uses this opportunity to deepen and refine the man's faith while teaching him the power of belief without physical proximity. This story serves as a reminder for us to evaluate our prayers, removing anything that hinders their effectiveness, and allowing our experiences and trials to transform our faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.6205763003470168,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                26.88,
+                40.04,
+                33.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man in this account exemplifies a combination of faith and uncertainty. While he believes that Jesus has the power to heal his son, he thinks that physical presence is required for the healing. His urgency is evident as he implores Jesus to come quickly before it is too late. Jesus seizes this opportunity to cultivate and strengthen the man's faith, teaching him that belief does not rely on physical proximity. We should learn from this narrative to examine our prayers and eliminate anything that impedes their efficacy, while allowing our trials to refine our faith.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.5967444921664042,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.43,
+            "commentatorTierSimilarities": [
+                25.85,
+                41.67,
+                32.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this narrative, the man's faith is mingled with doubt, as he believed Jesus had the power to heal his son but considered His physical presence necessary for the healing. The urgency and desperation in the man's plea reflect his fear that it may already be too late. Jesus, however, uses this opportunity to deepen the man's faith, refining and educating him. This story teaches us to examine our prayers, eliminating anything that hinders their effectiveness, while reminding us of the delicate and impatient nature of our hearts until humbled by adversity.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.6676959868484609,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                25.39,
+                42.54,
+                32.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Here, the man exemplifies a mix of faith and doubt. While he believes Jesus has the power to heal his son, he thinks physical presence is necessary. Urgent and desperate, he implores Jesus to come quickly before it's too late. Jesus seizes this opportunity to deepen the man's faith, teaching him the power of belief without physical proximity. This story reminds us to refine our prayers, removing obstructions and allowing adversity to shape our hearts. Ultimately, Jesus will raise the man's understanding to a higher level of faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6127599893723725,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                28.14,
+                42.36,
+                29.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

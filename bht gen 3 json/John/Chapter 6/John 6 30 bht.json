@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:07:09",
+    "verseRef": "John 6:30",
+    "bestBHT": {
+        "bht": "They hesitated between better thoughts until unbelief prevailed. They did not give Him common credence and even set a standard for Him. Their request for a sign seemed almost sneering, as if the previous miracle held no value. Before they could believe Him, a sign greater than any worked by Moses must be displayed. This wicked generation sought signs, demanding more despite witnessing miracles.",
+        "wordCount": 64,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 1.9509610643168784,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+        "commentatorTierSimilarities": [
+            29.41,
+            36.53,
+            34.06
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They have been hesitating between better and worse thoughts, till at last unbelief prevails.",
+            "Observe our Lord\u2019s believe on him in ver. 29, and their believe thee. The former, the casting their whole hopes and faith on Him, is what He requires: but they will not even give the latter, common credence, to Him.",
+            "Their what dost thou work? Meyer remarks, is a retort of our Lord\u2019s question, ver. 27. The stress, in these words, should be not on the thou, which is not expressed in the original, but on the what."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But how could they ask 'a sign,' when many of them",
+            "scarce a day before had witnessed such a 'sign' as had",
+            "never till then been vouchsafed to men...\" ",
+            "The truth seems to be that they were confounded by the novel claims which our Lord had just advanced.",
+            "...they saw very clearly that He was making a demand upon them",
+            "beyond anything they were prepared to accord to Him, and beyond all",
+            "that man had ever before made."
+        ],
+        "Albert Barnes": [
+            "What sign showest thou?\" - On the word sign, compare the notes at Isaiah 7:14. What miracle dost thou work to prove that thou art the Messiah?",
+            "It seems wonderful that they should so soon ask for further evidence that he was sent from God.\" ",
+            "Those men were continually asking for signs and proofs that he was the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Therefore. Since He had claimed to be the One sent of God."
+        ],
+        "John Calvin": [
+            "This wicked generation seeketh a sign.",
+            "They demand a sign from him, as if he were a man unknown to them.",
+            "In short, as soon as Christ does not grant their prayers, he is no longer their Master."
+        ],
+        "Philip Schaff": [
+            "The words of Jesus had now become too plain to be misunderstood. It was clear that He would turn them away from such works as they had had in view, and fix all thought upon Himself.",
+            "Such a claim no other prophet had ever made; such a claim can only be justified by some special sign which no one can challenge or mistake; and the sign must correspond with the claim.",
+            "Before they can believe Him when He thus speaks... some sign equal to the greatest wrought by Moses, or even some greater sign, must be displayed."
+        ],
+        "Archibald T. Robertson": [
+            "As if the sign of the day before was without value.",
+            "It is hard to have patience with this superficial and almost sneering mob.",
+            "They not simply depreciate the miracle of the day before, but set up a standard for Jesus."
+        ],
+        "John Gill": [
+            "The people of the Jews were always requiring signs and wonders, and when they had one and another shown them, they still sought for more, and were never satisfied.",
+            "They seem to make light of the miracle of the loaves, or at least require some greater sign and miracle, to engage their belief in him as the Messiah.",
+            "They were lovers of their bellies, and expected dainties in the times of the Messiah, they seem to move for, and desire miracles of that kind to be wrought."
+        ],
+        "John Wesley": [
+            "What sign dost thou? \u2014 Amazing, after what they had just seen!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They hesitated between better and worse thoughts, allowing unbelief to prevail. Our Lord required their whole hopes and faith to be cast on Him, yet they were not even willing to give Him common credence. Their question of what dost thou work? was a retort to His question, emphasizing the demands He was making. They seemed confounded by His novel claims and set a standard for Him. Their request for a sign was almost sneering, as if the previous day's miracle held no value. It is astonishing that they asked for further evidence so soon after witnessing His works. His words were clear, redirecting their focus on Himself. Before they could believe Him, a sign greater than any wrought by Moses must be displayed. This wicked generation sought signs, demanding more despite having been shown miracles.",
+            "wordCount": 137,
+            "quoteTokenProportion": 41.9,
+            "qualityScore": 1.798990040527829,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                30.16,
+                38.46,
+                31.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They hesitated between better and worse thoughts, allowing unbelief to prevail. Our Lord required their whole hopes and faith to be cast on Him, yet they were not even willing to give Him common credence. Their question of what dost thou work? emphasized the demands He was making. They seemed confounded by His novel claims and set a standard for Him. Their request for a sign was almost sneering, as if the previous day's miracle held no value. Before they could believe Him, a sign greater than any wrought by Moses must be displayed. This wicked generation sought signs, demanding more despite having been shown miracles.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.53,
+            "qualityScore": 1.8031802341252514,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+            "commentatorTierSimilarities": [
+                29.14,
+                37.35,
+                33.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They hesitated between better thoughts and unbelief prevailed. They did not even give Him common credence. Their question of what dost thou work? emphasized the demands He was making. They seemed confounded by His novel claims and set a standard for Him. Their request for a sign was almost sneering, as if the previous day's miracle held no value. Before they could believe Him, a sign greater than any wrought by Moses must be displayed. This wicked generation sought signs, demanding more despite being shown miracles.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.751843434474495,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                30.76,
+                35.04,
+                34.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They hesitated between better thoughts until unbelief prevailed. They did not give Him common credence and even set a standard for Him. Their request for a sign seemed almost sneering, as if the previous miracle held no value. Before they could believe Him, a sign greater than any worked by Moses must be displayed. This wicked generation sought signs, demanding more despite witnessing miracles.",
+            "wordCount": 64,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9509610643168784,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                29.41,
+                36.53,
+                34.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They were hesitant, struggling to choose between better and worse thoughts, until unbelief ultimately prevailed. They refused to even give Him common credence, rejecting His simple request. Their question of what dost thou work? was a sharp response to His own question, highlighting the demands He was making. They seemed bewildered by His revolutionary claims and arrogantly set a standard for Him. Their request for a sign was dismissive, as if the astonishing miracle from the previous day meant nothing to them. Despite witnessing such miracles, this wicked generation persistently sought more signs, never satisfied.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.7297182237411137,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.86,
+            "commentatorTierSimilarities": [
+                30.78,
+                34.41,
+                34.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

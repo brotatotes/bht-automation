@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:12:29",
+    "verseRef": "John 14:29",
+    "bestBHT": {
+        "bht": "I have told you the prophecies of My Resurrection and Ascension so that when they are fulfilled, your small and almost extinguished faith will revive and flourish. This confirmation of your faith, as you witness the predictions of Christ being fulfilled before your eyes, serves as an interpreter to explain this doctrine. It bears witness to his true and proper deity, distinguishing him from the gods of the Gentiles.",
+        "wordCount": 69,
+        "quoteTokenProportion": 49.02,
+        "qualityScore": 1.8257543393036006,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+        "commentatorTierSimilarities": [
+            42.11,
+            27.01,
+            30.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I have told you\u2014viz. \u2018the prophecies of My Resurrection and Ascension,'&c. ye may believe...",
+            "...when that was fulfilled in Him, which He had before predicted,\u2014this their faith, which now, when he was speaking to them, was small, and, when He died, was almost extinguished, revived and flourished.",
+            "Not that they did not previously believe Him to be the Son of God: but then, when that was fulfilled in Him, which He had before predicted,\u2014this their faith, which now, when he was speaking to them, was small, and, when He died, was almost extinguished, revived and flourished."
+        ],
+        "Albert Barnes": [
+            "Before it come to pass - Before my death, resurrection, and ascension.",
+            "Ye might believe - You might be confirmed or strengthened in faith.",
+            "The power of foretelling future events."
+        ],
+        "John Calvin": [
+            "It was a useful confirmation of their faith when they brought to recollection the predictions of Christ, and saw accomplished before their eyes what they had formerly heard from his mouth.",
+            "Yet it appears to be a sort of concession, as if Christ had said, 'Because you are not yet capable of comprehending so deep a mystery, I bear with you till the event has happened, which will serve as an interpreter to explain this doctrine.'",
+            "Now, as Christ speaks here about his word and the accomplishment of events, so his death, and resurrection, and ascension to heaven, are combined with doctrine, that they may produce faith in us."
+        ],
+        "Philip Schaff": [
+            "And now I have told you before it come to past, that, when it is come to pan, ye may believe.",
+            "It is not a first faith, but the deeper working of faith, the experimental seal to it, that is spoken of."
+        ],
+        "John Gill": [
+            "This is a strong proof of his true and proper deity, for none but the omniscient God can tell of things before they come to pass.",
+            "This is peculiar to him, and distinguishes him from the gods of the Gentiles.",
+            "That when it is come to pass, ye might believe: that is, that when he was removed from them, and gone to his Father, they might then believe that he was truly God, the Son of God, the promised Messiah; and that he was then in glory, and at the right hand of God."
+        ],
+        "John Wesley": [
+            "I have told you \u2014 Of my going and return."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I have told you, the prophecies of My Resurrection and Ascension, so that when these events are fulfilled, your small and almost extinguished faith will revive and flourish. Before it comes to pass, I want you to be confirmed and strengthened in faith, to have the power of foretelling future events. It is not a first faith, but the deeper working of faith, the experimental seal to it that is spoken of. This is a useful confirmation of your faith, as you bring to recollection the predictions of Christ and see them accomplished before your eyes. When the events have happened, they will serve as an interpreter to explain this doctrine, bearing witness to his true and proper deity.",
+            "wordCount": 119,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.8339209105988878,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "commentatorTierSimilarities": [
+                34.74,
+                38.48,
+                26.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I have told you the prophecies of My Resurrection and Ascension so that when they are fulfilled, your almost extinguished faith will revive and flourish. Before it comes to pass, I want you to be strengthened in faith and have the power of foretelling future events. This is a useful confirmation of your faith, as you see the predictions of Christ being accomplished before your eyes. It bears witness to his true deity and distinguishes him from the gods of the Gentiles.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.762361581075646,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.94,
+            "commentatorTierSimilarities": [
+                36.06,
+                34.87,
+                29.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I have told you the prophecies of My Resurrection and Ascension so that when they are fulfilled, your faith will revive and flourish. Before it comes to pass, I want you to be strengthened in faith and have the power of foretelling future events. This confirmation of your faith is useful as you witness the predictions of Christ being fulfilled before your eyes. It bears witness to his true deity and distinguishes him from the gods of the Gentiles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.8031096427531619,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+            "commentatorTierSimilarities": [
+                36.87,
+                34.96,
+                28.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I have told you the prophecies of My Resurrection and Ascension, so that when these events are fulfilled, your small and almost extinguished faith will revive and flourish. Before it comes to pass, I want you to be confirmed and strengthened in faith, to have the power of foretelling future events. It is not a first faith, but the deeper working of faith, the experimental seal to it that is spoken of. This is a useful confirmation of your faith, as you bring to recollection the predictions of Christ and see them accomplished before your eyes. When the events have happened, they will serve as an interpreter to explain this doctrine, bearing witness to his true and proper deity.",
+            "wordCount": 119,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.8339209105988878,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "commentatorTierSimilarities": [
+                34.74,
+                38.48,
+                26.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I have told you the prophecies of My Resurrection and Ascension so that when they are fulfilled, your small and almost extinguished faith will revive and flourish. This confirmation of your faith, as you witness the predictions of Christ being fulfilled before your eyes, serves as an interpreter to explain this doctrine. It bears witness to his true and proper deity, distinguishing him from the gods of the Gentiles.",
+            "wordCount": 69,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.8257543393036006,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                42.11,
+                27.01,
+                30.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

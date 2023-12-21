@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:04:48",
+    "verseRef": "John 3:10",
+    "bestBHT": {
+        "bht": "The doctrine of regeneration, well-known in the Old Testament, eluded Nicodemus, a teacher of Israel, due to his entrenched Pharisaic theology and reliance on tradition. Jesus, emphasizing Nicodemus' role as an authorized instructor, questions his lack of comprehension. It is astonishing that someone responsible for teaching would remain ignorant of fundamental religious realities. This underscores the importance of humility and genuine faith to grasp the profound truths of Scripture.",
+        "wordCount": 70,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.9767893320035155,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+        "commentatorTierSimilarities": [
+            36.03,
+            33.08,
+            30.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The question clearly implies that the doctrine of regeneration is so far disclosed in the Old Testament that Nicodemus was culpable in being ignorant of it."
+        ],
+        "Albert Barnes": [
+            "No man can understand the Bible fully unless he is a humble Christian, and the easiest way to comprehend the truths of religion is to give the heart to God and live to his glory.",
+            "A child thus may have more real knowledge of the way of salvation than many who are pretended masters and teachers of Israel.",
+            "It may seem surprising that a man whose business it was to teach the people should be a stranger to so plain and important a doctrine..."
+        ],
+        "Marvin Vincent": [
+            "A master is more correctly rendered by Rev., the teacher.",
+            "Nicodemus is not reproved for the want of previous knowledge, but for the want of perception or understanding when these truths are expounded to him.",
+            "Art thou a master of Israel? The su, thou, is emphatic."
+        ],
+        "John Calvin": [
+            "Such hesitation, certainly, is base and shameful. For what religion have we, what knowledge of God, what rule of living well, what hope of eternal life, if we do not believe that man is renewed by the Spirit of God?\" ",
+            "It is utterly beyond endurance that any man should be ignorant and unskilled in it, who professes to be a teacher in the Church of God.",
+            "This is, very properly, placed first in order; for in the very matter in which he chiefly plumes himself on his acuteness and sagacity, Christ censures his ignorance."
+        ],
+        "Philip Schaff": [
+            "Thou art the teacher of Israel; and perceivest thou not these things?",
+            "For our Lord does not say 'and knowest not;' Nicodemus is not blamed for any want of previous knowledge of these things, but because he does not perceive the truth of the teaching when presented to him.",
+            "If Nicodemus would really know the fact, it must be by the knowledge of experience."
+        ],
+        "Archibald T. Robertson": [
+            "The teacher of Israel. The well-known or the authorized teacher of the Israel of God.",
+            "His Pharisaic theology had made him almost proof against spiritual apprehension.",
+            "It was outside of his groove, rote, rut, rot, the three terrible r's of mere traditionalism."
+        ],
+        "John Gill": [
+            "Upbraiding him with his continued and invincible ignorance, which was aggravated by his dignified character.",
+            "He was not a common teacher, not a teacher of babes, nor a teacher in their synagogues, or in their 'Midrashim', or divinity schools, but in their great sanhedrim.",
+            "Yet was he ignorant of the first and most important things in religion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in question reveals Jesus questioning Nicodemus, a teacher of Israel, about his lack of understanding regarding the doctrine of regeneration found in the Old Testament. Nicodemus, with his Pharisaic theology, had become almost immune to spiritual insight and was blinded by traditionalism. Jesus sternly reminds Nicodemus of his role as a teacher and his responsibility to comprehend these fundamental truths. It is astonishing that someone tasked with instructing others would be ignorant of such critical aspects of their faith. This highlights the necessity for humility and genuine faith in order to grasp the deep truths of the Scriptures.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9461373764609715,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                35.64,
+                33.56,
+                30.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The doctrine of regeneration, well-known in the Old Testament, eluded Nicodemus, a teacher of Israel, due to his entrenched Pharisaic theology and reliance on tradition. Jesus, emphasizing Nicodemus' role as an authorized instructor, questions his lack of comprehension. It is astonishing that someone responsible for teaching would remain ignorant of fundamental religious realities. This underscores the importance of humility and genuine faith to grasp the profound truths of Scripture.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9767893320035155,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+            "commentatorTierSimilarities": [
+                36.03,
+                33.08,
+                30.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The doctrine of regeneration, which Nicodemus, a teacher of Israel, should have been aware of, seemed to have evaded him due to his adherence to Pharisaic theology and dependence on tradition. Jesus, highlighting Nicodemus' role as an authorized teacher, challenges his failure to comprehend these essential truths. It is remarkable that one who was tasked with instructing others would remain unaware of such foundational aspects of their faith. This serves as a stark reminder of the importance of humility and genuine faith when seeking to understand the profound teachings of Scripture.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9545346123333278,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+            "commentatorTierSimilarities": [
+                35.37,
+                33.7,
+                30.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nicodemus, as a teacher of Israel, should have been familiar with the doctrine of regeneration from the Old Testament, yet his adherence to Pharisaic theology and reliance on tradition hindered his understanding. Jesus rebukes him for his lack of perception, highlighting his role as an authorized teacher. It is surprising that someone tasked with instructing others could remain unaware of fundamental religious truths. This emphasizes the need for humility and genuine faith to grasp the profound teachings of Scripture.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9067557061944693,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                33.56,
+                35.27,
+                31.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As a teacher of Israel, Nicodemus ought to have been acquainted with the doctrine of regeneration found in the Old Testament. However, his adherence to Pharisaic theology and dependence on tradition obscured his understanding. Jesus reproves him for his lack of perception, underscoring his role as an authorized teacher. It is astounding that one entrusted with instructing others could remain ignorant of essential religious truths. This serves as a compelling reminder of the necessity for humility and genuine faith to comprehend the profound teachings of Scripture.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8498088422236774,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                34.0,
+                34.55,
+                31.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

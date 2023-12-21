@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:04:01",
+    "verseRef": "John 1:3",
+    "bestBHT": {
+        "bht": "All things, absolutely everything, without Him was not any thing, came into being through the Word. This is a denial of the eternity and non-creation of matter, which was held by the whole thinking world outside of Judaism and Christianity. The main conception of creation in St. John's writings is expressed by the first notice which he makes of it: All things came into being through the Word. Creation, as a becoming, answers to the Incarnation.",
+        "wordCount": 78,
+        "quoteTokenProportion": 49.06,
+        "qualityScore": 2.097296898013252,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.08,
+        "commentatorTierSimilarities": [
+            38.61,
+            30.32,
+            31.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All things, c.\u2014all things absolutely... without Him was not any thing\u2014not one thing.\" ",
+            "made\u2014brought into being.\" ",
+            "This is a denial of the eternity and non-creation of matter, which was held by the whole thinking world outside of Judaism and Christianity."
+        ],
+        "Albert Barnes": [
+            "The expression cannot be limited to any part of the universe. It appropriately expresses everything which exists.",
+            "The 'Word,' or the Son of God, is therefore appropriately called 'God.'",
+            "All things were made by Christ...there was not a single thing, however minute or unimportant, which was not made by him."
+        ],
+        "Marvin Vincent": [
+            "The main conception of creation which is present in the writings of St. John is expressed by the first notice which he makes of it: All things came into being through the Word.",
+            "The use of the term ejgeneto, came into being, as distinguished from ejktisqh, were created, suggests the thought that creation is to be regarded (according to our apprehension) as a manifestation of a divine law of love.",
+            "Thus creation (all things came into being through Him) answers to the Incarnation (the Word became flesh). All the unfolding and infolding of finite being to the last issue lies in the fulfillment of His will who is love."
+        ],
+        "John Calvin": [
+            "Having affirmed that the Speech is God, and having asserted his eternal essence, he now proves his Divinity from his works.",
+            "And this is the practical knowledge, to which we ought to be chiefly accustomed; for the mere name of God attributed to Christ will affect us little, if our faith do not feel it to be such by experience.",
+            "There are some, indeed, even among philosophers, who make God to be the Master-builder of the world in such a manner as to ascribe to him intelligence in framing this work. So far they are in the right, for they agree with Scripture; but as they immediately fly off into frivolous speculations, there is no reason why we should eagerly desire to have their testimonies."
+        ],
+        "Archibald T. Robertson": [
+            "The Logos is John's explanation of the creation of the universe.",
+            "Creation is thus presented as a becoming (\u03b3\u03b9\u03bd\u03bf\u03bc\u03b1) in contrast with being (\u03b5\u03b9\u03bc).",
+            "John adds the negative statement for completion, another note of his style as in John 1:20; 1 John 1:5."
+        ],
+        "John Gill": [
+            "Which is to be understood, not of the new creation; for this would be a restraining 'all' things to a 'few' persons only; nor is it any where said, that all things are new made, but made.",
+            "Regeneration is denied to be of man, and is always ascribed to God; nor would Christ's being the author of the new creation, be any contradiction to his being the author of the old creation, which is intended here.",
+            "And without him was not any thing made that was made: in which may be observed the conjunct operation of the word, or Son, with the Father, and Spirit, in creation; and the extent of his concern in it to every thing that is made."
+        ],
+        "John Wesley": [
+            "All things beside God were made, and all things which were made, were made by the Word. In John 1:1,2is described the state of things before the creation: John 1:3, In the creation: John 1:4, In the time of man's innocency: John 1:5, In the time of man's corruption."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All things, absolutely everything, came into being through the Word. This is a denial of the eternity and non-creation of matter. The main concept of creation in John's writings is that all things came into being through the Word. Creation is a manifestation of a divine law of love, an unfolding and infolding of finite being fulfilling the will of love. The Word is John's explanation of the creation of the universe. John adds this negative statement for completion, emphasizing that without the Word, nothing was made that was made.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.018954616636832,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.47,
+            "commentatorTierSimilarities": [
+                38.35,
+                30.74,
+                30.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All things, absolutely everything, came into being through the Word. This is a denial of the eternity and non-creation of matter, which was held by the whole thinking world outside of Judaism and Christianity. The main concept of creation in John's writings is that all things came into being through the Word. Creation is a manifestation of a divine law of love, an unfolding and infolding of finite being fulfilling the will of love. The Word is John's explanation of the creation of the universe. Without the Word, nothing was made that was made.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.060710310878972,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+            "commentatorTierSimilarities": [
+                37.18,
+                32.01,
+                30.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All things, absolutely everything, came into being through the Word. This is a denial of the eternity and non-creation of matter. The main concept of creation in John's writings is that all things came into being through the Word. Creation is a manifestation of a divine law of love, an unfolding of finite being that fulfills the will of love. The Word is John's explanation of the universe's creation. Without the Word, nothing was made that was made.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 2.0056621004530264,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                36.97,
+                32.85,
+                30.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All things, absolutely everything, without Him was not any thing, came into being through the Word. This is a denial of the eternity and non-creation of matter, which was held by the whole thinking world outside of Judaism and Christianity. The main conception of creation in St. John's writings is expressed by the first notice which he makes of it: All things came into being through the Word. Creation, as a becoming, answers to the Incarnation.",
+            "wordCount": 78,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.097296898013252,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.08,
+            "commentatorTierSimilarities": [
+                38.61,
+                30.32,
+                31.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All things, absolutely everything, came into being through the Word. Denying the eternity and non-creation of matter, the whole thinking world outside of Judaism and Christianity acknowledged the truth. Creation is a manifestation of a divine law of love\u2014an unfolding and infolding of finite being fulfilling the will of love. The Word is John's explanation of the universe's creation, emphasizing the conjunct operation with the Father and Spirit. Without the Word, nothing was made that was made.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9508756242260028,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                35.04,
+                32.97,
+                31.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

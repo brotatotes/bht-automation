@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:09:20",
+    "verseRef": "John 9:27",
+    "bestBHT": {
+        "bht": "The Pharisees' eagerness to hear more about Jesus seemed to suggest their potential interest in becoming His disciples. The healed man, perceiving their curiosity, sarcastically questioned whether they desired to join Jesus' discipleship. His remark of ye did not hear served as a reminder that the Pharisees had not truly heeded Jesus' teachings. This exchange revealed the Pharisees' stubborn opposition towards Jesus, prompting the healed man to affirm his own discipleship to Him.",
+        "wordCount": 73,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.9476813811973255,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+        "commentatorTierSimilarities": [
+            29.31,
+            40.07,
+            30.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "did not hear must be in its special meaning of \u2018did not heed it.\u2019",
+            "you seem so anxious to hear particulars about Him, that you must surely be intending to become His disciples."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In a vein of keen irony he treats their questions as those of anxious inquirers, almost ready for discipleship!",
+            "Stung by this, they retort upon him as the disciple... for themselves, they fall back upon Moses; about him there could be no doubt.",
+            "Who knew about this upstart?"
+        ],
+        "Philip Schaff": [
+            "The words \u2018ye did not hear\u2019 manifestly mean that they had not received and believed what they heard.",
+            "Is it your mind, do ye also desire, to become His disciples?",
+            "The obstinate enmity of the Jews impels him to avow his own discipleship."
+        ],
+        "Archibald T. Robertson": [
+            "I told you even now.",
+            "Would ye also become his disciples?",
+            "Clearly the healed man knew from the use of 'also' (\u03ba\u03b1) that Jesus had some 'disciples' (\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1, predicate nominative with the infinitive \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1) and that the Pharisees knew that fact. 'Do ye also (like the Galilean mob) wish, etc.'"
+        ],
+        "John Gill": [
+            "ye did not hear; did not regard it, or give credit to it.",
+            "once is sufficient, especially since the former account has been disregarded and discredited",
+            "This he might say either in an ironical and sarcastic way; or else seriously, suggesting, that if they were willing to examine into this fact, with upright views and sincere intentions, that should it appear to be a true miracle, they would become the disciples and followers of Jesus"
+        ],
+        "John Wesley": [
+            "Are ye also \u2014 As well as I, at length convinced and willing to be his disciples?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees were so eager to learn more about Jesus that they seemed almost ready to become His disciples. The healed man, sensing their curiosity, posed a sarcastic question, asking if they too wanted to become Jesus' disciples. It was clear to him that Jesus already had disciples, and the Pharisees were aware of this fact. The healed man's comment, ye did not hear, was likely a rebuke to the Pharisees, implying that they had not truly heeded what Jesus had to say. This exchange highlighted the Pharisees' stubborn enmity towards Jesus, which prompted the healed man to affirm his own discipleship to Jesus.",
+            "wordCount": 105,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.9666706317141838,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                29.48,
+                38.19,
+                32.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees' eagerness to hear more about Jesus seemed to suggest their potential interest in becoming His disciples. The healed man, perceiving their curiosity, sarcastically questioned whether they desired to join Jesus' discipleship. His remark of ye did not hear served as a reminder that the Pharisees had not truly heeded Jesus' teachings. This exchange revealed the Pharisees' stubborn opposition towards Jesus, prompting the healed man to affirm his own discipleship to Him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.9476813811973255,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                29.31,
+                40.07,
+                30.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees' enthusiasm to learn about Jesus made the healed man suggest sarcastically that they might want to become His disciples. His response of ye did not hear carried the implication that the Pharisees had not truly paid attention to Jesus' teachings. This exchange shed light on the Pharisees' unyielding hostility towards Jesus, prompting the healed man to affirm his own discipleship to Him.",
+            "wordCount": 64,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9099589825276007,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.85,
+            "commentatorTierSimilarities": [
+                30.35,
+                39.51,
+                30.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees' curiosity about Jesus made the healed man humorously question whether they were eager to become His disciples too. By saying ye did not hear, he subtly criticized the Pharisees for not fully heeding Jesus' message. This interaction revealed the Pharisees' unrelenting opposition to Jesus, prompting the healed man to assert his own allegiance to Him.",
+            "wordCount": 57,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8917249935434848,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.24,
+            "commentatorTierSimilarities": [
+                30.18,
+                37.95,
+                31.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees' keen interest in hearing about Jesus prompted the healed man to sarcastically inquire if they also intended to become His disciples. When he stated ye did not hear, he was emphasizing that the Pharisees had not truly paid attention to Jesus' teachings. This exchange exposed the Pharisees' deep-seated hostility towards Jesus, motivating the healed man to affirm his own discipleship with Him.",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9207104618789912,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                29.81,
+                39.54,
+                30.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:07:19",
+    "verseRef": "John 6:35",
+    "bestBHT": {
+        "bht": "When we come to Christ in faith, we find the satisfaction our souls crave, for He is the bread of life, the source of all that sustains and satisfies. He gives life to the world, and when we accept and believe in Him, we receive the life that our souls need. Those who come to Him, seeking what their souls truly long for, will never hunger or thirst again, but will have conscious and lasting satisfaction. Through faith in Him, we find life, peace, and everlasting fulfillment.",
+        "wordCount": 87,
+        "quoteTokenProportion": 47.17,
+        "qualityScore": 2.0787232390885353,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+        "commentatorTierSimilarities": [
+            24.32,
+            31.66,
+            44.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the genitive of life, is implied, 'which came down from heaven and giveth life unto the world.'",
+            "On the assurance of never hungering or thirsting, see note at ch. iv. 14.",
+            "He that cometh to me is in the same sense as in ch. v. 40\u2014that of acceptance of and faith in Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I am the bread of life\u2014Henceforth the discourse is all in the first person, 'I,' 'Me,' which occur in one form or other, as STIER reckons, thirty-five times.",
+            "he that cometh to me\u2014to obtain what the soul craves, and as the only all-sufficient and ordained source of supply.",
+            "hunger . . . thirst\u2014shall have conscious and abiding satisfaction."
+        ],
+        "Albert Barnes": [
+            "I am the bread of life - I am the support of spiritual life; or my doctrines will give life and peace to the soul.",
+            "Shall never hunger - See the notes at John 4:14."
+        ],
+        "Marvin Vincent": [
+            "I am the bread of life.\" ",
+            "Faith in its active aspect and in its resting aspect.",
+            "Never [\u03bf\u03c5 \u03bc\u03b7]. Rather, in nowise, or by no means. Rev., shall not."
+        ],
+        "John Calvin": [
+            "Our souls do not live by an intrinsic power, so to speak, that is, by a power which they have naturally in themselves, but borrow life from Christ.\" (quote 1)",
+            "He now defines the way of taking this food; it is when we receive Christ by faith... it is in consequence of being driven by the feeling of our hunger that we fly to Christ to seek life.\" (quote 2)",
+            "Whoever shall betake himself to Christ, to have life from him, will want nothing, but will have in abundance all that contributes to sustain life.\" (quote 3)"
+        ],
+        "Archibald T. Robertson": [
+            "I am the bread of life (\u0395\u03b3\u03c9 \u03b5\u03b9\u03bc \u03bf \u03b1\u03c1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03b6\u03c9\u03b7\u03c2). This sublime sentence was startling in the extreme to the crowd.",
+            "He that cometh to me (\u03bf \u03b5\u03c1\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b5). The first act of the soul in approaching Jesus.",
+            "Shall never thirst (\u03bf\u03c5 \u03bc\u03b7 \u03b4\u03b9\u03c8\u03b7\u03c3\u03b5 \u03c0\u03c9\u03c0\u03bf\u03c4\u03b5). So the old MSS. the future active indicative instead of the aorist subjunctive as above, an even stronger form of negation."
+        ],
+        "John Gill": [
+            "Christ is so called, because he gives life to dead sinners: men in a state of nature are dead in trespasses and sins.",
+            "He that cometh to me shall never hunger...and he that believeth on me shall never thirst.",
+            "They shall be satisfied with him; nor shall they hereafter be in a starving and famishing condition, or want any good thing."
+        ],
+        "John Wesley": [
+            "I am the bread of life \u2014 Having and giving life: he that cometh - he that believeth - Equivalent expressions: shall never hunger, thirst - Shall be satisfied, happy, for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our souls do not live by an intrinsic power, but borrow life from Christ, who came down from heaven and gives life to the world. When we come to Him in faith, accepting and believing in Him, we find the satisfaction that our souls crave. He is the bread of life, the source of all that sustains and satisfies. Whoever comes to Him will never hunger or thirst again. They shall be satisfied with Him and never be in a starving or famishing condition. Through faith in Him, we find life, peace, and eternal satisfaction.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.9577772426731723,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                24.75,
+                30.89,
+                44.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our souls do not live by an intrinsic power, but borrow life from Christ, who gives life to the world. Coming to Him in faith, accepting and believing in Him, brings the satisfaction our souls crave. He is the bread of life, the source of all that sustains and satisfies. Whoever comes to Him will never hunger or thirst, but be eternally satisfied. Through faith in Him, we find life, peace, and everlasting contentment.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.0492343309634444,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                24.47,
+                31.68,
+                43.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our souls do not live by an intrinsic power, but borrow life from Christ who came down from heaven and gives life to the world. When we come to Him in faith, accepting and believing in Him, we find the satisfaction that our souls crave. He is the bread of life and the only all-sufficient source of supply. Whoever comes to Him to obtain what the soul craves will never hunger or thirst, but shall have conscious and abiding satisfaction. Through faith in Him, we find life, peace, and eternal contentment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.016838711782021,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                26.02,
+                31.67,
+                42.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our souls do not live by an intrinsic power, but borrow life from Christ who gives life to the world. When we come to Him in faith, accepting and believing in Him, we find the satisfaction our souls crave. He is the bread of life, the only all-sufficient source of supply. Whoever comes to Him will never hunger or thirst, but shall have conscious and abiding satisfaction. Through faith in Him, we find life, peace, and eternal contentment.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.0244436985039425,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                25.49,
+                31.92,
+                42.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we come to Christ in faith, we find the satisfaction our souls crave, for He is the bread of life, the source of all that sustains and satisfies. He gives life to the world, and when we accept and believe in Him, we receive the life that our souls need. Those who come to Him, seeking what their souls truly long for, will never hunger or thirst again, but will have conscious and lasting satisfaction. Through faith in Him, we find life, peace, and everlasting fulfillment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.0787232390885353,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                24.32,
+                31.66,
+                44.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

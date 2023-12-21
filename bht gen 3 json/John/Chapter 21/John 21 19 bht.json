@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:15:49",
+    "verseRef": "John 21:19",
+    "bestBHT": {
+        "bht": "Jesus' commanding words to Peter, Follow me, held profound implications. They signified not only immediate obedience but also a lifelong commitment to imitate Christ in His journey to the Cross, ultimately leading to glory. This call resonated deeply with Peter, reminding him of his original calling and restoration. Jesus further revealed that Peter would glorify God through a martyr's death, though the precise manner of his death is a topic of interpretation. Regardless, the central focus is on the honor and reverence conferred upon Peter as he willingly offered his life for the sake of his Master.",
+        "wordCount": 98,
+        "quoteTokenProportion": 37.33,
+        "qualityScore": 2.036540126206857,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+        "commentatorTierSimilarities": [
+            28.23,
+            36.81,
+            34.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Follow me...a following through the Cross to glory.\" ",
+            "He had made this so plain, that it needed not expressing.",
+            "There was also a forcible reminding Peter of the first time when he had heard this command on the same shore."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This spake he, signifying by what death he should glorify God... of the honor to be conferred upon him by dying for his Master.\" ",
+            "Indeed, beyond doubt, this prediction was intended to follow up his triple restoration... shalt be counted worthy to die for the name of the Lord Jesus.",
+            "By thus connecting the utterance of this prediction with the invitation to follow Him, the Evangelist would indicate the deeper sense in which the call was understood, not merely to go along with Him at that moment, but to come after Him, 'taking up his cross.'"
+        ],
+        "Albert Barnes": [
+            "Peter would die a violent death; and, 2. That his death would be such as to honor God.\" ",
+            "Peter was crucified at Rome, about 34 years after this, with his head downward.",
+            "To the hour of his death he maintained the utmost constancy and fidelity in his cause, thus justifying the appellation which the Lord Jesus gave him - a rock."
+        ],
+        "Marvin Vincent": [
+            "By what death [\u03c0\u03bf\u03b9\u03c9] . Properly, by what manner of death. So Rev."
+        ],
+        "John Calvin": [
+            "though the end held out to all believers ought to be, to glorify God both by their life and by their death",
+            "It is now our duty to reap the fruit which the death of Peter has yielded",
+            "this single consideration greatly soothes all the bitterness that is in death, when the Son of God presents himself before our eyes with his blessed resurrection"
+        ],
+        "Philip Schaff": [
+            "It is impossible to deny that in these words the Evangelist refers to \u2018death\u2019 in the ordinary sense of the term.",
+            "Thus there is nothing in John 21:19 limiting John 21:18 to that act of crucifixion which the several clauses of the verse compel us to pass.",
+            "The external following foreshadows an imitation of Christ in His accomplishment of the Father\u2019s will, and His drinking of the cup put into his hands by the Father, until, in the one case as in the other, the cross itself is reached."
+        ],
+        "Archibald T. Robertson": [
+            "By what manner of death (\u03c0\u03bf\u03b9\u03c9 \u03b8\u03b1\u03bd\u03b1\u03c4\u03c9). Undoubtedly John, who is writing long after Peter's death, seems to mean that Peter was to die (and did die) a martyr's death.",
+            "Whither thou wouldest not.",
+            "There is a tradition that Peter met death by crucifixion and asked to be crucified head downwards, but that is not made plain here."
+        ],
+        "John Gill": [
+            "signifying by what death he should glorify God; for by the above words Christ not only intimated that Peter should die, not a natural, but a violent death, or that he should die a martyr in his cause, but the very kind of death he should die, namely, by crucifixion; and that Peter was crucified at Rome, ecclesiastical history confirms.",
+            "when Christ was magnified, and God was glorified by his zeal and courage, faith and patience, constancy and perseverance to the end",
+            "follow me: which may be understood literally, Jesus now rising up, and ordering him to come after him; and yet as a sign of his following him, in a spiritual sense, exercising every grace upon him, discharging every duty towards him, faithfully and constantly performing his work and office, as an apostle and preacher of the Gospel, in which he had now reinstated and confirmed him, and patiently bearing and suffering all kind of reproach, persecution, and death, for his name's sake."
+        ],
+        "John Wesley": [
+            "By what death he should glorify God \u2014 It is not only by acting, but chiefly by suffering, that the saints glorify God.",
+            "Follow me \u2014 Showing hereby likewise what death he should die."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus spoke to Peter, saying, Follow me. This command held a deeper meaning, signifying that Peter was called to follow Jesus through the Cross to glory. It was a reminder of the first time Peter heard this command on the same shore. Jesus also spoke of the manner of death Peter would face, glorifying God through his martyrdom. This prediction was a reminder of Peter's restoration and his call to take up his cross and follow Jesus. Through this utterance, the Evangelist indicated the deep understanding of the call, not only to go with Jesus at that moment, but to come after Him, even to the point of death. The manner of Peter's death is a matter of interpretation, with traditions suggesting crucifixion or even being crucified upside down, but the important aspect is the honor bestowed upon him by dying for his Master. Ultimately, this verse points to the sacrifice of the saints, glorifying God both in their life and through their death.",
+            "wordCount": 166,
+            "quoteTokenProportion": 42.39,
+            "qualityScore": 2.254525006121291,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.3,
+            "commentatorTierSimilarities": [
+                31.06,
+                35.38,
+                33.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus called Peter to follow Him, not just in that moment, but through the Cross to glory. This command had a deeper meaning, reminding Peter of his initial call and restoration. It signified the way in which Peter would glorify God through a martyr's death. While the manner of his death is not explicitly mentioned, traditions suggest crucifixion, perhaps even upside down. Nonetheless, the focus is on the honor conferred upon Peter by dying for Jesus. This verse echoes the ultimate call for all believers to glorify God in both their lives and deaths.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.24511578067657,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.99,
+            "commentatorTierSimilarities": [
+                29.88,
+                34.51,
+                35.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' command to Peter, Follow me, carried a profound meaning. It was a call to follow Him through the Cross, demonstrating the sacrificial nature of discipleship. The repetition of this command on the same shore reminded Peter of his initial calling. Jesus further indicated that Peter would die a martyr's death, glorifying God. While the manner of his death is open to interpretation, the important focus lies in the honor bestowed upon Peter by dying for his Master. This verse speaks to the broader call for believers to glorify God both in their lives and deaths.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.1857058926682655,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.02,
+            "commentatorTierSimilarities": [
+                30.29,
+                35.18,
+                34.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' resounding command to Peter, Follow me, held a profound significance. It was an invitation to follow Him not only in that moment but through the Cross, ultimately leading to glory. This call evoked memories of Peter's original calling and restoration. It also signified the manner in which Peter would glorify God, through his martyrdom. The exact nature of his death is subject to debate, yet the focus remains on the honor bestowed upon Peter for willingly sacrificing his life for his Lord. This verse underscores the ultimate goal for all believers - to bring glory to God, both in their lives and in the face of death.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 2.09052939159967,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+            "commentatorTierSimilarities": [
+                29.32,
+                34.3,
+                36.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' commanding words to Peter, Follow me, held profound implications. They signified not only immediate obedience but also a lifelong commitment to imitate Christ in His journey to the Cross, ultimately leading to glory. This call resonated deeply with Peter, reminding him of his original calling and restoration. Jesus further revealed that Peter would glorify God through a martyr's death, though the precise manner of his death is a topic of interpretation. Regardless, the central focus is on the honor and reverence conferred upon Peter as he willingly offered his life for the sake of his Master.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.036540126206857,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+            "commentatorTierSimilarities": [
+                28.23,
+                36.81,
+                34.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

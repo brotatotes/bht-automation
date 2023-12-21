@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:04:14",
+    "verseRef": "John 1:15",
+    "bestBHT": {
+        "bht": "John the Baptist's testimony is crucial as it fulfills the purpose for which he was sent by God. His statements about Jesus being his successor and superior are underscored by his pre-existing knowledge of Him. The enigmatic play on words serves to emphasize the Evangelist's claims, while historical examples showcase John's witness to Christ. The enduring cry of the faithful witness highlights Jesus' superiority as the One who came after John, causing John to humbly step back upon the arrival of the King.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.952342638957961,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+        "commentatorTierSimilarities": [
+            37.28,
+            31.15,
+            31.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The testimony of John, so important as being the fulfilment of the very object for which he was sent from God, is in this prologue ranged, so to speak, parallel with the assertions and testimony of the Evangelist himself.",
+            "This was he of whom I spake, &c. This view seems to be borne out. by his own statement, ver. 33, and by the order of the narrative in Matt. iii. 11, 12, 13.",
+            "The question raised by some, whether it is probable that the Baptist had, or expressed such views of the pre-existence of Christ, is not one for us to deal with, in the face of so direct a testimony as is given to the fact, here and in ch. iii, 27 ff."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "My Successor is my Superior, for He was my Predecessor.",
+            "This enigmatic play upon the different senses of the words 'before' and 'after' was doubtless employed by the Baptist to arrest attention, and rivet the thought.",
+            "The Evangelist introduces it just to clinch his own statements."
+        ],
+        "Albert Barnes": [
+            "He that cometh after me - He of whom I am the forerunner, or whose way I am come to prepare. See the notes at Matthew 3:3.\" ",
+            "Is preferred before me - Is superior to me... He was worthy of more honor than I am.",
+            "He was before me - This can refer to nothing but his pre-existence, and can be explained only on the supposition that he existed before John, or, as the evangelist had before shown, from the beginning."
+        ],
+        "John Calvin": [
+            "By using the verb testifieth (\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b5\u1fd6) in the present tense, he denotes a continued act, and certainly this doctrine must be continually in force, as if the voice of John were continually resounding in the ears of men.",
+            "The first sentence is intended to convey the statement, that he was sent for the sake of Christ, and therefore that it would have been unreasonable that he should be exalted, while Christ was lying low.",
+            "Thus, all who are superior to others, either in the gifts of God or in any degree of honor, must remain in their own rank, so as to be placed below Christ."
+        ],
+        "Philip Schaff": [
+            "The loud cry of the faithful witness has come down through all the years; we seem to hear its echoes still.",
+            "Jesus came 'after' or 'behind' John, as coming later in His manifestation to the world.",
+            "The herald came first, to prepare the way for the King; when the King arrives, the herald retires from view."
+        ],
+        "Archibald T. Robertson": [
+            "Historical examples of John's witness to Christ.",
+            "A parenthesis of most of verse John 1:14.",
+            "\u03a0\u03c1\u03c9\u03c4\u03bf\u03c2 \u03bc\u03bf\u03c5 (superlative with ablative) occurs here when only two are compared as is common in the vernacular Koine."
+        ],
+        "John Gill": [
+            "it was such a cry as debased the creature, and exalted Christ.",
+            "he that cometh after me; for Christ came into the world after John",
+            "which cannot be meant of honour and dignity; for this is expressed before; and it would be proving one thing by the same: nor of his birth, as man; for John in that sense was before him, being born before him; besides, being born before another, is no proof of superior worth; others were born before John, whom he yet excelled: but of his eternal existence, as the word, and Son of God, who was before John, or any of the prophets; before Abraham, and Noah, and Adam, or any creature whatever"
+        ],
+        "John Wesley": [
+            "John had said this before our Lord's baptism, although he then knew him not in person: he knew him first at his baptism, and afterward cried, 'This is he of whom I said.'\" ",
+            "He is preferred before me \u2014 in his office: for he was before me - in his nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The role of John the Baptist as a witness to Christ is of utmost importance, as it fulfills the purpose for which he was sent. The testimony of John stands parallel to the claims made by the Evangelist himself. John's statement about Jesus being his successor and superior is reinforced by the fact that he knew Him before His baptism. The enigmatic play on the words 'before' and 'after' captures attention and solidifies the Evangelist's assertions. Furthermore, historical examples of John's witness to Christ and the use of the superlative before indicate the pre-existence of Jesus. The cry of the faithful witness echoes throughout the years, and it is clear that Jesus, who came after John, holds a position of superiority. Ultimately, while John prepares the way for Jesus, he humbly steps back as the King arrives.",
+            "wordCount": 141,
+            "quoteTokenProportion": 32.93,
+            "qualityScore": 1.953835110190513,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                37.71,
+                32.22,
+                30.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The testimony of John the Baptist is significant as it fulfills his purpose of being sent by God. His statements about Jesus being his successor and superior are supported by his knowledge of Him before His baptism. The enigmatic play on words reinforces the Evangelist's assertions, while historical examples illustrate John's witness to Christ. The cry of the faithful witness carries through the years, emphasizing Jesus' superiority as the One who came after John. John humbly steps back as the King arrives, having prepared the way for Him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9429531245246205,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                36.44,
+                32.92,
+                30.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist's testimony is crucial as it fulfills the purpose for which he was sent by God. His statements about Jesus being his successor and superior are underscored by his pre-existing knowledge of Him. The enigmatic play on words serves to emphasize the Evangelist's claims, while historical examples showcase John's witness to Christ. The enduring cry of the faithful witness highlights Jesus' superiority as the One who came after John, causing John to humbly step back upon the arrival of the King.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.952342638957961,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                37.28,
+                31.15,
+                31.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The role of John the Baptist's testimony is significant, as it fulfills his purpose to bear witness to Christ. His statements about Jesus being his successor and superior are reinforced by his pre-existing knowledge of Him. The enigmatic play on words accentuates the Evangelist's assertions. Historical examples demonstrate John's witness to Christ, while the enduring cry of the faithful witness further underscores Jesus' superiority. As the One who comes after John, Jesus takes precedence, prompting John to humbly step back upon the arrival of the King.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8285487940674412,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                38.09,
+                32.57,
+                29.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist's testimony, serving as the fulfillment of his purpose, stands parallel to the claims made by the Evangelist, emphasizing Jesus' pre-existence. John's statement about Jesus being his successor and superior is supported by his own knowledge of Him. The enigmatic play on words captures attention and strengthens the Evangelist's assertions. Through historical examples, John's witness to Christ is demonstrated. The enduring cry of the faithful witness further solidifies Jesus' superiority, leading John to humbly step back as the King arrives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.8692710708115732,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                40.86,
+                30.75,
+                28.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

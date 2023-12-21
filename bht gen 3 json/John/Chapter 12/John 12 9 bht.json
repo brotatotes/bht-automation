@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:10:51",
+    "verseRef": "John 12:9",
+    "bestBHT": {
+        "bht": "The Jews, the rulers and persons of repute, didn't go to Bethany to see Jesus; rather, they came to behold the astonishing power of Christ in raising Lazarus from the dead. This triumphant entry into Jerusalem captivated the common people and drew a great crowd, with a motive to witness one raised from the dead. God intended for the name of Jesus to be celebrated universally, strengthening faith and revealing his divinity.",
+        "wordCount": 73,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.9973690658683607,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+        "commentatorTierSimilarities": [
+            26.01,
+            32.98,
+            41.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9 ff.] Remember here, as elsewhere in John, the Jews are not the people, but the rulers, and persons of repute: the representatives of the Jewish opposition to Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Crowds of the Jerusalem Jews hastened to Bethany, not so much to see Jesus, whom they knew to be there, as to see dead Lazarus alive.\" ",
+            "To such a pitch had these chief priests come of diabolical determination to shut out the light from themselves, and quench it from the earth!\" ",
+            "Christ's triumphant entry into Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "The best texts insert the article, which converts the expression into the current phrase, the common people.",
+            "They came to know.",
+            "Rev., more correctly, learned."
+        ],
+        "John Calvin": [
+            "The more nearly the time of the death of Christ approached, it became the more necessary that his name should be universally celebrated, in order that it might be a preparation for stronger faith after his death.",
+            "As Christ showed in it a remarkable proof of his Divinity, God intended that [the resurrection of Lazarus] should have many witnesses.",
+            "They came not on account of Jesus only, but also for the sake of Lazarus, [to] behold the astonishing display of the power of Christ in Lazarus."
+        ],
+        "Philip Schaff": [
+            "Faith and unbelief have revealed themselves in the case of the friends and the enemies of Jesus, and especially in the deed of Mary and the words of Judas.",
+            "But the sifting process which accompanies every manifestation of Jesus extends to a wider circle.",
+            "That very circle of Jewish influence and power in which till lately the spirit of narrow bigotry and fanaticism had found its expression in determined hostility to Jesus is divided into two classes, 'the common people of the Jews,' and the rulers in this ruling faction, 'the high priests'."
+        ],
+        "Archibald T. Robertson": [
+            "One is reminded of the French idiom.",
+            "John's use of \u03bf\u03c7\u03bb\u03bf\u03c2 is usually the common crowd as 'riff-raff.'",
+            "Motive enough to gather a great crowd, to see one raised from the dead."
+        ],
+        "John Gill": [
+            "Not for Jesus' sake only; to see him, and hear him, and observe what he said and did.",
+            "It equally excited their curiosity, to see the person that had been dead, and was raised from the dead, as to see him who raised him.",
+            "Jesus being come, he showed himself openly; which the Jerusalem Jews being informed of, induced them to come to see both the one and the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews, referring to the rulers and people of repute, hastened to Bethany not to see Jesus himself, but to witness the miraculous resurrection of Lazarus. Such was the extent of the chief priests' determination to shut out the light and quench it from the earth. This triumphant entry into Jerusalem captivated the common people and created motivation for a great crowd to gather and see one raised from the dead. As the time of Christ's death drew near, God intended for his name to be universally celebrated, strengthening faith and leaving a lasting impression of his divinity.",
+            "wordCount": 99,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.7962866752943412,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                26.52,
+                31.26,
+                42.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews, the rulers and persons of repute, didn't go to Bethany to see Jesus; rather, they came to behold the astonishing power of Christ in raising Lazarus from the dead. The chief priests, driven by their diabolical determination, sought to quench the light and shut it out from themselves and the world. This triumphant entry into Jerusalem captivated the common people and drew a great crowd, with a motive to witness one raised from the dead. God intended for the name of Jesus to be celebrated universally, strengthening faith and revealing his divinity.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.8724273163828287,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                26.52,
+                34.71,
+                38.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews, the rulers and persons of repute, hastened to Bethany not to see Jesus, but to witness the miraculous resurrection of Lazarus. The chief priests were driven by their diabolical determination to shut out the light and quench it from the earth. This triumphant entry into Jerusalem captivated the common people, motivating a great crowd to gather and witness someone raised from the dead. God intended for Jesus' name to be celebrated universally, strengthening faith and displaying his divinity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8162652677369406,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                27.05,
+                32.88,
+                40.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews, the rulers and persons of repute, didn't go to Bethany to see Jesus; rather, they came to behold the astonishing power of Christ in raising Lazarus from the dead. This triumphant entry into Jerusalem captivated the common people and drew a great crowd, with a motive to witness one raised from the dead. God intended for the name of Jesus to be celebrated universally, strengthening faith and revealing his divinity.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9973690658683607,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                26.01,
+                32.98,
+                41.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews, the rulers and persons of repute, were driven by their diabolical determination to shut out the light and quench it from the earth. They didn't go to Bethany to see Jesus, but to witness the miraculous resurrection of Lazarus, whom they came to know was alive. The triumphant entry of Jesus into Jerusalem captivated the common people, bringing a great crowd to witness one raised from the dead. God intended for Jesus' name to be universally celebrated, strengthening faith and revealing his divinity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.873956087109189,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                26.16,
+                32.0,
+                41.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

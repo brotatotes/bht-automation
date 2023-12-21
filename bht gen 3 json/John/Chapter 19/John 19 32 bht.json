@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-21-2023 03:14:34",
+    "verseRef": "John 19:32",
+    "bestBHT": {
+        "bht": "John's Gospel includes a unique detail: the breaking of the legs of the crucified criminals. This brutal act involved striking their legs with a heavy mallet to accelerate death. The soldiers likely approached from opposite sides, hitting each criminal before reaching Jesus. This serves as a symbolic image of the final judgment, with the righteous on Christ's right hand and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would vividly illustrate the separation at the last day.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.3621212035352745,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+        "commentatorTierSimilarities": [
+            34.88,
+            44.54,
+            20.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Brake the legs. A detail recorded only by John.",
+            "This crurifragium, leg-breaking, consisted in striking the legs with a heavy mallet in order to expedite death.",
+            "Some horrible illustrations are furnished by Suetonius, in his lives of Augustus and Tiberius."
+        ],
+        "Philip Schaff": [
+            "The bodies had been suspended on the cross with Jesus in the midst.",
+            "It is natural to suppose that the soldiers, approaching from two opposite sides, would proceed in the order thus mentioned.",
+            "Each would strike his blow on one malefactor's body; then they would come to Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "Which was crucified with him (\u03c4\u03bf\u03c5 \u03c3\u03c5\u03bd\u03c3\u03c4\u03b1\u03c5\u03c1\u03c9\u03b8\u03b5\u03bd\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03c9). First aorist passive articular participle of \u03c3\u03c5\u03bd\u03c3\u03c4\u03b1\u03c5\u03c1\u03bf\u03c9 with associative instrumental case. Cf. Paul's \u03a7\u03c1\u03b9\u03c3\u03c4\u03c9 \u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b1\u03c5\u03c1\u03c9\u03bc\u03b1 (Galatians 2:19). "
+        ],
+        "John Gill": [
+            "...a lively emblem of the last day, when the sheep shall stand at the right, and the goats on the left hand of Christ.",
+            "...if the former is true, must be he that reviled him...",
+            "...a lively emblem of the last day..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The detail of breaking the legs of the two criminals crucified with Jesus is mentioned only by John. This method of expedited death involved striking the legs with a heavy mallet. The soldiers likely approached from two opposite sides, with each delivering a blow to one of the criminals before reaching Jesus. This act can be seen as a symbolic representation of the final judgment, with the righteous standing on the right hand of Christ and the wicked on the left. Interestingly, if the criminal who reviled Jesus had his legs broken, it would further parallel the judgment separating the righteous from the wicked.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.335978733521259,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.76,
+            "commentatorTierSimilarities": [
+                32.79,
+                47.88,
+                19.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unique detail of breaking the legs of the crucified criminals is mentioned only by John. This gruesome method involved striking the legs with a heavy mallet to expedite death. It is probable that the soldiers approached from two opposite sides and struck each criminal before reaching Jesus. This act serves as a symbolic representation of the final judgment, with the righteous on the right hand of Christ and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would further parallel the judgment separating the righteous from the wicked.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.3337194298722161,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.69,
+            "commentatorTierSimilarities": [
+                34.98,
+                45.24,
+                19.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John records a unique detail not mentioned by the other Gospel writers: the breaking of the legs of the crucified criminals. This gruesome method involved using a heavy mallet to expedite death. It is likely that the soldiers approached from opposite sides, striking each criminal before reaching Jesus. This act symbolizes the final judgment, with the righteous on Christ's right hand and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would further illustrate the separation between the righteous and the wicked in the final judgment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.3000076026013345,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.57,
+            "commentatorTierSimilarities": [
+                33.51,
+                45.52,
+                20.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John provides a unique detail about the crucifixion, mentioning the breaking of the legs of the criminals. This brutal act, carried out by striking their legs with a heavy mallet, hastened their deaths. The soldiers who approached from opposite sides likely struck each criminal before reaching Jesus. This action serves as a symbolic representation of the future judgment, where the righteous will be separated from the wicked. If the criminal who insulted Jesus had his legs broken, it would further depict this ultimate division.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.2887613690788318,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.19,
+            "commentatorTierSimilarities": [
+                34.79,
+                49.03,
+                16.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's Gospel includes a unique detail: the breaking of the legs of the crucified criminals. This brutal act involved striking their legs with a heavy mallet to accelerate death. The soldiers likely approached from opposite sides, hitting each criminal before reaching Jesus. This serves as a symbolic image of the final judgment, with the righteous on Christ's right hand and the wicked on the left. If the criminal who reviled Jesus had his legs broken, it would vividly illustrate the separation at the last day.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.3621212035352745,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+            "commentatorTierSimilarities": [
+                34.88,
+                44.54,
+                20.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

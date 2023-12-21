@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:15:07",
+    "verseRef": "John 20:8",
+    "bestBHT": {
+        "bht": "In the gloom of the sepulchre, John's mind was enlightened by the fact of the Resurrection, and he believed that Jesus had risen from the dead. This personal experience of faith in the resurrection was a profound moment for John, even before seeing Jesus. While Peter saw more details, John's understanding of the Resurrection was immediate and certain. Through this belief, John embraced Jesus as the Son of God, the Savior. The doubts and uncertainties disappeared as he grasped the truth of the Resurrection.",
+        "wordCount": 86,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.6000742356211437,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.79,
+        "commentatorTierSimilarities": [
+            35.56,
+            41.82,
+            22.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He believed that Jesus was risen from the dead.\" ",
+            "He received into his mind, embraced with his assent, THE FACT OF THE RESURRECTION, for the first time.",
+            "We conclude that from this moment, in the gloom of the sepulchre, the mind of John was enlightened by saving faith in the Resurrection of Jesus, as with a new ray of the risen Sun of Righteousness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The repetition of this, in connection with his not having gone in till after Peter, seems to show that at the moment of penning these words the advantage which each of these loving disciples had of the other was present to his mind.",
+            "Probably he means, though he does not say, that he believed in his Lord's resurrection more immediately and certainly than Peter."
+        ],
+        "Marvin Vincent": [
+            "Believed. This word is explained by what follows. He believed (at length) that Jesus was risen.",
+            "The singular number, he believed, as Meyer profoundly remarks, 'only satisfies the never-to-be-forgotten personal experience of that moment.'",
+            "It does not exclude the contemporaneous faith of Peter also."
+        ],
+        "John Calvin": [
+            "It is a poor exposition which some give of these words, that John believed what he had heard Mary say.",
+            "Nor is this inconsistent with the fact, that Peter and John return home, while they are still in doubt and perplexity.",
+            "Besides, Luke 24:12 relates that Peter wondered at seeing the sepulcher in such good order; meaning by this, that Peter thought of something greater and loftier than what Mary had told him."
+        ],
+        "Philip Schaff": [
+            "To receive the truth of the Resurrection was to be led to a deeper and more real faith in Jesus Himself.",
+            "The uncertainties, doubts, and difficulties occasioned by the events of the days just passed disappeared from John\u2019s mind.",
+            "He 'believed' in Jesus as being what He truly was, the Son of God, the Saviour of man."
+        ],
+        "Archibald T. Robertson": [
+            "Peter saw more after he entered than John did in his first glance, but John saw into the meaning of it all better than Peter.",
+            "John was the first to believe that Jesus was risen from the tomb even before he saw him.",
+            "John was evidently proud to be able to record this great moment when he believed without seeing in contrast to Thomas."
+        ],
+        "John Gill": [
+            "the first was last, and the last first",
+            "the linen clothes lie in one place, and the napkin folded up in order, lying by itself in another",
+            "he believed the resurrection of Christ, though till now he did not know nor understand the Scriptures that spake of it"
+        ],
+        "John Wesley": [
+            "He saw \u2014 That the body was not there, and believed - That they had taken it away as Mary said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the darkness of the tomb, John's mind was enlightened by saving faith in the Resurrection of Jesus. He believed, for the first time, that Jesus had risen from the dead. This personal experience of faith in the resurrection was a profound moment for John, even before he saw Jesus himself. While Peter may have seen more details, John understood the true meaning of it all. He was proud to be able to record this moment of belief without seeing, in contrast to Thomas. Through this belief, John's faith in Jesus as the Son of God, the Savior of mankind, deepened. The doubts and uncertainties of the past days disappeared from his mind, and he truly embraced the truth of the Resurrection.",
+            "wordCount": 124,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 2.4503425267384875,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.81,
+            "commentatorTierSimilarities": [
+                37.27,
+                40.76,
+                21.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the gloom of the sepulchre, John's mind was enlightened by saving faith in the Resurrection of Jesus. He believed, for the first time, that Jesus had risen from the dead. This personal experience of faith in the resurrection was a profound moment for John. While Peter may have seen more details, John understood the true meaning of it all. Through this belief, John's faith in Jesus as the Son of God deepened. The doubts and uncertainties of the past days disappeared from his mind, and he truly embraced the truth of the Resurrection.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.483380527762112,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.91,
+            "commentatorTierSimilarities": [
+                36.22,
+                42.02,
+                21.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the gloom of the sepulchre, John's mind was enlightened by saving faith in the Resurrection of Jesus. He believed, for the first time, that Jesus had risen from the dead. This personal experience of faith in the resurrection was a profound moment for John. Through this belief, John's faith in Jesus as the Son of God deepened. The doubts and uncertainties of the past days disappeared from his mind, and he truly embraced the truth of the Resurrection.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.567042986088191,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.69,
+            "commentatorTierSimilarities": [
+                35.24,
+                44.06,
+                20.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the darkness of the tomb, John's mind was enlightened by saving faith in the Resurrection of Jesus. He believed, for the first time, that Jesus had risen from the dead. This personal experience of faith in the resurrection was a profound moment for John, even before he saw Jesus himself. While Peter may have seen more details, John understood the true meaning of it all. He was proud to record this moment of belief without seeing, in contrast to Thomas. Through this belief, John's faith in Jesus as the Son of God, the Savior of mankind, deepened.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.455699435971677,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.99,
+            "commentatorTierSimilarities": [
+                38.68,
+                38.71,
+                22.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the gloom of the sepulchre, John's mind was enlightened by the fact of the Resurrection, and he believed that Jesus had risen from the dead. This personal experience of faith in the resurrection was a profound moment for John, even before seeing Jesus. While Peter saw more details, John's understanding of the Resurrection was immediate and certain. Through this belief, John embraced Jesus as the Son of God, the Savior. The doubts and uncertainties disappeared as he grasped the truth of the Resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.6000742356211437,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.79,
+            "commentatorTierSimilarities": [
+                35.56,
+                41.82,
+                22.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

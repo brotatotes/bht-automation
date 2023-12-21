@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:15:43",
+    "verseRef": "John 21:23",
+    "bestBHT": {
+        "bht": "The prevalent belief in the early Church that John had not died is evident in the notion that this chapter was written during his lifetime. The confusion arising from the disciples' misunderstanding of Jesus' words is reflected by John's attempt to recapitulate them without explanation, showing his own lack of clarity. It is apparent that John is zealous for his Master's honor, eager to correct the false interpretation surrounding the idea that John would not die until Jesus' second coming, which was a widely held expectation at the time.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.182577493017206,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.91,
+        "commentatorTierSimilarities": [
+            42.45,
+            21.26,
+            36.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The following words are to me a proof that this chapter was written during St. John\u2019s lifetime.",
+            "This notion of St. John\u2019s not having died, was prevalent in the early Church.",
+            "The simple recapitulation of the words of the Lord shews that their sense remained dark to the writer, who ventured on no explanation of them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The prevalent expectation that Christ's second coming was then near at hand.\" ",
+            "The Evangelist is jealous for His Master's honor.\" ",
+            "FINAL CLOSE OF THIS GOSPEL."
+        ],
+        "Albert Barnes": [
+            "Then went this saying ... - This mistake arose very naturally:",
+            " "
+        ],
+        "Marvin Vincent": [
+            "Should not die [\u03bf\u03c5\u03ba \u03b1\u03c0\u03bf\u03b8\u03bd\u03b7\u03c3\u03ba\u03b5\u03b9]. Literally, dieth not.",
+            "Many interpreters think that these two verses were written by some other hand than John's.",
+            "The entire chapter, though bearing unmistakable marks of John's authorship in its style and language, was probably composed subsequently to the completion of the Gospel."
+        ],
+        "John Calvin": [
+            "But let us also observe whence this fault arises. The teaching of Christ is useful, and for edification; that is, it is plain; but we obscure the light by our wicked inventions, which we bring to it from our own views.",
+            "In order that we may be safe from this danger, let us learn to be wise and to think soberly. But such is the wantonness of the human understanding, that it rushes with all its force into foolishness.",
+            "We see, therefore, that we shall never cease to err, unless we unreservedly receive what the Lord hath taught us, and reject all inventions of men."
+        ],
+        "Philip Schaff": [
+            "If I will that he abide till I come, what is that to thee?",
+            "It is the thought of this Second Coming that John finds to be the prominent point in the words of his Master.",
+            "He beholds in them the assurance that there was an end fixed for all toil and suffering incurred in the task of witnessing for Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "That that disciple should not die, because Peter or others misunderstood what Jesus meant as John now carefully explains.",
+            "He was rebuking Peter's curiosity, not affirming that John would live on till the Master returned.",
+            "John is anxious to set this matter right."
+        ],
+        "John Gill": [
+            "It not being rightly understood by some one or more of the disciples present: it was divulged with a wrong sense annexed to it among other persons.",
+            "And such a notion not only was among the ancients; but Beza, in his notes on this text, tells us of a strolling wicked fellow, that gave out that he was the Apostle John; and was encouraged by some, particularly Postellus, a Sorbonic doctor, but was afterwards burnt at Tholouse.",
+            "These are the words of John himself, the disciple spoken of, who gives a true and just account of Christ's words, freeing them from the false sense that was put upon them."
+        ],
+        "John Wesley": [
+            "The brethren \u2014 That is, the Christians.",
+            "Yet Jesus did not say to him, that he should not die \u2014 Not expressly.",
+            "And St. John himself, at the time of writing his Gospel, seems not to have known clearly, whether he should die or not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prevalent belief in the early Church that John had not died is evidenced by the notion presented in the commentary that this chapter was written during his lifetime. The words of Jesus regarding John not dying until His second coming were misunderstood and caused confusion among the disciples. John, the writer of this Gospel, recapitulates the words of Jesus without offering an explanation, indicating his own lack of clarity on the matter. It is clear that John is keen on setting the record straight, defending the honor of his Master and ensuring that the true meaning of Jesus' words is understood.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.12785379752453,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.09,
+            "commentatorTierSimilarities": [
+                41.88,
+                21.79,
+                36.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prevalent belief that John had not died is evidenced by the notion presented in the quote that this chapter was written during his lifetime. The words of Jesus were misunderstood, causing confusion among the disciples. John, the writer of this Gospel, recapitulates the words of Jesus without offering an explanation, indicating his own lack of clarity on the matter. It is clear that John is keen on setting the record straight, defending the honor of his Master and ensuring that the true meaning of Jesus' words is understood.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.055479685387981,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                41.59,
+                21.79,
+                36.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prevalent belief in the early Church that John had not died is evident in the notion that this chapter was written during his lifetime. John, the writer of this Gospel, recaps the words of Jesus without explanation, indicating his lack of understanding. It is clear that John is eager to defend the honor of his Master, correcting the misunderstanding that arose from Jesus' words. The confusion surrounding the notion of John not dying until Christ's second coming highlights the anticipation of the disciples for the fulfillment of this event.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.1543362977365796,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                42.99,
+                23.16,
+                33.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prevalent belief in the early Church that John had not died is evident in the notion that this chapter was written during his lifetime. The confusion arising from the disciples' misunderstanding of Jesus' words is reflected by John's attempt to recapitulate them without explanation, showing his own lack of clarity. It is apparent that John is zealous for his Master's honor, eager to correct the false interpretation surrounding the idea that John would not die until Jesus' second coming, which was a widely held expectation at the time.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.182577493017206,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.91,
+            "commentatorTierSimilarities": [
+                42.45,
+                21.26,
+                36.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prevalent belief in the early Church that John had not died is apparent in the idea that this chapter was written during his lifetime. John, the author of this Gospel, refrains from offering an explanation of Jesus' words, indicating his own lack of understanding. John's intention is to clarify the true meaning of Jesus' statement, defending the honor of his Master amidst the confusion that arose from the disciples' misinterpretation. The disciples' anticipation of Christ's second coming and their desire to know John's fate underscore the prevailing expectation of that time.",
+            "wordCount": 95,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 2.105931595185078,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.36,
+            "commentatorTierSimilarities": [
+                43.08,
+                21.95,
+                34.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

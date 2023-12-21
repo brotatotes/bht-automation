@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:06:43",
+    "verseRef": "John 6:18",
+    "bestBHT": {
+        "bht": "The disciples were in great peril as the sea became thoroughly agitated and a great wind blew, causing a storm that tossed their ship and lifted up the waves. They struggled in rowing against the headwind, but their efforts were to little effect. From His mountain-top, Jesus looked down upon their toiling and the gathering danger, but He did not yet go to their relief. The storm was relentless, the darkness had fallen, and the sea was rising, all while Jesus waited for His own time to come.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 2.0271901396269874,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.75,
+        "commentatorTierSimilarities": [
+            25.17,
+            42.02,
+            32.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18. was rising] was becoming thoroughly agitated."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He saw them toiling in rowing, putting forth all their strength to buffet the waves and bear on against a head wind, but to little effect.\" ",
+            "He saw this from His mountain-top, and through the darkness of the night, for His heart was all with them.\" ",
+            "Yet would He not go to their relief till His own time came."
+        ],
+        "Marvin Vincent": [
+            "The imperfects convey the sense of gathering danger, and throw into stronger relief the fact of Jesus' appearance.",
+            "They were going; the darkness had already fallen, the sea was rising, and Jesus had not yet come.",
+            "John's narrative at this point is more detailed and graphic than the others."
+        ],
+        "Philip Schaff": [
+            "The darkness and the storm rendered their position one of great peril.",
+            "Many travellers bear witness to the fact that such storms beat with peculiar force upon the sea of Galilee.",
+            "The immediate effect of the storm was to drive the disciples out to sea till they reached the middle of the lake."
+        ],
+        "Archibald T. Robertson": [
+            "And the sea was rising (\u03b7 \u03c4\u03b5 \u03b8\u03b1\u03bb\u03b1\u03c3\u03c3\u03b1 \u03b4\u03b9\u03b5\u03b3\u03b5\u03b9\u03c1\u03b5\u03c4\u03bf). Imperfect (without augment) passive of \u03b4\u03b9\u03b5\u03b3\u03b5\u03b9\u03c1\u03c9, late compound to wake up thoroughly, to arouse.\" ",
+            "By reason of a great wind that blew (\u03b1\u03bd\u03b5\u03bc\u03bf\u03c5 \u03bc\u03b5\u03b3\u03b1\u03bb\u03bf\u03c5 \u03c0\u03bd\u03b5\u03bf\u03bd\u03c4\u03bf\u03c2). Genitive absolute with present active participle of \u03c0\u03bd\u03b5\u03c9, to blow, 'a great wind blowing.'"
+        ],
+        "John Gill": [
+            "The waves mounted up, and tossed the ship to and fro.",
+            "Which storm seems to have arose after they had set sail, and were got into the midst of the sea.",
+            "Agitated the waters of the sea, and lifted up the waves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples found themselves in a perilous situation, as the sea became thoroughly agitated and a great wind blew, creating a storm that tossed their ship and lifted up the waves. With darkness surrounding them, they labored to row and make progress against the headwind, but their efforts seemed to have little effect. From His mountain-top, Jesus looked down upon their toiling and their gathering danger, but He did not immediately come to their rescue. Instead, He waited for His own time to intervene and calm the storm.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.7906123702668306,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                23.57,
+                41.11,
+                35.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were in great peril as the sea became thoroughly agitated and a great wind blew, causing a storm that tossed their ship and lifted up the waves. They struggled in rowing against the headwind, but their efforts were in vain. From His mountain-top, Jesus observed their toiling and the gathering danger, yet He did not immediately come to their aid. Instead, He waited for the right time to intervene and bring calm to the storm.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.855713665002822,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.04,
+            "commentatorTierSimilarities": [
+                23.2,
+                40.8,
+                36.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples found themselves in a perilous situation, as the sea became thoroughly agitated and a great wind blew, creating a storm that tossed their ship and lifted up the waves. With darkness surrounding them, they labored to row and make progress against the headwind, but their efforts seemed to have little effect. From His mountain-top, Jesus looked down upon their toiling and their gathering danger, but He did not immediately come to their rescue. Instead, He waited for His own time to intervene and calm the storm.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.7906123702668306,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                23.57,
+                41.11,
+                35.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sea was thoroughly agitated and the disciples faced a great wind blowing, creating a storm that tossed their ship and lifted the waves. They struggled in rowing against the headwind, but their efforts were in vain. Jesus observed their toiling and the gathering danger, yet He did not immediately come to their aid. He waited for the right time to intervene and bring calm to the storm that threatened their journey.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.8622888608156603,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                22.75,
+                40.92,
+                36.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were in great peril as the sea became thoroughly agitated and a great wind blew, causing a storm that tossed their ship and lifted up the waves. They struggled in rowing against the headwind, but their efforts were to little effect. From His mountain-top, Jesus looked down upon their toiling and the gathering danger, but He did not yet go to their relief. The storm was relentless, the darkness had fallen, and the sea was rising, all while Jesus waited for His own time to come.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.0271901396269874,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.75,
+            "commentatorTierSimilarities": [
+                25.17,
+                42.02,
+                32.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

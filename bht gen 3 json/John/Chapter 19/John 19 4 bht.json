@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:14:43",
+    "verseRef": "John 19:4",
+    "bestBHT": {
+        "bht": "Pilate's actions aimed to please the crowd by mocking Jesus, whom he deemed innocent. He brought Jesus forth, saying, Behold, I bring him forth to you, that ye may know I find no fault in him. Pilate's unjust conduct included the scourging and the soldiers' mockery, as he sought to satisfy the people's anger. Despite this mockery of justice, Pilate used humor to deflect attention from the Sanhedrin's influence. Jesus' meekness and patience only served to strengthen the evidence of his innocence, even when condemned to die.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.904829548958636,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+        "commentatorTierSimilarities": [
+            27.83,
+            36.03,
+            36.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The unjust and cruel conduct of Pilate appears to have had for its object to satisfy the multitude by the mockery and degradation of the so-called King of the Jews.",
+            "His speech is equivalent to\u2014 'See what I have done purely to please you\u2014for I believe Him innocent.'",
+            "None."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Behold, I bring him forth to you\u2014that ye may know I find no fault in him.\" ",
+            "By scourging Him and allowing the soldiers to make sport of Him, [Pilate] have gone as far to meet your exasperation as can be expected from a judge.",
+            "I bring him forth to you\u2014am bringing, that is, going to bring him forth to you."
+        ],
+        "Albert Barnes": [
+            "Behold, I bring him forth to you, that ye may know\" - Pilate... declared to the Jews... that they might themselves see, and be satisfied... of his innocence.",
+            "The patience and meekness with which Jesus bore this seem to have convinced him still more that he was innocent\" - The meekness... of Jesus had power to convince... that he was not guilty. ",
+            "The highest evidence was given that the charges were false, even when he was condemned to die\" - The charges were false... even when he was condemned to die."
+        ],
+        "Archibald T. Robertson": [
+            "I bring him out to you (\u03b1\u03b3\u03c9 \u03c5\u03bc\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd \u03b5\u03be\u03c9). Vividly pictures Pilate leading Jesus out of the palace before the mob in front.",
+            "That ye may know (\u03b9\u03bd\u03b1 \u03b3\u03bd\u03c9\u03c4\u03b5). Final clause with \u03b9\u03bd\u03b1 and the second aorist active subjunctive of \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9, 'that ye may come to know,' by this mockery the sincerity of Pilate's decision that Jesus is innocent.",
+            "It is a travesty on justice and dignity, but Pilate is trying by a bit of humour to turn the mob from the grip of the Sanhedrin."
+        ],
+        "John Gill": [
+            "That ye may know that I find no fault in him; for by seeing what was done to him, how severely he had been scourged, and in what derision and contempt he had been had, and what barbarity had been exercised on him, they might know and believe...",
+            "...that if Pilate did all this, or allowed of it to be done to a man whom he judged innocent, purely to gratify the Jews; that had he found anything in him worthy of death, he would not have stopped here, but would have ordered the execution of him...",
+            "Pilate, by his own confession, in treating, or suffering to be treated in so cruel and ignominious a manner, one that he himself could find no fault in, or cause of accusation against, was guilty of great injustice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate's actions in bringing Jesus forth to the people were an attempt to satisfy the crowd by mocking the so-called King of the Jews. His words, Behold, I bring him forth to you, that ye may know I find no fault in him, reveal his belief in Jesus' innocence. The scourging and the soldiers' mockery showed Pilate going to great lengths to appease the angered crowd. Despite his unjust and cruel conduct, Pilate sought to emphasize his decision that Jesus was innocent. Through this travesty of justice, Pilate used humor to divert the mob's attention from the Sanhedrin's grip. The meekness and patience displayed by Jesus further emphasized his innocence, despite the false charges brought against him.",
+            "wordCount": 121,
+            "quoteTokenProportion": 29.11,
+            "qualityScore": 1.9824912979162734,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
+            "commentatorTierSimilarities": [
+                27.39,
+                37.61,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate's actions aimed to please the crowd by mocking Jesus, whom he deemed innocent. He brought Jesus forth, saying, Behold, I bring him forth to you, that ye may know I find no fault in him. Pilate's unjust conduct included the scourging and the soldiers' mockery, as he sought to satisfy the people's anger. Despite this mockery of justice, Pilate used humor to deflect attention from the Sanhedrin's influence. Jesus' meekness and patience only served to strengthen the evidence of his innocence, even when condemned to die.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.904829548958636,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                27.83,
+                36.03,
+                36.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate's intent in bringing Jesus forward was to mock the so-called King of the Jews, satisfying the crowd. He stated, Behold, I bring him forth to you, that ye may know I find no fault in him. Pilate's unjust conduct involved the scourging of Jesus and the soldiers' derision as he tried to appease the enraged crowd. Despite this mockery of justice, Pilate used humor to divert attention from the influence of the Sanhedrin. Jesus' meekness and patience demonstrated his innocence, even in the face of false charges that led to his condemnation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.8874460589317663,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                28.63,
+                35.58,
+                35.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate's goal was to satisfy the crowd by mocking Jesus, the self-proclaimed King of the Jews. He declared, Behold, I bring him forth to you, that ye may know I find no fault in him. Pilate's unjust actions, including the scourging and the soldiers' mockery, were intended to appease the angry mob. Despite this blatant miscarriage of justice, Pilate attempted to use humor to divert attention away from the grip of the Sanhedrin. Jesus' meekness and patience provided further evidence of his innocence, even in the face of false accusations.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.776366040182805,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                28.57,
+                36.45,
+                34.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate aimed to satisfy the crowd by degrading the self-proclaimed King of the Jews. He stated, Behold, I bring him forth to you, that ye may know I find no fault in him. Pilate's unjust conduct, including Jesus' scourging and the soldiers' mockery, attempted to appease the enraged mob. Despite this travesty, Pilate used humor to deflect attention from the grip of the Sanhedrin. Jesus' meekness and patience provided compelling evidence of his innocence, even when condemned to die.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.850577230164041,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                28.7,
+                36.56,
+                34.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

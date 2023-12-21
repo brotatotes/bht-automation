@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:13:35",
+    "verseRef": "John 16:26",
+    "bestBHT": {
+        "bht": "The more knowledge we have, the more we are compelled to pray in the name of Jesus. Jesus assures his disciples that his intercession does not exclude them from access to the Father, but rather ensures it. By asking in the name of Jesus, the disciples are assured that God will not refuse their requests. This demonstrates the special love of God for his disciples and their ability to approach the Father with confidence, knowing he is ready and willing to bestow upon them the blessings they need.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.2718805697524425,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.88,
+        "commentatorTierSimilarities": [
+            30.35,
+            37.61,
+            32.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The more knowledge, the more prayer in the name of Jesus.\" ",
+            "Knowledge begets prayer.\" ",
+            "The aim of this saying is to show them that His intercession does not imply their exclusion from access to the Father, but rather ensures that access."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He does pray the Father for His people, not for the purpose of inclining an unwilling ear.",
+            "Christ does pray the Father, but not for the purpose of inclining an unwilling ear.",
+            "Christ does pray the Father for His people, but not for the purpose of inclining an unwilling ear."
+        ],
+        "Albert Barnes": [
+            "In Hebrews 7:25, it is said that Jesus ever liveth to make intercession for us; and it is constantly represented in the New Testament that it is by his intercession in heaven now that we obtain the blessings of pardon, peace, strength, and salvation.",
+            "This declaration of Jesus, then, does not mean that he would not intercede for them, but that there was no need then of his mentioning it to them again.",
+            "They knew that; and, in addition to that, he told them that God was ready and willing to confer on them all needful blessings."
+        ],
+        "Marvin Vincent": [
+            "Ye shall ask - I will pray. Note again the use of the two verbs for asking. Ye shall ask [\u03b1\u03b9\u03c4\u03b7\u03c3\u03b5\u03c3\u03b8\u03b5] ; I will pray [\u03b5\u03c1\u03c9\u03c4\u03b7\u03c3\u03c9] . See on ver. 23."
+        ],
+        "John Calvin": [
+            "It is, because they ask in the name of Christ whatever they need, and God will refuse nothing that shall be asked in the name of his Son.",
+            "Christ does not absolutely say, in this passage, that he will not be Intercessor, but he only means, that the Father will be so favorably disposed towards the disciples, that, without any difficulty, he will give freely whatever they shall ask.",
+            "This is a remarkable passage, by which we are taught that we have the heart of the Heavenly Father, as soon as we have placed before Him the name of his Son."
+        ],
+        "Archibald T. Robertson": [
+            "Christ did pray for the disciples before his death and he prays also for sinners.",
+            "Here it is the special love of God for disciples of Jesus.",
+            "Note \u03b1\u03b9\u03c4\u03b5\u03c9 and \u03b5\u03c1\u03c9\u03c4\u03b1\u03c9 used in practically the same sense as in verse John 16:23."
+        ],
+        "John Gill": [
+            "For when the Spirit was poured upon them, they not only received his extraordinary gifts, and had a larger measure of his grace bestowed upon them; but were also blessed with him, as a spirit of grace and supplication, in a more remarkable manner than ever they had been before.\" ",
+            "They then better understood the throne of grace, and the advantages of it; had greater enlargements and assistances at it; and were better acquainted with the mediation of Christ, and the necessity of making use of his name, blood, and righteousness, in all their petitions and requests.",
+            "This is said, not as if the intercession of Christ for his people would then cease; for he is always their advocate with the Father, and ever lives to make intercession for them; though it may not be carried on in the same manner, by prayer, as when he was here on earth, his personal appearance, and the presentation of his blood, sacrifice, and righteousness, being sufficient."
+        ],
+        "John Wesley": [
+            "For true knowledge begets prayer.",
+            "The Father himself now loves you, not only because of my intercession, but also because of the faith and love which he hath wrought in you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The more knowledge we have, the more we are compelled to pray in the name of Jesus. Jesus wants to show his disciples that his intercession does not exclude them from approaching the Father, but rather ensures their access. He prays to the Father for his people with the intention of presenting their requests, not to persuade an unwilling ear. In this verse, the disciples are reminded that they can ask in prayer, while Jesus simultaneously promises to intercede on their behalf. This intercession of Jesus reveals the special love of God for his disciples and assures them that God is ready and willing to bestow upon them the blessings they need. By asking in the name of Jesus, the disciples are assured that God will not refuse their requests.",
+            "wordCount": 130,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.362306720458317,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.89,
+            "commentatorTierSimilarities": [
+                32.57,
+                37.15,
+                30.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The more knowledge we have, the more we are compelled to pray in Jesus' name. Jesus assures his disciples that his intercession does not exclude them from approaching the Father. He desires to present their requests, not to persuade an unwilling ear. By asking in the name of Jesus, the disciples are assured that God will not refuse their requests. This demonstrates the special love of God for his disciples. They can approach the Father with confidence, knowing that he is ready and willing to bestow upon them the blessings they need.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.0285567737239867,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                32.05,
+                37.08,
+                30.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The more knowledge we have, the more we are compelled to pray in the name of Jesus. Jesus assures his disciples that his intercession does not exclude them from access to the Father, but rather ensures it. By asking in the name of Jesus, the disciples are assured that God will not refuse their requests. This demonstrates the special love of God for his disciples and their ability to approach the Father with confidence, knowing he is ready and willing to bestow upon them the blessings they need.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.2718805697524425,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.88,
+            "commentatorTierSimilarities": [
+                30.35,
+                37.61,
+                32.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The more knowledge we have, the more we are compelled to pray in Jesus' name. Jesus assures his disciples that his intercession does not exclude them from approaching the Father; it ensures their access. By asking in the name of Jesus, the disciples are assured that God will not refuse their requests. This demonstrates the special love of God for his disciples, who can confidently approach the Father, knowing he is ready and willing to bestow upon them the blessings they need.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.248771464298643,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.11,
+            "commentatorTierSimilarities": [
+                30.85,
+                37.28,
+                31.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The more knowledge we have, the more we are compelled to pray in the name of Jesus. Jesus assures his disciples that his intercession does not exclude them from approaching the Father; it ensures their access. By asking in Jesus' name, the disciples are assured that God will not refuse their requests. This demonstrates the special love of God for his disciples, who can confidently approach the Father, knowing he is ready and willing to bestow the blessings they need upon them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2583303259685548,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.43,
+            "commentatorTierSimilarities": [
+                30.91,
+                37.13,
+                31.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

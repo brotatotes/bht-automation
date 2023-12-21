@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:14:41",
+    "verseRef": "John 19:21",
+    "bestBHT": {
+        "bht": "The chief priests pressured Pilate to mock Jesus as the King of the Jews, fearing it would bring disgrace. Yet, their attempt to humiliate Jesus unwittingly revealed the truth of his kingship. On the cross, Jesus was both defeated and victorious, proclaimed as the universal King in various languages. Meanwhile, the chief priests achieved their goal, only to be shamed, while Jesus was glorified. Their deep hatred of the truth could not withstand even the smallest ray of light, and the title offended them greatly, highlighting their relentless desire to extinguish God's light.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.8602028699845512,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+        "commentatorTierSimilarities": [
+            32.61,
+            36.92,
+            30.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They had prevailed on Pilate by urging this point, that Jesus had set Himself up for a king...",
+            "...and Pilate is willing to remind them of it by these taunts."
+        ],
+        "John Calvin": [
+            "They would wish that the title were changed, so as not to involve the nation in disgrace, but to throw the whole blame on Christ.",
+            "They do not conceal their deep hatred of the truth, since the smallest spark of it is more than they are able to endure.",
+            "Satan always prompts his servants to endeavor to extinguish, or, at least, to choke, by their own darkness, the light of God, as soon as the feeblest ray of it appears."
+        ],
+        "Philip Schaff": [
+            "This is the only occasion on which we meet with the expression \u2018the chief priests of the Jews;\u2019 and as it occurs in such close connection with the words \u2018the King of the Jews,\u2019 we can hardly doubt that the latter words determined the form of the phrase before us.",
+            "On the one side we see the King of the Jews defeated, yet victorious; suspended on the cross, yet proclaimed to be what He is in all the great languages of the world; set before us as universal King.",
+            "On the other side we see the chief priests of the Jews victorious, yet defeated; their object apparently accomplished, yet its accomplishment turned to their own shame, and their Victim\u2019s glory."
+        ],
+        "Archibald T. Robertson": [
+            "The chief priests were uneasy for fear that the joke in the mock title was on them instead of on Jesus.\" ",
+            "They were right in their fear."
+        ],
+        "John Gill": [
+            "These, when they read the title, were greatly offended at it, partly because it was doing too great an honour to Jesus to call him the King of the Jews.",
+            "It fixed a public brand of infamy upon their nation, that a king of theirs should be crucified.",
+            "That so he might be thought to be a seditious person and a traitor; one that laid claim to the temporal crown and kingdom of Israel, and one that suffered justly for attempts of that kind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests prevailed on Pilate to mock Jesus by labeling him as the King of the Jews, a title they feared would bring disgrace upon themselves. Despite their attempt to humiliate Jesus, the chief priests unknowingly fulfilled the truth of his kingship. On the cross, Jesus was both defeated and victorious, his identity proclaimed in multiple languages as the universal King. In contrast, the chief priests were victorious in achieving their objective, but it only led to their shame and Jesus' glory. Their deep hatred of the truth is evident, as they cannot bear even the smallest ray of light. In reading the title, they were greatly offended, not wanting to give Jesus the honor of being called a king. However, the title also brought public disgrace upon their nation, branding their king as a crucified criminal. Their attempt to depict Jesus as a traitor only served to emphasize the true nature of his suffering and vindicate his claim to the kingdom.",
+            "wordCount": 163,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8264193637358783,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                30.66,
+                35.78,
+                33.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests pressured Pilate to mock Jesus as the King of the Jews, fearing it would bring disgrace. Yet, their attempt to humiliate Jesus unwittingly revealed the truth of his kingship. On the cross, Jesus was both defeated and victorious, proclaimed as the universal King in various languages. Meanwhile, the chief priests achieved their goal, only to be shamed, while Jesus was glorified. Their deep hatred of the truth could not withstand even the smallest ray of light, and the title offended them greatly, highlighting their relentless desire to extinguish God's light.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8602028699845512,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                32.61,
+                36.92,
+                30.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their efforts to mock Jesus, the chief priests convinced Pilate to label him as the King of the Jews, fearing that the joke was on them instead. Little did they realize that this title held deeper significance. While Jesus, as the King, appeared defeated on the cross, he was simultaneously proclaimed as a universal ruler in various languages. The chief priests achieved their objective, but their success turned to shame, as Jesus' suffering and glory magnified their own darkness and disbelief.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7599923057130242,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                33.45,
+                39.0,
+                27.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests used their influence to mock Jesus, persuading Pilate to declare him the King of the Jews. However, their intentions backfired as this title held a deeper truth. While Jesus appeared defeated on the cross, he was proclaimed as the universal King in multiple languages. Though the chief priests achieved their goal, it only resulted in their shame and Jesus' glory. Their intense animosity towards the truth was evident, unable to tolerate even the smallest glimmer of light.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5912457696614308,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.25,
+            "commentatorTierSimilarities": [
+                32.32,
+                39.79,
+                27.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests managed to convince Pilate to mock Jesus by labeling him as the King of the Jews, all the while fearing that the joke was not on Jesus, but on themselves. Little did they know that this title would serve as a testament to the truth of Jesus' kingship. Although Jesus seemed defeated on the cross, he was proclaimed as the universal King in various languages. In contrast, the chief priests achieved their objective, but it only led to their own shame and Jesus' ultimate glory. Their deep hatred for the truth was evident, as they could not bear even the smallest spark of light. In reading the title, they were greatly offended, desiring to deny Jesus the honor of being called a king. However, their actions only brought public disgrace upon their nation and served to validate the truth of Jesus' suffering and his claim to the kingdom.",
+            "wordCount": 151,
+            "quoteTokenProportion": 40.22,
+            "qualityScore": 1.7477878969759084,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                31.64,
+                35.0,
+                33.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "timestamp": "12-21-2023 03:11:59",
+    "verseRef": "John 13:18",
+    "bestBHT": {
+        "bht": "Jesus knew exactly whom He had chosen, and this was not a mistake or coincidence, but part of God's plan as revealed in the Scriptures. He specifically emphasizes that the scripture must be fulfilled, referring to the betrayal by Judas, who had shared in the closest fellowship and intimacy with Jesus. The choice to betray Jesus after eating bread with Him was a gross breach of hospitality and friendship. While this treachery was according to God's eternal plan, Judas is still responsible for his guilt.",
+        "wordCount": 87,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 2.012188134226265,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+        "commentatorTierSimilarities": [
+            30.74,
+            41.01,
+            28.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I know whom I have selected...but this has been done by the determinate counsel and foreknowledge of God, declared in the Scriptures.\" ",
+            "The I is emphatic; and the reason of its emphasis is given in ver. 19.",
+            "This is another instance of the direct and unhesitating application of the words of the Psalms by our Lord to Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I know whom I have chosen\u2014in",
+            "\tthe higher sense.",
+            "But that the scripture may be",
+            "\tfulfilled\u2014that is, one has been added to your number, by no",
+            "\taccident or mistake.",
+            "He that eateth bread with",
+            "\tme\u2014'did eat of my bread' ( :-), as one of My family; admitted to the nearest familiarity",
+            "\tof discipleship and of social life."
+        ],
+        "Albert Barnes": [
+            "In addressing you as clean, I do not mean to say that you all possess this character.",
+            "Though Judas had been chosen to the office of apostleship, yet he had not been chosen to purity of heart and life.",
+            "It was not merely the common people, the open enemies, the Jewish nation that did it, but one who had received all the usual proofs of kindness. It was this which greatly aggravated our Saviour\u2019s sufferings."
+        ],
+        "Marvin Vincent": [
+            "Not elected to salvation, but chose as an apostle.",
+            "Elliptical. We must supply this choice was made in order that, etc.",
+            "The metaphor is of one administering a kick."
+        ],
+        "John Calvin": [
+            "But as he governs those whom he has elected, all the engines which Satan can employ will not prevent them from persevering to the end with unshaken firmness. And not only does he ascribe to election their perseverance, but likewise the commencement of their piety.",
+            "Let us, therefore, learn that every part of our salvation depends on election.",
+            "For when he says, I know, the knowledge, of which he speaks, belongs peculiarly to God; but the second proof \u2014 contained in the words, whom I have chosen \u2014 is far more powerful, for he testifies that they who were elected before the creation of the world were elected by himself."
+        ],
+        "Philip Schaff": [
+            "It is contemplation of the blessedness first spoken of that fills His mind, and pity for that disciple who was not only to separate himself from the others, but, in doing so, to lose their blessedness.",
+            "I know whom I chose. You may imagine that I have been deceived, but it is not so; I knew well what was to happen, and that it was a part of the purposes of God.",
+            "The peculiar offensiveness of the conduct spoken of lies in the fact that the person guilty of it has \u2018eaten the bread\u2019 of him whom he injures, and has thus violated those laws of hospitality and friendship than which the East knew none more sacred."
+        ],
+        "Archibald T. Robertson": [
+            "As in verse John 13:11, he here refers to Judas whose treachery is no surprise to Jesus.",
+            "The treachery of Judas was according to the eternal counsels of God, but none the less Judas is responsible for his guilt.",
+            "The metaphor is that of kicking with the heel or tripping with the heel like a wrestler. It was a gross breach of hospitality to eat bread with anyone and then turn against him so."
+        ],
+        "John Gill": [
+            "He sat down with him at table frequently, and ate bread with him; and was doing so, when Satan put it into his heart to betray him; which is strongly expressed, by 'lifting up' his 'heel against him'; and sets forth the ingratitude, wickedness, and cruelty of him.",
+            "He that eateth bread with me, hath lift up his heel against me;... like an unruly horse, that has thrown his rider, spurns at him, to destroy him; and also the insidious manner in which he did it; he supplanted, he tripped him, as wrestlers do, in order to cast him down to the ground, and then trample upon him, and triumph over him.",
+            "He first \u05de\u05d0\u05e8\u05d1, 'laid snares for him', as Jarchi explains the phrase used in the 'psalm', and then \u05d4\u05d2\u05d3\u05d9\u05dc, 'he magnified his heel', he behaved proudly and haughtily to him."
+        ],
+        "John Wesley": [
+            "I speak not of you all \u2014 When I call you happy, I know one of you twelve whom I have chosen, will betray me; whereby that scripture will be fulfilled. Psalm 41:9."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus knew exactly whom He had chosen, and this was not a mistake or coincidence, but part of God's plan as revealed in the Scriptures. He specifically emphasizes that the scripture must be fulfilled, referring to the betrayal by Judas, who had shared in the closest fellowship and intimacy with Jesus. The choice to betray Jesus after eating bread with Him was a gross breach of hospitality and friendship. While this treachery was according to God's eternal plan, Judas is still responsible for his guilt. Ultimately, this betrayal would lead to Jesus' sufferings, but He knew all along what was to happen and that it was part of God's purpose.",
+            "wordCount": 113,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 2.0193525565631054,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.48,
+            "commentatorTierSimilarities": [
+                29.3,
+                42.44,
+                28.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus knew exactly whom He had chosen, and this was not a mistake or coincidence, but part of God's plan as revealed in the Scriptures. He specifically emphasizes that the scripture must be fulfilled, referring to the betrayal by Judas, who had shared in the closest fellowship and intimacy with Jesus. The choice to betray Jesus after eating bread with Him was a gross breach of hospitality and friendship. While this treachery was according to God's eternal plan, Judas is still responsible for his guilt.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.012188134226265,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                30.74,
+                41.01,
+                28.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus knew exactly whom He had chosen, and this was not a mistake or coincidence. It was part of God's determinate counsel and foreknowledge declared in the Scriptures. The choice to betray Jesus after sharing a meal with Him was a gross breach of hospitality. Although Judas's treachery fulfilled the scriptural prophecy, he is still responsible for his guilt. This betrayal greatly aggravated our Savior's sufferings, as it came from someone who had received all the usual proofs of kindness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8505990822907927,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                27.93,
+                43.18,
+                28.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus emphasized that He knew exactly whom He had chosen, and this selection was not a mistake but part of God's determined plan, as declared in the Scriptures. The scripture had to be fulfilled, referring to the betrayal of Judas, who had eaten bread with Jesus, making his treachery even more offensive. Although Judas's betrayal was part of God's eternal counsels, he is nevertheless responsible for his guilt. This act of betrayal greatly afflicted our Savior, with the breach of hospitality and friendship intensifying His sufferings.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9705776131703416,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+            "commentatorTierSimilarities": [
+                27.59,
+                42.16,
+                30.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus knew whom He had selected, and this was no accident but part of God's determined plan, as declared in the Scriptures. The betrayal of Judas, whom Jesus had shared bread with, was a gross breach of hospitality and friendship. Although Judas's treachery fulfilled the scriptural prophecy, he is still responsible for his guilt. This not only greatly aggravated Jesus's sufferings but also showcased the insidious manner in which Judas betrayed Him, as if tripping and trampling over Him in triumph.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.963682324716344,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+            "commentatorTierSimilarities": [
+                28.14,
+                42.53,
+                29.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

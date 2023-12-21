@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:04:01",
+    "verseRef": "John 1:43",
+    "bestBHT": {
+        "bht": "Jesus, about to set out on His journey, encounters Philip, someone He is already familiar with. This marks the first time Jesus personally calls a disciple. While the call does not have the same apostolic connotation, it connects Philip with the existing group of followers. Jesus had previously spent time in Judea after His baptism, making this subsequent call at the Sea of Galilee. The following day, Jesus finds Philip and directly challenges him, saying Follow me. The immediacy of Philip's response to the power of God's word reflects the effectiveness of the Gospel.",
+        "wordCount": 96,
+        "quoteTokenProportion": 41.43,
+        "qualityScore": 1.9919134288743219,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.57,
+        "commentatorTierSimilarities": [
+            34.86,
+            33.6,
+            31.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord is on the point of setting out... and finds Philip, with whom there is every reason to believe He was previously acquainted.\" ",
+            "Here we find Jesus himself calling a disciple, for the first time.",
+            "Follow me does not here bear its strict apostolic sense... unites Philip to the company of those who have been before mentioned."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From His baptism He had sojourned in Judea, showing that the calling at the Sea of Galilee was a subsequent one.\" ",
+            "The first express call given, the former three having come to Him spontaneously."
+        ],
+        "Albert Barnes": [
+            "Would go forth - Was about to go.",
+            "This is the object of this evangelist, to show how and when they were convinced of this.",
+            "John, the time in which they first became acquainted with Jesus, and were convinced that he was the Messiah."
+        ],
+        "John Calvin": [
+            "When Philip was inflamed by this single word to follow Christ, we infer from it how great is the efficacy of the word of God.\" ",
+            "The external preaching of the word is in itself unfruitful, except that it inflicts a deadly wound on the reprobate, so as to render them inexcusable before God.",
+            "We ought, therefore, to pray to Christ that he may display in us the same power of the Gospel."
+        ],
+        "Philip Schaff": [
+            "The first two disciples had \u2018sought\u2019 and \u2018followed\u2019 Jesus; then they had found Him.",
+            "Now Jesus (seeks and) \u2018finds\u2019 Philip, and bids him follow Him.",
+            "The calling of Philip and of Nathanael is recorded by John alone."
+        ],
+        "Archibald T. Robertson": [
+            "On the morrow... He findeth Philip.\" ",
+            "Vivid dramatic present as in John 1:41, though \u03b7\u03b8\u03b5\u03bb\u03b7\u03c3\u03b5\u03bd (was minded, wished) is aorist active indicative.\" ",
+            "Present active imperative, a direct challenge to Philip."
+        ],
+        "John Gill": [
+            "Jesus would go forth into Galilee... and besides this, he had doubtless another end in going thither: which was to call some other disciples that dwelt there.\" ",
+            "Knowing where he was, as the shepherd and bishop of souls, [Jesus] looked him up and found him out.",
+            "Leave thy friends, thy calling, and business, and become a disciple of mine: and such power went along with these words, that he at once left all, and followed Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord, about to embark on His journey, encounters Philip, whom He is already acquainted with. Jesus Himself takes the initiative to call Philip, the first explicit call made by Him. This call is not of the strict apostolic nature, but rather it joins Philip to the group of disciples mentioned before. Having spent time in Judea after His baptism, Jesus' calling at the Sea of Galilee is subsequent. On the following day, Jesus finds Philip and directly challenges him with the words Follow me. The power of the word of God is evident in Philip's immediate response to follow Christ, demonstrating the efficacy of the Gospel.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.997353394797231,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.75,
+            "commentatorTierSimilarities": [
+                37.01,
+                30.92,
+                32.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord, on the verge of departing, encounters Philip, whom He already knows. This is Jesus' first direct call to a disciple. While it doesn't carry the same apostolic significance, it unites Philip with the existing group of followers. After His time in Judea, Jesus calls disciples at the Sea of Galilee. The next day, Jesus finds Philip and challenges him with the words Follow me. Philip's immediate response showcases the power of God's word, highlighting the effectiveness of the Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.916364147025644,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                35.26,
+                31.13,
+                33.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, about to set out on His journey, encounters Philip, someone He is already familiar with. This marks the first time Jesus personally calls a disciple. While the call does not have the same apostolic connotation, it connects Philip with the existing group of followers. Jesus had previously spent time in Judea after His baptism, making this subsequent call at the Sea of Galilee. The following day, Jesus finds Philip and directly challenges him, saying Follow me. The immediacy of Philip's response to the power of God's word reflects the effectiveness of the Gospel.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.9919134288743219,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.57,
+            "commentatorTierSimilarities": [
+                34.86,
+                33.6,
+                31.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Our Lord is on the brink of beginning His journey, He encounters Philip, with whom there is reason to believe He was already acquainted. This marks the first instance where Jesus Himself calls a disciple. Although the phrase Follow me doesn't bear its strict apostolic sense here, it joins Philip to the company of previously mentioned individuals. After His time in Judea, Jesus sets out to the Sea of Galilee for a subsequent calling. On the following day, Jesus finds Philip and directly challenges him, commanding him to follow. The power of the word of God is evident in Philip's immediate response to become a disciple of Christ.",
+            "wordCount": 111,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 2.0728346864044713,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.26,
+            "commentatorTierSimilarities": [
+                35.82,
+                31.79,
+                32.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the lead-up to His journey, Jesus encounters Philip, whom He already knows. This marks Jesus personally calling a disciple for the first time, though not in the strict apostolic sense. Instead, it unites Philip with the existing group of followers. After His time in Judea, Jesus calls disciples at the Sea of Galilee. The next day, Jesus finds Philip and issues a direct challenge: Follow me. Philip's immediate response reflects the power of God's word in the Gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9249919195160743,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                35.37,
+                31.99,
+                32.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

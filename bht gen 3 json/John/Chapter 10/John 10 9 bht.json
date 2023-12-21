@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:09:49",
+    "verseRef": "John 10:9",
+    "bestBHT": {
+        "bht": "There is no entrance for salvation into the church but through Jesus, whether it be for shepherd or sheep. Jesus offers the open door to anyone willing to do God's will. By entering through Him, one shall be saved and find safety, nourishment, and refreshment. Through faith in Christ, believers shall be saved from sin, find provision for their souls, and experience the twofold advantage of the Gospel: finding true nourishment and being faithfully protected from harm.",
+        "wordCount": 78,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.0172164128462735,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+        "commentatorTierSimilarities": [
+            29.88,
+            35.15,
+            34.97
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no entrance for salvation into the church but by Me, whether it be for shepherd, or for sheep.",
+            "The sequel of the verse shows that this combined meaning is the true one.",
+            "Meyer, who understands it all of shepherds alone, finds great difficulty in the interpretation of the latter words."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "by me if any man enter in\u2014whether shepherd or sheep.\" ",
+            "shall be saved\u2014the great object of the pastoral office, as of all the divine arrangements towards mankind.\" ",
+            "and shall go in and out and find pasture\u2014in, as to a place of safety and repose; out, as to 'green pastures and still waters' for nourishment and refreshing."
+        ],
+        "Albert Barnes": [
+            "By me - By my instruction and merits.",
+            "Shall be saved - See John 5:24.",
+            "Shall go in and out ... - This is language applied, commonly to flocks. It meant that he shall be well supplied, and defended, and led 'beside the still waters of salvation.'"
+        ],
+        "John Calvin": [
+            "The highest consolation of believers is, that when they have once embraced Christ, they learn that they are out of danger.\" ",
+            "By going in and out, Scripture often denotes all the actions of the life, as we say in French, aller et venir, (to go and come,) which means, to dwell.",
+            "These words, therefore, present to us a twofold advantage of the Gospel, that our souls shall find pasture in it, which otherwise become faint and famished, and are fed with nothing but wind; and, next, because he will faithfully protect and guard us against the attacks of wolves and robbers."
+        ],
+        "Philip Schaff": [
+            "I am the door: by me if any one have entered in, he shall be saved...\" ",
+            "Whoever has entered through this Door (Christ) shall be saved, and shall enter in (to the fold), and shall go out and find pasture...",
+            "From all such penalty of unfaithfulness shall the true shepherd be 'saved.' That He whose love to His flock assigns this punishment to the unworthy will reward the faithful, may not be expressed in the figure, but in the interpretation it holds the chief place: to such a shepherd of souls will Jesus give salvation."
+        ],
+        "Archibald T. Robertson": [
+            "One can call this narrow intolerance, if he will, but it is the narrowness of truth.",
+            "Jesus offers the open door to 'any one' (\u03c4\u03b9\u03c2) who is willing (\u03b8\u03b5\u03bb\u03b5) to do God's will.",
+            "The shepherd leads the sheep to pasture, but this phrase pictures the joy of the sheep in the pasture provided by the shepherd."
+        ],
+        "John Gill": [
+            "Entering into these, at the right door, or through faith in Christ, such will be saved.",
+            "Such shall be saved from sin, the dominion of it, the guilt and condemning power of it.",
+            "It may regard the conversation of the saints in the church, their attendance on ordinances, their safety there, their free and open communion one with another, and with Christ."
+        ],
+        "John Wesley": [
+            "If any one \u2014 As a sheep, enter in by me - Through faith, he shall be safe - From the wolf, and from those murdering shepherds.",
+            "And shall go in and out \u2014 Shall continually attend on the shepherds whom I have sent; and shall find pasture - Food for his soul in all circumstances."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There is no entrance for salvation into the church but through Jesus, whether it be for shepherd or sheep. Jesus offers the open door to anyone who is willing to do God's will. By entering through Him, one shall be saved and find safety, nourishment, and refreshment. This verse pictures the joy of the sheep in the pasture provided by the shepherd. Through faith in Christ, believers shall be saved from sin, find provision for their souls, and experience the twofold advantage of the Gospel: finding true nourishment and being faithfully protected from harm.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.032121327907113,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                32.71,
+                32.6,
+                34.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There is no entrance for salvation into the church but through Jesus, whether it be for shepherd or sheep. Jesus offers the open door to anyone willing to do God's will. By entering through Him, one shall be saved and find safety, nourishment, and refreshment. Through faith in Christ, believers shall be saved from sin, find provision for their souls, and experience the twofold advantage of the Gospel: finding true nourishment and being faithfully protected from harm.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.0172164128462735,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+            "commentatorTierSimilarities": [
+                29.88,
+                35.15,
+                34.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By entering through Jesus, one shall be saved and find safety, nourishment, and refreshment. This verse pictures the joy of the sheep in the pasture provided by the shepherd. Through faith in Christ, believers shall be saved from sin, find provision for their souls, and experience the twofold advantage of the Gospel: finding true nourishment and being faithfully protected from harm.",
+            "wordCount": 61,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 2.024568692200438,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.66,
+            "commentatorTierSimilarities": [
+                29.26,
+                33.27,
+                37.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There is no entrance for salvation into the church but through Jesus, whether for shepherd or sheep. He offers the open door to anyone willing to do God's will. By entering through Him, one shall be saved and find safety, nourishment, and refreshment. Through faith in Christ, believers shall be saved from sin and find provision for their souls. They will experience the twofold advantage of the Gospel, finding true nourishment and being faithfully protected from harm.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9228028890146165,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                28.31,
+                34.48,
+                37.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By entering through Jesus, whether for shepherd or sheep, one shall be saved and find safety, nourishment, and refreshment. This verse pictures the joy of the sheep in the pasture provided by the shepherd. Through faith in Christ, believers shall be saved from sin and find provision for their souls. They will experience the twofold advantage of the Gospel, finding true nourishment and being faithfully protected from harm.",
+            "wordCount": 68,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.0243736250544138,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                30.29,
+                31.0,
+                38.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

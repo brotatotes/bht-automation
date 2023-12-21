@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-21-2023 03:11:39",
+    "verseRef": "John 13:24",
+    "bestBHT": {
+        "bht": "During the Last Supper, the disciples were caught up in curiosity and surprise as Jesus spoke about the one who would betray him. Peter, always the eager one, wanted to know who it would be and looked to John, who was in a position near Jesus, to inquire. The scene was filled with nods, gestures, and whispered conversations as they tried to figure out the identity of the traitor. Leonardo da Vinci's depiction of this moment in his famous painting, The Last Supper, captures the tension and intrigue among the disciples.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.3730933918744865,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.0,
+        "commentatorTierSimilarities": [
+            23.61,
+            36.31,
+            40.08
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Beckoneth [\u03bd\u03b5\u03c5\u03b5\u03b9] . Literally, noddeth.\" ",
+            "That he should ask who it should be [\u03c0\u03c5\u03b8\u03b5\u03c3\u03b8\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b1\u03bd \u03b5\u03b9\u03b7] . The best texts read, kai legei aujtw eijpe tiv ejstin."
+        ],
+        "Philip Schaff": [
+            "Peter, as usual the first to act, is the spokesman of the rest.\" ",
+            "Nothing is said to explain why either he or any other of the apostolic band should have supposed that John would know what they themselves were ignorant of.\" ",
+            "It may have arisen simply from their having witnessed many tokens of love and confidence on the part of Jesus towards him."
+        ],
+        "Archibald T. Robertson": [
+            "They were all looking in surprise at each other.",
+            "Peter was cautious, but could not contain his curiosity.",
+            "This is the moment represented in Leonardo da Vinci's 'Last Supper.'"
+        ],
+        "John Gill": [
+            "Peter perhaps lay at a distance from Christ, or in some such position, that he could not whisper to him himself... they made signs, by nodding to one another... they pointed with their hands and fingers, and by nodding or beckoning...\" (emphasis added). ",
+            "...from an honest intention and pure zeal, that he, with the rest, might show their abhorrence of such a person, and avoid him...\" (emphasis added).",
+            "...and do all that lay in their power to hinder him from putting his designs into execution, and that the innocent might be free from all suspicion\" (emphasis added)."
+        ],
+        "John Wesley": [
+            "Simon Peter \u2014 Behind Jesus, who lay between them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the Last Supper, the disciples were caught up in curiosity and surprise as Jesus spoke about the one who would betray him. Peter, always the eager one, wanted to know who it would be and looked to John, who was in a position near Jesus, to inquire. The scene was filled with nods, gestures, and whispered conversations as they tried to figure out the identity of the traitor. Leonardo da Vinci's depiction of this moment in his famous painting, The Last Supper, captures the tension and intrigue among the disciples.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3730933918744865,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.0,
+            "commentatorTierSimilarities": [
+                23.61,
+                36.31,
+                40.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the Last Supper, the disciples were taken aback, looking at one another in astonishment, wondering who among them would betray Jesus. Peter, unable to contain his curiosity, turned to John, who was positioned closer to Jesus, to ask him who it would be. The room was filled with nods, gestures, and whispered conversations as they tried to uncover the identity of the betrayer. This moment, depicted in Leonardo da Vinci's Last Supper, captures the intense atmosphere and intrigue among the disciples.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.299448631164116,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.55,
+            "commentatorTierSimilarities": [
+                24.89,
+                33.23,
+                41.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Last Supper, the disciples were filled with surprise and curiosity, exchanging nods and gestures to express their amazement at Jesus' words about the one who would betray him. Peter, known for his cautious nature, could not resist his curiosity and sought answers from John, who was situated close to Jesus. This scene of intrigue, captured in Leonardo da Vinci's renowned painting, The Last Supper, vividly portrays the disciples' deep curiosity as they tried to discern the identity of the betrayer among them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.3613683525007718,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                22.24,
+                35.48,
+                42.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Caught in a mix of surprise and curiosity, the disciples glanced at each other, their amazement evident in their expressions. Peter, typically cautious, couldn't help but seek answers, turning to John, who was positioned near Jesus. Through nods, gestures, and whispered conversations, they attempted to uncover the betrayer's identity. This significant moment, immortalized by Leonardo da Vinci in his renowned painting, The Last Supper, captures the disciples' intense emotions and their collective attempt to unravel the mystery before them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.199447022444773,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.23,
+            "commentatorTierSimilarities": [
+                23.14,
+                35.31,
+                41.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Filled with surprise and curiosity, the disciples exchanged puzzled glances, wondering among themselves who would betray Jesus. Peter, unable to contain his curiosity, turned to John, who was situated close to Jesus, in his search for answers. Through nods, gestures, and whispered conversations, they sought to unravel the identity of the betrayer. This moment, immortalized in Leonardo da Vinci's famous painting, The Last Supper, captures the disciples' collective intrigue and their relentless pursuit of understanding amidst the unfolding events.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.2417943553044744,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.63,
+            "commentatorTierSimilarities": [
+                23.58,
+                33.6,
+                42.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

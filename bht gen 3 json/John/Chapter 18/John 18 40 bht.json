@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:14:23",
+    "verseRef": "John 18:40",
+    "bestBHT": {
+        "bht": "The Apostle\u2019s words capture the irony as Barabbas, a robber, is chosen by the crowd. Jesus is likened to a sin-offering, the goat upon which the Lord's lot fell. The loud and importunate cry signifies their choice. John implies a previous unrecorded crying out, while Barabbas, a notorious bandit, is contemptuously preferred over Jesus. The priests influence the crowd\u2019s decision, and Pilate offers the alternative. The guilty nature of their cry intensifies as they reject the holy Jesus in favor of a robber.",
+        "wordCount": 87,
+        "quoteTokenProportion": 27.12,
+        "qualityScore": 1.566685746136403,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.43,
+        "commentatorTierSimilarities": [
+            33.19,
+            40.84,
+            25.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They have not before 'cried out' in this narrative: so that some circumstances must be presupposed which are not here related.\" ",
+            "There is a solemn irony in these words of the Apostle\u2014a Robber!",
+            "Thus was Jesus 'the goat upon which the Lord's lot fell, to be offered for a sin-offering.'"
+        ],
+        "Marvin Vincent": [
+            "Cried [\u03b5\u03ba\u03c1\u03b1\u03c5\u03b3\u03b1\u03c3\u03b1\u03bd] . Peculiarly of a loud, importunate cry; a shout.\" ",
+            "Assuming John's recollection of a previous 'crying out,' which he has not recorded.",
+            "Bandits of this kind were numerous in the neighborhood of Jerusalem under the Roman dominion."
+        ],
+        "Philip Schaff": [
+            "Not this man but Barabbas.\" ",
+            "The guilty nature of the cry is immediately intensified...",
+            "A robber! and yet they preferred him to the holy Jesus, to the Only-Begotten of the Father, to their King!"
+        ],
+        "Archibald T. Robertson": [
+            "Cried out (\u03b5\u03ba\u03c1\u03b1\u03c5\u03b3\u03b1\u03c3\u03b1\u03bd). First aorist active of \u03ba\u03c1\u03b1\u03c5\u03b3\u03b1\u03b6\u03c9, old and rare verb from \u03ba\u03c1\u03b1\u03c5\u03b3\u03b7, outcry (Matthew 25:6), as in Matthew 12:19.",
+            "Not this man (\u03bc\u03b7 \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd). Contemptuous use of \u03bf\u03c5\u03c4\u03bf\u03c2.",
+            "The priests put the crowd up to this choice (Mark 15:11) and Pilate offered the alternative (Matthew 27:17, one MS. actually gives Jesus as the name of Barabbas also)."
+        ],
+        "John Gill": [
+            "These, as he, many of them at least, are notorious sinners, the chief of sinners, robbers and murderers; who have robbed God of his glory, and destroyed themselves...",
+            "...concluded in sin and unbelief, and shut up in the law, and in a pit, wherein is no water, in their natural state...",
+            "...were, as this man, worthy of death, and by nature children of wrath; and yet children of God by adopting grace..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crowd in this narrative has not cried out before, implying that there may be some unmentioned circumstances. The Apostle's words carry a solemn irony, as Barabbas is referred to as a robber. It is significant that Jesus, the sinless one, is compared to a sin-offering, the goat upon which the Lord's lot fell. The cry is described as a loud and importunate shout. It is likely that John is assuming a previous crying out that he has not recorded. Barabbas, a notorious bandit, was one of many in the area during the Roman rule. The contemptuous rejection of Jesus by the crowd is emphasized by the choice of Barabbas. The priests influenced the crowd, and Pilate provided the alternative. The guilty nature of the cry is emphasized further when considering that they preferred a robber over the holy Jesus, the Son of God and their King.",
+            "wordCount": 150,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.5212877237548539,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+            "commentatorTierSimilarities": [
+                37.95,
+                36.8,
+                25.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowd in this narrative has not before cried out, suggesting some unmentioned circumstances. The Apostle's words carry a solemn irony, as Barabbas is referred to as a robber. Jesus, like a sin-offering, was chosen while the crowd shouted loudly. John likely assumes a previous crying out that he didn't record. Barabbas was one of many bandits during Roman rule near Jerusalem. The contemptuous crowd rejected Jesus and chose Barabbas, which was influenced by the priests.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4601198039968426,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.89,
+            "commentatorTierSimilarities": [
+                43.7,
+                33.76,
+                22.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The dramatic scene unfolds as the crowd cries out, and the Apostle's words capture the solemn irony, labeling Barabbas as a robber. This choice is significant, as Jesus is likened to a sin-offering, the goat upon which the Lord's lot fell. The cry is described as a loud and importunate shout. John implies a previous unrecorded crying out. Barabbas, a notorious bandit in the region, adds to the crowd's contemptuous rejection of Jesus. The priests influenced this choice, and Pilate presented it as an alternative.",
+            "wordCount": 89,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.4544355001327625,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.7,
+            "commentatorTierSimilarities": [
+                41.22,
+                35.16,
+                23.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the crowd cries out, the Apostle's words reflect the solemn irony of Barabbas being labeled a robber. Jesus is likened to a sin-offering, the goat upon which the Lord's lot fell. The cry is described as a loud shout, and John implies a previous unrecorded crying out. Barabbas, a notorious bandit, adds to the crowd's contemptuous rejection of Jesus. The priests influenced this choice, presenting it as an alternative.",
+            "wordCount": 74,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.538938652290755,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+            "commentatorTierSimilarities": [
+                40.27,
+                35.58,
+                24.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle\u2019s words capture the irony as Barabbas, a robber, is chosen by the crowd. Jesus is likened to a sin-offering, the goat upon which the Lord's lot fell. The loud and importunate cry signifies their choice. John implies a previous unrecorded crying out, while Barabbas, a notorious bandit, is contemptuously preferred over Jesus. The priests influence the crowd\u2019s decision, and Pilate offers the alternative. The guilty nature of their cry intensifies as they reject the holy Jesus in favor of a robber.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.566685746136403,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.43,
+            "commentatorTierSimilarities": [
+                33.19,
+                40.84,
+                25.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

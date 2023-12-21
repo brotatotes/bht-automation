@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:10:19",
+    "verseRef": "John 11:19",
+    "bestBHT": {
+        "bht": "Many Jews came to offer consolation to Martha and Mary following Lazarus' death, indicating the prominence and respect of their family. This act of comforting mourners was seen as an act of great piety and mercy. The presence of so many witnesses during this time of mourning provided undeniable evidence of the forthcoming miraculous resurrection. In the face of human sorrow and the limitations of earthly comfort, the power of Jesus, the giver of life, shone brightly.",
+        "wordCount": 77,
+        "quoteTokenProportion": 23.64,
+        "qualityScore": 1.9220180236424644,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+        "commentatorTierSimilarities": [
+            31.53,
+            29.74,
+            38.73
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] Lightfoot gives an account of the ceremonies practised during the thirty days of mourning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus were provided, in a most natural way, so many witnesses of the glorious miracle that was to follow, as to put the fact beyond possible question.",
+            "Many of the Jews came to Martha and Mary to comfort them.",
+            "The fact [of the miracle] [was] beyond possible question."
+        ],
+        "Albert Barnes": [
+            "Many of the Jews - Probably their distant relatives or their friends.",
+            "To comfort - These visits of consolation were commonly extended to seven clays (Grotius; Lightfoot)."
+        ],
+        "Marvin Vincent": [
+            "Lazarus' friendship with Jesus had not caused him to be regarded as an apostate, at whose burial every indignity would have been shown.",
+            "Here, on the contrary, every token of sympathy and respect seems to have been shown.",
+            "To those about Martha and Mary; a Greek idiom for Martha and Mary and their companions, or attendants."
+        ],
+        "John Calvin": [
+            "It is evident from what is here mentioned, that the house of Lazarus and his sisters was greatly respected and honored.",
+            "Again, as it is natural that the death of friends should occasion grief and mourning to men, this duty, which the Evangelist mentions, ought not to be blamed.",
+            "Sinful excess, which prevails in this and in other departments of life, corrupts what is not in itself sinful."
+        ],
+        "Philip Schaff": [
+            "There is no ground whatever for understanding \u2018the Jews\u2019 in any other sense than that which the expression regularly bears in this Gospel.",
+            "As leaders of the people, ruling in \u2018the city of their solemnities,\u2019 they were the representatives of their Church and religion; and the \u2018comfort\u2019 they can offer in the presence of death is no inapt symbol of all that Judaism could do for the mourner.",
+            "Thus on the one side we have human sorrow and the vanity of human comfort in the presence of death; on the other side we have Him who is the Life."
+        ],
+        "Archibald T. Robertson": [
+            "Had come... These Jews were probably not hostile to Jesus.",
+            "The presence of so many indicates the prominence of the family.",
+            "To console them... to offer consolation."
+        ],
+        "John Gill": [
+            "And many of the Jews came to Martha and Mary...these Jews, as appears from the context...came from Jerusalem.",
+            "The whole of this ceremony is thus related by Maimonides...after they have buried the dead, the mourners gather together, and stand on the side of the grave...the mourners stand on the left hand of the comforters; and all the comforters go to the mourners, one by one, and say to them, 'may ye be comforted from heaven'.",
+            "For this business of comforting mourners was reckoned an act of great piety and mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Lazarus' death, many Jews from Jerusalem came to the house of Martha and Mary to offer their condolences and support. The fact that these Jews, who were probably not hostile to Jesus, came to console the sisters indicates the prominence of their family and the respect and honor in which they were held. The presence of so many witnesses during this time of mourning would later serve as undeniable proof of the miraculous resurrection that was to come. These acts of consolation were not only customary, but also seen as acts of great piety and mercy. It is through this backdrop of human sorrow and the limitations of human comfort in the face of death that the power of Jesus, the giver of life, shines brightly.",
+            "wordCount": 127,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9367337371525162,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                31.0,
+                32.07,
+                36.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the death of Lazarus, many Jews came from Jerusalem to Martha and Mary's house to offer their condolences. The fact that so many people came to comfort them serves as undeniable evidence of the prestigious status of their family. These acts of consolation were seen as acts of great piety and mercy. Amid human sorrow and the limitations of human comfort in the face of death, the power of Jesus, the giver of life, triumphs.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8247725811514606,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "commentatorTierSimilarities": [
+                28.07,
+                34.34,
+                37.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many Jews came to Martha and Mary's house to comfort them after Lazarus' death. The presence of so many witnesses during this time of mourning served as undeniable proof of the forthcoming miracle. It is evident that Lazarus' family was greatly respected and honored. These acts of consolation were seen as acts of great piety and mercy. Amid the human sorrow and the limitations of human comfort in the face of death, the miraculous power of Jesus, the giver of life, was revealed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8884876764288119,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.13,
+            "commentatorTierSimilarities": [
+                32.1,
+                29.14,
+                38.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many Jews came to offer consolation to Martha and Mary following Lazarus' death, indicating the prominence and respect of their family. This act of comforting mourners was seen as an act of great piety and mercy. The presence of so many witnesses during this time of mourning provided undeniable evidence of the forthcoming miraculous resurrection. In the face of human sorrow and the limitations of earthly comfort, the power of Jesus, the giver of life, shone brightly.",
+            "wordCount": 77,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.9220180236424644,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                31.53,
+                29.74,
+                38.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many Jews came to Martha and Mary's house to console them after Lazarus' death, demonstrating the high esteem and honor accorded to their family. These acts of consolation were considered acts of great piety and mercy. The numerous witnesses present during this time of mourning solidified the unambiguous evidence of the stunning miracle yet to come. In the midst of human grief and the limitations of earthly comfort, the supernatural power of Jesus, who imparts life, revealed its brilliance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.8928052401979127,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+            "commentatorTierSimilarities": [
+                33.05,
+                29.29,
+                37.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

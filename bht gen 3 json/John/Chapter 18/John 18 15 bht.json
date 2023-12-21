@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:14:07",
+    "verseRef": "John 18:15",
+    "bestBHT": {
+        "bht": "The disciple mentioned in this account is widely believed to be John himself, as described in his own gospel. It is clear that he is not Judas Iscariot, and the specific actions attributed to this disciple align with John's unique writing style. He was known to the high priest and followed Jesus into the court, but tragically, his failure to heed Jesus' warning to watch and pray resulted in dire consequences. Although Peter's role may overshadow John's in this narrative, John's devotion as a follower of Christ, even in times of suffering, is truly commendable.",
+        "wordCount": 99,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 2.031113410463085,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.88,
+        "commentatorTierSimilarities": [
+            31.59,
+            31.88,
+            36.53
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no reason to doubt the universal persuasion that by this name John intends himself, and refers to the mention in ch. xiii. 23 of a disciple whom Jesus loved.",
+            "The idea that it was Judas Iscariot, is surely too absurd to need confutation.",
+            "The details mentioned concerning him, that he followed Jesus, that he was known to the High Priest (as a matter of individual notice), and the whole character of the incident, will prevent any real student of St. John\u2019s style and manner from entertaining such a supposition for a moment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Natural though this was, and safe enough, had he only 'watched and prayed that he enter not into temptation,' as his Master bade him, it was, in his case, a fatal step.",
+            "the other disciple\u2014our Evangelist himself, no doubt.",
+            "known unto the high priest\u2014(See on John 18:1)."
+        ],
+        "Marvin Vincent": [
+            "Followed [\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03b9] . Imperfect, was following.",
+            "The other disciple. The correct reading omits the article. Another. Probably John himself.",
+            "Palace [\u03b1\u03c5\u03bb\u03b7\u03bd] . Not palace, but court, as Rev. See on Matthew 26:3; Luke 11:21."
+        ],
+        "John Calvin": [
+            "It is more probable that he was not one of the twelve, but that he is called a disciple, because he had embraced the doctrine of the Son of God.",
+            "John is not very exact in arranging the narrative, being satisfied with drawing up a brief summary.",
+            "We ought always to consider what the Lord requires from us, that those who are weak may not undertake what is not necessary."
+        ],
+        "Philip Schaff": [
+            "Simon is still \u2018the rock,\u2019 notwithstanding what he is about to do.",
+            "During them [the moments at the door], Jesus passes through. The two apostles do not pass through at the same instant: John alone finds immediate admittance.",
+            "And that disciple was known unto the high priest, and he went in with Jesus into the court of the high priest."
+        ],
+        "Archibald T. Robertson": [
+            "Followed (\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5). Imperfect active of \u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03c9, \"was following,\" picturesque and vivid tense, with associative instrumental case \u03c4\u03c9 \u0399\u03b7\u03c3\u03bf\u03c5.",
+            "Peter's companion was the Beloved Disciple, the author of the book (John 21:24).",
+            "\"The account of what happened to Peter might well seem to be told from the point of view of the servants' hall\" (Sanday, Criticism of the Fourth Gospel, p. 101)."
+        ],
+        "John Gill": [
+            "To follow Christ is a property of his sheep, and is highly commendable, especially to follow him in sufferings; a greater character a person cannot well have, than to be a follower of Jesus, in the exercise of grace, in the discharge of duty, and in bearing the cross.",
+            "And yet it does not appear that Peter did well in following Christ now; for Christ had cautioned him of his overconfidence, had hinted to him that he should deny him, and had dismissed him, and took his leave of him.",
+            "However, through his knowledge of the high priest, he went in with Jesus into the palace of the high priest; not Annas, but Caiaphas; for Christ was now brought from Annas's house to Caiaphas's, where the Scribes and elders were assembled together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John, the disciple whom Jesus loved, is the most likely identification for the disciple mentioned in this verse. It would be absurd to think that it was Judas Iscariot. John, being known to the high priest, followed Jesus into the court. Unfortunately, this decision proved to be a fatal step for him, as he did not heed Jesus' warning to watch and pray. Peter's companion, the beloved disciple, wrote this account from the perspective of the servants' hall. Although it may seem that Peter's actions overshadow John's, John's role as a follower of Christ, both in his sufferings and in his devotion, is highly commendable.",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.9483546549248363,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                32.61,
+                33.03,
+                34.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciple mentioned in this passage is most likely John, as indicated by the details provided. It is clear that it is not Judas Iscariot, and the specific actions and characteristics mentioned align with John's account. John, known to the high priest, followed Jesus into the court, but sadly, his failure to watch and pray led to a tragic outcome. Despite Peter's prominence in this account, John's role as a devoted follower of Christ, even in his suffering, is highly commendable and worthy of recognition.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.9519590298452159,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                32.12,
+                31.92,
+                35.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciple mentioned here is likely John, given the details provided. It is clear that it cannot be Judas Iscariot, and the actions and characteristics mentioned align with John's account. John, known to the high priest, followed Jesus into the court, but tragically, his failure to watch and pray had devastating consequences. Although Peter takes center stage, John's devotion as a follower of Christ, even in suffering, is commendable and deserving of recognition.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9407577228069786,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                33.27,
+                33.2,
+                33.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciple mentioned in this account is widely believed to be John himself, as described in his own gospel. It is clear that he is not Judas Iscariot, and the specific actions attributed to this disciple align with John's unique writing style. He was known to the high priest and followed Jesus into the court, but tragically, his failure to heed Jesus' warning to watch and pray resulted in dire consequences. Although Peter's role may overshadow John's in this narrative, John's devotion as a follower of Christ, even in times of suffering, is truly commendable.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.031113410463085,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.88,
+            "commentatorTierSimilarities": [
+                31.59,
+                31.88,
+                36.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciple mentioned here is most likely John, as the details and characterization align with his own gospel account. His familiarity with the high priest and his decision to follow Jesus into the court are significant, though tragically, his failure to watch and pray had dire consequences. While Peter may take center stage, John's commitment as a follower of Christ, even in times of suffering, is certainly noteworthy.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9539434448181938,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                29.47,
+                34.16,
+                36.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

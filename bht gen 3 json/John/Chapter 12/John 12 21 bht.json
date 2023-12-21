@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:11:00",
+    "verseRef": "John 12:21",
+    "bestBHT": {
+        "bht": "The reason for choosing Philip to approach Jesus remains unclear, but his Greek name and potential connection with Grecian Jews might offer an explanation. The Greeks approached Philip with respect and sincerity, desiring a spiritual sight of Christ and communion with Him. Their intention was not to ask Jesus to prioritize the Gentiles, but rather to nourish their own personal faith. This interaction serves as a reminder that seeking and taking appropriate means can lead to transformative encounters with the Savior, as seen in the story of Zacchaeus.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.5485576305098723,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.83,
+        "commentatorTierSimilarities": [
+            29.09,
+            38.24,
+            32.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For what reason Philip was selected, it is impossible to say.",
+            "The form of his name is Greek, and may imply some connection with Grecian Jews.",
+            "If they were from the neighborhood of Bethsaida, they would indeed have been familiar with the person of Jesus."
+        ],
+        "Albert Barnes": [
+            "In this there was nothing wrong.",
+            "Christ made the curiosity of Zacchaeus the means of his conversion.",
+            "If we wish to find the Saviour, we must seek for him and take the proper means."
+        ],
+        "John Calvin": [
+            "It is an indication of reverence, that they do not address Christ, but are desirous to obtain access through Philip; for reverence always begets modesty.",
+            "The inference which the Papists draw from this, that we ought to call on departed saints, that they may be our advocates with Christ and with the Father, is so ridiculous that it does not need refutation.",
+            "Invocation of the saints has been rashly fabricated by the Papists out of their own brain; and now, in order to shelter themselves under a false pretense borrowed from the word of God, they corrupt the Scripture, and tear it to pieces, and do not scruple to expose it to shameful taunts."
+        ],
+        "Philip Schaff": [
+            "To suppose that their object is to ask Jesus to institute a mission to the Gentiles, or to come to them Himself, is to misapprehend the nature of the situation.\" ",
+            "It is their own personal faith that John desires to bring out."
+        ],
+        "Archibald T. Robertson": [
+            "He had a Greek name and the Greeks may have seen Philip in Galilee where there were many Greeks.",
+            "Most respectfully and courteously.",
+            "This is not abrupt like our 'we wish' or 'we want,' but perfectly polite."
+        ],
+        "John Gill": [
+            "This favour they ask of Philip, with great respect to him, and in a very polite way, and yet with great sincerity, and strong affection, and earnest importunity.",
+            "And it may be observed, that sensible sinners are very desirous of having a spiritual sight of Christ, of the glories of his person, and the fulness of his grace, and to see their interest in him, and to have communion and fellowship with him.",
+            "He is all in all to them; no object so delightful, and satisfying to them as he is; and they never see him, but they receive something from him, and are made more like unto him."
+        ],
+        "John Wesley": [
+            "Perhaps they used to lodge there, in their journey to Jerusalem.",
+            "They spake to him, as to one they were little acquainted with.",
+            "A modest request. They could scarce expect that he would now have time to talk with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The selection of Philip and the politeness with which the Greeks approached him in order to see Jesus remains a mystery, but it is suggested that their interest in Philip may be due to his Greek name or potential connection with Grecian Jews. However, their approach was not only respectful but also sincere and affectionate. The reverence they show by requesting access through Philip reflects their strong desire to have a spiritual sight of Christ and experience communion with Him. It is important to note that their intention was not to ask Jesus to focus on the Gentiles or come to them, but rather to nourish their own personal faith. The passage serves as a reminder that seeking and taking the proper means to find the Savior can lead to transformative encounters, just as Christ responded to Zacchaeus' curiosity. Overall, this account demonstrates the earnestness and yearning of believers to have a deeper understanding of and connection with Christ.",
+            "wordCount": 159,
+            "quoteTokenProportion": 37.86,
+            "qualityScore": 1.4103647717484091,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.24,
+            "commentatorTierSimilarities": [
+                23.13,
+                38.8,
+                38.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reason for choosing Philip to approach Jesus remains unclear, but his Greek name and potential connection with Grecian Jews might offer an explanation. The Greeks approached Philip with respect and sincerity, desiring a spiritual sight of Christ and communion with Him. Their intention was not to ask Jesus to prioritize the Gentiles, but rather to nourish their own personal faith. This interaction serves as a reminder that seeking and taking appropriate means can lead to transformative encounters with the Savior, as seen in the story of Zacchaeus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.5485576305098723,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.83,
+            "commentatorTierSimilarities": [
+                29.09,
+                38.24,
+                32.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The selection of Philip by the Greeks to approach Jesus is a mystery, potentially linked to his Greek name or connection with Grecian Jews. The Greeks exhibited respect and sincerity when they approached Philip, desiring a spiritual encounter with Christ and seeking to nurture their personal faith. Their intention was not to request Jesus to focus on the Gentiles, but rather to deepen their own connection with Him. This account illustrates the earnestness and longing of believers for a deeper understanding and communion with Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.542342618673514,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                29.46,
+                34.58,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The reason behind the selection of Philip by the Greeks to approach Jesus remains unknown. The Greeks approached Philip respectfully, desiring a spiritual encounter with Christ and seeking to strengthen their personal faith. While the Greeks did not request Jesus to prioritize the Gentiles or come to them, their intention was to deepen their own connection with Him. This interaction reflects the earnestness and longing of believers to have a deeper understanding and communion with Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.530064917593854,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.22,
+            "commentatorTierSimilarities": [
+                30.9,
+                35.67,
+                33.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The selection of Philip by the Greeks to approach Jesus is a mystery, potentially linked to his Greek name or connection with Grecian Jews. The Greeks exhibited respect and sincerity when they approached Philip, desiring a spiritual encounter with Christ and seeking to nurture their personal faith. Their intention was not to request Jesus to focus on the Gentiles, but rather to deepen their own connection with Him. This account illustrates the earnestness and longing of believers for a deeper understanding and communion with Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.542342618673514,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                29.46,
+                34.58,
+                35.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

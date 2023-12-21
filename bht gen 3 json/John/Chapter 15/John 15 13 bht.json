@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:13:04",
+    "verseRef": "John 15:13",
+    "bestBHT": {
+        "bht": "The greatest display of love is when one lays down their life for their friends. This reveals the profound sacrifice that originates from deep affection. It's not merely a gauge of human love, but a divine love that surpasses all. Christ's self-sacrifice signifies the expansiveness and sincerity of his love, willingly giving his life for a thoughtless and unbelieving world. Believers are urged to emulate this sacrificial love, embodying the spirit of Christ and fulfilling his commandments.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.415360159786812,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.65,
+        "commentatorTierSimilarities": [
+            32.4,
+            38.58,
+            29.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A difficulty has been unnecessarily found in this verse...the example is from common life, in which if a man did lay down his life, it would naturally be for his friends; and would be, and is cited as, the greatest example of love.\" ",
+            "Nor again is there any doctrinal difficulty: our Lord does not assert of himself, that He laid down his life only for his friends...His own great Sacrifice of Himself lies in the background of this verse; but only in the background, and with but one side of it seen, viz. his Love to them.",
+            "His own great Sacrifice of Himself lies in the background of this verse; but only in the background, and with but one side of it seen, viz. his Love to them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Greater love hath no man than this, that a man lay down his life for his friends.\" ",
+            "The emphasis lies not on 'friends' but on 'laying down his life' for them.\" ",
+            "One can show no greater regard for those dear to him than to give his life for them, and this is the love ye shall find in Me."
+        ],
+        "Albert Barnes": [
+            "No higher expression of love could be given.",
+            "It greatly enhances the love of Christ, that while the instances of those who have been willing to die for friends have been so rare, he was willing to die for enemies.",
+            "It also shows us the extent of his love that he gave himself up, not to common sufferings, but to the most bitter, painful, and protracted sorrows, not for himself, not for friends, but for a thoughtless and unbelieving world."
+        ],
+        "Marvin Vincent": [
+            "Greater love hath no man than this, that [\u03b9\u03bd\u03b1]. It is still claimed by some grammarians that it is used to mark, not only design and end, but also result. But it may fairly be claimed that its predominant sense is intent, purpose, purport, or object.",
+            "No man hath greater love than this (love), which, in its original conception, was intended and designed to reach to the extent of sacrificing life for a friend.",
+            "Christ, therefore, here gives us more than a mere abstract comparison and more than a merely human gauge of love. He measures love according to its divine, original, far-reaching intent."
+        ],
+        "John Calvin": [
+            "God might have redeemed us by a single word, or by a mere act of his will, if he had not thought it better to do otherwise for our own benefit.",
+            "But now our hearts, if they are not softened by the inestimable sweetness of Divine love, must be harder than stone or iron.",
+            "In this way, too, Christ laid down his life for those who were strangers, but whom, even while they were strangers, he loved, otherwise he would not have died for them."
+        ],
+        "Philip Schaff": [
+            "Greater love hath no one than this, that one lay down his life for his friends.\" ",
+            "How great His love which showed itself even unto death for them!\" ",
+            "They must imitate such love if they will \u2018keep His commandment\u2019 and exhibit His spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Self-sacrifice is the high-water mark of love.",
+            "That a man lay down his life...for his friends.",
+            "In behalf of his friends\" and so \"in place of his friends."
+        ],
+        "John Gill": [
+            "By these words our Lord shows, how far love to another should extend, even to the laying down of our lives for the brethren; which is the highest instance of love among men.",
+            "Christ's life was not a common one, it was not the life of an innocent person only, or the life of a mere man, but of a man in union with the Son of God; it was the Lord of glory and Prince of life, who was crucified, and slain.",
+            "His love in dying for his people, is greater than any instance of love among men: he laid down his life for his enemies, without any sinister selfish views, and that freely and voluntarily."
+        ],
+        "John Wesley": [
+            "Greater love \u2014 To his friends. He here speaks of them only."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A man showing the greatest love would willingly lay down his life for his friends. This verse portrays the example of self-sacrifice that stems from deep love. It is not simply a comparison or measure of human love, but a divine love that surpasses all other expressions. Christ's sacrifice of himself is the ultimate demonstration of this love, as he willingly gave his life for a thoughtless and unbelieving world. By laying down his life for his enemies, he revealed the extent and purity of his love. It is this self-sacrificing love that believers are called to imitate in order to exhibit Christ's spirit and fulfill his commandments.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 2.564639649172415,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.61,
+            "commentatorTierSimilarities": [
+                32.41,
+                37.55,
+                30.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The greatest love a person can show is to lay down their life for their friends. This verse exemplifies the profound sacrifice that stems from deep love. It is not simply a measure of human love but a divine love that surpasses all others. Christ's own sacrifice of himself reflects the extent and purity of his love, as he willingly gave his life for a thoughtless and unbelieving world. Believers are called to imitate this self-sacrificing love, exhibiting Christ's spirit and fulfilling his commandments.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.5131553781666236,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.9,
+            "commentatorTierSimilarities": [
+                31.84,
+                38.27,
+                29.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The love that surpasses all others is demonstrated when one lays down their life for their friends. This verse highlights the profound sacrifice that arises from deep love. It is not just a measure of human love, but a divine love that transcends. Christ's sacrifice reflects the extent and purity of his love, as he willingly gave his life for a thoughtless and unbelieving world. By imitating this self-sacrificing love, believers can embody Christ's spirit and fulfill his commandments.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.491930227746071,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.2,
+            "commentatorTierSimilarities": [
+                32.08,
+                38.28,
+                29.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ultimate expression of love is shown when one lays down their life for their friends. This verse emphasizes the profound sacrifice born out of deep love. It's not merely a measure of human love, but a divine love that is unparalleled. Christ's sacrifice vividly portrays the extent and purity of his love, willingly giving his life for a thoughtless and unbelieving world. Believers are called to imitate this selfless love, reflecting Christ's spirit and obedience to his commandments.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.4640908292248476,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.27,
+            "commentatorTierSimilarities": [
+                31.84,
+                38.71,
+                29.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The greatest display of love is when one lays down their life for their friends. This reveals the profound sacrifice that originates from deep affection. It's not merely a gauge of human love, but a divine love that surpasses all. Christ's self-sacrifice signifies the expansiveness and sincerity of his love, willingly giving his life for a thoughtless and unbelieving world. Believers are urged to emulate this sacrificial love, embodying the spirit of Christ and fulfilling his commandments.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.415360159786812,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.65,
+            "commentatorTierSimilarities": [
+                32.4,
+                38.58,
+                29.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

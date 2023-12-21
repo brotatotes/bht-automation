@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:08:34",
+    "verseRef": "John 8:20",
+    "bestBHT": {
+        "bht": "In the treasury of the temple, Jesus engaged in a conflict that intensified with each passing moment, as his adversaries took up stones to stone him. Surprisingly, in this very public place, at the heart of their power, no one dared to lay hands on him because his hour had not yet come. It is evident that God's astonishing power restrained them from seizing Jesus, allowing him to continue teaching openly and fulfilling his purpose.",
+        "wordCount": 76,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 2.00009344256135,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+        "commentatorTierSimilarities": [
+            23.9,
+            35.75,
+            40.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "20. the treasury] See Luke xxi. 1, and note on Mark xii. 41, It was in the court of the women. his hour was not yet come] See ch. vii. 8, 30."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These words spake Jesus in the treasury\u2014a division, so called, of the forecourt of the temple, part of the court of the women...which may confirm the genuineness of John 8:2-11, as the place where the woman was brought.",
+            "In the dialogue that follows, the conflict waxes sharper on both sides, till rising to its climax.",
+            "They take up stones to stone him."
+        ],
+        "Albert Barnes": [
+            "The treasury - See the notes at Matthew 21:12.",
+            "His hour was not yet come - The time for him to die had not yet arrived, and God restrained them, and kept his life.",
+            "This proves that God has power over wicked men to control them, and to make them accomplish his own purposes."
+        ],
+        "Marvin Vincent": [
+            "The court covered a space upwards of two hundred feet square, and was surrounded by a colonnade, within which, and against the wall, were the thirteen trumpet-shaped chests, called 'trumpets' from their shape, for charitable contributions.",
+            "Though Jesus was teaching where He might easily have been apprehended, yet no one attempted to arrest Him.",
+            "The inconsistency of the A. V. in the renderings of the same word, of which this is only one of many instances, is noteworthy here from the fact that in the only two passages in which John uses the phrase laid hands on, he employs the common formula, ejpiballein tav ceirav, or thn ceira, and in both these passages the word piasai is rendered take."
+        ],
+        "John Calvin": [
+            "The Evangelist likewise holds out to us the astonishing power of God in this respect, that they were constrained to endure Christ openly teaching in the temple, though but lately they sought to seize him, and put him to death.",
+            "We see then that God caused men to hear him, and guarded him by his protection, so that those savage beasts did not touch him, though they had their throats opened to swallow him.",
+            "The Evangelist again mentions his hour, that we may learn that it is not by the will of men, but by the will of God, that we live and die."
+        ],
+        "Philip Schaff": [
+            "These words spake he in the treasury, teaching in the temple-courts: and no man seized him, because his hour was not yet come.",
+            "Again His adversaries were overawed: though He was teaching within the precincts of the temple, in the very place of their power, no one laid hands on Him.",
+            "The Treasury was in the court of the women, the very place in which the rejoicings we have described...took place."
+        ],
+        "Archibald T. Robertson": [
+            "It abutted on the Court of the Women, and against its walls were placed chests, trumpet-like in form, as receptacles for the offerings of the worshippers\" (Bernard).",
+            "Jesus hardly taught within a treasure-chamber. It probably means 'at the treasury in the temple.' This court was probably the most public part of the temple\" (Vincent).",
+            "Reason (\u03bf\u03c4) given why no one seized (\u03b5\u03c0\u03b9\u03b1\u03c3\u03b5\u03bd, cf. John 7:30) him. \u0395\u03bb\u03b7\u03bb\u03c5\u03b8\u03b5 is past perfect active of \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1, 'had not yet come'\" (Vincent)."
+        ],
+        "John Gill": [
+            "The design of this observation of the evangelist, is to suggest to us, that it was in a very public place, in the temple, openly, that Christ delivered the above words.",
+            "as he taught in the temple; where the Jews resorted, where his ministry was public, and he spake freely, and without reserve; in a very bold manner, with intrepidity, and without fear of man.",
+            "for his hour was not yet come; the time appointed for his sufferings and death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the treasury of the temple, Jesus spoke these words, engaging in a conflict that intensified with each passing moment. His adversaries were so enraged that they picked up stones, ready to stone him. Yet, in this very public place, at the heart of their power, no one dared to lay hands on him, for his hour had not yet come. God, in his astonishing power, restrained them, ensuring that Jesus continued to teach openly and fulfill his purpose.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8496964854885083,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                23.37,
+                36.25,
+                40.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the treasury of the temple, Jesus engaged in a conflict that waxed sharper, leading his adversaries to take up stones with the intent to stone him. Yet, in this very public place, at the heart of their power, no one dared to lay hands on him, for his hour had not yet come. God, in his astonishing power, restrained them, ensuring that Jesus continued to teach openly and fulfill his purpose while being guarded by his protection.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.9485266844633897,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                23.41,
+                35.09,
+                41.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the treasury of the temple, Jesus engaged in a conflict that intensified with each passing moment, as his adversaries took up stones to stone him. Surprisingly, in this very public place, at the heart of their power, no one dared to lay hands on him because his hour had not yet come. It is evident that God's astonishing power restrained them from seizing Jesus, allowing him to continue teaching openly and fulfilling his purpose.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.00009344256135,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                23.9,
+                35.75,
+                40.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the treasury of the temple, Jesus engaged in a conflict that intensified with each passing moment. His adversaries were so enraged that they picked up stones, ready to stone him. Yet, in this very public place, at the heart of their power, no one dared to lay hands on him, for his hour had not yet come. God, in his astonishing power, restrained them from seizing Jesus, ensuring that he could continue teaching openly and fulfilling his purpose.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.8325393853660277,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                23.33,
+                36.95,
+                39.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus found himself in the treasury of the temple, where the conflict between him and his adversaries reached its climax, with them even taking up stones to stone him. However, in a surprising turn of events, no one dared to lay hands on him, for it was not yet his appointed hour. God's astonishing power was at work, restraining them from seizing Jesus in this very public place, allowing him to teach openly and fulfill his purpose.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9856640185339942,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                24.32,
+                35.58,
+                40.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

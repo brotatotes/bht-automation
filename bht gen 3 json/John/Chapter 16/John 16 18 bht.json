@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-21-2023 03:13:05",
+    "verseRef": "John 16:18",
+    "bestBHT": {
+        "bht": "Jesus emphasized the importance of his saying by using the phrase a little while with the article the or this. The disciples, however, were puzzled and admitted their lack of understanding, saying we know not. They were perplexed by Jesus' use of a little while, as it was the most intricate and confusing phrase to them. While they may have grasped the concept of not seeing and seeing him again as a representation of his departure and return, they had no notion of what he meant by a little while. They knew his words, but not his intended meaning.",
+        "wordCount": 99,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 1.7386656139099164,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+        "commentatorTierSimilarities": [
+            39.89,
+            0.0,
+            60.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He saith [\u03bb\u03b1\u03bb\u03b5\u03b9]. Emphasizing the purport of the saying.",
+            "A little while [\u03c4\u03bf \u03bc\u03b9\u03ba\u03c1\u03bf\u03bd]. In vv. 16, 17, without the article. Here the article the or this little while defines the special point of their difficulty; this 'little while' of which He speaks.",
+            "We cannot tell [\u03bf\u03c5\u03ba \u03bf\u03b9\u03b4\u03b1\u03bc\u03b5\u03bd]. Rev., more simply and literally, we know not."
+        ],
+        "Archibald T. Robertson": [
+            "We know not what he saith (\u03bf\u03c5\u03ba \u03bf\u03b9\u03b4\u03b1\u03bc\u03b5\u03bd \u03c4 \u03bb\u03b1\u03bb\u03b5). The questions to Jesus cease and the disciples frankly confess to each other their own ignorance. "
+        ],
+        "John Gill": [
+            "What is this that he saith, a little while? It seems as if this phrase was the most intricate and perplexing to them.",
+            "Whatever conceptions they might have of not seeing, and seeing him again, as expressive of his going from them, and returning to them, yet had no notion at all what he should mean by 'a little while'.",
+            "They knew his words, but not his meaning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 16:18, Jesus emphasized the importance of his saying by using the phrase a little while with the article the or this. The disciples, however, were puzzled and admitted their lack of understanding, saying we know not. They were perplexed by Jesus' use of a little while, as it was the most intricate and confusing phrase to them. While they may have grasped the concept of not seeing and seeing him again as a representation of his departure and return, they had no notion of what he meant by a little while. They knew his words, but not his intended meaning.",
+            "wordCount": 101,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 1.746325534312923,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                40.85,
+                0.0,
+                59.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus emphasized the significance of his saying by using the phrase a little while with a specific purpose. The disciples, however, were puzzled and openly acknowledged their lack of understanding, saying we know not. This particular phrase seemed to be the most perplexing to them. Although they comprehended the words Jesus spoke, they were unable to grasp the intended meaning behind a little while. It remained a concept that eluded their understanding.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.5793955008054328,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                43.46,
+                0.0,
+                56.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus emphasized the importance of his saying by using the phrase a little while with the article the or this. The disciples, however, were puzzled and admitted their lack of understanding, saying we know not. They were perplexed by Jesus' use of a little while, as it was the most intricate and confusing phrase to them. While they may have grasped the concept of not seeing and seeing him again as a representation of his departure and return, they had no notion of what he meant by a little while. They knew his words, but not his intended meaning.",
+            "wordCount": 99,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.7386656139099164,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+            "commentatorTierSimilarities": [
+                39.89,
+                0.0,
+                60.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus used the phrase a little while to emphasize the significance of his saying. The disciples, perplexed by this phrase, openly admitted their lack of understanding, saying we know not. While they could comprehend Jesus' words, they struggled to grasp the intended meaning behind a little while. This particular expression proved to be the most intricate and perplexing to them, leaving them uncertain about its significance in relation to Jesus' departure and return. Their ignorance demonstrated their limited understanding of Jesus' message.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7724846352125512,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.28,
+            "commentatorTierSimilarities": [
+                48.12,
+                0.0,
+                51.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus emphasized the purport of his saying by using the phrase a little while with the article the or this. The disciples candidly confessed, we know not, revealing their lack of understanding. They were mostly perplexed by this particular phrase, finding it intricate and unclear. Although they were able to grasp the concept of not seeing and seeing Jesus again as a representation of his departure and return, the meaning of a little while eluded them. They understood his words but not his intended message.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6928404250649345,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                44.45,
+                0.0,
+                55.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

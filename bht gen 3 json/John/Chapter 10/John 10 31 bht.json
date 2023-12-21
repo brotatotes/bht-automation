@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:09:48",
+    "verseRef": "John 10:31",
+    "bestBHT": {
+        "bht": "The Jews took up stones again to stone Him, accusing Him of blasphemy and making Himself equal to God. This act of wanting to kill Him was prompted by their unbelief and their rage, instigated by the devil. Despite their violent opposition, it is likely that they presented some seemingly justifiable reason for their judgment against Jesus. This incident mirrors a previous attempt to stone Him, showing the intensity of their resistance to His claims.",
+        "wordCount": 75,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.8478076387429372,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+        "commentatorTierSimilarities": [
+            20.52,
+            33.14,
+            46.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "31.] i.e. as having spoken blasphemy, Levit. xxiv. 10 ff."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "31. Then the Jews took up stones",
+            "\tagain to stone Him\u2014and for precisely the same thing as before",
+            "\t(John 8:58; John 8:59)."
+        ],
+        "Albert Barnes": [
+            "They considered him guilty of blasphemy because he made himself equal with God.\" ",
+            "They had before plotted against his life.",
+            "Once at least they had taken up stones to destroy him."
+        ],
+        "Marvin Vincent": [
+            "Again refers to John 8:59. It seems as though a different verb is purposely chosen here.",
+            "The verb here may mean to take up.",
+            "Its more usual meaning in the New Testament, however, is to bear or carry."
+        ],
+        "John Calvin": [
+            "As true religion, in maintaining the glory of God, burns with its own zeal which the Spirit of God directs.\" ",
+            "Unbelief is the mother of rage, and the devil hurries on the wicked in such a manner, that they breathe nothing but slaughter.",
+            "Though they are hurried along, with such violence, to oppress Christ, there can be no doubt that they assigned some plausible reason for their judgment."
+        ],
+        "Philip Schaff": [
+            "The Jews took up stones again to stone him.",
+            "The word 'again' carries us back to chap. John 8:59, where a similar attempt is recorded, but in less definite language.",
+            "The climax ought not to pass unobserved. They are arrested by His words."
+        ],
+        "Archibald T. Robertson": [
+            "They wanted to kill him also when he made himself equal to God.",
+            "The \u03c0\u03b1\u03bb\u03b9\u03bd refers to John 8:59 where \u03b7\u03c1\u03b1\u03bd was used.",
+            "To stone him (\u03b9\u03bd\u03b1 \u03bb\u03b9\u03b8\u03b1\u03c3\u03c9\u03c3\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Final clause with \u03b9\u03bd\u03b1 and the first aorist active subjunctive of \u03bb\u03b9\u03b8\u03b1\u03b6\u03c9, late verb."
+        ],
+        "John Gill": [
+            "Then the Jews took up stones again to stone him. As they had done before, :-;"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews took up stones again to stone Him, accusing Him of blasphemy and making Himself equal to God. This act of wanting to kill Him was prompted by their unbelief and their rage, instigated by the devil. Despite their violent opposition, it is likely that they presented some seemingly justifiable reason for their judgment against Jesus. This incident mirrors a previous attempt to stone Him, showing the intensity of their resistance to His claims.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8478076387429372,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                20.52,
+                33.14,
+                46.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews took up stones again to stone Him, accusing Him of blasphemy and making Himself equal to God. This act of wanting to kill Him was prompted by their unbelief and their rage, instigated by the devil. Despite their violent opposition, it is likely that they presented some plausible reason for their judgment against Jesus. This incident mirrors a previous attempt to stone Him, showing the intensity and fervor of their resistance to His claims.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8464546902695507,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                20.45,
+                32.64,
+                46.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews took up stones again to stone Him, as they had previously done, because they considered Him guilty of blasphemy and making Himself equal with God. Their actions were driven by their unbelief and the devil's influence, resulting in their intense desire to oppress and kill Jesus. This repeated attempt to harm Him showcases the fervor and determination behind their opposition to His teachings and divine claims.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8081995505945239,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                20.58,
+                34.29,
+                45.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews took up stones again to stone Him, accused Him of speaking blasphemy, and attempted to kill Him for making Himself equal to God. Their unbelief fueled their rage, driven by the devil, leading to a violent response against Him. This repeated action mirrored a previous attempt, highlighting the intensity of their opposition to Jesus' teachings and divine identity.",
+            "wordCount": 60,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.8013159144007125,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+            "commentatorTierSimilarities": [
+                20.91,
+                33.24,
+                45.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews, driven by their accusation of blasphemy and Jesus' claim of equality with God, took up stones again to stone Him, just as they had done previously. Their violent reaction stemmed from their disbelief and the instigation of the devil. Their repeated attempts to harm Him demonstrated the depth of their opposition to His teachings and divine nature.",
+            "wordCount": 59,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.716086896565072,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                19.05,
+                34.64,
+                46.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

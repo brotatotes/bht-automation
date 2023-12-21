@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:05:11",
+    "verseRef": "John 3:27",
+    "bestBHT": {
+        "bht": "I cannot arrogate to myself what God has not given. If all men come to Him, it is no wonder since He is divine. My role is to point the burdened to the Lamb of God, to bring together the Savior and those He came to seek and save. Any success I have is from God, just as Jesus's success comes from heaven. We can only receive what has been given to us from above.",
+        "wordCount": 76,
+        "quoteTokenProportion": 59.26,
+        "qualityScore": 1.90471087680687,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+        "commentatorTierSimilarities": [
+            25.02,
+            42.18,
+            32.8
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I cannot arrogate to myself and take upon me what God has not given.",
+            "If His circumstances are more illustrious, and all men come to Him, it is no matter of wonder; for such would be the case with Divinity.",
+            "The parallelism of 'a man' here, and himself, as the subject of 'I said' in the next verse, also supports this view."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I do my heaven-prescribed work, and that is enough for me.",
+            "Mine it is to point the burdened to the Lamb of God that taketh away the sin of the world, to tell them there is Balm in Gilead, and a Physician there.",
+            "Whose is the Bride but the Bridegroom's? Enough for me to be the Bridegroom's friend, sent by Him to negotiate the match, privileged to bring together the Saviour and those He is come to seek and to save."
+        ],
+        "Albert Barnes": [
+            "John did not enter into their feelings or sympathize with their love of party.",
+            "All success is from heaven. All my success was from God. All the success of Jesus is from God.",
+            "If Jesus and his disciples are successful, if all men flee to him, it is proof that God favors him, and you should rejoice."
+        ],
+        "Marvin Vincent": [
+            "Receive. Answering to given. ",
+            "Be given [\u03b7 \u03b4\u03b5\u03b4\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd] . Rev., more correctly, have been given. ",
+            "From heaven. Literally, out of heaven [\u03b5\u03ba] ."
+        ],
+        "John Calvin": [
+            "That within so short a time he has risen to so great honor, is the work of God; and therefore it is in vain for you to attempt to degrade him whom God with his own hand has raised on high.",
+            "It is not in his power, or in theirs, to make him great, because the measure of us all is to be what God intended us to be.",
+            "This single thought, if it were duly impressed on the minds of us all, would be abundantly sufficient for restraining ambition; and were ambition corrected and destroyed, the plague of contentions would likewise be removed."
+        ],
+        "Philip Schaff": [
+            "A man can receive nothing, except it have been given him out of heaven.",
+            "Such honor, such position, Jesus cannot receive unless it has been given Him from heaven.",
+            "Each of us, in accomplishing God's work, will receive the place appointed to him from heaven."
+        ],
+        "Archibald T. Robertson": [
+            "Unless it be granted him from heaven.",
+            "The perfect tense is rare in the subjunctive and an exact rendering into English is awkward.",
+            "See 1 Corinthians 4:7 where Paul says the same thing."
+        ],
+        "John Gill": [
+            "A man can receive nothing...unless it be given him from heaven.",
+            "There ought to be contentment and pleasure in the wise disposition of things by God.",
+            "Men ought to be thankful, and not glory in them, as though they had not received them; nor is there any reason to murmur against God, or envy one another."
+        ],
+        "John Wesley": [
+            "A man can receive nothing \u2014 Neither he nor I.",
+            "Neither could he do this, unless God had sent him: nor can I receive the title of Christ, or any honour comparable to that which he hath received from heaven.",
+            "John answers with sweet composure of spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I cannot take credit for what God has not given. If people flock to Jesus and His ministry, it should come as no surprise because He is divine. My role is simply to do the work that God has assigned me, which is to point the burdened to the Lamb of God who takes away the sin of the world. I am here to bring together the Savior and those He seeks to save. Any success I have is from God, just as Jesus's success comes from Him. We can only receive what has been given to us from heaven. It is important to remember that we should be content with the position and honor that God has appointed for us, rather than seeking our own glory or envying others. In doing so, we can find satisfaction in God's wise disposition and be grateful for His blessings.",
+            "wordCount": 149,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 1.874641721077639,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.67,
+            "commentatorTierSimilarities": [
+                23.31,
+                41.16,
+                35.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I cannot take credit for what God has not given. If people flock to Jesus and His ministry, it should come as no surprise because He is divine. My role is simply to do the work that God has assigned me, which is to point the burdened to the Lamb of God who takes away the sin of the world. I am here to bring together the Savior and those He seeks to save. Any success I have is from God, just as Jesus's success comes from Him. We can only receive what has been given to us from heaven.",
+            "wordCount": 101,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 1.9022519671801796,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                24.54,
+                43.11,
+                32.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I cannot arrogate to myself and take upon me what God has not given. If His circumstances are more illustrious, and all men come to Him, it is no matter of wonder; for such would be the case with Divinity. I do my heaven-prescribed work, and that is enough for me. Mine it is to point the burdened to the Lamb of God that taketh away the sin of the world, to tell them there is Balm in Gilead, and a Physician there.",
+            "wordCount": 84,
+            "quoteTokenProportion": 59.02,
+            "qualityScore": 1.7738563481156628,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.32,
+            "commentatorTierSimilarities": [
+                37.81,
+                31.06,
+                31.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I cannot arrogate to myself what God has not given. If all men come to Him, it is no wonder since He is divine. My role is to point the burdened to the Lamb of God, to bring together the Savior and those He came to seek and save. Any success I have is from God, just as Jesus's success comes from heaven. We can only receive what has been given to us from above.",
+            "wordCount": 76,
+            "quoteTokenProportion": 59.26,
+            "qualityScore": 1.90471087680687,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                25.02,
+                42.18,
+                32.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John 3:27 reminds us that we cannot arrogate to ourselves what God has not given. If outward circumstances make someone more illustrious and draw all men to them, it is no wonder, for such would be the case with Divinity. It is enough for us to do the work that God has prescribed for us and point the burdened to the Lamb of God. We are privileged to be the Bridegroom's friend, sent by Him to bring together the Saviour and those He is seeking to save. All success is from heaven, and each of us will receive the place appointed to us by God. Let us be content and thankful for the wise disposition of things by God and not murmur or envy one another.",
+            "wordCount": 126,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8542047668303003,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                24.1,
+                38.73,
+                37.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

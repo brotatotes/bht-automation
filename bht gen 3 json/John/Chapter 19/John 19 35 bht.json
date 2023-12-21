@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:14:56",
+    "verseRef": "John 19:35",
+    "bestBHT": {
+        "bht": "The writer's purpose in these verses is to prove the reality of Jesus' physical body and genuine death. Witnessing the piercing of Jesus' side and the flow of blood and water, the writer provides undeniable evidence of Jesus' death, refuting any denial of his actual physicality. This eyewitness testimony serves to affirm the truthfulness and authenticity of the account, urging readers to place their faith in Jesus and trust in the reality of his existence and resurrection.",
+        "wordCount": 78,
+        "quoteTokenProportion": 24.49,
+        "qualityScore": 2.1527635932254565,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+        "commentatorTierSimilarities": [
+            33.22,
+            36.6,
+            30.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was the object of St. John to show that the Lord's Body was a real body, and underwent real death.",
+            "Not so much by the phenomenon of the water and blood, as by the infliction of such a wound,... there could not by any possibility be life remaining.",
+            "The clause, that ye may believe, depends on the three preceding clauses, without any parenthesis, as the final aim of what has gone before: in order that your faith may receive confirmation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And he that saw it bare record\u2014hath borne witness.",
+            "...that ye might believe\u2014This solemn way of referring to his own testimony in this matter has no reference to what he says in his Epistle about Christ's 'coming by water and blood' (see on :-), but is intended to call attention both to the fulfilment of Scripture in these particulars.",
+            "...and to the undeniable evidence he was thus furnishing of the reality of Christ's death, and consequently of His resurrection; perhaps also to meet the growing tendency, in the Asiatic churches, to deny the reality of our Lord's body, or that 'Jesus Christ is come in the flesh' ( :-)."
+        ],
+        "Albert Barnes": [
+            "He that saw it - John himself. He is accustomed to speak of himself in the third person.",
+            "His record is true - His testimony is true. Such was the known character of this writer, such his sacred regard for truth...",
+            "It would be well if all Christians had such a character that their word would be assuredly believed."
+        ],
+        "Marvin Vincent": [
+            "He that hath seen hath borne witness.",
+            "Genuine, according to the true ideal of what testimony should be.",
+            "There are brought out...the two conditions which testimony ought to satisfy; the first, that he who gives it should be competent to speak with authority; and the second, that the account of his experience should be exact."
+        ],
+        "Philip Schaff": [
+            "The witness that he bears is \u2018true.\u2019 The word differs from that which is used in the second member of this verse and in John 21:24. It designates the testimony as genuine and real.",
+            "Not only is it truthful, but it is all that testimony can be: the witness will not deceive, but more than this in regard to the matter which he here attests he cannot have been deceived or mistaken.",
+            "The object of this solemn testimony is that they may \u2018believe;\u2019 not simply may believe the facts, but may rest in a true and settled faith upon Him of whom these wonders can be related."
+        ],
+        "Archibald T. Robertson": [
+            "This personal witness disproves the theory of the Docetic Gnostics that Jesus did not have a real human body.",
+            "He knows, that is John does like John 9:37.",
+            "John is rather referring to himself as still alive."
+        ],
+        "John Gill": [
+            "And he that saw it, bare record....he was an eyewitness of this fact, not only of the piercing of his side with a spear, but of the blood and water flowing out of it...",
+            "And his record is true...none of them but himself being present at that time...",
+            "He knoweth that he saith true...being led into the mystery of it by the Divine Spirit; see 1 John 5:6 wherefore he could, and did declare it with the strongest asseverations..."
+        ],
+        "John Wesley": [
+            "His testimony is true \u2014 Valid, unexceptionable.",
+            "And he knoweth \u2014 And his conscience beareth him witness, that he testifieth this for no other end, than that ye may believe."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose of the writer in John 19:35 was to emphasize the reality of Jesus' death and the authenticity of his testimony. By describing the piercing of Jesus' side and the flow of blood and water, the writer aimed to confirm the physicality of Jesus' body and the finality of his death. This testimony served as a direct challenge to any denial or disbelief in the realness of Christ's body or his resurrection, and it also fulfilled the fulfillment of Scripture. The writer, who was an eyewitness to these events, bore witness to their truthfulness and aimed to strengthen the readers' faith, urging them to believe in Jesus.",
+            "wordCount": 108,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.138646720207672,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                32.75,
+                37.26,
+                29.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The primary objective behind the verses is to establish the reality of Jesus' physical body and his actual death. The writer, who witnessed Christ's side being pierced and the subsequent flow of blood and water, sought to provide undeniable evidence of Jesus' death, refuting any beliefs that denied the genuine nature of his body. By bearing witness to these events, the writer aimed to emphasize the accuracy and authenticity of his testimony, ultimately encouraging the readers to place their faith in Jesus and affirm the truth of his existence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.096611545279978,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.05,
+            "commentatorTierSimilarities": [
+                33.62,
+                36.63,
+                29.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The writer's intention in these verses is to present credible evidence of Jesus' real body and actual death. By describing the piercing of Jesus' side and the flow of blood and water, the writer aims to confirm the physicality of Jesus' body and the finality of his death. This testimony challenges any denial of Christ's true humanity or his resurrection, and fulfills the fulfillment of Scripture. The writer, an eyewitness to these events, testifies to the truthfulness of his account, urging readers to believe in Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.1418664477884106,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.56,
+            "commentatorTierSimilarities": [
+                32.66,
+                37.02,
+                30.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writer's purpose in these verses is to prove the reality of Jesus' physical body and genuine death. Witnessing the piercing of Jesus' side and the flow of blood and water, the writer provides undeniable evidence of Jesus' death, refuting any denial of his actual physicality. This eyewitness testimony serves to affirm the truthfulness and authenticity of the account, urging readers to place their faith in Jesus and trust in the reality of his existence and resurrection.",
+            "wordCount": 78,
+            "quoteTokenProportion": 24.49,
+            "qualityScore": 2.1527635932254565,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                33.22,
+                36.6,
+                30.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The writer's objective in these verses is to assure readers of Jesus' true body and real death. By giving an eyewitness account of Jesus' side being pierced and the discharge of blood and water, the writer offers indisputable evidence of Jesus' death, opposing any denial of his physicality. This testimony validates the reliability and accuracy of the account, encouraging readers to believe in Jesus and acknowledge the factual nature of his existence and resurrection.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.084042913744523,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.64,
+            "commentatorTierSimilarities": [
+                32.52,
+                36.53,
+                30.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

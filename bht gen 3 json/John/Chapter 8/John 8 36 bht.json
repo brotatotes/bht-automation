@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:09:03",
+    "verseRef": "John 8:36",
+    "bestBHT": {
+        "bht": "Those in sin, as the sons of the bondwoman, need liberation through the Son who fulfills the promise. Only those born again of His Spirit are truly free, no longer children of the bondwoman but of the free. The Son has the power to set us free, not just in appearance but truly and really. This freedom goes beyond the comprehension of those who do not understand spiritual freedom. It is a special freedom, gained by becoming sons and receiving all the rights and privileges that come with it.",
+        "wordCount": 89,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 2.098176903244321,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+        "commentatorTierSimilarities": [
+            30.26,
+            38.33,
+            31.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye then, being in sin, are carnal: the sons of the bondwoman, and therefore need liberation.",
+            "This liberation can only take place by means of Him of whom Isaac was the type\u2014the Seed according to promise.",
+            "Those only who of His Spirit are born again, and after His image, are free indeed\u2014truly sons of God, and no longer children of the bondwoman, but of the free."
+        ],
+        "Albert Barnes": [
+            "The Son of God - heir of all things - who is forever with God, and who has therefore the right and power to liberate men from their thraldom.",
+            "Shall deliver you from the bondage and dominion of sin.",
+            "Truly and really free. You shall be blessed with the most valuable freedom; not from the chains and oppressions of earthly masters and monarchs, but from the bondage of sin."
+        ],
+        "Marvin Vincent": [
+            "Indeed [\u03bf\u03bd\u03c4\u03c9\u03c2] . Used by John only here. It means essentially."
+        ],
+        "John Calvin": [
+            "By these words he means that the right of freedom belongs to himself alone, and that all others, being born slaves, cannot be delivered but by his grace.",
+            "Thus we ought to remember what I said formerly, that the Gospel is the instrument by which we obtain our freedom.",
+            "When he says that they shall be truly free, there is an emphasis on the word truly; for we must supply the contrast with the foolish persuasion by which the Jews were swelled with pride, in like manner as the greater part of the world imagine that they possess a kingdom, while they are in the most wretched bondage."
+        ],
+        "Philip Schaff": [
+            "It is manifestly a special freedom that is here thought of, freedom gained by becoming sons, and thus gaining all that belongs to the position of a son, retaining forever a connection with the Father's house.",
+            "'Free indeed,' not in appearance only, as a favored slave might seem for a time to hold the place of a son in the house: 'free indeed,' because receiving the freedom and sonship from One who 'remains in the house forever,' and never loses the rights of the Son.",
+            "The word here rendered 'indeed' is a very remarkable one: it is used nowhere else in the writings of John. Closely connected with the verb 'I am' of John 8:28, it is hardly possible to avoid the impression that it is designedly employed in order to bring out that closeness of relation between the sons of God and the Son which is so striking a part of the teaching of this chapter."
+        ],
+        "Archibald T. Robertson": [
+            "If therefore the Son set you free,\" as he has the power to do.",
+            "Ye shall be free indeed.\" ",
+            "But this spiritual freedom was beyond the concept or wish of these Jews."
+        ],
+        "John Gill": [
+            "Men are home-born slaves; the chosen people of God are such by nature; they are born in sin, and are the servants of it; Christ the Son makes them free; and then they are no more foreigners and strangers, but fellow citizens with the saints, and of the household of God.",
+            "This suggests, that true freedom is by Jesus Christ, the Son of God.",
+            "And such an one, as the commentators say, is one who is a servant of two partners, and is made free by one of them; or who has paid half his price to his master (for his freedom), but the other half is still due: and of one in such circumstances, it is said that he that is partly a servant and partly free, may not eat of his master's (lamb at the Passover): but now those who are made free by Christ the Son of God, they are not in part only, but are wholly free, and have a right to all the privileges of his house."
+        ],
+        "John Wesley": [
+            "If I therefore make you free, ye - shall partake of the same privilege...",
+            "...being made free from all guilt and sin...",
+            "...ye shall abide in the house of God for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are in sin, the sons of the bondwoman, are in need of liberation, and this liberation can only come through the Son who was typified by Isaac. Only those who are born again of His Spirit and transformed into His image are truly free, no longer children of the bondwoman but of the free. The Son has the power to set us free, not just in appearance but truly and really. This freedom goes beyond the comprehension of those who do not understand the concept of spiritual freedom. It is a special freedom, gained by becoming sons and receiving all the rights and privileges that come with it. It is a freedom that connects us forever to the Father's house, and we can partake in the same privilege if we are made free by the Son. We shall be blessed with the most valuable freedom, not from earthly oppressions but from the bondage of sin, and we can abide in the house of God forever.",
+            "wordCount": 168,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 2.1934457599298556,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.27,
+            "commentatorTierSimilarities": [
+                27.47,
+                40.05,
+                32.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those in sin, as the sons of the bondwoman, need liberation that can only come through the Son who fulfills the promise. Only those born again of His Spirit are truly free, no longer enslaved. The Son has the power to set us genuinely free, a spiritual freedom beyond the understanding of these Jews. This freedom is special, gained by becoming sons and receiving all rights and privileges, forever connected to the Father's house. We partake in this privilege if made free by the Son, allowing us to abide in God's house forever.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.2102820284996554,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.83,
+            "commentatorTierSimilarities": [
+                28.1,
+                38.79,
+                33.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son has the power to liberate those in sin, the sons of the bondwoman, granting them true freedom. Only those born again of His Spirit, transformed in His image, are truly free and no longer children of the bondwoman. This spiritual freedom surpasses the comprehension and desire of the Jews. It is a special freedom, gained by becoming sons and receiving all the rights and privileges of sonship. We can partake in this privilege by being made free by the Son, enabling us to abide in the house of God forever.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.112159012795363,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.57,
+            "commentatorTierSimilarities": [
+                28.41,
+                38.49,
+                33.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those in sin, the sons of the bondwoman, need liberation that can only come through the Son who fulfills the promise. Only those born again of His Spirit are truly free, no longer enslaved. The Son has the power to set us genuinely free, a spiritual freedom beyond the understanding of these Jews. This freedom is special, gained by becoming sons and receiving all rights and privileges, forever connected to the Father's house. We partake in this privilege if made free by the Son, allowing us to abide in God's house forever.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.207688971145364,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.75,
+            "commentatorTierSimilarities": [
+                28.03,
+                38.85,
+                33.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those in sin, as the sons of the bondwoman, need liberation through the Son who fulfills the promise. Only those born again of His Spirit are truly free, no longer children of the bondwoman but of the free. The Son has the power to set us free, not just in appearance but truly and really. This freedom goes beyond the comprehension of those who do not understand spiritual freedom. It is a special freedom, gained by becoming sons and receiving all the rights and privileges that come with it.",
+            "wordCount": 89,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.098176903244321,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                30.26,
+                38.33,
+                31.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

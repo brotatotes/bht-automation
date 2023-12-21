@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:10:08",
+    "verseRef": "John 10:35",
+    "bestBHT": {
+        "bht": "The expression and the scripture cannot be broken underscores the inviolable nature of Scripture, which is built upon the testimony of God's Word. Jesus, as the Son of God, distinguishes Himself from human messengers, emphasizing His divine nature. He asserts that Scripture cannot be nullified or rejected, affirming its infallibility and divine appointment of rulers. The term the Scripture cannot be broken emphasizes the unassailable authority and enduring truth of God's Word.",
+        "wordCount": 74,
+        "quoteTokenProportion": 34.04,
+        "qualityScore": 2.1622910532145023,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+        "commentatorTierSimilarities": [
+            46.26,
+            0.0,
+            53.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression, and the scripture cannot be broken...",
+            "...for it rests on the testimony of God\u2019s word.",
+            "unto whom the word of God came, i.e. to whom. God spoke."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The whole force of this reasoning, which has been but in part seized by the commentators, lies in what is said of the two parties compared.",
+            "The contrast is between those 'to whom the word of God came'\u2014men of the earth, earthy, who were merely privileged to get a divine message to utter (if prophets), or a divine office to discharge (if judges)\u2014and 'Him whom... the Father sanctified (or set apart), and sent into the world,' an expression never used of any merely human messenger of God, and used only of Himself.",
+            "Our Lord considers all this as just saying of Himself, 'I am the Son of God'\u2014one nature with Him, yet mysteriously of Him."
+        ],
+        "Marvin Vincent": [
+            "The Scripture. The passage of scripture.",
+            "Broken. Literally, loosened.",
+            "He uses it of the destruction of the temple; the breaking of the Sabbath; the violation of the law; the destruction of Satan's works."
+        ],
+        "John Calvin": [
+            "Empires did not spring up at random, nor by the mistakes of men, but that they were appointed by the will of God.",
+            "Christ speaks of kings, whom God has raised to a more elevated station, that they may rule and govern.",
+            "The Scripture cannot be broken means, that the doctrine of Scripture is inviolable."
+        ],
+        "Archibald T. Robertson": [
+            "If he called them gods (\u03b5 \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c5\u03c2 \u03b5\u03b9\u03c0\u03b5\u03bd \u03b8\u03b5\u03bf\u03c5\u03c2).",
+            "To be sure, it is in Psalms 82:6 a lower use of the term \u03b8\u03b5\u03bf\u03c2, but Jesus did not call himself 'Son of Jahweh,' but '\u03c5\u03b9\u03bf\u03c2 \u03b8\u03b5\u03bf\u03c5' which can mean only 'Son of Elohim.'",
+            "And the scripture cannot be broken (\u03ba\u03b1 \u03bf\u03c5 \u03b4\u03c5\u03bd\u03b1\u03c4\u03b1 \u03bb\u03c5\u03b8\u03b7\u03bd\u03b1 \u03b7 \u03b3\u03c1\u03b1\u03c6\u03b7)."
+        ],
+        "John Gill": [
+            "If he called them gods, unto whom the word of God came...",
+            "The Scripture cannot be broken; or be made null and void...",
+            "The Scripture cannot be broken, that is not to be objected to, there can be no confutation of that."
+        ],
+        "John Wesley": [
+            "If he (God) called them gods unto whom the word of God came, (that is, to whom God was then speaking,)",
+            "and the Scripture cannot be broken",
+            "nothing which is written therein can be censured or rejected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the unbreakable nature of Scripture and the authority it holds as the testimony of God's Word. The contrast is drawn between human messengers of God, who merely conveyed divine messages or performed divine duties, and Jesus, the Son of God sent into the world by the Father. Jesus affirms His divinity by equating Himself with God, emphasizing the oneness of their natures. The term the Scripture cannot be broken refers to the inviolability and infallibility of Scripture, which cannot be nullified or called into question. It affirms the divine appointment of rulers and acknowledges that the Scripture's teachings cannot be undermined or rejected.",
+            "wordCount": 108,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.9617309225236192,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                46.74,
+                0.0,
+                53.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The expression and the scripture cannot be broken underscores the inviolable nature of Scripture, which is built upon the testimony of God's Word. Jesus, as the Son of God, distinguishes Himself from human messengers, emphasizing His divine nature. He asserts that Scripture cannot be nullified or rejected, affirming its infallibility and divine appointment of rulers. The term the Scripture cannot be broken emphasizes the unassailable authority and enduring truth of God's Word.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.1622910532145023,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.24,
+            "commentatorTierSimilarities": [
+                46.26,
+                0.0,
+                53.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The expression and the scripture cannot be broken highlights the indomitable nature of Scripture, which rests on the testimony of God's word. Jesus emphasizes the contrast between human messengers and Himself as the sanctified Son of God, uniquely sent into the world. He declares His divinity by equating Himself with God, affirming their shared nature. The term the Scripture cannot be broken underscores the inviolability of Scripture, precluding any censure or rejection, as it is firmly established by God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.0336959690240093,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.96,
+            "commentatorTierSimilarities": [
+                48.43,
+                0.0,
+                51.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus states that the scripture cannot be broken because it is founded on the testimony of God's word. This assertion highlights the distinction between ordinary messengers, who simply received divine messages or fulfilled divine duties, and Jesus Himself as the sanctified Son sent by the Father into the world. By equating Himself with God, Jesus affirms His divine nature and oneness with the Father. The phrase the Scripture cannot be broken underscores the unassailable authority and enduring truth of God's word, which cannot be nullified or rejected.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0701060301742684,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.17,
+            "commentatorTierSimilarities": [
+                47.02,
+                0.0,
+                52.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus proclaims that the scripture cannot be broken, emphasizing the unwavering nature of God's word. This assertion highlights the contrast between human messengers, who received divine messages or fulfilled divine duties, and Jesus Himself as the sanctified Son sent by the Father. By equating Himself with God, Jesus affirms His divine nature and oneness with the Father. The phrase the Scripture cannot be broken underscores the unassailable authority and enduring truth of God's word, which cannot be nullified or rejected.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.051863101122229,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.57,
+            "commentatorTierSimilarities": [
+                46.94,
+                0.0,
+                53.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:07:43",
+    "verseRef": "John 6:40",
+    "bestBHT": {
+        "bht": "To truly look upon Jesus is more than just seeing Him; it is the awakening of attention that precedes faith. It is through this act of beholding Him with the eye of faith that one can obtain eternal life. The Father's will is to preserve and raise up all who believe in the Son, ensuring that none are lost. This act of contemplation and belief in Jesus leads to the promise of being raised up on the last day, fulfilling the will of God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.9851238861677003,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+        "commentatorTierSimilarities": [
+            32.39,
+            28.29,
+            39.32
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The looketh on here is a different thing from the mere seeing of ver. 36.",
+            "It is the awakening of the attention preparatory to faith.",
+            "We must not make the looking equivalent to believing, to which it is only preparatory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the human side of the same thing as in the foregoing verse, and answering to 'Him that cometh unto Me I will in no wise cast out'; that is, I have it expressly in charge that everyone that so 'beholdeth' (so vieweth) the Son as to believe on Him shall have everlasting life.\" ",
+            "I have it expressly in charge that none of Him be lost.\" ",
+            "I will raise him up at the last day."
+        ],
+        "Albert Barnes": [
+            "It was not sufficient to see him and hear him, but it was necessary, also, to believe on him.",
+            "If this explanation of the Saviour had always been attended to, the doctrine of election would not have been abused as it has been.",
+            "Jesus teaches men to strive to enter heaven, as if they could do the work themselves; and yet to depend on the help of God, and give the glory to him, as if he had done it all."
+        ],
+        "Marvin Vincent": [
+            "The Father's will in preserving and raising up that which he has given to the Son, includes in its fulfillment the believing contemplation of the Son and its issue in eternal life.",
+            "The saving vision of Christ is not here seeing, but earnest contemplation.",
+            "See on 1 18. Compare ye have seen me, and believe not (ver. 36)."
+        ],
+        "John Calvin": [
+            "The way to obtain salvation, therefore, is to obey the Gospel of Christ.",
+            "They are madmen, therefore, who seek their own salvation or that of others in the whirlpool of predestination, not keeping the way of salvation which is exhibited to them.",
+            "Whosoever seeth the Son, and believeth in him...these words show that faith proceeds from the knowledge of Christ."
+        ],
+        "Philip Schaff": [
+            "The word \u2018beholdeth\u2019 is especially noteworthy, clearly including as it does an act of the will. \u2018Seeing\u2019 may be accidental, may be transient: he who \u2018beholds\u2019 is willing to stand and gaze on the object presented to his view.",
+            "The Jews were not present at the miracle or when Jesus spoke of the bread of life, but were afterwards informed of His words.",
+            "They [the Jews] would scrupulously observe the ritual of the feast."
+        ],
+        "Archibald T. Robertson": [
+            "Should have eternal life... that he may keep on having eternal life.",
+            "Beholdeth... with the eye of faith.",
+            "And I will raise him up... promise."
+        ],
+        "John Gill": [
+            "This is the will of him... this is his declared, his revealed will... this is the will of my Father.",
+            "Everyone which seeth the Son, and believeth on him... a sight of Christ, as to believe in him... Men are by nature blind, their eyes are shut... in his light men see not only themselves, their sin... but Christ, and a beauty, glory, and excellency in him.",
+            "It is the will of God... that such may have everlasting life... I will raise him up at the last day... the saints particularly, by virtue of union to him."
+        ],
+        "John Wesley": [
+            "This is the will of him that sent me \u2014 This is the whole of what I have said: this is the eternal, unchangeable will of God.",
+            "Every one who truly believeth, shall have everlasting life.",
+            "And I will raise him up \u2014 As this is the will of him that sent me, I will perform it effectually."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The act of looking upon Jesus in John 6:40 goes beyond mere seeing. It is the awakening of attention towards Him, leading to faith. It is the contemplation and belief in Jesus as a necessary step towards everlasting life. The Father's will in preserving and raising up those who believe in the Son results in eternal life. This act of behold-ing requires the eye of faith and leads to the promise of being raised up on the last day. Ultimately, it is the will of God that everyone who truly believes in Jesus shall have everlasting life, and He will ensure that this promise is fulfilled.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8768679736753882,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.75,
+            "commentatorTierSimilarities": [
+                31.96,
+                28.08,
+                39.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Looking upon Jesus in this verse is more than just seeing Him; it is the awakening of attention and the contemplation of Him in preparation for faith. The act of beholding Jesus with the eye of faith is essential for obtaining eternal life. The Father's will is to preserve and raise up those who believe in the Son, ensuring that none are lost. This act of contemplation and belief in Jesus leads to the promise of being raised up on the last day.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.9512309241602122,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                33.22,
+                29.36,
+                37.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Looking upon Jesus is not simply seeing Him, but the awakening of attention and contemplation in preparation for faith. It is the act of truly beholding Him with the eye of faith that leads to eternal life. The Father's will is to preserve and raise up all who believe in the Son, ensuring that none are lost. This act of contemplation and belief is accompanied by the promise of being raised up on the last day.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.912797414169435,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                34.57,
+                27.99,
+                37.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To truly look upon Jesus is more than just seeing Him; it is the awakening of attention that precedes faith. It is through this act of beholding Him with the eye of faith that one can obtain eternal life. The Father's will is to preserve and raise up all who believe in the Son, ensuring that none are lost. This act of contemplation and belief in Jesus leads to the promise of being raised up on the last day, fulfilling the will of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.9851238861677003,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                32.39,
+                28.29,
+                39.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Looking upon Jesus is more than seeing Him; it is the awakening of attention in preparation for faith. It is through this act of beholding Him with the eye of faith that one can obtain eternal life. The Father's will is to preserve and raise up all who believe in the Son, ensuring that none are lost. This act of contemplation and belief leads to the promise of being raised up on the last day, fulfilling the will of God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9475660660899807,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                33.4,
+                26.89,
+                39.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

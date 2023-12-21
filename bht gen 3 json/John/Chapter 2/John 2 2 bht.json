@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:04:22",
+    "verseRef": "John 2:2",
+    "bestBHT": {
+        "bht": "Jesus commences his ministry by attending a wedding, distinguishing himself from the austerity of John the Baptist. This signifies his rejection of giving up occasions we struggle to purify. His presence at the wedding embodies the importance and honor he assigns to marriage. He is invited, potentially at his mother's urging and accompanied by his disciples. These disciples serve as the initial core of an extensive following, recognizing Jesus as their Teacher and Lord. Jesus' attendance demonstrates his affability, willingness to partake, and sanctifying influence on human society.",
+        "wordCount": 89,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.818437564956843,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+        "commentatorTierSimilarities": [
+            40.55,
+            30.77,
+            28.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord at once opens His ministry with the character which He gives of himself, as distinguished from the asceticism of John.\" ",
+            "He also... gives us his own testimony against the tendency which our indolence ever favours, of giving up those things and occasions to the world and the devil, which we have not Christian boldness to mingle in and purify.",
+            "The especial honour conferred upon marriage by the Lord should also be noticed. 'He here adorned and beautified it with his presence, and first miracle that he wrought.'"
+        ],
+        "Albert Barnes": [
+            "His disciples - Those that he had made when in Judea.",
+            "They were not yet called to be apostles, but they believed that he was the Messiah.",
+            "The miracle performed here was doubtless to convince them more fully that he was the Christ."
+        ],
+        "Marvin Vincent": [
+            "Was called. Rev., bidden. After His return from the Baptist. ",
+            "His disciples. In honor of Jesus."
+        ],
+        "Philip Schaff": [
+            "The form of the sentence shows that our chief attention is to be fixed on Jesus, not on the disciples.",
+            "They were invited as His disciples.",
+            "Those who came were probably the five or six mentioned in chap. 1, viz. Andrew, Simon Peter, Philip, Nathanael, and John himself (and probably James)."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus also was bidden (\u03b5\u03ba\u03bb\u03b7\u03b8\u03b7 \u03ba\u03b1 \u03bf \u0399\u03b7\u03c3\u03bf\u03c5\u03c2). First aorist passive indicative of \u03ba\u03b1\u03bb\u03b5\u03c9, 'was also invited' as well as his mother and because of her presence, possibly at her suggestion.",
+            "And his disciples (\u03ba\u03b1 \u03bf \u03bc\u03b1\u03b8\u03b7\u03c4\u03b1). Included in the invitation and probably all of them acquaintances of the family.",
+            "This group of six already won form the nucleus of the great host of 'learners' through the ages who will follow Jesus as Teacher and Lord and Saviour."
+        ],
+        "John Gill": [
+            "Christ, and his five disciples, made six of the ten, which were always necessary to be present at, the benediction of bridegrooms.",
+            "To attend a wedding, was reckoned, with the Jews, an act of beneficence and kindness.",
+            "Our Lord, being at this wedding, was acting like himself, and his general character, of being free, affable, and courteous; who accepted of every invitation, and refused not to be at any entertainment, made by who it would, or on whatever occasion."
+        ],
+        "John Wesley": [
+            "Christ does not take away human society, but sanctifies it.",
+            "Water might have quenched thirst; yet our Lord allows wine; especially at a festival solemnity.",
+            "Such was his facility in drawing his disciples at first, who were afterward to go through rougher ways."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus begins his ministry by attending a wedding, distinguishing himself from the asceticism of John the Baptist. In doing so, he testifies against the tendency to withdraw from worldly occasions that we are unable to purify. His presence at the wedding also signifies the honor he bestows upon marriage and the importance he places on it. Jesus was invited to the wedding, possibly at the suggestion of his mother. His disciples, who were already acquainted with the family, were also included in the invitation. These disciples formed the nucleus of a larger group of learners who would follow Jesus throughout the ages. The miracle performed at the wedding was likely meant to further convince these disciples of Jesus' identity as the Messiah. Jesus' attendance at the wedding demonstrates his affability and willingness to accept invitations regardless of the occasion. He sanctifies human society rather than taking it away.",
+            "wordCount": 148,
+            "quoteTokenProportion": 36.56,
+            "qualityScore": 1.799738078165233,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                36.9,
+                32.91,
+                30.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus opens his ministry by attending a wedding, distinguishing himself from John the Baptist's asceticism. His presence testifies against the tendency to withdraw from occasions we are unable to purify. This highlights the honor he bestows upon marriage. Jesus was invited, possibly at his mother's suggestion, along with his disciples who already knew the family. These disciples formed the nucleus of a larger group who would follow Jesus. His attendance reveals his affability and willingness to accept invitations regardless of the occasion, sanctifying human society.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.7757140728254335,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                39.9,
+                31.73,
+                28.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus begins his ministry by attending a wedding, distinguishing himself from the asceticism of John the Baptist. In doing so, he testifies against our tendency to give up occasions to the world and the devil. Jesus' presence at the wedding also adorns and beautifies the institution of marriage. He was invited, possibly at his mother's suggestion, along with his disciples. These disciples formed the nucleus of a larger group who would follow Jesus as Teacher and Lord. His attendance reveals his affability and willingness to accept invitations, sanctifying human society.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7983852426910831,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                40.64,
+                31.01,
+                28.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus opens his ministry by attending a wedding, proclaiming himself distinct from John the Baptist's asceticism. He testifies against our inclination to surrender worldly occasions rather than purify them. This affirms the elevated status he bestows upon marriage. Jesus receives an invitation, possibly due to his mother's suggestion, along with his disciples. This small group serves as the foundation of countless learners who will follow Jesus as their Teacher and Lord. His presence at the wedding reflects his approachability and willingness to participate, adding sanctity to human society.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.7806826109455245,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                41.17,
+                30.86,
+                27.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus commences his ministry by attending a wedding, distinguishing himself from the austerity of John the Baptist. This signifies his rejection of giving up occasions we struggle to purify. His presence at the wedding embodies the importance and honor he assigns to marriage. He is invited, potentially at his mother's urging and accompanied by his disciples. These disciples serve as the initial core of an extensive following, recognizing Jesus as their Teacher and Lord. Jesus' attendance demonstrates his affability, willingness to partake, and sanctifying influence on human society.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.818437564956843,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+            "commentatorTierSimilarities": [
+                40.55,
+                30.77,
+                28.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:06:36",
+    "verseRef": "John 5:26",
+    "bestBHT": {
+        "bht": "The Son's vivifying and judging work are deeply connected as the Father has given Him life in Himself as the Son of God. While we lack life within ourselves, our existence is sustained by Him. The question of whether this refers to the Son's essential life before all time or to God's purpose for this life within the Incarnate Son remains challenging. Nonetheless, Christ's essential relation to the Father serves to clarify and exalt His mediatorial functions. The Son possesses the same life-giving power as the Father, making Him the ultimate source of life.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.4144524589357266,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.62,
+        "commentatorTierSimilarities": [
+            26.68,
+            35.37,
+            37.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have here again vivifying and judging bound together as the two great departments of the Son\u2019s working.",
+            "The Father hath given Him to have life in Himself, as He is THE SON OF GOD.",
+            "We have none of us life in ourselves: in Him we live and move and have our being."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Does this refer to the essential life of the Son before all time...or to the purpose of God that this essential life should reside in the Person of the Incarnate Son?\" ",
+            "The question is as difficult as the subject is high.\" ",
+            "But as all that Christ says of His essential relation to the Father is intended to explain and exalt His mediatorial functions, so the one seems in our Lord's own mind and language mainly the starting-point of the other."
+        ],
+        "Albert Barnes": [
+            "God is the source of all life... He always existed as he is... He is unchangeably the same.",
+            "The power and authority of which Christ here speaks is that which he exercises as 'Mediator.'",
+            "Jesus did it by his own name, authority, and power... None could do this but he who had the power of creation - equal in omnipotence to the Father, and the power of searching all hearts - equal in omniscience to God."
+        ],
+        "Marvin Vincent": [
+            "The correspondence is that of fact, not of degree.",
+            "Hath he given, the aorist tense pointing back to the eternal past."
+        ],
+        "John Calvin": [
+            "He shows whence his voice derives such efficacy; namely, that he is the fountain of life, and by his voice pours it out on men.",
+            "God is said to have life in himself, not only because he alone lives by his own inherent power, but because, containing in himself the fullness of life, he communicates life to all things.",
+            "The meaning of the words is this: 'God did not choose to have life hidden, and, as it were, buried within himself, and therefore he poured it into his Son, that it might flow to us.'"
+        ],
+        "Philip Schaff": [
+            "The Father who is the primal fountain of life gave to the Son to have life in Himself.",
+            "It is therefore the essential nature of the Son that is spoken of, and not His work in redemption.",
+            "'To have life in Himself' is the loftiest expression that can be used: the unchangeable possession of life exactly similar and parallel to that of the Father, such possession as enables Him to be the Giver of life to others, belongs to the Son."
+        ],
+        "Archibald T. Robertson": [
+            "The Living God possesses life wholly in himself.",
+            "He has bestowed this power of life to the Son.",
+            "The particles 'as' and 'so' mark here the fact, not the degree."
+        ],
+        "John Gill": [
+            "he hath not only made the purpose of it in him, and given the promise of it to him; but even eternal life itself, he has put into his hands, and secured it in him for them.\" ",
+            "The Son has life in himself, essentially, originally, and inderivatively as the Father has, being equally the living God, the fountain of life, and donor of it, as he.",
+            "all that hear Christ's voice spiritually shall live eternally; for these words are a reason of the former, and confirm the truth of them, as well as show the equality of the Son with the Father."
+        ],
+        "John Wesley": [
+            "He hath given to the Son \u2014 By eternal generation, to have life in himself - Absolute, independent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see the intimate connection between the vivifying and judging work of the Son. The Father has given the Son life in Himself as the Son of God. While none of us have life in ourselves, we find our life in Him. The question of whether this refers to the essential life of the Son before all time or to the purpose of God for this life to reside in the Incarnate Son is a difficult one. But the main point here is that all that Christ says about His essential relation to the Father is meant to explain and exalt His mediatorial functions. The Son has been given this power of life by the Father. This power is not a matter of degree but of fact. It is the unchangeable possession of life, just like that of the Father, which enables Him to be the Giver of life to others.",
+            "wordCount": 154,
+            "quoteTokenProportion": 50.63,
+            "qualityScore": 2.312571180512389,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.23,
+            "commentatorTierSimilarities": [
+                28.0,
+                36.0,
+                35.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son's vivifying and judging work are tightly intertwined, as the Father has bestowed upon Him life in Himself as the Son of God. While we all lack life within ourselves, we find our source of life in Him. The question of whether this pertains to the Son's essential pre-eternal life or God's purpose for this life within the Incarnate Son is indeed challenging. Nevertheless, Christ's words on His relationship with the Father ultimately serve to explain and elevate His mediatorial role. It is a matter of fact, not degree, that the Son possesses this life-giving power paralleling the Father's immutable possession.",
+            "wordCount": 109,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 2.2840738785405605,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.29,
+            "commentatorTierSimilarities": [
+                26.68,
+                35.53,
+                37.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son's vivifying and judging work are inseparable, as the Father has given Him to have life in Himself as the Son of God. While we all lack life within ourselves, finding it in Him is our true sustenance. The question of whether this refers to the Son's essential life before all time or to God's purpose of residing this life in the Incarnate Son remains difficult. However, it is undeniable that Christ's essential relation to the Father illuminates and elevates His mediatorial functions. The Son possesses this life-giving power in the same measure as the Father, allowing Him to be the ultimate Giver of life.",
+            "wordCount": 111,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.4171488677747055,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.71,
+            "commentatorTierSimilarities": [
+                26.36,
+                35.7,
+                37.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son's vivifying and judging work are intertwined, as the Father has given Him life in Himself as the Son of God. While we lack life within ourselves, we find it in Him. The question of whether this refers to the Son's essential life before all time or God's purpose for this life in the Incarnate Son is difficult. Yet, Christ's essential relation to the Father underlies and elevates His mediatorial functions. The Son possesses the same life-giving power as the Father, enabling Him to be the Giver of life.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.3726217402161662,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.23,
+            "commentatorTierSimilarities": [
+                27.48,
+                35.6,
+                36.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son's vivifying and judging work are deeply connected as the Father has given Him life in Himself as the Son of God. While we lack life within ourselves, our existence is sustained by Him. The question of whether this refers to the Son's essential life before all time or to God's purpose for this life within the Incarnate Son remains challenging. Nonetheless, Christ's essential relation to the Father serves to clarify and exalt His mediatorial functions. The Son possesses the same life-giving power as the Father, making Him the ultimate source of life.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.4144524589357266,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.62,
+            "commentatorTierSimilarities": [
+                26.68,
+                35.37,
+                37.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

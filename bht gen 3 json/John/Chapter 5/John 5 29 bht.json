@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:06:39",
+    "verseRef": "John 5:29",
+    "bestBHT": {
+        "bht": "The resurrection of life, accompanied by the resurrection of judgment, reveals the remarkable authority and dignity of Christ. The resurrection of life leads to eternal life, where the righteous will experience the fullness of joy and freedom from sin and death. Conversely, the resurrection of judgment is faced by those who have committed evil, resulting in eternal damnation. It is important to remember that the resurrection of life is not guaranteed solely by good works, but by faith in Christ, which produces a transformed life of good works.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 2.512065986813373,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.87,
+        "commentatorTierSimilarities": [
+            30.68,
+            36.11,
+            33.21
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The resurrection of life\u2014that is, to life everlasting.",
+            "Sinners rise from death to death.",
+            "How awfully grand are these unfoldings of His dignity and authority from the mouth of Christ Himself!"
+        ],
+        "Albert Barnes": [
+            "They that have done good - That is, they who are righteous, or they who have by their good works 'shown' that they were the friends of Christ.\" ",
+            "The resurrection of life - Religion is often called life, and everlasting life... The enjoyment of God himself and of his works; of the society of the angels and of the redeemed; freedom from sickness, and sin, and dying, will constitute the life of the just in the resurrection.\" ",
+            "This passage proves that at the day of judgment the wicked will be condemned... There is no account of redemption in hell - no Saviour, no Holy Spirit, no offer of mercy there."
+        ],
+        "Marvin Vincent": [
+            "Note again the use of the different verbs for doing with good and evil.\" (Commentary)",
+            "Resurrection of life.\" (Commentary)",
+            "Resurrection of judgment.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "He praises their good works, to which they have begun to devote themselves since they were called.",
+            "For without the pardon which God grants to those who believe in Him, there never was a man in the world of whom we can say that he has lived well.",
+            "But this estimate depends on the fatherly kindness of God, who by free grace approves what deserved to be rejected."
+        ],
+        "Philip Schaff": [
+            "Those who have committed evil, whose deeds have not been the abiding fruit and work of the truth, but merely the repeated manifestation of evil in its vanity and worthlessness shall go forth to a resurrection to which belongs abiding judgment.\" ",
+            "As in John 3:18 it is said that \u2018he that believeth in Him is not judged,\u2019 so here, \u2018they that have done good shall go forth unto a resurrection of life.\u2019",
+            "The difference between the two passages is, that in the one the faith is named; in the other, the works which are the expression of the life that follows faith, the abiding fruit of faith."
+        ],
+        "Archibald T. Robertson": [
+            "This combination occurs nowhere else in the N.T. nor does 'the resurrection of judgement' (\u03b5\u03b9\u03c2 \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03b9\u03bd \u03ba\u03c1\u03b9\u03c3\u03b5\u03c9\u03c2), but in Luke 14:14 there is the similar phrase 'in the resurrection of the just' (\u03b5\u03bd \u03c4\u03b7 \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03b5 \u03c4\u03c9\u03bd \u03b4\u03b9\u03ba\u03b1\u03b9\u03c9\u03bd).",
+            "Only there note both articles. Here without the articles it can mean 'to a resurrection of life' and 'to a resurrection of judgement,' though the result is practically the same.",
+            "There are two resurrections as to result, one to life, one to judgement. See both in Daniel 12:2."
+        ],
+        "John Gill": [
+            "A good work is that which is done according to the will of God, from love to him, in faith, and with a view to his glory.\" ",
+            "Only good men shall rise to enjoy a happy and glorious life; which will lie in communion with God, angels, and saints, and in conformity to Christ, and in the everlasting vision of him.\" ",
+            "The wicked shall come forth unto the resurrection of damnation; that is, to everlasting damnation, shame, and reproach; they shall be condemned by the Judge of the whole earth, and shall be pronounced cursed."
+        ],
+        "John Wesley": [
+            "The resurrection of life \u2014 That resurrection which leads to life everlasting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The resurrection of life is a grand unfolding of Christ's authority and dignity. It is the resurrection that leads to everlasting life, where the righteous will be reunited with God and experience the fullness of joy and freedom from sin and death. On the other hand, those who have committed evil and have not lived according to the truth will rise to a resurrection of judgment, where they will face condemnation and eternal damnation. It is important to note that the resurrection of life is not dependent solely on good works, but on faith in Christ, which produces good works as an expression of a transformed life.",
+            "wordCount": 108,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.4698348865667485,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.46,
+            "commentatorTierSimilarities": [
+                30.7,
+                35.55,
+                33.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The resurrection of life is an awe-inspiring display of Christ's authority and dignity, leading to eternal life for the righteous. On the other hand, those who have committed evil will face a resurrection of judgment and be condemned to everlasting damnation. While good works are important, the resurrection of life is ultimately dependent on faith in Christ. This passage reminds us that true life is found in communion with God, angels, and saints, and in the everlasting vision of Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.4086702128062596,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.43,
+            "commentatorTierSimilarities": [
+                29.57,
+                35.2,
+                35.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The resurrection of life unveils the grandeur of Christ's authority and signifies everlasting life. However, those who have committed evil will face a resurrection of judgment, resulting in eternal damnation. It is vital to understand that the resurrection of life is not solely based on good works, but on faith in Christ. This teaches us that genuine life is found in communion with God, angels, and saints, and in the eternal vision of Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.3027814386111283,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.91,
+            "commentatorTierSimilarities": [
+                29.99,
+                34.61,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The resurrection of life, accompanied by the resurrection of judgment, reveals the remarkable authority and dignity of Christ. The resurrection of life leads to eternal life, where the righteous will experience the fullness of joy and freedom from sin and death. Conversely, the resurrection of judgment is faced by those who have committed evil, resulting in eternal damnation. It is important to remember that the resurrection of life is not guaranteed solely by good works, but by faith in Christ, which produces a transformed life of good works.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.512065986813373,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.87,
+            "commentatorTierSimilarities": [
+                30.68,
+                36.11,
+                33.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The resurrection of life, demonstrating the immense authority and dignity of Christ, leads to everlasting life for the righteous. In contrast, the resurrection of judgment condemns those who have committed evil to eternal damnation. It is crucial to comprehend that the resurrection of life is not earned solely through good works, but rather through faith in Christ. This teaches us that true life is found in communion with God, angels, and saints, and in the everlasting vision of Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.3956584228723754,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.0,
+            "commentatorTierSimilarities": [
+                28.9,
+                35.11,
+                35.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

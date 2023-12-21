@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:10:09",
+    "verseRef": "John 11:8",
+    "bestBHT": {
+        "bht": "The disciples were greatly concerned when they heard that Jesus intended to go back to a place where the Jews had recently sought to stone Him. They questioned His decision, fearful that it would only lead to certain death. Understanding the dangers that awaited Him in that place, they couldn't comprehend why He would choose to withdraw from the safety of their current location. To them, it seemed like an act of suicidal madness to go back now. Nevertheless, Jesus had a greater purpose in mind, even if it meant facing danger and opposition.",
+        "wordCount": 95,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.3635330528451892,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+        "commentatorTierSimilarities": [
+            36.33,
+            24.79,
+            38.88
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Master, the Jews of late sought, &c.\u2014literally, 'were (just) now seeking' 'to stone thee' (John 10:31).",
+            "Goest thou thither again?\u2014to certain death.",
+            "John 11:16 shows they thought."
+        ],
+        "Albert Barnes": [
+            "Of late - About four months before, John 10:31."
+        ],
+        "Marvin Vincent": [
+            "Of late sought...were but now seeking.",
+            "Dost thou withdraw from this safe retreat?",
+            "Goest...Dost thou withdraw from this safe retreat?"
+        ],
+        "John Calvin": [
+            "Avoiding the cross, and being ashamed to own it, they allege...that they are anxious about their Master.\" ",
+            "For they who, through a dread of the cross, shrink from the performance of their duty, eagerly seek excuses to conceal their indolence.",
+            "That they may not be thought to rob God of the obedience due to him, when they have no good cause to do so."
+        ],
+        "Philip Schaff": [
+            "The disciples say unto him, Rabbi, but now the Jews were seeking to stone thee; and goest thou thither again?\" ",
+            "The words \u2018but now\u2019 (only just now) seem to show that the sojourn in Perea (chap. John 10:40) was short.\" ",
+            "The disciples see clearly that to go to Bethany is as perilous as to return to Jerusalem, where He has but now escaped from the rage of \u2018the Jews\u2019 (chap. John 10:31)."
+        ],
+        "Archibald T. Robertson": [
+            "Were but now seeking to stone thee.",
+            "Goest thou thither again?",
+            "It seemed suicidal madness to go back now."
+        ],
+        "John Gill": [
+            "the Jews of late, or but now, sought to stone thee",
+            "and goest thou thither again?",
+            "where there are so many enemies; and so much danger, and but little hope of doing much good; whereas here he was among his friends, and in safety, and very useful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were greatly concerned when they heard that Jesus intended to go back to a place where the Jews had recently sought to stone Him. They questioned His decision, fearful that it would only lead to certain death. Understanding the dangers that awaited Him in that place, they couldn't comprehend why He would choose to withdraw from the safety of their current location. To them, it seemed like an act of suicidal madness to go back now. Nevertheless, Jesus had a greater purpose in mind, even if it meant facing danger and opposition.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.3635330528451892,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+            "commentatorTierSimilarities": [
+                36.33,
+                24.79,
+                38.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were deeply concerned when Jesus mentioned His intention to return to a place where the Jews were seeking to stone Him. They questioned the wisdom of His decision and couldn't understand why He would willingly put Himself in harm's way. To them, it seemed like an act of suicidal madness to go back now, leaving behind the safety of their current location. However, Jesus had a greater purpose in mind, even if it meant facing danger and opposition once again.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.3365213871089625,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.78,
+            "commentatorTierSimilarities": [
+                32.6,
+                25.87,
+                41.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were alarmed when Jesus expressed His desire to go back to a place where the Jews were just now seeking to stone Him. They questioned His decision, unable to comprehend why He would willingly subject Himself to such imminent danger. To them, it seemed like a reckless and even suicidal choice. They urged Him to withdraw from this unsafe refuge and avoid the cross that awaited Him. Little did they understand the greater purpose and divine plan that Jesus was working towards.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.3226976714775023,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.32,
+            "commentatorTierSimilarities": [
+                31.51,
+                26.97,
+                41.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, concerned for Jesus' safety, were taken aback when He mentioned His intention to return to a place where the Jews had recently sought to stone Him. They couldn't fathom why He would willingly put Himself in harm's way, considering it suicidal madness to go back now. However, Jesus had a greater purpose in mind, even if it meant facing danger and opposition. He knew that there was important work to be done, regardless of the risks involved.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.2426369727237954,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.66,
+            "commentatorTierSimilarities": [
+                29.28,
+                30.08,
+                40.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were deeply concerned when Jesus insisted on returning to a perilous place where the Jews had just recently sought to stone Him. They were baffled by His decision, viewing it as suicidal madness to go back to such a dangerous setting. They pleaded with Him to reconsider, urging Him to stay in their current safe retreat. However, unbeknownst to them, Jesus had a greater purpose in mind and was willing to face danger to fulfill it.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.3272714144297502,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.47,
+            "commentatorTierSimilarities": [
+                35.3,
+                20.9,
+                43.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

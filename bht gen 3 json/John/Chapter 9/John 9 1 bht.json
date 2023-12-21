@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:09:05",
+    "verseRef": "John 9:1",
+    "bestBHT": {
+        "bht": "As Jesus passed by, he saw a man who was blind from birth, sitting and begging. This man, a well-known character with his stand as a beggar, had endured blindness from his mother's womb and human remedies could not cure him. The purpose of this narrative was to emphasize the spontaneous compassion of Jesus. It is in his nature to see and act, as he first looks upon his chosen ones with an eye of love and mercy, enlightening and quickening them.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 2.0365472641268823,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+        "commentatorTierSimilarities": [
+            22.9,
+            36.11,
+            40.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The blind man was sitting begging (ver. 8), possibly proclaiming the fact of his having been so born; for otherwise the disciples could hardly have asked the following question.",
+            "The incident may have been in the neighbourhood of the temple (Acts iii. 2): but doubtless there were other places where beggars sat, besides the temple entrances.",
+            "Thus we have the commencement of a new narrative here, as in ch. vi. 1, and vii. 1."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-5. as Jesus passed by, he saw a",
+            "\tman which was blind from birth\u2014and who \"sat begging",
+            "\t(John 9:8)."
+        ],
+        "Albert Barnes": [
+            "As Jesus passed by - As he was leaving the temple, John 8:59. This man was in the way in which Jesus was going to escape from the Jews."
+        ],
+        "Marvin Vincent": [
+            "From his birth [\u03b5\u03ba \u03b3\u03b5\u03bd\u03b5\u03c4\u03b7\u03c2] . The word only here in the New Testament."
+        ],
+        "John Calvin": [
+            "Jesus saw a man blind.\" ",
+            "This circumstance gives an additional display of the power of Christ; for blindness, which he had brought from his mother\u2019s womb, and which he had endured till he arrived at the age of a man, could not be cured by human remedies.\" ",
+            "This gave occasion to the disciples to propose a question, Of whose sin was this the punishment?"
+        ],
+        "Philip Schaff": [
+            "The two points which John brings before us are simply that the case of the afflicted man was (in itself) hopeless, and that the Saviour saw him as He passed by.",
+            "The obvious purpose of this latter statement is to direct our thoughts to the spontaneous compassion of Jesus.",
+            "He feels and acts Himself; and the interest of the disciples does not precede but follow that shown by their Master."
+        ],
+        "Archibald T. Robertson": [
+            "As he passed by, the day was after the stirring scenes in chapter 8, but not at the feast of dedication as Westcott argues.",
+            "From his birth, a phrase common in Greek writers, probably a well-known character with his stand as a beggar.",
+            "The day was after the stirring scenes in chapter 8, but not at the feast of dedication as Westcott argues. That comes three months later."
+        ],
+        "John Gill": [
+            "And as [Jesus] passed by, he saw a man which was blind from his birth; which man was an emblem of God's elect in a state of nature...",
+            "...Christ first looks upon his chosen ones with an eye of love and mercy, as he passes by them, and both enlightens and quickens them...",
+            "He saw Matthew the publican first, as he passed along, and called him from the receipt of custom to be a follower of him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus passed by, he saw a man who was blind from birth, sitting and begging. This man, a well-known character with his stand as a beggar, had endured blindness from his mother's womb and human remedies could not cure him. The disciples, upon seeing this hopeless case, asked a question about whose sin caused this punishment. However, the purpose of this narrative was not to focus on the sin, but to emphasize the spontaneous compassion of Jesus. It is in his nature to see and act, as he passed by and first looks upon his chosen ones with an eye of love and mercy, enlightening and quickening them. This incident marks the beginning of a new narrative, showcasing the power of Christ and his tender care for those in need.",
+            "wordCount": 133,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 1.968992531883813,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
+            "commentatorTierSimilarities": [
+                22.78,
+                36.36,
+                40.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus passed by, he saw a man who was blind from birth, sitting and begging. This man, a well-known character with his stand as a beggar, had endured blindness from his mother's womb and human remedies could not cure him. The purpose of this narrative was to emphasize the spontaneous compassion of Jesus. It is in his nature to see and act, as he first looks upon his chosen ones with an eye of love and mercy, enlightening and quickening them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.0365472641268823,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+            "commentatorTierSimilarities": [
+                22.9,
+                36.11,
+                40.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus passed by, he saw a man who was blind from birth, a well-known character with his stand as a beggar. This man's hopeless condition, enduring blindness from birth, could not be remedied by human means. The disciples, upon witnessing this, raised the question of whose sin caused his suffering. However, the focus of the narrative lies not in sin, but in the spontaneous compassion of Jesus. It is in his nature to see and act, as he first looks upon his chosen ones with an eye of love and mercy.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8972901956327413,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                23.16,
+                35.19,
+                41.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus passed by, he saw a man who was blind from birth, a well-known beggar. The man's blindness, which he had endured since birth, could not be cured by human remedies. This prompted the disciples to inquire about the cause of his suffering. However, the purpose of this narrative is to highlight the spontaneous compassion of Jesus, who sees and acts upon his chosen ones with love and mercy. The incident marks the beginning of a new narrative, demonstrating the power of Christ and his tender care for those in need.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.958546193456982,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                22.85,
+                36.94,
+                40.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus passed by, he saw a man who was blind from birth sitting and begging. The man's lifelong blindness, a condition beyond human remedy, caught the attention of the disciples, leading them to question the cause of his suffering. Yet, the focus of this narrative lies in the spontaneous compassion of Jesus. It is in his nature to see and act with love and mercy, as he first looks upon his chosen ones, enlightening and quickening them. This incident serves as a testament to the power and tender care of Christ for those in need.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8681806196654824,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.46,
+            "commentatorTierSimilarities": [
+                21.32,
+                36.82,
+                41.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

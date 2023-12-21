@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:11:53",
+    "verseRef": "John 13:1",
+    "bestBHT": {
+        "bht": "Jesus, in the knowledge that His time on earth was ending, expressed His unwavering love for His disciples by washing their feet. This act served as a powerful demonstration of His self-humiliating love, despite His awareness of His divine mission and impending glorification. It is significant to note that this was not a mere ritualistic observance, but rather a deeper celebration of the true spirit and higher meaning of the Passover. Jesus, in loving His own deeply and until the end, revealed an unexpected manifestation of His love that surpasses human expectations.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 2.236867451879431,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.72,
+        "commentatorTierSimilarities": [
+            34.76,
+            35.16,
+            30.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Jesus loved His own even to the end (of His life in the flesh), and gave them in the washing of their feet a proof of His love.\" ",
+            "To this act He was induced by the knowledge that He must soon leave this world.",
+            "Although this knowledge was united with the highest consciousness of His divine mission and speedy glorification, yet this latter did not prevent Him from giving this proof of His self-humiliating love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When Jesus knew that his hour was come that he should depart out of this world unto the Father... having loved his own which were in the world, he loved them unto the end.\" ",
+            "On the very edge of His last sufferings, when it might have been supposed that He would be absorbed in His own awful prospects, He was so far from forgetting 'His own,' who were to be left struggling 'in the world' after He had 'departed out of it to the Father'... that in His care for them He seemed scarce to think of Himself save in connection with them.",
+            "Herein is love, not only enduring to the end, but most affectingly manifested when, judging by a human standard, least to be expected."
+        ],
+        "Albert Barnes": [
+            "His hour was come - The hour appointed in the purpose of God for him to die.",
+            "Having loved his own - Having given to them decisive and constant proofs of his love.",
+            "He loved them unto the end - That is, he continued the proofs of his love until he was taken away from them by death."
+        ],
+        "Marvin Vincent": [
+            "It is not the Passover of the Jews which Jesus is about to celebrate, which had degenerated into an empty form, but the national ordinance, according to its true spirit, and with a development of its higher meaning.",
+            "Unto the end [\u03b5\u03b9\u03c2 \u03c4\u03b5\u03bb\u03bf\u03c2] . Interpretations differ. The rendering of the A. V. and Rev. is of doubtful authority. The passages cited in support of this, Matthew 10:22; Matthew 24:13; Mark 13:13, may all be rendered to the uttermost.",
+            "But I am inclined, with Meyer, to shrink from the 'inappropriate gradation' which is thus implied, as though Jesus' love now reached a higher degree than before [\u03b1\u03b3\u03b1\u03c0\u03b7\u03c3\u03b1\u03c2]. Hence I prefer the rendering at last, or finally He loved them, taking hjgaphsen, loved, in the sense of the manifestation of His love."
+        ],
+        "John Calvin": [
+            "He states, in a single word, that the Lord testified, by this visible sign, that the love with which he embraced them was firm and lasting.",
+            "Why does he employ this circumlocution in describing the Apostles, but in order to inform us that, in consequence of their being engaged, as we are, in a hazardous and difficult warfare, Christ regarded them with so much the greater solicitude?",
+            "This phrase is worthy of notice; for it refers to the knowledge of Christ, that he knew that his death was a passage to the heavenly kingdom of God."
+        ],
+        "Philip Schaff": [
+            "Jesus will partake of \u2018the Passover,\u2019 but not of \u2018the Passover of the Jews;\u2019 of the great national ordinance of Israel, but not of an ordinance the true spirit and meaning of which had perished.",
+            "Certainly not \u2018 although He knew,\u2019 as if His consciousness of the glory awaiting Him might have proved an obstacle to His present manifestation of Himself, had it not been overcome by love.",
+            "The expression does not mean \u2018to the end,\u2019 for which another phrase is always used. It is best explained by 1 Thessalonians 2:16, \u2018to the uttermost:\u2019 the love of Jesus now reaches its highest point."
+        ],
+        "Archibald T. Robertson": [
+            "The whole feast, including the feast of unleavened bread, lasted eight days.",
+            "There seems no real doubt that this meal in John 13:1-30 is the real passover meal described by the Synoptics also.",
+            "John pictures here the outgoing of Christ's very heart's love towards these men whom he had chosen and whom he loved 'unto the end'."
+        ],
+        "John Gill": [
+            "The death of Christ is here signified by a departing out of this world, a way of speaking frequently used by the Jews as expressive of death.",
+            "The place from whence Christ was about to remove is called 'this world': this present world, into which he was come to save sinners, and in which he then was, and where he had already met with very ill usage, and barbarous treatment, and was to meet with more.",
+            "The objects of his love are described by his property in them, 'his own'; by whom are meant, not all mankind, who are his by creation; nor the Jews, who were his nation and countrymen according to the flesh; nor the twelve apostles only, whom he had chosen; but all the elect of God, who are his own."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, knowing that His time on earth was coming to an end, displayed His unfailing love for His disciples through the act of washing their feet. This act of humility was a clear proof of His deep love for them, even in the face of His impending suffering and crucifixion. His love extended so far that He seemed to forget about His own impending trials, focusing instead on caring for His disciples. It is important to note that this was not a mere observance of the Jewish Passover, but a significant event infused with a higher meaning. Jesus demonstrated His love for His chosen ones, His own, until the very end, showing a level of love and care that was unexpected by human standards. In this act, He testified to the enduring and unwavering nature of His love for His own.",
+            "wordCount": 141,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 2.2163319185086667,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+            "commentatorTierSimilarities": [
+                33.41,
+                36.03,
+                30.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, knowing His time was coming to an end, displayed His love for His disciples by humbly washing their feet. This act was a proof of His deep love, even amidst His imminent suffering. He cared for His disciples so much that He seemed to forget about Himself, focusing solely on them. It was not just a simple Passover observance, but a significant event with a higher meaning. Jesus demonstrated His love for His chosen ones until the very end, testifying to the enduring nature of His love.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.198005367477044,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.42,
+            "commentatorTierSimilarities": [
+                32.4,
+                37.64,
+                29.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in the knowledge that His time on earth was ending, expressed His unwavering love for His disciples by washing their feet. This act served as a powerful demonstration of His self-humiliating love, despite His awareness of His divine mission and impending glorification. It is significant to note that this was not a mere ritualistic observance, but rather a deeper celebration of the true spirit and higher meaning of the Passover. Jesus, in loving His own deeply and until the end, revealed an unexpected manifestation of His love that surpasses human expectations.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.236867451879431,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.72,
+            "commentatorTierSimilarities": [
+                34.76,
+                35.16,
+                30.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, aware that His time in the world was coming to an end, demonstrated His unswerving love for His disciples by washing their feet. This act served as a poignant testament to His self-humbling love, despite His knowledge of His impending departure and the glory that awaited Him. Remarkably, even in the face of His own suffering, Jesus prioritized the care and well-being of His disciples, showing a love that defied conventional expectations. This act was not a mere ceremonial observance, but a profound expression of His enduring and profound love for His chosen ones, His own, until the very end.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.265238898561773,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.66,
+            "commentatorTierSimilarities": [
+                34.36,
+                34.77,
+                30.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, on the brink of His own suffering, demonstrated His boundless love for His disciples by washing their feet. This act was a tangible proof of His deep affection, even in light of His imminent departure from the world. Jesus prioritized the needs of His disciples above His own, a true expression of selfless love. This was not merely a ritualistic observance, but a significant event embodying the true essence and higher purpose of the Passover. Jesus, loving His own until the very end, exemplified a love that surpassed human expectations.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.108579302959656,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.45,
+            "commentatorTierSimilarities": [
+                35.41,
+                36.47,
+                28.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

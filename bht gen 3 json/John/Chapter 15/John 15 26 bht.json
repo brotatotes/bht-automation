@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:12:56",
+    "verseRef": "John 15:26",
+    "bestBHT": {
+        "bht": "The ongoing testimony of the Spirit of Truth concerning Christ overcomes the rejection and hatred of the world. As the Paraclete sent from the Father by the glorified Son, the Spirit's mission is to testify and establish our faith in Christ alone. Through the Spirit's testimony, we find comfort and obtain victory over the world. The Spirit of Truth, being the true Spirit and the Spirit of him who is truth, ensures that our faith remains fixed on Christ, our salvation.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.8554296438391233,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+        "commentatorTierSimilarities": [
+            39.22,
+            0.0,
+            60.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This assurance carries on the testimony concerning Christ,\u2014which the world should see and hear, and yet reject and hate Him,\u2014even to the end of time, by means of the Spirit of Truth.",
+            "He, the Spirit of Truth, will never cease to overcome the hating world by this His testimony.",
+            "The first clause he regards as spoken with reference to the mediatorial dispensation, of the Spirit in His office as Paraclete, sent from the Father by the glorified Son."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "26, 27. (See on :-; John 15:1)."
+        ],
+        "John Calvin": [
+            "None of their attacks will be so violent as to shake the firmness of your faith, when the Holy Spirit shall have been given to you to establish you by his testimony.",
+            "All who are endued with this Spirit are so far from being in danger of falling into despondency on account of the hatred or contempt of the world, that every one of them will obtain glorious victory over the whole world.",
+            "The Spirit is said to testify of Christ, because he retains and fixes our faith on him alone, that we may not seek elsewhere any part of our salvation."
+        ],
+        "Archibald T. Robertson": [
+            "Whenever the Comforter comes.",
+            "This is the Procession of the Holy Spirit from the Father and from the Son.",
+            "This is the mission of the Paraclete."
+        ],
+        "John Gill": [
+            "And who also was to act, and has acted the part of a 'comforter' to them, under all the hatred and violence they have met with from the world.\" ",
+            "The Spirit of truth; who is the true Spirit, truth itself; yea, the true God, with the Father and Son; the Spirit of him who is truth.\" ",
+            "He shall testify of me: of his deity and sonship, of his incarnation, of his being the Messiah, of his sufferings and death, of his resurrection and ascension."
+        ],
+        "John Wesley": [
+            "The Spirit's coming, and being sent by our Lord from the Father, to testify of him, are personal characters, and plainly distinguish him from the Father and the Son.\" ",
+            "His title as the Spirit of truth, together with his proceeding from the Father, can agree to none but a Divine person.",
+            "And that he proceeds from the Son, as well as from the Father, may be fairly argued from his being called the Spirit of Christ, 1 Peter 1:11; and from his being here said to be sent by Christ from the Father, as well as sent by the Father in his name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The assurance of the Spirit of Truth is an ongoing testimony of Christ to the world, despite their rejection and hatred. This assurance is part of the mediatorial dispensation of the Spirit as the Paraclete, sent by the glorified Son from the Father. The Holy Spirit's testimony overcomes the hostility of the world. The Spirit's mission is to testify of Christ, fixing our faith on Him alone and establishing us in the face of attacks. Through the Spirit's testimony, we obtain victory over the world and find comfort in the midst of hatred and violence.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7921215039852556,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                40.31,
+                0.0,
+                59.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ongoing testimony of the Spirit of Truth concerning Christ overcomes the rejection and hatred of the world. As the Paraclete sent from the Father by the glorified Son, the Spirit's mission is to testify and establish our faith in Christ alone. Through the Spirit's testimony, we find comfort and obtain victory over the world. The Spirit of Truth, being the true Spirit and the Spirit of him who is truth, ensures that our faith remains fixed on Christ, our salvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.8554296438391233,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "commentatorTierSimilarities": [
+                39.22,
+                0.0,
+                60.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ongoing testimony of the Spirit of Truth overcomes the world's rejection and hatred of Christ. As the Paraclete, sent by the glorified Son from the Father, the Spirit's mission is to testify and establish faith in Christ alone. Through the Spirit's testimony, believers find comfort and victory over the world. The Spirit of Truth, being true and sent by Christ and the Father, ensures that our faith remains fixed on Christ, our salvation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.847912401584652,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                39.2,
+                0.0,
+                60.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ongoing testimony of the Spirit of Truth overcomes the rejection and hatred of Christ by the world. This testimony, as part of the mediatorial dispensation of the Paraclete, sent from the Father by the glorified Son, establishes faith in Christ. The Spirit's mission is to testify of Christ, fixing our faith solely on Him for salvation. Through the Spirit's testimony, believers find comfort and obtain victory over the world. The Spirit of Truth, being the true Spirit, provides assurance in the face of the world's hostility.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.7811353601959505,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+            "commentatorTierSimilarities": [
+                41.74,
+                0.0,
+                58.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ongoing testimony of the Spirit of Truth overcomes the world's rejection and hatred of Christ. As the Paraclete sent from the Father by the glorified Son, the Spirit's mission is to testify and establish faith in Christ alone. Through the Spirit's testimony, believers find comfort and victory over the world. The Spirit of Truth, being sent by Christ from the Father, ensures that our faith remains fixed on Christ, our salvation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.8370052226577025,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+            "commentatorTierSimilarities": [
+                39.4,
+                0.0,
+                60.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

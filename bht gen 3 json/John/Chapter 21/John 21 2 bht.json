@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-21-2023 03:15:21",
+    "verseRef": "John 21:2",
+    "bestBHT": {
+        "bht": "Nathanael and Thomas, named only by St. John, have significance in this context. The two others remain unknown, possibly Andrew and Philip. Different theories exist regarding their identities and arrangement. The disciples, while expecting the Holy Spirit, are engaged in fishing, highlighting the importance of remaining active during anticipation. Thomas' mention signifies his unity with the apostles, despite his doubts. This emphasizes the disciples' readiness to meet their risen Lord.",
+        "wordCount": 70,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.4755480408745807,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+        "commentatorTierSimilarities": [
+            32.49,
+            30.67,
+            36.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] Nathanael is named by St. John only: see ch. i. 46 ff.: Thomas also by St. John only, except in the catalogues of the Apostles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. Nathanael\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "While they were waiting for the promise of the Holy Spirit, they still found it proper to be usefully employed.",
+            "In the interval - before the promised Spirit was poured upon them - they chose not to be idle, and therefore returned to their former employment.",
+            "Ministers of the gospel should be willing to labor, if necessary, for their own support, and should not esteem such labor dishonorable."
+        ],
+        "Philip Schaff": [
+            "There may be significance in the mention of Thomas as now completely at one with his brother Apostles.\" ",
+            "In the fact that Nathanael is associated with the miracle.",
+            "It is doubtful whether the seven persons here referred to are arranged, as is often supposed, in two groups."
+        ],
+        "Archibald T. Robertson": [
+            "These seven (Peter, Thomas, Nathanael, the sons of Zebedee, and two others).",
+            "We do not know who the 'two others of his disciples' were, possibly Andrew and Philip.",
+            "It seems to me to be crass criticism in spite of Harnack and Bernard to identify the incident here with that in Luke 5:1-11."
+        ],
+        "John Gill": [
+            "Simon Peter, who though he had denied his Lord, dearly loved him, and truly believed in him, kept with the rest of his disciples, and was waiting for another interview with him.",
+            "Thomas, called Didymus; who, though for a while an unbeliever with respect to the resurrection of Christ, was now fully assured of it, and, for the future, was unwilling to lose any opportunity of meeting with his risen Lord.",
+            "And Nathanael of Cana in Galilee; an Israelite indeed, in whom there was no guile."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nathanael and Thomas are mentioned in this verse, which is significant because they are only named by St. John, whereas the other apostles are mentioned elsewhere in the Bible. It is unclear who the two others referred to are, though some speculate it may be Andrew and Philip. The commentators discuss various theories about the identities of these individuals. Furthermore, it is noted that the disciples were engaged in fishing while waiting for the Holy Spirit, emphasizing the importance of being actively engaged even during times of waiting. The mention of Thomas is significant because it shows his unity with the other apostles, despite his previous doubts. Overall, this verse highlights the presence of these disciples and their readiness to meet with their risen Lord.",
+            "wordCount": 125,
+            "quoteTokenProportion": 45.12,
+            "qualityScore": 1.6133415813314755,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.99,
+            "commentatorTierSimilarities": [
+                32.04,
+                32.01,
+                35.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nathanael and Thomas are mentioned here, who are exclusively named by St. John. The two others remain unidentified, possibly Andrew and Philip. The commentators debate over their identities and arrangement. The disciples, while waiting for the Holy Spirit, engaged in fishing, highlighting the importance of staying active during periods of anticipation. Thomas' inclusion indicates his unity with the apostles, despite previous doubts. This verse emphasizes the disciples' presence and readiness to meet their risen Lord.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4845491233081716,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.7,
+            "commentatorTierSimilarities": [
+                32.44,
+                29.98,
+                37.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Nathanael and Thomas, mentioned solely by St. John, stand out in this passage. Though the two others are unknown, they may include Andrew and Philip. The commentators debate their identities and arrangement. Engaged in fishing while awaiting the Holy Spirit, the disciples show the importance of staying active during anticipation. Thomas' presence signifies his unity with the apostles, despite past doubts. This verse highlights the disciples' readiness to encounter their risen Lord.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.4944553557745677,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                30.62,
+                31.76,
+                37.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nathanael and Thomas, who are mentioned exclusively by St. John, have significance in this context. While the identity of the two others remains unclear, they could possibly be Andrew and Philip. The commentators offer different theories regarding their identities and arrangement. The disciples, while waiting for the Holy Spirit, are engaged in fishing, emphasizing the importance of remaining active during times of expectation. The mention of Thomas suggests his unity with the apostles, despite his previous doubts. This highlights the disciples' readiness to meet their risen Lord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4852544659466607,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.73,
+            "commentatorTierSimilarities": [
+                30.35,
+                32.32,
+                37.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nathanael and Thomas, named only by St. John, have significance in this context. The two others remain unknown, possibly Andrew and Philip. Different theories exist regarding their identities and arrangement. The disciples, while expecting the Holy Spirit, are engaged in fishing, highlighting the importance of remaining active during anticipation. Thomas' mention signifies his unity with the apostles, despite his doubts. This emphasizes the disciples' readiness to meet their risen Lord.",
+            "wordCount": 70,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.4755480408745807,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+            "commentatorTierSimilarities": [
+                32.49,
+                30.67,
+                36.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

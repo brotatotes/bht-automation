@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:13:56",
+    "verseRef": "John 17:17",
+    "bestBHT": {
+        "bht": "Sanctify them and consecrate them in the truth, which is God's revealed truth, His word. The truth is the medium or element of sanctification, a statement of immense importance. This sanctification is a process that progresses gradually throughout one's life. The Gospel, the word from the God of truth, is what sanctifies and brings about this consecration. By seeing things as they truly are, we see God's infinite loveliness and purity, which leads us to be separated from the world and dedicated to Him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.0369306334215596,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.07,
+        "commentatorTierSimilarities": [
+            34.51,
+            33.02,
+            32.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Sanctify them, asking the advancement and completion of their begun sanctification.",
+            "The truth is God's revealed truth, as the medium or element of sanctification.",
+            "Thy word is truth, a statement of immense importance."
+        ],
+        "Albert Barnes": [
+            "Sanctification in the heart of a Christian is progressive. It consists in his becoming more like God and less attached to the world.",
+            "To see things as they are is to see God to be infinitely lovely and pure; his commands to be reasonable and just; heaven to be holy and desirable; his service to be easy, and religion pleasant, and sin odious.",
+            "All the commands and promises of God; His representations of His own character and that of man; His account of the mission and death of His Son; of the grave, the resurrection, judgment, and eternity, all tend to represent things as they are, and are thus fitted to sanctify the soul."
+        ],
+        "Marvin Vincent": [
+            "Sanctify [\u03b1\u03b3\u03b9\u03b1\u03c3\u03bf\u03bd] . Constantly used in the Septuagint to express the entire dedication and consecration of both persons and things to God.",
+            "Through thy truth [\u03b5\u03bd \u03c4\u03b7 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1 \u03c3\u03bf\u03c5] . The best texts omit thy. Through [\u03b5\u03bd] is to be rendered literally, in, marking the sphere or element of consecration. Rev., sanctify them in the truth.",
+            "Thy word [\u03bf \u03bb\u03bf\u03b3\u03bf\u03c2 \u03bf \u03c3\u03bf\u03c2] . Properly, the word which is thine."
+        ],
+        "John Calvin": [
+            "He asks, first, therefore, that the Father would sanctify the disciples, or, in other words, that he would consecrate them entirely to himself, and defend them as his sacred inheritance.",
+            "Again, as there are others who chatter quite as foolishly about the truth and yet disregard the word, Christ expressly says that the truth, by which God sanctifies his sons, is not to be found any where else than in the word.",
+            "Now, as the apostles were not altogether destitute of this grace, we ought to infer from Christ\u2019s words, that sanctification is not instantly completed in us on the first day, but that we make progress in it through the whole course of our life, till at length God, having taken away from us the garment of the flesh, fills us with his righteousness."
+        ],
+        "Philip Schaff": [
+            "It is thus, when applied to persons, not less but more than sanctification, the latter being implied before the former can take place.",
+            "To be consecrated is, therefore, to be separated from the world, to be dedicated as a holy thing to God.",
+            "And this word is \u2018truth \u2019 in its most absolute sense, truth which finds concrete expression in \u2018the truth.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Sanctify (\u03b1\u03b3\u03b9\u03b1\u03c3\u03bf\u03bd). First aorist active imperative of \u03b1\u03b3\u03b9\u03b1\u03b6\u03c9. To consecrate or set apart persons or things to God.\" ",
+            "This is done in the sphere (\u03b5\u03bd) of truth (God's truth), God's Word (not human speculation, but God's message to us).\" ",
+            "See Paul's prayer for the Thessalonians (1 Thessalonians 5:23)."
+        ],
+        "John Gill": [
+            "Sanctification is a progressive work, which is carried on gradually.",
+            "The progress and finishing of this work, as well as the beginning of it, are entirely the Lord's.",
+            "The Gospel is here meant, and is so called on account of its original, it comes from the God of truth; and because of the concern which Christ, who is the truth, has in it."
+        ],
+        "John Wesley": [
+            "Sanctify \u2014 Consecrate them by the anointing of thy Spirit to their office, and perfect them in holiness, by means of thy word."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Sanctify them, asking the advancement and completion of their begun sanctification. The truth is God's revealed truth, as the medium or element of sanctification. Thy word is truth, a statement of immense importance. Sanctify, constantly used to express the entire dedication and consecration of both persons and things to God. Through the truth, marking the sphere or element of consecration. Thy word, the word which is thine. This is done in the sphere of truth, God's word. To see things as they are is to see God to be infinitely lovely and pure.\n",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.949601077468072,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.17,
+            "commentatorTierSimilarities": [
+                43.05,
+                27.76,
+                29.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sanctify them, asking the advancement and completion of their begun sanctification in the sphere of truth. Thy word is truth, the word which is thine. To see things as they are is to see God to be infinitely lovely and pure. Sanctification is a progressive work, carried on gradually through the whole course of our life. The Gospel is the truth that sanctifies, coming from the God of truth and with the concern of Christ, who is the truth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.9683378694879117,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.79,
+            "commentatorTierSimilarities": [
+                35.5,
+                31.12,
+                33.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sanctify them and consecrate them in the truth, which is God's revealed truth, His word. The truth is the medium or element of sanctification, a statement of immense importance. This sanctification is a process that progresses gradually throughout one's life. The Gospel, the word from the God of truth, is what sanctifies and brings about this consecration. By seeing things as they truly are, we see God's infinite loveliness and purity, which leads us to be separated from the world and dedicated to Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0369306334215596,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.07,
+            "commentatorTierSimilarities": [
+                34.51,
+                33.02,
+                32.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sanctify and consecrate them in the truth, God's revealed truth. This sanctification is a process of gradual progress. The Gospel, the word from the God of truth, is what sanctifies and brings about consecration. By seeing things as they truly are, we recognize the infinite loveliness and purity of God. This leads us to be separated from the world and dedicated to Him, as we make progress in sanctification throughout our lives, until God fills us with His righteousness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.9297072364871193,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "commentatorTierSimilarities": [
+                32.54,
+                33.74,
+                33.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sanctify them in the truth, God's revealed truth. Consecrate them entirely to Himself in the sphere of consecration. This sanctification is a progressive work carried on gradually through their entire life. The Gospel, the truth from the God of truth, is what sanctifies and brings about this consecration. By seeing things as they truly are, recognizing the infinite loveliness and purity of God, they are separated from the world and dedicated to Him. The progress and completion of this work are entirely the Lord's.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.7619195636819258,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                33.27,
+                31.96,
+                34.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

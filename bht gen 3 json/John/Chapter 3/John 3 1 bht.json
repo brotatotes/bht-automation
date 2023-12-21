@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:04:43",
+    "verseRef": "John 3:1",
+    "bestBHT": {
+        "bht": "Nicodemus, a member of the Sanhedrim, was a Pharisee and a ruler among the Jews. He approached Jesus seeking to understand Him, representing the struggle between sincerity and timidity within himself. Despite the biases and externalism of his class, Nicodemus stood out for his candor and faith. This encounter highlighted Jesus' knowledge of human nature and the diverse range of individuals he interacted with. It served as a reminder of the dangers faced by those in positions of authority, emphasizing the need for genuine discipleship and spiritual rebirth.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.9263471117059607,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+        "commentatorTierSimilarities": [
+            32.17,
+            40.84,
+            26.99
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is mentioned in the Talmud a Nicodemus ben Gorion, who was properly called Bonai, and said to have been a disciple of Jesus: but he is found living at the destruction of Jerusalem.\" ",
+            "This might certainly have been; still it must be quite uncertain whether he be the same with this Nicodemus.",
+            "He was a member of the Sanhedrim, and, besides, a teacher of the law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1, 2. Nicodemus\u2014In this member",
+            "\tof the Sanhedrim sincerity and timidity are seen struggling together."
+        ],
+        "Albert Barnes": [
+            "Nicodemus, a ruler of the Jews - One of the 'Sanhedrin,' or great council of the nation.",
+            "He is twice mentioned after this as being friendly to our Saviour; in the first instance as advocating his cause, and defending him against the unjust suspicion of the Jews John 7:50, and in the second instance as one who came to aid in embalming his body, John 19:39.",
+            "It will be recollected that the design of John in writing this gospel was to show that Jesus was the Messiah."
+        ],
+        "Marvin Vincent": [
+            "The interview with Nicodemus is... an illustration of Christ 's knowledge of what was in man.\" ",
+            "John reminds us... that Nicodemus was a specimen of the race which Jesus knew so well.\" ",
+            "A ruler. A member of the Sanhedrim."
+        ],
+        "John Calvin": [
+            "If he who was a ruler among men is less than a child, what ought we to think of the multitude at large?",
+            "For the sum of Christ\u2019s discourse is, that, in order that we may be his true disciples, we must become new men.",
+            "We are reminded that they who occupy a lofty station in the world are, for the most part, entangled by very dangerous snares."
+        ],
+        "Philip Schaff": [
+            "John means us to understand that out of the many who \u2018believed in the name\u2019 of Jesus was one deserving of special attention, not merely as representing a higher class and special culture, but chiefly because, brought by the signs to a degree of faith, he was desirous of knowing more.",
+            "The name Nicodemus is found in the Talmud, as a Hebrew surname borne by a Jew, a disciple of Jesus, whose true name was Bonai. There is nothing to show that the persons are identical, and on the whole it is more probable that they are not.",
+            "Nicodemus is not free from the externalism and prejudices of his class, but his candour and his faith stand out in wonderful contrast to the general spirit evinced by the Pharisees and the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "Nicodemus is an instance of Christ's knowledge of men and of one to whom he did trust himself.\" ",
+            "He belonged to that party which with all its bigotry contained a salt of true patriotism and could rear such cultured and high-toned men as Gamaliel and Paul.\" ",
+            "He was a Pharisee, a member of the Sanhedrin, and wealthy."
+        ],
+        "John Gill": [
+            "This man was not a common and ordinary man, but a man of note and eminence, of dignity and figure.",
+            "Nicodemus...a ruler of the Jews; not a civil magistrate...but an ecclesiastical ruler; he was a member of the sanhedrim, which consisted of the doctors, or wise men, and priests, Levites, and elders of the people; and so was a dignified person, and as afterwards called, a master in Israel.",
+            "The Jews give an etymology of [Nicodemus' name], agreeably to the Hebrew language; and say, that he was so called, because the sun, \u05e0\u05e7\u05d3\u05d4, 'shone out for his sake'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nicodemus ben Gorion, a member of the Sanhedrim, approached Jesus seeking to understand him. This interaction showcased Jesus' knowledge of human nature, with Nicodemus representing the diversity within the Jewish community. Despite being a Pharisee, Nicodemus stood out as a man of genuine faith and curiosity -- a stark contrast to the prevailing prejudices of his peers. It is worth noting that Nicodemus held a position of influence among the Jews, serving as a reminder of the dangers faced by those in prominent positions. In exploring the encounter with Nicodemus, we are reminded of the call to be reborn and to strive for genuine discipleship.",
+            "wordCount": 104,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.9166460317172662,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.07,
+            "commentatorTierSimilarities": [
+                29.8,
+                44.15,
+                26.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nicodemus, a member of the Sanhedrim, approached Jesus displaying both sincerity and timidity. As a Pharisee, Nicodemus was part of a group known for their strict religious beliefs and their bigotry. However, Nicodemus stood apart from his peers with his genuine faith and curiosity in Jesus. He held a position of authority among the Jews, reminding us of the dangers faced by those in prominent positions. This encounter emphasizes the call to be reborn and to pursue true discipleship.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.860385310034232,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                33.06,
+                41.59,
+                25.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Nicodemus, a member of the Sanhedrim, was a Pharisee and a ruler among the Jews. He approached Jesus seeking to understand Him, representing the struggle between sincerity and timidity within himself. Despite the biases and externalism of his class, Nicodemus stood out for his candor and faith. This encounter highlighted Jesus' knowledge of human nature and the diverse range of individuals he interacted with. It served as a reminder of the dangers faced by those in positions of authority, emphasizing the need for genuine discipleship and spiritual rebirth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9263471117059607,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                32.17,
+                40.84,
+                26.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nicodemus, a member of the Sanhedrim and a Pharisee, approached Jesus with a mixture of sincerity and timidity. His curiosity and faith were evident, standing in contrast to the prevailing prejudices of his peers. This interaction showcased Jesus' understanding of human nature and highlighted the rich diversity of those who believed in Him. Nicodemus' position of influence among the Jews emphasized the potential dangers faced by those in prominent roles. This encounter serves as a reminder of the need for genuine discipleship and a transformative spiritual rebirth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7756317934841737,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                32.13,
+                42.52,
+                25.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nicodemus, a member of the Sanhedrim and a Pharisee, approached Jesus with a mixture of sincerity and timidity. His curiosity and faith were evident, standing in contrast to the prevailing prejudices of his peers. This interaction showcased Jesus' understanding of human nature and highlighted the rich diversity of those who sought Him. As a man of influence among the Jews, Nicodemus served as a reminder of the potential dangers faced by those in prominent roles. This encounter emphasizes the call for true discipleship and a transformative spiritual rebirth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.796970741452107,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.09,
+            "commentatorTierSimilarities": [
+                31.89,
+                41.9,
+                26.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

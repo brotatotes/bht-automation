@@ -1,0 +1,89 @@
+# John 21:15 Commentary Help Text
+
+## BHT:
+Peter's earlier claims of superior love are challenged by Jesus, who asks if he loves Him more than the objects around them. However, Peter responds with a humbler declaration of love, not comparing himself to others. Jesus gently rebukes Peter's previous extravagant professions, emphasizing the importance of humility and service. The different expressions used by Jesus - Feed my lambs, Shepherd my sheep, and Feed my sheep - highlight the responsibility of caring for both young and mature disciples, with terms expressing affection and duty.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The word these has been strangely enough understood (Whitby, and others) of the fish, or the ‘employment and furniture of a fisherman.’—Olshausen sees a reference to the pre-eminence given to Peter, Matt. xvi. 19,—and regards the words as implying that on that account he really did love Jesus more than the rest;—but surely this is most improbable, and the other explanation the only likely or true one."
+2. "Perhaps there is also a slight reference to his present just-shewn zeal, in leaping from the ship first to meet the Lord. 'Has thy past conduct to Me truly borne out thy former and present warmth of love to Me above these thy fellows?'"
+3. "Our Lord’s three injunctions differ in their mode of expression. The first is, Feed my lambs. ‘The second, Keep, tend, or shepherd (the same word is used in Acts xx. 28: 1 Pet. v. 2) my sheep. The third, Feed my sheep, but with this difference, that the word sheep is the diminutive, expressive of affection."
+
+### Jamieson-Fausset-Brown:
+1. "Silence appears to have reigned during the meal; unbroken on His part, that by their mute observation of Him they might have their assurance of His identity the more confirmed; and on theirs, from reverential shrinking to speak till He did."
+2. "Yea, Lord; thou knowest that I love thee—He adds not, 'more than these,' but prefixes a touching appeal to the Saviour's own omniscience for the truth of his protestation, which makes it a totally different kind of speech from his former."
+3. "It is surely wrong to view this term as a mere diminutive of affection, and as meaning the same thing as 'the sheep.' It is much more according to usage to understand by the 'lambs,' young and tender disciples, whether in age or Christian standing, and by the 'sheep' the more mature."
+
+### Albert Barnes:
+1. "Lovest thou me more than thou lovest these objects? Art thou now willing, from love to me, to forsake all these, and go and preach my gospel to the nations of the earth?"
+2. "Thou knowest that I love thee."
+3. "It is not the most confident pretensions that constitute the highest proof of love to Christ; and the happiest and best state of feeling is when we can with humility, yet with confidence, look to the Lord Jesus and say, 'Thou knowest that I love thee.'"
+
+### Marvin Vincent:
+1. "Jesus uses the more dignified, really the nobler, but, as it seems to Peter, in the ardor of his affection, the colder word for love." 
+2. "The question conveys a gentle rebuke for his former extravagant professions."
+3. "Peter substitutes the warmer, more affectionate word, and omits all comparison with his fellow-disciples."
+
+### John Calvin:
+1. "Such a restoration was necessary, both for Peter and for his hearers; for Peter, that he might the more boldly execute his office, being assured of the calling with which Christ had again invested him; for his hearers, that the stain which attached to his person might not be the occasion of despising the Gospel."
+2. "Those who are called to govern the Church ought, therefore, to remember that, if they are desirous to discharge their office properly and faithfully, they must begin with the love of Christ."
+3. "In vain, therefore, do the Papists maintain that he holds the highest rank, because he alone is specially addressed;... Yet he wishes to be reckoned Peter’s successor: I wish he were so. None of us hinders him from loving Christ, and from taking care to feed his flock; but to take no concern about loving Christ, and to throw aside the office of feeding, and then to boast of being Peter’s successor, is excessively foolish and absurd."
+
+### Philip Schaff:
+1. "The question ('lovest thou') contains the second of the two Greek verbs for loving, of which we have already spoken at chap. John 5:20... This verb is less expressive of emotions of tenderness, of personal feeling and affection, than that verb used by Peter in his reply." 
+2. "The words 'more than these' in our Lord's question can hardly spring from anything else than the remembrance of the apostle's hasty assertion before his denial of his Master... They were thus especially designed to expose to Peter's view the pride and self-sufficiency by which his fall had been hastened."
+3. "It is to be mainly traced to the genuine sincerity, the real warmth, of his love for Jesus. Jesus accepts the declaration of his love and recognizes its genuineness."
+
+### Archibald T. Robertson:
+1. "Peter had even boasted that he would stand by Christ though all men forsook him... But here Christ probes the inmost recesses of Peter's heart to secure the humility necessary for service."
+2. "Peter makes no claim here to superior love and does not even use Christ's word αγαπαω for high and devoted love, but the humbler word φιλεω for love as a friend."
+3. "Feed my lambs... Αρνια is a diminutive of αρνος (lamb)."
+
+### John Gill:
+1. "Christ calls him by this name of Simon bar Jonah, when he made the most ample profession of his faith in him, and was pronounced blessed by him." 
+2. "the exercise of this grace, and the expressions of it, are very grateful to him; and that Peter also might have an opportunity of expressing it before others"
+3. "nothing he looks upon as a firmer and clearer proof and evidence of love to him, than to feed these lambs of his, and take care of them."
+
+### John Wesley:
+1. "Simon, son of Jonah — The appellation Christ had given him, when be made that glorious confession, Matthew 16:16, the remembrance of which might make him more deeply sensible of his late denial of him whom he had so confessed."
+2. "Lovest thou me? — Thrice our Lord asks him, who had denied him thrice: more than these - Thy fellow disciples do? - Peter thought so once, Matthew 26:33, but he now answers only - I love thee, without adding more than these."
+3. "Thou knowest — He had now learnt by sad experience that Jesus knew his heart. My lambs — The weakest and tenderest of the flock."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-21-2023 03:15:52
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 85
+- BHT Commentary Usage: 37.5%
+- BHT Quality Score: 2.2105229669584805
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (64):
+	['a', 'affection', 'and', 'are', 'around', 'asks', 'both', 'by', 'caring', 'challenged', 'claims', 'comparing', 'declaration', 'different', 'disciples', 'duty', 'earlier', 'emphasizing', 'expressing', 'expressions', 'extravagant', 'feed', 'for', 'gently', 'he', 'highlight', 'him', 'himself', 'however', 'humbler', 'humility', 'if', 'importance', 'jesus', 'lambs', 'love', 'loves', 'mature', 'more', 'my', 'not', 'objects', 'of', 'others', 'peter', 'previous', 'professions', 'rebukes', 'responds', 'responsibility', 's', 'service', 'sheep', 'shepherd', 'superior', 'terms', 'than', 'the', 'them', 'to', 'used', 'who', 'with', 'young']
+- ChatGPT injected words (significant words only) (40):
+	['affection', 'asks', 'caring', 'challenged', 'claims', 'comparing', 'declaration', 'different', 'disciples', 'duty', 'earlier', 'emphasizing', 'expressing', 'expressions', 'extravagant', 'feed', 'gently', 'highlight', 'humbler', 'humility', 'importance', 'jesus', 'lambs', 'love', 'loves', 'mature', 'objects', 'peter', 'previous', 'professions', 'rebukes', 'responds', 'responsibility', 's', 'service', 'sheep', 'shepherd', 'superior', 'terms', 'young']
+
+### Logs
+- Attempt 1 BHT: Peter had previously boasted about his love for Jesus, but here Jesus probes the depths of Peter's heart to ensure his humility. In response to Jesus' three questions, Peter uses a warmer, more affectionate word for love and does not compare himself to his fellow disciples. Jesus gently rebukes Peter for his extravagant professions and emphasizes the importance of humility for service. The different expressions Jesus uses, Feed my lambs, Shepherd my sheep, and Feed my sheep, reflect the need to care for both young and mature disciples. The designation of lambs and sheep conveys affection and responsibility.
+- 🔄 John 21:15 (attempt 1, 99 words, 31.15% quotes quality score: 2.175109819200296, V2 normalized quality score: 63.66, commentator tiers 1-3: 36.08%, 26.87%, 37.05%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Peter's earlier claims of superior love are challenged by Jesus, who asks if he loves Him more than the objects around them. However, Peter responds with a humbler declaration of love, not comparing himself to others. Jesus gently rebukes Peter's previous extravagant professions, emphasizing the importance of humility and service. The different expressions used by Jesus - Feed my lambs, Shepherd my sheep, and Feed my sheep - highlight the responsibility of caring for both young and mature disciples, with terms expressing affection and duty.
+- 🔄 John 21:15 (attempt 2, 85 words, 37.5% quotes quality score: 2.2105229669584805, V2 normalized quality score: 64.84, commentator tiers 1-3: 36.46%, 28.53%, 35.01%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Jesus challenges Peter's earlier claims of superior love, questioning if he loves Him more than other objects. However, Peter responds with a humbler declaration of love, not comparing himself to others. Jesus gently rebukes Peter's extravagant professions, emphasizing humility and service. The different expressions used by Jesus - Feed my lambs, Shepherd my sheep, and Feed my sheep - highlight the responsibility of caring for both young and mature disciples, with terms expressing affection and duty.
+- 🔄 John 21:15 (attempt 3, 76 words, 35.59% quotes quality score: 2.1719025860802734, V2 normalized quality score: 63.56, commentator tiers 1-3: 36.57%, 28.32%, 35.12%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Jesus questions Peter's love in comparison to other objects, prompting Peter to respond with a humbler declaration. Jesus gently rebukes his past extravagant claims and emphasizes the importance of humility for service. The different expressions used by Jesus, Feed my lambs, Shepherd my sheep, and Feed my sheep, reveal the responsibility of caring for both young and mature disciples, expressing affection and duty. Peter's sincere love for Jesus is acknowledged, as Jesus accepts his declaration and recognizes its genuineness.
+- 🔄 John 21:15 (attempt 4, 81 words, 29.82% quotes quality score: 2.1820276697968444, V2 normalized quality score: 63.89, commentator tiers 1-3: 32.73%, 32.32%, 34.95%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Peter's claims of superior love are challenged by Jesus, who questions if he loves Him more than other objects. Peter responds with a humbler declaration, not comparing himself to others. Jesus gently rebukes Peter's extravagant professions, emphasizing humility and service. The different expressions used by Jesus - Feed my lambs, Shepherd my sheep, and Feed my sheep - highlight the responsibility of caring for both young and mature disciples, expressing affection and duty. Jesus accepts Peter's declaration of love, recognizing its genuineness.
+- 🔄 John 21:15 (attempt 5, 83 words, 37.1% quotes quality score: 2.1598005475782367, V2 normalized quality score: 63.15, commentator tiers 1-3: 34.92%, 30.58%, 34.5%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ John 21:15 bht prompt v0.8 (85 words, 37.5% quotes)
+- quality score: 2.2105229669584805, V2 normalized quality score: 64.84, commentator tiers 1-3: 36.46%, 28.53%, 35.01%)

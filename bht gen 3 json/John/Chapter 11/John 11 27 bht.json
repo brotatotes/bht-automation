@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:10:29",
+    "verseRef": "John 11:27",
+    "bestBHT": {
+        "bht": "Martha's confession, though not fully comprehensive, demonstrated her belief in the truth Jesus spoke about Himself. Her settled and firm faith, expressed in the face of her brother's death, revealed her confidence in Jesus as the Messiah and the fulfillment of Messianic hope. She trusted in His power to raise the dead and establish the perfect kingdom of God. Martha's confession showcased her unwavering belief in Him as the Son of God who brings eternal life to those who believe in Him.",
+        "wordCount": 85,
+        "quoteTokenProportion": 29.63,
+        "qualityScore": 2.0877275386046983,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.76,
+        "commentatorTierSimilarities": [
+            30.63,
+            28.96,
+            40.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Her confession, though embracing the great central point of the truth in the last verse, does not enter fully into it.",
+            "That He spoke great things about Himself, she knew: but in what sense He spoke them, she did not know.",
+            "I for my part: and the word believe is in the original in the perfect tense, 'have believed and continue to believe:\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And having such faith in Thee, I can believe all which that comprehends.",
+            "While she had a glimmering perception that Resurrection, in every sense of the word, belonged to the Messianic office and Sonship of Jesus.",
+            "She means, by this way of expressing herself, to cover much that she felt her ignorance of\u2014as no doubt belonging to Him."
+        ],
+        "Albert Barnes": [
+            "Yea, Lord - This was a noble confession.",
+            "It showed her full confidence in him as the Messiah.",
+            "Her full belief that all that he said was true."
+        ],
+        "Marvin Vincent": [
+            "I have believed. The perfect tense.\" ",
+            "Rev. Martha goes back to her previous belief, which consists in the recognition of Christ as her Lord.\" ",
+            "Whatever faith she has in this new revelation of Christ rests upon the truth that He is the Anointed, the Son of God, even He that cometh into the world."
+        ],
+        "John Calvin": [
+            "To prove that she believes what she had heard Christ say about himself, that he is the resurrection and the life...",
+            "...knowledge includes the sum of all blessings; for we ought always to remember for what purpose the Messiah was promised, and what duty the prophets ascribe to him.",
+            "...we ought to expect from him the full restoration of all things and perfect happiness; and, in short, that he was sent to erect and prepare the true and perfect state of the kingdom of God."
+        ],
+        "Philip Schaff": [
+            "The substitution of \u2018I have believed\u2019 for \u2018I believe\u2019 is striking.",
+            "His last words have been in some measure new and unfamiliar.",
+            "She has received Him as the fulfilment of Messianic hope, the revelation of the Divine to man, the long-expected Redeemer of the world."
+        ],
+        "Archibald T. Robertson": [
+            "She had heroic faith and makes now her own confession of faith in words that outrank those of Peter in Matthew 16:16 because she makes hers with her brother dead now four days and with the hope that Jesus will raise him up now.",
+            "It is my settled and firm faith.",
+            "But no one said it under more trying circumstances than Martha."
+        ],
+        "John Gill": [
+            "She firmly believed all that he said concerning himself, and the happiness of those that believed in him.",
+            "I believe...that thou art the Christ the Son of God, which should come into the world.",
+            "She must believe that he was able to raise the dead to life, and to secure those that believe in him from dying eternally."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Her confession, though embracing the great central point of the truth, does not enter fully into it. That He spoke great things about Himself, she knew: but in what sense He spoke them, she did not know. She had a glimmering perception that Resurrection belonged to the Messiah. Her belief in Him as her Lord was a settled and firm faith, spoken even in the trying circumstance of her brother being dead for four days. This noble confession showed her full confidence in Him as the Messiah, the fulfilment of Messianic hope, the Divine revelation to man. She believed in His ability to raise the dead to life and bring about the true and perfect state of the kingdom of God.",
+            "wordCount": 121,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0702469718106014,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                32.03,
+                31.46,
+                36.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Her confession does not fully comprehend the great truth, but she knew that He spoke great things about Himself, even if she did not fully understand the extent of His words. Her belief in Him, expressed in trying circumstances, was a settled and firm faith. It showed her confidence in Him as the Messiah, the fulfillment of Messianic hope, and the revelation of the Divine to man. She believed in His power to raise the dead to life and establish the perfect kingdom of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.0673014225891557,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.08,
+            "commentatorTierSimilarities": [
+                29.06,
+                30.48,
+                40.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Martha's confession, though not fully comprehensive, showed her recognition of Jesus' authority as the Messiah. She believed in Him, even though she may not have fully understood the depth of His words. Her faith in Jesus was settled and firm, expressed in the midst of her brother's death. It highlighted her confidence in Him as the fulfillment of Messianic hope and the revelation of the Divine to humanity. Martha believed in His ability to raise the dead and establish the perfect kingdom of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.042837734701653,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.27,
+            "commentatorTierSimilarities": [
+                30.24,
+                30.77,
+                39.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Martha's confession, though not fully comprehensive, revealed her belief in the great truth that Jesus spoke about Himself. Her faith, expressed even in the midst of her brother's death, was settled and firm. It demonstrated her confidence in Jesus as the Messiah and the realization of Messianic hope. Martha believed in His power to raise the dead and establish the perfect kingdom of God. Her confession underscored her unwavering trust in His ability to fulfill divine promises and grant eternal life to believers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.9987247328301363,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.8,
+            "commentatorTierSimilarities": [
+                30.74,
+                30.43,
+                38.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Martha's confession, though not fully comprehensive, demonstrated her belief in the truth Jesus spoke about Himself. Her settled and firm faith, expressed in the face of her brother's death, revealed her confidence in Jesus as the Messiah and the fulfillment of Messianic hope. She trusted in His power to raise the dead and establish the perfect kingdom of God. Martha's confession showcased her unwavering belief in Him as the Son of God who brings eternal life to those who believe in Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.0877275386046983,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.76,
+            "commentatorTierSimilarities": [
+                30.63,
+                28.96,
+                40.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

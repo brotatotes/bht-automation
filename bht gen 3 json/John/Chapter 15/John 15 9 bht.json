@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-21-2023 03:13:02",
+    "verseRef": "John 15:9",
+    "bestBHT": {
+        "bht": "To continue in the love of Christ is to remain in the possession and enjoyment of His love, which includes both the disciple's love for Christ and Christ's love for the disciple. It is the Christ-principle of love that encompasses both. Just as Christ abides in the Father's love, we are called to abide in His love, valuing and treasuring it. Our love for Christ is a result of His love for us, grounded in the Father's love for the world. Let us therefore cling to this love, never forfeiting this invaluable blessing.",
+        "wordCount": 98,
+        "quoteTokenProportion": 46.81,
+        "qualityScore": 2.4782048968306887,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.74,
+        "commentatorTierSimilarities": [
+            30.73,
+            37.48,
+            31.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Love between the Father and Christ is compared with that between Christ and His disciples.",
+            "The words my love may be understood as meaning the love of Me;\u2014but the sense is not good, and the expression is not parallel with the same expression in ver. 10.",
+            "remain in it; do not cast yourselves out of it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9-11. continue ye in my love\u2014not,",
+            "\t\"Continue to love Me,\" but, \"Continue in the",
+            "\tpossession and enjoyment of My love to you\"; as is evident from",
+            "\tthe next words."
+        ],
+        "Albert Barnes": [
+            "The love of the Father toward his only-begotten Son is the highest affection of which we can conceive.",
+            "Yet this love is adduced to illustrate the tender affection which the Lord Jesus has for all his friends.",
+            "His love was so great for them that he was about to lay down his life. This constitutes a strong reason why we should continue in his love."
+        ],
+        "Marvin Vincent": [
+            "In my love, that which is mine. Not only the love of the disciple for Christ, nor the love of Christ for the disciple, but the Christ-principle of love which includes both.",
+            "The Christ-principle of love",
+            "Includes both the love of the disciple for Christ and the love of Christ for the disciple"
+        ],
+        "John Calvin": [
+            "But the love which is here mentioned must be understood as referring to us, because Christ testifies that the Father loves him, as he is the Head of the Church.",
+            "We ought therefore to cast our eyes on Christ, in whom will be found the testimony and pledge of the love of God; for the love of God was fully poured out on him, that from him it might flow to his members.",
+            "He means that we should continually enjoy that love with which he once loved us, and, therefore, that we ought to take care not to deprive ourselves of it."
+        ],
+        "Philip Schaff": [
+            "The main thought of that verse was, as we have seen, that of union and communion with the Father and the Son; but the main element of that communion is love, love which flows forth from the Father to the Son, and then from the Son to the members of His body, thus forming that community of love so often spoken of in these chapters.",
+            "In this love, then (it follows as a necessary consequence), we must \u2018abide\u2019 if we would experience its fruits.",
+            "It is hardly necessary to say that \u2018My love\u2019 is the Lord\u2019s love to His people, not theirs to Him."
+        ],
+        "Archibald T. Robertson": [
+            "Abide (\u03bc\u03b5\u03b9\u03bd\u03b1\u03c4\u03b5). Constative first aorist active imperative of \u03bc\u03b5\u03bd\u03c9, summing up the whole.",
+            "In my love (\u03b5\u03bd \u03c4\u03b7 \u03b1\u03b3\u03b1\u03c0\u03b7 \u03c4\u03b7 \u03b5\u03bc\u03b7). Subjunctive possessive pronoun, 'in the love that I have for you.'",
+            "Our love for Christ is the result of Christ's love for us and is grounded at bottom in the Father's love for the world (John 3:16)."
+        ],
+        "John Gill": [
+            "And there is a likeness between the Father's love to him, and his love to his disciples and followers: as his Father loved him from everlasting, so did he love them; as his Father loved him with a love of complacency and delight, so did he, and so does he love them.",
+            "And as his Father loved him with a special and peculiar affection, with an unchangeable, invariable, constant love, which will last for ever, in like manner does Christ love his people.",
+            "Continue ye in my love: meaning either in his love to them, which, as he always continues in it without any variableness or shadow of turning, so he would have them continue in believing their interest in it, prizing and valuing it, in imitating and remembering it; or else in their love to him, to his person, to his people, to his Gospel, to his ordinances, ways, and worship, which he knew was liable to wax cold, though it could not be lost."
+        ],
+        "John Wesley": [
+            "Abide ye in my love \u2014 Keep your place in my affection.",
+            "See that ye do not forfeit that invaluable blessing.",
+            "How needless a caution, if it were impossible for them not to abide therein?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Continue in the love of Christ, remaining in the possession and enjoyment of His love for you. Reflect upon the love that flows from the Father to the Son, and from the Son to His disciples, forming a community of love. This love is not simply our love for Christ or His love for us, but the Christ-principle of love that encompasses both. Just as Christ abides in the Father's love, we are called to abide in His love, valuing and treasuring it. Remember that our love for Christ is a result of His love for us, a love grounded in the Father's love for the world. Let us therefore not deprive ourselves of this love, but instead cling to it and never forfeit this invaluable blessing.",
+            "wordCount": 130,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.5021922057385453,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.54,
+            "commentatorTierSimilarities": [
+                29.25,
+                37.98,
+                32.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Continuing in the love of Christ means remaining in the possession and enjoyment of His love, which is both the love of the disciple for Christ and the love of Christ for the disciple. It is the Christ-principle of love that encompasses both. Just as Christ abides in the Father's love, we are called to abide in His love, valuing and treasuring it. Our love for Christ is a result of His love for us, grounded in the Father's love for the world. Let us therefore not deprive ourselves of this love, but instead cling to it and never forfeit this invaluable blessing.",
+            "wordCount": 106,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.44780112151635,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.73,
+            "commentatorTierSimilarities": [
+                30.9,
+                36.69,
+                32.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To continue in the love of Christ is to remain in the possession and enjoyment of His love, which includes both the disciple's love for Christ and Christ's love for the disciple. It is the Christ-principle of love that encompasses both. Just as Christ abides in the Father's love, we are called to abide in His love, valuing and treasuring it. Our love for Christ is a result of His love for us, grounded in the Father's love for the world. Let us therefore cling to this love, never forfeiting this invaluable blessing.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 2.4782048968306887,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.74,
+            "commentatorTierSimilarities": [
+                30.73,
+                37.48,
+                31.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Remaining in the love of Christ involves staying in the possession and enjoyment of His love, which embodies both the disciple's love for Christ and Christ's love for the disciple. This love signifies the Christ-principle of love that encompasses both aspects. Just as Christ abides in the Father's love, we are called to remain in His love, valuing and cherishing it. Our love for Christ is a product of His love for us, rooted in the Father's love for the world. Let us hold on to this love, never forfeiting this priceless blessing.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.4725145674197675,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.55,
+            "commentatorTierSimilarities": [
+                30.12,
+                37.96,
+                31.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Remaining in the love of Christ requires staying in the possession and enjoyment of His all-encompassing love. This includes both the disciple's love for Christ and Christ's love for the disciple. Just as Christ abides in the Father's everlasting and unchanging love, we are urged to abide in His love, recognizing its immeasurable value. Our love for Christ stems from His love for us, grounded in the Father's love for the world. Let us therefore hold fast to this intimate love, never losing sight of its tremendous significance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.4438299867898747,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.6,
+            "commentatorTierSimilarities": [
+                30.68,
+                37.17,
+                32.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:10:22",
+    "verseRef": "John 11:22",
+    "bestBHT": {
+        "bht": "Martha's plea to Jesus to raise her dead brother showcases her faith in His power to perform miracles, even though she may not fully grasp His divinity. Her emphasis on God reflects her belief in their connection and unity. Despite her vague expression, Martha's plea reveals her hope that Jesus will ask God for the restoration of her brother's life, demonstrating her confidence in His ability to bring about such a remarkable miracle. Her faith shines through as she trusts that God will grant whatever Jesus requests.",
+        "wordCount": 90,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.9709184921713558,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+        "commentatorTierSimilarities": [
+            32.74,
+            28.02,
+            39.24
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "She seems to express some expectation of the raising of her brother; but it is too great a thing for her to venture to mention.",
+            "I can hardly see, as some have done, an unworthy spirit in the form of her expression.",
+            "The repetition of the word God is to be noticed, as expressive of her faith in the unity of purpose and action between Jesus and God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Energetic characters are usually sanguine, the rainbow of hope peering through the drenching cloud.",
+            "Whatsoever thou wilt ask of God, God will give it thee\u2014that is 'even to the restoration of my dead brother to life,' for that plainly is her meaning.",
+            "Even to the restoration of my dead brother to life, for that plainly is her meaning, as the sequel shows."
+        ],
+        "Albert Barnes": [
+            "Whatever is necessary to our consolation that thou wilt ask, thou canst obtain.",
+            "It is possible that she meant gently to intimate that he could raise him up and restore him again to them."
+        ],
+        "Marvin Vincent": [
+            "Wilt ask of God [\u03b1\u03b9\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03bd \u03b8\u03b5\u03bf\u03bd]. The verb aijtew is used of the asking of an inferior from a superior.",
+            "Erwtaw is to ask on equal terms, and hence is always used by Christ of His own asking from the Father, in the consciousness of His equal dignity.",
+            "Hence Martha, as Trench observes, 'plainly reveals her poor, unworthy conception of His person, that she recognizes in Him no more than a prophet, when she ascribes that asking [\u03b1\u03b9\u03c4\u03b5\u03b9\u03c3\u03b8\u03b1\u03b9] to Him which He never ascribes to Himself' (\" Synonyms \")."
+        ],
+        "Philip Schaff": [
+            "The presence of the great Friend and Helper seems to give a sudden quickening to Martha's faith.",
+            "These words (which no doubt sorrow of heart and painful waiting had almost banished from her thought) surely gave ground for hope \u2018even now.\u2019",
+            "Her words are vague; and the later narrative seems to prove that no definite expectation was present to her mind."
+        ],
+        "Archibald T. Robertson": [
+            "Even now I know.",
+            "As many things as thou dost ask of God.",
+            "God will give."
+        ],
+        "John Gill": [
+            "But I know that even now, at this distance of time, though her brother had been in the grave four days.",
+            "She was persuaded that he had great interest with God, and that whatever he desired of him was granted to him.",
+            "Though she does not mention the resurrection of her brother, yet it seems to be what she had in view."
+        ],
+        "John Wesley": [
+            "Whatsoever thou wilt ask, God will give it thee \u2014 So that she already believed he could raise him from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Martha, in her plea to Jesus, expresses her expectation and faith in His power, even though she may not fully comprehend His divinity. Her repeated mention of God reflects her belief in the unity between Jesus and God, while her use of the verb ask implies her recognition of Jesus' superior position. Although her words may seem vague and her expectation unclear, there is a glimmer of hope in her plea for whatever Jesus asks of God, even if it means the restoration of her dead brother to life. Martha's faith in Jesus' ability to perform miracles is evident, as she believes that whatever He will ask of God, God will grant.",
+            "wordCount": 113,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.0456044116365852,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.36,
+            "commentatorTierSimilarities": [
+                36.32,
+                26.93,
+                36.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Martha expresses her faith in Jesus' power, acknowledging the unity between Him and God. Though her words may appear uncertain, she seeks relief and believes that whatever Jesus asks of God, He will receive. Her plea reveals her hope for the restoration of her dead brother's life, demonstrating her trust in Jesus' ability to perform miracles. Martha's faith in His authority is evident, as she believes that God will grant Him whatever He requests.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9495779861120228,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+            "commentatorTierSimilarities": [
+                33.13,
+                28.07,
+                38.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Martha's plea to Jesus is a testament to her faith and expectation of His miraculous power. While she may not fully understand His divinity, she acknowledges the unity between Jesus and God. Her use of the verb ask reveals her recognition of Jesus' superior position. Although her words may appear uncertain or vague, there is a glimmer of hope in her plea for whatever Jesus asks of God, even if it means the restoration of her dead brother to life. This demonstrates Martha's faith in Jesus' authority and her belief that God will grant whatever He requests.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9644247659861942,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                35.2,
+                27.83,
+                36.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Martha's plea to Jesus reflects her faith in His power and her expectation of a miracle. Despite not fully comprehending His divinity, she acknowledges the unity between Jesus and God. By repeatedly mentioning God, she demonstrates her belief in their shared purpose and action. Martha's use of the verb ask indicates her recognition of Jesus' superior position. Her plea expresses the hope and trust that whatever Jesus seeks from God, even the restoration of her dead brother, God will grant.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.873839242253709,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                35.8,
+                27.63,
+                36.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Martha's plea to Jesus to raise her dead brother showcases her faith in His power to perform miracles, even though she may not fully grasp His divinity. Her emphasis on God reflects her belief in their connection and unity. Despite her vague expression, Martha's plea reveals her hope that Jesus will ask God for the restoration of her brother's life, demonstrating her confidence in His ability to bring about such a remarkable miracle. Her faith shines through as she trusts that God will grant whatever Jesus requests.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9709184921713558,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                32.74,
+                28.02,
+                39.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

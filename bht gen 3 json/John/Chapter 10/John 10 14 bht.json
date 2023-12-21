@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:09:53",
+    "verseRef": "John 10:14",
+    "bestBHT": {
+        "bht": "Jesus, as the Good Shepherd, possesses an intimate, all-encompassing knowledge of his sheep. This knowledge is not superficial but corresponds to the Father's knowledge of him, bound together by holy and inseparable love. It is an active and penetrating knowledge that infuses believers with his power and life. They, in turn, passively receive his life and light, resulting in an assimilation of their souls to him and obedience to his commands. This reciprocal knowledge creates a profound bond of love and loyalty between Jesus and his sheep.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.1046516761737086,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.32,
+        "commentatorTierSimilarities": [
+            32.24,
+            35.12,
+            32.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The knowledge of His sheep here spoken of is more than the mere knowing by name; it is a knowledge corresponding to the Father\u2019s knowledge of Him;\u2014i. e. entire, perfect, all-comprehensive.",
+            "Their knowledge of Him corresponds to His of the Father,\u2014i. e. is intimate, direct, and personal.",
+            "Both being bound together by holy and inseparable Love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Redeemer's knowledge of us is the active element, penetrating us with His power and life; that of believers is the passive principle, the reception of His life and light.\" ",
+            "In this reception, however, an assimilation of the soul to the sublime object of its knowledge and love takes place; and thus an activity, though a derived one, is unfolded, which shows itself in obedience to His commands.",
+            "From this mutual knowledge Jesus rises to another and loftier reciprocity of knowledge."
+        ],
+        "Albert Barnes": [
+            "Know my sheep - Know my people, or my church. The word 'know' here is used in the sense of affectionate regard or love. It implies such a knowledge of their wants, their dangers, and their characters, as to result in a deep interest in their welfare.",
+            "Jesus knows the hearts, the dangers, and the wants of his people, and his kindness as their shepherd prompts him to defend and aid them.",
+            "They have seen their sins, and dangers: and wants; they have felt their need of a Saviour; they have come to him, and they have found him and his doctrines to be such as they need, and they have loved him."
+        ],
+        "Marvin Vincent": [
+            "Am known of mine [\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03bf\u03bc\u03b1\u03b9 \u03c5\u03c0\u03bf \u03c4\u03c9\u03bd \u03b5\u03bc\u03c9\u03bd] . The best texts read, ginwskousi me ta ejma, mine own know me. So Rev."
+        ],
+        "John Calvin": [
+            "In the former clause, he again holds out his love towards us; for knowledge proceeds from love, and is accompanied by care.",
+            "It means also that he utterly disregards all who do not obey the Gospel, as he repeats in the second clause.",
+            "He confirms what he had formerly said, that - on the other hand - he is known by the sheep."
+        ],
+        "Archibald T. Robertson": [
+            "Effective repetition.",
+            "Jesus as the Good Shepherd knows his sheep by name... they have experimental knowledge.",
+            "Here... lies the secret of their love and loyalty."
+        ],
+        "John Gill": [
+            "Christ has an universal, special, distinct, and exact knowledge of all his sheep...",
+            "Christ's own approve of him, as their shepherd and their Saviour, and desire no other...",
+            "They love him above all, in the sincerity of their souls, and with a love as strong as death..."
+        ],
+        "John Wesley": [
+            "I know my sheep \u2014 With a tender regard and special care: and am known of mine - With a holy confidence and affection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, as the Good Shepherd, possesses a deep, intimate knowledge of his sheep. This knowledge goes beyond mere recognition by name; it is a comprehensive, perfect understanding. It is a knowledge that corresponds to the Father's knowledge of him, marked by a holy and inseparable love. The Redeemer's knowledge actively permeates the sheep with his power and life, while the believers' knowledge is a passive reception of his life and light. As they receive and love him, their souls are assimilated to him, resulting in an activity that manifests through obedience to his commands. This mutual knowledge fosters a reciprocal relationship where Jesus is known by his own. The sheep, who have experienced this personal knowledge of Jesus, respond with love and loyalty.",
+            "wordCount": 125,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 2.1266659049418224,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                33.62,
+                33.0,
+                33.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, as the Good Shepherd, has a knowledge of his sheep that goes beyond mere recognition by name. This knowledge is complete, perfect, and loving, mirroring the Father's knowledge of him. He penetrates the sheep with his power and life, while believers passively receive his life and light. Through this mutual knowledge, an assimilation of souls to Jesus occurs, leading to obedience to his commands. In return, Jesus is known and loved by his own, resulting in their loyalty and devotion.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9929725124968618,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                31.73,
+                33.76,
+                34.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, as the Good Shepherd, possesses an intimate, all-encompassing knowledge of his sheep. This knowledge is not superficial but corresponds to the Father's knowledge of him, bound together by holy and inseparable love. It is an active and penetrating knowledge that infuses believers with his power and life. They, in turn, passively receive his life and light, resulting in an assimilation of their souls to him and obedience to his commands. This reciprocal knowledge creates a profound bond of love and loyalty between Jesus and his sheep.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.1046516761737086,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.32,
+            "commentatorTierSimilarities": [
+                32.24,
+                35.12,
+                32.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the Good Shepherd, Jesus possesses a deep understanding of his sheep that is rooted in love. His knowledge extends beyond a mere acquaintance and aligns with the Father's knowledge of him. This knowledge is active, empowering the sheep with his life and light. The sheep, in turn, receive this knowledge and experience an assimilation of their souls to Christ. This mutual knowledge fosters a bond of love and loyalty, as evidenced by their obedience to his commands and their sincere devotion to him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.0790044267407826,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.47,
+            "commentatorTierSimilarities": [
+                30.92,
+                34.53,
+                34.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Good Shepherd, Jesus, possesses an extensive, all-inclusive knowledge of his sheep. This knowledge goes beyond a mere acquaintance and mirrors the intimate knowledge between the Father and the Son. It is a knowledge marked by a boundless love, an active force that infuses believers with his power and life. As the sheep receive and love him, their souls are transformed, leading to obedience and a reciprocated knowledge of Jesus. This profound bond nurtures a deep love and unwavering loyalty in his followers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.038573621911547,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.12,
+            "commentatorTierSimilarities": [
+                32.01,
+                34.61,
+                33.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

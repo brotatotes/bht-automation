@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:11:35",
+    "verseRef": "John 12:47",
+    "bestBHT": {
+        "bht": "Jesus came not primarily to judge, but to save the world. While he will ultimately judge, his main purpose is to offer salvation to all. He emphasizes the importance of keeping and guarding his words, so that they may not be lost from memory and life. It is through faith in his message of salvation that individuals can be saved, and Jesus offers this opportunity to all, even those who initially reject him. He delays pronouncing judgment, instead extending a chance for all to be saved.",
+        "wordCount": 86,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.7591766118903167,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+        "commentatorTierSimilarities": [
+            21.09,
+            37.43,
+            41.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "47.] See ch. iii. 17; v. 45; viii. 15."
+        ],
+        "Albert Barnes": [
+            "It was not his present purpose to condemn men. He would come to condemn the guilty at a future time.",
+            "At present he came to save them.",
+            "Hence he did not now even pronounce decisively on the condition of those who rejected him, but still gave them an opportunity to be saved."
+        ],
+        "Marvin Vincent": [
+            "Believe not [\u03bc\u03b7 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03b7]. The best texts read fulaxh, keep (them).\" ",
+            "Came [\u03b7\u03bb\u03b8\u03bf\u03bd]. The aorist tense, pointing to the purpose of the coming, as I am come (ver. 46) to the result.\" ",
+            "Both tenses are found in John 8:42; John 16:28."
+        ],
+        "John Calvin": [
+            "He delays to pronounce judgment on them, because, on the contrary, he has come for the salvation of all.",
+            "Why then does Christ not choose to condemn them? It is because he lays aside for a time the office of a judge, and offers salvation to all without reserve.",
+            "No man, therefore, is condemned on account of having despised the Gospel, except he who, disdaining the lovely message of salvation, has chosen of his own accord to draw down destruction on himself."
+        ],
+        "Philip Schaff": [
+            "To 'keep' the sayings or words of Jesus is a phrase which often meets us in this Gospel: 'guard' is an uncommon word with the Evangelist, found only here and in John 12:25, and (in conjunction with 'keep') in chap. John 17:12.\" ",
+            "That the sayings may be kept and not lost from memory and life, they must be guarded with all care, and watchfully observed.",
+            "I judge him not: for I came not to judge the world, but to save the world."
+        ],
+        "Archibald T. Robertson": [
+            "Not so much to judge, but also to save.",
+            "Exaggerated contrast again, 'not so much to judge, but also to save.'",
+            "And yet Jesus does judge the world inevitably, but his primary purpose is to save the world."
+        ],
+        "John Gill": [
+            "Men may hear the Gospel of Christ, and not understand it; and they may understand it literally and grammatically, though not spiritually and experimentally, and not believe it.",
+            "I do not accuse him to the Father, nor do I condemn him, nor shall I take vengeance on him for so doing.",
+            "Christ, at his first coming, came not under the character of a judge, but a Saviour; wherefore suitable to his character, and the end of his coming, he would not accuse, condemn, or judge any man."
+        ],
+        "John Wesley": [
+            "I am not come to judge the world. See, Christ came to save even them that finally perish!",
+            "Even these are a part of that world, which he lived and died to save.",
+            "Christ came to save even them that finally perish!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares in this verse that he did not come primarily to judge the world, but rather to save it. While he does acknowledge that he will ultimately judge the world, his main purpose is to offer salvation to all. He emphasizes the importance of keeping and guarding his words, so that they may not be lost from memory and life. It is through faith in his message of salvation that individuals can be saved, and Jesus offers this opportunity to all, even those who initially reject him. He delays pronouncing judgment, instead extending a chance for all to be saved. Jesus came as a savior, not a judge, and his desire is to save even those who may ultimately perish.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.7997893262736304,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                20.6,
+                36.97,
+                42.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus came not primarily to judge, but to save the world. While he will eventually judge, his main purpose is salvation. Keeping and guarding his words is crucial for their preservation and application. Jesus offers the opportunity of salvation to all, even those who reject him initially. He delays judgment, extending a chance for everyone to be saved. Jesus' role is that of a savior, not a judge, and he desires to save even those who may ultimately perish.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.7509685324955493,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                21.84,
+                35.6,
+                42.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus emphasizes that his primary purpose in coming to the world was not to judge, but rather to save. While he acknowledges that judgment will eventually come, he offers the opportunity of salvation to all. He urges the importance of carefully guarding and observing his words, for they hold the key to eternal life. Jesus extends mercy even to those who initially reject him, giving them the chance to be saved. His role is that of a savior, not a judge, and his ultimate desire is to save all, even those who may ultimately perish.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7556738938944556,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                21.41,
+                36.27,
+                42.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares that his primary purpose in coming to the world was not to judge, but to save it. While he will inevitably judge, his main focus is on extending salvation. He emphasizes the importance of guarding and observing his teachings, as they hold the key to eternal life. Even those who initially reject him are given an opportunity to be saved. Jesus functions as a savior, not a judge, and his ultimate desire is to save all, even those who may ultimately perish.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.744615851790194,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                23.28,
+                34.61,
+                42.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus came not primarily to judge, but to save the world. While he will ultimately judge, his main purpose is to offer salvation to all. He emphasizes the importance of keeping and guarding his words, so that they may not be lost from memory and life. It is through faith in his message of salvation that individuals can be saved, and Jesus offers this opportunity to all, even those who initially reject him. He delays pronouncing judgment, instead extending a chance for all to be saved.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.7591766118903167,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+            "commentatorTierSimilarities": [
+                21.09,
+                37.43,
+                41.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

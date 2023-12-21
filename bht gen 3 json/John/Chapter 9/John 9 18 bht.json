@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:09:23",
+    "verseRef": "John 9:18",
+    "bestBHT": {
+        "bht": "Summoned by the Jews, who were hostile towards Jesus, the parents of the man who had received his sight testified only to their son's identity and birth-blindness, leaving him as the competent witness for the cure. Fearful of being excommunicated by the Jews, they prevaricated by saying they did not know who had opened their son's eyes. The Jews refused to believe due to their theological views conflicting with the facts and their own stupidity. Their voluntary blindness and malice towards Christ serve as a warning against obstructing our own faith.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.9802552700318374,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+        "commentatorTierSimilarities": [
+            36.95,
+            31.92,
+            31.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The hostile party (the Jews,\u2014those in authority among these variously-minded Pharisees) disappointed at his direct testimony against them...",
+            "Betake themselves to sifting more closely the evidence of the fact.",
+            "The parents are summoned as witnesses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Foiled by the testimony of the young man himself, they hope to throw doubt on the fact by close questioning his parents, who, perceiving the snare laid for them, ingeniously escape it by testifying simply to the identity of their son, and his birth-blindness, leaving it to himself, as a competent witness, to speak as to the cure.\" ",
+            "They prevaricated, however, in saying they 'knew not who had opened his eyes,' for 'they feared the Jews,' who had come to an understanding...that whoever owned Him as the Christ would be put out of the synagogue\u2014that is, not simply excluded, but excommunicated.",
+            "They feared the Jews...that whoever owned Him as the Christ would be put out of the synagogue."
+        ],
+        "Marvin Vincent": [
+            "The Jews represent that section which was hostile to Jesus.",
+            "Of him that had received his sight [\u03b1\u03c5\u03c4\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b1\u03b2\u03bb\u03b5\u03c8\u03b1\u03bd\u03c4\u03bf\u03c2] .",
+            "Properly, 'of the very one who had received.'"
+        ],
+        "John Calvin": [
+            "There are two things here which ought to be observed; that they do not believe that a miracle has been performed, and that, being wilfully blinded through a perverse hatred of Christ, they do not perceive what is manifest.",
+            "If the reason be asked, there can be no doubt that their blindness was voluntary. For what prevents them from seeing an obvious work of God placed before their eyes; or, after having been fully convinced, what prevents them from believing what they already know, except that the inward malice of their heart keeps their eyes shut?",
+            "Warned by such examples, let us learn not to bring upon ourselves those obstacles which drive us away from the faith."
+        ],
+        "Philip Schaff": [
+            "The change from \u2018the Pharisees\u2019 to \u2018the Jews\u2019 is very striking, and must have special significance.",
+            "'The Jews' is not with John a designation of all the enemies of Jesus; it denotes the representatives of Jewish thought and action, the leaders of the people.",
+            "So serious had the case become that the rulers themselves engaged in it: more than this, we have now done with inquiry in any true sense, and persecution has taken its place."
+        ],
+        "Archibald T. Robertson": [
+            "Did not believe...conflicted with their theological views of God and the Sabbath.",
+            "So they refused belief 'until they called the parents'...to cover up their own stupidity.",
+            "The facts told...conflicted with their theological views...they refused belief."
+        ],
+        "John Gill": [
+            "They imagine there was a fraud in the case, that it was collusion between Jesus and this man.\" ",
+            "They endeavored to strengthen themselves and others.",
+            "They might get something out of them, which might detect the supposed fraud, and bring Jesus under disgrace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews, who were in authority and hostile towards Jesus, summoned the parents of the man who had received his sight to question them about the miracle. Fearing excommunication from the synagogue if they acknowledged Jesus as the Christ, the parents cleverly testified only to the fact that their son was indeed their own and had been born blind, leaving the man himself to testify about his cure. The Jews, conflicted by the facts that conflicted with their theological views, refused to believe until they called the parents, attempting to cover up their own stupidity. It is evident that their blindness and refusal to believe were a result of their voluntary perversity and malice towards Christ. Let us learn from their example and not place obstacles that drive us away from faith.",
+            "wordCount": 132,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 1.842407770233993,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                34.66,
+                26.79,
+                38.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Summoned by the hostile Jews, the parents of the man who received his sight testified carefully to avoid acknowledging Jesus as the Christ, fearing excommunication from the synagogue. The Jews, conflicted by the facts that contradicted their theological views, refused to believe until they called the parents, attempting to cover up their own stupidity. Their blindness and refusal to believe were a result of their voluntary perversity and malice towards Christ, serving as a cautionary example to us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9371834809269954,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                37.5,
+                29.82,
+                32.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Summoned by the Jews, who were hostile towards Jesus, the parents of the man who had received his sight testified only to their son's identity and birth-blindness, leaving him as the competent witness for the cure. Fearful of being excommunicated by the Jews, they prevaricated by saying they did not know who had opened their son's eyes. The Jews refused to believe due to their theological views conflicting with the facts and their own stupidity. Their voluntary blindness and malice towards Christ serve as a warning against obstructing our own faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.9802552700318374,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                36.95,
+                31.92,
+                31.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews, hostile towards Jesus, summoned the parents of the man who received his sight as witnesses. Fearing excommunication from the synagogue, the parents evade acknowledging Jesus as the Christ, testifying only to their son's identity and blindness at birth. The Jews refuse to believe the facts, conflicting with their theological views; they even attempt to cover up their own stupidity. Their voluntary perversity and malice serve as an example to not hinder our faith.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9057986065893882,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                37.8,
+                30.25,
+                31.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Summoned by the hostile Jews, the parents of the man who had received his sight testify to their son's identity and birth-blindness, cleverly avoiding acknowledging Jesus as the Christ. The Jews' refusal to believe is rooted in their theological views conflicting with the presented facts, which results in their attempt to cover up their own foolishness. This deliberate blindness and malice provide a cautionary lesson for us, reminding us not to obstruct our faith with self-imposed hurdles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.84144572420794,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                34.63,
+                32.06,
+                33.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

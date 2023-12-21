@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:09:38",
+    "verseRef": "John 10:13",
+    "bestBHT": {
+        "bht": "The comparison between the hireling and the good shepherd highlights a significant contrast. The hireling, motivated by wages and lacking care for the sheep, takes flight when faced with danger. On the other hand, the good shepherd serves as the entrance to the flock, ensuring their safety and leading them to safety. While the hireling prioritizes personal gain, God genuinely cares for His flock even during challenging times. The hireling's true nature is exposed when tested, revealing their lack of devotion to the sheep. Conversely, the good shepherd demonstrates authentic love and concern for the sheep, tending to their needs with a shepherd's heart.",
+        "wordCount": 106,
+        "quoteTokenProportion": 29.85,
+        "qualityScore": 1.5937020686003636,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+        "commentatorTierSimilarities": [
+            20.92,
+            29.64,
+            49.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7-14. I am the door of the",
+            "\tsheep\u2014that is, the way in to the fold, with all blessed",
+            "\tprivileges, both for shepherds and sheep (compare John 14:6;",
+            "\tEphesians 2:18)."
+        ],
+        "Albert Barnes": [
+            "Because he is a hireling - Because he regards only his wages. He feels no special interest in the flock."
+        ],
+        "Marvin Vincent": [
+            "The hireling fleeth.",
+            "The sheep are not a care to him.",
+            "The contrast is suggestive."
+        ],
+        "John Calvin": [
+            "The hireling fleeth. The reason is, because he careth not for the sheep.\" ",
+            "His heart is not moved by the scattering of the flock, because he thinks that it does not at all belong to him.\" ",
+            "He who looks to the hire, and not to the flock, though he may deceive others, when the Church is in a state of tranquillity, yet when he comes into the contest, will give proof of his treachery."
+        ],
+        "Archibald T. Robertson": [
+            "And only that, without the shepherd heart that loves the sheep.\" ",
+            "This use of the impersonal \u03bc\u03b5\u03bb\u03b5 (present active indicative) is quite common, as in Matthew 22:16.",
+            "But God does care (1 Peter 5:7)."
+        ],
+        "John Gill": [
+            "The hireling fleeth, because he is an hireling,...and careth not for the sheep.",
+            "He shall feed his flock like a shepherd, not as he that feeds the flock of others, for the hire they give him, but as a shepherd that feeds his own flock.",
+            "The good shepherd has [the sheep's] good at heart; but the hireling does not care for them."
+        ],
+        "John Wesley": [
+            "The hireling fleeth because he is a hireling \u2014 Because he loves the hire, not the sheep."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The contrast between the hireling and the good shepherd in this verse is quite profound. While the hireling flees and shows no concern for the sheep, the good shepherd is the door of the sheep, ensuring their safety and leading them into the fold. The hireling's lack of care for the flock is evident in his willingness to abandon them in times of trouble. However, God, unlike the hireling, does care for His sheep. Although the hireling may deceive others in times of tranquillity, his true nature is revealed in times of adversity. It is clear that the hireling's primary focus is on his own gain rather than the well-being of the sheep. In contrast, the good shepherd demonstrates a deep love and genuine care for the sheep, attending to their needs and guiding them with a shepherd's heart.",
+            "wordCount": 143,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.7353483813657125,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.04,
+            "commentatorTierSimilarities": [
+                23.0,
+                27.73,
+                49.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The contrast between the hireling and the good shepherd in this passage is striking. The hireling, motivated solely by wages, flees and shows no concern for the sheep. On the other hand, the good shepherd, who is the door of the sheep, ensures their safety and leads them into the fold. God, unlike the hireling, genuinely cares for His sheep and is attentive to their needs. The hireling's true nature is revealed in times of adversity, as he prioritizes his own gain over the well-being of the flock. In contrast, the good shepherd demonstrates a deep love and sincere care for the sheep, attending to their needs with a shepherd's heart.",
+            "wordCount": 114,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7840654863653747,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                22.47,
+                29.86,
+                47.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parallel between the hireling and the good shepherd in this statement is truly revealing. While the hireling, driven by selfish gain and lacking genuine care, quickly flees, the good shepherd, as the entrance to the sheep, ensures their well-being and leads them to safety. God, in stark contrast to the hireling, truly cares for His flock and takes their needs to heart. The hireling's true nature becomes apparent during troubled times, when their focus on personal gain is exposed. In contrast, the good shepherd displays a profound love and authentic concern for the sheep, tending to their needs with a shepherd's heart.",
+            "wordCount": 106,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5746470939715278,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                23.06,
+                27.44,
+                49.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The comparison between the hireling and the good shepherd highlights a significant contrast. The hireling, motivated by wages and lacking care for the sheep, takes flight when faced with danger. On the other hand, the good shepherd serves as the entrance to the flock, ensuring their safety and leading them to safety. While the hireling prioritizes personal gain, God genuinely cares for His flock even during challenging times. The hireling's true nature is exposed when tested, revealing their lack of devotion to the sheep. Conversely, the good shepherd demonstrates authentic love and concern for the sheep, tending to their needs with a shepherd's heart.",
+            "wordCount": 106,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.5937020686003636,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+            "commentatorTierSimilarities": [
+                20.92,
+                29.64,
+                49.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The striking contrast between the hireling and the good shepherd becomes evident in this passage. The hireling, driven solely by his own gain, abandons the sheep in times of trouble and shows no care for them. In contrast, the good shepherd serves as the entrance to the sheep, ensuring their safety and leading them to the fold. While the hireling's heart is indifferent to the flock, God's compassionate love for His sheep is unwavering. The hireling's true nature is revealed when faced with adversity, emphasizing the genuine care the good shepherd has for his sheep.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8098694376316429,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                22.78,
+                26.7,
+                50.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

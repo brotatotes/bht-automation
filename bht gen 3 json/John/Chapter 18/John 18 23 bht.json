@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:14:14",
+    "verseRef": "John 18:23",
+    "bestBHT": {
+        "bht": "Jesus, in response to the high priest's accusation, asserts that witnesses must testify if He has indeed spoken evil. This reveals that His command to turn the other cheek does not prohibit calmly and patiently addressing unjust oppression. Even in the midst of His trial, Jesus emphasizes the importance of following proper legal procedures and seeking justice. By demanding proof, He affirms His entitlement to fairness and challenges any unjust treatment. Jesus' words convey the solemnity of His position and the need for evidence in all accusations.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.6718206016801798,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+        "commentatorTierSimilarities": [
+            25.38,
+            40.67,
+            33.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord here gives us the best interpretation of Matt. v. 39\u2014that it does not exclude the remonstrating against unjust oppression, provided it be done calmly and patiently.",
+            "Bear witness in a legal way.",
+            "This latter supposition has the force of an assertion, that it was well."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If I spoke\" evil, in reply to the high priest.",
+            "Well\" seems to challenge more than this as due to His remonstrance.",
+            "This shows that :- is not to be taken to the letter."
+        ],
+        "Albert Barnes": [
+            "If there was any disrespect to the office, and lack of regard for the law which appointed him, then testify to the fact, and let punishment be inflicted according to the law.\" ",
+            "While an accused person is on trial he is under the protection of the court, and has a right to demand that all legal measures shall be taken to secure his rights.",
+            "This shows that his precept that when we are smitten on one cheek we should turn the other... is consistent with a firm demand that justice should be done us."
+        ],
+        "John Calvin": [
+            "Christ complains, therefore, that a grievous injury has been clone to him, if he has committed no offense, and that, even if he has committed an offense, still they ought to proceed in a lawful manner, and not with rage and violence.",
+            "In Christian patience it is not always the duty of him who has been struck to brook the injury done him, without saying a word, but, first, to endure it with patience, and, secondly, to give up all thoughts of revenge, and to endeavor to overcome evil by good.",
+            "He means nothing else than that each of us should be more ready to bear a second injury than to take revenge for the first; so that there is nothing to prevent a Christian man from expostulating, when he has been unjustly treated, provided that his mind be free from rancour, and his hand from revenge."
+        ],
+        "Philip Schaff": [
+            "\u2018Bear witness\u2019 here is certainly not equivalent to \u2018prove by bearing testimony in a regular manner,\u2019 an injunction which would have been out of place. It is simply the solemn word demanded by the circumstances of the moment.",
+            "Jesus is where He is by Divine appointment; and everything relating to His present state bears impress of the solemnity of His position.",
+            "Mere historical detail, such as might satisfy curiosity, is of subordinate interest to the Evangelist. The fact, however, that this is the case is worthy of notice. It helps to throw light upon that structure of the narrative as a whole which we have not yet examined."
+        ],
+        "Archibald T. Robertson": [
+            "Then prove it, that is all.",
+            "Jesus is clearly entitled to proof of such a charge if there is any.",
+            "But if well... The same condition, but with a challenging question as the apodosis."
+        ],
+        "John Gill": [
+            "If I have spoken evil, bear witness of the evil: meaning, either if he had, to his knowledge, delivered any wicked doctrine in the course of his ministry, or had at that time said any evil thing of the high priest, or any other person, he desires that he would make it to appear, and give proper proof and evidence of it.",
+            "But if well, why smitest thou me? If he had said nothing contrary to truth, reason, and good manners, then he ought not to be used and treated in such an injurious way.",
+            "And moreover, the officer ought to have been corrected by the Council and have been made to pay the two hundred 'zuzim,' or pence, the line for such an affront, according to the Jewish canon, or more, according to the dignity of the person abused."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, Jesus responds to the high priest's accusation by stating that if He has spoken evil, there should be witnesses to testify against Him. This demonstrates that Jesus' instruction to turn the other cheek does not forbid calmly and patiently remonstrating against unjust oppression. Even when facing trial, Jesus invokes His right to demand justice within the legal framework. His words highlight the solemnity of His position and the importance of following proper procedures. Jesus calls for proof to be presented, indicating that He should not be subjected to violence without just cause.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.6003297511829382,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.55,
+            "commentatorTierSimilarities": [
+                22.83,
+                41.39,
+                35.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus defends Himself against the high priest's accusation, stating that if He has spoken evil, there should be witnesses to testify against Him. His response clarifies that calmly and patiently remonstrating against unjust oppression is not contradictory to His teaching. It is a reminder that even during His trial, Jesus upholds the importance of adhering to legal procedures and demanding justice. This underscores the gravity of His position and the need for proof when allegations are made. By challenging those who strike Him with a legitimate question, Jesus asserts His right to be treated with fairness and respect.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.637694964808415,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                25.39,
+                39.19,
+                35.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in response to the high priest's accusation, asserts that witnesses must testify if He has indeed spoken evil. This reveals that His command to turn the other cheek does not prohibit calmly and patiently addressing unjust oppression. Even in the midst of His trial, Jesus emphasizes the importance of following proper legal procedures and seeking justice. By demanding proof, He affirms His entitlement to fairness and challenges any unjust treatment. Jesus' words convey the solemnity of His position and the need for evidence in all accusations.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.6718206016801798,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.93,
+            "commentatorTierSimilarities": [
+                25.38,
+                40.67,
+                33.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus responds to the high priest\u2019s accusation, asserting that witnesses should testify if He has spoken evil. This confirms that the instruction to turn the other cheek does not prevent calmly addressing unjust oppression. Even during His trial, Jesus upholds the significance of following legal procedures and seeking justice. By demanding proof, He establishes His right to fair treatment and questions any unjust actions. His words reflect the gravity of His position and emphasize the necessity of evidence in accusations.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.59005631647883,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.21,
+            "commentatorTierSimilarities": [
+                24.85,
+                42.34,
+                32.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, facing an accusation from the high priest, calls for witnesses to testify in case He has spoken evil. This underscores that His teaching to turn the other cheek does not prohibit calmly addressing unjust oppression. Jesus exemplifies the importance of adhering to legal procedures and seeking justice, even during His trial. By demanding proof, He asserts His right to fair treatment and challenges any unjust actions. His words carry the weight of His position and emphasize the need for evidence in accusations.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5670548209604163,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+            "commentatorTierSimilarities": [
+                24.53,
+                42.8,
+                32.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

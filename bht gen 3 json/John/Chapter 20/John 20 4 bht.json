@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-21-2023 03:14:51",
+    "verseRef": "John 20:4",
+    "bestBHT": {
+        "bht": "Full of interesting and characteristic detail, the younger John outruns Peter, running on ahead more swiftly. The original Greek tense used emphasizes their continuous running, highlighting John's agility and how he wins the race. This lively scene captures the disciples' eagerness to know the truth of things, with John's swift footsteps reflecting the urgency and curiosity surrounding the events. The age difference and lack of concern that Peter might have had could explain his slower pace.",
+        "wordCount": 78,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.7134756515386327,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+        "commentatorTierSimilarities": [
+            39.41,
+            23.79,
+            36.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Full of most interesting and characteristic detail. John, probably the younger, outruns Peter;\u2014"
+        ],
+        "Marvin Vincent": [
+            "They ran. Still the imperfect, they were running. How much the A. V. loses by its persistent ignoring of the force of this tense.",
+            "Did outrun. Literally, ran on in front more quickly.",
+            "O holy father, spirit who beholdest What thou believedst so that thou o'ercamest, Toward the sepulchre, more youthful feet."
+        ],
+        "Philip Schaff": [
+            "John was the younger and thus also the more active of the two.",
+            "The same supposition throws light on the next verse."
+        ],
+        "Archibald T. Robertson": [
+            "He ran ahead more swiftly than Peter.",
+            "John won the race."
+        ],
+        "John Gill": [
+            "So they ran both together... being eagerly desirous to know the truth of things.",
+            "John was a younger man than Peter, and so more nimble, and swift of foot...",
+            "And besides, had not that concern of mind to retard him, Peter might have; as, supposing Christ was risen, and he should see him, how he should be able to look him in the face, whom he had so shamefully denied."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Full of interesting and characteristic detail, John, likely the younger disciple, outruns Peter, running ahead more swiftly. It is noted how the tense used in the original Greek emphasizes their continuous running. John's agility is highlighted as he wins the race, implying his youthfulness. This lively scene of both disciples eagerly desiring to know the truth of things unfolds with John's swift footsteps, capturing the urgency and curiosity surrounding the events. The age difference and lack of concern that Peter might have had could explain his slower pace.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.6012083899785217,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.58,
+            "commentatorTierSimilarities": [
+                37.63,
+                26.14,
+                36.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Full of interesting and characteristic detail, the younger John outruns Peter, running on ahead more swiftly. The original Greek tense used emphasizes their continuous running, highlighting John's agility and how he wins the race. This lively scene captures the disciples' eagerness to know the truth of things, with John's swift footsteps reflecting the urgency and curiosity surrounding the events. The age difference and lack of concern that Peter might have had could explain his slower pace.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7134756515386327,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.32,
+            "commentatorTierSimilarities": [
+                39.41,
+                23.79,
+                36.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With fascinating and characteristic detail, the younger disciple John quickly outpaces Peter, running ahead more swiftly. The original Greek tense used underscores their continuous running, shedding light on John's agility and his victory in the race. This vivid scene captures the earnestness of both disciples in their quest for truth. The age disparity and Peter's potential lack of concern may account for his slower progress.",
+            "wordCount": 67,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.5422077492447333,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                37.85,
+                26.29,
+                35.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Engagingly, John, likely the younger disciple, outruns Peter, running on ahead more swiftly. This lively scene, with John's quick footsteps, captures the disciples' eagerness to know the truth. The Greek tense used emphasizes their continuous running, underscoring John's agility and victory in the race. The age difference and Peter's potential lack of concern may explain his slower pace.",
+            "wordCount": 61,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 1.6753298708456015,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                38.15,
+                27.08,
+                34.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Full of interesting and characteristic detail, the younger disciple John quickly outpaces Peter, running ahead more swiftly. The crucial significance of the Greek tense used is highlighted, emphasizing their continuous running and underscoring John's agility and victory in the race. This vivid scene captures the disciples' eagerness to uncover the truth of the matter. The discrepancy in age and Peter's potential lack of concern may account for his slower progress.",
+            "wordCount": 72,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.5032654105317123,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.33,
+            "commentatorTierSimilarities": [
+                39.92,
+                23.24,
+                36.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

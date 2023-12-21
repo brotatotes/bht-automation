@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:14:57",
+    "verseRef": "John 19:30",
+    "bestBHT": {
+        "bht": "It is finished signifies the fulfillment of Jesus' obedience, suffering, and redemption of mankind, allowing the joy that lay before Him to commence. This act of yielding up His spirit demonstrates His voluntary and determinate nature, surpassing the power of death. Jesus breathed forth His life, as He commended His spirit into His Father's hands. This cry of victory in the face of defeat attests to the completion of redemption, the establishment of God's kingdom, and the birth of a new world.",
+        "wordCount": 84,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 2.1223104080678814,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+        "commentatorTierSimilarities": [
+            34.43,
+            35.15,
+            30.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is finished expresses the fulfilling of that appointed course of humiliation, obedience, and suffering, which the Lord Jesus had undertaken.",
+            "That was now over,\u2014the redemption of man accomplished,\u2014and from this time \u2018the joy that was set before Him\u2019 begins.",
+            "This 'yielding up His spirit' was strictly a voluntary and determinate act\u2014no coming on of death, which had no power over Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is finished! The Law is fulfilled as never before, nor since, in His 'obedience unto death, even the death of the cross'\". ",
+            "Redemption is completed\". ",
+            "He has inaugurated the kingdom of God and given birth to a new world\"."
+        ],
+        "Marvin Vincent": [
+            "Gave up the ghost [\u03c0\u03b1\u03c1\u03b5\u03b4\u03c9\u03ba\u03b5 \u03c4\u03bf \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1] . Rev., his spirit.",
+            "Mark, ejxepneusen, breathed forth (his life).",
+            "Luke, who adds, 'Father, into thy hands I commend (paratiqemai, see on Luke 9:16) my spirit.'"
+        ],
+        "John Calvin": [
+            "The whole accomplishment of our salvation, and all the parts of it, are contained in his death.\" ",
+            "Every thing which contributes to the salvation of men is to be found in Christ, and ought not to be sought anywhere else.\" ",
+            "The children of God, as well as the reprobate, die; but there is this difference between them, that the reprobate give up the soul, without knowing where it goes, or what becomes of it; while the children of God commit it, as a precious trust, to the protection of God, who will faithfully guard it till the day of the resurrection."
+        ],
+        "Philip Schaff": [
+            "It is finished.' The word is the same as in John 19:28, but now He utters what there He 'knew.' It is the shout of victory, not the cry of satisfaction that suffering is at an end.",
+            "Having said this, 'He bowed His head,' and 'delivered up His spirit.' The verb used for 'delivered up' is peculiarly important. The choice of the word leaves no doubt as to the meaning of the Evangelist. However true it is that by the cruelty of man the death upon the cross was brought about as by its natural cause, there was something deeper and more solemn in it of which we must take account.",
+            "It was His own free will to die. There is in Him an ever-present life and power and choice in which He, even at the very last moment, offers Himself as a sacrifice."
+        ],
+        "Archibald T. Robertson": [
+            "It is finished. A cry of victory in the hour of defeat like \u03bd\u03b5\u03bd\u03b9\u03ba\u03b7\u03ba\u03b1 in John 16:33.",
+            "Bowed his head. This vivid detail only in John.",
+            "Gave up his spirit. Jesus died with the words of this Psalm upon his lips."
+        ],
+        "John Gill": [
+            "It is finished; that is, the whole will of God; as that he should be incarnate, be exposed to shame and reproach, and suffer much, and die.",
+            "Hence a perfect righteousness was finished agreeably to the law, which was magnified and made honourable by it, and redemption from its curse and condemnation secured.",
+            "His own course of life ended: the reason of his saying so was, because all this was near being done, just upon finishing, and was as good as done; and was sure and certain, and so complete, that nothing need, or could be added to it."
+        ],
+        "John Wesley": [
+            "It is finished \u2014 My suffering: the purchase of man's redemption.",
+            "He delivered up his spirit \u2014 To God, Matthew 27:50."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is finished expresses the fulfillment of Jesus' appointed course of humiliation, obedience, and suffering. From this moment, the redemption of humankind is accomplished, and the joy that was set before Jesus begins. His yielding up of His spirit is a voluntary and determinate act, illustrating His power over death. Jesus breathed out His life, giving up His spirit into the hands of the Father. This victory cry in the hour of defeat signifies the completion of redemption and the inauguration of the kingdom of God. Jesus died with these triumphant words of Psalm on His lips, bowing His head in submission. In His death, Jesus accomplished the salvation of humanity, offering Himself as the perfect sacrifice and fulfilling the will of God.",
+            "wordCount": 123,
+            "quoteTokenProportion": 30.67,
+            "qualityScore": 2.12701479214865,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+            "commentatorTierSimilarities": [
+                33.94,
+                35.5,
+                30.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is finished reveals the fulfilment of Jesus' appointed course of suffering and obedience. With these words, Jesus signifies that the redemption of humankind is accomplished, and a new era of joy begins. His yielding up of His spirit is a voluntary act, demonstrating His power over death. Jesus breathes out His life and gives up His spirit into the hands of the Father. This cry of victory in the face of defeat signifies the completion of redemption and the birth of a new world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.0752080121917116,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                34.02,
+                36.68,
+                29.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is finished expresses the fulfillment of Jesus' course of humiliation, obedience, and suffering, signifying the completion of redemption and the beginning of joy. His yielding up of His spirit is a voluntary act, demonstrating His power over death. Jesus gives up His spirit, breathing out His life into the hands of the Father. This cry of victory in the midst of defeat signifies the accomplishment of salvation and the inauguration of the kingdom of God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 2.106913280174291,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                34.52,
+                34.78,
+                30.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is finished expresses the fulfillment of Jesus' appointed course of humiliation, obedience, and suffering, signifying the completion of redemption and the beginning of joy. This cry of victory in the midst of defeat signifies the accomplishment of salvation and the inauguration of the kingdom of God. Jesus voluntarily yields up His spirit, breathing out His life into the hands of the Father. Through His death, Jesus fulfills the law and secures redemption from its curse and condemnation, offering a perfect righteousness that is finished according to God's will.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.115527529565219,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.68,
+            "commentatorTierSimilarities": [
+                32.02,
+                33.78,
+                34.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is finished signifies the fulfillment of Jesus' obedience, suffering, and redemption of mankind, allowing the joy that lay before Him to commence. This act of yielding up His spirit demonstrates His voluntary and determinate nature, surpassing the power of death. Jesus breathed forth His life, as He commended His spirit into His Father's hands. This cry of victory in the face of defeat attests to the completion of redemption, the establishment of God's kingdom, and the birth of a new world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.1223104080678814,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+            "commentatorTierSimilarities": [
+                34.43,
+                35.15,
+                30.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

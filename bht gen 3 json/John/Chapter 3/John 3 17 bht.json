@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:05:14",
+    "verseRef": "John 3:17",
+    "bestBHT": {
+        "bht": "The Son of God was not sent into the world to condemn it, but to accomplish the higher purpose of love and the salvation of humanity. This is why the repetition of the word world is significant. While some may see condemnation as the result of Christ's mission, it is not the primary objective. His mission is centered on saving the world and offering salvation to all. The role of the Son of God is to separate and distinguish between those who come to the light and those who do not, leading to the ultimate goal of spiritual salvation.",
+        "wordCount": 100,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 2.028130080950679,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+        "commentatorTierSimilarities": [
+            31.26,
+            27.61,
+            41.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The judgment there, as here, results from the separation of mankind into two classes,\u2014those who will and those who will not come to the light.",
+            "That result itself is not the purpose why the Son of God came into the world, but is evolved in the accomplishment of the higher purpose, viz. Love, and the salvation of men.",
+            "Observe, the latter clause does not correspond to the former\u2014it is not that He might save the world, but that the world through Him might be saved:\u2014the free will of the world is by this strikingly set forth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though 'condemnation' is to many the issue of Christ's mission, it is not the object of His mission, which is purely a saving one.",
+            "A statement of vast importance.",
+            "Not to condemn, &c.\u2014A statement of vast importance."
+        ],
+        "Albert Barnes": [
+            "God was willing that there should be an offer of pardon, and the sentence of condemnation was delayed.",
+            "Jesus did not come then to condemn mankind, yet the time is coming when he will return to judge the living and the dead.",
+            "The time is coming when he will return to judge the living and the dead."
+        ],
+        "Marvin Vincent": [
+            "Sent rather than gave (ver. 16), because the idea of sacrifice is here merged in that of authoritative commission.",
+            "The verb krinw means, originally, to separate. So Homer, of Ceres separating the grain from the chaff (\" Iliad, \" 5 501). Thence, to distinguish, to pick out, to be of opinion, to judge.",
+            "The threefold repetition of the word ['world'] has a certain solemnity."
+        ],
+        "John Calvin": [
+            "For God sent not his Son into the world to condemn the world... it is the peculiar office of the Son of God, that all who believe may obtain salvation by him.",
+            "We ought not... to look at anything else in Christ, than that God... chose to extend his aid for saving us who were lost.",
+            "The Gospel is especially, and in the first instance, appointed for believers, that it may be salvation to them; but that afterwards believers will not escape unpunished who, despising the grace of Christ, chose to have him as the Author of death rather than of life."
+        ],
+        "Philip Schaff": [
+            "For God sent not the Son into the world that he may judge the world; but that the world through him may be saved.\" ",
+            "The solemn and emphatic repetition of \u2018the world\u2019 rebukes all such limitations, as effectually as the words of John 3:3 set aside the distinctions which were present to the thought of Nicodemus.",
+            "He came to save, not to judge the world. He came to judge the world in so far as it will not allow itself to be saved; and this judgment is one that takes place even now (because even now there is wilful unbelief), though it will only be consummated hereafter."
+        ],
+        "Archibald T. Robertson": [
+            "For God sent not the Son...but that the world should be saved through him.",
+            "The Messiah does judge the world as Jesus taught...but this was not the primary or the only purpose of his coming.",
+            "The verb \u03c3\u03c9\u03b6\u03c9 is often used for physical health...but here of the spiritual salvation."
+        ],
+        "John Gill": [
+            "God did send his Son into the world in the likeness of sinful flesh, being made of a woman, and made under the law; and which is an instance of his great love, and not of any disrespect to his Son, or of any inequality between them.",
+            "He sent his Son now, not to destroy them for their idolatry and wickedness, but to be the Savior of them.",
+            "The end of his mission, and first coming is, that the world through him might be saved; even the world of the elect in general, whom God determined to save, and has chosen, to obtain salvation by Jesus Christ."
+        ],
+        "John Wesley": [
+            "God sent not his Son into the world to condemn the world \u2014 Although many accuse him of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The judgment that comes from the separation of mankind into two classes, those who come to the light and those who do not, is not the purpose of why the Son of God came into the world. Instead, the purpose is driven by love and the salvation of men. It is important to note that the verb sent rather than gave emphasizes the authoritative commission of Christ. The repetition of the word world in the verse adds solemnity to the statement, highlighting God's desire for the salvation of all. The Messiah does indeed judge the world, but this was not the primary purpose of his coming. Rather, his mission was purely a saving one, focusing on the spiritual salvation of mankind.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 2.1051610048015643,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                32.8,
+                29.3,
+                37.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The judgment that results from the division of humanity into two groups, those who come to the light and those who do not, is not the purpose of the Son of God's entrance into the world. Rather, it is the evolution of the higher purpose of love and the salvation of mankind. The repetition of the word world in the passage emphasizes the importance of God's desire for the world to be saved through Christ. His mission was purely about saving the world, not condemning it.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.1631240575119683,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                30.1,
+                30.69,
+                39.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son of God did not come into the world to judge or condemn humanity, but rather to fulfill the higher purpose of love and the salvation of mankind. The emphasis on the repetition of the word world throughout the verse highlights God's desire for the world to be saved through Him. The mission of Christ was solely focused on saving the world, not condemning it. His authoritative commission was given with the intention of offering salvation to all who believe.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2205024967881135,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                28.77,
+                29.93,
+                41.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of God was not sent into the world to condemn it, but to accomplish the higher purpose of love and the salvation of humanity. This is why the repetition of the word world is significant. While some may see condemnation as the result of Christ's mission, it is not the primary objective. His mission is centered on saving the world and offering salvation to all. The role of the Son of God is to separate and distinguish between those who come to the light and those who do not, leading to the ultimate goal of spiritual salvation.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.028130080950679,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                31.26,
+                27.61,
+                41.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of God came into the world with the purpose of love and the salvation of men, not to condemn. The repetition of the word world in the verse emphasizes the importance of God's desire for the world to be saved through Him. His mission is purely focused on saving the world, not judging or condemning it. The Son was sent with authoritative commission to accomplish the goal of salvation by separating those who come to the light from those who do not.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.2972877850716458,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.73,
+            "commentatorTierSimilarities": [
+                28.02,
+                30.22,
+                41.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:04:03",
+    "verseRef": "John 1:47",
+    "bestBHT": {
+        "bht": "Behold, an Israelite indeed, one living up to the covenant name, Israel at its best. Nathanael possesses the guileless simplicity of a true servant of Jehovah. He is willing to follow truth wherever it may lead, saying, Speak, Lord, for Thy servant heareth. Unlike the degenerate Jews, Nathanael is a sincere and upright man who embodies the true heart of an Israelite. His life reflects great integrity and lacks hypocrisy and deceit towards God and his fellow men.",
+        "wordCount": 78,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.9440210461065113,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+        "commentatorTierSimilarities": [
+            32.01,
+            36.73,
+            31.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Evangelist certainly intends a supernatural insight by the Lord into Nathanael\u2019s character to be here understood."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "an Israelite indeed . . . no guile\u2014not only no hypocrite, but with a guileless simplicity not always found even in God's own people",
+            "ready to follow wherever truth might lead him",
+            "saying, Samuel-like, 'Speak, Lord, for Thy servant heareth'"
+        ],
+        "Albert Barnes": [
+            "One who possesses the spirit, the piety, and the integrity which become a man who is really a Jew, who fears God and obeys his law.",
+            "He is really what he professes to be - a Jew, a descendant of the patriarch Jacob, fearing and serving God.",
+            "He does not say that Nathanael was without guilt or sin, but that he had no disguise, no trick, no deceit - he was sincere and upright."
+        ],
+        "John Calvin": [
+            "We know how haughtily the Jews gloried in their father Abraham, and how presumptuously they boasted of the holiness of their descent; and yet there was scarcely one in a hundred among them who was not utterly degenerate and alienated from the faith of the Fathers.",
+            "For this reason, Christ, in order to tear the mask from hypocrites, gives a short definition of a true Israelite, and, at the same time, removes the offense which would afterwards arise from the wicked obstinacy of the nation.",
+            "To sum up the meaning of Christ in a few words, it ought to be observed that deceit is contrasted with uprightness and sincerity; so that he calls those persons sly and deceitful who are called in other parts of Scripture double in heart."
+        ],
+        "Philip Schaff": [
+            "Behold, an Israelite indeed, in whom is no guile.",
+            "He is ingenuous, willing to be taught, ready to receive what is shown to him to be truth, however strongly it may conflict with his prepossessions.",
+            "Nathanael, in short, is 'of God,' is 'of the truth,' has no selfish impure aims, and therefore he shall be fully taught."
+        ],
+        "Archibald T. Robertson": [
+            "Truly an Israelite, one living up to the covenant name, Israel at its best.",
+            "Without the guile that Jacob once had of which Isaac complained.",
+            "The servant of Jehovah was to be without guile."
+        ],
+        "John Gill": [
+            "Behold an Israelite indeed! [...] one that was an Israelite at heart; inwardly so; not one after the flesh only, but after the Spirit.\" (36 words)",
+            "A true son of Jacob's; an honest, plain-hearted man, like him.\" (13 words)",
+            "The course of his life, and conversation, was with great integrity, and uprightness, and without any prevailing hypocrisy and deceit, either to God, or men.\" (30 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, an Israelite indeed, one living up to the covenant name, Israel at its best. Truly an Israelite, one without guile, ready to follow wherever truth might lead him, saying, Speak, Lord, for Thy servant heareth. Nathanael possesses the spirit, piety, and integrity becoming a man who fears God and obeys His law. He is sincere and upright, without disguise or deceit. His willingness to be taught and receive truth, no matter the conflict with his prepossessions, shows that he is of God and of the truth. In contrast to the degenerate and hypocritical Jews, Nathanael exemplifies the true heart of an Israelite.",
+            "wordCount": 103,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.8986527822760695,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                26.27,
+                42.65,
+                31.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, an Israelite indeed, one living up to the covenant name, Israel at its best. Nathanael is without guile, ready to follow truth wherever it may lead. He sincerely says, Speak, Lord, for Thy servant heareth. He possesses the spirit, piety, and integrity becoming a man who fears God and obeys His law. His sincerity, willing to receive truth despite conflicting prepossessions, reveals that he is of God and of the truth. In contrast to degenerate and hypocritical Jews, Nathanael embodies the true heart of an Israelite.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8740198708363036,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                30.62,
+                40.86,
+                28.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, an Israelite indeed, one living up to the covenant name, Israel at its best. Nathanael is without guile, ready to follow truth wherever it may lead. He sincerely says, Speak, Lord, for Thy servant heareth. He possesses the spirit and integrity that befit a man who fears God and obeys His law. In contrast to the degenerate and hypocritical Jews, Nathanael embodies the true heart of an Israelite, a man of sincerity and uprightness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.8803044138117193,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                31.54,
+                38.92,
+                29.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold, an Israelite indeed, living up to the covenant name, Israel at its best. Nathanael lacks guile, ready to follow truth wherever it leads. He sincerely says, Speak, Lord, for Your servant heareth. He possesses the spirit and integrity that befit a man who fears God and obeys His law. In contrast to the degenerate and hypocritical Jews, Nathanael embodies the true heart of an Israelite, a man of sincerity and uprightness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.872940303514033,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.62,
+            "commentatorTierSimilarities": [
+                31.74,
+                38.5,
+                29.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold, an Israelite indeed, one living up to the covenant name, Israel at its best. Nathanael possesses the guileless simplicity of a true servant of Jehovah. He is willing to follow truth wherever it may lead, saying, Speak, Lord, for Thy servant heareth. Unlike the degenerate Jews, Nathanael is a sincere and upright man who embodies the true heart of an Israelite. His life reflects great integrity and lacks hypocrisy and deceit towards God and his fellow men.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9440210461065113,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                32.01,
+                36.73,
+                31.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

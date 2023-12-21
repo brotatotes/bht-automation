@@ -1,0 +1,151 @@
+{
+    "timestamp": "12-21-2023 03:05:53",
+    "verseRef": "John 4:22",
+    "bestBHT": {
+        "bht": "Salvation is intricately linked to the Jewish people, as Jesus identifies Himself with them, embodying the true essence of Jewish worship. The Samaritans, though they worshipped God, were in the dark, lacking the revealed authority and knowledge that the Jews possessed. True worship cannot be a result of ignorance but must be grounded in knowledge obtained from God's Word. Salvation, as prophesied, came from the Jews and would eventually spread to all nations under heaven.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.359129928979673,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.78,
+        "commentatorTierSimilarities": [
+            30.92,
+            35.0,
+            34.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He decides her question not merely by affirming, but by proving the Jewish worship to be the right one.",
+            "The word 'we' is remarkable, as being the only instance of our Lord thus speaking.",
+            "The Messiah Himself was to spring from among the Jews, and had sprung from among them;\u2014not 'shall come,' but cometh."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye worship ye know not what\u2014without any revealed authority, and so very much in",
+            "\tthe dark.\" ",
+            "Salvation was not a thing",
+            "\tleft to be reached by any one who might vaguely desire it of a God of",
+            "\tmercy, but something that had been revealed, prepared, deposited",
+            "\twith a particular people.",
+            "Salvation must be sought in connection",
+            "\twith, and as issuing from them; and that people, 'the Jews'."
+        ],
+        "Albert Barnes": [
+            "Ye worship ye know not what...they were acting in an unauthorized manner.\" ",
+            "We know - We Jews...because God had commanded it.\" ",
+            "Salvation is of the Jews - They have the true religion and the true form of worship."
+        ],
+        "Marvin Vincent": [
+            "The worship of the unknown is common to vulgar ignorance and to philosophic culture; to the Samaritan woman, and to the Athenian philosophers.",
+            "Jesus here identifies Himself with the Jewish people. The essence of the true Jewish worship is represented by Him.",
+            "Even the Old Testament idea of salvation is bound up with Christ."
+        ],
+        "John Calvin": [
+            "This is a sentence worthy of being remembered, and teaches us that we ought not to attempt any thing in religion rashly or at random; because, unless there be knowledge, it is not God that we worship, but a phantom or idol.",
+            "Hence it follows that all who forsake the word fall into idolatry; for Christ plainly testifies that an idol, or an imagination of their own brain, is substituted for God, when men are ignorant of the true God.",
+            "If we wish our religion to be approved by God, it must rest on knowledge obtained from His word."
+        ],
+        "Philip Schaff": [
+            "The Samaritans did really worship God, there is no slur cast on the intention and aim of their worship; their error consisted in clinging to an imperfect revelation of Him, receiving Moses but rejecting the prophets.",
+            "He who knew not God as thus revealing and giving salvation did not really know Him.",
+            "The words are those of Jesus; but, remembered and quoted as they are by the Evangelist, they show how unfounded is the charge sometimes laid against this Gospel, that it is marked by enmity to the Jewish people."
+        ],
+        "Archibald T. Robertson": [
+            "You know whom to worship, but you do not know him.",
+            "The Jews, as the chosen people, had fuller revelations of God.",
+            "The Messiah, God's Son, was a Jew."
+        ],
+        "John Gill": [
+            "The original inhabitants of those parts, from whence these Samaritans sprung, were idolatrous Heathens, placed by the king of Assyria in the room of the ten tribes he carried away captive; and these feared not the Lord, for they 'knew not the manner of the God of the land.'",
+            "And though after Manasseh, and other Jews were come among them, and they had received the law of Moses, they might have some knowledge of the true God, yet they glorified him not as God; and though they might in words profess him, yet in works they denied him.",
+            "And the true worshippers among the Jews, of which sort Christ was, knew God, whom they worshipped, spiritually and savingly; and the generality of that people had right notions of the God of Israel, having the oracles, and service of God, and being instructed out of Moses, and the prophets."
+        ],
+        "John Wesley": [
+            "Ye worship ye know not what \u2014 Ye Samaritans are ignorant, not only of the place, but of the very object of worship.",
+            "Indeed, they feared the Lord after a fashion; but at the same time served their own gods.",
+            "Salvation is from the Jews \u2014 So spake all the prophets, that the Saviour should arise out of the Jewish nation: and that from thence the knowledge of him should spread to all nations under heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Salvation must be sought in connection with and as issuing from the Jewish people, as Jesus identifies Himself with them, representing the essence of true Jewish worship. The Samaritans, although worshipping God, were in the dark, lacking the revealed authority and knowledge that the Jews possessed. Salvation was not left to be reached by a vague desire for a merciful God, but was revealed and deposited with the Jewish people. Even the Old Testament idea of salvation is bound up with Christ, the Messiah, who came from among the Jews. Thus, worship without knowledge is not true worship but the substitution of idolatry. It is through the Jews that salvation came, as prophesied, and from there it spread to all nations under heaven.",
+            "wordCount": 123,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 2.4319733127219116,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.2,
+            "commentatorTierSimilarities": [
+                32.06,
+                34.66,
+                33.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Salvation is intricately linked to the Jewish people, as Jesus identifies Himself with them, embodying the true essence of Jewish worship. The Samaritans, though they worshipped God, were in the dark, lacking the revealed authority and knowledge that the Jews possessed. True worship cannot be a result of ignorance but must be grounded in knowledge obtained from God's Word. Salvation, as prophesied, came from the Jews and would eventually spread to all nations under heaven.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.359129928979673,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.78,
+            "commentatorTierSimilarities": [
+                30.92,
+                35.0,
+                34.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Salvation is to be sought in connection with the Jewish people, as Jesus represents the true essence of Jewish worship. The Samaritans, though they worshipped God, were in the dark and lacked the revealed authority and knowledge that the Jews possessed. Worship without knowledge is not true worship but a form of idolatry. Salvation came through the Jews, in accordance with the prophecies, and would eventually spread to all nations under heaven. True worship must rest on knowledge obtained from God's Word.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.299493090852808,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.8,
+            "commentatorTierSimilarities": [
+                29.61,
+                35.05,
+                35.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Salvation is intricately linked to the Jewish people, as Jesus identifies Himself with them and embodies the true essence of Jewish worship. The Samaritans, though they worshipped God, lacked the revealed authority and knowledge that the Jews possessed. Worship without knowledge is idolatry. Salvation came through the Jews, as prophesied, and would eventually spread to all nations. True worship must be grounded in knowledge obtained from God's Word.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3027641576572435,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.91,
+            "commentatorTierSimilarities": [
+                30.42,
+                35.83,
+                33.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Salvation finds its source within the Jewish people, as Jesus Himself represents the essence of true Jewish worship. The Samaritans, while worshipping God, lacked the revealed authority and knowledge bestowed upon the Jews. Worship without knowledge is nothing but idolatry, substituting a phantom or idol for the true God. Prophets foretold that salvation would arise from the Jewish nation, spreading the knowledge of God to all nations. Thus, our religion must rest on the knowledge obtained from God's Word to gain His approval.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.3104162173289957,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.16,
+            "commentatorTierSimilarities": [
+                29.19,
+                34.08,
+                36.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

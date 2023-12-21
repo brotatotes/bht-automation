@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:09:13",
+    "verseRef": "John 9:5",
+    "bestBHT": {
+        "bht": "Jesus, the source of spiritual light, proclaims Himself as the Resurrection and the Life. As long as He is in the world, He is the light of the world, tirelessly displaying His glory. Like the sun in the sky, Jesus fills the moral world with His beams, shining on the souls of humanity. His disciples also carry this light, being the light of the world. Jesus' purpose is to be the world's light, teaching and showing, through His example, how to fulfill the will of God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 2.376230206112946,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.35,
+        "commentatorTierSimilarities": [
+            31.75,
+            42.95,
+            25.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This partly explains the day and night of the former verse.\" ",
+            "He states that He is the Resurrection and the Life.\" ",
+            "He sets forth Himself as the source of the archetypal spiritual light."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As long as I am in the world, I am the light of the world.\" ",
+            "He must make full proof of His fidelity while His earthly career lasted by displaying His glory.\" ",
+            "He sets Himself forth as the source of the archetypal spiritual light, of which the natural, now about to be conferred, is only a derivation and symbol."
+        ],
+        "Albert Barnes": [
+            "As the sun is the natural light of the world, even while it sinks away to the west, so am I, although my days are drawing to a close, the light of the spiritual world.\" ",
+            "Jesus occupied the same place, filled the same space, shed his beams as far, in the moral world, as the sun does on natural objects.",
+            "When we look on the sun in the firmament or in the west, let us remember that such is the great Sun of Righteousness in regard to our souls; that his shining is as necessary, and his beams as mild and lovely on the soul, as is the shining of the natural sun to illumine the material creation."
+        ],
+        "Marvin Vincent": [
+            "As long as [\u03bf\u03c4\u03b1\u03bd] . More correctly, whensoever. Rev., when. Whether in my incarnation, or before my incarnation, or after it.\" ",
+            "Christ is 'light to the world', as well as 'the one Light of the world.' The character is unchangeable, but the display of the character varies with the occasion."
+        ],
+        "John Calvin": [
+            "For he compares himself to the sun which, though it illuminates the whole earth by its brightness, yet, when it sets, takes away the day along with it.",
+            "At the same time, he shows that, when he was manifested in flesh, that was truly the time of the day-light of the world.",
+            "When Christ had finished the course of his office, he labored not less powerfully by his ministers than he had labored by himself, while he lived in the world."
+        ],
+        "Philip Schaff": [
+            "The work of Jesus in the world is to be the world's light.",
+            "The first word of the verse is worthy of all attention, pointing as it does to all periods at which 'the light' hath shined amid the darkness of this world.",
+            "His disciples also \u2018are the light of the world.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Whenever I am in the world.\" ",
+            "Jesus as God's Son is always the Light of the World, but here the reference is limited to his manifestation 'in the world.'\" ",
+            "The display of the character varies with the occasion."
+        ],
+        "John Gill": [
+            "As long as I am in the world, I am the light of the world.\" ",
+            "Though doubtless he said this with some view to the cure he was about to perform.\" ",
+            "It being agreeable to his character and work, while he was in the world."
+        ],
+        "John Wesley": [
+            "I am the light of the world \u2014 I teach men inwardly by my Spirit, and outwardly by my preaching, what is the will of God.",
+            "I show them, by my example, how they must do it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares Himself as the source of the archetypal spiritual light, stating that He is the Resurrection and the Life. He is the light of the world, shining brightly and making full proof of His fidelity while He is in the world. As the sun illuminates the earth, Jesus shines on the souls of humanity, filling the moral world with His beams. His disciples also carry this light, being the light of the world. Jesus' work is to be the world's light, teaching and showing by His example how to do the will of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.349199762650806,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.45,
+            "commentatorTierSimilarities": [
+                31.39,
+                43.22,
+                25.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, the source of spiritual light, proclaims Himself as the Resurrection and the Life. As long as He is in the world, He is the light of the world, tirelessly displaying His glory. Like the sun in the sky, Jesus fills the moral world with His beams, shining on the souls of humanity. His disciples also carry this light, being the light of the world. Jesus' purpose is to be the world's light, teaching and showing, through His example, how to fulfill the will of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.376230206112946,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.35,
+            "commentatorTierSimilarities": [
+                31.75,
+                42.95,
+                25.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, the Resurrection and the Life, declares Himself as the source of spiritual light. As long as He is in the world, He is the light of the world, displaying His glory and making full proof of His fidelity. Just as the sun illuminates the earth, Jesus fills the moral world with His beams, shining on the souls of humanity. His disciples also carry this light, being the light of the world, teaching and showing how to fulfill the will of God through His example.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.333137430539619,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.92,
+            "commentatorTierSimilarities": [
+                32.8,
+                42.14,
+                25.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus proclaims Himself as the Resurrection and the Life, the source of archetypal spiritual light. As long as He is in the world, He is the light of the world, making full proof of His fidelity, displaying His glory. Like the sun illuminating the earth, Jesus shines on the souls of humanity, filling the moral world with His beams. His disciples also carry this light, teaching and showing how to fulfill the will of God through His example as the light of the world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.2971833194445095,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.72,
+            "commentatorTierSimilarities": [
+                32.95,
+                42.38,
+                24.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus declares Himself as the Resurrection and the Life, the source of the archetypal spiritual light. As long as He is in the world, He is the light of the world, displaying His glory and making full proof of His fidelity. His disciples too are the light of the world, taught and guided by His example. The work of Jesus is to be the world's light, illuminating souls and teaching them how to fulfill the will of God through His Spirit and preaching.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.2411712553789043,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.86,
+            "commentatorTierSimilarities": [
+                33.89,
+                40.07,
+                26.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

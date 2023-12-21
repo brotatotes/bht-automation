@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-21-2023 03:10:50",
+    "verseRef": "John 12:14",
+    "bestBHT": {
+        "bht": "Jesus fulfilled the prophecy by riding into Jerusalem on a young ass, signifying the spiritual nature of his kingdom. This act of riding on an ass underscored the contrast between Christ's kingdom and worldly splendor. Matthew clarifies that only the colt was ridden, while the other Gospels mention both an ass and a colt. Nonetheless, Jesus intentionally chose to ride on a young ass, fulfilling the prophetic word and emphasizing the spiritual essence of his kingdom.",
+        "wordCount": 77,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.8462629789734555,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+        "commentatorTierSimilarities": [
+            56.55,
+            0.0,
+            43.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "A young ass [\u03bf\u03bd\u03b1\u03c1\u03b9\u03bf\u03bd] . Only here in the New Testament. Matthew mentions an ass and a colt; Mark and Luke a colt only."
+        ],
+        "John Calvin": [
+            "The plain truth is, that Christ rode on an ass which had been brought along with its mother.",
+            "The Jews themselves are constrained to expound the prediction of Zechariah 9:9, which was at that time fulfilled, as referring to the Messiah; but, at the same time, they ridiculed us for being led astray by the shadow of an ass.",
+            "When he describes Christ as riding on an ass, the meaning is, that his kingdom will have nothing in common with the pomp, splendor, wealth, and power of the world; and it was proper that this should be made known by an outward manifestation, that all might be fully assured that it is spiritual."
+        ],
+        "Archibald T. Robertson": [
+            "Through the disciples, of course, as in Mark 11:2-6 (Matthew 21:2-3; Matthew 21:6; Luke 19:30).\" ",
+            "A young ass (\u03bf\u03bd\u03b1\u03c1\u03b9\u03bf\u03bd). Late diminutive of \u03bf\u03bd\u03bf\u03c2, in Epictetus and the papyri (even the double diminitive, \u03bf\u03bd\u03b1\u03c1\u03b9\u03b4\u03b9\u03bf\u03bd), only here in the N.T.",
+            "Rightly understood Matthew has Jesus riding only the colt like the rest."
+        ],
+        "John Gill": [
+            "And Jesus, when he had found a young ass,.... Which he sent his disciples for, to a neighbouring village, and they brought to him.",
+            "sat thereon, as it is written; in Zechariah 9:9 though some part of the words seems to be taken out of Isaiah 62:11;",
+            "that it might be fulfilled which Esaias said."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, fulfilling the prophecy in Zechariah 9:9, rode into Jerusalem on a young ass, as indicated by the first tier commentary. This act of riding on an ass served as a tangible representation of the spiritual nature of Christ's kingdom, symbolizing its lack of worldly grandeur, as mentioned in the third tier commentary. Matthew's account specifies that it was only the colt that Jesus rode, while the other Gospels mention both an ass and a colt. Nonetheless, it is clear that Jesus intentionally chose to ride on a young ass, exemplifying the fulfillment of the prophetic word.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.8489054146308772,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.82,
+            "commentatorTierSimilarities": [
+                54.03,
+                0.0,
+                45.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Fulfilling the prophecy, Jesus rode into Jerusalem on a young ass, symbolizing the spiritual nature of his kingdom. Matthew specifies that only the colt was ridden, while the other Gospels mention both the ass and the colt. Regardless, Jesus deliberately chose to ride on a young ass, fulfilling the prophetic word. This act highlighted the contrast between Christ's kingdom and worldly grandeur, emphasizing its spiritual essence.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.745856101701423,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.39,
+            "commentatorTierSimilarities": [
+                56.64,
+                0.0,
+                43.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus fulfilled the prophecy by riding into Jerusalem on a young ass, signifying the spiritual nature of his kingdom. This act of riding on an ass underscored the contrast between Christ's kingdom and worldly splendor. Matthew clarifies that only the colt was ridden, while the other Gospels mention both an ass and a colt. Nonetheless, Jesus intentionally chose to ride on a young ass, fulfilling the prophetic word and emphasizing the spiritual essence of his kingdom.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8462629789734555,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                56.55,
+                0.0,
+                43.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus fulfilled the prophecy of Zechariah 9:9 by riding into Jerusalem on a young ass, symbolizing the spiritual nature of his kingdom. The contrast between Christ's kingdom and worldly grandeur is emphasized through this choice, highlighting the lack of pomp and splendor in his reign. While Matthew specifies that only the colt was ridden, the other Gospels mention both an ass and a colt. Nevertheless, Jesus deliberately fulfilled the prophetic word by riding on a young ass, exhibiting the spiritual essence of his kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.764970076767912,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+            "commentatorTierSimilarities": [
+                54.86,
+                0.0,
+                45.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Fulfilling the prophecy, Jesus rode into Jerusalem on a young ass, symbolizing the spiritual nature of his kingdom. Matthew specifies only the colt was ridden, while the other Gospels mention both an ass and a colt. Jesus intentionally chose to ride on a young ass, fulfilling the prophetic word and highlighting the contrast between his kingdom and worldly grandeur. This act demonstrated the spiritual essence of his reign, devoid of pomp and splendor.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.6735054655774926,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                56.96,
+                0.0,
+                43.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

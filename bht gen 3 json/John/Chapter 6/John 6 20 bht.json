@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-21-2023 03:06:41",
+    "verseRef": "John 6:20",
+    "bestBHT": {
+        "bht": "In the midst of a tempestuous situation, Jesus reassures his disciples by saying, It is I; be not afraid. This comforting declaration echoes the words found in Matthew and Mark, Be of good cheer! The disciples, fully aware of Jesus' presence, find solace and courage in his name, which signifies God's love and salvation. Through his words and actions, Jesus not only comforts them, but also demonstrates his authority over the storm, leaving them with a deep sense of peace and security.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.1854857115018613,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.76,
+        "commentatorTierSimilarities": [
+            43.42,
+            0.0,
+            56.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "20. It is I; be not afraid\u2014Matthew",
+            "\t(Matthew 14:27) and Mark (Matthew 14:27- :) give before these exhilarating words, that to them",
+            "\twell-known one, \"Be of good cheer!"
+        ],
+        "John Calvin": [
+            "We learn from them that it is in Christ\u2019s presence alone that we have abundant grounds of confidence, so as to be calm and at ease.",
+            "But believers, who know that he is given to them to make propitiation, as soon as they hear his name, which is a sure pledge to them both of the love of God and of their salvation, take courage as if they had been raised from death to life.",
+            "Nor does he only comfort and encourage them by his word, but actually removes also the cause of the terror by allaying the tempest."
+        ],
+        "Archibald T. Robertson": [
+            "Be not afraid.",
+            "John does not tell that the disciples thought Jesus was an apparition.",
+            "Nor does he give the account of Peter walking on the water."
+        ],
+        "John Gill": [
+            "But he saith to them, it is I, be not afraid.",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of a tempestuous situation, Jesus soothes his disciples by saying, It is I; be not afraid. This reassurance brings to mind the comforting words found in Matthew and Mark, Be of good cheer! Although John does not delve into the disciples' thoughts or Peter's walk on water, we can learn from this passage that it is in Christ's presence alone that we find true confidence and peace. The mention of Jesus' name acts as a reminder of God's love and our salvation, granting believers the courage to face any fear. Jesus not only comforts them with his words, but also demonstrates his power by calming the storm.",
+            "wordCount": 113,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.2526696265400914,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.99,
+            "commentatorTierSimilarities": [
+                43.29,
+                0.0,
+                56.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of a tempestuous situation, Jesus reassures his disciples by saying, It is I; be not afraid. This comforting declaration echoes the words found in Matthew and Mark, Be of good cheer! The disciples, fully aware of Jesus' presence, find solace and courage in his name, which signifies God's love and salvation. Through his words and actions, Jesus not only comforts them, but also demonstrates his authority over the storm, leaving them with a deep sense of peace and security.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.1854857115018613,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.76,
+            "commentatorTierSimilarities": [
+                43.42,
+                0.0,
+                56.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of a tumultuous situation, Jesus calms his disciples' fears by assuring them, It is I; be not afraid. This reminder of his presence and the comforting words found in Matthew and Mark, Be of good cheer! bring a sense of relief and courage. Believers understand that in Christ's name lies the embodiment of God's love and their salvation, giving them ample grounds to trust and find solace in him. Beyond mere words, Jesus also demonstrates his power by quieting the storm, removing the cause of their terror.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.0907096999857464,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.61,
+            "commentatorTierSimilarities": [
+                39.46,
+                0.0,
+                60.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst a storm, Jesus dispels the disciples' fear by saying, It is I; be not afraid. In this moment, his words hold the power to bring comfort and assurance. Though John does not recount the disciples' thoughts or Peter's experience, we can gather that believers draw strength from Christ's presence, which secures their confidence. Uttering the name of Jesus serves as a testament to God's love and their salvation, instilling courage as if they were granted new life. His words not only comfort but also quell the storm, removing the cause of their fear.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.151597485902455,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.63,
+            "commentatorTierSimilarities": [
+                36.5,
+                0.0,
+                63.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of a tempestuous situation, Jesus brings solace to his disciples by declaring, It is I; be not afraid. This comforting statement echoes the encouragement found in Matthew and Mark, Be of good cheer! Believers find tremendous confidence and peace in the presence of Christ. The mention of his name reminds them of God's love and their salvation, empowering them to face their fears with renewed courage. Jesus not only comforts with his words, but also displays his authority by calming the storm, eliminating the cause of their fear.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.1164108243426831,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.46,
+            "commentatorTierSimilarities": [
+                37.73,
+                0.0,
+                62.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

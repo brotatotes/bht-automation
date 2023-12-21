@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:05:13",
+    "verseRef": "John 4:2",
+    "bestBHT": {
+        "bht": "Jesus did not regularly baptize, as His primary role was to teach and preach. His disciples performed the physical act of baptism, while Jesus administered the baptism of the Holy Spirit. Jesus' decision was not to prevent boasting about being baptized by Him, but rather had a specific purpose. The power of baptism lies in its Author, not the person administering it. Therefore, our baptism is just as effective, regardless of who performed it.",
+        "wordCount": 74,
+        "quoteTokenProportion": 48.15,
+        "qualityScore": 2.4204921626552975,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.82,
+        "commentatorTierSimilarities": [
+            28.57,
+            30.12,
+            41.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Probably for the same reason that Paul did not baptize usually (1 Cor. i. 14\u201316); viz. because His office was to preach and teach;\u2014and the disciples as yet had no office of this kind.",
+            "To assume a further reason, e.g. that there might not be ground for those whom the Lord himself had baptized to boast of it, is arbitrary and unnecessary.",
+            "But there was probably design also in the journey. It could not have been mere speed,\u2014since He made two days\u2019 stay on the way."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. Jesus baptized not\u2014John",
+            "\tbeing a servant baptized with his own hand; Christ as the Master,",
+            "\t\"baptizing with the Holy Ghost,\" administered the outward",
+            "\tsymbol only through His disciples."
+        ],
+        "Albert Barnes": [
+            "The reason why Jesus did not baptize was probably because, if He had baptized, it might have made unhappy divisions among his followers.",
+            "Those might have considered themselves most worthy or honored who had been baptized by Him.",
+            "Compare 1 Corinthians 1:17."
+        ],
+        "Marvin Vincent": [
+            "Though [\u03ba\u03b1\u03b9\u03c4\u03bf\u03b9\u03b3\u03b5] . Literally, and yet. The report of Jesus ' baptizing brought to the Baptist by his disciples is corrected.",
+            "Baptized. The imperfect tense: it was not His practice to baptize."
+        ],
+        "John Calvin": [
+            "Baptism ought not to be estimated by the person of the minister, but that its power depends entirely on its Author.",
+            "Hence we derive a remarkable consolation when we know that our baptism has no less efficacy to wash and renew us than if it had been given by the hand of the Son of God.",
+            "Now if the Baptism administered by a man is Christ\u2019s Baptism, it will not cease to be Christ\u2019s Baptism whoever be the minister."
+        ],
+        "Archibald T. Robertson": [
+            "Imperfect tense means that it was not the habit of Jesus.",
+            "This is the only N.T. instance of \u03ba\u03b1\u03b9\u03c4\u03bf\u03b9\u03b3\u03b5 (and yet indeed), compound conjunction.",
+            "It is possible that Jesus stopped the baptizing because of the excitement and the issue raised about his Messianic claims till after his resurrection when he enjoined it upon his disciples as a rite of public enlistment in his service."
+        ],
+        "John Gill": [
+            "Though Jesus himself baptized not... lest it should be understood, as if he baptized in his own person; whereas he did not, that not so, well comporting with his greatness and majesty.",
+            "And besides, had another sort of baptism, of a more excellent nature to administer, namely, the baptism of the Spirit.",
+            "The truth of the matter is, that Christ did not baptize in water at all...but his disciples; they baptized in his name, and by his orders, such who were first made disciples by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus did not regularly baptize because His primary role was to preach and teach. This decision was not to prevent boasting about being baptized by Him, but rather had a specific purpose, as evidenced by the two-day stay on His journey. While John the Baptist baptized with his own hand, Jesus, as the Master, administered the outward symbol of baptism through His disciples. The mention of \u03ba\u03b1\u03b9\u03c4\u03bf\u03b9\u03b3\u03b5 (and yet indeed) corrects the report of Jesus baptizing and emphasizes that it was not His habitual practice. There may have been a pause in baptizing due to the controversy surrounding His Messianic claims, later emphasizing the importance of baptism to His disciples after His resurrection. It is crucial to understand that the power of baptism lies in its Author and not the person administering it, providing us with great consolation that our baptism is no less efficacious even if not performed by the Son of God Himself.",
+            "wordCount": 156,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.4370415170338298,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.37,
+            "commentatorTierSimilarities": [
+                30.73,
+                29.36,
+                39.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus did not regularly baptize, as His primary role was to teach and preach. His disciples performed the physical act of baptism, while Jesus administered the baptism of the Holy Spirit. Jesus' decision was not to prevent boasting about being baptized by Him, but rather had a specific purpose. The power of baptism lies in its Author, not the person administering it. Therefore, our baptism is just as effective, regardless of who performed it.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.4204921626552975,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.82,
+            "commentatorTierSimilarities": [
+                28.57,
+                30.12,
+                41.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus did not regularly baptize because His role was primarily focused on preaching and teaching. It was likely to avoid divisions among His followers and to fulfill His disciples' role in administering the outward symbol of baptism. The imperfect tense used suggests that it was not His habitual practice. He chose not to baptize in His own person, highlighting His greatness and majesty, and instead entrusted His disciples to baptize in His name and by His orders. The efficacy of baptism does not depend on the minister but on its Author, providing us with consolation and assurance.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1962961563629237,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.37,
+            "commentatorTierSimilarities": [
+                31.1,
+                29.62,
+                39.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus did not regularly baptize because His primary role was to preach and teach, leaving the act of baptism to His disciples. While John the Baptist baptized with his own hand, Jesus, as the Master, administered the outward symbol of baptism through His disciples. It is crucial to understand that the power of baptism lies in its Author and not the person administering it, providing us with great consolation that our baptism is no less efficacious even if not performed by the Son of God Himself.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.6663038668948964,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.99,
+            "commentatorTierSimilarities": [
+                28.55,
+                29.08,
+                42.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus did not regularly baptize, as His primary role was to preach and teach. This decision was not to prevent boasting about being baptized by Him, but rather had a specific purpose, as evidenced by the two-day stay on His journey. While John the Baptist baptized with his own hand, Jesus, as the Master, administered the outward symbol of baptism through His disciples. The power of baptism lies in its Author, providing us with great consolation that our baptism is no less efficacious even if not performed by the Son of God Himself.",
+            "wordCount": 94,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 2.500176896940098,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.47,
+            "commentatorTierSimilarities": [
+                29.06,
+                30.69,
+                40.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

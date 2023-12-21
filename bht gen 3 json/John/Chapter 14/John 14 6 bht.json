@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:12:19",
+    "verseRef": "John 14:6",
+    "bestBHT": {
+        "bht": "Jesus proclaims Himself as the way - the path we must walk in union with Him. He is the truth - through Him, we gain eternal life and knowledge of God. He is the life - only by being united with Him do we come to the living Father. These statements are profound, overwhelming even, but if Christ is truly the Incarnate Son of God, they are undeniably true. He is the only way to God, and any deviation from Him leads only to astray and emptiness.",
+        "wordCount": 84,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 2.0627057922235563,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.93,
+        "commentatorTierSimilarities": [
+            35.4,
+            28.8,
+            35.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is THE WAY; not merely the Forerunner...but the way, in and on which we must go, having an inner union with and in Him.",
+            "Christ IS THE TRUTH, in Whom only...that Knowledge of Him is gained, which is eternal life.",
+            "the life...of all His in Whom only they who live can come to the living Father."
+        ],
+        "Albert Barnes": [
+            "By this is meant, doubtless, that they and all others were to have access to God only by obeying the instructions, imitating the example, and depending on the merits of the Lord Jesus Christ.",
+            "The life, the purity, and the teaching of Jesus Christ was the most complete and perfect representation of the things of the eternal world that has been or can be presented to man.",
+            "No man can obtain any of these things except by the merits of the Lord Jesus Christ."
+        ],
+        "Marvin Vincent": [
+            "Therefore, with loving condescension the figure is taken up, and they are assured that He is Himself, if we may so speak, this distance to be traversed.",
+            "He embodies what men ought to know and believe of God; what they should do as children of God, and what they should be.",
+            "I am the way which thou shouldst pursue; the truth which thou shouldst believe; the life which thou shouldst hope for."
+        ],
+        "John Calvin": [
+            "The way, the truth, and the life. He lays down three degrees, as if he had said, that he is the beginning, and the middle, and the end; and hence it follows that we ought to begin with him, to continue in him, and to end in him.",
+            "As Christ is the way, the weak and ignorant have no reason to complain that they are forsaken by him; and as he is the truth and the life, he has in himself also what is fitted to satisfy the most perfect.",
+            "If any man turn aside from Christ, he will do nothing but go astray; if any man do not rest on him, he will feed elsewhere on nothing but wind and vanity; if any man, not satisfied with him alone, wishes to go farther, he will find death instead of life."
+        ],
+        "Philip Schaff": [
+            "I am the way, and the truth, and the life: no one cometh unto the Father but through me.\" (John 14:6) ",
+            "Jesus adds these two designations of Himself to the first, because they express the contents, the substance, of that in which the \u2018way\u2019 consists.\" ",
+            "In the present \u2018way\u2019 we have present \u2018truth\u2019 and present \u2018life;\u2019 and each fresh appropriation of the truth deepens that communion by which the life is conditioned."
+        ],
+        "Archibald T. Robertson": [
+            "Either of these statements is profound enough to stagger any one, but here all three together overwhelm Thomas.",
+            "He is the way to God and the only way.",
+            "If he is really the Incarnate Son of God, they are necessarily true."
+        ],
+        "John Gill": [
+            "Christ is not merely the way, as he goes before his people as an example; or merely as a prophet, pointing out unto them by his doctrine the way of salvation; but he is the way of salvation itself by his obedience and sacrifice; nor is there any other.",
+            "He is the way to all the blessings of the covenant of grace; and he is the right way into a Gospel church state here; no one comes rightly into a church of Christ but by faith in him; and he is the way to heaven.",
+            "Christ is the only way of access unto the Father; there is no coming to God as an absolute God, not upon the foot of the covenant of works, nor without a Mediator; and the only Mediator between God and man is Christ."
+        ],
+        "John Wesley": [
+            "To the question concerning the way, he answers, I am the way. To the question concerning knowledge, he answers, I am the truth. To the question whither, I am the life. The first is treated of in this verse; the second, John 14:7-17; the third, 14:18, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He is the way, the truth, and the life - embodying all that we should know and believe about God, all that we should do as children of God, and all that we should aspire to be. By obeying Him, imitating His example, and depending on His merits, we are able to have access to God. Jesus Christ, through His life, purity, and teaching, provides the most complete and perfect representation of the things of the eternal world, which we can only obtain through Him. As the Incarnate Son of God, these statements hold true, and any deviation from Him results in going astray or finding nothing but wind and vanity. He is the only way to salvation, the blessings of the covenant of grace, a Gospel church state, and ultimately to heaven itself. Therefore, we should begin with Him, continue in Him, and end in Him.",
+            "wordCount": 146,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.928461104496099,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                29.54,
+                33.13,
+                37.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He is the way, the truth, and the life - embodying all that we should know and believe about God, all that we should do as children of God, and all that we should aspire to be. By obeying Him, imitating His example, and depending on His merits, we are able to have access to God. Jesus Christ, through His life, purity, and teaching, provides the most complete representation of the eternal world. Any deviation from Him results in going astray and finding nothing but wind and vanity. He is the only way to salvation, the blessings of the covenant of grace, and heaven itself.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.8724324637663663,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.6,
+            "commentatorTierSimilarities": [
+                28.86,
+                34.49,
+                36.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In John 14:6, Jesus proclaims Himself as the way, the truth, and the life. He encompasses everything we need to know and believe about God, the path we must follow, and the source of eternal life. By obeying Him, imitating His example, and relying on His merits, we can access God and receive His blessings. Deviating from Christ leads to confusion and emptiness. He alone is the Mediator, the means of salvation, and the entryway into a Gospel church and ultimately to heaven itself.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.934795732666441,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.67,
+            "commentatorTierSimilarities": [
+                27.2,
+                35.15,
+                37.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus proclaims Himself as the way, the truth, and the life. He is not just a guide, but the very path itself. He embodies what we need to know about God, what we should do as His children, and what we should aspire to be. By obeying Him, imitating His example, and depending on His merits, we gain access to God's presence. He is the only source of salvation, the blessings of the covenant, and entrance into a Gospel church and heaven.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.8914160116003293,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.23,
+            "commentatorTierSimilarities": [
+                31.29,
+                31.19,
+                37.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus proclaims Himself as the way - the path we must walk in union with Him. He is the truth - through Him, we gain eternal life and knowledge of God. He is the life - only by being united with Him do we come to the living Father. These statements are profound, overwhelming even, but if Christ is truly the Incarnate Son of God, they are undeniably true. He is the only way to God, and any deviation from Him leads only to astray and emptiness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.0627057922235563,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.93,
+            "commentatorTierSimilarities": [
+                35.4,
+                28.8,
+                35.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

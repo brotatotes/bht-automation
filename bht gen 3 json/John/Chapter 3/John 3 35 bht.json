@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:05:09",
+    "verseRef": "John 3:35",
+    "bestBHT": {
+        "bht": "The Father's love for the Son is the deep spring that motivates His giving of all things into the Son's hands. This love is not the common love with which God regards all of His creation, but a special and everlasting love of delight and complacency. Everything is entrusted to the Son, including the gifts of the Spirit, the blessings of the covenant, and the salvation and eternal inheritance of the elect. This verse echoes Jesus' own claims, affirming His divine authority and His role in accomplishing all God's purposes.",
+        "wordCount": 93,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9646609741960055,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+        "commentatorTierSimilarities": [
+            26.82,
+            31.25,
+            41.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This, again, is the ground why the Father gives not the Spirit by measure (to Him).\" (Commentary)",
+            "See Matt. xi. 27\u201329, with which this verse forms a remarkable point of connexion, shewing that what is commonly known as John\u2019s form of expression was not confined to him.\" (Commentary)",
+            "Having its traces in the narrative of the other Gospels, which is confessedly, in its main features, independent of him.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The deep spring of that august act in the Father's ineffable 'love of the Son.'\" ",
+            "The delivering over of all things into the hands of the Son.",
+            "The Father loveth."
+        ],
+        "Albert Barnes": [
+            "Loveth the Son - Loves him eminently, above all the prophets and all the other messengers of God.",
+            "Hath given all things into his hand - See the notes at Matthew 28:18."
+        ],
+        "John Calvin": [
+            "The Father loveth the Son. But what is the meaning of this reason? Does he regard all others with hatred? The answer is easy, that he does not speak of the common love with which God regards men whom he has created, or his other works, but of that peculiar love which, beginning with the Son, flows from him to all the creatures.",
+            "For that love with which, embracing the Son, he embraces us also in him, leads him to communicate all his benefits to us by his hand."
+        ],
+        "Philip Schaff": [
+            "The Father loveth the Son. There is a continual heightening of the thought and expression.",
+            "From perfect love follows perfect communication not of \u2018the words of God only, but of all things possessed.",
+            "Whatsoever the Son speaks or gives or does, is spoken, given, done, by the Father."
+        ],
+        "Archibald T. Robertson": [
+            "Hath given all things into his hand.\" ",
+            "John makes the same statement about Jesus in John 13:3...\" ",
+            "Jesus makes the same claim in John 5:19-30; Matthew 11:27; Matthew 28:18."
+        ],
+        "John Gill": [
+            "The Father loveth the Son....and this love is a love of complacency and delight, and is from everlasting to everlasting.",
+            "All men are given to him; the elect in a special sense, as his bride and spouse, as his children, and as his sheep; hence, he died for them, and effectually calls them, and brings them to himself; and they shall never perish, or be plucked out of his hands, but shall have eternal life.",
+            "All spiritual things are in his hands; all the gifts of the Spirit, and the fulness of all grace, sanctifying, justifying, pardoning, adopting, and persevering grace; all the promises and blessings of the covenant; the government of the church, and the judgment of the world; all power, both in heaven and in earth; the salvation of the elect, and their eternal inheritance, happiness, and glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Father's love for the Son is the deep spring that motivates His giving of all things into the Son's hands. This love is not the common love with which God regards all of His creation, but a special and everlasting love of complacency and delight. Everything is entrusted to the Son, including the gifts of the Spirit, the blessings of the covenant, and the salvation and eternal inheritance of the elect. This verse echoes the claims made by Jesus himself in other passages, affirming His divinity, authority, and role as the one through whom all things are accomplished.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9928151463047323,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                27.06,
+                31.32,
+                41.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Father's love for the Son is the deep spring of giving all things into the Son's hands. This love is not the common love with which God regards creation, but a special and everlasting love of complacency and delight. Everything is entrusted to the Son, including the gifts of the Spirit, the blessings of the covenant, and the salvation and eternal inheritance of the elect. This passage reinforces Jesus' own claims about His divinity, authority, and the fulfillment of God's purposes.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9143594206586134,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                26.98,
+                31.44,
+                41.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Father's love for the Son is the source behind giving all things into the Son's hands. This love is not the common love with which God regards creation, but a special and everlasting love of delight. Everything is entrusted to the Son, including the gifts of the Spirit, the blessings of the covenant, and the salvation and eternal inheritance of the elect. This verse reflects Jesus' own claims about His divinity, authority, and the fulfillment of God's purposes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.951907485732548,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                27.57,
+                32.19,
+                40.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Father's love for the Son is the deep spring that motivates His giving of all things into the Son's hands. This love is not the common love with which God regards all of His creation, but a special and everlasting love of delight and complacency. Everything is entrusted to the Son, including the gifts of the Spirit, the blessings of the covenant, and the salvation and eternal inheritance of the elect. This verse echoes Jesus' own claims, affirming His divine authority and His role in accomplishing all God's purposes.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9646609741960055,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                26.82,
+                31.25,
+                41.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Father's love for the Son is the deep spring of giving all things into the Son's hands. This love is not the common love with which God regards creation, but a special and everlasting love of complacency and delight. Everything is entrusted to the Son, including the gifts of the Spirit, the blessings of the covenant, and the salvation and eternal inheritance of the elect. This passage affirms Jesus' divinity, authority, and the fulfillment of God's purposes through Him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9203348265516027,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.19,
+            "commentatorTierSimilarities": [
+                26.69,
+                31.81,
+                41.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

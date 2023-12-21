@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:12:53",
+    "verseRef": "John 16:3",
+    "bestBHT": {
+        "bht": "Jesus forewarned his disciples about the opposition they would encounter, explaining that the religious hatred directed towards them stemmed from the ignorance of God and Christ. This ignorance fueled blind and misguided zeal, driving unbelievers to commit evil deeds, even against their own parents. However, Jesus encouraged his followers to respond with steadfastness, despising their adversaries, knowing that their ignorance of the Father and himself was the true root cause of persecution.",
+        "wordCount": 72,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.7453437546638182,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+        "commentatorTierSimilarities": [
+            20.82,
+            20.65,
+            58.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] See Luke xxiii. 34; ch. xv. 21; Acts iii. 17; and 1 Tim. i. 13."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-5. These things have I spoken unto",
+            "\tyou, that ye should not be offended\u2014both the warnings",
+            "\tand the encouragements just given."
+        ],
+        "Albert Barnes": [
+            "See John 15:21."
+        ],
+        "Marvin Vincent": [
+            "Unto you. Omit."
+        ],
+        "John Calvin": [
+            "There is only one reason why unbelievers are so greatly enraged against them. It is, because they do not know God.",
+            "Christ... enjoins his followers to rise with holy magnanimity, to despise their adversaries, who are impelled by nothing else than error and blindness.",
+            "Again, these words remind us, what a serious evil it is not to know God, since it leads even those who have murdered their own parents to expect praise and approbation for their wickedness."
+        ],
+        "Philip Schaff": [
+            "John 16:3. And these things will they do, because they know not the Father, nor me. The root of the opposition as formerly spoken of, chap. John 15:21.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Because (\u03bf\u03c4). Definite reason for the religious hatred is ignorance of God and Christ as in John 15:21. "
+        ],
+        "John Gill": [
+            "It was pure wilful ignorance of the Father and himself.",
+            "Their zeal was not according to knowledge, it was a blind and misguided one.",
+            "But as an argument with the disciples to bear their ill usage with patience, and to pity them and pray for them."
+        ],
+        "John Wesley": [
+            "They have not known the Father nor me \u2014 This is the true root of persecution in all its forms."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus spoke these words to his followers as a warning and encouragement. He wanted them to be prepared for the opposition and persecution they would face. The reason for this hostility was the ignorance of God and Christ on the part of those who opposed them. Unbelievers were greatly enraged because they simply did not know God. This blindness led them to commit wickedness, even to the point of killing their own parents. Jesus urged his disciples to respond with magnanimity, to rise above the hatred and pray for their adversaries. This lack of knowledge of the Father and Jesus was the true root of all persecution.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6588866923873233,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                22.28,
+                22.31,
+                55.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus warned his disciples about the opposition they would face, emphasizing that the ignorance of God and Christ was the reason for the hatred from unbelievers. This ignorance led to blind and misguided zeal, causing them to act out in violence. Jesus encouraged his followers to respond with patience, pity, and prayer towards their adversaries. The root of persecution lies in not knowing God and Jesus, which drives individuals to commit wicked acts and harbor hostility towards believers.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6909237925508505,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                24.27,
+                20.01,
+                55.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus spoke these words as a cautionary message to his followers, aiming to prepare them for the opposition they would encounter. Their adversaries' religious animosity was rooted in their lack of knowledge about God and Christ, according to John 15:21. This ignorance fueled their blind and misguided zeal, driving them to harm and persecute the disciples. Jesus urged his followers to respond with magnanimity, compassion, and prayer, while highlighting the grave consequence of not knowing God. This ignorance remains the fundamental cause of persecution in various forms.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.6543765271275217,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+            "commentatorTierSimilarities": [
+                22.9,
+                24.77,
+                52.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus forewarned his disciples about the opposition they would encounter, explaining that the religious hatred directed towards them stemmed from the ignorance of God and Christ. This ignorance fueled blind and misguided zeal, driving unbelievers to commit evil deeds, even against their own parents. However, Jesus encouraged his followers to respond with steadfastness, despising their adversaries, knowing that their ignorance of the Father and himself was the true root cause of persecution.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7453437546638182,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                20.82,
+                20.65,
+                58.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus spoke to his followers, cautioning them about the opposition they would face. The reason behind the religious animosity was a lack of knowledge and understanding of God and Christ. This ignorance led to misguided zeal and blindness, resulting in violent acts and hostility. Despite this, Jesus encouraged his disciples to respond with patience, compassion, and prayer towards their adversaries. The root of all persecution lies in not knowing the Father and Jesus, as it drives individuals to commit wicked acts against believers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.634835576405612,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                22.76,
+                23.71,
+                53.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

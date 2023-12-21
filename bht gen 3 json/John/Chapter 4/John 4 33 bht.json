@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:05:35",
+    "verseRef": "John 4:33",
+    "bestBHT": {
+        "bht": "The disciples' unreceptivity to spiritual meaning is revealed as they discuss among themselves whether someone brought Jesus food to eat. This lack of understanding echoes the confusion experienced by the Samaritan woman concerning the living water. Additionally, Jesus' experience of fatigue, thirst, and hunger highlights His vulnerability to the common infirmities of humanity.",
+        "wordCount": 53,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.8372956900482211,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+        "commentatorTierSimilarities": [
+            24.9,
+            41.93,
+            33.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is very characteristic of the first part of this Gospel to bring forward instances of unreceptivity of spiritual meaning.",
+            "The disciples probably have the woman in their thoughts.",
+            "compare ver. 11; ch. ii. 20; iii. 4; vi. 42, 52."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fatigue and thirst we saw He felt; here is revealed another of our common infirmities to which the Lord was subject\u2014hunger.",
+            "...another of our common infirmities to which the Lord was subject\u2014hunger.",
+            "Here is revealed another of our common infirmities to which the Lord was subject\u2014hunger."
+        ],
+        "Albert Barnes": [
+            "Hath any man brought him ... - This is one of the many instances in which the disciples were slow to understand the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Said [\u03b5\u03bb\u03b5\u03b3\u03bf\u03bd] . Imperfect tense : began to say, or were saying. The question was discussed among them. ",
+            "One to another. Fearing to ask Jesus."
+        ],
+        "Philip Schaff": [
+            "Their perplexity is like that of the woman of Samaria in regard to the living water.",
+            "Their perplexity is like that of the woman of Samaria in regard to the living water.",
+            "Their perplexity is like that of the woman of Samaria in regard to the living water."
+        ],
+        "Archibald T. Robertson": [
+            "Did any one bring him (something) to eat?\" During our absence, they mean.",
+            "Negative answer expected.",
+            "See John 4:7 for like infinitive construction (\u03b4\u03bf\u03c2 \u03c0\u03b5\u03b9\u03bd)."
+        ],
+        "John Gill": [
+            "Therefore said the disciples one to another... hath any man brought him [ought] to eat?\" ",
+            "They thought of nothing else but bodily food.",
+            "So dull of understanding spiritual things were the disciples themselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 4:33, the disciples' unreceptivity to spiritual meaning is evident as they discuss amongst themselves whether anyone had brought Jesus something to eat. Their perplexity mirrors that of the woman of Samaria in regard to the living water. This lack of understanding of spiritual things is a recurring theme in the Gospel of John. Fatigue, thirst, and now hunger reveal the common infirmities to which the Lord was subject.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.9953160761641486,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                24.81,
+                42.15,
+                33.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the disciples' failure to grasp the spiritual significance behind Jesus' words is evident as they question whether someone has brought Him food. Their lack of receptivity is a recurring theme in the Gospel of John, and it is reminiscent of the woman of Samaria's confusion about the living water. This incident also highlights Jesus' vulnerability to human weaknesses, as He experiences fatigue, thirst, and now hunger.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8702938813209404,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                24.9,
+                45.66,
+                29.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples in this account demonstrate a common theme in the Gospel of John, as they exhibit a lack of understanding when it comes to spiritual matters. Their discussion about whether someone brought Jesus food showcases their unreceptivity to the deeper meaning of His words. This parallels the woman of Samaria's confusion regarding the living water. Moreover, this narrative reveals the Lord's susceptibility to human weaknesses, as He experiences tiredness, thirst, and now hunger.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8735306140285084,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                23.24,
+                48.27,
+                28.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' failure to comprehend spiritual meaning is evident as they question amongst themselves whether someone has brought Jesus food to eat. This lack of receptivity is a recurring theme in the Gospel of John, paralleling the confusion of the Samaritan woman regarding the living water. Furthermore, by experiencing fatigue, thirst, and now hunger, Jesus reveals His vulnerability to the common infirmities of humanity.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.893503377143975,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                26.02,
+                41.53,
+                32.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' unreceptivity to spiritual meaning is revealed as they discuss among themselves whether someone brought Jesus food to eat. This lack of understanding echoes the confusion experienced by the Samaritan woman concerning the living water. Additionally, Jesus' experience of fatigue, thirst, and hunger highlights His vulnerability to the common infirmities of humanity.",
+            "wordCount": 53,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8372956900482211,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                24.9,
+                41.93,
+                33.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:11:36",
+    "verseRef": "John 13:2",
+    "bestBHT": {
+        "bht": "During the meal, while supper was still being served, the devil, having already put the idea into Judas' heart to betray Jesus, began to tempt him. The fact that Jesus proceeded to wash Judas' feet despite his impending betrayal highlights the immense love that Jesus displayed in this following action. The devil's influence over Judas had become so powerful by this point that Satan had entered into his heart. It is important to note that Satan's temptation can infiltrate even the closest circles, as demonstrated by his presence within the group of disciples.",
+        "wordCount": 95,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 2.348172836197082,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.42,
+        "commentatorTierSimilarities": [
+            35.49,
+            42.47,
+            22.05
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sense is not, as A.V., \u2018supper being ended,\u2019 ... but, supper having begun or having been served.",
+            "The devil having by this time suggested (to Judas) that Judas Iscariot the son of Simon (i. e. that he) should betray Him.",
+            "The fact is here stated, to enhance the love which Jesus shewed in the following action."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "being prepared,\" \"being served,\" or, \"going on\"; for that it was not \"ended\" is plain from :-. ",
+            "the devil having now\u2014or, \"already.",
+            "put into the heart of Judas . . . to betray him\u2014referring to the agreement he had already made with the chief priests."
+        ],
+        "Albert Barnes": [
+            "The devil - The leader or prince of evil spirits.",
+            "The meaning of this passage is that Satan inclined the mind of Judas to do this, or he tempted him to betray his Master.",
+            "Satan could tempt no one unless there was some inclination of the mind, some natural or depraved propensity that he could make use of."
+        ],
+        "Marvin Vincent": [
+            "Having now put [\u03b7\u03b4\u03b7 \u03b2\u03b5\u03b2\u03bb\u03b7\u03ba\u03bf\u03c4\u03bf\u03c2] . Rev., better, already. Put, is literally, thrown or cast.",
+            "Into the heart of Judas.",
+            "Godet does not speak too strongly when he says that 'this meaning is insufferable.'"
+        ],
+        "John Calvin": [
+            "Not only to show the wonderful patience of Christ, who could endure to wash the feet of such a wicked and detestable traitor.",
+            "It was dreadful and most atrocious wickedness, in which the efficacy of Satan was openly displayed.",
+            "There is no wickedness, indeed, that is perpetrated by men, to which Satan does not excite them, but the more hideous and execrable any crime is, the more ought we to view in it the rage of the devil."
+        ],
+        "Philip Schaff": [
+            "(1) \"The chronological notice, \u2018a supper being begun.\u2019 It was during the course of the supper, not after it was ended, that the events to be spoken of took place.",
+            "(2) \"The devil, who had \u2018already\u2019 plotted the destruction of Jesus, and had fixed on Judas as the instrument.",
+            "(3) \"The three particulars are in the sharpest contrast with those in John 13:1, the devil with Jesus, Judas with \u2018His own,\u2019 treachery with love."
+        ],
+        "Archibald T. Robertson": [
+            "During supper... the meal was still going on.",
+            "Satan entered Judas... John's 'already' is pertinent.",
+            "Satan had an open door by now into the heart of Judas."
+        ],
+        "John Gill": [
+            "The washing of the disciples' feet was a peculiar action of our Lord's, and had no manner of regard to any usage among the Jews at such a time.",
+            "his end in this temptation was to work upon him 'to betray' Christ, his Lord and master, who had chosen him to be an apostle of his",
+            "no place and company can preserve persons from the evil suggestions of the devil"
+        ],
+        "John Wesley": [
+            "Having now \u2014 Probably now first."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the meal, while supper was still being served, the devil, having already put the idea into Judas' heart to betray Jesus, began to tempt him. The fact that Jesus proceeded to wash Judas' feet despite his impending betrayal highlights the immense love that Jesus displayed in this following action. The devil's influence over Judas had become so powerful by this point that Satan had entered into his heart. It is important to note that Satan's temptation can infiltrate even the closest circles, as demonstrated by his presence within the group of disciples.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.348172836197082,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.42,
+            "commentatorTierSimilarities": [
+                35.49,
+                42.47,
+                22.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the meal, while supper was still being served, the devil, having already put the idea into Judas' heart to betray Jesus, began to tempt him. The fact that Jesus proceeded to wash Judas' feet despite his impending betrayal highlights the immense love that Jesus displayed in this action. Satan's influence over Judas had become so powerful that Satan had entered his heart. It is important to note that Satan's temptation can infiltrate even the closest circles of people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.297794727940916,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.74,
+            "commentatorTierSimilarities": [
+                35.25,
+                42.56,
+                22.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the supper, while the meal was still being served, the devil had already put the idea into Judas' heart to betray Jesus. The fact that Jesus continued to wash Judas' feet despite his impending betrayal emphasizes the extraordinary love Jesus showed in this action. The powerful influence of Satan over Judas is evident, as Satan had already entered his heart. This reminds us that Satan's temptations can infiltrate even the closest circles.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.3231620157019672,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.59,
+            "commentatorTierSimilarities": [
+                36.04,
+                42.17,
+                21.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the meal, while supper was still being served, the devil, having already put the idea into Judas' heart to betray Jesus, began to tempt him. The fact that Jesus proceeded to wash Judas' feet despite his impending betrayal highlights the immense love that Jesus displayed in this action. The influence of Satan over Judas had become so powerful that he had already entered his heart. This serves as a reminder that Satan's temptations can infiltrate even the closest circles, demonstrating the need for vigilance against his schemes.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.273669931979967,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.94,
+            "commentatorTierSimilarities": [
+                35.53,
+                41.81,
+                22.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the meal, while supper was still being served, the devil, having already put the idea into Judas' heart to betray Jesus, began to tempt him. The fact that Jesus proceeded to wash Judas' feet despite his impending betrayal highlights the immense love that Jesus displayed in this action. The influence of Satan over Judas had become so powerful that he had already entered his heart. This reminds us that Satan's temptations can infiltrate even the closest circles, emphasizing the need for vigilance against his schemes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.26746087701728,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+            "commentatorTierSimilarities": [
+                35.61,
+                42.04,
+                22.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:12:48",
+    "verseRef": "John 14:27",
+    "bestBHT": {
+        "bht": "Jesus distinguishes His peace, true peace, from the empty peace offered by the world. This peace is His bequest, a parting word of richest import. It is not an empty formula but the shalom of the orient, the peace that only Christ can give. It is a true, solid, and substantial peace that carries His people through all the difficulties of life. Let us be satisfied with this peace, not giving a loose reign to the flesh, but relying on the constant, even tranquillity it provides.",
+        "wordCount": 86,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.5616871320001504,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.52,
+        "commentatorTierSimilarities": [
+            32.0,
+            30.98,
+            37.02
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But our Lord distinguishes His peace, true peace, \u2018the peace which I have and give\u2019...from the mere empty word used in the world\u2019s form of greeting.\" ",
+            "Peace (in general) He leaves with them;\u2014His peace He gives to them, over and above that other.\" ",
+            "The world can only give peace in empty formul\u00e6, saying \u2018Peace, peace,\u2019 when there is no peace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is a parting word, but of richest import, the customary 'peace' of a parting friend sublimed and transfigured.",
+            "As 'the Prince of Peace'... He brought it into flesh, carried it about in His Own Person... died to make it ours, left it as the heritage of His disciples upon earth.",
+            "Christ is the Executor of His own Testament; the peace He 'leaves' He 'gives'; Thus all is secure."
+        ],
+        "Albert Barnes": [
+            "Peace I leave with you - This was a common form of benediction among the Jews...It refers here particularly to the consolations which he gave to his disciples in view of his approaching death.",
+            "By all these truths and promises he provided for their peace in the time of his approaching departure...[and] to the peace which is given to all who love the Saviour.",
+            "My peace - Such as I only can impart. The special peace which my religion is fitted to impart...You have a Friend who will never leave you; a peace that shall always attend you."
+        ],
+        "Marvin Vincent": [
+            "Peace. 'These are last words, as of one who is about to go away and says 'good - night ' or gives his blessing'.\" ",
+            "My peace I give. Compare 1 John 3:1. 'It is of his own that one gives' (Godet).\" ",
+            "Let it be afraid [\u03b4\u03b5\u03b9\u03bb\u03b9\u03b1\u03c4\u03c9] . Only here in the New Testament. Properly it signifies cowardly fear."
+        ],
+        "John Calvin": [
+            "He therefore alludes to the ordinary custom of his nation; as if he had said, I give you my Farewell, But he immediately adds, that this peace is of far greater value than that which is usually to be found among men.",
+            "But Christ reminds them that his peace does not consist in an empty and unavailing wish, but is accompanied by the effect.",
+            "Let us learn to be always satisfied with this kind of presence, and let us not give a loose reign to the flesh, which always binds God by its outward inventions."
+        ],
+        "Philip Schaff": [
+            "The peace spoken of here is not the legacy of a dying father, but the salutation of a departing Master.",
+            "It is peace in the midst of the trials which the world brings on the followers of Jesus while they perform their task.",
+            "The effect is that the disciples shall neither be 'troubled' from within, nor 'afraid' with a coward terror in the presence of outward foes."
+        ],
+        "Archibald T. Robertson": [
+            "This is Christ's bequest to the disciples before he goes, the shalom of the orient for greeting and parting, used by Jesus in his appearances after the resurrection as in 2 John 1:3; 3 John 1:14.\" ",
+            "In the sense of spiritual peace such as only Christ can give and which his Incarnation offers to men.\" ",
+            "Neither let it be fearful. Added to the prohibition in verse John 14:1, only N.T. example of \u03b4\u03b5\u03b9\u03bb\u03b9\u03b1\u03c9, common in LXX, like palpitating of the heart."
+        ],
+        "John Gill": [
+            "Christ being about to die and leave his disciples, makes his last will and testament, and as the best legacy he could leave them, bequeaths peace unto them; my peace I give unto you.",
+            "The peace Christ gives is true, solid, and substantial; the peace the world, the men, and things of it give, is a false one.",
+            "The peace of the world will not support under the troubles of it, but the peace which Christ gives, cheerfully carries his people through all the difficulties and exercises of this life."
+        ],
+        "John Wesley": [
+            "Peace I leave with you \u2014 Peace in general; peace with God and with your own consciences.",
+            "My peace \u2014 In particular; that peace which I enjoy, and which I create, I give - At this instant.",
+            "Not as the world giveth \u2014 Unsatisfying unsettled, transient; but filling the soul with constant, even tranquillity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus distinguishes His peace, true peace, from the empty peace offered by the world. This peace is His bequest to His disciples before he goes, a parting word of richest import. It is not an empty formula but the shalom of the orient for greeting and parting, the peace that only Christ can give. It is a true, solid, and substantial peace that carries His people through all the difficulties of life, unlike the false peace offered by the world. It is a peace that fills the soul with constant tranquility, not the transient peace the world gives. Let us be satisfied with the presence of this peace and not allow the flesh to bind God with its outward inventions.",
+            "wordCount": 120,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.591139073098388,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.49,
+            "commentatorTierSimilarities": [
+                31.51,
+                31.84,
+                36.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus distinguishes His peace, true peace, from the empty peace offered by the world. It is His bequest before He goes, not an empty formula but the shalom of the orient, the peace that only Christ can give. It is a true, solid, and substantial peace that carries His people through life's difficulties. Unlike the false peace offered by the world, it fills the soul with constant tranquility. Let us be satisfied with this kind of presence, not allowing the flesh to bind God with outward inventions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.4146142178582037,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.63,
+            "commentatorTierSimilarities": [
+                30.57,
+                31.59,
+                37.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus distinguishes His peace, true peace, from the empty peace offered by the world. This peace is His bequest before He goes, the customary peace of a parting friend sublimed and transfigured. It is not an empty formula but the shalom of the orient for greeting and parting, the peace that only Christ can give. It is a true, solid, and substantial peace that carries His people through all the difficulties of life. Let us be satisfied with this kind of presence, not allowing the flesh to bind God with outward inventions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.449816054837263,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.8,
+            "commentatorTierSimilarities": [
+                32.09,
+                31.7,
+                36.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus distinguishes His peace, true peace, from the empty peace offered by the world. This peace is His bequest, a parting word of richest import. It is not an empty formula but the shalom of the orient, the peace that only Christ can give. It is a true, solid, and substantial peace that carries His people through all the difficulties of life. Let us be satisfied with this peace, not giving a loose reign to the flesh, but relying on the constant, even tranquillity it provides.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.5616871320001504,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.52,
+            "commentatorTierSimilarities": [
+                32.0,
+                30.98,
+                37.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus distinguishes His peace, true peace, from the empty peace offered by the world. This peace is His bequest before He goes, not an empty formula but the shalom of the orient, the peace that only Christ can give. It is a true, solid, and substantial peace that carries His people through all the difficulties of life. Let us be satisfied with this kind of presence, not giving a loose reign to the flesh, but relying on the constant, even tranquility it provides.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.5251709710164523,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.3,
+            "commentatorTierSimilarities": [
+                30.63,
+                31.39,
+                37.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:14:02",
+    "verseRef": "John 18:6",
+    "bestBHT": {
+        "bht": "When Jesus fearlessly proclaimed I am He, His enemies were struck with awe and fell to the ground, overwhelmed by the display of His divine majesty. This miraculous event was not merely astounding, but a revelation of the glory, full of grace and truth within Him. Although they stumbled and questioned if it was due to His claims of equality with God or supernatural power, they persistently assaulted Him, unaware that it was God's providence protecting them from further harm.",
+        "wordCount": 81,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 1.9152929809479413,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+        "commentatorTierSimilarities": [
+            34.85,
+            33.29,
+            31.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The question on the miraculous nature of this incident is not whether it was a miracle at all... but whether it were an act specially intended by our Lord, or a result of the superhuman dignity of His person, and the majestic calmness of His reply.",
+            "I regard it rather as a miracle consequent upon that which Christ said and did, and the state of mind in which His enemies were,\u2014than as one, in the strict sense, wrought by Him.",
+            "Such incidents as this are not related by the Evangelists, and least of all by St. John, as mere astounding facts, but as grounds on which we are to enquire, and determine for ourselves, as to the 'glory, full of grace and truth,' which was in Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As soon then as he said unto them, I am He, they went backward\u2014recoiled.",
+            "and fell to the ground\u2014struck down by a power such as that which smote Saul of Tarsus and his companions to the earth.",
+            "It was the glorious effulgence of the majesty of Christ which overpowered them."
+        ],
+        "Albert Barnes": [
+            "The frank, open, and fearless manner in which Jesus addressed them may have convinced them of his innocence, and deterred them from prosecuting their wicked attempt.",
+            "His disclosure of himself was sudden and unexpected; and while they perhaps anticipated that he would make an effort to escape, they were amazed at his open and bold profession.",
+            "The expression of his unequalled power in knowing how to find the way to the consciences of men, made them feel that they were in the presence of more than mortal man."
+        ],
+        "Philip Schaff": [
+            "It is the Divine majesty and innocence of Jesus that produced the effect.",
+            "They are overwhelmed with awe and fall before Him.",
+            "As soon as they recover, Jesus repeats His question."
+        ],
+        "Archibald T. Robertson": [
+            "Fell to the ground (\u03b5\u03c0\u03b5\u03c3\u03b1\u03bd \u03c7\u03b1\u03bc\u03b1). This recoil made them stumble.",
+            "Was it the former claim of Jesus ( I am , \u03b5\u03b3\u03c9 \u03b5\u03b9\u03bc) to be on an equality with God (John 8:58; John 13:19) or mere embarrassment and confusion or supernatural power exerted by Jesus?",
+            "B adds \u0399\u03b7\u03c3\u03bf\u03c5\u03c2 which must mean simply: 'I am Jesus.'"
+        ],
+        "John Gill": [
+            "They were confounded, surprised, and intimidated.",
+            "They fainted away, as it were, either at the majesty of his looks, or at the power of his words, or both.",
+            "He was God as well as man, and he displayed his divine majesty, glory, and power."
+        ],
+        "John Wesley": [
+            "How amazing is it, that they should renew the assault, after so sensible an experience both of his power and mercy!",
+            "But probably the priests among them might persuade themselves and their attendants, that this also was done by Beelzebub.",
+            "And that it was through the providence of God, not the indulgence of Jesus, that they received no farther damage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus boldly declared I am He, His enemies were not simply astounded by the miraculous nature of the incident, but rather overwhelmed by the superhuman dignity of His person and the majestic power with which He spoke. Falling to the ground, they recoiled in astonishment and were struck down by a supernatural force that showcased the glory, grace, and truth that radiated from Him. This event, recounted not as a mere astounding fact but as a significant revelation, led His enemies to stumble and question whether it was a result of His claims to be equal with God or a display of His supernatural power. Jesus' divine majesty and innocence produced an effect that confounded, intimidated, and awed His adversaries, yet they persisted in their assault. It is remarkable to see how they could overlook such a tangible experience of His power and mercy, likely convincing themselves that it was the work of Beelzebub and not realizing it was through God's providence that they received no further harm.",
+            "wordCount": 170,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.9613827827430277,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "commentatorTierSimilarities": [
+                33.74,
+                33.36,
+                32.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus fearlessly declared I am He, His enemies were overcome with awe and fell to the ground, struck down by the glorious effulgence of His divine majesty. This was not a mere astounding fact but a significant revelation that caused them to stumble and question whether it was a result of His claims to be equal with God or a display of supernatural power. Despite experiencing His undeniable might and grace, they persistently assaulted Him, failing to recognize that it was by God's providence that they were not further harmed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.900177318549879,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.52,
+            "commentatorTierSimilarities": [
+                35.58,
+                33.19,
+                31.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus boldly proclaimed I am He, His enemies were struck with overwhelming awe and fell to the ground, confounded and intimidated by the display of His divine majesty. This remarkable event was not just an astounding fact, but a profound revelation that caused them to stumble and question whether it was a consequence of His claims to be equal with God or a demonstration of supernatural power. Despite encountering His undeniable might and mercy, they continued their assault, blinded to the fact that God's providence was the reason they avoided further harm.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.8687062740416382,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                33.08,
+                33.42,
+                33.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus fearlessly declared I am He, the enemies who sought to arrest Him were overwhelmed by His divine majesty, falling to the ground in awe. This display of supernatural power was not a mere astounding fact, but a profound revelation pointing to the glory, full of grace and truth within Him. Although they stumbled and questioned the nature of this miraculous incident, they stubbornly persisted in their assault, failing to recognize that it was through God's providence that they escaped further harm.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.8486432695491986,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                34.14,
+                35.06,
+                30.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus fearlessly proclaimed I am He, His enemies were struck with awe and fell to the ground, overwhelmed by the display of His divine majesty. This miraculous event was not merely astounding, but a revelation of the glory, full of grace and truth within Him. Although they stumbled and questioned if it was due to His claims of equality with God or supernatural power, they persistently assaulted Him, unaware that it was God's providence protecting them from further harm.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.9152929809479413,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                34.85,
+                33.29,
+                31.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:08:53",
+    "verseRef": "John 8:38",
+    "bestBHT": {
+        "bht": "The fellowship between Jesus and his Father is evident as the speaking and doing were from the father of each. However, Jesus distinguishes his Father from theirs, highlighting that Christ's Father is not their father. While Jesus faithfully communicates the truth he has seen with his Father, the people have learned from the devil and imitated his ways. By opposing the Gospel, they reveal themselves to be children of the devil, aligning with his influence rather than with the Son who offers freedom and sonship through the truth.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.070629476352163,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+        "commentatorTierSimilarities": [
+            22.88,
+            40.98,
+            36.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The speaking and doing were in each case from the father of each.",
+            "Jesus was the son, who remains in the house and sees the father's acts.",
+            "They the bond-slaves, merely prescribed to, and under coercion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "38. my Father . . . your father\u2014(See",
+            "\ton John 8:23)."
+        ],
+        "Albert Barnes": [
+            "Your father - The devil. See John 8:44. To see here means to learn of.",
+            "They had learned of or been taught by the devil, and imitated him.",
+            "They had learned of or been taught by the devil, and imitated him."
+        ],
+        "Marvin Vincent": [
+            "Ye have seen. The best texts read hjkousate, ye heard."
+        ],
+        "John Calvin": [
+            "For my part, I bring nothing forward, but what I have learned from my Father.",
+            "How comes it then that the word of God excites you to such fury, but because you have an opposite father?",
+            "He protects the Gospel against contempt, by showing that it is not wonderful if it be opposed by the children of the devil."
+        ],
+        "Philip Schaff": [
+            "He, the Son, who alone can give them freedom and sonship by the truth revealed in His word... has in that word spoken to them the things which He saw with the Father.",
+            "The Son has been faithful to His mission, this the first clause declares: let them therefore be faithful to their part, and the blessing will be theirs.",
+            "The more common view of this verse assumes that in the second clause Jesus speaks of another father. This is very unlikely... As the Eternal Son, Jesus alone could have the first words spoken of Him."
+        ],
+        "Archibald T. Robertson": [
+            "With my Father, \u03c0\u03b1\u03c1\u03b1 \u03c4\u03c9 \u03c0\u03b1\u03c4\u03c1.\" ",
+            "Locative case of \u03c0\u03b1\u03c4\u03b7\u03c1 and article used as possessive (common idiom), 'by the side of my Father,' picture of intimate fellowship.",
+            "But \u03bf \u03c0\u03b1\u03c4\u03b7\u03c1 does not mean the same person. Christ's Father by contrast is not their father."
+        ],
+        "John Gill": [
+            "I speak that which I have seen with my Father... was what he the only begotten Son, that lay in the bosom of his Father, had seen in his heart, in his purposes, and decrees, in his council, and covenant, and so was clear, complete, certain, and to be depended on.",
+            "and ye do that which ye have seen with your father; meaning the devil, whom, though they had not scan with their eyes, nor any of his personal actions; yet acted so much under his influence, and according to his will, as if they had close and intimate consultation with him, and took their plan of operation from him, and had him continually before them, as their example and pattern, to copy after.",
+            "and ye do that which ye have seen with your father;... and so it is read in three of Beza's copies, and in three of Stephens's."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse implies that Jesus and his Father are the same, as the speaking and doing were in each case from the father of each. However, Jesus clarifies that his Father is not the same as theirs, indicating that Christ's Father by contrast is not their father. While Jesus has faithfully spoken the truth revealed to him by his Father, the people have learned from the devil and imitated his ways. Jesus challenges them to be faithful to their part by accepting him as the Son, who alone can offer freedom and sonship through the truth. By opposing the Gospel, they show themselves to be children of the devil, which is not surprising as their actions align with his influence.",
+            "wordCount": 121,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0493794961671115,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                22.08,
+                43.07,
+                34.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The intimate fellowship between Jesus and his Father is evident as the speaking and doing were from the father of each. However, Jesus distinguishes his Father from theirs, highlighting that Christ's Father is not their father. While Jesus faithfully communicates the truth he has seen with his Father, the people have learned from the devil and imitated his ways. By opposing the Gospel, they reveal themselves to be children of the devil, aligning with his influence rather than with the Son who offers freedom and sonship through the truth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.0610025981931264,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                22.95,
+                40.78,
+                36.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fellowship between Jesus and his Father is evident as the speaking and doing were from the father of each. However, Jesus distinguishes his Father from theirs, highlighting that Christ's Father is not their father. While Jesus faithfully communicates the truth he has seen with his Father, the people have learned from the devil and imitated his ways. By opposing the Gospel, they reveal themselves to be children of the devil, aligning with his influence rather than with the Son who offers freedom and sonship through the truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.070629476352163,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                22.88,
+                40.98,
+                36.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus emphasizes the distinction between his Father and their father, indicating that Christ's Father is not their father. While Jesus faithfully communicates the truth revealed to him by his Father, the people have learned from the devil and imitated his ways. By opposing the Gospel, they reveal themselves to be children of the devil, aligning with his influence instead of accepting the Son's offer of freedom and sonship through the truth. Jesus challenges them to choose faithfulness and receive the blessings that come with it.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9320814427954727,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                20.81,
+                44.49,
+                34.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus differentiates between his Father and their father, highlighting that Christ's Father is not their father. While Jesus faithfully speaks the truth revealed to him by his Father, the people have learned from the devil and imitated his ways. By opposing the Gospel, they show themselves to be children of the devil, aligning with his influence. Jesus urges them to be faithful to their part, as their faithfulness will lead to blessings. The Son, in his mission, offers freedom and sonship through the truth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.864412233985871,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                21.31,
+                45.0,
+                33.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

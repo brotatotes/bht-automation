@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:05:04",
+    "verseRef": "John 3:30",
+    "bestBHT": {
+        "bht": "He is to go on growing while I go on decreasing. These last words of St. John are the fulness of religious sacrifice and fitly close his work. It shows us that it is sufficient honor for man if he may be permitted to point sinners to the Lord Jesus Christ. No work is so honorable and joyful as the ministry of the gospel; none are so highly honored as those who are permitted to stand near the Son of God, lead perishing men to his cross.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.5870414858836943,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+        "commentatorTierSimilarities": [
+            30.9,
+            46.11,
+            22.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "30.] decrease, \u2018as the morning-star at the rise of the sun.\u201d Euthymius. See note on Matt. xi. 2 ff."
+        ],
+        "Albert Barnes": [
+            "He must increase - his authority and influence among the people must grow. his doctrine shall continue to spread until it extends through all the earth.",
+            "I must decrease - The purpose of my ministry is to point men to him. When that is done my work is done.",
+            "It shows us, also, that it is sufficient honor for man if he may be permitted to point sinners to the Lord Jesus Christ. No work is so honorable and joyful as the ministry of the gospel; none are so highly honored as those who are permitted to stand near the Son of God, lead perishing men to his cross."
+        ],
+        "John Calvin": [
+            "He must increase.",
+            "The Sun of Righteousness has arisen.",
+            "He declares that he will most willingly endure to be reduced to nothing."
+        ],
+        "Philip Schaff": [
+            "He must increase, but I must decrease.\" ",
+            "John must become less and less, whilst the glory of his Lord will increase without limit or end; and thus his \u2018decreasing\u2019 is not the failure but the accomplishment of his work.",
+            "It is quite impossible to read carefully the following verses without perceiving that they bear a remarkable resemblance to the early part of the chapter."
+        ],
+        "Archibald T. Robertson": [
+            "He is to go on growing while I go on decreasing.\" ",
+            "These are the last words that we have from John till the despondent message from the dungeon in Machaerus.",
+            "These last words of St. John are the fulness of religious sacrifice and fitly close his work."
+        ],
+        "John Gill": [
+            "He must increase in fame, credit, and reputation among men.",
+            "He must increase in the ministry of his word, which grew and increased mightily.",
+            "He must decrease in his esteem among the people and in his work and office."
+        ],
+        "John Wesley": [
+            "He must increase, but I must decrease.\" ",
+            "Let us know how to set, as well as how to rise.",
+            "Let it comfort our declining days to trace, in those who are likely to succeed us in our work, the openings of yet greater usefulness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He is to go on growing while I go on decreasing. These are the last words that we have from John till the despondent message from the dungeon in Machaerus. These last words of St. John are the fulness of religious sacrifice and fitly close his work. He must increase, but I must decrease. It shows us, also, that it is sufficient honor for man if he may be permitted to point sinners to the Lord Jesus Christ. No work is so honorable and joyful as the ministry of the gospel; none are so highly honored as those who are permitted to stand near the Son of God, lead perishing men to his cross.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.674471893954203,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+            "commentatorTierSimilarities": [
+                32.34,
+                41.05,
+                26.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He is to go on growing while I go on decreasing. These last words of St. John are the fulness of religious sacrifice and fitly close his work. It shows us that it is sufficient honor for man if he may be permitted to point sinners to the Lord Jesus Christ. No work is so honorable and joyful as the ministry of the gospel; none are so highly honored as those who are permitted to stand near the Son of God, lead perishing men to his cross.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.5870414858836943,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                30.9,
+                46.11,
+                22.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These last words of St. John are the fulness of religious sacrifice and fitly close his work. It shows us that it is sufficient honor for man if he may be permitted to point sinners to the Lord Jesus Christ. No work is so honorable and joyful as the ministry of the gospel; none are so highly honored as those who are permitted to stand near the Son of God, lead perishing men to his cross.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5134717263909554,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                27.95,
+                53.74,
+                18.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He is to go on growing while I go on decreasing. These last words of St. John are the fulness of religious sacrifice and fitly close his work. It shows us that it is sufficient honor for man if he may be permitted to point sinners to the Lord Jesus Christ. No work is so honorable and joyful as the ministry of the gospel; none are so highly honored as those who are permitted to stand near the Son of God, lead perishing men to his cross.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.5870414858836943,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                30.9,
+                46.11,
+                22.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He is to go on growing while I go on decreasing. These last words of St. John are the fulfillment of religious sacrifice and aptly conclude his work. They signify that it is an honorable privilege for someone to guide sinners to the Lord Jesus Christ, as the ministry of the gospel is joyful and esteemed. The highest honor is bestowed upon those who are able to stand near the Son of God and lead lost individuals to the redeeming power of his cross.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4866831477113474,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.77,
+            "commentatorTierSimilarities": [
+                32.33,
+                42.79,
+                24.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

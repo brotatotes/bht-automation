@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:11:39",
+    "verseRef": "John 13:15",
+    "bestBHT": {
+        "bht": "Our Lord commanded us to do as He did, not simply what He did, serving others with humility and love. His act of washing the disciples' feet was an example for us to follow, restoring one another in meekness when we stumble. By imitating His selfless actions, we rebuke pride, jealousy, and strife, fostering unity among believers. This example of humility applies to all our interactions, calling us to exercise grace, meekness, humility, and love as we serve one another in the spirit of Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 1.603626120127715,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+        "commentatorTierSimilarities": [
+            22.69,
+            23.79,
+            53.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Notice that our Lord commands us to do, not 'that which I have done to you,' but 'as, in like manner as, I have done to you.'",
+            " ",
+            "Our Lord's action was symbolical, and is best imitated in His followers by endeavoring, 'if a man be overtaken in a fault, to restore such an one in the spirit of meekness.'",
+            "Gal. vi. 1."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12-15. Know ye what I have",
+            "\tdone?\u2014that is, its intent. The question, however, was put",
+            "\tmerely to summon their attention to His own answer."
+        ],
+        "Marvin Vincent": [
+            "Example [\u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1] . On the three words used in the New Testament for example, uJpodeigma, tupov, and deigma, see on 2 Peter 2:6; 1 Peter 5:3; Jude 1:7."
+        ],
+        "John Calvin": [
+            "It deserves our attention that Christ says that he gave an example; for we are not at liberty to take all his actions, without reserve, as subjects of imitation.",
+            "But \u2014 what is far worse \u2014 after having washed the feet of twelve men, they subject every member of Christ to cruel torture, and thus spit in Christ's face.",
+            "At all events, Christ does not here enjoin an annual ceremony, but bids us be ready, throughout our whole life, to wash the feet of our brethren and neighbors."
+        ],
+        "Philip Schaff": [
+            "For I gave you an example, that ye also should do even as I did to you.\" ",
+            "What the giver of a commission does may well be done by the servant to whom the commission is given.",
+            "It is important to observe that the act spoken of is only that of 'washing one another's feet.'"
+        ],
+        "Archibald T. Robertson": [
+            "An example (\u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1)...common in the papyri for illustration, example, warning...\" ",
+            "Jesus has given the disciples an object lesson in humility to rebuke their jealousy, pride, and strife exhibited at this very meal.",
+            "The lesson of the 'example' applies to all the relations of believers with each other."
+        ],
+        "John Gill": [
+            "Christ is an example to his people, in many things; not in his miraculous performances and mediatorial work, but in the exercise of grace, of meekness, humility, love, patience, and the like.\" ",
+            "Our Lord's meaning is, that as he had, by this action, given them an example of humility, condescension, and love; so they should exercise these graces, and perform such kind offices to one another, and to all their fellow Christians.\" ",
+            "It was so understood by the church at Milain, and there practiced; and this custom was continued and defended by St. Ambrose, even though not received by the church of Rome."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord instructs us to follow His example in serving others, not simply in doing what He did to us. His act of washing the disciples' feet was a symbol of humility and a model for us to imitate by restoring those who have fallen in a spirit of meekness. Jesus teaches us through this object lesson in humility to rebuke jealousy, pride, and strife, and to humbly serve one another in all our relationships. He gave us this example not to be repeated annually, but as a lifelong commitment to compassionately serve our brethren and neighbors. Jesus sets the example in exercising grace, meekness, humility, love, patience, and other virtues, and calls us to do likewise in our interactions with fellow believers.",
+            "wordCount": 123,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5849878383737996,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.04,
+            "commentatorTierSimilarities": [
+                23.19,
+                22.8,
+                54.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Notice that our Lord commands us to do, not 'that which I have done to you,' but 'as, in like manner as, I have done to you.' Our Lord's action was symbolical and is best imitated by restoring those who have fallen in a spirit of meekness. This example of humility rebukes jealousy, pride, and strife and applies to all our relationships with believers. Jesus calls us to exercise grace, meekness, humility, love, patience, and other virtues as we serve one another in imitation of His selfless act of washing the disciples' feet.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.5922109414019316,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.28,
+            "commentatorTierSimilarities": [
+                28.75,
+                23.65,
+                47.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In John 13:15, our Lord instructs us to follow His example by serving others in the same manner that He served us. His act of washing the disciples' feet was not just a physical action, but a powerful symbol of humility and love. By restoring those who have fallen in a spirit of meekness, we imitate this act of servanthood and demonstrate compassion to one another. This lesson of humility applies to all our relationships as believers, encouraging us to exercise grace, meekness, humility, and love in our interactions with others.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.58150913104161,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+            "commentatorTierSimilarities": [
+                23.83,
+                26.48,
+                49.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord commanded us to do as He did, not simply what He did, serving others with humility and love. His act of washing the disciples' feet was an example for us to follow, restoring one another in meekness when we stumble. By imitating His selfless actions, we rebuke pride, jealousy, and strife, fostering unity among believers. This example of humility applies to all our interactions, calling us to exercise grace, meekness, humility, and love as we serve one another in the spirit of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.603626120127715,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.66,
+            "commentatorTierSimilarities": [
+                22.69,
+                23.79,
+                53.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord's command in John 13:15 is not simply to do what He did, but to imitate His example. His act of washing the disciples' feet was a symbol of humility meant to teach us to restore one another in meekness when we stumble. This example of humility applies to all relationships among believers, urging us to exercise grace, meekness, humility, and love. By following Christ's example, we can serve one another and foster unity in the body of Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.6617299545759896,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.59,
+            "commentatorTierSimilarities": [
+                25.15,
+                26.54,
+                48.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

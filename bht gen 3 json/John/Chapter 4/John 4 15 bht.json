@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:05:21",
+    "verseRef": "John 4:15",
+    "bestBHT": {
+        "bht": "The woman's response to Jesus' offer of living water is a mixture of banter and genuine curiosity, as she longs for a water that will quench her eternal thirst. Despite not fully understanding the concept of water unto eternal life, her wonder and skepticism are evident in her desire for this mysterious gift. Drawn to the Stranger and His promise, she requests the water that will prevent her from thirsting again, displaying both her yearning and doubt.",
+        "wordCount": 78,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.2622768729363267,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.56,
+        "commentatorTierSimilarities": [
+            38.67,
+            33.54,
+            27.79
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "She apprehends this water as something not requiring a water-pot to draw as something whose power shall never fail;\u2014which shall quench thirst for ever.\" ",
+            "Half in banter, half in earnest, wishing perhaps besides to see whether the gift would after all be conferred, and how.",
+            "We must be able to enter into the complication of her character, and the impressions made on her by the strange things which she has heard, fully to appreciate the spirit of this answer."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is not obtuseness\u2014that is giving way\u2014it expresses a wondering desire after she scarce knew what from this mysterious Stranger.",
+            "It expresses a wondering desire after she scarce knew what from this mysterious Stranger.",
+            "A wondering desire after she scarce knew what from this mysterious Stranger."
+        ],
+        "Albert Barnes": [
+            "The woman said ... - It may seem strange that the woman did not yet understand him, but it shows how slow sinners are to understand the doctrines of religion."
+        ],
+        "John Calvin": [
+            "This woman undoubtedly is sufficiently aware that Christ is speaking of spiritual water; but because she despises him, she sets at naught all his promises.\" ",
+            "For so long as the authority of him who speaks is not acknowledged by us, his doctrine is not permitted to enter.\" ",
+            "Indirectly, therefore, the woman taunted Christ, saying, 'Thou boastest much, but I see nothing: show it in reality, if thou canst.'"
+        ],
+        "Philip Schaff": [
+            "In the mysterious words of the Jewish traveller one thing was plain, instead of the water she came to draw, water was offered that would satisfy thirst now and for ever.",
+            "Could she gain this gift, she would no longer need to traverse the distance from Sychar to Jacob\u2019s well.",
+            "It is in every way more probable and true to nature to consider it as the expression of a bewildered mind eager to receive such a gift as has been offered, little as she could comprehend of what nature the gift could be."
+        ],
+        "Archibald T. Robertson": [
+            "This water (\u03c4\u03bf\u03c5\u03c4\u03bf \u03c4\u03bf \u03c5\u03b4\u03c9\u03c1). This peculiar kind of water. She did not grasp the last phrase 'unto life eternal,' and speaks half ironically of 'this water.'\" ",
+            "That I thirst not (\u03b9\u03bd\u03b1 \u03bc\u03b7 \u03b4\u03b9\u03c8\u03c9). Final clause with \u03b9\u03bd\u03b1, alluding to the words of Jesus, water that will prevent thirst.",
+            "Neither come (\u03bc\u03b7\u03b4\u03b5 \u03b4\u03b9\u03b5\u03c1\u03c7\u03c9\u03bc\u03b1). Carrying on the negative purpose with present middle subjunctive, 'nor keep on coming' as she has to do once or twice every day. She is evidently puzzled and yet attracted."
+        ],
+        "John Gill": [
+            "Pray give me some of this fine water you talk of, that I may never thirst again; and so have no occasion to be at all this fatigue and trouble.\" ",
+            "Though some think, that she now spoke seriously, having some little knowledge of what our Lord meant by living water, but with a mixture of much ignorance, and that she heartily desired it.",
+            "But the reason she gives, shows the contrary."
+        ],
+        "John Wesley": [
+            "That I thirst not \u2014 She takes him still in a gross sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman, half in banter and half in earnest, expresses a wondering desire for the water that Jesus offers. She may not fully grasp the concept of water unto eternal life, but she longs for something that will quench her thirst forever. Although some may think she is speaking seriously, her reason for wanting the water reveals her ignorance. Yet, she is attracted to the mysterious Stranger and the promise He presents. Her request for the water that will prevent her from thirsting again displays both her yearning and her skepticism.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.1703908734560584,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.51,
+            "commentatorTierSimilarities": [
+                38.41,
+                31.74,
+                29.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman's response to Jesus' offer of living water is a mixture of banter and genuine curiosity. She longs for a water that will quench her thirst for eternity, even though she may not fully comprehend the concept of water unto eternal life. Her desire for this mysterious gift reveals both her wonder and her skepticism. Though she may not fully understand, she is drawn to the Stranger and the promise He presents. Her request for the water that will prevent her from thirsting again expresses both her yearning and her doubt.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.1239222827943447,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.96,
+            "commentatorTierSimilarities": [
+                37.85,
+                33.43,
+                28.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman's response to Jesus' offer of living water is a mixture of banter and genuine curiosity. She longs for a water that will quench her thirst for eternity, even though she may not fully grasp the concept of water unto eternal life. Her desire for this mysterious gift reveals both her wonder and skepticism. Though she may not fully comprehend, she is drawn to the Stranger and the promise He presents. Her request for the water that will prevent her from thirsting again expresses both her yearning and doubt.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.1074134119445977,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                38.43,
+                32.81,
+                28.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman's response to Jesus' offer of living water is a mixture of banter and genuine curiosity, as she longs for a water that will quench her eternal thirst. Despite not fully understanding the concept of water unto eternal life, her wonder and skepticism are evident in her desire for this mysterious gift. Drawn to the Stranger and His promise, she requests the water that will prevent her from thirsting again, displaying both her yearning and doubt.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.2622768729363267,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.56,
+            "commentatorTierSimilarities": [
+                38.67,
+                33.54,
+                27.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Half in banter and half in earnest, the woman expresses a wondering desire for the water that Jesus offers. Although she may not fully grasp the concept of water unto eternal life, she longs for something that will quench her thirst forever. Her request for the water that will prevent her from thirsting again displays both her yearning and skepticism. Even though she may not fully understand, she is drawn to the mysterious Stranger and the promise He presents.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.23639153114895,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.7,
+            "commentatorTierSimilarities": [
+                38.96,
+                32.57,
+                28.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

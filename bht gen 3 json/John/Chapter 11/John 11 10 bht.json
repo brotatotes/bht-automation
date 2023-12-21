@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-21-2023 03:10:07",
+    "verseRef": "John 11:10",
+    "bestBHT": {
+        "bht": "Walking without the light of Jesus, the divine purpose that illumines our path of duty, causes stumbling because there is no light within us. Just as the light of the body is the eye, we require inward light to guide us. When we blind our eyes, darkness surrounds us both physically and spiritually. The consequence of spiritual darkness is depicted by Jesus, revealing the distinction between Christianity and Neo-Platonism. Trusting in God's light enables us to walk securely, fearless of any obstacles that may come our way.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.6847457650787623,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+        "commentatorTierSimilarities": [
+            54.63,
+            0.0,
+            45.37
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "whosoever walks without this light,\u2014without Me,\u2014without the light of the divine purpose illumining the path of duty, stumbles,\u2014because he has no light in him.",
+            "In him, for \u2018the light of the body is the eye,\u2019 and the light must be in us in order to guide us.",
+            "Shut it out by blinding the eyes, and we are in darkness. So too of spiritual light."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7-10. Let us go into Judea again\u2014He",
+            "\twas now in Perea, \"beyond Jordan."
+        ],
+        "Archibald T. Robertson": [
+            "It is spiritual darkness that Jesus here pictures, but the result is the same.",
+            "Man has the capacity for light, but is not the source of light.",
+            "By the application of this principle Christianity is distinguished from Neo-Platonism."
+        ],
+        "John Gill": [
+            "He stumbleth; at everything that lies in the way.\" ",
+            "Because there is no light in him; there being none from above communicated to him.\" ",
+            "He should walk safe and secure; nor had he anything to fear from them."
+        ],
+        "John Wesley": [
+            "But if a man walk in the night \u2014 If he have not light from God; if his providence does no longer protect him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Without the light of Jesus, the divine purpose that illuminates our path of duty, we stumble because we have no light in us. Just as the light of the body is the eye, the light must be in us to guide us. If our eyes are blinded, we are in darkness, both physically and spiritually. In John 11:10, Jesus pictures the result of spiritual darkness, emphasizing that while man has the capacity for light, he is not the source of light. This distinction sets Christianity apart from Neo-Platonism. We should walk safe and secure with God's light, with nothing to fear in our journey.",
+            "wordCount": 105,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.761918107469913,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                53.8,
+                0.0,
+                46.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without the light of Jesus, the divine purpose that illumines our path of duty, we stumble because we have no light in us. Just as the light of the body is the eye, the light must be in us to guide us. If our eyes are blinded, we are in darkness, both physically and spiritually. In John 11:10, Jesus shows the result of spiritual darkness and highlights the distinction between Christianity and Neo-Platonism. We should walk safe and secure with God's light, with nothing to fear.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.7840439543723203,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                52.66,
+                0.0,
+                47.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Walking without the light of Jesus, the divine purpose that illuminates our path of duty, leads to stumbling because there is no light in us. Just as the light of the body is the eye, we need the light from above to guide us. If our eyes are blinded, we are left in darkness, spiritually and physically. Jesus portrays the consequence of spiritual darkness in this verse, distinguishing Christianity from Neo-Platonism. With God's light, we can walk securely, free from fear.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8230350215576294,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.96,
+            "commentatorTierSimilarities": [
+                53.72,
+                0.0,
+                46.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Walking without the light of Jesus, the divine purpose that illumines our path of duty, causes stumbling because there is no light within us. Just as the light of the body is the eye, we require inward light to guide us. When we blind our eyes, darkness surrounds us both physically and spiritually. The consequence of spiritual darkness is depicted by Jesus, revealing the distinction between Christianity and Neo-Platonism. Trusting in God's light enables us to walk securely, fearless of any obstacles that may come our way.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6847457650787623,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.36,
+            "commentatorTierSimilarities": [
+                54.63,
+                0.0,
+                45.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Walking without the light of Jesus\u2014the divine purpose that illuminates our path of duty\u2014leads to stumbling because there is no light within us. Just as the light of the body is the eye, we need inward light to guide us in our journey. Blinding our eyes leaves us in darkness, physically and spiritually. Spiritual darkness, exemplified by Jesus in this passage, distinguishes Christianity from Neo-Platonism. By embracing God's light, we can confidently walk with security, unafraid of any obstacles that may arise.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6957645714931933,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.73,
+            "commentatorTierSimilarities": [
+                56.41,
+                0.0,
+                43.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:14:20",
+    "verseRef": "John 18:34",
+    "bestBHT": {
+        "bht": "Jesus' response to Pilate's question about whether He claimed to be a king was aimed at discerning the nature of Pilate's inquiry. If it was from Pilate himself, it would imply one meaning of kingship, while if it came from others, it would open the way to the true understanding of Jesus' kingship. Jesus sought to establish whether the charge against Him was political, within Pilate's jurisdiction, or purely religious, with which Pilate had no concern. He was striving for a fair trial, exposing the base motives of His accusers and shifting the guilt onto them.",
+        "wordCount": 99,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 2.1305180185613435,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+        "commentatorTierSimilarities": [
+            32.95,
+            34.32,
+            32.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I regard this question, Sayest thou this thing of thyself... as intended to distinguish the senses of the word King as applied to Jesus.",
+            "If he asked of himself, the word could certainly have but one meaning, and that one would be wrongly applied.",
+            "If from information derived from the Jews, this very fact would open the way to the true meaning in which He was King of the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus answered . . . Sayest thou this of thyself, or did others tell it thee of me?\" ",
+            "an important question for our Lord's case, to bring out whether the word 'King' were meant in a political sense, with which Pilate had a right to deal.\" ",
+            "or whether he were merely put up to it by His accusers, who had no claims to charge Him but such as were of a purely religious nature, with which Pilate had nothing to do."
+        ],
+        "Albert Barnes": [
+            "During all the time in which you have been praetor, have you seen anything in me that has led you to apprehend sedition or danger to the Roman power?\" ",
+            "This evidently was intended to remind Pilate that nothing was proved against him, and to caution him against being influenced by the malicious accusations of others.",
+            "Jesus demanded a just trial, and claimed that Pilate should not be influenced by any reports that he might have heard of him."
+        ],
+        "Philip Schaff": [
+            "Many reasons have been suggested to account for this question of Jesus. The real reason seems to be, that the guilt of those now compassing His death may be fixed upon the proper parties.",
+            "It is to appear that not Pilate before whose bar He stands, but others altogether are the guilty ones.",
+            "The object is attained, for Pilate\u2019s answer shows that he knew of no harm in Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "Of thyself (\u03b1\u03c0\u03bf \u03c3\u03b5\u03b1\u03c5\u03c4\u03bf\u03c5). Whether a sincere inquiry on Pilate's part or a trap from the Sanhedrin. "
+        ],
+        "John Gill": [
+            "Christ's meaning is, whether he asserted this from the sentiments of his own mind...",
+            "...he was desirous of convincing Pilate of his weakness, if he so judged of himself, and of his imprudence and hastiness, if he took up this from others...",
+            "...to expose the baseness and wickedness of the Jews, to charge him with this, when they themselves would have made him a temporal king, and he refused..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus responded to Pilate's question about whether He claimed to be a king by asking if Pilate was inquiring on his own or if he had been informed by others. This was a significant question because it distinguished the different meanings of the word king in relation to Jesus. If Pilate had asked out of his own curiosity, it would imply a political interpretation of Jesus' kingship, which fell within Pilate's jurisdiction. However, if he had been influenced by the accusations of the religious leaders, it would point to a purely religious charge that Pilate had no authority to deal with. Jesus sought a fair trial and wanted Pilate to recognize that there was no evidence of sedition or danger to the Roman power in His actions. Ultimately, Jesus aimed to shift the guilt of His impending death onto the appropriate parties and highlight the unjustness of the whole situation.",
+            "wordCount": 152,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 2.128941564242147,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                32.02,
+                35.91,
+                32.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus responded to Pilate's question about whether He claimed to be a king by asking if Pilate was inquiring on his own or if he had been informed by others. This was an important distinction as it determined the context in which Jesus' kingship was being discussed. If Pilate asked out of his own curiosity, it would imply a political interpretation of Jesus' kingship, giving Pilate the right to deal with it. However, if he had been influenced by the religious leaders, it would imply a purely religious charge with which Pilate had no concern. Jesus sought a fair trial and aimed to expose the true guilt of those participating in His unjust death.",
+            "wordCount": 115,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1136367682320576,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.62,
+            "commentatorTierSimilarities": [
+                32.46,
+                35.25,
+                32.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus responded to Pilate's question about whether He claimed to be a king by asking if Pilate was inquiring on his own or if he had been informed by others. This question distinguished the different meanings of the word king in relation to Jesus. Jesus sought a fair trial and aimed to expose the true guilt of those accusing Him, making it clear that Pilate, not Him, was the one who needed convincing. Ultimately, Jesus wanted to highlight the unjustness of the situation and the base intentions of the religious leaders.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.08490119075971,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                33.99,
+                33.78,
+                32.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' response to Pilate's question about whether He claimed to be a king was aimed at discerning the nature of Pilate's inquiry. If it was from Pilate himself, it would imply one meaning of kingship, while if it came from others, it would open the way to the true understanding of Jesus' kingship. Jesus sought to establish whether the charge against Him was political, within Pilate's jurisdiction, or purely religious, with which Pilate had no concern. He was striving for a fair trial, exposing the base motives of His accusers and shifting the guilt onto them.",
+            "wordCount": 99,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 2.1305180185613435,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                32.95,
+                34.32,
+                32.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' response to Pilate's question about whether He claimed to be a king was an attempt to distinguish the various senses of the word King as applied to Him. By asking Pilate if he inquired on his own or if others had informed him, Jesus aimed to reveal the true meaning of His kingship. This was essential for His case to determine whether the accusation was politically relevant or solely of a religious nature. Jesus sought a fair trial and to expose the ill intentions of his accusers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0933437652389597,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                33.98,
+                31.98,
+                34.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:10:13",
+    "verseRef": "John 11:2",
+    "bestBHT": {
+        "bht": "This reference to Mary of Bethany anointing the Lord with ointment reveals her distinguished role and the close relationship between her and Jesus. It is crucial to differentiate her from Mary Magdalene or the sinful woman mentioned in Luke 7:36-50. The Evangelist uses the term the Lord, emphasizing Jesus as the Lord of Life. John is not alluding to Luke's account but setting the stage for his own narrative in chapter 12. The past tense employed by the Evangelist confirms Mary as the one who anointed the Lord, demonstrating her deep affection for Jesus.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.220854212708865,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+        "commentatorTierSimilarities": [
+            32.87,
+            30.33,
+            36.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Another reference to a fact which, as our Lord prophesied, was known wherever the Gospel was preached.",
+            "This reference containing, as it does, the expression the Lord or our Lord, implying, \u2018as we all well know,\u2019\u2014is a striking illustration of that prophecy.",
+            "St. John himself relates the occurrence, ch. xii. 3, being necessary for the course of his narrative."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was that Mary who anointed the Lord with ointment.\" ",
+            "She 'anointed THE LORD,' says the Evangelist\u2014led doubtless to the use of this term here, as he was about to exhibit Him illustriously as the Lord of Life.",
+            "She is first named, though the younger, as the more distinguished of the two."
+        ],
+        "Albert Barnes": [
+            "It was that Mary ... - See the Matthew 26:6 note; Luke 7:36-50 notes."
+        ],
+        "Marvin Vincent": [
+            "Anointed [\u03b1\u03bb\u03b5\u03b9\u03c8\u03b1\u03c3\u03b1]. Three words for anointing are found in the New Testament: ajleifw, criw, and its compounds, and murizw.",
+            "Between the two others the distinction is strictly maintained. Criw, which occurs five times, is used in every case but one of the anointing of the Son by the Father With the Holy Spirit.",
+            "Aleifw is used of all actual anointings."
+        ],
+        "John Calvin": [
+            "It is a similar display of ignorance, to imagine that this Mary, the sister of Lazarus, was that woman of wicked and infamous life.",
+            "As if it were not evident enough that Christ was anointed on various occasions, and even at different places.",
+            "The past tense employed by the Evangelist, who anointed, must be referred... to the time when he wrote."
+        ],
+        "Philip Schaff": [
+            "These words seem intended to bring into view the closeness of the relation between Jesus and Mary.",
+            "There are particulars in which this narrative closely resembles that of chap. John 2:1-11: as there we have the closest tie of kindred, so here we read of the most intimate friendship.",
+            "But the one tie as well as the other must yield to the voice of God."
+        ],
+        "Archibald T. Robertson": [
+            "The effort to link Mary of Bethany with Mary Magdalene and then both names with the sinful woman of Luke 7:36-50 is gratuitous and to my mind grotesque and cruel to the memory of both Mary of Bethany and Mary Magdalene.",
+            "John is not here alluding to Luke's record, but preparing for his own in chapter 12.",
+            "What earthly difficulty is there in two different women under wholly different circumstances doing a similar act for utterly different purposes?"
+        ],
+        "John Gill": [
+            "It was [that] Mary which anointed the Lord with ointment... Mary in John 12:3, who is both mentioned by name, and along with Lazarus her brother, and with whom all the circumstances of the affair suit...",
+            "...and wiped his feet with her hair; instead of a napkin, after she had anointed them with oil; John 12:3- :,",
+            "Whose brother Lazarus was sick; this is observed, to show how well they were all acquainted with Christ, and affected to him."
+        ],
+        "John Wesley": [
+            "It was that Mary who afterward anointed, etc. She was more known than her elder sister Martha, and as such is named before her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This reference to Mary of Bethany anointing the Lord with ointment highlights her distinguished role and the intimate relationship between her and Jesus. It is important to note that this Mary should not be confused with Mary Magdalene or the sinful woman mentioned in Luke 7:36-50. The use of the term the Lord in this context emphasizes Jesus as the Lord of Life. John is not alluding to Luke's account but is instead preparing for his own narrative in chapter 12. The past tense employed by the Evangelist refers to the time when he wrote, affirming Mary as the one who anointed the Lord. This demonstrates the close relationship and affection that Mary and her brother Lazarus had for Jesus.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 2.211635512285617,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.88,
+            "commentatorTierSimilarities": [
+                30.78,
+                31.67,
+                37.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This reference to Mary of Bethany anointing the Lord with ointment reveals her distinguished role and the close relationship between her and Jesus. It is crucial to differentiate her from Mary Magdalene or the sinful woman mentioned in Luke 7:36-50. The Evangelist uses the term the Lord, emphasizing Jesus as the Lord of Life. John is not alluding to Luke's account but setting the stage for his own narrative in chapter 12. The past tense employed by the Evangelist confirms Mary as the one who anointed the Lord, demonstrating her deep affection for Jesus.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.220854212708865,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                32.87,
+                30.33,
+                36.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This reference to Mary of Bethany anointing the Lord with ointment highlights her distinguished role and the intimate relationship between her and Jesus. It is important to note that this Mary should not be confused with Mary Magdalene or the sinful woman mentioned in Luke 7:36-50. The use of the term the Lord in this context emphasizes Jesus as the Lord of Life. John is not alluding to Luke's account but is instead preparing for his own narrative in chapter 12. The past tense employed by the Evangelist refers to the time when he wrote, affirming Mary as the one who anointed the Lord. This demonstrates the close relationship and affection that Mary and her brother Lazarus had for Jesus.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 2.211635512285617,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.88,
+            "commentatorTierSimilarities": [
+                30.78,
+                31.67,
+                37.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of Mary of Bethany anointing the Lord with ointment serves as a reminder of the close relationship between her and Jesus. It is crucial to distinguish her from other Marys mentioned in the Scriptures. The designation the Lord highlights Jesus as the Lord of Life. John's intention is not to refer to Luke's account but to pave the way for his own narrative. The past tense reveals that Mary is the one who anointed the Lord, emphasizing her deep affection for Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.150958299400182,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.86,
+            "commentatorTierSimilarities": [
+                32.16,
+                32.36,
+                35.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This particular reference to Mary of Bethany anointing the Lord with ointment serves to highlight her distinguished role and the intimate relationship she shared with Jesus. It is important to emphasize that this Mary should not be confused with Mary Magdalene or the sinful woman mentioned in Luke 7:36-50. The Evangelist's use of the term the Lord underscores Jesus as the Lord of Life. John is not alluding to Luke's account, but rather preparing the way for his own narrative in chapter 12. The past tense employed by the Evangelist solidifies Mary as the one who anointed the Lord, shedding light on her deep affection for Jesus.",
+            "wordCount": 107,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.1885383267353644,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.11,
+            "commentatorTierSimilarities": [
+                33.24,
+                30.4,
+                36.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-21-2023 03:06:45",
+    "verseRef": "John 6:21",
+    "bestBHT": {
+        "bht": "Their initial fears were transformed into wonder and delight as the disciples witnessed the miraculous power of the Lord of Nature propelling the boat across the tranquil waters. Lost in amazement, they arrived at their destination without even realizing the rapid journey. Their desire to receive Jesus and His actual arrival seemed to occur simultaneously, as they willingly followed Him to the land they had been heading to. In a continuous state of awe, they welcomed His presence, knowing He had the ability to help them.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.4992801421272008,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+        "commentatorTierSimilarities": [
+            42.21,
+            0.0,
+            57.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Their first fears being now converted into wonder and delight.",
+            "The little bark\u2014propelled by the secret power of the Lord of Nature now sailing in it\u2014glided through the now unruffled waters.",
+            "While they were wrapt in wonder at what had happened, not heeding their rapid motion, [the ship] was found at port, to their still further surprise."
+        ],
+        "Marvin Vincent": [
+            "The imperfect denotes a continuous state of feeling, not a mere impulsive and temporary wish.",
+            "Their immediate and miraculous arrival at the shore was simultaneous either with their entertaining the wish to receive Him, or with His actually coming on board.",
+            "The verb has the sense of retiring from something."
+        ],
+        "Archibald T. Robertson": [
+            "They began to be willing.",
+            "To which land they had been going.",
+            "Intransitive use of '\u03c5\u03c0\u03b1\u03b3\u03c9', to lead under, to go under or away."
+        ],
+        "John Gill": [
+            "When they knew who he was; and especially he was the more welcome, as they were in distress; and he able, as they well knew, to help them.",
+            "Which was done, as Nonnus observes, by a divine motion; for not only the wind ceased, but another miracle was wrought.",
+            "The ship was in an instant at the place whither they intended to go."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the disciples found themselves in a state of awe and amazement, their initial fears transformed into wonder and delight. The boat, under the secret power of the Lord of Nature, glided smoothly and effortlessly across the once tumultuous waters. Their astonishment only grew as they realized that, amidst their marveling, they had arrived at their destination without even recognizing their rapid journey. Their desire to receive Him and His actual arrival seemed to occur simultaneously, and as they began to be willing, they found themselves led toward the land they had been heading to. In this miraculous and continuous state of feeling, the disciples were not only comforted in their distress, but also welcomed the presence of one who they knew could help them.",
+            "wordCount": 125,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.4451466165599238,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.39,
+            "commentatorTierSimilarities": [
+                44.49,
+                0.0,
+                55.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the disciples' fear turned into wonder, the boat, powered by the Lord of Nature, effortlessly sailed through the calmed waters. Their surprise grew when they suddenly found themselves at their intended destination, unaware of their rapid journey. Their desire to receive Him and His arrival seemed to happen simultaneously. They willingly followed Him to the land they had been heading to, while feeling a continuous state of awe. In their distress, they welcomed His presence, knowing He had the ability to help them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4781520064554985,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.49,
+            "commentatorTierSimilarities": [
+                43.84,
+                0.0,
+                56.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were initially filled with fear, but their emotions quickly transformed into astonishment and delight. Guided by the divine power of the Lord of Nature, the small boat smoothly sailed across the tranquil waters. Lost in their wonder, they arrived at their destination without even realizing their rapid journey. Their desire to receive Jesus and His actual arrival seemed to occur simultaneously. They willingly followed Him to the land they had been heading to, experiencing a continuous state of awe.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4096084524642345,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.21,
+            "commentatorTierSimilarities": [
+                45.86,
+                0.0,
+                54.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Filled with fear, the disciples were amazed as the boat, under the secret power of the Lord of Nature, effortlessly sailed across the calm waters. Unaware of their rapid progress, they found themselves at their intended destination, their surprise growing with each passing moment. Their desire to receive Jesus and His actual arrival seemed to happen simultaneously, and they willingly followed Him to the land they had been heading to, in a continuous state of awe and wonder.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.4521030407337285,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.63,
+            "commentatorTierSimilarities": [
+                45.06,
+                0.0,
+                54.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their initial fears were transformed into wonder and delight as the disciples witnessed the miraculous power of the Lord of Nature propelling the boat across the tranquil waters. Lost in amazement, they arrived at their destination without even realizing the rapid journey. Their desire to receive Jesus and His actual arrival seemed to occur simultaneously, as they willingly followed Him to the land they had been heading to. In a continuous state of awe, they welcomed His presence, knowing He had the ability to help them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.4992801421272008,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                42.21,
+                0.0,
+                57.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:05:13",
+    "verseRef": "John 3:25",
+    "bestBHT": {
+        "bht": "The circumstances led to a dispute between John's disciples and a Jew over the symbolic meaning and purifying power of baptism. Sadly, discussions on religious matters often revolve around unimportant issues and are driven by a desire to promote one's own sect. Ignorance and people-pleasing tendencies can lead to mistakes and contention, as seen in this situation. The Jews were resistant to John's baptism, which they saw as a threat to their traditional purifications. It would have been better if such disputes over baptism had been avoided, focusing solely on the purifications required by the Law.",
+        "wordCount": 100,
+        "quoteTokenProportion": 39.19,
+        "qualityScore": 1.9027391128270517,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+        "commentatorTierSimilarities": [
+            28.77,
+            34.95,
+            36.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The circumstances under which this dispute arose seem to have been these:\u2014John and our Lord were baptizing near to one another."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "on the part of.",
+            "and a Jew,",
+            "the symbolical meaning of washing with water being put (as in John 2:6) for the act itself."
+        ],
+        "Albert Barnes": [
+            "That even in the time of Jesus, when the gospel began to be preached, there was witnessed what has been ever since - unhappy disputings on the subject of religion.",
+            "That such discussions are commonly about some unimportant matter of religion - something which they may not yet be qualified to understand, and which does not materially affect them if they could.",
+            "That such disputes are often connected with a spirit of proselytism - with boasting of the superior excellence of the sect with which 'we' are connected, or in connection with whom we have been converted, and often with a desire to persuade others to join with us."
+        ],
+        "Marvin Vincent": [
+            "Question would be zhthma, always in the sense of a question in debate. The word here represents the process of inquiry.\" ",
+            "The Greek distinctly states that the question was raised by the disciples of the Baptist.\" ",
+            "Probably not about the familiar ceremonial purifications, but as to whether the baptism of Jesus or of John had the greater purifying power."
+        ],
+        "John Calvin": [
+            "Ignorance is always bold and presumptuous.",
+            "They deserved reproof, because, not understanding what was the real nature of Baptism, they expose the holy ordinance of God to ridicule.",
+            "We are taught, by their example, into what mistakes those men fall who are actuated by a sinful desire to please men rather than by a zeal for God."
+        ],
+        "Philip Schaff": [
+            "In the circumstances just described, discussion would inevitably arise as to the relative position and value of the two baptisms.",
+            "The disciples of John refused to regard their master\u2019s baptism as less efficacious than that of another, who had been himself baptized by him.",
+            "Unable either to set the question at rest, or to ignore the opposition of the Jew, they brought the matter of contention before John."
+        ],
+        "Archibald T. Robertson": [
+            "A questioning (\u03b6\u03b7\u03c4\u03b7\u03c3\u03b9\u03c2)...means a meticulous dispute.\"  ",
+            "With a Jew (\u03bc\u03b5\u03c4\u03b1 \u0399\u03bf\u03c5\u03b4\u03b1\u03b9\u03bf\u03c5). So correct text, not \u0399\u03bf\u03c5\u03b4\u03b1\u03b9\u03c9\u03bd (Jews).\"  ",
+            "The Jews had various kinds of baptisms or dippings."
+        ],
+        "John Gill": [
+            "The contention between them was about purifying.",
+            "The Jews in common were very tenacious of [the traditions of the elders], which they thought were brought into neglect, and contempt, by the baptism of John.",
+            "It would have been much better, if no such rite at all had been used by any, but that the purifications required by the law of Moses, and by their elders, had been strictly and solely attended to."
+        ],
+        "John Wesley": [
+            "The Jews... and John's disciples... disputed, which they should be baptized by.",
+            "The Jews... disputed, which they should be baptized by.",
+            "They disputed, which they should be baptized by."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The dispute arose when John and Jesus were baptizing near each other, leading to a question on the part of John's disciples, possibly about the greater purifying power of Jesus' baptism compared to John's. Such disputes on religious matters are often unimportant and connected to a desire to promote one's own sect, rather than a genuine understanding of the truth. Ignorance and a desire to please people rather than God often lead to such mistakes and contentions. In this case, the Jews were adamant about their traditional purifications and found John's baptism a threat to their practices. Ultimately, it would have been better if such disputes had never occurred and the focus had remained solely on the purifications required by the Law.",
+            "wordCount": 126,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 1.9302865437284478,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                28.23,
+                38.79,
+                32.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The circumstances led to a dispute between John's disciples and a Jew over the symbolic meaning and purifying power of baptism. Sadly, discussions on religious matters often revolve around unimportant issues and are driven by a desire to promote one's own sect. Ignorance and people-pleasing tendencies can lead to mistakes and contention, as seen in this situation. The Jews were resistant to John's baptism, which they saw as a threat to their traditional purifications. It would have been better if such disputes over baptism had been avoided, focusing solely on the purifications required by the Law.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.9027391128270517,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+            "commentatorTierSimilarities": [
+                28.77,
+                34.95,
+                36.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A dispute arose between John's disciples and a Jew over the significance and efficacy of baptism. Such debates on religious matters often center around trivial issues and a desire to elevate one's own group. Ignorance and a tendency to seek approval from others can lead to misguided debates and contention. The Jews, holding on to their traditional purifications, found John's baptism challenging. It would have been better if such disputes had not taken place, focusing instead on the Law's prescribed purification practices.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8371602808928826,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                30.06,
+                34.78,
+                35.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A dispute arose between John's disciples and a Jew, questioning the symbolic meaning and purifying power of baptism. Such religious debates often revolve around unimportant matters and reflect a desire to promote personal sects. Ignorance and a tendency to seek human approval can lead to mistakes and contentions. The Jews, attached to their traditional purification rituals, viewed John's baptism as a threat. It would have been preferable if such disputes were avoided and the focus remained on the purifications required by the Law.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.7792215230064756,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                29.41,
+                34.23,
+                36.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The dispute between John's disciples and a Jew arose because of their different views on the purifying power and symbolism of baptism. Such disagreements on matters of religion are often centered around insignificant issues and driven by the desire to boast and proselytize. Ignorance and a misguided zeal to please others rather than God can lead to such mistakes. The Jews were particularly tenacious about their traditional purifications and saw John's baptism as a challenge. Ideally, the focus should have remained on strictly adhering to the purifications prescribed by the Law.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8160458704303566,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                28.2,
+                33.9,
+                37.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

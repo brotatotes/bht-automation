@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:07",
+    "verseRef": "John 10:30",
+    "bestBHT": {
+        "bht": "The Father and the Son are not personally one, but essentially one in terms of nature and essence. Their unity extends beyond just will or power, but encompasses everything they have in common. The Jews understood Jesus's words to assert this essential unity. The word 'one' signifies unity of essence, not just a union of design or plan. This statement by Jesus is the culmination of His claims about the relationship between Himself and the Father, stirring uncontrollable anger among the Pharisees.",
+        "wordCount": 83,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.212740547210539,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+        "commentatorTierSimilarities": [
+            33.71,
+            34.84,
+            31.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "One is neuter in gender, not masculine: the Father and the Son are not personally one, but essentially.",
+            "The Father and the Son are one in essence primarily, but therefore also one in working, and POWER, and in will.",
+            "That the Jews understood our Lord\u2019s words to assert this essential unity, is plain from the next verse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Are\" is in the masculine gender\u2014\"we (two persons) are\"; while \"one\" is neuter\u2014\"one thing.\" Perhaps \"one interest\" expresses, as nearly as may be, the purport of the saying.",
+            "Neither have they,\" says He; \"though He has given them to Me, they are as much in His own almighty hands as ever\u2014they cannot be, and when given to Me they are not, given away from Himself; for HE AND I HAVE ALL IN COMMON.",
+            "Thus it will be seen, that, though oneness of essence is not the precise thing here affirmed, that truth is the basis of what is affirmed, without which it would not be true."
+        ],
+        "Albert Barnes": [
+            "The word translated 'one' is not in the masculine, but in the neuter gender. It expresses union, but not the precise nature of the union.\" ",
+            "Many interpreters have understood this as referring to union of design and of plan.",
+            "Most of the Christian fathers understood them, however, as referring to the oneness or unity of nature between the Father and the Son."
+        ],
+        "Marvin Vincent": [
+            "One [\u03b5\u03bd] . The neuter, not the masculine eiv, one person. It implies unity of essence, not merely of will or of power."
+        ],
+        "John Calvin": [
+            "He therefore testifies that his affairs are so closely united to those of the Father, that the Father\u2019s assistance will never be withheld from himself and his sheep.",
+            "The ancients made a wrong use of this passage to prove that Christ is (\u1f41\u03bc\u03bf\u03bf\u1f7b\u03c3\u03b9\u03bf\u03c2) of the same essence with the Father.",
+            "For Christ does not argue about the unity of substance, but about the agreement which he has with the Father, so that whatever is done by Christ will be confirmed by the power of his Father."
+        ],
+        "Archibald T. Robertson": [
+            "One (\u03b5\u03bd). Neuter, not masculine (\u03b5\u03b9\u03c2). Not one person (cf. \u03b5\u03b9\u03c2 in Galatians 3:28), but one essence or nature.",
+            "The Pharisees had accused Jesus of making himself equal with God as his own special Father (John 5:18). Jesus then admitted and proved this claim (John 5:19-30).",
+            "This crisp statement is the climax of Christ's claims concerning the relation between the Father and himself (the Son). They stir the Pharisees to uncontrollable anger."
+        ],
+        "John Gill": [
+            "I and [my] Father are one; that is, in nature and essence, and perfections, particularly in power.",
+            "He is here treating of his divine sonship, and almighty power; wherefore considered in the relation of the Son of God, and as possessed of the same perfections with God, he and his Father are one.",
+            "There is no contradiction between the words of Christ in one place, and in the other; nor is he chargeable with any blasphemy against God, or any arrogance in himself, by assuming deity to himself."
+        ],
+        "John Wesley": [
+            "I and the Father are one \u2014 Not by consent of will only, but by unity of power, and consequently of nature.",
+            "Are \u2014 This word confutes Sabellius, proving the plurality of persons: one - This word confutes Arius, proving the unity of nature in God.",
+            "Never did any prophet before, from the beginning of the world, use any one expression of himself, which could possibly be so interpreted as this and other expressions were, by all that heard our Lord speak. Therefore if he was not God he must have been the vilest of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the essential unity and oneness of the Father and the Son, not just in terms of will or power, but in their nature and essence. While their relationship is not one of personal oneness, they are one thing or one interest due to their commonality in all things. This unity of essence is the foundation of what is being affirmed. The Pharisees clearly understood Jesus' words to assert this essential unity. It is important to note that the word used for one is in the neuter gender, signifying unity of essence rather than just a union of design or plan. The statement that I and the Father are one is the culmination of Jesus' claims regarding the relationship between Himself and the Father, which provoked fury among the Pharisees.",
+            "wordCount": 132,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 2.237490350161472,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.74,
+            "commentatorTierSimilarities": [
+                34.39,
+                34.53,
+                31.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Father and the Son are not personally one, but essentially one in terms of nature and essence. Their unity extends beyond just will or power, but encompasses everything they have in common. The next verse displays how the Jews comprehended this essential unity. The word 'one' used here denotes unity of essence and not merely a union of design or plan. Jesus's statement is the climax of His claims about the relationship between Him and the Father, provoking the Pharisees to uncontrollable anger.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.1575669723368187,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.08,
+            "commentatorTierSimilarities": [
+                34.46,
+                34.28,
+                31.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Father and the Son are essentially one, sharing a common nature and essence. Their unity extends beyond will or power, encompassing all things that they have in common. The Jews understood that Jesus's words affirmed this essential unity. The word 'one' signifying unity of essence rather than a union of design or plan. Jesus's statement serves as the culmination of His claims about the relationship between Himself and the Father, provoking intense anger among the Pharisees.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.1228065747568445,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.92,
+            "commentatorTierSimilarities": [
+                32.45,
+                36.16,
+                31.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Father and the Son are not personally one, but essentially one in terms of nature and essence. Their unity extends beyond just will or power, but encompasses everything they have in common. The next verse displays how the Jews comprehended this essential unity. The word 'one' used here denotes unity of essence and not merely a union of design or plan. Jesus's statement is the climax of His claims about the relationship between Him and the Father, provoking the Pharisees to uncontrollable anger.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.1575669723368187,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.08,
+            "commentatorTierSimilarities": [
+                34.46,
+                34.28,
+                31.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Father and the Son are not personally one, but essentially one in terms of nature and essence. Their unity extends beyond just will or power, but encompasses everything they have in common. The Jews understood Jesus's words to assert this essential unity. The word 'one' signifies unity of essence, not just a union of design or plan. This statement by Jesus is the culmination of His claims about the relationship between Himself and the Father, stirring uncontrollable anger among the Pharisees.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.212740547210539,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+            "commentatorTierSimilarities": [
+                33.71,
+                34.84,
+                31.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

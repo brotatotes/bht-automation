@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:05:56",
+    "verseRef": "John 4:24",
+    "bestBHT": {
+        "bht": "The declaration that God is a Spirit highlights the non-material nature of God and the need for a spiritual worship in harmony with God's true nature. True worship requires offerings of the soul and homage of the heart, aligning with the spiritual perfections, power, wisdom, love, and holiness of God. Our worship must be suitable to God's nature, with faith, love, and holiness permeating our entire being.",
+        "wordCount": 70,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.4725310661758213,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.55,
+        "commentatorTierSimilarities": [
+            27.72,
+            30.63,
+            41.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God is a Spirit, was the great Truth of Judaism, whereby the Jews were distinguished from the idolatrous people around them.",
+            "It is not certain what expectations the Samaritans had regarding the Messiah.",
+            "The verb rendered will tell us is used especially of enouncing or propounding by divine or superior authority."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The point raised will very soon cease to be of any moment, for a total change of dispensation is about to come over the Church.",
+            "The Samaritans are wrong, not only as to the place, but the whole grounds and nature of their worship, while in all these respects the truth lies with the Jews.",
+            "As God is a Spirit, so He both invites and demands a spiritual worship, and already all is in preparation for a spiritual economy, more in harmony with the true nature of acceptable service than the ceremonial worship by consecrated persons, place, and times, which God for a time has seen meet to keep up till fulness of the time should come."
+        ],
+        "Albert Barnes": [
+            "God is without a body; that he is not material or composed of parts; that he is invisible, in every place, pure and holy.",
+            "This is one of the first truths of religion, and one of the sublimest ever presented to the mind of man.",
+            "A pure, a holy, a spiritual worship, therefore, is such as he seeks - the offering of the soul rather than the formal offering of the body - the homage of the heart rather than that of the lips."
+        ],
+        "Marvin Vincent": [
+            "God is a Spirit...Spirit is God.\" ",
+            "The phrase describes the nature, not the personality of God.\" ",
+            "God is light; God is love."
+        ],
+        "John Calvin": [
+            "This single consideration, when the inquiry relates to the worship of God, ought to be sufficient for restraining the wantonness of our mind, that God is so far from being like us, that those things which please us most are the objects of his loathing and abhorrence.",
+            "Let us know that this modesty does not hold the lowest place in the true worship of God, to regard with suspicion whatever is gratifying according to the flesh.",
+            "Besides, as we cannot ascend to the height of God, let us remember that we ought to seek from His word the rule by which we are governed."
+        ],
+        "Philip Schaff": [
+            "No other worship than that which is offered in spirit and truth can possibly be actual worship of God, because 'God is spirit'.\" ",
+            "Not the outward action of the worshipper, not the forms he uses or the gifts he brings, but his spirit alone can be brought to meet the spiritual presence of God.\" ",
+            "The independence of forms which marks the essence of religion, and yet its freedom to clothe itself in form so long as the spirit is not lost, these are the lessons taught here."
+        ],
+        "Archibald T. Robertson": [
+            "God is Spirit\" - The non-corporeality of God is clearly stated and the personality of God also.",
+            "God is a Spirit\" - More precisely, \"God is Light\" and \"God is Love.\" ",
+            "Here is the real necessity\" - This is the true necessity."
+        ],
+        "John Gill": [
+            "God is a spirit, and not a body, or a corporeal substance: the nature and essence of God is like a spirit, simple and uncompounded, not made up of parts; nor is it divisible; nor does it admit of any change and alteration.",
+            "God, as a spirit, is immaterial, immortal, invisible, and an intelligent, willing, and active being; but differs from other spirits, in that he is not created, but an immense and infinite spirit, and an eternal one, which has neither beginning nor end.",
+            "They that worship him... must worship him in spirit and in truth; in the true and spiritual manner... which is suitable to his nature, and agreeably to his will."
+        ],
+        "John Wesley": [
+            "God is a Spirit \u2014 Not only remote from the body, and all the properties of it, but likewise full of all spiritual perfections, power, wisdom, love, holiness.",
+            "Our worship should be suitable to his nature.",
+            "We should worship him with the truly spiritual worship of faith, love, and holiness, animating all our tempers, thoughts, words, and actions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse declares that God is a Spirit, emphasizing the non-material, invisible nature of God. It distinguishes the true worship of God from idolatry and points to a spiritual economy and a worship that is in harmony with the true nature of acceptable service. The verse emphasizes that the offerings of the soul and the homage of the heart are essential in true worship, rather than outward actions or forms. It calls for worship in spirit and truth, recognizing that our worship should align with the spiritual perfections, power, wisdom, love, and holiness of God. This verse reminds us that the worship we offer should be suitable to the nature of God, with faith, love, and holiness permeating our entire being.",
+            "wordCount": 122,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.3642881203180295,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.95,
+            "commentatorTierSimilarities": [
+                27.16,
+                33.36,
+                39.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The declaration that God is a Spirit emphasizes the non-material, invisible nature of God and distinguishes true worship from idolatry. It points to a spiritual economy, where offerings of the soul and homage of the heart are essential. True worship is characterized by faith, love, and holiness, aligning with the spiritual perfections of God. This verse calls for worship in spirit and truth, with our entire being reflecting the nature of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.361683658362523,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.87,
+            "commentatorTierSimilarities": [
+                27.15,
+                35.18,
+                37.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The declaration that God is a Spirit highlights the non-material nature of God and the need for a spiritual worship in harmony with God's true nature. True worship requires offerings of the soul and homage of the heart, rather than mere outward actions or forms. It calls for worship in spirit and truth, aligning with the spiritual perfections, power, wisdom, love, and holiness of God. Our worship should be suitable to the nature of God, with faith, love, and holiness permeating our entire being.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.4065845678625113,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.36,
+            "commentatorTierSimilarities": [
+                26.72,
+                32.68,
+                40.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The declaration that God is a Spirit emphasizes the non-material nature of God and the need for a spiritual worship in harmony with God's true nature. True worship requires offerings of the soul and homage of the heart, rather than mere outward actions or forms. It calls for worship in spirit and truth, aligning with the spiritual perfections, power, wisdom, and holiness of God. Our worship should be suitable to the nature of God, with faith, love, and holiness permeating our entire being.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.4016051113073225,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.19,
+            "commentatorTierSimilarities": [
+                26.58,
+                32.99,
+                40.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The declaration that God is a Spirit highlights the non-material nature of God and the need for a spiritual worship in harmony with God's true nature. True worship requires offerings of the soul and homage of the heart, aligning with the spiritual perfections, power, wisdom, love, and holiness of God. Our worship must be suitable to God's nature, with faith, love, and holiness permeating our entire being.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4725310661758213,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.55,
+            "commentatorTierSimilarities": [
+                27.72,
+                30.63,
+                41.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

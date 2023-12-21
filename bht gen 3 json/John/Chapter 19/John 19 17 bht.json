@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:14:46",
+    "verseRef": "John 19:17",
+    "bestBHT": {
+        "bht": "As Jesus prepared to bear His own cross, He chose to fully experience the weight and suffering of His impending sacrifice. However, the strain of the night before and the torment in His heart caused Jesus to falter, requiring Simon of Cyrene to carry the cross on His behalf. John's precision in recounting these events highlights the significance of the place of a skull or Calvary, where the redemptive act would take place. Through His sacrifice, Jesus provides us with the example of going outside the camp, bearing the reproach, and ultimately offering atonement for our sins.",
+        "wordCount": 98,
+        "quoteTokenProportion": 33.82,
+        "qualityScore": 1.733946963632807,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+        "commentatorTierSimilarities": [
+            29.11,
+            28.56,
+            42.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] See on Matt. ver. 33."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But our Lord would die with every faculty clear, and in full sensibility to all His sufferings.",
+            "Thou wilt feel all, that Thou may'st pity all.",
+            "O most entire and perfect Sacrifice, Renewed in every pulse."
+        ],
+        "Marvin Vincent": [
+            "Bearing the cross for Himself.\" ",
+            "John does not mention the impressment of Simon of Cyrene for this service.",
+            "Skull."
+        ],
+        "John Calvin": [
+            "We must look for righteousness through the satisfaction made by Christ.",
+            "He wished both to be led out of the city, and to be hanged on a tree; for the custom was, in compliance with the injunction of the Law, that the sacrifices, the blood of which was shed for sin, were carried out of the camp.",
+            "Both were fulfilled in Christ, that we might be fully convinced that atonement has been made for our sins by the sacrifice of his death."
+        ],
+        "Philip Schaff": [
+            "It is a trace of the accuracy of John both in observing and relating facts, that he is the only Evangelist who mentions the circumstance.\" ",
+            "The most interesting point to be noticed is the manner in which John dwells upon the meaning of the name.\" ",
+            "The \u2018place of a skull\u2019 is the emblem to him of the sad transaction about to be completed there."
+        ],
+        "Archibald T. Robertson": [
+            "A criminal condemned to be crucified was required to carry his own cross\" (Bernard).",
+            "But apparently Jesus under the strain of the night before and the anguish of heart within him gave out so that Simon of Cyrene was impressed to carry it for Jesus.",
+            "See Mark 15:22; Matthew 27:33; Luke 23:33 for the meaning of 'place of a skull' or Calvary and Golgotha in Hebrew (Aramaic)."
+        ],
+        "John Gill": [
+            "Christ...carried his cross himself...till the Jews, meeting with Simon the Cyrenian, obliged him to bear it after him...and in this he has left us an example to go forth without the camp, bearing his reproach.",
+            "This was an ancient tradition...that Adam was buried in Calvary under the place where the cross of Christ was fixed.",
+            "The place of the cross...as the Hebrews dispute: others say that the hill itself was in the form of a man's skull, and therefore was so called."
+        ],
+        "John Wesley": [
+            "Bearing his cross \u2014 Not the whole cross, (for that was too large and heavy,) but the transverse beam of it, to which his hands were afterward fastened.",
+            "This they used to make the person to be executed carry.",
+            "Matthew 27:31; Mark 15:20; Luke 23:26."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus prepared to bear His cross to the place of His crucifixion, He embraced the weight of His impending suffering both physically and emotionally. Despite the strain of the previous night and the anguish in His heart, Jesus insisted on carrying the cross for Himself, symbolizing His complete sacrifice for all humanity. However, weakened by the weight and the emotional turmoil, Jesus eventually required assistance from Simon of Cyrene to bear the burden. John, meticulously observing and recounting these events, includes the detail of the location being known as the place of a skull or Calvary, emphasizing the significance of the tragic yet redemptive act about to unfold there.",
+            "wordCount": 110,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.6792285427938376,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.18,
+            "commentatorTierSimilarities": [
+                32.36,
+                28.63,
+                39.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the moments leading up to His crucifixion, Jesus willingly took up His own cross, exemplifying His complete sacrifice for all. However, due to the weight and emotional strain, Jesus eventually required the help of Simon of Cyrene. John, in his attention to detail, includes the name place of a skull or Calvary, highlighting the significant location where this redemptive act would take place. Through His suffering and ultimate sacrifice, Jesus offers the opportunity for righteousness and atonement, fulfilling the Law and leaving us with an example to bear our own reproach.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6698981979427903,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                29.71,
+                30.37,
+                39.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus prepared to bear His cross, He resolved to experience every suffering and retain full awareness of His sacrifice. Yet, weakened by the events preceding the crucifixion, Jesus eventually required assistance from Simon of Cyrene. John's attention to detail includes the name place of a skull or Calvary, symbolizing the solemn transaction about to occur there. By willingly taking up the cross and ultimately surrendering Himself, Jesus fulfills the Law and provides atonement for our sins, encouraging us to bear our own burdens.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.683019790627022,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                29.65,
+                29.59,
+                40.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus prepared to bear His own cross, He chose to fully experience the weight and suffering of His impending sacrifice. However, the strain of the night before and the torment in His heart caused Jesus to falter, requiring Simon of Cyrene to carry the cross on His behalf. John's precision in recounting these events highlights the significance of the place of a skull or Calvary, where the redemptive act would take place. Through His sacrifice, Jesus provides us with the example of going outside the camp, bearing the reproach, and ultimately offering atonement for our sins.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.733946963632807,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                29.11,
+                28.56,
+                42.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In His final moments before the crucifixion, Jesus chose to bear the weight of His own cross, fully aware of the suffering He was about to endure. However, the physical and emotional toll caused Jesus to require assistance from Simon of Cyrene. John's account emphasizes the significance of the location known as the place of a skull or Calvary, where the sacrificial act would take place. Through His self-sacrifice, Jesus fulfills the Law, making atonement for our sins and leaving us with an example to bear our own burdens.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.6836562843482819,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.32,
+            "commentatorTierSimilarities": [
+                28.95,
+                30.71,
+                40.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

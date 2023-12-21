@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:14:31",
+    "verseRef": "John 19:5",
+    "bestBHT": {
+        "bht": "Behold the man! Pilate utters these words to move the crowd to pity and silence their malice, hoping they will be satisfied with the indignities Jesus has already endured. In presenting Jesus in His suffering state, wearing a mock crown and robe, Pilate unintentionally highlights the innocence and dignity of the greatest figure in history, the Man of the ages. Jesus bears the mockery with kingly poise, displaying meekness and patience in the face of injustice, leaving an indelible mark on the hearts of Christians throughout the centuries.",
+        "wordCount": 88,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.90306339479754,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+        "commentatorTierSimilarities": [
+            32.58,
+            41.74,
+            25.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Behold the man!is uttered to move their contempt and pity;\u2014 \u2018See this man who submits to and has suffered these indignities\u2014how can He ever stir up the people, or set Himself up for King?\" ",
+            "Now cease to persecute Him; your malice surely ought to be satisfied.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Behold the man!\"\u2014There is no reason to think that contempt dictated this speech. There was clearly a struggle in the breast of this wretched man.",
+            "Not only was he reluctant to surrender to mere clamor an innocent man, but a feeling of anxiety about His mysterious claims, as is plain from what follows, was beginning to rack his breast.",
+            "Those three words have been eagerly appropriated by all Christendom, and enshrined for ever in its heart as a sublime expression of its calm, rapt admiration of its suffering Lord."
+        ],
+        "Albert Barnes": [
+            "Behold the man!\" - It is probable that Pilate pointed to the Saviour, and his object evidently was to move them to compassion, and to convince them, by a sight of the Saviour himself, that he was innocent.",
+            "Amid all this Jesus was meek, patient, and calm, giving evident proofs of innocence.",
+            "Behold his countenance! How mild! His body scourged, his head pierced with thorns! Yet in all this he is meek and patient."
+        ],
+        "Marvin Vincent": [
+            "Came Jesus forth. From the Praetorium.\" ",
+            "Wearing [\u03c6\u03bf\u03c1\u03c9\u03bd]. Not ferwn, bearing, but the frequentative form of that verb, denoting an habitual or continuous bearing; hence, wearing, as though it were His natural dress."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus bore the mockery with kingly dignity as part of the shame of the Cross.",
+            "This exclamatory introduction of Jesus in mock coronation robes...was clearly intended to excite pity and to show how absurd the charge of the Sanhedrin was.",
+            "Pilate failed utterly in this effort and did not dream that he was calling attention to the greatest figure of history, the Man of the ages."
+        ],
+        "John Gill": [
+            "with his temples scratched and torn with the thorny crown, and the blood running down from thence, and his face and eyes swollen with the blows he had received from their closed fists, and all besmeared with his own blood, and the soldiers' spittle.\" ",
+            "behold the man; not their king, that would have provoked them; though he did say so afterwards, when he found he could not prevail upon them to agree to his release.",
+            "and that he was a poor despicable man, as the condition he was in showed; and that it was a weak thing in them to fear anything with respect to any change of, or influence in, civil government from one that made such a figure; and therefore should be satisfied with what had been done to him, and dismiss him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold the man! Pilate utters these words, not out of contempt, but to provoke the pity and sympathy of the crowd. He hoped that by presenting Jesus in His suffering state, wearing a mock crown and robe, the people would see His innocence and cease their persecution. Pilate, torn between his reluctance to give in to the demands of an innocent man and his anxiety about Jesus' mysterious claims, unknowingly calls attention to the greatest figure of history, the Man of the ages. Jesus, in His meekness and dignity, bears the mockery and shame of the Cross with kingly poise. These three words, Behold the man, have been adopted by Christendom as a profound expression of admiration for our suffering Lord.",
+            "wordCount": 121,
+            "quoteTokenProportion": 35.44,
+            "qualityScore": 1.921430411661313,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                34.49,
+                39.86,
+                25.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold the man! Pilate utters these words to move the crowd to pity and silence their malice, hoping they will be satisfied with the indignities Jesus has already endured. In presenting Jesus in His suffering state, wearing a mock crown and robe, Pilate unintentionally highlights the innocence and dignity of the greatest figure in history, the Man of the ages. Jesus bears the mockery with kingly poise, displaying meekness and patience in the face of injustice, leaving an indelible mark on the hearts of Christians throughout the centuries.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.90306339479754,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                32.58,
+                41.74,
+                25.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold the man! Pilate's words are not driven by contempt, but seek to evoke compassion and challenge the absurdity of the charges against Jesus. In his act of presenting Jesus in his suffering state, adorned with mock regalia, Pilate unintentionally draws attention to the magnificence of Jesus, the Man of the ages. With kingly dignity, Jesus endures the mockery and shame of the Cross, displaying remarkable meekness and patience. These three words have resonated deeply within Christendom as a profound expression of adoration and admiration for our suffering Lord.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7910755412004433,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                36.08,
+                42.12,
+                21.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold the man! Pilate's exclamation is not born out of contempt, but rather seeks to evoke a mixture of pity and consideration for Jesus and His sufferings. By presenting Jesus in His afflicted state, wearing a mock crown and robe, Pilate unintentionally draws attention to the innocence and dignity of Jesus, the Man of the ages. Jesus, with a regal bearing, endures the mockery and shame of the Cross, displaying immense meekness and patience. These three words have become a cherished expression of admiration for our suffering Lord within Christendom.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.826831865156823,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                35.69,
+                42.15,
+                22.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold the man! Pilate's intention in uttering these words was not out of contempt, but rather to stir pity and perhaps satisfy the crowd\u2019s malice. This phrase has been embraced by Christians as a profound expression of their admiration for Jesus, who, with his regal bearing and kingly dignity, bore the mockery and shame of the Cross. Despite the innocence and patience displayed by Jesus in the face of unjust persecution, Pilate failed to recognize that he was drawing attention to the greatest figure in history \u2013 the Man of the ages.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8813134119410686,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                35.27,
+                38.75,
+                25.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

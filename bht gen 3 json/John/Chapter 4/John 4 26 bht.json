@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:05:51",
+    "verseRef": "John 4:26",
+    "bestBHT": {
+        "bht": "Jesus, in speaking to the Samaritan woman, adapts His revelations to the specific circumstances and dispositions of the individuals, magnifying Himself to her while remaining reserved with His disciples. By addressing her sin frankly but not harshly, Jesus allows her to see that He is aware of it, leading her to recognize Him as the Forgiver. This encounter exemplifies Jesus' love for souls, His skill in navigating conversations with moral degradation and ignorant bigotry, and His fulfillment of the Messianic prophecy.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.8952294193188348,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+        "commentatorTierSimilarities": [
+            40.42,
+            26.39,
+            33.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is nothing so opposed to true Scripture criticism, as to form a preconceived plan and rationale of the course of our Lord in the flesh, and then to force recorded events into agreement with it.",
+            "He who knew what was in man, varied His revelations and injunctions, as the time and place, and individual dispositions required.",
+            "In saying I that speak unto thee, He intends a reference to her words, 'will tell us all things,'\u2014I am He, who am now speaking to thee\u2014fulfilling part of this telling all things."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He had magnified them to the woman, and yet to themselves He is to the last far more reserved than to her\u2014proving rather than plainly telling them He was the Christ.",
+            "But what would not have been safe among them was safe enough with her, whose simplicity at this stage of the conversation appears from the sequel to have become perfect.",
+            "What now will the woman say? We listen, the scene has changed, a new party arrives, the disciples have been to Sychar, at some distance, to buy bread, and on their return are astonished at the company their Lord has been holding in their absence."
+        ],
+        "Albert Barnes": [
+            "I that speak onto thee am - he I am the Messiah."
+        ],
+        "Marvin Vincent": [
+            "This incident furnishes a notable illustration of our Lord's love for human souls, and of His skill, tact, and firmness in dealing with moral degradation and ignorant bigotry.",
+            "He conciliates the woman by asking a favor. Her hesitation arises less from prejudice of race than from surprise at being asked for drink by a Jew.",
+            "He does not overwhelm her with new knowledge, but stimulates question and thought. He treats her sin frankly, but not harshly. He is content with letting her see that He is aware of it, knowing that through Him, as the Discerner, she will by and by reach Him as the Forgiver."
+        ],
+        "John Calvin": [
+            "He never fails to discharge his office when we desire to have him for our Teacher.",
+            "There is no danger that he will disappoint one of those whom he finds ready to become his disciples.",
+            "By these words, 'I who talk with thee am the Messiah, the Son of God,' he employs the name Messiah as a seal to ratify the doctrine of his Gospel."
+        ],
+        "Philip Schaff": [
+            "She has sought and found the truth.",
+            "The hope rising in her heart receives full confirmation.",
+            "A revelation not yet so clearly and expressly given by Jesus to Israel is granted to this alien, whose heart is prepared for its reception."
+        ],
+        "Archibald T. Robertson": [
+            "I am he, the one speaking to thee.",
+            "Jesus now declares that he is the Messiah.",
+            "In plain language..."
+        ],
+        "John Gill": [
+            "I that speak unto thee am [he]; the Messiah.\" ",
+            "This is a wonderful instance of the grace of Christ to this woman.\" ",
+            "We never find that he ever made so clear a discovery of himself, in such express terms, to any, as to her."
+        ],
+        "John Wesley": [
+            "Hasting to satisfy her desire before his disciples came.",
+            "Our Lord did not speak this so plainly to the Jews who were so full of the Messiah's temporal kingdom.",
+            "He did in effect declare the thing, though he denied the particular title."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in speaking to the Samaritan woman, reveals Himself as the Messiah, the one who was prophesied to come. He does not impose a preconceived plan or force events to fit it. Instead, He adapts His revelations and teachings according to the specific circumstances of the individual and the place. He had already disclosed much to the woman, proving Himself to her, but He remains more reserved with His disciples, demonstrating His wisdom and discernment in dealing with moral degradation and ignorance. Jesus tactfully engages the woman, stimulating her questions and thoughts, while frankly addressing her sin without harshness. By allowing her to see that He is aware of her sin, He leads her to recognize Him as the Forgiver. This interaction showcases Jesus' love for souls and His skill in navigating delicate conversations. It is a powerful revelation, granted even to this outsider, that Jesus is the long-awaited Messiah.",
+            "wordCount": 151,
+            "quoteTokenProportion": 35.05,
+            "qualityScore": 1.7590245520550871,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+            "commentatorTierSimilarities": [
+                36.48,
+                29.61,
+                33.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this encounter, Jesus adapts His revelations and teachings to the woman's disposition and situation, prolonging her curiosity. By asking for a drink, He disarms her hesitation and reveals Himself as the Messiah, fulfilling her expectation. Jesus demonstrates His love for souls with His skilled and firm approach to moral degradation and ignorance. His tactful and frank addressing of her sin leads the woman to recognize Him as the Forgiver. This revelation, granted even to an outsider, showcases Jesus' skill in navigating delicate conversations and His fulfillment of the Messianic prophecy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.8167139282575682,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.75,
+            "commentatorTierSimilarities": [
+                37.64,
+                30.55,
+                31.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in the course of His conversation with the Samaritan woman, adapts His teachings to the specific circumstances and individual dispositions. While He had previously magnified Himself to her, Jesus remains more reserved with His disciples. He tactfully engages the woman, stimulating her questions and thoughts, while addressing her sin frankly yet not harshly. By letting her see that He is aware of her sin, Jesus leads her to recognize Him as the Forgiver. This interaction showcases Jesus' love for souls and His skill in navigating difficult conversations.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7377295860878443,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                40.08,
+                24.81,
+                35.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in the midst of His conversation with the woman, reveals Himself as the Messiah, adapting His teachings to the circumstances and dispositions at hand. He tactfully engages her, addressing her sin frankly but not harshly, leading her to recognize Him as the Forgiver. This interaction showcases Jesus' love for souls, His skill in navigating moral degradation and ignorant bigotry, and His firmness in dealing with difficult conversations. Through this encounter, Jesus fulfills the Messianic prophecy, extending His grace even to this outsider.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.874891123126504,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+            "commentatorTierSimilarities": [
+                36.65,
+                29.58,
+                33.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in speaking to the Samaritan woman, adapts His revelations to the specific circumstances and dispositions of the individuals, magnifying Himself to her while remaining reserved with His disciples. By addressing her sin frankly but not harshly, Jesus allows her to see that He is aware of it, leading her to recognize Him as the Forgiver. This encounter exemplifies Jesus' love for souls, His skill in navigating conversations with moral degradation and ignorant bigotry, and His fulfillment of the Messianic prophecy.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8952294193188348,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+            "commentatorTierSimilarities": [
+                40.42,
+                26.39,
+                33.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

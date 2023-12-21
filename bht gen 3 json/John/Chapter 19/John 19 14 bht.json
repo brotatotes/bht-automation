@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:14:51",
+    "verseRef": "John 19:14",
+    "bestBHT": {
+        "bht": "On the day preceding the evening when the passover lamb would be killed, around noon, Pilate made his final decision. Mockingly, he proclaimed, Behold your King! This irony aimed at the Jews rather than Jesus, reawakening their cry to despatch Him. This day, known as the preparation of the passover, symbolized the forthcoming sacrifice of the true Paschal Lamb, Jesus Himself. The Evangelist chose words that expressed both the external incident and the deeper meaning of Jesus as the sacrificial lamb.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.9072996526486645,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+        "commentatorTierSimilarities": [
+            25.57,
+            36.72,
+            37.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This preparation day is \u2018the vigil of the Passover,\u2019 i.e. the day preceding the evening when the passover was killed.",
+            "There is an insuperable difficulty, as the text now stands.",
+            "The words Behold your King seem to have been spoken in irony to the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The true reading here is probably, 'the third hour'\u2014or nine A.M.\u2014which agrees best with the whole series of events, as well as with the other Evangelists.",
+            "He saith to the Jews, Behold your King!\u2014Having now made up his mind to yield to them, he takes a sort of quiet revenge on them by this irony, which he knew would sting them.",
+            "This only reawakens their cry to despatch Him."
+        ],
+        "Albert Barnes": [
+            "The preparation of the passover - See the notes at Mark 15:42.",
+            "The sixth hour - Twelve o\u2019clock noon. Mark says Mark 15:25 that it was the third hour. See the difficulty explained in the notes at that place."
+        ],
+        "Marvin Vincent": [
+            "Sixth hour. See on 1 39."
+        ],
+        "John Calvin": [
+            "The Evangelists appear to differ, and even to contradict each other, in the computation of time.",
+            "It is plain enough from other passages that the day was at that time divided into four parts.",
+            "Hence we infer that Christ was crucified at or about the sixth hour; for, as the Evangelist afterwards mentions, (John 19:20,) the place was near to the city."
+        ],
+        "Philip Schaff": [
+            "The day now dawning, and the events now occurring, were \u2018a preparation of the Paschal lamb\u2019 yet not of the lamb of the Jewish feast, but of the true Paschal Lamb, Jesus Himself, of the Lamb now on His way to be sacrificed for the life of His people.\" ",
+            "Both these meanings are prominent to the eye of the Evangelist; and as, with the ready appreciation of symbolism possessed by the symbolic mind, he sets that one of his deepest thoughts can be expressed by words which shall at the same time express an outward incident of the scene, he chooses his language for the sake of the richer meaning to which he is thus able to give utterance.",
+            "The words are not spoken sarcastically of Jesus, but contemptuously of the Jews...would his contempt be increased for those who were urging him to act unjustly. His secret displeasure with himself would seek satisfaction in his indignation and disgust with them."
+        ],
+        "Archibald T. Robertson": [
+            "About the sixth hour (\u03c9\u03c2 \u03b5\u03ba\u03c4\u03b7). Roman time, about 6 A.M. (a little after 6 no doubt) when Pilate rendered his final decision.",
+            "Why should John give Jewish time writing at the close of the first century when Jerusalem and the Jewish state passed away in A.D. 70? He is writing for Greek and Roman readers.",
+            "The sarcasm of Pilate is aimed at the Jews, not at Jesus."
+        ],
+        "John Gill": [
+            "This preparation of the passover was not of the passover lamb, for that had been prepared and eaten the night before.",
+            "It seems best of all to understand it only of the preparation for the sabbath, which, because it was in the passover week, is called the passover preparation day.",
+            "And about this time Pilate said, and did the following things: and he saith unto the Jews, behold your king; whom some of your people, it seems, have owned for their king, and you charge as setting up himself as one; see what a figure he makes; does he look like a king?"
+        ],
+        "John Wesley": [
+            "It was the preparation of the passover \u2014 For this reason both the Jews and Pilate were desirous to bring the matter to a conclusion.",
+            "Every Friday was called the preparation, (namely, for the Sabbath.)",
+            "And as often as the passover fell on a Friday, that day was called the preparation of the passover."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the day preceding the evening when the passover lamb would be killed, it was around the sixth hour, or noon, when Pilate rendered his final decision. His words, Behold your King!, were spoken not sarcastically of Jesus, but contemptuously of the Jews. Pilate's irony aimed to sting them, but instead, it reawakened their cry to despatch Jesus. This day, known as the preparation of the passover, was a symbolic preparation not of the Jewish feast, but of the true Paschal Lamb, Jesus Himself. The Evangelist strategically chose language that expressed both the outward incident and the deeper meaning of Jesus as the sacrificial lamb.",
+            "wordCount": 106,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.9934698586462463,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                24.98,
+                37.43,
+                37.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the day before the evening when the passover was killed, around noon, Pilate made his final decision and sarcastically proclaimed, Behold your King! However, this irony was not directed at Jesus but rather contemptuously aimed at the Jews. It reawakened their cry to despatch Him. This day was a symbolic preparation not of the Jewish feast, but of the true Paschal Lamb, Jesus Himself. The Evangelist strategically chose language to express both the outward incident and the deeper meaning of Jesus as the sacrificial lamb.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8687177337739804,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                25.68,
+                36.22,
+                38.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the day preceding the evening when the passover lamb would be killed, around noon, Pilate's final decision was made. Mockingly, he proclaimed, Behold your King!, aiming his sarcasm at the Jews, not Jesus. Rather than diminishing his contempt for them, this only fueled their desire to bring harm to Jesus. This day, known as the preparation of the passover, was not about the Jewish feast but symbolized the forthcoming sacrifice of the true Paschal Lamb, Jesus Himself. The Evangelist's choice of language served to convey both the literal event and its deeper significance.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.8486618133896737,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                23.28,
+                37.71,
+                39.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the day before the passover lamb was to be killed, around noon, Pilate made his final decision. He sarcastically stated, Behold your King! but this was aimed at the Jews, not Jesus. Instead of diminishing his contempt for them, it further fueled their call to harm Jesus. This day was a symbolic preparation, not for the Jewish feast, but for the sacrifice of Jesus, the true Paschal Lamb. The Evangelist skillfully used language that conveyed both the external incident and the deeper meaning behind Jesus being the sacrificial lamb.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.808070073348325,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                24.46,
+                36.16,
+                39.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the day preceding the evening when the passover lamb would be killed, around noon, Pilate made his final decision. Mockingly, he proclaimed, Behold your King! This irony aimed at the Jews rather than Jesus, reawakening their cry to despatch Him. This day, known as the preparation of the passover, symbolized the forthcoming sacrifice of the true Paschal Lamb, Jesus Himself. The Evangelist chose words that expressed both the external incident and the deeper meaning of Jesus as the sacrificial lamb.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9072996526486645,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+            "commentatorTierSimilarities": [
+                25.57,
+                36.72,
+                37.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

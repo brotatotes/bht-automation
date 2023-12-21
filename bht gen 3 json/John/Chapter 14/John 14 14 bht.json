@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:12:10",
+    "verseRef": "John 14:14",
+    "bestBHT": {
+        "bht": "Jesus solemnly promises that whatever is asked in his name, he will do, emphasizing his own power and authority. This truth holds that when we pray directly to Jesus, as demonstrated in Acts 7:59 and Revelation 22:20, our prayers are heard and answered. By calling upon the name of Jesus, acknowledging his sacrifice and righteousness, we align our prayers with the will of God, ensuring that our requests are in accordance with His glory and our ultimate good. It is a reminder to approach God through Jesus' intercession, recognizing the fullness of His power and goodness.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.8055296063402195,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+        "commentatorTierSimilarities": [
+            45.59,
+            0.0,
+            54.41
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Solemnly repeats as a promise, what was incidentally asserted before.",
+            "For this is a truth, that whatever...",
+            "It is I myself that will do it: showing that the use of the first person before was emphatic."
+        ],
+        "Marvin Vincent": [
+            "If ye shall ask anything. Some authorities insert me. So Rev. This implies prayer to Christ."
+        ],
+        "John Calvin": [
+            "All see and feel that they are unworthy to approach God; and yet the greater part of men burst forward, as if they were out of their senses, and rashly and haughtily address God.",
+            "The reason why they [people] do so is, that they have but a poor and slender perception of the power and goodness of God in Christ.",
+            "When Christ repeats, a second time, that we must pray to the Father in his name, he lays his hand on us, as it were, that we may not lose our pains by fruitlessly seeking other intercessors."
+        ],
+        "Archibald T. Robertson": [
+            "Just this phrase does not occur elsewhere in John and seems awkward, but see John 16:23.",
+            "If it is genuine, as seems likely, here is direct prayer to Jesus taught as we see it practiced by Stephen in Acts 7:59; and in Revelation 22:20.",
+            "Direct prayer to Jesus taught as we see it practiced by Stephen in Acts 7:59; and in Revelation 22:20."
+        ],
+        "John Gill": [
+            "Whatever they asked in my name, either calling upon it, he being equally the object of prayer with the Father.",
+            "Making mention of it, pleading the merits of his blood, righteousness, and sacrifice.",
+            "Whatever was according to the will of God, was for his glory, and their real good, he would do it for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus solemnly promises that whatever is asked in his name, he will do, emphasizing his own power and authority. This truth holds that when we pray directly to Jesus, as demonstrated in Acts 7:59 and Revelation 22:20, our prayers are heard and answered. By calling upon the name of Jesus, acknowledging his sacrifice and righteousness, we align our prayers with the will of God, ensuring that our requests are in accordance with His glory and our ultimate good. It is a reminder to approach God through Jesus' intercession, recognizing the fullness of His power and goodness.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.8055296063402195,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                45.59,
+                0.0,
+                54.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus promises that whatever is asked in his name, he will do, emphasizing his own power and authority. By praying directly to Jesus, as shown in Acts 7:59 and Revelation 22:20, our prayers are heard and answered. When we call upon the name of Jesus, acknowledging his sacrifice and righteousness, we align our requests with the will of God, ensuring that our petitions are in line with His glory and our ultimate good. This highlights the importance of approaching God through Jesus' intercession, recognizing His power and goodness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7096783240881066,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                44.75,
+                0.0,
+                55.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus solemnly promises that whatever is asked in his name, he will do, emphasizing his own power and authority. When we pray directly to Jesus, it is an act of acknowledging his sacrifice and righteousness, pleads his merits of blood, righteousness, and sacrifice. By doing so, we align our prayers with the will of God, ensuring that our requests are in accordance with His glory and our ultimate good. This highlights the importance of approaching God through Jesus' intercession, recognizing the fullness of His power and goodness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.5756282651506675,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.73,
+            "commentatorTierSimilarities": [
+                38.23,
+                0.0,
+                61.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus solemnly promises that whatever is asked in his name, he will do, showing the emphasis on his power and authority. By praying directly to Jesus, as seen in Acts 7:59 and Revelation 22:20, our prayers are heard and answered. When we call upon the name of Jesus, recognizing his sacrifice, his blood, righteousness, and sacrifice, we align our requests with the will of God. This highlights the importance of approaching God through Jesus' intercession, acknowledging his power and goodness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.730656772226034,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.89,
+            "commentatorTierSimilarities": [
+                43.83,
+                0.0,
+                56.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus solemnly promises that whatever is asked in his name, he will do, emphasizing his own power and authority. It is through direct prayer to Jesus, as demonstrated by Stephen in Acts 7:59 and in Revelation 22:20, that our prayers are heard and answered. When we call upon the name of Jesus, pleading the merits of his blood, righteousness, and sacrifice, we align our requests with the will of God. Jesus assures us that whatever is according to God's will, for His glory and our good, he will fulfill.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.7755008256928724,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                44.2,
+                0.0,
+                55.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

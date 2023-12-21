@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:06:30",
+    "verseRef": "John 5:31",
+    "bestBHT": {
+        "bht": "Jesus earnestly asserts that His testimony about Himself is strictly true and not to be trifled away. He acknowledges that if He were to solely rely on His own testimony, it would not be valid, according to human law. Therefore, He points to other witnesses that corroborate His divinity and purpose, such as the witness of the Father, the Baptist, His works, the Scriptures, and Moses. Jesus recognizes that His testimony alone would not suffice and seeks to convince His enemies through the authority of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 2.2989435340125297,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+        "commentatorTierSimilarities": [
+            22.42,
+            37.88,
+            39.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This assertion is not to be trifled away... The words are said in all earnestness, and are strictly true.\" (quote 1)",
+            "If such a separation, and independent testimony, as is here supposed, could take place, it would be a falsification of the very conditions of the Truth of God as manifested by the Son.\" (quote 2)",
+            "And in this sense ch. viii. 14 is eminently true also, the light being the 'brightness of the Father\u2019s glory.'\" (quote 3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "31. If I . . . witness of",
+            "\tmyself\u2014standing alone, and setting up any separate interest."
+        ],
+        "Albert Barnes": [
+            "If I bear witness of myself - If I have no other evidence than my own testimony about myself.",
+            "The law did not admit a man to testify in his own case, but required two witnesses.",
+            "They had a right to expect that his statement that he came from God would be confirmed by other evidence."
+        ],
+        "Marvin Vincent": [
+            "If I [\u03b5\u03b1\u03bd \u03b5\u03b3\u03c9] . The I expressed for emphasis : I alone. ",
+            "True [\u03b1\u03bb\u03b7\u03b8\u03b7\u03c2] . As distinguished from false. See on 1 9."
+        ],
+        "John Calvin": [
+            "If my testimony concerning myself is suspected by you according to the ordinary custom of men, let it go for nothing.",
+            "Christ, having been in other respects most abundantly supported, consents that they should not believe his word.",
+            "He prefers to surrender his right, that he may convince his enemies by the authority of God."
+        ],
+        "Philip Schaff": [
+            "If I bear witness concerning myself, my witness is not true.",
+            "The words plainly mean 'I and I alone,' for no one is discredited because he testifies to himself.",
+            "He must therefore show that the witness He bore to Himself was really borne to Him by the Father: the Father\u2019s witness even the Jews will acknowledge to be true."
+        ],
+        "Archibald T. Robertson": [
+            "In law the testimony of a witness is not received in his own case. And yet in John 8:12-19 Jesus claims that his witness concerning himself is true because the Father gives confirmation of his message.\" ",
+            "The Father and the Son are the two witnesses. It is a paradox and yet true.",
+            "He has the witness of another, the witness of the Baptist, the witness of the works of Jesus, the witness of the Scriptures, the witness of Moses in particular."
+        ],
+        "John Gill": [
+            "if I bear witness of myself; then... my witness is not true... not to be believed, or admitted as an authentic testimony.",
+            "Christ's meaning is, that his testimony alone, his single witness, how true soever it was, would stand for nothing in their court... being considered as an human testimony, and in his own cause, was not to be admitted as sufficient; and this he allows.",
+            "From arguments, proving his equality with the Father, he passes to testimonies; and without ranking use of his own, he had enough to produce, and which were valid and authentic."
+        ],
+        "John Wesley": [
+            "If I testify of myself \u2014 That is, if I alone, (which indeed is impossible,) my testimony is not valid."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The assertion that Jesus makes in this verse is not to be taken lightly; it is said with utmost seriousness and is strictly true. Jesus emphasizes that if He were to bear witness of Himself alone, it would be a falsification of the very conditions of the Truth of God as manifested by Him. Therefore, He points to other witnesses that testify to His divinity and purpose, including the witness of the Father, the witness of the Baptist, the witness of His works, the witness of the Scriptures, and the witness of Moses in particular. While in the context of human law, the testimony of a witness is not received in their own case, Jesus reveals that His testimony is true because it is confirmed by the Father. He desires to convince His enemies by the authority of God, acknowledging that His words alone would not be enough without additional witnesses.",
+            "wordCount": 151,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 2.3775501157271526,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+            "commentatorTierSimilarities": [
+                24.93,
+                39.2,
+                35.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus earnestly asserts that His testimony about Himself is strictly true and not to be trifled away. He acknowledges that if He were to solely rely on His own testimony, it would not be valid, according to human law. Therefore, He points to other witnesses that corroborate His divinity and purpose, such as the witness of the Father, the Baptist, His works, the Scriptures, and Moses. Jesus recognizes that His testimony alone would not suffice and seeks to convince His enemies through the authority of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.2989435340125297,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+            "commentatorTierSimilarities": [
+                22.42,
+                37.88,
+                39.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in all earnestness, declares the truth of His own testimony. He acknowledges that if He were to bear witness of Himself alone, it would not be valid according to the law. Therefore, He appeals to other witnesses - the Father, the Baptist, His works, the Scriptures, and Moses - to confirm His divinity. Jesus recognizes that His testimony alone would not hold weight and seeks to convince His enemies through the authority of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2679571821390523,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.75,
+            "commentatorTierSimilarities": [
+                22.92,
+                39.52,
+                37.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus earnestly asserts the truthfulness of His own testimony, emphasizing that it should not be disregarded. He acknowledges the invalidity of His witness if it were to rely solely on Himself. To substantiate His claims, Jesus points to other witnesses, such as the Father, the Baptist, His works, the Scriptures, and Moses. He understands that His testimony alone would not be convincing enough, and He seeks to persuade His opponents by appealing to the authority of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.1629460494889745,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.26,
+            "commentatorTierSimilarities": [
+                23.46,
+                38.76,
+                37.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's earnest declaration emphasizes the veracity of His testimony, warning against its dismissal. He acknowledges that if He were to solely rely on Himself, it would violate the very essence of God's truth. Thus, Jesus highlights the importance of additional witnesses, such as the Father, the Baptist, His works, the Scriptures, and Moses, as evidence of His divinity and purpose. Aware that His testimony alone lacks sufficient weight, Jesus aims to convince His adversaries through the authority of God's confirmation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0708039595563985,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.2,
+            "commentatorTierSimilarities": [
+                24.1,
+                37.92,
+                37.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

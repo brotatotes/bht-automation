@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:14:51",
+    "verseRef": "John 19:11",
+    "bestBHT": {
+        "bht": "Jesus acknowledges Pilate's power, but asserts that it is derived from a higher authority. Pilate's authority over Jesus is not absolute, as it is granted to him by divine decree. Those who delivered Jesus to Pilate, especially Caiaphas representing the Jewish authorities, bear a greater sin because their actions were motivated by malice and envy, with a greater understanding of the truth. Jesus' response not only reveals the truth and grace in his words, but also positions him as superior to both his accusers and his judge.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 2.187481391087358,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.07,
+        "commentatorTierSimilarities": [
+            30.06,
+            37.34,
+            32.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This saying, observes Meyer, breathes truth and grace.",
+            "Our Lord concedes to Pilate 1) Power. He acknowledged the authority of a human court, because His kingdom was not earthly, destroying human magistrates: nor did He dispute the authority of Pilate and the Romans over the Jews.",
+            "He acknowledges that that power extended even over Himself, since all concerning Him was being done by divine decree."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou thinkest too much of thy power, Pilate: against Me that power is none, save what is meted out to thee by special divine appointment, for a special end.",
+            "He that delivered me unto thee\u2014Caiaphas, too wit\u2014but he only as representing the Jewish authorities as a body.",
+            "Hath the greater sin\u2014as having better opportunities and more knowledge of such matters."
+        ],
+        "Albert Barnes": [
+            "No such power as you claim. You have not originated the power which you have. You have just as much as is given, and your ability extends no further.",
+            "Men of office and talent, as well as others, should remember that God gives them what they have, and that they have no influence except as it is conceded to them from on high.",
+            "God thus brings about his wise ends; and while Pilate was free, and acted out his nature without compulsion, yet the purposes of God, long before predicted, were fulfilled, and Jesus made an atonement for the sins of the world."
+        ],
+        "Marvin Vincent": [
+            "He that delivered. Caiaphas."
+        ],
+        "John Calvin": [
+            "The statement is, no doubt, true, that this world is regulated by the disposal of God, and that, whatever may be the efforts of wicked men, still they cannot even move a finger but as the secret power of God directs.",
+            "Consider, then, that His heavenly throne is far higher than thy tribunal. It is impossible to find any admonition better fitted to repress the insolence of those who rule over others, that they may not abuse their authority.",
+            "Yet Christ does not aggravate their guilt, for the purpose of extenuating that of Pilate; for he does not institute a comparison between him and them, but rather includes them all in the same condemnation, because they equally pollute a holy power."
+        ],
+        "Philip Schaff": [
+            "In using his power, therefore, against the Son of God, he was really fighting against God.",
+            "The sin thus committed was, on the part of those who were guilty of it, a sin against greater light than in Pilate\u2019s case.",
+            "In this reply Jesus had done more than speak as an innocent man. He had assumed a position of superiority alike to His accusers and His judge."
+        ],
+        "Archibald T. Robertson": [
+            "Except it were given thee... from above.",
+            "Jesus makes God the source of all real 'authority.'",
+            "Caiaphas has his authority from God also and has used Pilate for his own base end."
+        ],
+        "John Gill": [
+            "Thou couldst have no power at all against me, except it were given thee from above.\" ",
+            "Power was given to Pilate from heaven against him; not for any evil he himself had committed, or merely to gratify the envy and malice of the Jews, but for the salvation of God's elect, and for the glorifying of the divine perfections.",
+            "The sin of Judas in delivering him into the hands of the chief priests and elders, and of the chief priest and elders and people of the Jews, in delivering him to Pilate to crucify him, according to the Roman manner, were greater, inasmuch as theirs proceeded from malice and envy, and was done against greater light and knowledge."
+        ],
+        "John Wesley": [
+            "Thou couldst have no power over me - For I have done nothing to expose me to the power of any magistrate.",
+            "Therefore he that delivered me to thee, namely, Caiaphas, knowing this, is more blamable than thou."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus acknowledges the power of Pilate's earthly authority, stating that it is given to him from above. In doing so, Jesus reveals that all authority ultimately comes from God. Pilate's power was not without limitations, and his ability to exert authority extended no further than what was granted to him. Jesus also highlights that those who delivered him to Pilate, particularly Caiaphas representing the Jewish authorities, bear a greater sin because their actions were driven by malice and envy against greater light and knowledge. Jesus' response not only declares the truth and grace in his statement but also places him in a position of superiority over both his accusers and his judge.",
+            "wordCount": 114,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 2.1391173315961964,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.47,
+            "commentatorTierSimilarities": [
+                30.69,
+                38.47,
+                30.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus acknowledges the power of Pilate's earthly authority, stating that it is given to him from above. In doing so, Jesus reveals that all authority ultimately comes from God. Pilate's power was not without limitations, and his ability to exert authority extended no further than what was granted to him. Jesus also highlights that those who delivered him to Pilate, particularly Caiaphas representing the Jewish authorities, bear a greater sin because their actions were driven by malice and envy against greater light and knowledge.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.1865169016434534,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                31.31,
+                37.8,
+                30.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus acknowledges Pilate's power, but asserts that it is derived from a higher authority. Pilate's authority over Jesus is not absolute, as it is granted to him by divine decree. Those who delivered Jesus to Pilate, especially Caiaphas representing the Jewish authorities, bear a greater sin because their actions were motivated by malice and envy, with a greater understanding of the truth. Jesus' response not only reveals the truth and grace in his words, but also positions him as superior to both his accusers and his judge.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.187481391087358,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.07,
+            "commentatorTierSimilarities": [
+                30.06,
+                37.34,
+                32.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus acknowledges the earthly authority of Pilate, recognizing that it is given to him from above. This highlights the truth that all real authority comes from God. Pilate's power is limited and can only be exerted within the boundaries set by divine decree. Jesus further draws attention to the greater sin of those who delivered him to Pilate, particularly Caiaphas representing the Jewish authorities, as their actions were driven by malice and envy and done against greater light and knowledge. Jesus' response reveals both truth and grace and asserts his superiority over his accusers and judge.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.0157977406722885,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                31.33,
+                37.47,
+                31.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus acknowledges the power of Pilate's earthly authority, stating that it is given to him from above by divine decree. This conveys the truth that all true authority ultimately comes from God. Pilate's power is not absolute but limited and granted specifically for a special purpose. Jesus also points out the greater guilt of those who delivered him to Pilate, particularly Caiaphas representing the Jewish authorities, due to their greater knowledge and opportunities. Jesus' response exudes both truth and grace, establishing his superiority over his accusers and judge.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.0103486170287805,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                31.73,
+                37.33,
+                30.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

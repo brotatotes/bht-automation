@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:05:57",
+    "verseRef": "John 4:51",
+    "bestBHT": {
+        "bht": "The nobleman left Jesus confidently, believing that an amendment was taking place. When Jesus responded bluntly, he sought to deepen the nobleman's faith, as he did with Nicodemus. Although the nobleman did not witness the healing, his son was restored, affirming the power of Jesus' word. This serves as a reminder that when the Lord offers his blessings, his power will always fulfill his promises, as long as we do not shut the door with unbelief. It is important to assess our faith when we do not see immediate aid.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.5331078986725646,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+        "commentatorTierSimilarities": [
+            29.88,
+            31.95,
+            38.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He appears (see below) to have gone leisurely away.\" ",
+            "The hour (1 P.M.) was early enough to reach Capernaum the same evening (twenty-five miles).",
+            "In confidence that an amendment was taking place, which he at present understood to be only a gradual one."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Except ye see signs, c.\u2014He did believe, both as his coming and his urgent entreaty show but how imperfectly we shall see...",
+            "And our Lord would deepen his faith by such a blunt and seemingly rough answer as He made to Nicodemus."
+        ],
+        "John Calvin": [
+            "Let us therefore know that, whenever the Lord offers his benefits to us, his power will always be ready to accomplish whatever he promises, provided that the door be not shut against him by our unbelief.",
+            "When we do not see his immediate aid, let us consider how much of concealed distrust there is in us, or at least how small and limited our faith is.",
+            "Though he does not always assist his people in the same manner, yet in no instance will the faith of any one be fruitless."
+        ],
+        "Philip Schaff": [
+            "The word \u2018now\u2019 (or \u2018already\u2019) may appear superfluous, but it may possibly imply that some time had elapsed since the words of John 4:50 were spoken.\" ",
+            "Business may have detained him for a few hours in Cana; and if it did so, it would be a testimony to the firmness of that faith with which he had now believed in Jesus.\" ",
+            "\u2018Going down,\u2019 because Cana is situated in the hilly district, several hundred feet above the level of the Sea of Galilee."
+        ],
+        "Archibald T. Robertson": [
+            "As he was now going down (\u03b7\u03b4\u03b7 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b2\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03bf\u03c2). Genitive absolute in-spite of the fact that \u03b1\u03c5\u03c4\u03c9 (associative instrumental case with \u03c5\u03c0\u03b7\u03bd\u03c4\u03b7\u03c3\u03b1\u03bd aorist active indicative of \u03c5\u03c0\u03b1\u03bd\u03c4\u03b1\u03c9) is near.",
+            "That his son lived (\u03bf\u03c4 \u03bf \u03c0\u03b1\u03b9\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03b6\u03b7). Present active indicative preserved in indirect discourse (cf. the words of Jesus in verse John 4:50).",
+            "Note \u03c0\u03b1\u03b9\u03c2 here (only example in John), \u03c5\u03b9\u03bf\u03c2 in John 4:50, \u03c0\u03b1\u03b9\u03b4\u03b9\u03bf\u03bd (diminutive of tenderness) in John 4:49."
+        ],
+        "John Gill": [
+            "As soon as this cure was wrought, though it was not known in the family how, and by whom it was done, immediately some of the servants were dispatched to carry the news to their master, that his sorrow might be removed.\" ",
+            "These meeting him on the road, with an air of pleasure, at once address him with the joyful news, that his son was thoroughly recovered of his disorder, and was alive, and well.",
+            "News which he was acquainted with, and believed before; though it must give him an additional pleasure to have it confirmed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The nobleman in this verse appeared to have left Jesus gradually and confidently, believing in the amendment that was taking place. Jesus, in his response, sought to deepen the nobleman's faith, as he had done with Nicodemus. The nobleman's son was healed even though he did not witness the exact moment of the healing, which reveals the power of Jesus' word. This should remind us that whenever the Lord offers his benefits to us, his power will always be ready to accomplish what he promises, as long as we do not shut the door against him with our unbelief. We may not always see immediate aid, but this should prompt us to examine our level of faith and trust in the Lord.",
+            "wordCount": 124,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.6232999314560637,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                29.83,
+                32.48,
+                37.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The nobleman confidently left Jesus, believing in the amendment taking place. The nobleman's faith was deepened through Jesus' response. Although he did not witness the healing, his son was healed, demonstrating the power of Jesus' word. When the Lord offers his benefits, his power is ready to accomplish what he promises, as long as we don't shut the door with unbelief. Though we may not always see immediate aid, it prompts us to examine our faith and trust in the Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.4709960994703812,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                29.19,
+                32.85,
+                37.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The nobleman, believing in the gradual amendment, left Jesus leisurely, confident in the healing of his son. Jesus, seeking to deepen his faith, gave a blunt response. The nobleman's son was healed, showing the power of Jesus' word. Whenever the Lord offers blessings, his power is ready to fulfill his promises, unless our unbelief shuts the door. Though immediate aid may not always be visible, it challenges us to examine our faith.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.4359753057765028,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.09,
+            "commentatorTierSimilarities": [
+                29.76,
+                33.14,
+                37.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The nobleman left Jesus confidently, believing that an amendment was taking place. When Jesus responded bluntly, he sought to deepen the nobleman's faith, as he did with Nicodemus. Although the nobleman did not witness the healing, his son was restored, affirming the power of Jesus' word. This serves as a reminder that when the Lord offers his blessings, his power will always fulfill his promises, as long as we do not shut the door with unbelief. It is important to assess our faith when we do not see immediate aid.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5331078986725646,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+            "commentatorTierSimilarities": [
+                29.88,
+                31.95,
+                38.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The nobleman left Jesus confidently, believing in the gradual amendment taking place. Jesus sought to deepen his faith with a blunt and seemingly rough response. Although the nobleman did not witness the healing, his son lived and was well. This reminds us that whenever the Lord offers his benefits, his power will be ready to accomplish what he promises, unless closed off by our unbelief. Our limited faith may hinder the immediate aid from the Lord, but his help will never be fruitless.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5142049054645828,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                31.93,
+                28.5,
+                39.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

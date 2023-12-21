@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:05:14",
+    "verseRef": "John 4:8",
+    "bestBHT": {
+        "bht": "The disciples had a vessel for drawing water, but they had already gone before the Samaritan woman came. The scene is a blend of humanity and divinity, as the Lord imparts light and life to this unlikely stranger. In the midst of their conversation, Jesus offers her the comforting words, Come unto Me, all ye that labor and are heavy laden, and I will give you rest. Truly, this encounter is a remarkable display of the divine love and compassion that Jesus offers to all who come to Him.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.1579020730238248,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.84,
+        "commentatorTierSimilarities": [
+            47.29,
+            6.02,
+            46.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The disciples had... the vessel for drawing water.\" ",
+            "The Rabbis say... be exaggerated."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is perhaps the most human of all the scenes of our Lord's earthly history.",
+            "But with all that is human, how much also of the divine have we here, both blended in one glorious manifestation of the majesty, grace, pity, patience with which 'the Lord' imparts light and life to this unlikeliest of strangers.",
+            "But what music is that which I hear from His lips, 'Come unto Me, all ye that labor and are heavy laden, and I will give you rest.'"
+        ],
+        "Albert Barnes": [
+            "Buy meat - Buy food."
+        ],
+        "Archibald T. Robertson": [
+            "They had already gone before she came.",
+            "H\u03b9\u03bd\u03b1 in purpose clause with first aorist active subjunctive of \u03b1\u03b3\u03bf\u03c1\u03b1\u03b6\u03c9, old verb from \u03b1\u03b3\u03bf\u03c1\u03b1 (marketplace).",
+            "\u03a4\u03c1\u03bf\u03c6\u03b7 (nourishment) is old word from \u03c4\u03c1\u03b5\u03c6\u03c9, to nourish (Matthew 3:4)."
+        ],
+        "John Gill": [
+            "partly to avoid the scandal and offence they might take, at his conversation with her, being a Samaritan; as it appears to have been astonishing to them",
+            "he chooses to tell her of the sins of her former life, in a private way",
+            "Christ and his disciples had no regard to"
+        ],
+        "John Wesley": [
+            "For his disciples were gone \u2014 Else he needed not have asked her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples had a vessel for drawing water, but they had already gone before the Samaritan woman came. The scene of Jesus meeting this woman is a beautiful blend of humanity and divinity, as the Lord imparts light and life to this unlikely stranger. What a marvelous sight it must have been to see the majesty, grace, pity, and patience with which Jesus interacts with this woman. In the midst of their conversation, Jesus offers her the comforting words, Come unto Me, all ye that labor and are heavy laden, and I will give you rest. Truly, this encounter is a remarkable display of the divine love and compassion that Jesus offers to all who come to Him.",
+            "wordCount": 118,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.1327362342102727,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.01,
+            "commentatorTierSimilarities": [
+                48.35,
+                2.46,
+                49.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples had a vessel for drawing water, but they had already gone before the Samaritan woman came. The scene is a blend of humanity and divinity, as the Lord imparts light and life to this unlikely stranger. In the midst of their conversation, Jesus offers her the comforting words, Come unto Me, all ye that labor and are heavy laden, and I will give you rest. Truly, this encounter is a remarkable display of the divine love and compassion that Jesus offers to all who come to Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.1579020730238248,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.84,
+            "commentatorTierSimilarities": [
+                47.29,
+                6.02,
+                46.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples had already left with the vessel for drawing water when the Samaritan woman arrived. This encounter between Jesus and the woman is the perfect blend of human and divine, demonstrating the majesty, grace, pity, and patience with which the Lord imparts light and life to even the most unexpected individuals. In the midst of their conversation, Jesus offers words of comfort, inviting all who labor and are burdened to come to Him for rest. This interaction showcases the profound love and compassion that Jesus extends to all who seek Him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.1286206851890945,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.87,
+            "commentatorTierSimilarities": [
+                47.66,
+                0.69,
+                51.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples had already left with the vessel for drawing water when the Samaritan woman arrived. This encounter between Jesus and the woman is a beautiful blend of human and divine, displaying the majesty, grace, pity, and patience through which the Lord imparts light and life to even the most unexpected strangers. In the midst of their conversation, Jesus offers rest to those burdened with labor, inviting them to come to Him. This heartfelt interaction exemplifies the profound love and compassion Jesus has for all who seek His comfort.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.0897205396334408,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.58,
+            "commentatorTierSimilarities": [
+                44.16,
+                -1.21,
+                57.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples had left with the water vessel before the Samaritan woman arrived. This encounter between Jesus and the woman is a remarkable blend of humanity and divinity, illustrating the majesty, grace, pity, and patience with which the Lord imparts light and life to even the most unexpected individuals. Amidst their conversation, Jesus offers solace to the weary and burdened, tenderly inviting them to find rest in Him. This interaction reveals the profound love and compassion that Jesus extends to all who approach Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.0490815058144785,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.23,
+            "commentatorTierSimilarities": [
+                46.27,
+                -3.7,
+                57.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

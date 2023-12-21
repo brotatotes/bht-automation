@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:04:26",
+    "verseRef": "John 2:10",
+    "bestBHT": {
+        "bht": "The ruler of the feast states that typically the best wine is served first, but once guests have become less sensitive to taste due to indulgence, they tend to offer inferior wine. However, the wine provided by Jesus was not only real, but even better than any at the feast. While the word drunk may not necessarily indicate intoxication, it is often associated with it. This highlights the superior quality of the wine Jesus offered, which can be seen as a metaphor for the powerful and comforting effects of the Gospel.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.72,
+        "qualityScore": 1.9984536012447758,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+        "commentatorTierSimilarities": [
+            33.33,
+            38.01,
+            28.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The saying of the ruler of the feast is a general one, not applicable to the company then present.",
+            "The account of the practice referred to is, that the palates of men become after a while dull, and cannot distinguish between good wine and bad.",
+            "It is only that, when a man has some kinds of wine choicer than others, he naturally produces the choicest, to suit the most discriminating taste."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. the good wine . . . until",
+            "\tnow\u2014thus testifying, while ignorant of the source of supply,",
+            "\tnot only that it was real wine, but better than any at the feast."
+        ],
+        "Albert Barnes": [
+            "When men have well drunk - This word does not of necessity mean that they were intoxicated, though it is usually employed in that sense.",
+            "The wine referred to here was doubtless such as was commonly drunk in Palestine. That was the pure juice of the grape.",
+            "No man should adduce This instance in favor of drinking wine unless he can prove that the wine made in the waterpots of Cana was just like the wine which he proposes to drink."
+        ],
+        "Marvin Vincent": [
+            "The ruler of the feast means that when the palates of the guests have become less sensitive through indulgence, an inferior quality of wine is offered.",
+            "In every instance of its use in the New Testament the word means intoxication.",
+            "The metaphorical use of the word has passed into common slang, as when a drunken man is said to be wetted or soaked."
+        ],
+        "John Gill": [
+            "Every man at the beginning doth set forth good wine; that is, it is usual with men, when they make entertainments, first to give the guests the best, the most generous, and strongest bodied wine.",
+            "The Gospel, which may be compared to wine for its purity, pleasant taste, and generous effects in reviving drooping spirits, refreshing weary persons, and comforting distressed minds, as also for its antiquity, was published before the coming of Christ, in the times of Adam, Noah, Abraham, Moses, David, and the prophets, but in a lower and weaker way.",
+            "But then there is an alloy to these; they are lowered by other things, as the corruptions of the heart, the temptations of Satan, the hidings of God's face, and a variety of afflictions; but they shall have their good and best things hereafter, and drink new wine in Christ's Father's kingdom, without anything to lower and weaken it."
+        ],
+        "John Wesley": [
+            "And saith \u2014 St. John barely relates the words he spoke, which does not imply his approving them.",
+            "When they have well drunk \u2014 does not mean any more than toward the close of the entertainment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ruler of the feast says that the guests usually offer good wine at the beginning, but once their palates have become dull from indulgence, they offer inferior wine. The good wine that Jesus provided at the wedding in Cana was not only real wine, but better than anything at the feast. Some commentators argue that the word drunk does not necessarily mean intoxication, but rather refers to the guests nearing the end of the celebration. In any case, it is important to note that the metaphorical use of the word has connections to intoxication. Overall, this verse highlights the superior quality of the wine Jesus provided, which can be seen as a metaphor for the Gospel and its powerful and comforting effects.",
+            "wordCount": 123,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 2.046096362638888,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+            "commentatorTierSimilarities": [
+                32.97,
+                38.22,
+                28.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the wedding in Cana, the ruler of the feast remarks that usually the best wine is served first. However, once guests have become less sensitive to taste due to indulgence, they typically offer inferior wine. Jesus, on the other hand, provided wine that was not only real, but even better than any at the feast. While the word drunk may not necessarily imply intoxication, it is important to note that it is often associated with it. This passage emphasizes the superior quality of the wine Jesus offered, which can symbolize the powerful and comforting effects of the Gospel.",
+            "wordCount": 99,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.9240195313947126,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                33.39,
+                37.85,
+                28.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ruler of the feast states that typically the best wine is served first, but once guests have become less sensitive to taste due to indulgence, they tend to offer inferior wine. However, the wine provided by Jesus was not only real, but even better than any at the feast. While the word drunk may not necessarily indicate intoxication, it is often associated with it. This highlights the superior quality of the wine Jesus offered, which can be seen as a metaphor for the powerful and comforting effects of the Gospel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.9984536012447758,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                33.33,
+                38.01,
+                28.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ruler of the feast explains that it is customary to serve the best wine first, but as guests become less discerning due to indulgence, inferior wine is typically offered. However, the wine Jesus provided at the wedding in Cana was not only real, but even better than any at the feast. Though the word drunk may not always imply intoxication, it is often used in that sense. This verse emphasizes the exceptional quality of the wine Jesus offered, symbolizing the potency and comforting nature of the Gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.023704531817595,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                31.59,
+                39.85,
+                28.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ruler of the feast notes that typically the best wine is served first, but as guests become less sensitive through indulgence, they offer inferior wine. However, the wine Jesus provided at the wedding in Cana was not only real, but even better than any at the feast. While the word drunk can sometimes imply intoxication, it is important to consider its metaphorical use. This passage emphasizes the superior quality of the wine Jesus offered, representing the powerful and comforting effects of the Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9523567273594904,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                32.54,
+                38.5,
+                28.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:15:01",
+    "verseRef": "John 19:40",
+    "bestBHT": {
+        "bht": "When Jesus was buried, His friends prepared Him for burial in a manner that showed great honor and respect. They washed His body and wrapped it in linen cloths, an act that symbolized His purity and innocence. They even anointed Him with spices, signifying the fragrant offering of His death to God the Father. This act of preparing Jesus for burial not only demonstrated the love and devotion of His followers but also fulfilled the prophecies and pointed to His resurrection.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.9960459407344884,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+        "commentatorTierSimilarities": [
+            23.03,
+            41.03,
+            35.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "40.] See ch. xi. 44. Little is known with any certainty, except from these passages, of the Jews\u2019 ordinary manner of burying."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Had the Lord's own friends had the least reason to think that the spark of life was still in Him, would they have done this?",
+            "When, therefore, He walked forth from the tomb, we can say with the most absolute certainty, 'Now is Christ risen from the dead, and become the first-fruits of them that slept.'",
+            "No wonder that the learned and the barbarians alike were prepared to die for the name of the Lord Jesus; for such evidence was to the unsophisticated resistless."
+        ],
+        "Marvin Vincent": [
+            "The manner of the Jews. As contrasted with that of the Egyptians, for instance.",
+            "After the expiration of that space of time, which must not be exceeded, the body is washed, and wrapped round, from head to foot, with bandages of fine linen cloth, smeared over with gum.",
+            "To bury [\u03b5\u03bd\u03c4\u03b1\u03c6\u03b9\u03b1\u03b6\u03b5\u03b9\u03bd] . Properly, to prepare for burial."
+        ],
+        "John Calvin": [
+            "We ought to consider the design of God, who even led them, by his Spirit, to render this honor to his own Son, that, by the sweet savor of his grave he might take away our dread of the cross.",
+            "We ought now to maintain sobriety and moderation in this matter, for immoderate expense quenches the sweet savour of Christ\u2019s resurrection.",
+            "Take away the word, and all the ceremonies which men observe, though outwardly they may resemble the worship of godly persons, is nothing else than foolish or mad superstition."
+        ],
+        "Philip Schaff": [
+            "Let us remember then the importance which was attached by all to a splendid burial... and we shall feel that the Evangelist desires to call our attention to the striking fact, that, notwithstanding the ignominious death to which Jesus had been put, there were yet those who prepared for Him as honoured and as costly a burial as could await any 'Jew.'\" ",
+            "That the word 'burial' is used to describe the wrapping of the body in the linen cloths may arise from the Evangelist's desire to mention a circumstance which brings strongly into relief the condition in which these cloths were afterwards found (John 20:7).\" ",
+            "The body having thus been prepared for burial, the actual entombment alone remains to be spoken of."
+        ],
+        "Archibald T. Robertson": [
+            "In linen cloths (\u03bf\u03b8\u03bf\u03bd\u03b9\u03bf\u03b9\u03c2). Case here either locative or instrumental.\" ",
+            "With the spices (\u03bc\u03b5\u03c4\u03b1 \u03c4\u03c9\u03bd \u03b1\u03c1\u03c9\u03bc\u03b1\u03c4\u03c9\u03bd). Late word \u03b1\u03c1\u03c9\u03bc\u03b1 for spices, from fumes.\" ",
+            "To bury (\u03b5\u03bd\u03c4\u03b1\u03c6\u03b9\u03b1\u03b6\u03b5\u03b9\u03bd). Late verb, from \u03b5\u03bd\u03c4\u03b1\u03c6\u03b9\u03b1 (\u03b5\u03bd, \u03c4\u03b1\u03c6\u03bf\u03c2) the burial preparations of all sorts (flowers, perfumes, etc.), in N.T. only here and Matthew 26:12."
+        ],
+        "John Gill": [
+            "The wrapping up the body of Christ in a fine linen cloth, was a token of his purity and innocence; and significative of that pure and spotless righteousness he had now brought in.",
+            "The strewing it with spices may denote the fragrancy of Christ's death to Jehovah the Father, in whose sight it was precious, and whose sacrifice to him is of a sweet smelling savour.",
+            "A crucified Christ is precious; since by his death sin is expiated, the law fulfilled, justice satisfied, reconciliation made, security from condemnation obtained, and death is abolished."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus was buried, His friends prepared Him for burial in a manner that showed great honor and respect. They washed His body and wrapped it in linen cloths, an act that symbolized His purity and innocence. They even anointed Him with spices, signifying the fragrant offering of His death to God the Father. This act of preparing Jesus for burial not only demonstrated the love and devotion of His followers, but it also fulfilled the prophecies and pointed to His resurrection. The significance of this burial, carried out with such care and attention, solidifies the truth of His resurrection and becomes a powerful testimony that led many to believe in Him.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.9895901056629859,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                21.96,
+                42.1,
+                35.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus was buried, His friends prepared Him for burial in a manner that showed great honor and respect. They washed His body and wrapped it in linen cloths, an act that symbolized His purity and innocence. They even anointed Him with spices, signifying the fragrant offering of His death to God the Father. This act of preparing Jesus for burial not only demonstrated the love and devotion of His followers but also fulfilled the prophecies and pointed to His resurrection.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9960459407344884,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+            "commentatorTierSimilarities": [
+                23.03,
+                41.03,
+                35.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus was buried, His friends showed great honor and respect by preparing Him for burial in a manner that demonstrated their love and devotion. They washed His body and wrapped it in linen cloths, symbolizing His purity and innocence. Anointing Him with spices signified the fragrant offering of His death to God the Father. This act not only fulfilled prophecies and pointed to His resurrection but also served as a powerful testimony, leading many to believe in Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8752590598653402,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                22.1,
+                38.69,
+                39.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus was buried, His friends prepared Him for burial in a manner that showed great honor and respect. They washed His body and wrapped it in linen cloths, an act that symbolized His purity and innocence. They even anointed Him with spices, signifying the fragrant offering of His death to God the Father. This act of preparing Jesus for burial not only demonstrated the love and devotion of His followers but also fulfilled prophecies and pointed to His resurrection. The significance of this burial, carried out with such care and attention, solidifies the truth of His resurrection and becomes a powerful testimony that led many to believe in Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.9746356828761542,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                21.84,
+                42.02,
+                36.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus was buried, His friends prepared Him for burial with great honor and respect. They washed His body, wrapped it in linen cloths, and anointed Him with spices. This act of preparing Jesus for burial demonstrated their love and devotion and fulfilled prophecies. It was a powerful testimony to the truth of His resurrection, leading many to believe. The significance of this burial, carried out with care and attention, solidifies the truth of His resurrection and testifies to the preciousness of His sacrifice. ",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.914836518832578,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                22.97,
+                43.56,
+                33.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

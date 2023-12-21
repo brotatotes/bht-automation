@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:10:16",
+    "verseRef": "John 11:21",
+    "bestBHT": {
+        "bht": "In the midst of their grief, Mary and Martha express their belief that if Jesus had been present, their brother would not have died. This thought has consumed their minds since Lazarus' death, as seen in Mary's repetition of the phrase. There is a sense of both longing and, perhaps, reproach for Jesus' delay. Martha, practical and to the point, acknowledges that if Jesus had been there, their brother would still be alive. Although Martha may have underestimated the significance of Jesus' physical presence, her words reflect a strong faith mixed with some uncertainty.",
+        "wordCount": 95,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.7496773217768746,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+        "commentatorTierSimilarities": [
+            32.98,
+            32.71,
+            34.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] This saying has evidently been the leading thought of the four days since their brother\u2019s death. Mary repeats it, ver. 32."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Lord, if thou hadst been here, my brother had not died."
+        ],
+        "John Calvin": [
+            "By thy presence thou mightst have delivered my brother from death, and even now thou canst do it, for God will not refuse thee any thing.",
+            "For when she assures herself that her brother would not have died, if Christ had been present, what ground has she for this confidence? Certainly, it did not arise from any promise of Christ.",
+            "Martha attached too much importance to the bodily presence of Christ."
+        ],
+        "Philip Schaff": [
+            "In His presence her brother could not have died."
+        ],
+        "Archibald T. Robertson": [
+            "Lord, if thou hadst been here, my brother had not died.\" (John 11:21) ",
+            "Clearly they had said so to each other with wistful longing if not with a bit of reproach for his delay.\" ",
+            "But busy, practical Martha comes to the point."
+        ],
+        "John Gill": [
+            "Lord, if thou hadst been here my brother had not died: which expresses much faith, but with a mixture of weakness.\" ",
+            "...as if the presence of Christ was necessary for the working a cure...\" ",
+            "...he could as well have restored her brother to health absent, as present, had it been his will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In their grief, Mary and Martha express their longing and belief that if Jesus had been present, their brother would not have died. This sentiment has consumed their thoughts since Lazarus' death, as evidenced by Mary's repetition of the phrase. There is a sense of longing and perhaps even a hint of reproach for Jesus' delay. Martha, in her practicality, cuts to the chase, acknowledging that if Jesus had been there, their brother would still be alive. This belief in the necessity of Jesus' physical presence hints at both a strong faith and a weakness in understanding, as the third-tier commentary points out. While Martha may have overstated the importance of Jesus' bodily presence, her words reflect a deep trust that, had Jesus been present, He could have cured Lazarus.",
+            "wordCount": 132,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.6595056775884016,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.52,
+            "commentatorTierSimilarities": [
+                31.15,
+                31.56,
+                37.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their grief, Mary and Martha express their longing and belief that if Jesus had been present, their brother would not have died. This sentiment has consumed their thoughts since Lazarus' death, as evidenced by Mary's repetition of the phrase. There is a sense of longing and perhaps even a hint of reproach for Jesus' delay. Martha, in her practicality, acknowledges that if Jesus had been there, their brother would still be alive. This belief in the necessity of Jesus' physical presence hints at both a strong faith and a weakness in understanding.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.6699975667777598,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                32.65,
+                31.19,
+                36.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of their grief, Mary and Martha express their deep longing and belief that if Jesus had been present, their brother would not have died. This thought has consumed their minds for the past four days. There is a sense of yearning and even a subtle element of reproach towards Jesus for His delay. Martha, practical in her nature, cuts straight to the point, acknowledging that if Jesus had been there, their brother's death could have been prevented. Their faith in the importance of Jesus' physical presence reveals a mixture of strength and vulnerability.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5741696421127431,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.68,
+            "commentatorTierSimilarities": [
+                32.23,
+                32.56,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary and Martha, engulfed in sorrow, express their heartfelt belief that if Jesus had been present, their brother would not have died. This sentiment has consumed their thoughts in the four days since Lazarus's passing. There is a longing and possibly even a hint of reproach for Jesus' delay. Martha, practical by nature, cuts to the chase, acknowledging that had Jesus been there, Lazarus would still be alive. Their words convey a deep faith, albeit with a hint of weakness in understanding the importance of Jesus' bodily presence.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5357223126685453,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.41,
+            "commentatorTierSimilarities": [
+                33.46,
+                31.47,
+                35.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of their grief, Mary and Martha express their belief that if Jesus had been present, their brother would not have died. This thought has consumed their minds since Lazarus' death, as seen in Mary's repetition of the phrase. There is a sense of both longing and, perhaps, reproach for Jesus' delay. Martha, practical and to the point, acknowledges that if Jesus had been there, their brother would still be alive. Although Martha may have underestimated the significance of Jesus' physical presence, her words reflect a strong faith mixed with some uncertainty.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.7496773217768746,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+            "commentatorTierSimilarities": [
+                32.98,
+                32.71,
+                34.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

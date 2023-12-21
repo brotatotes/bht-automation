@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:14:05",
+    "verseRef": "John 18:10",
+    "bestBHT": {
+        "bht": "In the midst of the chaos and betrayal, Simon Peter, armed with a sword, impulsively struck the high priest's servant, cutting off his right ear. Matthew, Mark, and Luke mention this incident as well, but none of them identify the disciple or the servant by name. John, being known to the high priest, includes these specific details, bringing an interesting mark of truth to the narrative. Peter's blow was clearly aimed at the man's head, but he missed, striking his right ear instead. ",
+        "wordCount": 86,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.0914186821137735,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.88,
+        "commentatorTierSimilarities": [
+            31.56,
+            45.17,
+            23.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The kiss of Judas...to assure the captors that the person thus offering himself was indeed Jesus of Nazareth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "None of the other Evangelists mention the name either of the ardent disciple or of his victim.",
+            "John being 'known to the high priest,' the mention of the servant's name by him is quite natural, and an interesting mark of truth in a small matter.",
+            "The blow of Peter was evidently aimed vertically at his head."
+        ],
+        "Marvin Vincent": [
+            "Contrary to the rule which forbade the carrying of weapons on a feast - day.",
+            "The incident itself is related by all the Evangelists.",
+            "The others do not specify which ear."
+        ],
+        "John Calvin": [
+            "Let us learn that, in the person of Peter, Christ condemns every thing that men dare to attempt out of their own fancy.",
+            "Warned by so striking an example, let us learn to keep our zeal within proper bounds.",
+            "We are also reminded, that those who have resolved to plead the cause of Christ do not always conduct themselves so skilfully as not to commit some fault."
+        ],
+        "Philip Schaff": [
+            "Simon Peter therefore having a sword drew it, and smote the high priest\u2019s servant, and cut off his right ear. And the servant\u2019s name was Malchus.\" ",
+            "The mention of this fact, as well as of the minute circumstance that the ear cut off was the right ear, illustrates the personal knowledge possessed by John of what he describes.",
+            "As the great object of John in this passage is to illustrate the perfect submission of Jesus to the will of His heavenly Father in the \u2018hour\u2019 now come, nothing is said of the healing of the ear."
+        ],
+        "Archibald T. Robertson": [
+            "Peter missed the man's head as he swerved to his left.",
+            "There was peril to Peter in his rash act as comes out later.",
+            "Peter...was dead long before John wrote his Gospel."
+        ],
+        "John Gill": [
+            "Then Simon Peter having a sword,.... Girt about him, which he either wore in common, or particularly at the feast, as the Galilaeans are said to do, to preserve them from thieves and wild beasts by the way...",
+            "...for it appears from the other evangelists, that Peter did this, though he is not mentioned by name by any of the rest...",
+            "This was a name frequent with the Syrians, Phoenicians, and Hebrews...And some Jewish Rabbins were of this name..."
+        ],
+        "John Wesley": [
+            "No other evangelist names him. Nor could they safely.",
+            "St. John, writing after his death, might do it without any such inconvenience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of the chaos and betrayal, Simon Peter, armed with a sword, impulsively struck the high priest's servant, cutting off his right ear. Matthew, Mark, and Luke mention this incident as well, but none of them identify the disciple or the servant by name. John, on the other hand, being known to the high priest, includes these specific details, bringing an interesting mark of truth to the narrative. Peter's blow was clearly aimed at the man's head, but he missed, striking his right ear instead. This act of aggression, however, was not without consequence, as it later reveals Peter's perilous situation. Through this account, we are reminded of the danger of allowing our own zeal to guide our actions, highlighting the need for wisdom and restraint when advocating for Christ's cause. Furthermore, we witness Jesus' perfect submission to His Father's will, as John intentionally omits any mention of the subsequent healing of the servant's ear to emphasize this aspect.",
+            "wordCount": 168,
+            "quoteTokenProportion": 34.51,
+            "qualityScore": 1.936404324886566,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                29.21,
+                44.65,
+                26.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the chaos of the betrayal, Simon Peter impulsively struck the high priest's servant, cutting off his right ear. John's personal knowledge of the incident is evident in his detailed description. Peter's action, while well-intentioned, serves as a cautionary tale on the need to temper zeal with wisdom. Additionally, John's omission of the healing of the servant's ear emphasizes Jesus' perfect submission to the Father's will in this pivotal hour. This account reminds us to keep our zeal within proper bounds and to navigate the cause of Christ with skill and humility.",
+            "wordCount": 99,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8430373177775143,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                26.32,
+                48.85,
+                24.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the chaos and betrayal, Simon Peter, armed with a sword, impulsively struck the high priest's servant, cutting off his right ear. Matthew, Mark, and Luke mention this incident as well, but none of them identify the disciple or the servant by name. John, being known to the high priest, includes these specific details, bringing an interesting mark of truth to the narrative. Peter's blow was clearly aimed at the man's head, but he missed, striking his right ear instead. ",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0914186821137735,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.88,
+            "commentatorTierSimilarities": [
+                31.56,
+                45.17,
+                23.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the chaos and betrayal, Simon Peter, armed with a sword, impulsively struck the high priest's servant, cutting off his right ear. Matthew, Mark, and Luke mention this incident as well, but none of them identify the disciple or the servant by name. John, on the other hand, being known to the high priest, includes these specific details, bringing an interesting mark of truth to the narrative. Peter's blow was clearly aimed at the man's head, but he missed, striking his right ear instead. This act of aggression, however, was not without consequence, as it later reveals Peter's perilous situation.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9800533362842114,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                31.86,
+                42.94,
+                25.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst the chaos and betrayal, Simon Peter's impulsive act of striking the high priest's servant, cutting off his right ear, is documented by all the Gospel writers. John, known to the high priest, adds the servant's name as an interesting touch of truth. Peter's intended target was the man's head, yet he missed and struck his ear instead. This reckless act had consequences as it places Peter in danger, reminding us of the significance of exercising wisdom in our zeal for Christ's cause.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.019274097965492,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.48,
+            "commentatorTierSimilarities": [
+                29.17,
+                43.75,
+                27.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

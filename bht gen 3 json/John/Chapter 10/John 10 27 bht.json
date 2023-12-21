@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:09:45",
+    "verseRef": "John 10:27",
+    "bestBHT": {
+        "bht": "Christ refers to believers as my sheep, highlighting their deep connection and ownership. In contrast to the Jews, these sheep clearly hear and recognize Christ's voice, faithfully following him. Their obedience goes beyond mere commandments; they strive to imitate him and yield to his guidance. Despite the rejection Christ faces, faithful teachers find comfort in the fact that he knows his sheep and they know him. Those who do not listen or follow Christ's voice cannot be considered part of his flock.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.9817905550068646,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+        "commentatorTierSimilarities": [
+            27.8,
+            31.8,
+            40.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "27-30. My sheep hear my voice,",
+            "\t&amp;c.\u2014(See on John 10:1)."
+        ],
+        "Albert Barnes": [
+            "Hear my voice - See John 10:3-4. Applied to Christians, it means that they hear and obey his commandments.",
+            "I know them - See John 10:14.",
+            "They follow me - A flock follows its shepherd to pastures and streams, John 10:3. Christians not only obey Christ, but they imitate him; they go where his Spirit and providence lead them; they yield themselves to his guidance, and seek to be led by him."
+        ],
+        "Marvin Vincent": [
+            "My sheep [\u03c4\u03b1 \u03c0\u03c1\u03bf\u03b2\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03b5\u03bc\u03b1] . Literally, the sheep, those that are mine. A characteristic form of expression with John. Compare John 3:29; John 5:30; John 14:15, etc."
+        ],
+        "John Calvin": [
+            "My sheep hear my voice.\" ",
+            "The reason why the name of sheep is applied to believers is, that they surrender themselves to God, to be governed by the hand of the Chief Shepherd.",
+            "It is no small consolation to faithful teachers, that, though the greater part of the world do not listen to Christ, yet he has his sheep whom he knows, and by whom he is also known."
+        ],
+        "Archibald T. Robertson": [
+            "My sheep (\u03c4\u03b1 \u03c0\u03c1\u03bf\u03b2\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03b5\u03bc\u03b1). In contrast with you they are not in doubt and suspense. They know my voice and follow me. Repetition of the idea in John 10:4; John 10:14. "
+        ],
+        "John Gill": [
+            "My sheep hear my voice...and since therefore these Jews did not, it was a plain case they were not of his sheep.",
+            "Christ knew not these as the elect of God...and therefore they could not be his sheep.",
+            "But now, whereas these Jews did not follow Christ, but turned their backs on him, and rejected him, it was notorious that they were none of his sheep."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ refers to believers as my sheep in John 10:27. This signifies that they are his possession and shows John's characteristic expression to emphasize ownership. The distinction is made clear that unlike the Jews who were doubtful and hesitant, Christ's sheep hear and recognize his voice, following him with unwavering obedience. They not only obey his commandments, but they imitate and yield themselves to his guidance. It is comforting for faithful teachers to know that even though the majority may reject Christ, he has his own sheep whom he knows and who know him in return. Those who do not listen or follow Christ's voice cannot be considered his sheep.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 2.084221851908471,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.64,
+            "commentatorTierSimilarities": [
+                30.34,
+                31.13,
+                38.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ identifies believers as my sheep in this passage. Using this terminology, John emphasizes that the sheep belong to Christ and possess a deep familiarity with his voice, contrasting with the doubt and uncertainty of the Jews. True followers of Christ not only listen to his voice, but also obey his commandments and seek to imitate him, yielding themselves to his guidance. Faithful teachers find solace in the fact that, even though many reject Christ, he has his own sheep whom he knows, and who recognize him in return.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.1372213992139395,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+            "commentatorTierSimilarities": [
+                29.81,
+                31.1,
+                39.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ refers to believers as my sheep, highlighting their deep connection and ownership. In contrast to the Jews, these sheep clearly hear and recognize Christ's voice, faithfully following him. Their obedience goes beyond mere commandments; they strive to imitate him and yield to his guidance. Despite the rejection Christ faces, faithful teachers find comfort in the fact that he knows his sheep and they know him. Those who do not listen or follow Christ's voice cannot be considered part of his flock.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9817905550068646,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                27.8,
+                31.8,
+                40.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In John 10:27, Christ refers to believers as his sheep, emphasizing their ownership by him. These sheep unmistakably hear and recognize his voice, in contrast to the doubtful and hesitant Jews. Their obedience extends beyond mere commandments; they strive to imitate Christ and yield to his guidance. Faithful teachers find solace in the knowledge that, although many reject Christ, he knows his sheep and they know him. Those who do not listen or follow his voice cannot be considered part of his flock.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9835431943360868,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.29,
+            "commentatorTierSimilarities": [
+                27.7,
+                31.97,
+                40.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are referred to as my sheep by Christ, signifying their ownership by him. These sheep clearly hear and recognize Christ's voice, in contrast to the doubt and uncertainty of the Jews. They not only obey his commandments, but also strive to imitate him and yield to his guidance. Faithful teachers take comfort in knowing that despite the rejection Christ faces, he knows his sheep and they know him in return. Those who do not listen or follow Christ's voice cannot be considered part of his flock.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9681131714714049,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.78,
+            "commentatorTierSimilarities": [
+                27.16,
+                32.35,
+                40.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

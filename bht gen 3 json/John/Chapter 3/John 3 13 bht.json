@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:05:03",
+    "verseRef": "John 3:13",
+    "bestBHT": {
+        "bht": "The Son of Man, the Lord Jesus, came down from and was in heaven, making him the only one qualified to speak about heavenly things. The Incarnation of the Pre-existent Son of God, who knows what he is telling about the heavenly things, reveals the truth and blessings of heaven to mankind. No mortal man can enter heaven and bring back the knowledge of divine and heavenly things. It is through Jesus and his inspired apostles and evangelists that we learn about these deep matters and gain access to the secrets that would otherwise remain concealed.",
+        "wordCount": 97,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 2.763064114963183,
+        "qualityScoreNormalizedComparedToV2BHTs": 83.21,
+        "commentatorTierSimilarities": [
+            29.97,
+            41.89,
+            28.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Son of Man, the Lord Jesus, the Word made Flesh, was in, came down from, heaven,\u2014and was in heaven (heaven about Him, heaven dwelling on earth)...",
+            "He regards therefore throughout the passage, the great facts of redemption as accomplished, and makes announcements which could not be literally acted upon till they had been so accomplished.",
+            "To explain such expressions as 'to ascend up into heaven,'&c., as mere Hebrew metaphors is no more than saying that Hebrew metaphors were founded on deep insight into divine truth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No one has gone up but He that came down, even He who is at once both up and down.\" ",
+            "The perfect knowledge of God is not obtained by any man's going up from earth to heaven to receive it\u2014no man hath so ascended.\" ",
+            "He whose proper habitation, in His essential and eternal nature, is heaven, hath, by taking human flesh, descended as the Son of man to disclose the Father, whom He knows by immediate gaze alike in the flesh as before He assumed it."
+        ],
+        "Albert Barnes": [
+            "No one is qualified to speak of heavenly things but He who came down from heaven.",
+            "This can be understood only as referring to the fact that he had two natures - his 'divine nature' was in heaven, and his 'human nature' on earth.",
+            "The truth about the deep things of God is not to be learned from men. It is only Jesus and his inspired apostles and evangelists that can speak of those things."
+        ],
+        "Marvin Vincent": [
+            "No one has been in heaven except the Son of man who came down out of heaven.",
+            "No man could be in heaven without having ascended thither.",
+            "Which is in heaven."
+        ],
+        "John Calvin": [
+            "No mortal man can, by his own unaided powers, enter into heaven, but only he who goes thither under the guidance of the Son of God.",
+            "Christ gives here the same instruction which is given by Paul when he declares that the sensual man does not comprehend the things which are of God.",
+            "He admits us into those secrets which otherwise would have remained in concealment."
+        ],
+        "Philip Schaff": [
+            "No one can tell the heavenly things unless he has been in heaven, and no one has been in heaven and come down to earth save myself.",
+            "The special thought is not the having gone up into heaven, but the having been in heaven. This was the qualification for revealing the truths which are here spoken of as heavenly things.",
+            "He came down from heaven and became the Son of man to reveal these heavenly truths and to give the heavenly blessings unto man."
+        ],
+        "Archibald T. Robertson": [
+            "The Incarnation of the Pre-existent Son of God who was in heaven before he came down and so knows what he is telling about 'the heavenly things.'",
+            "This high conception of Christ runs all through the Gospel and is often in Christ's own words as here.",
+            "He is the one who has come down out of heaven."
+        ],
+        "John Gill": [
+            "No man had, or could go up to heaven, to bring from thence the knowledge of divine and heavenly things.\" ",
+            "If he, and the rest of the Jews, did not receive instructions from him, they must forever remain ignorant.\" ",
+            "There never had been, nor was, nor could be, any mere man that could go up to heaven, and learn the mysteries of God, and of the kingdom of heaven, and return and instruct men in them."
+        ],
+        "John Wesley": [
+            "For no one...Hath gone up to heaven, but he that came down from heaven.\" ",
+            "Who is in heaven \u2014 Therefore he is omnipresent.",
+            "This is a plain instance of what is usually termed the communication of properties between the Divine and human nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Son of Man, the Lord Jesus, came down from heaven and was in heaven. He alone has the authority and knowledge to speak about heavenly things because he is the Incarnation of the Pre-existent Son of God. It is not possible for a mortal man to enter heaven and bring back the knowledge of divine and heavenly things. The truth about these deep matters can only be learned from Jesus and his inspired apostles and evangelists. Jesus, who is both up and down, descended as the Son of man to reveal heavenly truths and give heavenly blessings to mankind. Through his divine and human nature, he brings us into the secrets that would otherwise remain concealed. Therefore, it is by following the guidance of the Son of God that we can enter into the heavenly realms and comprehend the things of God.",
+            "wordCount": 144,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 2.505647635086798,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.65,
+            "commentatorTierSimilarities": [
+                30.42,
+                41.08,
+                28.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son of Man, the Lord Jesus, came down from and was in heaven, making him the only one qualified to speak about heavenly things. The Incarnation of the Pre-existent Son of God, who knows what he is telling about the heavenly things, reveals the truth and blessings of heaven to mankind. No mortal man can enter heaven and bring back the knowledge of divine and heavenly things. It is through Jesus and his inspired apostles and evangelists that we learn about these deep matters and gain access to the secrets that would otherwise remain concealed.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.763064114963183,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.21,
+            "commentatorTierSimilarities": [
+                29.97,
+                41.89,
+                28.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son of Man, the Lord Jesus, was in heaven and came down to earth to reveal the truths of heavenly things. He alone possesses the authority and knowledge to speak about these matters. No mortal man can enter heaven and bring back the knowledge of divine and heavenly things. It is only through Jesus and his inspired apostles and evangelists that we can learn about these deep matters and gain access to the blessings of heaven. He has bridged the gap between heaven and earth, allowing us to comprehend the things of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.527156355280595,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.37,
+            "commentatorTierSimilarities": [
+                29.86,
+                41.7,
+                28.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of Man, the Lord Jesus, came down from heaven and dwelled on earth, uniquely positioned to disclose the Father and reveal the heavenly truths. No mortal can obtain perfect knowledge of God by ascending to heaven, but Jesus, whose proper habitation is heaven, descended as the Son of Man. He is the only one who has been in heaven and come down to earth, making Him the authority on heavenly matters. Through His divine and human nature, He brings forth the knowledge of the divine and heavenly things to humanity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.758584612442279,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.06,
+            "commentatorTierSimilarities": [
+                31.84,
+                40.6,
+                27.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of Man, the Lord Jesus, descended from heaven to earth, uniquely qualified to speak about heavenly matters. No mortal man can acquire the knowledge of divine and heavenly things by ascending to heaven. Only Jesus, who came down from heaven and is intimately acquainted with the Father, can reveal these deep truths. Through Jesus' Incarnation, He bridged the gap between heaven and earth, bringing forth the revelation of heavenly truths and bestowing heavenly blessings upon humanity. By following Him, we gain access to the secrets of God and comprehend the mysteries of the kingdom of heaven.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.698625286821567,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.07,
+            "commentatorTierSimilarities": [
+                30.96,
+                41.33,
+                27.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

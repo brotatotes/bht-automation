@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:11:34",
+    "verseRef": "John 13:16",
+    "bestBHT": {
+        "bht": "Jesus's teaching on humility and servanthood is evident in the statement, There is no servant greater than his lord. By both knowing and doing these things, true happiness is found. The phrase the servant is not greater than his lord underscores the importance of service and the disciples' role in emulating their Lord. In this, Jesus calls for a spirit of humility and selflessness among His followers.",
+        "wordCount": 68,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.9952407153563634,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+        "commentatorTierSimilarities": [
+            34.78,
+            31.6,
+            33.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no servant greater than his lord.",
+            "If the Master thus humbles Himself, much more should His servants and messengers.",
+            "If the Master thus humbles Himself, much more should His servants and messengers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The servant is not greater than his lord.\" ",
+            "If ye know these things, happy are ye if ye do them.",
+            "A hint that even among real Christians the doing of such things would come lamentably short of the knowing."
+        ],
+        "Marvin Vincent": [
+            "Verily, verily. See on John 1:51; John 10:1. ",
+            "The servant. No article. Better a servant, as Rev., a bond - servant. He that is sent [\u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2] . Literally, an apostle. See on Matthew 10:2."
+        ],
+        "John Calvin": [
+            "Verily, verily, I tell you. These are indeed proverbial sayings, which admit of a far more extensive application.",
+            "... it is more correct to say that he employed them to serve his purpose.",
+            "In my opinion, therefore, they are mistaken who suppose them to have a general acceptation..."
+        ],
+        "Philip Schaff": [
+            "No servant is greater than his lord; neither one that is sent greater than he that sent him.",
+            "How often does Jesus speak of Himself in this gospel as the 'Sent' of God!",
+            "The disciples are the 'sent,' taking the place of Him who was first 'sent' but is now gone to the Father."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus here enforces the dignity of service.\" ",
+            "He clearly repeated this \u03bb\u03bf\u03b3\u03b9\u03bf\u03bd often.\" ",
+            "In Matthew 10:24 Jesus uses both forms of the saying (pupil and slave)."
+        ],
+        "John Gill": [
+            "Verily, verily, I say unto you,.... This is a strong way of asseveration, and is used when anything of moment and importance, and worthy of attention and observation is delivered.",
+            "The servant is not greater than his Lord; it is enough that he be as his Lord, which was a common phrase among the Jews; and as it is there made use of, to inform the disciples they must expect persecution, and to encourage them to bear it with patience; here it is designed to engage to humility; for if a master condescends to perform such an action, much more may a servant.",
+            "Which is the very phrase here used by Christ; and his meaning is this, that if it was not below him, who had chose and called, and sent them forth as his apostles, to wash their feet, they who were sent by him, should not disdain to wash one another's."
+        ],
+        "John Wesley": [
+            "The servant is not greater than his lord \u2014 Nor therefore ought to think much of either doing or suffering the same things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There is no servant greater than his lord, expresses the idea that if the Master humbles Himself, His servants should do the same. Jesus emphasizes the importance of not just knowing, but also doing, as he suggests that even among Christians, doing falls short of knowing. The phrase the servant is not greater than his lord reinforces the dignity of service and Jesus frequently repeated this saying to emphasize its significance. Overall, this verse calls for humility and service, reminding us that as disciples of Christ, we should not consider ourselves greater than our Lord, but rather aim to follow His example.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.238916024592886,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                31.54,
+                34.09,
+                34.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's statement, There is no servant greater than his lord, highlights the importance of humility and service. By humbling Himself, Jesus sets an example for His followers, urging them to do the same. The phrase the servant is not greater than his lord reinforces the dignity of service and the disciples' need to imitate their Master. This verse emphasizes that discipleship involves not only knowing, but also doing, and those who put this into practice will experience true happiness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.153328693131067,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.94,
+            "commentatorTierSimilarities": [
+                33.0,
+                34.46,
+                32.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's teaching on humility and servanthood is evident in the statement, There is no servant greater than his lord. This emphasizes the need for His followers to imitate His example, as the Master Himself humbled Himself. By both knowing and doing these things, true happiness is found. The phrase the servant is not greater than his lord underscores the importance of service and the disciples' role in emulating their Lord. In this, Jesus calls for a spirit of humility and selflessness among His followers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9513856310272564,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                35.37,
+                31.85,
+                32.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's teaching on humility and servanthood is evident in the statement, There is no servant greater than his lord. By both knowing and doing these things, true happiness is found. The phrase the servant is not greater than his lord underscores the importance of service and the disciples' role in emulating their Lord. In this, Jesus calls for a spirit of humility and selflessness among His followers.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9952407153563634,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                34.78,
+                31.6,
+                33.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's teaching emphasizes the need for humility and service, as stated, There is no servant greater than his lord. By both knowing and doing, true happiness is achieved. The phrase the servant is not greater than his lord highlights the importance of service and imitating the Lord. Jesus calls for a spirit of humility and selflessness among His followers, encouraging them to follow His example.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.9206706713517736,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                34.77,
+                30.54,
+                34.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

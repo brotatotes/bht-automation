@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:14:08",
+    "verseRef": "John 18:11",
+    "bestBHT": {
+        "bht": "Jesus, in this account, instructs Peter to put his sword into its sheath and drink the cup that His Father has given Him. His warfare is different from human warfare, as His weapons don't carry the same risks and guarantee certain victory. By refusing to be saved from His predetermined death, Jesus fulfills Scripture. We are cautioned against retaliation with force, even when unjustly provoked, unless allowed by the local laws. Instead, we ought to be ready to endure suffering and accept what God presents to us.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.57,
+        "qualityScore": 1.5944100505370535,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.36,
+        "commentatorTierSimilarities": [
+            32.94,
+            37.04,
+            30.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the sheath here is 'his (its place' in Matt., where see notes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?",
+            "Those who take the sword must run all the risks of human warfare; but Mine is a warfare whose weapons, as they are not carnal, are attended with no such hazards, but carry certain victory.",
+            "He could not suffer, according to the Scripture, if He allowed Himself to be delivered from the predicted death."
+        ],
+        "Marvin Vincent": [
+            "Thy sword. Omit thy, and read, the sword.",
+            "Sheath [\u03b8\u03b7\u03ba\u03b7\u03bd] . Only here in the New Testament. From tiqhmi, to put. That into which the sword is put.",
+            "The cup. Compare Matthew 26:39; Mark 14:36; Luke 22:42. Peculiar to John."
+        ],
+        "John Calvin": [
+            "But we must attend to the reason, which is, that a private individual was not permitted to rise in opposition to those who had been invested with public authority.",
+            " ",
+            "We must also beware of repelling our enemies by force or violence, even when they unjustly provoke us, except so far as the institutions and laws of the community admit.",
+            " ",
+            "We, too, ought to be prepared for enduring the cross. And yet we ought not to listen to fanatics, who tell us that we must not seek remedies for diseases and any other kind of distresses, lest we reject the cup which the Heavenly Father presents to us."
+        ],
+        "Philip Schaff": [
+            "The aid of all violence is disclaimed.",
+            "Jesus speaks not of \u2018thy\u2019 sword but of \u2018the\u2019 sword, and thus shows that He can Himself resort to no measure of outward self-defence.",
+            "It is His Father\u2019s will that He should suffer and die, and to that will He unhesitatingly resigns Himself."
+        ],
+        "Archibald T. Robertson": [
+            "Into the sheath (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03b8\u03b7\u03ba\u03b7\u03bd). Old word from \u03c4\u03b9\u03b8\u03b7\u03bc, to put for box or sheath, only here in N.T.\" ",
+            "The cup (\u03c4\u03bf \u03c0\u03bf\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd). Metaphor for Christ's death, used already in reply to request of James and John.",
+            "Shall I not drink? (\u03bf\u03c5 \u03bc\u03b7 \u03c0\u03b9\u03c9;). Second aorist active subjunctive of \u03c0\u03b9\u03bd\u03c9 with the double negative \u03bf\u03c5 \u03bc\u03b7 in a question expecting the affirmative answer."
+        ],
+        "John Gill": [
+            "By way of rebuke, and to prevent his repeating the blow... had not Christ interposed in this prudent manner...\" ",
+            "It was a very daring attack, and a dangerous one, and was very unnecessary; since Christ could have defended himself, had he thought fit, without Peter's drawing his sword...\" ",
+            "He delighted in seeing him drink it up, as the stately of his people; and a dreadful one it was, a cup of trembling and astonishment, of curse, and not of blessing, of wrath and fury..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus instructs Peter to put his sword back into its sheath, stating that he must drink the cup that His Father has given Him. The first-tier commentary highlights that Jesus' warfare is unlike human warfare, as His weapons are not carnal and carry certain victory. By refusing to be delivered from His predicted death, Jesus fulfills the Scripture. The second-tier commentary emphasizes that Jesus disclaims the aid of violence and shows His willingness to submit to His Father's will to suffer and die. We are reminded in the third-tier commentary that we should not retaliate with force, even in the face of unjust provocation, unless permitted by the laws of the community. Instead, we should be prepared to endure the cross and not reject the cup that the Heavenly Father presents to us.",
+            "wordCount": 140,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 1.770469576534964,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                32.76,
+                36.06,
+                31.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus instructs Peter to sheath his sword and accept the cup given to Him by His Father. Unlike human warfare, Jesus' weapons do not carry the same risks and assure certain victory. By refusing to be saved from His predicted death, Jesus fulfills Scripture. We are reminded not to respond with force or violence, even when provoked unfairly, unless permitted by the laws of the community. Instead, we should be prepared to endure suffering and accept the challenges presented to us.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5495989634140503,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                31.94,
+                35.26,
+                32.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in this account, instructs Peter to put his sword into its sheath and drink the cup that His Father has given Him. His warfare is different from human warfare, as His weapons don't carry the same risks and guarantee certain victory. By refusing to be saved from His predetermined death, Jesus fulfills Scripture. We are cautioned against retaliation with force, even when unjustly provoked, unless allowed by the local laws. Instead, we ought to be ready to endure suffering and accept what God presents to us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5944100505370535,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.36,
+            "commentatorTierSimilarities": [
+                32.94,
+                37.04,
+                30.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, Jesus instructs Peter to sheath his sword and accept the cup given to Him by His Father. Jesus' weapons are not carnal and ensure certain victory. By refusing to be saved from His predicted death, He fulfills Scripture. We are reminded not to respond with force or violence, even when provoked unfairly, unless permitted by the laws of the community. Instead, we should be prepared to endure suffering and accept the challenges presented to us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5616463781298338,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.27,
+            "commentatorTierSimilarities": [
+                31.02,
+                38.08,
+                30.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus directs Peter to put his sword back into its sheath and drink the cup assigned to Him by His Father. Unlike human warfare, His weapons offer certain victory without the associated risks. If He were to avoid the foretold death, it would contradict the Scripture. We should avoid responding to unjust provocation with force or violence, unless permitted by the laws of the community. Instead, we should be prepared to endure suffering and accept the challenges presented by God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.5293642426154306,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                29.81,
+                37.34,
+                32.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

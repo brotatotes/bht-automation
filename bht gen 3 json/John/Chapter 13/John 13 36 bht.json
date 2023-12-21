@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:12:12",
+    "verseRef": "John 13:36",
+    "bestBHT": {
+        "bht": "Peter, puzzled by Jesus' words, asks where He is going, showing his limited understanding. Jesus answers that Peter cannot follow Him now but will follow afterward. Understanding the disciple's reward depends on knowing and doing the assigned work. We are reminded to submit our desires to God, seeking His guidance when our understanding is limited. Ultimately, Peter's following of Jesus will require him to experience shame, humiliation, and the cross.",
+        "wordCount": 72,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.9543058834036495,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+        "commentatorTierSimilarities": [
+            31.85,
+            43.92,
+            24.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This announcement of Peter\u2019s denial is probably the same with that in Luke xxii. 33 ff.\" ",
+            "Alluding probably both to the future reception of His Apostle into His glory.",
+            "to the particular path by which he should come to that glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peter said\u2014seeing plainly in these directions how to behave themselves, that He was indeed going from them.",
+            "Lord, whither guest thou?\u2014having hardly a glimmer of the real truth.",
+            "Jesus answered, . . . thou canst not follow me now, but thou shalt follow me afterwards\u2014How different from what He said to the Jews: 'Whither I go ye cannot come' (John 8:21)."
+        ],
+        "John Calvin": [
+            "We hear daily from the mouth of Christ all that is fitted for usefulness in life, and all that is necessary to be known, and, when we come to practice, we are as much astonished as apprentices to whom not a word had ever been spoken.",
+            "We are taught by this passage to subject all our desires to God, that they may not go beyond their proper bounds; and if at any time they become extravagant and foolish, let us at least submit to be held in by this bridle.",
+            "We ought therefore to pray to God to carry forward to a higher degree of excellence what he has begun in us. In the meantime, we must creep, till we are able to run more swiftly."
+        ],
+        "Philip Schaff": [
+            "Peter has not been able to apprehend aright the truths of which Jesus has been speaking. We need not wonder at it; and, had he understood them fully, there would have been less necessity either for the instructions that follow or for the discipline of his fall.",
+            "Peter must have known his work and done it before he could have properly comprehended the answer, had it been given; for a disciple\u2019s reward stands in such a relation to his work, that without a knowledge of the latter he can have no true knowledge of the former.",
+            "He shall follow Him afterwards; follow Him in shame, in humiliation, to the cross, to the life beyond the grave: then shall he know."
+        ],
+        "Archibald T. Robertson": [
+            "Whither goest thou? (\u03c0\u03bf\u03c5 \u03c5\u03c0\u03b1\u03b3\u03b5\u03b9\u03c3;). Peter is puzzled just as the Pharisees were twice (John 7:35; John 8:21). "
+        ],
+        "John Gill": [
+            "his mind was intent upon them, was uneasy about them, and very much wanted to know the meaning of them",
+            "Christ was going somewhere in a little time; he was going to the garden to surrender himself up into the hands of his enemies",
+            "thou shall follow me by dying for me; and thou shall follow me into my kingdom and glory, and be for ever with me"
+        ],
+        "John Wesley": [
+            "St. Peter seems to have thought, that Christ, being rejected by the Jews, would go to some other part of the earth to erect his throne, where he might reign without disturbance, according to the gross notions he had of Christ's kingdom.",
+            "Thou canst not follow me now \u2014 But Peter would not believe him.",
+            "And he did follow him, John 18:15. But it was afar off. And not without great loss."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, having received directions from Jesus on how to behave, asks where Jesus is going, showing his limited understanding of the truth. Jesus responds that Peter cannot follow Him now, but will follow Him afterwards. This is in contrast to Jesus saying to the Jews, Whither I go ye cannot come. Peter's lack of comprehension is not surprising, as it would have made the subsequent instructions and his eventual fall less necessary. To truly understand the disciple's reward, one must first know and do the work assigned to them. Peter's following of Jesus afterwards will involve shame, humiliation, and ultimately the cross. The passage teaches us to submit our desires to God's will and pray for His guidance, even when our understanding is limited.",
+            "wordCount": 128,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9078750056863996,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                31.43,
+                42.7,
+                25.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, puzzled by Jesus' words, asks where He is going, showing his limited understanding. Jesus answers that Peter cannot follow Him now but will follow afterwards. Unlike the Jews who cannot come, Peter's following will involve shame, humiliation, and the cross. Understanding the disciple's reward depends on knowing and doing the assigned work. We are reminded to submit our desires to God, seeking His guidance when our understanding is limited. Ultimately, Peter's following of Jesus will require him to experience shame, humiliation, and the cross.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9403726589439314,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                32.36,
+                43.52,
+                24.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, not fully comprehending Jesus' teachings, asks where He is going. Jesus responds that Peter cannot follow Him now but will follow afterwards. Unlike the Jews who cannot come, Peter's following will involve shame, humiliation, and the cross. Understanding the disciple's reward requires knowing and doing the assigned work. We must submit our desires to God, seeking His guidance when our understanding is limited. Peter's path will lead to shame, humiliation, and the cross, as he follows Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9393736748564518,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                31.85,
+                43.31,
+                24.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, puzzled by Jesus' words, asks where He is going, showing his limited understanding. Jesus answers that Peter cannot follow Him now but will follow afterward. Understanding the disciple's reward depends on knowing and doing the assigned work. We are reminded to submit our desires to God, seeking His guidance when our understanding is limited. Ultimately, Peter's following of Jesus will require him to experience shame, humiliation, and the cross.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9543058834036495,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                31.85,
+                43.92,
+                24.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, having received directions from Jesus on how to behave, asks where Jesus is going, showing his limited understanding of the truth. Jesus responds that Peter cannot follow Him now, but will follow Him afterwards. This is in contrast to Jesus saying to the Jews, Whither I go ye cannot come. Peter's lack of comprehension is not surprising, as it would have made the subsequent instructions and his eventual fall less necessary. To truly understand the disciple's reward, one must first know and do the work assigned to them. Peter's following of Jesus afterwards will involve shame, humiliation, and ultimately the cross. The passage teaches us to submit our desires to God's will and pray for His guidance, even when our understanding is limited.",
+            "wordCount": 128,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9078750056863996,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                31.43,
+                42.7,
+                25.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

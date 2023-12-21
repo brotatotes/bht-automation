@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:07:27",
+    "verseRef": "John 6:57",
+    "bestBHT": {
+        "bht": "Jesus reveals the profound connection between himself, the Father, and believers in this passage. Just as the Father is the source of all life, Jesus lives through Him, and those who partake in Him enter into a profound union with Christ. This mystical appropriation of Christ signifies our reliance on Him as the sustainer and giver of eternal life. Jesus emphatically states that He lives because of the Father, and likewise, those who partake in Him shall live because of Him.",
+        "wordCount": 81,
+        "quoteTokenProportion": 46.94,
+        "qualityScore": 2.4513311680846135,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.85,
+        "commentatorTierSimilarities": [
+            34.04,
+            32.63,
+            33.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Father is the Fountain of all Life: the Son lives in and by the Father: and all created being generally, lives (in the lower sense) in and by Him.",
+            "he that eateth Him, shall (eternally and in the highest sense) live by Him.",
+            "The two branches of the feeding on Christ are now united under the general expression, eateth ME."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the living Father hath sent me\u2014to communicate His own life and I live by the Father\u2014literally, 'because of the Father'; My life and His being one, but Mine that of a Son, whose it is to be 'of the Father.'",
+            "he that eateth me, . . . shall live by me\u2014literally, 'because of Me.'",
+            "So that though one spiritual life with Him, 'the Head of every man is Christ, as the head of Christ is God.'"
+        ],
+        "Albert Barnes": [
+            "I live by the Father - See the notes at John 5:26."
+        ],
+        "Marvin Vincent": [
+            "The living Father. A phrase found nowhere else in the New Testament.\" ",
+            "On living and live, see John 1:4.",
+            "Because the Father is the living One. So, because of me, instead of by me."
+        ],
+        "John Calvin": [
+            "He makes himself, therefore, to be the Author of life, in such a manner, as to acknowledge that there was another who gave him what he administers to others.",
+            "For though the Father is the beginning of life, yet the eternal Word himself is strictly life.",
+            "We now perceive what is stated to amount to this, that God the Father, in whom life dwells, is at a great distance from us, and that Christ, placed between us, is the second cause of life, in order that what would otherwise be concealed in God may proceed from him to us."
+        ],
+        "Philip Schaff": [
+            "The Son lives because the Father lives.",
+            "The believer who receives and appropriates the Son lives because the Son, who is Life, abides in him.",
+            "The relation between Jesus and His own has its pattern in the relation between the Father and the Son."
+        ],
+        "Archibald T. Robertson": [
+            "The Father is the source of life and so 'I live because of the Father.'\" ",
+            "He that eateth me. Still bolder putting of the mystical appropriation of Christ.\" ",
+            "Jesus Christ is our ground of hope and guarantee of immortality. Life is in Christ."
+        ],
+        "John Gill": [
+            "He is the living Father; not in distinction from, and to the exclusion of the Son, or Spirit; but then none but he is the living Father.",
+            "He had his human life from God, and was preserved and upheld in it by him; and he laid it down at his command, and at his death committed his soul or spirit to him; and which was restored unto him, and is continued with him.",
+            "They derive their life from him, and because he lives, they live also; and they live to his glory, and will do so to all eternity."
+        ],
+        "John Wesley": [
+            "I live by the Father \u2014 Being one with him.",
+            "He shall live by me \u2014 Being one with me. Amazing union!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 6:57, Jesus speaks of the profound connection between himself, the Father, and those who believe in him. As the Father is the source of all life, Jesus lives in and through the Father. Through the act of consuming him, believers enter into a deeper union with Christ, as he becomes the sustainer and giver of life. This mystical appropriation of Christ signifies our dependence on him for spiritual and eternal life. Jesus emphasizes that he lives because of the Father, and in turn, those who partake in him shall live because of him. This intricate relationship between the Father, Son, and believers reflects the pattern of divine life and highlights Jesus as our source of hope and immortality.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.3945570681216024,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.96,
+            "commentatorTierSimilarities": [
+                33.76,
+                33.64,
+                32.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus emphasizes the inseparable connection between himself, the Father, and believers. Just as the Father is the originator of all life, Jesus finds his existence in the Father. Through partaking in him, believers enter into a deep union with Christ, finding sustenance and life in him. This mystical appropriation signifies our reliance on Christ as the source of spiritual and eternal life. Jesus highlights that he lives because of the Father, and likewise, those who partake in him shall live because of him. This intricate relationship reflects the divine pattern of life and highlights Jesus as our ultimate hope and source of immortality.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.2622493537338575,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.56,
+            "commentatorTierSimilarities": [
+                34.91,
+                31.74,
+                33.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In John 6:57, Jesus speaks of the profound connection between himself, the Father, and believers. As the Father is the source of all life, Jesus lives in and through the Father. Through the act of consuming him, believers enter into a deeper union with Christ, as he becomes the sustainer and giver of life. This mystical appropriation of Christ signifies our dependence on him for spiritual and eternal life. Jesus emphasizes that he lives because of the Father, and in turn, those who partake in him shall live because of him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.4116253506327245,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.53,
+            "commentatorTierSimilarities": [
+                33.75,
+                33.61,
+                32.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reveals the profound connection between himself, the Father, and believers in this passage. Just as the Father is the source of all life, Jesus lives through Him, and those who partake in Him enter into a profound union with Christ. This mystical appropriation of Christ signifies our reliance on Him as the sustainer and giver of eternal life. Jesus emphatically states that He lives because of the Father, and likewise, those who partake in Him shall live because of Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.4513311680846135,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.85,
+            "commentatorTierSimilarities": [
+                34.04,
+                32.63,
+                33.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In John 6:57, Jesus emphasizes the inseparable connection between himself, the Father, and believers. Just as the Father is the source of all life, Jesus lives in and through the Father. Through consuming him, believers enter into a deep union with Christ, finding sustenance and life in him. This mystical appropriation signifies our reliance on Christ as the source of spiritual and eternal life. Jesus highlights that he lives because of the Father, and likewise, those who partake in him shall live because of him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.3661501858823977,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.01,
+            "commentatorTierSimilarities": [
+                34.11,
+                33.22,
+                32.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

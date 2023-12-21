@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:06:10",
+    "verseRef": "John 5:13",
+    "bestBHT": {
+        "bht": "As Jesus performed a miraculous healing during a crowded feast, the man who had been healed did not even know who had cured him. Jesus purposefully slipped away to avoid hasty popularity and precipitate hatred. This man, though he may not have known Jesus, was well aware that someone remarkable had healed him. The context required Jesus to withdraw, as it was not yet time for His glory to be fully revealed. The man's lack of faith did not hinder the healing, but rather highlighted that Jesus was the true source of the miracle.",
+        "wordCount": 95,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.986934200334082,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+        "commentatorTierSimilarities": [
+            29.56,
+            34.36,
+            36.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His fame had not been so spread yet, but that He might during the crowd of strangers at the feast pass unnoticed.",
+            "Jesus passed on unobserved by him: just spoke the healing words, and then went on among the crowd.",
+            "The context requires this interpretation: being violated by the ordinary one, that Jesus \u2018conveyed himself away, because a multitude was in the place.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That some one, with unparalleled generosity, tenderness and power, had done it, the man knew well enough.",
+            "He disappeared too quickly for any inquiries.",
+            "He slipped out of the crowd that had gathered, to avoid both hasty popularity and precipitate hatred."
+        ],
+        "Albert Barnes": [
+            "Wist not - Knew not.",
+            "Had conveyed himself away - Was lost in the crowd.",
+            "He had silently mingled with the multitude, or had passed on with the crowd unobserved, and the man had been so rejoiced at his cure that he had not even asked for the name of his benefactor."
+        ],
+        "Marvin Vincent": [
+            "He that was healed [\u03b9\u03b1\u03b8\u03b5\u03b9\u03c2]. Compare ver. 10, and note the different word for healing.",
+            "Who it was [\u03c4\u03b9\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd]. The present tense, who it is.",
+            "Had conveyed Himself away [\u03b5\u03be\u03b5\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd]. The verb means, literally, to turn the head aside, in order to avoid something. Hence, generally, to retire or withdraw. Only here in the New Testament."
+        ],
+        "John Calvin": [
+            "Christ certainly did not intend that the glory of so great a work should pass away...",
+            "He intended that it should become generally known before that he acknowledged himself to be the Author of it.",
+            "And hence we learn that the cure of this man cannot be ascribed to his faith, since, even after having been cured, he does not acknowledge his Physician."
+        ],
+        "Philip Schaff": [
+            "We need not wonder that this man, unable to move from place to place, perhaps only recently come to Jerusalem, had no previous knowledge of Jesus.",
+            "After his cure, too, he could hear nothing of his benefactor, for, to avoid the recognition and enthusiasm of the multitude (comp. chap. John 6:15), Jesus withdrew, literally \u2018slipped aside,\u2019 became suddenly lost to sight.",
+            "The conflict between Jesus and the Jews has begun: all His actions deepen their hatred against Him. The \u2018multitude,\u2019 on the other hand, is the object of His compassion: from time to time they follow Him eagerly, however slight may be their knowledge of His true teaching and aims (John 6:2; John 6:15)."
+        ],
+        "Archibald T. Robertson": [
+            "He that was healed (\u03bf \u03b9\u03b1\u03b8\u03b5\u03b9\u03c2). First aorist passive articular participle of \u03b9\u03b1\u03bf\u03bc\u03b1 (John's usual word).",
+            "Who it was (\u03c4\u03b9\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd). Present tense preserved in indirect question.",
+            "Had conveyed himself away (\u03b5\u03be\u03b5\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd). First aorist active indicative of \u03b5\u03ba\u03bd\u03b5\u03c9, old verb to swim out, to slip out, or from \u03b5\u03ba\u03bd\u03b5\u03c5\u03c9, to turn out, to turn the head to one side (to one side with which compare \u03b5\u03bd\u03b5\u03bd\u03b5\u03c5\u03bf\u03bd, they nodded, Luke 1:62)."
+        ],
+        "John Gill": [
+            "He had never seen, and perhaps had never heard of Christ before, and so knew him not...",
+            "Christ gave him no opportunity of conversing with him, or so much as to ask him who he was...",
+            "He passed through them, and went his way to the temple, where he found the man he had healed..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus performed a miraculous healing during a crowded feast, the man who had been healed did not even know who had cured him. Jesus purposefully slipped away to avoid hasty popularity and precipitate hatred, disappearing before any inquiries could be made. This man, though he may not have known Jesus, was well aware that someone remarkable had healed him. The context of the situation required Jesus to withdraw, as it was not yet time for His glory to be fully revealed. The man's lack of faith did not hinder the healing, but rather highlighted that Jesus was the true source of the miracle.",
+            "wordCount": 105,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.9726094606063387,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                29.37,
+                34.67,
+                35.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus performed a miraculous healing during a crowded feast, the man who had been healed did not even know who had cured him. Jesus purposefully slipped away to avoid hasty popularity and precipitate hatred. This man, though he may not have known Jesus, was well aware that someone remarkable had healed him. The context required Jesus to withdraw, as it was not yet time for His glory to be fully revealed. The man's lack of faith did not hinder the healing, but rather highlighted that Jesus was the true source of the miracle.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.986934200334082,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                29.56,
+                34.36,
+                36.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During a crowded feast, Jesus performed a miraculous healing that went unnoticed by most. He intentionally slipped away among the crowd, avoiding the immediate attention and potential animosity. The man who was healed was left in awe, knowing that someone with unparalleled generosity and power had done it. Jesus, with his remarkable act, conveyed a message that the timing was not yet right for His identity as the healer to be fully known. The man's lack of faith did not diminish the significance of Jesus' role as the true source of the miracle.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.900824610556176,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.54,
+            "commentatorTierSimilarities": [
+                32.32,
+                35.5,
+                32.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst a crowded gathering, Jesus quietly performed a miraculous healing that went unnoticed by many. Intentionally slipping away from the scene, He avoided instant recognition and the possible negative attention it could bring. The man who received the healing, though unaware of Jesus' identity, understood that a remarkable individual had touched his life. This concealed act allowed Jesus to maintain a sense of anonymity, as the time had not yet come for His glory to be fully revealed. The man's faith was not a prerequisite, emphasizing Jesus as the true source of the miracle.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.868277048956586,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.46,
+            "commentatorTierSimilarities": [
+                28.85,
+                36.62,
+                34.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of a crowded feast, Jesus performed a healing that went unnoticed by most. With humility and caution, He slipped away, avoiding hasty popularity and precipitating hatred. The man who received the miraculous healing recognized the remarkable power at work in his life, even though he did not know Jesus. This concealed act allowed Jesus to control the timing of His revelation and emphasize His role as the true source of the miracle, rather than the faith of the man who was healed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8694280516933461,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                32.61,
+                33.88,
+                33.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

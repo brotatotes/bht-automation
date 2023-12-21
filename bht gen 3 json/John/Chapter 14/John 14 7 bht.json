@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:12:22",
+    "verseRef": "John 14:7",
+    "bestBHT": {
+        "bht": "From the moment of His glorification, Jesus begins to reveal the Father in a way that the disciples had not grasped before. Through successive revelations, they are beginning to understand the profound connection between knowing Christ and knowing the Father. Their previous knowledge of God was incomplete; they had not fully acknowledged the vivid image of the Father exhibited in Jesus. As they gain a deeper knowledge of the Son, the veil obscuring their understanding of the true knowledge of God lifts, allowing them to possess the highest knowledge of all.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.048166883353985,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+        "commentatorTierSimilarities": [
+            23.1,
+            43.64,
+            33.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The henceforth is the future time, beginning with our Lord\u2019s glorification, which was now at hand.",
+            "Henceforth is not entirely future nor entirely present, but the moment of transition, the identification of the present and future.",
+            "Christ speaks here by anticipation in reference to the hour of His glorification being come."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. from henceforth\u2014now, or",
+            "\tfrom this time, understand."
+        ],
+        "Albert Barnes": [
+            "They still retained, to a large extent, the Jewish notions respecting a temporal Messiah, and did not fully understand that he was to die and be raised from the dead.",
+            "If you had been divested of your Jewish prejudices about the Messiah, if you had understood that it was proper for me to die, you would also have understood the purposes and plans of God in my death.",
+            "A correct knowledge of the character and work of Christ is the same as a correct knowledge of the counsels and plans of God."
+        ],
+        "Marvin Vincent": [
+            "Had learned to know, through my successive revelations of myself.",
+            "The knowledge of the Father in His relation to the Son.",
+            "This latter knowledge is better expressed by oi=da."
+        ],
+        "John Calvin": [
+            "It is a foolish and pernicious curiosity, when men, not satisfied with him, attempt to go to God by indirect and crooked paths.",
+            "I see, that hitherto you have not known me in a right and proper manner, because you do not yet acknowledge the lively image of the Father which is exhibited in me.",
+            "God is now plainly exhibited to them if they would but open their eyes."
+        ],
+        "Philip Schaff": [
+            "The meaning seems to be, that when we have gained a knowledge of the Son, we find ourselves possessed of a knowledge of His Father; then, in that knowledge, the veil which hides from us in our natural condition the true knowledge of God is withdrawn, and we possess the highest knowledge of all.\" ",
+            "Each stage of \u2018knowing\u2019 is but the beginning of a new stage of \u2018learning to know\u2019 more; \u2018forgetting the things that are behind,\u2019 we start ever afresh towards a knowledge of \u2018the Father,\u2019 always increasing but never consummated.",
+            "This knowledge, this sight, the disciples have \u2018from henceforth.\u2019 The point of time is not Pentecost anticipated. It dates from the great \u2018Now\u2019 of chap. John 13:31, and the explanation is to be found in the peculiar circumstances in which the disciples have been placed since then."
+        ],
+        "Archibald T. Robertson": [
+            "Thomas and the rest had not really come to know Jesus, much as they loved him.",
+            "Ye are beginning to know the Father from now on.",
+            "The only intelligible conception of God is precisely what Jesus here says. God is like Christ."
+        ],
+        "John Gill": [
+            "ye should have known my Father also; for the knowledge of the Father, and of Christ, go together; he that sees the one, sees the other; he that believes in the one, believes in the other.",
+            "the knowledge of both is necessary to eternal life; and as a person increases in the knowledge of the one, so of the other.",
+            "acknowledge the Father in all that I have done, believing that you see the Father in me, and in all my works."
+        ],
+        "John Wesley": [
+            "Ye have known \u2014 Ye have begun to know him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From the moment of His glorification, which was at hand, Jesus began to reveal the Father in a way that Thomas and the other disciples had not truly grasped before. Through Jesus' successive revelations of Himself, they were beginning to understand the profound connection between knowing Christ and knowing the Father. The disciples' previous knowledge of God was incomplete, for they had not yet fully acknowledged the vivid image of the Father exhibited in Jesus. However, from henceforth, as they gained a deeper knowledge of the Son, the veil that obscured their understanding of the true knowledge of God was lifted, allowing them to possess the highest knowledge of all. This knowledge is not a static end point, but rather the beginning of a lifelong journey of learning to know God more intimately, continually reaching toward a fuller understanding of the Father.",
+            "wordCount": 142,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 2.0992411068788224,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.14,
+            "commentatorTierSimilarities": [
+                23.0,
+                44.8,
+                32.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, anticipating His glorification, begins to reveal the Father to His disciples in a way they had not fully understood before. Through successive revelations of Himself, they are gradually coming to know both the Son and the Father. This knowledge of the Father is not something static, but rather an ongoing process of learning to know Him more deeply. It is through knowing Jesus that they come to truly know God, as He is the perfect image of the Father.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.9964965151455685,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                27.29,
+                35.71,
+                37.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From the moment of His glorification, which was at hand, Jesus began to reveal the Father in a way that Thomas and the other disciples had not truly grasped before. Through Jesus' successive revelations of Himself, they were beginning to understand the profound connection between knowing Christ and knowing the Father. The disciples' previous knowledge of God was incomplete, for they had not yet fully acknowledged the vivid image of the Father exhibited in Jesus. However, from henceforth, as they gained a deeper knowledge of the Son, the veil that obscured their understanding of the true knowledge of God was lifted, allowing them to possess the highest knowledge of all. This knowledge is not a static end point, but rather the beginning of a lifelong journey of learning to know God more intimately, continually reaching toward a fuller understanding of the Father.",
+            "wordCount": 142,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 2.0992411068788224,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.14,
+            "commentatorTierSimilarities": [
+                23.0,
+                44.8,
+                32.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, anticipating His glorification, reveals the Father in a way His disciples had not grasped before. Through successive revelations, they are beginning to understand the profound connection between knowing Christ and knowing the Father. Their previous knowledge of God was incomplete; they had not fully acknowledged the vivid image of the Father exhibited in Jesus. As they gain a deeper knowledge of the Son, the veil obscuring their understanding of the true knowledge of God lifts, allowing them to possess the highest knowledge of all. This knowledge is a lifelong journey of learning to know God more intimately.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.0289862423246525,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.8,
+            "commentatorTierSimilarities": [
+                23.38,
+                43.64,
+                32.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "From the moment of His glorification, Jesus begins to reveal the Father in a way that the disciples had not grasped before. Through successive revelations, they are beginning to understand the profound connection between knowing Christ and knowing the Father. Their previous knowledge of God was incomplete; they had not fully acknowledged the vivid image of the Father exhibited in Jesus. As they gain a deeper knowledge of the Son, the veil obscuring their understanding of the true knowledge of God lifts, allowing them to possess the highest knowledge of all.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.048166883353985,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                23.1,
+                43.64,
+                33.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

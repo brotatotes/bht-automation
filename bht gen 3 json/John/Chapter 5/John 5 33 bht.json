@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:06:42",
+    "verseRef": "John 5:33",
+    "bestBHT": {
+        "bht": "John 5:33 sheds light on the significant role of John the Baptist's testimony concerning Jesus. While human testimony can be unreliable, John's witness is deemed trustworthy due to the truth he testified about Jesus' person and office. The Sanhedrin recognized the value of John's testimony, and Jesus refers to it to aid in their salvation. Additionally, Jesus appeals to a higher level of evidence by invoking the witness of the Father, underscoring the enduring significance of John's testimony.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.3399789495435153,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.14,
+        "commentatorTierSimilarities": [
+            31.44,
+            33.34,
+            35.22
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He bare witness unto the truth, not merely (Grot.) modestly said;\u2014but necessarily.",
+            "Bare witness to Me would have been asserting what the next verse denies.",
+            "The connexion is,\u2014another testifies of Me (ver. 32)\u2014 \u2018not John only, although he, when sent to, did certainly testify to the truth; for\u2019&c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Depend not on human testimony.",
+            "I refer to him merely to aid your salvation.",
+            "I refer to him merely to aid your salvation."
+        ],
+        "Albert Barnes": [
+            "This testimony of John ought to have satisfied them. John was an eminent man; many of the Pharisees believed in him; he was candid, unambitious, sincere, and his evidence was impartial.\" ",
+            "On this Jesus might have rested the proof that he was the Messiah...",
+            "...he was willing, also, to adduce evidence of a higher order."
+        ],
+        "Marvin Vincent": [
+            "Ye sent... have sent... allusion to something abiding in its results.",
+            "The contrast between the human testimony... and the divine testimony."
+        ],
+        "John Calvin": [
+            "And, therefore, we see that this circumstance is highly appropriate to the matter in hand, namely, that they sent to John, and \u2014 as if their motive had been a desire to learn \u2014 inquired at him who was the Messiah, and yet paid no attention to his reply.",
+            "Before producing the testimony of God, he presses them with the answer of John, from which they could not honorably withhold their belief.",
+            "Nothing but their own malice (106) hinders them from believing."
+        ],
+        "Philip Schaff": [
+            "Had I not this all-sufficient witness, were it possible for me to appeal to any human witness, I might rest on your own act.",
+            "Your mission and his answer are unalterable and abiding facts, which press upon you still and cannot be set aside.",
+            "There is only one real witness to Jesus, even the Father speaking in the Son and drawing out the answer of the heart to Him."
+        ],
+        "Archibald T. Robertson": [
+            "The witness of the Baptist has to be recognized as trustworthy by the Sanhedrin.",
+            "The permanent and abiding value of John's testimony to Christ.",
+            "This was the purpose of the Baptist's mission."
+        ],
+        "John Gill": [
+            "Now had they not looked upon him, from what they knew of him, or from the character they had of him, as a faithful witness, they would never have shown him so much respect.\" ",
+            "He [John] bare witness unto the truth; to Christ, who is the truth itself; and to the truth of his person, and office; to his dignity, and eternity, as being before him, though coming after him.",
+            "He [John] declared that [Jesus] was the Son of God; and to his office, as Mediator, pointing to him as the Lamb of God, who, by his blood, and sacrifice, takes away the sins of men."
+        ],
+        "John Wesley": [
+            "He bare testimony \u2014 That I am the Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John 5:33 reminds us of the significance of John the Baptist's testimony about Jesus. While human testimony may not always be reliable, John's testimony holds weight because of his important role in paving the way for Jesus. The Sanhedrin recognized the trustworthiness of John's witness to Christ, and his mission was to aid in the salvation of others. In addition to John's testimony, Jesus also appeals to a higher order of evidence with the Father's witness. Even though the Pharisees could have rested on John's testimony alone, Jesus implores them to consider the unalterable and abiding facts of their own mission and its answer. The purpose of John's testimony was to declare the truth about Jesus' person, office, and the salvation he brings.",
+            "wordCount": 129,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.299425226806294,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.8,
+            "commentatorTierSimilarities": [
+                29.75,
+                34.29,
+                35.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John 5:33 highlights the significance of John the Baptist's testimony, as he played a crucial role in preparing the way for Jesus. Despite the potential unreliability of human testimony, John's witness to the truth of Jesus' person and office has a lasting and trustworthy impact. The Sanhedrin recognized the importance of his testimony, and Jesus himself refers to it to aid in their salvation. However, Jesus also appeals to a higher order of evidence, the witness of the Father, emphasizing the unalterable and abiding value of John's testimony.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.235357195289522,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.67,
+            "commentatorTierSimilarities": [
+                30.42,
+                33.5,
+                36.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John 5:33 brings attention to the significant role of John the Baptist's testimony about Jesus. While human testimony may not always be reliable, John's witness holds weight since he testified to the truth of Jesus' person and office. The Sanhedrin recognized the trustworthy nature of John's testimony, and Jesus refers to it to aid in their salvation. Furthermore, Jesus appeals to a higher order of evidence by mentioning the witness of the Father, highlighting the enduring value of John's testimony.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.3293494873038854,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.79,
+            "commentatorTierSimilarities": [
+                31.14,
+                33.18,
+                35.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John 5:33 sheds light on the significant role of John the Baptist's testimony concerning Jesus. While human testimony can be unreliable, John's witness is deemed trustworthy due to the truth he testified about Jesus' person and office. The Sanhedrin recognized the value of John's testimony, and Jesus refers to it to aid in their salvation. Additionally, Jesus appeals to a higher level of evidence by invoking the witness of the Father, underscoring the enduring significance of John's testimony.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.3399789495435153,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.14,
+            "commentatorTierSimilarities": [
+                31.44,
+                33.34,
+                35.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John 5:33 highlights the importance of John the Baptist's testimony about Jesus. While human testimony can be uncertain, John's witness is notable for its trustworthiness. The Sanhedrin recognized the reliability of John's testimony, and Jesus refers to it to assist in their salvation. He also appeals to a higher form of evidence through the witness of the Father, emphasizing the lasting value of John's testimony. Reflecting on John's role, it becomes clear that his mission was to bear witness to the truth of Christ's person and work.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.2936917704972197,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.61,
+            "commentatorTierSimilarities": [
+                31.73,
+                33.0,
+                35.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

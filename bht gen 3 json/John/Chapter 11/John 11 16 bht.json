@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:10:28",
+    "verseRef": "John 11:16",
+    "bestBHT": {
+        "bht": "Thomas, known as Didymus, had a unique character, often taking a pessimistic view but deeply devoted to his Lord. When he heard that Jesus intended to go back to Judea, Thomas expressed his willingness to go as well, even if it meant facing death. This was not a fear for Lazarus, but a deep understanding of the potential sacrifice their Master would make. Thomas's devotion to Jesus was so strong that he could not fathom living without Him. His love for Jesus overshadowed all else, even his own life.",
+        "wordCount": 90,
+        "quoteTokenProportion": 47.76,
+        "qualityScore": 1.9801040147272846,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+        "commentatorTierSimilarities": [
+            32.03,
+            32.55,
+            35.43
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let us also go (with our Master), that we may die with him.",
+            "This is in exact accord with the character of Thomas, as shewn in ch. xiv. 5; xx. 25;\u2014ever ready to take the dark view, but deeply attached to his Lord.",
+            "The remark means, Let us also go (with our Master), that we may die with him (not, with Lazarus, as Grot.)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let us also go, that we may die with him\u2014lovely spirit, though tinged with some sadness...",
+            "He perceives clearly how this journey to Judea will end, as respects his Master, and not only sees in it peril to themselves... but feels as if he could not and cared not to survive his Master's sacrifice...",
+            "It was that kind of affection which, living only in the light of its Object, cannot contemplate, or has no heart for life, without it."
+        ],
+        "Albert Barnes": [
+            "Thomas, which is called Didymus - These names express the same thing. One is Hebrew and the other Greek. The name means a twin.",
+            "Let us go and die, for what have we to hope for if Jesus returns into Judea? Lately they attempted to stone him, and now they will put him to death, and we also, like Lazarus, shall be dead.",
+            "He is about to throw himself into danger. The Jews lately sought his life, and will again. They will put him to death. But let us not forsake him. Let us attend him and die with him."
+        ],
+        "Marvin Vincent": [
+            "Didymus [\u03b4\u03b9\u03b4\u03c5\u03bc\u03bf\u03c2] . Not a surname of Thomas, but the Greek equivalent of the Aramaic name, twin.",
+            "Fellow - disciples [\u03c3\u03c5\u03bc\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03b9\u03c2] . Only here in the New Testament.",
+            "We may die. 'He will die for the love which he has, but he will not affect the faith which he has not' (Westcott)."
+        ],
+        "John Calvin": [
+            "Thomas is now prepared to follow, but it is without confidence; or, at least, he does not fortify himself by the promise of Christ, so as to follow him with cheerfulness and composure.",
+            "Let us go, that we may die with him. This is the language of despair, for they ought to have entertained no fears about their own life.",
+            "Thomas does not refuse to die with Christ But this, as I have said, proceeds from inconsiderate zeal; for he ought rather to have taken courage from faith in the promise."
+        ],
+        "Philip Schaff": [
+            "Let us also go, that we may die with him.\" ",
+            "This is the end of all, death; not the Messianic kingdom, not life.",
+            "Thomas... in whom unbelief and faith, hope and tendency to despair, were strangely blended."
+        ],
+        "Archibald T. Robertson": [
+            "Didymus (\u0394\u03b9\u03b4\u03c5\u03bc\u03bf\u03c2). The word means twin.",
+            "His fellow disciples (\u03c4\u03bf\u03b9\u03c2 \u03c3\u03c5\u03bd\u03bc\u03b1\u03b8\u03b7\u03c4\u03b1\u03b9\u03c2). Dative case and article use like 'his.' Only use of \u03c3\u03c5\u03bd\u03bc\u03b1\u03b8\u03b7\u03c4\u03b5\u03c2 in the N.T., rare word (in Plato).",
+            "That we may die with him (\u03b9\u03bd\u03b1 \u03b1\u03c0\u03bf\u03b8\u03b1\u03bd\u03c9\u03bc\u03b5\u03bd \u03bc\u03b5\u03c4' \u03b1\u03c5\u03c4\u03bf\u03c5). Purpose clause with \u03b9\u03bd\u03b1 and the second aorist active subjunctive of \u03b1\u03c0\u03bf\u03b8\u03bd\u03b7\u03c3\u03ba\u03c9. Die with Jesus, Thomas means. Lazarus is already dead and they will kill Jesus (verse John 11:8). Pessimistic courage surely."
+        ],
+        "John Gill": [
+            "Let us also go, that we may die with him.",
+            "He, and the rest of the disciples, imagined that Christ, by returning to Judea, would be in great danger of losing his life.",
+            "Signifying, that they should have but little comfort when he was taken from them."
+        ],
+        "John Wesley": [
+            "Thomas in Hebrew, as Didymus in Greek, signifies a twin.",
+            "With him \u2014 With Jesus, whom he supposed the Jews would kill.",
+            "It seems to be the language of despair."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thomas, known as Didymus, had a unique character, often taking a pessimistic view but deeply devoted to his Lord. When he heard that Jesus intended to go back to Judea, Thomas expressed his willingness to go as well, even if it meant facing death. This was not a fear for Lazarus, but a deep understanding of the potential sacrifice their Master would make. Thomas's devotion to Jesus was so strong that he could not fathom living without Him. His love for Jesus overshadowed all else, even his own life. While tinged with sadness, Thomas's declaration revealed his unwavering affection and loyalty to Jesus, willing to die with Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.9960210214143772,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+            "commentatorTierSimilarities": [
+                32.25,
+                32.14,
+                35.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thomas, known as Didymus, displayed a unique blend of unbelief and faith, hope and tendency to despair. His readiness to go back to Judea with Jesus, even knowing the danger it entailed, revealed his deep attachment to his Master. Thomas's love for Jesus was so profound that he could not imagine life without Him. His words expressed a sense of inevitability, acknowledging the probable sacrifice Jesus would make. Thomas's unwavering devotion and willingness to die with Jesus reflected a beautiful yet melancholic spirit.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9707875573110538,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                30.8,
+                33.34,
+                35.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thomas, also known as Didymus, possessed a character defined by a tendency to view circumstances in a negative light, but a strong attachment to his Lord. When he heard about Jesus' plan to return to Judea, Thomas, aware of the dangers, expressed his readiness to go along, even if it meant facing death. His affection for Jesus was so profound that he couldn't envision life without Him. Thomas's declaration revealed a love that thrived solely in the presence of its Object, willing to die with Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.953172357826975,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                32.79,
+                31.28,
+                35.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thomas, known as Didymus, had a unique character, often taking a pessimistic view but deeply devoted to his Lord. When he heard that Jesus intended to go back to Judea, Thomas expressed his willingness to go as well, even if it meant facing death. This was not a fear for Lazarus, but a deep understanding of the potential sacrifice their Master would make. Thomas's devotion to Jesus was so strong that he could not fathom living without Him. His love for Jesus overshadowed all else, even his own life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.9801040147272846,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                32.03,
+                32.55,
+                35.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thomas, also known as Didymus, demonstrated a unique blend of unbelief and faith, with a propensity for seeing the darker side of things but remaining deeply attached to his Lord. When Jesus announced His intention to return to Judea, Thomas responded by expressing his willingness to go along, even if it meant facing death. This wasn't a fear for Lazarus, but rather a recognition of the potential sacrifice Jesus would make. Thomas's affection for Jesus was so profound that he couldn't envision a life without Him, exemplifying a love that can only exist in the light of its Object.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.066333898737356,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.05,
+            "commentatorTierSimilarities": [
+                32.55,
+                33.88,
+                33.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

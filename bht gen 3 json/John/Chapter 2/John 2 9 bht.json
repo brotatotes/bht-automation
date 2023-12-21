@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:04:19",
+    "verseRef": "John 2:9",
+    "bestBHT": {
+        "bht": "The tablemaster remained unaware of the miracle, while the servants knew the source of the water-turned-wine. While Jesus participated in social life, this does not equate to approval of modern liquor trade. Love's law teaches Christians to willingly give up stumbling blocks for others. The impartial judgment of the tablemaster showed no collusion between Jesus and those at the feast. The water's transformation into wine indicates a complete change in properties. The governor of the feast called the bridegroom, demonstrating the bridegroom's role in arranging the event.",
+        "wordCount": 92,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.2354115315043979,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.42,
+        "commentatorTierSimilarities": [
+            23.8,
+            33.71,
+            42.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9, 10. well drunk\u2014\"drunk",
+            "\tabundantly\" (as Song of Solomon 5:1),",
+            "\tspeaking of the general practice."
+        ],
+        "Albert Barnes": [
+            "His judgment was not biased by any favor, or any lack of favor, toward Jesus.",
+            "Had he known what was done, he would have been less likely to have judged impartially.",
+            "Everything in this miracle shows that there was no collusion or understanding between Jesus and any of the persons at the feast."
+        ],
+        "Archibald T. Robertson": [
+            "The tablemaster knew nothing of the miracle, 'whence it was'... The servants knew the source of the water, but not the power that made the wine.",
+            "Unlike the Baptist Jesus mingled in the social life of the time, was even abused for it... But this fact does not mean that today Jesus would approve the modern liquor trade with its damnable influences.",
+            "The law of love... teaches modern Christians to be willing gladly to give up what they see causes so many to stumble into sin."
+        ],
+        "John Gill": [
+            "this water, that was turned into wine, ceased to be what it was before, and became what it was not: it had no more the properties, the colour, and taste of water, but of wine",
+            "But the servants which drew the water knew; they knew from whence they had it, out of the water pots",
+            "the governor of the feast called the bridegroom to him"
+        ],
+        "John Wesley": [
+            "The governor of the feast \u2014 The bridegroom generally procured some friend to order all things at the entertainment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The tablemaster, unlike the servants, was unaware of the miracle that had taken place, remaining ignorant of the source of the wine. While Jesus engaged in the social life of his time, his actions should not be interpreted as a blanket endorsement of modern-day alcohol consumption. Rather, the law of love teaches Christians to be willing to sacrifice personal liberties for the sake of their brothers and sisters. It is evident that there was no collusion between Jesus and any of the individuals involved in the feast, as demonstrated by the impartial judgment of the tablemaster. The water used for the miracle transformed into wine, completely changing its properties and characteristics. Ultimately, the governor of the feast called the bridegroom to him, highlighting the role of the bridegroom in overseeing and orchestrating the event.",
+            "wordCount": 135,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.289890865981512,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.23,
+            "commentatorTierSimilarities": [
+                24.53,
+                36.93,
+                38.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tablemaster remained unaware of the miracle, while the servants knew the source of the water-turned-wine. While Jesus participated in social life, this does not equate to approval of modern liquor trade. Love's law teaches Christians to willingly give up stumbling blocks for others. The impartial judgment of the tablemaster showed no collusion between Jesus and those at the feast. The water's transformation into wine indicates a complete change in properties. The governor of the feast called the bridegroom, demonstrating the bridegroom's role in arranging the event.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.2354115315043979,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.42,
+            "commentatorTierSimilarities": [
+                23.8,
+                33.71,
+                42.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tablemaster was unaware of the miracle, whereas the servants knew the source of the water-turned-wine. Jesus's social engagement does not endorse the modern liquor trade's harmful effects. Love's law requires Christians to willingly give up stumbling blocks. The impartial judgment of the tablemaster reveals no collusion with Jesus. The water's transformation into wine implies a complete change in properties. The governor of the feast summoned the bridegroom, highlighting his role in the event's arrangements.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.216266343903074,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.78,
+            "commentatorTierSimilarities": [
+                24.33,
+                36.58,
+                39.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tablemaster remained unaware of the miracle, while the servants knew the source of the water-turned-wine. Jesus's involvement in social life does not imply approval of the modern liquor trade's destructive influence. Love's law calls on Christians to willingly relinquish stumbling blocks. The impartial judgment of the tablemaster indicates no secret collaboration with Jesus took place. The water's transformation into wine denotes a complete change of properties. The governor of the feast summoned the bridegroom, underscoring his role in the event's coordination.",
+            "wordCount": 89,
+            "quoteTokenProportion": 20.63,
+            "qualityScore": 1.1618355977598354,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.97,
+            "commentatorTierSimilarities": [
+                25.69,
+                33.17,
+                41.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tablemaster, unaware of the miracle, contrasted with the servants who knew the source of the water-turned-wine. Jesus's participation in social life does not endorse the modern liquor trade's detrimental impacts. The law of love compels Christians to willingly sacrifice stumbling blocks. The tablemaster's impartial judgment indicated the absence of collusion between Jesus and the feast attendees. The water's transformation into wine demonstrated a complete alteration of its properties. The governor of the feast summoned the bridegroom, highlighting his responsibility for the event's organization and management.",
+            "wordCount": 93,
+            "quoteTokenProportion": 23.44,
+            "qualityScore": 1.1781662535140638,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.52,
+            "commentatorTierSimilarities": [
+                22.97,
+                36.27,
+                40.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

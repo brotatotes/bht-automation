@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:05:26",
+    "verseRef": "John 4:13",
+    "bestBHT": {
+        "bht": "In response to the woman at the well, Jesus subtly suggests His superiority over Jacob by emphasizing that the water He offers is greater than what Jacob provided. The water given by Jacob cannot fully quench thirst, whereas the living water from Christ springs forth from the depths of our being, transforming us into fountains of spiritual life. This water, fueled by the indwelling of the Holy Spirit, offers enduring energies and satisfactions, freeing us from a perpetual thirst.",
+        "wordCount": 79,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.9221381136897222,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+        "commentatorTierSimilarities": [
+            26.6,
+            39.21,
+            34.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord, without noticing this, by His answer leaves it to be implied, that, assuming what she has stated, He is greater than Jacob.",
+            "For his (Jacob\u2019s) gift was of water which cannot satisfy.",
+            "Assuming what she has stated, He is greater than Jacob."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The contrast here is fundamental and all comprehensive.",
+            "The 'water' that Christ gives\u2014spiritual life\u2014is struck out of the very depths of our being, making the soul not a cistern, for holding water poured into it from without, but a fountain.",
+            "The indwelling of the Holy Ghost as the Spirit of Christ is the secret of this life with all its enduring energies and satisfactions."
+        ],
+        "Albert Barnes": [
+            "Jesus did not directly answer her question, or say that he was greater than Jacob, but he gave her an answer by which she might infer that he was.",
+            "He did not despise or undervalue Jacob or his gifts; but, however great might be the value of that well, the water could not altogether remove thirst.",
+            "The water could not altogether remove thirst."
+        ],
+        "Marvin Vincent": [
+            "Whosoever drinketh [\u03c0\u03b1\u03c2 \u03bf \u03c0\u03b9\u03b7] . Literally, every one that drinketh. So Rev."
+        ],
+        "John Calvin": [
+            "That which quickens the soul cannot but be eternal.",
+            "The Holy Spirit is a continually flowing fountain; and that, therefore, there is no danger that they who have been renewed by spiritual grace shall be dried up.",
+            "The grace of Christ... does not cease to flow until the incorruptible life which it commences be brought to perfection."
+        ],
+        "Philip Schaff": [
+            "The greatness of the Giver must be learnt from the quality of the gift.",
+            "Even the living water from Jacob\u2019s well has no power to prevent the return of thirst.",
+            "Every one that drinketh of this water shall thirst again."
+        ],
+        "Archibald T. Robertson": [
+            "Every one that drinketh (\u03c0\u03b1\u03c2 \u03bf \u03c0\u03b9\u03bd\u03c9\u03bd). Present active articular participle with \u03c0\u03b1\u03c2, parallel to the indefinite relative with the second aorist active subjunctive (\u03bf\u03c2 \u03b1\u03bd \u03c0\u03b9\u03b7) in verse John 4:14.\" ",
+            "With this difference in the tenses used (\u03c0\u03b9\u03bd\u03c9\u03bd, keep on drinking, \u03c0\u03b9\u03b7, once for all).\" ",
+            "Note \u03b5\u03ba and the ablative both times, out of the water."
+        ],
+        "John Gill": [
+            "In a mild and gentle manner, patiently bearing all her scoffs and flouts, and continuing to instruct and inform her, concerning this living water, showing the preferableness of it to all others.",
+            "Shall thirst again; as this woman had often done, and would again, as she herself knew.",
+            "For though water allays heat, quenches thirst, and refreshes and revives the spirits for a while, yet in process of time, natural heat increases, and thirst returns, and there is a necessity of drinking water again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in His response, subtly points out that He is greater than Jacob, without directly stating it. He acknowledges that Jacob's gift was water, which ultimately cannot satisfy. The contrast between the water Jacob offers and the living water that Christ gives is all-encompassing and fundamental. This living water, striking the depths of our being, transforms us into fountains rather than cisterns, allowing us to experience enduring and satisfying spiritual life. The indwelling of the Holy Spirit as the Spirit of Christ is the secret to this life with all its enduring energies and satisfactions. Those who continually drink from this water will never thirst again, for it quenches the soul eternally. The grace of Christ is a continually flowing fountain that will never dry up, and those who have been renewed by this grace will be sustained. While earthly water temporarily satisfies physical thirst, it cannot prevent thirst from returning. Similarly, the water offered by Jacob's well could not completely remove thirst.",
+            "wordCount": 166,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.864979795303545,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                23.54,
+                40.26,
+                36.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus implies that He is greater than Jacob, despite not directly addressing it. While Jacob's gift was water, it could not satisfy completely. The contrast between the water Jacob offers and the living water given by Christ is fundamental and all-encompassing. This living water springs forth from the depths of our being, transforming us into fountains of spiritual life. The indwelling of the Holy Spirit, as the Spirit of Christ, empowers this life with enduring energies and satisfactions. Those who continually drink from this water will never thirst again, for it satisfies the soul eternally.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.8180410818836177,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.79,
+            "commentatorTierSimilarities": [
+                26.19,
+                40.24,
+                33.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In response to the woman at the well, Jesus subtly suggests His superiority over Jacob by emphasizing that the water He offers is greater than what Jacob provided. The water given by Jacob cannot fully quench thirst, whereas the living water from Christ springs forth from the depths of our being, transforming us into fountains of spiritual life. This water, fueled by the indwelling of the Holy Spirit, offers enduring energies and satisfactions, freeing us from a perpetual thirst.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9221381136897222,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                26.6,
+                39.21,
+                34.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, without directly acknowledging it, implies that He is greater than Jacob by His response to the woman at the well. While Jacob's gift was water, it ultimately could not satisfy. The contrast between the water Jacob offers and the living water from Christ is fundamental and comprehensive. This living water springs forth from the depths of our being, transforming us into fountains of spiritual life. The indwelling of the Holy Spirit, as the Spirit of Christ, is the secret to this enduring and satisfying life. Those who continually drink from this water will never thirst again, for it satisfies the soul eternally.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.8052199378819043,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+            "commentatorTierSimilarities": [
+                26.29,
+                39.68,
+                34.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, without explicitly stating it, implies that He is greater than Jacob by His response to the woman at the well. While Jacob's water gift falls short of satisfying, the living water provided by Christ springs forth from the depths of our being, transforming us into fountains of spiritual life. The indwelling of the Holy Spirit as the Spirit of Christ is the secret to enduring and satisfying life. Those who continually drink from this water will never thirst again, as it quenches the soul eternally.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.817792903964306,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                26.43,
+                35.83,
+                37.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

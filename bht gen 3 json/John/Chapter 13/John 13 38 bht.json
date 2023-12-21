@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:12:01",
+    "verseRef": "John 13:38",
+    "bestBHT": {
+        "bht": "There is a stark contrast between Peter's confident boast to lay down his life for Jesus and the subsequent denial that ensues. Jesus playfully alludes to Peter's words, highlighting the irony of his claim. The repetition of Peter's declaration carries a tone of affectionate irony and serves as a gentle rebuke. This interaction reminds us to acknowledge our own weaknesses and not to rely solely on our own strength, but to seek support from the Lord. Jesus's foreknowledge of Peter's denial emphasizes the importance of humility before God.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.8969197889645488,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+        "commentatorTierSimilarities": [
+            38.02,
+            34.91,
+            27.07
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was at the same time a startling inversion of the subsequent facts, in this boast.",
+            "To which our Lord, I think, alludes in His question, 'wilt thou lay down thy life for Me?'",
+            "The words, The cock shall not crow, necessarily imply... and bind the whole events of this chapter to ch. xviii."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In this repetition of Peter's words there is deep though affectionate irony, and this Peter himself would feel for many a day after his recovery.",
+            "Verily... The cock, &c."
+        ],
+        "Marvin Vincent": [
+            "Wilt thou lay down thy life ? For a similar repetition of Peter's own words, see on 21 17. "
+        ],
+        "John Calvin": [
+            "Christ did not choose to debate with Peter, but wished that he should grow wise by his own experience.",
+            "Now since this example belongs to us, let each of us examine his own defects, that he may not be swelled with vain confidence.",
+            "Let us learn to distrust our own strength, and to betake ourselves early to the Lord, that he may support us by his power."
+        ],
+        "Philip Schaff": [
+            "The words of Jesus fix with solemn emphasis His disciple\u2019s attention on what He Himself had said.",
+            "The objection to this view, that the words of John 13:31 follow too closely upon John 13:30 to permit us to think that time was occupied between the two verses, is less weighty than at first appears.",
+            "The existence of which is presupposed in John 13:34-36."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus picks up Peter's very words and challenges his boasted loyalty.",
+            "The other disciples joined in Peter's boast.",
+            "Peter is silenced for the present."
+        ],
+        "John Gill": [
+            "Thou poor vain self-sufficient man, thou dost not know what thou talkest of.",
+            "Whence it follows, that there is no necessity of concluding from hence, that this night was the passover night.",
+            "Peter twice expressed his confidence, in laying down his life for Christ."
+        ],
+        "John Wesley": [
+            "The cock shall not have crowed \u2014 That is, cock crowing shall not be over, till thou hast denied me thrice.\" ",
+            "His three-fold denial was thrice foretold.",
+            "First, at the time mentioned here; secondly, at that mentioned by St. Luke; lastly, at that recorded by St. Matthew and Mark."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, there is a striking contrast between Peter's bold claim to lay down his life for Jesus and the reality of his subsequent denial. Jesus humorously alludes to Peter's boast, challenging his professed loyalty. The repetition of Peter's words in the narrative adds a layer of irony, which Peter would surely reflect on in the days after his recovery. Jesus's reply to Peter's claim is a gentle rebuke, causing Peter to be silenced for the moment. This exchange serves as a lesson for us to recognize our own weaknesses and not rely on our own strength, but to seek support from the Lord.",
+            "wordCount": 110,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9733705641081611,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.96,
+            "commentatorTierSimilarities": [
+                39.66,
+                33.46,
+                26.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's brazen declaration to lay down his life for Jesus is met with irony and a gentle reprimand from Jesus. This contrasts with the subsequent reality of Peter's denial. The repetition of Peter's words adds depth and humor to the narrative, prompting Peter's introspection in the days to come. This exchange serves as a reminder for us to acknowledge our own limitations and to rely on the strength of the Lord, rather than on our own abilities.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.755668861404127,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                41.5,
+                33.06,
+                25.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's boastful claim to lay down his life for Jesus is met with playful irony by Jesus. The repetition of Peter's own words serves as a gentle rebuke, causing Peter to be silenced temporarily. This exchange reminds us to be aware of our weaknesses and not rely on our own strength, but to seek support from the Lord. Jesus acknowledges the impending denial, foretelling it three times. This interaction highlights the importance of humility and dependence on God's power rather than our own.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.782750373001467,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.62,
+            "commentatorTierSimilarities": [
+                34.86,
+                35.67,
+                29.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's confident assertion to sacrifice his life for Jesus is met with a touch of humor and irony from Jesus. The repetition of Peter's words adds a deeper significance, leaving Peter with a lot to ponder in the aftermath. This interaction serves as a reminder for us to recognize our own limitations and not to rely solely on our own strength. It highlights the importance of seeking the support and empowerment of the Lord rather than trusting in ourselves.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6207792560006697,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                37.21,
+                34.85,
+                27.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There is a stark contrast between Peter's confident boast to lay down his life for Jesus and the subsequent denial that ensues. Jesus playfully alludes to Peter's words, highlighting the irony of his claim. The repetition of Peter's declaration carries a tone of affectionate irony and serves as a gentle rebuke. This interaction reminds us to acknowledge our own weaknesses and not to rely solely on our own strength, but to seek support from the Lord. Jesus's foreknowledge of Peter's denial emphasizes the importance of humility before God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8969197889645488,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                38.02,
+                34.91,
+                27.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

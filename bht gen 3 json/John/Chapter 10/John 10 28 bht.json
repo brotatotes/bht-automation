@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:10:03",
+    "verseRef": "John 10:28",
+    "bestBHT": {
+        "bht": "Jesus' grand and authoritative declaration assures his sheep that he presently and continuously grants them eternal life. The invincible power of God firmly secures their salvation, offering them lasting safety. No enemy, not even the devil, can snatch them from the unfailing grip of God's hand. This promise brings peace and assurance, as Jesus protects his beloved sheep from all foes. Their hearts can rest in the certainty of their eternal security, knowing that God's hand will never let them go.",
+        "wordCount": 83,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.7419507552494689,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+        "commentatorTierSimilarities": [
+            23.43,
+            33.99,
+            42.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This leads to a further description of these sheep.",
+            "The form of the sentence is a climax; rising through the words 'I give' and 'out of my hand,' to 'my Father which hath given them me,' and 'out of my Father\u2019s hand.'",
+            "My Father which hath given them me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I give unto them eternal life\u2014not 'will give them'; for it is a present gift.\" ",
+            "It is a very grand utterance, couched in the language of majestic authority."
+        ],
+        "Albert Barnes": [
+            "They shall not be destroyed forever.",
+            "No man, however eloquent in error, or persuasive in infidelity, or cunning in argument, or mighty in rank; and no devil with all his malice, power, cunning, or allurements, shall be able to pluck them from his hand.",
+            "Jesus holds them so secure and so certainly that no foe can surprise him as a robber does, or overcome him by force."
+        ],
+        "Marvin Vincent": [
+            "I give [\u03b4\u03b9\u03b4\u03c9\u03bc\u03b9] . Not, I will give. The gift is present and continuous.\" ",
+            "Shall pluck [\u03b1\u03c1\u03c0\u03b1\u03c3\u03b5\u03b9]. See on ver. 12. Compare can pluck, ver. 29. Here Jesus speaks of the fact; there of the possibility.\" ",
+            "Rev., snatch. Wyc., ravish."
+        ],
+        "John Calvin": [
+            "This is a remarkable passage, by which we are taught that the salvation of all the elect is not less certain than the power of God is invincible.",
+            "In short, our salvation is certain, because it is in the hand of God; for our faith is weak, and we are too prone to waver.",
+            "Christ infers that the salvation of believers is not exposed to the ungovernable passions of their enemies, because, ere they perish, God must be overcome, who has taken them under the protection of his hand."
+        ],
+        "Archibald T. Robertson": [
+            "And I give unto them eternal life... This is the gift of Jesus now to his sheep.\" ",
+            "The sheep may feel secure.\" ",
+            "No wolf, no thief, no bandit, no hireling, no demon, not even the devil can pluck the sheep out of my hand."
+        ],
+        "John Gill": [
+            "Christ gives eternal life to his sheep, or people now; he gives them a spiritual life, or a life of grace, which issues in eternal life.",
+            "Though they were lost in Adam, and in a perishing condition in themselves, during their state of unregeneracy...yet they shall never perish in such sense as the wicked will.",
+            "Christ's sheep are in his hands, being put there by God the Father, both as an instance of his love to Christ, and them; and this was done from all eternity, even when they were chosen in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes the security of Jesus' sheep under his watchful care. It is a grand declaration of his authority: he presently and continuously grants them eternal life. His sheep can find comfort in the fact that no enemy - not wolves, thieves, bandits, hirelings, demons, nor even the devil himself - can snatch them from his hand. Their salvation is certain, firmly held by the invincible power of God. This assurance extends beyond their present state of grace, for they shall not be destroyed forever. Jesus holds them securely, immune to the attacks or allurements of any foe. Their safety lies in the unfailing protection of God's hand.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.69242403602167,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                23.03,
+                37.15,
+                39.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This grand declaration of Jesus' authority assures his sheep that their eternal life is continuously given by him. They can find comfort in the fact that no enemy, not even the devil, can snatch them from his hand. Their salvation is certain, held securely by the invincible power of God. Jesus protects them from the attacks and allurements of all foes. The safety of his sheep lies in the unfailing protection of God's hand, granting them lasting security.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.7279819672831453,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                23.28,
+                34.95,
+                41.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This grand declaration emphasizes the continuous gift of eternal life given by Jesus to his sheep. They can take comfort in the fact that no foe, not even the devil, can snatch them from his hand. Through the invincible power of God, their salvation is certain and secure. Jesus guards them against all enemies and ensures their lasting safety. The unfailing protection of God's hand brings them peace and assurance in their spiritual journey.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.653574393424302,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                22.73,
+                34.76,
+                42.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' authoritative statement assures his sheep that he presently and continuously grants them eternal life. They find comfort knowing that no enemy, not even the devil, can snatch them from his hand. Their salvation is certain and secure, held firmly by the invincible power of God. Jesus protects them from all foes, offering them lasting safety in the unfailing grip of God's hand. This promise of eternal security brings peace and assurance to the hearts of his beloved sheep.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7128836611863507,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                23.57,
+                33.99,
+                42.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' grand and authoritative declaration assures his sheep that he presently and continuously grants them eternal life. The invincible power of God firmly secures their salvation, offering them lasting safety. No enemy, not even the devil, can snatch them from the unfailing grip of God's hand. This promise brings peace and assurance, as Jesus protects his beloved sheep from all foes. Their hearts can rest in the certainty of their eternal security, knowing that God's hand will never let them go.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7419507552494689,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "commentatorTierSimilarities": [
+                23.43,
+                33.99,
+                42.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

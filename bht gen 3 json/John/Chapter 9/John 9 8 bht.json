@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:09:14",
+    "verseRef": "John 9:8",
+    "bestBHT": {
+        "bht": "The blind man's suffering had a purpose in bringing forth the works of God through his healing by the Redeemer. His familiar presence as a beggar captured attention, as he was someone who was regularly observed. The man's identity and his habitual begging were significant in identifying him as the one who had been blind. The doubts of others helped to highlight the miracle, leading the man to testify even more strongly about the grace of Christ.",
+        "wordCount": 79,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.9338481877437106,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+        "commentatorTierSimilarities": [
+            28.22,
+            34.57,
+            37.21
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the economy of God's Providence, his suffering had its place and aim, and this was to bring out the works of God in his being healed by the Redeemer.",
+            "De Wette denies this interpretation, and refers the saying merely to the view of our Lord to bring out his own practical design, to make use of this man to prove His divine power.",
+            "The choice of the word implies attention and habit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Is not this he that sat and begged\u2014Here are a number of details to identify the newly seeing with the long-known blind beggar."
+        ],
+        "Albert Barnes": [
+            "The number of persons totally blind in any community is very small, and it is possible that this was the only blind beggar in Jerusalem.",
+            "The case was one, therefore, likely to attract attention, and one where there could be no imposture, as he was generally known.",
+            "The neighbours... This man seems to have been one who attracted considerable attention."
+        ],
+        "Marvin Vincent": [
+            "Blind. The best texts substitute prosaithv, a beggar. ",
+            "That sat and begged [\u03bf \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03bd\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03b1\u03b9\u03c4\u03c9\u03bd] . Literally, the one sitting and begging. Denoting something customary."
+        ],
+        "John Calvin": [
+            "This circumstance \u2014 of the man being known \u2014 contributed to make many people acquainted with the fame of the miracle.",
+            "But, as impiety is ingenious in obscuring the works of God, many thought that it was not the same man, because a new power of God openly appeared in him.",
+            "But the doubts of those men aided in proving the miracle, for, in consequence of those doubts, the blind man celebrated more highly the grace of Christ by his testimony."
+        ],
+        "Philip Schaff": [
+            "The fact that he was a beggar has not been mentioned before.",
+            "Stress is laid on it here rather than on his blindness...",
+            "...because it was from his frequenting the spot for the purpose of begging that he had become well known."
+        ],
+        "Archibald T. Robertson": [
+            "Neighbours (\u03b3\u03b5\u03b9\u03c4\u03bf\u03bd\u03b5\u03c2). From \u03b3\u03b7 (land), of the same land, old word.",
+            "Saw him (\u03b8\u03b5\u03c9\u03c1\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2). Present active participle of \u03b8\u03b5\u03c9\u03c1\u03b5\u03c9, who used to observe him.",
+            "Is not this he that sat and begged? (\u039f\u03c5\u03c7 \u03bf\u03c5\u03c4\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd \u03bf \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03bd\u03bf\u03c2 \u03ba\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b1\u03b9\u03c4\u03c9\u03bd?)"
+        ],
+        "John Gill": [
+            "the blind man was not a stranger, one that came out of the country to the city to beg; but a native of Jerusalem, that had long lived in a certain neighbourhood in it, and was well known to be what he was.\" ",
+            "they particularly remark his begging posture; he was not laid all along, as the lame man in Acts 3:2; nor did he go from door to door, as others were used to do, but he sat in some certain place, as blind men generally did.",
+            "is this not he that sat and begged?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The newly healed man's suffering served a purpose in God's plan, revealing His works through the healing power of the Redeemer. While some questioned whether it was truly the same man, his familiar presence as a beggar caught the attention of those who knew him. This man's identity, his habitual presence in begging, and his locality added to the recognition and credibility of the miracle. The doubts of others only further emphasized the greatness of Christ's grace in the man's testimony. Through this event, many became aware of the miraculous power of God at work.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.700767362644478,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                26.08,
+                32.24,
+                41.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The healing of the blind beggar had a purpose in God's plan, demonstrating the works of the Redeemer. His familiar presence as a beggar attracted attention from those who observed him regularly. The man's identity, his habitual begging, and his locality added to the recognition of the miracle. The doubts of others emphasized the greatness of Christ's grace in his testimony, leading many to witness the power of God at work.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.8697073046940729,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                30.44,
+                33.31,
+                36.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The healing of the blind beggar served a purpose in revealing the works of God through the Redeemer. His familiar presence as a beggar gathered attention from those who observed him regularly. The man's identity, habitual begging, and locality contributed to the recognition of the miracle. The doubts of others emphasized the greatness of Christ's grace in his testimony. Through this event, many became aware of the miraculous power of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.772784995282211,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                28.98,
+                33.26,
+                37.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blind man's suffering had a purpose in bringing forth the works of God through his healing by the Redeemer. His familiar presence as a beggar captured attention, as he was someone who was regularly observed. The man's identity and his habitual begging were significant in identifying him as the one who had been blind. The doubts of others helped to highlight the miracle, leading the man to testify even more strongly about the grace of Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.9338481877437106,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                28.22,
+                34.57,
+                37.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The healing of the blind beggar was part of God's Providence, aiming to reveal the works of God through the Redeemer. The man's identity as a beggar, his habitual presence, and his locality contributed to the recognition of the miracle. Though some doubted, their skepticism served to further prove the greatness of Christ's grace in the man's testimony. As a result, many became acquainted with the fame of the miracle, recognizing the power of God at work.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.8005582657528838,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                27.68,
+                29.32,
+                43.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

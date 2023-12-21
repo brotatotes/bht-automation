@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:09:56",
+    "verseRef": "John 10:25",
+    "bestBHT": {
+        "bht": "He had often told them about Himself, but the main reference here is to His works. His works confirm His words, serving as a testimony to the power of God. However, the people did not believe in Him, rejecting both His words and His works. Jesus had used the expression the Son of God to describe Himself, which they understood as the Messiah. His miracles were a clear indication of who He was, but unfortunately, the people remained ungrateful and resistant to God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 1.8816554554746283,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+        "commentatorTierSimilarities": [
+            26.36,
+            39.16,
+            34.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He had often told them, in unmistakeable descriptions of Himself.",
+            "But the great reference here is to His works.",
+            "The great reference here is to His works, as in ver. 37."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25, 26. Jesus answered them, I told",
+            "\tyou\u2014that is, in substance, what I am (for example John 7:37;",
+            "\tJohn 7:38; John 8:12;",
+            "\tJohn 8:35; John 8:36;",
+            "\tJohn 8:58)."
+        ],
+        "Albert Barnes": [
+            "I told you - It is not recorded that Jesus had told them in so many words that he was the Christ, but he had used expressions designed to convey the same truth...\" ",
+            "The expression 'the Son of God' they understood to be equivalent to the Messiah. This he had often used of himself in a sense not to be mistaken.\" ",
+            "The power of working miracles is an attestation of God to what is taught."
+        ],
+        "John Calvin": [
+            "My doctrine is easily enough understood, but the blame lies with you, because you maliciously resist God.",
+            "They had a striking testimony in his miracles, if they had not been ungrateful to God.",
+            "He did the works in the name of his Father; because his design was, to testify the power of God in them, by which it might be openly declared that he came from God."
+        ],
+        "Philip Schaff": [
+            "I told you, and ye believe not: the works that I do in my Father\u2019s name, they bear witness concerning me.\" ",
+            "A demand so made was never granted by Jesus. They had already received sufficient evidence, and to this He refers them.",
+            "But both word and works had failed to lead them to belief in Him."
+        ],
+        "Archibald T. Robertson": [
+            "It was useless to say more.",
+            "His works confirm his words.",
+            "They believe neither his words nor his works."
+        ],
+        "John Gill": [
+            "I told you, and ye believed not.... unless they believed he was such a person, they should die in their sins.",
+            "The works that I do in my Father's name, they bear witness of me.",
+            "Besides his words, his doctrine and ministry, they had his miracles before them, which plainly showed who he was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus had often described Himself in unmistakable terms to the people. But the main reference here is to His works, which served as a powerful testimony of His divinity. Jesus had performed numerous miracles, demonstrating His authority and power. However, despite His works and words, the people refused to believe in Him. Their unbelief was a result of their hardened hearts and resistance to God. Yet, Jesus did not simply give up; He continued to perform miracles in the name of His Father, testifying to the truth of His identity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.6828638790870123,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                21.57,
+                41.57,
+                36.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus had often told the people in clear terms who He was, but the main emphasis here is on His works, the miracles He performed. These works were a testament to His divine power and authority. Despite the abundance of evidence, the people refused to believe, rejecting both His words and His works. Their unbelief was a result of their resistance to God. Nevertheless, Jesus persisted in performing miracles in the name of His Father, providing undeniable proof of His true identity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7051417268252886,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.04,
+            "commentatorTierSimilarities": [
+                20.55,
+                40.83,
+                38.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus had often described Himself unmistakably to the people, but here the focus is on His works, which confirmed His words. The people, however, failed to believe in Him and His works. Their unbelief stemmed from their resistance to both His words and His miracles. Yet, Jesus did not cease His works, continuing to perform miracles in the name of His Father to clearly show His divine origin and purpose.",
+            "wordCount": 70,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 1.8263686135584007,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                24.52,
+                40.7,
+                34.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He had often told them, in unmistakeable descriptions of Himself, but the great reference here is to His works. His works confirm his words. However, the people did not believe in Him, neither His words nor His works. The expression the Son of God they understood to be equivalent to the Messiah, and Jesus had often used this to describe Himself. The power of working miracles is an attestation of God to what is taught. They had a striking testimony in His miracles, if they had not been ungrateful to God. His works in the name of His Father were meant to testify the power of God in them and openly declare that He came from God. Jesus had already provided sufficient evidence, but both His word and works failed to lead them to belief.",
+            "wordCount": 135,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 1.884241823889743,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                24.62,
+                40.86,
+                34.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He had often told them about Himself, but the main reference here is to His works. His works confirm His words, serving as a testimony to the power of God. However, the people did not believe in Him, rejecting both His words and His works. Jesus had used the expression the Son of God to describe Himself, which they understood as the Messiah. His miracles were a clear indication of who He was, but unfortunately, the people remained ungrateful and resistant to God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 1.8816554554746283,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                26.36,
+                39.16,
+                34.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:05:44",
+    "verseRef": "John 4:20",
+    "bestBHT": {
+        "bht": "The Samaritan woman raises the question of where to worship, suggesting that the decision must be made before she can receive the gift of God. The Jews argue for worship in Jerusalem, but the Samaritans hold Gerizim as a holy mountain. Jesus addresses the dispute by emphasizing that true worship transcends physical locations and requires obedience to God. This conversation reveals the woman's openness to learn the truth about worship, regardless of the specific place.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.9207426137885302,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+        "commentatorTierSimilarities": [
+            35.94,
+            26.69,
+            37.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To this day the few Samaritans resident in Nablus (Sychem) call it the holy mountain, and turn their faces to it in prayer.",
+            "They defended their practice by Deut. xxvii. 4, where our reading and the Heb. and LXX is Ebal, but that of the Samaritan Pentateuch, Gerizim (probably an alteration).",
+            "She pauses, having suggested, rather than asked, a question,\u2014seeming to imply, \u2018Before I can receive this gift of God, it must be decided, where I can acceptably pray for it;\u2019 and she leaves it for Him whom she now recognizes as a prophet, to resolve this doubt."
+        ],
+        "Albert Barnes": [
+            "On this mountain they had built a temple somewhat similar to the one in Jerusalem.",
+            "The old Samaritan Pentateuch, or five books of Moses, has the word 'Gerizim' instead of 'Ebal' in Deuteronomy 27:4.",
+            "Accordingly, our Saviour decided in favor of the Jews, yet in such a manner as to show the woman that the question was of much less consequence than they supposed it to be."
+        ],
+        "Marvin Vincent": [
+            "This mountain. Gerizim, at the foot of which lies the well. Here, according to the Samaritan tradition, Abraham sacrificed Isaac, and met Melchisedek.",
+            "The panorama seen from the top of Gerizim is about the most extensive and imposing in all Palestine.",
+            "Ought to worship [\u03b4\u03b5\u03b9]. Better, must worship. She puts it as a divine obligation. It is the only true holy place."
+        ],
+        "John Calvin": [
+            "It is a mistaken opinion which some hold, that the woman, finding the reproof to be disagreeable and hateful, cunningly changes the subject... she passes from what is particular to what is general, and, having been informed of her sin, wishes to be generally instructed concerning the pure worship of God.",
+            "It is certain that this was not the reason which induced them to offer sacrifices there, but after that they had framed a false and perverse worship, obstinacy followed, which was ingenious in contriving excuses.",
+            "We ought, therefore, carefully to attend to the distinction, that none may be reckoned Fathers but those who were manifestly the sons of God; and who also, by the eminence of their piety, were entitled to this honorable rank."
+        ],
+        "Philip Schaff": [
+            "\u2018This mountain\u2019 is of course Gerizim, near the foot of which they were standing.",
+            "One cannot but think that their confident and consistent maintenance of this first principle had long disturbed her mind.",
+            "Her words imply a willingness to accept the revelation of the truth, whatever it may be, if only she can learn where with acceptance she may appear before God."
+        ],
+        "Archibald T. Robertson": [
+            "The Samaritans held that Abraham offered up Isaac on Gerizim.",
+            "The woman felt that by raising this theological wrangle she would turn the attention of Jesus away from herself and perhaps get some light on the famous controversy.",
+            "\u03a0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b5\u03c9 in John is always worship, not just respect."
+        ],
+        "John Gill": [
+            "The Jews pleaded for the temple at Jerusalem. And ye say, that in Jerusalem is the place where men ought to worship.",
+            "The Samaritans call this mountain the holy mountain, they imagined there was something sacred in it; and the blessed mountain, or the mountain of blessing.",
+            "They not only urged the above instances of the worship of the patriarchs at, or about this place, which this woman refers to; but even falsified a passage in the Pentateuch, as is generally thought, in favor of this mount; for in Deuteronomy 27:4, instead of Mount Ebal, in the Samaritan Pentateuch Mount Gerizim is inserted."
+        ],
+        "John Wesley": [
+            "This mountain \u2014 Pointing to Mount Gerizim. Sanballat, by the permission of Alexander the Great, had built a temple upon Mount Gerizim, for Manasseh, who for marrying Sanballat's daughter had been expelled from the priesthood and from Jerusalem.",
+            "Our fathers worshipped \u2014 This plainly refers to Abraham and Jacob (from whom the Samaritans pretended to deduce their genealogy) who erected altars in this place.",
+            "Ye Jews say, In Jerusalem is the place \u2014 Namely, the temple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Samaritan woman inquires about the place of worship, pausing to imply that before she accepts the gift of God, she must know where to pray. Gerizim, the holy mountain to the Samaritans, holds significance as they believed Abraham offered Isaac on it. The Jews, on the other hand, argued for worship in Jerusalem. Jesus determines true worship is not limited to a specific location but rather a matter of obedience towards God. Through this dialogue, the woman's willingness to discover the truth, regardless of the answer, reveals her openness to the revelation of pure worship.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.892094514462396,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                37.07,
+                26.65,
+                36.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Samaritan woman's query reveals her concern about where to pray before accepting God's gift. The Samaritans considered Gerizim a sacred mountain due to their belief that Abraham sacrificed Isaac there. A theological dispute arises between them and the Jews, who claim Jerusalem as the proper place of worship. Jesus shifts the focus from external locations to the essence of true worship, emphasizing obedience to God rather than physical places. This interaction underscores the woman's willingness to receive the truth about genuine worship, irrespective of the specific location.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.8265147139571307,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                37.26,
+                26.68,
+                36.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Samaritan woman raises the question of where to worship, suggesting that the decision must be made before she can receive the gift of God. The Jews argue for worship in Jerusalem, but the Samaritans hold Gerizim as a holy mountain. Jesus addresses the dispute by emphasizing that true worship transcends physical locations and requires obedience to God. This conversation reveals the woman's openness to learn the truth about worship, regardless of the specific place.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9207426137885302,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                35.94,
+                26.69,
+                37.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Samaritan woman seeks clarity on the location of acceptable prayer, implying that the resolution of this doubt is necessary for her to receive God's gift. The dispute centers around Gerizim, the mountain regarded as holy by the Samaritans due to their belief that Abraham sacrificed Isaac there. The Jews advocate for worship in Jerusalem, but Jesus asserts that true worship goes beyond physical places. This interaction illuminates the woman's willingness to embrace the revelation of genuine worship, regardless of the specific location.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.9149267709113516,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                37.37,
+                26.51,
+                36.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Samaritan woman pauses to inquire about the proper place of prayer before receiving God's gift. The dispute stems from the significance of Gerizim, the Samaritans' holy mountain. In contrast, the Jews argue for worship in Jerusalem. Jesus redirects the focus from physical locations to true worship as an obligation. This conversation highlights the woman's desire to find the right place of acceptable worship, demonstrating her openness to receive the truth, regardless of the specific location.",
+            "wordCount": 78,
+            "quoteTokenProportion": 21.82,
+            "qualityScore": 1.7334953926976406,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                37.71,
+                24.92,
+                37.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

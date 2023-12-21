@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:04:21",
+    "verseRef": "John 2:3",
+    "bestBHT": {
+        "bht": "The mother of Jesus, in a position of authority, hinted at the lack of wine at the marriage feast, seeking her Son's counsel. She felt responsible for the embarrassing circumstance, potentially due to unexpected guests, and made a modest request for help. Jesus, driven by compassion and obedience, responded to her plea, manifesting His glory and showcasing His divine power.",
+        "wordCount": 61,
+        "quoteTokenProportion": 29.79,
+        "qualityScore": 1.8407319087565872,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+        "commentatorTierSimilarities": [
+            35.52,
+            28.87,
+            35.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mother of Jesus evidently is in a position of authority in the house.",
+            "She cannot have had from experience any reason to suppose that her Son would work a miracle.",
+            "Some of the other explanations are: 'that she had always found Him a wise counsellor, and mentioned the want to Him merely that He might suggest some way of remedying it.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. no wine\u2014evidently expecting",
+            "\tsome display of His glory, and hinting that now was His time."
+        ],
+        "Albert Barnes": [
+            "A marriage feast among the Jews was commonly observed for seven or eight days."
+        ],
+        "Marvin Vincent": [
+            "They wanted wine. Literally, when the wine failed. So Rev., Wyc., and wine failing.\" ",
+            "Some early authorities read: 'they had no wine, for the wine of the marriage was consumed.'",
+            "They have no wine. Implying a request for help, not necessarily the expectation of a miracle."
+        ],
+        "John Calvin": [
+            "It may be doubted if she expected or asked any thing from her Son, since he had not yet performed any miracle.\" ",
+            "I consider her words to be expressive of (\u03c3\u03c5\u03bc\u03c0\u03b1\u03b8\u03b5\u1f77\u03b1) earnest compassion.",
+            "Chrysostom throws out a suspicion that she was moved by the feelings of a woman to seek I know not what favor for herself and her Son; but this conjecture is not supported by any argument."
+        ],
+        "Philip Schaff": [
+            "The absolute singleness with which Jesus listens to the voice of His heavenly Father is the point to be brought out.",
+            "There may have been in her mind no definite idea of the kind of help that might be afforded, but she felt that help was needed, and that what was needed could be given by her Son.",
+            "The reply of Jesus, however, shows that, besides perplexity and faith, there was also presumption in Mary\u2019s words: she spoke as one who still had the right to suggest and to influence His action."
+        ],
+        "Archibald T. Robertson": [
+            "It was an embarrassing circumstance, especially to Mary, if partly due to the arrival of the seven guests.",
+            "The statement of the fact was in itself a hint and a request.",
+            "Mary feels some kind of responsibility and exercises some kind of authority for reasons not known to us."
+        ],
+        "John Gill": [
+            "And it may be by reason of a larger number of guests than were expected; however, so it was ordered by Divine Providence, that there might be an opportunity for Christ to manifest forth his glory.",
+            "Being concerned for the family, lest they should be put to shame and disgrace, and the entertainment should not proceed with becoming credit and honour.",
+            "She modestly moves it to him, perhaps by a whisper, sitting next to him; or, it may be, might call him out, and just drop the hint; being well persuaded of his power."
+        ],
+        "John Wesley": [
+            "And wine falling short \u2014 How many days the solemnity had lasted, and on which day our Lord came, or how many disciples might follow him, does not appear.",
+            "His mother saith to him, They have not wine \u2014 Either she might mean, supply them by miracle; or, Go away, that others may go also, before the want appears."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The mother of Jesus, being in a position of authority in the house, mentioned to her Son the lack of wine at the marriage feast, not necessarily expecting a miracle but rather seeking His wise counsel. The embarrassing circumstance of no wine may have been due to the arrival of unexpected guests, and Mary felt a sense of responsibility in addressing this issue. In her request for help, she conveyed both a hint and a plea. The marriage feast, typically lasting several days, had now reached a point where the wine supply had run out, leading Mary to express her earnest compassion for the family's potential shame. It was in this context that Jesus listened intently to the voice of His heavenly Father and responded in a way that showcased His unwavering obedience.",
+            "wordCount": 134,
+            "quoteTokenProportion": 33.71,
+            "qualityScore": 1.8990090259434362,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                32.9,
+                33.67,
+                33.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mother of Jesus, being in a position of authority in the house, mentioned to her Son the lack of wine at the marriage feast, not necessarily expecting a miracle but rather seeking His wise counsel. Mary felt a sense of responsibility and exercised some kind of authority in addressing this issue. The embarrassing circumstance of no wine may have been due to the arrival of unexpected guests, leading her to express earnest compassion and a desire to prevent the family from experiencing shame. It was in this context that Jesus listened intently to the voice of His heavenly Father and responded in a way that showcased His unwavering obedience.",
+            "wordCount": 110,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 1.8977689417443289,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                31.79,
+                34.51,
+                33.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mother of Jesus, in a position of authority, mentioned the lack of wine at the marriage feast, seeking His wise counsel and suggesting He might suggest a remedy. Mary felt responsible for the embarrassing circumstance, potentially due to unexpected guests, and expressed compassion for the family's potential shame. Her request conveyed both a hint and a plea for help. As Jesus listened to the voice of His heavenly Father, He responded obediently, showcasing His unwavering commitment.",
+            "wordCount": 78,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.7434386273596978,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.31,
+            "commentatorTierSimilarities": [
+                34.84,
+                32.07,
+                33.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mother of Jesus, evidently in a position of authority, mentioned the lack of wine at the marriage feast as a hint and a request for help. She felt responsible for the embarrassing circumstance, possibly due to unexpected guests. Her motivation, not known to us, compelled her to seek her Son's counsel or even a favor. Jesus, with unwavering obedience and the absolute singleness to His heavenly Father's voice, responded to her plea, showcasing His divine power and glory.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8400321079529376,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                34.94,
+                30.22,
+                34.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mother of Jesus, in a position of authority, hinted at the lack of wine at the marriage feast, seeking her Son's counsel. She felt responsible for the embarrassing circumstance, potentially due to unexpected guests, and made a modest request for help. Jesus, driven by compassion and obedience, responded to her plea, manifesting His glory and showcasing His divine power.",
+            "wordCount": 61,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 1.8407319087565872,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                35.52,
+                28.87,
+                35.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

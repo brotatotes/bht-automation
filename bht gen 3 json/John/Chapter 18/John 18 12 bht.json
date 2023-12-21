@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:14:06",
+    "verseRef": "John 18:12",
+    "bestBHT": {
+        "bht": "He before whose aspect the whole band had been terrified and cast to the ground now suffers himself to be taken, bound, and led away. To apprehend and bind ONE, all gave their help... He made them feel... They see that no further resistance is to be offered. A passive victim is before them; and they seize and bind Him. Let us remember that the body of the Son of God was bound, that our souls might be loosed from the cords of sin and Satan.",
+        "wordCount": 86,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.6152808662364886,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.05,
+        "commentatorTierSimilarities": [
+            32.31,
+            30.48,
+            37.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He before whose aspect, and whose declaration, I am he, the whole band had been terrified and cast to the ground, now suffers himself to be taken, bound, and led away.",
+            "To apprehend and bind ONE, all gave their help: the cohort, the captain, and the Jewish officers.",
+            "Only by the help of all did they feel themselves secure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No man took His life from Him, but that He laid it down of Himself.",
+            "He made them feel.",
+            "Not till He had made them feel."
+        ],
+        "Albert Barnes": [
+            "See Matthew 26:50."
+        ],
+        "Marvin Vincent": [
+            "The captain . See on Mark 6:21, and on centurion, Luke 7:2.",
+            "Took [\u03c3\u03c5\u03bd\u03b5\u03bb\u03b1\u03b2\u03bf\u03bd] . Rev., better, seized. It is the technical word for arresting. Literally, took with them, of which there is a suggestion in the modern policeman's phrase, go along with me. Compare Luke 22:54.",
+            "13 - 18. Compare Matthew 26:57, Matthew 26:58; 69 - 75; Mark 14:53, Mark 14:54; 66 - 72; Luke 22:54-62."
+        ],
+        "John Calvin": [
+            "It serves to take away the offense, that we may not think that Christ yielded as if he had been overcome by weakness.",
+            "It proves that in dying he was altogether voluntary.",
+            "Let us remember that the body of the Son of God was bound, that our souls might be loosed from the cords of sin and of Satan."
+        ],
+        "Philip Schaff": [
+            "The words addressed by Jesus to Peter lend boldness to His cowardly foes.\" ",
+            "They see that no further resistance is to be offered.",
+            "A passive victim is before them; and they seize and bind Him."
+        ],
+        "Archibald T. Robertson": [
+            "The chief captain (\u03bf \u03c7\u03b9\u03bb\u03b9\u03b1\u03c1\u03c7\u03bf\u03c2). They actually had the Roman commander of the cohort along (cf. Acts 21:31), not mentioned before.",
+            "Seized (\u03c3\u03c5\u03bd\u03b5\u03bb\u03b1\u03b2\u03bf\u03bd). Second aorist active of \u03c3\u03c5\u03bb\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, old verb to grasp together, to arrest (technical word) in the Synoptics in this context (Mark 14:48; Matthew 26:55), here alone in John.",
+            "To Annas first (\u03c0\u03c1\u03bf\u03c2 \u0391\u03bd\u03bd\u03b1\u03bd \u03c0\u03c1\u03c9\u03c4\u03bf\u03bd). Ex-high priest and father-in-law (\u03c0\u03b5\u03bd\u03b8\u03b5\u03c1\u03bf\u03c2, old word, only here in N.T.) of Caiaphas the actual high priest."
+        ],
+        "John Gill": [
+            "This was submitted to by Christ, that his people might be loosed from the cords of sin, be delivered from the captivity of Satan, and be freed from the bondage of the law.",
+            "Hereby the types of him were fulfilled, as the binding of Isaac, when his father was going to offer him up, and the binding of the sacrifice with cords to the horns of the altar.",
+            "Whoever reads this, will easily observe a likeness: the messengers of the great sanhedrim go to the fields of Kidron, in the evening, with their sickles and baskets; bind the standing corn; questions and answers pass between them and the people before they reap; and when they have done, they bring the sheaf in their basket to the court, to be dried at the fire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He before whose aspect, and whose declaration, I am he, the whole band had been terrified and cast to the ground, now suffers himself to be taken, bound, and led away. To apprehend and bind ONE, all gave their help... He made them feel... The captain... took Him with them, just as it was foretold... They see that no further resistance is to be offered. A passive victim is before them; and they seize and bind Him. It serves to take away the offense, that we may not think that Christ yielded as if he had been overcome by weakness... Let us remember that the body of the Son of God was bound, that our souls might be loosed from the cords of sin and of Satan.",
+            "wordCount": 127,
+            "quoteTokenProportion": 51.19,
+            "qualityScore": 1.6210817446148513,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                32.2,
+                26.8,
+                41.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He before whose aspect the whole band had been terrified and cast to the ground now suffers himself to be taken, bound, and led away. To apprehend and bind ONE, all gave their help... He made them feel... They see that no further resistance is to be offered. A passive victim is before them; and they seize and bind Him. Let us remember that the body of the Son of God was bound, that our souls might be loosed from the cords of sin and Satan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.6152808662364886,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.05,
+            "commentatorTierSimilarities": [
+                32.31,
+                30.48,
+                37.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He, the one who had instilled fear in the band and caused them to fall to the ground, now allows himself to be captured, bound, and led away. He did not have his life taken from him; he willingly laid it down. The captain and the Jewish officers seized him and took him into custody. This act of submission by Christ serves to take away the offense, for he yielded not out of weakness, but to free our souls from the bonds of sin and Satan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.575179604954887,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                35.29,
+                15.48,
+                49.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He, before whom the entire band had trembled and fallen, now allows himself to be taken, bound, and led away. All of them joined together to apprehend and seize him, ensuring their own security. Yet, no man took his life; he voluntarily laid it down. This act of submission made them realize that no further resistance was necessary. Let us recall that the body of the Son of God was bound, granting us liberation from the cords of sin and Satan.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.5089500507975628,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+            "commentatorTierSimilarities": [
+                32.42,
+                19.3,
+                48.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He who had caused the whole band to be terrified and cast to the ground now allows himself to be captured, bound, and led away. It took the help of all to apprehend and seize him, ensuring their own security. But no man took his life from him; he laid it down of his own accord. This act of submission showed that no further resistance was needed. The binding of Christ's body freed our souls from the chains of sin and Satan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.4769888246647254,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.45,
+            "commentatorTierSimilarities": [
+                29.2,
+                23.29,
+                47.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

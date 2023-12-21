@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:14:52",
+    "verseRef": "John 19:12",
+    "bestBHT": {
+        "bht": "Pilate, affected by Jesus' words of majesty and compassion, attempted once again to release Him, but he faced the threat of being accused of disloyalty to Caesar. The Jewish leaders, driven by their determination to destroy Jesus, feigned zeal for a foreign prince, causing Pilate to fear going against their will. In their pursuit of their own ends, the Jews plunged themselves into the depths of ignominy and shame, leaving Pilate with the unfulfilled desire to expose their degradation and Jesus' innocence.",
+        "wordCount": 82,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.3362694491202727,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.02,
+        "commentatorTierSimilarities": [
+            31.58,
+            32.27,
+            36.16
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Pilate himself was deeply struck by these words of majesty and mildness, and almost sympathy for his own weakness; and he made a last, and, as this verse seems to imply, a somewhat longer attempt than before, to deliver Him.",
+            "C\u00e6sar\u2019s friend... The meaning is, \u2018well affected to C\u00e6sar.\u2019",
+            "This was a terrible saying, especially under Tiberius, with whom, as Tacitus assures us, the undefined charge of disaffection to the person of the emperor was used to fill up all other accusations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If thou let this man go, thou art not C\u00e6sar's friend, &c.\u2014'This was equivalent to a threat of impeachment, which we know was much dreaded by such officers as the procurators, especially of the character of Pilate or Felix. It also consummates the treachery and disgrace of the Jewish rulers, who were willing, for the purpose of destroying Jesus, to affect a zeal for the supremacy of a foreign prince'",
+            "When Pilate... heard that... he brought Jesus forth, and sat down in... the judgment seat\u2014that he might pronounce sentence against the Prisoner, on this charge, the more solemnly.",
+            "in a place called the Pavement\u2014a tesselated pavement, much used by the Romans. In the Hebrew, Gabbatha\u2014from its being raised."
+        ],
+        "Albert Barnes": [
+            "He was more and more convinced of his innocence, and more unwilling to yield him to mere malice and envy in the face of justice.",
+            "He feared that he would be accused of unfaithfulness to the interests of the Roman emperor if he did not condemn a man whom his own nation had accused of sedition.",
+            "This emperor was, during the latter part of his reign, the most cruel, jealous, and wicked that ever sat on the Roman throne."
+        ],
+        "Marvin Vincent": [
+            "Thou art not true to the emperor.",
+            "The title 'Augustus' was always reserved for the monarch, while 'Caesar' was more freely communicated to his relations.",
+            "From the reign of Hadrian at least (A.D. 117 - 138) [the title 'Caesar'] was appropriated to the second person in the state, who was considered as the presumptive heir of the empire."
+        ],
+        "John Calvin": [
+            "He is a judge, and yet he meekly permits the accused person to be his reprover.",
+            "By threats they prevail on Pilate to condemn Christ; for they could do nothing that was more hateful, or more fitted to produce terror, than to hold him suspected of disloyalty to Caesar.",
+            "It is of great importance to us to know, that Pilate did not condemn Christ, before he had several times acquitted him with his own mouth, in order that we may learn from it, that it was for our sins that he was condemned, and not on his own account."
+        ],
+        "Philip Schaff": [
+            "The attempts were vain.",
+            "He has another object far more nearly at heart, to exhibit the woeful, the self-confessed, degradation to which the proud Jewish people, by their opposition to Jesus, had reduced themselves.",
+            "With what clearness does the Evangelist see these wretched \u2018Jews,\u2019 in the very act of accomplishing their ends, plunging themselves into the greatest depths of ignominy and shame!"
+        ],
+        "Archibald T. Robertson": [
+            "Sought (\u03b5\u03b6\u03b7\u03c4\u03b5). Imperfect active, 'kept on seeking,' 'made renewed efforts to release him.' He was afraid to act boldly against the will of the Jews.",
+            "If thou release this man (\u03b5\u03b1\u03bd \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd \u03b1\u03c0\u03bf\u03bb\u03c5\u03c3\u03b7\u03b9\u03c2). Condition of third class, a direct threat to Pilate. He knew all the time that the Sanhedrin might tell Caesar on him.",
+            "Thou art not Caesar's friend (\u03bf\u03c5\u03ba \u03b5 \u03c6\u03b9\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9\u03c3\u03b1\u03c1\u03bf\u03c2). Later to Vespasian this was an official title, here simply a daring threat to Pilate."
+        ],
+        "John Gill": [
+            "He sought by all means, and studied every way to bring the Jews to agree to his release.",
+            "Pilate would show but little regard to Caesar, by whom he was raised to this dignity.",
+            "Christ did not give out that he was such a king, but, on the contrary, that his kingdom was not of this world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even Pilate, the Roman governor, was struck by Jesus' words of majesty and mildness, feeling sympathy for his own weakness, and made a longer attempt than before to deliver Him. Pilate was threatened with the charge of disloyalty to Caesar, a charge that was greatly feared and could lead to impeachment. This threat was meant to consume Pilate in disgrace and shame. Despite his attempts to release Jesus, Pilate was afraid to act boldly against the will of the Jews. He feared being accused of unfaithfulness to the interests of the Roman emperor. The Jews, in their opposition to Jesus, had reduced themselves to the depths of ignominy and shame. Pilate, on the other hand, saw the innocence of Jesus and desired to show the degradation to which the Jews had reduced themselves.",
+            "wordCount": 133,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 2.290225711949737,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.49,
+            "commentatorTierSimilarities": [
+                32.02,
+                33.03,
+                34.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate was struck by Jesus' words of majesty and mildness, sympathizing with his own weakness and making a longer attempt to deliver Him. The threat of disloyalty to Caesar consumed Pilate, as he feared being accused and impeached, while the Jewish rulers were willing to feign zeal for a foreign prince to destroy Jesus. Pilate's fear of going against the Jews prevented him from acting boldly. Ultimately, the Jews brought shame upon themselves, while Pilate desired to highlight their degradation and the innocence of Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.2841062189105483,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.29,
+            "commentatorTierSimilarities": [
+                32.41,
+                32.01,
+                35.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, deeply struck by Jesus' words of majesty and mildness, made a longer attempt to deliver Him, but he was threatened with disloyalty to Caesar. This charge was dreaded by officials like Pilate, and the Jewish rulers were willing to betray their own principles to destroy Jesus. Afraid to act against the Jews, Pilate sought ways to bring about Jesus' release, while the Jews sank into disgrace and shame. Pilate's desire to expose their degradation and Jesus' innocence remained unfulfilled.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2198638888469167,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.15,
+            "commentatorTierSimilarities": [
+                32.01,
+                31.41,
+                36.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate, affected by Jesus' words of majesty and compassion, attempted once again to release Him, but he faced the threat of being accused of disloyalty to Caesar. The Jewish leaders, driven by their determination to destroy Jesus, feigned zeal for a foreign prince, causing Pilate to fear going against their will. In their pursuit of their own ends, the Jews plunged themselves into the depths of ignominy and shame, leaving Pilate with the unfulfilled desire to expose their degradation and Jesus' innocence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.3362694491202727,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.02,
+            "commentatorTierSimilarities": [
+                31.58,
+                32.27,
+                36.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Struck by Jesus' words of majesty and compassion, Pilate made a lengthier attempt to deliver Him. However, the threat of disloyalty to Caesar consumed Pilate, as he feared impeachment, while the Jewish leaders betrayed their own principles to destroy Jesus. Pilate's fear of acting against the Jews prevented him from releasing Jesus, even as they sank into disgrace and shame. Pilate desired to expose their degradation and acknowledge the innocence of Jesus, but this remained unfulfilled.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.2012874811751004,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.53,
+            "commentatorTierSimilarities": [
+                31.34,
+                31.71,
+                36.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

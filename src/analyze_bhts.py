@@ -39,5 +39,11 @@ for verse_ref in verses_to_check:
     
     scores[verse_ref] = accuracy_score
 
-print(statistics.mean(scores.values()))
-print(statistics.median(scores.values()))
+john_scores = [v for k, v in scores.items() if k.startswith("John")]
+
+# print(statistics.mean(scores.values()))
+# print(statistics.median(scores.values()))
+
+print(statistics.mean(john_scores))
+for verse_ref in ["John 9:9", "John 4:8", "John 12:17", "John 16:17", "John 3:16", "John 18:4", "John 9:33", "John 13:27", "John 7:22"]:
+    print(verse_ref, scores[verse_ref])

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:13:04",
+    "verseRef": "John 15:15",
+    "bestBHT": {
+        "bht": "Jesus proclaims to his disciples that they are no longer mere servants, but have been elevated to the esteemed status of friends. As friends, they have been granted the privilege of knowing all that Jesus heard from the Father, receiving a complete revelation. This transition signifies a profound change in their relationship, moving beyond the limitations of servitude under the law to a state of new dignity and intimacy with Christ. This friendship entails a deeper sense of connection, trust, and understanding, as they are entrusted with the knowledge necessary for their salvation.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.8124291022420005,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+        "commentatorTierSimilarities": [
+            32.2,
+            39.68,
+            28.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is the lower sense of the word rendered servant (signifying both servant and slave), which is brought out in this verse.",
+            "The anticipatory character of the saying is clearly shewn in the words, 'Knoweth not what his lord doeth;' for this was precisely their present condition, but was after His Ascension changed into light and knowledge.",
+            "As we look for immortality of the flesh and salvation of the soul in the future, although, having received the pledge of both, we are said to be already saved: so we should hope for in the future the knowledge of all things which the Only-begotten has heard from the Father, although Christ says He has already made them known to us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Henceforth I call you not servants... but... friends, for all things that I have heard of my Father I have made known unto you.\" ",
+            "Servants He still calls them... in the sense of being 'under law to Christ'.\" ",
+            "the servant knoweth not what his lord doeth... but simply receives and executes his orders."
+        ],
+        "Albert Barnes": [
+            "The servant knoweth not ... It is the privilege of friendship to be made acquainted with the plans wishes, and wants of the friend.",
+            "I have called you friends - I have given you the name of friends.",
+            "For all things ... it was proper that he should give them the name."
+        ],
+        "Marvin Vincent": [
+            "No longer servants, as you were under the dispensation of the law.\" ",
+            "Has no instinctive perception.",
+            "You I have called friends."
+        ],
+        "John Calvin": [
+            "Let us be satisfied with this testimony of his love toward us which is contained in the Gospel, for it will never deceive us.",
+            "So much the greater is the ingratitude and wickedness of those who, not satisfied with the admirable wisdom of the Gospel, fly with proud eagerness to new speculations.",
+            "Not one of those things, therefore, which related to our salvation, and which it was of importance for us to know was omitted by Christ in the instructions given to his disciples."
+        ],
+        "Philip Schaff": [
+            "I have called you friends, because all things that I heard from my Father I made known unto you.",
+            "In one sense, indeed, they would be always 'servants'...but that is not their only relationship to their Lord.",
+            "The livelier our sense of the privilege of friendship the deeper will be our humility, and that the more truly we feel Jesus to be our 'Lord and Master' the more shall we be prepared to enter into the fulness of the privilege bestowed by Him."
+        ],
+        "Archibald T. Robertson": [
+            "He was their Rabbi and Lord.",
+            "I have called you friends... permanent state of new dignity.",
+            "Are we friends of Christ?"
+        ],
+        "John Gill": [
+            "Henceforth I call you not servants... now Christ being come in the flesh... henceforward he would not use, treat, or account them as servants.",
+            "I have called you friends; that is, accounted, reckoned of them, used them as his friends and familiar acquaintance; whom he told all his mind unto.",
+            "For all things I have heard of my Father, I have made known unto you... all things which he himself was to do and suffer, in order to obtain eternal redemption; and the whole of the Gospel, as to the essential and substantial parts of it, they were to preach."
+        ],
+        "John Wesley": [
+            "All things \u2014 Which might be of service to you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 15:15, Jesus elevates his disciples from the status of servants to that of friends. While they were once in a position of limited knowledge and obedience, Jesus has now made known to them everything that He heard from the Father. The disciples are no longer merely servants under the law, but have been given a new dignity as friends of Christ. As friends, they have the privilege of being made aware of His plans, wishes, and wants. This relationship of friendship with Jesus does not diminish their humility or their recognition of Him as Lord and Master, but rather deepens it. It is a testament to His love for them that He has entrusted them with the knowledge of all things necessary for their salvation.",
+            "wordCount": 126,
+            "quoteTokenProportion": 49.37,
+            "qualityScore": 1.943200312937015,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.95,
+            "commentatorTierSimilarities": [
+                32.96,
+                38.29,
+                28.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus emphasizes that his disciples are no longer to be called servants. They have been elevated to the position of friends, a new level of dignity and intimacy. As friends, they have been made aware of everything Jesus heard from the Father, a privilege that surpasses ordinary servant-master relationships. This change of status indicates a deepening relationship and a fuller revelation of truth. The disciples are now entrusted with the knowledge necessary for their salvation and are invited into a closer connection with Jesus as friends.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6878185617589003,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                33.31,
+                41.26,
+                25.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus proclaims to his disciples that they are no longer mere servants, but have been elevated to the esteemed status of friends. As friends, they have been granted the privilege of knowing all that Jesus heard from the Father, receiving a complete revelation. This transition signifies a profound change in their relationship, moving beyond the limitations of servitude under the law to a state of new dignity and intimacy with Christ. This friendship entails a deeper sense of connection, trust, and understanding, as they are entrusted with the knowledge necessary for their salvation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8124291022420005,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                32.2,
+                39.68,
+                28.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's declaration in this passage signifies a significant shift in the relationship between him and his disciples. He no longer refers to them as mere servants, but as friends. As friends, they are granted the privilege of being acquainted with the plans, wishes, and wants of Jesus. He has fully revealed to them everything he heard from the Father. This elevation to friendship brings a new level of dignity and intimacy, deepening their connection and understanding of Christ. The disciples are entrusted with the knowledge necessary for their salvation, a testimony of Jesus's love toward them.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.7589724353564873,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+            "commentatorTierSimilarities": [
+                29.66,
+                41.45,
+                28.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus bestows upon his disciples a remarkable transformation. Their former status as servants is now upgraded to that of friends. This upgrade involves being intimately acquainted with the plans, wishes, and desires of Jesus, as he has fully revealed everything he learned from the Father. This elevation to friendship denotes a higher level of dignity and connection, deepening their understanding of Christ. The disciples are entrusted with the knowledge essential for their salvation, confirming Jesus's profound love for them.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.707546224809195,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.12,
+            "commentatorTierSimilarities": [
+                31.11,
+                36.25,
+                32.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

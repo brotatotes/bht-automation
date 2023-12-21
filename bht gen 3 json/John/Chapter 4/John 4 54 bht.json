@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-21-2023 03:05:48",
+    "verseRef": "John 4:54",
+    "bestBHT": {
+        "bht": "This story demonstrates the shift from a tentative faith to an unwavering belief in Jesus. It serves as a contrasting illustration to Jesus' remark that people require signs and wonders to believe. Occurring in Galilee, this miracle signifies the acceptance of Jesus among the Galileans after being rejected by His own people. It is important to note that this particular miracle should not be confused with a similar event mentioned in Matthew and Luke. In essence, this account portrays the growth and deepening of faith through encounters with Jesus.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.39564776549276,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.75,
+        "commentatorTierSimilarities": [
+            18.98,
+            44.52,
+            36.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By both, half-belief was strengthened into faith in Him: but in each case it is of a different kind.",
+            "The inner kernel of the history is, in our case here,\u2014the elevation of a weak and mere wonder-seeking faith into a deep conviction of the personal power and love of our Lord.",
+            "And the external point brought out in the commendation there, 'I have not seen such faith, no, not in Israel,' is not only different from, but stands in absolute contrast with, the depreciating charge here, 'Except ye see signs and wonders, ye will not believe.'"
+        ],
+        "Philip Schaff": [
+            "The two points upon which our attention is fixed seem to be (1) that this miracle was wrought in Galilee; (2) that it was a second miracle there.",
+            "The first of these points receives importance from the fact that the 'sign' now related was done after Jesus had left 'His own country,' rejected by 'His own' to be accepted by Galileans.",
+            "It is not necessary to discuss the question whether this miracle is identical with that related in Matthew 8:5-13; Luke 7:2-10."
+        ],
+        "Archibald T. Robertson": [
+            "The second sign that (\u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03bf\u03bd \u03c3\u03b7\u03bc\u03b5\u03b9\u03bf\u03bd).",
+            "No article, simply predicate accusative.",
+            "The first one was also in Cana (John 2:1), but many were wrought in Jerusalem also (John 2:23)."
+        ],
+        "John Gill": [
+            "This [is] again the second miracle [that] Jesus did....",
+            "When he was come out of Judea into Galilee; this was the first he wrought, after his coming out of Judea into Galilee...",
+            "...and was the second that he wrought in Cana of Galilee..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through this story in John 4:54, we see the transformation of a hesitant faith into a profound conviction. This incident serves as a contrast to the previous statement made by Jesus that people only believe in signs and wonders. This miracle, the second one performed in Cana, occurred in Galilee, highlighting Jesus' acceptance among the Galileans. These details emphasize the shift from Jesus being rejected by His own people to being embraced by others. It is worth noting that this particular miracle should not be confused with a similar one recorded in Matthew and Luke. Overall, this account displays the growth and deepening of faith through encounters with Jesus.",
+            "wordCount": 108,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3933578641709103,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.67,
+            "commentatorTierSimilarities": [
+                20.33,
+                41.84,
+                37.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we witness the remarkable progression from a wavering faith to a resolute belief in Jesus. This serves as a sharp contrast to Jesus' earlier remark that people require signs and wonders to believe. The fact that this miracle took place in Galilee holds significance, as it signifies Jesus' reception among the Galileans after being rejected by his own people. We must note that this particular miracle should not be confused with a similar event mentioned in Matthew and Luke. In essence, this account showcases the growth and deepening of faith through encounters with Jesus.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4362970326284512,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
+            "commentatorTierSimilarities": [
+                18.93,
+                44.89,
+                36.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This narrative highlights the transformation from a hesitant faith to a profound conviction in Jesus. It contrasts the idea that people only believe in signs and wonders with the commendation of the faith displayed. Taking place in Galilee, this miracle underscores Jesus' acceptance among the Galileans after being rejected by His own people. It is important to note that this specific miracle should not be conflated with a similar incident recorded in Matthew and Luke. Overall, this account vividly illustrates the growth and deepening of faith through encounters with Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.3698722361419364,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.89,
+            "commentatorTierSimilarities": [
+                21.91,
+                43.32,
+                34.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This story demonstrates the shift from a tentative faith to an unwavering belief in Jesus. It serves as a contrasting illustration to Jesus' remark that people require signs and wonders to believe. Occurring in Galilee, this miracle signifies the acceptance of Jesus among the Galileans after being rejected by His own people. It is important to note that this particular miracle should not be confused with a similar event mentioned in Matthew and Luke. In essence, this account portrays the growth and deepening of faith through encounters with Jesus.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.39564776549276,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.75,
+            "commentatorTierSimilarities": [
+                18.98,
+                44.52,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This story showcases the transformation from a hesitant faith into a firm conviction in Jesus. It stands in contrast to Jesus' earlier statement that people only believe when they witness signs and wonders. The fact that this miracle took place in Galilee emphasizes Jesus' acceptance among the Galileans after being rejected by His own people. It's important to note that this specific miracle should not be mistaken for a similar event mentioned in Matthew and Luke. Overall, this account highlights the growth and deepening of faith through encounters with Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.3932017348161885,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.67,
+            "commentatorTierSimilarities": [
+                18.81,
+                44.03,
+                37.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

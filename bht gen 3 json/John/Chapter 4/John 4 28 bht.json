@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:05:35",
+    "verseRef": "John 4:28",
+    "bestBHT": {
+        "bht": "In her excitement, the woman at the well left her water pot behind and hastened home, overwhelmed by the living water she had encountered in Jesus. She was so moved by this wondrous virtue that she forgot about earthly concerns and became consumed with sharing her experience with others. Her actions reflected true faith, as she eagerly became like a trumpet, inviting the inhabitants of her village to join her in partaking in the life-changing encounter with Christ.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.6738410465689681,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+        "commentatorTierSimilarities": [
+            25.32,
+            38.32,
+            36.36
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The living water was already beginning to spring up within her; she found that man doth not live by bread nor by water only, and that there was a water of wondrous virtue that raised people above meat and drink, and the vessels that held them, and all human things.\" ",
+            "In short, she was transported, forgot everything but One, and her heart running over with the tale she had to tell, she hastens home and pours it out.",
+            "But this one artless touch\u2014that she 'left her water-pot'\u2014speaks volumes."
+        ],
+        "Albert Barnes": [
+            "Left her water-pot - Her mind was greatly excited.\" ",
+            "She seems to have been convinced that he was the Messiah.",
+            "Our first business, when we have found the Saviour, should be to make him known also to others."
+        ],
+        "Marvin Vincent": [
+            "Water - pot. See on 2 6."
+        ],
+        "John Calvin": [
+            "And this is the nature of faith, that when we have become partakers of eternal life, we wish to bring others to share with us.",
+            "The earnestness and promptitude of the woman are so much the more worthy of attention, that it was only a small spark of faith that kindled them.",
+            "She merely does the office of a trumpet or a bell to invite others to come to Christ."
+        ],
+        "Philip Schaff": [
+            "Therefore, because, the conversation being interrupted, there was nothing to restrain her impulse to make known the marvels she had heard.",
+            "In her eagerness she leaves her waterpot behind: the 'living water' has banished the thought of that which came from Jacob's well.",
+            "And saith to the men, whom she would naturally meet on the roads and in the streets."
+        ],
+        "Archibald T. Robertson": [
+            "Left her waterpot. First aorist active indicative of \u03b1\u03c6\u03b9\u03b7\u03bc, ingressive aorist, in her excitement and embarrassment.",
+            "It was too large for speed anyhow.",
+            "And says. Graphic historic present indicative again."
+        ],
+        "John Gill": [
+            "The saints are brought to quit their earthly and worldly things for the sake of Christ, and his Gospel.",
+            "True grace, would have others partakers of it likewise.",
+            "The men of the place in general are meant; not only those of her family, but the inhabitants of the city."
+        ],
+        "John Wesley": [
+            "The woman left her water pot \u2014 Forgetting smaller things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman at the well was so moved by Jesus' message of living water that she forgot about her earthly needs and rushed back to her village to share the good news. Her excitement and eagerness were evident as she left her water pot behind, symbolizing her complete focus on the spiritual water that Jesus offered. She became like a trumpet or a bell, inviting others to come and experience the same life-changing encounter with Christ. This act of sharing her faith shows the nature of true faith, where believers strive to bring others along on their journey towards eternal life.",
+            "wordCount": 102,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.5603442063430815,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "commentatorTierSimilarities": [
+                22.74,
+                36.73,
+                40.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman at the well left her water pot in her excitement and rushed back to her village to share the living water she had encountered in Jesus. Her eagerness to make him known was evident as she became like a trumpet, inviting others to experience the marvels she had heard. Her actions reflect the nature of true faith, where believers are compelled to bring others along on their journey towards eternal life.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.6526784687977658,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.29,
+            "commentatorTierSimilarities": [
+                22.57,
+                41.29,
+                36.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman at the well left her water pot behind as a result of being transported by the wondrous virtue of the living water found in Jesus. Her heart overflowed with the tale she had to tell, prompting her to quickly return to her village and pour out her experience to others. This act of leaving her water pot spoke volumes about her state of mind, as it reflected her complete focus on the spiritual water that surpassed the importance of physical necessities. She became like a trumpet, inviting others to come and partake in the same life-giving encounter with Christ.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.6173081805334437,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                27.89,
+                35.44,
+                36.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In her excitement, the woman at the well left her water pot behind and hastened home, overwhelmed by the living water she had encountered in Jesus. She was so moved by this wondrous virtue that she forgot about earthly concerns and became consumed with sharing her experience with others. Her actions reflected true faith, as she eagerly became like a trumpet, inviting the inhabitants of her village to join her in partaking in the life-changing encounter with Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6738410465689681,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.0,
+            "commentatorTierSimilarities": [
+                25.32,
+                38.32,
+                36.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Transported by the living water within her, the woman at the well left her water pot behind as she hurriedly returned to her village. Overcome by the marvels she had heard, her heart overflowed with the tale she had to tell. Her actions spoke volumes, revealing her complete focus on the spiritual water that surpassed physical needs. She eagerly became like a trumpet, inviting others to experience the same life-changing encounter with Christ. This reflects the nature of true faith, where believers share their blessings with others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4979990433415633,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                25.63,
+                39.84,
+                34.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

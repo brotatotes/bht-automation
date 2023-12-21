@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:04:04",
+    "verseRef": "John 1:25",
+    "bestBHT": {
+        "bht": "The Jews questioned John's right to baptize, not understanding that he was the forerunner of the Messiah and that baptism symbolized cleansing. Their confusion stemmed from their failure to interpret John's claim as significant enough to warrant the ordinance of baptism, and their limited understanding of the purpose of baptism itself. They were hesitant to embrace a change in their customs and did not grasp the authority and role that John held in preparing the way for the coming of the Messiah.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 2.3353953820761966,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.99,
+        "commentatorTierSimilarities": [
+            37.73,
+            37.66,
+            24.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This question shews probably that they did not interpret Isa. xl. 3 of any herald of the Messiah.",
+            "They regarded baptism as a significant token of the approach of the Messianic Kingdom.",
+            "Why baptizest thou, if thou art no forerunner of the Messiah?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why baptizest thou, if not, &c.\u2014Thinking he disclaimed any special connection with Messiah's kingdom, they demand his right to gather disciples by baptism.",
+            "Thinking he disclaimed any special connection with Messiah's kingdom, they demand his right to gather disciples by baptism.",
+            "They demand his right to gather disciples by baptism."
+        ],
+        "Albert Barnes": [
+            "Baptism on receiving a proselyte from 'paganism' was common before the time of John, but it was not customary to baptize a 'Jew.' John had changed the custom.\" ",
+            "They presumed, from the fact that he introduced that change, that he claimed to be a prophet or the Christ.\" ",
+            "They were blind, and manifested, as all sinners do, a remarkable slowness in understanding the plainest truths in religion."
+        ],
+        "John Calvin": [
+            "By laying down those three degrees, they appear to form a very conclusive argument.",
+            "The Messiah was to be one who possessed all authority.",
+            "They conclude, therefore, that for John to baptize is an unlawful novelty, since he has received from God no public station."
+        ],
+        "Philip Schaff": [
+            "The \u2018Jews,\u2019 the representatives of the theocratic spirit of the people, had been mainly concerned about the position of the Baptist in relation to the national hopes.",
+            "The Pharisees concern themselves more about the rite administered by the Baptist. It is the baptism of persons belonging to the chosen people that startles them.",
+            "But that one who, by his own confession, was neither the Christ, nor Elijah, nor the prophet, should thus administer a rite symbolical of cleansing to those who, as Jews, were already clean, this it was that threw them into perplexity."
+        ],
+        "Archibald T. Robertson": [
+            "In view of his repeated denials (three here mentioned).",
+            "They did not interpret his claim to be 'the voice' to be important enough to justify the ordinance of baptism.",
+            "Proselyte baptism was probably practiced before John's time, but its use by John was treating the Jews as if they were themselves Gentiles."
+        ],
+        "John Gill": [
+            "From hence it appears, that the Jews expected that baptism would be administered in the times of the Messiah, and his forerunner.",
+            "...this may teach modern ones to think and speak more respectfully of this ordinance than they do, who have given themselves great liberties, and have treated it with much contempt and virulence.",
+            "It is also evident from hence, that no such practice had obtained before among them, or they would not have been alarmed at it, as they were."
+        ],
+        "John Wesley": [
+            "Why baptizest thou then? \u2014 Without any commission from the sanhedrim?",
+            "And not only heathens... but Jews also?",
+            "Who were always baptized before they were admitted to circumcision."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The question posed to John in this verse reflects the Jews' misunderstanding of his role as not only the forerunner of the Messiah, but also the significance of baptism itself. The Jews were familiar with the practice of baptizing Gentile converts, but they couldn't comprehend why John would baptize those who were already part of the chosen people. This confusion arose from their failure to recognize John's authority and his role as the voice preparing the way for the coming of the Messiah. Furthermore, their astonishment at John baptizing Jews indicates that this practice was uncommon among them. The Jews' questioning of John's right to baptize reveals their reluctance to embrace a change in their religious customs. This verse highlights the importance of understanding the true purpose and significance of baptism, as some continue to treat this sacred ordinance disrespectfully.",
+            "wordCount": 143,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 2.2029411868264415,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.59,
+            "commentatorTierSimilarities": [
+                35.84,
+                39.22,
+                24.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their question reveals a misunderstanding of John's role and the significance of baptism. They couldn't comprehend why John would baptize those who were already part of the chosen people, showing their failure to recognize his authority and his role as the voice preparing the way for the Messiah. This confusion arose from their lack of understanding and their reluctance to embrace a change in their religious customs. The Jews' astonishment at John baptizing Jews indicates that this practice was uncommon among them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.120845505029094,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.86,
+            "commentatorTierSimilarities": [
+                35.81,
+                38.95,
+                25.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews questioned John's right to baptize, not understanding that he was the forerunner of the Messiah and that baptism symbolized cleansing. Their confusion stemmed from their failure to interpret John's claim as significant enough to warrant the ordinance of baptism, and their limited understanding of the purpose of baptism itself. They were hesitant to embrace a change in their customs and did not grasp the authority and role that John held in preparing the way for the coming of the Messiah.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.3353953820761966,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.99,
+            "commentatorTierSimilarities": [
+                37.73,
+                37.66,
+                24.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The question posed to John reveals the Jews' misunderstanding of his role as the forerunner of the Messiah and the significance of baptism. They couldn't comprehend why John would baptize those who were already part of the chosen people. This confusion arose from their failure to recognize John's authority and his role in preparing the way for the coming of the Messiah. Their astonishment at John baptizing Jews signifies that this practice was uncommon among them, highlighting their reluctance to embrace religious change.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2376832474549975,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.74,
+            "commentatorTierSimilarities": [
+                35.89,
+                39.04,
+                25.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews questioned John's right to baptize, not recognizing him as the forerunner of the Messiah and failing to understand the significance of baptism itself. They were perplexed by John baptizing those who were already part of the chosen people, indicating their lack of familiarity with this practice. Their confusion stemmed from a reluctance to accept a change in their religious customs and a limited understanding of John's authority. This verse reminds us of the importance of comprehending the true purpose and importance of baptism.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.155519574323631,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+            "commentatorTierSimilarities": [
+                36.76,
+                38.71,
+                24.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

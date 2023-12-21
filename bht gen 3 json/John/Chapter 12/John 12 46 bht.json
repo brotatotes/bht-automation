@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:11:19",
+    "verseRef": "John 12:46",
+    "bestBHT": {
+        "bht": "I am come a light into the world, as a light that dispels darkness and brings us out of sin and unbelief. By believing in Him, we walk in the light of truth and holiness, until the day when all remnants of darkness fade away. Christ alone delivers us from the chaos and confusion of the world, shining His light upon us to lead us into His brilliant light.",
+        "wordCount": 69,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9879194584076991,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+        "commentatorTierSimilarities": [
+            19.76,
+            35.46,
+            44.77
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "46.] See ver. 35; ch. viii. 12; ix. 5. The may not remain in the darkness here implies that all are originally in darkness,\u2014as the same kind of expression in ch. iii. 36."
+        ],
+        "Albert Barnes": [
+            "A light into the world.",
+            "Walk in darkness - In gross and dangerous errors.",
+            "Darkness is put for error as well as for sin."
+        ],
+        "John Calvin": [
+            "I am come into the world as a light.\" ",
+            "That we may perceive distinctly the various steps, he shows, first, that he is a light to others rather than to himself; secondly, that he is a light, not only to angels, but also to men; thirdly, that he was manifested in the flesh, in order that he might shine with full brightness.\" ",
+            "Now, if the whole wisdom of the world were collected into one mass, not a single ray of the true light would be found in that vast heap; but, contrary, it will be a confused chaos; for it belongs to Christ alone to deliver us from darkness."
+        ],
+        "Philip Schaff": [
+            "As light I have come into the world, that every one that believeth in me may not abide in the darkness.",
+            "Nowhere has it been as clearly taught that all are 'in the darkness' until by faith in Jesus they receive light.",
+            "From beholding (John 12:45) to light is a natural transition; from this point each verse directly leads the way to that which follows it."
+        ],
+        "Archibald T. Robertson": [
+            "I am come a light.",
+            "Light dispels darkness."
+        ],
+        "John Gill": [
+            "I am come a light into the world,.... And even as the light of it, being the sun of righteousness, that was to arise, and now was risen, to enlighten men with the light of the living...\" (John 12:46)",
+            "God's elect themselves, whilst in a state of unregeneracy and unbelief, are in darkness; when Christ shines in upon them, and infuses the light of faith into them, they are no longer in darkness...\" ",
+            "nor do they continue in the darkness of sin, ignorance, and unbelief; but walk in the light of truth, faith, and holiness, until the perfect day comes, when all the shadows of remaining darkness will flee away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am come a light into the world, a light that dispels darkness, as said in John 12:46. This verse echoes the earlier passages, emphasizing that all are initially in darkness. It speaks of the transformative power of Christ, who shines His light upon humanity, leading them out of the darkness of sin, ignorance, and unbelief. By believing in Him, we are able to walk in the light of truth, faith, and holiness, until the perfect day comes when all remnants of darkness completely vanish. This passage teaches us that it is through Christ alone that we are delivered from the chaos and confusion of the world's wisdom, and brought into the fullness of His brilliant light.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9447767567314322,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                22.94,
+                34.26,
+                42.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I am come a light into the world, a light that dispels darkness and brings us out of sin, ignorance, and unbelief. By believing in Him, we walk in the light of truth, faith, and holiness, until the day when all remnants of darkness fade away. Christ alone delivers us from the chaos and confusion of the world's wisdom, shining His light upon us to lead us into the fullness of His brilliant light.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.9686704873461796,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                19.48,
+                34.85,
+                45.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am come a light into the world, as a light that dispels darkness and brings us out of sin and unbelief. By believing in Him, we walk in the light of truth and holiness, until the day when all remnants of darkness fade away. Christ alone delivers us from the chaos and confusion of the world, shining His light upon us to lead us into His brilliant light.",
+            "wordCount": 69,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9879194584076991,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                19.76,
+                35.46,
+                44.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ declares, I am come a light. This emphasizes that all are originally in darkness, and He has come to dispel it. Darkness represents both sin and error, and Christ, as the light, illuminates the world with truth. Through faith in Him, we can escape the darkness and walk in the light of truth, faith, and holiness until the perfect day comes. It is only through Jesus that we are delivered from the confusion and chaos of the world's wisdom and brought into the brightness of His light. Christ is the true light that shines in the darkness and leads us out into the light of His presence.",
+            "wordCount": 109,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.0126426804271182,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                24.3,
+                35.22,
+                40.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ declares, I am come a light. He has come to dispel the darkness of sin and error, bringing truth and faith to the world. Through Him, we escape the confusion and chaos of the world's wisdom and enter into the brightness of His light. By walking in the light of truth and holiness, we are no longer in darkness. Christ is the true light that leads us out of darkness and into the light of His presence.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 2.016035474316713,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                24.28,
+                35.14,
+                40.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

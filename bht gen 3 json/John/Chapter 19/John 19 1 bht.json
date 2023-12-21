@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:14:32",
+    "verseRef": "John 19:1",
+    "bestBHT": {
+        "bht": "In an effort to placate the Jews and avoid crucifixion, Pilate ordered Jesus to be scourged, even though he found no fault in Him. The severity of Jesus' punishment is evident in His inability to bear His own cross. The soldiers, like the Sanhedrin before them, mocked Jesus by placing a scarlet cloak on Him, undermining His claim to kingship. This unjust treatment serves as a poignant reminder of the increasing sufferings and deepening humiliation Jesus endured on His journey to the cross.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 2.262277160355123,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.56,
+        "commentatorTierSimilarities": [
+            32.29,
+            36.83,
+            30.88
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reason or purpose of this scourging does not here appear.\" ",
+            "Pilate asked them what should be done with Jesus?\" ",
+            "After another assertion of his innocence, Pilate said 'I will chastise him, and let him go.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Pilate took Jesus and scourged him\u2014in hope of appeasing them.",
+            "And the soldiers led Him away into the palace, and they call the whole band.",
+            "The body of the military cohort stationed there\u2014to take part in the mock coronation now to be enacted."
+        ],
+        "Marvin Vincent": [
+            "Scourging was the legal preliminary to crucifixion, but, in this case, was inflicted illegally before the sentence of crucifixion was pronounced, with a view of averting the extreme punishment, and of satisfying the Jews.\" ",
+            "The punishment was horrible, the victim being bound to a low pillar or stake, and beaten, either with rods, or, in the case of slaves and provincials, with scourges, called scorpions, leather thongs tipped with leaden balls or sharp spikes.",
+            "The severity of the infliction in Jesus' case is evident from His inability to bear His cross."
+        ],
+        "John Calvin": [
+            "We all condemn Pilate; and yet, it is shameful to relate that there are so many Pilates in the world, who scourge Christ, not only in his members, but also in his doctrine.",
+            "There are many who, for the purpose of saving the life of those who are persecuted for the sake of the Gospel, constrain them wickedly to deny Christ.",
+            "Others select and approve of certain parts of the Gospel, and yet tear the whole Gospel to pieces."
+        ],
+        "Philip Schaff": [
+            "The punishment is itself the main point, the increasing sufferings of Jesus and His deepening humiliation and agony as, under the pressure of His sinful nation, He goes onward to the cross.",
+            "Jesus is simply the prisoner bound; in the second, that before us, He is the prisoner scourged and treated with contemptuous mockery of his royal claims.",
+            "This mockery follows the scourging."
+        ],
+        "Archibald T. Robertson": [
+            "It is the causative use of \u03bc\u03b1\u03c3\u03c4\u03b9\u03b3\u03bf\u03c9, for Pilate did not actually scourge Jesus. He simply ordered it done, perhaps to see if the mob would be satisfied with this penalty on the alleged pretender to royalty.",
+            "The Sanhedrin had previously mocked Jesus as the soldiers will do later. This later mock coronation was after the condemnation.",
+            "Jesus had been stripped of his outer garment and the scarlet cloak of one of the soldiers may have been put on him."
+        ],
+        "John Gill": [
+            "and this he did, hoping the Jews would be satisfied therewith, and agree to his release; but though he did this with such a view, yet it was a very unjust action in him to scourge a man that he himself could find no fault in.",
+            "his being scourged, though innocent, shows, that it was not for his own, but the sins of others; and expresses the vile nature of sin, the strictness of justice, and the grace, condescension, and patience of Christ.",
+            "this may teach us not to think it strange that any of the saints should endure scourgings, in a literal sense; and to bear patiently the scourgings and chastisements of our heavenly Father, and not to fear the overflowing scourge or wrath of God, since Christ has bore this in our room."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, hoping to appease the Jews and satisfy their demands, ordered Jesus to be scourged, a cruel and unlawful act inflicted with the intent of avoiding crucifixion. The severity of Jesus' punishment is evident in his inability to bear his own cross. The soldiers, mocking Jesus as the Sanhedrin had done before, put a scarlet cloak on him, continuing their contemptuous treatment of his claims to kingship. This scourging and subsequent mockery are part of the increasing sufferings and deepening humiliation of Jesus as he journeys towards the cross. May we learn from this passage to endure patiently the trials and chastisements we face, trusting in the grace, condescension, and patience of Christ, who was scourged for the sins of others.",
+            "wordCount": 121,
+            "quoteTokenProportion": 36.9,
+            "qualityScore": 2.199950050211754,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.49,
+            "commentatorTierSimilarities": [
+                29.5,
+                37.43,
+                33.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In an attempt to satisfy the Jews and avoid crucifixion, Pilate ordered Jesus to be scourged unfairly, despite finding no fault in Him. The severity of this punishment, evident in Jesus' inability to bear his own cross, reflects the vile nature of sin and the strictness of justice. The soldiers, like the Sanhedrin, mocked Jesus and crowned Him with a scarlet cloak, further discrediting His claims to kingship. Through this unjust treatment, Jesus demonstrates grace, condescension, and patience, teaching us to endure trials with patience and trust in His sacrificial love.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 2.1311158513487753,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.2,
+            "commentatorTierSimilarities": [
+                29.93,
+                34.79,
+                35.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ordered by Pilate to appease the Jews and avoid extreme punishment, Jesus was scourged before His crucifixion. The severity of this scourging is evident in Jesus' inability to bear His cross. Mocking Him, the soldiers put a scarlet cloak on Him, mimicking the Sanhedrin's previous mockery. This cruel treatment highlights the deepening sufferings and humiliation of Jesus as He heads towards the cross. It reminds us to patiently endure trials, knowing that Christ bore the scourging and suffering in our place.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.112492691439341,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                30.64,
+                38.79,
+                30.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In an attempt to appease the Jews and satisfy their demands, Pilate ordered Jesus to be scourged, a cruel act inflicted with a view to avoiding crucifixion. The severity of the scourging is evident in Jesus' inability to bear His own cross. The soldiers, mocking Jesus as the Sanhedrin had done before, placed a scarlet cloak on Him, continuing their contemptuous treatment of His claims to kingship. This unjust treatment reminds us of the deepening sufferings and humiliation Jesus endured on His path to the cross.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.2543190452371977,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.3,
+            "commentatorTierSimilarities": [
+                31.24,
+                37.82,
+                30.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an effort to placate the Jews and avoid crucifixion, Pilate ordered Jesus to be scourged, even though he found no fault in Him. The severity of Jesus' punishment is evident in His inability to bear His own cross. The soldiers, like the Sanhedrin before them, mocked Jesus by placing a scarlet cloak on Him, undermining His claim to kingship. This unjust treatment serves as a poignant reminder of the increasing sufferings and deepening humiliation Jesus endured on His journey to the cross.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.262277160355123,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.56,
+            "commentatorTierSimilarities": [
+                32.29,
+                36.83,
+                30.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

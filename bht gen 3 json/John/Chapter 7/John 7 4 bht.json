@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:07:37",
+    "verseRef": "John 7:4",
+    "bestBHT": {
+        "bht": "No one can claim the position that Christ does and keep hidden the works that prove it. The motive behind the advice to disclose one's deeds is evil, but Christ rejects their wishes and instructs us not to yield to the desires of our brethren or relations. For no one does such things in secret; they seek to be known openly.",
+        "wordCount": 62,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7633513981428501,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+        "commentatorTierSimilarities": [
+            42.08,
+            28.06,
+            29.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "no man can assert the position which Christ claims, and at the same time keep secret the works which go to vindicate it."
+        ],
+        "John Calvin": [
+            "If thou dost these things, that is, since thou art endued with so great power as to procure reputation for thyself by miracles, do not throw them away; for all that has been given to thee by God thou spendest here to no purpose.\" ",
+            "Hence we perceive how great is the indolence of men in considering the works of God; for the relations of Christ would never have spoken in this manner, if they had not \u2014 as it were \u2014 trampled under foot the manifest proofs of his Divine power, which they ought to have beheld with the greatest admiration and reverence.\" ",
+            "But such Satans receive a vigorous repulse from Christ, who thus instructs us by his example, that we ought not to yield to the foolish wishes of brethren or relations."
+        ],
+        "Philip Schaff": [
+            "For no one doeth any thing in secret, and himself seeketh to be in boldness.",
+            "Working miracles in secret and a bold claim of personal dignity and office are, in the view of these men, things incompatible with one another.",
+            "The words are now uttered with a true instinct; they will be fulfilled in their widest sense."
+        ],
+        "Archibald T. Robertson": [
+            "In public\" (\u03c0\u03b1\u03bd, \u03c1\u03b7\u03c3\u03b9\u03c2, telling it all). ",
+            "It is wise advice in the abstract that a public teacher must allow inspection of his deeds, but the motive is evil.\" ",
+            "Not just to 'thy disciples,' but to the public at large as at the feast of tabernacles."
+        ],
+        "John Gill": [
+            "For there is no man that doeth anything in secret... and he himself seeketh to be known openly.\" ",
+            "Christ was an ambitious person, and sought popular applause, and honour and glory from men, when nothing was more foreign from him.\" ",
+            "If his miracles were real, and he was the person he would be thought to be, the doing of them before such, would gain him great credit and esteem."
+        ],
+        "John Wesley": [
+            "For no man doth any thing \u2014 Of this kind, in secret; but rather desireth to be of public use.",
+            "If thou really dost these things \u2014 These miracles which are reported; show thyself to the world.",
+            "To all men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "No one can claim the position that Christ does and keep hidden the works that prove it. It is wise advice for a public teacher to allow inspection of their deeds, but the motive behind these words is evil. The argument is not just directed at his disciples, but to the public at large, as at the feast of tabernacles. The words are now uttered with a true instinct; they will be fulfilled in their widest sense. But Christ, knowing the indolence of men in considering the works of God, rejects their foolish wishes and instructs us by his example not to yield to the desires of our brethren or relations. For no one does such things in secret; they seek to be known openly.",
+            "wordCount": 125,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.6578055298804333,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.46,
+            "commentatorTierSimilarities": [
+                39.81,
+                32.34,
+                27.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No one can claim the position that Christ does and keep hidden the works that prove it. The motive behind the advice to disclose one's deeds is evil, but Christ rejects their wishes and instructs us not to yield to the desires of our brethren or relations. For no one does such things in secret; they seek to be known openly.",
+            "wordCount": 62,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7633513981428501,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+            "commentatorTierSimilarities": [
+                42.08,
+                28.06,
+                29.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No one can claim the position that Christ claims without publicly revealing the works that validate it. It is wise advice for a public teacher to allow inspection of their deeds, but the motive behind this request is evil. Christ's works should be shown not just to His disciples, but to the public at large during the feast of tabernacles. These men believe that working miracles in secret and making bold claims are incompatible, but their words will ultimately be fulfilled. It is evident that the people fail to recognize the greatness of God's works through Christ's miracles and instead trample on the manifest proofs of His Divine power. Christ's example urges us to not yield to the foolish wishes of others, even if they are our brethren or relations, and to seek to be known openly rather than in secret.",
+            "wordCount": 145,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.835842488281136,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                41.87,
+                28.27,
+                29.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No one can assert the position claimed by Christ without publicly displaying the works that prove it. The motive behind the request for public inspection of his deeds is seen as evil and incompatible with the working of miracles in secret. Christ's miracles should be shown not only to his disciples, but to the public at large during the feast of tabernacles. People fail to recognize the greatness of God's works through Christ's miracles, trampling on the clear evidence of his Divine power. Christ's example teaches us not to yield to the foolish wishes of others and instead seek to be known openly rather than in secret.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.8484882369200066,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.8,
+            "commentatorTierSimilarities": [
+                42.58,
+                26.46,
+                30.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "No one can affirm the position Christ claims without openly revealing the works that support it. The motive behind the advice for a public teacher to allow inspection of their deeds is deemed evil. Christ's miracles should be shown not just to His disciples, but to the public during the feast of tabernacles. Some fail to recognize the greatness of God's works through miraculous deeds, trampling the clear evidence of His Divine power. Christ's example urges us not to yield to the foolish wishes of others and seek to be known openly, not in secret.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.7430068459396477,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                44.91,
+                26.26,
+                28.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

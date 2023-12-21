@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:06:45",
+    "verseRef": "John 5:27",
+    "bestBHT": {
+        "bht": "Man is to be judged by Man, by the appointed Son of Man who is the inclusive Head of humanity. The appointment of a Judge in our own nature is a beautiful arrangement of divine wisdom in redemption. The Son of Man, who partakes of human nature, is given the authority to pass judgment on humanity. As a son of man, He judges, having fought the same battle and endured the same trials as those standing before Him. It is through this appointment as Judge that He imparts to us what He has received from the Father.",
+        "wordCount": 97,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.452542618313988,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.89,
+        "commentatorTierSimilarities": [
+            30.1,
+            30.76,
+            39.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Man is to be judged by Man,\u2014by that Man whom God hath appointed, who is the inclusive Head of humanity, and to whom mankind, and man\u2019s world, pertain by right of covenant-purchase.\" ",
+            "This executing judgment leads the thought to the great occasion when judgment shall be executed.",
+            "The Father hath given Him power to pass judgment because He is THE SON OF MAN."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What Christ had properly in view was the indwelling of the Son's essential life in humanity as the great theater and medium of divine display.\" ",
+            "The appointment of a Judge in our own nature is one of the most beautiful arrangements of divine wisdom in redemption."
+        ],
+        "Albert Barnes": [
+            "The word 'authority' here (commonly rendered 'power') implies all that is necessary to execute judgment - all the physical power to raise the dead, and to investigate the actions and thoughts of life; and all the 'moral right' or authority to sit in judgment on the creatures of God, and to pronounce their doom.",
+            "He has appointment to 'do justice;' to see that the universe suffers no wrong, either by the escape of the guilty or by the punishment of the innocent.",
+            "It may be: Some have supposed that the expression 'Son of man' here means the same as 'Messiah'...that God hath made him judge because he was the Messiah."
+        ],
+        "Marvin Vincent": [
+            "The authority is assigned to Him as being very man.",
+            "John uses the article everywhere with this phrase, except here and Revelation 1:13; Revelation 14:14.",
+            "See on Luke 6:22."
+        ],
+        "John Calvin": [
+            "He again repeats that the Father hath given him dominion, that he may have full power over all things in heaven and in the earth.\" ",
+            "He comes forth to men, adorned with such magnificence of power, that he may impart to them what he has received from the Father.\" ",
+            "Christ, so far as he is man, was appointed by the Father to be the Author of life, that it may not be necessary for us to go far to seek it."
+        ],
+        "Philip Schaff": [
+            "The Son \u2018maketh to live,\u2019 but He maketh to live \u2018whom He will'",
+            "Where, then, He is not the Giver of life, He is necessarily the Judge.",
+            "As a son of man He judges; as One who has been in the same position with those standing at His bar, as One who has fought the same battle and endured the same trials as they."
+        ],
+        "Archibald T. Robertson": [
+            "Because he is a son of man\" - Because he is a son of man, the judge of men must partake of human nature himself (Westcott).",
+            "John is here giving his own reflections rather than the words of Jesus\" - John is here giving his own reflections rather than the words of Jesus (Bernard).",
+            "\u03c5\u03b9\u03bf\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5 means 'a son of man'\" - The phrase \u03c5\u03b9\u03bf\u03bd \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5 means \"a son of man\" (always used by Jesus of himself)."
+        ],
+        "John Gill": [
+            "And hath given him authority to execute judgment also... because he is the son of man.",
+            "Because the Son himself is he who judges the sons of men.",
+            "He is not a mere man, but God over all, as what is next ascribed to him manifestly shows."
+        ],
+        "John Wesley": [
+            "Because he is the Son of man \u2014 He is appointed to judge mankind because he was made man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Man is to be judged by Man, by the appointed Son of Man who is the inclusive Head of humanity. This judgment leads to the great occasion when judgment will be executed. The appointment of a Judge in our own nature is a beautiful arrangement of divine wisdom in redemption. The Son of Man, who partakes of human nature, is given the authority to pass judgment on humanity. As a son of man, He judges, having fought the same battle and endured the same trials as those standing before Him. It is through this appointment as Judge that He imparts to us what He has received from the Father.",
+            "wordCount": 109,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.3503144207521354,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.49,
+            "commentatorTierSimilarities": [
+                30.8,
+                31.19,
+                38.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Man is to be judged by Man, by the appointed Son of Man who is the inclusive Head of humanity. The appointment of a Judge in our own nature is a beautiful arrangement of divine wisdom in redemption. The Son of Man, who partakes of human nature, is given the authority to pass judgment on humanity. As a son of man, He judges, having fought the same battle and endured the same trials as those standing before Him. It is through this appointment as Judge that He imparts to us what He has received from the Father.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.452542618313988,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.89,
+            "commentatorTierSimilarities": [
+                30.1,
+                30.76,
+                39.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Man is to be judged by the appointed Son of Man, the inclusive Head of humanity. This judgment leads to the occasion when judgment shall be executed. The appointment of a Judge in our own nature is a beautiful arrangement of divine wisdom in redemption. The Son of Man, who partakes of human nature, is given the authority to pass judgment because He is very man. As a son of man, He judges, having fought the same battle and endured the same trials as those standing before Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.3591041298194506,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.78,
+            "commentatorTierSimilarities": [
+                31.64,
+                31.48,
+                36.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Man is to be judged by the appointed Son of Man, the inclusive Head of humanity. The appointment of a Judge in our own nature is a beautiful arrangement of divine wisdom in redemption. The Son of Man, who partakes of human nature, is given the authority to pass judgment because He is very man. As a son of man, He judges, having fought the same battle and endured the same trials as those standing before Him. Through this appointment as Judge, He imparts to us what He has received from the Father.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.4443402511139283,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.61,
+            "commentatorTierSimilarities": [
+                29.93,
+                30.84,
+                39.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Man is to be judged by the appointed Son of Man, the inclusive Head of humanity. This judgment leads to the occasion when judgment shall be executed. The Son of Man, who partakes of human nature, is given the authority to pass judgment because He is very man. As a son of man, He judges, having fought the same battle and endured the same trials as those standing before Him. Through this appointment as Judge, He imparts to us what He has received from the Father.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.352002368389046,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.54,
+            "commentatorTierSimilarities": [
+                29.11,
+                31.68,
+                39.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

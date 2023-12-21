@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:14:59",
+    "verseRef": "John 19:31",
+    "bestBHT": {
+        "bht": "That day, a double sabbath, marked the beginning of unleavened bread and was a high day. The Jews, despite their recent allegiance to Caesar, were now meticulous about following the law. So, they pleaded with Pilate to break the legs of the crucified men with clubs as a sort of coup de grace. By doing this, they sought to hasten the men's death, ensuring that their bodies wouldn't remain on the cross overnight and defile the sacred Sabbath and the start of the festival week.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.65,
+        "qualityScore": 2.245740327132708,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.01,
+        "commentatorTierSimilarities": [
+            36.28,
+            25.9,
+            37.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that sabbath day was an high day, being as it was... a double sabbath.",
+            "the breaking of the legs was sometimes appended to the punishment of crucifixion, but does not appear to have been inflicted for the purpose of causing death.",
+            "the term involved in it the \u2018coup de grace,\u2019 which was given to all executed criminals."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that the bodies should not remain\u2014over night, against the Mosaic law.",
+            "on the sabbath day, for that sabbath day was a high day\u2014the first day of unleavened bread.",
+            "besought Pilate that their legs might be broken\u2014to hasten their death, which was done in such cases with clubs."
+        ],
+        "Albert Barnes": [
+            "The law required that the bodies of those who were hung should not remain suspended during the night.",
+            "The Jews therefore requested that their death might be hastened, and that the land might not be polluted by their bodies remaining suspended on the Sabbath day.",
+            "To compensate for those lingering agonies, so that the full amount of suffering might be endured, they increased their sufferings by breaking their limbs, and thus hastening their death."
+        ],
+        "Marvin Vincent": [
+            "The Jews - Sabbath. The Jews, who had so recently asserted their sole allegiance to Caesar, are now scrupulous about observing the letter of the law."
+        ],
+        "John Calvin": [
+            "The Evangelist says, that the Jews besought that the bodies might be taken down from the crosses. This had undoubtedly been enjoined by the Law of God; but the Jews, as is usually the case with hypocrites, direct their whole attention to small matters, and yet pass by the greatest crimes without any hesitation.",
+            "Yet, by their agency, the Lord carries into effect what was of the greatest importance for our salvation, that, by a wonderful arrangement, the body of Christ remains uninjured, and blood and water flow out of his side.",
+            "If we read \u1f10\u03ba\u03b5\u1f77\u03bd\u03bf\u03c5 in the genitive case, (\u1f10\u03ba\u03b5\u1f77\u03bd\u03bf\u03c5 \u03c4\u03bf\u1fe6 \u03c3\u03b1\u03b2\u03b2\u1f71\u03c4\u03bf\u03c5 of that Sabbath) the word Sabbath must be understood to denote the week; as if the Evangelist had said, that the festival of that week was very solemn, on account of the Passover."
+        ],
+        "Philip Schaff": [
+            "The word here used has in itself the double meaning of \u2018preparation\u2019 and of \u2018Friday.\u2019\" ",
+            "These words, therefore, so far from supporting the view of those who think that the legal Passover had not yet been celebrated, tend rather in the opposite direction.",
+            "The operation of breaking the legs, though not sufficient to cause death, would naturally hasten it."
+        ],
+        "Archibald T. Robertson": [
+            "A 'great' day, since 'the sabbath day following synchronized with the first day of unleavened bread which was a 'great' day\" (Bernard). A double reason therefore for wanting the bodies removed before sunset when the Sabbath began.",
+            "This crurifragium was done with a heavy mallet and ended the sufferings of the victim.",
+            "Legs (\u03c3\u03ba\u03b5\u03bb\u03b7). Old word, here only in N.T."
+        ],
+        "John Gill": [
+            "What was the usage of the Jews at this time is not certain; according to the Roman laws, such bodies hung until they were putrefied, or eaten by birds of prey; wherefore that their land might not be defiled, and especially their sabbath, by their remaining on the cross, they desire to have them taken down.",
+            "for that sabbath day was an high day; it was not only a sabbath, and a sabbath in the passover week, but it was the day in which all the people appeared and presented themselves before the Lord in the temple, and the sheaf of the first fruits was offered up; all which solemnities meeting together made it a very celebrated day.",
+            "hence the Jews pretending a great concern lest that day should be polluted, though they made no conscience of shedding innocent blood, besought Pilate that their legs might be broken."
+        ],
+        "John Wesley": [
+            "Lest the bodies should remain on the cross on the Sabbath... of that in particular.\" ",
+            "For that Sabbath was a great day... a treble solemnity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "That day was a double sabbath, the first day of unleavened bread, and a high day. The Jews, though they had recently pledged allegiance to Caesar, were now scrupulous about the letter of the law. They begged Pilate to break the legs of the crucified men to hasten their death. This was a common practice, done with clubs, as a coup de grace. They wanted to ensure that the bodies were not left on the cross overnight, in accordance with the Mosaic law, especially since it was the start of a solemn festival week. The breaking of the legs would speed up death without causing it in order to prevent defilement on the highly regarded Sabbath.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.1906089519636485,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.18,
+            "commentatorTierSimilarities": [
+                37.21,
+                27.38,
+                35.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "That day, a double sabbath, marked the beginning of unleavened bread and was a high day. The Jews, despite their recent allegiance to Caesar, were now meticulous about following the law. So, they pleaded with Pilate to break the legs of the crucified men with clubs as a sort of coup de grace. By doing this, they sought to hasten the men's death, ensuring that their bodies wouldn't remain on the cross overnight and defile the sacred Sabbath and the start of the festival week.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.245740327132708,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.01,
+            "commentatorTierSimilarities": [
+                36.28,
+                25.9,
+                37.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On that day, a double sabbath coinciding with the first day of unleavened bread, the Jews, who had recently sworn allegiance to Caesar, exhibited extraordinary concern for upholding the law. They urgently implored Pilate to break the men's legs with clubs, swiftly ending their suffering. By doing so, they ensured that the bodies would not remain on the crosses overnight, fulfilling the Mosaic law. This request emanated from their devotion to preserving the sanctity of the high day, the beginning of a significant festival week.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.0706618061872897,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                33.15,
+                29.65,
+                37.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "That day, being a double Sabbath and the first day of unleavened bread, was of great importance to the Jews. Although they had claimed allegiance to Caesar, they were now meticulous in observing the law. Consequently, they pleaded with Pilate to hasten the deaths of the crucified men by breaking their legs with clubs. Their intent was to adhere to the Mosaic law, which prohibited bodies from remaining on the crosses overnight. This concern stemmed from the significance of the high day and the commencement of a solemn festival week.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.077539452984791,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.42,
+            "commentatorTierSimilarities": [
+                35.4,
+                26.55,
+                38.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "That day, a double Sabbath and the start of unleavened bread, held great significance for the Jews. Though they had recently shown allegiance to Caesar, they were meticulous in upholding the law. Thus, they pleaded with Pilate to break the men's legs to hasten their death, avoiding defilement on that particular Sabbath. This request aimed to prevent the bodies from remaining on the cross overnight, in accordance with the Mosaic law. Their concern for maintaining the sanctity of the highly revered day and the festival was evident.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.101799856751486,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                33.97,
+                26.87,
+                39.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

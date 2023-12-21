@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:14:01",
+    "verseRef": "John 18:5",
+    "bestBHT": {
+        "bht": "In the arrest, John observes Judas among the soldiers, heightening the tragedy of the scene. The soldiers' response of Jesus of Nazareth reveals their blunt and straightforward obedience. Jesus steps forward, affirming Himself as the one they seek, exposing Judas in the act of betrayal. John's attention to detail portrays Jesus' power, even amid apparent defeat.",
+        "wordCount": 57,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.8837406656815052,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+        "commentatorTierSimilarities": [
+            35.47,
+            33.94,
+            30.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. John detected Judas standing among them, and notices the detail, as is his constant habit, by way of enhancing the tragic character of the history.",
+            "The narrative common to the three Gospels related the kiss which presently took place; but this self-tradition of our Lord was not related in it.",
+            "St. John therefore adds this touch of exactness, to shew that the answer, Jesus of Nazareth, was not given because they were ignorant of His Person, so as not to be able to say \u2018Thee;\u2019\u2014but because they feared to say it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They answered . . . Jesus of Nazareth\u2014just the sort of blunt, straight forward reply one expects from military men, simply acting on their instructions.\" ",
+            "I am He\u2014(See on :-).\" ",
+            "Judas . . . stood with them\u2014No more is recorded here of his part of the scene, but we have found the gap painfully supplied by all the other Evangelists."
+        ],
+        "Marvin Vincent": [
+            "Of Nazareth [\u03c4\u03bf\u03bd \u03bd\u03b1\u03b6\u03c9\u03c1\u03b1\u03b9\u03bf\u03bd] . Literally, the Nazarene. ",
+            "Stood [\u03b5\u03b9\u03c3\u03c4\u03b7\u03ba\u03b5\u03b9] . Imperfect tense. Rev., correctly, was standing."
+        ],
+        "John Calvin": [
+            "There was no want of power in him, therefore, to restrain their hands, if he had thought proper; but he wished to obey his Father, by whose decree he knew that he was called to die.",
+            "We may infer from this how dreadful and alarming to the wicked the voice of Christ will be, when he shall ascend his throne to judge the world.",
+            "And what was the word? He thunders no fearful excommunication against them, but only replies, It is I. What then will be the result, when he shall come, not to be judged by a man, but to be the Judge of the living and the dead; not in that mean and despicable appearance but shining in heavenly glory, and accompanied by his angels?"
+        ],
+        "Philip Schaff": [
+            "The answer may perhaps reveal the light in which Judas had represented Jesus to the Roman authorities, 'of Nazareth,' a Galilean, prone to revolt; or it may be that the Evangelist beholds in it one of those unconscious prophecies of the enemies of Jesus.",
+            "Before the effect produced by the reply is related, a parenthetical clause is introduced.",
+            "We have before us Judas possessed by Satan. The powers of evil are concentrated in him; and to bring him thus prominently forward as sharing the fate of others illustrates in the most striking manner the victory of Jesus even in this hour of apparent defeat."
+        ],
+        "Archibald T. Robertson": [
+            "Judas in the very act of betraying Jesus.",
+            "John does not mention the kiss by Judas as a sign to the soldiers and police.",
+            "Jesus stepped forth and affirmed that he was the one whom they were seeking."
+        ],
+        "John Gill": [
+            "nor do they say 'Christ', for they rejected and denied him as the Messiah; nor do they call him that deceiver, or seditious person, as they sometimes did, being willing to cover their malicious views and intentions; but Jesus of Nazareth",
+            "Judas at first did not know him any more than the rest; so that he might easily have passed them if he had pleased; and that Judas did not stand with them as an idle spectator; he came with them to betray him, and was looking out for him",
+            "to inform us, that he fell to the ground with the rest; which is related in John 18:6"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, John depicts Judas standing among the soldiers and police who came to arrest Jesus. John's attention to detail emphasizes the tragic nature of the event and clarifies that the answer given by the soldiers\u2014Jesus of Nazareth\u2014was not due to ignorance of His identity, but rather out of fear. The soldiers' straightforward response reflects their military training and obedience to orders. Jesus then steps forward and confirms that He is the one they are seeking. This moment captures the very act of Judas betraying Jesus. Through this scene, John highlights the power of Jesus, even in the face of apparent defeat.",
+            "wordCount": 106,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7257270890974192,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.72,
+            "commentatorTierSimilarities": [
+                35.78,
+                31.69,
+                32.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of the arrest, John pauses to notice Judas standing alongside the soldiers and police. By including this detail, John adds to the tragic nature of the scene. He emphasizes that the soldiers' response of Jesus of Nazareth wasn't due to lack of knowledge, but rather fear. Their straightforward answer reflects their military training and strict adherence to orders. Jesus then steps forward to confirm that He is the one they seek, a moment that captures Judas in the very act of betraying Him. Through this portrayal, John highlights the power of Jesus even in the face of apparent defeat.",
+            "wordCount": 103,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.664638565774689,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                35.33,
+                32.89,
+                31.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the arrest, John observes that Judas is standing among the soldiers and police. This detail enhances the tragic nature of the event, emphasizing that the soldiers' response of Jesus of Nazareth was not due to ignorance but fear. Their straightforward answer reflects their military mindset and obedience. Jesus then steps forward, confirming Himself as the one they seek and exposing Judas in the very act of betrayal. Through this scene, John highlights Jesus' power even when faced with apparent defeat.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7409457933992227,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.23,
+            "commentatorTierSimilarities": [
+                35.88,
+                32.69,
+                31.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the arrest, John takes note of Judas standing among the soldiers, adding to the tragic nature of the scene. The soldiers' response of Jesus of Nazareth was not due to ignorance, but rather out of fear. Their straightforward answer reflects their obedience to instructions. Jesus steps forward and confirms that He is the one they seek, capturing the moment of Judas' betrayal. Through this portrayal, John showcases Jesus' power even in the face of apparent defeat.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7777543428587097,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                36.54,
+                32.09,
+                31.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the arrest, John observes Judas among the soldiers, heightening the tragedy of the scene. The soldiers' response of Jesus of Nazareth reveals their blunt and straightforward obedience. Jesus steps forward, affirming Himself as the one they seek, exposing Judas in the act of betrayal. John's attention to detail portrays Jesus' power, even amid apparent defeat.",
+            "wordCount": 57,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8837406656815052,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                35.47,
+                33.94,
+                30.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

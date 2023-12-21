@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:15:46",
+    "verseRef": "John 21:17",
+    "bestBHT": {
+        "bht": "Peter was deeply grieved by the third time Jesus asked him if he loved Him, as it reminded him of his own three denials. Jesus' deliberate repetition of Peter's own words was a probing incision into his wounded heart, bringing to light the weight of his denials. However, Jesus, the omniscient Physician, used this interaction to dispel the lingering shame and restore Peter completely, affirming his love and commissioning him to continue His work without the cloud of past failures.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.1963001652361536,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.37,
+        "commentatorTierSimilarities": [
+            27.51,
+            43.61,
+            28.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter was grieved... because of its being asked the third time, answering to the number of his own denials of Christ.",
+            "thou knowest all things.",
+            "See above."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This was the Physician's deepest incision into the wound, while yet smarting under the two former probings.",
+            "The third time reveals it all, bringing up such a rush of dreadful recollections before his view, of his 'thrice denying that he knew Him,' that he feels it to the quick.",
+            "Now, Simon, the last speck of the cloud which overhung thee since that night of nights is dispelled: Henceforth thou art to Me and to My work as if no such scene had ever happened."
+        ],
+        "Albert Barnes": [
+            "Thus he tenderly admonished him of his fault and reminded him of his sin, while he solemnly charged him to be faithful and vigilant in the discharge of the duties of the pastoral office.",
+            "The reason why the Saviour addressed Peter in this manner was doubtless because he had just denied him - had given a most melancholy instance of the instability and weakness of his faith, and of his liability to fall.",
+            "The charge to Peter arose, manifestly, from his prominent and melancholy act in denying him, and was the kind and tender means used by a faithful Saviour to keep him from similar acts in the future dangers and trials of life."
+        ],
+        "Marvin Vincent": [
+            "Here Jesus adopts Peter's word.",
+            "Peter's use of filew...implies a higher love.",
+            "This seems to me to be less natural, and to be refining too much."
+        ],
+        "John Calvin": [
+            "Peter undoubtedly did not perceive the object which Christ had in view, in putting the same question so frequently; and therefore he thinks that he is indirectly accused, as if he had not answered with sincerity.",
+            "Those who are to undertake the charge of governing the Church are also taught, in his person, not to examine themselves slightly, but to make a thorough scrutiny what zeal they possess, that they may not shrink or faint in the middle of their course.",
+            "We are likewise taught, that we ought patiently and mildly to submit, if at any time the Lord subject us to a severe trial; because he has good reasons for doing so, though they are generally unknown to us."
+        ],
+        "Philip Schaff": [
+            "Not only is his own word taken up by Jesus, but that word is one by which he had sought to give utterance to the strength of his affection.\" ",
+            "Peter\u2019s grief is at once intelligible, not simply because he had been three times questioned as to his love, but because the third time his own statement, twice made, had been taken up, and he had been asked to consider well whether it was really true.",
+            "The victory of grace is complete, and he receives his final charge. Jesus saith unto him, Feed my sheep."
+        ],
+        "Archibald T. Robertson": [
+            "Peter was cut to the heart because Jesus challenges this very verb, and no doubt the third question vividly reminds him of the three denials in the early morning by the fire.",
+            "He repeats his love for Jesus with the plea: 'Thou knowest all things.'",
+            "Many MSS. both here and in verse John 21:16 read \u03c0\u03c1\u03bf\u03b2\u03b1\u03c4\u03b1 (sheep) instead of \u03c0\u03c1\u03bf\u03b2\u03b1\u03c4\u03b9\u03b1 (little sheep or lambs)."
+        ],
+        "John Gill": [
+            "he appeals with great warmth and earnestness to him, as the omniscient God, and the searcher of all hearts, who knows all persons and things, and the secret thoughts, dispositions, and affections of men's minds, for the truth of his love to him",
+            "so every soul that truly loves Christ... can appeal to Christ, as the trier of the reins of the children of men, that he it is whom their souls love",
+            "such only are proper persons to feed the lambs and sheep of Christ, who truly and sincerely love him: and in doing which they show their love to him"
+        ],
+        "John Wesley": [
+            "Because he said the third time \u2014 As if he did not believe him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter was deeply grieved when Jesus asked him for the third time if he loved him, as it reminded him of his three denials. Jesus, who knows all things, used this questioning to heal Peter's wounded heart and restore their relationship. By repeating Peter's words and adopting his language, Jesus shows that Peter's love for him has deepened. Although some manuscripts read sheep instead of little sheep, the emphasis is on Peter's sincere love and his commission to care for Jesus' sheep. This interaction serves as a tender admonishment, reminding Peter of his past failures and charging him to faithfully shepherd the Church.",
+            "wordCount": 107,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.106602988749212,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.39,
+            "commentatorTierSimilarities": [
+                29.62,
+                42.51,
+                27.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Deeply grieved by the third repetition of Jesus' question, Peter was reminded of his three denials. Jesus, knowing all things, used this opportunity to heal Peter's wounded heart and restore their relationship. Repeating Peter's own words, Jesus acknowledged the depth of Peter's love. Although some manuscripts differ, the focus is on Peter's sincere love for Jesus and his commission to care for His sheep. This interaction serves as a tender admonishment, reminding Peter of his past failures, while charging him to faithfully shepherd the Church.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.053925109218821,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                31.47,
+                43.08,
+                25.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Grieved by the third question, Peter was confronted with the painful memories of his denials. However, Jesus, knowing all things, used this moment to restore their relationship. By adopting Peter's own words, Jesus highlighted the depth of his love. Although there may be manuscript variations, the emphasis remains on Peter's sincere love for Jesus and his commission to care for His sheep. This interaction serves as a tender admonishment, reminding Peter of his past failures and charging him to faithfully shepherd the Church.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9747823539239384,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                29.64,
+                44.09,
+                26.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Grieved by the third questioning, Peter was reminded of his denials of Christ. Jesus, knowing all things, used this moment to repair their relationship. By echoing Peter's own words, Jesus acknowledged the depth of Peter's love. Though some manuscripts differ, the focus remains on Peter's sincere love for Jesus and his responsibility to care for His sheep. This interaction tenderly admonished Peter for his past failures, while charging him to faithfully shepherd the Church.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.9880586981428068,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.44,
+            "commentatorTierSimilarities": [
+                30.83,
+                43.26,
+                25.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter was deeply grieved by the third time Jesus asked him if he loved Him, as it reminded him of his own three denials. Jesus' deliberate repetition of Peter's own words was a probing incision into his wounded heart, bringing to light the weight of his denials. However, Jesus, the omniscient Physician, used this interaction to dispel the lingering shame and restore Peter completely, affirming his love and commissioning him to continue His work without the cloud of past failures.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.1963001652361536,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.37,
+            "commentatorTierSimilarities": [
+                27.51,
+                43.61,
+                28.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

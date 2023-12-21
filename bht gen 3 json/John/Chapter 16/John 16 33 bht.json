@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:13:39",
+    "verseRef": "John 16:33",
+    "bestBHT": {
+        "bht": "Take courage, for you do not belong to the world, but to Christ who has overcome it. Amidst the tribulations and inward distress of this world, find solace in the peace that can only be found in Him. Through His prayer life and self-immersion in God, He has achieved victory over death. Though the world may bring affliction and persecution, it is a defeated enemy. So, be of good cheer and draw strength from the peace, rest, and joy that Christ offers to all who believe in Him.",
+        "wordCount": 89,
+        "quoteTokenProportion": 47.69,
+        "qualityScore": 2.0599719723519634,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+        "commentatorTierSimilarities": [
+            30.17,
+            39.19,
+            30.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be of good cheer; for ye belong not to the world, but to Me, who have overcome the world.\" ",
+            "This tribulation is not only persecution from the world, but trouble, inward distress, while we are in the world.",
+            "A comforting sign that we are not of the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These things I have spoken unto you... that in me ye might have peace.\" ",
+            "In the world ye shall have tribulation... So that the 'peace' promised was far from an unruffled one.",
+            "I have overcome the world... that ye may be able to do the same."
+        ],
+        "Albert Barnes": [
+            "In the world - Among the men to whom you are going. You must expect to be persecuted, afflicted, tormented.",
+            "He brought down aid and strength from above by his death; and by procuring for us the friendship of God and the influence of the Spirit... he has furnished us with the means of overcoming all our enemies, and of triumphing in all our temptations.",
+            "the world is a vanquished enemy; Satan is a humbled foe; and all that believers have to do is to put their trust in the Captain of their salvation, putting on the whole armor of God, assured that the victory is theirs..."
+        ],
+        "Marvin Vincent": [
+            "Out of Christ's divinely rich prayer-life there emerge, as from an ocean, the pearls of those single prayers of His that are preserved to us.\" ",
+            "His prayer-life is the root of this tree; His overcoming of the world rests upon the infinite depth of His self-presentation before God, His self-devotion to God, His self-immersion in God, His self-certitude and power from God.\" ",
+            "In His prayer-life the perfect truth of His human nature has also approved itself. The same who, as the Son of God, is complete revelation, is, as the Son of Man, complete religion."
+        ],
+        "John Calvin": [
+            "We ought to attend, first, to this admonition, that all believers ought to be convinced that their life is exposed to many afflictions, that they may be disposed to exercise patience.",
+            "But be of good courage...the Lord does not intend that our minds shall be cast down, but rather that we shall fight keenly, which is impossible, if we are not certain of success.",
+            "If, therefore, we desire to be Christians, we must not seek exemption from the cross, but must be satisfied with this single consideration, that, fighting under the banner of Christ, we are beyond all danger, even in the midst of the combat."
+        ],
+        "Philip Schaff": [
+            "The world is a conquered foe. Jesus has overcome it; and that not for Himself only, but for them.",
+            "His faithful disciples have still sorrow in the world, but their sorrow is turned into joy.",
+            "The world is not to be overcome: it is overcome; and to those who follow in the footsteps of their Lord, the path through is not so much a conflict as a victory."
+        ],
+        "Archibald T. Robertson": [
+            "That ye may keep on having peace in me, even when I am put to death, peace to be found nowhere save in me.",
+            "Be of good cheer. A word for courage in the face of danger.",
+            "I have overcome the world. This majestic proclamation of victory over death may be compared with 'It is finished' in John 19:30 as Christ died and with Paul's 'we are more than conquerors' in Romans 8:37."
+        ],
+        "John Gill": [
+            "There is no true, solid peace, to be enjoyed in the world, and the things of it.",
+            "It is in him, and in him only, in his person, blood, righteousness, and sacrifice, which speak peace, pardon, and atonement, that a soul finds any true, solid peace, rest, comfort, and joy.",
+            "Believers, of all men, notwithstanding their tribulations, have reason to be of good cheer, since their sins are forgiven, the love of God is shed abroad in their hearts, their redemption draws nigh, and they have hopes of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Take heart, for you do not belong to the world, but to Christ who has overcome the world. As you navigate the tribulations and troubles of this world, remember that the peace Jesus promises is not an unruffled one, but a deep and abiding peace found in Him. Through His divine prayer-life, His victory over death and sin is unveiled, and His words assure us of courage in the face of danger. The world may afflict and persecute, but it is a vanquished enemy, conquered by Christ. So, be of good cheer, for in Him alone you find true peace, rest, comfort, and joy.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 2.090316514852933,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                29.65,
+                37.84,
+                32.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers, take courage, for you are not of this world, but of Christ who has triumphed over it. Though you may face tribulations and inward distress in the world, remember that the peace He offers is not without turbulence. His prayer-life, rooted in self-presentation, self-devotion, and self-immersion in God, reveals His victory over death and sin. The world may persecute, but it is a conquered foe. So, be of good cheer and find lasting peace, comfort, and joy in Christ alone.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9703782654891464,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+            "commentatorTierSimilarities": [
+                31.14,
+                37.99,
+                30.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Take heart, for you belong to Christ who has overcome the world. In the midst of tribulation and inward distress, remember that the peace He offers is not a placid one. Through His divine prayer life and self-certitude in God, He declares victory over death. The world may afflict and persecute, but it is a conquered foe. So, be of good cheer and find true, solid peace in Christ alone, knowing that your redemption is near and you have hopes of glory.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0293316781081945,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                30.67,
+                37.95,
+                31.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Take courage, for you do not belong to the world, but to Christ who has overcome it. Amidst the tribulations and inward distress of this world, find solace in the peace that can only be found in Him. Through His prayer life and self-immersion in God, He has achieved victory over death. Though the world may bring affliction and persecution, it is a defeated enemy. So, be of good cheer and draw strength from the peace, rest, and joy that Christ offers to all who believe in Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.0599719723519634,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                30.17,
+                39.19,
+                30.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Take heart, for you do not belong to the world, but to Christ who has overcome it. Amidst the tribulations and inward distress of this world, find solace in the peace that can only be found in Him. The world may afflict and persecute, but it is a defeated enemy. So, be of good cheer and draw strength from the peace and joy that Christ offers. Trust in His victory over death, and rest assured that your redemption draws near.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.004525027799012,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.99,
+            "commentatorTierSimilarities": [
+                29.79,
+                39.76,
+                30.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:07:57",
+    "verseRef": "John 7:25",
+    "bestBHT": {
+        "bht": "The inhabitants of Jerusalem, familiar with the rulers' determination to put Jesus to death, were amazed that He was teaching openly. These Jerusalemites knew better than the Galilean multitude about the designs of the priesthood. Despite the rulers' intentions, Jesus continued to teach freely, frustrating their efforts. We should take comfort in the fact that God's work cannot be hindered by the wicked, as their attempts to silence the Gospel have been rendered fruitless.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.9913285377278125,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+        "commentatorTierSimilarities": [
+            46.58,
+            22.01,
+            31.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The inhabitants of Jerusalem know better than the multitude the mind of their rulers towards Jesus;"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "knowing the long-formed purpose of the rulers to put Jesus to death\" ",
+            "wondered that they were now letting Him teach openly"
+        ],
+        "Marvin Vincent": [
+            "Them of Jerusalem [\u03b9\u03b5\u03c1\u03bf\u03c3\u03bf\u03bb\u03c5\u03bc\u03b9\u03c4\u03c9\u03bd] . Literally, of the Jerusalemites, who knew better than the multitude the designs of the priesthood. The word occurs only here and Mark 1:5."
+        ],
+        "John Calvin": [
+            "Those persons, therefore, who knew with what inveterate rage the rulers of their nation burned against Christ, have some reason for wondering that, while Christ in the temple not only converses openly but preaches freely, the rulers say nothing to him.",
+            "But it is our duty to examine more wisely the works of God; and especially when wicked men, with all their contrivances, do not hinder the progress of the Gospel so much as they would desire, we ought to be fully persuaded that their efforts have been rendered fruitless, because God, by interposing his word, has defeated them."
+        ],
+        "Philip Schaff": [
+            "Is not this he whom they seek to kill?",
+            "The speakers are a different class from those hitherto introduced.",
+            "These seem to have more knowledge of the designs of \u2018the Jews\u2019 than was possessed by \u2018the multitude\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "Some therefore of them of Jerusalem...They form a separate group.\" ",
+            "These Jerusalem people knew better than the pilgrims the designs of the rulers.",
+            "Clearly they were not as familiar with the appearance of Jesus as the Galilean multitude."
+        ],
+        "John Gill": [
+            "Is not this he whom they seek to kill?",
+            "They knew that they had formed a design to kill him.",
+            "They were now at this feast seeking an opportunity to lay hold on him and kill him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The inhabitants of Jerusalem, being more familiar with the intentions of the rulers towards Jesus, were surprised that He was teaching openly. They knew that the rulers had long planned to put Jesus to death. These Jerusalem residents, distinct from the Galilean multitude, were aware of the designs of the Jewish authorities. While the rulers sought to kill Jesus, He continued to teach freely and openly, frustrating their efforts. It is important for us to recognize that God's work cannot be hindered by the schemes of the wicked, and we should take comfort in the fact that their attempts to silence the Gospel have been rendered fruitless.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 2.04513315746184,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                46.2,
+                20.71,
+                33.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jerusalemites, more informed about the rulers' intentions, were astonished that Jesus was allowed to teach openly. They knew of the rulers' long-standing plan to kill him. These people were distinct from the Galilean multitude and had a better understanding of the designs of the authorities. Despite the rulers' efforts to bring harm, Jesus continued to teach freely. We should find solace in the fact that God's work cannot be thwarted by the wicked, as their attempts to hinder the spread of the Gospel have proven futile.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8571119354522796,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "commentatorTierSimilarities": [
+                41.43,
+                23.92,
+                34.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jerusalemites, who were more knowledgeable about the rulers' intentions towards Jesus, were amazed at His open teaching. They were aware of the rulers' long-felt desire to kill Him. These people constituted a separate group from the Galilean multitude and had a better understanding of the authorities' plans. Despite the rulers' determination to harm Jesus, He continued to teach freely. We should take comfort in the fact that God's work cannot be hindered by the wicked, as their efforts to hinder the spread of the Gospel have been rendered fruitless.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8373613441523355,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                40.4,
+                23.54,
+                36.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jerusalemites, well-informed about the rulers' intentions, were astonished that Jesus was allowed to teach openly. They knew the rulers had a long-standing plan to kill Him. These people understood the designs of the authorities better than the Galilean multitude. Despite the rulers seeking to kill Jesus, He continued to teach freely. God's work prevails over the schemes of the wicked, as their attempts to hinder the spread of the Gospel have proven futile.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9572920997803513,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                40.6,
+                24.79,
+                34.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The inhabitants of Jerusalem, familiar with the rulers' determination to put Jesus to death, were amazed that He was teaching openly. These Jerusalemites knew better than the Galilean multitude about the designs of the priesthood. Despite the rulers' intentions, Jesus continued to teach freely, frustrating their efforts. We should take comfort in the fact that God's work cannot be hindered by the wicked, as their attempts to silence the Gospel have been rendered fruitless.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.9913285377278125,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+            "commentatorTierSimilarities": [
+                46.58,
+                22.01,
+                31.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

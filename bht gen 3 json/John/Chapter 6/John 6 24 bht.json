@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:06:51",
+    "verseRef": "John 6:24",
+    "bestBHT": {
+        "bht": "The people who had been miraculously fed knew that Jesus had not gone with his disciples in the only boat that was on the east side of the lake the night before. They were still curious and hoped for more miracles and perhaps another plentiful meal from Jesus. They wanted to make him their king and eagerly searched for him, expecting to find him in Capernaum. Their diligent search and anticipation of finding Jesus is emphasized in these verses.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.7412958885634084,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+        "commentatorTierSimilarities": [
+            34.01,
+            33.43,
+            32.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the Evangelist's desire to mention every circumstance, however minute, that might call up the scene as vividly to the reader as it stood before his own view.",
+            "the people which stood on the other side of the sea\u2014not the whole multitude that had been fed, but only such of them as remained over night about the shore, that is, on the east side of the lake",
+            "the people had observed that there had been only one boat on the east side where they were...and they had also observed that Jesus had not gone on board that boat, but His disciples had put off without Him"
+        ],
+        "Albert Barnes": [
+            "Took shipping - Went into the boats.",
+            "Came to Capernaum - This was the ordinary place of the residence of Jesus, and they therefore expected to find him there."
+        ],
+        "Philip Schaff": [
+            "If Jesus was neither on the eastern shore nor at Tiberias, He might be sought near Capernaum, in the direction of which town the disciples had sailed.",
+            "John\u2019s words clearly imply that there was an eager and diligent search for Jesus on the part of the multitude before they left the spot where they had witnessed His power.",
+            "The prominence given to the thought of Jesus in these verses is very marked. What is said of the disciples has no independent value: their movements are described solely that light may be thrown upon those of their Master."
+        ],
+        "Archibald T. Robertson": [
+            "They still did not understand how Jesus had crossed over, but they acted on the basis of the plain fact.",
+            "They had a double motive apart from the curiosity explained in verse John 6:22.",
+            "They had clearly not given up the impulse of the evening before to make Jesus king and they had hopes of still another bountiful repast at the hands of Jesus as he said."
+        ],
+        "John Gill": [
+            "When the people therefore saw that Jesus was not there\" ",
+            "Neither his disciples\" ",
+            "Came to Capernaum seeking Jesus"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people who had been miraculously fed knew that Jesus had not gone with his disciples in the only boat that was on the east side of the lake the night before. They were still curious and hoped for more miracles and perhaps another plentiful meal from Jesus. They wanted to make him their king, and their desire to find Jesus was twofold - their curiosity and their hunger were driving them to seek him. They suspected that he might be in Capernaum since that was his usual residence. The focus in this passage is on their diligent search for Jesus and their expectation of finding him.",
+            "wordCount": 106,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7664622209498613,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.08,
+            "commentatorTierSimilarities": [
+                34.06,
+                33.13,
+                32.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people who had been miraculously fed knew that Jesus had not gone with his disciples in the only boat that was on the east side of the lake the night before. They were still curious and hoped for more miracles and perhaps another plentiful meal from Jesus. They wanted to make him their king and eagerly searched for him, expecting to find him in Capernaum. Their diligent search and anticipation of finding Jesus is emphasized in these verses.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.7412958885634084,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                34.01,
+                33.43,
+                32.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people, standing on the other side of the sea, noticed the absence of Jesus and His disciples, yet determined to seek Him out in Capernaum, hoping to witness more of His miracles and perhaps even have another abundant meal. Their persistent search for Jesus emphasized their desire for His reign and their expectation of Him fulfilling their physical needs. The disciples' movements were only significant in relation to Jesus, as the focus of these verses was undeniably on Him and His whereabouts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8423099982085285,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                32.91,
+                34.04,
+                33.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people, who had observed that Jesus had not boarded the one boat on the eastern shore, were perplexed by His absence. Motivated by their curiosity and the desire for Jesus to become their king, they embarked on a diligent search, hoping for a repetition of the miraculous feeding and another plentiful feast. With their eyes fixed on Capernaum, the disciples' movements served only to shed light on the whereabouts and significance of Jesus, as the focus of these verses was undeniably on Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9920758745807627,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+            "commentatorTierSimilarities": [
+                36.76,
+                33.3,
+                29.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people had observed that Jesus had not boarded the boat and crossed over with His disciples. Undeterred by their lack of understanding of how Jesus had crossed over, they embarked on a diligent search for Him, driven by both curiosity and the hope of witnessing more of His miracles and being fed once again. Their expectation of finding Jesus in Capernaum reflected their desire for His reign and their implicit trust in Him to provide for their physical needs.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9249919480381321,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                36.36,
+                31.18,
+                32.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

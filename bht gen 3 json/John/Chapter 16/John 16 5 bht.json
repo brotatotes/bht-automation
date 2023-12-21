@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-21-2023 03:13:04",
+    "verseRef": "John 16:5",
+    "bestBHT": {
+        "bht": "None of the disciples ask Jesus about the nature and advantages of his departure, showing their lack of inquiry and anxiousness to understand. Jesus points out their grief and reprimands them for their attachment to his physical presence. While the world's hatred was directed towards Jesus, his departure would bring it down upon the disciples as his representatives. Although Peter had previously asked about Jesus' destination, none of the disciples ask at this moment. Nonetheless, Jesus comforts them by explaining that going to the Father means being received into heavenly glory and possessing the highest authority, to protect believers.",
+        "wordCount": 100,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.5091989880876113,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+        "commentatorTierSimilarities": [
+            40.79,
+            0.0,
+            59.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "None of you enquires into the NATURE of My departure, so as to appear anxious to know what advantages are to be derived from it.\" ",
+            "You are all given up to grief on account of what I have said."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "While He was with them, the world's hatred was directed chiefly against Himself; but His departure would bring it down upon them as His representatives.",
+            "They had done so in a sort; but He wished more intelligent and eager inquiry on the subject."
+        ],
+        "John Calvin": [
+            "To go to the Father is nothing else than to be received into the heavenly glory, in order to possess the highest authority.",
+            "For to go to the Father is nothing else than to be received into the heavenly glory, in order to possess the highest authority. This is held out to them, therefore, as a solace and remedy of grief, that, though Christ be absent from them in body, yet he will sit at the right hand of the Father, to protect believers by his power.",
+            "Here Christ reproves the apostles for two faults; first, that they were too much attached to the visible presence of his flesh; and, secondly, that, when this had been taken away, they were seized with grief, and did not lift their eyes to a higher region."
+        ],
+        "Archibald T. Robertson": [
+            "And none of you asketh me.\" ",
+            "Adversative use of \u03ba\u03b1=\"and yet\" as in John 1:10.\" ",
+            "Now that they realize that Jesus is going, the thoughts of the disciples turn on themselves and they cease asking the query of Peter (John 13:36)."
+        ],
+        "John Gill": [
+            "These words seem to belong to John 16:4, and to contain a reason why Christ spoke of the trials and afflictions of his disciples now, because he was going away from them to his Father.\" ",
+            "Peter indeed asked the question, John 13:36; but his meaning was, what part of the country he was going to? what private and inaccessible place he was about to betake himself to?",
+            "They ask neither about the place he was going to, nor the way to it, nor the happiness to be enjoyed there."
+        ],
+        "John Wesley": [
+            "None of you asketh me \u2014 Now when it is most seasonable. Peter did ask this before, John 13:36."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite being given up to grief by Jesus' words, the disciples fail to inquire into the nature and advantages of his departure. While Jesus was with them, the world's hatred was directed towards him, but his departure would bring it down upon them as his representatives. He reproves the disciples for being attached to his visible presence and being seized with grief when it is taken away, instead of looking to a higher region. Although Peter had asked about Jesus' destination earlier, none of the disciples ask him now, at the most opportune moment. Nonetheless, Jesus reassures them that going to the Father means being received into heavenly glory and possessing the highest authority, which will serve as a solace and remedy for their grief.",
+            "wordCount": 126,
+            "quoteTokenProportion": 43.02,
+            "qualityScore": 1.5721160058601913,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+            "commentatorTierSimilarities": [
+                39.58,
+                0.0,
+                60.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite their grief over Jesus' departure, the disciples neglect to inquire about the nature and advantages of it. Jesus points out that while he was present, the world's hatred was directed at him, but after his departure, it would fall upon them. He reproves them for their attachment to his physical presence and their failure to look beyond. Though Peter had asked earlier, none of them ask Jesus now. Nevertheless, Jesus offers them comfort by assuring them that going to the Father means being received into heavenly glory and having the highest authority.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.4580607038236155,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+            "commentatorTierSimilarities": [
+                39.41,
+                0.0,
+                60.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite their grief over Jesus' departure, the disciples neglect to inquire into the nature and advantages of it. While Jesus was present, the world's hatred was directed at him, but after his departure, it would fall upon them. Jesus reproves them for their attachment to his physical presence and their failure to look beyond. Although Peter had asked earlier, none of them ask Jesus now. Nevertheless, Jesus assures them that going to the Father means being received into heavenly glory and having the highest authority.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4824533693286235,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.63,
+            "commentatorTierSimilarities": [
+                37.4,
+                0.0,
+                62.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite their grief, the disciples fail to inquire into the nature and advantages of Jesus' departure. Jesus reproves them for their attachment to his physical presence and their failure to look beyond. Although Peter had asked earlier, none of them ask Jesus now. Nevertheless, Jesus assures them that going to the Father means being received into heavenly glory and having the highest authority, providing comfort for their grief.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.4184265428597695,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.51,
+            "commentatorTierSimilarities": [
+                33.78,
+                0.0,
+                66.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "None of the disciples ask Jesus about the nature and advantages of his departure, showing their lack of inquiry and anxiousness to understand. Jesus points out their grief and reprimands them for their attachment to his physical presence. While the world's hatred was directed towards Jesus, his departure would bring it down upon the disciples as his representatives. Although Peter had previously asked about Jesus' destination, none of the disciples ask at this moment. Nonetheless, Jesus comforts them by explaining that going to the Father means being received into heavenly glory and possessing the highest authority, to protect believers.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.5091989880876113,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+            "commentatorTierSimilarities": [
+                40.79,
+                0.0,
+                59.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:15:34",
+    "verseRef": "John 21:1",
+    "bestBHT": {
+        "bht": "After His resurrection, Jesus unexpectedly and occasionally appeared to His disciples in a way quite unearthly but still corporeal. His appearances were not simply to appeal to their senses, but to address their spiritual perception and produce a moral and spiritual effect. He revealed Himself at the Sea of Tiberias, also called the Sea of Galilee, manifesting the law, will, and character of God, as well as His own person and work. These manifestations validated His resurrection and provided supplementary evidence of its truth.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9028680674571032,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+        "commentatorTierSimilarities": [
+            32.41,
+            30.47,
+            37.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "After these things, compare ch. v. 1; vi. 1, at a subsequent time.",
+            "The use of the verb here indicates that the usual state of the Lord at this time was one not of manifestation, but of invisibility to them.",
+            "Probably (as Luthardt) some two not named in the Gospel, and therefore not specified in its appendix."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus showed himself again\u2014manifested himself again.",
+            "This way of speaking shows that after His resurrection He appeared to them but occasionally, unexpectedly, and in a way quite unearthly, though yet really and corporeally."
+        ],
+        "Albert Barnes": [
+            "The sea of Tiberias - Called also the Sea of Galilee, being situated in Galilee.\" ",
+            "Galilee was a retired place where they would be free from danger, and was therefore a safe and convenient situation for Jesus to meet them.\" ",
+            "On this wise - Thus. In this manner."
+        ],
+        "Marvin Vincent": [
+            "The appearing is not merely an appeal to sense, but is addressed to spiritual perception, and contemplates a moral and spiritual effect.",
+            "It is the setting forth of the law or will or character of God; of the person or work of Christ; of the character or deeds of men, with a view to the disclosure of their quality and to the producing of a moral impression.",
+            "The Synoptists say, Sea of Galilee or Lake of Gennesaret."
+        ],
+        "John Calvin": [
+            "The Evangelist still labors to prove the resurrection of Christ.",
+            "His testimony ought to be the more readily believed in proportion to the obstinacy of his unbelief.",
+            "The Evangelist enters sufficiently into detail; for he carefully collects all the circumstances which contribute to prove the truth of the history."
+        ],
+        "Philip Schaff": [
+            "What we have before us, therefore, is not merely the fact that Jesus showed Himself to the disciples, but that He exhibited Himself in a glory which the natural eye could not have discerned.\" ",
+            "It was \u2018at the sea of Tiberias,\u2019 that is, the sea of Galilee, that the manifestation took place.",
+            "Surely such notices on the part of different historians are supplementary, not discordant."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus was only seen during the forty days now and then (Acts 1:3), ten instances being recorded.\" ",
+            "The word \u03c6\u03b1\u03bd\u03b5\u03c1\u03bf\u03c9 is often used of Christ on earth.\" ",
+            "Tiberias, the capital city of Galilee, gave this epithet to the Sea of Galilee."
+        ],
+        "John Gill": [
+            "Jesus showed himself again to the disciples, a third time...\" (33 words)",
+            "...at the sea of Tiberias; the same with the sea of Galilee...\" (19 words)",
+            "...on this way showed he himself; the manner in which he made his appearance, and the persons to whom, are as follow.\" (24 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After these things, the Lord manifested Himself again unexpectedly, occasionally, and in ways quite unearthly to His disciples. This appearance was not merely to appeal to their senses, but to address their spiritual perception and produce a moral and spiritual effect. Jesus showed Himself at the Sea of Tiberias, also known as the Sea of Galilee, revealing His law, will, character, and work. This manifestation took place in a glory that the natural eye could not discern, emphasizing its supernatural nature. The Evangelist emphasizes the details and circumstances surrounding the resurrection, providing supplementary evidence to support the truth of the history.",
+            "wordCount": 101,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 1.8766263450469438,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.74,
+            "commentatorTierSimilarities": [
+                32.07,
+                31.93,
+                36.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After His resurrection, Jesus unexpectedly and occasionally appeared to His disciples in a way quite unearthly but still corporeal. His appearances were not simply to appeal to their senses, but to address their spiritual perception and produce a moral and spiritual effect. He revealed Himself at the Sea of Tiberias, also called the Sea of Galilee, manifesting the law, will, and character of God, as well as His own person and work. These manifestations validated His resurrection and provided supplementary evidence of its truth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9028680674571032,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+            "commentatorTierSimilarities": [
+                32.41,
+                30.47,
+                37.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the resurrection, Jesus manifested Himself again unexpectedly and occasionally to His disciples, addressing their spiritual perception rather than appealing to their senses. He appeared at the Sea of Tiberias, also known as the Sea of Galilee, unveiling the law, will, and character of God, as well as His own person and work. These manifestations, though unearthly, were corporeal, underscoring their supernatural nature. The Evangelist meticulously presents the details and circumstances to support the truth of the resurrection, offering supplementary evidence to validate the historical account.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8163380427833802,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                30.63,
+                32.26,
+                37.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the resurrection, Jesus unexpectedly and occasionally manifested Himself again to His disciples, revealing His glory and addressing their spiritual perception. He appeared at the Sea of Tiberias, also known as the Sea of Galilee, where He exhibited His person and work. This manifestation went beyond the physical realm, aiming to make a moral and spiritual impression. The Evangelist carefully collects details and circumstances, supplementary evidence that supports the truth of the resurrection and validates the historical account.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8982895840340244,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                28.99,
+                33.54,
+                37.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the resurrection, Jesus unexpectedly and occasionally manifested Himself again to His disciples, revealing His glory and addressing their spiritual perception. He appeared at the Sea of Tiberias, also known as the Sea of Galilee, where He exhibited His person and work. This manifestation went beyond the physical realm, aiming to make a moral and spiritual impression. The Evangelist carefully collects details and circumstances to support the truth of the resurrection, offering supplementary evidence that validates the historical account.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.8935547854779373,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                28.57,
+                33.72,
+                37.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

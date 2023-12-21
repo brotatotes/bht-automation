@@ -1,0 +1,149 @@
+{
+    "timestamp": "12-21-2023 03:05:14",
+    "verseRef": "John 3:22",
+    "bestBHT": {
+        "bht": "After conversing with Nicodemus in Jerusalem, Jesus journeyed through the rural parts of Judea, moving from village to village, tarrying and baptizing. Although Jesus did not administer the baptism Himself, but rather His disciples did so under His authority, this act marked the beginning of His public ministry appointed by the Father. As Jesus ministered in the land of Judea, healing and preaching the Gospel, He made an extended stay, embracing the simplicity and plainness of the countryside.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.032133250598444,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+        "commentatorTierSimilarities": [
+            16.15,
+            46.0,
+            37.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sequence is not immediate.",
+            "The rural districts of Jud\u00e6a, in distinction from the metropolis.",
+            "Perhaps He did not remain in one fixed spot."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22-24. land of Judea\u2014the rural",
+            "\tparts of that province, the foregoing conversation being held in the",
+            "\tcapital. ",
+            "\t",
+            "baptized\u2014in the sense",
+            "\texplained in John 4:2."
+        ],
+        "Albert Barnes": [
+            "Land of Judea - The region round about Jerusalem.\" (Commentary on John 3:22)",
+            "And baptized - Jesus did not Himself administer the ordinance of baptism.\" (Commentary on John 3:22)",
+            "but his disciples did it by his direction and authority, John 4:2.\" (Commentary on John 3:22)"
+        ],
+        "Marvin Vincent": [
+            "The land of Judaea. Literally, the Judaean land.",
+            "Tarried. The verb originally means to rub, hence to wear away, consume; and so of spending or passing time.",
+            "Baptized. The imperfect tense agrees with the idea of tarrying. He continued baptizing during His stay."
+        ],
+        "John Calvin": [
+            "Now geographers tell us, that these two towns, Enon and Salim, were not far from the confluence of the river Jordan and the brook Jabbok; and they add that Scythopolis was near them.",
+            "From these words, we may infer that John and Christ administered baptism by plunging the whole body beneath the water.",
+            "For when the Evangelist says that Christ baptized, I refer this to the commencement of his ministry; namely, that he then began to exercise publicly the office which was appointed to him by the Father."
+        ],
+        "Philip Schaff": [
+            "The words of this verse, however (tarried and baptized), show that after leaving Jerusalem Jesus remained for some length of time in the country parts of Judea.\" ",
+            "In no other passage than this is there any mention of the Saviour\u2019s baptizing, and chap. John 4:2 explains that this baptism was only indirectly His. Still, however, it is clear that the baptism was by the authority of Jesus, the disciples acting only as His ministers.",
+            "The baptism of the Spirit was still future (chap. John 7:39). The next verse shows the main design of this section. When Jesus baptized in Judea, He came into direct and necessary comparison with John."
+        ],
+        "Archibald T. Robertson": [
+            "Into the land of Judea (\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u0399\u03bf\u03c5\u03b4\u03b1\u03b9\u03b1\u03bd \u03b3\u03b7\u03bd). Into the country districts outside of Jerusalem.\" ",
+            "He tarried (\u03b4\u03b9\u03b5\u03c4\u03c1\u03b9\u03b2\u03b5\u03bd). Descriptive imperfect active of \u03b4\u03b9\u03b1\u03c4\u03c1\u03b9\u03b2\u03c9, old verb to rub between or hard, to spend time (Acts 14:3).",
+            "Baptized (\u03b5\u03b2\u03b1\u03c0\u03c4\u03b9\u03b6\u03b5\u03bd). Imperfect active of \u03b2\u03b1\u03c0\u03c4\u03b9\u03b6\u03c9. 'He was baptizing.'"
+        ],
+        "John Gill": [
+            "And baptized; not he himself, but his disciples, by his orders, and in his name;",
+            "...he made a longer stay here than at Jerusalem, having more work to do here, and being more delighted with the plainness and simplicity of the country people",
+            "he exercised, and employed himself among them, as the Greek word used signifies: he went about from village to village, doing good, healing diseases, and preaching the Gospel which was made useful to many"
+        ],
+        "John Wesley": [
+            "Jesus went...into the land of Judea - That is, into the country.",
+            "There he baptized...his disciples by his order.",
+            "Not himself; but his disciples by his order, John 4:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After His conversation with Nicodemus in Jerusalem, Jesus traveled throughout the rural parts of Judea. He did not stay in one fixed spot, but rather moved from village to village, tarrying and baptizing. The baptism mentioned here was not administered by Jesus Himself, but by His disciples under His authority. This baptism was the beginning of Jesus publicly exercising the ministry appointed to Him by the Father. While Jesus' baptism foreshadowed the future baptism of the Spirit, this section also highlights the necessary comparison between Jesus and John the Baptist. Jesus made an extended stay in the land of Judea, ministering to the people and bringing healing, all while enjoying the simplicity and plainness of the country people.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.9784211177298205,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                15.44,
+                48.09,
+                36.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After conversing with Nicodemus in Jerusalem, Jesus journeyed through the rural parts of Judea, moving from village to village, tarrying and baptizing. Although Jesus did not administer the baptism Himself, but rather His disciples did so under His authority, this act marked the beginning of His public ministry appointed by the Father. As Jesus ministered in the land of Judea, healing and preaching the Gospel, He made an extended stay, embracing the simplicity and plainness of the countryside.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.032133250598444,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                16.15,
+                46.0,
+                37.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Following His conversation with Nicodemus, Jesus traveled through the rural parts of Judea, tarrying and baptizing. Although He did not stay in one fixed spot, He made an extended stay in the land of Judea, ministering to the people and bringing healing. While Jesus Himself did not administer the baptism, it was done under His authority by His disciples. This baptism marked the beginning of Jesus' public ministry, appointed by the Father. With a focus on the simplicity and plainness of the countryside, Jesus moved from village to village, doing good and preaching the Gospel.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9407254663398228,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                16.04,
+                45.93,
+                38.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After conversing with Nicodemus in Jerusalem, Jesus journeyed through the rural parts of Judea, moving from village to village, tarrying and baptizing. Although Jesus did not administer the baptism Himself, but rather His disciples did so under His authority, this act marked the beginning of His public ministry appointed by the Father. As Jesus ministered in the land of Judea, healing and preaching the Gospel, He made an extended stay, embracing the simplicity and plainness of the countryside.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.032133250598444,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.91,
+            "commentatorTierSimilarities": [
+                16.15,
+                46.0,
+                37.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Following His conversation with Nicodemus in Jerusalem, Jesus traveled through the rural parts of Judea. He tarryed and baptized, with His disciples carrying out the baptism under His authority. This baptism marked the beginning of His public ministry, appointed by the Father. As Jesus ministered in the land of Judea, He made an extended stay, embracing the simplicity and plainness of the countryside while bringing healing and preaching the Gospel.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.000929988838863,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                15.95,
+                45.91,
+                38.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

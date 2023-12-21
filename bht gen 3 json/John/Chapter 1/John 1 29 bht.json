@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:04:16",
+    "verseRef": "John 1:29",
+    "bestBHT": {
+        "bht": "Calling Jesus the Lamb of God points to a definite lamb, revealed and sent by God for a specific purpose. This sacrificial lamb is pleasing to God and holds the power to take away the sin of the world. The lamb's connection to the Passover and the bearing of sin is significant, offering relief to burdened sinners. This Lamb of God is not limited to a particular group, but encompasses all of humanity. Through his sacrificial act, he reconciles mankind to God and brings about forgiveness.",
+        "wordCount": 87,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.3531303534185746,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.58,
+        "commentatorTierSimilarities": [
+            33.85,
+            31.1,
+            35.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The question to be answered is, In calling Jesus by so definite a name as the Lamb of God, to what did John refer? And this question is intimately connected with that of the meaning of the following words, which taketh away the sin of the world.",
+            "The common sense account of this part of the matter is:\u2014John wished to point out Jesus as the Messiah: he designates Him as the lamb of God; he therefore referred to some definite lamb,\u2014revealed by God, sent by God, pleasing to God, or in some meaning especially, of God.",
+            "The whole of that latter section of Isaiah, as before remarked on ver. 23, is Messianic, and was so understood by the Jews...So that here, and here only, we have the connexion of which we are in search,\u2014between the lamb, and the bearing or taking away of sin,\u2014expressly stated, so that it could be formally referred to in a testimony like the present."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the Lamb of God\u2014the one God-ordained, God-gifted sacrificial offering.\" ",
+            "Applied to sin, it means to be chargeable with the guilt of it and to bear it away.\" ",
+            "Wherever there shall live a sinner throughout the wide world, sinking under that burden too heavy for him to bear, he shall find in this 'Lamb of God,' a shoulder equal to the weight."
+        ],
+        "Albert Barnes": [
+            "A 'lamb,' among the Jews, was killed and eaten at the Passover... The Messiah was predicted as a lamb led to the slaughter, to show his patience in his sufferings, and readiness to die for man.",
+            "Jesus was called 'the Lamb'... he was a sacrifice for sin... he was what was represented by the Passover, turning away the anger of God, and saving sinners by his blood from vengeance and eternal death.",
+            "He takes away sin by 'bearing' in his own body the sufferings which God appointed to show his sense of the evil of sin, thus magnifying the law, and rendering it consistent for him to pardon."
+        ],
+        "John Calvin": [
+            "The principal office of Christ is briefly but clearly stated; that he takes away the sins of the world by the sacrifice of his death, and reconciles men to God.",
+            "He [John the Baptist] corrects this fault in passing, by reminding them of the object to which all the sacrifices were directed. [Christ] is the Lamb of God; by which he means that all the sacrifices...had no power whatever to atone for sins, but that they were only figures, the truth of which was manifested in Christ himself.",
+            "Nor do I dislike the remark of Chrysostom, that the verb in the present tense \u2014 \u1f41 \u03b1\u1f34\u03c1\u03c9\u03bd, who taketh away, denotes a continued act; for the satisfaction which Christ once made is always in full vigor."
+        ],
+        "Philip Schaff": [
+            "Then He stood unknown, unrecognised, amidst the throng; now He is expressly pointed out by His forerunner.",
+            "A much more difficult question remains: What is the Baptist\u2019s meaning when he speaks of \u2018the Lamb of God'?",
+            "It is the world\u2019s Passover, both the sacrifice and the feast, that John sees to be at hand."
+        ],
+        "Archibald T. Robertson": [
+            "Behold the Lamb of God (\u03b9\u03b4\u03b5 \u03bf \u03b1\u03bc\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Exclamation \u03b9\u03b4\u03b5 like \u03b9\u03b4\u03bf\u03c5, not verb, and so nominative \u03b1\u03bc\u03bd\u03bf\u03c2.\" ",
+            "But was it not possible for John, the Forerunner of the Messiah, to have a prophetic insight concerning the Messiah as the Paschal Lamb, already in John 1:53, even if the rabbis did not see it there?",
+            "He is the Lamb of God for the world, not just for Jews."
+        ],
+        "John Gill": [
+            "Behold the Lamb of God, which taketh away the sin of the world.\" ",
+            "This must be a great relief to minds afflicted with the continual ebullitions of sin, which is taken away by the Lamb of God, as fast as it rises.\" ",
+            "For taking it upon himself, he bore it in his own body on the tree, and carried it away, as the scape goat did under the law; and so likewise a taking it quite away: Christ has removed it as far as the east is from the west, out of sight, so as never to be seen any more."
+        ],
+        "John Wesley": [
+            "Behold the Lamb \u2014 Innocent; to be offered up; prophesied of by Isaiah, Isaiah 53:7, typified by the paschal lamb, and by the daily sacrifice...\" ",
+            "The Lamb of God - Whom God gave, approves, accepts of; who taketh away - Atoneth for; the sin - That is, all the sins...\" ",
+            "of the world - Of all mankind. Sin and the world are of equal extent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In calling Jesus the Lamb of God, John referred to a definite lamb, revealed and sent by God. This lamb is pleasing to God and is the one sacrificial offering ordained by God. Applied to sin, the lamb bears the guilt of it and takes it away. The lamb's significance as the Passover lamb is seen in the prophetic connection between the lamb and the bearing or taking away of sin. This Lamb of God is for the world, not just for Jews. As sinners burdened by the weight of our sins, we can find in this Lamb a shoulder equal to the weight. Jesus, the Lamb, takes away sin by bearing the sufferings appointed by God and exemplifies patience in his own sufferings. Look, here is the Lamb of God, he who turns away God's anger and saves sinners by his blood.",
+            "wordCount": 145,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.4744500608388798,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.62,
+            "commentatorTierSimilarities": [
+                35.2,
+                31.16,
+                33.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In calling Jesus the Lamb of God, John refers to a definite lamb designated by God, sent as a sacrificial offering to take away the sin of the world. The Lamb is intimately connected to the Passover lamb, symbolizing his patience in suffering and readiness to die for humanity. As Jesus takes on the weight of our sins, he bears them away, offering relief to burdened souls. This Lamb of God is not limited to a specific group but extends his atoning power to all mankind, reconciling them to God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.4497110815121292,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.79,
+            "commentatorTierSimilarities": [
+                34.36,
+                32.26,
+                33.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John's reference to Jesus as the Lamb of God points to a specific lamb, pleasing and ordained by God. This lamb bears the guilt of sin and takes it away. The prophetic connection between the lamb and the bearing or taking away of sin is seen in the Passover symbolism. As sinners burdened by the weight of our sins, we find in this Lamb a shoulder equal to the weight. Jesus, the Lamb, takes away sin by bearing the appointed sufferings, exemplifying patience in his own sufferings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.362794594611275,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.9,
+            "commentatorTierSimilarities": [
+                34.04,
+                31.62,
+                34.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Calling Jesus the Lamb of God points to a definite lamb, revealed and sent by God for a specific purpose. This sacrificial lamb is pleasing to God and holds the power to take away the sin of the world. The lamb's connection to the Passover and the bearing of sin is significant, offering relief to burdened sinners. This Lamb of God is not limited to a particular group, but encompasses all of humanity. Through his sacrificial act, he reconciles mankind to God and brings about forgiveness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.3531303534185746,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.58,
+            "commentatorTierSimilarities": [
+                33.85,
+                31.1,
+                35.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John identifies Jesus as the Lamb of God, referring to a specific lamb ordained by God for the world. This sacrificial lamb is sent by God, pleasing to Him, and capable of taking away the sin of the world. The connection between the lamb and the removal of sin is exemplified in the Passover lamb and the fulfillment of Messianic prophecies. The Lamb of God bears the guilt of sin and offers relief to sinners burdened by its weight, extending his grace to all mankind.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.5538308239035494,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.25,
+            "commentatorTierSimilarities": [
+                34.28,
+                31.2,
+                34.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

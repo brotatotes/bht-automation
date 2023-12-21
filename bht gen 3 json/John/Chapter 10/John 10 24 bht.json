@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:10:02",
+    "verseRef": "John 10:24",
+    "bestBHT": {
+        "bht": "The Jews in this incident wanted Jesus to speak plainly and openly about whether he was the expected Messiah. Their motives were fueled by doubt and the attempt to provoke Jesus. They were resistant to the evidence that had already been presented, and instead of accepting it, they sought to create uncertainty and suspense. Despite the pressure, Jesus saw through their intentions and refused to be caught in their trap, knowing their true thoughts and remaining resolute in his mission.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.6031311563435646,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+        "commentatorTierSimilarities": [
+            33.74,
+            40.31,
+            25.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "hold us in suspense\" (Margin).",
+            "But when the plainest evidence of it was resisted, what weight could a mere assertion of it have?",
+            "When the plainest evidence of it was resisted, what weight could a mere assertion of it have?"
+        ],
+        "Albert Barnes": [
+            "Tell us plainly - The Messiah was predicted as a shepherd.",
+            "They alleged that he was from Galilee, and that the Messiah could not come from thence.",
+            "He came contrary to the common expectation. A splendid prince and conqueror had been expected."
+        ],
+        "Marvin Vincent": [
+            "Make us to doubt...excite us and inflame our hopes.\" ",
+            "Rev., hold us in suspense.\" ",
+            "Plainly [\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1]."
+        ],
+        "John Calvin": [
+            "For the common people might, without any fraud, desire that Christ would openly declare that God had sent him to be a deliverer.",
+            "Those who come to Christ ought to be prepared in the same manner as those men pretend to be.",
+            "This history warns us, that we cannot avoid the artifices and slanders of wicked men, if we are called to preach the Gospel."
+        ],
+        "Philip Schaff": [
+            "How long dost thou take away our life?... They were stirring up their enmity against Him to a pitch which was to lead them to take away His life; and by their words they confess that He is taking away theirs.\" ",
+            "It is not meant, in what has now been said, to assert that the Jews actually intended to express this, but only that John sees it in the language which they use.\" ",
+            "Put an end to this by speaking plainly, or (more literally) by speaking out, telling all Thou hast to tell."
+        ],
+        "Archibald T. Robertson": [
+            "The hostile Jews cherished the memory of the stinging rebuke given them by Jesus when here last, particularly the allegory of the Good Shepherd.",
+            "Clearly the Jews mean to imply doubt and suspense.",
+            "Jesus knew their minds too well to be caught now."
+        ],
+        "John Gill": [
+            "How long dost thou make us doubt?...how long dost thou take away our soul?\" ",
+            "Wherefore dost thou steal away our minds with words?\" ",
+            "If thou be the Christ, tell us plainly; freely, boldly, openly, in express words."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews in John 10:24 challenge Jesus to speak plainly about whether or not he is the Messiah. They are trying to stir up doubt and suspense, hoping to catch Jesus in his words. However, Jesus knows their intentions and he refuses to be caught in their trap. The Jews are resistant to the plainest evidence of Jesus' identity, and their desire for a clear declaration from him comes from a place of skepticism rather than genuine curiosity. They want Jesus to confirm their preconceived notions of a grand conqueror, but Jesus came as the humble Good Shepherd. Jesus sees through their intentions and refuses to engage in their game of doubt, remaining steadfast in his mission.",
+            "wordCount": 116,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.689550859274952,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.52,
+            "commentatorTierSimilarities": [
+                30.94,
+                36.84,
+                32.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews in this passage are attempting to make Jesus doubt and suspend his teachings by challenging him to speak plainly about his identity. However, Jesus sees through their skepticism and refuses to be caught in their trap. The Jews wanted Jesus to conform to their expectations of a grand conqueror, but Jesus came as the humble Good Shepherd. Despite their attempts to incite doubt, Jesus remains steadfast in his mission and refuses to engage in their game.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.6021874322073797,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                28.2,
+                37.76,
+                34.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews in this encounter aim to cast doubt and suspense on Jesus' teachings by demanding a clear declaration of his identity. However, Jesus sees through their skepticism and refuses to be ensnared. Their desire for a plain assertion stems from their resistance to the undeniable evidence before them. Moreover, they hope to trap Jesus with their words, but he maintains a deep understanding of their intentions and remains unwavering in his mission.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5504086259895802,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "commentatorTierSimilarities": [
+                33.42,
+                33.62,
+                32.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews in this incident wanted Jesus to speak plainly and openly about whether he was the expected Messiah. Their motives were fueled by doubt and the attempt to provoke Jesus. They were resistant to the evidence that had already been presented, and instead of accepting it, they sought to create uncertainty and suspense. Despite the pressure, Jesus saw through their intentions and refused to be caught in their trap, knowing their true thoughts and remaining resolute in his mission.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6031311563435646,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                33.74,
+                40.31,
+                25.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews in this interaction with Jesus desired a clear and straightforward declaration from him regarding his identity as the Messiah. Their intention was to create doubt and suspense, hoping to incite Jesus and fuel their hopes. However, Jesus, perceiving their motives, knew not to be caught in their trap or give them the satisfaction they sought. He understood their resistance to the evidence presented and remained steadfast in his mission, avoiding the game of doubt they wished to engage in.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.5685929115944401,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+            "commentatorTierSimilarities": [
+                32.72,
+                40.19,
+                27.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

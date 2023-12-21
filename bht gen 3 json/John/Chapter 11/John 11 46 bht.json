@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:10:47",
+    "verseRef": "John 11:46",
+    "bestBHT": {
+        "bht": "Upon hearing about the resurrection of Lazarus, some of those who believed in Jesus brought the news to the Pharisees, who were already hostile towards Him. This act of hostility was intended to put them on schemes to destroy Jesus. Although the resurrection of Lazarus should have softened their hearts, it hardened them, filling them with malice and envy towards Christ. This serves as a reminder that miracles and the Gospel can either lead to life or death, and those who reject sound doctrine will remain unpersuaded even if one rose from the dead.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.7,
+        "qualityScore": 1.6988194209094831,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+        "commentatorTierSimilarities": [
+            26.2,
+            30.87,
+            42.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must take care rightly to understand this.",
+            "This Evangelist is very simple, and at the same time very consistent, in his use of particles.",
+            "If it seem strange that this hostile step should he taken by persons who believed on Jesus, we at least find in the passage above cited."
+        ],
+        "Albert Barnes": [
+            "We see here the different effect which the word and works of God will have on different individuals.",
+            "Some are converted and others are hardened; yet the evidence of this miracle was as clear to the one as the other.",
+            "But they would not be convinced."
+        ],
+        "Marvin Vincent": [
+            "Some of them. Not of the Jews who had come to Mary, but some of the Jews, some perhaps who had joined the crowd from curiosity."
+        ],
+        "John Calvin": [
+            "The resurrection of Lazarus ought undoubtedly to have softened even hearts of stone; but there is no work of God which impiety will not infect and corrupt by the bitterness of its poison.",
+            "Before men can profit by miracles, their hearts must be purified; for they who have no fear of God, and no reverence for him, though they saw heaven and earth mingled, will never cease to reject sound doctrine through obstinate ingratitude.",
+            "Thus you will see in the present day many enemies of the Gospel, like fanatics, fighting with the open and visible hand of God."
+        ],
+        "Philip Schaff": [
+            "It is impossible, we think, that what is here related can have been done with friendly motives, or from a mere sense of duty to men whose office made them spiritual guides of the people.",
+            "The analogy of many passages in which John similarly records diverging opinions makes it plain that the giving of this information to the Pharisees was an act of hostility to Jesus.",
+            "At this period of our Lord\u2019s history the Pharisees have as a body declared against Him; to this large and powerful sect, therefore, the news of the event is brought."
+        ],
+        "Archibald T. Robertson": [
+            "This 'some' (\u03c4\u03b9\u03bd\u03b5\u03c2) did who were deeply impressed and yet who did not have the courage to break away from the rabbis without consulting them.",
+            "It was a crisis for the Sanhedrin.",
+            "It was a crisis for the Sanhedrin."
+        ],
+        "John Gill": [
+            "So far were some of them from receiving any advantage by this miracle, that they were the more hardened, and filled with malice and envy to Christ.",
+            "Not to soften their minds, and bring them to entertain a good opinion of him, but to irritate them, and put them upon schemes to destroy him.",
+            "Thus even miracles, as well as the doctrines of the Gospel, are to some the savour of death unto death, whilst to others the savour of life unto life."
+        ],
+        "John Wesley": [
+            "What a dreadful confirmation of that weighty truth...",
+            "If they hear not Moses and the prophets, neither will they be persuaded though one rose from the dead!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some of those who believed in Jesus went and reported to the religious leaders about the resurrection of Lazarus, which was a crisis for the Sanhedrin. The information was brought to the Pharisees, who had already declared against Jesus. This act of hostility was not done with friendly motives, but rather to put them on schemes to destroy Him. It is astonishing that even the resurrection of Lazarus did not soften their hearts, but rather hardened them and filled them with malice and envy towards Christ. Miracles, like the doctrines of the Gospel, can be the savour of death unto death or the savour of life unto life. As some reject sound doctrine through obstinate ingratitude, they will not be persuaded even if one rose from the dead.",
+            "wordCount": 128,
+            "quoteTokenProportion": 49.43,
+            "qualityScore": 1.6629179054349206,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                27.42,
+                31.16,
+                41.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some who believed in Jesus reported the resurrection of Lazarus, causing a crisis for the Sanhedrin. The Pharisees, already against Jesus, received this information with hostility, seeking to destroy Him. Even though the resurrection of Lazarus should have softened their hearts, it hardened them, filling them with malice and envy towards Christ. This confirms the weighty truth that miracles and the Gospel can be either the savour of life unto life or the savour of death unto death. Those who reject sound doctrine will not be persuaded, even if one rose from the dead.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.6667382832590998,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                26.6,
+                28.98,
+                44.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon hearing about the resurrection of Lazarus, some of those who believed in Jesus brought the news to the Pharisees, who were already hostile towards Him. This act of hostility was intended to put them on schemes to destroy Jesus. Although the resurrection of Lazarus should have softened their hearts, it hardened them, filling them with malice and envy towards Christ. This serves as a reminder that miracles and the Gospel can either lead to life or death, and those who reject sound doctrine will remain unpersuaded even if one rose from the dead.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 1.6988194209094831,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                26.2,
+                30.87,
+                42.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the resurrection of Lazarus, certain individuals who believed in Jesus reported the event to the Pharisees, who were already against Him. This hostile act aimed to incite schemes to destroy Jesus. Surprisingly, instead of softening their hearts, the resurrection hardened them, fueling malice and envy towards Christ. This highlights the profound truth that miracles and the Gospel can be received either as a life-giving fragrance or a death-inducing stench. Those who reject sound doctrine show an unyielding resistance, remaining unpersuaded even if someone were to rise from the dead.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.5865643466576964,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                23.5,
+                32.72,
+                43.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the resurrection of Lazarus, some who believed in Jesus brought this news to the Pharisees, who were already hostile towards Him. This act of hostility aimed to scheme and destroy Jesus. Shockingly, instead of softening their hearts, the resurrection hardened them, filling them with malice and envy towards Christ. This serves as a stark reminder that miracles and the Gospel can either be a fragrance of life or a stench of death. Even if someone were to rise from the dead, those who reject sound doctrine would remain unpersuaded.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.5416994230583385,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.6,
+            "commentatorTierSimilarities": [
+                24.29,
+                30.93,
+                44.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

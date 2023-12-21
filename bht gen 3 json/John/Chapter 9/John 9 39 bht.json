@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:09:50",
+    "verseRef": "John 9:39",
+    "bestBHT": {
+        "bht": "The blind man's recovery of sight, both physically and spiritually, serves as a symbolic representation of the innate blindness that all of humanity shares. Jesus came into the world to bring sight and understanding to those who are blind, but those who reject Him will remain in darkness and unbelief. His presence in the world creates a division, separating those who believe from those who do not. This division leads to judgment, as those who deliberately shut their eyes to the truth are rendered even more blind.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.1925358265235237,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.24,
+        "commentatorTierSimilarities": [
+            32.19,
+            26.88,
+            40.93
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The blind man had recovered sight in two senses,\u2014bodily and spiritual.",
+            "We are all, according to the spirit of nature, no better than persons born blind; and to know and confess this our blindness, is our first and only true sight.",
+            "The 'becoming blind,' on the other hand, is partly an ironical expression for remaining blind, but partly also has a real meaning in the increasing darkening and hardening which takes place through unbelief."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that they which see not might see, &c.\u2014rising to that sight of which the natural vision communicated to the youth was but the symbol.",
+            "that they which see might be made blind\u2014judicially incapable of apprehending and receiving the truth, to which they have wilfully shut their eyes.",
+            "the natural vision communicated to the youth was but the symbol."
+        ],
+        "Albert Barnes": [
+            "I came to declare the condition of men; to show them their duty and danger. My coming will have this effect, that some will be reformed and saved, and some more deeply condemned.",
+            "He came to declare the truth, and the effect would be, etc.",
+            "Where [truth] does not soften it hardens the heart; where it does not convert, it sinks into deeper blindness and condemnation."
+        ],
+        "Marvin Vincent": [
+            "His very presence in the world constitutes a separation, which is the primitive idea of judgment, between those who believe on Him and those who reject Him.",
+            "His very presence in the world constitutes a separation.",
+            "His very presence in the world... between those who believe on Him and those who reject Him."
+        ],
+        "John Calvin": [
+            "But again it may be asked, Since all are universally accused of blindness, who are they that see? I reply, this is spoken ironically by way of concession, because unbelievers, though they are blind, think that their sight is uncommonly acute and powerful; and elated by this confidence, they do not deign to listen to God.",
+            "For hypocrites do not so obstinately resist God before Christ shines; but as soon as the light is brought near them, then do they, in open war, and \u2014 as it were, with unfurled banner, \u2014 rise up against God.",
+            "Adam lived, and was endued with the true light of understanding, while he lost that divine blessing by desiring to see more than was allowed him. Now if, while we are plunged in blindness and thus humbled by the Lord, we still flatter ourselves in our darkness, and oppose our mad views to heavenly wisdom, we need not wonder if the vengeance of God fall heavily upon us, so that we are rendered doubly blind."
+        ],
+        "Philip Schaff": [
+            "He does not say that He came in order to judge, but that the necessary effect of His coming into this world, a world alienated from God, will be a judgment.",
+            "Knowledge which has priceless value for pointing the way to Christ becomes accursed if put in His place as an object of trust.",
+            "Thus both classes have a part in the \u2018judgment:\u2019 the one by appropriating as just the judgment of Jesus on their blindness apart from Him; the other by deliberately shutting their eyes to the true light."
+        ],
+        "Archibald T. Robertson": [
+            "For judgement (\u03b5\u03b9\u03c2 \u03ba\u03c1\u03b9\u03bc\u03b1). The Father had sent the Son for this purpose...",
+            "The \u03ba\u03c1\u03b9\u03bc\u03b1 (judgment), a word nowhere else in John, is the result of the \u03ba\u03c1\u03b9\u03c3\u03b9\u03c2 (sifting) from \u03ba\u03c1\u03b9\u03bd\u03c9, to separate.",
+            "Blind guides they were (Matthew 23:16). Complacent satisfaction with their dim light."
+        ],
+        "John Gill": [
+            "I am come into this world... for the judgment of the world I am come.\" ",
+            "Christ came as a light into the world, that those who are in the darkness of sin, ignorance, and unbelief... might see what they are by nature, what need they stand in of him.",
+            "Such different effects Christ and his Gospel have, as to illuminate and soften some, and blind and harden others."
+        ],
+        "John Wesley": [
+            "For judgment am I come into the world... by the just judgment of God, while the blind in body and soul receive their sight, they who boast they see, will be given up to still greater blindness than before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the healing of the blind man in John 9:39, we see a dual restoration: his physical sight and his spiritual understanding. This blind man serves as a representation of all humanity, born spiritually blind. Truly seeing our own blindness is the first step towards true sight, and this is why Jesus came into the world. However, those who reject Him and choose to remain blind will be further blinded and hardened in their unbelief. Jesus' presence in the world serves as a division between those who believe in Him and those who reject Him, and His coming brings judgment to those who refuse to see the truth. The judgment is the result of a sifting and separation, and those who persist in their blindness will be given up to even greater darkness.",
+            "wordCount": 132,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.2822657648864295,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.23,
+            "commentatorTierSimilarities": [
+                30.86,
+                28.36,
+                40.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The blind man's restoration of both physical and spiritual sight mirrors the inherent blindness of humanity. Recognizing our own blindness is crucial for gaining true vision. Jesus came into the world to bring sight to the spiritually blind, but those who reject Him will remain blinded and hardened in their unbelief. His presence acts as a dividing line between believers and non-believers, with judgment resulting from this separation. Those who persist in their blindness will sink into even greater darkness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.126693742788267,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                31.91,
+                27.08,
+                41.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blind man's recovery of sight, both physically and spiritually, serves as a symbolic representation of the innate blindness that all of humanity shares. Jesus came into the world to bring sight and understanding to those who are blind, but those who reject Him will remain in darkness and unbelief. His presence in the world creates a division, separating those who believe from those who do not. This division leads to judgment, as those who deliberately shut their eyes to the truth are rendered even more blind.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.1925358265235237,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.24,
+            "commentatorTierSimilarities": [
+                32.19,
+                26.88,
+                40.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blind man's restoration of sight, both physically and spiritually, demonstrates our universal blindness and the need to recognize it as our true sight. Jesus came into the world to illuminate the truth, but those who reject Him will sink into deeper darkness through unbelief. His presence acts as a division between those who believe and those who reject, resulting in a judgment that separates and sifts. Those who remain blind by shutting their eyes will be rendered incapable of apprehending the truth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.1866997627732676,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                30.79,
+                30.44,
+                38.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blind man's restoration of both physical and spiritual sight serves as a reminder of the universal blindness that we all possess. It is essential to acknowledge and confess our spiritual blindness to truly see. Jesus came to bring sight to those who are blind, yet those who reject Him will further darken and harden in unbelief. His presence in the world represents a separation between believers and non-believers, resulting in judgment. Those who deliberately close their eyes to the truth will be judicially incapable of perceiving it.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1704808126170736,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.51,
+            "commentatorTierSimilarities": [
+                31.21,
+                29.55,
+                39.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:13:56",
+    "verseRef": "John 17:12",
+    "bestBHT": {
+        "bht": "Comparing His keeping of the disciples to the Father's, Jesus highlights their equal power. He faithfully preserved and guarded them, acting as the Father's representative on Earth. While none were lost except Judas, the son of perdition, who was doomed to destruction, Jesus affirmed His commitment to protect them. Now, Jesus prays for the Father to continue keeping the disciples. This showcases Jesus' unwavering dedication to safeguarding His own and fulfilling His promises.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.7742988294220208,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+        "commentatorTierSimilarities": [
+            33.25,
+            29.7,
+            37.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord here, as Cyril remarks, compares His keeping of His own, to that by the Father,\u2014in a way only accountable by both Persons being of equal Power and Dignity.",
+            "So that Judas was one of the number which were given to Christ by the Father, mentioned in ver. 9.",
+            "Remark, it is not 'I lost none, but the son of perdition.'\u2014Christ did not lose him... but he lost himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I kept\u2014guarded them in thy name\u2014acting as Thy Representative on earth.\" ",
+            "None of them is lost, but the son of perdition\u2014It is not implied here that the son of perdition was one of those whom the Father had given to the Son, but rather the contrary.",
+            "Son of perdition\u2014doomed to it."
+        ],
+        "Albert Barnes": [
+            "While I was with them in the world - While I was engaged with them among other men - surrounded by the people and the temptations of the world.",
+            "I kept them - By my example, instructions, and miracles. I preserved them from apostasy.",
+            "That the scripture ... - See the notes at John 13:18. Compare Psa 12:9."
+        ],
+        "Marvin Vincent": [
+            "I kept them, now do Thou keep them.",
+            "The former word means, I preserved them; the latter, I guarded them as a means to their preservation.",
+            "None of them perished, but the son of perishing."
+        ],
+        "John Calvin": [
+            "Now he bids the disciples, as soon as they have begun to be deprived of the external aid, to raise their eyes direct towards heaven.",
+            "What thou didst commit to me I have faithfully executed, and I took care that nothing was lost in my hands; and when thou now receivest what thou hadst intrusted to me, it belongs to thee to see that it continue to be safe and sound.",
+            "This is a highly useful admonition, and admits of extensive application. For how comes it that in our own day, the greater part of men give way on account of offences, but because they do not remember the testimonies of Scripture, by which God has abundantly fortified his people, having foretold early all the evils and distresses which would come before their eyes?"
+        ],
+        "Philip Schaff": [
+            "It is out of the fulness of His heart that Jesus continues to speak.",
+            "The word \u2018I\u2019 is very emphatic, \u2018I kept them: now do Thou.\u2019",
+            "The wonderful fact itself, when rightly viewed, affords evidence that He has fulfilled His promise that He will keep His own."
+        ],
+        "Archibald T. Robertson": [
+            "I kept (\u03b5\u03c4\u03b7\u03c1\u03bf\u03c5\u03bd). Imperfect active of \u03c4\u03b7\u03c1\u03b5\u03c9, 'I continued to keep.'",
+            "But the son of perdition (\u03b5 \u03bc\u03b7 \u03bf \u03c5\u03b9\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03c0\u03c9\u03bb\u03b5\u03b9\u03b1\u03c2). The very phrase for antichrist (2 Thessalonians 2:3).",
+            "The Scripture referred to is probably Psalms 41:9 quoted in John 13:18 with the same formula \u03b9\u03bd\u03b1 \u03c0\u03bb\u03b7\u03c1\u03c9\u03b8\u03b7 which see there."
+        ],
+        "John Gill": [
+            "I kept them in thy name; by his Father's authority and power, in his doctrine.",
+            "I have kept; that is, those that were given him to be his apostles; and none of them is lost.",
+            "But the son of perdition; Judas, a child of Satan, whose name is Apollyon the destroyer, who was now about to betray his Lord and master; and was one that was appointed to eternal ruin and destruction."
+        ],
+        "John Wesley": [
+            "Those whom thou hast given me I have guarded, and none of them is lost, but the son of perdition.\" ",
+            "So far was even that decree from being unchangeable!",
+            "The son of perdition signifies one that deservedly perishes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 17:12, Jesus compares His keeping of His disciples to that of the Father, emphasizing their equal power and dignity. While Jesus Acted as the Father's representative on earth, He preserved and guarded the disciples in the Father's name. When Jesus says, None of them is lost, but the son of perdition, He is not implying that Judas was one of the disciples given to Him by the Father. Rather, Judas, as the son of perdition, was doomed to destruction. Jesus faithfully kept and guarded His disciples, and now prays for the Father to continue keeping them. This verse shows how Jesus fulfilled His promise to protect His own and affirms the certainty with which He fulfills His promises.",
+            "wordCount": 121,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.8977207197372388,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                34.39,
+                27.48,
+                38.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In comparing His keeping of His disciples to that of the Father, Jesus demonstrates their equal power and dignity. Acting as the Father's representative, Jesus preserved and guarded the disciples in the Father's name. While none were lost, except the son of perdition (Judas), who was doomed to destruction, Jesus faithfully kept them. In prayer, Jesus asks the Father to continue keeping the disciples. This verse reveals how Jesus fulfilled His promise and affirms His unwavering commitment to protecting His own.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.84962766391644,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                33.47,
+                30.58,
+                35.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Comparing His keeping of the disciples to that of the Father, Jesus illustrates their equal power and dignity. Keeping them in the Father's name, Jesus preserved and guarded the disciples. While none were lost, except Judas, the son of perdition, who was doomed to destruction, Jesus faithfully fulfilled His promise of protection. Now, He prays for the Father to continue keeping them. This verse highlights Jesus' unwavering commitment to safeguarding His own and affirms His faithfulness in fulfilling His promises.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8335749966766373,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                32.93,
+                30.55,
+                36.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, Jesus compares His keeping of the disciples to that of the Father, emphasizing their equal power and dignity. He faithfully preserved and guarded them in the Father's name, with the exception of Judas, the son of perdition. Jesus fulfilled His promise to protect His own, and now prays for the Father to continue keeping them. This verse demonstrates Jesus' unwavering commitment to safeguarding His disciples and affirms His faithfulness in fulfilling His promises.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8925854898080545,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                32.55,
+                31.83,
+                35.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Comparing His keeping of the disciples to the Father's, Jesus highlights their equal power. He faithfully preserved and guarded them, acting as the Father's representative on Earth. While none were lost except Judas, the son of perdition, who was doomed to destruction, Jesus affirmed His commitment to protect them. Now, Jesus prays for the Father to continue keeping the disciples. This showcases Jesus' unwavering dedication to safeguarding His own and fulfilling His promises.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7742988294220208,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                33.25,
+                29.7,
+                37.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

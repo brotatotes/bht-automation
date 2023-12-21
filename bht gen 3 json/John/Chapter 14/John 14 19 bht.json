@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:12:38",
+    "verseRef": "John 14:19",
+    "bestBHT": {
+        "bht": "Because Christ is the principle of Life, his disciples shall also have life, not just a physical existence, but a life filled with the Spirit, here and hereafter. The presence of the Spirit makes Christ's presence more blissful and effective than his bodily presence was before. His death and resurrection were mere shadows compared to his divine, unextinguishable life. By abiding in him, we are connected to this life and suffer for his name's sake. As his disciples, we behold him by faith, and because he lives, we too shall live eternally.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 2.2395851707519965,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.81,
+        "commentatorTierSimilarities": [
+            33.67,
+            31.63,
+            34.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I live, not 'I shall live'\u2014the principle of Life being immanent in Him.",
+            "ye shall live, live in all fulness, including the most blessed sense of life\u2014the Life of the Spirit\u2014here and hereafter.",
+            "leading on to its wider and deeper reference to the spiritual life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By the coming of the Spirit, the presence of Christ was not only continued to His spiritually enlightened disciples, but rendered far more efficacious and blissful than His bodily presence had been before the Spirit's coming.",
+            "It is His unextinguishable, divine life of which He speaks, in view of which His death and resurrection were but as shadows passing over the sun's glorious disk.",
+            "Knowest thou not that thou didst devour the Lord Christ, but wert obliged to give Him back, and wert devoured of Him? So thou must leave me undevoured because I abide in Him, and live and suffer for His name's sake."
+        ],
+        "Albert Barnes": [
+            "Seeth me no more - No more until the day of judgment. The men of the world would not see him visibly, and they had not the eye of faith to discern him.\" ",
+            "Ye shall continue to see me by faith, even when the world cannot. You will continue to see me by the eye of faith as still your gracious Saviour and Friend.\" ",
+            "Though the Saviour was about to die, yet was he also about to be raised from the dead. He was to continue to live, and though absent from them, yet he would feel the same interest in their welfare as when he was with them on earth."
+        ],
+        "Marvin Vincent": [
+            "Ye shall live also [\u03ba\u03b1\u03b9 \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b6\u03b7\u03c3\u03b5\u03c3\u03b8\u03b5] . This may also be rendered, and ye shall live, explaining the former statement, ye behold me.\" (Rev., in margin)",
+            "John is not arguing for the dependence of their life on Christ's, but for fellowship with Christ as the ground of spiritual vision.\" ",
+            "but for fellowship with Christ as the ground of spiritual vision."
+        ],
+        "John Calvin": [
+            "That we may enjoy this secret beholding of Christ, we must not judge of his presence or his absence according to carnal perception, but we must earnestly employ the eyes of faith for contemplating his power.",
+            "He begins by pointing out the cause of the difference, why he shall be seen by his disciples, and not by the world It isn\u2019t because Christ cannot be seen but according to the spiritual life, of which the world is deprived.",
+            "Accordingly, when the question is, how we are to obtain life, our eyes must be directed to Christ, and his life must be conveyed to us by faith, that our consciences may be fully convinced, that, so long as Christ lives, we are free from all danger of destruction."
+        ],
+        "Philip Schaff": [
+            "The \u2018little while\u2019 here spoken of is that of chap, John 13:33, extending from the moment immediately at hand to the resurrection. After that \u2018little while\u2019 the world beholdeth Jesus no more, but His disciples behold Him...",
+            "The \u2018Me\u2019 of the verse is Jesus glorified: Him, because He is glorified, the world unfit for the vision \u2018beholdeth no longer.\u2019 But the disciples, one with Him not only in His humiliation but in His \u2018glory,\u2019 behold Him...",
+            "Because I live glorified, and ye, in this respect wholly different from the world, shall live in the power of Me your risen Lord, therefore shall this intimacy of intercourse, implied in My coming and your beholding, last unbroken and for ever."
+        ],
+        "Archibald T. Robertson": [
+            "But ye behold me... in contrast to the blind, unseeing world.\" ",
+            "Because I live, ye shall live also... our blessed guarantee of immortal, eternal life.\" ",
+            "He is the surety of a better covenant... the Risen Christ Jesus."
+        ],
+        "John Gill": [
+            "They saw him by faith crowned with glory and honour; and will see him as he is when he comes a second time to take them to himself in glory.",
+            "As Mediator, he has his life from the Father, which is dependent upon him, by whom he was set up in an office capacity from everlasting; and as such will live to everlasting, to see the travail of his soul, the fruit of his sufferings, to make intercession for his people, and to rule until all enemies are made his footstool.",
+            "The spiritual life of a believer is from Christ, and is maintained by him; the same which is in the head, is in the members; yea, it is not so much they that live, as Christ that lives in them, and therefore their life can never be lost."
+        ],
+        "John Wesley": [
+            "But ye see me \u2014 That is, ye shall certainly see me.",
+            "Because I live, ye shall live also \u2014 Because I am the living One in my Divine nature, and shall rise again in my human nature, and live for ever in heaven: therefore ye shall live the life of faith and love on earth, and hereafter the life of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because I am the immanent principle of Life, my disciples shall also have life, not just a physical existence, but a life filled with the Spirit. Through the coming of the Spirit, my presence becomes more efficacious and blissful than when I was physically present with them. My death and resurrection were shadows compared to my unextinguishable, divine life. By abiding in me, you are connected to this life and suffer for my name's sake. Though the world cannot see me, you, my disciples, behold me by faith. Because I live, you shall live also, not just in this world, but eternally. I am your surety, your guarantee of a better covenant, and through me, you can continue to see me by faith as your gracious Savior and Friend.",
+            "wordCount": 130,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 2.048315779047334,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+            "commentatorTierSimilarities": [
+                31.3,
+                34.37,
+                34.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because Christ is the immanent principle of Life, his disciples shall also have life\u2014meaning not just a physical existence but a life filled with the Spirit, both in the present and the hereafter. The presence of the Spirit renders Christ's presence far more efficacious and blissful than his bodily presence had been before. Christ's death and resurrection were but shadows compared to his unextinguishable, divine life. By abiding in him, his disciples are connected to this life and suffer for his name's sake.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.215672450209132,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                34.82,
+                31.3,
+                33.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because Christ is the principle of Life, his disciples shall also have life, not just a physical existence, but a life filled with the Spirit, here and hereafter. The presence of the Spirit makes Christ's presence more blissful and effective than his bodily presence was before. His death and resurrection were mere shadows compared to his divine, unextinguishable life. By abiding in him, we are connected to this life and suffer for his name's sake. As his disciples, we behold him by faith, and because he lives, we too shall live eternally.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 2.2395851707519965,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.81,
+            "commentatorTierSimilarities": [
+                33.67,
+                31.63,
+                34.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because Christ is the immanent principle of Life, his disciples shall also have life\u2014meaning not just a physical existence but a life filled with the Spirit, both in the present and the hereafter. The presence of the Spirit renders Christ's presence far more efficacious and blissful than his bodily presence had been before. Christ's death and resurrection were but shadows compared to his unextinguishable, divine life. By abiding in him, his disciples are connected to this life and suffer for his name's sake.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.215672450209132,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                34.82,
+                31.3,
+                33.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, as the immanent principle of Life, grants his disciples life in all its fulness\u2014a life that encompasses both the present and the spiritual realm. The coming of the Holy Spirit not only continues Christ's presence with his spiritually awakened disciples but also enhances their experience, surpassing the impact of his physical presence. His death and resurrection were temporary shadows, overshadowed by his enduring and divine life. By abiding in him, his disciples partake in his unextinguishable, eternal life, and they are assured of their own immortal, eternal existence through him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.256287443045424,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.36,
+            "commentatorTierSimilarities": [
+                34.91,
+                31.02,
+                34.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:05:08",
+    "verseRef": "John 3:18",
+    "bestBHT": {
+        "bht": "He who has not accepted the remedy provided by God for the deadly bite of sin is already judged and sentenced to perish in his sins. This deliberate choice of unbelief leaves him without any other hope or Savior. Those who reject the one way of deliverance from condemnation remain condemned, already judged in virtue of their unbelief. In contrast, the believer in Christ as Savior does not come into judgment, for judgment has already been passed on the one who refuses to believe.",
+        "wordCount": 84,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 2.608639184721164,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.08,
+        "commentatorTierSimilarities": [
+            37.15,
+            33.17,
+            29.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God has provided a remedy for the deadly bite of sin; this remedy the man has not accepted, not taken: he must then perish in his sins: he is already judged and sentenced.",
+            "The perfect sets before us the deliberate choice of the man, q.d. \u2018he hath not chosen to believe\u2019",
+            "The word only-begotten also here sets before us the hopelessness of such a man\u2019s state: he has no other Saviour."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Having, immediately on his believing, 'passed from death unto life' (John 5:24).",
+            "Rejecting the one way of deliverance from that 'condemnation' which God gave His Son to remove.",
+            "So wilfully remaining condemned."
+        ],
+        "Albert Barnes": [
+            "To believe on him is to feel and act according to truth that is, to go as lost sinners, and act toward him as a Saviour from sins; relying on him, and looking to him 'only' for salvation.",
+            "God disapproves of their character, and this feeling of disapprobation, and the expression of it, is the condemnation. There is no condemnation so terrible as this - that God disapproves our conduct, and that he will express his disapprobation.",
+            "There is but one way of being delivered from this state by believing on the Son of God. They who do not believe or remain in that state are still condemned, for they have not embraced the only way in which they can be freed from it."
+        ],
+        "Marvin Vincent": [
+            "Is condemned already [\u03b7\u03b4\u03b7 \u03ba\u03b5\u03ba\u03c1\u03b9\u03c4\u03b1\u03b9] . Rev., more correctly, hath been judged already. Unbelief, in separating from Christ, implies judgment. He has been judged in virtue of his unbelief."
+        ],
+        "John Calvin": [
+            "When he so frequently and so earnestly repeats, that all believers are beyond danger of death, we may infer from it the great necessity of firm and assured confidence, that the conscience may not be kept perpetually in a state of trembling and alarm.",
+            "There is no other remedy by which any human being can escape death; or, in other words, that for all who reject the life given to them in Christ, there remains nothing but death, since life consists in nothing else than in faith.",
+            "For though it is true that there never was any other remedy for escaping death than that men should betake themselves to Christ, yet as Christ here speaks of the preaching of the Gospel, which was to be spread throughout the whole world, he directs his discourse against those who deliberately and maliciously extinguish the light which God had kindled."
+        ],
+        "Philip Schaff": [
+            "He that abides in faith in Christ abides in a state to which judging belongs not; whilst the faith remains, the idea of judgment is excluded.",
+            "Not so with the unbeliever; on him the sentence of judgment is already pronounced.",
+            "The separation is the result of deliberate choice; and whilst the choice is adhered to, the severance abides."
+        ],
+        "Archibald T. Robertson": [
+            "The believer in Christ as Saviour does not come into judgment.",
+            "Judgment has already been passed on the one who refuses to believe in Christ as the Saviour sent by the Father.",
+            "Here \u03bf\u03c4 \u03bc\u03b7 states the reason subjectively as the judgment of the Judge in any such case."
+        ],
+        "John Gill": [
+            "He that believeth on him is not condemned... there is no condemnation to those that are in him... they are delivered by him from the curse and condemnation of the law..."
+        ],
+        "John Wesley": [
+            "He that believeth on him is not condemned \u2014 Is acquitted, is justified before God.",
+            "The name of the only-begotten Son of God \u2014 The name of a person is often put for the person himself.",
+            "But perhaps it is farther intimated in that expression, that the person spoken of is great and magnificent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He who has not accepted the remedy provided by God for the deadly bite of sin is already judged and sentenced to perish in his sins. This deliberate choice of unbelief leaves him without any other hope or Savior. Those who reject the one way of deliverance from condemnation remain condemned, already judged in virtue of their unbelief. In contrast, the believer in Christ as Savior does not come into judgment, for judgment has already been passed on the one who refuses to believe. Therefore, it is crucial for us to have firm and assured confidence, avoiding perpetual trembling and alarm of the conscience. Life and escape from death lie in faith alone in Christ, the only genuine remedy.",
+            "wordCount": 119,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 2.3164832280291403,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.36,
+            "commentatorTierSimilarities": [
+                35.2,
+                33.77,
+                31.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He who has not accepted the remedy provided by God for the deadly bite of sin is already judged and sentenced to perish in his sins. This deliberate choice of unbelief leaves him without any other hope or Savior. Those who reject the one way of deliverance from condemnation remain condemned, already judged in virtue of their unbelief. In contrast, the believer in Christ as Savior does not come into judgment, for judgment has already been passed on the one who refuses to believe.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.608639184721164,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.08,
+            "commentatorTierSimilarities": [
+                37.15,
+                33.17,
+                29.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He who has not accepted the remedy provided for the bite of sin already stands condemned and sentenced, having deliberately chosen not to believe. Such a person has no other Savior and remains in a state of hopeless condemnation. In contrast, the believer has passed from death to life, freed from the judgment and condemnation that come from rejecting the one way of deliverance. Firm and assured confidence in Christ is crucial to escape the perpetual trembling and alarm of the conscience.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.2974454351265017,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.73,
+            "commentatorTierSimilarities": [
+                33.51,
+                32.95,
+                33.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He who has not accepted the remedy provided by God for the deadly bite of sin is already judged and condemned. This deliberate choice of unbelief leaves him without any other hope or Savior. Rejecting the one way of deliverance from condemnation, he remains condemned, already judged in virtue of his unbelief. On the other hand, the believer in Christ as Savior does not come into judgment, for judgment has already been passed on the one who refuses to believe. Firm and assured confidence in Christ is essential to escape the perpetual trembling and alarm of the conscience.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.454580746712166,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.95,
+            "commentatorTierSimilarities": [
+                36.32,
+                33.18,
+                30.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He who has not accepted the remedy provided by God for the bite of sin is already judged and sentenced. This deliberate choice of unbelief leaves him without any other hope or Savior. Rejecting the one way of deliverance from condemnation, he remains condemned, already judged in virtue of his unbelief. In contrast, the believer in Christ as Savior does not come into judgment, for there is no condemnation for those in Him. Firm confidence in Christ is crucial to escape the perpetual trembling and alarm of the conscience.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.452860386296539,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.9,
+            "commentatorTierSimilarities": [
+                35.52,
+                33.34,
+                31.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

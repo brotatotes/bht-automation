@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:10:55",
+    "verseRef": "John 12:10",
+    "bestBHT": {
+        "bht": "The chief priests, having consulted and intending to put Lazarus out of the way, saw him as an object of attention in connection with Jesus. They viewed killing Lazarus as a means to prevent him from being a living testimony to Jesus' power. This wickedness, fueled by satanic influence, shows that unbelief stops at no crime. However, we should consistently meditate on God's works, even in the face of opposition, to counteract Satan's attempts to bury or obscure them.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.6202005113778082,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+        "commentatorTierSimilarities": [
+            27.62,
+            38.59,
+            33.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'consulted, not, \u2018came to a (formal) resolution,\u2019 but were in the mind'\" (Quote 10.)",
+            "'had an intention'\" (Quote 10.)",
+            "'viewing him as one whom it would be desirable to put out of the way, as an object of popular attention in connection with Jesus'\" (Quote 10.)"
+        ],
+        "Albert Barnes": [
+            "When men are determined not to believe the gospel, there is no end to the crimes to which they are driven.",
+            "Unbelief stops at no crime.",
+            "They deliberately plotted murder rather than believe on the Lord Jesus Christ."
+        ],
+        "Marvin Vincent": [
+            "The chief priests. See on ver. 47."
+        ],
+        "John Calvin": [
+            "It certainly was worse than insane fury to endeavor to put to death one who had manifestly been raised from the dead by divine power.",
+            "But such is the spirit of giddiness with which Satan torments the wicked, so that there is no end of their madness, even though God should bring heaven, and earth, and sea, to oppose them.",
+            "Since Satan labors with his utmost strength utterly to bury, or at least in some measure to obscure, the works of God, it is our duty to devote ourselves diligently to continual meditation on them."
+        ],
+        "Archibald T. Robertson": [
+            "Perhaps they argued that, if they should kill both Jesus and Lazarus, then Lazarus would remain dead.\" (Quote 1)",
+            "The raising of Lazarus has brought matters to a crisis.\" (Quote 2)",
+            "Here we may see the reason why the Synoptics do not tell the story of the raising of Lazarus, if he was still living.\" (Quote 3)"
+        ],
+        "John Gill": [
+            "These men had... horribly wicked.\" ",
+            "They stopped at nothing... satisfy their malice.\" ",
+            "Secure their worldly interests... advantages."
+        ],
+        "John Wesley": [
+            "The chief priests consulted, how to kill Lazarus also.",
+            "Here is the plain reason why the other evangelists, who wrote while Lazarus was living, did not relate his story."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests, viewing Lazarus as an object of popular attention in connection with Jesus, consulted and had the intention to put him out of the way. The raising of Lazarus had brought matters to a crisis, and perhaps they argued that if they should kill both Jesus and Lazarus, then Lazarus would remain dead. Such is the spirit of giddiness with which Satan torments the wicked, that there is no end to their madness and they stop at nothing to satisfy their malice and secure their worldly advantages. This is worse than insane fury, but in the face of Satan's opposition, we must diligently devote ourselves to meditating on the works of God.",
+            "wordCount": 115,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.5524295493372264,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                33.59,
+                25.77,
+                40.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests, having consulted and intending to put Lazarus out of the way, saw him as an object of attention in connection with Jesus. They viewed killing Lazarus as a means to prevent him from being a living testimony to Jesus' power. This wickedness, fueled by satanic influence, shows that unbelief stops at no crime. However, we should consistently meditate on God's works, even in the face of opposition, to counteract Satan's attempts to bury or obscure them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6202005113778082,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "commentatorTierSimilarities": [
+                27.62,
+                38.59,
+                33.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests, consulting with the intention to eliminate Lazarus, perceived him as a figure of interest due to his association with Jesus. Their wickedness drove them to plot his death, fearing that Lazarus' resurrection would solidify Jesus' influence. This extreme behavior exemplifies the relentless nature of unbelief, where there is no limit to the crimes committed. In response, it is our duty to diligently meditate on the works of God, continuously illuminating them against the relentless efforts of Satan to diminish their significance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5310787495750038,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                27.48,
+                39.64,
+                32.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests, consulting with the intention to eliminate Lazarus, desperately sought to silence him as an object of attention in connection with Jesus. Their wickedness knew no bounds, as they plotted murder rather than believe in Jesus. In the face of such giddiness that Satan imposes on the wicked, we must diligently meditate on God's works to counteract the madness and obscurity brought upon by the enemy. Only then can we fully appreciate the divine power at work.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5252503725588689,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.06,
+            "commentatorTierSimilarities": [
+                25.87,
+                40.31,
+                33.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Consulting with the intention to put Lazarus out of the way, the chief priests perceived him as an object of popular attention due to his association with Jesus. Their wickedness knew no bounds, as they plotted to kill him and satisfy their malice. This extreme behavior exemplifies the relentless nature of unbelief, where there is no end to the crimes committed. In the face of such giddiness that Satan imposes on the wicked, we must diligently meditate on God's works to counteract the madness and obscurity brought upon by the enemy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.5018591680338884,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+            "commentatorTierSimilarities": [
+                22.38,
+                42.96,
+                34.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

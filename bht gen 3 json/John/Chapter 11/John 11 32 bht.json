@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:10:23",
+    "verseRef": "John 11:32",
+    "bestBHT": {
+        "bht": "Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This reminds us that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.",
+        "wordCount": 80,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.4619519896816036,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+        "commentatorTierSimilarities": [
+            21.75,
+            38.81,
+            39.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32.] The words of Mary are fewer, and her action more impassioned, than those of her sister: she was perhaps interrupted by the arrival of the Jews: cf. ver. 33."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "28-32. The Master is come and",
+            "\tcalleth for thee\u2014The narrative does not give us this",
+            "\tinteresting detail, but Martha's words do."
+        ],
+        "John Calvin": [
+            "From her falling down at his feet we learn that Christ was honored in that house beyond the ordinary custom of men.",
+            "As Christ had nothing about him, according to the flesh, that was royal or magnificent, it was for a different purpose that Mary fell down at his feet.",
+            "The power of Christ, which filled heaven and earth, ought not to have been limited to his bodily presence."
+        ],
+        "Philip Schaff": [
+            "Lord, if thou hadst been here, my brother had not died.\" ",
+            "Her first words are nearly the same as her sister\u2019s: there is only in the Greek a slight difference in the place of \u2018my\u2019 which gives a touching emphasis to the expression of personal loss.\" ",
+            "Mary\u2019s absorbing grief makes other words impossible: she falls at the feet of Jesus weeping."
+        ],
+        "Archibald T. Robertson": [
+            "Fell down at his feet (\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03b4\u03b1\u03c2). Second aorist active of \u03c0\u03b9\u03c0\u03c4\u03c9, to fall.",
+            "This impulsive act like Mary.",
+            "She said no more, only wept."
+        ],
+        "John Gill": [
+            "It is blessed meeting Christ any where; and where he is preached, and his ordinances administered, let it be in what place it will, there may the presence of Christ be expected.",
+            "Martha had been here before, and had had some conversation with Christ to her great satisfaction, and she goes and calls her sister, that she might enjoy the same.",
+            "Lord, if thou hadst been here, my brother had not died; which were the same words Martha uttered upon her first meeting Jesus."
+        ],
+        "John Wesley": [
+            "She fell at his feet \u2014 This Martha had not done. So she makes amends for her slowness in coming."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 11:32, Mary's grief is so overpowering that she falls at Jesus' feet, weeping. Her action is more impassioned and her words are fewer compared to her sister Martha. She echoes Martha's initial statement, emphasizing her personal loss. Mary's deep sorrow leaves her unable to say more, only to weep. This act of falling at Jesus' feet shows great honor and recognition of His power, which extends beyond His physical presence. Wherever Christ is preached, His presence can be expected.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6153458700768566,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.05,
+            "commentatorTierSimilarities": [
+                24.09,
+                39.88,
+                36.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary's intense grief in this passage is revealed through her impassioned action of falling at Jesus' feet, weeping. Her words are fewer compared to her sister Martha, but carry a powerful message of personal loss. By falling at Jesus' feet, Mary honors Him and acknowledges His presence and power that extends beyond His physical presence. This story reminds us that wherever Christ is preached, we can expect His presence and find comfort in His words.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.741988739282014,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "commentatorTierSimilarities": [
+                21.09,
+                40.89,
+                38.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This serves as a reminder that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4613570791030528,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "commentatorTierSimilarities": [
+                21.96,
+                38.61,
+                39.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary's profound sorrow is expressed as she falls at Jesus' feet, weeping. Her act of prostrating herself before Him is a powerful display of honor and recognition of His power. It signifies that Jesus deserves reverence beyond what is customary for men. It reminds us that the presence of Christ can be expected wherever He is preached and His ordinances administered. In times of deep pain, encountering Jesus brings solace and the assurance of His healing and comforting presence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.3053218037774912,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "commentatorTierSimilarities": [
+                16.71,
+                38.8,
+                44.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary's overwhelming grief is evident as she falls at Jesus' feet, weeping. Her impassioned action speaks volumes, requiring no further words. By prostrating herself before Him, Mary shows great honor and recognition of Jesus' power that extends beyond His physical presence. This reminds us that wherever Christ is preached and His ordinances administered, His presence can be expected. In times of deep sorrow, we can find solace and comfort in the presence of Jesus, who offers healing and hope.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4619519896816036,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                21.75,
+                38.81,
+                39.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

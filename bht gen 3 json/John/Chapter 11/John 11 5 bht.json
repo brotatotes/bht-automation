@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:10:10",
+    "verseRef": "John 11:5",
+    "bestBHT": {
+        "bht": "The love that Jesus had for Martha, her sister, and Lazarus has always captured the admiration of the Christian Church. It refutes skeptics who claim the Gospel lacks the virtue of private friendships, showcasing Jesus' special regard for this family. The sisters expected Jesus to come and heal Lazarus immediately. This love demonstrates Jesus' continuous affection for this noble family and serves as a reminder for believers to trust in God's timing, knowing that His love is unwavering and never diminishes.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.9540498037038867,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+        "commentatorTierSimilarities": [
+            31.74,
+            42.5,
+            25.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "5.] explains he whom thou lovest in ver. 3."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus loved Martha and her sister and Lazarus\u2014what a picture!\u2014one that in every age has attracted the admiration of the whole Christian Church.",
+            "No wonder that those miserable skeptics who have carped at the ethical system of the Gospel, as not embracing private friendships in the list of its virtues, have been referred to the Saviour's peculiar regard for this family as a triumphant refutation.",
+            "If such were needed."
+        ],
+        "Marvin Vincent": [
+            "Loved [\u03b7\u03b3\u03b1\u03c0\u03b1] . Notice the verb here : not fileiv, as ver. 3. See on 5 20. Lazarus is not mentioned in Luke 10:38 sqq."
+        ],
+        "John Calvin": [
+            "As Christ is the only mirror of the grace of God, we are taught by this delay on his part, that we ought not to judge of the love of God from the condition which we see before our eyes.",
+            "When we have prayed to him, he often delays his assistance, either that he may increase still more our ardor in prayer, or that he may exercise our patience, and, at the same time, accustom us to obedience.",
+            "Let believers then implore the assistance of God, but let them also learn to suspend their desires, if he does not stretch out his hand for their assistance as soon as they may think that necessity requires; for, whatever may be his delay, he never sleeps, and never forgets his people."
+        ],
+        "Philip Schaff": [
+            "This simple record of His love for this family connects itself both with John 11:4 and also with the statement of John 11:5-6, these verses really constituting one sentence.",
+            "The object of the Evangelist is to set before us the mind of Jesus: in John 11:4 we see the first principle of all, supreme regard to the glory of God; here His love for those on whom the affliction must fall.",
+            "The word \u2018loved\u2019 used in this verse is different from that which we find in John 11:3. The sisters use that which belongs to tender human friendship; the Evangelist the more lofty word, which so often expresses the relation of Jesus to His disciples."
+        ],
+        "Archibald T. Robertson": [
+            "Now Jesus loved... picturing the continued love of Jesus for this noble family.\" ",
+            "The sisters expected him to come at once and to heal Lazarus."
+        ],
+        "John Gill": [
+            "Not only with an everlasting love, a love of complacency and delight, an unchangeable one, and which never varies, nor will ever end, with which he loves all his people alike...",
+            "...but with a very great human affection, and which was very singular and peculiar to them...",
+            "...Jesus loved the women, 'who were lovers of hospitality', by the law of kindness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus' deep love for Martha, her sister, and Lazarus is evident in the scriptural account of John 11:5. This profound affection has captivated the admiration of the Christian Church throughout history, proving skeptics wrong who discredit the Gospel for supposedly lacking in private friendships. The Evangelist uses the word loved to highlight Jesus' continued love for this remarkable family and their expectation that he would swiftly heal Lazarus. Moreover, this love connects to Jesus' supreme regard for the glory of God and emphasizes the exalted nature of His relation to His disciples. While we sometimes encounter delays in God's response to our prayers, it is crucial not to judge His love based on our temporary circumstances. Instead, we should persist in prayer, cultivating patience and obedience, for God never forgets or forsakes His beloved people.",
+            "wordCount": 135,
+            "quoteTokenProportion": 29.47,
+            "qualityScore": 1.8375905447430605,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                21.88,
+                45.75,
+                32.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' love for Martha, her sister, and Lazarus has always astounded and inspired the Christian Church. It serves as a triumphant refutation to skeptics claiming the Gospel lacks mention of private friendships. The Evangelist portrays Jesus' deep and continuing love for this family, with the sisters anticipating his immediate arrival to heal Lazarus. We are reminded to not judge God's love based on our temporary circumstances, but rather persist in prayer, knowing that He never forgets or forsakes His beloved people.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.8035480711369023,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+            "commentatorTierSimilarities": [
+                29.19,
+                41.45,
+                29.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The profound love that Jesus had for Martha, her sister, and Lazarus has always been a source of admiration for the Christian Church. It stands as a strong response to those who question the ethical system of the Gospel, as it showcases the importance of private friendships. The Evangelist uses the word loved to emphasize Jesus' ongoing affection for this noble family. Despite their expectation of an immediate healing, it is a reminder for believers to trust in God's timing and have patience, knowing that His love for His people is unwavering and enduring.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.852499194831443,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.94,
+            "commentatorTierSimilarities": [
+                26.22,
+                44.75,
+                29.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The love that Jesus had for Martha, her sister, and Lazarus has always captured the admiration of the Christian Church. It refutes skeptics who claim the Gospel lacks the virtue of private friendships, showcasing Jesus' special regard for this family. The sisters expected Jesus to come and heal Lazarus immediately. This love demonstrates Jesus' continuous affection for this noble family and serves as a reminder for believers to trust in God's timing, knowing that His love is unwavering and never diminishes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.9540498037038867,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                31.74,
+                42.5,
+                25.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' deep and unwavering love for Martha, her sister, and Lazarus has always been a testament that captivates the awe of the Christian Church. This love triumphantly refutes skeptics who question the ethical system of the Gospel for not prioritizing private friendships. The Evangelist uses the word loved to portray Jesus' ongoing affection for this remarkable family, who anticipated his immediate arrival to heal Lazarus. We are reminded not to judge God's love by our temporary circumstances but to persist in prayer, knowing that He is always attentive and faithful to His people.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.9145944978833611,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                26.65,
+                43.1,
+                30.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

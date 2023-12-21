@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:06:35",
+    "verseRef": "John 5:46",
+    "bestBHT": {
+        "bht": "If the Jews truly believed Moses, they would also believe in Jesus, since Moses wrote about Him in the Pentateuch. Jesus quotes Deuteronomy 18:18, indicating that Moses prophesied about the coming of Christ. The purpose of Moses' writings was to prepare for the arrival of the true Prophet, Priest, and King of Israel. Christ is the fulfillment and end of the Mosaic law, as the entire Mosaic economy foreshadowed His coming. Therefore, the books written by Moses contain references to Christ and believing in Him is essential to truly embracing the teachings of Moses.",
+        "wordCount": 93,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 2.2205437153493857,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+        "commentatorTierSimilarities": [
+            24.9,
+            43.93,
+            31.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is an important testimony by the Lord to the subject of the whole Pentateuch;\u2014it is concerning Him.",
+            "It is also a testimony to the fact, of Moses having written those books.",
+            "which were then, and are still, known by his name."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "46. he wrote of me\u2014\"an",
+            "\timportant testimony to the subject of the whole Pentateuch\u2014'of Me'",
+            "\t[ALFORD]."
+        ],
+        "John Calvin": [
+            "For if you believed Moses, you would also believe me. He shows why Moses will be their accuser. It is because they do not reject his doctrine.",
+            "Christ is the end and soul of the Law.",
+            "Without Christ, the whole ministry of Christ vanishes."
+        ],
+        "Philip Schaff": [
+            "For if ye believed Moses, ye would believe me: for he wrote concerning me.",
+            "In all the revelation given through him Moses wrote concerning Jesus.",
+            "His great purpose was to prepare the way for the true Prophet and Priest and King of Israel."
+        ],
+        "Archibald T. Robertson": [
+            "Ye would believe me... proving that they did not really believe Moses.",
+            "For he wrote of me... Jesus does here say that Moses wrote concerning him.",
+            "Deuteronomy 18:18 is quoted... as a prophecy of Christ."
+        ],
+        "John Gill": [
+            "Christ is the end of the law of Moses, and in him is the accomplishment of his writings.",
+            "In the books written by him, Christ is spoken of, as the seed of the woman, that should bruise the serpent's head; as the seed of Abraham, in whom all nations of the earth should be blessed; as the Shiloh, to whom the gathering of the people should be.",
+            "The whole Mosaic economy was typical of Christ, as the epistle to the Hebrews shows."
+        ],
+        "John Wesley": [
+            "He wrote of me \u2014 Every where; in all his writings; particularly Deuteronomy 18:15,18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus states that if the Jews truly believed Moses, they would also believe in Him because Moses wrote about Him in the Pentateuch, also known as the books of Moses. By quoting Deuteronomy 18:18, Jesus reveals that Moses was prophesying about the coming of Christ. The purpose of Moses' writings was to prepare the way for the true Prophet, Priest, and King of Israel. Therefore, the books written by Moses contain references to Christ, such as the promise of a seed that would crush the serpent's head and the blessing of all nations through the seed of Abraham. Christ is the fulfillment and the end of the Mosaic law, as the entire Mosaic economy was a foreshadowing of His coming. Hence, if one truly believes in the teachings of Moses, they would also believe in Jesus, who is the essence of the Law.",
+            "wordCount": 146,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.178152339107295,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+            "commentatorTierSimilarities": [
+                25.0,
+                42.92,
+                32.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the Jews truly believed Moses, they would also believe in Jesus, since Moses wrote about Him in the Pentateuch. Jesus quotes Deuteronomy 18:18, indicating that Moses prophesied about the coming of Christ. The purpose of Moses' writings was to prepare for the arrival of the true Prophet, Priest, and King of Israel. Christ is the fulfillment and end of the Mosaic law, as the entire Mosaic economy foreshadowed His coming. Therefore, the books written by Moses contain references to Christ and believing in Him is essential to truly embracing the teachings of Moses.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.2205437153493857,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                24.9,
+                43.93,
+                31.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the Jews truly believed Moses, they would also believe in Jesus. Jesus points out that Moses wrote about Him in the Pentateuch, and even quotes Deuteronomy 18:18 as evidence that Moses prophesied about the coming of Christ. The purpose of Moses' writings was to prepare for the arrival of the true Prophet, Priest, and King of Israel. Christ is the fulfillment of the Mosaic law, as the entire Mosaic economy was a type and shadow of His coming. Therefore, to truly embrace the teachings of Moses is to believe in Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1762915158472174,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                24.96,
+                45.66,
+                29.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the Jews truly believed Moses, they would also believe in Jesus, as Moses wrote about Him in the Pentateuch, and even quoted Deuteronomy 18:18 as a prophecy about Christ. The purpose of Moses' writings was to pave the way for the true Prophet, Priest, and King of Israel. Christ is the fulfillment of the Mosaic law, as the entire Mosaic economy typified His coming. Thus, to truly embrace the teachings of Moses is to have faith in Jesus as the promised Messiah.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.1380965403377843,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.43,
+            "commentatorTierSimilarities": [
+                23.81,
+                44.24,
+                31.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Belief in Jesus is intertwined with belief in Moses, as Moses wrote about Him in the Pentateuch. Deuteronomy 18:18, quoted by Jesus, is a prophecy regarding Christ. The purpose behind Moses' writings was to prepare for the arrival of the true Prophet, Priest, and King of Israel. Christ is the fulfillment and completion of the Mosaic law, as the entire Mosaic economy pointed to His coming. Therefore, a genuine acceptance of Moses' teachings necessitates recognition and faith in Jesus as the anticipated Savior.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.0461984307220797,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                24.68,
+                44.07,
+                31.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

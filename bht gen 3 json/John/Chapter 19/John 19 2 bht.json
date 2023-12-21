@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:14:27",
+    "verseRef": "John 19:2",
+    "bestBHT": {
+        "bht": "In their mock-reverential approach to the crowned king, the soldiers weaved a crown of thorns and placed it on Jesus' head, a mockery of royal attire. Draping Him in a purple robe and placing a reed in His hand, they continued their pretentious homage. The crown's botanical origin remains uncertain, but artists depicted it with tremendous spikes and unbending, knotted boughs. Through this malicious act orchestrated by Pilate, Jesus symbolically bore the weight of humanity's sins, cloaked in scarlet and purple transgressions.",
+        "wordCount": 85,
+        "quoteTokenProportion": 26.15,
+        "qualityScore": 1.6237709569752354,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+        "commentatorTierSimilarities": [
+            51.09,
+            0.0,
+            48.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This has been probably erased by the copyists, as not being understood.",
+            "It was their mock-reverential approach, as to a crowned king.",
+            "Coming probably with obeisances and pretended homage."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the soldiers platted a crown of thorns, and put it on his head\u2014in mockery of a regal crown.",
+            "they put on him a purple robe\u2014in mockery of the imperial purple.",
+            "And they put a reed into His right hand\u2014in mockery of the regal scepter."
+        ],
+        "Marvin Vincent": [
+            "All attempts to define the botanical character of the thorns used for Christ's crown are guesses.",
+            "The Savior sits upon the ground, His arms extended, and leaning backward to the full stretch of the cord which binds His crossed hands.",
+            "The Italian artists represent the crown as consisting of pliable twigs with small thorns; but the northern artists 'have conceived,' to quote Mrs. Jameson, 'an awful structure of the most unbending, knotted boughs, with tremendous spikes half a foot long, which no human hands could have forced into such a form.'"
+        ],
+        "John Calvin": [
+            "Unquestionably done by the authority of Pilate, in order to affix a mark of infamy on the Son of God.",
+            "The wickedness and insolence of the soldiers is indulged more freely than had been ordered by the judge.",
+            "All this is directed by God, in order to reconcile the world to himself by the death of his Son."
+        ],
+        "John Gill": [
+            "This was an emblem of his being surrounded by wicked men, sons of Belial, comparable to thorns.",
+            "Thorns being the produce of the curse upon the earth.",
+            "This was still in derision of him as a king, and was an emblem of his being clothed with our purple and scarlet sins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The soldiers approached Him mock-reverentially, pretending to pay homage to a crowned king. They braided a crown of thorns and placed it on His head, in a mockery of a regal crown, and they draped Him in a purple robe, reminiscent of imperial royalty. Holding a reed in His right hand, they derisively imitated a regal scepter. Their actions were not simply a result of insolence, but rather, by the authority of Pilate, they sought to mark the Son of God with infamy. The thorns used for Christ's crown remain undefined, as attempts to identify their botanical character are mere guesses. However, artists have depicted an awe-inspiring crown composed of unbending, knotted boughs with tremendous spikes, symbolizing the weight and pain Jesus bore for humanity's sins. Through this malicious display, orchestrated by God, the world is reconciled to Him through the death of His Son, demonstrating that Jesus was surrounded by wicked men, comparable to thorns, a reminder of the curse upon the earth. His crown of thorns serves as an emblem of His comprehensive covering of our sins, clothed in our scarlet and purple transgressions.",
+            "wordCount": 190,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.6401190730026247,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                46.11,
+                0.0,
+                53.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Approaching Him mock-reverentially, the soldiers placed a crown of thorns on His head and draped Him in a purple robe, a mockery of regal symbols. This malicious act, directed by Pilate, aimed to mark the Son of God with infamy. The botanical character of the thorns used remains unknown, but artists depicted an awe-inspiring crown of unbending boughs and tremendous spikes. This crown symbolizes the weight Jesus bore for humanity's sins and emphasizes His comprehensive covering of our transgressions, clothed in scarlet and purple.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.6051936595634906,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                44.14,
+                0.0,
+                55.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their mock-reverential approach to the crowned king, the soldiers weaved a crown of thorns and placed it on Jesus' head, a mockery of royal attire. Draping Him in a purple robe and placing a reed in His hand, they continued their pretentious homage. The crown's botanical origin remains uncertain, but artists depicted it with tremendous spikes and unbending, knotted boughs. Through this malicious act orchestrated by Pilate, Jesus symbolically bore the weight of humanity's sins, cloaked in scarlet and purple transgressions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.6237709569752354,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                51.09,
+                0.0,
+                48.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Approaching Him mock-reverentially, the soldiers placed a crown of thorns on Jesus' head and dressed Him in a purple robe, in mockery of regal symbols. This act, directed by Pilate, aimed to mark the Son of God with infamy. The botanical origin of the thorns remains unknown, but artists depicted an awe-inspiring crown of unbending, knotted boughs and tremendous spikes. This crown symbolizes the weight Jesus bore for humanity's sins, a reminder of the curse on the earth, while also representing His comprehensive covering of our transgressions, clothed in scarlet and purple.",
+            "wordCount": 95,
+            "quoteTokenProportion": 26.09,
+            "qualityScore": 1.5564653889389717,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                42.39,
+                0.0,
+                57.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an attempt to mock Jesus as a crowned king, the soldiers braided a crown of thorns and placed it on His head, accompanied by a purple robe and a reed in His hand, mimicking regal symbols. Though the botanical origin of the thorns remains uncertain, artistic depictions vary from pliable twigs with small thorns to unbending, knotted boughs with long spikes. This malicious act, authorized by Pilate, aimed to mark the Son of God with infamy. Jesus bore the weight of humanity's sins, symbolized by this crown of thorns, serving as a reminder of the curse upon the earth and His covering of our scarlet and purple sins.",
+            "wordCount": 110,
+            "quoteTokenProportion": 24.66,
+            "qualityScore": 1.5815410510795216,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.93,
+            "commentatorTierSimilarities": [
+                43.12,
+                0.0,
+                56.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

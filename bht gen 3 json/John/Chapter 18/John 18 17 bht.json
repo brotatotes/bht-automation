@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:14:10",
+    "verseRef": "John 18:17",
+    "bestBHT": {
+        "bht": "Peter's initial denial of Jesus was impulsive and driven by shame and fear. Standing among the High Priest's servants, he denied any knowledge of Jesus, while another disciple, John, went unnoticed. The maid recognized John as a follower of Jesus, so she suspected Peter's affiliation as well. Peter's blatant denial mirrored the maid's expectation of a negative answer. This first denial, in a series of three, occurred on the porch, and Peter's demeanor and timidity only confirmed his connection to Jesus.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.8063157975315138,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+        "commentatorTierSimilarities": [
+            36.07,
+            40.75,
+            23.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This first denial was to all appearance rashly and almost inadvertently made, from a mere feeling of shame.",
+            "Peter may have set himself among the servants of the High Priest to bear out his denial.",
+            "The question, 'Art thou also one of this man\u2019s disciples?' implies that the other disciple had already been recognized as a follower of Jesus, and had escaped annoyance."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His demeanor and timidity, which must have vividly showed themselves, as it so generally happens, leading to the recognition of him\" ",
+            "He denied before them all, saying, I know not what thou sayest\" - a common form of point blank denial",
+            "This was THE FIRST DENIAL. \"And he went out into the porch [thinking, perhaps, to steal away], and the cock crew"
+        ],
+        "Marvin Vincent": [
+            "The question is put in a negative form, as if expecting a negative answer : thou art not, art thou?\" ",
+            "Showing that she recognized John as a disciple.",
+            "See on Acts 12:13."
+        ],
+        "John Calvin": [
+            "Certainly, all the strength that appears to be in men is smoke, which a breath immediately drives away.",
+            "Our courage is of such a nature, that, of its own accord, it gives way where there is no enemy; and thus does God revenge the arrogance of men by reducing fierce minds to a state of weakness.",
+            "Let us therefore learn not to be brave in any other than the Lord."
+        ],
+        "Philip Schaff": [
+            "The maid knew that John was one of the disciples of Jesus, and the interest taken by him in Peter leads her to suppose that the latter must also be one of them.",
+            "A little incident is now mentioned which, slight as it seems, must be carefully attended to.",
+            "She asks the question, and the first denial takes place."
+        ],
+        "Archibald T. Robertson": [
+            "When 'the maid the portress' (apposition).\" ",
+            "'Art thou also?' (\u03bc\u03b7 \u03ba\u03b1 \u03c3\u03c5 \u03b5\u03b9;). Expecting the negative answer, though she really believed he was.\" ",
+            "Contemptuous use of \u03bf\u03c5\u03c4\u03bf\u03c2 with a gesture toward Jesus."
+        ],
+        "John Gill": [
+            "She speaks of Christ in the vulgar dialect of the Jews, calling him 'this man'; not only esteeming him a mere man, but a worthless man.",
+            "He never denied that Christ was God or the Son of God, or that he was come in the flesh, or that he was the Messiah and Saviour of sinners; but either that he did not know what the maid said, or the person she spoke of.",
+            "He that had so much confidence as to say, though all men deny thee, yet will not I; and had so much courage... but a few hours before, has not spirit enough in him to own his master before a servant maid!"
+        ],
+        "John Wesley": [
+            "As well as the others, one of this man's disciples.",
+            "She does not appear to have asked with any design to hurt him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's first denial of knowing Jesus in John 18:17 seems to have been made rashly, out of a feeling of shame and fear of consequence. As he stood among the servants of the High Priest, trying to inconspicuously bear out his denial, he was recognized by a maid who had already identified John as a disciple of Jesus. Though she expected a negative answer and assumed that Peter also belonged to Jesus, Peter denied his association with Jesus point blank. This was the first of three denials, and it happened on the porch, perhaps as Peter contemplated escaping. In this moment, it becomes clear that Peter's demeanor and his timidity were unmistakable signs of his connection to Jesus, leading to his recognition.",
+            "wordCount": 123,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8571862383223166,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "commentatorTierSimilarities": [
+                35.96,
+                40.0,
+                24.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's initial denial of Jesus was impulsive and driven by shame and fear. Standing among the High Priest's servants, he denied any knowledge of Jesus, while another disciple, John, went unnoticed. The maid recognized John as a follower of Jesus, so she suspected Peter's affiliation as well. Peter's blatant denial mirrored the maid's expectation of a negative answer. This first denial, in a series of three, occurred on the porch, and Peter's demeanor and timidity only confirmed his connection to Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8063157975315138,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                36.07,
+                40.75,
+                23.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's hasty and inadvertent first denial of Jesus stemmed from shame and a desire to blend in with the crowd. Positioned with the servants of the High Priest, Peter's recognition as a disciple became evident through his demeanor and timidity. The maid, having already identified John as one of Jesus' followers, posed the question expectantly, assuming Peter would answer negatively. This initial denial, followed by two more, took place on the porch, highlighting the stark contrast between Peter's previous confidence and his current cowardice.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.7764845989501477,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                34.99,
+                41.65,
+                23.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In John 18:17, Peter's impulsive and inadvertent denial of Jesus can be attributed to his shame and desire to avoid trouble. Standing among the High Priest's servants, Peter's demeanor and timidity betrayed his affiliation with Jesus. The maid, having already recognized John as a disciple, anticipated a negative response from Peter. This initial denial, which occurred on the porch, marked the beginning of a series of denials by Peter, revealing his weakness and lack of courage in contrast to his earlier claims of loyalty.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7708678392562287,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                36.84,
+                36.11,
+                27.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's first denial of Jesus in John 18:17 was driven by shame and fear. Positioned among the High Priest's servants, his demeanor and timidity exposed his association with Jesus. The maid, having recognized another disciple, John, expected a negative answer from Peter. This initial denial, which took place on the porch, was the beginning of Peter's three denials. It showcased the stark contrast between Peter's earlier boldness and his present weakness, highlighting the consequences of yielding to fear rather than standing firm in faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6951729257540316,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.71,
+            "commentatorTierSimilarities": [
+                36.85,
+                37.71,
+                25.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

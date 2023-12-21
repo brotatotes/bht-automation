@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:14:34",
+    "verseRef": "John 19:16",
+    "bestBHT": {
+        "bht": "Pilate delivered Jesus to the chief priests, who took Jesus to be crucified. Pilate disclaimed all responsibility for the act and handed Jesus back to the Sanhedrin, giving full consent for his death. The tragedy reached its climax as they hurried Jesus to a cruel death, satisfying their insatiable cruelty. Christ, though not convicted, was given up to the people's insatiable desire for his death, resembling a lamb led to the slaughter, without uttering against God or man.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.987008832618321,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+        "commentatorTierSimilarities": [
+            35.2,
+            27.5,
+            37.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Here the scourging seems (Matthew, Mark) to have taken place, or perhaps to have been renewed, since the former one was not that customary before execution, but conceded by Pilate to the mob in hope of satisfying them.",
+            "they took Jesus] viz. the chief priests."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. Then delivered he him therefore",
+            "\tunto them to be crucified, &amp;c.\u2014(See :-). ",
+            "\t",
+            " :-. CRUCIFIXION AND",
+            "\tDEATH OF THE LORD",
+            "\tJESUS."
+        ],
+        "Marvin Vincent": [
+            "Pilate pronounced no sentence, but disclaimed all responsibility for the act, and delivered Christ up to them [\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2], they having invoked the responsibility upon themselves.\" ",
+            "The best texts omit."
+        ],
+        "John Calvin": [
+            "Pilate was, no doubt constrained by their importunity to deliver Christ.\" ",
+            "He was solemnly condemned in the ordinary form, because there were also two robbers who, after having been tried, were at the same time condemned to be crucified.",
+            "Christ, though he had not been convicted of any crime, was given up to the insatiable cruelty of the people."
+        ],
+        "Philip Schaff": [
+            "The tragedy has reached its climax; and in this single sentence the rest of the direful story may be told.",
+            "They therefore received Jesus... Now they did \u2018receive\u2019 Him, but only to hurry Him to a cruel death.",
+            "It will be observed how much this peculiar force of the verb is brought out by the true reading of the verse, which omits \u2018and led him away.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "He delivered... Now Pilate hands Jesus back to the Sanhedrin with full consent for his death.",
+            "John does not give the dramatic episode in Matthew 27:24 when Pilate washed his hands.",
+            "But it is on Pilate also."
+        ],
+        "John Gill": [
+            "nothing would satisfy them but his death",
+            "he therefore passed sentence on him, and gave him up to their will",
+            "he was led as a lamb to the slaughter, without opening his mouth against God or man"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 19:16, Pilate delivered Jesus to the chief priests and they took Jesus to be crucified. Pilate refused to take responsibility for the act and handed Jesus back to the Sanhedrin with full consent for his death. The tragedy has reached its climax as they hurried Jesus to a cruel death. Christ, who had not been convicted of any crime, was given up to the insatiable cruelty of the people. This verse illustrates how nothing would satisfy them but his death and how Jesus willingly submitted, being led as a lamb to the slaughter without opening his mouth against God or man.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.9288130172985227,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                31.83,
+                29.07,
+                39.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate delivered Jesus to the chief priests, who took Him to be crucified. Pilate disclaimed all responsibility for the act and handed Jesus back to the Sanhedrin, giving full consent for His death. The tragedy reached its climax as they hurried Jesus to a cruel death, satisfying their insatiable cruelty. Despite being innocent, Christ was given up and willingly submitted, resembling a lamb led to the slaughter, without uttering a word against God or man.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9808211116156882,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                35.9,
+                27.72,
+                36.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate delivered Jesus to the chief priests who took Jesus to be crucified. The tragedy reached its climax as they hurried Jesus to a cruel death, satisfying their insatiable cruelty. Christ, though not convicted of any crime, was given up to the people's insatiable desire for his death.",
+            "wordCount": 49,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.9322621041004198,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                31.86,
+                27.85,
+                40.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate delivered Jesus to the chief priests and they took Jesus to be crucified. Pilate handed Jesus back to the Sanhedrin with full consent for his death, disclaiming all responsibility for the act. The tragedy reached its climax as they hurried Jesus to a cruel death, satisfying their insatiable cruelty. Christ, though not convicted of any crime, was given up to their will, resembling a lamb led to the slaughter without uttering a word against God or man.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9676841041704118,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                36.02,
+                26.17,
+                37.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate delivered Jesus to the chief priests, who took Jesus to be crucified. Pilate disclaimed all responsibility for the act and handed Jesus back to the Sanhedrin, giving full consent for his death. The tragedy reached its climax as they hurried Jesus to a cruel death, satisfying their insatiable cruelty. Christ, though not convicted, was given up to the people's insatiable desire for his death, resembling a lamb led to the slaughter, without uttering against God or man.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.987008832618321,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                35.2,
+                27.5,
+                37.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-21-2023 03:06:17",
+    "verseRef": "John 5:30",
+    "bestBHT": {
+        "bht": "The Son does nothing of Himself, but His working and judgment all spring from His deep unity of will and being with the Father. His witness given of Himself is true and holy. The Son's task as Judge is simple, guided by the will of the Father who sent Him. His actions and sayings are beyond blame as He acts and speaks only according to the Father's command. He has no disposition separate from the Father, everything He does is in conjunction with the Father.",
+        "wordCount": 87,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.3634142237417572,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.92,
+        "commentatorTierSimilarities": [
+            36.92,
+            29.22,
+            33.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As the Son does nothing of Himself,\u2014but His working and His judgment all spring from His deep unity of will and being with the Father,\u2014this His great and last judgment, and all His other ones, will be just and holy.",
+            "His witness given of Himself ver. 17, and called by them blasphemy, is true and holy also.",
+            "Observe, the discourse here passes into the first person, which was understood before, because He had called himself the Son of God,\u2014but is henceforth used expressly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Of mine own self do nothing\u2014that is, apart from the Father, or in any interest than My own.",
+            "My judgments are all anticipated in the bosom of My Father, to which I have immediate access, and by Me only responded to and reflected.",
+            "They cannot therefore err, as I live for one end only, to carry into effect the will of Him that sent Me."
+        ],
+        "Albert Barnes": [
+            "The Messiah, the Mediator, does nothing without the concurrence and the authority of God.",
+            "Whatever he does, he does according to the will of God.",
+            "He came not to aggrandize himself, or to promote his own views, but he came to do the will of God."
+        ],
+        "Marvin Vincent": [
+            "Of the Father. Omit. Rev., of Him that sent."
+        ],
+        "John Calvin": [
+            "Christ does not speak of his Divinity simply, but warns us that, so far as he is clothed with our flesh, we ought not to judge of him from the outward appearance, because he has something higher than man.",
+            "He concludes that his actions and sayings are beyond the risk of blame, because he does not allow himself to attempt anything but by the command and direction of the Father.",
+            "He affirms, therefore, that he has no disposition which is peculiar to himself and separate from the command of the Father."
+        ],
+        "Philip Schaff": [
+            "I can of mine own self do nothing: as I hear, I judge: and my judgment is just.\" ",
+            "One characteristic of this verse is so marked as of itself to prove that the verse is closely related to those which follow.",
+            "His action is never separate from that of the Father, there can be no variance: His will is ever the will of His Father, there can be no self-seeking."
+        ],
+        "Archibald T. Robertson": [
+            "The Son's task as Judge is simple enough, the will of the Father which he knows.",
+            "Judges often have difficulty in knowing what is law and what is right, but the Son's task as Judge is simple enough.",
+            "The guiding principle with the Son being the will of the Father who sent him and made him Judge."
+        ],
+        "John Gill": [
+            "I am the Son that can do nothing separate from the Father, and contrary to his will, but do all things in conjunction with him.",
+            "I am he that quickens dead sinners now, and will raise all the dead at the last day; and have authority to execute judgment on all mankind.",
+            "He did not seek to gratify his own will, as distinct from his Father's, or in opposition to it; for he had no private end to answer, or separate interest, or advantage to pursue."
+        ],
+        "John Wesley": [
+            "I can do nothing of myself \u2014 It is impossible I should do any thing separately from my Father.",
+            "As I hear \u2014 Of the Father, and see, so I judge and do; A because I am essentially united to him.",
+            "See John 5:19."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "The Son does nothing of Himself and His working and judgment all spring from His deep unity of will and being with the Father. His witness given of Himself is true and holy, even though it was misunderstood and called blasphemy. The Son's task as Judge is simple enough, as it is guided by the will of the Father who sent Him. His actions and sayings are beyond the risk of blame because He only acts and speaks according to the command and direction of the Father. He has no disposition peculiar to Himself and separate from the Father. Everything He does is in conjunction with the Father.",
+            "wordCount": 109,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 2.3502483765794304,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.49,
+            "commentatorTierSimilarities": [
+                36.24,
+                28.71,
+                35.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son does nothing of Himself, but His working and judgment all spring from His deep unity of will and being with the Father. His witness given of Himself is true and holy. The Son's task as Judge is simple, guided by the will of the Father who sent Him. His actions and sayings are beyond blame as He acts and speaks only according to the Father's command. He has no disposition separate from the Father, everything He does is in conjunction with the Father.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.3634142237417572,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.92,
+            "commentatorTierSimilarities": [
+                36.92,
+                29.22,
+                33.86
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

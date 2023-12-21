@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:05:29",
+    "verseRef": "John 4:19",
+    "bestBHT": {
+        "bht": "The woman's recognition of Jesus as a prophet reveals her deep conviction, and Jesus tactfully allows her to guide the conversation towards the spirituality of true worship. As she realizes Jesus' insight into her life, she seizes the chance to ask Him about worship, showcasing her earnestness despite her sinful past. This encounter emphasizes the significance of repentance and the importance of being receptive to divine teachers who lead us towards the truth.",
+        "wordCount": 74,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.9725118399429014,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+        "commentatorTierSimilarities": [
+            29.75,
+            41.38,
+            28.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In speaking this her conviction, she virtually confesses all the truth.",
+            "The idea of her endeavoring to escape from the Lord's rebuke is quite inconsistent with her recognition of Him as a prophet.",
+            "Rather we may suppose a pause, which makes it evident that He does not mean to proceed further with His laying open of her character."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How slowly does the human heart submit to thorough humiliation!",
+            "The Prince of preachers takes another method: He humors the poor woman, letting her take her own way, allowing her to lead while He follows\u2014but thus only the more effectually gaining His object.",
+            "He answers her question, pours light into her mind on the spirituality of all true worship, as of its glorious Object, and so brings her insensibly to the point at which He could disclose to her wondering mind whom she was all the while speaking to."
+        ],
+        "Albert Barnes": [
+            "The word here does not denote one who foretells future events, but one who knew her heart and life, and who must therefore have come from God.",
+            "The conversation about her manner of life was a very unpleasant topic to her - as it is always unpleasant to sinners to talk about their lives and the necessity of religion.",
+            "Sinners do not love direct religious conversation, but many are too well-bred to refuse altogether to talk about it; yet they choose to converse about some speculative matter, or something pertaining to the mere 'externals' of religion, rather than the salvation of their own souls."
+        ],
+        "Marvin Vincent": [
+            "I perceive as I observe thee longer and more carefully.",
+            "A prophet art thou; the emphasis being on prophet.",
+            "Not immediate perception, but rather, I perceive."
+        ],
+        "John Calvin": [
+            "Repentance, therefore, is the commencement of true docility [...] and opens the gate for entering into the school of Christ.",
+            "The woman teaches us by her example, that when we meet with any teacher, we ought to avail ourselves of this opportunity, that we may not be ungrateful to God, who never sends Prophets to us without, as it were, stretching out the hand to invite us to himself.",
+            "But we must remember what Paul teaches, that they who have grace given to them to teach well are sent to us by God; for how shall they preach unless they are sent?"
+        ],
+        "Philip Schaff": [
+            "Nothing can be more misleading than the idea that she is seeking to turn the conversation from an unwelcome subject, or to lead it to other topics than herself.",
+            "Her answer is rather a fresh illustration of her inquiring and earnest character, notwithstanding all the sinfulness of her life.",
+            "When her delighted wonder has found expression in her immediate acknowledgment, \u2018Sir, I behold that thou art a prophet,\u2019 she eagerly lays before Him a question which to her was of all questions the most important."
+        ],
+        "Archibald T. Robertson": [
+            "Sir (\u039a\u03c5\u03c1\u03b9\u03b5). So still.",
+            "I am beginning to perceive\" from what you say, your knowledge of my private life.",
+            "She felt that this was the explanation of his knowledge of her life and she wanted to change the subject at once to the outstanding theological dispute."
+        ],
+        "John Gill": [
+            "I perceive that thou art a prophet;... who could tell, ere the king's messenger came to him, that the son of a murderer had sent to take away his head...",
+            "And such a prophet, that had such a spirit of discerning, this woman took Christ to be...",
+            "...for he knows what is in them, and done by them; and can tell them all that ever they did, as he did this woman, John 4:29."
+        ],
+        "John Wesley": [
+            "Sir, I perceive \u2014 So soon was her heart touched."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman's recognition of Jesus as a prophet demonstrates her acknowledgement of the truth. Although she initially tries to divert the conversation, Jesus indulges her, leading her to the spiritual understanding of true worship. Jesus skillfully gains His objective by gently guiding her thoughts towards Him. Through His deep knowledge of her life, she realizes that He is a prophet. She seizes the opportunity to pose a significant question about worship. Her genuine curiosity, despite her sinful life, reveals her earnest spirit. This encounter teaches us the value of repentance, openness to divine teachers, and gratitude for the opportunity to learn from them.",
+            "wordCount": 104,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.866127267980743,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                32.12,
+                37.87,
+                30.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman's recognition of Jesus as a prophet is a confession that reveals her conviction and marks a turning point in their conversation. Jesus humors her and allows her to lead, skillfully steering the discussion towards the spirituality of true worship. As she begins to perceive Jesus' deep knowledge of her life, she seizes the opportunity to inquire about worship. This encounter teaches us the importance of repentance and being open to divine teachers who guide us towards the truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9211538633837386,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                31.44,
+                38.89,
+                29.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recognizing Jesus as a prophet, the woman's confession signifies her conviction and leads to a shift in their conversation. Jesus, humoring her, allows her to lead while subtly guiding her towards the spiritual understanding of true worship. With her perception of Jesus' knowledge of her life, she seizes the opportunity to inquire about worship, demonstrating a genuine curiosity despite her sinful past. This encounter reminds us of the importance of repentance and being open to divine teachers who help us seek the truth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.971913700509993,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                30.36,
+                40.64,
+                28.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman's recognition of Jesus as a prophet reveals her deep conviction, and Jesus tactfully allows her to guide the conversation towards the spirituality of true worship. As she realizes Jesus' insight into her life, she seizes the chance to ask Him about worship, showcasing her earnestness despite her sinful past. This encounter emphasizes the significance of repentance and the importance of being receptive to divine teachers who lead us towards the truth.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.9725118399429014,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                29.75,
+                41.38,
+                28.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing Jesus as a prophet, the woman's confession signifies her conviction and leads to an intriguing shift in their conversation. Jesus, humoring her, subtly guides her towards the spiritual understanding of true worship. With her perception of Jesus' knowledge, she seizes the opportunity to inquire about worship. This encounter demonstrates the value of repentance and being open to divine teachers. It teaches us the gratitude we should have for the invitation to learn from those sent by God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8001573191513218,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                29.76,
+                36.87,
+                33.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

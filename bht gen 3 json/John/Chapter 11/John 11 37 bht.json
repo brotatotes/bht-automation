@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:10:41",
+    "verseRef": "John 11:37",
+    "bestBHT": {
+        "bht": "The dwellers in Jerusalem referenced a well-known miracle among themselves, focusing on preventing Lazarus's death rather than the possibility of raising him back to life. Their words may have been spoken sincerely or ironically, shedding light on Jesus's groaning in the spirit. The blind man's healing had made a lasting impression on them, yet they questioned if the one who opened the blind man's eyes could have prevented Lazarus's death. Their disbelief and lack of considering the restoration of the dead man reflect a mixture of faith and unbelief.",
+        "wordCount": 95,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.6764303114705648,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+        "commentatorTierSimilarities": [
+            54.99,
+            0.0,
+            45.01
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is (as Trench remarks) a point of accuracy in the narrative, that these dwellers in Jerusalem should refer to a miracle so well known among themselves, rather than to the former raisings of the dead in Galilee...",
+            "It is probable that the second set of Jews (ver. 37) spoke with a scoffing and hostile purport...",
+            "Again, of raising Lazarus none of them seem to have thought, only of preventing his death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if (as everybody says) He did that, why could He not also have kept Lazarus alive?",
+            "This disposition to dictate to divine power, and almost to peril our confidence in it upon its doing our bidding, is not confined to men of no faith.",
+            "They never so much as thought of [the restoration of the dead man to life]."
+        ],
+        "Marvin Vincent": [
+            "Of the blind [\u03c4\u03bf\u03c5\u03c4\u03c5\u03c6\u03bb\u03bf\u03c5] . Referring to the restoration of the blind man in ch. 9. The A. V. is too indefinite. Rev., rightly, of him that was blind.\" ",
+            "This saying of the Jews may have been uttered ironically, in which case it throws light on the meaning of groaned in the spirit (ver. 33) and of groaning in Himself in the next verse.",
+            "But the words may have been spoken sincerely."
+        ],
+        "Archibald T. Robertson": [
+            "They do not say \u03b4\u03c5\u03bd\u03b1\u03c4\u03b1 (can, present middle indicative). But clearly the opening of the blind man's eyes (chapter 9) had made a lasting impression on some of these Jews, for it was done three months ago.",
+            "First aorist active infinitive of \u03c0\u03bf\u03b9\u03b5\u03c9 with \u03b9\u03bd\u03b1, like the Latin facere ut (sub-final use, Robertson, Grammar, p. 985), with the second aorist active subjunctive \u03b1\u03c0\u03bf\u03b8\u03b1\u03bd\u03b7 and negative \u03bc\u03b7.",
+            "These Jews share the view expressed by Martha (verse John 11:21) and Mary (verse John 11:32) that Jesus could have prevented the death of Lazarus."
+        ],
+        "John Gill": [
+            "Could not this man which opened the eyes of the blind...",
+            "for this must be understood as calling the miracle into question...",
+            "for either the above cure was a sham, or, if it was a real thing, he who did that could have prevented Lazarus's death..."
+        ],
+        "John Wesley": [
+            "Could not this person have even caused, that this man should not have died?\" ",
+            "Yet they never dreamed that he could raise him again!",
+            "What a strange mixture of faith and unbelief."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The dwellers in Jerusalem referenced a well-known miracle among themselves, focusing on preventing Lazarus's death rather than the possibility of raising him back to life. Their words may have been spoken sincerely or ironically, shedding light on Jesus's groaning in the spirit. The blind man's healing had made a lasting impression on them, yet they questioned if the one who opened the blind man's eyes could have prevented Lazarus's death. Their disbelief and lack of considering the restoration of the dead man reflect a mixture of faith and unbelief.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6764303114705648,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                54.99,
+                0.0,
+                45.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The dwellers in Jerusalem, well aware of Jesus's past miracles, focused on preventing Lazarus's death rather than considering the possibility of him being raised back to life. Their words, whether spoken sincerely or ironically, shed light on Jesus's groaning in the spirit. The healing of the blind man had a lasting impact on them, leading them to question if the one who opened the eyes of the blind could have prevented Lazarus's death. Their disbelief and lack of considering the restoration of the dead man reflect a mixture of faith and unbelief.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.6751594862537713,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                53.85,
+                0.0,
+                46.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The dwellers in Jerusalem referred to a well-known miracle among themselves, questioning if the one who opened the blind man's eyes could have prevented Lazarus's death. Their words shed light on Jesus's groaning in the spirit and reveal a mixture of faith and unbelief. Rather than considering the restoration of the dead man, their focus was solely on preventing his death. This reflects a disposition to dictate to divine power, demanding that it align with their expectations rather than trusting in its sovereignty.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5214821062369441,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+            "commentatorTierSimilarities": [
+                55.31,
+                0.0,
+                44.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The dwellers in Jerusalem were well aware of Jesus's miracles, including the healing of the blind man. Their reference to this miracle revealed a doubt about whether Jesus could have prevented Lazarus's death. Their words reflected a disposition to dictate to divine power, demanding that it align with their expectations. Their disbelief in the possibility of raising Lazarus back to life demonstrated a lack of faith and a failure to consider the full extent of Jesus's power.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.6238137153989514,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                54.56,
+                0.0,
+                45.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The dwellers in Jerusalem referred to a well-known miracle among themselves, focusing on preventing Lazarus's death rather than considering the possibility of him being raised back to life. Their words shed light on Jesus's groaning in the spirit. They questioned if the one who opened the blind man's eyes could have prevented Lazarus's death, revealing a doubt in the extent of Jesus's power. This mix of faith and unbelief reflects a tendency to dictate to divine power and demand that it align with human expectations.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5155325077728468,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                54.51,
+                0.0,
+                45.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

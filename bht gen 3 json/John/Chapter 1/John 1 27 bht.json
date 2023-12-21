@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:03:45",
+    "verseRef": "John 1:27",
+    "bestBHT": {
+        "bht": "John the Baptist, in answering the question of the religious leaders, claimed that the Messiah was already among them, although unknown to them. He emphasized that he himself was not even worthy to perform the lowest task for the Messiah, such as unfastening the latchet of his sandal. John recognized the exalted rank and dignity of the Messiah, even stating that the Messiah would baptize with the Holy Spirit. This shows us that we should be willing to humble ourselves and recognize our unworthiness in the presence of Christ, offering everything we have at his feet. Christ is not only before us in time but far ahead of us in rank and dignity, being preferred above all others by the Father.",
+        "wordCount": 121,
+        "quoteTokenProportion": 50.63,
+        "qualityScore": 1.6655259734165382,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+        "commentatorTierSimilarities": [
+            35.81,
+            38.86,
+            25.32
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The truth seems to have been apprehended by Olshausen,\u2014that the declaration of John that the Messiah was standing among them at that moment unknown to them, was an answer to their question demanding a legitimation of his prophetic claims.",
+            "In repeating this saying at other times, the Baptist plainly states of the Messiah, that he should baptize them with the Holy Ghost (and fire), as here in ver. 33.",
+            "'The latchet is the thong of the shoe or sandal, with which it was bound to the foot."
+        ],
+        "Albert Barnes": [
+            "The 'latchet' of sandals was the string or thong by which they were fastened to the feet.\" ",
+            "John means, therefore, that he was unworthy to perform the lowest office for the Messiah.",
+            "So we all should be willing to lay all that we have at the feet of Christ, and feel that we are unworthy to be his lowest servants."
+        ],
+        "John Calvin": [
+            "Christ was behind him in the order of time; but, secondly, that he was far before him in rank and dignity.\" ",
+            "The Father preferred him to all.",
+            "Christ was preferred to all others, because he is in reality more exalted than all others."
+        ],
+        "Archibald T. Robertson": [
+            "John as the forerunner of the Messiah has preceded him in time, but not in rank as he instantly adds.",
+            "Literally, 'of whom I am not worthy that I unloose the latchet of his sandal.'",
+            "Only use of \u03b1\u03be\u03b9\u03bf\u03c2 with \u03b9\u03bd\u03b1 in John, though used by Paul in this saying of the Baptist."
+        ],
+        "John Gill": [
+            "He it is who coming after me, is preferred before me.\" ",
+            "Who was before me.\" ",
+            "Whose shoes latchet I am not worthy to unloose."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist, in answering the question of the religious leaders, claimed that the Messiah was already among them, although unknown to them. He emphasized that he himself was not even worthy to perform the lowest task for the Messiah, such as unfastening the latchet of his sandal. John recognized the exalted rank and dignity of the Messiah, even stating that the Messiah would baptize with the Holy Spirit. This shows us that we should be willing to humble ourselves and recognize our unworthiness in the presence of Christ, offering everything we have at his feet. Christ is not only before us in time but far ahead of us in rank and dignity, being preferred above all others by the Father.",
+            "wordCount": 121,
+            "quoteTokenProportion": 50.63,
+            "qualityScore": 1.6655259734165382,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                35.81,
+                38.86,
+                25.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist acknowledged that the Messiah, though standing among the people at that moment unknown to them, exceeded him in both rank and dignity. He recognized his unworthiness even to perform the lowliest task for the Messiah. John's statement about unfastening the latchet of his sandal conveyed his sense of profound humility in the presence of Christ. We are reminded by this verse that we too should be willing to humble ourselves and recognize our unworthiness before the exalted Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.5677130672200992,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.47,
+            "commentatorTierSimilarities": [
+                40.29,
+                40.64,
+                19.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist acknowledged that the Messiah, standing among the people, was unknown to them but surpassed him in rank and dignity. He expressed his unworthiness, stating that he couldn't even unfasten the latchet of the Messiah's sandal. John's profound sense of humility before Christ serves as a reminder to all believers that we should willingly humble ourselves and recognize our own unworthiness in the presence of the exalted Lord.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.7581555327413025,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                39.45,
+                41.05,
+                19.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist, recognizing that the Messiah was present among the people yet unknown to them, responded to their demand for a legitimization of his prophetic claims. He humbly described his unworthiness, stating that he couldn't even unfasten the latchet of the Messiah's sandal. This declaration highlights the profound humility and reverence that we should have in the presence of Christ, acknowledging our own unworthiness. It is a reminder that we should willingly humble ourselves before the exalted Lord.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.557546233095739,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                40.22,
+                41.93,
+                17.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist, answering the religious leaders' demand for proof of his prophetic claims, revealed that the Messiah was standing among them, though unknown. He humbly declared his unworthiness to even unfasten the latchet of the Messiah's sandal. This profound statement emphasizes the humility and reverence we should have in the presence of Christ, recognizing our own unworthiness. It serves as a reminder to willingly humble ourselves before the exalted Lord, offering our utmost devotion and surrender.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.5221208377502846,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.95,
+            "commentatorTierSimilarities": [
+                40.43,
+                41.99,
+                17.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:10:23",
+    "verseRef": "John 11:11",
+    "bestBHT": {
+        "bht": "The disciples, not remembering the special reason for Jesus going, presumed Lazarus would recover. Jesus, in great condescension, shared friendship with the disciples, but they misunderstood the phrase 'is not unto death.' Referring to Lazarus as 'our friend' reveals the reciprocated affection between Jesus and Lazarus. The metaphor of 'sleep' for death has a higher meaning for believers in Jesus. Jesus said He would go to awaken Lazarus from sleep, highlighting His authority over death.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.3502794774745412,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.49,
+        "commentatorTierSimilarities": [
+            30.58,
+            41.31,
+            28.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The special reason for going, which the disciples appear not to have borne in mind, having probably supposed from ver. 4 that Lazarus would recover.",
+            "Our friend...with what condescension our Lord shares the friendship with His disciples.",
+            "But the former expression, 'is not unto death,' had not been understood,\u2014and that error ruled in their minds."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our friend Lazarus sleepeth; but I go that I may wake him out of sleep\u2014Illustrious title!\" ",
+            "The phrase here employed, 'our friend Lazarus,' means more than 'he whom Thou lovest,' for it implies that Christ's affection was reciprocated by Lazarus\" ",
+            "The symbol of 'sleep' for death is common to all languages, and familiar to us in the Old Testament. In the New Testament, however, a higher meaning is put into it, in relation to believers in Jesus."
+        ],
+        "Albert Barnes": [
+            "Lazarus sleepeth - Is dead. The word \u201csleep\u201d is applied to death,"
+        ],
+        "Marvin Vincent": [
+            "Sleepeth. More correctly, as Rev., hath fallen asleep.",
+            "See on Acts 7:60; 2 Peter 3:4.",
+            "Awake him out of sleep. Only here in the New Testament."
+        ],
+        "John Calvin": [
+            "Our friend Lazarus sleepeth...He excites a hope of his resurrection.\" ",
+            "It is a proof of amazing ignorance, that they believe that Christ spoke about sleep.",
+            "Though it is a metaphorical form of expression, still it is so frequent and common in Scripture, that it ought to have been familiarly known to all the Jews."
+        ],
+        "Philip Schaff": [
+            "Our friend Lazarus hath fallen asleep; but I go, that I may awake him out of sleep.",
+            "No second message has been sent to Him; by His own Divine knowledge He speaks of the death of His friend.",
+            "By His own Divine knowledge He speaks of the death of His friend."
+        ],
+        "Archibald T. Robertson": [
+            "Is fallen asleep (\u03ba\u03b5\u03ba\u03bf\u03b9\u03bc\u03b7\u03c4\u03b1). Perfect passive indicative of \u03ba\u03bf\u03b9\u03bc\u03b1\u03c9, old verb to put to sleep. Common as a metaphor for death like our cemetery.",
+            "I go (\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03b1). Futuristic use of the present tense as in John 14:2.",
+            "That I may awake him out of sleep (\u03b9\u03bd\u03b1 \u03b5\u03be\u03c5\u03c0\u03bd\u03b9\u03c3\u03c9 \u03b1\u03c5\u03c4\u03bf\u03bd). Purpose clause with \u03b9\u03bd\u03b1 and the first aorist active subjunctive of \u03b5\u03be\u03c5\u03c0\u03bd\u03b9\u03b6\u03c9, a late compound (\u03b5\u03be, \u03c5\u03c0\u03bd\u03bf\u03c2, sleep) for the older \u03b1\u03c6\u03c5\u03c0\u03bd\u03b9\u03b6\u03c9, here only in the N.T."
+        ],
+        "John Gill": [
+            "It is usual to say of the righteous, that there is no death in them, but sleep.",
+            "These words respecting Lazarus's sleeping and awaking, express both the omniscience and omnipotence of Christ.",
+            "His great modesty to signify it in such covert language, though not difficult to be understood."
+        ],
+        "John Wesley": [
+            "Our friend Lazarus sleepeth \u2014 This he spoke, just when he died.",
+            "Sleepeth \u2014 Such is the death of good men in the language of heaven.",
+            "And the slowness of our understanding makes the Scripture often descend to our barbarous manner of speaking."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, not remembering the special reason for Jesus going, thought that Lazarus would recover. Jesus, in His great condescension, shared His friendship with His disciples. However, they did not understand the true meaning of is not unto death, and this misunderstanding clouded their minds. Referring to Lazarus as our friend shows the mutual affection between him and Jesus. The symbol of sleep for death has a deeper significance in the New Testament, relating to believers in Jesus. Jesus used this metaphor to convey that Lazarus had fallen asleep, meaning he had died. Jesus said that He would go to awaken him out of sleep, emphasizing His authority over death.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.1793539994781854,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                31.04,
+                39.98,
+                28.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples seemed to have forgotten the real reason why Jesus was going, mistakenly thinking that Lazarus would recover. However, Jesus, in His compassion, shares a close friendship with His disciples. The phrase is not unto death was not properly understood by them, leading to their confusion. Referring to Lazarus as our friend reveals the mutual affection between him and Jesus. The metaphor of sleep for death, commonly used in both the Old and New Testaments, indicates a higher meaning for believers in Jesus. Jesus, using this metaphor, intends to awaken Lazarus from his sleep of death.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.1944406970123023,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.31,
+            "commentatorTierSimilarities": [
+                30.9,
+                39.87,
+                29.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples overlooked the true purpose of Jesus going, presuming Lazarus would recover. However, Jesus, humbly showing His friendship with them, uses the term our friend Lazarus to denote the reciprocal affection shared. The symbol of sleep for death, though common in the Old Testament, took on a deeper meaning in the New Testament, especially for believers in Jesus. Jesus intended to wake Lazarus from his sleep, signifying both His omniscience and omnipotence.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.205079285874796,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.66,
+            "commentatorTierSimilarities": [
+                32.42,
+                38.0,
+                29.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, not remembering the special reason for Jesus going, thought that Lazarus would recover. Jesus, in His great condescension, shared His friendship with His disciples. However, they did not understand the true meaning of is not unto death, and this misunderstanding clouded their minds. Referring to Lazarus as our friend shows the mutual affection between him and Jesus. The symbol of sleep for death has a deeper significance in the New Testament, relating to believers in Jesus. Jesus used this metaphor to convey that Lazarus had fallen asleep, meaning he had died. Jesus said that He would go to awaken him out of sleep, emphasizing His authority over death.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 2.1793539994781854,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                31.04,
+                39.98,
+                28.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, not remembering the special reason for Jesus going, presumed Lazarus would recover. Jesus, in great condescension, shared friendship with the disciples, but they misunderstood the phrase 'is not unto death.' Referring to Lazarus as 'our friend' reveals the reciprocated affection between Jesus and Lazarus. The metaphor of 'sleep' for death has a higher meaning for believers in Jesus. Jesus said He would go to awaken Lazarus from sleep, highlighting His authority over death.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.3502794774745412,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.49,
+            "commentatorTierSimilarities": [
+                30.58,
+                41.31,
+                28.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

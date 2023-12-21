@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:09:32",
+    "verseRef": "John 9:24",
+    "bestBHT": {
+        "bht": "The Pharisees intended to make the man deny the miracle and tried to overawe him with their authority. Their words were a form of adjuration, reminding him of God's presence and urging him to speak the truth. They wanted the man to attribute his healing directly to God, rather than to Jesus. Their insistence on him giving glory to God and their claim that Jesus was a sinner demonstrated their attempt to decide the matter through logic and authority.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 2.314652270230844,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+        "commentatorTierSimilarities": [
+            35.47,
+            33.49,
+            31.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Give glory to God] not, \u2018Give God the praise\u2019 (A. V.) i.e. \u2018the glory of thy healing:\u2019 for the Pharisees want to overawe the man by their authority, and make him deny the miracle altogether.\" ",
+            "The words are a form of adjuration (see Josh. vii. 19), to tell the truth, q.d. \u2018Remember that you are in God\u2019s presence, and speak as unto Him.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Give God the praise; we know that this man is a sinner.\" ",
+            "Not wishing him to own, even to the praise of God, that a miracle had been wrought upon him.",
+            "To show more regard to the honor of God than ascribe any such act to one who was a sinner."
+        ],
+        "Albert Barnes": [
+            "Give God the praise...and trusting to his mercy.\" ",
+            "The meaning here is not 'give God praise for healing you,' for they were not willing to admit that he had been cured...but confess that there is imposture in the case.",
+            "We know...He has broken the Sabbath, and that leaves no doubt."
+        ],
+        "Marvin Vincent": [
+            "Give glory to God... implies that by some previous act or word he has done dishonor to God, and appeals to him to repair the dishonor by speaking the truth.\" ",
+            "In this case it is also an appeal to the restored man... to ascribe his cure directly to God, and not to Jesus.\" ",
+            "The we is emphatic. We, the wise men and guardians of religion."
+        ],
+        "John Calvin": [
+            "In this way, the more fiercely they struggle against God, the more numerous are the cords which they put about their neck, and the more strongly do they bind themselves.",
+            "Immediately afterwards they strictly forbid him to answer according to the conviction of his mind; and therefore, under the pretense of the name of God, they demand from him servile obedience.",
+            "Whenever we are called to swear, we ought to remember this preface, so that truth may not be less highly valued by us than the glory of God."
+        ],
+        "Philip Schaff": [
+            "Give glory to God\" - a formula used when a criminal who was thought to be concealing the truth was urged to make a full confession.",
+            "Remembering that the eye of God was upon him, let him give honour to God by speaking truth.",
+            "The authorities... know that Jesus is a breaker of the law, and therefore cannot have wrought a miracle."
+        ],
+        "Archibald T. Robertson": [
+            "Give glory to God... It is rather an adjuration to speak the truth.",
+            "Quid est Da gloriam Deo? Nega quod accepisti.",
+            "They wish to decide the fact by logic and authority like all persecutors through the ages."
+        ],
+        "John Gill": [
+            "Give God the praise; confess this fraud and imposture before the omniscient God, the searcher of hearts, and in so doing glorify that perfection of his.",
+            "If this really is matter of fact, that thou wast born blind, and hast received thy sight by the means of this man, give all the glory of it to God, to whom alone it is due, and not to him.",
+            "We know that this man is a sinner; this they concluded from his breaking the Sabbath, as they supposed... nor could they prove one single instance of sin in him, though they express themselves here with so much assurance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, with their arrogant authority, wanted to overawe the man and make him deny the miracle that had been done. Their words were a form of adjuration, reminding him that he was in God's presence and urging him to speak the truth. They did not want him to give credit to Jesus for the miracle, wanting him instead to ascribe it directly to God. Their insistence on the man giving glory to God and their declaration that Jesus was a sinner revealed their desire to decide the fact through logic and authority. Their attempts to bind the man and crush the truth only served to further bind themselves.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.1658696898528853,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+            "commentatorTierSimilarities": [
+                34.79,
+                32.94,
+                32.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees sought to exert their authority and make the man deny the miracle by telling him to give glory to God instead of acknowledging Jesus. They adjured him to speak the truth, reminding him that he was in the presence of God. Their insistence on him attributing his healing solely to God revealed their desire to protect the honor of God. However, their attempts to bind the man and deny the truth only reflected their own insecurity and inability to prove any sin in Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.289933770466329,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.48,
+            "commentatorTierSimilarities": [
+                33.42,
+                33.33,
+                33.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees intended to make the man deny the miracle and tried to overawe him with their authority. Their words were a form of adjuration, reminding him of God's presence and urging him to speak the truth. They wanted the man to attribute his healing directly to God, rather than to Jesus. Their insistence on him giving glory to God and their claim that Jesus was a sinner demonstrated their attempt to decide the matter through logic and authority.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.314652270230844,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+            "commentatorTierSimilarities": [
+                35.47,
+                33.49,
+                31.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, in their attempt to deny the miracle, demanded the man to give glory to God instead of acknowledging Jesus. Their words functioned as an adjuration, reminding him of God's presence and calling for truthful testimony. They disregarded attributing the miracle to Jesus and emphasized the need to honor God. The Pharisees sought to utilize their authority to decide the matter, ultimately revealing their insecurity and inability to prove any wrongdoing on Jesus' part.",
+            "wordCount": 76,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.2538397548476397,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.28,
+            "commentatorTierSimilarities": [
+                34.22,
+                35.27,
+                30.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, arrogant and self-proclaimed guardians of religion, wanted to overawe the man to make him deny the miracle. Their words were an adjuration, urging him to speak the truth as if he were in the presence of God. They insisted on the man giving glory to God, showing their desire to protect God's honor and authority. However, their attempts to bind the man, deny the truth, and label Jesus as a sinner only reflected their own arrogance and inability to prove any wrongdoing.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.2719950633801527,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.88,
+            "commentatorTierSimilarities": [
+                34.73,
+                31.87,
+                33.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

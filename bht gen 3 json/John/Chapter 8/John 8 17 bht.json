@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:08:29",
+    "verseRef": "John 8:17",
+    "bestBHT": {
+        "bht": "Jesus confronts the Jewish leaders' skepticism about his testimony by emphasizing that he satisfies their demand for the letter of the law. He asserts that he is an exception to the rule that self-praise is no praise, affirming the truth of his words. Drawing from their own law, Jesus points out that the combined witness of himself and the Father fulfills the requirement of two witnesses. In doing so, he exposes the fallacy of their objection and establishes the validity of his testimony.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.9950232391209002,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+        "commentatorTierSimilarities": [
+            31.43,
+            44.25,
+            24.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So that if you will have the mere letter of the law, and judge my testimony by it, I will even thus satisfy you.",
+            "The law which you have made so completely your own by your kind of adherence to it.",
+            "Your thus implying, 'The law which you have made so completely your own by your kind of adherence to it.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not by disputing the wholesome human maxim that 'self-praise is no praise,' but by affirming that He was an exception to the rule, or rather, that it had no application to Him.",
+            "How does He meet this specious cavil? Not by disputing the wholesome human maxim...",
+            "He was an exception to the rule, or rather, that it had no application to Him."
+        ],
+        "Albert Barnes": [
+            "Jesus says that if, in such a case, the testimony of two men were sufficient to establish a fact, his own testimony and that of his Father ought to be esteemed ample evidence in the case of religious doctrine.",
+            "Two men - If two men could confirm a case, the evidence of Jesus and of God ought not to be deemed insufficient.",
+            "Is true - In Deuteronomy, 'established.' This means the same thing. It is confirmed; is worthy of belief."
+        ],
+        "Marvin Vincent": [
+            "In your law, that which is yours. Yours has an emphatic force: of which you claim a monopoly.",
+            "It has been written, and stands written.",
+            "Thus there are two witnesses, and the letter of the law is fulfilled."
+        ],
+        "John Calvin": [
+            "The Son of God ought to be excluded from the ordinary number of other men, because he neither is a private individual, nor transacts his own private business.",
+            "He distinguishes himself from his Father to accommodate himself to the capacity of his hearers, and on account of his office as a servant of the Father.",
+            "All his doctrine has proceeded from the Father."
+        ],
+        "Philip Schaff": [
+            "But in your own law also it is written that the witness of two men is true.",
+            "The words flow from the fact that it is His purpose to show that the principle upon which He proceeded was founded in the law which they themselves so highly honoured.",
+            "They thus at once magnify the law and are an argumentum ad hominem."
+        ],
+        "Archibald T. Robertson": [
+            "He does not mean in either case to separate himself wholly from the Jews and the law, though in Matthew 5 he does show the superiority of his teaching to that of the law.",
+            "This combined witness of two is not true just because they agree unless true in fact separately.",
+            "But if they disagree, the testimony falls to the ground."
+        ],
+        "John Gill": [
+            "They used not to determine any judiciary matter by the mouth of one witness, neither pecuniary causes, nor causes of life and death.",
+            "Wherever it is said a 'witness', it is to be understood of two unless the Scripture particularly specifies one.",
+            "In the case of a wife suspected of adultery and in the business of striking off the neck of the heifer in case of murder, they admitted of one witness."
+        ],
+        "John Wesley": [
+            "Deuteronomy 19:15."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 8:17, Jesus addresses the Jewish leaders' skepticism about his testimony, saying that if they judge him solely by the letter of the law, he will satisfy them. His response highlights the Jews' own emphasis on the law and their claim to a monopoly over it. Jesus affirms that he is an exception to the rule that self-praise is no praise, as his testimony is true and in accordance with the law. By referring to the requirement of two witnesses in their own law, Jesus shows that the combined witness of himself and the Father fulfills this principle. Therefore, their objection falls to the ground because his testimony is not only true but also supported by the law they hold in high regard.",
+            "wordCount": 124,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.1008386804241015,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.19,
+            "commentatorTierSimilarities": [
+                34.03,
+                43.15,
+                22.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus confronts the Jewish leaders' skepticism about his testimony by emphasizing that he satisfies their demand for the letter of the law. He asserts that he is an exception to the rule that self-praise is no praise, affirming the truth of his words. Drawing from their own law, Jesus points out that the combined witness of himself and the Father fulfills the requirement of two witnesses. In doing so, he exposes the fallacy of their objection and establishes the validity of his testimony.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.9950232391209002,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                31.43,
+                44.25,
+                24.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus addresses the Jewish leaders' doubt regarding his testimony, assuring them that he satisfies their requirement of the letter of the law. He emphasizes that his exceptional nature allows him to claim this exemption and affirm the truth of his words. Drawing upon their own law, Jesus establishes the validity of his testimony by highlighting the necessity of two witnesses. In doing so, he refutes their objection and establishes the authenticity of his testimony.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.9284341698249752,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                30.34,
+                45.28,
+                24.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus responds to the Jewish leaders' skepticism about his testimony, assuring them that he satisfies their demand for the letter of the law. He acknowledges their claim to a monopoly over the law and affirms himself as an exception to the rule that self-praise is no praise. By referring to their own law, Jesus demonstrates that the combined witness of himself and the Father fulfills the requirement of two witnesses. Thus, he nullifies their objection, establishing the veracity of his testimony.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.98556383275994,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                34.14,
+                42.56,
+                23.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus responds to the Jewish leaders' skepticism, assuring them that he satisfies their demand for the letter of the law. Referring to their claim of a monopoly over the law, Jesus establishes himself as an exception to the rule that self-praise is no praise. By drawing upon their own law, Jesus demonstrates that his testimony, combined with the Father's, fulfills the requirement of two witnesses. In doing so, he undermines their objection and upholds the truthfulness of his testimony.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.9630619002185,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                32.73,
+                43.02,
+                24.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

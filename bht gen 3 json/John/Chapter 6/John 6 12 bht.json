@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:06:44",
+    "verseRef": "John 6:12",
+    "bestBHT": {
+        "bht": "Jesus commanded the disciples to gather the fragments of bread, not wanting anything to be wasted. This command demonstrated the power of the miracle and symbolized the feeding of the 12 tribes of Israel, representing the church being nourished with the bread of life. Jesus's munificence was not wasteful, as he broke the bread into pieces for everyone to be satisfied, leaving no crumbs or scraps on the ground. This act teaches us the importance of frugality and gratitude, ensuring that nothing from God's bountiful provision is squandered or lost.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.7102465804595606,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.21,
+        "commentatorTierSimilarities": [
+            35.2,
+            38.36,
+            26.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The command, one intent of which was certainly to convince the disciples of the power which had wrought the miracle, is given by our Lord a moral bearing also.",
+            "Observe, that here the 12 baskets are filled with the fragments of the bread alone: but in Mark, with those of the fishes also.",
+            "We must not altogether miss the reference to the 12 tribes of Israel, typifying the church which was to be fed with the bread of life to the end of time."
+        ],
+        "Albert Barnes": [
+            "Though he had power to provide any quantity of food, yet he has here taught us that the bounties of Providence are not to be squandered.",
+            "In all things the Saviour set us an example of frugality, though he had an infinite supply at his disposal; he was himself economical, though he was Lord of all.",
+            "It is given to sustain life, to excite gratitude, to fit for the active service of God. Everything should be applied to its appropriate end, and nothing should be squandered or lost."
+        ],
+        "Marvin Vincent": [
+            "Fragments... That remain... broken pieces.\" ",
+            "Rev., remain over.\" ",
+            "That nothing be lost."
+        ],
+        "Philip Schaff": [
+            "Gather together the pieces that remain, that nothing be lost.",
+            "The design of the command is to bring out the preciousness of the food which Jesus had given.",
+            "It is more probable that they were pieces broken by our Lord, pieces that remained undistributed or unconsumed because of the abundance of the supply."
+        ],
+        "Archibald T. Robertson": [
+            "They were all satisfied.",
+            "Not crumbs or scraps on the ground, but pieces broken by Jesus.",
+            "There was to be no wastefulness in Christ's munificence."
+        ],
+        "John Gill": [
+            "When they were filled,.... Had not only eaten, but had made a full meal, and were thoroughly satisfied, having eaten as much as they could, or chose to eat...",
+            "...to teach frugality, that, in the midst of abundance, care be taken that nothing be lost of the good things which God gives...",
+            "...which may be useful to other persons, or at another time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus commanded the disciples to gather the fragments of bread, not wanting anything to be wasted. This command had both a practical and symbolic significance. Not only did it demonstrate the power of the miracle but it was also a reminder of the twelve baskets being filled, symbolizing the feeding of the 12 tribes of Israel, representative of the church being nourished with the bread of life. Jesus's munificence was not wasteful, as he broke the bread into pieces for everyone to be satisfied, leaving no crumbs or scraps on the ground. This act teaches us the importance of frugality and gratitude, ensuring that nothing from God's bountiful provision is squandered or lost.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.5752118490509504,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                34.14,
+                39.89,
+                25.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus commanded the disciples to gather the fragments of bread, not wanting anything to be wasted. This command not only demonstrated the power of the miracle but also symbolized the feeding of the 12 tribes of Israel, representing the church sustained by the bread of life. By breaking the bread into pieces, Jesus showed a lack of wastefulness and ensured that everyone was satisfied. This act teaches us the importance of frugality and gratitude, preserving the preciousness of God's provision and not letting anything be lost.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.636125176137957,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.74,
+            "commentatorTierSimilarities": [
+                35.11,
+                39.16,
+                25.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus commanded the disciples to gather the remaining fragments of bread, emphasizing the importance of not wasting God's provision. The act of gathering symbolized the feeding of the 12 tribes of Israel, representing the church being nourished with the bread of life. Jesus deliberately broke the bread into pieces, highlighting a lack of wastefulness and ensuring that everyone was satisfied. This command serves as a lesson in frugality and gratitude, reminding us to appreciate and preserve the blessings God provides without letting anything be lost or squandered.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.666285307486229,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                32.74,
+                39.6,
+                27.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After miraculously feeding the multitude, Jesus commanded his disciples to gather the fragments of bread, emphasizing the significance of not wasting God's provision. This act portrayed not only the power of the miracle but also symbolized the feeding of the 12 tribes of Israel, signifying the continued nourishment of the church. By breaking the bread into pieces, Jesus demonstrated his lack of wastefulness and ensured that everyone was satisfied. His command serves as a reminder to appreciate and preserve the blessings bestowed upon us, avoiding any unnecessary loss or misuse.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5594869385518908,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.2,
+            "commentatorTierSimilarities": [
+                31.96,
+                42.46,
+                25.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus commanded the disciples to gather the fragments of bread, not wanting anything to be wasted. This command demonstrated the power of the miracle and symbolized the feeding of the 12 tribes of Israel, representing the church being nourished with the bread of life. Jesus's munificence was not wasteful, as he broke the bread into pieces for everyone to be satisfied, leaving no crumbs or scraps on the ground. This act teaches us the importance of frugality and gratitude, ensuring that nothing from God's bountiful provision is squandered or lost.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7102465804595606,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.21,
+            "commentatorTierSimilarities": [
+                35.2,
+                38.36,
+                26.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

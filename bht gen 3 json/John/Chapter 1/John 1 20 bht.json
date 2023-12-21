@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:03:50",
+    "verseRef": "John 1:20",
+    "bestBHT": {
+        "bht": "He openly and formally confessed and did not give the slightest ground for those who thought he was the Christ. He neither contradicted nor refused to say who he was, making it clear that he was not the Messiah. The Baptist's confession was an important testimony, emphasizing the superiority of the One who was to come after him. By depreciating himself in comparison with Christ, he exemplified the true spirit of a minister and a Christian, willing to humbly lay all honors at the feet of Jesus.",
+        "wordCount": 88,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.0418848912227956,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+        "commentatorTierSimilarities": [
+            28.82,
+            32.34,
+            38.84
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He openly and formally confessed.",
+            "This emphatic notice of his declaration seems to be introduced not with any view of removing too high an estimate of John\u2019s work and office, as sometimes supposed, but rather to shew the importance of his testimony.",
+            "The way in which he depreciated himself in comparison with Him who came after him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "While many were ready to hail him as the Christ, he neither gave the slightest ground for such views, nor the least entertainment to them.",
+            "Confessed, &c.\u2014that is, while many were ready to hail him as the Christ.",
+            "He neither gave the slightest ground for such views, nor the least entertainment to them."
+        ],
+        "Albert Barnes": [
+            "The fact that he did not do it is full proof that he did not intend to impose on people, but came only as the forerunner of Christ.",
+            "His example shows that all Christians, and especially all Christian ministers, however much they may be honored and blessed, should be willing to lay all their honors at the feet of Jesus.",
+            "To do this is one eminent mark of the true spirit of a minister of the gospel."
+        ],
+        "John Calvin": [
+            "He confessed openly, and without any ambiguity or hypocrisy.",
+            "He stated the fact as it really was.",
+            "He replied expressly, that he was not the Christ."
+        ],
+        "Philip Schaff": [
+            "And he confessed and denied not.\" ",
+            "The effect of the double statement, 'he confessed and denied not' is to give peculiar impressiveness to the words.",
+            "The Baptist thus prepares the way for the further statements which he is to make with the view of guiding his hearers to that Christ who is come, and whom with gradually increasing clearness he is to proclaim."
+        ],
+        "Archibald T. Robertson": [
+            "He did not contradict or refuse to say who he was.",
+            "Thoroughly Johannine again in the paratactic repetition.",
+            "'I am not the Messiah,' he means by \u03bf \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2 (the Anointed One)."
+        ],
+        "John Gill": [
+            "He freely, and without any reserve, declared...that he was not the Messiah.\" ",
+            "He stood to it, and insisted on it, that he was not that illustrious person.\" ",
+            "They might assure themselves he was not Christ."
+        ],
+        "John Wesley": [
+            "I am not the Christ \u2014 For many supposed he was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He openly and formally confessed and did not give the slightest ground for those who thought he was the Christ. He neither contradicted nor refused to say who he was, making it clear that he was not the Messiah. The Baptist's confession was an important testimony, emphasizing the superiority of the One who was to come after him. By depreciating himself in comparison with Christ, he exemplified the true spirit of a minister and a Christian, willing to humbly lay all honors at the feet of Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.0418848912227956,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "commentatorTierSimilarities": [
+                28.82,
+                32.34,
+                38.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He openly confessed and did not entertain those who thought he was the Christ. By stating that he was not the Messiah, the Baptist emphasized the importance of his testimony and humbly recognized the superiority of Christ. His example teaches Christians, especially ministers, to lay all honors at the feet of Jesus. The Baptist's sincere and unambiguous declaration served as a preparation to guide his hearers to the true Christ who had come.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.952532678560075,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                24.27,
+                36.65,
+                39.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He openly and formally confessed that he was not the Christ. The Baptist's declaration was significant, highlighting the importance of his testimony and his unwavering denial of being the Messiah. By humbly depreciating himself compared to Christ, he demonstrated the true spirit of a minister and exemplified the willingness to surrender all honors to Jesus. Through his unambiguous statement, the Baptist paved the way to lead his hearers to the true Christ and gradually proclaimed His message with increasing clarity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.00975978633158,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.17,
+            "commentatorTierSimilarities": [
+                27.79,
+                34.95,
+                37.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Baptist openly and formally confessed, denying any claims that he was the Christ. He neither entertained nor contradicted those who thought of him as the Messiah, emphasizing the importance of his testimony. By depreciating himself in comparison to the One who would come after him, he exemplified the humility and willingness to surrender all honors to Jesus. His unambiguous declaration prepared the way to guide his hearers to the true Christ, gradually proclaiming His message with clarity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.0071147785863337,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.08,
+            "commentatorTierSimilarities": [
+                31.58,
+                33.44,
+                34.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Baptist openly and formally confessed, shunning any suggestion that he might be the Christ. He neither entertained nor contradicted those who viewed him as the Messiah, firmly denying any appropriation of that title. By depreciating himself in relation to the Coming One, he underscored the significance of his testimony. His unambiguous declaration paved the way to direct his listeners towards the true Christ, progressively unveiling His message with increasing clarity.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.886413293252785,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.06,
+            "commentatorTierSimilarities": [
+                33.41,
+                32.78,
+                33.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

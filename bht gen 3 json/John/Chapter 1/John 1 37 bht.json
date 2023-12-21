@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:03:43",
+    "verseRef": "John 1:37",
+    "bestBHT": {
+        "bht": "When these two disciples of John the Baptist heard him speaking about Jesus, they understood that it meant more than just mechanically going after Him; it meant truly desiring to know Him and to follow Him. They took John at his word and, sincere in their intentions, left all to follow Jesus. This is a powerful example of how the witness of John the Baptist had its intended effect, as those who heard it turned away from him and followed Jesus instead.",
+        "wordCount": 82,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 1.944422438786161,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+        "commentatorTierSimilarities": [
+            27.84,
+            34.15,
+            38.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must not understand followed in the narrower sense which it bears when they left all and followed Him.",
+            "Here [followed] only [means] of mechanical going after Him.",
+            "Wishing to know somewhat of Him."
+        ],
+        "Albert Barnes": [
+            "This shows that John was sincere; that he was not desirous of forming a party or of building up a sect; that he was willing that all those whom he had attracted to himself by his ministry should become followers of Christ.",
+            "The object of ministers should not be to build up their own interests or to extend their own fame. It is to point men to the Saviour.",
+            "We should not delay nor debate the matter, but leave at once all our old teachers, guides and companions, and follow the Lamb of God."
+        ],
+        "Philip Schaff": [
+            "The witness of the Baptist has its proper effect, an effect, we cannot doubt, foreseen and designed by himself.\" ",
+            "Those who listen to it turn from him, and follow Jesus.",
+            "They followed Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "Heard him speaking",
+            "They followed Jesus",
+            "These two disciples of the Baptist (Andrew and John) took him at his word and acted on it"
+        ],
+        "John Gill": [
+            "Faith in Christ came by hearing them; they reached their hearts, and they found their affections, and the desires of their souls, to be after Christ.",
+            "And they followed Jesus; left their master, and went after him.",
+            "In order to get some acquaintance with him, and receive some instructions from him."
+        ],
+        "John Wesley": [
+            "They followed Jesus \u2014 They walked after him, but had not the courage to speak to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When these two disciples of John the Baptist heard him speaking about Jesus, they understood that it meant more than just mechanically going after Him; it meant truly desiring to know Him and to follow Him. They took John at his word and, sincere in their intentions, left all to follow Jesus. This is a powerful example of how the witness of John the Baptist had its intended effect, as those who heard it turned away from him and followed Jesus instead. It is a reminder that when we hear the message of Christ, it should reach our hearts and stir within us a desire to follow Him.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8507954441767898,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.88,
+            "commentatorTierSimilarities": [
+                26.99,
+                34.6,
+                38.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When these two disciples of John the Baptist heard him speaking about Jesus, they understood that it meant more than just mechanically going after Him; it meant truly desiring to know Him and to follow Him. They took John at his word and, sincere in their intentions, left all to follow Jesus. This is a powerful example of how the witness of John the Baptist had its intended effect, as those who heard it turned away from him and followed Jesus instead.",
+            "wordCount": 82,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 1.944422438786161,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                27.84,
+                34.15,
+                38.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These disciples heard John the Baptist's words about Jesus and took them to heart, recognizing the deeper meaning behind following Him. They left everything behind to pursue a genuine desire to know and follow Jesus. This illustrates the powerful impact of John's witness, as it led them to turn away from him and choose to follow Jesus instead. It serves as a reminder that when we hear the message of Christ, it should resonate within us and stir a genuine longing to walk in His footsteps.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7348811694031818,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+            "commentatorTierSimilarities": [
+                25.22,
+                35.33,
+                39.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When these two disciples of John the Baptist heard him speaking about Jesus, they understood that it meant more than just mechanically going after Him. They took John at his word and left all to follow Jesus, demonstrating their sincere desire to know Him. This response to the witness of John the Baptist highlights the powerful effect it had, leading them to turn away from him and choose to follow Jesus instead. It reminds us that when we hear the message of Christ, it should resonate within us and ignite a genuine longing to walk in His footsteps.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.8110037681271667,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                26.64,
+                34.54,
+                38.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These disciples, upon hearing John the Baptist speak about Jesus, recognized that following Him required more than a mere mechanical act. They responded by leaving everything behind, an action driven by their genuine desire to know and follow Jesus. John's testimony had the desired effect, as it led them to turn away from him and follow Jesus instead. This serves as a reminder that hearing the message of Christ should touch our hearts and spark a sincere longing to walk in His ways.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.7260011844618028,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.73,
+            "commentatorTierSimilarities": [
+                24.56,
+                36.13,
+                39.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

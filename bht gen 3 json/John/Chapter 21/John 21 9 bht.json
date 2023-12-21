@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:15:31",
+    "verseRef": "John 21:9",
+    "bestBHT": {
+        "bht": "Although some have taken offense at the idea of a miracle being intended in this account, the vivid historical present of they see and the specific mention of a fire of coals and fish being laid thereon provide evidence of a miraculous provision. The focus is on the provision made by Jesus, whether by His own hand or through unseen agency, which serves as a confirmation of His divinity and foreshadows the eternal refreshment awaiting His faithful servants in heaven.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.8832903280854563,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+        "commentatorTierSimilarities": [
+            24.49,
+            30.83,
+            44.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The rationalist and semi-rationalist interpreters have taken great offence at the idea of a miracle being here intended.",
+            "Let any child reading the chapter be the judge.",
+            "And what difficulty is there in such a fire and fish being provided, either by the Lord Himself, or by the ministry of angels at His bidding?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By comparing this with [...] the unseen agency by which Jesus made this provision will appear evident.",
+            "The unseen agency by which Jesus made this provision\" ",
+            "The unseen agency"
+        ],
+        "Albert Barnes": [
+            "We have no knowledge whence this was produced - whether it was, as Grotius supposes, by a miracle...",
+            "...or whether it was a place occupied by other fishermen, where they also might cook the fish which they had caught.",
+            "As no miracle is mentioned, however, there is no reason for supposing that any existed in the case."
+        ],
+        "Marvin Vincent": [
+            "They got out upon the land.",
+            "A fire of coals.",
+            "Fish."
+        ],
+        "Philip Schaff": [
+            "The thoughts of the Evangelist are so entirely occupied with the meal, that it is a matter of no consequence to him to give explanations upon such points.",
+            "Upon one fact he desires us to fix our attention - the meal is provided by Jesus, whether miraculously or in some ordinary way he does not ask.",
+            "It is impossible not to notice the words 'a fish' and 'a loaf,' not 'fish' and 'bread:' the contrast with 'the fishes' of John 21:10 is obviously designed."
+        ],
+        "Archibald T. Robertson": [
+            "They see (\u03b2\u03bb\u03b5\u03c0\u03bf\u03c5\u03c3\u03b9\u03bd). Vivid historical present.",
+            "A fire of coals (\u03b1\u03bd\u03b8\u03c1\u03b1\u03ba\u03b9\u03b1\u03bd). See John 18:18 for this word. Cf. our 'anthracite.'",
+            "Laid thereon (\u03b5\u03c0\u03b9\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03bf\u03bd). So broiling with bread ready (toast)."
+        ],
+        "John Gill": [
+            "And fish laid there; which could not be any that they had taken, for, as yet, the net was not drawn up, and the fish took out.",
+            "This was all of Christ's preparing, and a considerable proof of his deity; and a confirmation of that provision he will make for his ministering servants, whilst they are about his work, and in this world.",
+            "A representation of that spiritual and eternal refreshment they shall have with him in heaven to all eternity, when they have done their work."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite the objections of rationalist interpreters, it is not difficult to believe in the unseen agency by which Jesus miraculously provided a fire and fish for his disciples. The vivid historical present of they see and the specific mention of a fire of coals and fish being laid thereon illustrate the reality of this event. While some speculate that this was a place where other fishermen cooked their fish, the focus of the Evangelist is on the fact that the meal was provided by Jesus, whether miraculously or in an ordinary way. This provision serves as a confirmation of Christ's deity and a foreshadowing of the eternal refreshment that awaits his faithful servants in heaven.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 1.8867617858406958,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                22.51,
+                35.53,
+                41.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite objections from rationalist interpreters, the idea of a miracle being intended in John 21:9 should not be offensive. The presence of a fire of coals and fish being laid thereon, along with the vivid historical present of they see, points to the reality of this event. The focus of the passage is on the provision made by Jesus, whether miraculously or in an ordinary way, which serves as a confirmation of His deity and a foreshadowing of the eternal refreshment awaiting His faithful servants in heaven.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.6884855444249225,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.48,
+            "commentatorTierSimilarities": [
+                24.62,
+                32.82,
+                42.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Although some have taken offense at the idea of a miracle being intended in this account, the vivid historical present of they see and the specific mention of a fire of coals and fish being laid thereon provide evidence of a miraculous provision. The focus is on the provision made by Jesus, whether by His own hand or through unseen agency, which serves as a confirmation of His divinity and foreshadows the eternal refreshment awaiting His faithful servants in heaven.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8832903280854563,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                24.49,
+                30.83,
+                44.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While objections arise from rationalist interpreters regarding the possibility of a miracle, the inclusion of a fire of coals and fish being laid thereon, along with the vivid historical present of they see, strongly suggests the reality of this event. The focus lies on Jesus' provision, whether miraculous or ordinary, which serves as a confirmation of His divinity and a hint at the eternal refreshment awaiting His faithful servants in heaven.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7866798126419319,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                22.03,
+                32.6,
+                45.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite objections, the idea of a miracle being intended in this account should not be offensive. The specific mention of a fire of coals and fish being laid thereon, along with the vivid historical present of they see, provides evidence of a miraculous provision. The focus is on the provision made by Jesus, whether by His own hand or through unseen agency. This serves as a confirmation of His divinity and foreshadows the eternal refreshment awaiting His faithful servants in heaven.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6466353968975374,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.09,
+            "commentatorTierSimilarities": [
+                26.09,
+                32.49,
+                41.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

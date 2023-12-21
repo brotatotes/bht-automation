@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:09:28",
+    "verseRef": "John 9:28",
+    "bestBHT": {
+        "bht": "The Pharisees, in their effort to discredit the miracle, responded disdainfully, Give God the praise; we know that this man is a sinner. Their intention was to safeguard the honor of God, refusing to attribute the miracle to someone they deemed sinful. In a contemptuous tone, they even labeled the man as a disciple of Jesus, while asserting their own superiority as disciples of Moses. This pointed to their unwavering loyalty to the law of Moses, illustrating their resistance to Jesus' authority.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.1065134735553124,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+        "commentatorTierSimilarities": [
+            27.63,
+            38.96,
+            33.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Give God the praise; we know that this man is a sinner \u2014 not wishing him to own, even to the praise of God, that a miracle had been wrought upon him.",
+            "To show more regard to the honor of God than ascribe any such act to one who was a sinnser.",
+            "To show more regard to the honor of God than ascribe any such act to one who was a sinnser."
+        ],
+        "Albert Barnes": [
+            "His defense of Jesus they regarded as proof that he was his follower, and this they now attempted to show was inconsistent with being a friend of Moses and his law.",
+            "Moses had given the law respecting the Sabbath; Jesus had healed a man contrary, in their view, to the law of Moses.",
+            "We acknowledge the authority of the law of Moses, which they alleged Jesus has broken by healing on that day."
+        ],
+        "Marvin Vincent": [
+            "Loidoria is a harsher railing, which not only rebukes a man, but also sharply bites him, and stamps him with open contumely. Hence loidorein is to wound a man as with an accursed sting.",
+            "Literally, that man's disciple.",
+            "The pronoun has a contemptuous force which is not given by his."
+        ],
+        "John Calvin": [
+            "For, in their opinion, he could not be a disciple of Christ without revolting from the Law of Moses.",
+            "It is a very plausible pretence, that they are afraid of revolting from the doctrine of Moses.",
+            "If Christ be the soul of the Law, as Paul tells us, (Romans 10:4,) what will the Law be when separated from him, but a dead body?"
+        ],
+        "Philip Schaff": [
+            "Whether the man distinctly intended such reference to himself or not, it is thus that they understood his words.",
+            "This moves them contemptuously to contrast 'that man' with their greatest prophet, Moses.",
+            "...and said, Thou art his disciple, but we are Moses\u2019 disciples."
+        ],
+        "Archibald T. Robertson": [
+            "They reviled him.",
+            "Thou art his disciple.",
+            "But we are disciples of Moses."
+        ],
+        "John Gill": [
+            "Called him an impertinent, saucy, impudent fellow, for talking in this pert manner to them, the great sanhedrin of the nation; or, as the Vulgate Latin version reads, they cursed him; they thundered out their anathemas against him, and pronounced him an execrable and an accursed fellow.",
+            "Thus they preferred Moses to Christ, and chose to be the disciples of Moses the servant, rather than of Christ the Son; though indeed they were not the genuine disciples of Moses; for if they had, they would have been the disciples of Christ, and believers in him, since Moses wrote and testified of him.",
+            "This last character best agrees with those very persons, who would be thought to be the disciples of Abraham and of Moses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, unwilling to acknowledge the miracle that had been performed on the blind man, responded to him by saying, Give God the praise; we know that this man is a sinner. They wanted to protect the honor of God and show more regard for Him than to attribute any miraculous act to someone they considered a sinner. In their contempt, they even went so far as to call the man a disciple of Jesus, while asserting their superiority as disciples of Moses. Their disdainful words and reluctance to accept Jesus's authority further revealed their deep-seated allegiance to the law of Moses rather than to Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 2.101098230131305,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+            "commentatorTierSimilarities": [
+                28.38,
+                37.57,
+                34.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, unwilling to acknowledge the miracle, responded by saying, Give God the praise; we know that this man is a sinner. They sought to protect God's honor and refused to attribute the miracle to a supposed sinner. In their contempt, they even called the man a disciple of Jesus, while asserting their superiority as disciples of Moses. Their disdainful words and allegiance to the law of Moses over Christ revealed their resistance to accepting Jesus's authority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.050015161191256,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                27.64,
+                38.02,
+                34.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Unwilling to acknowledge the miracle, the Pharisees retorted, Give God the praise; we know that this man is a sinner. Their response was driven by a desire to safeguard God's honor and avoid attributing the miracle to a sinner. Furthermore, they scornfully referred to the man as a disciple of Jesus, while asserting their own status as disciples of Moses. This contemptuous language exposed their deep-rooted allegiance to the law of Moses rather than accepting Jesus' authority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.050934411056569,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                28.16,
+                37.59,
+                34.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In their reluctance to acknowledge the miracle, the Pharisees countered with the words, Give God the praise; we know that this man is a sinner. Their aim was to protect the honor of God by refusing to credit the miracle to someone they perceived as a sinner. They even went so far as to insultingly label the man as a disciple of Jesus, while asserting their own status as disciples of Moses. Their refusal to accept Jesus' authority revealed their deep-seated allegiance to the law of Moses.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.07516166822579,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                26.92,
+                39.08,
+                33.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, in their effort to discredit the miracle, responded disdainfully, Give God the praise; we know that this man is a sinner. Their intention was to safeguard the honor of God, refusing to attribute the miracle to someone they deemed sinful. In a contemptuous tone, they even labeled the man as a disciple of Jesus, while asserting their own superiority as disciples of Moses. This pointed to their unwavering loyalty to the law of Moses, illustrating their resistance to Jesus' authority.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.1065134735553124,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.38,
+            "commentatorTierSimilarities": [
+                27.63,
+                38.96,
+                33.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-21-2023 03:07:12",
+    "verseRef": "John 6:46",
+    "bestBHT": {
+        "bht": "Only Christ, who is from God, has seen the Father and has a complete and immediate knowledge of Him. Our knowledge of the Father is partial and derived through Christ. It is important to note that our hearing and learning from the Father is not the same as Christ's direct access to Him. While we cannot see the Father with our eyes, we can see Him through the Son. Thus, the only way for us to truly see God is to see Him through Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 57.45,
+        "qualityScore": 2.491811797959305,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.19,
+        "commentatorTierSimilarities": [
+            34.11,
+            36.55,
+            29.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mention of hearing from the Father might lead them to think of a personal communication from the Father to each man, and thus the necessity of the mission of the Son might be invalidated.",
+            "This was the only way in which a Jew could misunderstand ver. 45; he could not dream of a seeing of the Father with bodily eyes.",
+            "His knowledge of the Father is complete and immediate; ours, partial, and derived through Him only."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Lest they should confound that 'hearing and learning of the Father,' to which believers are admitted by divine teaching, with His own immediate access to Him.\" ",
+            "He here throws in a parenthetical explanation stating, as explicitly as words could do it, how totally different the two cases were.",
+            "Only He who is 'from God' hath this naked, immediate access to the Father."
+        ],
+        "Albert Barnes": [
+            "They were not, therefore, to expect to see God, and his words were not to be perverted as if he meant to teach that.",
+            "He is the only-begotten Son who is in the bosom of the Father.",
+            "By his being of God is meant that he is the only-begotten Son of God, and sent as the Messiah into the world."
+        ],
+        "Marvin Vincent": [
+            "The Father is not seen immediately, but through the Son.",
+            "From with God.",
+            "Hath seen...with an idea of association with."
+        ],
+        "John Calvin": [
+            "No knowledge of Christ can be obtained, until the Father enlighten by his Spirit those who are by nature blind.",
+            "It is in vain to seek God, unless Christ go before; for the majesty of God is so lofty, that the senses of men cannot reach him.",
+            "All that knowledge of God which men may think that they have attained out of Christ will be a deadly abyss."
+        ],
+        "Philip Schaff": [
+            "Not that any one hath seen the Father, save he which is from God, he hath seen the Father.",
+            "His saying that all who come to Him have first \u2018heard from the Father\u2019 might lead His hearers to infer that the descent out of heaven likewise implied nothing more than could be said of all. Such an inference this verse is intended to preclude.",
+            "If they would really be \u2018taught\u2019 of the Father it can only be through Him."
+        ],
+        "Archibald T. Robertson": [
+            "With the eyes no one has seen God save the Son who is 'from God' in origin.",
+            "The only way for others to see God is to see Christ.",
+            "The Son who is 'from God' in origin is the only one who has seen the Father."
+        ],
+        "John Gill": [
+            "Not that any man hath seen the Father... save he which is of God; he hath seen the Father.\" ",
+            "...has perfect knowledge of him, personal communion with him.",
+            "...has seen the perfections and glory of his person, and the thoughts, purposes, and counsels of his heart, his whole mind, and will, and all the grace, goodness, and mercy which is in him, and has declared it."
+        ],
+        "John Wesley": [
+            "Not that anyone must expect him to appear in a visible shape.",
+            "He who is from or with God, in a more eminent manner than any creature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Only Christ, who is from God and the only one who has seen the Father, can fully and immediately know the Father. His knowledge is distinct from ours; we can only hear and learn from the Father through Him. It is important to understand that the Son's immediate access to the Father should not be confused with any personal communication we may have with God. We cannot see the Father directly, but through the Son, who is from God and in association with Him. Therefore, the only way for us to truly see God is to see Him through Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 56.36,
+            "qualityScore": 2.6129530009839312,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.22,
+            "commentatorTierSimilarities": [
+                34.45,
+                37.9,
+                27.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Only Christ, who is from God, has seen the Father and has a complete and immediate knowledge of Him. Our knowledge of the Father is partial and derived through Christ. It is important to note that our hearing and learning from the Father is not the same as Christ's direct access to Him. While we cannot see the Father with our eyes, we can see Him through the Son. Thus, the only way for us to truly see God is to see Him through Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 57.45,
+            "qualityScore": 2.491811797959305,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.19,
+            "commentatorTierSimilarities": [
+                34.11,
+                36.55,
+                29.33
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

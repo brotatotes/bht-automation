@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:05:25",
+    "verseRef": "John 4:17",
+    "bestBHT": {
+        "bht": "The woman's response, I have no husband, may appear innocent, but Jesus perceives her deceit and knows her entire life of sin. Her words are a genuine confession, acknowledging her guilt and perhaps wretchedness. Jesus accepts the truthfulness of her statement, yet reveals that he fully understands her past. He presses the wound of her wickedness to lead her to repentance, responding with a weighty yet courteous acknowledgment, Thou hast well said. This encounter offers her the potential for transformation and invites her to confront her brokenness.",
+        "wordCount": 88,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 1.8020310017111991,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+        "commentatorTierSimilarities": [
+            22.95,
+            42.92,
+            34.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This answer is not for a moment to be treated as something unexpected by Him who commanded her.",
+            "He has before Him her whole life of sin.",
+            "which she in vain endeavours to cover by the doubtful words of this verse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Give me this water... a wondering desire after she scarce knew what from this mysterious Stranger.",
+            "This is not obtuseness\u2014that is giving way...",
+            "...expresses a wondering desire after she scarce knew what..."
+        ],
+        "Albert Barnes": [
+            "Perhaps she feared that if she came there with the man that she lived with, the truth might be exposed.",
+            "It is not improbable that by this time she began to suspect that Jesus was a prophet.",
+            "Hast well said - Hast said the truth."
+        ],
+        "Marvin Vincent": [
+            "Well [\u03ba\u03b1\u03bb\u03c9\u03c2] . Aptly, truly. Compare John 8:48; Matthew 14:7; Luke 20:39."
+        ],
+        "John Calvin": [
+            "We do not yet fully perceive the fruit of this advice, by which Christ intended to pierce the heart of this woman, to lead her to repentance.",
+            "We are so intoxicated, or rather stupified, by our self-love, that we are not at all moved by the first wounds that are inflicted.",
+            "But Christ applies an appropriate cure for this sluggishness, by pressing the ulcer more sharply, for he openly reproaches her with her wickedness."
+        ],
+        "Philip Schaff": [
+            "The woman\u2019s words are a genuine confession, an acknowledgment, perhaps of wretchedness, certainly of guilt.",
+            "He accepts the truthfulness of her statement, but shows her how fully her life is known to Him.",
+            "In this answer the emphasis lies on 'husband' - the woman\u2019s words are repeated with their order changed. 'I have no husband:' 'Well saidst thou, Husband I have not.'"
+        ],
+        "Archibald T. Robertson": [
+            "Her language veils her deceit.",
+            "Jesus saw through the double sense of her language and read her heart.",
+            "This a true thing thou hast said."
+        ],
+        "John Gill": [
+            "Which was a truth she would not have spoke at another time and place, or to any of her neighbours.",
+            "Jesus said unto her, thou hast well said, I have no husband; this is the truth.",
+            "It is really fact, and is the true state of the case, between thee and him, who goes for thy husband."
+        ],
+        "John Wesley": [
+            "Thou hast well said \u2014 We may observe in all our Lord's discourses the utmost weightiness, and yet the utmost courtesy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman's response to Jesus, I have no husband, may seem innocuous, but Jesus sees through her deceit and reads her heart. He acknowledges the truthfulness of her statement while revealing that he knows about her entire life of sin. Her words, though veiled, are a genuine confession of guilt, and Jesus responds by exposing the full extent of her wickedness. This interaction serves as a piercing call to repentance, intended to awaken her from the stupor of self-love. Jesus' response, Thou hast well said, carries both weightiness and courtesy, acknowledging the truth of her situation with the man she is living with. Through this exchange, Jesus demonstrates his knowledge and authority, inviting the woman to encounter the transformational power of repentance.",
+            "wordCount": 124,
+            "quoteTokenProportion": 36.05,
+            "qualityScore": 1.8757827597577843,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.71,
+            "commentatorTierSimilarities": [
+                23.09,
+                39.48,
+                37.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman's response, I have no husband, veils her deceit, but Jesus sees through it, revealing her entire life of sin. Her words, a genuine confession of guilt and perhaps wretchedness, invite Jesus to expose her wickedness further. This exchange serves as a piercing call to repentance, awakening her from the stupor of self-love. Jesus' response, Thou hast well said, acknowledges the truth of her situation with the man she is living with, displaying both weightiness and courtesy. Through this encounter, Jesus invites her to experience the transformative power of repentance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.720490996516796,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                24.53,
+                39.8,
+                35.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman's response, I have no husband, veils her deceit as she tries to cover up her life of sin. Jesus sees through her words, acknowledging the truthfulness of her statement. He exposes her wickedness, pressing the wound of her guilt in order to lead her to repentance. His response, Thou hast well said, carries weight and courtesy, recognizing the true state of her situation with the man she is living with. Through this interaction, Jesus offers her the opportunity for transformation and healing.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.793125258869802,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                25.65,
+                40.08,
+                34.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman's response, I have no husband, may appear innocent, but Jesus perceives her deceit and knows her entire life of sin. Her words are a genuine confession, acknowledging her guilt and perhaps wretchedness. Jesus accepts the truthfulness of her statement, yet reveals that he fully understands her past. He presses the wound of her wickedness to lead her to repentance, responding with a weighty yet courteous acknowledgment, Thou hast well said. This encounter offers her the potential for transformation and invites her to confront her brokenness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8020310017111991,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                22.95,
+                42.92,
+                34.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman's response, I have no husband, may seem innocent, but Jesus sees through her deceit, acknowledging her entire life of sin. He accepts the truthfulness of her statement while exposing the full knowledge he possesses about her. This interaction serves as a call to repentance, piercing the heart of the woman and awakening her from self-love. Jesus's response, Thou hast well said, carries both weight and courtesy, recognizing the true state of her situation. In this exchange, he offers her the opportunity for transformation and healing.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.7209108269764415,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                24.57,
+                39.25,
+                36.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

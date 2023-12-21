@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:13:07",
+    "verseRef": "John 15:22",
+    "bestBHT": {
+        "bht": "The sin in question is not the general sinful state of the world, but rather the sin of hatred towards Jesus and His followers. They had no excuse, for Jesus had plainly shown them the proofs of His mission from the Father. By rejecting Him, they embraced evil willingly and had no pretext of self-justification. Their rejection of Jesus was the greatest sin, surpassing all others, leaving them without any cloak to hide their wrongdoing.",
+        "wordCount": 76,
+        "quoteTokenProportion": 46.3,
+        "qualityScore": 2.1766195216319413,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+        "commentatorTierSimilarities": [
+            31.28,
+            30.57,
+            38.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sin spoken of is, not the generally sinful state of the world,\u2014nor the sin of unbelief in Christ, which they of course could not have committed, had He never come: but, the sin of hatred to Him and His, which might have been excused otherwise...",
+            "...now that He had come and discoursed with them, had no excuse, since He had plainly shewn them the proofs of His mission from the Father.",
+            "Thus He shews that they embraced the side of evil of their own accord, and had no pretext of self-justification."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All other sins being light compared with the rejection of the Son of God.",
+            "Now they have no cloak for their sin\u2014rather, 'pretext.'"
+        ],
+        "Albert Barnes": [
+            "No small part of the gospel of John consists of arguments used by the Saviour to convince the Jews that he came from God.",
+            "Our guilt will be in proportion to the light that we possess and the mercies that we reject.",
+            "The proof has been so clear that they cannot plead ignorance; it has been so often presented that they cannot allege that they had no opportunity of knowing it."
+        ],
+        "Marvin Vincent": [
+            "Had sin [\u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1\u03bd \u03b5\u03b9\u03c7\u03bf\u03bd].\" ",
+            "Cloke [\u03c0\u03c1\u03bf\u03c6\u03b1\u03c3\u03b9\u03bd]. From pro, before, in front of, and fhmi, to say or affirm. Hence something which is placed in front of the true cause of a thing, a pretext.\" ",
+            "By such cloaked charity, when thou dost offend before Christ but once, thou hast offended twice herein."
+        ],
+        "John Calvin": [
+            "In the person of those men he intended to strike terror into all who reject the truth of God, when it is offered to them, or intentionally fight against it, when it is known.",
+            "Christ\u2019s acquittal of them, therefore, is confined to one kind of sin, because it takes away from the Jews every pretense of ignorance in this sin, of despising and hating the Gospel.",
+            "For it was not the intention of Christ here to promise pardon to any, but to hold his enemies convicted, who had obstinately rejected the grace of God, that it might be fully evident that they were unworthy of all pardon and mercy."
+        ],
+        "Philip Schaff": [
+            "If I had not come and spoken unto them, they would not have sin; but now they have no excuse for their sin.\" ",
+            "Its unbelief, with all that hatred of the disciples to which it led, is its own deliberate act, its ground of condemnation at the bar of God, to be in due time the terrible ground of its own self-condemnation.",
+            "The revelation of the Father, given by the Son, was not only the highest that could be given, it was such that it ought to have found an answer in that voice which even in the heart of the world echoes to the Divine voice."
+        ],
+        "Archibald T. Robertson": [
+            "They had not had sin...without it.\" ",
+            "The imperfect active indicative with -\u03bf\u03c3\u03b1\u03bd...occurs in the papyri and the inscriptions and the Boeotian dialect.\" ",
+            "Excuse...Mere pretence, in John only here and verse John 15:24."
+        ],
+        "John Gill": [
+            "The ignorance of the Jews is represented as inexcusable, since Christ was come, and had preached unto them.",
+            "They could have no pretext to make for their ignorance and disbelief: if all this had not been done, they had not had sin.",
+            "They could not say, had he come to us, and told us that he was the Messiah, and given evidence of his being sent by the Father, we would have believed him, and received him as the Messiah; for he did do this, and so cut off all excuses and pretences from them."
+        ],
+        "John Wesley": [
+            "They had not had sin \u2014 Not in this respect."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sin referred to in this verse is not the general sinful state of the world or the sin of unbelief in Christ, but rather the sin of hatred towards Him and His followers. By rejecting Jesus despite being shown clear proofs of His mission from the Father, the people are without excuse and have embraced evil willingly. This rejection is the greatest sin, overshadowing all others. They can no longer claim ignorance or pretext to justify their actions. Their sin is now exposed, leaving them without a cloak to hide behind.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.9826422756375268,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
+            "commentatorTierSimilarities": [
+                31.35,
+                30.5,
+                38.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sin in question is not the sin of unbelief or the general sinful state of the world. Rather, it is the sin of hating Jesus and His followers. By rejecting Jesus despite being shown clear evidence of His mission from the Father, the people have willingly chosen evil and can no longer justify their actions. This rejection is the greatest sin, surpassing all others. They can no longer claim ignorance or pretext to excuse themselves. Their sin is now laid bare, leaving them with no concealment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9516402718551076,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                30.3,
+                29.68,
+                40.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sin spoken of here is the sin of hatred towards Jesus and His followers, which is greater than all other sins. The people had no excuse for their sin, as Jesus had clearly shown them the proofs of His mission from the Father. By rejecting Him, they embraced evil willingly, and no pretext of self-justification remained. They could no longer claim ignorance or cloak their sin. Their rejection of Jesus was a deliberate act that condemned them before God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.1354850057926127,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+            "commentatorTierSimilarities": [
+                29.64,
+                30.98,
+                39.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sin referred to in this passage is the sin of hatred towards Jesus and His followers. It is a rejection of Him, despite the clear proofs of His mission from the Father that He had shown them. By choosing to embrace evil, they stripped themselves of any pretext or excuse for their sin. Their rejection of Jesus is the gravest offense, surpassing all other sins. Their deliberate act of disregarding Him puts them in utter condemnation before God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.0516371539437745,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+            "commentatorTierSimilarities": [
+                30.13,
+                32.35,
+                37.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sin in question is not the general sinful state of the world, but rather the sin of hatred towards Jesus and His followers. They had no excuse, for Jesus had plainly shown them the proofs of His mission from the Father. By rejecting Him, they embraced evil willingly and had no pretext of self-justification. Their rejection of Jesus was the greatest sin, surpassing all others, leaving them without any cloak to hide their wrongdoing.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.1766195216319413,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+            "commentatorTierSimilarities": [
+                31.28,
+                30.57,
+                38.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

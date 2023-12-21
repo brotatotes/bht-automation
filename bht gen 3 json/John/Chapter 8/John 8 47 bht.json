@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:09:02",
+    "verseRef": "John 8:47",
+    "bestBHT": {
+        "bht": "And because I tell you the truth, ye believe me not. Had He been less true they would have hailed Him more readily. Not although, but just because He did so. Their not listening proved that they were not of God. They were of the earth and the devil, not of God. He concludes, therefore, that they have nothing in common with God, for they do not hear the words of God.\n",
+        "wordCount": 72,
+        "quoteTokenProportion": 65.96,
+        "qualityScore": 1.858554377335623,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+        "commentatorTierSimilarities": [
+            35.63,
+            28.08,
+            36.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "47.] gives the answer to the previous question, and concludes the discourse with the final disproof of their assertion, ver. 41. This verse is cited 1 John iv. 6."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And because I tell you the truth, ye believe me not.",
+            "Had He been less true they would have hailed Him more readily.",
+            "Not although, but just because He did so"
+        ],
+        "Albert Barnes": [
+            "He that is of God - He that loves, fears, and honors God.",
+            "Listens to, or attends to the doctrines or commandments of God, as a child who loves his parent will regard and obey his commandments.",
+            "A willingness to receive all that God teaches us and to obey all his commandments, is an undoubted proof that we are his friends."
+        ],
+        "Marvin Vincent": [
+            "He that is of [\u03bf \u03c9\u03bd \u03b5\u03ba] . The familiar construction. See on 1 46."
+        ],
+        "John Calvin": [
+            "He concludes, therefore, that they have nothing in common with God, for they do not hear the words of God.",
+            "We are taught by this passage, that there is not a more evident sign of a reprobate mind, than when one cannot endure the doctrine of Christ, even though, in other respects, it shone with angelic sanctity.",
+            "For he who has the word enjoys God himself; but he who rejects it excludes himself from righteousness and life."
+        ],
+        "Philip Schaff": [
+            "He that is of God, and he alone, thus listens to the words of God: recognizing their origin, willing to receive their teaching, he takes them into his heart.",
+            "He that is of God heareth the words of God: for this cause ye hear not, because ye are not of God.",
+            "He takes them into his heart."
+        ],
+        "Archibald T. Robertson": [
+            "Their not listening proved that they were not of God.",
+            "They were of the earth and the devil, not of God.",
+            "He that is of God."
+        ],
+        "John Gill": [
+            "A regenerate man has eyes to see into the glory, loveliness, excellency, suitableness, and usefulness of these things.",
+            "He has ears to hear, and a heart to understand them, which others have not.",
+            "Because they did not hear the words of God, therefore they were not of God."
+        ],
+        "John Wesley": [
+            "He that is of God \u2014 That either loves or fears him, heareth - With joy and reverence, God's words - Which I preach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And because I tell you the truth, ye believe me not. Had He been less true they would have hailed Him more readily. Not although, but just because He did so. Their not listening proved that they were not of God. They were of the earth and the devil, not of God. He that is of God, heareth the words of God. He concludes, therefore, that they have nothing in common with God, for they do not hear the words of God. We are taught by this passage, that there is not a more evident sign of a reprobate mind, than when one cannot endure the doctrine of Christ, even though, in other respects, it shone with angelic sanctity.",
+            "wordCount": 119,
+            "quoteTokenProportion": 60.53,
+            "qualityScore": 1.9623947413842786,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                29.61,
+                31.55,
+                38.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And because I tell you the truth, ye believe me not. Had He been less true they would have hailed Him more readily. Not although, but just because He did so. Their not listening proved that they were not of God. They were of the earth and the devil, not of God. He concludes, therefore, that they have nothing in common with God, for they do not hear the words of God.\n",
+            "wordCount": 72,
+            "quoteTokenProportion": 65.96,
+            "qualityScore": 1.858554377335623,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                35.63,
+                28.08,
+                36.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because Jesus tells them the truth, the religious leaders do not believe in him. If he had been less true, they would have welcomed him more readily. Their refusal to listen to Jesus proves that they are not of God but of the earth and the devil. Those who are of God, however, listen to his words with joy and reverence, taking them into their hearts. This passage reminds us that those who cannot endure the teachings of Christ reveal a reprobate mind, for the word of God brings righteousness and life. A regenerate person appreciates the beauty and truth of God's words, embracing them with joy and understanding.",
+            "wordCount": 110,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.9771315979242496,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                20.65,
+                36.48,
+                42.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because Jesus speaks the truth, the religious leaders refuse to believe in him. Their rejection of his words reveals their lack of connection with God. In contrast, those who love and fear God listen to his teachings with joy and reverence, receiving them into their hearts. This highlights the importance of embracing the doctrine of Christ, as it is a clear indication of a regenerate mind. Those who reject it exclude themselves from righteousness and life, while those who truly belong to God have eyes to see and ears to hear his words.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9703628148664087,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+            "commentatorTierSimilarities": [
+                18.47,
+                37.65,
+                43.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus tells the truth, yet the religious leaders do not believe him. Their unwillingness to listen signifies that they are not of God, but rather of the earth and the devil. In contrast, those who love and fear God gladly receive his words, embracing them with joy and reverence, demonstrating their connection to God. Rejecting the teachings of Christ reveals a reprobate mind and denies oneself righteousness and life. A regenerate person, however, appreciates and understands God's words, accepting them wholeheartedly.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.903668811703099,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.64,
+            "commentatorTierSimilarities": [
+                18.37,
+                37.39,
+                44.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

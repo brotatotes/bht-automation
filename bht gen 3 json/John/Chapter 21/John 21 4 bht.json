@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:15:25",
+    "verseRef": "John 21:4",
+    "bestBHT": {
+        "bht": "When day was now breaking, Jesus suddenly appeared on the shore, but the disciples did not recognize him. It may have been due to the imperfect light or the fact that some time had passed since his last manifestation. Regardless, they were unaware that it was Jesus standing before them. Christ, risen from the dead, visits his people early in difficult times, even if they are unaware of his presence. He is a present help in their time of trouble, always mindful of them amidst their afflictions in this world.",
+        "wordCount": 90,
+        "quoteTokenProportion": 53.52,
+        "qualityScore": 1.9995960062678417,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.83,
+        "commentatorTierSimilarities": [
+            22.82,
+            37.08,
+            40.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4.] stood on the shore\u2014the preposition rendered by on is here, as in ch. xx. 19, one of motion\u2014He came and stood on the shore. A sudden appearance is indicated by the words."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus stood.\" ",
+            "The disciples knew not it was Jesus.\" ",
+            "Perhaps there had been some considerable interval since the last manifestation."
+        ],
+        "Albert Barnes": [
+            "Knew not that it was Jesus - Probably it was yet twilight, and in the distance they could not distinctly recognize him."
+        ],
+        "Marvin Vincent": [
+            "The A. V. does not agree so well with the fact that Jesus was not at once recognized by the disciples, owing in part, perhaps, to the imperfect light.",
+            "Rev., when day was now breaking.",
+            "The preposition eijv, to, makes the phrase equivalent to 'Jesus came to the beach and stood there.'"
+        ],
+        "Philip Schaff": [
+            "Night passed away, and the day began to break.",
+            "Then Jesus stood on the shore, but they did not recognize Him.",
+            "It may be that the light was insufficient, it may be that it was not yet His wish that He should be known."
+        ],
+        "Archibald T. Robertson": [
+            "When day was now breaking... dawn coming on and still dark.\" ",
+            "In Matthew 27:1 the aorist participle means that dawn had come.\" ",
+            "Present indicative retained in indirect assertion."
+        ],
+        "John Gill": [
+            "Christ visits his right early, and is a present help to them in their time of trouble.",
+            "So Christ, risen from the dead, is glorified, is in heaven; but not unmindful of his people amidst all their afflictions in this world.",
+            "So Christ is sometimes near his people, and they know it not."
+        ],
+        "John Wesley": [
+            "They knew not that it was Jesus \u2014 Probably their eyes were holden."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When day was now breaking, Jesus suddenly appeared on the shore, but the disciples did not recognize him. It may have been due to the imperfect light or the fact that some time had passed since his last manifestation. Regardless, they were unaware that it was Jesus standing before them. Perhaps it was yet twilight, and in the distance, they could not distinctly make him out. Christ, risen from the dead, visits his people early in difficult times, even if they are unaware of his presence. He is a present help in their time of trouble, always mindful of them amidst their afflictions in this world.",
+            "wordCount": 106,
+            "quoteTokenProportion": 55.0,
+            "qualityScore": 2.0450933877267707,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                20.91,
+                41.73,
+                37.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When day was now breaking, Jesus suddenly appeared on the shore, but the disciples did not recognize him. It may have been due to the imperfect light or the fact that some time had passed since his last manifestation. Regardless, they were unaware that it was Jesus standing before them. Christ, risen from the dead, visits his people early in difficult times, even if they are unaware of his presence. He is a present help in their time of trouble, always mindful of them amidst their afflictions in this world.",
+            "wordCount": 90,
+            "quoteTokenProportion": 53.52,
+            "qualityScore": 1.9995960062678417,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.83,
+            "commentatorTierSimilarities": [
+                22.82,
+                37.08,
+                40.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As day was breaking, Jesus stood on the shore, yet the disciples did not realize it was him. It might have been due to the imperfect light or the passage of time since they last saw him. They were oblivious to the fact that Jesus was standing right in front of them. This reminds us that Christ is sometimes near his people, ready to help them, even if they do not recognize his presence. He is attentive to their needs, even in the midst of their afflictions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 2.046336571014724,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                22.14,
+                37.53,
+                40.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As day was breaking, Jesus stood on the shore, yet the disciples did not recognize him. It might have been due to the dim light or the passage of time since they last encountered him. Unaware of Jesus' presence, they continued their tasks. This serves as a reminder that Christ is sometimes near his people, present and ready to provide assistance, even if they fail to recognize him. He remains mindful of their struggles and offers his help in the midst of their afflictions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.854701464989196,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                23.11,
+                37.41,
+                39.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When day was now breaking, Jesus suddenly appeared on the shore, but the disciples did not recognize him. Perhaps it was due to the imperfect light or the interval between his previous manifestations. Nonetheless, they remained oblivious to the fact that it was Jesus standing before them. This situation reflects the reality that Christ can be near his people even when they are unaware of his presence. He is always attentive to their needs, providing support and guidance amidst their afflictions in this world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.9145832405101255,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                24.27,
+                37.52,
+                38.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

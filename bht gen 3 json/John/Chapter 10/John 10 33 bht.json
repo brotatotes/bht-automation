@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:09:58",
+    "verseRef": "John 10:33",
+    "bestBHT": {
+        "bht": "The Jews accused Jesus of blasphemy, claiming that he was making himself equal to God by stating that he was one with the Father. They saw Jesus, a man, making this claim and prepared to stone him, as was the punishment for blasphemy. Their accusation revealed their understanding of Jesus' assertion and the potential offense to God's honor. Whether Jesus' claim was indeed blasphemy depended on the question of his identity as the Son of God.",
+        "wordCount": 77,
+        "quoteTokenProportion": 44.0,
+        "qualityScore": 1.969181747486986,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+        "commentatorTierSimilarities": [
+            26.57,
+            30.4,
+            43.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "33.] makest thyself God is equivalent to \u201cmaking himself equal to God,\u201d ch. v. 18."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "for a blasphemy\u2014whose legal punishment was stoning",
+            "thou, being a man\u2014that is, a man only.",
+            "makest thyself God\u2014Twice before they understood Him to advance the same claim, and both times they prepared themselves to avenge what they took to be the insulted honor of God"
+        ],
+        "Albert Barnes": [
+            "This shows how they understood what he had said.",
+            "Dost claim to be God, or thy language implies this."
+        ],
+        "Marvin Vincent": [
+            "Saying. Omit."
+        ],
+        "John Calvin": [
+            "A good conscience must therefore be to us a wall of brass, by which we boldly repel the reproaches and calumnies with which we are assailed.",
+            "Scripture refers to God, when his majesty is offended and insulted.",
+            "They argue therefore that Christ is a blasphemer and a sacrilegious person, because, being a mortal man, he lays claim to Divine honor."
+        ],
+        "Philip Schaff": [
+            "These words show conclusively how the saying of John 10:30 was understood by those who heard it.",
+            "They perceive now who is meant by \u2018the Father\u2019 (comp. John 8:27), and see that to claim oneness with Him is to claim Deity.",
+            "All recollection of \u2018good works\u2019 and indeed all evidence whatever they cast away, treating such a claim as incapable of support by any evidence."
+        ],
+        "Archibald T. Robertson": [
+            "Concerning a good deed we are not stoning thee.\" ",
+            "This is the only example in John of the word \u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03b9\u03b1.",
+            "But was it blasphemy? Only if he was not the Son of God."
+        ],
+        "John Gill": [
+            "they concluded very rightly, from his saying, John 10:30, that God was his Father, and that he and his Father were one; that is, in nature and essence, and therefore he must be God",
+            "he is truly and really man, but then he is not a mere man, as the Jews suggested; but is truly God, as well as man, and is both God and man in one person",
+            "the modern Jews still continue the same charge against Jesus, as their ancestors did, and express it in the same language, and say of him, that he was a man, and set himself up for God"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews accused Jesus of blasphemy for claiming to be God, equating it with making himself equal to God. They prepared to stone him, as was the punishment for blasphemy. They saw Jesus, a man, claiming to be God and understood it as an insult to God's honor. Their accusation showed their understanding of Jesus' claim to be one with the Father, identifying him as the Son of God. However, the question of whether it was blasphemy depended on whether Jesus truly was the Son of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.966808858762461,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+            "commentatorTierSimilarities": [
+                27.84,
+                29.47,
+                42.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews accused Jesus of blasphemy, claiming that he was making himself equal to God by stating that he was one with the Father. They saw Jesus, a man, making this claim and prepared to stone him, as was the punishment for blasphemy. Their accusation revealed their understanding of Jesus' assertion and the potential offense to God's honor. Whether Jesus' claim was indeed blasphemy depended on the question of his identity as the Son of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.969181747486986,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                26.57,
+                30.4,
+                43.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews accused Jesus of blasphemy, claiming that he was making himself equal to God by stating that he was one with the Father. They saw Jesus, a man, making this claim and prepared to stone him, as was the punishment for blasphemy. Their accusation revealed their understanding of Jesus' assertion and the potential offense to God's honor. Whether Jesus' claim was indeed blasphemy depended on the question of his identity as the Son of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.969181747486986,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                26.57,
+                30.4,
+                43.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews accused Jesus of blasphemy, asserting that he made himself equal to God by claiming to be one with the Father. In their eyes, Jesus, a man, dared to make this declaration, and they intended to stone him, per the punishment for blasphemy. Their reaction demonstrated their interpretation of Jesus' statement, as well as their perception of the offense against God's honor. To determine if Jesus truly committed blasphemy, it hinged on establishing his identity as the Son of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.865557106146185,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.37,
+            "commentatorTierSimilarities": [
+                28.03,
+                29.01,
+                42.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews accused Jesus of blasphemy, claiming that by stating he was one with the Father, he was making himself equal to God. They saw Jesus, a man, making this claim and prepared to stone him as punishment. This accusation revealed their understanding of Jesus' assertion and the potential offense to God's honor. The determination of whether it was blasphemy or not depended on verifying Jesus' identity as the Son of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.9198066962150568,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+            "commentatorTierSimilarities": [
+                25.69,
+                31.42,
+                42.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

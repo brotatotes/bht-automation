@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:12:55",
+    "verseRef": "John 15:24",
+    "bestBHT": {
+        "bht": "Jesus refers to the testimony of His works as leaving them without excuse, for His miracles surpassed those of Moses and the prophets, serving as clear proofs of His deity and being the true Messiah. His words and works were sufficient to deprive the world of all excuse in rejecting and hating Him. The rejection of Jesus as the Messiah, despite His teachings and miracles, arose from obstinacy, malice, and inveterate hatred, leaving them in a permanent attitude of hostility.",
+        "wordCount": 80,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 1.777209755355004,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+        "commentatorTierSimilarities": [
+            12.5,
+            45.95,
+            41.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] He refers to the testimony of His works among them also, as leaving them again without excuse;\u2014they had had ocular witness of His mission."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. If I had not done . . . the",
+            "\tworks which none other . . . did\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "The works which none other man did - The miracles of Jesus surpassed those of Moses and the prophets:"
+        ],
+        "John Calvin": [
+            "Under the word works he includes, in my opinion, all the proofs which he gave of his Divine glory; for by miracles, and by the power of the Holy Spirit, and by other demonstrations, he clearly proved that he was the Son of God.",
+            "Christ is more eminent in miracles ... for he employed his own name, his own authority, and his own power, in performing miracles.",
+            "This passage reminds us to consider attentively the works of God, in which, by displaying his power, he wishes us to render the honor which is due to him."
+        ],
+        "Philip Schaff": [
+            "Jesus had spoken in John 15:22 of his \u2018words\u2019 as sufficient to deprive the world of all excuse in rejecting and hating Him.",
+            "He now turns to His \u2018works\u2019 as effecting the same end.",
+            "The words of Jesus were the Father\u2019s words as well as His own...of the same character are the \u2018works,\u2019 which here, as elsewhere, are not to be confined to miracles."
+        ],
+        "Archibald T. Robertson": [
+            "They have both seen and hated.",
+            "Permanent attitude and responsibility.",
+            "United in this attitude of hostility."
+        ],
+        "John Gill": [
+            "which were clear proofs, and full demonstrations of his deity, and of his being the true Messiah",
+            "now if these works had not been done among them, openly, visibly, and publicly, they had not had sin",
+            "for their rejection of him as the Messiah, notwithstanding the doctrines he taught, and the miracles he wrought, plainly arose from obstinacy, malice, and inveterate hatred against Christ, and against the Father that sent him"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus refers to the testimony of His works among them as leaving them without excuse. His miracles surpassed those of Moses and the prophets. His words and works were sufficient to deprive the world of all excuse in rejecting and hating Him. The works He performed were clear proofs of His deity and being the true Messiah. By displaying His power, God wished for us to render the honor that is due to Him. The rejection of Jesus as the Messiah, despite the doctrines He taught and the miracles He performed, arose from obstinacy, malice, and inveterate hatred. These works were done openly, visibly, and publicly.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6390583524226308,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.84,
+            "commentatorTierSimilarities": [
+                11.8,
+                43.3,
+                44.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus refers to the testimony of His works as leaving them without excuse. His miracles surpassed those of Moses and the prophets. His words and works were sufficient to deprive the world of all excuse in rejecting and hating Him. The works He performed were clear proofs of His deity and being the true Messiah. By displaying His power, God wished for us to render the honor that is due to Him. The rejection of Jesus as the Messiah arose from obstinacy, malice, and inveterate hatred.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.676253781436717,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                11.86,
+                45.33,
+                42.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus refers to the testimony of His works as leaving them without excuse, for His miracles surpassed those of Moses and the prophets, serving as clear proofs of His deity and being the true Messiah. His words and works were sufficient to deprive the world of all excuse in rejecting and hating Him. The rejection of Jesus as the Messiah, despite His teachings and miracles, arose from obstinacy, malice, and inveterate hatred, leaving them in a permanent attitude of hostility.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.777209755355004,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+            "commentatorTierSimilarities": [
+                12.5,
+                45.95,
+                41.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus refers to the testimony of His works among them as leaving them without excuse. His miracles surpassed those of Moses and the prophets, serving as clear proofs of His deity and being the true Messiah. His words and works were sufficient to deprive the world of all excuse in rejecting and hating Him. The rejection of Jesus as the Messiah arose from obstinacy, malice, and inveterate hatred. These works were done openly, visibly, and publicly.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.6072703614959432,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.78,
+            "commentatorTierSimilarities": [
+                13.28,
+                44.51,
+                42.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus refers to the testimony of His works as leaving them without excuse. The miracles He performed were clear proofs of His deity and being the true Messiah. His words and works were sufficient to deprive the world of all excuse in rejecting and hating Him. The rejection of Jesus as the Messiah arose from obstinacy, malice, and inveterate hatred. These works were done openly, visibly, and publicly.",
+            "wordCount": 68,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.573765960467936,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                13.92,
+                41.56,
+                44.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:10:19",
+    "verseRef": "John 11:24",
+    "bestBHT": {
+        "bht": "Martha acknowledges Jesus' words about her brother rising again in the resurrection at the last day, yet she yearns for more immediate solace. Her longing for a present resurrection is hinted at in her response, as she desires a tangible demonstration of Jesus' power. In this moment of desperation, Jesus seizes the opportunity to reveal Himself in the most remarkable way, providing a consolation that surpasses understanding and cannot be put into words.",
+        "wordCount": 73,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.1206788531760634,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+        "commentatorTierSimilarities": [
+            35.04,
+            41.85,
+            23.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] She understands the words rightly, but gently repels the insufficient comfort of his ultimate resurrection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. Martha said, . . . I know that",
+            "\the shall rise again . . . at the last day\u2014\"But are we",
+            "\tnever to see him in life till then?"
+        ],
+        "Albert Barnes": [
+            "At the last day - The day of judgment.",
+            "Of this Martha was fully convinced.",
+            "She in this manner delicately hinted what she did not presume expressly to declare her wish that Jesus might even now raise him up."
+        ],
+        "Marvin Vincent": [
+            "In the resurrection. Wyc., the again rising."
+        ],
+        "John Calvin": [
+            "We ought, therefore, to guard against both of these extremes.",
+            "When God opens his mouth, it is not proper that he should find our hearts either blocked up, or too firmly closed.",
+            "If you mean the last resurrection, I have no doubt that my brother will be raised again at the last day, and I comfort myself with this confident expectation, but I do not know if you direct my attention to something greater."
+        ],
+        "Philip Schaff": [
+            "Jesus has told her only what she knew, for every true Israelite believed that in the last day the just would rise.",
+            "How vague the thought embodied in these words can hardly be understood by us, in whom the same words awaken memories of a Resurrection in the past which brings to us true knowledge of the resurrection at the last day.",
+            "This moment of greatest need Jesus chooses for the greatest revelation of Himself."
+        ],
+        "Archibald T. Robertson": [
+            "In the resurrection at the last day (\u03b5\u03bd \u03c4\u03b7 \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c3\u03b5 \u03b5\u03bd \u03c4\u03b7 \u03b5\u03c3\u03c7\u03b1\u03c4\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1). Did Jesus mean only that?\" ",
+            "She believed it, of course, and such comfort is often offered in case of death.\" ",
+            "But that idea did not console Martha and is not what she hinted at in verse John 11:22."
+        ],
+        "John Gill": [
+            "I know that he shall rise again in the resurrection, at the last day.",
+            "The Jews were divided about the doctrine of the resurrection, the Sadducees denied it, the Pharisees asserted it; and on this latter side was Martha.",
+            "Their consolation will be inconceivable and inexpressible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Martha acknowledges the truth in Jesus' words, that her brother will rise again in the resurrection at the last day, but she yearns for more immediate comfort. She hints at her desire for Jesus to raise him up now, showing her longing for a tangible manifestation of his power. Although she holds to the belief in the final resurrection, she seeks solace in the idea of a present resurrection. This moment of desperation becomes the perfect opportunity for Jesus to reveal the greatest revelation of Himself.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.0925182676502834,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.92,
+            "commentatorTierSimilarities": [
+                34.96,
+                39.63,
+                25.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Martha recognizes the truth of Jesus' words about her brother rising again in the resurrection at the last day. While she finds comfort in this belief, she subtly expresses her desire for Jesus to raise her brother now, craving a more immediate manifestation of his power. In her desperation, Jesus seizes the opportunity to reveal Himself in the most remarkable way.",
+            "wordCount": 61,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 2.009401366611041,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                34.18,
+                43.32,
+                22.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Martha acknowledges the truth in Jesus' statement that her brother will rise again in the resurrection at the last day. However, she longs for more immediate comfort and gently hints at her desire for Jesus to raise him up in the present. Even though she holds firm to the belief in the final resurrection, her desperation provides the perfect opportunity for Jesus to reveal Himself in the most astounding manner, opening the door to an inconceivable and inexpressible consolation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0902037535936757,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                33.64,
+                39.79,
+                26.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Martha understands the words rightly, but she subtly rejects the limited comfort of the ultimate resurrection at the last day. She grasps Jesus' teaching about the future resurrection, yet yearns for a more immediate raising of her brother. In her moment of desperation, Jesus seizes the opportunity to reveal Himself in a profound way, surpassing Martha's expectations and offering a consolation that is beyond comprehension and expression.",
+            "wordCount": 68,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.094867844778733,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                36.56,
+                39.39,
+                24.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Martha acknowledges Jesus' words about her brother rising again in the resurrection at the last day, yet she yearns for more immediate solace. Her longing for a present resurrection is hinted at in her response, as she desires a tangible demonstration of Jesus' power. In this moment of desperation, Jesus seizes the opportunity to reveal Himself in the most remarkable way, providing a consolation that surpasses understanding and cannot be put into words.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.1206788531760634,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+            "commentatorTierSimilarities": [
+                35.04,
+                41.85,
+                23.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:04:17",
+    "verseRef": "John 1:9",
+    "bestBHT": {
+        "bht": "The true light, which enlightens every man, came into the world and brings illumination. Describing Jesus' arrival as coming into the world is unique and noticeable, particularly in the writings of this Evangelist. This true light guides individuals to safety and acts as the dependable source of genuine illumination. Christ is the true light, shining from itself and enlightening the entire world with its radiance, providing all individuals with a perception of the eternal light.",
+        "wordCount": 75,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 2.129416188561832,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+        "commentatorTierSimilarities": [
+            36.54,
+            26.1,
+            37.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word true in this connexion imports original, \u2018archetypal,\u2019 and is used of the true genuine sources and patterns of those things which we find here below only in fragmentary imitations and derivations.",
+            "The former construction can only be defended by a Rabbinical usage, by which 'all that cometh into the world' means \u2018all men.\u2019 But it is very questionable whether St. John ever speaks thus.",
+            "We are driven then to the only legitimate rendering, which is to take was coming as equivalent to an imperfect, came:\u2014this usage being frequent in the N.T.:\u2014i.e. at the time when John bore this witness, the true light which lighteth every man, came\u2014was in process of manifesting Himself,\u2014into the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "which, coming into the world, enlighteneth every man\" - This phrase emphasizes the enlightening impact of Jesus, who enters the world to bring illumination to every individual.",
+            "Coming into the world\" is a superfluous and quite unusual description of \"every man\" - The choice of words to describe Jesus' arrival as \"coming into the world\" is unique and stands out.",
+            "especially in the writings of this Evangelist\" - The repeated use of the phrase \"coming into the world\" is a characteristic feature in the writings of the author of this Gospel (John)."
+        ],
+        "Albert Barnes": [
+            "He was not a false, uncertain, dangerous guide, but was one that was true, real, steady, and worthy of confidence.",
+            "Christ does not lead astray. All false teachers do.",
+            "By his own personal ministry, and by his Spirit and apostles, light or teaching is afforded to all."
+        ],
+        "John Calvin": [
+            "Christ is the light, shining from itself and by itself, and enlightening the whole world by its radiance; so that no other source or cause of splendor is anywhere to be found.",
+            "He might have reasoned more ingeniously, that Christ, as the eternal light, has a splendor which is natural, and not brought from any other quarter; but instead of doing so, he sends us back to the experience which we all possess.",
+            "There is no man, therefore, whom some perception of the eternal light does not reach."
+        ],
+        "Philip Schaff": [
+            "The manifestation is in its initial stage, not yet complete. To this thought the word \u2018coming\u2019 exactly corresponds.",
+            "The expression \u2018come into the world\u2019 occurs in as many as seven other passages of this Gospel. In every one of these passages the words relate to the Lord Himself.",
+            "This true Light was coming into the \u2018world.\u2019 Originally signifying the universe created and ordered by the hand of God, \u2018the world\u2019 came successively to mean the world of men, and the world of men as opposed to God."
+        ],
+        "Archibald T. Robertson": [
+            "The true light (\u03c4\u03bf \u03c6\u03c9\u03c2 \u03c4\u03bf \u03b1\u03bb\u03b7\u03b8\u03b9\u03bd\u03bf\u03bd). 'The light the genuine,' not a false light of wreckers of ships, but the dependable light that guides to the harbor of safety.",
+            "This true light had been on hand all the time in the darkness (\u03b7\u03bd imperfect, linear action) before John came.",
+            "But it may only mean that all the real light that men receive comes from Christ, not necessarily that each one receives a special revelation."
+        ],
+        "John Gill": [
+            "Christ is that light, that famous and excellent light, the fountain of all light to all creatures.",
+            "he is the true light, in distinction from typical lights; the 'Urim' of the former dispensation; the candlestick, with the lamps of it; the pillar of fire which directed the Israelites by night in the wilderness.",
+            "it is best therefore to understand these words of the light of nature, and reason, which Christ, as the word, and Creator and light of men, gives to every man that is born into the world."
+        ],
+        "John Wesley": [
+            "By what is vulgarly termed natural conscience, pointing out at least the general lines of good and evil.",
+            "And this light, if man did not hinder, would shine more and more to the perfect day.",
+            "Shine more and more to the perfect day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the enlightening impact of Jesus, who enters the world to bring illumination to every individual. The choice of words to describe Jesus' arrival as coming into the world is unique and stands out, especially in the writings of this Evangelist. This true light, which had been present in the darkness before John came, guides individuals to safety and serves as the dependable source of genuine illumination. Christ is the true light, shining from itself and by itself, enlightening the whole world with its radiance, providing everyone with some perception of the eternal light. This light of nature and reason, given by Christ to every person, points out the general lines of good and evil, leading humanity on a journey where, if not hindered, the light will shine more and more to the perfect day.",
+            "wordCount": 137,
+            "quoteTokenProportion": 36.05,
+            "qualityScore": 2.2379592745746315,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.75,
+            "commentatorTierSimilarities": [
+                37.67,
+                26.01,
+                36.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The true light, which enlightens every man, came into the world to bring illumination. The choice of words to describe this arrival as coming into the world is unique and stands out, especially in the writings of this Evangelist. This true light, present in the darkness before John came, guides individuals to safety and serves as the dependable source of genuine illumination. Christ is the true light, shining from itself and enlightening the whole world with its radiance, providing everyone with some perception of the eternal light.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2010674985713345,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.53,
+            "commentatorTierSimilarities": [
+                37.56,
+                25.43,
+                37.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The true light, which enlightens every man, came into the world and brings illumination. Describing Jesus' arrival as coming into the world is unique and noticeable, particularly in the writings of this Evangelist. This true light guides individuals to safety and acts as the dependable source of genuine illumination. Christ is the true light, shining from itself and enlightening the entire world with its radiance, providing all individuals with a perception of the eternal light.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.129416188561832,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+            "commentatorTierSimilarities": [
+                36.54,
+                26.1,
+                37.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The true light, which enlightens every individual, came into the world to bring illumination. The phrase coming into the world emphasizes the enlightening impact of Jesus, who enters the world to provide true light. This true light, present in the darkness before John came, serves as a dependable source of genuine illumination, guiding individuals to safety. Christ is the true light, shining from itself and enlightening the whole world with its radiance, giving every person some perception of the eternal light.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.217910068476824,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.09,
+            "commentatorTierSimilarities": [
+                37.57,
+                25.03,
+                37.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The true light, which enlightens every man, came into the world to bring illumination. The choice of words to describe Jesus' arrival as coming into the world is unique and stands out, especially in the writings of this Evangelist. This true light, present in the darkness before John came, guides individuals to safety and serves as the dependable source of genuine illumination. Christ is the true light, shining from itself and enlightening the whole world with its radiance, providing everyone with some perception of the eternal light.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.2290346841179725,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.46,
+            "commentatorTierSimilarities": [
+                37.58,
+                25.77,
+                36.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

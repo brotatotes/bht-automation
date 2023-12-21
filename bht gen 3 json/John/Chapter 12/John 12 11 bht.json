@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-21-2023 03:10:41",
+    "verseRef": "John 12:11",
+    "bestBHT": {
+        "bht": "After hearing about Jesus raising Lazarus from the dead, many people went away from the chief priests and believed in Jesus. This withdrawal of the people from the power of the religious leaders was significant. In fact, there was even a danger of a mass movement towards Jesus. The Jews saw that their interest and influence were decreasing while those on the side of Christ were increasing. This event marked a turning point where the people began to recognize the power and authority of Jesus over the religious establishment.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.4707386926303205,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.24,
+        "commentatorTierSimilarities": [
+            39.63,
+            0.0,
+            60.37
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word contains in it the sense of mere falling away, viz. from under the hand and power of the chief priests.",
+            "The order of the narrative seems to require that these people should have visited Bethany late on the Sabbath, after sunset, and the anointing.",
+            "when they heard] From the multitude who had returned from Bethany, ver. 9."
+        ],
+        "Marvin Vincent": [
+            "Went away [\u03c5\u03c0\u03b7\u03b3\u03bf\u03bd] . Withdrew from their company. ",
+            "- 19. Compare Matthew 21:1-11; Mark 11:1-11; Luke 19:29-44."
+        ],
+        "Archibald T. Robertson": [
+            "Because of him,\" regular idiom, accusative case with \u03b4\u03b9\u03b1.",
+            "Began to withdraw\" as happened at the time of the raising of Lazarus (John 11:45) and the secession was still going on.",
+            "There was danger of a mass movement of the people to Jesus."
+        ],
+        "John Gill": [
+            "Because that by reason of him... many of the Jews went away... and believed on Jesus.",
+            "They withdrew themselves from their party, and deserted them.",
+            "They found their interest was decreasing and weakening every day, and those on the side of Christ were increasing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After hearing about Jesus raising Lazarus from the dead, many people went away from the chief priests and believed in Jesus. This withdrawal of the people from the power of the religious leaders was significant. In fact, there was even a danger of a mass movement towards Jesus. The Jews saw that their interest and influence were decreasing while those on the side of Christ were increasing. This event marked a turning point where the people began to recognize the power and authority of Jesus over the religious establishment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.4707386926303205,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.24,
+            "commentatorTierSimilarities": [
+                39.63,
+                0.0,
+                60.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After witnessing the miraculous raising of Lazarus, many people started to withdraw from the influence of the chief priests and turned to believe in Jesus instead. This act of falling away from the religious leaders marked a significant shift in power and signaled a growing danger of a mass movement towards Jesus. The Jews recognized that their own interest and influence were declining while those who aligned themselves with Christ were increasing, ultimately acknowledging His power and authority.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.4457161027131795,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.41,
+            "commentatorTierSimilarities": [
+                39.35,
+                0.0,
+                60.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon hearing about Jesus raising Lazarus from the dead, many people withdrew from the chief priests' authority and began to believe in Jesus instead. This turning away from the religious leaders was a pivotal moment that prompted a possible mass movement toward Jesus. It was evident that the Jews realized their influence was diminishing while those who aligned themselves with Christ were growing in numbers. This event highlighted the power and authority Jesus possessed over the established religious order.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.3978908262704879,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.82,
+            "commentatorTierSimilarities": [
+                40.93,
+                0.0,
+                59.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After witnessing the incredible miracle of Lazarus being raised from the dead, a significant number of people decided to withdraw from the authority of the chief priests and instead put their faith in Jesus. This act of falling away represented a turning point, as there was a growing danger of a mass movement towards Jesus. The people realized that their interest and influence were declining day by day, while those who believed in Jesus were increasing in number. This shift in allegiance marked the recognition of Jesus' power and authority over the religious leaders.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.3668175163033953,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.79,
+            "commentatorTierSimilarities": [
+                40.39,
+                0.0,
+                59.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon witnessing Jesus raising Lazarus from the dead, many people began to withdraw from the authority of the chief priests and turned to believe in Jesus instead. This falling away indicated a significant shift, as there was a growing danger of a mass movement towards Jesus. The people recognized that their interest and influence were decreasing while those who sided with Christ were increasing. Thus, this event exemplified the acknowledgement of Jesus' power and authority over the established religious order.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.429042652035354,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.86,
+            "commentatorTierSimilarities": [
+                41.74,
+                0.0,
+                58.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

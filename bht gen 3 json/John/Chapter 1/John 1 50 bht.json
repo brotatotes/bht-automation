@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:03:46",
+    "verseRef": "John 1:50",
+    "bestBHT": {
+        "bht": "Nathanael's simple and honest belief in Jesus is praised by the Lord, who acknowledges that if he believed based on this small proof, his faith would grow stronger with greater proofs. Jesus admires Nathanael's quick conviction and promises to confirm it with stronger arguments. This growth of faith and revelation is a recurring theme in the Gospel of John, leading to a fuller experience of blessings or judgment. Jesus assures Nathanael that he will witness even greater miracles, surpassing anything he has seen before.",
+        "wordCount": 86,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.8093714571281545,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+        "commentatorTierSimilarities": [
+            22.67,
+            38.22,
+            39.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord says this not in blame, rather in praise of the simple and honest expression of Nathanael\u2019s conviction.",
+            "If he believed by reason of this comparatively small proof of His divine power, his faith would increase from strength to strength at the greater proofs.",
+            "There is no need to understand our Lord\u2019s reply as a question; it may be, thou believest."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "50, 51. Because I said, &amp;c.\u2014\"So",
+            "\tquickly convinced, and on this evidence only?\"\u2014an expression",
+            "\tof admiration."
+        ],
+        "Albert Barnes": [
+            "Greater things - Fuller proof of his Messiahship, particularly what is mentioned in the following verse."
+        ],
+        "John Calvin": [
+            "He does not reprove Nathanael as if he had been too easy of belief, but rather approving of his faith.\" ",
+            "Promises to him and to others that he will confirm it by stronger arguments.\" ",
+            "Christ brings forward a proof which would be common to all, and thus...he turns to address all."
+        ],
+        "Philip Schaff": [
+            "An intimation of that growth of divine revelation which this Gospel teaches us shall be made the portion of all.\" ",
+            "Of some to an ever-increasing fulness of blessing, of others to an ever-increasing fulness of judgment.\" ",
+            "These 'greater things' are more particularly mentioned in the next verse."
+        ],
+        "Archibald T. Robertson": [
+            "This redundant use of both verbs... occurs in the Synoptics also and in the LXX also. It is Aramaic also and vernacular.",
+            "Causal use of \u03bf\u03c4 at beginning of the sentence...",
+            "The wonder of Nathanael no doubt grew as Jesus went on."
+        ],
+        "John Gill": [
+            "Not as reproving him for his faith, as if he was too credulous, and too easily gave into the belief of Christ, but as approving of it, and surprised at it.",
+            "Thou shall see greater things than these; meaning that he should have larger discoveries of his person, nature, and perfections.",
+            "Should see things done by him, much more surprising than anything he had seen yet; referring to the miracles of raising the dead, casting out devils, and healing all manner of diseases."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nathanael's simple and honest expression of belief in Jesus' divinity is praised by the Lord himself, who acknowledges that if Nathanael believed based on this small proof, his faith would only grow stronger with greater proofs. The redundant use of verbs in Jesus' response reflects his admiration for Nathanael's quick conviction. This growth of faith and revelation is a recurring theme in the Gospel of John and extends to all believers, leading to a fuller experience of blessings or judgment. Jesus does not reprove Nathanael's faith but promises to confirm it with stronger arguments and enable him to witness even greater miracles.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.8342289483479606,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                26.41,
+                34.84,
+                38.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nathanael's simple and honest belief in Jesus is praised by the Lord, who acknowledges that if he believed based on this small proof, his faith would grow stronger with greater proofs. Jesus admires Nathanael's quick conviction and promises to confirm it with stronger arguments. This growth of faith and revelation is a recurring theme in the Gospel of John, leading to a fuller experience of blessings or judgment. Jesus assures Nathanael that he will witness even greater miracles, surpassing anything he has seen before.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8093714571281545,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                22.67,
+                38.22,
+                39.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Nathanael's simple and honest belief in Jesus is praised by the Lord, who acknowledges that if he believed based on this small proof, his faith would grow stronger with greater proofs. Jesus admires Nathanael's quick conviction and promises to confirm it with stronger arguments. This growth of faith and revelation is a recurring theme in the Gospel of John, leading to a fuller experience of blessings or judgment. Jesus assures Nathanael that he will witness even greater miracles, surpassing anything he has seen before.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8093714571281545,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.5,
+            "commentatorTierSimilarities": [
+                22.67,
+                38.22,
+                39.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nathanael's sincere and straightforward belief in Jesus is commendable, as he readily accepts the proof of his divine power. Jesus admires Nathanael's faith, assuring him that it will be strengthened by even greater proofs. This growth in faith and revelation is a key theme in the Gospel of John, leading to a deeper experience of blessings or judgment. Jesus promises Nathanael that he will witness extraordinary miracles that surpass anything he has seen so far, such as raising the dead and healing the sick.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.7072815163284811,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.11,
+            "commentatorTierSimilarities": [
+                22.25,
+                35.0,
+                42.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nathanael's genuine and unreserved belief in Jesus is celebrated, with the Lord acknowledging that this small proof of his divinity will lead to a strengthening of his faith through even greater proofs. Jesus expresses admiration for Nathanael's quick conviction and promises to provide stronger arguments to confirm his faith. Throughout the Gospel of John, the growth of faith and revelation is emphasized, allowing believers to experience a fuller range of blessings or judgment. Nathanael can anticipate witnessing extraordinary miracles that surpass anything he has witnessed thus far.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.731466602126553,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                22.66,
+                37.47,
+                39.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

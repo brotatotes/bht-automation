@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-21-2023 03:09:07",
+    "verseRef": "John 8:34",
+    "bestBHT": {
+        "bht": "Living in the practice of sin, as a habit, is comparable to being a slave to sin. Each act of sin serves as evidence of this enslavement. The comparison between grace and nature reveals that without deliverance from Christ, humanity is devoid of true freedom. Those who are slaves to sin are under its dominion and obedient to its lusts. Jesus challenges their false claims of freedom and their reliance on being descendants of Abraham.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.2995632926999314,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.8,
+        "commentatorTierSimilarities": [
+            29.73,
+            31.53,
+            38.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It implies living in the practice of sin, doing sin, as a habit.",
+            "The mere moral sentiment, of which this is the spiritual expression, was common among the Greek and Roman philosophers.",
+            "Not merely 'sinneth,' for that all do; but in the same sense as 'work iniquity' is said, Matt. vii. 23."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I apologize for the confusion. Here are three verbatim quotes from the original commentary:",
+            "Whosoever committeth sin\u2014that is, liveth in the commission of it.",
+            "is the servant of sin\u2014that is, the bond-servant, or slave of it.",
+            "The great truth here expressed was not unknown to heathen moralists; but it was applied only to vice, for they were total strangers to what in revealed religion is called sin."
+        ],
+        "Albert Barnes": [
+            "Jesus shows them that he did not refer to political bondage, but to the slavery of the soul to evil passions and desires.",
+            "Is the servant - Is the slave of sin.",
+            "He is bound to it as a slave is to his master."
+        ],
+        "Marvin Vincent": [
+            "The definite article, the sin, shows that Jesus does not mean merely a simple act, but a life of sin.",
+            "The servant. Or, a servant. Properly, a bond-servant or slave.",
+            "Whosoever committeth sin is a bond-servant."
+        ],
+        "John Calvin": [
+            "They boasted that they were free. He proves that they are the slaves of sin, because, being enslaved by the desires of the flesh, they continually sin.",
+            "Christ maintains, that all who are not delivered by him are in a state of slavery, and that all who derive the contagion of sin from corrupted nature are slaves from their birth.",
+            "We must attend to the comparison between grace and nature, on which Christ here dwells; from which it may be easily seen that men are destitute of freedom, unless they regain it from some other quarter."
+        ],
+        "Philip Schaff": [
+            "Every one who is living a life of sin is a slave; each act of sin is no mere accident of his life, but a token of its nature, a mark of a bondage in which he is continually held.",
+            "The word 'doeth' is not the same as that which is used in chap. John 3:20, John 5:29 in connection with evil: that had reference to the commission of particular acts, this to the general course of life...",
+            "The thought is best illustrated by Romans 6:0 and (especially) Romans 7:0."
+        ],
+        "Archibald T. Robertson": [
+            "Every one that committeth sin is the bondservant of sin.\" ",
+            "Sin, like the worst narcotic, is habit forming.",
+            "The problem today for criminologists is that paroled or pardoned criminals nearly always go back to crime, sink again into sin, the slaves of sin."
+        ],
+        "John Gill": [
+            "Whosoever committeth sin, is the servant of sin; which must be understood, not of one that commits a single act of sin.",
+            "This is to be understood of such whose bias and bent of their minds are to sin; who give up themselves unto it, and sell themselves to work wickedness.",
+            "They are under the government of sin, that has dominion over them; and they obey it in the lusts thereof, and are drudges and slaves unto it."
+        ],
+        "John Wesley": [
+            "He that committeth sin, is, in fact, the slave of sin.",
+            "Each branch of their objection, first concerning freedom, then concerning their being Abraham's offspring.",
+            "Jesus answered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Living in the practice of sin, as a habit, is comparable to being a slave to sin. Jesus clarifies that this slavery is not merely political or external, but rather a bondage of the soul to evil desires. Each act of sin serves as evidence of this enslavement. The comparison between grace and nature reveals that without deliverance from Christ, humanity is devoid of true freedom. Those who are slaves to sin are under its dominion and obedient to its lusts. This passage speaks to the continual life of sin, not just isolated actions. By highlighting mankind's need for liberation from sin, Jesus challenges their false claims of freedom and their reliance on being descendants of Abraham.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 2.331567210653769,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.86,
+            "commentatorTierSimilarities": [
+                29.39,
+                33.3,
+                37.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Living in the practice of sin, as a habit, is comparable to being a slave. Each act of sin serves as evidence of this enslavement. The comparison between grace and nature reveals that without deliverance from Christ, humanity is devoid of true freedom. Those who are slaves to sin are under its dominion and obedient to its lusts. Jesus challenges their false claims of freedom and their reliance on being descendants of Abraham.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.288157117525147,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.42,
+            "commentatorTierSimilarities": [
+                29.65,
+                31.99,
+                38.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Living in the practice of sin, as a habit, is comparable to being a slave to sin. Each act of sin serves as evidence of this enslavement. The comparison between grace and nature reveals that without deliverance from Christ, humanity is devoid of true freedom. Those who are slaves to sin are under its dominion and obedient to its lusts. Jesus challenges their false claims of freedom and their reliance on being descendants of Abraham.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.2995632926999314,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.8,
+            "commentatorTierSimilarities": [
+                29.73,
+                31.53,
+                38.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Living in the practice of sin, doing sin as a habit, is akin to being the servant or slave of sin. This is not just referring to individual sinful acts, but rather a lifestyle characterized by sin. Sin, like a powerful narcotic, is habit-forming, leading people to become enslaved to its desires. Jesus exposes the false claims of freedom made by those who are bound by sin and points out the need for liberation from its grip. He challenges their reliance on their lineage or external factors, emphasizing the necessity of spiritual deliverance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.280784371442393,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+            "commentatorTierSimilarities": [
+                31.56,
+                31.28,
+                37.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Living in the practice of sin, doing sin as a habit, is akin to being the servant or slave of sin. Sin, like a powerful narcotic, is habit-forming, leading people to become enslaved to its desires. Jesus exposes the false claims of freedom made by those who are bound by sin and points out the need for liberation from its grip. He challenges their reliance on their lineage, emphasizing the necessity of spiritual deliverance.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2490159055137493,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.12,
+            "commentatorTierSimilarities": [
+                30.63,
+                31.5,
+                37.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:07:20",
+    "verseRef": "John 6:58",
+    "bestBHT": {
+        "bht": "This conclusion of the discourse highlights the infinite superiority of the Bread, Jesus Christ Himself, over perishable food. Our Lord chooses to preserve the profound truths of His Person and Office in figurative language, leaving them enshrined in those glorious forms of speech. Although this discourse isn't about the Sacrament of the Supper, the Sacrament embodies these figures and provides believers with a real participation of His flesh and blood, nourishing their spiritual and eternal life. Jesus is the true bread that came down from heaven, offering everlasting life to those who partake.",
+        "wordCount": 94,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1141111526756644,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+        "commentatorTierSimilarities": [
+            40.53,
+            26.37,
+            33.1
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "forms the solemn conclusion of the discourse, referring back to the Bread with which it began and to its difference from the perishable food which they had extolled",
+            "setting forth the infinite superiority of its effects over those of that sustenance",
+            "which came down,\u2014past, now: because He has clearly identified it with Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "our Lord, instead of softening down His figurative sublimities, or even putting them in naked phraseology, leaves the great truths of His Person and Office, and our participation of Him and it, enshrined for all time in those glorious forms of speech.",
+            "when we attempt to strip the truth of these figures, figures though they be, it goes away from us, like water when the vessel is broken, and our wisdom lies in raising our own spirit, and attuning our own ear, to our Lord's chosen modes of expression.",
+            "although this discourse has nothing to do with the Sacrament of the Supper, the Sacrament has everything to do with it, as the visible embodiment of these figures, and, to the believing partaker, a real, yea, and the most lively and affecting participation of His flesh and blood, and nourishment thereby of the spiritual and eternal life, here below."
+        ],
+        "Albert Barnes": [
+            "This is the true bread that came down.",
+            "Shall live for ever - Not on the earth, but in the enjoyments of a better world."
+        ],
+        "John Calvin": [
+            "There is no reason why you should prefer Moses to me, because he fed your fathers in the wilderness; since I supply you with far more excellent food, for I bring heavenly life with me.",
+            "For the bread is said to have come down from heaven, because it has nothing earthly or corruptible in its nature, but breathes the immortality of the kingdom of God.",
+            "But the life of the soul is not fading, but makes continual progress until the whole man is renewed."
+        ],
+        "Philip Schaff": [
+            "This is that bread which came down out of heaven.\" ",
+            "Not as your fathers did eat and died: he that eateth this bread shall live for ever."
+        ],
+        "Archibald T. Robertson": [
+            "This is the bread (\u03bf\u03c5\u03c4\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd \u03bf \u03b1\u03c1\u03c4\u03bf\u03c2). Summary and final explanation of the true manna (from verse John 6:32 on) as being Jesus Christ himself. "
+        ],
+        "John Gill": [
+            "That true bread, the bread of God, the bread of life, living bread; meaning himself...",
+            "This is bread of a quite different nature from that; that was only typical bread, this true; that was the bread of angels, but this is the bread of God...",
+            "Whoever eats of this, lives forever..."
+        ],
+        "John Wesley": [
+            "This is \u2014 That is, I am the bread - Which is not like the manna your fathers ate, who died notwithstanding."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse forms the solemn conclusion of the discourse, referring back to the Bread with which it began and to its difference from perishable food. Our Lord, instead of softening down His figurative sublimities, leaves the great truths of His Person and Office enshrined in those glorious forms of speech. Although this discourse has nothing to do with the Sacrament of the Supper, the Sacrament has everything to do with it as the visible embodiment of these figures, and a real participation of His flesh and blood and nourishment of the spiritual and eternal life. This is the true bread, the bread of God, the bread of life, that came down from heaven, and whoever eats of this bread shall live forever.",
+            "wordCount": 122,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.251370632103603,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.2,
+            "commentatorTierSimilarities": [
+                39.65,
+                26.76,
+                33.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This conclusion sets forth the infinite superiority of the Bread, which is Jesus Christ Himself, over perishable food. Our Lord opts to leave His figurative sublimities untouched, emphasizing His chosen modes of expression. The discourse does not directly pertain to the Sacrament of the Supper, but the Sacrament serves as the visible embodiment of these profound figures, allowing believers to partake of His flesh and blood and experience nourishment for their spiritual and eternal life. Jesus is the true bread that came down from heaven, bringing with Him heavenly life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.0520760545983334,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.57,
+            "commentatorTierSimilarities": [
+                37.9,
+                27.93,
+                34.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This conclusion of the discourse highlights the superior effects of the Bread, Jesus Christ, compared to perishable food. Our Lord chooses to preserve the profound truths of His Person and Office in figurative language. While this discourse doesn't directly relate to the Sacrament of the Supper, the Sacrament embodies these figures and provides believers with a real participation in His flesh and blood, nourishing their spiritual and eternal life. Jesus is the true bread that came down from heaven, offering everlasting life to those who partake.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.054773248719366,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.66,
+            "commentatorTierSimilarities": [
+                38.44,
+                27.7,
+                33.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this conclusion, Jesus emphasizes the superiority of the Bread, Himself, over perishable food. He chooses to use figurative language to convey the great truths of His Person and Office, leaving them enshrined in glorious forms of speech. Although not directly related to the Sacrament of the Supper, the Sacrament embodies these figures and allows believers to have a real participation in His flesh and blood, nourishing their spiritual and eternal life. Jesus is the true bread that came down from heaven, offering everlasting life to those who partake.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9964334580282148,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                37.95,
+                27.61,
+                34.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This conclusion of the discourse highlights the infinite superiority of the Bread, Jesus Christ Himself, over perishable food. Our Lord chooses to preserve the profound truths of His Person and Office in figurative language, leaving them enshrined in those glorious forms of speech. Although this discourse isn't about the Sacrament of the Supper, the Sacrament embodies these figures and provides believers with a real participation of His flesh and blood, nourishing their spiritual and eternal life. Jesus is the true bread that came down from heaven, offering everlasting life to those who partake.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1141111526756644,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+            "commentatorTierSimilarities": [
+                40.53,
+                26.37,
+                33.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

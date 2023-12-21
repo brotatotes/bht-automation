@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:08:31",
+    "verseRef": "John 8:7",
+    "bestBHT": {
+        "bht": "Jesus challenges the crowd ready to condemn a woman for adultery, revealing that the first stone should be thrown by someone without the sin of uncleanness. This confrontation exposes their hypocrisy and self-righteousness, emphasizing that Jesus is the ultimate Judge who knows the guilt in every heart. It reminds us not to judge others unless we are free from similar blame, whether it be the same sin or something alike.",
+        "wordCount": 71,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 2.0910897556795316,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+        "commentatorTierSimilarities": [
+            33.48,
+            31.29,
+            35.22
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression, 'without sin,' is not here used in the general sense, meaning, entirely sinless, nor in the strictest, 'free from the crime of adultery'...but...of the sin of uncleanness generally.\" ",
+            "The Lord Jesus was not sent to be a ruler and a judge in this or that particular case of crime, but the Ruler and Judge of all: and His answer expresses this, by convicting them all of sin before Him.",
+            "Some of our MSS. read, 'the stone:' in that case, our Lord refers to the first stone, which by Deut. xvii. 7 the witnesses were to cast."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that is without sin\u2014not meaning sinless altogether; nor yet, guiltless of a literal breach of the Seventh Commandment; but probably, he whose conscience acquits him of any such sin.",
+            "Cast a stone\u2014\"the stone,\" meaning the first one."
+        ],
+        "Albert Barnes": [
+            "They were determined to extort an answer from him, and showed a perseverance in evil which has been unhappily often imitated.",
+            "Is without sin - That is, without this particular sin; he who has not himself been guilty of this very crime - for in this place the connection evidently demands this meaning.",
+            "Jesus therefore put them to the test. Without pronouncing on her case, he directed them, if any of them were innocent, to perform the office of executioner."
+        ],
+        "John Calvin": [
+            "And this very argument, had weight with those slanderers, desperate as they were; for no sooner do they obtain a sight of it, than they lay aside those fierce passions with which they were swelled when they came.",
+            "Yet there is this difference between the injunction of the Law and the words of Christ, that in the Law God merely enjoined that they should not condemn a man with the tongue unless they were permitted to put him to death with their own hands; but here Christ demands from the witnesses perfect innocence.",
+            "No man, therefore, shall be prevented by his own sins from correcting the sins of others, and even from punishing them when it may be found necessary, provided that both in himself and in others he hate what ought to be condemned."
+        ],
+        "Philip Schaff": [
+            "He that is without sin among you, let him be the first to cast the stone upon her.",
+            "We have no personal right to judge the guilty unless we ourselves are free from blame.",
+            "The expression is quite general."
+        ],
+        "Archibald T. Robertson": [
+            "They saw that Jesus seemed embarrassed, but did not know that it was as much because of 'the brazen hardness of the prosecutors' as because of the shame of the deed.",
+            "He that is without sin, either one who has not sinned as here and Deuteronomy 29:19 or one who cannot sin, not in the N.T.",
+            "First cast, the nominative \u03c0\u03c1\u03c9\u03c4\u03bf\u03c2 means first before others, be the first to cast, not cast before he does something else."
+        ],
+        "John Gill": [
+            "he that is without sin among you... let him first cast a stone at her.\" ",
+            "Adultery increased... the bitter waters ceased.",
+            "he showed himself merciful to the woman... the searcher of hearts."
+        ],
+        "John Wesley": [
+            "He that is without sin... let him - as a witness, cast the first stone at her.",
+            "He that is not guilty: his own conscience being the judge.",
+            "Either of the same sin, or of some nearly resembling it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Without sin in this verse does not mean sinless in a general sense, but rather free from the sin of uncleanness. Jesus, as the Ruler and Judge of all, convicts them all of sin before Him. When He tells them to cast a stone, they understand that He is referring to the first stone they were to cast according to the Law. They saw that Jesus was embarrassed not only because of the shame of the deed, but also because of the brazen hardness of the prosecutors. The message here is that no one can judge the guilty unless they themselves are free from blame, either from the same sin or from something similar.",
+            "wordCount": 114,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 2.1834766149941336,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+            "commentatorTierSimilarities": [
+                37.95,
+                30.66,
+                31.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus challenges those who are ready to condemn a woman caught in adultery. He highlights that the one casting the first stone should be without sin of uncleanness. Jesus, as the ultimate Ruler and Judge, knows the guilt of all hearts. His response exposes the hypocrisy and shame of the prosecutors. He emphasizes that we should not judge others unless we ourselves are free from blame, whether from the same sin or something similar.",
+            "wordCount": 77,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.9586283613239088,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                33.75,
+                30.31,
+                35.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus confronts a group of people who are eager to condemn a woman caught in adultery. He tells them that the first stone should be thrown by someone who is without the sin of uncleanness. By doing this, Jesus exposes their self-righteousness and hypocrisy. He reminds them that He is the ultimate Judge, who knows the sins of every individual. This encounter teaches us the importance of not judging others unless we ourselves are free from similar guilt.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.940808517053503,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                33.8,
+                30.15,
+                36.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus challenges the crowd ready to condemn a woman for adultery, revealing that the first stone should be thrown by someone without the sin of uncleanness. This confrontation exposes their hypocrisy and self-righteousness, emphasizing that Jesus is the ultimate Judge who knows the guilt in every heart. It reminds us not to judge others unless we are free from similar blame, whether it be the same sin or something alike.",
+            "wordCount": 71,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.0910897556795316,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+            "commentatorTierSimilarities": [
+                33.48,
+                31.29,
+                35.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse speaks to the powerful impact of Jesus' response to the scribes and Pharisees. His statement, He that is without sin, let him cast the first stone, serves as a reminder that Jesus is not merely a judge of individual cases, but the ultimate Ruler and Judge of all. By convicting them all of sin before Him, Jesus reveals their hypocrisy and convicts their consciences. Though they were determined to extort an answer from Him, they are silenced by their own guilt and unable to carry out the punishment they sought. Jesus, in his wisdom, both exposes their sin and demonstrates mercy towards the woman caught in the act of adultery. This powerful moment challenges us to examine our own hearts and recognize that we have no personal right to judge unless we ourselves are free from blame.",
+            "wordCount": 139,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9102785470515233,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.86,
+            "commentatorTierSimilarities": [
+                35.19,
+                31.04,
+                33.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

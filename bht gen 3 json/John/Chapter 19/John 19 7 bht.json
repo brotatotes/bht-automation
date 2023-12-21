@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:14:40",
+    "verseRef": "John 19:7",
+    "bestBHT": {
+        "bht": "The Jewish leaders, in their pursuit of Jesus' death, accuse him of blasphemy, citing their own law as the reason for his condemnation. By claiming to be the Son of God, Jesus allegedly violates their law and deserves to die. This accusation places pressure on Pilate, urging him to protect their law. The hostility towards Jesus has been long-standing, and now they exploit this opportunity to secure Pilate's consent. Let us be cautious of those who misuse Scripture to serve their own agenda and ensure the authority of God's Word remains intact.",
+        "wordCount": 95,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 2.2301424264883085,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+        "commentatorTierSimilarities": [
+            29.96,
+            37.56,
+            32.48
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In consequence of this taunt, they now declare the cause of their condemnation of Him\u2014see Levit. xxiv. 16."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have a law, and by our law he ought to die, because he made himself the Son of God.\" ",
+            "They retreat into their own Jewish law, by which, as claiming equality with God, He ought to die.\" ",
+            "Insinuating that it was Pilate's duty, even as civil governor, to protect their law from such insult."
+        ],
+        "Albert Barnes": [
+            "Still bent on his ruin, and resolved to gain their purpose, they now, contrary to their first intention, adduced the original accusation on which they had already pronounced him guilty.",
+            "If they could not obtain his condemnation as a rebel, they now sought it as a blasphemer, and they appealed to Pilate to sanction what they believed was required in their law.",
+            "The law did not forbid this, but it forbade blasphemy, and they considered the assumption of this title as the same as blasphemy."
+        ],
+        "Marvin Vincent": [
+            "We have a law. We, emphatic. Whatever your decision may be, we have a law, etc. ",
+            "By our law. The best texts omit our : Read by that law, as Rev."
+        ],
+        "John Calvin": [
+            "Let us, therefore, remember that we ought to guard against imposition, so that principles which are true may remain in all their force, and that the authority of Scripture may not be diminished.",
+            "On the other hand, we may easily find a reply to wicked men, who falsely and improperly allege the testimony of Scripture, and the principles which they draw from it, to support their bad designs.",
+            "They who are satisfied with general principles, and do not attend to the circumstances, imagine that the Papists do right in attacking us; but the investigation of the matter quickly dissipates that smoke by which they deceive the simple."
+        ],
+        "Philip Schaff": [
+            "Thou, Pilate, mayest pronounce Him innocent; and He may be innocent of all such crimes as are wont to be tried at thy bar. But We have a law, and that law denounces death to persons like Him; for He made Himself Son of God.\" (43 words)",
+            "The law referred to is Leviticus 24:16, and the crime is that Jesus represented Himself to be what He really was.\" (20 words)",
+            "Not upon false pretences, but upon the greatest of all falsehoods, the misinterpretation of the truth, in the thickest of all darkness, the light itself made darkness, they hurried Jesus to His doom.\" (39 words)"
+        ],
+        "Archibald T. Robertson": [
+            "Here at last the Sanhedrin give the real ground for their hostility to Jesus, one of long standing for probably three years.\" ",
+            "Even now they do not mention their own decision to Pilate, for they had no legal right to vote Christ's death before Pilate's consent which they now have secured."
+        ],
+        "John Gill": [
+            "we have a law; meaning the law of Moses, which they had received by his hands from God.",
+            "because he made himself the Son of God; the natural and essential Son of God; not by adoption, or on account of his incarnation and mediatorial office; but as being one with the Father, of the same nature with him, and equal to him in all his perfections and glory.",
+            "But now it is vehemently opposed by them, that God has a son; so from Ecclesiastes 4:8 they endeavour to prove that God has neither a brother, nor a son."
+        ],
+        "John Wesley": [
+            "By our law he ought to die, because he made himself the Son of God \u2014 Which they understood in the highest sense, and therefore accounted blasphemy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jewish leaders, in their relentless pursuit of Jesus' death, finally reveal their true motive - they accuse Him of blasphemy, claiming that their law demands His execution for making Himself the Son of God. In their insinuation, they put pressure on Pilate to protect their law and sentence Jesus accordingly. This hostility towards Jesus had been brewing for years, but now they seize the opportunity to secure Pilate's consent for Jesus' crucifixion. Thus, their accusation is not only one of false pretenses, but it is founded on the greatest falsehood of all - the misinterpretation of truth. Let us be cautious against those who twist Scripture for their own wicked purposes, as we must guard the authority of the Word of God and its true principles.",
+            "wordCount": 126,
+            "quoteTokenProportion": 41.57,
+            "qualityScore": 2.1558899652913084,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.02,
+            "commentatorTierSimilarities": [
+                27.73,
+                38.76,
+                33.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their pursuit of Jesus' death, the Jewish leaders accuse Him of blasphemy, claiming their law demands His execution for calling Himself the Son of God. This accusation puts pressure on Pilate to uphold their law. Their hostility towards Jesus had been simmering for years, and now they exploit this opportunity to secure Pilate's consent. Their accusation is rooted in the greatest falsehood of all - the misinterpretation of truth. Let us be wary of those who twist Scripture for their nefarious ends and preserve the authority of God's Word.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.0855353605413764,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                29.41,
+                38.42,
+                32.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jewish leaders relentlessly pursue Jesus' death, accusing Him of blasphemy for claiming to be the Son of God. Their appeal to their law places pressure on Pilate to enforce their sentence. This deep-seated hostility towards Jesus had been brewing for years, and now they take advantage of the opportunity to secure Pilate's approval. Their accusation is rooted in the gravest falsehood - the misinterpretation of the truth. Let us remain vigilant against those who manipulate Scripture for their own wicked purposes, safeguarding the authority of God's Word.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.977221476639901,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.08,
+            "commentatorTierSimilarities": [
+                29.6,
+                39.08,
+                31.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jewish leaders, in their pursuit of Jesus' death, accuse him of blasphemy, citing their own law as the reason for his condemnation. By claiming to be the Son of God, Jesus allegedly violates their law and deserves to die. This accusation places pressure on Pilate, urging him to protect their law. The hostility towards Jesus has been long-standing, and now they exploit this opportunity to secure Pilate's consent. Let us be cautious of those who misuse Scripture to serve their own agenda and ensure the authority of God's Word remains intact.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.2301424264883085,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+            "commentatorTierSimilarities": [
+                29.96,
+                37.56,
+                32.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jewish leaders accuse Jesus of blasphemy, invoking their law to justify his condemnation. By claiming to be the Son of God, Jesus allegedly violates their law and must face death. This accusation places pressure on Pilate to protect their law, revealing the deep-seated hostility that had been growing for years. Their false accusations and misinterpretation of truth highlight the need to guard against the misuse of Scripture and preserve its authority in our lives.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.226731086794506,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.38,
+            "commentatorTierSimilarities": [
+                29.46,
+                39.09,
+                31.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

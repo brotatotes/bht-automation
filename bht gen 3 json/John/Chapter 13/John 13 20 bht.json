@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:12:04",
+    "verseRef": "John 13:20",
+    "bestBHT": {
+        "bht": "Despite the impending betrayal by Judas, Jesus emphasizes the dignity and divine authority bestowed upon the disciples He sends. Receiving these messengers reflects receiving Jesus and the Father, underscoring the significance of their office. Dishonoring them is to dishonor God Himself, while rejecting them is equivalent to rejecting Christ and God. Therefore, it is crucial to recognize and respect the authority of those sent by Jesus, as their reception signifies receiving Jesus and the Father.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 1.7935844831245915,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+        "commentatorTierSimilarities": [
+            26.7,
+            37.55,
+            35.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I rather believe that the saying sets forth the dignity of that office from which Judas was about to fall: q.d. \u2018not only was he in close intercourse with Me (ver, 18), but invested with an ambassadorship for Me, and in Me, for the Father; and yet he will lift up his heel against Me.\u2019\" (Commentary)",
+            "And the consideration of this dignity in all its privileges, as contrasted with the sad announcement just to be made, leads on to the troubling of our Lord\u2019s spirit in the next verse.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Despite the dishonor done to Him by Judas, and similar treatment awaiting themselves, they were to be cheered by the assurance that their office, even as His own, was divine.",
+            "The connection here seems to be that despite the dishonor done to Him by Judas, and similar treatment awaiting themselves, they were to be cheered by the assurance that their office, even as His own, was divine.",
+            "The traitor indicated\u2014He leaves the supper room."
+        ],
+        "Albert Barnes": [
+            "They who received them received him, and they who received him received God.",
+            "Judas, who was about to betray him, was also about to betray the cause of religion in the world, and to betray God and his cause.",
+            "A man cannot do dishonor to one of the institutions of religion without injuring all; he cannot dishonor its ministers or the Saviour without dishonoring God."
+        ],
+        "John Calvin": [
+            "There is too good evidence that we are very ready to be wounded by bad examples; for, in consequence of this, the revolt of one man inflicts a deadly wound on two hundred others, while the steadiness of ten or twenty pious men hardly edifies a single individual.",
+            "The reason is, we ought to contemplate God, the Author of the ministry, in whom, certainly, we find nothing which we have a right to despise; and next, we ought to contemplate Christ, who, having been appointed by the Father to be the only Teacher, speaks by his apostles.",
+            "Whoever, then, does not deign to receive the ministers of the Gospel, rejects Christ in them, and rejects God in Christ."
+        ],
+        "Philip Schaff": [
+            "He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.\" ",
+            "Men will thus divide themselves into two classes which will take up towards the apostles doing the work of Jesus the same position as that which the eleven on the one hand, and Judas on the other, had now taken up towards Jesus Himself.",
+            "Therefore He humbles Himself anew. Laying aside His glory He takes up His cross, not that He may justify disciples who are already His, who are \u2018clean,\u2019 but that He may bring them ever and again to Himself the source of all true spiritual nourishment, and may wash away any fresh stains of defilement which they have contracted in their work in the world."
+        ],
+        "Archibald T. Robertson": [
+            "Whomsoever I send (\u03b1\u03bd \u03c4\u03b9\u03bd\u03b1 \u03c0\u03b5\u03bc\u03c8\u03c9). More precisely, 'If I send any one'...\" (quote 1)",
+            "This use of \u03b5 \u03c4\u03b9\u03c2 or \u03b5\u03b1\u03bd \u03c4\u03b9\u03c2 (if any one) is very much like the indefinite relative \u03bf\u03c3\u03c4\u03b9\u03c2 and \u03bf\u03c2 \u03b1\u03bd (or \u03b5\u03b1\u03bd), but the idiom is different.\" (quote 2)",
+            "In Mark 8:34 we have both \u03b5 \u03c4\u03b9\u03c2 \u03b8\u03b5\u03bb\u03b5 and \u03bf\u03c2 \u03b5\u03b1\u03bd while in John 14:13 we find \u03bf\u03c4 \u03b1\u03bd and \u03b5\u03b1\u03bd \u03c4...\" (quote 3)"
+        ],
+        "John Gill": [
+            "He that receiveth whomsoever I send, receiveth me, and he that receiveth me, receiveth him that sent me; I have sent you in my name to preach the Gospel; you are my ambassadors, and you will be honourably received by many; and which I shall regard and take notice of, and esteem, as though they had received me.",
+            "Even as my Father has sent me into this world, as a Saviour and Redeemer, a prophet, priest, and King; and as many as have received me, are looked upon by my Father, as having received him.",
+            "Christ, as Mediator, represented his Father that sent him; and the ministers of Christ represent him; so that what is done to them, either in a way of reception or rejection, he takes as done to himself."
+        ],
+        "John Wesley": [
+            "And I put my own honour upon you, my ambassadors. Matthew 10:40."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the dignity and divine authority bestowed upon the disciples by Jesus. Despite the upcoming betrayal by Judas, Jesus affirms that receiving those whom He sends is equivalent to receiving Him and the Father. By emphasizing the significance of their office, Jesus assures the disciples that their work is divinely appointed and worthy of honor. This parallels the idea that dishonoring the ministers of God also dishonors God Himself, as they are representatives of Him in the world. Therefore, rejecting these messengers is ultimately a rejection of Christ and God. Thus, it is crucial for believers to recognize and respect the authority and mission of those sent by Jesus, for their reception is tantamount to receiving Jesus and the Father.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.7302606523490072,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                25.22,
+                38.09,
+                36.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite Judas impending betrayal, Jesus affirms the dignity and divine authority bestowed upon the disciples whom He sends. Their reception is equivalent to receiving Jesus and the Father, emphasizing the significance of their office and underscoring that dishonoring these messengers is dishonoring God. Rejecting them is a rejection of Christ and God Himself. To recognize and respect the authority of those sent by Jesus is vital, as their reception is tantamount to receiving Jesus and the Father.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.791995080517339,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                25.58,
+                37.52,
+                36.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Although Judas is about to betray Jesus, it is crucial to acknowledge the dignity and divine authority entrusted to the disciples sent by Him. Receiving these messengers is equivalent to receiving Jesus and the Father, highlighting the significance of their office. Dishonoring them is dishonoring God Himself. Rejecting them is tantamount to rejecting Christ and God. Therefore, recognizing and respecting the authority of those sent by Jesus is essential since their reception reflects receiving Jesus and the Father.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.6874211923114917,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.45,
+            "commentatorTierSimilarities": [
+                23.59,
+                39.77,
+                36.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite the impending betrayal by Judas, Jesus emphasizes the dignity and divine authority bestowed upon the disciples He sends. Receiving these messengers reflects receiving Jesus and the Father, underscoring the significance of their office. Dishonoring them is to dishonor God Himself, while rejecting them is equivalent to rejecting Christ and God. Therefore, it is crucial to recognize and respect the authority of those sent by Jesus, as their reception signifies receiving Jesus and the Father.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.7935844831245915,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                26.7,
+                37.55,
+                35.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite the upcoming betrayal by Judas, Jesus affirms the dignity and divine authority bestowed upon the disciples by Him. Receiving those whom He sends is equivalent to receiving Jesus and the Father. This highlights the significance of their office and underscores that dishonoring these messengers is dishonoring God. Rejecting them is ultimately a rejection of Christ and God Himself. Recognizing and respecting the authority and mission of those sent by Jesus is crucial for believers, as their reception is tantamount to receiving Jesus and the Father.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.743182769717421,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                25.44,
+                38.64,
+                35.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

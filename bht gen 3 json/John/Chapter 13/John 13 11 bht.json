@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:11:33",
+    "verseRef": "John 13:11",
+    "bestBHT": {
+        "bht": "The striking contrast between Jesus addressing Judas as Thou and Himself as my brilliantly portrays the deeply astonishing nature of His condescension. Rather than immediately rebuking Judas, Jesus hints at the impending betrayal, a concept beyond comprehension. Jesus had been aware of Judas' betrayal for quite some time, yet He treated him with unwavering courtesy. The present tense usage in who is betraying signifies Judas' active involvement in the process. Demonstrating divine omniscience, Jesus perceives the sinister motives of Judas as He washes his feet.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.000116331654612,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+        "commentatorTierSimilarities": [
+            37.98,
+            36.58,
+            25.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Our language cannot bring out the intensely vivid contrast between the 'Thou' and the 'my,' which, by bringing them together, the original expresses.\" ",
+            "Thus far, and in the question itself, there was nothing but the most profound and beautiful astonishment at a condescension to him quite incomprehensible.",
+            "Jesus ministers no rebuke as yet, but only bids him wait a little, and he should understand it all."
+        ],
+        "Albert Barnes": [
+            "Who should betray him - Greek: \u201cHe knew him who was about to betray him.\u201d"
+        ],
+        "Marvin Vincent": [
+            "Who should betray. Literally, him that is betraying.",
+            "So in Matthew 26:2, the present tense is used, is being betrayed.",
+            "See on Matthew 4:12, and compare prodothv, betrayer, Luke 6:16; Acts 7:52; 2 Timothy 3:4."
+        ],
+        "Philip Schaff": [
+            "What a contrast to the eleven do these words present: they full of faith and love, 'clean;' Judas with his heart full of evil passions, at that very moment his treachery not a thing of the future, but of the present.",
+            "And yet more! Jesus knew this. The eye that sees what is in man, saw what was in the heart of the traitor while he yet washed his feet.",
+            "The complete bath must have been accepted, before the subsequent washing of the feet can bring its blessing to us or be other than a carnal form."
+        ],
+        "Archibald T. Robertson": [
+            "[Jesus] had known for a year at least... and yet he treated Judas with his usual courtesy.",
+            "The articular present participle of \u03c0\u03b1\u03c1\u03b1\u03b4\u03b9\u03b4\u03c9\u03bc, 'the betraying one,' for Judas was already engaged in the process.",
+            "Did Judas wince at this thrust from Jesus?"
+        ],
+        "John Gill": [
+            "For he knew who should betray him...this being fixed by the determinate counsel of God, which he, as the omniscient God, was privy to...\" ",
+            "He knew what preparations were making, and how things were then working, in order to bring it about...\" ",
+            "he knew that Satan had already put it into Judas's heart, and that he had consented to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 13:11, the intense contrast between Jesus addressing Judas as Thou and referring to Himself as my is vividly expressed. Jesus, with profound astonishment and beauty, hints at the upcoming betrayal without rebuking Judas. Jesus had known for a year or longer that Judas would betray Him, yet treated him with customary courtesy. The present tense used in who is betraying suggests that Judas was already engaged in the process. This knowledge on Jesus' part highlights His divine omniscience, recognizing the traitorous intentions of Judas even as He washed his feet.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.123133157565428,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                37.48,
+                36.83,
+                25.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The stark contrast between Jesus addressing Judas as Thou and Himself as my in this passage emphasizes the bewildering nature of His condescension. Jesus does not reprimand Judas but hints at the forthcoming betrayal, fully aware of Judas' role. Jesus had known for at least a year about Judas' betrayal, yet treated him with customary respect and courtesy. By addressing the one betraying, it is clear that Judas was already engaged in the act. Through His divine omniscience, Jesus perceives the treacherous intentions of Judas even while washing his feet.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.093163385684431,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                36.79,
+                35.71,
+                27.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The intense contrast between Jesus referring to Judas as Thou and Himself as my reflects the astonishing condescension depicted in this verse. Despite being aware of Judas' forthcoming betrayal, Jesus speaks to him respectfully without rebuke. Jesus had known about Judas' treachery for a significant amount of time, yet treated him with customary kindness. The choice of the present tense in who is betraying suggests that Judas was already involved in the act. Jesus, possessing divine omniscience, discerns the deceitful intentions of Judas while washing his feet.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.1092931686715004,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+            "commentatorTierSimilarities": [
+                37.37,
+                36.79,
+                25.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The striking contrast between Jesus addressing Judas as Thou and Himself as my brilliantly portrays the deeply astonishing nature of His condescension. Rather than immediately rebuking Judas, Jesus hints at the impending betrayal, a concept beyond comprehension. Jesus had been aware of Judas' betrayal for quite some time, yet He treated him with unwavering courtesy. The present tense usage in who is betraying signifies Judas' active involvement in the process. Demonstrating divine omniscience, Jesus perceives the sinister motives of Judas as He washes his feet.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.000116331654612,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                37.98,
+                36.58,
+                25.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The remarkable contrast between Jesus addressing Judas as Thou and Himself as my highlights the profound astonishment at the unfathomable condescension expressed in this verse. Rather than reprimanding Judas, Jesus hints at the forthcoming betrayal, knowing he is already engaged in the act. Jesus had been aware of Judas' betrayal for at least a year, yet treated him with customary courtesy. Jesus' divine omniscience enabled Him to discern Judas' treacherous intentions even while humbly washing his feet.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.13639816287611,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.38,
+            "commentatorTierSimilarities": [
+                37.14,
+                36.61,
+                26.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

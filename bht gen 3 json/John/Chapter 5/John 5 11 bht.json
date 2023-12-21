@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:05:59",
+    "verseRef": "John 5:11",
+    "bestBHT": {
+        "bht": "The man's excuse reveals the depth of the matter since the one who had the power to make him whole also had the power to go against the law. This reasoning, though it may not have been consciously present in the man's mind, was clear to the Jews who shifted blame from him to the one who healed him. By using the demonstrative pronoun, it is emphasized that the same one who made him whole had the authority to suspend the law.",
+        "wordCount": 84,
+        "quoteTokenProportion": 56.86,
+        "qualityScore": 1.8473135865564991,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+        "commentatorTierSimilarities": [
+            34.18,
+            29.71,
+            36.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The man\u2019s excuse is simple and sufficient; and for us, important, inasmuch as it goes into the depth of the matter, and is by the Jews themselves accepted.",
+            "He who had power to make him whole, had power to suspend that law which was, like the healing, God\u2019s work. The authority which had overruled one appointment of Providence, could overrule another.",
+            "I do not mean that this reasoning was present to the man\u2019s mind;\u2014he very likely spoke only from intense feeling of obligation to One who had done so much for him;\u2014but it lay beneath the words, and the Jews recognized it, by transferring their blame, from the man, to Him who healed him."
+        ],
+        "Albert Barnes": [
+            "If Jesus had power to work so signal a miracle, he had a right to explain the law.",
+            "The mercy of God in pardoning our sins, or in bestowing any signal blessing, imposes the obligation to obey him.",
+            "Our business is a simple, hearty, child-like obedience, let the men of the world say or think of us as they choose."
+        ],
+        "Marvin Vincent": [
+            "He that made - the same [\u03bf \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03c2 - \u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2] . The demonstrative pronoun points with emphasis to the subject of the preceding clause. A characteristic usage of John. See John 1:18, John 1:33; John 9:37; John 10:1; John 12:48, etc."
+        ],
+        "Philip Schaff": [
+            "Whether the man knew the Rabbinical saying that a prophet\u2019s command to transgress the letter of the law was to be obeyed, save in the case of idolatry, may be doubted...",
+            "But the impression made on him by the majesty of Jesus was sufficient to guide his answer.",
+            "Divine power had healed him: a command from One who wielded such power could not transgress the law of God."
+        ],
+        "Archibald T. Robertson": [
+            "The same (\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2). 'That one,' emphatic demonstrative as often in John.\" ",
+            "The man did not know who Jesus was nor even his name.",
+            "Whole (\u03c5\u03b3\u03b9\u03b7). Predicate accusative agreeing with \u03bc\u03b5 (me)."
+        ],
+        "John Gill": [
+            "he that had such divine power, as to make him whole, had power to dispense with the sabbath.",
+            "his word was warrant and authority sufficient, to support him in what he did.",
+            "he that had wrought this cure for him, he concluded must be from God; was at least a great prophet, and to be hearkened to and obeyed, in one thing as well as another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man's excuse, though simple, goes into the depth of the matter, highlighting that the one who had the power to heal had the power to suspend the law. While the man may not have consciously reasoned this, the Jews recognized it and shifted their blame from the man to the one who healed him. The use of the demonstrative pronoun emphasizes the authority of the one who made him whole. The man may not have known who Jesus was or even his name, but he recognized that divine power had healed him, and a command from One who wielded such power could not transgress the law of God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9163354917294964,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                32.78,
+                32.73,
+                34.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man's excuse expresses the depth of the matter, as the one who had the power to heal also had the power to suspend the law. The Jews recognized this reasoning, transferring their blame from the man to the one who healed him. The use of the demonstrative pronoun emphasizes the authority of the one who made him whole, showing that a command from someone with divine power could not transgress God's law.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8910216357586975,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                32.18,
+                34.2,
+                33.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man's excuse is straightforward but goes to the heart of the matter and is acknowledged by the Jews themselves. He recognizes that the one who had the power to heal him also had the power to suspend the laws that governed such healing. Although the man may not have been consciously aware of this reasoning, it underlies his words, and the Jews also recognize it. They shift their blame from the man to the one who healed him. The use of the demonstrative pronoun emphasizes the authority of the one who made him whole, indicating that a command from someone with divine power could not violate God's law.",
+            "wordCount": 111,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.7130702638772588,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                31.53,
+                32.21,
+                36.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man's excuse cuts to the core of the matter, for the one who had the power to heal him also had the authority to suspend the law. Though the man may not have consciously reasoned this, it was implicitly conveyed in his words, and the Jews recognized it as well. By transferring their blame from the man to the one who healed him, they acknowledged the underlying truth that divine power trumps human regulations.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.729478839833877,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                29.81,
+                32.18,
+                38.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man's excuse reveals the depth of the matter since the one who had the power to make him whole also had the power to go against the law. This reasoning, though it may not have been consciously present in the man's mind, was clear to the Jews who shifted blame from him to the one who healed him. By using the demonstrative pronoun, it is emphasized that the same one who made him whole had the authority to suspend the law.",
+            "wordCount": 84,
+            "quoteTokenProportion": 56.86,
+            "qualityScore": 1.8473135865564991,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                34.18,
+                29.71,
+                36.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

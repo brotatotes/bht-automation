@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:14:58",
+    "verseRef": "John 20:3",
+    "bestBHT": {
+        "bht": "Peter and the other disciple set out towards the tomb, each with their own eagerness and purpose. The younger disciple, driven by love, outruns the older, and it is Peter who boldly enters the tomb first. They were both filled with faith, even if it had been momentarily quenched, for there was a hidden root within their hearts that bore fruit in the end. As Peter went forth from the house and came to the sepulcher, their journey not only displayed their curiosity but also their deep longing to witness the truth for themselves.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.7,
+        "qualityScore": 1.9032883672889005,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+        "commentatorTierSimilarities": [
+            27.27,
+            39.81,
+            32.92
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] St. Luke, ver. 12, speaks only of Peter\u2019s going."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These particulars have a singular air of artless truth about them.",
+            "The younger disciple outruns the older; love haply supplying swifter wings.",
+            "The bolder Peter, coming up, goes in at once, and is rewarded with bright evidence of what had happened."
+        ],
+        "Marvin Vincent": [
+            "Came to [\u03b7\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf \u03b5\u03b9\u03c2] . Wrong. The tense is the imperfect; they were coming. Rev., they went toward."
+        ],
+        "John Calvin": [
+            "Some seed of faith, therefore, remained in their hearts, but quenched for a time, so that they were not aware of having what they had.",
+            "We must believe that there was some concealed root, from which we see fruit produced.",
+            "When we find that Peter, though he made less haste, is the first to enter into the sepulcher, let us learn from it that many persons have more given to them in the end than appears at the beginning."
+        ],
+        "Philip Schaff": [
+            "The word rendered 'went forth' is so often used in this Gospel in regard to the most solemn events in the life of Jesus, as implying a Divine mission, the accomplishment of a Divine purpose...",
+            "It is possible also that there is design in the manner in which the names of the two apostles are introduced: not 'Peter and the other disciple went forth,' but 'Peter went forth, and the other disciple.'",
+            "The other examples of this construction in the Fourth Gospel tend to show that here John intends to set forth Peter as the main person in the narrative: thus the whole ground is cut away from those who hold that the design of this section is to bring 'the other disciple' into peculiar prominence."
+        ],
+        "Archibald T. Robertson": [
+            "They went (\u03b7\u03c1\u03c7\u03bf\u03bd\u03c4\u03bf). Imperfect middle picturing the scene, \"they were going.\" The two started instantly (\u03b5\u03be\u03b7\u03bb\u03b8\u03b5\u03bd, aorist active indicative). "
+        ],
+        "John Gill": [
+            "Peter therefore went forth,.... Out of the house where he was, upon hearing the account Mary gave.\" ",
+            "and that other disciple; John, the Evangelist and Apostle; the rest of the disciples staying at home and continuing together, waiting to hear what account these two would bring.\" ",
+            "and came to the sepulchre; to see with their own eyes what was done, and whether things were as Mary had related; and to make a more particular inquiry into, and examination of them."
+        ],
+        "John Wesley": [
+            "Peter went out \u2014 Of the city."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter and the other disciple set out towards the tomb, each with their own eagerness and purpose. The younger disciple, driven by love, outruns the older, and it is Peter who boldly enters the tomb first. They were both filled with faith, even if it had been momentarily quenched, for there was a hidden root within their hearts that bore fruit in the end. As Peter went forth from the house and came to the sepulcher, their journey not only displayed their curiosity but also their deep longing to witness the truth for themselves.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 1.9032883672889005,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                27.27,
+                39.81,
+                32.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter and the other disciple, driven by love and faith, set out towards the tomb. The younger disciple's swifter pace revealed his eagerness, while Peter's boldness led him to enter the tomb first. Although their faith may have been momentarily quenched, there was a concealed root within their hearts that bore fruit in the end. Their journey reflected not only curiosity but also a deep longing to witness the truth for themselves.",
+            "wordCount": 74,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.7162933531950264,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                27.06,
+                40.15,
+                32.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter and the other disciple, spurred by love and faith, embarked on their journey towards the tomb. The younger disciple's swift advance, fueled by love's wings, shows his eagerness, while Peter's boldness rewarded him with undeniable evidence. They were filled with faith, albeit momentarily dimmed, for there was an understated root within their hearts that yielded fruit in due time. As Peter went forth and arrived at the sepulcher, their quest not only revealed their inquisitiveness but also reflected a profound desire to personally witness the truth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.838873465669319,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                28.0,
+                38.12,
+                33.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter and the other disciple, driven by love and faith, embarked on their journey towards the tomb. The younger disciple, propelled by love's swifter wings, outran the older, while Peter, bolder in nature, immediately entered the tomb and was rewarded with undeniable evidence. Though their faith may have been momentarily quenched, there was a concealed root in their hearts that produced fruit in due time. As Peter went forth and arrived at the sepulcher, their actions combined curiosity and a profound longing to personally witness the truth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.806281060084355,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                25.86,
+                39.39,
+                34.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Driven by love and faith, Peter and the other disciple embarked on their journey towards the tomb. The younger disciple's swifter pace, propelled by love, outstripped the older, as Peter eagerly ventured into the tomb and was rewarded with undeniable evidence. Though their faith may have momentarily dimmed, a hidden root within their hearts yielded fruit over time. As Peter went forth and arrived at the sepulcher, their quest revealed both curiosity and a deep longing to personally witness the truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7997163157291354,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                26.48,
+                38.45,
+                35.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

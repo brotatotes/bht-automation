@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:15:30",
+    "verseRef": "John 20:17",
+    "bestBHT": {
+        "bht": "Do not cling to me, for I am not yet restored finally to you in the body, Jesus said to Mary. Though you desire to touch Me and enjoy friendly intercourse with Me, I permit Myself to be seen only for a purpose connected with My Office, the confirmation of your faith. The time will come when you may enjoy intercourse with the most perfect, not by earthly touch, but by heavenly and spiritual touch.",
+        "wordCount": 75,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 2.013098494456874,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.28,
+        "commentatorTierSimilarities": [
+            40.96,
+            29.25,
+            29.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Do not thus\u2014for I am not yet restored finally to you in the body\u2014I have yet to ascend to the Father.",
+            "Thou desirest to touch Me, Mary, and to enjoy friendly intercourse with Me: but that may not be now, for I permit Myself to be seen only for a purpose connected with Mine Office, the confirmation of your faith.",
+            "But when I shall have ascended to My Father, the time will come that thou mayst enjoy intercourse with the most perfect, not by earthly touch, but by such as befits that place,\u2014heavenly and spiritual."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Old familiarities must now give place to new and more awful yet sweeter approaches; but for these the time has not come yet.",
+            "That He had still our Humanity, and therefore 'is not ashamed to call us brethren,' is indeed grandly evidenced by these words.",
+            "Yet, note well, He says not, Our Father and our God. All the deepest of the Church fathers were wont to call attention to this, as expressly designed to distinguish between what God is to Him and to us\u2014His Father essentially, ours not so: our God essentially, His not so: His God only in connection with us: our God only in connection with Him."
+        ],
+        "Albert Barnes": [
+            "The reason why he forbade her to touch him now is to be sought in the circumstances of the case.",
+            "Do not approach me now for this purpose. Do not delay here. Other opportunities will yet be afforded to see me.",
+            "Nothing was better fitted to afford them consolation than this assurance that this God was theirs; and that, though he had been slain, they were still indissolubly united in attachment to the same Father and God."
+        ],
+        "Marvin Vincent": [
+            "The time for this kind of intercourse is over. Henceforth your communion with me will be by faith through the Spirit.\" ",
+            "This expression, emphasizing the relation of God to humanity rather than to Christ himself, is explained by what follows - 'my Father and your Father.'",
+            "The resurrection was really the beginning of the ascension."
+        ],
+        "John Calvin": [
+            "We ought, therefore, to conclude, that they were not forbidden to touch him unless Christ saw that, by their foolish and unreasonable desire, they wished to keep him in the world.",
+            "His state of resurrection would not be full and complete until he should sit down in heaven at the right hand of the Father.",
+            "Christ displayed in [the women] the boundless treasures of his grace, when he once appointed them to be the teachers of the Apostles, and yet did not intend that what was done by a singular privilege should be viewed as an example."
+        ],
+        "Philip Schaff": [
+            "Touch me not; for I am not yet ascended to the Father; but go to my brethren, and say unto them, I ascend unto my Father and your Father, and my God and your God... the season for such bodily touching of the Word of Life was past.",
+            "Jesus would return to His Father, and would send forth His Spirit to dwell with His disciples. Then they should see Him, hear Him, handle Him, touch Him, in the only way in which He can now be seen and heard and handled and touched.",
+            "The message sent by Mary to the 'brethren' of the Lord is not a mere message that He has risen from the grave. The thought of His resurrection is rather embraced only as a part of a new and permanent state of things which has come in."
+        ],
+        "Archibald T. Robertson": [
+            "Cease clinging to me\" rather than \"Do not touch me.",
+            "The previous personal fellowship by sight, sound, and touch no longer exists.",
+            "Jesus is here at all only because he has not yet gone home."
+        ],
+        "John Gill": [
+            "Not that his body was an aerial one, or a mere 'phantom', which could not be touched; the prohibition itself shows the contrary.",
+            "I am not yet ascended to my Father; nor shall I immediately go to him; I shall make some stay upon earth.",
+            "God was his Father by nature, or with regard to his divine person, being begotten of him, and so his own proper Son, and he his own proper Father."
+        ],
+        "John Wesley": [
+            "Do not cling to me... Detain me not now. You will have other opportunities of conversing with me.\" ",
+            "But go immediately to my brethren... These exquisite touches, which every where abound in the evangelical writings, show how perfectly Christ knew our frame.\" ",
+            "To my Father and your Father, to my God and your God - This uncommon expression shows that the only - begotten Son has all kind of fellowship with God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not cling to me, for I am not yet restored finally to you in the body, Jesus said to Mary. Though you desire to touch Me and enjoy friendly intercourse with Me, I permit Myself to be seen only for a purpose connected with My Office, the confirmation of your faith. The time will come when you may enjoy intercourse with the most perfect, not by earthly touch, but by heavenly and spiritual touch. Old familiarities must give place to new and more awe-inspiring yet sweeter approaches. But for now, the time has not come yet. Understand that I have our humanity, and therefore, 'is not ashamed to call us brethren.' However, note well, I say not 'Our Father and our God,' but 'My Father and your Father,' distinguishing between what God is to Me and to you. The time for this kind of physical interaction is over. Henceforth, your communion with Me will be by faith through the Spirit.",
+            "wordCount": 162,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7187564459418807,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                40.71,
+                31.17,
+                28.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not cling to me, for I am not yet restored finally to you in the body, Jesus said to Mary. Though you desire to touch Me and enjoy friendly intercourse with Me, I permit Myself to be seen only for a purpose connected with My Office, the confirmation of your faith. The time will come when you may enjoy intercourse with the most perfect, not by earthly touch, but by heavenly and spiritual touch.",
+            "wordCount": 75,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.013098494456874,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.28,
+            "commentatorTierSimilarities": [
+                40.96,
+                29.25,
+                29.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After His resurrection, Jesus appeared to Mary and forbade her from touching Him, explaining that He had not yet ascended to the Father. He reassured her that though the previous personal fellowship by sight, sound, and touch no longer existed, the time would come when she could enjoy a heavenly and spiritual communion with Him. By distinguishing between His Father and our Father, Jesus emphasized the unique relationship He had with God and reminded us of our humanity and our connection to Him through faith. He sent Mary to deliver the message to the disciples, assuring them that He was ascending to His Father and theirs, and that they were all united in their attachment to the same Father and God. Thus, the resurrection marked the beginning of a new and permanent state of things, where their communion with Christ would be through faith and the Spirit.",
+            "wordCount": 147,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 2.0129475399868832,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.27,
+            "commentatorTierSimilarities": [
+                29.37,
+                37.94,
+                32.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After His resurrection, Jesus told Mary not to touch Him, explaining that He had not yet ascended to the Father. He assured her that the time would come when she could enjoy a heavenly and spiritual communion with Him. By distinguishing between His Father and our Father, He emphasized their unique relationship and our connection to Him through faith. He sent Mary to deliver the message to the disciples, assuring them that He was ascending to His Father and theirs, uniting them in their attachment to the same Father and God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.9650639697340169,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                27.3,
+                39.07,
+                33.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, after His resurrection, told Mary that she couldn't touch Him because He had not yet ascended to the Father. He assured her that the time for a new and more spiritual form of communion would come. By distinguishing between His Father and our Father, Jesus emphasized the unique relationship He had with God and reminded us of our connection to Him in a different way. He sent Mary to the disciples as a messenger, assuring them that He was ascending to the Father, unifying them in their attachment to the same God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.013081352007341,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.28,
+            "commentatorTierSimilarities": [
+                28.37,
+                38.65,
+                32.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

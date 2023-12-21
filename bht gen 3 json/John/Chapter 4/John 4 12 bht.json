@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:05:27",
+    "verseRef": "John 4:12",
+    "bestBHT": {
+        "bht": "Claiming Jacob as her father, the Samaritan woman questions the Stranger's greatness, perceiving a claim to some mysterious superiority. The Samaritans claimed kinship with the Jews when it went well, but disowned them during misfortunes. Expecting a negative answer, she asks if the Stranger is greater, showing a hint of contempt. The Samaritans boasted their descent from Jacob through Joseph. Referring to cattle, the mention completes the image of their nomadic ancestor. Her growing conviction of the Stranger's greatness is evident in His manner and words.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.7509831836001735,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+        "commentatorTierSimilarities": [
+            40.84,
+            30.5,
+            28.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If thou hast better water, and canst give it, thou must be greater than Jacob.",
+            "Claiming Jacob as her father...she expresses by this question an appropriation of descent from him, such as almost to exclude, or at all events set at a greater distance, the Jews.",
+            "To one of whom she believed herself to be speaking."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Art thou greater, c.\u2014already perceiving in this Stranger a claim to some mysterious greatness.",
+            "our father Jacob\u2014for when it went well with the Jews, they claimed kindred with them, as being descended from Joseph.",
+            "but when misfortunes befell the Jews, they disowned all connection with them [JOSEPHUS, Antiquities, 9.14,3]."
+        ],
+        "Albert Barnes": [
+            "To find water and to furnish a good well was doubtless considered a matter of signal skill and success.",
+            "This shows how ready sinners are to misunderstand the words of Christ, and to pervert the doctrines of religion.",
+            "People like to commend that which their ancestors used as superior to anything else."
+        ],
+        "Marvin Vincent": [
+            "Art thou greater [\u03bc\u03b7 \u03c3\u03c5 \u03bc\u03b5\u03b9\u03b6\u03c9\u03bd] . The interrogative particle indicates that a negative answer is expected : Surely thou art not. The su, thou, first in the sentence, is emphatic, and possibly with a shade of contempt.",
+            "Our father Jacob. The Samaritans claimed descent from Joseph, as representing the tribes of Ephraim and Manasseh.",
+            "Cattle [\u03b8\u03c1\u03b5\u03bc\u03bc\u03b1\u03c4\u03b1] . Only here in the New Testament. From [\u03c4\u03c1\u03b5\u03c6\u03c9] to nourish. A general term for whatever is fed or nursed. When used of animals - mostly of tame ones - cattle, sheep, etc. It is applied to children, fowls, insects, and fish, also to domestic slaves, which, according to some, is the meaning here; but, as Meyer justly remarks, 'there was no need specially to name the servants; the mention of the herds completes the picture of their nomadic progenitor.'"
+        ],
+        "John Calvin": [
+            "How faulty this comparison is, appears plainly enough from this consideration, that she compares the servant to the master, and a dead man to the living God.",
+            "The more cautious ought we to be not to extol the persons of men so as to obscure the glory of God.",
+            "It is, therefore, proper that we should honor men who are eminent in piety, or endued with other uncommon gifts; but it ought to be in such a manner that God may always remain eminent above all."
+        ],
+        "Philip Schaff": [
+            "The well was his; he drank of it himself.",
+            "The Samaritan woman had sought this well partly on account of its connection with the fathers of her people.",
+            "In the words of this verse we see her dawning conviction of the Stranger\u2019s greatness, and the impression made upon her by His manner and His words."
+        ],
+        "Archibald T. Robertson": [
+            "Expecting a negative answer.",
+            "The Samaritans claimed descent from Jacob through Joseph.",
+            "Old word from \u03c4\u03c1\u03b5\u03c6\u03c9, to nourish, nursling, child, flock, cattle."
+        ],
+        "John Gill": [
+            "she calls Jacob the father of them, according to the common notion and boasting of these people",
+            "such a mixed medley of people were they at this time, though they boasted of Jacob as their father, as this woman did",
+            "carnal persons, when they hear of spiritual things under earthly metaphors, think of nothing but carnal things"
+        ],
+        "John Wesley": [
+            "Our father Jacob \u2014 So they fancied he was; whereas they were, in truth, a mixture of many nations, placed there by the king of Assyria...\" ",
+            "Who gave us the well \u2014 In Joseph their supposed forefather: and drank thereof - So even he had no better water than this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Samaritan woman, claiming Jacob as her father, questions the Stranger about His greatness, already perceiving a claim to some mysterious superiority. The Samaritans, when it went well with them, claimed kindred with the Jews. However, during misfortunes, they disowned any connection with them. With a hint of contempt, she expects a negative answer. The Samaritans, claiming descent from Jacob through Joseph, held on to their ancestral pride. Referring to the cattle, the mention of herds completes the picture of their nomadic progenitor. In the words of this verse, we see her dawning conviction of the Stranger's greatness and the impression made upon her by His manner and words.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 1.718236049411272,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                39.16,
+                32.83,
+                28.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Claiming Jacob as her father, the Samaritan woman questions the Stranger's greatness, perceiving His claim to some mysterious superiority. The Samaritans, at times, claimed kinship with the Jews, but disowned any connection during misfortunes. With a hint of contempt, she expects a negative answer. The Samaritans claimed descent from Jacob through Joseph and held onto their ancestral pride. The mention of herds completes the picture of their nomadic progenitor. Her conviction of the Stranger's greatness is apparent in her words and in the impression made by His manner and speech.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.7227091547223004,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                39.99,
+                33.12,
+                26.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Claiming Jacob as her father, the Samaritan woman questions the Stranger's greatness, already perceiving a claim to some mysterious superiority. The Samaritans, when it went well with them, claimed kindred with the Jews. They disowned any connection when misfortunes befell the Jews. Expecting a negative answer, she asks if the Stranger is greater. The Samaritans claimed descent from Jacob through Joseph and held onto their ancestral pride. The mention of cattle completes the picture of their nomadic progenitor. Her dawning conviction of the Stranger's greatness was influenced by His manner and words.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.7031941262656751,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.97,
+            "commentatorTierSimilarities": [
+                41.52,
+                31.55,
+                26.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Claiming Jacob as her father, the Samaritan woman questions the Stranger's greatness, perceiving a claim to some mysterious superiority. The Samaritans claimed kinship with the Jews when it went well, but disowned them during misfortunes. Expecting a negative answer, she asks if the Stranger is greater, showing a hint of contempt. The Samaritans boasted their descent from Jacob through Joseph. Referring to cattle, the mention completes the image of their nomadic ancestor. Her growing conviction of the Stranger's greatness is evident in His manner and words.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.7509831836001735,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                40.84,
+                30.5,
+                28.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Claiming Jacob as her father, the Samaritan woman questions the Stranger's greatness, perceiving a claim to some mysterious superiority. The Samaritans claimed kinship with the Jews when it went well, disowning them during misfortunes. Expecting a negative answer, she inquires if the Stranger is greater, hinting at contempt. The Samaritans boasted their descent from Jacob through Joseph. Referring to cattle, the mention completes the image of their nomadic progenitor. Her dawning conviction of the Stranger's greatness is evident in His manner and words.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.7352384921622677,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.04,
+            "commentatorTierSimilarities": [
+                40.5,
+                31.1,
+                28.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

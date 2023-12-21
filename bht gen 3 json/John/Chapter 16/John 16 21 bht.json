@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:13:18",
+    "verseRef": "John 16:21",
+    "bestBHT": {
+        "bht": "The Death of Jesus Christ was like the anguish of birth for all of humanity, in which the perfect Man was born into the world, bringing eternal joy. This birth of pain, the passing from sorrow to joy, is experienced by the whole Church and Creation until the eternal joy is brought in. Just as a woman in travail experiences sorrow that leads to joy, so do the disciples experience grief over the death of their Lord, which will ultimately be transformed into joy upon his return to them.",
+        "wordCount": 89,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 2.0226380936712953,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+        "commentatorTierSimilarities": [
+            37.52,
+            26.46,
+            36.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Death of Jesus Christ was as it were an anguish of birth belonging to all Humanity, in which the perfect Man was born into the world; and in this very birth of the new man lies the spring of eternal joy, never to be lost, for all.",
+            "His passing from sorrow to joy\u2014till \u2018Christ be formed in him,\u2019 is this birth of pain.",
+            "The whole Church, the Spouse of Christ,\u2014nay, even the whole Creation, travaileth in pain together (Rom. viii. 23) till the number of the elect be accomplished, and the eternal joy brought in."
+        ],
+        "Marvin Vincent": [
+            "A woman [\u03b7 \u03b3\u03c5\u03bd\u03b7] . Literally, the woman. The generic article marking the woman as representing her sex: woman as such.",
+            "She is in travail. A common Old Testament image of sorrow issuing in joy.",
+            "Joy [\u03c4\u03b7\u03bd \u03c7\u03b1\u03c1\u03b1\u03bd] . Properly, the joy which answers to the anguish."
+        ],
+        "John Calvin": [
+            "Christ means that the sorrow which they shall endure for the sake of the Gospel will be profitable.",
+            "The comparison must also be applied in this respect, that though the sorrow of the woman is very severe, it quickly passes away.",
+            "But as we have received nothing more than the first-fruits, and these in very small measure, we scarcely taste a few drops of that spiritual gladness, to soothe our grief and alleviate its bitterness."
+        ],
+        "Philip Schaff": [
+            "An illustration of what had been said familiar to all, but drawn out of the very heart of Old Testament life and feeling.",
+            "Yet there is more in the language than meets the eye at first sight, and its peculiarities form a valuable proof of the correctness of the interpretation given above by the twice repeated \u2018little while.\u2019",
+            "And why (2) the use of the word \u2018man\u2019 instead of child, when it is said \u2018a man is born into the world,\u2019 but because that which is brought forth in tribulation is the new birth of regenerated humanity, and because that new life with which the Church springs into being is life in a risen Lord."
+        ],
+        "Archibald T. Robertson": [
+            "The woman,\" any woman. ",
+            "Whenever she is about to bear (or give birth),\" common O.T. image for pain.",
+            "But whenever she bears the child."
+        ],
+        "John Gill": [
+            "A woman when she is in travail hath sorrow,.... As was said she should have, Genesis 3:16; This is God's ordination and appointment for sin: because her hour is come; is at hand; the fixed time in nature is up, and there is no avoiding it.",
+            "But as soon as she is delivered of the child; for though the sorrow is great, yet there is a deliverance, and she is saved in child bearing: when she remembereth no more the anguish; the sharp pains she has endured in her travail.",
+            "Now our Lord, by this instance, illustrates the sorrow his disciples should have by his departure, and the joy that they should be possessed of upon his return to them; that as the pains of a woman in travail are very sharp and severe, and the distress of her mind, about the issue of things respecting herself and offspring, is very great, so would be the grief and trouble of the disciples on account of the death of their Lord and master."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Death of Jesus Christ was like the anguish of birth for all of humanity, through which the perfect Man was born into the world, bringing eternal joy. This birth of pain, the passing from sorrow to joy, is experienced by the whole Church and Creation until the eternal joy is brought in. Just as a woman in travail experiences sorrow that leads to joy, so do the disciples experience grief over the death of their Lord, which will ultimately be transformed into joy upon his return to them. This comparison emphasizes the temporary nature of the disciples' sorrow and the ultimate deliverance from anguish, as the woman no longer remembers the pain once she has given birth.",
+            "wordCount": 118,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 2.037402531472396,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.08,
+            "commentatorTierSimilarities": [
+                35.51,
+                26.21,
+                38.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Death of Jesus Christ was as it were an anguish of birth belonging to all Humanity, in which the perfect Man was born into the world. This birth of pain, the passing from sorrow to joy, is experienced by the whole Church and Creation, till the eternal joy is brought in. Just as a woman in travail experiences sorrow that leads to joy, so the disciples will transform their grief over the death of their Lord into joy upon his return to them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.9639153247727976,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                36.87,
+                26.7,
+                36.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Death of Jesus Christ was like the anguish of birth for all of humanity, through which the perfect Man was born into the world, bringing eternal joy. This birth of pain, the passing from sorrow to joy, is experienced by the whole Church and Creation until the eternal joy is brought in. Just as a woman in travail experiences sorrow that leads to joy, so do the disciples experience grief over the death of their Lord, which will ultimately be transformed into joy upon his return to them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.016107782022803,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+            "commentatorTierSimilarities": [
+                37.46,
+                26.55,
+                35.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Death of Jesus Christ was like the anguish of birth for all of humanity, in which the perfect Man was born into the world. This birth of pain, the passing from sorrow to joy, is experienced by the whole Church and Creation until the eternal joy is brought in. Just as a woman in travail experiences sorrow that leads to joy, so the disciples will transform their grief over the death of their Lord into joy upon his return to them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.9711099017454488,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                37.06,
+                26.24,
+                36.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Death of Jesus Christ was like the anguish of birth for all of humanity, in which the perfect Man was born into the world, bringing eternal joy. This birth of pain, the passing from sorrow to joy, is experienced by the whole Church and Creation until the eternal joy is brought in. Just as a woman in travail experiences sorrow that leads to joy, so do the disciples experience grief over the death of their Lord, which will ultimately be transformed into joy upon his return to them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.0226380936712953,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                37.52,
+                26.46,
+                36.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

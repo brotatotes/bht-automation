@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:13:00",
+    "verseRef": "John 15:27",
+    "bestBHT": {
+        "bht": "The disciples and the Spirit bear witness together, as the Holy Ghost works in and through them. The historical witness given by the ministers and eye-witnesses of the word, summarized in the Gospels, emphasizes this unity. Christians, like the disciples, have ample opportunities to prepare for their role as witnesses through their present opportunities for acquiring qualifications. Filled with and taught by the Holy Spirit, they can bear faithful testimony to what they have seen and heard, just as the disciples, who were chosen to be with Christ from the beginning.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 2.1104511874862384,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+        "commentatorTierSimilarities": [
+            33.98,
+            36.62,
+            29.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The witness is one and the same; the Spirit will witness in and by them.",
+            "This verse alludes to the historical witness which the Holy Ghost in the ministers and eye-witnesses of the word... OF WHICH OUR INSPIRED GOSPELS ARE THE SUMMARY.",
+            "But both the one and the other are given by the self-same SPIRIT;\u2014neither of them inconsistent with, or superseding the other."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye also shall bear witness, with reference indeed to their future witness-bearing, but putting the emphasis upon their present ample opportunities for acquiring their qualifications for that great office.\" ",
+            "They had been 'with Him from the beginning.'",
+            "Their present ample opportunities for acquiring their qualifications for that great office."
+        ],
+        "Albert Barnes": [
+            "You shall be witnesses to the world to urge on them the evidences that the Lord Jesus is the Messiah.",
+            "They had for more than three years seen his works, and were therefore qualified to bear witness of his character and doctrines.",
+            "From his entrance on the public work of the ministry, Matthew 4:17-22. Compare Acts 1:21-22."
+        ],
+        "Marvin Vincent": [
+            "Shall bear witness [\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b5\u03b9\u03c4\u03b5] . Present tense, bear witness. So Rev. Or, it may be taken as imperative : bear ye witness. "
+        ],
+        "John Calvin": [
+            "Those who do not sufficiently know the darkness of the human mind imagine that faith is formed naturally by hearing and preaching alone.",
+            "Still we must not go to seek visions or oracles in the clouds; but the word, which is near us, in our mouth and heart, must keep all our senses bound and fixed on itself.",
+            "...to inform us that so much the greater credit is due to the apostles on this ground, that they were eye-witnesses of what they relate."
+        ],
+        "Archibald T. Robertson": [
+            "Ye also bear witness... when filled with and taught by the Holy Spirit.\" ",
+            "It is here that Christians fail most.",
+            "They were chosen to be with Christ."
+        ],
+        "John Gill": [
+            "And ye shall also bear witness... that they could declare, and did declare, and bore a faithful testimony to...",
+            "They were a company of select men, chosen before of God, for this purpose...",
+            "They were the most capable of bearing a testimony concerning his person, doctrines, and works; of all he did and suffered, from first to last."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The witness of the disciples and the Spirit are one and the same, as the Holy Ghost works through them to testify to the truth. The verse alludes to the historical witness provided by the ministers and eye-witnesses of the word, as summarized in the inspired Gospels. The disciples were chosen to be with Christ and had ample opportunities to acquire their qualifications for the great office of bearing witness. Today, Christians must also bear witness when filled with and taught by the Holy Spirit, although this is where they often fail. The disciples were not only able to testify to what they had seen and heard, but also to what they experienced with Christ from the beginning.",
+            "wordCount": 119,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.0575060692996168,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+            "commentatorTierSimilarities": [
+                33.54,
+                35.4,
+                31.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The witness of the disciples and the Spirit are one and the same, as the Holy Ghost works through them to testify to the truth. The inspired Gospels serve as a summary of the historical witness provided by the ministers and eye-witnesses of the word. Christians must bear witness when filled with and taught by the Holy Spirit, as the disciples were chosen to be with Christ and had ample opportunities to acquire their qualifications for this great office. They were able to testify to what they had seen, heard, and experienced from the beginning of their journey with Him.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.1057884288100874,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.36,
+            "commentatorTierSimilarities": [
+                32.21,
+                36.79,
+                31.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The witness of the disciples and the Spirit is one and the same, as the Holy Ghost works through them to testify to the truth. The historical witness provided by the ministers and eye-witnesses of the word, as summarized in the inspired Gospels, is a testament to this fact. Christians, like the disciples, have ample opportunities to acquire their qualifications for the important task of bearing witness, which requires being filled with and taught by the Holy Spirit. The disciples, having been chosen to be with Christ from the beginning, were able to bear faithful testimony to all they had seen, heard, and experienced.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.061235635295641,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                31.13,
+                36.35,
+                32.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The witness of the disciples and the Spirit is one and the same, as the Holy Ghost works through them to testify. The historical witness provided in the inspired Gospels summarizes the testimonies given by the ministers and eye-witnesses of the word. Christians, like the disciples, have ample opportunities to acquire their qualifications for bearing witness and should be filled with and taught by the Holy Spirit. The disciples, chosen to be with Christ from the beginning, were able to faithfully testify to all they had experienced with Him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0493017875091963,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                31.75,
+                36.58,
+                31.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples and the Spirit bear witness together, as the Holy Ghost works in and through them. The historical witness given by the ministers and eye-witnesses of the word, summarized in the Gospels, emphasizes this unity. Christians, like the disciples, have ample opportunities to prepare for their role as witnesses through their present opportunities for acquiring qualifications. Filled with and taught by the Holy Spirit, they can bear faithful testimony to what they have seen and heard, just as the disciples, who were chosen to be with Christ from the beginning.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.1104511874862384,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                33.98,
+                36.62,
+                29.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:06:33",
+    "verseRef": "John 5:41",
+    "bestBHT": {
+        "bht": "Jesus declares, I receive not honor from men. His glory is not based on the praise or testimony of humanity, but is derived from another source. He seeks the fellowship and glory of the Father, unlike the Jews who sought their own honor from others. Jesus does not expect mere honor and praise from men because His purpose is not to obtain human applause. His greatness surpasses the opinions of men, being deserving of honor, and we should boldly ignore the world's opinions of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.211246418366877,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.86,
+        "commentatorTierSimilarities": [
+            32.09,
+            34.22,
+            33.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I do not receive; no such praise nor testimony accrues to Me, nor has in Me that on which it can lay hold.",
+            "My glory is altogether from another source."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "41. I receive not honour from",
+            "\tmen\u2014contrasting His own end with theirs, which was to obtain",
+            "\thuman applause."
+        ],
+        "Marvin Vincent": [
+            "I receive not honor from men.",
+            "His glory consists in his loving fellowship with God.",
+            "Men who do not love God are not in sympathy with Him."
+        ],
+        "John Calvin": [
+            "He is too great to depend on the opinions of men, for the malignity of the whole world can take nothing from him, or make the slightest infringement on his high rank.",
+            "In regard to honorable rank, there is an immense distance between Christ and us, still we ought boldly to despise the opinions of men.",
+            "Let our souls be burned and tortured by this holy jealousy, whenever we see that the world is so ungrateful as to reject God."
+        ],
+        "Philip Schaff": [
+            "Glory from men I receive not.",
+            "Jesus has been speaking of the refusal of the Jews to \u2018believe \u2018Him and \u2018come to\u2019 Him as the sufficient and certain evidence of the evil of their hearts.",
+            "But in so speaking He is not aiming at His own honour, or seeking fame from men."
+        ],
+        "Archibald T. Robertson": [
+            "Mere honour and praise Jesus does not expect from men.\" ",
+            "He is unlike the Jews and seeks not his own glory, but the glory and fellowship of the Father.",
+            "Paul did not seek glory from men."
+        ],
+        "John Gill": [
+            "Not but that honour from men was due to Christ... but his sense is, that in asserting his equality with the Father, and in producing the testimonies he did, in proof of it, his view was not to obtain honour and applause among men, but to vindicate himself, and glorify his Father.",
+            "Nor did he say what he had just now said, about men's coming to him, with any such intention, to gather a party to him, to set up himself as a temporal king, in great pomp and splendour, and receive worldly homage and honour from men, as his subjects.",
+            "For his kingdom was not of this world, and coming and subjection to him were things of a spiritual nature."
+        ],
+        "John Wesley": [
+            "I receive not honour from men \u2014 I need it not. I seek it not from you for my own sake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares, I receive not honor from men. He does not seek praise or validation from humanity, for His glory comes from a higher source. He is unlike the Jews who sought fame and applause from others. His glory lies in His loving fellowship with God, and He seeks the glory and fellowship of the Father. Jesus does not expect mere honor and praise from men because His purpose is not to obtain human applause. He is too great to depend on the opinions of men, as the whole world's malignity cannot diminish His rank. His aim is not to seek His own honor or fame, but to vindicate Himself and glorify His Father. Let this holy jealousy burn in our souls whenever we see the world's ingratitude towards God, and let us boldly despise the opinions of men, for our Lord is deserving of all honor. ",
+            "wordCount": 149,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.100323020475025,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                31.07,
+                33.94,
+                34.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus declares, I receive not honor from men. His glory is not based on the praise or testimony of humanity, but is derived from another source. He seeks the fellowship and glory of the Father, unlike the Jews who sought their own honor from others. Jesus does not expect mere honor and praise from men because His purpose is not to obtain human applause. His greatness surpasses the opinions of men, being deserving of honor, and we should boldly ignore the world's opinions of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.211246418366877,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.86,
+            "commentatorTierSimilarities": [
+                32.09,
+                34.22,
+                33.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus declares, I receive not honor from men. His glory is not dependent on the praise or opinions of humanity, but comes from a higher source. Unlike the Jews who sought fame and applause, Jesus seeks the glory and fellowship of the Father. He does not expect honor or praise from men, as his aim is not to obtain human applause. His greatness transcends the opinions of men and we should boldly disregard the world's opinions and honor Him for His deserving rank.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1860803953023016,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                31.83,
+                34.65,
+                33.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares, I receive not honor from men. His glory is not based on the praise or testimony of humanity, but comes from another source. Unlike the Jews who sought their own honor and applause, Jesus seeks the glory and fellowship of the Father. He does not expect mere honor and praise from men, as his aim is not to obtain human applause. His greatness surpasses the opinions of men, and we should boldly ignore the world's opinions and honor Him for His deserving rank.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.195819545899427,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                32.49,
+                33.9,
+                33.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus declares, I receive not honor from men. He seeks the fellowship and glory of the Father, while the Jews sought their own honor. Jesus does not expect mere honor and praise from men, as his aim is not to obtain human applause. His greatness surpasses the opinions of men, and we should boldly disregard the world's opinions and honor Him for His deserving rank.",
+            "wordCount": 66,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 2.189205134403537,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.13,
+            "commentatorTierSimilarities": [
+                30.47,
+                33.67,
+                35.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

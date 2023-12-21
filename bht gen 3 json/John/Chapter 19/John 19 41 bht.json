@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:15:01",
+    "verseRef": "John 19:41",
+    "bestBHT": {
+        "bht": "Jesus was laid to rest in a new sepulchre, in the place where he was crucified, to show that He alone had risen from it. This was not a coincidence, but a providential act of God. The newness of the tomb signified Jesus' separation from sinners, just as He rode into Jerusalem on an ass that no one had sat on before. The garden location and the uniqueness of the tomb highlighted the honor bestowed upon Jesus even in His death.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.1151189371982944,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.67,
+        "commentatorTierSimilarities": [
+            25.43,
+            40.69,
+            33.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words, in the place where he was crucified, are so far in favour of the traditional site of the Holy Sepulchre...",
+            "The newness of the tomb was important, that it should be seen that no one but Jesus had risen thence...",
+            "...so that no room might be left for the CLES of unbelief."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But there was one recommendation of it which probably would not strike them; but God had it in view.",
+            "But it was 'a new sepulchre,' 'wherein never man before was laid.'",
+            "Thus as He rode into Jerusalem on an ass 'whereon never man before had sat,' so now He shall lie in a tomb wherein never man before had lain, that from these specimens it may be seen that in all things He was 'SEPARATE FROM SINNERS.'"
+        ],
+        "Marvin Vincent": [
+            "New [\u03ba\u03b1\u03b9\u03bd\u03bf\u03bd] . See on Matthew 26:29.\" ",
+            "John omits the detail of the tomb being hewn in the rock, which is common to all the Synoptists.\" ",
+            "Matthew says, as it began to dawn; Mark, when the sun was risen; Luke, very early in the morning, or at deep dawn; see on Luke 24:1."
+        ],
+        "John Calvin": [
+            "It did not happen by accident, but by an undoubted providence of God, that the body of Christ was buried in a new sepulchre.",
+            "He had a new sepulcher, in which no person had ever been laid.",
+            "God offers them what they did not seek, that the burial of his Son might have some token to distinguish him from the rank of other men."
+        ],
+        "Philip Schaff": [
+            "They certainly tend to [prepare] the way for the reality of the resurrection... when the grave was found empty, none but Jesus could have risen from it.\" ",
+            "He was laid, not in the place of common burial, but in a garden, and in a new sepulchre, where no one had been laid before Him.\" ",
+            "They are mentioned with the view of bringing out the honor paid to Jesus in His death."
+        ],
+        "Archibald T. Robertson": [
+            "A garden (\u03ba\u03b7\u03c0\u03bf\u03c2).",
+            "New (\u03ba\u03b1\u03b9\u03bd\u03bf\u03bd). Fresh, unused.",
+            "It was Joseph's mausoleum, a rock tomb hewn out of the mountain side."
+        ],
+        "John Gill": [
+            "Rich men used to have their gardens without the city for their convenience and pleasure.",
+            "Here Joseph had one, hewn out in a rock, for himself and family, and was newly made.",
+            "Now Christ was laid in such an one, where no man had been laid, that it might appear certainly that it was he, and not another, that was risen from the dead."
+        ],
+        "John Wesley": [
+            "In the place where he was crucified \u2014 There was a garden in the same tract of land: but the cross did not stand in the garden."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the place where he was crucified, Jesus was laid to rest in a new sepulchre, wherein never man before had lain. This choice of burial site was not by chance, but a deliberate act of providence by God. Just as Jesus rode into Jerusalem on an ass that no one had sat on before, so now He would lie in a tomb that no one had been laid in before. This served as a symbolic testament to His separation from sinners. Furthermore, the newness of the tomb was significant, as it indicated that Jesus alone had risen from it. The garden location and the uniqueness of the tomb emphasized the honor bestowed upon Jesus even in His death.",
+            "wordCount": 119,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.1391119878377474,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.47,
+            "commentatorTierSimilarities": [
+                26.1,
+                41.38,
+                32.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the place where Jesus was crucified, He was laid in a new sepulchre, where no man had been buried before. This deliberate choice of burial site, not by chance but by God's providence, signified Jesus' separation from sinners. Just as He rode into Jerusalem on an ass that no one had sat on before, so He would lie in a tomb that no one had been laid in before. The newness of the tomb and its garden location highlighted the honor given to Jesus even in His death.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.241136932397961,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.86,
+            "commentatorTierSimilarities": [
+                24.6,
+                41.54,
+                33.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus was laid to rest in a new sepulchre, in the place where he was crucified, to show that He alone had risen from it. This was not a coincidence, but a providential act of God. The newness of the tomb signified Jesus' separation from sinners, just as He rode into Jerusalem on an ass that no one had sat on before. The garden location and the uniqueness of the tomb highlighted the honor bestowed upon Jesus even in His death.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.1151189371982944,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.67,
+            "commentatorTierSimilarities": [
+                25.43,
+                40.69,
+                33.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the place where he was crucified, Jesus was laid to rest in a new sepulchre - a tomb that had never been used before. This deliberate choice of burial site was not a coincidence, but a providential act of God. The newness of the tomb served to distinguish Jesus, illustrating his separation from sinners. Additionally, the garden location and the uniqueness of the tomb emphasized the honor given to Jesus even in his death.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.189082342400322,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.13,
+            "commentatorTierSimilarities": [
+                25.57,
+                42.54,
+                31.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the place where he was crucified, Jesus was laid to rest in a new sepulchre, wherein never man before had lain. This choice of burial site was not by chance, but by an undoubted providence of God, to distinguish Jesus from others and to separate him from sinners. The newness of the tomb symbolized the uniqueness of Jesus' resurrection. The garden location and the honor attached to this distinctive burial highlighted Jesus' significance even in his death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.159761317708682,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                23.36,
+                43.76,
+                32.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

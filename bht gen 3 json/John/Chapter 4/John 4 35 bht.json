@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:06:03",
+    "verseRef": "John 4:35",
+    "bestBHT": {
+        "bht": "The Son of Man had been tirelessly sowing the good seed, and now the fields were ready for harvest. Jesus, filled with holy emotion, urged His disciples to lift up their eyes and see the fields that were already white for harvesting. Just as the farmer eagerly awaits the crop, so are we to expect revivals of religion, seizing the opportunity to gather the heavenly wheat. The Samaritans and multitudes in Galilee were a ripe harvest-field, prefiguring the larger harvest of mankind that would be reaped by His disciples unto eternal life.",
+        "wordCount": 93,
+        "quoteTokenProportion": 37.68,
+        "qualityScore": 2.4202767340829023,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.81,
+        "commentatorTierSimilarities": [
+            29.43,
+            33.14,
+            37.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He that soweth the good seed is the Son of Man: our Lord had now been employed in this His work. But not as in the natural year, so was it to be in the world\u2019s lifetime.",
+            "The fields were whitening for it; these Samaritans and the multitudes in Galilee, were all nearly ready.",
+            "In the discourse as far as ver. 38, He is the sower, the disciples were the reapers:\u2014He was the one who had laboured, they were the persons who had entered into his labours."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In current speech, ye say thus at this season; but lift up your eyes and look upon those fields in the light of another husbandry, for lo! in that sense, they are even now white to harvest, ready for the sickle.",
+            "The simple beauty of this language is only surpassed by the glow of holy emotion in the Redeemer's own soul which it expresses.",
+            "Oh, could we but so, 'lift up our eyes and look' upon many fields abroad and at home, which to dull sense appear unpromising...what movements...and accessions to Christ, as yet seemingly far distant, might we not discern as quite near at hand, and thus...be cheered...with 'songs in the night!'"
+        ],
+        "Albert Barnes": [
+            "The husbandman, when he sows his seed, is compelled to wait a considerable period before it produces a crop. He is encouraged in sowing it; he expects fruit; his labor is lightened by that expectation; but it is not 'immediate' - it is remote. But it is not so with my preaching. The seed has already sprung up.\" ",
+            "There is as much encouragement to attempt to save souls as the farmer has to raise a crop.",
+            "We are to expect revivals of religion. Here was one instance of it under the Saviour\u2019s own preaching. Multitudes were excited, moved, and came to learn the way of life."
+        ],
+        "Marvin Vincent": [
+            "Already unto harvest. Spiritual harvest. The crowd of Samaritans now pouring out toward the well was to Jesus as a ripe harvest - field, prefiguring the larger harvest of mankind which would be reaped by His disciples.\" ",
+            "Unto life eternal. This is explained either, which shall not perish but endure unto eternal life, or into life eternal, as into a granary.",
+            "Together signifies not in common, but simultaneously. So quickly does the harvest follow the gospel - seed sown among the Samaritans, that the sower and the reaper rejoice together."
+        ],
+        "John Calvin": [
+            "When the corn is ripe, the harvest cannot bear delay, for otherwise the grain would fall to the ground and be lost; and, in like manner, the spiritual corn being now ripe, he declares that there must be no delay, because delay is injurious.",
+            "By this expression, 'Do you not say?' he intended indirectly to point out how much more attentive the minds of men are to earthly than to heavenly things; for they burn with so intense a desire of harvest that they carefully reckon up months and days, but it is astonishing how drowsy and indolent they are in gathering the heavenly wheat.",
+            "And daily experience proves that this wickedness not only is natural to us, but can scarcely be torn from our hearts; for while all provide for the earthly life to a distant period, how indolent are we in thinking about heavenly things?"
+        ],
+        "Philip Schaff": [
+            "Lo! I say unto you, Lift up your eyes, and behold the fields, that they are white for harvesting.",
+            "Yet, distant as must have seemed the harvest to the disciples when they looked upon the fields, far more distant would seem the day when Samaritans could be gathered in to the garner of the Lord.",
+            "He saw the preparation of their hearts, the impression made by the woman\u2019s message, the faith which His own words would immediately bring forth; nay, He saw a harvest far more glorious than that of this day\u2019s labours, even that of the salvation of the world."
+        ],
+        "Archibald T. Robertson": [
+            "And the harvest (\u03b8\u03b5\u03c1\u03b9\u03c3\u03bc\u03bf\u03c2) comes.",
+            "Lift up your eyes (\u03b5\u03c0\u03b1\u03c1\u03b1\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u03c5\u03c2 \u03c5\u03bc\u03c9\u03bd).",
+            "The Samaritans could already be seen approaching and they were the field 'white for harvest.'"
+        ],
+        "John Gill": [
+            "Hence that paraphrase on Ecclesiastes 11:2: 'Give a good part of thy seed to thy field in Tisri, and do not refrain from sowing even in Cisleu.'",
+            "Behold, I say unto you, lift up your eyes, and look on the fields: for they are white already to harvest.",
+            "Christ here speaks not literally; for the fields could not be white at such a distance from harvest; but spiritually, of a harvest of souls."
+        ],
+        "John Wesley": [
+            "The fields are white already \u2014 As if he had said, The spiritual harvest is ripe already. The Samaritans, ripe for the Gospel, covered the ground round about them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Son of Man, Jesus, had been diligently sowing the good seed, and now the fields were ready for the harvest. The Samaritans and multitudes in Galilee were nearly prepared to receive the gospel, and Jesus saw their hearts as a ripe harvest-field. He encouraged His disciples to lift up their eyes and see how close the harvest was, filled with the promise of abundant souls being gathered unto eternal life. The urgency was clear - delay is injurious, and the heavenly wheat cannot wait. Just as the farmer eagerly waits for the crop, we are to expect revivals of religion and be attentive to the ripening of souls around us.",
+            "wordCount": 111,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 2.215568153171339,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                29.02,
+                33.38,
+                37.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, the Son of Man, had been sowing the good seed and the fields were now ready for harvest. The Samaritans and the multitudes in Galilee were nearly prepared to receive the gospel, and Jesus saw their hearts as a ripe harvest-field. He urged his disciples to lift up their eyes and see the white fields, ready for the sickle. The urgency was clear - delay is injurious, and the heavenly wheat cannot wait. We too should expect revivals of religion and be attentive to the ripening of souls around us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.088583352920608,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                29.2,
+                32.03,
+                38.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, the Son of Man, had been diligently sowing the good seed. Now, as He looked upon the Samaritans and the multitudes in Galilee, He saw their hearts as a ripe harvest-field. Urging His disciples to lift up their eyes and see the fields already white for harvest, Jesus expressed the joy and anticipation of reaping souls unto eternal life. Just as a farmer eagerly waits for his crop, we too should expect and be attentive to revivals of religion, seizing the opportunity to gather the heavenly wheat.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.238802073215221,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                28.8,
+                34.4,
+                36.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of Man had been sowing the good seed and now the fields were ripe for harvest. Jesus saw the Samaritans and the multitudes in Galilee as a ready harvest-field, urging His disciples to lift up their eyes and see the white fields. The urgency was clear - delay is injurious to the ripened spiritual corn. We should be attentive to the heavenly wheat, expecting and seizing the opportunity for revivals of religion and the salvation of souls.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.1002860730737494,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                29.2,
+                31.26,
+                39.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son of Man had been tirelessly sowing the good seed, and now the fields were ready for harvest. Jesus, filled with holy emotion, urged His disciples to lift up their eyes and see the fields that were already white for harvesting. Just as the farmer eagerly awaits the crop, so are we to expect revivals of religion, seizing the opportunity to gather the heavenly wheat. The Samaritans and multitudes in Galilee were a ripe harvest-field, prefiguring the larger harvest of mankind that would be reaped by His disciples unto eternal life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.4202767340829023,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.81,
+            "commentatorTierSimilarities": [
+                29.43,
+                33.14,
+                37.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:10:16",
+    "verseRef": "John 11:29",
+    "bestBHT": {
+        "bht": "As soon as she heard that, she arose quickly\u2014affection for her Lord, assurance of His sympathy, and His hope of interposition, putting a spring into her distressed spirit. The aorist, arose, marks the single, instantaneous act of rising. The imperfect, was coming, the progress towards Jesus. Her immediate and determined response, marked by leaving her comforters and hastening to another and better comforter, showcased her equal affection and love for Christ.",
+        "wordCount": 72,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.4665014773872647,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.1,
+        "commentatorTierSimilarities": [
+            39.06,
+            21.78,
+            39.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "29. As soon as she heard that, she",
+            "\tarose quickly\u2014affection for her Lord, assurance of His",
+            "\tsympathy, and His hope of interposition, putting a spring into her",
+            "\tdistressed spirit."
+        ],
+        "Marvin Vincent": [
+            "Arose and came [\u03b7\u03b3\u03b5\u03c1\u03b8\u03b7 \u03ba\u03b1\u03b9 \u03b7\u03c1\u03c7\u03b5\u03c4\u03bf] . The aorist, arose, marks the single, instantaneous act of rising. The imperfect, was coming, the progress towards Jesus."
+        ],
+        "Philip Schaff": [
+            "Mark the characteristic touch in the words \u2018arose quickly' (comp. John 11:20).",
+            "'Went unto,\u2019 i.e., started on her way.",
+            "It is in John 11:32 that the actual coming is spoken of."
+        ],
+        "Archibald T. Robertson": [
+            "And that one.",
+            "Arose quickly.",
+            "Started towards him."
+        ],
+        "John Gill": [
+            "Having an equal affection for him as her sister Martha; and which she showed, by leaving her comforters at once, and by making the haste she did, to another and better comforter.",
+            "Both Martha and Mary, out of their great love to Christ, break through the rule for mourners mentioned in note, of not going out of the door of the house the first week of mourning.",
+            "Leaving her comforters at once, and by making the haste she did, to another and better comforter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As soon as she heard the news, she quickly arose and started towards him, her distressed spirit filled with affection, assurance, and hope. Her actions were characterized by a simultaneous rising and a progressing journey towards Jesus. This immediate and determined response, marked by leaving her comforters and hastening to another and better comforter, showcased her equal affection for him as her sister Martha. Mary's love for Christ compelled her to break through the usual customs of mourning and seek solace in his presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.3778837848248213,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.16,
+            "commentatorTierSimilarities": [
+                29.46,
+                13.93,
+                56.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As soon as she heard that, she arose quickly\u2014affection for her Lord, assurance of His sympathy, and His hope of interposition, putting a spring into her distressed spirit. The aorist, arose, marks the single, instantaneous act of rising. The imperfect, was coming, the progress towards Jesus. Her immediate and determined response, marked by leaving her comforters and hastening to another and better comforter, showcased her equal affection and love for Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.4665014773872647,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.1,
+            "commentatorTierSimilarities": [
+                39.06,
+                21.78,
+                39.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As soon as she heard the news, she quickly arose and started towards him, her distressed spirit filled with affection, assurance, and hope. Her actions were characterized by a simultaneous rising and a progressing journey towards Jesus. This immediate and determined response, marked by leaving her comforters and hastening to another and better comforter, showcased her equal affection for him as her sister Martha. Mary's love for Christ compelled her to break through the usual customs of mourning and seek solace in his presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.3778837848248213,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.16,
+            "commentatorTierSimilarities": [
+                29.46,
+                13.93,
+                56.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As soon as she heard the news, she quickly arose and started towards him, her distressed spirit filled with affection, assurance, and hope. Her immediate and determined response showcased her equal affection for him as her sister Martha. Mary's love for Christ compelled her to break through the usual customs of mourning and seek solace in his presence.",
+            "wordCount": 59,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.3238154154058277,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.36,
+            "commentatorTierSimilarities": [
+                28.34,
+                11.34,
+                60.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As soon as she heard that, she arose quickly\u2014affection for her Lord, assurance of His sympathy, and His hope of interposition, putting a spring into her distressed spirit. The aorist, arose, marks the single, instantaneous act of rising. The imperfect, was coming, the progress towards Jesus. Her immediate and determined response, marked by leaving her comforters and hastening to another and better comforter, showcased her equal affection and love for Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.4665014773872647,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.1,
+            "commentatorTierSimilarities": [
+                39.06,
+                21.78,
+                39.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

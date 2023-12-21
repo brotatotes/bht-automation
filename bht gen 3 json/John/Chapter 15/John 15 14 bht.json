@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:12:58",
+    "verseRef": "John 15:14",
+    "bestBHT": {
+        "bht": "Jesus tells his disciples that they are his friends if they do what he commands. This command is not just about following rules, but about willingly subjecting themselves to him. Obedience to Christ's specific injunctions is a necessary condition for discipleship and fellowship. By obeying his commands out of love, we demonstrate our friendship with Jesus and recognize the grace he has shown us. Our obedience is not about earning favor, but about responding to his love and acknowledging his role as Savior and Lord.",
+        "wordCount": 86,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.7415906096827931,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+        "commentatorTierSimilarities": [
+            20.02,
+            39.05,
+            40.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] parallel to ver. 10,\u2014and like it, guarded, in vv. 15, 16, 17, from legal misinterpretation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14. Ye are my friends, if ye do",
+            "\twhatsoever I command you\u2014hold yourselves in absolute subjection",
+            "\tto Me."
+        ],
+        "Marvin Vincent": [
+            "I command [\u03b5\u03bd\u03c4\u03b5\u03bb\u03bb\u03bf\u03bc\u03b1\u03b9]. Of several words for command in the New Testament, this one is always used of giving a specific injunction or precept.",
+            "The kindred noun, ejntolh, means an order, a charge, a precept and hence is used of a separate precept of the law as distinguished from the law as a whole [\u03bd\u03bf\u03bc\u03bf\u03c2].",
+            "It is, however, sometimes used of the whole body of the moral precepts of Christianity."
+        ],
+        "John Calvin": [
+            "He does not mean that we obtain so great an honor by our own merit, but only reminds them of the condition on which he receives us into favor, and deigns to reckon us among his friends.",
+            "But ungodly men, who, through wicked contempt of the Gospel, want only oppose Christ, renounce his friendship.",
+            "For the grace of God our Savior hath appeared, teaching us that, denying ungodliness and worldly desires, we should live soberly, and righteously, and piously, in this world."
+        ],
+        "Philip Schaff": [
+            "Ye are my friends, if ye do that which I command you.\" ",
+            "We have here no second motive to the exercise of brotherly love, based upon the obedience which the friends of Jesus are bound to render to Him.",
+            "The words describe a condition or state: 'Ye are my friends for whom in love I lay down My life,' and ye continue such in being led by the power of My love to lay down your lives for one another."
+        ],
+        "Archibald T. Robertson": [
+            "If ye keep on doing\" ",
+            "Obedience to Christ's commands is a prerequisite to discipleship and fellowship",
+            "He repeats it in the Great Commission"
+        ],
+        "John Gill": [
+            "The character of 'friends', is applied to the disciples of Christ; and belongs, not only to his apostles, but to all that love him, believe in him, and obey him.",
+            "Christ had respect in the former words, to his own laying down his life for his people, in consequence of his great love to them; whereby he has made them friends.",
+            "By observing his commands from a principle of love, they would make it appear that they were his friends, being influenced by his grace, and constrained by a sense of his love in dying for them, to act such a part."
+        ],
+        "John Wesley": [
+            "Ye are my friends, if ye do whatsoever I command you \u2014 On this condition, not otherwise.\" ",
+            "A thunderbolt for Antinomianism!\" ",
+            "Who then dares assert that God's love does not at all depend on man's works?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 15:14, Jesus reminds his disciples that they are his friends if they obey his commands. This obedience is not just about following a set of rules, but about holding themselves in absolute subjection to him. The word command (\u03b5\u03bd\u03c4\u03b5\u03bb\u03bb\u03bf\u03bc\u03b1\u03b9) used here refers to a specific injunction or precept, emphasizing the importance of individual acts of obedience. Obedience to Christ's commands is not only a prerequisite to discipleship and fellowship, but also a reflection of our love for him. By obeying his commands out of a sense of love and gratitude, we demonstrate our friendship with Jesus and acknowledge his grace in our lives.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7763542441938225,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                21.93,
+                38.84,
+                39.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus tells his disciples that they are his friends if they do what he commands. This command is not just about following rules, but about willingly subjecting themselves to him. Obedience to Christ's specific injunctions is a necessary condition for discipleship and fellowship. By obeying his commands out of love, we demonstrate our friendship with Jesus and recognize the grace he has shown us. Our obedience is not about earning favor, but about responding to his love and acknowledging his role as Savior and Lord.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7415906096827931,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                20.02,
+                39.05,
+                40.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus declares that his followers are considered his friends if they faithfully carry out his commands. The term command here refers to a specific directive or precept, emphasizing the importance of obedience. By willingly submitting ourselves to Christ's authority and living in obedience to his teachings, we not only demonstrate our friendship with him but also acknowledge his grace and love. Our actions prove that we are his disciples and that we hold him in highest regard.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6567011534741194,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.43,
+            "commentatorTierSimilarities": [
+                18.04,
+                39.14,
+                42.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus makes it clear that those who keep his commands are considered his friends. The term command used here refers to a specific precept or injunction. Obedience to Christ's commands is a prerequisite for discipleship and fellowship. Our obedience is not about earning favor, but about acknowledging his grace and responding to his love. By demonstrating our love for him through our obedience, we show that we are his friends, influenced by his grace and compelled by a sense of his love.",
+            "wordCount": 83,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.7319032824924376,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                20.07,
+                39.69,
+                40.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus emphasizes that genuine friendship with him is contingent upon obedience to his commands. The word command used here refers to a specific injunction, emphasizing the importance of following Jesus' instructions. Obedience to his commands is essential for discipleship and fellowship. Our obedience is not about self-merit but a response to God's love and grace. By obeying his commands out of love and gratitude, we affirm our friendship with Jesus and recognize that his love is not separate from our actions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.7186341287188103,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                21.36,
+                39.33,
+                39.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

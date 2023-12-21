@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:15:41",
+    "verseRef": "John 21:24",
+    "bestBHT": {
+        "bht": "The Gospel of John concludes with the affirmation of the author, the Beloved Disciple, that these things are true and have been accurately recorded, encompassing the entire Gospel. This statement, possibly added by a group of elders, serves as a testament to the reliability and authenticity of John's firsthand testimony. As an eyewitness to Jesus' teachings and actions, John's account carries significant weight, confirming the reality and value of the events and teachings documented throughout the Gospel.",
+        "wordCount": 79,
+        "quoteTokenProportion": 29.63,
+        "qualityScore": 2.1075766924176325,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+        "commentatorTierSimilarities": [
+            32.5,
+            32.83,
+            34.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] The words these things certainly refer to the whole Gospel, not merely to the Appendix\u2014and are quite in St. John\u2019s style:\u2014see ch, xii. 41; xx. 31."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the disciple which testifieth of these things, and wrote these things\u2014thus identifying the author of this book with all that it says of this disciple.",
+            "We know that his testimony is true\u2014(Compare John 19:35)."
+        ],
+        "Albert Barnes": [
+            "This proves that the beloved disciple was John.",
+            "It is impossible to believe that such a man would sit down deliberately to impose on mankind.",
+            "If not, then this book is true, and that is the same as saying that Christianity is a religion from heaven."
+        ],
+        "John Calvin": [
+            "Having hitherto mentioned himself in the third person, John now declares that it is himself.\" ",
+            "Greater weight may be attached to the statements of one who was an eye-witness.\" ",
+            "Who had fully known all that he relates."
+        ],
+        "Philip Schaff": [
+            "The writer means more than tha t the things stated by him are true; he is uttering a Divine testimony to their inner reality and value.",
+            "'These things' must be understood to refer not only to the things spoken of in this chapter, but to the Gospel as a whole.",
+            "They could not fail to notice how different this Gospel was from its predecessors. It might seem to them that hesitation would be felt in receiving it, and they stamp it with their authenticating seal."
+        ],
+        "Archibald T. Robertson": [
+            "The one just mentioned... 'the disciple whom Jesus loved.'\" ",
+            "The Beloved Disciple wrote this book.",
+            "Probably we see here a verse added by a group of elders in Ephesus where John had long laboured."
+        ],
+        "John Gill": [
+            "This is the disciple which testifieth of these things,.... Recorded in this chapter concerning the appearance of Christ to his disciples at the sea of Tiberias, and what were done by him in their presence...",
+            "...all that is contained in this book, as well as the particulars relating to this conversation of Christ with Peter...",
+            "The testimony of one that was an eye and ear-witness, as John was, of all that he testified and wrote, must be known, owned, and allowed by all to be true, firm, and unquestionable..."
+        ],
+        "John Wesley": [
+            "This is the disciple who testifieth \u2014 Being still alive after he had wrote.",
+            "And we know that his testimony is true \u2014 The Church added these words to St. John's, Gospel, as Tertius did those to St. Paul's Epistle to the Romans, Romans 16:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Gospel of John concludes with a statement emphasizing the author's credibility and the reliability of his testimony. The phrase these things encompasses the entirety of the Gospel, indicating that the author is affirming the truthfulness of all that has been written. This author, who refers to himself as the disciple whom Jesus loved, is none other than John, the Beloved Disciple. The addition of this verse may have been made by a group of elders in Ephesus where John had ministered. The testimony of an eyewitness like John holds significant weight, and this Gospel stands as a testament to the reality and value of the teachings and actions of Jesus.",
+            "wordCount": 112,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.148235820628437,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.77,
+            "commentatorTierSimilarities": [
+                36.01,
+                30.96,
+                33.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gospel of John concludes with the author asserting the truthfulness of these things he has written, which encompasses the entire Gospel. This proclamation comes from none other than the Beloved Disciple, identified as John himself. The inclusion of this verse may have been a collaborative effort by a group of elders in Ephesus, where John had previously served. As an eyewitness, his testimony holds undeniable credibility, affirming the reality and significance of Jesus' teachings and actions throughout the Gospel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.1683697062674767,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.44,
+            "commentatorTierSimilarities": [
+                36.23,
+                30.74,
+                33.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel of John concludes with the author affirming the truthfulness of these things he has written, which includes the entire Gospel. Identifying himself as the Beloved Disciple, most likely John, the author emphasizes the reliability of his testimony. It is speculated that this verse may have been added by a group of elders in Ephesus where John had ministered. As an eyewitness, John's firsthand knowledge lends weight to the authenticity of Jesus' teachings and actions throughout the Gospel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.197266858028982,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.4,
+            "commentatorTierSimilarities": [
+                36.15,
+                30.11,
+                33.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel of John reaches its conclusion with the assertion of the author, the Beloved Disciple, that these things have been faithfully recorded. The inclusion of this verse serves to affirm the credibility and truthfulness of the entire Gospel. This statement may have been added by a group of elders who recognized the distinctive nature of John's Gospel. As an eyewitness to the events, John's testimony carries immense significance, confirming the authenticity and value of the teachings and encounters with Jesus documented throughout the Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.1618019990458253,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                34.62,
+                32.15,
+                33.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gospel of John concludes with the affirmation of the author, the Beloved Disciple, that these things are true and have been accurately recorded, encompassing the entire Gospel. This statement, possibly added by a group of elders, serves as a testament to the reliability and authenticity of John's firsthand testimony. As an eyewitness to Jesus' teachings and actions, John's account carries significant weight, confirming the reality and value of the events and teachings documented throughout the Gospel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.1075766924176325,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.42,
+            "commentatorTierSimilarities": [
+                32.5,
+                32.83,
+                34.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:04:11",
+    "verseRef": "John 1:5",
+    "bestBHT": {
+        "bht": "The darkness spoken of here represents the entire world immersed in death and spiritual blindness. Despite this, the Light, referring to the Word, shines forth to illuminate the darkness. Through natural and revealed teaching, the Light seeks to bring enlightenment, but the darkness fails to comprehend it. The Light's efforts to save and enlighten humanity can be compared to light struggling to penetrate a dense cloud. However, the darkness cannot overcome the Light, as it continues to shine triumphantly in a world enveloped by darkness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 2.4477871630569616,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.73,
+        "commentatorTierSimilarities": [
+            30.66,
+            32.49,
+            36.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whole world, lying in death and in darkness, is the darkness here spoken of:\u2014not merely the 'darkened,' but the whole mass.",
+            "The Light shineth in the darkness, and yet the darkness comprehended it not:",
+            "The spiritual life owes its beginning to a birth from above... And this birth is owing to the Holy Spirit of God; so that this is equivalent to saying, 'As many as received Him, to them gave He His Holy Spirit.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In this thick darkness, and consequent intellectual and moral obliquity, 'the light of the Word' shineth.\" ",
+            "By all the rays whether of natural or revealed teaching which men (apart from the Incarnation of the Word) are favored with.\" ",
+            "The darkness comprehended it not\u2014did not take it in, a brief summary of the effect of all the strivings of this unincarnate Word throughout this wide world from the beginning."
+        ],
+        "Albert Barnes": [
+            "When it is said that 'the light shineth in darkness,' it is meant that the Lord Jesus came to teach an ignorant, benighted, and wicked world.",
+            "His efforts to enlighten and save men have been like light struggling to penetrate a thick, dense cloud.",
+            "Sin always blinds the mind to the beauty and excellency of the character of the Lord Jesus. It indisposes the mind to receive his instructions, just as 'darkness' has no affinity for 'light'; and if the one exists, the other must be displaced."
+        ],
+        "John Calvin": [
+            "The light which was originally bestowed on men must not be estimated by their present condition; because in this corrupted and degenerate nature light has been turned into darkness.",
+            "The mind of man is blinded; so that it may justly be pronounced to be covered with darkness. For he might have used a milder term, and might have said that the light is dark or cloudy; but he chose to state more distinctly how wretched our condition has become since the fall of the first man.",
+            "There is no hope of the salvation of men, unless God grant new aid; for though the Son of God sheds his light upon them, they are so dull that they do not comprehend whence that light proceeds, but are carried away by foolish and wicked imaginations to absolute madness."
+        ],
+        "Philip Schaff": [
+            "The Light, as it had existed, had shone; as it exists, it shines, always seeking to draw men into the full brightness of its beams.",
+            "But it is much to tell us that, in the conflict between the darkness and the light, the darkness failed to overcome (or eclipse) the light. The light, though sometimes apparently overcome, was really victorious; it withstood every assault, and shone on triumphantly in a darkened world.",
+            "To all He offers Himself, that He may make them not only exist in Him, but, in the free appropriation of what He offers, live in Him."
+        ],
+        "Archibald T. Robertson": [
+            "The light keeps on giving light.",
+            "The Logos, the only real moral light, keeps on shining both in the Pre-incarnate state and after the Incarnation.",
+            "The light kept on shining in spite of the darkness that was worse than a London fog as the Old Testament and archaeological discoveries in Egypt, Assyria, Babylonia, Persia, Crete, Asia Minor show."
+        ],
+        "John Gill": [
+            "Man was created a knowing creature, but, not content with his knowledge, sins, and is banished from the presence of God, the fountain of light; which brought a darkness on him, and his posterity...",
+            "Amidst this darkness there were some remains of the light of nature: with respect to the being of God, which shines in the works of creation and providence and to the worship of God, though very dimly...",
+            "By the light of nature, and the remains of it, men could not come to any clear and distinct knowledge of the above things; and much less to any knowledge of the true way of salvation."
+        ],
+        "John Wesley": [
+            "And the light shineth in darkness \u2014 Shines even on fallen man; but the darkness - Dark, sinful man, perceiveth it not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The darkness mentioned in this verse refers to the entire world lying in death and darkness, encompassing every individual and their moral and intellectual obliquity. The Light, which is the Word, shines in this thick darkness, offering rays of natural and revealed teaching, but the darkness does not comprehend it. The efforts of the Light to enlighten and save a benighted and wicked world are like light penetrating a dense cloud. Despite the darkness's attempts to overcome the Light, it remains victorious, constantly shining in a darkened world. The Light offers itself to all, seeking to not only make them exist in Him but also to live in Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.3645863451396174,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.96,
+            "commentatorTierSimilarities": [
+                31.54,
+                34.81,
+                33.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The darkness spoken of here represents the entire world immersed in death and spiritual blindness. Despite this, the Light, referring to the Word, shines forth to illuminate the darkness. Through natural and revealed teaching, the Light seeks to bring enlightenment, but the darkness fails to comprehend it. The Light's efforts to save and enlighten humanity can be compared to light struggling to penetrate a dense cloud. However, the darkness cannot overcome the Light, as it continues to shine triumphantly in a world enveloped by darkness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.4477871630569616,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.73,
+            "commentatorTierSimilarities": [
+                30.66,
+                32.49,
+                36.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The darkness spoken of in this passage encompasses the entire world, characterized by moral and intellectual obliquity and spiritual death. Nevertheless, the Light, which is the Word, shines in this thick darkness, offering rays of natural and revealed teaching. Unfortunately, the darkness does not comprehend this Light. Despite the darkness's attempts to eclipse or overcome the Light, it remains victorious and continues to shine even in the presence of a benighted and wicked world. The Light's purpose is to not merely make people exist in Him, but to enable them to truly live in Him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.2205952890615954,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                31.5,
+                32.77,
+                35.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The darkness referred to here represents the entire world lying in death, ignorance, and moral depravity. However, the Light, which is the Word, shines in this thick darkness, offering the rays of natural and revealed teaching. Yet, the darkness remains unable to comprehend or grasp the Light. Despite the darkness's efforts to overcome the Light, it fails. The Light shines triumphantly, persisting throughout history, illuminating a darkened world and offering itself to all who would receive it.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.238825974302115,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                32.88,
+                31.51,
+                35.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The darkness mentioned is not limited to an individual, but encompasses the entire world, trapped in spiritual death and darkness. The Light, which is the Word, shines amidst this darkness, offering enlightenment through natural and revealed teaching. Yet, the darkness fails to understand or comprehend this Light. Despite the darkness's attempts to overcome or eclipse the Light, it remains victorious, persisting in its shining. From the Pre-incarnate state to the Incarnation and beyond, the Light undeterredly continues to shine, penetrating the darkness that blankets the world.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.3840153024489252,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.61,
+            "commentatorTierSimilarities": [
+                32.32,
+                30.83,
+                36.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

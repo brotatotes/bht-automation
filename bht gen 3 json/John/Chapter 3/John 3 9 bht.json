@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:04:43",
+    "verseRef": "John 3:9",
+    "bestBHT": {
+        "bht": "The question of Nicodemus shows that there are none so dull as those who will not see. However, the Savior graciously advances in His communications of truth, including the concept of the new birth. It is important to empty our minds to receive new truth, as preoccupation hinders insight. People often struggle with understanding religious matters due to their desire for explanations. But what truly matters is how a truth renews the heart and comforts the soul, regardless of our comprehension. Nicodemus begins to grasp the idea of a spiritual birth distinct from a natural birth.",
+        "wordCount": 96,
+        "quoteTokenProportion": 45.07,
+        "qualityScore": 1.6620035896623833,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.6,
+        "commentatorTierSimilarities": [
+            35.16,
+            41.01,
+            23.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] The question of Nicodemus is evidently still one of unbelief, though no longer of frivolity see ver. 12."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From this moment Nicodemus says nothing more, but has sunk unto a disciple who has found his true teacher.\" ",
+            "Therefore the Saviour now graciously advances in His communications of truth.\" ",
+            "He may then proceed to utter, out of the fulness of His divine knowledge, such farther testimonies both of earthly and heavenly things as his docile scholar may to his own profit receive."
+        ],
+        "Albert Barnes": [
+            "That people will often admit facts on other subjects, and be greatly perplexed by similar facts in religion.",
+            "That no small part of people\u2019s difficulties are because they cannot understand how or why a thing is.",
+            "If it renews my heart, humbles my pride, subdues my sin, and comforts my soul, it is a matter of little importance how it does all this."
+        ],
+        "Marvin Vincent": [
+            "These things. Such as the new birth. ",
+            "Be [\u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1\u03b9] . Literally, come to pass."
+        ],
+        "John Calvin": [
+            "There is no greater obstacle to us than our own pride; that is, we always wish to be wise beyond what is proper, and therefore we reject with diabolical pride every thing that is not explained to our reason.",
+            "Nicodemus rejects it as a fable, on this ground, that he does not believe it to be possible.",
+            "We are, indeed, permitted, to a certain extent, to inquire into the manner and reason of the works of God, provided that we do so with sobriety and reverence."
+        ],
+        "Philip Schaff": [
+            "The tone of this answer is very different from that of John 3:4.",
+            "The offended astonishment of Nicodemus (John 3:7) has yielded to the words of Jesus.",
+            "He now understands that Jesus really means that there is such a thing as a new spiritual birth, in contrast with that natural birth which had ever seemed to him the only necessary condition of entrance into the kingdom of Messiah."
+        ],
+        "Archibald T. Robertson": [
+            "There are none so dull as those who will not see.",
+            "Preoccupation prevents insight.",
+            "Literally one must often empty his mind to receive new truth."
+        ],
+        "John Gill": [
+            "Remaining still as ignorant as ever, though Christ had explained...by a being 'born of water and of the Spirit', or of the grace of the Spirit of God",
+            "Seemed as impossible, and as impracticable as ever",
+            "How can all these things be?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The question of Nicodemus is one of unbelief, showing that there are none so dull as those who will not see. However, the Savior graciously advances in His communications of truth and proceeds to utter testimonies of earthly and heavenly things, such as the new birth. It is important for us to empty our minds and be open to receiving new truths, as preoccupation can prevent insight. People often struggle with understanding things in religion, but if a truth renews the heart and comforts the soul, it is of little importance how it does so. Nicodemus begins to understand the concept of a new spiritual birth, realizing that Jesus meant a birth different from the natural birth. Our own pride can be a great obstacle in receiving God's truth, as we often reject what cannot be fully explained to our reason.",
+            "wordCount": 142,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.7363037398213106,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                29.36,
+                40.12,
+                30.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The question of Nicodemus is one of unbelief, showing that there are none so dull as those who will not see. However, the Savior graciously advances in His communications of truth and proceeds to utter testimonies of earthly and heavenly things, such as the new birth. It is important for us to empty our minds and be open to receiving new truths. People often struggle with understanding things in religion, but if a truth renews the heart and comforts the soul, it is of little importance how it does so. Nicodemus begins to understand the concept of a new spiritual birth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.7180217389913348,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                33.91,
+                39.16,
+                26.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The question of Nicodemus is one of unbelief, showing that there are none so dull as those who will not see. However, the Savior graciously advances in His communications of truth and proceeds to utter testimonies of earthly and heavenly things, such as the new birth. It is important for us to empty our minds and be open to receiving new truths. People often struggle with understanding things in religion, but if a truth renews the heart and comforts the soul, it is of little importance how it does so. Nicodemus begins to understand the concept of a new spiritual birth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.7180217389913348,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                33.91,
+                39.16,
+                26.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nicodemus's question reveals unbelief and the inability to see. Yet, Jesus graciously continues to communicate truth, specifically about the new birth. To comprehend this truth, one must empty their mind and be open to receiving it. People often struggle with understanding religious matters because they insist on explanations. However, the significance lies in how a truth transforms the heart and brings comfort, regardless of our comprehension. Nicodemus begins to grasp the idea of a spiritual birth distinct from a natural birth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6375362346785605,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                30.97,
+                40.95,
+                28.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The question of Nicodemus shows that there are none so dull as those who will not see. However, the Savior graciously advances in His communications of truth, including the concept of the new birth. It is important to empty our minds to receive new truth, as preoccupation hinders insight. People often struggle with understanding religious matters due to their desire for explanations. But what truly matters is how a truth renews the heart and comforts the soul, regardless of our comprehension. Nicodemus begins to grasp the idea of a spiritual birth distinct from a natural birth.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.6620035896623833,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.6,
+            "commentatorTierSimilarities": [
+                35.16,
+                41.01,
+                23.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

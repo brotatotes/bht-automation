@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:15:36",
+    "verseRef": "John 20:25",
+    "bestBHT": {
+        "bht": "Thomas, known as the Rationalist among the Apostles, required more than just the witness of his fellow disciples. His resolute resistance to believing without tangible evidence stemmed not from reluctance, but from the fear of making a mistake regarding such a vital matter. Thomas longed for proof that would revive his hopes, not just in the resurrection but in the entire redemptive work of Jesus. While some have criticized him, many today withhold faith for the same reason\u2014without seeing Jesus, they struggle to believe.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.9948493904115963,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+        "commentatorTierSimilarities": [
+            28.53,
+            41.21,
+            30.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He requires no more than had been granted to the rest: but he had their testimony in addition, and therefore ample ground for faith to rest on.",
+            "Olshausen calls him the 'Rationalist among the Apostles.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have seen the Lord\u2014This way of speaking of Jesus... so suited to His resurrection-state, was soon to become the prevailing style.",
+            "The very form of this speech betokens the strength of unbelief... 'Unless I shall see I will not believe.'",
+            "But whence sprang this pertinacity of resistance in such minds? Not certainly from reluctance to believe, but... from mere dread of mistake in so vital a matter."
+        ],
+        "Albert Barnes": [
+            "In such a case it requires proof of uncommon clearness and strength to overcome the despondency, and to convince us that we may obtain the object of our desires.",
+            "Thomas has been much blamed by expositors, but he asked only for proof that would be satisfactory in his circumstances.",
+            "Many now are unwilling to believe because they do not see the Lord Jesus, and with just as little reason as Thomas had."
+        ],
+        "Marvin Vincent": [
+            "Print. Put - thrust. Hence better, as Rev., put for thrust.",
+            "Double negative: in nowise."
+        ],
+        "John Calvin": [
+            "These words have no approach to faith, but it is what may be called a sensual judgment, by which I mean, a judgment which is founded on the perception of the senses.",
+            "It is of no consequence, whether you read the place, or the shape, or The Print of the nails; for transcribers may have exchanged \u03c4\u1f7b\u03c0\u03bf\u03bd (print) for \u03c4\u1f79\u03c0\u03bf\u03bd, (place,) or \u03c4\u1f79\u03c0\u03bf\u03bd (place)for \u03c4\u1f7b\u03c0\u03bf\u03bd, (print;) but the meaning is not altered on that account.",
+            "All who are so devoted to themselves that they leave no room for the word of God."
+        ],
+        "Philip Schaff": [
+            "Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and put my hand into his side, I will not believe.",
+            "To Thomas the death upon the cross had appeared to crush these hopes for ever. Could he be convinced of the Resurrection they would revive; and he would believe not merely in that miracle as an isolated fact, but in the whole redeeming work of which it was the culmination and the seal.",
+            "His old love for his Lord, that love which seems to have burned in the breast of no apostle more warmly than in his, still continues. His mood has been one of disappointment and sorrow, and the sorrow is deepened in exact proportion to the height of his previous expectations, and to what he knows will be the joyful result if he be able to believe the tidings of the Resurrection."
+        ],
+        "Archibald T. Robertson": [
+            "We have seen the Lord (\u03b5\u03c9\u03c1\u03b1\u03ba\u03b1\u03bc\u03b5\u03bd \u03c4\u03bf\u03bd \u03ba\u03c5\u03c1\u03b9\u03bf\u03bd). The very language in the plural that Mary Magdalene had used (John 20:18) when no one believed her.",
+            "Except I shall see (\u03b5\u03b1\u03bd \u03bc\u03b7 \u03b9\u03b4\u03c9). Negative condition of third class with \u03b5\u03b1\u03bd and second aorist active subjunctive and so as to \u03b2\u03b1\u03bb\u03c9 (from \u03b2\u03b1\u03bb\u03bb\u03c9) 'and put.'",
+            "The print (\u03c4\u03bf\u03bd \u03c4\u03c5\u03c0\u03bf\u03bd). The mark or stamp made by the nails, here the original idea. Various terms as in Acts 7:44; 1 Timothy 4:12. Finally our 'type' as in Romans 5:14. Clearly the disciples had told Thomas that they had seen the \u03c4\u03c5\u03c0\u03bf\u03bd of the nails in his hands and the spear in his side."
+        ],
+        "John Gill": [
+            "A spiritual sight of Christ is a blessing often enjoyed by attending the assembly of the saints... whenever it is enjoyed, it is very delightful...\" ",
+            "Thomas knew that Christ was fastened to the cross with nails... but though they had all seen him alive, he will not trust to their testimony; nay, he was determined not to believe his own eyes...",
+            "We may learn from hence how great is the sin of unbelief; that the best of men are subject to it; and that though this was overruled by divine providence to bring out another proof of Christ's resurrection, yet this did not excuse the sin of Thomas."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thomas, known as the Rationalist among the Apostles, required more than just the witness of his fellow disciples. His resolute resistance to believing without tangible evidence stemmed not from reluctance, but from the fear of making a mistake regarding such a vital matter. Thomas longed for proof that would revive his hopes, not just in the resurrection but in the entire redemptive work of Jesus. While some have criticized him, many today withhold faith for the same reason\u2014without seeing Jesus, they struggle to believe. Ultimately, the sin of unbelief, as exemplified by Thomas, reveals a lack of room for the word of God and disregards the spiritual sight of Christ that can be experienced when believers gather together.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 1.9914635466412012,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                27.55,
+                39.31,
+                33.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thomas, dubbed the Rationalist among the Apostles, required more than the testimony of his fellow disciples to believe. His resistance stemmed from the fear of making a mistake in such a vital matter. He yearned for proof that would not only confirm the resurrection but also revive his hopes in the whole redemptive work of Jesus. Many today withhold belief for the same reason. However, the sin of unbelief reveals a self-centeredness that leaves no room for God's word and disregards the spiritual sight of Christ experienced in the assembly of believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.7703407173907808,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                31.37,
+                36.8,
+                31.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thomas, known as the Rationalist among the Apostles, required more than just the witness of his fellow disciples. His resolute resistance to believing without tangible evidence stemmed not from reluctance, but from the fear of making a mistake regarding such a vital matter. Thomas longed for proof that would revive his hopes, not just in the resurrection but in the entire redemptive work of Jesus. While some have criticized him, many today withhold faith for the same reason\u2014without seeing Jesus, they struggle to believe.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9948493904115963,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                28.53,
+                41.21,
+                30.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thomas, the Rationalist among the Apostles, required more than the testimony of his fellow disciples. His resistance to believing without tangible evidence came from the fear of making a mistake in such a vital matter. Thomas longed for proof that would revive his hopes in the whole redemptive work of Jesus. Many today withhold belief for the same reason, struggling to believe without seeing Jesus. Ultimately, the sin of unbelief reveals a self-centeredness that leaves no room for God's word and disregards the spiritual sight of Christ experienced in the assembly of believers.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.9225729717173403,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                28.95,
+                39.06,
+                31.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thomas, known as the Rationalist among the Apostles, required more than just the witness of his fellow disciples. His resolute resistance to believing without tangible evidence stemmed not from reluctance, but from the fear of making a mistake regarding such a vital matter. Thomas longed for proof that would revive his hopes, not just in the resurrection but in the entire redemptive work of Jesus. While some have criticized him, many today withhold faith for the same reason\u2014without seeing Jesus, they struggle to believe.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9948493904115963,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                28.53,
+                41.21,
+                30.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

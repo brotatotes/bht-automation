@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:13:59",
+    "verseRef": "John 18:9",
+    "bestBHT": {
+        "bht": "The unfolding stages of Jesus' words are exemplified in the fulfillment of the saying, emphasizing the accuracy in reporting His words in both substance and form. It is revealed that temporal deliverance is interconnected with spiritual safety, as the preservation of the disciples on this occasion is viewed as a deeper preservation, in line with Jesus' previous sayings. Despite the disciples' weakness and the constant dangers they faced, Christ ensured their eternal salvation, preserving them until their appointed work was done.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.8254088606589796,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.04,
+        "commentatorTierSimilarities": [
+            35.45,
+            36.9,
+            27.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An unquestionable proof, if any were wanted, that the words of ch. xvii. are no mere description of the mind of our Lord at the time, nor free arrangement of His words, but His very words themselves.",
+            "To 'fulfil' a prophecy is not to exhaust its capability of being again and again fulfilled.",
+            "The words of the Lord have many stages of unfolding."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That the saying might be fulfilled which he spake, Of them which thou gavest me have I lost none.\" ",
+            "The reference is to such sayings as John 6:39; John 17:12; showing how conscious the Evangelist was, that in reporting his Lord's former sayings, he was giving them not in substance merely, but in form also.",
+            "Observe, also, how the preservation of the disciples on this occasion is viewed as part that deeper preservation undoubtedly intended in the saying quoted."
+        ],
+        "Albert Barnes": [
+            "The saying - John 17:12. As he had kept them for more than three years, so he still sought their welfare, even when his death was near."
+        ],
+        "John Calvin": [
+            "Christ did not keep the apostles safe to the last, but this he accomplished, that, amidst incessant dangers, and even in the midst of death, still their eternal salvation was secured.",
+            "Let us consider how great their weakness was; what do we think they would have done, if they had been brought to the test?",
+            "Though he try our faith by many temptations, still he will never allow us to come into extreme danger without supplying us also with strength to overcome."
+        ],
+        "Philip Schaff": [
+            "The powers of the world and of evil are so identified in his eyes that oppression by, or deliverance from, the one is oppression by, or deliverance from, the other.",
+            "The temporal is the shadow of the eternal, and the principles working out upon man\u2019s stage here stretch into the long hereafter.",
+            "The temporal deliverance thus afforded was really a means to secure the spiritual safety of the disciples."
+        ],
+        "Archibald T. Robertson": [
+            "That might be fulfilled (\u03b9\u03bd\u03b1 \u03c0\u03bb\u03b7\u03c1\u03c9\u03b8\u03b7). The regular formula for Scripture.\" ",
+            "Here applied to the prophecy of Jesus as in verse John 18:32.",
+            "John treats the saying of Jesus as on a par with the O.T."
+        ],
+        "John Gill": [
+            "Who are given to Christ, and shall none of them be lost, neither their souls nor bodies; for Christ's charge of them reaches to both.",
+            "Being preserved by the power of God so long, until they had done the work which was appointed them to do.",
+            "To prevent such a temptation and to preserve them, our Lord took this method to deliver them out of the hands of the Jews."
+        ],
+        "John Wesley": [
+            "John 17:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fulfillment of the saying mentioned in John 18:9 is not just a singular event, but rather a part of the unfolding stages of Jesus' words. The preservation of the disciples on this occasion is seen as a deeper preservation, in line with Jesus' previous sayings in John 6:39 and John 17:12. This understanding highlights the conscious effort of the Evangelist to accurately report Jesus' words in both substance and form. The fulfillment of this prophecy also demonstrates the association of the powers of the world and of evil in Jesus' eyes, showcasing how temporal deliverance is intertwined with spiritual safety. Ultimately, Christ ensured the eternal salvation of the apostles amidst their weaknesses and dangers, preserving them until they had completed their appointed work.",
+            "wordCount": 121,
+            "quoteTokenProportion": 31.17,
+            "qualityScore": 1.8006750151113318,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                39.9,
+                31.21,
+                28.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unfolding stages of Jesus' words are exemplified in the fulfillment of the saying, emphasizing the accuracy in reporting His words in both substance and form. It is revealed that temporal deliverance is interconnected with spiritual safety, as the preservation of the disciples on this occasion is viewed as a deeper preservation, in line with Jesus' previous sayings. Despite the disciples' weakness and the constant dangers they faced, Christ ensured their eternal salvation, preserving them until their appointed work was done.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8254088606589796,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.04,
+            "commentatorTierSimilarities": [
+                35.45,
+                36.9,
+                27.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fulfillment of the saying in John 18:9 reveals the unfolding stages of Jesus' words, emphasizing the accuracy in reporting His words in substance and form. This preservation of the disciples points to a deeper preservation and interconnects temporal deliverance with spiritual safety. Despite their weaknesses and constant dangers, Christ ensured the eternal salvation of the apostles, preserving them until they completed their appointed work. This highlights the association of powers in Jesus' eyes, showing how oppression or deliverance by one implies the same for the other.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6737542040763227,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                34.01,
+                37.88,
+                28.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The unfolding stages of Jesus' words are showcased in the fulfillment of the saying, underscoring the meticulous reporting of His words in substance and form. This preservation of the disciples serves as a deeper preservation, linking temporal deliverance to spiritual safety. Despite their weaknesses and constant dangers, Christ ensured the apostles' eternal salvation, safeguarding them until their designated work was accomplished. This understanding emphasizes the interconnectedness of powers in Jesus' perspective, illustrating how oppression or deliverance from one corresponds to the other.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.6486937419922634,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                35.33,
+                37.85,
+                26.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fulfillment of the saying unveils the progression of Jesus' words, authenticating the precise reporting of His thoughts in both substance and form. This preservation of the disciples illustrates a profound safeguarding, where temporal deliverance converges with spiritual well-being. Despite their weaknesses and constant perils, Christ ensured the eternal salvation of the apostles, preserving them until they fulfilled their purpose. This understanding highlights the interconnectedness of powers, where oppression or liberation from one realm corresponds to the other.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.547121244914445,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.78,
+            "commentatorTierSimilarities": [
+                35.49,
+                37.72,
+                26.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

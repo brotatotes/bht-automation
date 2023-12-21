@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:05:08",
+    "verseRef": "John 3:26",
+    "bestBHT": {
+        "bht": "As Jesus gains more followers, John's disciples express their concern, blaming John for endorsing Jesus and allowing him to draw people away. Yet, John responds with genuine humility, acknowledging Jesus' expanding mission and the fading relevance of his own. John points his disciples to Jesus as the true Savior, fulfilling his purpose as the herald of the Son of God. This interaction serves as a poignant picture of ministerial jealousy throughout time, reminding us of the need to prioritize Christ's kingdom above our own ambitions.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.65,
+        "qualityScore": 1.864643160664227,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+        "commentatorTierSimilarities": [
+            35.7,
+            22.96,
+            41.34
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not, probably, any who had been baptized already by John; but multitudes of persons.",
+            "The baptism now carried on by the disciples appears to have stood very much in the same position as that of John.",
+            "As John\u2019s commission was now on the wane, so our Lord\u2019s was expanding."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Master, this man tells us that He to whom thou barest such generous witness beyond Jordan is requiting thy generosity by drawing all the people away to Himself.\" ",
+            "At this rate, thou shalt soon have no disciples at all.\" ",
+            "The reply to this is one of the noblest and most affecting utterances that ever came from the lips of man."
+        ],
+        "Albert Barnes": [
+            "Acknowledging him as their master and teacher.",
+            "Thou barest witness.",
+            "Many love their sect more than they do Christ, and would be more rejoiced that a man became a Presbyterian, a Methodist, a Baptist, than that he became a sincere and humble Christian."
+        ],
+        "Marvin Vincent": [
+            "Behold. Used by both Matthew and Mark, not by Luke, but very frequently by John.",
+            "The present would be better rendered by is baptizing, are coming."
+        ],
+        "John Calvin": [
+            "By this argument they endeavor either to make Christ inferior to John, or to show that John, by doing him honor, had laid him under obligations.",
+            "As if it had not been the duty of John to make such a proclamation, or rather, as if it had not been John\u2019s highest dignity to be the herald of the Son of God.",
+            "The expression which they use \u2014 all men come to Christ \u2014 is the language of envious persons, and proceeds from sinful ambition."
+        ],
+        "Philip Schaff": [
+            "Their description of Jesus (whom they do not name) shows their feelings.",
+            "This is the last trial of the Baptist's fidelity to his mission, and nobly is it sustained.",
+            "Their last words are in their lips but a natural exaggeration; to the Evangelist, however, they are an unconscious prophecy."
+        ],
+        "Archibald T. Robertson": [
+            "Rabbi (\u03a1\u03b1\u03b2\u03b2\u03b5). Greeting John just like Jesus (John 1:38; John 3:2).",
+            "These disciples of John are clearly jealous of Jesus as a rival of John and they distinctly blame John for his endorsement of one who is already eclipsing him in popularity.",
+            "The sight of the growing crowds with Jesus and the dwindling crowds with John stirred John's followers to keenest jealousy. What a life-like picture of ministerial jealousy in all ages."
+        ],
+        "John Gill": [
+            "Behold the same baptizeth; takes upon him to administer the ordinance of baptism; at least gives orders to administer it; which John's disciples thought was the proper, and peculiar business of their master; and therefore speak of this as an intrusion into his office, and an entering into his province.",
+            "What gave still more uneasiness, and increased the complaint, was, and all men come to him; that is, 'many', as the Syriac and Persic versions render it, even more than came to John.",
+            "His being so near to John might add to their uneasiness. It is a rule with the Jews that 'it is not lawful for a disciple to teach the constitutions, or sentences of the law, before his master; but must be twelve miles distant from him, as the camp of Israel.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When John's disciples see that Jesus is gaining more followers than John, they express their concern to John, questioning his endorsement of Jesus. They accuse Jesus of drawing people away from John and diminishing his popularity. However, John responds with profound wisdom and humility, acknowledging that Jesus' influence is growing while his own is fading. He points them to Jesus as the true Messiah, reminding them that his role was to prepare the way for Christ. This interaction portrays a vivid picture of ministerial jealousy, reminding us that it is crucial to place Christ above all and rejoice in the advancement of His kingdom rather than our own.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.8949460098303508,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                34.99,
+                24.8,
+                40.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As John's ministry begins to decline and Jesus' popularity increases, John's disciples express jealousy and blame John for endorsing Jesus. However, John responds with humble wisdom, acknowledging the expanding scope of Jesus' mission and the waning of his own. He points them to Jesus as the true Messiah, reminding them of his role to prepare the way for Christ. This encounter is a vivid depiction of ministerial jealousy, reminding us to prioritize Christ's kingdom and rejoice in its advancement above our own.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.841242329177037,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                33.0,
+                24.24,
+                42.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus begins to gather more followers than John, John's disciples express their concern, blaming John for endorsing Jesus. However, John responds with wisdom and humility, acknowledging the expansion of Jesus' commission while his own is diminishing. He points them to Jesus as the true object of their devotion, reminding them of his role as the herald of the Son of God. This encounter reveals the reality of ministerial jealousy throughout history, urging us to prioritize Christ's kingdom rather than our own ambitions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8633458812899177,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                33.81,
+                24.48,
+                41.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus gains more popularity than John, John's disciples express their jealousy, blaming John for endorsing someone who is overshadowing him. However, John responds with humble wisdom, acknowledging the expansion of Jesus' mission and the decline of his own. He directs their focus to Jesus as the true Messiah, reminding them of his role to prepare the way for Christ. This interaction serves as a poignant reminder of the presence of ministerial jealousy throughout history, emphasizing the importance of prioritizing the advancement of Christ's kingdom over personal ambitions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7672318704726342,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                33.14,
+                24.11,
+                42.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus gains more followers, John's disciples express their concern, blaming John for endorsing Jesus and allowing him to draw people away. Yet, John responds with genuine humility, acknowledging Jesus' expanding mission and the fading relevance of his own. John points his disciples to Jesus as the true Savior, fulfilling his purpose as the herald of the Son of God. This interaction serves as a poignant picture of ministerial jealousy throughout time, reminding us of the need to prioritize Christ's kingdom above our own ambitions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.864643160664227,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+            "commentatorTierSimilarities": [
+                35.7,
+                22.96,
+                41.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

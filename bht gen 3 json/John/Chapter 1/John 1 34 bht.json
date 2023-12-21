@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:04:00",
+    "verseRef": "John 1:34",
+    "bestBHT": {
+        "bht": "John the Baptist's enduring testimony, described as a perfect tense, affirms his firsthand witness of Jesus as the Son of God. The reception of the Holy Spirit by Jesus without measure indicates his divine nature beyond human capability. The phrase Son of God signifies more than just the Messiah, emphasizing the unique relationship between the Son and the Father. Through John's witness to the Spirit's descent on Jesus, his identity as the Son of God is firmly established.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9867821762412945,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.4,
+        "commentatorTierSimilarities": [
+            39.0,
+            38.82,
+            22.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The perfect tense in this verse is stronger than the present,\u2014I have seen (on the perf. see above ver. 32) and have borne witness\u2014it is a reference to his testimony at the time, as a thing on record in their memories, and as still continuing.",
+            "The Personal Word, Who became flesh in our Lord, and was subjected to all the laws of human development in infancy, childhood, youth,\u2014evermore in an especial degree under the leading of the Holy Spirit, by whose agency the Incarnation had taken place,\u2014was the Recipient of this fulness of the indwelling of the Holy Ghost.",
+            "The abiding of the Spirit without measure on Him indicated beyond doubt that He was the Word become flesh\u2014for no mere human intelligence could be thus receptive of the Holy Spirit of God."
+        ],
+        "John Calvin": [
+            "He means that what he declares is not doubtful.\" ",
+            "God was pleased to make him fully and thoroughly acquainted.\" ",
+            "He testified that Christ wasthe Son of God, because he who gives the Holy Spirit must be the Christ.\" "
+        ],
+        "Philip Schaff": [
+            "The link of connection between the transcendent conclusion of the Baptist and the fact upon which it rests is probably to be found in the thought that He who baptizes with the Holy Spirit, who therefore has the power to impart the gifts and influence of the Spirit of God, must be Divine.\" ",
+            "It has been sometimes maintained that \u2018Son of God\u2019 must be understood as a mere designation of \u2018the Messiah.\u2019 For this opinion we believe that no evidence can be found, either in Scripture or in early Jewish writings.",
+            "The omissions are very remarkable. We say nothing of the Evangelist\u2019s silence as to the circumstances of our Lord\u2019s birth and early years; this belongs to the general plan of the Gospel, which here agrees with that of Mark."
+        ],
+        "Archibald T. Robertson": [
+            "I have seen (\u03b5\u03c9\u03c1\u03b1\u03ba\u03b1). Present perfect active of \u03bf\u03c1\u03b1\u03c9.",
+            "This is the Son of God (\u03bf \u03c5\u03b9\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). The Baptist saw the Spirit come on Jesus at his baptism and undoubtedly heard the Father's voice hail him as 'My Beloved Son'.",
+            "The phrase means more than just Messiah and expresses the peculiar relation of the Son to the Father like that of the Logos with God in John 1:1."
+        ],
+        "John Gill": [
+            "And I saw... The Spirit descending from heaven as a dove...",
+            "...and remaining some time on him...",
+            "...that this is the Son of God..."
+        ],
+        "John Wesley": [
+            "I saw it \u2014 That is, the Spirit so descending and abiding on him.",
+            "And testified \u2014 From that time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The first-tier commentary emphasizes the significance of John the Baptist's testimony about Jesus as the Son of God. John's witness is not just a present declaration but an enduring testimony, firmly established in the memory of those who heard it. It is highlighted that the Holy Spirit was fully present in Jesus, indicating his divine nature. The second-tier commentary reinforces the understanding that Son of God goes beyond a mere title for the Messiah and stresses that the Gospel's focus on Jesus' baptism aligns with the plan seen in Mark. Through John's witness, the Spirit's descent on Jesus is made known, affirming his identity as the Son of God.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.936119647581619,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                36.67,
+                42.1,
+                21.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The first-tier commentary reveals that John the Baptist's testimony as the perfect tense bears ongoing significance, firmly established in the memory of listeners. Jesus' reception of the Holy Spirit without measure demonstrates his divine nature, as no human intelligence could possess such receptivity. The second-tier commentary reinforces that the phrase Son of God surpasses a mere title for the Messiah, while the focus on Jesus' baptism aligns with the Gospel's larger plan. Through John's witness, the Spirit's descent on Jesus confirms his identity as the Son of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.8872985672216454,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                38.02,
+                42.89,
+                19.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist's ongoing testimony, described as a perfect tense, emphasizes its enduring impact in the memories of those who heard it. Jesus' reception of the Holy Spirit without measure reveals his divine nature, as no human intelligence could possess such receptivity. The phrase Son of God goes beyond a mere title for the Messiah, highlighting the unique relationship between the Son and the Father. John's witness to the Spirit's descent on Jesus confirms his identity as the Son of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9083169645722047,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.79,
+            "commentatorTierSimilarities": [
+                39.1,
+                40.06,
+                20.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist's testimony holds significant weight, as it is not merely a present declaration but an enduring testimony in the memories of those who heard it. The Holy Spirit's abiding in Jesus reveals his divine nature, highlighting his role as the Word made flesh. The phrase Son of God goes beyond a simple designation of the Messiah and expresses the unique relationship between the Son and the Father, just as the Logos is with God. John's witness to the Spirit's descent on Jesus affirms that he is the Son of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9562174854014944,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.39,
+            "commentatorTierSimilarities": [
+                38.66,
+                39.97,
+                21.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist's enduring testimony, described as a perfect tense, affirms his firsthand witness of Jesus as the Son of God. The reception of the Holy Spirit by Jesus without measure indicates his divine nature beyond human capability. The phrase Son of God signifies more than just the Messiah, emphasizing the unique relationship between the Son and the Father. Through John's witness to the Spirit's descent on Jesus, his identity as the Son of God is firmly established.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9867821762412945,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.4,
+            "commentatorTierSimilarities": [
+                39.0,
+                38.82,
+                22.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:09:42",
+    "verseRef": "John 9:35",
+    "bestBHT": {
+        "bht": "Are you the one whom our rulers have mistreated because of your belief in Jesus, the Son of God? Despite the persecution he faced, the man showed his readiness to believe all that Jesus taught. Jesus, in his confident expectation of an affirmative answer, asked the man if he believed in the Son of God. This question went beyond the man's limited knowledge but aimed to lead him into the highest truth. It is an emblem of how Christ seeks and finds his chosen ones, bringing them to himself even if they are at the ends of the earth.",
+        "wordCount": 100,
+        "quoteTokenProportion": 45.71,
+        "qualityScore": 2.0886512820795264,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+        "commentatorTierSimilarities": [
+            33.86,
+            39.33,
+            26.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Art thou he, whom our rulers have severely treated on account of thy belief in Jesus whom men call Christ?",
+            "Dost thou, even after this treatment, believe on the Son of God?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sympathy in that breast could not long keep aloof from its object.\" ",
+            "A question stretching purposely beyond his present attainments, in order the more quickly to lead him\u2014in his present teachable frame\u2014into the highest truth.",
+            "to lead him\u2014in his present teachable frame\u2014into the highest truth."
+        ],
+        "Albert Barnes": [
+            "He believed according to the light he had, and he now showed that he was prepared to believe all that Jesus said. This is the nature of true faith.",
+            "True faith...believes all that God has made known, and it is premiered to receive all that he will teach.",
+            "The phrase Son of God here is equivalent to the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Dost thou believe? The form of the question indicates the confident expectation of an affirmative answer.",
+            "It is almost an affirmation, you surely believe; you who have born such bold testimony to me that they have cast you out.",
+            "Son of God. Both Tischendorf and Westcott and Hort read Son of man."
+        ],
+        "John Calvin": [
+            "By this example, we are taught how trivial and how little to be dreaded are the excommunications of the enemies of Christ.",
+            "Even though no man should drive us out, we ought of our own accord to flee from that place in which Christ does not preside by his word and Spirit.",
+            "There is nothing better for us than to be at a very great distance from the enemies of the Gospel, that Christ may approach nearer to us."
+        ],
+        "Philip Schaff": [
+            "The man has lost this world: in that loss he shall gain the next.",
+            "Jesus knows well the firmness and the wisdom which the man had shown in the presence of the Jews.",
+            "Does he give himself to Him with that faith which involves complete union with Himself and His cause, undeterred by the fact that He appears as a man amongst men, yea and as one despised and rejected by men?"
+        ],
+        "Archibald T. Robertson": [
+            "Finding him (\u03b5\u03c5\u03c1\u03c9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Second aorist active participle of \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03c9, after search because of what he had heard (\u03b7\u03ba\u03bf\u03c5\u03c3\u03b5\u03bd).",
+            "Dost thou believe on the Son of God? (\u03a3\u03c5 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b5\u03b9\u03c2 \u03b5\u03b9\u03c2 \u03c4\u03bf\u03bd \u03c5\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5?).\" ",
+            "In either case it is a distinct Messianic claim quite beyond the range of this man's limited knowledge, keen as he is."
+        ],
+        "John Gill": [
+            "This is an emblem of Christ's seeking after his chosen ones, both in redemption, and in the effectual calling, who are like sheep going astray, and never come to, and lay hold on Christ, till he comes first, seeks after, and apprehends them.",
+            "He knows where they are, as he did Matthew the publican, Zacchaeus, and the woman of Samaria; and even though they are at the ends of the earth; and he goes and looks them up, and finds them.",
+            "Since he would then appear to be a Son of God himself by adopting grace, and so an heir of God, and a joint heir with Christ; would receive the remission of his sins, openly justified in the court of conscience, as well of God, and be everlastingly saved."
+        ],
+        "John Wesley": [
+            "Having found him \u2014 For he had sought him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Are you the one whom our rulers have mistreated because of your belief in Jesus, the Son of God? Despite the persecution he faced, the man showed his readiness to believe all that Jesus taught. Jesus, in his confident expectation of an affirmative answer, asked the man if he believed in the Son of God. This question went beyond the man's limited knowledge but aimed to lead him into the highest truth. It is an emblem of how Christ seeks after and finds his chosen ones, bringing them to himself even if they are at the ends of the earth. By this example, we are reminded that the excommunications of Christ's enemies are trivial and not to be feared.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 2.0241597698435507,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+            "commentatorTierSimilarities": [
+                33.06,
+                37.78,
+                29.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Are you the one whom our rulers have mistreated because of your belief in Jesus, the Son of God? Despite the persecution he faced, the man showed his readiness to believe all that Jesus taught. Jesus, in his confident expectation of an affirmative answer, asked the man if he believed in the Son of God. This question went beyond the man's limited knowledge but aimed to lead him into the highest truth. It is an emblem of how Christ seeks and finds his chosen ones, bringing them to himself even if they are at the ends of the earth.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.0886512820795264,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                33.86,
+                39.33,
+                26.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Are you the one whom our rulers have mistreated because of your belief in Jesus, the Son of God? Despite the persecution he faced, the man showed his readiness to believe all that Jesus taught. Jesus, in his confident expectation of an affirmative answer, asked the man if he believed in the Son of God. This question went beyond the man's limited knowledge but aimed to lead him into the highest truth. It is an emblem of how Christ seeks and finds his chosen ones, bringing them to himself even if they are at the ends of the earth.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.0886512820795264,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                33.86,
+                39.33,
+                26.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Are you the one whom our rulers have mistreated because of your belief in Jesus, the Son of God? Despite the persecution he faced, the man showed his readiness to believe all that Jesus taught. Jesus, in his confident expectation, asked if he believed in the Son of God. This question aimed to lead him into the highest truth, beyond his limited knowledge. It exemplifies how Christ seeks and finds his chosen ones, bringing them to himself, even from the farthest corners of the earth. The excommunications of Christ's enemies are trivial and should not be feared.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.9856506816616313,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                32.91,
+                37.78,
+                29.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Are you the one whom our rulers have mistreated because of your belief in Jesus, the Son of God? Despite the persecution he faced, the man showed his readiness to believe all that Jesus taught. Jesus, in his confident expectation of an affirmative answer, asked the man if he believed in the Son of God. This question went beyond the man's limited knowledge but aimed to lead him into the highest truth. It is an emblem of how Christ seeks after and finds his chosen ones, bringing them to himself even if they are at the ends of the earth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 2.087167079520454,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+            "commentatorTierSimilarities": [
+                33.91,
+                39.21,
+                26.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

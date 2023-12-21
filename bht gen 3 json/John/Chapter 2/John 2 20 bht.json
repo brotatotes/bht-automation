@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-21-2023 03:04:43",
+    "verseRef": "John 2:20",
+    "bestBHT": {
+        "bht": "The temple, which had been under construction for forty-six years, was not yet completed when Jesus made a remark about raising it up in three days. The Jews, in a mocking tone, questioned how Jesus, an unknown Galilean, could accomplish such a task. The evangelists accurately captured this encounter, reflecting their commitment to precision. Although we may find some of Jesus' teachings and actions initially obscure, it is important not to despair or disregard them, for they often hold deeper meaning that becomes clear over time.",
+        "wordCount": 87,
+        "quoteTokenProportion": 52.63,
+        "qualityScore": 1.7323381186260205,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+        "commentatorTierSimilarities": [
+            25.16,
+            37.8,
+            37.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The building of the temple by Herod the Great is stated by Josephus in one place to have been begun in the eighteenth year of his reign; in another, in the fifteenth.\" ",
+            "Reckoning from this latter, we shall have twenty years till the birth of Christ, and thirty years since that event, from which fifty, however, four must be taken, since our era is four years too late.",
+            "The temple was not completed till A.D. 64, under Herod Agrippa II., and the procurator Albinus; so that was in building must refer to the greater part of the work now completed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. Forty and six years\u2014From",
+            "\tthe eighteenth year of Herod till then was just forty-six years",
+            "\t[JOSEPHUS, Antiquities,",
+            "\t15.11.1]."
+        ],
+        "Albert Barnes": [
+            "The Jews frequently perverted our Saviour\u2019s meaning.",
+            "This circumstance is one of the many in the New Testament which show the accuracy of the evangelists.",
+            "Can you, an obscure and unknown Galilean, accomplish it in three days? The thing, in their judgment, was ridiculous."
+        ],
+        "Marvin Vincent": [
+            "Forty and six years was this temple in building. Literally, In forty and six years was this temple built.\" ",
+            "It was spoken of as completed, although not finished until thirty-six years later.\" ",
+            "Thou. The position of the Greek pronoun makes it emphatic."
+        ],
+        "John Calvin": [
+            "The computation of Daniel agrees with this passage... before the last of these weeks had ended, the temple was finished.\" ",
+            "They wish to have some testimony of divine power, and yet they receive nothing which does not correspond to the feeble capacity of man.\" ",
+            "Although, therefore, many of the actions and sayings of our Lord are obscure for a time, we must not give them up in despair, or despise that which we do not all at once understand."
+        ],
+        "Philip Schaff": [
+            "Forty and six years was this temple in building, and wilt thou raise it up in three days?\" ",
+            "The \u2018forty and six years\u2019 bring us to the year 28 A.D.",
+            "Moreover, in their indignant rejoinder to the saying of Jesus, they not unnaturally take up the very term which He had used, even though it applied in strictness only to the most sacred portion of the structure."
+        ],
+        "Archibald T. Robertson": [
+            "Within forty and six years was built this temple.",
+            "As a matter of fact, it was not yet finished, so distrustful had the Jews been of Herod.",
+            "An evident sneer in the use of \u03c3\u03c5 (thou, an unknown upstart from Galilee, of the peasant class, not one of the Sanhedrin, not one of the ecclesiastics or even architects)."
+        ],
+        "John Gill": [
+            "But rather of the temple, as built by Zorobabel, commonly called the second temple, and might be more properly said to be 'this temple.'",
+            "To me it seems rather, that Herod's temple, or the temple as rebuilt, or repaired by Herod, is here meant; and which the Jews call, 'the building of Herod.'",
+            "Thus from the length of time which had run out from Herod's first beginning to repair and beautify the temple, till now, and yet not finished, they argue the absurdity of his pretending to raise up such a fabric, should it be demolished, in three days time."
+        ],
+        "John Wesley": [
+            "Forty and six years \u2014 Just so many years before the time of this conversation...",
+            "Herod the Great had begun his most magnificent reparation of the temple, (one part after another,) which he continued all his life...",
+            "Continued thirty-six years longer, till within six or seven years of the destruction of the state, city, and temple by the Romans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temple in Jerusalem had been in construction for forty-six years and was not yet completed when Jesus spoke of raising it up in three days. The Jews, misunderstanding his statement, sarcastically questioned how he, an unknown and unassuming Galilean, could accomplish such a feat. Their incredulous response reveals their skepticism and contempt for Jesus. However, the evangelists accurately record this interaction, highlighting the precision of their accounts. Despite the initial perplexity surrounding Jesus' words, we are encouraged not to dismiss or despise what we may not immediately comprehend, recognizing that many of his actions and teachings may initially seem obscure.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 1.6061428883275257,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.75,
+            "commentatorTierSimilarities": [
+                22.81,
+                40.76,
+                36.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The temple had been undergoing construction for forty-six years, but it was not yet finished when Jesus spoke about raising it up in three days. The Jews, in their disdainful response, scoffed at the idea, questioning how Jesus, an obscure Galilean, could accomplish such a task. However, the evangelists accurately captured this exchange, demonstrating the precision of their accounts. Although we may initially find some of Jesus' actions and sayings puzzling, we should not lose hope or disregard them, as there is much to be understood in due time.",
+            "wordCount": 90,
+            "quoteTokenProportion": 53.25,
+            "qualityScore": 1.6971515026103572,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.77,
+            "commentatorTierSimilarities": [
+                24.42,
+                36.96,
+                38.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple in Jerusalem was under construction for forty-six years when Jesus mentioned raising it up in three days. The Jews responded scornfully, questioning how an unknown Galilean like Jesus could achieve such a feat. This exchange, recorded with accuracy by the evangelists, highlights their attention to detail. While we may initially struggle to comprehend some of Jesus' words and actions, we should not give up or dismiss them, as there is valuable insight to be gained even from what may seem obscure at first.",
+            "wordCount": 86,
+            "quoteTokenProportion": 55.26,
+            "qualityScore": 1.700424609731547,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                24.33,
+                38.29,
+                37.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple, which had been under construction for forty-six years, was not yet completed when Jesus made a remark about raising it up in three days. The Jews, in a mocking tone, questioned how Jesus, an unknown Galilean, could accomplish such a task. The evangelists accurately captured this encounter, reflecting their commitment to precision. Although we may find some of Jesus' teachings and actions initially obscure, it is important not to despair or disregard them, for they often hold deeper meaning that becomes clear over time.",
+            "wordCount": 87,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.7323381186260205,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+            "commentatorTierSimilarities": [
+                25.16,
+                37.8,
+                37.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple, under construction for forty-six years, was not yet finished when Jesus mentioned raising it up in three days. The Jews responded sarcastically, doubting how an unknown Galilean like Jesus could accomplish such a task. The evangelists accurately recorded this interaction, showing their attention to detail. Though it may take time to fully grasp Jesus' words and actions, we should not lose hope or dismiss them, as they often hold profound significance that becomes clear with further understanding.",
+            "wordCount": 80,
+            "quoteTokenProportion": 49.32,
+            "qualityScore": 1.6772911076171426,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                24.41,
+                37.64,
+                37.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:04:40",
+    "verseRef": "John 2:15",
+    "bestBHT": {
+        "bht": "Driven by divine anger and authority, Jesus forcefully expels the animals and merchants from the temple, wielding a whip as a sign of divine scourge. With small cords made from twisted rushes, he clears the sacred space, condemning the dishonest practices of the traders. This act of cleansing reveals Jesus' manifestation as the Messiah, combining both indignation and divine majesty. As he pours out the changers' money and overturns the tables, Jesus sends a stern and necessary rebuke, demonstrating his role as the righteous judge.",
+        "wordCount": 85,
+        "quoteTokenProportion": 23.33,
+        "qualityScore": 1.9659484767285629,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+        "commentatorTierSimilarities": [
+            34.41,
+            33.55,
+            32.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He drove all out of the temple, both the sheep and the oxen.",
+            "He dealt alike with all. No other way was open with regard to them, than to order them to take their birds away.",
+            "This cleansing of the temple was in the direct course of His manifestation as the Messiah."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not by this slender whip but by divine majesty was the ejection accomplished, the whip being but a sign of the scourge of divine anger\" - GROTIUS.",
+            "Thus expressing the mingled indignation and authority of the impulse\" - Commentary.",
+            "The whip being but a sign of the scourge of divine anger\" - GROTIUS."
+        ],
+        "Albert Barnes": [
+            "A scourge - A whip.",
+            "Of small cords - This whip was made as an emblem of authority, and also for the purpose of driving from the temple the cattle which had been brought there for sale.",
+            "The original word implies that these 'cords' were made of twisted 'rushes' or 'reeds' - probably the ancient material for making ropes."
+        ],
+        "Marvin Vincent": [
+            "A scourge [\u03c6\u03c1\u03b1\u03b3\u03b5\u03bb\u03bb\u03b9\u03bf\u03bd] . Only here in the New Testament. Only John records this detail.",
+            "Of small cords [\u03b5\u03ba \u03c3\u03c7\u03bf\u03b9\u03bd\u03b9\u03c9\u03bd] . The Rev. omits small, but the word is a diminutive of scoinov, a rush, and thence a rope of twisted rushes.",
+            "All. Referring to the animals. The A. V. makes the reference to the traders; but Rev., correctly, 'cast all out - both the sheep and the oxen.'"
+        ],
+        "Philip Schaff": [
+            "The scourge was made for the expulsion of the animals, but by it Jesus also declared His purpose to the traders themselves.",
+            "He drives them from the sacred place by banishing the instruments and means of their unholy traffic.",
+            "And poured out the changers\u2019 money, and overthrew the tables- the counters on which the bankers placed their heaps of change."
+        ],
+        "Archibald T. Robertson": [
+            "A scourge of cords (\u03c6\u03c1\u03b1\u03b3\u03b5\u03bb\u03bb\u03b9\u03bf\u03bd \u03b5\u03ba \u03c3\u03c7\u03bf\u03b9\u03bd\u03b9\u03c9\u03bd). The Latin flagellum.",
+            "It is not said that Jesus smote the sheep and oxen (note \u03c4\u03b5 \u03ba\u03b1, both and), for a flourish of the scourge would answer.",
+            "The changers' money (\u03c4\u03c9\u03bd \u03ba\u03bf\u03bb\u03bb\u03c5\u03b2\u03b9\u03c3\u03c4\u03c9\u03bd \u03c4\u03b1 \u03ba\u03b5\u03c1\u03bc\u03b1\u03c4\u03b1). 'The small pieces of money (\u03ba\u03b5\u03c1\u03bc\u03b1\u03c4\u03b1, cut in pieces, change) of the bankers (\u03ba\u03bf\u03bb\u03bb\u03c5\u03b2\u03b9\u03c3\u03c4\u03b7\u03c2 from \u03ba\u03bf\u03bb\u03bb\u03c5\u03b2\u03bf\u03c2, clipped, late word see on Matthew 21:12).'"
+        ],
+        "John Gill": [
+            "And it seems to be made, and used, not so much for force and terror, as to intimate, that these persons, the violators of the holy place, deserved the scourge of divine wrath and punishment.",
+            "The reason given by Dr. Lightfoot, and others, why Christ made use of a whip, or scourge, rather than a staff, is, because it was contrary to Jewish canon to go into the temple with a staff.",
+            "He drove out 'the men', the merchants, the sellers of oxen, sheep, and doves, and the money changers: 'and the sheep, and the oxen' likewise; and poured out the changers money and overthrew the tables."
+        ],
+        "John Wesley": [
+            "Having made a scourge of rushes \u2014 (Which were strewed on the ground), he drove all out of the temple.",
+            "Though it does not appear that he struck even them; and much less, any of the men.",
+            "But a terror from God, it is evident, fell upon them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Driven by a divine impulse, Jesus takes decisive action in the temple, forcefully expelling both the animals and the merchants. His use of a whip, though seemingly unremarkable, serves as a symbol of divine anger and authority. The small cords, made from twisted rushes, crack through the air as Jesus clears the sacred space. Not only does he drive out the offenders, but he also pours out the changers' money and overturns the tables, condemning their dishonest practices. This act of cleansing the temple is a manifestation of Jesus as the Messiah, a stern and necessary rebuke that reverberates with both indignation and divine majesty.",
+            "wordCount": 105,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 1.8802550910316433,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                33.24,
+                33.57,
+                33.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a display of divine authority, Jesus forcefully removes the animals and merchants from the temple, employing a whip as a symbol of God's anger. The small cords, made from twisted rushes, crack through the air as Jesus clears the sacred space. He not only drives out those defiling the temple but also pours out the changers' money and overturns their tables, condemning their dishonest practices. This act of cleansing demonstrates Jesus' role as the Messiah, manifesting both indignation and divine majesty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.9156639062281164,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                33.66,
+                34.04,
+                32.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Driven by divine anger and authority, Jesus forcefully expels the animals and merchants from the temple, wielding a whip as a sign of divine scourge. With small cords made from twisted rushes, he clears the sacred space, condemning the dishonest practices of the traders. This act of cleansing reveals Jesus' manifestation as the Messiah, combining both indignation and divine majesty. As he pours out the changers' money and overturns the tables, Jesus sends a stern and necessary rebuke, demonstrating his role as the righteous judge.",
+            "wordCount": 85,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.9659484767285629,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                34.41,
+                33.55,
+                32.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Filled with divine indignation, Jesus forcefully drives both animals and merchants out of the temple. He wields a whip as a symbol of divine anger, using small cords made from twisted rushes to clear the sacred space. This act of cleansing serves as a manifestation of Jesus as the Messiah, reflecting both his authority and righteous judgment. Jesus condemns the dishonest practices of the traders, pouring out their money and overturning their tables. His actions reveal a combination of majestic divine authority and a firm rebuke against unrighteousness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.8727693386339945,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                34.52,
+                33.05,
+                32.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, propelled by divine anger and authority, forcefully expels both the animals and merchants from the temple. His whip, symbolizing divine scourge, made of small cords twisted from rushes, underscores his stern resolve. This temple cleansing showcases Jesus as the Messiah, pouring out righteous indignation and divine majesty. Condemning the dishonest practices, Jesus pours out the changers' money and overturns their tables, firmly rebuking their unholiness. His actions effectively manifest divine judgment and the unequivocal authority of the Messiah.",
+            "wordCount": 79,
+            "quoteTokenProportion": 21.82,
+            "qualityScore": 1.8689007127863295,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                35.78,
+                31.55,
+                32.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:07:04",
+    "verseRef": "John 6:28",
+    "bestBHT": {
+        "bht": "The people's literal understanding of Jesus' words leads them to ask what works they should perform to please God and obtain eternal sustenance. Jesus acknowledges their mindset and tailors His response accordingly. While their question may be sincere, it reveals their inclination to believe that they can earn salvation through their own efforts. Jesus redirects their focus to the works that are pleasing to God, urging them to seek God's will rather than relying solely on their own works.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.9903730544026876,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+        "commentatorTierSimilarities": [
+            26.17,
+            39.87,
+            33.96
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The people understand His working literally, and dwell upon it.",
+            "They quite seem to think that the food which is to endure for ever is to be spiritually interpreted.",
+            "The works of God must not be taken to mean 'the works which God works,' but...the works well pleasing to God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What shall we do . . . the works of God\u2014such works as God will approve.",
+            "Different answers may be given to such a question, according to the spirit which prompts the inquiry.",
+            "Here our Lord, knowing whom He had to deal with, shapes His reply accordingly."
+        ],
+        "Albert Barnes": [
+            "What shall we do, that we might work the works of God? - That is, such things as God will approve.",
+            "They had crossed the Sea of Tiberias to seek him; they supposed him to be the Messiah, and they sincerely desired to be taught the way of life.",
+            "The idea of doing something to merit salvation is one of the last that the sinner ever surrenders."
+        ],
+        "Marvin Vincent": [
+            "What shall we do? Literally, what do we do? The best texts read poiwmen, what are we to do?",
+            "Works. The question is from the legal standpoint, works being regarded as the condition of obtaining the living bread."
+        ],
+        "John Calvin": [
+            "The multitude understood well enough that Christ had exhorted them to aim at something higher than the conveniences of the present life, and that they ought not to confine their attention to the earth, since God calls them to more valuable blessings.",
+            "By the works of God we must understand those which God demands, and of which he approves.",
+            "They appear here to murmur disdainfully against Christ, as if he were accusing them groundlessly. 'Dost thou suppose,' say they, 'that we have no solicitude about eternal life? Why, then, dost thou enjoin us to do what is beyond our power?'"
+        ],
+        "Philip Schaff": [
+            "Their question, 'What must we do,' shows a teachable disposition, and a willingness to learn from Him what was the will of God.",
+            "The works of God signify those which He commands, and which therefore are pleasing to Him.",
+            "The whole phrase (with slight alteration) occurs in Numbers 8:11, in the Septuagint: 'Aaron shall offer the Levites before the Lord . . . that they may work the works of the Lord.'"
+        ],
+        "Archibald T. Robertson": [
+            "What must we do? (\u03a4 \u03c0\u03bf\u03b9\u03c9\u03bc\u03b5\u03bd;). Present active deliberative subjunctive of \u03c0\u03bf\u03b9\u03b5\u03c9, 'What are we to do as a habit?'",
+            "That we may work the works of God (\u03b9\u03bd\u03b1 \u03b5\u03c1\u03b3\u03b1\u03b6\u03c9\u03bc\u03b5\u03b8\u03b1 \u03c4\u03b1 \u03b5\u03c1\u03b3\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Final clause with \u03b9\u03bd\u03b1 and the present middle subjunctive, 'that we may go on working the works of God.'",
+            "There may have been an element of vague sincerity in this question in spite of their supercilious attitude."
+        ],
+        "John Gill": [
+            "Understanding by what he said, that they must labour and work, though not for perishing food, yet for durable food...",
+            "They seem to intimate, as if they desired to know whether there were any other works of this kind, than what Moses had directed them to, or than they had done...",
+            "For this was the general cast and complexion of this people; they were seeking for righteousness, and life not by faith, but, as it were, by the works of the law."
+        ],
+        "John Wesley": [
+            "The works of God \u2014 Works pleasing to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in John 6:28 seem to be taking Jesus' words literally and asking Him what they should do to obtain the food that endures forever. They are essentially asking Him what works they should perform in order to please God. Jesus, in His response, takes into account their mindset and answers accordingly. While their question may have had some sincerity, they still held on to the belief that they could earn their salvation through their own efforts. Jesus redirects their focus to the works that are pleasing to God, indicating that they should seek the will of God rather than relying on their own works.",
+            "wordCount": 105,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.01485704078412,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.34,
+            "commentatorTierSimilarities": [
+                27.35,
+                38.7,
+                33.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people in this passage interpreted Jesus' words literally, asking what they should do to obtain the eternal food. In response, Jesus addresses their misguided understanding, emphasizing that the works of God are not about earthly provisions, but rather the works pleasing to God. Their question, although showing some sincerity, highlights their inclination to rely on their own efforts for salvation. Jesus directs their focus to seeking God's will rather than pursuing their own works.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1030578022409214,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+            "commentatorTierSimilarities": [
+                26.97,
+                37.27,
+                35.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people comprehend Jesus' words literally and inquire what they must do to obtain the enduring food, which indicates their inclination towards works-oriented salvation. Jesus, perceiving their mindset, tailors His response accordingly. While their question may bear some sincerity, it reveals their conviction that they can merit their salvation. Jesus redirects their attention to the works that please God, urging them to seek divine will instead of relying on their own efforts.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9304834171231708,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                27.1,
+                42.14,
+                30.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in John 6:28 understand Jesus' words literally and wonder what they must do to obtain the everlasting sustenance, interpreting it in a spiritual sense. They are essentially asking Him to clarify the actions that will gain God's approval. Jesus recognizes their mindset and shapes His response accordingly. While their question may hold some sincerity, it underscores their inclination to earn salvation through personal works. Jesus redirects their focus, emphasizing the importance of works that please God, urging them to seek His will rather than relying solely on their own efforts.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.9015664795018323,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                27.67,
+                40.36,
+                31.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people's literal understanding of Jesus' words leads them to ask what works they should perform to please God and obtain eternal sustenance. Jesus acknowledges their mindset and tailors His response accordingly. While their question may be sincere, it reveals their inclination to believe that they can earn salvation through their own efforts. Jesus redirects their focus to the works that are pleasing to God, urging them to seek God's will rather than relying solely on their own works.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9903730544026876,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                26.17,
+                39.87,
+                33.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

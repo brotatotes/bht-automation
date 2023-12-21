@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:11:10",
+    "verseRef": "John 12:29",
+    "bestBHT": {
+        "bht": "Some heard words but did not apprehend their meaning, while others heard only a sound, like thunder or an angel's voice. The varying understanding of the voice seems to be tied to each person's inner relation to Christ. The crowd standing by only perceived a sound or an articulate but unintelligible voice, whereas Jesus understood His Father's voice. It is remarkable how the same message can be received so differently, with some hearing it clearly while others remain ignorant of its significance.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 2.2398185694296773,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.81,
+        "commentatorTierSimilarities": [
+            38.46,
+            31.41,
+            30.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Some heard words, but did not apprehend their meaning.",
+            "Others [heard] a sound, but no words.",
+            "I should rather believe this difference to have been proportioned to each man\u2019s inner relation to Christ, than fortuitous."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It thundered; others, An angel spake to him\u2014some hearing only a sound, others an articulate, but to them unintelligible voice.",
+            "some hearing only a sound, others an articulate, but to them unintelligible voice.",
+            "an articulate, but to them unintelligible voice."
+        ],
+        "Albert Barnes": [
+            "The unexpected sound of the voice would confound and amaze them.",
+            "Though there is no reason to doubt that the words were spoken distinctly, yet some of the people... would suppose that this was a mere natural phenomenon.",
+            "It was the opinion of many of the Jews that God did not speak to men except by the ministry of angels."
+        ],
+        "John Calvin": [
+            "Some are so deaf, that they hear as a confused sound what God had distinctly pronounced.",
+            "But many are as little affected by the doctrine, as if it only proceeded from a mortal man, and others consider the word of God to be confused and barbarous, as if it were nothing else than thunder.",
+            "The greater part of men, while they hear God, do not hear him though he speak plainly and distinctly."
+        ],
+        "Philip Schaff": [
+            "That a real voice had been heard is obvious from the fact that the words are actually given by the Evangelist.\" ",
+            "John\u2019s object in stating this appears to be his desire to bring still more clearly out the mysterious nature of the voice.",
+            "Jesus understood it. The Evangelist did so too. But \u2018the multitude\u2019 felt only that God was there."
+        ],
+        "Archibald T. Robertson": [
+            "That it had thundered (\u03b2\u03c1\u03bf\u03bd\u03c4\u03b7\u03bd \u03b3\u03b5\u03b3\u03bf\u03bd\u03b5\u03bd\u03b1). Perfect active infinitive of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 in indirect discourse after \u03b5\u03bb\u03b5\u03b3\u03b5\u03bd and the accusative of general reference (\u03b2\u03c1\u03bf\u03bd\u03c4\u03b7\u03bd, thunder, as in Mark 3:17), 'that thunder came to pass.'",
+            "So the crowd 'standing by' (\u03b5\u03c3\u03c4\u03c9\u03c2, second perfect active participle of \u03b9\u03c3\u03c4\u03b7\u03bc), but Jesus understood his Father's voice.",
+            "An angel hath spoken to him (\u0391\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2 \u03b1\u03c5\u03c4\u03c9 \u03bb\u03b5\u03bb\u03b1\u03bb\u03b7\u03ba\u03b5\u03bd). Perfect active indicative of \u03bb\u03b1\u03bb\u03b5\u03c9. So, when Jesus spoke to Saul on the way to Damascus, those with Saul heard the voice, but did not understand (Acts 9:7; Acts 22:9)."
+        ],
+        "John Gill": [
+            "Some took this for thunder, and others for the voice of an angel out of the thunder.",
+            "Perceived it was an articulate voice, which expressed certain distinct words.",
+            "The Jews had a mighty notion of the discourse and conversation of angels with men."
+        ],
+        "John Wesley": [
+            "In the most glorious revelations there may remain something obscure, to exercise our faith.",
+            "Thunder did frequently attend a voice from heaven. Perhaps it did so now."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some heard words, but did not apprehend their meaning. Others heard only a sound, but no words. It seemed that this difference in perception was not a matter of chance, but rather an indication of each individual\u2019s inner connection to Christ. To some, it seemed like thunder, while others believed that an angel was speaking to Him. The crowd standing by could only hear a sound or an articulate, but unintelligible voice. Jesus, on the other hand, understood His Father's voice. It is intriguing how the same message could be received so differently by people, some hearing it clearly while others remained deaf to its meaning.",
+            "wordCount": 108,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 2.1343043528862253,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.31,
+            "commentatorTierSimilarities": [
+                39.03,
+                31.71,
+                29.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some heard words but did not understand, while others heard only a sound or an unintelligible voice. The difference in perception seemed to be related to each person's inner relationship with Christ, rather than mere chance. Some thought it was thunder, others believed an angel was speaking. The crowd standing by could only hear a sound or an articulate but unintelligible voice, while Jesus understood His Father's voice. It is fascinating to see how the same message can be received so differently by individuals.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.0521955520896915,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.58,
+            "commentatorTierSimilarities": [
+                37.35,
+                32.37,
+                30.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some heard words but did not apprehend their meaning, while others heard only a sound, like thunder or an angel's voice. The varying understanding of the voice seems to be tied to each person's inner relation to Christ. The crowd standing by only perceived a sound or an articulate but unintelligible voice, whereas Jesus understood His Father's voice. It is remarkable how the same message can be received so differently, with some hearing it clearly while others remain ignorant of its significance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.2398185694296773,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.81,
+            "commentatorTierSimilarities": [
+                38.46,
+                31.41,
+                30.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The perception of the voice in John 12:29 differed among the people. Some heard words but did not understand their meaning, while others heard only a sound, like thunder or the voice of an angel. This discrepancy in perception appears to be related to each individual's inner relationship with Christ. Interestingly, the crowd standing by could only discern a sound or an articulate but unintelligible voice, whereas Jesus alone comprehended His Father's voice. It is fascinating how the same message can be received so distinctly by different people.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.002276218433073,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                36.53,
+                34.45,
+                29.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some heard words but did not apprehend their meaning. Others heard a sound, but no words. It seems that the difference in perception was not fortuitous, but rather proportioned to each person's inner relation to Christ. Some thought it thundered, others believed an angel spoke. The crowd standing by heard only a sound or an articulate but unintelligible voice. Jesus, however, understood His Father's voice. The same message can be received so differently, some hearing it clearly while others remain deaf to its meaning.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.0982983046206183,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                41.06,
+                30.52,
+                28.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

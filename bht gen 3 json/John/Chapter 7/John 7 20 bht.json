@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:08:00",
+    "verseRef": "John 7:20",
+    "bestBHT": {
+        "bht": "The multitude, not the rulers, questioned Jesus, showing their ignorance of the plot against Him. They believed His claims of people seeking to kill Him were the result of derangement or madness, not realizing the truth. The term devil or demon was applied to Him by the multitude, not those He addressed previously. It is important to distinguish the groups present: the Jewish leaders, the Galilean multitude, the common people of Jerusalem, and the Roman soldiers. This misunderstanding by the people highlights the guilt of the Jews and emphasizes the need for caution in forming opinions about unknown matters.",
+        "wordCount": 99,
+        "quoteTokenProportion": 32.84,
+        "qualityScore": 1.9034056681685367,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+        "commentatorTierSimilarities": [
+            37.12,
+            35.48,
+            27.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The multitude, not the rulers, replied this.",
+            "Their question, 'Who seeketh to kill thee?' shews their ignorance of the purpose of their rulers.",
+            "It would not now be their policy to represent Him as possessed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou hast a devil: who goeth about to kill thee?",
+            "The multitude... were not in the secret of the plot hatching.",
+            "Our Lord knew [the plot that was] against Him."
+        ],
+        "Albert Barnes": [
+            "Thou hast a devil - Thou art deranged or mad.",
+            "As they saw no effort to kill him, and as they were ignorant of the designs of the rulers, they supposed that this was the effect of derangement.",
+            "They supposed that this was the effect of derangement."
+        ],
+        "Marvin Vincent": [
+            "A devil. Or more correctly, a demon.",
+            "The name was applied to Jesus by the multitude and not by those whom He was addressing in ver. 19.",
+            "The same term was applied to John the Baptist, the ascetic, as one who withdrew from social intercourse."
+        ],
+        "John Calvin": [
+            "Thou art mad;... when men are excited to rage, or when they have lost sense and reason, they are tormented by the devil.",
+            "When He treats us with greater harshness and severity, He appears not to strike us with his own hand, but rather to employ the devil as the executioner and minister of his wrath.",
+            "We learn from it that we ought to be exceedingly cautious not to form an opinion about subjects which we do not understand; but, if it ever happens that we are rashly condemned by ignorant men, mildly to digest such an affront."
+        ],
+        "Philip Schaff": [
+            "It is important to observe that this answer is returned by the multitude, not by those to whom John 7:19 is addressed...",
+            "That the people should have thought possession by a demon the only possible explanation of the presence of such a thought in the mind of Jesus places in boldest relief the guilt of \u2018the Jews.\u2019",
+            "To bring this out is probably the explanation of the insertion of a remark for which it is otherwise difficult to account."
+        ],
+        "Archibald T. Robertson": [
+            "It is important in this chapter to distinguish clearly the several groups like the Jewish leaders, the multitude from Galilee and elsewhere, the common people of Jerusalem, the Roman soldiers.",
+            "Thou hast a devil. 'Demon,' of course, as always in the Gospels.",
+            "He is a monomaniac labouring under a hallucination that people wish to kill him."
+        ],
+        "John Gill": [
+            "Thou talkest like one of the demoniacs, like a madman, one beside thyself; whom the devil has so much power over, and has so deprived of thy senses, that thou knowest not what thou sayest.",
+            "They could not believe that any man, or body of men, would be so wicked, as to attempt to take away the life of so harmless a person, and who did so much good both to the bodies and souls of men."
+        ],
+        "John Wesley": [
+            "Thou hast a devil \u2014 A lying spirit.",
+            "Who seeketh to kill thee?",
+            "These, coming from distant parts, probably did not know the design of the priests and rulers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The multitude, not the rulers, questioned Jesus, showing their ignorance of the plot against Him. They believed that His claims of people seeking to kill Him were the result of derangement or madness, not realizing the truth of the situation. The term devil or demon was applied to Him by the multitude, not the specific group addressed in the previous verse. It is important to distinguish the various groups present, including the Jewish leaders, the Galilean multitude, the common people of Jerusalem, and the Roman soldiers. This misunderstanding by the people highlights the guilt of the Jews and emphasizes the need for caution when forming opinions about things we do not fully understand. The fact that the people thought possession by a demon was the only explanation for Jesus' words further underscores their ignorance.",
+            "wordCount": 134,
+            "quoteTokenProportion": 32.94,
+            "qualityScore": 1.925286804832015,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                35.67,
+                36.71,
+                27.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The multitude, not the rulers, replied to Jesus, revealing their ignorance of the plot against Him. They believed His claims to be driven by derangement, unaware of the truth. Devil or demon was ascribed to Him by the multitude, not those He addressed previously. It is crucial to differentiate the various groups present, including Jewish leaders, Galilean multitude, Jerusalem's common people, and Roman soldiers. Their misunderstanding exposes the guilt of the Jews and highlights the need for caution in forming opinions about unknown matters.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.8543924550570012,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                36.97,
+                36.68,
+                26.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The multitude, not the rulers, questioned Jesus, showing their ignorance of the plot against Him. They believed that His claims of people seeking to kill Him were the result of derangement or madness, not realizing the truth of the situation. The term devil or demon was applied to Him by the multitude, not the specific group addressed in the previous verse. It is important to distinguish the various groups present, including the Jewish leaders, the Galilean multitude, the common people of Jerusalem, and the Roman soldiers. This misunderstanding by the people highlights the guilt of the Jews and emphasizes the need for caution when forming opinions about things we do not fully understand.",
+            "wordCount": 113,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.8820382065553787,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                35.82,
+                36.14,
+                28.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The multitude, not the rulers, questioned Jesus, showing their ignorance of the plot against Him. They believed His claims of people seeking to kill Him were the result of derangement or madness, not realizing the truth. The term devil or demon was applied to Him by the multitude, not those He addressed previously. It is important to distinguish the groups present: the Jewish leaders, the Galilean multitude, the common people of Jerusalem, and the Roman soldiers. This misunderstanding by the people highlights the guilt of the Jews and emphasizes the need for caution in forming opinions about unknown matters.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.9034056681685367,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                37.12,
+                35.48,
+                27.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The multitude, not the rulers, questioned Jesus, unaware of the plot against Him. They believed His claims of people seeking to kill Him were due to derangement, not understanding the reality. The term devil or demon, used by the multitude, distinguished Him, who did good, from John the Baptist. It is vital to differentiate the various groups present, such as the Jewish leaders, the Galilean multitude, the people of Jerusalem, and the Roman soldiers. Their misunderstanding accentuates the Jews' guilt and cautions against hasty judgments on matters beyond our comprehension.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8541698172302121,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                37.43,
+                34.83,
+                27.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

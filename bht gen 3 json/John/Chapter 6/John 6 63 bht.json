@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:07:36",
+    "verseRef": "John 6:63",
+    "bestBHT": {
+        "bht": "Jesus made it clear that the flesh, in and of itself, is unhelpful in giving life; it is only the Spirit that has the power to vivify the spirit of man. His discourse emphasized the significance of the spiritual nature of His words, describing them as spirit and life. By interpreting His words solely in this spiritual sense, we can understand that they possess the ability to communicate God's life to the soul. To truly partake of this life-giving power, we must approach His words with faith and spiritual understanding.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.372156315348766,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.21,
+        "commentatorTierSimilarities": [
+            32.47,
+            31.28,
+            36.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is only the Spirit that can vivify the spirit of man; the flesh can profit nothing towards this.",
+            "He does not say \u2018My Flesh profiteth nothing,\u2019 but \u2018the flesh.\u2019 To make Him say this, as the Swiss anti-sacramentalists do, is to make Him contradict His own words.",
+            "The words that I have spoken... are spirit and life:\u2014spirit, not flesh only:\u2014living food, not carnal and perishable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Much of His discourse was about 'flesh'; but flesh as such, mere flesh, could profit nothing, much less impart that life which the Holy Spirit alone communicates to the soul.\" ",
+            "The whole burden of the discourse is 'spirit,' not mere flesh, and 'life' in its highest, not its lowest sense, and the words I have employed are to be interpreted solely in that sense."
+        ],
+        "Albert Barnes": [
+            "My doctrine is spiritual; it is fitted to quicken and nourish the soul. It is from heaven.",
+            "Your doctrine or your views are earthly, and may be called flesh, or fleshly, as pertaining only to the support of the body.",
+            "They are not to be understood literally, as if you were really to eat my flesh, but they are to be understood as denoting the need of that provision for the soul which God has made by my coming into the world."
+        ],
+        "John Calvin": [
+            "Whoever confines his whole attention to the earthly nature of the flesh will find in it nothing but what is dead; but they who shall raise their eyes to the power of the Spirit, which is diffused over the flesh, will learn from the actual effect and from the experience of faith, that it is not without reason that it is called quickening.\" (Quote 1)",
+            "It profiteth not, if it be estimated by its origin and nature; for the seed of Abraham, which is in itself subject to death, does not bestow life, but receives from the Spirit its power to feed us; and, therefore, on our part also, that we may be truly nourished by it, we must bring the spiritual mouth of faith.\" (Quote 2)",
+            "He calls his word life, from its effect, as if he had called it quickening; but shows that it will not be quickening to any but those who receive it spiritually, for others will rather draw death from it.\" (Quote 3)"
+        ],
+        "Philip Schaff": [
+            "It is the spirit that maketh to live; the flesh profiteth nothing.",
+            "The words that live spoken unto you, they are spirit, and they are life.",
+            "His words received by faith bring Himself."
+        ],
+        "Archibald T. Robertson": [
+            "The breath of God and the life of God is in these words of Jesus.",
+            "Never man spoke like Jesus.",
+            "There is life in his words today."
+        ],
+        "John Gill": [
+            "It is the Spirit of God that quickens dead sinners, by entering into them as the spirit of life, and causing them to live.",
+            "It is spiritual eating, or eating the flesh, and drinking the blood of Christ in a spiritual sense, which quickens, refreshes, and comforts the minds of believers.",
+            "The Gospel, and the truths of it, which are the wholesome words of our Lord Jesus Christ, are the means of conveying the Spirit of God, as a spirit of illumination and sanctification, into the hearts of men, and of quickening sinners dead in trespasses and sins."
+        ],
+        "John Wesley": [
+            "The words which I have spoken, they are spirit - Are to be taken in a spiritual sense and, when they are so understood, they are life.",
+            "It is the Spirit - The spiritual meaning of these words, by which God giveth life.",
+            "The flesh - The bare, carnal, literal meaning, profiteth nothing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the life-giving power of the Spirit compared to the flesh. Jesus emphasizes that His words are spirit and life, not mere flesh, for the flesh alone cannot bring forth spiritual life. His words are filled with the breath and life of God, and they continue to hold this life-giving power even today. His doctrine is heavenly, fitting to nourish and quicken the soul. Those who receive and believe in His words receive Christ Himself, finding spiritual refreshment and comfort. It is through the Spirit, not the literal interpretation of the flesh, that dead sinners are quickened and brought to life.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.3735397008148915,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.26,
+            "commentatorTierSimilarities": [
+                31.65,
+                34.04,
+                34.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus taught that the spiritual nature of His words brings life, while the flesh alone is powerless. His words are spirit and life, containing the breath and life of God within them. They continue to possess this life-giving power even today. As believers, we are nourished and refreshed by His words, receiving Christ Himself through faith. It is through the Spirit that dead sinners are quickened and given new life, rather than through a literal understanding of the flesh.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.1386291238676955,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                31.94,
+                32.43,
+                35.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus made it clear that the flesh, in and of itself, is unhelpful in giving life; it is only the Spirit that has the power to vivify the spirit of man. His discourse emphasized the significance of the spiritual nature of His words, describing them as spirit and life. By interpreting His words solely in this spiritual sense, we can understand that they possess the ability to communicate God's life to the soul. To truly partake of this life-giving power, we must approach His words with faith and spiritual understanding.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.372156315348766,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.21,
+            "commentatorTierSimilarities": [
+                32.47,
+                31.28,
+                36.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus teaches that the flesh, on its own, is unprofitable for bringing life. Instead, it is the Spirit that has the power to enliven the spirit of man. His words are described as spirit and life, conveying a spiritual, everlasting nourishment. They hold God's breath and life, even today. Jesus's teaching is not about mere flesh but about the spirit and elevated life. It is through the Spirit, not a literal understanding of the flesh, that dead sinners are given life and nourishment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.3071908381104667,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.05,
+            "commentatorTierSimilarities": [
+                32.98,
+                32.41,
+                34.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus teaches that the flesh alone has no value in bringing spiritual life. His words, however, are described as full of spirit and life, encompassing a deeper, divine meaning. They hold the breath and life of God within them. Even today, His words continue to possess this life-giving power. To truly receive this life, it is necessary to approach His words with faith and spiritual understanding, recognizing that it is the Spirit, not the literal interpretation of the flesh, that quickens and nourishes the soul.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.140081652542621,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+            "commentatorTierSimilarities": [
+                33.32,
+                32.33,
+                34.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

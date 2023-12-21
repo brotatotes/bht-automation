@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:05:09",
+    "verseRef": "John 3:34",
+    "bestBHT": {
+        "bht": "Those who have received and believe in the testimony of Jesus confirm that God is true, while those who reject Him oppose God openly. The Holy Spirit was given without measure to Jesus, enabling Him to speak the words of God with divine authority. God has given the Holy Spirit in His fullness to Christ alone, making Him the exclusive bearer of this divine gift. Therefore, the words of Jesus are not mere human words, but the very words of God Himself.",
+        "wordCount": 82,
+        "quoteTokenProportion": 48.08,
+        "qualityScore": 2.4827087846078353,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.89,
+        "commentatorTierSimilarities": [
+            31.78,
+            31.37,
+            36.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He that hath received His testimony, and believeth Him, hath confirmed, shewn, that God is true who sent Him.",
+            "He that hath not received it and disbelieveth Him, doeth the contrary, and in fact is an open withstander of God.",
+            "The Rabbinical books say that the Holy Spirit was only given to the prophets by measure. This unmeasured pouring of the Spirit on Him [Jesus] accounts for his speaking the words of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God giveth not [to Him] the Spirit by measure.",
+            "It means the entire fulness of divine life and divine power.",
+            "A constant flow and reflow of living power is to be understood."
+        ],
+        "Albert Barnes": [
+            "Whom God hath sent - The Messiah.",
+            "Speaketh the words of God - The truth, or commands of God.",
+            "By measure - Not in a small degree, but fully, completely."
+        ],
+        "John Calvin": [
+            "It is, therefore, God alone who speaks to us by him; and, indeed, we do not assign to the doctrine of Christ all that it deserves, unless we acknowledge it to be divine.",
+            "The meaning is now plain, that the Spirit was not given to Christ by measure, as if the power of grace which he possesses were in any way limited.",
+            "Although God enriches his own people in a variety of ways, this is peculiar to Christ alone, that he has all things in his hand."
+        ],
+        "Philip Schaff": [
+            "The last verse rests on the thought that the words of Jesus are the words of God.",
+            "Every one whom God sends is enabled to speak God\u2019s words words that, for the portion of the revelation he is commissioned to give, are truly God\u2019s words.",
+            "He gives the Spirit not partially, but completely, for the purpose of enabling him who is sent to speak words of God."
+        ],
+        "Archibald T. Robertson": [
+            "God sent his Son and he speaks God's words.",
+            "God has put no limit to the Spirit's relation to the Son.",
+            "God has given the Holy Spirit in his fulness to Christ and to no one else in that sense."
+        ],
+        "John Gill": [
+            "For he whom God hath sent,.... Still meaning Christ, who was sent in human nature, in the likeness of sinful flesh, in the fulness of time; to be the Saviour of the world, of that which was lost, of the chief of sinners; and to preach the glad tidings of the Gospel.",
+            "the whole mind and will of God; and whatever he spoke were as true as the oracles of God, and were such.",
+            "But the Lord Jesus has every, gift of the Spirit, and the fulness of grace in him: he is anointed with the oil of gladness, with the Holy Ghost above his fellows; and has an immeasurable unction of the holy one; which, like the precious oil poured on Aaron, descends from him to the members of his body."
+        ],
+        "John Wesley": [
+            "God giveth not him the Spirit by measure \u2014 As he did to the prophets, but immeasurably. Hence he speaketh the words of God in the most perfect manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have received and believe in the testimony of Jesus confirm that God is true, while those who reject Him oppose God openly. The Holy Spirit was given without measure to Jesus, unlike the prophets who only received a portion. This unmeasured pouring of the Spirit onto Jesus explains His ability to speak the words of God with divine authority. God has given the Holy Spirit to Christ in His fullness, making Him the exclusive bearer of this divine gift. Therefore, when we hear the words of Jesus, we are hearing the very words of God Himself.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.4005919062742995,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.16,
+            "commentatorTierSimilarities": [
+                32.27,
+                31.43,
+                36.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have received and believe in the testimony of Jesus confirm that God is true, while those who reject Him oppose God openly. The Holy Spirit was given without measure to Jesus, explaining His ability to speak God's words without limitation. God has given the Holy Spirit to Christ in His fullness, making Him the exclusive bearer of this divine gift. Therefore, when we hear the words of Jesus, we are hearing the very words of God Himself.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.436631814417926,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.36,
+            "commentatorTierSimilarities": [
+                32.65,
+                31.69,
+                35.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who have received and believe in the testimony of Jesus confirm that God is true, while those who reject Him oppose God openly. The Holy Spirit was given without measure to Jesus, enabling Him to speak the words of God with divine authority. God has given the Holy Spirit in His fullness to Christ alone, making Him the exclusive bearer of this divine gift. Therefore, the words of Jesus are not mere human words, but the very words of God Himself.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.4827087846078353,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.89,
+            "commentatorTierSimilarities": [
+                31.78,
+                31.37,
+                36.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who believe in the testimony of Jesus confirm that God is true. The Holy Spirit was given without measure to Jesus, allowing Him to speak the words of God with divine authority. God has given the Holy Spirit in His fullness to Christ alone, making Him the exclusive bearer of this divine gift. Therefore, the words spoken by Jesus are not mere human words, but the very words of God Himself.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 2.481078534871788,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.84,
+            "commentatorTierSimilarities": [
+                31.93,
+                31.91,
+                36.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He that believes and receives the testimony of Jesus confirms the truth of God. Jesus, uniquely, received the Holy Spirit without measure, allowing Him to speak the words of God with divine authority. This fullness of the Holy Spirit was given exclusively to Christ, making Him the one and only recipient of this divine gift. Therefore, the words spoken by Jesus carry the weight of God Himself, as they are not mere human words, but the very words of the Almighty.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.427554911108899,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.06,
+            "commentatorTierSimilarities": [
+                31.84,
+                30.59,
+                37.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

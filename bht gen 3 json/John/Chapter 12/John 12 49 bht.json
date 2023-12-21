@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:11:25",
+    "verseRef": "John 12:49",
+    "bestBHT": {
+        "bht": "The difference between say and speak emphasizes the content and delivery of Jesus' teachings. His authority comes from the Father's permanent commandment, revealing the divine plan for salvation. His words are not human, but divine, with the power to judge. This warns against elevating human authority above Christ's teachings.",
+        "wordCount": 51,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.5406922213647802,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+        "commentatorTierSimilarities": [
+            25.56,
+            28.2,
+            46.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On the Father giving the Son commandment... There does not appear to be any real difference here, though many have been suggested, between the words say and speak.",
+            "There does not appear to be any real difference here, though many have been suggested, between the words say and speak.",
+            "There does not appear to be any real difference here."
+        ],
+        "Albert Barnes": [
+            "Of myself - John 7:16-18."
+        ],
+        "Marvin Vincent": [
+            "Apo, from, as distinguished from ejk, out of, marks rather the point of departure, while ejk, including this idea, emphasizes the point of departure as the living and impelling source of that which issues forth.",
+            "The best texts read dedeken, the perfect tense, hath given, the result of the gift still abiding.",
+            "The former relating to the substance, and the latter to the form of Jesus' utterances."
+        ],
+        "John Calvin": [
+            "That the outward appearance of man may not lessen the majesty of God, Christ frequently sends us to the Father.",
+            "My word (he says) will judge, because it has not proceeded from man.",
+            "We may likewise infer from it, how monstrous, is the sacrilege of the Pope in daring to bind souls by his inventions; for in this way he claims more for himself than the Son of God does."
+        ],
+        "Philip Schaff": [
+            "Because I spake not of myself; but the Father which sent me, he hath given me a commandment, what I should say, and what I should speak.\" (John 12:49)",
+            "This commandment is the expression of the Divine plan for the salvation of the world.\" (Commentary)",
+            "The combination of 'say' and 'speak' in the last clause is remarkable.\" (Commentary)"
+        ],
+        "Archibald T. Robertson": [
+            "Christ has permanent commission.\" ",
+            "What I should say and what I should speak.\" ",
+            "\u03b5\u03b9\u03c0\u03c9 refers to the content and \u03bb\u03b1\u03bb\u03b7\u03c3\u03c9 more to the varying manner of delivery."
+        ],
+        "John Gill": [
+            "his doctrine was not human, but divine",
+            "he gave me a commandment what I should say, and what I should speak",
+            "the several doctrines he published were delivered him by him"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in consideration speaks to the authority and authenticity of Jesus' teachings. The distinction between say and speak is not significant, but emphasizes the substance and manner of his words. Jesus' commission from the Father is permanent and allows him to speak with divine authority. His words are not of his own, but are a commandment given by the Father, reflecting the divine plan for the salvation of the world. Thus, Jesus' teachings are not human, but divine, and hold the power to judge. These words also serve to caution against any attempt to elevate human authority over the divine authority of Christ's teachings.",
+            "wordCount": 106,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5730271392731763,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                28.72,
+                28.36,
+                42.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The distinction between say and speak in this passage highlights the substance and manner of Jesus' teachings. His authority comes from the permanent commandment given by the Father, reflecting the divine plan for salvation. As His teachings are not of human origin, but divine, they possess the power to judge. This serves as a reminder not to elevate human authority above the authority of Christ's teachings.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.503211904480572,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.32,
+            "commentatorTierSimilarities": [
+                25.28,
+                29.62,
+                45.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The difference between say and speak emphasizes the content and delivery of Jesus' teachings. His authority comes from the Father's permanent commandment, revealing the divine plan for salvation. His words are not human, but divine, with the power to judge. This warns against elevating human authority above Christ's teachings.",
+            "wordCount": 51,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5406922213647802,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+            "commentatorTierSimilarities": [
+                25.56,
+                28.2,
+                46.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The distinction between say and speak reflects the content and manner in which Jesus teaches. Through the permanent commandment given by the Father, Jesus speaks divine words that hold the power to judge. His teachings are not of human origin but are part of the divine plan for salvation. This highlights the caution against placing human authority above the authority of Christ's teachings.",
+            "wordCount": 64,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5181510125537332,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+            "commentatorTierSimilarities": [
+                28.08,
+                30.13,
+                41.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The difference between say and speak in this verse emphasizes the content and manner of Jesus' teachings. His authority comes from the commandment given by the Father, indicating the divine nature of his words. This serves as a reminder not to elevate human authority above the authority of Christ's teachings. By speaking the words given to him by the Father, Jesus' teachings possess the power to judge. This showcases the significance of following the divine plan for salvation rather than relying on human doctrines.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.573424164821011,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                26.18,
+                30.21,
+                43.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

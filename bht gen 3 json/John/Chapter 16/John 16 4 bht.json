@@ -1,0 +1,151 @@
+{
+    "timestamp": "12-21-2023 03:13:18",
+    "verseRef": "John 16:4",
+    "bestBHT": {
+        "bht": "Jesus forewarns his disciples about the trials they will face after his departure, contrasting their knowledge with the ignorance of the world. He wants them to remember what they are suffering for and to be prepared for the challenges ahead. Being forewarned is being forearmed. They must lay up in their minds what they have heard and put it into practice, as they will encounter conflicts and endure suffering. Jesus assures them that these tribulations were appointed by God and foretold by him.",
+        "wordCount": 83,
+        "quoteTokenProportion": 51.61,
+        "qualityScore": 1.5784426769887423,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+        "commentatorTierSimilarities": [
+            17.12,
+            48.09,
+            34.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If we are to seek any contrast, it will be between the 'non-knowledge' of the world, and the 'remembering' of the church.",
+            "The one know not what they are doing: the other know well what they are suffering.",
+            "This declaration, as here meant, was not made before, because He was with them. Then clearly it is now made, in reference to His immediate departure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. these things I said not . . .",
+            "\tat\u2014from. ",
+            "\t",
+            "the beginning\u2014He had",
+            "\tsaid it pretty early (Luke 6:22),",
+            "\tbut not quite as in John 16:2. ",
+            "\t",
+            "because I was with you."
+        ],
+        "Albert Barnes": [
+            "God does not suffer his people to fall into trials without giving them sufficient warning, and without giving all the grace that is needful to bear them.",
+            "He had not so fully apprised them of the fact, the circumstances, and the object of his death and of his ascension to heaven; he had not revealed to them so clearly that the Holy Spirit would descend, and sanctify, and guide them.",
+            "His presence was to them what the presence of the Holy Spirit would be after his death."
+        ],
+        "Marvin Vincent": [
+            "But (to say no more of these things), I have spoken these, etc.",
+            "Properly, from the beginning.\" ",
+            "The phrase only here and John 6:64."
+        ],
+        "John Calvin": [
+            "He repeats what he had already said, that this is not a philosophy fitted only for a season of leisure, but that it is adapted to practice and use.\" ",
+            "He enjoins them, first, to lay up in their minds what they have heard; secondly, to remember them, when they shall be required to put them in practice.",
+            "At that time, therefore, they had no great need of confirmation, while they enjoyed leisure and freedom from persecution; but now he tells them that they must change their mode of life, and as a new condition awaits them, he likewise exhorts them to prepare for a conflict."
+        ],
+        "Philip Schaff": [
+            "The disciples shall so remember that they shall have a fresh insight into the mystery of the Cross.",
+            "There is an hour given them when they shall rage against the preachers of the truth.",
+            "That they would have to take His place, and, in doing so, to find that His trials were their trials, He had never said."
+        ],
+        "Archibald T. Robertson": [
+            "Have I spoken. Solemn repetition.",
+            "When their hour is come. The time appointed for these things.",
+            "Forewarned is to be forearmed."
+        ],
+        "John Gill": [
+            "That since the evil things which he spoke of came upon them, so they might hope, believe, and expect, that all the good things he had assured them of, should be accomplished.",
+            "And also to engage them to bear their sufferings with the greater patience, since they were appointed by God, and foretold by their Lord and master.",
+            "His reason for such a conduct was this, because, says he, I was with you: wherefore he never spoke so fully and distinctly of their troubles because he was with them, and took them upon himself."
+        ],
+        "John Wesley": [
+            "I did not tell you these things at the beginning, because I was with you.\" ",
+            "To bear the chief shock in my own person.",
+            "And to screen you from it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus tells his disciples that he is forewarning them about the trials that they will face once he is gone, in contrast to the ignorance of the world. He wants them to remember and have knowledge of what they are suffering for, as he knows well what they will have to endure. This is a new declaration that Jesus is making in reference to his imminent departure, because he was with them before. He wants them to be prepared for the difficulties that will come their way, as being forewarned will help them be forearmed. Though he had spoken about these things early on, he reminds them again to drive the point home. He wants them to remember and lay up in their minds what they have heard, as they will be required to put them into practice. He wants them to be prepared for the conflicts that they will face and also to bear their sufferings with patience, as they were appointed by God and foretold by him. Jesus did not fully reveal the circumstances and the object of his death and ascension to heaven earlier, as his presence with them was like the presence of the Holy Spirit that would be with them after his departure. He wants them to know that they will be taking his place and that his trials were their trials, which he had not explicitly told them before. So, he is now repeating these things to them so that they can have a fresh insight into the mystery of the Cross and be fully prepared for what lies ahead.",
+            "wordCount": 269,
+            "quoteTokenProportion": 40.16,
+            "qualityScore": 1.7148707187018766,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                13.7,
+                48.47,
+                37.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus forewarns his disciples about the trials they will face after his departure, contrasting their knowledge with the ignorance of the world. He intends for them to remember what they are suffering for, as he understands their burdens. This warning is new in reference to his impending absence, as he had not spoken so explicitly before. Jesus wants them to be prepared for the challenges ahead, taking solace in the fact that being forewarned is being forearmed. He emphasizes the importance of remembering and putting into practice what they have heard, as they will need to face conflicts and endure suffering with patience, all of which were appointed by God and foretold by Jesus himself. Ultimately, Jesus wants them to be equipped to take his place and, in doing so, fully comprehend the mystery of the Cross.",
+            "wordCount": 137,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.632036028094892,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.61,
+            "commentatorTierSimilarities": [
+                14.79,
+                51.2,
+                34.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus forewarns his disciples about the trials they will face after his departure, contrasting their knowledge with the ignorance of the world. He wants them to remember what they are suffering for and to be prepared for the challenges ahead. Being forewarned is being forearmed. They must lay up in their minds what they have heard and put it into practice, as they will encounter conflicts and endure suffering. Jesus assures them that these tribulations were appointed by God and foretold by him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.5784426769887423,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                17.12,
+                48.09,
+                34.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warns his disciples about the trials they will face after he leaves, highlighting the contrast between their understanding and the world's ignorance. He wants them to remember the reasons behind their suffering and to be prepared for the challenges ahead. Being forewarned is being forearmed. Jesus urges them to hold on to what they have heard and put it into practice, as they will encounter conflict and endure suffering. These trials have been appointed by God and were already foretold by Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.5429242675234645,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                17.66,
+                50.08,
+                32.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus forewarns his disciples about the trials they will face after his departure, contrasting their knowledge with the ignorance of the world. He desires them to remember what they are suffering for and to be prepared for the challenges they will encounter. By being forewarned, they can be forearmed. Jesus emphasizes the importance of remembering and putting into practice what they have heard, as they will face conflicts and endure suffering. These trials were appointed by God and already foretold by Jesus.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.5911455877070608,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.25,
+            "commentatorTierSimilarities": [
+                17.56,
+                50.32,
+                32.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

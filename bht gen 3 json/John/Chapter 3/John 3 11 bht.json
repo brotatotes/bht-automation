@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:04:59",
+    "verseRef": "John 3:11",
+    "bestBHT": {
+        "bht": "Jesus, by using the pronouns we and our, emphasizes the unreasonableness of unbelief and the contrast between Himself and those who claim to know but do not truly understand. Through the new birth, believers gain a new vision that imparts eternal life and knowledge of God. Jesus claims personal knowledge of the truths He explains, offering His experience of grace as a qualification for bearing witness. Though some may not receive His doctrine, it remains certain and durable, for the unbelief of men cannot prevent God from remaining true.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 2.0681788657173255,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.11,
+        "commentatorTierSimilarities": [
+            33.82,
+            34.63,
+            31.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We speak that we do know... I am one of those who,\"&c. Our Lord thereby brings out the unreasonableness of that unbelief which would not receive His witness...",
+            "He speaks of Himself and the Spirit.",
+            "He speaks of Himself and the Prophets."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We speak that we know, and . . have seen\u2014that is, by absolute knowledge and immediate vision of God",
+            "The 'we' and 'our' are here used, though Himself only is intended, in emphatic contrast, probably, with the opening words of Nicodemus, 'Rabbi, we know.'",
+            "referring to the class to which Nicodemus belonged, but from which he was beginning to be separated in spirit."
+        ],
+        "Albert Barnes": [
+            "We do not deliver doctrines which we do not practically understand.\" ",
+            "Every successful minister of the gospel thus becomes a witness of the saving power of the gospel.",
+            "Men reject revelation though it is attested by the strongest evidence, and though it is constantly producing the most desirable changes in the hearts and lives of men."
+        ],
+        "Marvin Vincent": [
+            "The new birth imparts a new vision. The man who is born of the Spirit hath eternal life.",
+            "Life eternal is to know God and Jesus Christ whom He hath sent.",
+            "We know, absolutely."
+        ],
+        "John Calvin": [
+            "Christ claims it as peculiar to himself and all the servants of God, that they deliver no doctrine but what is certain.",
+            "Let every man, therefore, see what the Lord has revealed to him, that no man may go beyond the bounds of his faith.",
+            "Though you do not receive my doctrine, it remains nevertheless certain and durable; for the unbelief of men will never prevent God from remaining always true."
+        ],
+        "Philip Schaff": [
+            "The key to the plural is found in John 3:8. Every one who dwells in the spiritual world of which Jesus has been speaking is a witness to its reality and its wonders.\" ",
+            "Jesus now contrasts with these another class, consisting of all who from their own experience could join Him in His testimony to the reality of the spiritual kingdom.",
+            "In John 3:8, where the wind was taken as the emblem of the Spirit, the sense which bore witness was that of hearing. This verse speaks of something more convincing still, the sense of sight."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus simply claims knowledge of what he has tried to make plain to the famous Rabbi without success.\" ",
+            "He is bearing witness from personal knowledge, strange as this may seem to Nicodemus.",
+            "Jesus probably associates here with himself ('we') those who have personal experience of grace and so are qualified as witnesses."
+        ],
+        "John Gill": [
+            "We speak that we do know...and the Holy Spirit that was upon him...he was anointed to preach these things...\" ",
+            "Christ must needs thoroughly, and certainly know what he spoke, since he was not only the omniscient God...",
+            "and testify that we have seen and therefore ought to have been received as a credible witness, as he was a faithful one..."
+        ],
+        "John Wesley": [
+            "We speak what we know \u2014 I and all that believe in me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in referring to Himself using the plural pronouns we and our, emphasizes the unreasonableness of the unbelief that rejects His witness. By speaking in this way, He highlights the contrast between Himself and those who claim to know but do not truly understand. Through the new birth, believers gain a new vision that imparts eternal life and the knowledge of God. Jesus claims personal knowledge of the truths He has been explaining, offering His personal experience of grace as a qualification for bearing witness. Though some may not receive His doctrine, it remains certain and durable, for the unbelief of men cannot prevent God from remaining true.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 2.0364573614207666,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                33.87,
+                35.12,
+                31.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, by using the pronouns we and our, emphasizes the unreasonableness of unbelief and the contrast between Himself and those who claim to know but do not truly understand. Through the new birth, believers gain a new vision that imparts eternal life and knowledge of God. Jesus claims personal knowledge of the truths He explains, offering His experience of grace as a qualification for bearing witness. Though some may not receive His doctrine, it remains certain and durable, for the unbelief of men cannot prevent God from remaining true.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.0681788657173255,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.11,
+            "commentatorTierSimilarities": [
+                33.82,
+                34.63,
+                31.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By using the pronouns we and our, Jesus highlights the contrast between Himself and those who claim to know but don't truly understand. Through the new birth, believers gain a new vision that imparts eternal life and knowledge of God. Jesus claims personal knowledge and experience of the truths He explains, which qualifies Him as a credible witness. Despite some rejecting His doctrine, it remains certain and durable, for the unbelief of men cannot prevent God from remaining true.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.064644811434862,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.99,
+            "commentatorTierSimilarities": [
+                33.4,
+                34.26,
+                32.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By using the pronouns we and our, Jesus emphasizes the unreasonableness of unbelief and highlights the contrast between Himself and those who claim to know but don't understand. The new birth imparts a new vision and eternal life, allowing believers to know God. Jesus claims personal knowledge, offering His experience as a qualification for bearing witness. Despite rejection, His doctrine remains certain and durable, as unbelief cannot prevent God from being true.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.9657604659275014,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                34.86,
+                34.35,
+                30.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in using the pronouns we and our, highlights the unreasonableness of unbelief and the contrast between Himself and those who claim to know but don't truly understand. Through the new birth, believers gain a new vision that imparts eternal life and the knowledge of God. Jesus claims personal knowledge of the truths He explains, offering His experience of grace as a qualification for bearing witness. Despite some rejecting His doctrine, it remains certain and durable, for the unbelief of men cannot prevent God from remaining true.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.054276515621293,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                34.16,
+                34.79,
+                31.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:10:03",
+    "verseRef": "John 10:12",
+    "bestBHT": {
+        "bht": "The false shepherds, compared to hirelings driven by personal gain, do not bear the same concern for the flock as the Shepherd Himself. The wolf represents the great Foe of the sheep, seeking to harm and scatter them. However, faithful under-shepherds share in the Master's concern and guard against hostile intentions. The hireling, on the other hand, cares only for self-preservation and disregards the sheep. Though not faithful to Christ, we should honor the Gospel and its ministers, even as the true shepherd is willing to sacrifice for the Church's salvation.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.9856774292273611,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+        "commentatorTierSimilarities": [
+            35.15,
+            30.52,
+            34.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The false shepherds are here compared to hirelings, i.e. those who serve merely for gain.",
+            "The purposes of this wolf are the same as those of the thief in ver. 10, and in the allegory he is the same;\u2014the great Foe of the sheep of Christ.",
+            "Their chief and father would therefore be the wolf, just as our Lord is the Shepherd."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By this He points to His own peculiar relation to the sheep, the same as His Father's, the great Proprietor and Lord of the flock.\" ",
+            "Though faithful under-shepherds are so in their Master's interest, that they feel a measure of His own concern for their charge.",
+            "Whoever comes upon the flock with hostile intent, in whatever form: though the wicked one, no doubt, is at the bottom of such movements."
+        ],
+        "Albert Barnes": [
+            "The word translated 'hireling' is often employed in a good sense; but here it denotes one who is unfaithful to his trust.",
+            "Especially those ministers who preach only for support, and who are unwilling to encounter any danger or to practice any self-denial for the welfare of the church of God.",
+            "They are those who have no boldness in the cause of their Master, but who, rather than lose their reputation or place, would see the church corrupted and wasted by its spiritual foes."
+        ],
+        "Marvin Vincent": [
+            "His gaze is fixed with the fascination of terror on the approaching wolf.",
+            "His gaze is fixed with the fascination of terror on the approaching wolf.",
+            "But not so much, that did not give me fear A lion's aspect which appeared to me."
+        ],
+        "John Calvin": [
+            "Though such persons do not serve Christ faithfully, yet we ought to hear them; for Christ wished that the Pharisees should be heard, because they sat in Moses \u2019seat, (Matthew 23:2;) and, in like manner, we ought to give such honor to the Gospel, as not to shrink from its ministers, though they be not good men.",
+            "But in his own person he holds out a perfect example, so as to lay down a rule for his ministers. For how base and shameful is our indolence, if our life is more dear to us than the salvation of the Church, which Christ preferred to his own life!",
+            "But it the flock \u2014 as well as the pastor \u2014 be in danger, and if there be reason to believe that the pastor flees, not so much from a desire to promote the public advantage as from a dread of dying, Augustine contends that this is not at all lawful, because the example of his flight will do more injury than his life can do good in future."
+        ],
+        "Archibald T. Robertson": [
+            "The mere 'hireling' does not feel so.",
+            "The cowardly hireling cares naught for the sheep, but only for his own skin.",
+            "And the wolf snatcheth them and scattereth them."
+        ],
+        "John Gill": [
+            "But he that is an hireling, and not the shepherd... by whom are meant, not the faithful ministers of the word... but such who seek only their gain, from their quarter, and mind their own things, and not the things of Jesus Christ.\" ",
+            "such an one 'seeth the wolf coming';... any false prophet, or teacher, who are ravenous wolves; though sometimes in sheep's clothing; or any tyrant, oppressor, or persecutor of the saints.",
+            "and leaveth the sheep;... not such a keeper of the flock as David, who went after the lion and the bear, and when they rose up against him, did not flee, but caught them by the beard and slew them; nor like the Apostle Paul... that truth might continue."
+        ],
+        "John Wesley": [
+            "He is a hireling, who would not work, were it not for the hire; to whom this is the great (if not only) motive of working.",
+            "If a man who works only for hire is such a wretch, a mere thief and a robber, what is he who continually takes the hire, and yet does not work at all?",
+            "The wolf - signifies any enemy who, by force or fraud, attacks the Christian's faith, liberty, or life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The false shepherds in John 10:12 are compared to hirelings, serving only for gain and lacking true concern for the flock. The great Foe of the sheep, the wolf, represents the enemy of Christ, seeking to harm and scatter the sheep. In contrast, Jesus is the Shepherd, holding a special relationship with the sheep as their Proprietor and Lord. The faithful under-shepherds share in His concern for the flock, guarding against any hostile intentions. However, the cowardly hireling cares only for self-preservation, neglecting the sheep. The hireling's gaze is filled with terror upon the approaching wolf, while the true under-shepherd is willing to confront danger for the welfare of the Church. Though not serving Christ faithfully, we should give honor to the Gospel and its ministers. Meanwhile, the hireling seeks personal gain and flees from danger, whereas the true shepherd is ready to lay down their life for the salvation of the Church.",
+            "wordCount": 156,
+            "quoteTokenProportion": 32.97,
+            "qualityScore": 1.9662905498456982,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                33.95,
+                31.13,
+                34.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The false shepherds, compared to hirelings driven by personal gain, do not bear the same concern for the flock as the Shepherd Himself. The wolf represents the great Foe of the sheep, seeking to harm and scatter them. However, faithful under-shepherds share in the Master's concern and guard against hostile intentions. The hireling, on the other hand, cares only for self-preservation and disregards the sheep. Though not faithful to Christ, we should honor the Gospel and its ministers, even as the true shepherd is willing to sacrifice for the Church's salvation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9856774292273611,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                35.15,
+                30.52,
+                34.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The false shepherds are likened to hirelings who serve for personal gain, lacking genuine concern for the flock. The wolf symbolizes the great Foe of the sheep, with hostile intentions to harm and scatter them. In contrast, Jesus is the Shepherd, sharing the same relationship with the sheep as His Father, the true Proprietor and Lord. Unlike the cowardly hireling, faithful under-shepherds feel a measure of the Master's concern for their charge. Though not serving Christ faithfully, we should honor the Gospel and its ministers, even amidst their imperfections.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9569216670505063,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+            "commentatorTierSimilarities": [
+                33.42,
+                32.79,
+                33.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The false shepherds, portrayed as hirelings driven by personal gain, do not bear the same concern for the flock as the Shepherd Himself. The wolf represents the great Foe of the sheep, having hostile intentions to harm and scatter them. However, faithful under-shepherds share in the Master's concern and guard against hostile intentions. The hireling, on the other hand, cares only for self-preservation and disregards the sheep. Though not faithful to Christ, we honor the Gospel and its ministers, even as the true shepherd sacrifices for the Church's salvation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9783300429854416,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                35.09,
+                30.99,
+                33.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The false shepherds are compared to hirelings who serve only for gain and lack genuine concern for the flock. The wolf signifies the great Foe of the sheep, seeking to harm and scatter them. In contrast, Jesus is the Shepherd, sharing the same relationship with the sheep as His Father, the true Proprietor and Lord. Unlike the cowardly hireling, faithful under-shepherds possess a measure of the Master's concern for their charge. Though not serving Christ faithfully, we must honor the Gospel and its ministers, even with their imperfections.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.9513179689199949,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                33.79,
+                32.06,
+                34.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

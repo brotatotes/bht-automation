@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:12:52",
+    "verseRef": "John 15:17",
+    "bestBHT": {
+        "bht": "The purpose of the teaching is to encourage believers to love one another, even in the face of hostility from the world. This love is the truest expression of the Divine and the very essence of existence. It serves as a defensive armor against the world's hatred, especially among ministers who must work together to build up the Church. The command to love one another is of utmost importance and reflects the disciples' common interest in the unchanging love of the Lord, fostering mutual love among the saints.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.0730686515755803,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+        "commentatorTierSimilarities": [
+            24.08,
+            44.11,
+            31.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The object of my enjoining these things on you is...that ye love one another.",
+            "Then from the indefiniteness of this term, one another, our Lord takes occasion to forewarn them that however wide their love...there will be still the world outside, which will hate them.",
+            "There will be still the world outside, which will hate them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17-21. The substance of these",
+            "\timportant verses has occurred more than once before. (See on :-; :-, &amp;c.)."
+        ],
+        "Marvin Vincent": [
+            "That [\u03b9\u03bd\u03b1] . All my teachings are to the end that you should love one another."
+        ],
+        "John Calvin": [
+            "Mutual love among ministers is demanded above all things, that they may be employed, with one accord, in building up the Church of God.",
+            "There is no greater hindrance than when every one labors apart, and when all do not direct their exertions to the common good.",
+            "If ministers do not maintain brotherly intercourse with each other, they may possibly erect some large heaps, but latterly disjointed and confused; and, all the while, there will be no building of a Church."
+        ],
+        "Philip Schaff": [
+            "All the great truths spoken by Jesus are intended to promote that which is the truest expression of the Divine, that which is the real ground and end of all existence love.",
+            "The mutual love of believers is that armour of proof in which they shall be able best to withstand the hatred of the world."
+        ],
+        "Archibald T. Robertson": [
+            "That ye may love one another (\u03b9\u03bd\u03b1 \u03b1\u03b3\u03b1\u03c0\u03b1\u03c4\u03b5 \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2). Repetition of John 13:34; John 15:12. This very night the disciples had been guilty of jealousy and wrangling (Luke 22:24; John 13:5; John 13:15). "
+        ],
+        "John Gill": [
+            "These things I command you...to promote brotherly love among them...\" ",
+            "This lay much upon his heart...it was but right and proper they should love one another...\" ",
+            "Nothing more tend to increase mutual love among the saints, than the consideration of their common interest in the unchangeable love of their Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The purpose of the verse is to exhort believers to love one another. However, Jesus warns that even though their love may extend beyond their immediate circle, there will still be hostility from the world. The teachings of Jesus are ultimately meant to foster this love, which is the truest expression of the Divine and the foundation of existence. This mutual love serves as a strong defense against the world's hatred. It is particularly crucial among ministers to unite their efforts in building up the Church and preventing disjointedness. Jesus commanded the disciples to love one another, emphasizing the significance of this command. The common interest in the unchanging love of the Lord serves as a powerful motivator for believers to cultivate mutual love.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9757950425520159,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                26.12,
+                43.05,
+                30.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of the teaching is to encourage believers to love one another, even in the face of hostility from the world. This love is the truest expression of the Divine and the very essence of existence. It serves as a defensive armor against the world's hatred, especially among ministers who must work together to build up the Church. The command to love one another is of utmost importance and reflects the disciples' common interest in the unchanging love of the Lord, fostering mutual love among the saints.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0730686515755803,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                24.08,
+                44.11,
+                31.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The command to love one another is the central purpose of Jesus' teaching. Despite the wide extent of this love, Jesus warns of the inevitable hatred from the world. Mutual love among believers acts as a strong defense against this hostility. It is especially crucial for ministers to maintain brotherly interaction to build up the Church effectively. The disciples' failure to do so is evident in their jealous and argumentative behavior. However, the unchanging love of the Lord serves as a powerful motivator for believers to cultivate a deep and genuine love for one another.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8017877969680387,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                25.86,
+                41.13,
+                33.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The purpose of Jesus' command is to foster love among believers. Although this love may extend beyond their immediate circle, the world's hostility remains. The teachings of Jesus are aimed at promoting this love, which is the truest expression of the Divine. This mutual love functions as a reliable defense against the world's hatred. Among ministers, it is essential to maintain brotherly interaction to effectively build up the Church. The disciples' failure to do so is evident in their jealousy and arguments. The unchanging love of the Lord inspires believers to nurture a deep love for one another.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8199283724629347,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                24.47,
+                43.65,
+                31.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command to love one another reflects the core of Jesus' teachings. Though believers' love may extend beyond their immediate circle, they will still encounter hatred from the world. This love, the truest expression of the Divine, acts as an armor against the world's animosity. Among ministers, mutual love is crucial in building up the Church and preventing fragmentation. Neglecting brotherly fellowship can hinder the growth of the Church. The command to love one another is of utmost importance, as believers share a common interest in the unwavering love of the Lord.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9779750512545633,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.11,
+            "commentatorTierSimilarities": [
+                24.82,
+                41.59,
+                33.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:06:10",
+    "verseRef": "John 5:14",
+    "bestBHT": {
+        "bht": "The knowledge of our Lord extended even to the sin committed thirty-eight years ago, from which this long sickness had resulted. Jesus, there Himself for His own ends, 'findeth him there'\u2014not all accidentally, be assured. This admonition teaches us that all the evils which we endure ought to be imputed to our sins, for the afflictions of men are not accidental, but are so many stripes for our chastisement. Sin no more. No longer continue to sin. Jesus thus shows His knowledge that the sickness was the result of sin.",
+        "wordCount": 92,
+        "quoteTokenProportion": 48.39,
+        "qualityScore": 2.2984900308387854,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+        "commentatorTierSimilarities": [
+            32.24,
+            27.86,
+            39.9
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The knowledge of our Lord extended even to the sin committed thirty-eight years ago, from which this long sickness had resulted...",
+            "The some worse thing, as Trench observes, \u2018gives us an awful glimpse of the severity of God\u2019s judgments;\u2019",
+            "See Matt. xii. 45."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Jesus, there Himself for His own ends, 'findeth him there'\u2014not all accidentally, be assured.",
+            "A glimpse this of the reckless life he had probably led before his thirty-eight years' infirmity had come upon him.",
+            "Fearful illustration this of 'the severity of God,' but glorious manifestation of our Lord's insight into 'what was in man'."
+        ],
+        "Albert Barnes": [
+            "There is nothing more improper, when we are raised up from a bed of pain, than to forget God our benefactor, and neglect to praise him for his mercies.",
+            "No man who indulges in vice can tell what may be its consequences. It must always end in evil, and not unfrequently it results in loss of health, and in long and painful disease.",
+            "The only way of safety in all such cases is to 'sin no more;' not to be in the way of temptation; not to expose ourselves; not to touch or approach that which came near to working our ruin."
+        ],
+        "Marvin Vincent": [
+            "Sin no more [\u03bc\u03b7\u03ba\u03b5\u03c4\u03b9 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b1\u03bd\u03b5] . No longer continue to sin.\" ",
+            "Jesus thus shows His knowledge that the sickness was the result of sin.\" ",
+            "A worse thing. Than even those thirty - eight years of suffering."
+        ],
+        "John Calvin": [
+            "This admonition teaches us also, that all the evils which we endure ought to be imputed to our sins; for the afflictions of men are not accidental, but are so many stripes for our chastisement.",
+            "When he charges him, sin no more, he does not enjoin him to be free from all sin, but speaks comparatively as to his former life; for Christ exhorts him henceforth to repent, and not to do as he had done before.",
+            "Let us also learn that no punishments are so rigorous and severe, that the Lord cannot make additions to them whenever he pleases."
+        ],
+        "Philip Schaff": [
+            "After these things Jesus findeth him in the temple courts.",
+            "There is no reason to doubt that he had gone there for purposes of devotion, having recognized the Divine deliverance.",
+            "The words of Jesus imply much more than the general connection of sin and suffering; they show that in this case the sickness had in some way been the result and the punishment of sin."
+        ],
+        "Archibald T. Robertson": [
+            "Sin no more (\u03bc\u03b7\u03ba\u03b5\u03c4 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b1\u03bd\u03b5). 'No longer go on sinning.' Present active imperative with \u03bc\u03b7\u03ba\u03b5\u03c4, a clear implication that disease was due to personal sin as is so often the case.",
+            "All sickness is not due to personal sin (John 9:3), but much is and nature is a hard paymaster. Jesus is here living up to his name (Matthew 1:21).",
+            "Lest a worse thing befall thee (\u03b9\u03bd\u03b1 \u03bc\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03bd \u03c3\u03bf \u03c4 \u03b3\u03b5\u03bd\u03b7\u03c4\u03b1). Negative final clause with second aorist middle subjunctive of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1. \u03a7\u03b5\u03b9\u03c1\u03bf\u03bd is comparative of \u03ba\u03b1\u03ba\u03bf\u03c2, bad. Worse than the illness of 38 years, bad as that is. He will now be sinning against knowledge."
+        ],
+        "John Gill": [
+            "Sin is a disease, which is original, natural, and hereditary to men [...] and what is mortal and incurable in itself, and only to be cured by the great physician, Jesus Christ.\" ",
+            "The grace of God teaches men to deny sin, and to live righteously; and though it cannot be thought that they should be, and act without sin, yet it becomes them not to live in sin, or go on in a course of it, as heretofore.",
+            "Apply this to a good man, a converted man, one called by grace and cured by Christ, and a worse thing through sin may come unto him than a bodily disorder, namely, the hidings of God's face; for as his presence is life, his absence is death, to such persons."
+        ],
+        "John Wesley": [
+            "Sin no more \u2014 It seems his former illness was the effect or punishment of sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The knowledge of our Lord extended even to the sin committed thirty-eight years ago, from which this long sickness had resulted. Jesus, there Himself for His own ends, 'findeth him there'\u2014not all accidentally, be assured. This admonition teaches us that all the evils which we endure ought to be imputed to our sins, for the afflictions of men are not accidental, but are so many stripes for our chastisement. Sin no more. No longer continue to sin. Jesus thus shows His knowledge that the sickness was the result of sin.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.2984900308387854,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+            "commentatorTierSimilarities": [
+                32.24,
+                27.86,
+                39.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The knowledge of our Lord extended even to the sin committed thirty-eight years ago, from which this long sickness had resulted. Jesus, there Himself for His own ends, 'findeth him there'\u2014not all accidentally, be assured. This admonition teaches us that all the evils which we endure ought to be imputed to our sins, for the afflictions of men are not accidental, but are so many stripes for our chastisement. Sin no more. No longer continue to sin. Jesus thus shows His knowledge that the sickness was the result of sin.",
+            "wordCount": 92,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.2984900308387854,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+            "commentatorTierSimilarities": [
+                32.24,
+                27.86,
+                39.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' knowledge extended to the sin committed years ago, which resulted in the long sickness. He found the man in the temple courts, implying recognition of divine deliverance. This teaches us that all our afflictions should be attributed to our sins, as they serve as chastisement. Sin no more means to cease continuing in sin. Jesus knew the sickness was the result of sin, emphasizing the connection between sin and suffering.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.2752428530337356,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.99,
+            "commentatorTierSimilarities": [
+                30.2,
+                31.9,
+                37.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, knowing the sin committed years ago, found the man in the temple courts, indicating recognition of divine deliverance. This teaches us that our afflictions are often consequences of our sins and serve as chastisement. Sin no more entails ceasing to continue in sin. The connection between sin and suffering is evident as Jesus understood the sickness was a result of sin.",
+            "wordCount": 62,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 2.2767384282522105,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.04,
+            "commentatorTierSimilarities": [
+                28.66,
+                31.82,
+                39.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, knowing even sins committed years ago, found the man in the temple courts, signifying recognition of divine deliverance. This teaches us that our afflictions are often consequences of our sins and serve as chastisement. Sin no more means to cease continuing in sin. The connection between sin and suffering is evident, as Jesus understood that the sickness was a result of sin.",
+            "wordCount": 63,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.271252991061335,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.86,
+            "commentatorTierSimilarities": [
+                28.23,
+                32.19,
+                39.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

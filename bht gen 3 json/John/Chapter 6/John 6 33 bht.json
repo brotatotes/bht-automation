@@ -1,0 +1,150 @@
+{
+    "timestamp": "12-21-2023 03:07:25",
+    "verseRef": "John 6:33",
+    "bestBHT": {
+        "bht": "The bread of God is the divine substance that comes down from heaven to give life. Referring to Jesus himself, this bread is the means of support provided by God and is necessary for all mankind. Like the manna that fed the Israelites, this bread offers life to the world and all of God's elect. Through Christ, the bread of God, we find the source of eternal life, a life that is near and does not require us to seek it elsewhere.",
+        "wordCount": 83,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 2.5507408087559673,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.15,
+        "commentatorTierSimilarities": [
+            29.88,
+            31.33,
+            38.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The bread of God is that (not He) which cometh, &c.",
+            "The manna is still kept in view, which 'when the dew fell on the camp.... fell (the Greek word in the LXX is the same as here, came down) upon it,' Num. xi. 9.",
+            "And the present tense, here used in reference to the manna, is dropped when the Lord Himself is spoken of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the bread of God is he.\" ",
+            "Divine, spiritual, and eternal its ordained Fountain and essential Substance, 'Him who came down from heaven to give it.'\" ",
+            "That Eternal Life which was with the Father and was manifested unto us."
+        ],
+        "Albert Barnes": [
+            "The bread of God - The means of support which God furnishes. That which, in his view, is needful for man.",
+            "Is he ... - Is the Messiah who has come from heaven.",
+            "And giveth life ... - See the notes at John 1:4."
+        ],
+        "Marvin Vincent": [
+            "He which cometh down... that which, referring to artov, bread.\" ",
+            "Jesus does not identify Himself with the bread until ver. 35."
+        ],
+        "John Calvin": [
+            "The heavenly bread is that which hath come down from heaven to give life to the world.\" ",
+            "This passage teaches that the whole world is dead to God, except so far as Christ quickens it, because life will be found nowhere else than in him.",
+            "In the coming down from heaven two things are worthy of observation; first, that we have a Divine life in Christ, because he has come from God to be the Author of life to us; secondly, that the heavenly life is near us, so that we do not need to fly above the clouds or to cross the sea."
+        ],
+        "Philip Schaff": [
+            "The \u2018bread of God\u2019 is the bread which God gives... The expressions in John 6:50; John 6:58 do not decide the point; for after John 6:35 the descent from heaven might with equal propriety be connected either with the bread or with Him whom the bread symbolized.",
+            "On the whole, however, it seems best to carry on the thought of the bread in this verse... But if the figure is still continued in this verse, it is only a thin veil that conceals the truth.",
+            "The last word is very significant. The manna had been for \u2018the fathers;\u2019 the true bread is for the world... The unlimited offer also recalls chap. John 4:14, \u2018Whosoever hath drunk of the water that I will give him;\u2019 and in both cases the result is the same."
+        ],
+        "Archibald T. Robertson": [
+            "The bread of God. All bread is of God",
+            "(Matthew 6:11). The manna came down from heaven",
+            "(Numbers 11:9) as does this bread.\" ",
+            "Refers to the bread (\u03bf \u03b1\u03c1\u03c4\u03bf\u03c2, masculine). Bernard",
+            "notes that this phrase (coming down) is used seven",
+            "times in this discourse.",
+            "Chrysostom observes that the manna gave nourishment",
+            "(\u03c4\u03c1\u03bf\u03c6\u03b7), but not life (\u03b6\u03c9\u03b7). This is a most",
+            "astounding statement to the crowd."
+        ],
+        "John Gill": [
+            "For the bread of God is he which cometh down from heaven...and which clearly points out Christ himself...\" ",
+            "and this not to a few only, or to the Israelites only, but to the Gentiles also, and even to the whole world of God's elect.\" ",
+            "of such extensive virtue and efficacy is Christ, the bread of God, in which he appears greatly superior to that manna the Jews instance in."
+        ],
+        "John Wesley": [
+            "He that \u2014 giveth life to the world - Not (like the manna) to one people only: and that from generation to generation.",
+            "Our Lord does not yet say, I am that bread; else the Jews would not have given him so respectful an answer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The bread of God is not a person, but rather the divine, spiritual, and eternal substance that comes down from heaven to give life. This bread, which refers to Jesus himself, is the means of support that God furnishes and is needful for all of mankind. It is significant that Jesus does not identify himself with the bread until later in the discourse, highlighting the distinction between the two. Just as the manna came down from heaven to nourish the Israelites, so does this bread come down to offer life to the world and to all of God's elect. It is through Christ, the bread of God, that we find the source of eternal life, a life that is near to us and does not require us to seek it elsewhere.",
+            "wordCount": 132,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.4877320439676938,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.06,
+            "commentatorTierSimilarities": [
+                29.7,
+                31.41,
+                38.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The bread of God is the divine, spiritual substance that comes down from heaven to give life. This bread, referring to Jesus himself, is the means of support provided by God and is needful for all mankind. Just as the manna came down from heaven to nourish the Israelites, so does this bread come down to offer life to the world and God's elect. Through Christ, the bread of God, we find the source of eternal life, a life near to us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.539185250464852,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.77,
+            "commentatorTierSimilarities": [
+                30.26,
+                31.25,
+                38.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The bread of God is the divine substance that comes down from heaven to give life. Referring to Jesus himself, this bread is the means of support provided by God and is necessary for all mankind. Like the manna that fed the Israelites, this bread offers life to the world and all of God's elect. Through Christ, the bread of God, we find the source of eternal life, a life that is near and does not require us to seek it elsewhere.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.5507408087559673,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.15,
+            "commentatorTierSimilarities": [
+                29.88,
+                31.33,
+                38.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The bread of God is the divine substance that comes down from heaven. This bread is not a person, but rather the means of support provided by God and necessary for mankind. Just as the manna sustained the Israelites, this bread offers life to the world and God's elect. Through Christ, the bread of God, we find the source of eternal life, a life that is near to us and does not require us to seek it elsewhere.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.471043217642234,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.5,
+            "commentatorTierSimilarities": [
+                29.84,
+                31.28,
+                38.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The bread of God is the divine, spiritual substance that comes down from heaven to give life. Referring to Jesus himself, this bread is the means of support provided by God and is necessary for all mankind. Like the manna that nourished the Israelites, this bread offers life to the world and to all of God's elect. Through Christ, the bread of God, we find the source of eternal life, a life that is near to us and does not require us to seek it elsewhere.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.5243785896377506,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.28,
+            "commentatorTierSimilarities": [
+                29.79,
+                31.36,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

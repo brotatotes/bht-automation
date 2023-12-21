@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:10:55",
+    "verseRef": "John 12:13",
+    "bestBHT": {
+        "bht": "The crowd's use of palm branches and their cry of Hosanna is a triumphant homage to Jesus as the coming Messiah and King. This act of praise acknowledges Jesus' victory over sin, Satan, the world, and death. The palm branches signify joy and victory, honoring Jesus as a victor or king. The word Hosanna expresses their recognition that Jesus brings salvation. It is a declaration that Jesus will bring joy and peace to all who believe in him.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.5927133343391504,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+        "commentatorTierSimilarities": [
+            30.14,
+            25.66,
+            44.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The having found does not involve any discrepancy with the three Evangelists, but is a compendious term, implying their details.",
+            "The articles shew that the palm trees were on the spot: or perhaps that the custom was usual at such festivities.",
+            "The having found does not involve any discrepancy with the three Evangelists, but is a compendious term, implying their details."
+        ],
+        "Marvin Vincent": [
+            "The articles are commonly explained as marking the trees which were by the wayside on the route of the procession.",
+            "Hosanna. Meaning O save!",
+            "Blessed. A different word from the blessed of Matthew 5:3. This is the perfect participle of the verb eujlogew, to speak well of, praise, hence our eulogy. Matthew's word applies to character; this to repute."
+        ],
+        "John Calvin": [
+            "The palm was the emblem of victory and peace among the ancients.",
+            "By this phrase they testified that they acknowledged Jesus Christ to be the Messiah.",
+            "It is God alone who preserves and defends the Church."
+        ],
+        "Philip Schaff": [
+            "We are to understand by the word, therefore, not branches only, but fruit-bearing branches, those from which in due season the fruit would hang.",
+            "Whether we consider them in connection with their place in the psalm or with the typical meaning of the feast, they were peculiarly appropriate to the present moment.",
+            "The Lord, too, appears in the psalm in precisely the same character as that in which we have Him here before us, that of one who has suffered and overcome."
+        ],
+        "Archibald T. Robertson": [
+            "To carry palms was a mark of triumphant homage to a victor or a king.",
+            "Hosanna: Transliteration of the Hebrew word meaning 'Save now.'",
+            "The Messiah was recognized by Martha as the Coming One and is so described by the Baptist."
+        ],
+        "John Gill": [
+            "And as that tree was a sign of joy and victory, they carried branches of it in their hands, as they met the King Messiah.",
+            "By his sufferings and death, he should gain the victory over sin, Satan, the world, and death; and lay a solid foundation for joy and peace to all that believe in him.",
+            "Hosanna, blessed is the King of Israel, that cometh in the name of the Lord."
+        ],
+        "John Wesley": [
+            "Psalm 118:26; Mark 11:8; Luke 19:36."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crowd's use of palm branches and their cry of Hosanna in John 12:13 is a symbolic act of triumphant homage to Jesus as the coming Messiah and King. The word Hosanna means O save! and expresses their recognition that Jesus is the one who brings salvation. The carrying of palm branches was a customary practice to honor a victor or king. This act of praise acknowledges Jesus' victory over sin, Satan, the world, and death. It is a declaration that Jesus is the one who will bring joy and peace to all who believe in him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.569334671535713,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                33.44,
+                26.37,
+                40.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowd's use of palm branches and their cry of Hosanna in this passage is a symbolic act of triumphant homage to Jesus as the coming Messiah and King. This act of praise acknowledges Jesus' victory over sin, Satan, the world, and death. The palm branches are a customary practice to honor a victor or king, signifying joy and victory. The word Hosanna expresses their recognition that Jesus is the one who brings salvation. It is a declaration that Jesus is the one who will bring joy and peace to all who believe in him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6088726488005536,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.84,
+            "commentatorTierSimilarities": [
+                30.43,
+                27.56,
+                42.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowd's use of palm branches and their cry of Hosanna is a triumphant homage to Jesus as the coming Messiah and King. This act of praise acknowledges Jesus' victory over sin, Satan, the world, and death. The palm branches signify joy and victory, honoring Jesus as a victor or king. The word Hosanna expresses their recognition that Jesus brings salvation. It is a declaration that Jesus will bring joy and peace to all who believe in him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.5927133343391504,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                30.14,
+                25.66,
+                44.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crowd's use of palm branches and their cry of Hosanna is a compendious term, implying their details, as they acknowledge Jesus as the coming Messiah and King. This act of triumphant homage, common in festivities, signifies victory and peace. The word Hosanna expresses the crowd's plea for salvation, praising Jesus' repute and character. By carrying palms, they honor Jesus as a victor or king and testify to his recognition as the Coming One described by John the Baptist and Martha.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.7071487799424283,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.1,
+            "commentatorTierSimilarities": [
+                34.74,
+                29.31,
+                35.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowd's use of palm branches and their cry of Hosanna is a compendious term, implying their details, as they acknowledge Jesus as the coming Messiah and King. This act of triumphant homage signifies victory and peace. The word Hosanna expresses the crowd's plea for salvation, praising Jesus' repute and character. By carrying palms, they honor Jesus as a victor or king and testify to his recognition as the Coming One described by John the Baptist and Martha.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.689552369578276,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.52,
+            "commentatorTierSimilarities": [
+                33.98,
+                28.29,
+                37.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

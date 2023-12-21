@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:13:36",
+    "verseRef": "John 16:23",
+    "bestBHT": {
+        "bht": "Jesus comforts his disciples by telling them that a time will come when they will no longer need to question or inquire of him, but can ask the Father directly in his name. This future time refers to the fulfillment of Christian hope, when doubts will be resolved and prayer will give way to praise. Through the presence of the Holy Spirit, believers can confidently approach God, knowing that whatever is asked in Christ's name will be granted abundantly by the Father, beyond their prayers.",
+        "wordCount": 86,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 2.051583220202245,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+        "commentatorTierSimilarities": [
+            23.96,
+            36.08,
+            39.97
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that day, in its full meaning, cannot import the forty days...but that great completion of the Christian's hope, when he shall be with his Lord, when all doubt shall be resolved, and prayer shall be turned into praise.",
+            "The Resurrection-visiting, and the Pentecost-visiting of them, were but foretastes of this.",
+            "asking the Father in Christ's name, is in fact asking HIM."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23-28. In that day\u2014of the",
+            "\tdispensation of the Spirit (as in :-). ",
+            "\t",
+            "ye shall ask\u2014inquire of",
+            "\t",
+            "me nothing\u2014by reason of",
+            "\tthe fulness of the Spirit's teaching (John 14:26;",
+            "\tJohn 16:13; and compare John 16:13- :)."
+        ],
+        "Albert Barnes": [
+            "While he was with them they had been accustomed to depend on him for the supply of their wants, and in a great degree to propose their trials to him, expecting his aid.",
+            "They had not sought to God through him as the Mediator, but they had directly applied to the Saviour himself.",
+            "He now tells them that henceforward their requests were to be made to God in his name, and that he, by the influences of his Spirit, would make known to them what Jesus would himself do if bodily present."
+        ],
+        "Marvin Vincent": [
+            "Ye shall ask me no question... Note, moreover, the selection of the word here as marking the asking on familiar terms.\" (45 words)",
+            "Here the sense is, if ye shall make any request... this word for asking the Father marks the asking of an inferior from a superior.\" (39 words)",
+            "If ye shall ask anything of the Father, He will give it you in my name. Not only is the prayer offered, but the answer is given in Christ's name.\" (29 words)"
+        ],
+        "John Calvin": [
+            "They were at that time so slow that the slightest difficulty of any kind made them hesitate...but soon afterwards, having been enlightened by the Holy Spirit, they no longer had any thing to prevent them from becoming familiarly acquainted with the wisdom of God.\"  ",
+            "He informs them that the Spirit is not promised in such a manner that they to whom He is promised may wait for him in sloth and inactivity, but, on the contrary, that they may be earnestly employed in seeking the grace which is offered.\" ",
+            "He declares that he will at that time discharge the office of Mediator, so that whatever they shall ask he will obtain for them from the Father abundantly, and beyond their prayers."
+        ],
+        "Archibald T. Robertson": [
+            "Ye shall ask me nothing (\u03b5\u03bc\u03b5 \u03bf\u03c5\u03ba \u03b5\u03c1\u03c9\u03c4\u03b7\u03c3\u03b5\u03c4\u03b5).",
+            "Either in the sense of question (original meaning of \u03b5\u03c1\u03c9\u03c4\u03b1\u03c9) as in verses John 16:19; John 16:30 since he will be gone or in the sense of request or favours (like \u03b1\u03b9\u03c4\u03b5\u03c9 in this verse) as in John 14:16; Acts 3:2.",
+            "If ye shall ask (\u03b1\u03bd \u03c4 \u03b1\u03b9\u03c4\u03b7\u03c3\u03b7\u03c4\u03b5). Third-class condition, \u03b1\u03bd like \u03b5\u03b1\u03bd with first aorist active subjunctive of \u03b1\u03b9\u03c4\u03b5\u03c9. Note John 14:26 for 'in my name.'"
+        ],
+        "John Gill": [
+            "In that day ye shall ask me nothing...but the time when Christ, and his apostles, should meet again, and see each other's faces with joy and pleasure, is meant; and the time following thereon, especially the day of Pentecost, when the Spirit was poured down upon them, and, according to his promise, came to them, taught them all things, and led them into all truth.",
+            "Asking here signifies prayer, and a different word is here used than before. The object of prayer is the Father, though not to the exclusion of the Son and Spirit...The medium of access to the Father is the name of Christ; he is the Mediator between God and man, the way of access unto him...",
+            "Whatever is asked, is to be asked on account of his blood, righteousness, and sacrifice, and then there is no doubt of success; whatever is asked will be given; his blood within the vail speaks loud for every blessing; his righteousness, God is always pleased with; his sacrifice is a sweet smelling savour: his mediation is powerful; and his name is always prevalent."
+        ],
+        "John Wesley": [
+            "Ye shall not question me about any thing \u2014 Which you do not now understand. You will not need to inquire of me; for you will know all things clearly.",
+            "Whatsoever ye shall ask \u2014 Knowledge, love, or any thing else, he will give it - Our Lord here gives us a charte blanche.",
+            "Believer, write down what thou wilt. He had said, John 14:13, I will do it, where the discourse was of glorifying the Father through the Son. Here, speaking of the love of the Father to believers, he saith, He will give it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 16:23, Jesus speaks to his disciples about a future time when they will no longer need to question or inquire of him, but can instead ask the Father directly in his name. This time refers to the coming of the Holy Spirit and the fullness of the Christian hope, when doubts will be resolved and prayer will turn into praise. It signifies a new dispensation of the Spirit, where believers can make requests to God through Christ as the Mediator. The medium of access is the name of Christ, as he is the way to the Father. Whatever is asked in his name and for the sake of his blood, righteousness, and sacrifice will be given by the Father abundantly and beyond our prayers. Believers are invited to make their requests known to God, confident that He will give it according to His love for them.",
+            "wordCount": 147,
+            "quoteTokenProportion": 42.53,
+            "qualityScore": 1.900894196119228,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                23.63,
+                36.56,
+                39.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reassures his disciples that in the future, they will no longer need to question or inquire of him, but can ask the Father directly in his name. This refers to the coming of the Holy Spirit and the fulfillment of Christian hope. The Spirit's presence will make clear what Jesus would do if physically present. Believers can approach the Father through Christ as the Mediator, praying in his name. Whatever is asked in Christ's name, according to his blood, righteousness, and sacrifice, will be given abundantly and beyond our prayers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8135653393916207,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.64,
+            "commentatorTierSimilarities": [
+                24.65,
+                35.41,
+                39.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus assures his disciples that a time will come when they no longer need to question or inquire of him, as they will be able to ask the Father directly in his name. This points to the fulfillment of Christian hope, when doubts will be resolved and prayer will be turned into praise. Through the Holy Spirit's presence, believers can make their requests known to God, with the assurance that whatever is asked in Christ's name will be given by the Father abundantly, surpassing their prayers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.0459907151169094,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+            "commentatorTierSimilarities": [
+                24.49,
+                36.35,
+                39.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus comforts his disciples by telling them that a time will come when they will no longer need to question or inquire of him, but can ask the Father directly in his name. This future time refers to the fulfillment of Christian hope, when doubts will be resolved and prayer will give way to praise. Through the presence of the Holy Spirit, believers can confidently approach God, knowing that whatever is asked in Christ's name will be granted abundantly by the Father, beyond their prayers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.051583220202245,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+            "commentatorTierSimilarities": [
+                23.96,
+                36.08,
+                39.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse in John 16:23 speaks of a future time when believers will no longer need to question or inquire of Jesus, but can ask the Father directly in his name. This time, which is characterized by the arrival of the Holy Spirit, represents the completion of the Christian hope and the resolution of doubts. By praying and making requests to the Father through Christ as the Mediator, believers can be assured that their needs will be met abundantly, as Christ's name holds tremendous power and influence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8086905920798992,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                24.76,
+                33.24,
+                41.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

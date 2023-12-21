@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-21-2023 03:07:59",
+    "verseRef": "John 7:42",
+    "bestBHT": {
+        "bht": "The mention of the question about Bethlehem in this reinforces the belief that the author was aware of the truth, rather than implying ignorance. The author's main purpose was not to offer explanations of matters already known but to convey the fact that Jesus came out of Galilee and Bethlehem, fulfilling both prophecy and historical fact. This ignorance of Jesus' birthplace belongs to the Jews, not to the author of the Gospel.",
+        "wordCount": 73,
+        "quoteTokenProportion": 35.56,
+        "qualityScore": 2.6844556237172195,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.6,
+        "commentatorTierSimilarities": [
+            54.87,
+            0.0,
+            45.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The mention of the question about Bethlehem seems to me rather to corroborate our belief that the Evangelist was well aware how the fact stood, than, as some have said, to imply that he was ignorant of it.",
+            "St. John had one great design in writing his gospel, and does not allow it to be interfered with by explanations of matters otherwise known.",
+            "If St. John knew nothing of it, and yet the Mother of the Lord lived with him, the inference must be that she knew nothing of it,\u2014in other words, that it never happened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We accept this spontaneous testimony to our David-descended, Bethlehem-born Saviour.",
+            "Had those who gave it made the inquiry which the case demanded, they would have found that Jesus 'came out of Galilee' and 'out of Bethlehem' both, alike in fulfilment of prophecy as in point of fact.",
+            "Jesus came out of Galilee and out of Bethlehem, fulfilling both prophecy and historical fact."
+        ],
+        "Archibald T. Robertson": [
+            "This ignorance of the fact that Jesus was actually born in Bethlehem belongs to the Jews, not to John the author of the Gospel."
+        ],
+        "John Gill": [
+            "The Messiah should be David's son, as Jesus of Nazareth was.",
+            "In vain it is for them to expect the Messiah from thence, where none of their nation live, nor have lived, for many hundreds of years.",
+            "Now these very things they object to Jesus being the Messiah, were what were fulfilled in him, and proved him to be the person."
+        ],
+        "John Wesley": [
+            "From Bethlehem \u2014 And how could they forget that Jesus was born there? Had not Herod given them terrible reason to remember it? Micah 5:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some commentators argue that the mention of the question about Bethlehem in John 7:42 only solidifies the belief that the author, St. John, was well aware of the truth and does not allow other explanations to interfere with his main purpose in writing the gospel. They assert that if St. John truly knew nothing about Jesus being born in Bethlehem, it would imply that even the Mother of the Lord knew nothing about it. However, Jesus did come both out of Galilee and out of Bethlehem, fulfilling both prophecy and historical fact. The ignorance of this fact belongs to the Jews, not to John the author of the Gospel.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.748515570144601,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.73,
+            "commentatorTierSimilarities": [
+                54.42,
+                0.0,
+                45.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some argue that the mention of the question about Bethlehem in the given verse only proves that the author, St. John, was well aware of the truth. It is believed that St. John's main purpose in writing the gospel was not to offer explanations of matters already known. Jesus came out of both Galilee and Bethlehem, fulfilling prophecy and historical fact. The ignorance of this fact belongs to the Jews, not to John the author of the Gospel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.5709944374288147,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.83,
+            "commentatorTierSimilarities": [
+                57.23,
+                0.0,
+                42.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of the question about Bethlehem in the given text only confirms the belief that the author was aware of the truth, rather than implying ignorance. The author's main purpose was not to offer unnecessary explanations, but to convey the fact that Jesus came out of Galilee and Bethlehem, fulfilling both prophecy and historical fact. This ignorance of Jesus' birthplace belongs to the Jews, not to the author of the Gospel.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.659301412916688,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.76,
+            "commentatorTierSimilarities": [
+                54.41,
+                0.0,
+                45.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of the question about Bethlehem in this passage corroborates the belief that the author was well aware of the truth, rather than implying ignorance. The author's main purpose was not to offer explanations of matters already known but to convey the fact that Jesus came out of Galilee and Bethlehem, fulfilling both prophecy and historical fact. This ignorance of Jesus' birthplace belongs to the Jews, not to the author of the Gospel.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 2.736871656944754,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.34,
+            "commentatorTierSimilarities": [
+                54.69,
+                0.0,
+                45.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of the question about Bethlehem in this reinforces the belief that the author was aware of the truth, rather than implying ignorance. The author's main purpose was not to offer explanations of matters already known but to convey the fact that Jesus came out of Galilee and Bethlehem, fulfilling both prophecy and historical fact. This ignorance of Jesus' birthplace belongs to the Jews, not to the author of the Gospel.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 2.6844556237172195,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.6,
+            "commentatorTierSimilarities": [
+                54.87,
+                0.0,
+                45.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

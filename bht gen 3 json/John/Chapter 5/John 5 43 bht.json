@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:06:41",
+    "verseRef": "John 5:43",
+    "bestBHT": {
+        "bht": "The Jews have a long history of rejecting the true testimony and teachings of God, instead embracing false messiahs who come in their own name. From Jesus' time until today, there have been numerous impostors who have deceived the Jewish people. This pattern of rejecting the authentic and accepting the counterfeit has been continuously observed. It serves as a reminder that those who prefer falsehood over truth become susceptible to the deceitful tactics of Satan.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.825831471482641,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+        "commentatorTierSimilarities": [
+            38.56,
+            24.08,
+            37.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The testimony of that Other, who is greater than I, ye will not receive; but if another come in his own name, him ye will receive.",
+            "The words are perhaps spoken primarily of the false or Idol-Messiah, the Antichrist, who shall appear in the latter days.",
+            "Their final reference, embrace also all the cases in which the Jews have more or less received those false Messiahs who have been foreshadowers of the great Antichrist."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From the time of the true Christ to our time, sixty-four false Christs have been reckoned by whom they have been deceived\" [BENGEL].",
+            "How strikingly has this been verified in the history of the Jews!\" [BENGEL].",
+            "If another shall come... How strikingly has this been verified in the history of the Jews!\" [BENGEL]."
+        ],
+        "Albert Barnes": [
+            "I am come in my Father's name - By the authority of God; or giving proof that I am sent by him.",
+            "If another shall come in his own name - A false teacher setting up himself, and not even pretending to have a divine commission.",
+            "Ye will receive - You will follow, or obey him as a teacher."
+        ],
+        "John Calvin": [
+            "No man is exposed to the impostures of Satan, except so far as, through some wicked disposition, he prefers falsehood to truth.",
+            "Though it ought to be observed that here Christ speaks chiefly of those whom God peculiarly enlightened, as he bestowed on the Jews this privilege, that, having been instructed in his Law, they might keep the right way of salvation.",
+            "For it is certain that God never shuts the door to those who knock, never disappoints those who sincerely pray to him, justly, therefore, does Paul ascribe it to the vengeance of God, when the power of deceiving is given to Satan."
+        ],
+        "Philip Schaff": [
+            "Because that was His spirit, they did not receive Him.",
+            "If a man come in the opposite spirit to that displayed by Jesus, setting forth himself alone, seeking his own ends, and guided by no will but his own, though all under the guise of promoting the glory of God, such a man they will be able to understand.",
+            "This is a terrible description of those who were then the rulers of \u2018God\u2019s people Israel: \u2018but, alas! the words apply with perfect fitness to the spirit which in every age of the history of Christ\u2019s Church has contended against God whilst professing to do Him service."
+        ],
+        "Archibald T. Robertson": [
+            "Seven times Jesus in John speaks of the 'Name' of the Father.\" ",
+            "'And yet ye do not receive me,' as in verse John 5:40, 'the Gospel of the Rejection.'\" ",
+            "These Messianic upstarts all come 'in their own name' and always find a following."
+        ],
+        "John Gill": [
+            "Christ came not of himself, of his own accord, by a separate power and will of his own, but was called, and sent, and came by mutual agree meat; and brought his credentials with him.\" ",
+            "they rejected him as the Messiah, and would not receive him as such; yea, traduced him as an impostor, and a deceiver",
+            "to observe, that though they were so backward to receive, and so much prejudiced against the true Messiah, they were always forward enough to embrace a false one"
+        ],
+        "John Wesley": [
+            "If another shall come \u2014 Any false Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Throughout history, the Jews have been known to reject the true testimony and teachings of God, instead opting to follow false messiahs who come in their own name. This tendency is seen in the countless instances where they fell for the deceit of impostors who claimed to be the Messiah. From the time of Jesus until now, there have been numerous false Christs who have deceived the Jews. Sadly, this pattern of rejecting the genuine and accepting the counterfeit has been consistently observed among God's chosen people. It is a solemn reminder that when individuals are inclined towards falsehood and seek their own self-interests, they become susceptible to the manipulations and temptations of Satan.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 2.0042879400757165,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.98,
+            "commentatorTierSimilarities": [
+                36.86,
+                25.32,
+                37.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Throughout history, the Jews have been deceived by false messiahs who come in their own name, while rejecting the true testimony of God. From Jesus' time till now, there have been many impostors who gained followers among the Jews. This pattern of rejecting the genuine and accepting the counterfeit has been consistently observed. It serves as a stark reminder that those who are inclined towards falsehood and seek their own interests become vulnerable to the deceptions of Satan.",
+            "wordCount": 78,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.7947188963937601,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                39.2,
+                24.1,
+                36.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews have a long history of rejecting the true testimony and teachings of God, instead embracing false messiahs who come in their own name. From Jesus' time until today, there have been numerous impostors who have deceived the Jewish people. This pattern of rejecting the authentic and accepting the counterfeit has been continuously observed. It serves as a reminder that those who prefer falsehood over truth become susceptible to the deceitful tactics of Satan.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.825831471482641,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                38.56,
+                24.08,
+                37.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews have continually rejected the genuine testimony of God while embracing false messiahs who come in their own name. From Jesus' era to the present, they have been deceived by numerous impostors, a sad testament to their inclination towards falsehood over truth. This recurring pattern emphasizes the vulnerability of those who prioritize their self-interests and succumb to the manipulative tactics of Satan. It stands as a cautionary reminder that choosing counterfeit leaders hinders one from receiving the true teachings of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7810996347721204,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+            "commentatorTierSimilarities": [
+                35.9,
+                26.62,
+                37.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews have a history of rejecting God's true testimony, opting instead for false messiahs who come in their own name. Throughout the ages, they have been deceived by countless impostors, illustrating their preference for falsehood over truth. This pattern serves as a cautionary tale, highlighting the vulnerability of those who prioritize self-interests and fall prey to Satan's manipulative schemes. It reminds us of the consequences that arise when people choose to reject the genuine teachings of God and instead embrace counterfeit leaders.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.7343397982010447,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                35.46,
+                27.3,
+                37.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

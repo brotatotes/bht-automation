@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:05:59",
+    "verseRef": "John 5:3",
+    "bestBHT": {
+        "bht": "In this narrative, Jesus encounters a man described as withered or afflicted by a loss of strength in his limbs. This man was counted among the impotent who gathered at a pool, hoping for a miraculous healing when the waters stirred. Though the addition of the stirring waters and miraculous cures finds no support in the text, it symbolizes the longing for divine intervention. The presence of such miracles during times of deprivation reminded the people that God had not forsaken them and revealed His power to alleviate suffering.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.6419388952027862,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+        "commentatorTierSimilarities": [
+            23.58,
+            37.75,
+            38.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "withered] Those who were afflicted with the loss of vital power in any of their limbs by stiffness or paralysis.",
+            "Of this kind was the man on whom the miracle was wrought."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. impotent\u2014infirm."
+        ],
+        "Albert Barnes": [
+            "Impotent folk - Sick people; or people who were weak and feeble by long disease.\" ",
+            "Halt - Lame.",
+            "Moving of the water - It appears that this pool had medicinal properties only when it was 'agitated' or 'stirred.'"
+        ],
+        "Marvin Vincent": [
+            "Impotent. The A.V. gives the literal meaning, people without strength.",
+            "Wyc., languishing.",
+            "Wyc., dry."
+        ],
+        "John Calvin": [
+            "About the time of Christ\u2019s coming, as they were deprived of the Prophets and their condition was very wretched, and as various temptations pressed upon them on every hand, they needed this extraordinary aid, that they might not think that God had entirely left them, and thus might be discouraged and fall away.",
+            "God saw it to be advantageous to deprive them of the Prophets, and to keep them in suspense for a time, that they might be inflamed with a stronger desire for Christ, and might receive him with greater reverence, when he should be manifested to them.",
+            "For nothing is more magnificent than when an unwonted power of God corrects and restores the defects of nature; and nothing is more beautiful or more delightful than when, through his boundless goodness, he relieves the distresses of men."
+        ],
+        "Philip Schaff": [
+            "The well-intentioned gloss was not long in finding its way into the text; and, once there, it gave the weight of the apostle\u2019s sanction to a statement which really represents only the popular belief.",
+            "It will be seen that, when the unauthorised addition is removed, there is nothing in the text to support the impression that wonderful cures were actually wrought.",
+            "The phenomena are those of an intermittent spring; and the various circumstances described, the concourse of sick, the eager expectation, the implicit faith in the healing virtue of the waters and in the recurring supernatural agency, find too many parallels in history to make it necessary to suppose that there was any supernatural virtue in the pool."
+        ],
+        "Archibald T. Robertson": [
+            "In these five porches.",
+            "Lay...withered.",
+            "The oldest and best manuscripts omit... 'waiting for the moving of the water.'"
+        ],
+        "John Gill": [
+            "Who are enfeebled by sin, and are impotent and unable to do anything of themselves.",
+            "Blind to everything that is spiritual; as to the true knowledge of God in Christ, the way of salvation by Him.",
+            "Destitute of the grace of God, without faith, hope, love, knowledge, and the fear of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the story, Jesus encounters a man who had been withered or afflicted by the loss of strength in his limbs. The man was among the impotent who gathered at the pool, hoping for a miraculous healing when the waters were stirred. The commentators suggest that the reference to the moving of the water was likely a later addition, as there is no evidence to support the belief that cures were actually performed. The pool itself was likely a natural intermittent spring, and its phenomena, along with the faith and eagerness of the sick, find parallels in historical cases. The presence of such miracles during this time of deprivation served to show the people that God had not completely abandoned them. This account highlights the power of God to correct the defects of nature and to alleviate the sufferings of humanity. It also serves as a metaphor for spiritual conditions, as it describes individuals who are enfeebled by sin, blind to spiritual matters, and lacking in the grace of God.",
+            "wordCount": 170,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.545536468440328,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.73,
+            "commentatorTierSimilarities": [
+                19.5,
+                36.91,
+                43.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this narrative, Jesus encounters a man described as withered or afflicted by a loss of strength in his limbs. This man was counted among the impotent who gathered at a pool, hoping for a miraculous healing when the waters stirred. Though the addition of the stirring waters and miraculous cures finds no support in the text, it symbolizes the longing for divine intervention. The presence of such miracles during times of deprivation reminded the people that God had not completely forsaken them, while also emphasizing God's ability to alleviate human suffering.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6304415307523041,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.55,
+            "commentatorTierSimilarities": [
+                23.69,
+                37.38,
+                38.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Jesus encounters a man who is described as withered, suffering from a loss of strength in his limbs. This man was among a group referred to as the impotent, gathering at a pool in hopes of being healed when the waters were stirred. Although the belief in the pool's curative powers lacks evidence, it signifies the people's desire for divine intervention. These miracles served as a reminder that God had not abandoned them completely and demonstrated His ability to alleviate human suffering.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5629447445359956,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                22.58,
+                38.63,
+                38.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this narrative, Jesus encounters a man described as withered or afflicted by a loss of strength in his limbs. This man was counted among the impotent who gathered at a pool, hoping for a miraculous healing when the waters stirred. Though the addition of the stirring waters and miraculous cures finds no support in the text, it symbolizes the longing for divine intervention. The presence of such miracles during times of deprivation reminded the people that God had not forsaken them and revealed His power to alleviate suffering.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.6419388952027862,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                23.58,
+                37.75,
+                38.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, Jesus encounters a man described as withered, suffering from a loss of strength in his limbs. This man was among a group referred to as the impotent, gathering at a pool in hopes of being healed when the waters were stirred. Although the belief in the pool's curative powers lacks evidence, it signifies the people's desire for divine intervention. These miracles served as a reminder that God had not abandoned them completely and demonstrated His ability to alleviate human suffering.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5642126113107682,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.35,
+            "commentatorTierSimilarities": [
+                22.96,
+                38.53,
+                38.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

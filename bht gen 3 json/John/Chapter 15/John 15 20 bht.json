@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:13:02",
+    "verseRef": "John 15:20",
+    "bestBHT": {
+        "bht": "Jesus instructs His disciples to remember His words and the inevitable truth that if they persecuted Him, they will also persecute His followers. The verb persecuted signifies a swift and hostile pursuit, involving harassment and maltreatment. Although the world may commend Jesus's teachings, it hesitates to fully embrace them. The disciples are called to recognize their role in following Jesus, facing the same duties and trials as their Master. They must remember and be prepared for the opposition they may encounter, as the world's response will mirror the treatment Jesus received.",
+        "wordCount": 93,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.6702054653197882,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+        "commentatorTierSimilarities": [
+            27.86,
+            39.01,
+            33.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Remember the saying, for it is true in this matter also.",
+            "The keeping My word and the keeping yours are intimately joined.",
+            "When you find the world or any part of the world do the first, you may infer the other."
+        ],
+        "Albert Barnes": [
+            "Remember the word that I said ... - At their first appointment to the apostolic office. See Matthew 10:24-25."
+        ],
+        "Marvin Vincent": [
+            "The verb [persecuted] means originally to put to flight; thence to run swiftly in order to overtake or attain, as the goal or the competitor in the race.",
+            "Hence to pursue with hostile intent, and, generally, to molest, harass, persecute.",
+            "Thus Wyc, Matthew 5:44, for men pursuing you."
+        ],
+        "John Calvin": [
+            "Remember the word. It is a confirmation of what Christ had spoken immediately before, when he said that he was hated by the world, though he was far more excellent than his disciples.",
+            "Nothing gives greater uneasiness to the godly than when they see the doctrine, which is of God, haughtily despised by men; for it is truly shocking and dreadful, and the sight of it might shake the stoutest heart.",
+            "Christ is the only Teacher of the Church; but he intended that his doctrine, of which he had been the first Teacher, should be afterwards preached by the apostles."
+        ],
+        "Philip Schaff": [
+            "A servant is not greater than his lord: if they persecuted me, they will persecute you also; if they kept my word, they will keep yours also.",
+            "The disciples are in the position of their Master, are one with Him; therefore are they bound to the same duties and exposed to the same trials.",
+            "Lying at the bottom of all the language here employed is the great truth that what He has been they are to be."
+        ],
+        "Archibald T. Robertson": [
+            "Remember (\u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03b5\u03c5\u03b5\u03c4\u03b5). Present active imperative of \u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03b5\u03c5\u03c9, old verb from \u03bc\u03bd\u03b7\u03bc\u03c9\u03bd, in John again in John 16:4; John 16:21. See John 13:16 for this word.",
+            "If they persecuted me (\u03b5 \u03b5\u03bc\u03b5 \u03b5\u03b4\u03b9\u03c9\u03be\u03b1\u03bd). Condition of first class. They certainly did persecute (first aorist active of \u03b4\u03b9\u03c9\u03ba\u03c9, to chase like a wild beast like the Latin persequor, our 'persecute') Jesus (John 5:16). They will persecute those like Jesus.",
+            "The world does praise the word of Jesus, but dreads to follow it."
+        ],
+        "John Gill": [
+            "The servant is not greater than the Lord: nor so great, and consequently not more, nor so much deserving of respect, or to be treated in a better manner.",
+            "Christ was their Lord and master, as he was, and they were his servants; and therefore were not greater than him, but much inferior to him, and could not expect better usage from men than he had.",
+            "If they have persecuted me...they will persecute you...if they have kept my saying...they will keep yours also."
+        ],
+        "John Wesley": [
+            "John 13:16; Matthew 10:24; Luke 6:40."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus tells his disciples, Remember the saying, for it is true in this matter also, he is emphasizing the intimate connection between keeping His word and keeping their own. The verb persecuted implies a swift pursuit with hostile intent, encompassing both harassment and persecution. Just as the world pursued Jesus, it will also pursue those who follow in His footsteps. While the world may praise the word of Jesus, it is reluctant to fully embrace and follow it. The disciples are reminded that they are in the same position as their Master, bound to the same duties and exposed to the same trials. They are to remember and be prepared for the opposition they may face, as Jesus warned that the world's response would reflect the treatment He received.",
+            "wordCount": 131,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 1.7189278594636908,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.5,
+            "commentatorTierSimilarities": [
+                29.77,
+                39.58,
+                30.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus instructs His disciples to remember His words and the inevitable truth that if they persecuted Him, they will also persecute His followers. The verb persecuted signifies a swift and hostile pursuit, involving harassment and maltreatment. Although the world may commend Jesus's teachings, it hesitates to fully embrace them. The disciples are called to recognize their role in following Jesus, facing the same duties and trials as their Master. They must remember and be prepared for the opposition they may encounter, as the world's response will mirror the treatment Jesus received.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6702054653197882,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+            "commentatorTierSimilarities": [
+                27.86,
+                39.01,
+                33.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus reminds His disciples to remember the saying that if they persecuted Him, they will also persecute His followers. The verb persecuted implies a hostile pursuit and harassment. Jesus emphasizes the connection between keeping His word and their own, highlighting their shared destiny. The world may praise His teachings but hesitates to fully embrace and follow them. The disciples are called to understand that they will face the same trials as their Master. They must be prepared for opposition, just as Jesus experienced.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6605107445344913,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.55,
+            "commentatorTierSimilarities": [
+                29.63,
+                38.8,
+                31.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this verse, Jesus urges His disciples to remember that if they persecuted Him, they will also persecute His followers. The verb persecuted suggests a swift and hostile pursuit, including harassment. Although the world may praise Jesus's teachings, it is hesitant to fully embrace and follow them. The disciples are reminded that they are bound to the same duties and trials as their Master. They must be prepared for opposition, as the world's response will mirror the treatment Jesus received.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.673582097199453,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                28.21,
+                38.51,
+                33.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus tells His disciples to remember that if they persecuted Him, they will also persecute His followers. The verb persecuted implies a swift and hostile pursuit, involving harassment. Though the world may praise Jesus's teachings, it hesitates to fully embrace and follow them. The disciples are called to recognize their shared destiny with their Master, facing the same duties and trials. They must be prepared for opposition, as the world's response will reflect the treatment Jesus received.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.6175089611789484,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                28.61,
+                38.07,
+                33.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:06:02",
+    "verseRef": "John 5:6",
+    "bestBHT": {
+        "bht": "In an act of compassion, Jesus approached the man who had suffered for thirty-eight years and asked him if he desired to be made whole. This question was not meant to question the man's willingness, but rather to stir his hope for a cure and draw the attention of the witnesses. It showcased Jesus' supernatural knowledge and His ability to heal. By engaging the man in this dialogue, Jesus deepened his awareness of his desperate need for healing and demonstrated His profound desire to bring restoration.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.6872189049333515,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+        "commentatorTierSimilarities": [
+            36.18,
+            27.22,
+            36.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord did not thus appeal to his hearers\u2019 prejudices, and make His grace dependent on them.",
+            "The question is one of those by which He so frequently testified his compassion, and established (so to speak) a point of connexion between the spirit of the person addressed, and His own gracious purposes.",
+            "Possibly it may have conveyed to the mind of the poor cripple the idea that at length a compassionate person had come, who might put him in at the next troubling of the water."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He doubtless visited the spot just to perform this cure, so He knows where to find His patient, and the whole previous history of his case.",
+            "Could anyone doubt that a sick man would like to be made whole, or that the patients came thither, and this man had returned again and again, just in hope of a cure? But our Lord asked the question.",
+            "To fasten attention upon Himself...By making him detail his case to deepen in him the feeling of entire helplessness;...By so singular a question to beget in his desponding heart the hope of a cure."
+        ],
+        "Marvin Vincent": [
+            "He hath already much time.",
+            "Jesus appeals to the energy of his will.",
+            "Sound."
+        ],
+        "John Calvin": [
+            "Wilt thou be made whole? He does not inquire about it, as if it were a doubtful matter, but partly in order to kindle in the man a desire of the favor which was offered to him.",
+            "Partly to quicken the attention of the witnesses who were present, and who...might not have perceived the miracle.",
+            "For these two reasons, therefore, this preparation was necessary."
+        ],
+        "Philip Schaff": [
+            "The first movement is altogether on the side of Jesus.\" ",
+            "His knowledge of the case is by direct intuition, not the result of inquiry.\" ",
+            "There is no broad separation made between bodily and spiritual healing."
+        ],
+        "Archibald T. Robertson": [
+            "How Jesus 'knew' we are not told, whether supernatural knowledge or observation or overhearing people's comments.\" ",
+            "In \u03b7\u03b4\u03b7 \u03b5\u03c7\u03b5 we have a progressive present active indicative, 'he has already been having much time'.\" ",
+            "Predicate nominative \u03c5\u03b3\u03b9\u03b7\u03c2 with \u03b3\u03b5\u03bd\u03b5\u03c3\u03b8\u03b1 (second aorist middle infinitive). It was a pertinent and sympathetic question."
+        ],
+        "John Gill": [
+            "the words may be literally rendered, as they are in the Vulgate Latin and Syriac versions, 'that he had had much time'",
+            "He had his disorder eight and thirty years, and which seems from John 5:14 to have arisen from some sin of his, from a vicious course of living, perhaps intemperance.",
+            "he saith unto him, wilt thou be made whole? which question is put, not as if it was a doubt, whether he was desirous of it, or not; but partly to raise in the man an expectation of a cure, and attention in the people to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in His compassionate nature, posed a question to the man who had been sick for thirty-eight years. He did not seek to make His grace conditional on the man's desires or circumstances, but rather used this question to establish a connection with him and demonstrate His desire to heal. By asking the man if he wanted to be made whole, Jesus aimed to deepen the man's sense of helplessness, foster hope for a cure, and draw the attention of those present. Jesus' supernatural knowledge of the man's condition and lengthy illness further emphasized His divine power and ability to heal.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.666595317863885,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                38.19,
+                24.18,
+                37.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With deep compassion, Jesus asked the man who had been suffering for thirty-eight years if he desired to be made whole. Jesus did not inquire about this to doubt the man's willingness, but rather to ignite his longing for the favor that was being offered. Additionally, Jesus wanted to capture the attention of those witnessing the miracle, sparking their awareness of what was about to happen. Through His supernatural knowledge and this poignant question, Jesus showcased His divine power and expressed His genuine desire to bring healing.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.637738273716887,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                36.75,
+                23.27,
+                39.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a display of compassion, Jesus questioned the man who had endured a debilitating illness for thirty-eight years, asking if he desired to be made whole. This inquiry was not meant to question the man's willingness, but rather to stir his anticipation for the miraculous healing that was about to occur. Jesus also aimed to capture the attention of the witnesses, ensuring they recognized the impending miracle. Through His supernatural knowledge and this question, Jesus emphasized His divine power and expressed His sincere desire to bring restoration.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.614089620460068,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.01,
+            "commentatorTierSimilarities": [
+                36.47,
+                24.65,
+                38.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in His compassionate nature, posed a question to the man who had been sick for thirty-eight years. He did not seek to make His grace conditional on the man's desires or circumstances, but rather used this question to establish a connection with him and demonstrate His desire to heal. By asking the man if he wanted to be made whole, Jesus aimed to deepen the man's sense of helplessness, foster hope for a cure, and draw the attention of those present. Jesus' supernatural knowledge of the man's condition and lengthy illness further emphasized His divine power and ability to heal.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.666595317863885,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                38.19,
+                24.18,
+                37.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an act of compassion, Jesus approached the man who had suffered for thirty-eight years and asked him if he desired to be made whole. This question was not meant to question the man's willingness, but rather to stir his hope for a cure and draw the attention of the witnesses. It showcased Jesus' supernatural knowledge and His ability to heal. By engaging the man in this dialogue, Jesus deepened his awareness of his desperate need for healing and demonstrated His profound desire to bring restoration.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6872189049333515,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.44,
+            "commentatorTierSimilarities": [
+                36.18,
+                27.22,
+                36.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

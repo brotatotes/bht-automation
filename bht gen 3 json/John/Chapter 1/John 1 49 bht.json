@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:04:19",
+    "verseRef": "John 1:49",
+    "bestBHT": {
+        "bht": "Nathanael's confession, Thou art the Messiah, surpasses Philip's previous statement, revealing his understanding of Jesus as the Son of God and the King of Israel. This confession emphasizes Jesus' divine nature and His role as the King over His people. By following Nathanael's example and strengthening our own faith through hearing the word, we can fully grasp the significance of Jesus' identity as the Son of God and the spiritual King of Israel.",
+        "wordCount": 76,
+        "quoteTokenProportion": 28.26,
+        "qualityScore": 2.1106612497826998,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.52,
+        "commentatorTierSimilarities": [
+            24.42,
+            38.37,
+            37.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The answer expresses, 'Thou art the Messiah.'\" ",
+            "But as L\u00fccke observes, it was not for the mere use of this Name,\u2014but for using it in a close and literal sense which was unintelligible and appeared blasphemous to them, 'I and My Father are one,'\u2014that they wished to stone Him.",
+            "Nathanael can hardly have meant the name in other than its popular meaning; and the synonymous and better known appellation which he adds, confirms this."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Son of God . . . King of Israel\u2014the one denoting His person, the other His office.",
+            "How much loftier this than anything Philip had said to him!",
+            "Souls, like Nathanael and Thomas, the outgoings of whose faith are hindered for a time, take the start of their more easy-going brethren when loosed and let go."
+        ],
+        "Albert Barnes": [
+            "Rabbi - Master. Applied appropriately to Jesus, and to no one else.",
+            "The Son of God - By this title he doubtless meant that he was the Messiah.",
+            "The King of Israel - This was one of the titles by which the Messiah was expected, and this was the title which was affixed to his cross."
+        ],
+        "John Calvin": [
+            "He holds also another principle, that the Son of God will not come without exercising the office of King over the people of God.",
+            "Faith ought not to be fixed on the essence of Christ alone, but ought to attend to his power and office.",
+            "Following the example of Nathanael, let us exercise our faith in hearing the word, and let us strengthen it by all the means that are in our power."
+        ],
+        "Philip Schaff": [
+            "The confession is the highest that has yet been made, for it is impossible to understand 'Son of God' as the simple equivalent of Messiah.",
+            "It was not merely of a great Deliverer that the prophets had spoken. They had spoken not less of Jehovah Himself as coming, and as coming to be their Deliverer and their King.",
+            "The three confessions have risen as they have succeeded one another. Higher than the last they cannot rise. The Lord himself is come; His kingdom is without limit and without end."
+        ],
+        "Archibald T. Robertson": [
+            "Thou art the Son of God.\" ",
+            "Thou art King of Israel.\" ",
+            "There is no reason for toning down the noble confession."
+        ],
+        "John Gill": [
+            "Thou art the Son of God; not by creation, for this would be to say no more of him, than may be said of every man; nor by adoption, for in that sense Nathanael himself was a Son of God, and many others; nor on account of his wonderful incarnation, which, it is very likely, at this time Nathanael knew nothing of; nor by reason of his resurrection from the dead, which, as yet, was not, and still less might be known by this person; nor because of his office, as Mediator, for this is expressed in the next clause; but by nature, as being of the same essence, and possessed of the same perfections God is; and of which he was convinced by the instances he gave of his omniscience.",
+            "Wherefore this phrase must be understood of him, not as Mediator, but as a divine person; as the natural, essential, and eternal Son of God; and who is truly and properly God.",
+            "Thou art the King of Israel; having in view, no doubt, the passage in Psalms 2:6, where the characters of Son of God, and King of Zion, meet in the same person... but his kingdom is not of this world; nor with observation; but is spiritual; and he is a King over Israel in a spiritual sense, even of saints, whether Jews or Gentiles: whom he conquers by his power, and rules in their hearts by his Spirit, and grace; and protects, and defends them from all their enemies."
+        ],
+        "John Wesley": [
+            "Happy are they that are ready to believe, swift to receive the truth and grace of God.",
+            "Thou art the Son of God.",
+            "The Son of God, the king of Israel - A confession both of the person and office of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Nathanael's confession, Thou art the Messiah, expressed his recognition of Jesus as the Son of God and the King of Israel. This confession surpassed Philip's previous statement, revealing Nathanael's profound understanding of Jesus' person and office. It is important to note that Nathanael used the name Son of God in its popular meaning, emphasizing Jesus' divine nature. The central message of Nathanael's faith is that Jesus, as the Son of God, exercises His office of King over His people. By strengthening our faith through hearing the word and following Nathanael's example, we too can fully grasp the significance of Jesus' identity as the Son of God and the King of Israel.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.0425791263416775,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+            "commentatorTierSimilarities": [
+                25.37,
+                37.17,
+                37.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Nathanael's confession of Thou art the Messiah expresses his understanding of Jesus as the Son of God and the King of Israel. This confession surpasses Philip's previous statement and reveals Nathanael's recognition of Jesus' divine nature and kingly office. By strengthening our faith and following Nathanael's example, we can grasp the significance of Jesus' identity as the Son of God and the King of Israel. It is crucial to acknowledge that Jesus, as the Son of God, exercises His role as King over His people.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.09974056670269,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.16,
+            "commentatorTierSimilarities": [
+                24.62,
+                37.85,
+                37.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Nathanael's confession, Thou art the Messiah, surpasses Philip's previous statement, revealing his understanding of Jesus as the Son of God and the King of Israel. This confession emphasizes Jesus' divine nature and His role as the King over His people. By following Nathanael's example and strengthening our own faith through hearing the word, we can fully grasp the significance of Jesus' identity as the Son of God and the spiritual King of Israel.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 2.1106612497826998,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.52,
+            "commentatorTierSimilarities": [
+                24.42,
+                38.37,
+                37.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Nathanael's confession, Thou art the Messiah, expresses his recognition of Jesus as the Son of God and the King of Israel. This confession surpasses Philip's previous statement, revealing Nathanael's profound understanding of Jesus' person and office. It is important to note that Nathanael used the name Son of God in its popular meaning, emphasizing Jesus' divine nature. The central message of Nathanael's faith is that Jesus, as the Son of God, exercises His office of King over His people. By strengthening our faith through hearing the word and following Nathanael's example, we too can fully grasp the significance of Jesus' identity as the Son of God and the King of Israel.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.042881915084396,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.27,
+            "commentatorTierSimilarities": [
+                25.57,
+                36.83,
+                37.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Nathanael's confession, Thou art the Messiah, signifies his understanding of Jesus as the Son of God and the King of Israel. It surpasses Philip's previous statement, revealing Nathanael's recognition of Jesus' divine nature and kingly role. By strengthening our faith and emulating Nathanael's example, we can comprehend the profound significance of Jesus' identity as the Son of God and the King of Israel. It is essential to acknowledge that Jesus, as the Son of God, exercises His kingship over His people.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.0705741401296365,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                24.59,
+                38.15,
+                37.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

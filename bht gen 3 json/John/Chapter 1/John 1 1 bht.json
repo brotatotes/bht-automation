@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:04:18",
+    "verseRef": "John 1:1",
+    "bestBHT": {
+        "bht": "The significance of understanding the historical and scriptural context of Logos, often translated as speech or word, cannot be underestimated. The Logos is not just existent but also the efficient principle and beginning of creation itself. This Word is the manifestation of God to those outside of Himself. Referred to throughout the Gospel and emphasizing the eternal existence and divine nature of the Word, the verse makes it clear that the Son of God is equal to and yet distinct from the Father.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.411915769865746,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.54,
+        "commentatorTierSimilarities": [
+            31.14,
+            33.4,
+            35.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The enquiry concerning that meaning must therefore be conducted on historical, not on mere grammatical grounds.",
+            "The usual Scripture meaning of Logos is speech, or word.",
+            "Had St. John intended to say, \u2018God was the Word,\u2019\u2014what meaning could his assertion possibly have conveyed? None other than a contradiction to his last assertion, by which he had distinguished God from the Word."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In the beginning\u2014of all time and created existence, for this Word gave it being (John 1:3; John 1:10); therefore, 'before the world was' (John 17:5; John 17:24); or, from all eternity.\" ",
+            "He who is to God what man's word is to himself, the manifestation or expression of himself to those without him.\" ",
+            "Each of these brief but pregnant statements is the complement of the other, correcting any misapprehensions which the others might occasion."
+        ],
+        "Albert Barnes": [
+            "In both places it clearly means before creation, before the world was made, when as yet there was nothing.",
+            "Whatever is meant by the term 'Word,' it is clear that it had an existence before 'creation.' It is not, then, a 'creature' or created being, and must be, therefore, uncreated and eternal.",
+            "There is no more unequivocal declaration in the Bible than this, and there could be no stronger proof that the sacred writer meant to affirm that the Son of God was equal with the Father."
+        ],
+        "Marvin Vincent": [
+            "In the beginning was [\u03b5\u03bd \u03b1\u03c1\u03c7\u03b7 \u03b7\u03bd]. The Logos was not merely existent, however, in the beginning, but was also the efficient principle, the beginning of the beginning. The ajrch (beginning), in itself and in its operation dark, chaotic, was, in its idea and its principle, comprised in one single luminous word, which was the Logos.",
+            "The Word [\u03bf \u03bb\u03bf\u03b3\u03bf\u03c2] : Logos. This expression is the keynote and theme of the entire gospel.",
+            "In John it signifies word, as in Holy Scripture generally; in Philo, reason; and that so distinctly that when Philo wishes to give it the meaning of word, he adds to it by way of explanation, the term rJhma, word."
+        ],
+        "John Calvin": [
+            "In the beginning was the Speech...to inform us that he is the eternal God.",
+            "He is the lively image of His purpose...to say that He reveals himself to us by his Speech.",
+            "The Speech was with God...to refute the error of Sabellius; for it shows that the Son is distinct from the Father."
+        ],
+        "Philip Schaff": [
+            "In the beginning was the Word. This sublime opening of the Gospel carries our thoughts at once to the no less sublime opening of the Book of Genesis, whose first words the Evangelist certainly had present to his mind.",
+            "There is One by whom the Eternal and Invisible God reveals Himself: the Revealer is a Person: the Revealer is Himself God.",
+            "The Word is possessed of divine essence; in that being in which He \u2018was,\u2019 He so possesses the divine attributes that He is God. There is difference of personality, but unity of nature."
+        ],
+        "Archibald T. Robertson": [
+            "Either God exists and is the Creator of the universe as scientists like Eddington and Jeans assume or matter is eternal or it has come out of nothing.",
+            "The term \u039b\u03bf\u03b3\u03bf\u03c2 is applied to Christ only in John 1:1; John 1:14; Revelation 19:13; 1 John 1:1 'concerning the Word of life' (an incidental argument for identity of authorship).",
+            "In the Trinity we see personal fellowship on an equality."
+        ],
+        "John Gill": [
+            "In the beginning was the word....That this is said not of the written word, but of the essential word of God, the Lord Jesus Christ, is clear.",
+            "But he is the word as the Son of God, as is evident from what is here attributed to him, and from the word being said to be so.",
+            "This phrase, 'the word' being 'with God', is in the Targums expressed by, '\u05de\u05d9\u05de\u05e8 \u05de\u05df \u05e7\u05d3\u05dd', 'the word from before the Lord', or 'which is before the Lord'."
+        ],
+        "John Wesley": [
+            "In the beginning \u2014 When all things began to be made by the Word: in the beginning of heaven and earth, and this whole frame of created beings, the Word existed, without any beginning.",
+            "And the Word was with God - Therefore distinct from God the Father. The word rendered with, denotes a perpetual tendency as it were of the Son to the Father, in unity of essence.",
+            "And the Word was God \u2014 Supreme, eternal, independent. There was no creature, in respect of which he could be styled God in a relative sense. Therefore he is styled so in the absolute sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the biblical verse, it is crucial to understand the historical context and Scripture meaning of Logos, which is typically translated as speech or word. The Logos is not only existent but also the efficient principle and beginning of creation. This Word is the manifestation of God to those outside of Himself. The term Logos is of great significance and serves as the theme throughout the Gospel. In this opening statement, it becomes clear that the Son of God is equal with the Father and possesses divine essence, even though there is a difference in personality. Hence, the verse emphasizes the eternal existence and divine nature of the Word, who is both distinct from and one with God.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 2.353385503438875,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.59,
+            "commentatorTierSimilarities": [
+                31.67,
+                33.07,
+                35.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The significance of understanding the historical and scriptural context of Logos, often translated as speech or word, cannot be underestimated. The Logos is not just existent but also the efficient principle and beginning of creation itself. This Word is the manifestation of God to those outside of Himself. Referred to throughout the Gospel and emphasizing the eternal existence and divine nature of the Word, the verse makes it clear that the Son of God is equal to and yet distinct from the Father.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.411915769865746,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.54,
+            "commentatorTierSimilarities": [
+                31.14,
+                33.4,
+                35.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To fully grasp the meaning of Logos, we must consider the historical and scriptural context. The Logos signifies speech or word, and in this Gospel, it becomes the central theme. The opening statement emphasizes that the Word existed in the beginning, as the beginning itself, and as the manifestation of God to those outside of Him. This reveals the eternal existence and divine nature of the Word, who is both distinct from and one with God. The verse declares the Son of God's equality with the Father and his possession of divine essence.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.3452124041081657,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.32,
+            "commentatorTierSimilarities": [
+                30.9,
+                32.03,
+                37.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In order to understand the significance of Logos and its relevance in this Gospel, one must delve into its historical and scriptural context. Logos, which typically means speech or word, is not only representative of existence, but also serves as the principle and beginning of all creation. It denotes the manifestation of God to those beyond Himself. The Word, or Logos, is divine, possessing the essence of God, while also distinct from Him. This verse highlights the eternal nature and equality of the Son with the Father.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.2337346442289423,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.61,
+            "commentatorTierSimilarities": [
+                31.83,
+                31.84,
+                36.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To grasp the meaning of Logos, one must consider its historical context and Scriptural significance. Logos, often translated as speech or word, refers to the efficient principle and beginning of creation. The Logos is the manifestation of God to those outside of Himself, expressing His essence. This Gospel highlights the divine nature of the Word, who is both distinct from and equal to God. The verse emphasizes the eternal existence and unity within the Trinity, illuminating the profound truth of the Word's identity as God Himself.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3523504426931057,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.56,
+            "commentatorTierSimilarities": [
+                33.28,
+                32.07,
+                34.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

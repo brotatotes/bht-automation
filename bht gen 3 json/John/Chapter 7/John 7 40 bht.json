@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:07:58",
+    "verseRef": "John 7:40",
+    "bestBHT": {
+        "bht": "Many acknowledged the deep impression Jesus made with His words, saying, Of a truth, this is the prophet, referring to the one promised to Moses and long expected. Although their understanding was limited, their willingness to learn and their recognition of something divine in Jesus laid the foundation for future belief.",
+        "wordCount": 51,
+        "quoteTokenProportion": 43.9,
+        "qualityScore": 2.0068727120716496,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.07,
+        "commentatorTierSimilarities": [
+            26.5,
+            34.19,
+            39.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "40.] the Prophet is here clearly distinguished from the Christ: see note on ch. i. 21, and Deut. xviii. 15."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The only wonder is they did not all say it.",
+            "Many...when they heard this...said, Of a truth.",
+            "But their minds were blinded."
+        ],
+        "Albert Barnes": [
+            "The Prophet - That is, the prophet whom they expected to precede the coming of the Messiah - either Elijah or Jeremiah. See Matthew 16:14."
+        ],
+        "Marvin Vincent": [
+            "Many. The best texts omit. Read as Rev., some. ",
+            "This saying [\u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03bd] . The best texts substitute tw logwn toutwn, these words. So Rev. ",
+            "The prophet. See on 1 21."
+        ],
+        "John Calvin": [
+            "He is truly a Prophet.\" ",
+            "how light and trifling this confession was, is evident from the fact, that, while they approve of the Teacher, they neither understand what he means, nor relish what he says\" ",
+            "Yet this is good in them, that they perceive in Christ something Divine, which leads them to regard him with reverence; for this willingness to learn might afterwards give an easy opening to faith."
+        ],
+        "Philip Schaff": [
+            "'Of a truth this is the prophet.'\" ",
+            "On 'the prophet,' and the distinction between this appellation and 'the Christ.'",
+            "See the note on chap. John 1:21."
+        ],
+        "Archibald T. Robertson": [
+            "Of a truth (\u03b1\u03bb\u03b7\u03b8\u03c9\u03c2). 'Truly.' See John 1:47.",
+            "The prophet (\u03bf \u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03b7\u03c2). The one promised to Moses (Deuteronomy 18:15) and long expected. See on John John 1:21.",
+            "Proof of the deep impression made by Jesus."
+        ],
+        "John Gill": [
+            "Said, of a truth this is the prophet; spoken of in Deuteronomy 18:15.",
+            "They had some knowledge, though but small; and they spake of him, though but as children in understanding.",
+            "They imagined he was one of the old prophets raised from the dead, whom they also expected about the times of the Messiah."
+        ],
+        "John Wesley": [
+            "The prophet \u2014 Whom we expect to be the forerunner of the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many people, upon hearing Jesus' words, recognized that there was something special about Him. Some said, Of a truth, acknowledging the deep impression that Jesus had made on them. They referred to Him as the prophet, recognizing that He was the one promised to Moses and long expected. However, their understanding was limited, as they did not fully comprehend Jesus' true identity as the Messiah. Nevertheless, their willingness to learn and their recognition of something divine in Jesus laid the foundation for future belief.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9423576986933266,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                26.79,
+                33.23,
+                39.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon hearing Jesus' words, many were moved and recognized the profound impact He had. They exclaimed, Of a truth, this is the prophet, referring to the one promised by Moses and long expected. While their understanding was limited, their willingness to learn and their acknowledgement of something divine in Jesus set the stage for future belief.",
+            "wordCount": 56,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.9069150531178325,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                26.49,
+                34.06,
+                39.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many recognized the profound impact of Jesus' words, exclaiming, Of a truth, this is the prophet. They referred to Him as the one promised by Moses and expected for a long time. Although their understanding was limited, their willingness to learn and their recognition of something divine in Jesus laid the foundation for future belief.",
+            "wordCount": 55,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.9015075557958694,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                26.43,
+                33.9,
+                39.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many, upon hearing Jesus' words, recognized the profound impact He had made. They exclaimed, Of a truth, this is the prophet, referring to the one promised by Moses and long expected. Although their understanding was limited, their willingness to learn and their recognition of something divine in Jesus set the stage for future belief.",
+            "wordCount": 54,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.9285564452811563,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                26.65,
+                33.5,
+                39.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many acknowledged the deep impression Jesus made with His words, saying, Of a truth, this is the prophet, referring to the one promised to Moses and long expected. Although their understanding was limited, their willingness to learn and their recognition of something divine in Jesus laid the foundation for future belief.",
+            "wordCount": 51,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 2.0068727120716496,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.07,
+            "commentatorTierSimilarities": [
+                26.5,
+                34.19,
+                39.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

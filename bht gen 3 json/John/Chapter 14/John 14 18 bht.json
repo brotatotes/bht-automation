@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:12:32",
+    "verseRef": "John 14:18",
+    "bestBHT": {
+        "bht": "The disciples would have been left without a parental figure if they did not have the Comforter, whose purpose is to connect them with the Father. This clarifies that Jesus' statement of coming to them is specifically about the coming of the Spirit, who is inseparable from Christ. The absence of a connecting particle in the clause highlights the depth of love in Jesus' heart. He reassures them that they will not be left comfortless or bereaved, but that He will be with them.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8864926728085853,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.07,
+        "commentatorTierSimilarities": [
+            30.87,
+            40.04,
+            29.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The office of the Comforter is to connect the disciples with the Father: if therefore they had Him not, they would be fatherless.",
+            "This makes our Lord\u2019s declaration, that He was coming to them, plain, as applying to the coming by the Spirit, who is one with Christ.",
+            "The absence of any connecting particle, as 'for,' with this clause, arises from the depth of affection in the Lord\u2019s heart."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I will not leave you comfortless\u2014in a bereaved and desolate condition; or (as in Margin) 'orphans.'"
+        ],
+        "Albert Barnes": [
+            "Jesus here addresses them as children, John 13:33. He says that he would show them the kindness of a parent, and, though he was going away, he would provide for their future welfare.",
+            "And even while he was absent, yet they would sustain to him still the relation of children.",
+            "Though he was to die, yet he would live again; though absent in body, yet he would be present with them by his Spirit; though he was to go away to heaven, yet he would return again to them."
+        ],
+        "Marvin Vincent": [
+            "He hath not left us without a rule; nor without an example; nor without a motive; nor without a strength; nor without a warning; nor without a Comforter; nor without a reward.\" ",
+            "Only here and James 1:27, where it is rendered fatherless.",
+            "Present tense, I come."
+        ],
+        "John Calvin": [
+            "They are orphans, exposed to every kind of fraud and injustice, incapable of governing themselves, and, in short, unable of themselves to do any thing.",
+            "The only remedy for so great a defect is, if Christ govern us by his Spirit, which he promises that he will do.",
+            "It is, by the power of his Spirit; and hence it is evident, that the grace of the Spirit is a striking proof of his Divinity."
+        ],
+        "Philip Schaff": [
+            "I will not leave you desolate: I come to you.\" ",
+            "The disciples were the \u2018little children\u2019 of Jesus (chap. John 13:33), and He may therefore well speak to them as a father.\" ",
+            "Not from Pentecost, but from the moment of His reunion to the Father, and by means of the Spirit of the truth, He comes to them (see John 14:20)."
+        ],
+        "Archibald T. Robertson": [
+            "I will not leave...to send away, to leave behind.",
+            "Desolate...bereft of parents, and of parents bereft of children.",
+            "I come...Futuristic present as in verse John 14:3."
+        ],
+        "John Gill": [
+            "I will not leave you comfortless.... Christ promises that he would not leave them thus, at least not long.",
+            "Christ stands in the relation of a Father to his people... to support them against these fears, Christ promises that he would not leave them thus.",
+            "So among the Jews, disciples, and the world too, are represented as fatherless, when their doctors and wise men are removed by death."
+        ],
+        "John Wesley": [
+            "I will not leave you orphans \u2014 A word that is elegantly applied to those who have lost any dear friend.",
+            "I come to you \u2014 What was certainly and speedily to be, our Lord speaks of as if it were already."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The office of the Comforter is to connect the disciples with the Father and if they didn't have Him, they would be fatherless. This makes it clear that Jesus' declaration of coming to the disciples applies to the coming of the Spirit who is one with Christ. The absence of any connecting particle in the clause reflects the deep affection in the Lord's heart. Jesus promised that He would not leave them comfortless, in a bereaved or desolate condition, but instead come to them. He provided them with a rule, an example, a motive, a strength, a warning, a Comforter, and a reward.",
+            "wordCount": 105,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8793669967586903,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                32.45,
+                37.83,
+                29.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Comforter's role is to connect believers to the Father; without Him, they would be fatherless. This reveals that Jesus' statement about coming to them refers to the coming of the Spirit, who is united with Christ. The absence of a connecting particle in the sentence implies the depths of Jesus' affection. He promised not to leave them in a bereaved or desolate state, but to be present with them. He provided them with guidance, example, motivation, strength, and a Comforter.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8414480218190943,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                33.53,
+                38.17,
+                28.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples would have been left without a parental figure if they did not have the Comforter, whose purpose is to connect them with the Father. This clarifies that Jesus' statement of coming to them is specifically about the coming of the Spirit, who is inseparable from Christ. The absence of a connecting particle in the clause highlights the depth of love in Jesus' heart. He reassures them that they will not be left comfortless or bereaved, but that He will be with them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8864926728085853,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.07,
+            "commentatorTierSimilarities": [
+                30.87,
+                40.04,
+                29.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the disciples did not have the Comforter, they would be fatherless. This indicates that Jesus' mention of coming to them applies to the coming of the Spirit, who is one with Christ. The absence of a connecting particle suggests the depth of affection in the Lord's heart. He assures them that He will not leave them comfortless or as orphans, but instead will come to them. Thus, He provides them with guidance, example, motivation, strength, a warning, a Comforter, and a reward.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.772725228229679,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.28,
+            "commentatorTierSimilarities": [
+                33.17,
+                35.3,
+                31.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples would be left fatherless without the Comforter, whose role is to connect them with the Father. This signifies that Jesus' statement of coming to them refers to the coming of the Spirit, who shares unity with Christ. The absence of a connecting particle shows the depth of affection in Jesus' heart. He emphatically promises not to leave them comfortless or as orphans, but instead to come to them. In doing so, He ensures they are not devoid of a rule, example, motive, strength, warning, Comforter, or reward.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8581079968305634,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                35.09,
+                33.88,
+                31.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

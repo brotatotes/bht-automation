@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:05:13",
+    "verseRef": "John 3:31",
+    "bestBHT": {
+        "bht": "Jesus must increase while all other teachers must decrease because He comes from above, revealing divine and inexhaustible truth. His origin and nature surpass all, and He alone is exalted. Unlike human teachers who have an earthly origin and limited power, Jesus is above all, superior to prophets and angels. His words convey heavenly things, making Him the ultimate authority. In comparison to Him, every other teacher is of earthly origin, reflecting their inferiority in nature and utterance.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.083602645645498,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+        "commentatorTierSimilarities": [
+            29.98,
+            40.17,
+            29.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The inner coherence of the discourse itself; in which John explains to his disciples the reason why HE must increase; whereas his own dignity was to be eclipsed before Him.",
+            "He (the Baptist) ever speaks not as a disciple of Jesus, not as within the Kingdom,\u2014but as knowing the blessedness of those who should be within it; as standing by, and hearing the Bridegroom\u2019s voice.",
+            "His power and His words are not from below, temporary, limited; but are divine and inexhaustible."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here is the reason why He must increase while all human teachers must decrease.\" ",
+            "The Master 'cometh from above'\u2014descending from His proper element, the region of those 'heavenly things' which He came to reveal.",
+            "The words of prophets and apostles are undeniable and most precious truth but in the words of Christ we hear a voice as from the excellent Glory, the Eternal Word making Himself heard in our own flesh."
+        ],
+        "Albert Barnes": [
+            "He that cometh from above - The Messiah, represented as coming down from heaven.",
+            "Is above all - In nature, rank, and authority. 'Is superior to all prophets'... 'to all angels'... 'and is over all the universe as its sovereign Lord.'",
+            "Is earthly - Is human. Is inferior to him who comes from heaven. Partakes of his origin, which is inferior and corrupt."
+        ],
+        "John Calvin": [
+            "He who is of earth gives evidence of his descent, and remains in an earthly rank according to the condition of his nature.",
+            "If ministers be separately considered, they speak as from heaven, with the highest authority, what God commanded them; but, as soon as they begin to be contrasted with Christ, they must no longer be anything.",
+            "Christ wishes to be acknowledged in his ministers, but in such a manner that he may remain the only Lord, and that they may be satisfied with the rank of servants; but especially when a comparison is made, he wishes to be so distinguished that he alone may be exalted."
+        ],
+        "Philip Schaff": [
+            "He that cometh from above is above all: he that is out of the earth is out of the earth, and out of the earth he speaketh.",
+            "In comparison with Him, every other prophet or teacher has his origin out of the earth; and as is his origin, so is his nature, so is his utterance.",
+            "There is but One who thus \u2018cometh from above\u2019 (though many others have received their mission from above), and He therefore is above all."
+        ],
+        "Archibald T. Robertson": [
+            "He is above all men, not alone above the Baptist.",
+            "Jesus is the one that comes out of heaven as he has shown in John 1:1-18. Hence he is 'above all.'\" ",
+            "John is fond of this use of \u03b5\u03ba for origin and source of character as in John 1:46; 1 John 4:5."
+        ],
+        "John Gill": [
+            "He that cometh from above is above all; above John, before whom he was preferred, for he was before him; above the prophets of the Old Testament, and even above Moses, the chief of them; yea, above all the angels in heaven, being God over all, blessed for ever.\" ",
+            "Men naturally mind earthly things; and it is owing to the Spirit and grace of God, if they mind and savour spiritual things, or have their affections set on things above, or their conversation in heaven.",
+            "He that cometh from heaven is above all; men and angels, in the dignity of his person; and all prophets and teachers, in the excellency of his doctrine, and manner of delivering it."
+        ],
+        "John Wesley": [
+            "He that is of the earth \u2014 A mere man; of earthly original.",
+            "has a spirit and speech answerable to it.",
+            "It is not improbable, that what is added, to the end of the chapter, are the words of the evangelist, not the Baptist."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The discourse in this verse explains why Jesus must increase while all human teachers must decrease. Jesus, the Bridegroom, speaks as one from above, His words divine and inexhaustible, revealing heavenly things. In contrast, earthly teachers have an origin out of the earth, and their nature and utterance reflect this. Jesus is above all, superior to prophets and angels, being the one who comes from above, while others have received their mission from above. His origin and nature surpass all, and He alone is exalted.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.079858574222345,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.5,
+            "commentatorTierSimilarities": [
+                30.77,
+                39.72,
+                29.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The discourse in this passage clarifies why Jesus must increase while all other teachers must decrease. Unlike human teachers who have an earthly origin and limited power, Jesus comes from above, bringing divine and inexhaustible truth. He is above all, superior to prophets and angels, and His words reveal heavenly things. His origin and nature surpass all, and He alone is exalted.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.1335823088049377,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.28,
+            "commentatorTierSimilarities": [
+                31.56,
+                38.5,
+                29.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus must increase while all other teachers must decrease because He comes from above, revealing divine and inexhaustible truth. His origin and nature surpass all, and He alone is exalted. Unlike human teachers who have an earthly origin and limited power, Jesus is above all, superior to prophets and angels. His words convey heavenly things, making Him the ultimate authority. In comparison to Him, every other teacher is of earthly origin, reflecting their inferiority in nature and utterance.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.083602645645498,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                29.98,
+                40.17,
+                29.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus must increase while all human teachers must decrease because He comes from above, revealing divine and inexhaustible truth. His origin and nature surpass all, and He alone is exalted. Jesus is superior to prophets, angels, and every other teacher. His words convey heavenly things, making Him the ultimate authority. In comparison to Him, every other teacher has an origin out of the earth, which reflects their inferiority in nature and utterance.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.0544490087351472,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                30.27,
+                40.52,
+                29.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus must increase while all human teachers must decrease because He comes from above, bringing divine and inexhaustible truth. His origin and nature surpass all, and He alone is exalted. Jesus is above all, superior not only to the Baptist but to prophets and angels as well. His words reveal heavenly things and exude an air of heavenly authority. In contrast, earthly teachers have an origin out of the earth, and their nature and utterance reflect this.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0524936253310067,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                30.52,
+                39.1,
+                30.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

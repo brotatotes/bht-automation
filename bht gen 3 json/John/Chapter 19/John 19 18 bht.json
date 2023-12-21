@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:14:51",
+    "verseRef": "John 19:18",
+    "bestBHT": {
+        "bht": "In the midst of His crucifixion, Jesus obediently fulfills His own teachings by pleading with the Father to forgive those who were responsible for His death. While the Synoptists describe the individuals crucified with Him as robbers and malefactors, John refers to them simply as two others, hinting that they may have been members of their own band. This arrangement of having the robbers on both sides of Jesus possibly served to emphasize His royal status and the mockery of Pilate towards the Jews. Despite the wickedness of His executioners, it is crucial to remember that everything was determined by the hand and purpose of God, showcasing the valuable token of His power, wisdom, righteousness, and goodness. Jesus willingly took our place as our surety, showcasing His love, grace, and the fulfillment of God's purposes, promises, and predictions.",
+        "wordCount": 139,
+        "quoteTokenProportion": 35.79,
+        "qualityScore": 1.6644844202402882,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+        "commentatorTierSimilarities": [
+            28.28,
+            28.51,
+            43.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "FATHER, FORGIVE THEM, FOR THEY KNOW NOT WHAT THEY DO",
+            "And He made intercession for the transgressors",
+            "Often have we occasion to observe how our Lord is the first to fulfill His own precepts"
+        ],
+        "Marvin Vincent": [
+            "All the Synoptists describe the character of the two who were crucified with Jesus.",
+            "Matthew and Mark, robbers; Luke, malefactors.",
+            "John says nothing about the character of these two, but simply describes them as two others."
+        ],
+        "John Calvin": [
+            "We ought always to remember, that the wicked executioners of Christ did nothing but what had been determined by the hand and purpose of God.",
+            "In no other way could our guilt be removed than by the Son of God becoming a curse for us.",
+            "Whoever, then, takes a just view of the causes of the death of Christ, together with the advantage which it yields to us, will not... regard it as an offense, but rather as an invaluable token and pledge of the power, and wisdom, and righteousness, and goodness of God."
+        ],
+        "Philip Schaff": [
+            "On the lingering torture of death by crucifixion it is unnecessary to dwell.",
+            " ",
+            "To this death they too must have been doomed by the Roman power, and as we find the Roman governor writing the inscription and Roman soldiers taking part in the crucifixion...it is reasonable to think that it was also a Roman, not a Jewish, arrangement by which the two robbers were suspended on either side of Jesus.",
+            " ",
+            "If so, the object must have been still more to bring out that idea of His royalty with which Pilate to the last mocked the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "And Jesus in the midst.",
+            "A robber was on each side of Jesus.",
+            "Probably members of his band, malefactors."
+        ],
+        "John Gill": [
+            "He, as a surety, standing in the legal place, and stead of his people; hence he died in their room, and for their sins: this shows the low estate of Christ, the strictness of justice, the wisdom of God in salvation, and the grace and love of the Redeemer.",
+            "Who condescended to everything, and every circumstance, though ever so reproachful, which were necessary for the redemption of his people, and the glory of the divine perfections, and for the fulfillment of purposes, promises, and predictions.",
+            "He was accounted as such by men, and was treated as if he had been one by the justice of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of His crucifixion, Jesus pleads with the Father to forgive those who were responsible for His death, demonstrating His obedience to His own teachings. While the Synoptists describe the two individuals crucified with Jesus as robbers and malefactors, John simply refers to them as two others. However, it is likely that they were members of their own band. The presence of these individuals on either side of Jesus serves to highlight His royal status and the mockery of Pilate towards the Jews. This arrangement was likely orchestrated by the Romans, further emphasizing the involvement of different powers in Jesus' crucifixion. Despite the wickedness of those who carried out His execution, it is important to remember that everything was determined by the hand and purpose of God, as the death of Christ was necessary for the removal of our guilt. His death as our surety demonstrates His love and grace, as He willingly took our place to fulfill God's purposes and redeem His people.",
+            "wordCount": 167,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.600203505549583,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.55,
+            "commentatorTierSimilarities": [
+                30.94,
+                28.91,
+                40.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of His crucifixion, Jesus fulfills His own teachings by pleading with the Father to forgive those responsible for His death. While the Synoptists describe the two crucified individuals as robbers and malefactors, John refers to them simply as two others, indicating they may have been members of their own band. This arrangement, likely orchestrated by the Romans, reinforces Jesus' royal status and Pilate's mockery of the Jews. Despite the wickedness of His executioners, it is important to understand that everything was determined by God's hand and purpose. Jesus' death as our surety reveals His love and grace, as He willingly stood in our place to fulfill God's purposes and redeem His people.",
+            "wordCount": 118,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.6409522174443216,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                29.69,
+                28.32,
+                41.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of His crucifixion, Jesus obediently fulfills His own teachings by pleading with the Father to forgive those who were responsible for His death. While the Synoptists describe the individuals crucified with Him as robbers and malefactors, John refers to them simply as two others, hinting that they may have been members of their own band. This arrangement of having the robbers on both sides of Jesus possibly served to emphasize His royal status and the mockery of Pilate towards the Jews. Despite the wickedness of His executioners, it is crucial to remember that everything was determined by the hand and purpose of God, showcasing the valuable token of His power, wisdom, righteousness, and goodness. Jesus willingly took our place as our surety, showcasing His love, grace, and the fulfillment of God's purposes, promises, and predictions.",
+            "wordCount": 139,
+            "quoteTokenProportion": 35.79,
+            "qualityScore": 1.6644844202402882,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                28.28,
+                28.51,
+                43.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of His crucifixion, Jesus selflessly asks the Father to forgive His executioners, demonstrating His adherence to His own teachings. While the Synoptists identify the two individuals crucified with Jesus as robbers and malefactors, John simply refers to them as two others. This arrangement, possibly orchestrated by the Romans, highlights Jesus' royal position and Pilate's mockery of the Jews. Despite the wickedness of those who carried out His death, it is essential to acknowledge that God's hand and purpose determined everything. Jesus' death as our substitute exemplifies His love, grace, and fulfillment of God's purposes, promises, and prophecies.",
+            "wordCount": 103,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.6633287758142443,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                29.8,
+                28.97,
+                41.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the crucible of His crucifixion, Jesus exemplifies his own teachings by imploring the Father to pardon those responsible for His death. The Synoptics describe the two crucified men as robbers and malefactors, while John merely refers to them as two others, suggesting they may have been associated with Jesus' band. The placement of these individuals on both sides of Jesus, likely at the hands of the Romans, emphasizes His regal status and Pilate's mockery of the Jews. Although His executioners committed a heinous act, it is paramount to remember that every detail was predetermined by God. Jesus' sacrifice as our surety demonstrates His love, grace, and fulfillment of God's divine purposes, promises, and predictions.",
+            "wordCount": 117,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.6329723893647803,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.64,
+            "commentatorTierSimilarities": [
+                29.91,
+                29.8,
+                40.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

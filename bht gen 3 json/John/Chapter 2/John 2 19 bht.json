@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:04:38",
+    "verseRef": "John 2:19",
+    "bestBHT": {
+        "bht": "The temple symbolizes the Christian Church, with Jesus' body as the true representation. His crucifixion and resurrection fulfilled the saying Destroy this temple, leading to the destruction of the Jewish temple and city. Jesus pointed to his body as a parable for the temple, highlighting the dwelling-place of God within him. His resurrection showcases the divine power in Christ and his love for us, knowing the sacrifice it would require. In his body, the fulness of the Godhead dwells, revealing him as the Son of God with power.",
+        "wordCount": 89,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 2.183533110311931,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+        "commentatorTierSimilarities": [
+            27.27,
+            31.65,
+            41.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That in uttering the words, this temple, He pointed to His own Body, is inconceivable.",
+            "That temple, with all its ordinances and holy places, was but the shadow of the Christian Church;\u2014that, the type of the Body of the Lord, represented the Church, which is veritably His Body.",
+            "The saying was fulfilled by the slaying of His actual Body, in which rejection of Him the destruction of the Jewish temple and city was involved,\u2014and the raising of that Body after three days, in which resurrection we, all the members of His new glorified Body, are risen again."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. Destroy this temple,",
+            "\t&amp;c.\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "You are now profaners of the temple of God. You have defiled the sanctuary; you have made it a place of traffic. You have also despised my authority, and been unmoved by the miracles which I have already performed. But your wickedness will not end here.",
+            "Here was therefore a distinct prediction both of his death and the cause of it.",
+            "This knowledge shows clearly that he came from heaven, and it evinces, also, the extent of his love that he was 'willing' to come to save us, knowing clearly what it would cost him."
+        ],
+        "John Calvin": [
+            "No greater approbation of the divine power in Christ could be desired than his resurrection from the dead.\" ",
+            "He was unwilling to expose the power of God to their ridicule.",
+            "The body of Christ is justly and appropriately called a temple... For we know that the Son of God clothed himself with our nature in such a manner that the eternal majesty of God dwelt in the flesh which he assumed, as in his sanctuary."
+        ],
+        "Philip Schaff": [
+            "To the English reader they seem merely to convey a warning that, if the Jews go on with such profanation as that which Jesus had checked, they will bring the temple to ruin. But it is of the sanctuary that He speaks, not of the temple-court which had sustained the desecration.",
+            "The essence of the temple is, that it is the dwelling-place of God: His body is God\u2019s temple, for in Him \u2018dwelleth all the fulness of the Godhead bodily.\u2019",
+            "His crucifixion involved the total destruction of the Jewish temple and polity. No longer will there be a special place in which God\u2019s glory will be revealed, to which God\u2019s worshippers will come."
+        ],
+        "Archibald T. Robertson": [
+            "Destroy this temple (\u03bb\u03c5\u03c3\u03b1\u03c4\u03b5 \u03c4\u03bf\u03bd \u03bd\u03b1\u03bf\u03bd \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd). First aorist active imperative of \u03bb\u03c5\u03c9, to loosen or destroy. It is the permissive imperative, not a command to do it.\" ",
+            "Note also \u03bd\u03b1\u03bf\u03c2, not \u03b9\u03b5\u03c1\u03bf\u03bd, the sanctuary, symbol of God's \u03bd\u03b1\u03bf\u03c2, in our hearts (1 Corinthians 3:16).\" ",
+            "He may have spoken of the literal temple as a parable for his own body which of course they would not understand, least of all the resurrection in three days."
+        ],
+        "John Gill": [
+            "destroy this temple; pointing, as it were, with his finger to his body...",
+            "the dissolution of which, by death he means, the separation of his soul from his body, though not of either from his divine person...",
+            "by which he would appear to be the Son of God, with power, that had power of laying down his life, and taking it up again..."
+        ],
+        "John Wesley": [
+            "This temple \u2014 Doubtless pointing, while he spoke, to his body, the temple and habitation of the Godhead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temple mentioned in this verse symbolizes the Christian Church, of which Jesus' body is the true representation. The fulfillment of the saying Destroy this temple occurred through Jesus' crucifixion and resurrection, which ultimately led to the destruction of the Jewish temple and city. Jesus' statement was not a command to destroy the temple, but rather a reference to his own body as a parable. The temple is the dwelling-place of God, and in Jesus, all the fulness of the Godhead bodily dwells. His resurrection from the dead attests to the divine power in Christ and his willingness to come and save us, knowing the cost.",
+            "wordCount": 107,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.2312400770199856,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.53,
+            "commentatorTierSimilarities": [
+                29.34,
+                33.13,
+                37.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The temple mentioned here represents the Christian Church, of which Jesus' body is the true representation. His crucifixion and resurrection fulfilled the saying Destroy this temple, leading to the destruction of the Jewish temple and unveiling the true dwelling-place of God in Jesus. His resurrection from the dead demonstrates the divine power in Christ and his willingness to come and save us despite the cost. In his body, the eternal majesty of God dwells, and through his death and resurrection, he reveals himself as the Son of God with power.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.118233708716965,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.77,
+            "commentatorTierSimilarities": [
+                27.13,
+                31.96,
+                40.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple symbolizes the Christian Church, with Jesus' body as the true representation. His crucifixion and resurrection fulfilled the saying Destroy this temple, leading to the destruction of the Jewish temple and city. Jesus pointed to his body as a parable for the temple, highlighting the dwelling-place of God within him. His resurrection showcases the divine power in Christ and his love for us, knowing the sacrifice it would require. In his body, the fulness of the Godhead dwells, revealing him as the Son of God with power.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.183533110311931,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+            "commentatorTierSimilarities": [
+                27.27,
+                31.65,
+                41.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple mentioned here is a symbolic representation of the Christian Church, with Jesus\u2019 body serving as its true reflection. The fulfillment of Destroy this temple refers to Jesus' crucifixion and subsequent resurrection, signifying the destruction of the Jewish temple and city. Uttering these words, Jesus directed attention to His own body as a parable. His resurrection serves as evidence of the divine power in Him and reveals the extent of His love, as He willingly embraced the sacrificial cost to save humanity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.073623852879094,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                30.1,
+                32.91,
+                36.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple Jesus refers to in this passage is not the physical building, but the Christian Church, where His body represents the dwelling place of God. His crucifixion led to the destruction of the Jewish temple and city. Jesus spoke in parables, using His body as a metaphor, ultimately foreshadowing His death and resurrection. His resurrection showcased the divinity and power of Christ, who willingly sacrificed Himself out of love for humanity. The temple highlights the presence of God in Jesus, revealing Him as the Son of God with extraordinary power.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.0269450912210134,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                26.62,
+                33.17,
+                40.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:08:55",
+    "verseRef": "John 8:40",
+    "bestBHT": {
+        "bht": "By seeking to kill Jesus, these individuals go against the example set by Abraham, who was known for his loving-kindness. Jesus, referring to Himself as a man, highlights the human sympathy He is entitled to receive from them. Their intention to kill Jesus reveals their lack of the spirit of Abraham. In contrast, Abraham embraced revealed truth and never sought to harm anyone who brought it. Jesus, as the Son of Man, speaks only the truth directly from God. (76 words; 58% from provided quotes)",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.783188579082684,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+        "commentatorTierSimilarities": [
+            30.94,
+            36.13,
+            32.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "40. this did not Abraham\u2014In so",
+            "\tdoing ye act in direct opposition to him."
+        ],
+        "Albert Barnes": [
+            "In seeking to kill him, or in possessing a murderous and bloody purpose.",
+            "In rejecting the truth as God revealed it.",
+            "As the Jews sought to kill Jesus instead of treating him hospitably and kindly, they showed that they had none of the spirit of Abraham."
+        ],
+        "Marvin Vincent": [
+            "A man [\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bd] . Used only here by the Lord of Himself. To this corresponds His calling the Devil a manslayer at ver. 44.",
+            "Perhaps, too, as Westcott remarks, it may suggest the idea of the human sympathy which, as a man, He was entitled to claim from them.",
+            "In the oriental traditions Abraham is spoken of as 'full of loving-kindness.'"
+        ],
+        "John Calvin": [
+            "But now you seek to kill me...This then is the mark of distinction, whenever we are required to distinguish between his children and strangers; for empty titles, whatever estimation they may procure before the world, are of no account with God.",
+            "Christ therefore concludes again, that they are the children of the devil, because they hate with deadly hatred true and sound doctrine.",
+            "They hate with deadly hatred true and sound doctrine."
+        ],
+        "Philip Schaff": [
+            "But now ye seek to kill me, a man that hath spoken to you the truth, which I heard from God: this did not Abraham.",
+            "The assertions of John 8:37-38 are reiterated, but now with a simple directness that cannot be misunderstood.",
+            "True kindred to Abraham is therefore impossible in their case."
+        ],
+        "Archibald T. Robertson": [
+            "They are not doing 'the works of Abraham' in seeking to kill him.",
+            "This did not Abraham, their unlikeness to Abraham.",
+            "The only crime of Jesus is telling the truth directly from God."
+        ],
+        "John Gill": [
+            "To kill an innocent one, that had done no sin, who was pure, holy, harmless, and inoffensive to God and man, was an aggravation of the iniquity.",
+            "Abraham did not reject any truth that was revealed unto him, and much less seek to take away the life of any person that brought it to him.",
+            "The reason why he so often calls himself the son of man is, because it was more suitable to him in his state of humiliation; and indeed, there was no need for him to assert his deity in express words, since his works and miracles most clearly proved that he was God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These individuals are acting in direct opposition to Abraham by seeking to kill Jesus. Jesus refers to Himself as a man, emphasizing his human sympathy and entitlement to their understanding. The Jews' murderous intentions demonstrate that they lack the spirit of Abraham, who was known for his loving-kindness. By rejecting the truth and seeking to kill Jesus, they reveal themselves as the children of the devil who hate true and sound doctrine. In contrast, Abraham never rejected any revealed truth or sought to harm those who brought it to him. Jesus, the Son of Man, who performed miracles that showed his divinity, only tells the truth directly from God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.8805143544972207,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.87,
+            "commentatorTierSimilarities": [
+                26.84,
+                36.49,
+                36.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals go against Abraham's example by attempting to kill Jesus. Jesus refers to Himself as a man, emphasizing the human sympathy He can expect from them. The Jews' intention to kill Jesus reveals their lack of Abraham's spirit, known for his loving-kindness. By rejecting truth and seeking Jesus' death, they prove themselves as children of the devil, hating true doctrine. In contrast, Abraham didn't reject revealed truth or harm those who brought it. Jesus, the Son of Man, spoke only the truth directly from God. (75 words; 68% from provided quotes)",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.7797681674535732,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "commentatorTierSimilarities": [
+                28.63,
+                37.02,
+                34.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals act in direct opposition to Abraham by seeking to kill Jesus, despite Abraham being known for his loving-kindness. Jesus refers to Himself as a man, suggesting the human sympathy He deserves from them. By rejecting truth and seeking Jesus' death, they expose themselves as children of the devil, hating true doctrine. In contrast, Abraham never rejected revealed truth or sought harm against those who brought it. Jesus, as the Son of Man, only speaks the truth directly from God. (74 words; 62% from provided quotes)",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7659617946434407,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.06,
+            "commentatorTierSimilarities": [
+                29.82,
+                35.8,
+                34.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By seeking to kill Jesus, these individuals go against the example set by Abraham, who was known for his loving-kindness. Jesus, referring to Himself as a man, highlights the human sympathy He is entitled to receive from them. Their intention to kill Jesus reveals their lack of the spirit of Abraham. In contrast, Abraham embraced revealed truth and never sought to harm anyone who brought it. Jesus, as the Son of Man, speaks only the truth directly from God. (76 words; 58% from provided quotes)",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.783188579082684,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                30.94,
+                36.13,
+                32.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These individuals act in opposition to Abraham by seeking to kill Jesus, demonstrating their unlikeness to him. Jesus, referring to Himself as a man, emphasizes the human sympathy He deserves from them. Their murderous intentions reveal their lack of Abraham's spirit of loving-kindness. In contrast, Abraham never rejected revealed truth or sought to harm anyone. Jesus, as the Son of Man, speaks only the truth from God. (69 words; 51% from provided quotes)",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.7164213071551984,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                31.91,
+                36.92,
+                31.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

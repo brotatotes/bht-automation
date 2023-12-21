@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:07:37",
+    "verseRef": "John 7:5",
+    "bestBHT": {
+        "bht": "Even Jesus' own brothers, who were among the Twelve, did not believe in Him at that time. Their refusal to accept His Messianic claims, despite witnessing miracles, highlights the importance of faith as a habitual and controlling belief. This serves as a reminder that carnal relationships hold little value in the spiritual realm. It is only by becoming new creatures in Christ that one truly aligns with Him, regardless of any earthly associations or allegiances.",
+        "wordCount": 75,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.6255319159441437,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+        "commentatorTierSimilarities": [
+            33.47,
+            34.51,
+            32.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This verse also excludes all His brethren: it is inconceivable that John should have so written, if any among them believed at that time.",
+            "The emphatic expression, for even his brethren, &c., is a strong corroboration of the view that they were really and literally brethren.",
+            "In ver. 5 (as well as by 'thy disciples,' ver. 8), we have these brethren absolutely excluded from the number of the Twelve."
+        ],
+        "Marvin Vincent": [
+            "Neither [\u03bf\u03c5\u03b4\u03b5]. Better, as Rev., not even.",
+            "Did believe [\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03bf\u03bd]. The imperfect, were believing; referring not to a single act of faith, but to faith as habitual and controlling."
+        ],
+        "John Calvin": [
+            "Hence we infer how small is the value of carnal relationship.",
+            "Whosoever wishes to be thought to be in Christ...let him be a new creature.",
+            "So much the more ridiculous is the superstition of Papists, who, disregarding everything else in the Virgin Mary, extol her only on the ground of relationship."
+        ],
+        "Philip Schaff": [
+            "This verse seems to afford an unanswerable argument against those who hold that amongst these \u2018brothers\u2019 of our Lord were included two or three of the twelve apostles.",
+            "The words of Paul in 1 Corinthians 15:7, \u2018Then He appeared to James,\u2019 make it very probable that it was by our Lord\u2019s resurrection from the dead that the brothers were led to a true belief.",
+            "In spite of the earlier miracles they had witnessed, they had refused to accept."
+        ],
+        "Archibald T. Robertson": [
+            "For not even were his brothers believing on him.\" ",
+            "the persistent refusal of the brothers of Jesus to believe in his Messianic assumptions",
+            "The brothers here are sarcastic."
+        ],
+        "John Gill": [
+            "Little regard is to be had, or confidence placed, in carnal descent from, or alliance to the best of men.",
+            "It matters not, if men have known Christ, or have been allied to him after the flesh, unless they are new creatures in him.",
+            "It is only such who are so in a spiritual sense, that are regarded by him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "His own brothers, who were among the Twelve, did not believe in Him at that time. This excludes all His brothers, emphasizing that they were really and literally His brothers. They are absolutely excluded from the number of the Twelve. Their persistent refusal to believe in Jesus' Messianic assumptions is clear, even though they had witnessed earlier miracles. This verse demonstrates the small value of carnal relationship and the need to be a new creature in Christ; it does not matter if someone is related to Christ or allied to Him after the flesh unless they are new creatures in Him.",
+            "wordCount": 101,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 1.7434296350425011,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.31,
+            "commentatorTierSimilarities": [
+                38.09,
+                38.46,
+                23.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "His own brothers, who were among the Twelve, did not believe in Him at that time. This excludes all His brothers, emphasizing that they were really and literally His brothers. Their persistent refusal to believe in Jesus' Messianic assumptions is clear, even though they had witnessed earlier miracles. This verse demonstrates the small value of carnal relationship and the need to be a new creature in Christ; it does not matter if someone is related to Christ or allied to Him after the flesh unless they are new creatures in Him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.8528712057829755,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                37.34,
+                37.86,
+                24.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even Jesus' own brothers, who were among the Twelve, did not believe in Him at that time. Their refusal to accept His Messianic claims, despite witnessing miracles, highlights the importance of faith as a habitual and controlling belief. This serves as a reminder that carnal relationships hold little value in the spiritual realm. It is only by becoming new creatures in Christ that one truly aligns with Him, regardless of any earthly associations or allegiances.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.6255319159441437,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                33.47,
+                34.51,
+                32.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even Jesus' own brothers, who were among the Twelve, did not believe in Him at that time. The emphatic expression for even his brethren corroborates the view that they were really and literally His brothers. Their refusal to believe in His Messianic assumptions, despite witnessing earlier miracles, demonstrates their persistent lack of faith. This verse shows the insignificance of carnal relationship and the need for true discipleship centered around being new creatures in Christ, rather than relying on familial ties or earthly alliances.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8702275248936844,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                38.86,
+                38.63,
+                22.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even Jesus' own brothers, who were among the Twelve, did not believe in Him at that time. The emphatic expression for even his brethren corroborates the view that they were really and literally His brothers. Their refusal to believe in His Messianic assumptions, despite witnessing earlier miracles, demonstrates their persistent lack of faith. This verse shows the need for true discipleship centered around being new creatures in Christ, rather than relying solely on familial ties or earthly associations.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8831015946721354,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                39.59,
+                39.55,
+                20.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

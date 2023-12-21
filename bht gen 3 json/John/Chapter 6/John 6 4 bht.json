@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:06:39",
+    "verseRef": "John 6:4",
+    "bestBHT": {
+        "bht": "As the Passover approached, a multitude of people gathered, potentially preparing for their journey to Jerusalem. This mention of the Passover being near provides context for the subsequent discourse, suggesting the importance of this event. Jesus, however, did not attend this particular Passover due to the growing hostility in Jerusalem. This likely marks the third Passover in Christ's ministry, and the absence of Jesus at the feast reflects the rejection he faced from the religious authorities, transforming the feast into one associated primarily with the Jews.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.053411582289355,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.62,
+        "commentatorTierSimilarities": [
+            31.26,
+            39.32,
+            29.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This will account, not for so great a multitude coming to Him, but perhaps (?) for the circumstance that the people at that time were gathered in multitudes, ready to set out on their journey to Jerusalem.",
+            "We must remember also that the reference of the following discourse to the Passover being so pointed, the remark would naturally be here inserted by the Evangelist.",
+            "But I would not insist on this as the only reason for his making it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. passover . . . was nigh\u2014but",
+            "\tfor the reason mentioned (John 7:1),",
+            "\tJesus kept away from it, remaining in Galilee. ",
+            "\t",
+            "John 7:1- :. JESUS WALKS",
+            "\tON THE SEA. ",
+            "\t",
+            "(Also see on John 7:1- :)."
+        ],
+        "Albert Barnes": [
+            "The passover - See the notes at Matthew 26:2, Matthew 26:17.",
+            "A feast of the Jews - This is one of the circumstances of explanation thrown in by John which show that he wrote for those who were unacquainted with Jewish customs."
+        ],
+        "Marvin Vincent": [
+            "A feast [\u03b7 \u03b5\u03bf\u03c1\u03c4\u03b7] . With the definite article, the feast; pointing to something well known."
+        ],
+        "Philip Schaff": [
+            "The feast, which had before that time been robbed by them of its sanctity, belonged after their rejection of Him no longer to His Father but 'to the Jews.'",
+            "Even in such incidental notices as these John has not his eye only or chiefly on chronology.",
+            "The miracle and the discourses alike relate to the true Passover, the reality and substance of that feast which has now, alas! become 'the feast of the Jews.'"
+        ],
+        "Archibald T. Robertson": [
+            "This is probably the third passover in Christ's ministry.",
+            "John is fond of notes of time.",
+            "Jesus failed to go to this passover because of the hostility in Jerusalem."
+        ],
+        "John Gill": [
+            "This was the third passover, since our Lord's baptism, and entrance on his public ministry.",
+            "Thirty days before the feast, they began to talk about it; and especially in the last fifteen days, they made preparations for it, as being at hand.",
+            "If there was now so long time to it, there was time enough for Jesus to go to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the time when the Passover was near, many people were gathering in multitudes, possibly in preparation for their journey to Jerusalem. This reference to the Passover being close is significant because it sets the context for the following discourse. It is important to note that Jesus did not attend this particular Passover due to the growing hostility in Jerusalem. However, it is worth mentioning that John is known for his attention to specific time markers. Overall, this is likely the third Passover in Christ's ministry. Jesus's absence from the Passover emphasizes his rejection by the religious authorities and signifies the shift of the feast from belonging to God to belonging to the Jews.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.992985298113227,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                31.61,
+                38.25,
+                30.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the Passover approached, a multitude of people gathered, potentially preparing for their journey to Jerusalem. This mention of the Passover being near provides context for the subsequent discourse, suggesting the importance of this event. Jesus, however, did not attend this particular Passover due to the growing hostility in Jerusalem. This likely marks the third Passover in Christ's ministry, and the absence of Jesus at the feast reflects the rejection he faced from the religious authorities, transforming the feast into one associated primarily with the Jews.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.053411582289355,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.62,
+            "commentatorTierSimilarities": [
+                31.26,
+                39.32,
+                29.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people were gathered in multitudes as the Passover was near, which provides the context for the subsequent discourse. The mention of the Passover being close is significant, emphasizing its importance. Although Jesus did not attend this particular Passover due to the growing hostility in Jerusalem, this omission showcases his rejection by the religious authorities. This likely marks the third Passover in Christ's ministry and highlights the shift of the feast from being a divine celebration to being associated primarily with the Jews.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.0085837117276992,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                29.92,
+                39.76,
+                30.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the Passover drew near, a multitude of people had gathered, possibly in preparation for the journey to Jerusalem. This reference to the nearing Passover sets the stage for the subsequent discourse. Although Jesus did not attend this Passover due to the growing hostility in Jerusalem, his absence was notable. This is likely the third Passover in Christ's ministry, highlighting the rejection he faced from the religious authorities. It signifies the shift of the feast from a sacred celebration to one primarily associated with the Jews.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9891988446699713,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+            "commentatorTierSimilarities": [
+                30.3,
+                37.76,
+                31.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the Passover approached, a multitude of people gathered, possibly in anticipation of their journey to Jerusalem. The proximity of the Passover is significant, providing the context for the subsequent discourse. Jesus, however, did not attend this particular Passover due to the growing hostility in Jerusalem. It is the likely third Passover in Christ's ministry, and his absence highlights the rejection he faced from the religious authorities. Consequently, the feast transformed from a sacred event to one primarily associated with the Jews.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9374741617269122,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                30.45,
+                40.1,
+                29.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

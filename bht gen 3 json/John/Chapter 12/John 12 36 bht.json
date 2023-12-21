@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:11:21",
+    "verseRef": "John 12:36",
+    "bestBHT": {
+        "bht": "By believing in Jesus as the Messiah, we can become sons of Light. Jesus, speaking words filled with love and dignity, had to 'hide Himself' because they were not yet enlightened. He retreated, probably to Bethany, for his safety. Jesus urges them to embrace the light and believe in him as the Messiah, so they can become enlightened and children of light. By embracing Jesus and his teachings, we can become sons of light, shining in the darkness without being overcome by it.",
+        "wordCount": 83,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 1.9630080878758736,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+        "commentatorTierSimilarities": [
+            26.65,
+            41.96,
+            31.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is by believing on the Light, that men become sons of Light.",
+            "Our Lord probably went on this occasion to Bethany, Luke xxi. 37."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He who spake as never man spake, and immediately after words fraught with unspeakable dignity and love, had to 'hide Himself' from His auditors!\" (Commentary)",
+            "What then must they have been?\" (Commentary)",
+            "He retired, probably to Bethany.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "That he was the light, or was the Messiah.",
+            "Jesus never aroused the prejudices of men unnecessarily, yet he never shrank from declaring to them the truth in some way, however unpalatable it might be.",
+            "That ye may be the friends and followers of the Messiah."
+        ],
+        "John Calvin": [
+            "Believe in the light. He exhorts them to retain by faith the possession of the light...\" (Commentary)",
+            "He gives the appellation, children of light, to those who, like true heirs, enjoy it to the end.\" (Commentary)",
+            "For the strangers, who had gone out to meet Christ, followed him even to the temple...\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "As ye have the light, believe in the light. Nay, not only let them come to the light, but let them take a higher step and \u2018believe in\u2019 the light, that is, commit in trust their whole being to the light.",
+            "That ye may become sons of light, light your father, the element of your being, and no darkness at all in you.",
+            "...we believing in Him, embracing Him in a true communion, taking His life, His light, into ourselves, may also become sons of light, shining in the darkness, and the darkness overcoming us not."
+        ],
+        "Archibald T. Robertson": [
+            "Believe in me as the Messiah.",
+            "They were not 'sons of light,' a Hebrew idiom... It is equivalent to 'enlightened men.'",
+            "He was hidden from them."
+        ],
+        "John Gill": [
+            "Receive the Messiah, and credit the Gospel revelation; this is an explanation of the exhortation in the preceding verse.\" ",
+            "Such are truly so, who are made light in the Lord, or who are enlightened by the Spirit of God to see their own sinfulness, impotency, and unrighteousness, and their need of Christ, and his righteousness and strength, and of salvation by him.",
+            "For his safety, for he knew that they were irritated by what he said, and would seek to lay hold upon him, and deliver him to the sanhedrim; and whereas his hour was not yet fully come, he provided for his security, by absconding from them."
+        ],
+        "John Wesley": [
+            "The children of light \u2014 The children of God, wise, holy, happy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By believing in Jesus as the Messiah, we can become enlightened and become sons of light. Jesus, speaking with unspeakable dignity and love, had to hide himself from his listeners because they were not yet enlightened. He retreats, likely to Bethany, to protect himself from those who would seek to harm him. Jesus urges his audience to embrace the light and believe in him as the Messiah, so that they may become children of light. By embracing Jesus and his teachings, we can become enlightened by the Spirit of God and experience the salvation he offers. We are called to be wise, holy, and happy as the children of God, shining in the darkness without being overcome by it.",
+            "wordCount": 119,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.8878218575025445,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.11,
+            "commentatorTierSimilarities": [
+                23.85,
+                39.67,
+                36.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By believing in Jesus as the Messiah, we can become sons of Light. Jesus, speaking words filled with love and dignity, had to 'hide Himself' because they were not yet enlightened. He retreated, probably to Bethany, for his safety. Jesus urges them to embrace the light and believe in him as the Messiah, so they can become enlightened and children of light. By embracing Jesus and his teachings, we can become sons of light, shining in the darkness without being overcome by it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 1.9630080878758736,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                26.65,
+                41.96,
+                31.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By believing in the Light, we can become sons of Light. Jesus, after speaking with incredible dignity and love, had to 'hide Himself' because His audience was not yet enlightened. He likely retreated to Bethany for safety. Jesus urges them to embrace the light and believe in Him as the Messiah. By doing so, they can become children of light, shining in the darkness without being overcome. Through embracing Jesus and His teachings, we can become enlightened and live as children of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.8410790135833168,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                26.28,
+                41.78,
+                31.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believing in the Light, we become sons of Light. Jesus, who spoke with unmatched authority and love, had to 'hide Himself' from His listeners who were not yet enlightened. He likely withdrew to Bethany for safety. Jesus encourages them to embrace the light and believe in Him as the Messiah. By doing so, they can become children of light, shining brightly in the darkness. Through embracing Jesus and His teachings, we can experience enlightenment and live as children of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.863304377355486,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                26.34,
+                41.8,
+                31.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believing in the Light makes us sons of Light. Jesus, who spoke with unparalleled authority and love, had to 'hide Himself' from His auditors who were not yet enlightened. He probably withdrew to Bethany for safety. Jesus urges them to embrace the light and believe in Him as the Messiah. By doing so, they can become children of light, shining brightly in the darkness. Through embracing Jesus and His teachings, we can experience enlightenment and live as children of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.8471911241805092,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                25.82,
+                42.0,
+                32.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

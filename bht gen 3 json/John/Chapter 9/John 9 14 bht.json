@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-21-2023 03:09:14",
+    "verseRef": "John 9:14",
+    "bestBHT": {
+        "bht": "On the Sabbath day, Jesus made clay, which was seen as a servile work by the Pharisees. The blind man recognized as the beggar they had known, and the Pharisees accused Jesus of breaking the Sabbath. This incident serves as an example that following Christ may cause opposition from those who oppose the Gospel. Anointing the man's eyes with clay on the Sabbath was also prohibited according to the tradition of the elders.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.09826104008788,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+        "commentatorTierSimilarities": [
+            33.4,
+            25.09,
+            41.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The making the clay, as a servile work, seems to be here prominently mentioned.",
+            "The man, in verses 11 and 15, only relates what he himself, as being blind, had felt: he says nothing of the spittle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Is not this he that sat and begged\u2014Here are a number of details to identify the newly seeing with the long-known blind beggar."
+        ],
+        "Marvin Vincent": [
+            "It was the Sabbath day when [\u03b7\u03bd \u03b4\u03b5 \u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03bf\u03bd \u03bf\u03c4\u03b5] . The best texts read, instead of ote when, ejn h= hJmera on which day. Literally, it was a Sabbath on the day on which."
+        ],
+        "John Calvin": [
+            "Why then does he not avoid the offense \u2014 which he could easily have done \u2014 but because the defense malignantly undertaken by men would tend to magnify the power of God?",
+            "The Sabbath-day serves as a whetstone to sharpen them, to inquire more eagerly into the whole matter.",
+            "We are taught by this example that, if we would follow Christ, we must excite the wrath of the enemies of the Gospel."
+        ],
+        "Philip Schaff": [
+            "The only offence expressly mentioned there was the carrying of the bed, though there is no doubt that the charge against Jesus related not to this only but also to the performance of the cure.",
+            "Here the two counts of the accusation are distinctly presented in their separation from each other, (1) Jesus had made the clay; (2) He had opened the man\u2019s eyes.",
+            "So here in reference to the same day He says, \u2018We must work the works of Him that sent me.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "To the Pharisees this fact was a far more important matter than whether or how the thing was done.",
+            "See Volumes I and II for discussions of the minute Sabbath regulations of the rabbis."
+        ],
+        "John Gill": [
+            "Which was reckoned a violation of the sabbath...",
+            "nor did the miracle, nor the good done to the man, excuse with them, what they thought a breach of the sabbath.",
+            "nor did the miracle, nor the good done to the man, excuse with them, what they thought a breach of the sabbath."
+        ],
+        "John Wesley": [
+            "Anointing the eyes \u2014 With any kind of medicine on the Sabbath, was particularly forbidden by the tradition of the elders."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the Sabbath day, Jesus made clay, which was seen as a servile work by the Pharisees. The blind man, who had been healed, was recognized by others as the beggar they had known for a long time. The Pharisees, more concerned with Sabbath regulations than with the miracle itself, accused Jesus of breaking the rules. This incident serves as an example that following Christ may cause us to face opposition from those who oppose the Gospel, as it did for Jesus. The anointing of the man's eyes with clay on the Sabbath was also prohibited according to the tradition of the elders.",
+            "wordCount": 104,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.0583395047059394,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+            "commentatorTierSimilarities": [
+                32.48,
+                27.07,
+                40.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the Sabbath day, Jesus made clay, which was seen as a servile work by the Pharisees. The blind man recognized as the beggar they had known, and the Pharisees accused Jesus of breaking the Sabbath. This incident serves as an example that following Christ may cause opposition from those who oppose the Gospel. Anointing the man's eyes with clay on the Sabbath was also prohibited according to the tradition of the elders.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.09826104008788,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                33.4,
+                25.09,
+                41.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the Sabbath day, Jesus made clay, which was seen as a servile work by the Pharisees. The blind man, recognized as the beggar, had felt the miracle but did not mention the use of spittle. The Pharisees were more concerned with the breaking of Sabbath regulations than with the actual healing. This incident serves as a reminder that following Christ may lead to opposition from those who oppose the Gospel. The anointing of the man's eyes with clay on the Sabbath was strictly forbidden according to the tradition of the elders.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0464629008589905,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                33.49,
+                24.89,
+                41.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus made clay on the Sabbath, which the Pharisees considered a servile work. The blind man, who had personally experienced the miracle, mentioned nothing about the spittle used. The Pharisees were more concerned about Sabbath regulations than the actual healing. This incident serves as a reminder that following Christ may invite opposition from those who oppose the Gospel. Anointing the man's eyes with clay on the Sabbath was strictly forbidden according to the traditions of the elders.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.031887970599281,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                34.09,
+                24.59,
+                41.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, on the Sabbath, made clay, which the Pharisees deemed a servile work. The blind man himself, having experienced the miracle, made no mention of the use of spittle. The Pharisees were more preoccupied with Sabbath regulations than with the actual healing. This event serves as a lesson that following Christ may invite opposition from those who oppose the Gospel. Anointing the man's eyes with clay on the Sabbath was strictly prohibited according to the traditions of the elders.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.997864470989947,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.77,
+            "commentatorTierSimilarities": [
+                34.13,
+                24.05,
+                41.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

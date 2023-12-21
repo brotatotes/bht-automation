@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:04:44",
+    "verseRef": "John 3:24",
+    "bestBHT": {
+        "bht": "Hence, it is plain that our Lord's ministry did not commence with the imprisonment of John; we should have drawn that inference from Mark's express statement. The reason for the imprisonment having been given by Luke, the periphrastic past perfect indicative of \u03b2\u03b1\u03bb\u03bb\u03c9 explains why John was still baptizing. This circumstance shows that these things were done before that journey of Christ into Galilee.",
+        "wordCount": 66,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 1.9380535264656031,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+        "commentatorTierSimilarities": [
+            31.87,
+            24.86,
+            43.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Hence it is plain that our Lord's ministry did not commence with the imprisonment of John.",
+            "we should have drawn that inference from",
+            "Mark's (Mark 1:14) express statement."
+        ],
+        "Albert Barnes": [
+            "The design of John was to call men to repentance, and to prepare them for the Messiah, and this he continued to do after our Saviour commenced his work.",
+            "It shows that a minister of religion should be industrious to the day of his death.",
+            "So ministers should not labor less when Christ appears by his Spirit, and takes the work into his own hands, and turns many to himself."
+        ],
+        "Marvin Vincent": [
+            "Prison [\u03c4\u03b7\u03bd \u03c6\u03c5\u03bb\u03b1\u03ba\u03b7\u03bd] . See on Acts 5:18, Acts 5:21."
+        ],
+        "Philip Schaff": [
+            "For John was not yet cast into prison.\" ",
+            "Words in which the Evangelist vindicates the accuracy of his narrative.\" ",
+            "The false inference is here corrected."
+        ],
+        "Archibald T. Robertson": [
+            "Periphrastic past perfect indicative of \u03b2\u03b1\u03bb\u03bb\u03c9 explaining (\u03b3\u03b1\u03c1) why John was still baptizing.\" ",
+            "The reason for the imprisonment having been given by Luke (Luke 3:19)."
+        ],
+        "John Gill": [
+            "For John was not yet cast into prison.\" ",
+            "This circumstance shows, that these things were done before that journey of Christ into Galilee.",
+            "John reproved Herod for taking Herodias to be his wife, when she was wife to his brother Philip."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hence, it is plain that our Lord's ministry did not commence with the imprisonment of John; we should have drawn that inference from Mark's express statement. The reason for the imprisonment having been given by Luke, the periphrastic past perfect indicative of \u03b2\u03b1\u03bb\u03bb\u03c9 explains why John was still baptizing. This circumstance shows that these things were done before that journey of Christ into Galilee. John's continued ministry despite the presence of Jesus emphasizes the importance of ministers being industrious until the end.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8088634039301983,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                29.97,
+                27.76,
+                42.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hence, it is plain that our Lord's ministry did not commence with the imprisonment of John; we should have drawn that inference from Mark's express statement. The reason for the imprisonment having been given by Luke, the periphrastic past perfect indicative of \u03b2\u03b1\u03bb\u03bb\u03c9 explains why John was still baptizing. This circumstance shows that these things were done before that journey of Christ into Galilee.",
+            "wordCount": 66,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.9380535264656031,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                31.87,
+                24.86,
+                43.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Hence, it is plain that our Lord's ministry did not commence with the imprisonment of John; we should have drawn that inference from Mark's express statement. The reason for the imprisonment having been given by Luke, the periphrastic past perfect indicative of \u03b2\u03b1\u03bb\u03bb\u03c9 explains why John was still baptizing. This circumstance shows that these things were done before that journey of Christ into Galilee, emphasizing the importance of ministers being industrious until the end.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8843812687112758,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                32.22,
+                28.22,
+                39.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hence, it is plain that our Lord's ministry did not commence with the imprisonment of John; we should have drawn that inference from Mark's express statement. The reason for the imprisonment having been given by Luke, the periphrastic past perfect indicative of \u03b2\u03b1\u03bb\u03bb\u03c9 explains why John was still baptizing. This circumstance shows that these things were done before that journey of Christ into Galilee, emphasizing the importance of ministers being industrious until the end.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.8843812687112758,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                32.22,
+                28.22,
+                39.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is evident that our Lord's ministry did not begin with John's imprisonment, as indicated by Mark's statement. The reason for John's continued ministry, despite the impending imprisonment, is clarified by Luke. This sequence of events preceded Christ's journey into Galilee, highlighting the dedication of ministers to their work until the end.",
+            "wordCount": 57,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.7335627854652478,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                33.35,
+                30.13,
+                36.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

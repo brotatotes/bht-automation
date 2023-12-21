@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-21-2023 03:09:12",
+    "verseRef": "John 9:21",
+    "bestBHT": {
+        "bht": "The parents admit their ignorance about who opened their son's eyes and direct the questioners to ask him directly since he is of age and can speak for himself. Their lack of knowledge about the details of the miracle, just like the Pharisees, suggests that they only have the son's account of the healing. The use of emphasis on himself underscores the son's maturity and capability to provide an explanation.",
+        "wordCount": 73,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.5796731075108124,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+        "commentatorTierSimilarities": [
+            27.61,
+            42.59,
+            29.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Who hath opened his eyes we know not: ask him: he is of age: he shall speak for himself.",
+            "The pronouns in the latter part of the verse are emphatic.",
+            "He shall speak for himself."
+        ],
+        "Philip Schaff": [
+            "The anxious care of the parents to keep clear of all testimony to Jesus is strikingly shown...\" (John 9:21). ",
+            "The emphasis thrown on 'himself' as they refer the questioners to their son.\" (John 9:21). ",
+            "Ask himself; he is of age: he shall speak for himself.\" (John 9:21)."
+        ],
+        "Archibald T. Robertson": [
+            "Concerning the third question they profess ignorance both as to the 'how' (\u03c0\u03c9\u03c2) and the 'who' (\u03c4\u03b9\u03c2).\" ",
+            "They were not witnesses of the cure and had the story only from the son as the Pharisees had.",
+            "He is of age (\u03b7\u03bb\u03b9\u03ba\u03b9\u03b1\u03bd \u03b5\u03c7\u03b5). 'He has maturity of age.' He is an adult."
+        ],
+        "John Gill": [
+            "He is of age... ask him, he shall speak for himself.\"  ",
+            "Their sense is, he is capable of giving an account of himself in this matter, and he will do it.\"  ",
+            "Put the question to him, and a proper answer will be returned."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parents, in response to the Pharisees' questions, claim ignorance. They were not witnesses of the miracle and must rely on their son's account. The verse emphasizes the son's maturity and ability to speak for himself. The parents are careful to distance themselves from any involvement with Jesus, directing the questioners to ask their son directly. The son is deemed capable of providing a credible response.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.5303450426466902,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                26.74,
+                46.53,
+                26.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parents, unsure of how their son's eyes were opened or who performed the miracle, defer to their son's testimony. The verse emphasizes the son's adulthood and ability to speak for himself. The parents, eager to avoid implicating themselves with Jesus, instruct the questioners to seek answers from their son directly. The son's maturity is highlighted, conveying his competence to provide a credible account.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.539938013364446,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                25.03,
+                48.71,
+                26.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parents admit their ignorance about who opened their son's eyes and direct the questioners to ask him directly since he is of age and can speak for himself. Their lack of knowledge about the details of the miracle, just like the Pharisees, suggests that they only have the son's account of the healing. The use of emphasis on himself underscores the son's maturity and capability to provide an explanation.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.5796731075108124,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                27.61,
+                42.59,
+                29.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parents, acknowledging their lack of knowledge regarding the one who opened their son's eyes, advise the questioners to ask him directly. The emphasis on himself highlights the son's independence and ability to speak for himself. Their ignorance, similar to the Pharisees, implies that they rely solely on their son's testimony. The parents recognize their son's maturity, emphasizing that he is an adult capable of providing a firsthand account.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.5421423049289014,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                27.82,
+                45.09,
+                27.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parents, unsure of how their son's eyes were opened or who performed the miracle, defer to their son's testimony. The verse emphasizes the son's adulthood and ability to speak for himself. The parents, eager to avoid implicating themselves with Jesus, instruct the questioners to seek answers from their son directly. The son's maturity is highlighted, conveying his competence to provide a credible account.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.539938013364446,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                25.03,
+                48.71,
+                26.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

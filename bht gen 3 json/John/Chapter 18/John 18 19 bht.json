@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:14:11",
+    "verseRef": "John 18:19",
+    "bestBHT": {
+        "bht": "In the face of a preliminary examination, Jesus calmly responded to the high priest's attempts to incriminate Him. The high priest questioned Jesus about His disciples and teachings, possibly to trap Him. Yet Jesus redirected the focus to the world, emphasizing that He had spoken openly and not in secret. He showed His willingness to defend His teachings, while reproving the high priest's impudence. Despite facing opposition, Jesus, in His perfect innocence, fearlessly confronted and defeated His enemies.",
+        "wordCount": 80,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 2.084881884223098,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+        "commentatorTierSimilarities": [
+            32.06,
+            32.35,
+            35.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This preliminary enquiry seems to have had for its object to induce the prisoner to criminate himself.\" ",
+            "His disciples... how many, and who they were, and with what object gathered together;\u2014and what His customary teaching of them had been.",
+            "But He substitutes for them 'the world,' to which He had spoken plainly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His disciples were understood to be some secret party.",
+            "The high priest . . . asked Jesus of his disciples, and of his doctrine\u2014probably to entrap Him into some statements.",
+            "From our Lord's answer it would seem that 'His disciples' were understood to be some secret party."
+        ],
+        "Albert Barnes": [
+            "The charge on which they wished to arraign him was that of sedition, or of rebellion against Caesar.",
+            "To make that plausible, it was necessary to show that he had made so many disciples as to form a strong and dangerous faction.",
+            "His doctrine - His teaching. The sentiments that he inculcated."
+        ],
+        "Marvin Vincent": [
+            "Asked [\u03b7\u03c1\u03c9\u03c4\u03b7\u03c3\u03b5\u03bd] . Or, questioned. ",
+            "Doctrine [\u03b4\u03b9\u03b4\u03b1\u03c7\u03b7\u03c2] . Rev., better, teaching."
+        ],
+        "John Calvin": [
+            "Our Lord (140) Jesus Christ, having completely and faithfully discharged the office of teacher, does not enter into a new defense; but, that he may not abandon the cause of truth, he shows that he was prepared to defend all that he had taught.",
+            "Yet he likewise reproves the impudence of the high priest, who inquires about a matter perfectly well known, as if it had been doubtful.",
+            "Not satisfied with having rejected the Redeemer offered, together with the salvation promised to them, they likewise condemn all the exposition of the Law."
+        ],
+        "Philip Schaff": [
+            "The object of the narrative is to direct our attention mainly to Jesus.",
+            "The Evangelist would place Him before us in the dignity and calmness with which He bore His sufferings.",
+            "In the consciousness of that perfect innocence through which He was able to confront, and really to defeat, His enemies in what seemed the very height of their power."
+        ],
+        "Archibald T. Robertson": [
+            "This was Annas making a preliminary examination of Jesus probably to see on what terms Jesus made disciples."
+        ],
+        "John Gill": [
+            "He first inquires of his disciples, not so much who they were, and what they were, and how many they were, and where they were now, as for what purpose he gathered them together...",
+            "The Jews indeed pretend that after Jesus was found guilty, a herald went before him forty days declaring his crime, and signifying, that if anyone knew anything worthy in him, to come and declare it; but none were found: but this is all lies and falsehood, to cover their wickedness; no disciple of his was allowed to speak for him.",
+            "The high priest next asked Jesus of his doctrine; not for the sake of information and instruction, nor to see whether it was according to the Scriptures; but if it was a new doctrine, and his own, and whether it tended to idolatry or blasphemy, and whether it was factious and seditious, that so they might have wherewith to accuse him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the face of a preliminary examination filled with traps and questions aimed at incriminating Him, Jesus remained calm and dignified. Annas, the high priest, sought to expose Jesus as a dangerous rebel who had amassed a strong faction of disciples. However, Jesus redirected the conversation towards the world, acknowledging that His teachings were not secret and that He had spoken openly to all. He showed His readiness to defend everything He had taught and reproved the impudence of the high priest's questions. Even though Jesus faced opposition and rejection, His perfect innocence allowed Him to confront and ultimately defeat His enemies.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.9608962002622445,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.54,
+            "commentatorTierSimilarities": [
+                28.79,
+                34.47,
+                36.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of a preliminary examination, Jesus calmly responded to the high priest's attempts to incriminate Him. The high priest questioned Jesus about His disciples and teachings, possibly to trap Him. Yet Jesus redirected the focus to the world, emphasizing that He had spoken openly and not in secret. He showed His willingness to defend His teachings, while reproving the high priest's impudence. Despite facing opposition, Jesus, in His perfect innocence, fearlessly confronted and defeated His enemies.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.084881884223098,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                32.06,
+                32.35,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of a preliminary examination, Jesus stood firm and composed as the high priest attempted to trap Him. The high priest's questions were aimed at exposing Jesus as a rebel who had secretive disciples and dangerous teachings. However, Jesus skillfully redirected the conversation, highlighting that His teachings were not secret but spoken openly to the world. He showed His readiness to defend all that He had taught, while reproving the impudence of the high priest's inquiries. Despite facing opposition, Jesus, in His perfect innocence, fearlessly confronted and triumphed over His adversaries.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.9969398135286056,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+            "commentatorTierSimilarities": [
+                30.19,
+                31.93,
+                37.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During a preliminary examination, Jesus faced the high priest's attempts to trap Him. The high priest questioned Jesus about His disciples and teachings in order to find grounds for accusation. Jesus, however, steered the conversation towards the world, affirming that His teachings were not secretive but openly spoken and not intended for a select few. He demonstrated his willingness to defend all that He had taught, while reproving the audacity of the high priest's inquiry. In his perfect innocence, Jesus fearlessly confronted and ultimately defeated his adversaries.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.0577855063687114,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.76,
+            "commentatorTierSimilarities": [
+                32.39,
+                30.72,
+                36.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of a preliminary examination filled with traps, Jesus remained calm. The high priest questioned Him about His disciples and teachings, possibly seeking to incriminate Him. Yet Jesus redirected the conversation towards the world, acknowledging that His teachings were not secret. He showed His readiness to defend everything He had taught and reproved the impudence of the high priest's questions. In His perfect innocence, Jesus fearlessly confronted and defeated His enemies, demonstrating His unwavering commitment to the truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.9606365949136202,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                32.09,
+                32.2,
+                35.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

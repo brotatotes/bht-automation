@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:14:04",
+    "verseRef": "John 18:3",
+    "bestBHT": {
+        "bht": "As they approached the garden, carrying lanterns and torches, the soldiers were prepared for Jesus potentially hiding in dark places. Judas, betraying Jesus with a kiss, marked the foulest act with the appearance of tender affection. This group consisted of the band from the Roman garrison and the temple police, ensuring the task would be carried out. Their inclusion of lights, despite the full moon, signified their determination to find Jesus, bracing against the possibility of him eluding capture.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.9000642050926184,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.52,
+        "commentatorTierSimilarities": [
+            37.26,
+            40.28,
+            22.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Lanterns and torches were part of the utensils of military on a night march.",
+            "The latter of these appear to be strictly torches,\u2014some blazing substance held in the hand;\u2014and the former, lights, fed with oil.",
+            "The fact of its being full moon did not make the lights unnecessary, as, in searching for a prisoner, they might have to enter dark places."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that was called Judas, one of the Twelve [...] in the sacred circle while in no sense of it.",
+            "Now he that betrayed Him had given them a sign, saying, Whomsoever I shall kiss, that same is He, hold Him fast.",
+            "Betrayest thou the Son of man with a kiss\u2014imprinting upon the foulest act the mark of tenderest affection? What wounded feeling does this express! Of this Jesus showed Himself on various occasions keenly susceptible\u2014as all generous and beautiful natures do."
+        ],
+        "Albert Barnes": [
+            "John passes over the agony of Jesus in the garden, probably because it was so fully described by the other evangelists.",
+            "This was the time of the full moon, but it might have been cloudy, and their taking lights with them shows their determination to find him."
+        ],
+        "Marvin Vincent": [
+            "The band, or cohort, was from the Roman garrison in the tower of Antonia.",
+            "The temple police. The Synoptists speak of the body which arrested Jesus as oclov, a multitude or rabble; but both Matthew and Mark mention the band [\u03c3\u03c0\u03b5\u03b9\u03c1\u03b1] later in the narrative.",
+            "Though it was full moon, it was feared that Jesus might hide and escape."
+        ],
+        "John Calvin": [
+            "That Judas came accompanied by soldiers and by so large a retinue, is a sign of a bad conscience, which always trembles without any cause.",
+            "It is certain that the band of soldiers was borrowed from the governor, who also sent a captain at the head of a thousand soldiers.",
+            "John makes separate mention of the Pharisee, because they were more enraged than all the rest, as if they had cared more about religion."
+        ],
+        "Philip Schaff": [
+            "The mention of \u2018the band\u2019 has been made an object of ridicule, as if it could only mean \u2018half a Roman army.\u2019 The ridicule is groundless.",
+            "The Romans in all probability did not think of one man only to be made prisoner, but of the danger of a popular tumult.",
+            "The trees of the garden made \u2018lanterns and torches\u2019 necessary. Although the moon was near the full, the Jews would imagine that Jesus might hide Himself in the covert and so escape."
+        ],
+        "Archibald T. Robertson": [
+            "[The soldiers] secured from the Tower of Antonia.",
+            "Judas took no chances for it may have been cloudy and there were dark places by the walls and under the olive trees.",
+            "Probably the temple guard had weapons as well as the soldiers."
+        ],
+        "John Gill": [
+            "A large number indeed, to take an unarmed person.",
+            "To see that the men did their work, and did not return without him.",
+            "As if they had a thief or a murderer to apprehend, or a little army of men to encounter with."
+        ],
+        "John Wesley": [
+            "A troop of soldiers \u2014 A cohort of Roman foot."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As they approached the garden, the soldiers carried lanterns and torches, for they feared that Jesus might hide in the dark and escape. Judas, the one who betrayed Jesus, had given them a sign, saying, Whomsoever I shall kiss, that same is He, hold Him fast. How tragic and poignant it is that the Son of man would be betrayed with a kiss, the mark of tender affection transformed into the symbol of the foulest act. Accompanied by a band of soldiers from the Roman garrison, there were both temple police and the temple guard present. Their determination to find Jesus was evident in their carrying of lights, even though it was a full moon. The mention of the band has been misunderstood, as it refers to a cohort of Roman foot. It is clear that this large assembly was a precautionary measure, fearing not only the escape of Jesus, but also the possibility of a popular uproar.",
+            "wordCount": 158,
+            "quoteTokenProportion": 41.75,
+            "qualityScore": 1.980937571794637,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.21,
+            "commentatorTierSimilarities": [
+                34.57,
+                38.25,
+                27.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As they entered the garden, carrying lanterns and torches, the soldiers were prepared for a night march, not wanting the full moon to be a hindrance in their search for Jesus. Judas, in his act of betrayal, marked Jesus with a kiss\u2014converting a sign of affection into the gravest betrayal. The soldiers, hailing from the Roman garrison, were accompanied by the temple police, both groups armed with weapons. It is evident that this large gathering was not only to apprehend Jesus, but also to prevent any potential uprising, showing their determination to find him by bringing lights in case he took refuge in dark places within the garden.",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 2.001140912667884,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.88,
+            "commentatorTierSimilarities": [
+                34.45,
+                37.75,
+                27.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As they ventured into the garden, the soldiers carried lanterns and torches, prepared for a potential night escape by Jesus in dark corners. Symbolically, Judas betrayed the Son of man with a kiss, a tender gesture transformed into the vilest act. This assembly included the band from the Roman garrison and the temple police, armed with weapons. Their mission was not only to capture Jesus but also to prevent any disturbance, as they anticipated the possibility of a tumultuous response from the people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.81888892804013,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.82,
+            "commentatorTierSimilarities": [
+                35.03,
+                36.89,
+                28.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As they approached the garden, carrying lanterns and torches, the soldiers were prepared for Jesus potentially hiding in dark places. Judas, betraying Jesus with a kiss, marked the foulest act with the appearance of tender affection. This group consisted of the band from the Roman garrison and the temple police, ensuring the task would be carried out. Their inclusion of lights, despite the full moon, signified their determination to find Jesus, bracing against the possibility of him eluding capture.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9000642050926184,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.52,
+            "commentatorTierSimilarities": [
+                37.26,
+                40.28,
+                22.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As they entered the garden, the soldiers carried lanterns and torches to navigate the potential darkness. Judas, one of the Twelve, betrayed Jesus with a kiss\u2014an act that juxtaposed profound love with the deepest treachery. The assembly was comprised of the Roman cohort from the tower of Antonia and the temple police. Their purpose was twofold: to apprehend Jesus and to prevent any attempt at escape. The soldiers were well-armed, prepared for an unarmed person, as they took precautions in the uncertain light of the full moon.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8478415277054077,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                33.8,
+                36.37,
+                29.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

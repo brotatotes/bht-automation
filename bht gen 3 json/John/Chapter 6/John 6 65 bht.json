@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:07:28",
+    "verseRef": "John 6:65",
+    "bestBHT": {
+        "bht": "Those who do not believe in Jesus have not experienced the drawing of the Father, which is necessary for true coming to Him. The Father has the power to give both the ability to come to Jesus and to believe in Him. The impulse to faith comes from God. The words of Jesus were a stumbling block to the unbelievers, who had not come to Him and received the gift from the Father.",
+        "wordCount": 73,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0557566395523654,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+        "commentatorTierSimilarities": [
+            30.08,
+            39.25,
+            30.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These unbelievers had not that drawing to Christ, which leads to true coming to Him.",
+            "Observe the parallelism between it were given him here, and all that which the Father giveth me.",
+            "Both these gifts are in the Father\u2019s power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That was why I spoke to you of the necessity of divine teaching which some of you are strangers to.",
+            "Plainly showing that by the Father's 'drawing' was meant an internal and efficacious operation.",
+            "It must be 'given to a man to come' to Christ."
+        ],
+        "John Calvin": [
+            "Faith is an uncommon and remarkable gift of the Spirit of God, that we may not be astonished that the Gospel is not received in every place and by all.",
+            "No man, whatever may be his acuteness, can arrive at faith by his own sagacity; for all are blind, until they are illuminated by the Spirit of God.",
+            "There is no other reason why God draws, than because out of free grace he loves us; for what we obtain by the gift and grace of God, no man procures for himself by his own industry."
+        ],
+        "Philip Schaff": [
+            "His words had been to them a stumbling-block and had not brought life.",
+            "They had not really come to Him: they had not received from the Father the gift of 'coming unto' Jesus.",
+            "Having resisted the drawing of the Father, they had lacked the due preparation of heart for receiving the words of Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "The impulse to faith comes from God.",
+            "Jesus does not expect all to believe.",
+            "Judas did not truly believe."
+        ],
+        "John Gill": [
+            "No man can come to me, except it be given him of my Father.\" ",
+            "Faith in Christ is the gift of God.\" ",
+            "Coming to him is owing to efficacious grace, and is not the produce of man's power and freewill."
+        ],
+        "John Wesley": [
+            "Unless it be given \u2014 And it is given to those only who will receive it on God's own terms."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who do not believe in Jesus have not experienced the drawing of the Father, which is necessary for true coming to Him. The Father has the power to give both the ability to come to Jesus and to believe in Him. This emphasizes the necessity of divine teaching, as some are not familiar with it. The Father's drawing is not simply an external invitation, but an internal and powerful operation. The impulse to faith comes from God, and not all are expected to believe. Even Judas, one of the disciples, did not truly believe. The words of Jesus were a stumbling block to the unbelievers, who had not come to Him and received the gift from the Father. They resisted the Father's drawing and lacked the proper preparation of heart to receive Jesus' words. Faith is a remarkable gift of the Spirit of God, and the Gospel is not received everywhere and by all. No one can come to Jesus by their own wisdom or effort, as all are blind until illuminated by the Spirit. God draws us out of free grace and love. Faith is the gift of God and coming to Jesus is due to His efficacious grace. It is only given by the Father to those who receive it on His terms.",
+            "wordCount": 218,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.8588681560867446,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                28.27,
+                36.81,
+                34.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who do not believe in Jesus have not experienced the drawing of the Father, which is necessary for true coming to Him. The Father has the power to give both the ability to come to Jesus and to believe in Him. The impulse to faith comes from God, and not all are expected to believe. The words of Jesus were a stumbling block to the unbelievers, who had not come to Him and received the gift from the Father. Faith is a remarkable gift of the Spirit of God, and coming to Jesus is due to His efficacious grace.",
+            "wordCount": 100,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 2.0527671273083143,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+            "commentatorTierSimilarities": [
+                28.6,
+                37.67,
+                33.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who do not believe in Jesus have not experienced the drawing of the Father, which is necessary for true coming to Him. The Father has the power to give both the ability to come to Jesus and to believe in Him. The impulse to faith comes from God, and not all are expected to believe. The words of Jesus were a stumbling block to the unbelievers, who had not come to Him and received the gift from the Father. Faith is a remarkable gift of God and coming to Jesus is due to His efficacious grace.",
+            "wordCount": 97,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0556016607843177,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                28.57,
+                37.7,
+                33.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who do not believe in Jesus have not experienced the drawing of the Father, which is necessary for true coming to Him. The Father has the power to give both the ability to come to Jesus and to believe in Him. The impulse to faith comes from God. The words of Jesus were a stumbling block to the unbelievers, who had not come to Him and received the gift from the Father. Faith is a remarkable gift of God and coming to Jesus is due to His efficacious grace.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 2.0143522373253355,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.32,
+            "commentatorTierSimilarities": [
+                29.4,
+                37.59,
+                33.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who do not believe in Jesus have not experienced the drawing of the Father, which is necessary for true coming to Him. The Father has the power to give both the ability to come to Jesus and to believe in Him. The impulse to faith comes from God. The words of Jesus were a stumbling block to the unbelievers, who had not come to Him and received the gift from the Father.",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0557566395523654,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.69,
+            "commentatorTierSimilarities": [
+                30.08,
+                39.25,
+                30.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:08:06",
+    "verseRef": "John 7:30",
+    "bestBHT": {
+        "bht": "Despite the people's eagerness to seize Jesus, they were hindered, potentially by fear of the crowd, but mainly because it was not yet God's appointed time for Him to be taken. Their inability to harm Him was fueled by both their malice and impotence. Jesus' claim to be sent from God sparked controversy and led to their desire to apprehend Him. However, they were unable to do so because God's timing had not yet arrived. Jesus' persecution and crucifixion were part of a preordained plan, and the Father's protection shielded Him until the appointed hour.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.8426674448132592,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+        "commentatorTierSimilarities": [
+            22.56,
+            43.47,
+            33.97
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was some secondary hindrance to their laying hands on Him, possibly the fear of the people.",
+            "The Evangelist passes at once to the real cause; that God's appointed time was not yet come.",
+            "God's appointed time was not yet come."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "30-32. sought to take . . . none",
+            "\tlaid hands\u2014their impotence being equal to their",
+            "\tmalignity."
+        ],
+        "Albert Barnes": [
+            "They sought to take him because of his reproof.",
+            "They sought to take him for professing to be the Messiah.",
+            "His hour - The proper and the appointed time for his death."
+        ],
+        "Marvin Vincent": [
+            "Then. Another of the frequent instances in which the A. V. of this Gospel renders the logical particle as a particle of time. Translate as Rev., therefore; because of His claim to be sent from God.",
+            "To take [\u03c0\u03b9\u03b1\u03c3\u03b1\u03b9] . See on Acts 3:7."
+        ],
+        "John Calvin": [
+            "Christ was guarded by the protection of God.",
+            "We have no reason to be alarmed when we learn that Christ was dragged to death, not through the caprice of men, but because he was destined for such a sacrifice by the decree of the Father.",
+            "We ought to struggle against our own distrust; and we ought to attend first to the doctrine itself which is here taught, and next, to the object at which it aims, and the exhortation which is drawn from it, namely, that each of us, casting all his cares on God, should follow his own calling, and not be led away from the performance of his duty by any fears."
+        ],
+        "Philip Schaff": [
+            "Jesus had denied to them the knowledge of God, and at the same time had claimed for Himself the closest fellowship with Him, to be indeed the very expression of what He was.",
+            "Their zeal and enmity were at once aroused; the \u2018men of Jerusalem\u2019 followed in the steps of \u2018the Jews\u2019 (John 7:1). Yet they could not touch Him, for it was not yet God\u2019s time."
+        ],
+        "Archibald T. Robertson": [
+            "John is at pains to point out at every point that the persecution and death of Jesus followed a predestined course.\" ",
+            "The subject is naturally some of the Jerusalemites rather than some of the leaders.\" ",
+            "John looks back on the story."
+        ],
+        "John Gill": [
+            "though they had a good will to it, they had no power to do it, being restrained by the secret providence of God",
+            "so it was ordered by divine providence, that he should not be apprehended at this time, because his hour was not yet come",
+            "there is a time for every man's death, nor can any man die before that time, or live beyond it"
+        ],
+        "John Wesley": [
+            "His hour \u2014 The time of his suffering."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people sought to lay hands on Jesus, but were hindered, possibly out of fear of the crowd. However, the real cause was that God's appointed time for Jesus' death had not yet come. They were impotent in their attempts, their malice matched only by their powerlessness. Jesus' claim to be sent from God was a point of contention, leading to their desire to seize him. Yet, they could not touch him because it was not yet God's time. The persecution and death of Jesus followed a predestined course, and John reflects on this as he recounts the story. The protection of God guarded Jesus, and the appointed time for his sacrificial death was determined by the Father. We should not be alarmed, but rather cast our cares on God, following our calling and not succumbing to fears. Christ's death and timing were ordered by divine providence, and there is a time appointed for each person's death.",
+            "wordCount": 161,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.8619428352603422,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                23.83,
+                39.68,
+                36.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people sought to seize Jesus, but some hindrance prevented them, potentially due to the fear of the crowd. However, the true reason was that God's appointed time had not yet arrived. They were unable to carry out their malicious intent, and Jesus' claim to be sent from God was a source of contention. Despite their zeal, they couldn't touch Him because it wasn't yet God's time. The persecution and death of Jesus followed a predestined course, as John reflects on the story. Christ was guarded by God's protection, and His sacrificial death had been preordained. We should trust in God, casting our worries aside, and continue in our duties without fear.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.806052108343804,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.39,
+            "commentatorTierSimilarities": [
+                25.29,
+                39.57,
+                35.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people were eager to seize Jesus, but were unable to do so due to a secondary hindrance, possibly fear of the crowd. In reality, it was because God's appointed time had not yet come. Their impotence matched their malignity as they sought to lay hands on Him. Jesus' claim to be sent from God was a cause of contention, leading to their desire to apprehend Him. However, they could not touch Him because it was not yet the time ordained by God. The persecution and death of Jesus followed a predetermined path, and John reflects on this particular aspect of the story. The Father's protection guarded Christ, and His death was destined from the beginning. We should take comfort in the fact that Christ's death was divinely ordained and trust in God's providence, casting our cares upon Him.",
+            "wordCount": 143,
+            "quoteTokenProportion": 39.33,
+            "qualityScore": 1.8569588694579404,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "commentatorTierSimilarities": [
+                24.31,
+                41.79,
+                33.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite the people's eagerness to seize Jesus, they were hindered, potentially by fear of the crowd, but mainly because it was not yet God's appointed time for Him to be taken. Their inability to harm Him was fueled by both their malice and impotence. Jesus' claim to be sent from God sparked controversy and led to their desire to apprehend Him. However, they were unable to do so because God's timing had not yet arrived. Jesus' persecution and crucifixion were part of a preordained plan, and the Father's protection shielded Him until the appointed hour.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.8426674448132592,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                22.56,
+                43.47,
+                33.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people's attempts to seize Jesus were hindered, possibly due to fear of the crowd, but mainly because it was not yet God's appointed time. Their malicious intent was matched by their powerlessness. Jesus' claim to be sent from God fueled the controversy, leading them to want to apprehend Him. However, they could not touch Him because God's timing had not yet come. Jesus' persecution and death followed a predetermined course, and His protection came from God. We should trust in God's providence, casting our cares and fears upon Him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.7848892131752052,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                24.86,
+                40.68,
+                34.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:07:53",
+    "verseRef": "John 7:29",
+    "bestBHT": {
+        "bht": "The reality of Jesus being sent by someone unknown to them is emphasized here. Jesus is the Interpreter of God to mankind, the Father's Apostle, and his mission follows from his generation as the only begotten of God. This unique claim of Jesus is pressed during the controversial chapters with the Jews. We should be cautious of arrogant confidence, but boldly resist people when we are certain of God's truth, for those who know that God is with them have no reason to fear being accused of insolence in challenging the arrogance of the world.",
+        "wordCount": 97,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.4309842130689736,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.92,
+        "commentatorTierSimilarities": [
+            54.58,
+            0.0,
+            45.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The matter here impressed on them is the genuineness, the reality of the fact.",
+            "Jesus was sent, and there was one who sent Him, though they knew Him not.",
+            "They knew not whence He was."
+        ],
+        "Marvin Vincent": [
+            "From him [\u03c0\u03b1\u03c1 \u03b1\u03c5\u03c4\u03bf\u03c5] . See on 6 46."
+        ],
+        "John Calvin": [
+            "For many are too presumptuous in boasting of the authority of God; and, indeed, it is impossible to imagine greater readiness and boldness in rejecting the opinions of all men, than is to be found among fanatics who give out their own inventions as the oracles of God.",
+            "But we are taught by these words of our Lord Jesus Christ that we ought especially to beware of proud and foolish confidence; and that, when we have fully ascertained the truth of God, we ought boldly to resist men.",
+            "And he who is fully aware that God is on his side has no reason to dread the charge of being insolent, in trampling under foot all the haughtiness of the world."
+        ],
+        "Archibald T. Robertson": [
+            "These three words contain the unique claim of Jesus, which is pressed all through the chapters of controversy with the Jews\" (Bernard).",
+            "Jesus is the Interpreter of God to men.",
+            "He is the Father's Apostle to men."
+        ],
+        "John Gill": [
+            "But I know him...none knows him but he, and those to whom he pleases to reveal him...",
+            "for I am from him; being the only begotten of him, and as such lay in his bosom, and knew him, and his whole heart...",
+            "and he hath sent me; in an office capacity to redeem his people."
+        ],
+        "John Wesley": [
+            "I am from him \u2014 By eternal generation: and he hath sent me - His mission follows from his generation.",
+            "His mission follows from his generation.",
+            "These two points answer those: Do ye know me? Do ye know whence I am?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The matter emphasized here is the genuineness and reality of Jesus being sent by someone they did not know. Jesus is the Interpreter of God to mankind, the Father's Apostle, and his mission follows from his generation as the only begotten of God. This unique claim of Jesus is pressed all throughout the chapters of controversy with the Jews. We are reminded to beware of presumptuous and proud confidence, but to boldly resist men when we have fully ascertained the truth of God, for those who are aware that God is on their side have no reason to dread the charge of being insolent in trampling the haughtiness of the world.",
+            "wordCount": 112,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.4812337722242497,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
+            "commentatorTierSimilarities": [
+                52.9,
+                0.0,
+                47.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reality of Jesus being sent by someone unknown to them is emphasized here. Jesus is the Interpreter of God to mankind, the Father's Apostle, and his mission follows from his generation as the only begotten of God. This unique claim of Jesus is pressed during the controversial chapters with the Jews. We should be cautious of arrogant confidence, but boldly resist people when we are certain of God's truth, for those who know that God is with them have no reason to fear being accused of insolence in challenging the arrogance of the world.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.4309842130689736,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.92,
+            "commentatorTierSimilarities": [
+                54.58,
+                0.0,
+                45.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The reality of Jesus being sent by someone unknown to the people is emphasized here, highlighting the genuineness of the fact. Jesus is the Interpreter of God, the Father's Apostle, sent in an office capacity to redeem His people. This unique claim of Jesus is consistently presented in the contentious dialogues with the Jews. We are reminded to be cautious of prideful confidence and to boldly resist opposition with the certainty of God's truth, unafraid of being accused of insolence when challenging the world's arrogance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.3583415428045038,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
+            "commentatorTierSimilarities": [
+                52.3,
+                0.0,
+                47.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The reality of Jesus being sent by someone unknown to them is highlighted in this passage, underscoring the genuineness of the fact. Jesus serves as the Interpreter of God, the Father's Apostle sent in an office capacity to redeem His people. This distinctive claim is consistently pressed during the contentious dialogues with the Jews. We are reminded to exercise caution regarding arrogant confidence, boldly resisting opposition with unwavering conviction in God's truth, unafraid to challenge the haughtiness of the world.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.2042480186741022,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.38,
+            "commentatorTierSimilarities": [
+                53.15,
+                0.0,
+                46.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The reality of Jesus being sent by someone unknown to them underscores the genuineness of the fact. Jesus, as the Interpreter of God, is the Father's Apostle sent to redeem His people. This unique claim is consistently emphasized throughout the dialogues with the Jews. We are cautioned against arrogant confidence, instead encouraged to boldly resist opposition with unwavering conviction in God's truth, fearlessly challenging the world's haughtiness.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.2909010947684276,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.27,
+            "commentatorTierSimilarities": [
+                55.65,
+                0.0,
+                44.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

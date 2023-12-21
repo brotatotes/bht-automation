@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-21-2023 03:13:05",
+    "verseRef": "John 16:17",
+    "bestBHT": {
+        "bht": "The disciples were perplexed and confused by the apparent contradiction in Jesus' words regarding his departure to the Father. Their struggle to comprehend the connection between this little while and his previous statement about going to the Father led them to mistakenly add a clause in some copies of the text. Despite Jesus' clear explanations of his impending death, the disciples remained ignorant and failed to grasp the true meaning, resorting to discussing among themselves rather than seeking clarification from Jesus.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.8003924498182187,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+        "commentatorTierSimilarities": [
+            47.95,
+            0.0,
+            52.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The disciples are perplexed by this little while, as connected with what our Lord had before asserted ver. 10, 'I go to my Father.'",
+            "That seemed to them a long and hopeless withdrawal: how was it then to be reconciled with what he now said of a short absence?",
+            "This connexion not being observed, has led to the insertion by the copyists of the clause because I go to the Father in ver. 16."
+        ],
+        "Marvin Vincent": [
+            "Then [\u03bf\u03c5\u03bd] . Rev., correctly, therefore. It is a particle of logical connection, not of time."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus seemed to contradict himself, for the disciples took both verbs in the same sense and were still puzzled over the going to the Father of John 14:3.\" ",
+            "But they talk to one another, not to Jesus."
+        ],
+        "John Gill": [
+            "It may be, some of them might better understand the meaning of Christ than others, or they might all be ignorant of it.",
+            "They knew not what he meant by it, though he had so often and so clearly spoken of his death unto them.",
+            "They were as much at a loss to guess what he should intend by the reason he gives, and because I go to the Father, though he had often mentioned it already, and as what might be a matter of joy unto them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The perplexity of the disciples in John 16:17 arises from their struggle to reconcile Jesus' assertion of going to the Father with his previous declaration in John 14:3. They failed to grasp the logical connection between the two statements, leading to confusion and the mistaken addition of the clause because I go to the Father in some copies of the text. Their lack of understanding demonstrates a collective ignorance, as they were still grappling with the true meaning of Jesus' impending death despite his repeated explanations. Ultimately, the disciples talked amongst themselves rather than seeking clarification from Jesus.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.792024311386632,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                51.53,
+                0.0,
+                48.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were perplexed and confused by the apparent contradiction in Jesus' words regarding his departure to the Father. Their struggle to comprehend the connection between this little while and his previous statement about going to the Father led them to mistakenly add a clause in some copies of the text. Despite Jesus' clear explanations of his impending death, the disciples remained ignorant and failed to grasp the true meaning, resorting to discussing among themselves rather than seeking clarification from Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8003924498182187,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                47.95,
+                0.0,
+                52.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples found themselves in a state of perplexity when it came to understanding Jesus' departure to the Father. They struggled to reconcile this period of little while with his earlier assertion of going to the Father, erroneously resulting in the addition of a clause in certain copies of the text. Their confusion stemmed from their lack of comprehension, despite Jesus' previous explanations of his impending death. Instead of seeking clarification from Jesus, the disciples engaged in conversation amongst themselves, further indicating their confusion and uncertainty.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.637417782706557,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                50.21,
+                0.0,
+                49.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were perplexed by Jesus' statement about his departure to the Father, as they struggled to reconcile it with his previous assertion. Their confusion led to the addition of a clause in some copies of the text. They failed to grasp the logical connection between the two statements, highlighting their collective ignorance. Instead of seeking clarity from Jesus, they engaged in conversation among themselves, further emphasizing their confusion.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.4011382405586694,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.93,
+            "commentatorTierSimilarities": [
+                51.75,
+                0.0,
+                48.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were perplexed by Jesus' assertion of going to the Father, struggling to find harmony between his previous statement and this notion of a short absence. Their confusion led to the erroneous addition of a clause in some versions of the text. Their lack of understanding revealed their collective ignorance, as they still grappled with the true meaning of Jesus' impending death. Instead of seeking clarification from Jesus himself, they resorted to discussing among themselves, further highlighting their uncertainty.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.517675020474488,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.81,
+            "commentatorTierSimilarities": [
+                48.6,
+                0.0,
+                51.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

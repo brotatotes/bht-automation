@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-21-2023 03:06:41",
+    "verseRef": "John 5:40",
+    "bestBHT": {
+        "bht": "These words highlight the inconsistency of those who believe they have eternal life in the Scriptures but hesitate to come to Christ for that life. Christians need to be cautious not to idolize a mere written book and neglect the personal knowledge of Christ. The phrase ye will not emphasizes the freedom of the will, which is the basis for the unbelievers' condemnation. Rejection of Christ is a tragic consequence of their preference for darkness over light. True life can only be found in Christ Jesus, the one the Scriptures testify about.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 2.00863094511615,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+        "commentatorTierSimilarities": [
+            35.32,
+            37.2,
+            27.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I would connect these words with the former, and regard them as describing the inconsistency of those who think that they have life in the Scriptures, and yet will not come to Him of whom they testify, that they may have life.",
+            "Observe, this command to the Jews to search their Scriptures, applies even more strongly to Christians; who are yet, like them, in danger of idolizing a mere written book, believing that in the Bible they have eternal life, and missing the personal knowledge of Him of whom the Scriptures testify.",
+            "The words Ye are not willing to come here set forth strikingly the freedom of the will, on which the unbeliever\u2019s condemnation rests."
+        ],
+        "Albert Barnes": [
+            "He is the way, the truth, and the life, and he only can save us.",
+            "We must 'come to him' - that is, must come in the way appointed, as lost sinners, and be willing to be saved by him alone.",
+            "The only reason why sinners die is because 'they will not come' to Christ for life and happiness: it is not because they 'cannot,' but because they 'will not'."
+        ],
+        "Marvin Vincent": [
+            "And. More than a simple copula. Rather and yet. See on Luke 18:7. Ye will not [\u03bf\u03c5 \u03b8\u03b5\u03bb\u03b5\u03c4\u03b5] . Indicating stubborn determination. See on Matthew 1:19."
+        ],
+        "John Calvin": [
+            "It is nothing but their own malice that hinders them from becoming partakers of the life offered in the Scriptures.\" ",
+            "He imputes the cause of their ignorance and blindness to wickedness and obstinacy.\" ",
+            "When they intentionally fled from the light, and even desired to extinguish the sun by the darkness of their unbelief, Christ justly reproves them with greater severity."
+        ],
+        "Philip Schaff": [
+            "The Jews had used the witness of the Scriptures as they had dealt with that given by the Baptist... What was designed as a means had been made by them an end; what should have led them to Christ detained them from Him.",
+            "In a certain sense the Scriptures did contain eternal life, in that they bore witness of Him who was the true bestower of this gift; but as long as men busied themselves with the words of Scripture to the neglect of its purpose, believing that the former would give all they needed and sought, the Scriptures themselves kept them back from life.",
+            "While they exalt instead of depreciating the Scriptures, their main object is to warn us against putting them into an undue position, or supposing that they are more than a guide to Him in whom alone life is to be gained."
+        ],
+        "Archibald T. Robertson": [
+            "This is the tragedy of the rejection of Messiah by the Messianic race\" (Bernard).",
+            "Men loved darkness rather than light.",
+            "There is life only in Christ Jesus."
+        ],
+        "John Gill": [
+            "those who come aright to Christ, come to him as the alone, able, suitable, and sufficient Savior",
+            "They had no inclination, desire, and will to come to Christ, any more than power",
+            "This is the will of the Father, the end of his giving of Christ, and of his mission and coming into the world, and is inseparably connected with believing in him."
+        ],
+        "John Wesley": [
+            "Yet ye will not come unto me \u2014 As they direct you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks about the inconsistency of those who believe that they have eternal life in the Scriptures, yet fail to come to Christ, whom the Scriptures testify about, in order to truly have life. Just as the command to search the Scriptures applies to Christians, it also warns against idolizing a written book and missing the personal knowledge of Christ. The words ye will not emphasize the freedom of the will, which is crucial for believers to come to Christ and receive life. The rejection of Christ by the Jews is a tragic consequence of choosing darkness over light. Ultimately, there is life only in Christ Jesus, and those who come to Him in the appointed way, recognizing their need for salvation, will find true life and happiness.",
+            "wordCount": 129,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.135438965527123,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                32.85,
+                39.8,
+                27.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inconsistency lies in those who believe they have eternal life in the Scriptures but refuse to come to Christ, whom the Scriptures testify about. Christians also need to be cautious of idolizing the Bible and missing a personal relationship with Christ. The words ye will not emphasize the importance of the freedom of the will to come to Christ. The rejection of Christ by the Jews is a tragic consequence of choosing darkness over light. Ultimately, true life is found only in Christ Jesus, and those who recognize their need for salvation and come to Him will find true life and happiness.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9840694434323558,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+            "commentatorTierSimilarities": [
+                32.71,
+                38.17,
+                29.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These words highlight the inconsistency of those who think they have life in the Scriptures but reject coming to Christ for that life. Christians must be cautious not to idolize the written book and miss out on a personal relationship with Christ. The phrase ye will not emphasizes the freedom of the will and the responsibility of individuals to come to Christ. This rejection of Christ by the Jews is a tragic consequence of their preference for darkness over light. Ultimately, true life can only be found in Christ Jesus. Those who recognize their need for salvation and come to Him will find true life and happiness.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.9546280115834298,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+            "commentatorTierSimilarities": [
+                30.95,
+                38.74,
+                30.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tragedy lies in those who believe they have life in the Scriptures but refuse to come to Christ for that life. Beware of idolizing the Bible instead of developing a personal knowledge of Christ. The phrase ye will not emphasizes the importance of the freedom of the will to come to Christ. Rejecting Christ is choosing darkness over light. True life resides solely in Christ Jesus. Find life and happiness by coming to Him, recognizing the need for salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.8896434743694608,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+            "commentatorTierSimilarities": [
+                31.98,
+                37.9,
+                30.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These words highlight the inconsistency of those who believe they have eternal life in the Scriptures but hesitate to come to Christ for that life. Christians need to be cautious not to idolize a mere written book and neglect the personal knowledge of Christ. The phrase ye will not emphasizes the freedom of the will, which is the basis for the unbelievers' condemnation. Rejection of Christ is a tragic consequence of their preference for darkness over light. True life can only be found in Christ Jesus, the one the Scriptures testify about.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.00863094511615,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                35.32,
+                37.2,
+                27.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

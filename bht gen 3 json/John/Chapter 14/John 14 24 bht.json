@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:12:28",
+    "verseRef": "John 14:24",
+    "bestBHT": {
+        "bht": "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father's which sent me. The unity of Jesus' words is dependent on love and faith; those who do not love him will not keep his words, thus failing to understand the connection between them. However, for those who receive his words in faith, they perceive the unity and truth within his teachings. The disciples are encouraged to hold fast to the grace they have received, despite those who reject Jesus and his doctrine. Jesus emphasizes that his words are not of human origin but faithfully taught by the Father. By keeping and observing his words with a sincere heart, believers show their love for Jesus and their commitment to the truth revealed by the Father.",
+        "wordCount": 136,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.8003639606658532,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+        "commentatorTierSimilarities": [
+            26.51,
+            38.89,
+            34.6
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The word which ye hear is not mine - See the notes at John 5:19; John 7:16."
+        ],
+        "Marvin Vincent": [
+            "My sayings [\u03bb\u03bf\u03b3\u03bf\u03c5\u03c2] . Rev., words. Compare word, ver. 23. The constituent parts of the one word."
+        ],
+        "John Calvin": [
+            "Do not look upon the world so as to depend on it; for there will always be some who despise me and my doctrine; but as for you, preserve constantly to the end the grace which you have once received.",
+            "The strength of our faith consists in our knowing that God is our leader, and that we are founded on nothing else than his eternal truth.",
+            "When he says that the word is not his, he accommodates himself to the disciples; as if he had said that it is not human, because he teaches faithfully what has been enjoined on him by the Father."
+        ],
+        "Philip Schaff": [
+            "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father\u2019s which sent me.",
+            "To him who receives in faith the \u2018words\u2019 of Jesus are one; he sees their unity; they are a \u2018word:\u2019 to him who receives not in faith they are scattered and unconnected, \u2018words\u2019 not a \u2018word.\u2019",
+            "All make themselves what they are. If \u2018any one,\u2019 He says, \u2018love me;\u2019 and, again, \u2018he that loveth me.\u2019 The world need not be the \u2018world.\u2019 Every one may come and have the promise in all its fulness."
+        ],
+        "Archibald T. Robertson": [
+            "He that loveth me not (\u03bf \u03bc\u03b7 \u03b1\u03b3\u03b1\u03c0\u03c9\u03bd \u03bc\u03b5). Present active articular participle of \u03b1\u03b3\u03b1\u03c0\u03b1\u03c9 with negative \u03bc\u03b7, 'the one who keeps on not loving me.'",
+            "Is not mine, but the Father's (\u03bf\u03c5\u03ba \u03b5\u03c3\u03c4\u03b9\u03bd \u03b5\u03bc\u03bf\u03c3, \u03b1\u03bb\u03bb\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c4\u03c1\u03bf\u03c2). Predicative possessive pronoun \u03b5\u03bc\u03bf\u03c2 and the predicate genitive of possession \u03c0\u03b1\u03c4\u03c1\u03bf\u03c2."
+        ],
+        "John Gill": [
+            "He that loveth me not, keepeth not my sayings...",
+            "...they outwardly observe his ordinances and commands; yet... may be said, not to keep his words or commands, because they do not keep them aright...",
+            "It is not mine as man; it is not a scheme of things of my own devising; it is not from earth, but from heaven; my Father has a concern in it, and therefore regards such who hear, receive, and keep it..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father's which sent me. The unity of Jesus' words is dependent on love and faith; those who do not love him will not keep his words, thus failing to understand the connection between them. However, for those who receive his words in faith, they perceive the unity and truth within his teachings. The disciples are encouraged to hold fast to the grace they have received, despite those who reject Jesus and his doctrine. Jesus emphasizes that his words are not of human origin but faithfully taught by the Father. By keeping and observing his words with a sincere heart, believers show their love for Jesus and their commitment to the truth revealed by the Father.",
+            "wordCount": 136,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.8003639606658532,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                26.51,
+                38.89,
+                34.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father's which sent me. Those who lack love for Jesus will not faithfully adhere to his teachings. However, for those who receive his words in faith, they will understand the unity and truth within his teachings. It is essential for the disciples to hold onto the grace they have received, despite encountering rejection. Jesus emphasizes that his words are not of human origin, but are faithfully taught by the Father. By sincerely observing his words, believers exhibit their love for Jesus and their commitment to the truth revealed by the Father.",
+            "wordCount": 112,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.7112450493328466,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                26.43,
+                38.4,
+                35.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father's which sent me. The unity of Jesus' teachings lies in the love and faith of those who receive them; without love for Jesus, his words will not be kept nor understood. However, for those who embrace his words in faith, they will recognize the harmony and truth within them. Believers are urged to hold steadfast to the grace they have received, despite facing rejection. Jesus emphasizes that his words originate from the Father, exhibiting his divine authority. By faithfully keeping and observing his words, believers demonstrate their love for Jesus and their commitment to the Father's truth.",
+            "wordCount": 120,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.665704345294984,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+            "commentatorTierSimilarities": [
+                27.63,
+                39.58,
+                32.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father's which sent me. The unity of Jesus' teachings depends on love and faith. Those who lack love for Jesus will not keep his words and fail to perceive their connection. However, those who receive his words in faith see their unity and truth. Disciples are encouraged to hold onto the grace they received, despite rejection. Jesus confirms that his words are not of human origin but faithfully conveyed from the Father. By sincerely observing his words, believers display their love for Jesus and commitment to the Father's truth.",
+            "wordCount": 111,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.6379765369883157,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                26.57,
+                39.56,
+                33.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father's which sent me. Without love for Jesus, his teachings will not be kept or understood. However, for those who have faith and embrace his words, they will perceive the unity and truth within them. It is important for the disciples to hold firmly to the grace they have received, even in the face of rejection. Jesus affirms that his words come from the Father, underscoring his divine authority. By faithfully observing his words, believers demonstrate their love for Jesus and their dedication to the truth revealed by the Father.",
+            "wordCount": 111,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.6190009429416894,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "commentatorTierSimilarities": [
+                25.89,
+                39.33,
+                34.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

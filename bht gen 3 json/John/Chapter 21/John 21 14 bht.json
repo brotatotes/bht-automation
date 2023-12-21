@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:15:35",
+    "verseRef": "John 21:14",
+    "bestBHT": {
+        "bht": "The Lord, in a manner reminiscent of a past occasion, provides for His disciples and invites them to be His guests. This is the third time that Jesus showed Himself to His assembled disciples, not including the appearance to Mary Magdalene. These appearances confirm His resurrection and bring out one of the great lessons of His kingdom.",
+        "wordCount": 57,
+        "quoteTokenProportion": 44.19,
+        "qualityScore": 2.2232407553362785,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+        "commentatorTierSimilarities": [
+            28.85,
+            35.86,
+            35.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord appears to His disciples, busied about their occupation for their daily bread; speaks and acts in a manner wonderfully similar to His words and actions on a former memorable occasion.",
+            "Can we miss that application at this far more important epoch of their apostolic mission?",
+            "He graciously provides for their present wants, and invites them to be His guests: why, but to show them that in their work hereafter they should never want but He would provide?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "14. This is the third time that",
+            "\tJesus showed himself\u2014was manifested. ",
+            "\t",
+            "to his disciples\u2014His",
+            "\tassembled disciples; for if we reckon His appearances to",
+            "\tindividual disciples, they were more."
+        ],
+        "Albert Barnes": [
+            "The third time - See the \u201cHarmony of the Accounts of the Resurrection of Jesus.\u201d"
+        ],
+        "Marvin Vincent": [
+            "The third time. The two former occasions being recorded in John 20:19, ",
+            "John 21:26The appearance to Mary Magdalene is not counted, because the Evangelist expressly says to His disciples."
+        ],
+        "John Calvin": [
+            "The number three refers to the distance of time.",
+            "Christ had already appeared to his disciples more than seven times, but all that had been transacted in one day is included in one manifestation.",
+            "The Evangelist, therefore, means that Christ had been seen by the disciples at intervals, in order to confirm their belief of his resurrection."
+        ],
+        "Philip Schaff": [
+            "The appearance to Mary Magdalene at chap. John 20:16 is not counted, either because it only embodied the preparatory message as to the state in which Jesus was, or because it was made, not (like the three following) to companies of apostles and disciples, but only to one single disciple.",
+            "That the present manifestation is stated to be the third does not exclude the other appearances of the Risen Saviour recorded by the earlier Evangelists. It is simply the third in John\u2019s own enumeration, the third in that selection of the different manifestations which he had thought it desirable to make.",
+            "The facts are historical, but they have at the same time much more than simple historical force. They are so arranged and grouped by Him who taught by action as well as word, that they bring out one of the great lessons of His kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "Now the third time (\u03c4\u03bf \u03b7\u03b4\u03b7 \u03c4\u03c1\u03b9\u03c4\u03bf\u03bd).",
+            "There were four other appearances already (to Mary Magdalene, to the group of women, to the two on the way to Emmaus, to Peter).",
+            "To the disciples (apostles) John says, the two others being told by him (John 20:19; John 20:26) on the two Sunday evenings."
+        ],
+        "John Gill": [
+            "He appeared to them first on the same day he rose, and then a second time eight days after, or that day a week later, and now at the sea of Tiberias.\" ",
+            "For within this compass of time he had made more appearances than three, though to particular persons, and not to such a number of the disciples as at these three times.",
+            "By these three principal appearances of Christ to his disciples, his resurrection from the dead was confirmed."
+        ],
+        "John Wesley": [
+            "The third time \u2014 That he appeared to so many of the apostles together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord appears to His disciples, providing for their present wants and inviting them to be His guests. This is the third time that Jesus showed Himself to His assembled disciples. The appearance to Mary Magdalene is not counted because it was made to only one single disciple. The present manifestation is simply the third in John's own enumeration. These appearances of the Risen Savior bring out one of the great lessons of His kingdom and confirm His resurrection from the dead.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.150106433023068,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+            "commentatorTierSimilarities": [
+                27.2,
+                36.44,
+                36.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord, in a manner reminiscent of a past occasion, provides for His disciples and invites them to be His guests. This is the third time that Jesus showed Himself to His assembled disciples, not including the appearance to Mary Magdalene. These appearances confirm His resurrection and bring out one of the great lessons of His kingdom.",
+            "wordCount": 57,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 2.2232407553362785,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.26,
+            "commentatorTierSimilarities": [
+                28.85,
+                35.86,
+                35.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord graciously provides for His disciples' present needs and invites them to be His guests, indicating that He will always provide for them in their future work. This is the third time that Jesus appeared to His assembled disciples, with the other appearances being told by John to the two Marys. These manifestations bring out the great lesson of His kingdom and confirm His resurrection, strengthening the disciples' belief.",
+            "wordCount": 70,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.2991190408798747,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.79,
+            "commentatorTierSimilarities": [
+                28.37,
+                35.13,
+                36.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord appears to His disciples, speaking and acting in a manner similar to a previous occasion. This is the third time that Jesus showed Himself to His assembled disciples, not counting His appearance to Mary Magdalene. These appearances confirm His resurrection and reveal a significant lesson in His kingdom. By providing for their present needs and inviting them to be His guests, Jesus displays that He will always provide for them in their future work.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1044382544205655,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                28.45,
+                34.81,
+                36.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord graciously provides for His disciples' present wants, showing them that they will never lack His provision in their work. This is the third time that Jesus appeared to His disciples, with the other appearances being recounted by John. These appearances confirm His resurrection and teach an important lesson about His kingdom.",
+            "wordCount": 53,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.24192384988359,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.88,
+            "commentatorTierSimilarities": [
+                27.57,
+                36.07,
+                36.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

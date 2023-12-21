@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:15:25",
+    "verseRef": "John 21:8",
+    "bestBHT": {
+        "bht": "The disciples were in a little boat about two hundred cubits, or a little over a hundred yards, from the shore. They were diligently dragging the net of fishes along in the water, demonstrating the laborious work of Gospel ministers who continue in their ministry despite the toil and difficulties they face. The other disciples did not imitate Peter's impetuousness, but they still played their part in bringing the net to the shore, showing unity and cooperation among the disciples.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 1.884629020744645,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+        "commentatorTierSimilarities": [
+            27.36,
+            25.85,
+            46.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] 200 cubits = 100 yards. The lake was about five miles broad, according to Josephus: according to Stanley, six in the widest part: according to Dr. Thomson, nine."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. the other disciples came in a",
+            "\tlittle ship\u2014by ship."
+        ],
+        "Albert Barnes": [
+            "Two hundred cubits - About 350 feet, or a little more than 20 rods."
+        ],
+        "Marvin Vincent": [
+            "A little ship...the little boat.\" ",
+            "Two hundred cubits. A little over a hundred yards.\" ",
+            "With fishes...the net of the fishes."
+        ],
+        "Philip Schaff": [
+            "While Peter takes the lead, impetuously dashing into the water.\" ",
+            "Yet they do not actually land the net: they only drag it to the shore.",
+            "The landing is reserved for him who had displayed greatest earnestness and activity."
+        ],
+        "Archibald T. Robertson": [
+            "In the little boat (\u03c4\u03c9 \u03c0\u03bb\u03bf\u03b9\u03b1\u03c1\u03b9\u03c9). Locative case of \u03c0\u03bb\u03bf\u03b9\u03b1\u03c1\u03b9\u03bf\u03bd (diminutive) for the larger boat (\u03c0\u03bb\u03bf\u03b9\u03bf\u03bd, verses John 21:3; John 21:6).",
+            "About two hundred cubits off (\u03c9\u03c2 \u03b1\u03c0\u03bf \u03c0\u03b7\u03c7\u03c9\u03bd \u03b4\u03b9\u03b1\u03ba\u03bf\u03c3\u03b9\u03c9\u03bd). For \u03c0\u03b7\u03c7\u03c5\u03c2, cubit, see Matthew 6:27 and for \u03c9\u03c2 \u03b1\u03c0\u03bf see John 11:18.",
+            "Dragging (\u03c3\u03c5\u03c1\u03bf\u03bd\u03c4\u03b5\u03c2). Present active participle of \u03c3\u03c5\u03c1\u03c9 for which see Acts 8:3."
+        ],
+        "John Gill": [
+            "and the rather, they did not think fit to do as he did, for they were not far from land, but, as it were, two hundred cubits; which was about an hundred yards.",
+            "towing the net full of fishes all along in the water, till they came to land; an emblem of laborious Gospel ministers",
+            "who being once embarked in the work of the ministry, continue in it to the end, notwithstanding all toil, labour, and difficulties that attend them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, in a little boat, were about two hundred cubits off the shore, which was about a hundred yards. They were diligently dragging the net of fishes along in the water, displaying the labor and perseverance of Gospel ministers who continue in their work despite all the toil and difficulties that come their way. Although the other disciples did not imitate Peter's impetuousness, they still played their part in bringing the net to the shore, highlighting the unity and cooperation among the disciples.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8624915943744167,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                27.52,
+                23.92,
+                48.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were in a little boat about two hundred cubits, or a little over a hundred yards, from the shore. They were diligently dragging the net of fishes along in the water, an emblem of the laborious work of Gospel ministers who continue in their ministry despite the toil and difficulties they face. The other disciples did not imitate Peter's impetuousness, but they still played their part in bringing the net to the shore, demonstrating unity and cooperation among the disciples.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.8821154740199548,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                27.21,
+                25.01,
+                47.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were in a little boat about two hundred cubits, or a little over a hundred yards, from the shore. They were diligently dragging the net of fishes along in the water, demonstrating the laborious work of Gospel ministers who continue in their ministry despite the toil and difficulties they face. The other disciples did not imitate Peter's impetuousness, but they still played their part in bringing the net to the shore, showing unity and cooperation among the disciples.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.884629020744645,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                27.36,
+                25.85,
+                46.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were in a little boat about two hundred cubits, or a little over a hundred yards, from the shore. They were diligently dragging the net of fishes along in the water, demonstrating the laborious work of Gospel ministers who continue in their ministry despite the toil and difficulties they face. The other disciples did not imitate Peter's impetuousness, but they still played their part in bringing the net to the shore, showing unity and cooperation among the disciples.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.884629020744645,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                27.36,
+                25.85,
+                46.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, in a little boat about two hundred cubits off the shore (about a hundred yards), were diligently dragging the net full of fishes along in the water, symbolizing the laborious work of dedicated Gospel ministers who persist in their ministry despite the toil and difficulties they encounter. Although they did not imitate Peter's impulsive actions, the other disciples played their part in bringing the net to the shore, showcasing the unity and cooperation among them in fulfilling their collective mission.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7231567382512492,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                26.22,
+                20.49,
+                53.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

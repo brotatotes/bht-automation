@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:05:53",
+    "verseRef": "John 4:37",
+    "bestBHT": {
+        "bht": "In this relation between the sower and the reaper, Jesus experiences fatigue and hunger, revealing his common infirmities. One soweth, and another reapeth is a saying that is completely fulfilled here, emphasizing the potential sadness of missing the joy of reaping. It is important to understand that sometimes one may reap where they have not sown. This truth applies both in the physical and spiritual realms, highlighting the importance of unity and rejoicing in the success of others in the growth of God's kingdom.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.6288679912639665,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+        "commentatorTierSimilarities": [
+            35.44,
+            34.26,
+            30.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "While the woman was away.",
+            "Fatigue and thirst we saw He felt; here is revealed another of our common infirmities to which the Lord was subject\u2014hunger."
+        ],
+        "Albert Barnes": [
+            "That proverb.",
+            "One man may preach the gospel, and with little apparent effect; another, succeeding him, may be crowned with eminent success.",
+            "The seed, long buried, may spring up in an abundant harvest."
+        ],
+        "Marvin Vincent": [
+            "In this relation between sower and reaper.\" ",
+            "The saying is completely fulfilled according to the ideal in the sowing and reaping of which Jesus speaks.\" ",
+            "The literal rendering of the Greek, as given above, is, 'the saying is the true (saying);' but several high authorities omit the article before true."
+        ],
+        "John Calvin": [
+            "And yet it cannot be inferred from this, that the Prophets themselves are witnesses, or are aware, of what is now going on in the Church; for Christ means nothing more than that the Prophets, so long as they lived, taught under the influence of such feelings, that they already rejoiced on account of the fruit which they were not permitted to gather.",
+            "By these words he enjoins them to throw their labors into a common stock, so that there may be no wicked envy among them; that those who are first sent to the work ought to be so attentive to the present cultivation as not to envy a greater blessing to those who are afterwards to follow them.",
+            "They who are sent, as it were, to gather the ripe fruit, ought to be employed with equal cheerfulness in their office; for the comparison which is here made between the teachers of the Law and of the Gospel may likewise be applied to the latter, when viewed in reference to each other."
+        ],
+        "Philip Schaff": [
+            "For herein is the word true, One soweth, and another reapeth.\" (John 4:37) ",
+            "In the spiritual field of which Jesus speaks, the familiar saying is true, has full reality... that one has the labour of the sower, another the joy of the reaper.\" (John 4:37)",
+            "The word used signifying \u2018true,\u2019 as opposed not merely to what is false, but to all that is partial and imperfect.\" (John 4:37)"
+        ],
+        "Archibald T. Robertson": [
+            "In this relation between the sower and the reaper.",
+            "It is sad when the sower misses the joy of reaping and has only the sowing in tears.",
+            "Sometimes one reaps where he has not sown."
+        ],
+        "John Gill": [
+            "And herein is that saying true... one soweth, and another reapeth.\" ",
+            "This verifies that proverbial expression so much in use.",
+            "The prophets sowed, and the apostles reaped."
+        ],
+        "John Wesley": [
+            "That saying \u2014 A common proverb; One soweth - The prophets and Christ; another reapeth - The apostles and succeeding ministers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, we see that Jesus experiences fatigue and hunger, just like us. The saying one soweth, and another reapeth is completely fulfilled here as Jesus refers to the relationship between the sower and reaper. It is sad when the sower misses the joy of reaping and has only the sowing in tears. The proverb reminds us that sometimes one reaps where he has not sown. It is important for us to understand that while one person may sow the seeds of the gospel with seemingly little effect, another may come after and experience great success. This truth applies not only to the physical realm but also in the spiritual field. We should work together and throw our labors into a common stock, avoiding wicked envy and rejoicing in the success of others. Ultimately, the sower and reaper are both important in the growth of God's kingdom.",
+            "wordCount": 149,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.6649994810564688,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                31.77,
+                36.18,
+                32.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this relationship between the sower and reaper, Jesus shows his common infirmities by experiencing fatigue and hunger. The saying one soweth, and another reapeth is fulfilled here, highlighting how one may miss the joy of reaping and only have the sowing in tears. It is important to remember that sometimes others may reap where they have not sown, illustrating the different roles and contributions in the growth of God's kingdom. We should work together, throwing our labors into a common stock, rejoicing in the success of others.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.5706940920116703,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.57,
+            "commentatorTierSimilarities": [
+                32.58,
+                32.94,
+                34.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this relation between the sower and the reaper, Jesus experiences fatigue and hunger, revealing his common infirmities. One soweth, and another reapeth is a saying that is completely fulfilled here, emphasizing the potential sadness of missing the joy of reaping. It is important to understand that sometimes one may reap where they have not sown. This truth applies both in the physical and spiritual realms, highlighting the importance of unity and rejoicing in the success of others in the growth of God's kingdom.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6288679912639665,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                35.44,
+                34.26,
+                30.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this relation between the sower and the reaper, Jesus reveals his common infirmities by experiencing fatigue and hunger. The saying one soweth, and another reapeth is completely fulfilled here, emphasizing the potential sadness of missing the joy of reaping. It is important to understand that sometimes one may reap where they have not sown. This truth applies in both the physical and spiritual realms, highlighting the importance of unity and rejoicing in the success of others in the growth of God's kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6243915512714486,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                35.64,
+                34.81,
+                29.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the relationship between the sower and reaper, Jesus reveals his human weaknesses through fatigue and hunger. The saying one soweth, and another reapeth is completely fulfilled here, emphasizing the potential sadness of missing the joy of reaping. It is important to understand that sometimes one may reap where they have not sown. This truth applies in both physical and spiritual contexts, underscoring the need for unity and the ability to rejoice in the success of others as they contribute to the growth of God's kingdom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5602760814303642,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "commentatorTierSimilarities": [
+                34.51,
+                35.03,
+                30.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

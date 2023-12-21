@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:06:08",
+    "verseRef": "John 5:2",
+    "bestBHT": {
+        "bht": "At the pool of Bethesda, there were five porches for shelter, and the pool itself was intermittent and believed to possess medicinal power. The pool's location near the sheep gate may have been connected to sacrificial sheep. The name Bethesda, meaning house of mercy, reflects the grace and mercy of God proclaimed through the ministry of the word. This pool is also seen as a symbol of the fountain of Christ's blood, which cleanses from sin and cures diseases.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.8343652171710247,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+        "commentatorTierSimilarities": [
+            29.68,
+            34.23,
+            36.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression there is has been thought to import that St. John wrote his Gospel before the destruction of Jerusalem. But this must not be pressed.",
+            "Robinson established by personal inspection the fact of the subterranean connection of the pool of Siloam and that called the Fountain of the Virgin; and has made it probable that the Fountain under the grand Mosk is also connected with them; in fact that all these are but one and the same spring.",
+            "This pool is, as above noticed, intermittent, and is even now believed to possess a certain medicinal power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The supplement should be (as in Margin) 'sheep [gate],' mentioned in Nehemiah 3:1; Nehemiah 3:32.",
+            "Bethesda\u2014that is, 'house (place) of mercy,' from the cures wrought there.",
+            "Five porches\u2014for shelter to the patients."
+        ],
+        "Albert Barnes": [
+            "The word 'porch' commonly means a covered place surrounding a building, in which people can walk or sit in hot or wet weather.",
+            "The evangelist says that this pool was near the sheep-gate, as the Greek probably signifies, rather than sheep-market, as rendered in the English version.",
+            "The general opinion of the most accurate travelers is that the so-called pool was originally part of a trench or fosse which protected the temple on the north."
+        ],
+        "Marvin Vincent": [
+            "Bethesda [\u03b2\u03b7\u03b8\u03b5\u03c3\u03b4\u03b1] . Commonly interpreted House of Mercy; others House of the Portico.",
+            "In ecclesiastical language, the baptismal font, and the baptistery itself.",
+            "Porches [\u03c3\u03c4\u03bf\u03b1\u03c2] . Cloisters, covered porticoes."
+        ],
+        "John Calvin": [
+            "The five porches show that the place was celebrated for the great number of persons who resorted to it.",
+            "The name Bethesda, as meaning a place of pouring out, is more probable.",
+            "It was called the sheep-market because the beasts which were to be offered in sacrifice were taken there."
+        ],
+        "Philip Schaff": [
+            "The use of the present tense, there is, may seem to indicate that the pool still remained after the destruction of Jerusalem; unless indeed we adopt the opinion that, as John in all probability committed to writing very early his recollections of his Lord\u2019s discourses and works, an incidental mark of his practice is left us in this verse.",
+            "The idea of most writers on the Gospel is that the \u2018sheep-gate\u2019 (Nehemiah 3:1; Nehemiah 3:32; Nehemiah 12:39) is intended, but we have found no example of a similar omission of the word \u2018gate.\u2019 We are thus led to examine the other mode of writing the Greek word \u2018pool,\u2019 from which results the translation, \u2018there is by the sheep-pool the pool that is surnamed;\u2019 and to this rendering of the sentence there appears to be no valid objection.",
+            "It is easy to see that such a name might naturally arise, and might indeed become the common appellation amongst those who associated a beneficent healing power with the waters of the pool; and it is also easy to understand how it was the second name that lingered in John\u2019s thought, a name which to him bore a high significance, recalling the \u2018grace\u2019 which came through Jesus Christ (John 1:17), and of which a wonderful manifestation was made at this very spot."
+        ],
+        "Archibald T. Robertson": [
+            "There is (\u03b5\u03c3\u03c4\u03b9\u03bd). Bengel argues that this proves a date before the destruction of Jerusalem, but it is probably only John's vivid memory.",
+            "Bethesda (\u0392\u03b5\u03b8\u03b5\u03c3\u03b4\u03b1, or House of Mercy. So A C Syr cu). Aleph D L 33 have \u0392\u03b5\u03b8\u03b6\u03b1\u03b8\u03b1 or House of the Olive, while B W Vulg. Memph. have \u0392\u03b5\u03b8\u03c3\u03b1\u03b9\u03b4\u03b1.",
+            "There is also the Virgin's Well, called the Gusher, because it periodically bubbles over from a natural spring, a kind of natural siphon. This is south of the temple in the Valley of Kedron and quite possibly the real site."
+        ],
+        "John Gill": [
+            "Now this place may be an emblem of the means of grace, the ministry of the word, and ordinances: the house of God, where the Gospel is preached, may be called a Bethesda, an house of mercy; since here the free, sovereign, rich, and abundant grace and mercy of God, through Christ, is proclaimed, as the ground and foundation of a sinner's hope.",
+            "rather it might be a symbol of the fountain of Christ's blood, opened for polluted sinners to wash in, and which cleanses from all sin, and cures all diseases; and this is opened in the house of mercy, and by the ministry of the word.",
+            "inasmuch as there were five porches, or cloistered walks, leading unto, or adjoining to this place, it has been thought by some of the ancients, that the law, as lying in the five books of Moses, may be intended by them; for under the law, and under a work of it, men are, before they come into the light and liberty, and comfort of the Gospel."
+        ],
+        "John Wesley": [
+            "Hence it appears, that St. John wrote his Gospel before Jerusalem was destroyed: it is supposed about thirty years after the ascension.",
+            "Having five porticos \u2014 Built for the use of the sick.",
+            "Bethesda signifies the house of mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the pool of Bethesda, also known as the House of Mercy, there were five porches that provided shelter to the patients. This pool was intermittent and believed to have medicinal powers. Some commentators argue that the use of the present tense in describing the pool may indicate that it still existed at the time of writing. The pool's location near the sheep gate, mentioned in Nehemiah, suggests that it may have been a place where the sheep for sacrifice were taken. The name Bethesda, meaning house of mercy, reflects the grace and mercy of God proclaimed through the ministry of the word. It is also seen as a symbol of the fountain of Christ's blood, which cleanses from sin and cures all diseases.",
+            "wordCount": 126,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.8309454474943783,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.22,
+            "commentatorTierSimilarities": [
+                28.19,
+                37.54,
+                34.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the pool of Bethesda, there were five porches that provided shelter. This intermittent pool was believed to have medicinal powers. The pool's location near the sheep gate suggests it may have been a place for sacrificial sheep. Bethesda, meaning house of mercy, reflects the grace and mercy of God proclaimed through the ministry of the word. It is also seen as a symbol of the fountain of Christ's blood, which cleanses from sin and cures diseases.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.749554797960573,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                30.21,
+                32.6,
+                37.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the pool of Bethesda, there were five porches that provided shelter to the patients. This intermittent pool was believed to possess a certain medicinal power. The pool's location near the sheep gate suggests it may have been a place for sacrificial sheep. The name Bethesda, meaning house of mercy, reflects the grace and mercy of God proclaimed through the ministry of the word. It is also seen as a symbol of the fountain of Christ's blood, opened for polluted sinners to wash in and be cleansed from all sin and diseases.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.7718885822982964,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                29.62,
+                33.27,
+                37.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the pool of Bethesda, there were five porches for shelter, and the pool itself was intermittent and believed to possess medicinal power. The pool's location near the sheep gate may have been connected to sacrificial sheep. The name Bethesda, meaning house of mercy, reflects the grace and mercy of God proclaimed through the ministry of the word. This pool is also seen as a symbol of the fountain of Christ's blood, which cleanses from sin and cures diseases.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8343652171710247,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                29.68,
+                34.23,
+                36.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the pool of Bethesda, there were five porches providing shelter to the patients seeking healing. The pool, with its intermittent nature and perceived medicinal power, was significant to those who associated it with mercy. The pool's location near the sheep gate, possibly connected to sacrificial sheep, adds to its symbolism. Bethesda, meaning house of mercy, embodies the grace and mercy of God proclaimed through the ministry of the word and symbolizes the cleansing and healing found in the fountain of Christ's blood.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7684130043786905,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                30.09,
+                32.48,
+                37.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:07:35",
+    "verseRef": "John 6:64",
+    "bestBHT": {
+        "bht": "The murmuring and unbelief towards Jesus stem from a failure to truly believe his words. Jesus had knowledge of the hearts and motives of his disciples, even within his inner circle. He knew from the beginning that one of them, Judas, would ultimately betray him, but this did not absolve Judas of his responsibility for his actions. Jesus' knowledge extended beyond outward appearances, and he offered his teachings to all, but it was crucial for individuals to approach him with humility and open hearts in order to fully comprehend and embrace his teachings.",
+        "wordCount": 93,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.3021229259910045,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.89,
+        "commentatorTierSimilarities": [
+            25.99,
+            44.53,
+            29.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This accounts for your murmuring at what I said, that ye do not believe.",
+            "The fact is, we come here to a form of the problem of divine foreknowledge and human free-will, which, in any of its endless combinations of expression, it is equally impossible for us to solve.",
+            "from the beginning, from their first coming to Him;\u2014the first beginning of their connexion with Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But it matters little to some of you in what sense I speak, for ye believe not.",
+            "This was said, adds the Evangelist, not merely of the outer but of the inner circle of His disciples.",
+            "He knew the traitor, though it was not yet time to expose him."
+        ],
+        "Albert Barnes": [
+            "Jesus knew from the beginning ... it shows that he must have been omniscient.",
+            "Jesus knew from the beginning ... a knowledge of the heart, and of the secret principles and motives of men.",
+            "Jesus knew from the beginning ... implied a knowledge of the heart, and of the secret principles and motives of men."
+        ],
+        "Marvin Vincent": [
+            "Should betray [\u03c0\u03b1\u03c1\u03b1\u03b4\u03c9\u03c3\u03c9\u03bd] . See on Matthew 4:12; Mark 4:29. Judas is once in the New Testament designated by the noun prodothv, traitor, Luke 6:16."
+        ],
+        "John Calvin": [
+            "For unbelief, as it is always proud, will never understand anything in the words of Christ which it despises and disdains.",
+            "If we wish to profit at all under this Teacher, let us bring minds well disposed to listen to him; for if the entrance to his doctrine be not opened up by humility and reverence, our understandings are harder than stones.",
+            "We may learn not to form a judgment except on subjects which we have thoroughly investigated; for as to their being known to Christ from the beginning, this was peculiar to his Divinity."
+        ],
+        "Philip Schaff": [
+            "Even of these who had heard the last words, so mercifully spoken for the removal of their difficulties, there were some who continued in unbelief.",
+            "For Jesus knew from the beginning who they were that believed not, and who it was that would betray him.",
+            "The words seem to imply that the germ of the traitor-spirit was already in the heart of Judas, who, like many others, loved rather the glory and honour which Jesus set aside than the spirit and the life of His words."
+        ],
+        "Archibald T. Robertson": [
+            "Failure to believe kills the life in the words of Jesus.",
+            "From the first Jesus distinguished between real trust in him and mere lip service.",
+            "Judas had gifts and was given his opportunity. He did not have to betray Jesus."
+        ],
+        "John Gill": [
+            "Notwithstanding their following him, and professing to believe in him, and the great outward respect and esteem they showed to him, he could see through all those masks they put on.",
+            "He knows whether their faith is of the right kind or not; whether they have obtained the like precious faith with God's elect; or whether their profession is only a verbal one.",
+            "He not only knew how it was with the multitude of the disciples that professed love to him, and faith in him; but he also particularly knew the case of the twelve apostles, and that one of them should betray him, and who he was."
+        ],
+        "John Wesley": [
+            "But there are some of you who believe not \u2014 And so receive no life by them, because you take them in a gross literal sense.",
+            "For Jesus knew from the beginning \u2014 Of his ministry: who would betray him - Therefore it is plain, God does foresee future contingencies.",
+            "But his foreknowledge causes not the fault, Which had no less proved certain unforeknown."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Failure to believe in the words of Jesus is the root cause of murmuring and disbelief. Jesus had the ability to discern the true hearts and motives of those who claimed to follow him. He knew that even among his inner circle of disciples, there would be one who would betray him. This betrayal was not predetermined or caused by Jesus, but rather Judas made a choice to act against Jesus. The knowledge that Jesus possessed was not limited to outward appearances, but extended to the inner character of individuals. Jesus offered his teachings to all, but it was up to each person to have a humble and open heart to truly understand and believe his words.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 2.22919325860758,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.46,
+            "commentatorTierSimilarities": [
+                27.43,
+                43.37,
+                29.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Failure to believe in the words of Jesus results in murmuring and disbelief. Jesus had knowledge of the hearts and motives of his disciples, even the inner circle. He knew that Judas would betray him, but this does not absolve Judas of responsibility for his actions. Jesus' knowledge went beyond appearances and he offered his teachings to all, but it was up to each person to have a humble heart to understand and believe his words.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.2684988729711337,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.77,
+            "commentatorTierSimilarities": [
+                27.1,
+                44.55,
+                28.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The murmuring and unbelief that some expressed towards Jesus were a result of their failure to truly believe his words. Jesus possessed a deep understanding of the hearts and motives of his disciples, even within his inner circle. He knew from the beginning that Judas would betray him, though it was not yet the appropriate time to reveal it. However, this does not imply that Judas was predestined to betray Jesus or that Jesus compelled him to do so. Jesus' insightful knowledge extended beyond superficial appearances, and he offered his teachings to all, but it was up to each individual to approach him with humility and openness in order to truly comprehend and embrace his words.",
+            "wordCount": 116,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 2.304322409009358,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.96,
+            "commentatorTierSimilarities": [
+                27.44,
+                42.67,
+                29.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The murmuring and unbelief towards Jesus were a result of failure to believe his words. Jesus knew the hearts and motives of his inner circle, including Judas, who would later betray him. However, Jesus' knowledge did not remove Judas' responsibility for his choices. Jesus' understanding went beyond outward appearances, and he offered his teachings to all. Yet, it required humility and receptiveness from individuals to truly grasp and accept his words.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.206599066899,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.71,
+            "commentatorTierSimilarities": [
+                26.57,
+                43.42,
+                30.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The murmuring and unbelief towards Jesus stem from a failure to truly believe his words. Jesus had knowledge of the hearts and motives of his disciples, even within his inner circle. He knew from the beginning that one of them, Judas, would ultimately betray him, but this did not absolve Judas of his responsibility for his actions. Jesus' knowledge extended beyond outward appearances, and he offered his teachings to all, but it was crucial for individuals to approach him with humility and open hearts in order to fully comprehend and embrace his teachings.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.3021229259910045,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.89,
+            "commentatorTierSimilarities": [
+                25.99,
+                44.53,
+                29.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

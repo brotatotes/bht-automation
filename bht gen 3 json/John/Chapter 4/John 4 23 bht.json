@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:05:53",
+    "verseRef": "John 4:23",
+    "bestBHT": {
+        "bht": "True worship is the genuine response to the salvation offered by Jesus, distinct from hypocritical and imperfect worship. God not only requires, but seeks, worshipers who offer it in spirit and truth. This new form of worship was being established during Jesus' conversation with the Samaritan woman, as He revealed Himself as the Messiah. Rooted in the highest part of our humanity, true worship involves a deep spiritual connection with God, a truthful understanding of the object of worship, and is not confined to a specific location.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.234573316535853,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+        "commentatorTierSimilarities": [
+            29.12,
+            34.42,
+            36.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The spiritual worship now to be spoken of is the carrying out and consequence of the salvation just mentioned, and could not have been brought in without it.",
+            "The true worshippers, as distinguished (1) from hypocrites, who have pretended to worship Him: (2) from all who went before, whose worship was necessarily imperfect.",
+            "Such worshippers God not only 'requires,' from His very nature, but seeks,\u2014is seeking."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This new economy was in some sense being set up while He was talking to her.",
+            "A sense which would in a few minutes so far appear.",
+            "He told her plainly He was the Christ."
+        ],
+        "Albert Barnes": [
+            "Already there is so much light that God may be worshipped acceptably in any place.",
+            "They shall worship God with a sincere 'mind;' with the simple offering of gratitude and prayer; with a desire to glorify him, and without external pomp and splendor.",
+            "In the true way of direct access to God through Jesus Christ."
+        ],
+        "Marvin Vincent": [
+            "Spirit [\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1] is the highest, deepest, noblest part of our humanity, the point of contact between God and man.",
+            "True worship includes a spiritual sense of the object worshipped, and a spiritual communion with it; the manifestation of the moral consciousness in feelings, motions of the will, 'moods of elevation, excitements,' etc. It includes also a truthful conception of the object.",
+            "To worship in truth is not merely to worship in sincerity, but with a worship corresponding to the nature of its object."
+        ],
+        "John Calvin": [
+            "The worship of God is said to consist in the spirit, because it is nothing else than that inward faith of the heart which produces prayer, and, next, purity of conscience and self-denial, that we may be dedicated to obedience to God as holy sacrifices.",
+            "In all ages God wished to be worshipped by faith, prayer, thanksgiving, purity of heart, and innocence of life; and at no time did he delight in any other sacrifices.",
+            "What it is to worship God in spirit and truth appears clearly from what has been already said. It is to lay aside the entanglements of ancient ceremonies, and to retain merely what is spiritual in the worship of God; for the truth of the worship of God consists in the spirit, and ceremonies are but a sort of appendage."
+        ],
+        "Philip Schaff": [
+            "An hour cometh, and now is, when the true worshippers shall worship the Father in spirit and truth.",
+            "In the day now dawning on the world such worshippers as these will worship the Father in spirit and truth.",
+            "There is thus a mutual seeking and meeting on the part of the Father and His children."
+        ],
+        "Archibald T. Robertson": [
+            "So contrast John 5:25; John 5:28; John 16:25; John 16:32.",
+            "This is what matters, not where, but how (in reality, in the spirit of man, the highest part of man, and so in truth).",
+            "John pictures the Father as seeking worshippers, a doctrine running all through the Gospel (John 3:16; John 6:44; John 15:16; 1 John 4:10)."
+        ],
+        "John Gill": [
+            "They shall worship the Father; the one true God, the Father of spirits, and of all flesh living.",
+            "But with their souls or spirits, with their whole hearts engaged therein; and by, and under the influence and assistance of the Spirit of God.",
+            "And the rather he may be thought to be intended, since it follows in John 4:24, 'the Spirit is God'; for so the words lie in the Greek text."
+        ],
+        "John Wesley": [
+            "The true worshippers shall worship the Father \u2014 Not here or there only, but at all times and in all places."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The worship that Jesus speaks of in this verse is not merely a religious formality or external act, but a spiritual worship that flows from the salvation He offers. It is the worship of true believers, distinguished from hypocrites and those who worshiped imperfectly before. God not only requires but seeks such worshipers because it is in line with His nature. This new economy of worship was being set up during Jesus' conversation with the Samaritan woman, as He plainly revealed Himself as the Messiah. True worship is rooted in the spirit, the highest and deepest part of our humanity, and entails a truthful understanding and a spiritual communion with the object of worship. It is not limited to a specific place but is characterized by sincerity, truth, and a genuine relationship with God. The Father actively seeks worshipers, a truth consistently highlighted throughout the Gospel of John.",
+            "wordCount": 148,
+            "quoteTokenProportion": 36.26,
+            "qualityScore": 2.191318757509502,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.2,
+            "commentatorTierSimilarities": [
+                29.74,
+                33.68,
+                36.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True worship is not a superficial act, but a spiritual response that springs forth from the salvation found in Jesus. It is the worship of genuine believers, set apart from hypocrites and those who worshiped imperfectly in the past. God not only requires this worship, but actively seeks it. This new form of worship was being established as Jesus plainly revealed Himself to the Samaritan woman. True worship is rooted in the spirit, the highest and deepest part of our humanity, and is not confined to a particular location. The Father seeks authentic worshipers, a truth emphasized throughout the Gospel of John.",
+            "wordCount": 102,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.1853631775005193,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.0,
+            "commentatorTierSimilarities": [
+                29.14,
+                33.77,
+                37.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True worship is not a mere religious formality, but a spiritual response that stems from the salvation offered by Jesus. It distinguishes genuine believers from hypocrites and those who worshiped imperfectly before. God not only requires this worship, but actively seeks it. This new way of worship was being established while Jesus spoke with the Samaritan woman, revealing Himself as the Messiah. It involves a truthful understanding of the object of worship and a spiritual communion with it. True worship is not limited to a specific location, but is characterized by sincerity, truth, and a genuine relationship with God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.1960724725790977,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.36,
+            "commentatorTierSimilarities": [
+                30.23,
+                34.23,
+                35.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True worship is the authentic response to the salvation offered by Jesus. It distinguishes genuine believers from hypocrites and imperfect worshipers of the past. God not only requires this worship, but actively seeks worshipers who offer it in spirit and truth. This new way of worship was being established even in the midst of Jesus' conversation with the Samaritan woman. It involves a deep spiritual connection with God, transcending external formalities and being rooted in the highest part of our humanity. True worship is not limited to a specific place, but is marked by sincerity, truthfulness, and a genuine relationship with God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.1597529605058288,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                28.79,
+                35.02,
+                36.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True worship is the genuine response to the salvation offered by Jesus, distinct from hypocritical and imperfect worship. God not only requires, but seeks, worshipers who offer it in spirit and truth. This new form of worship was being established during Jesus' conversation with the Samaritan woman, as He revealed Himself as the Messiah. Rooted in the highest part of our humanity, true worship involves a deep spiritual connection with God, a truthful understanding of the object of worship, and is not confined to a specific location.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.234573316535853,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+            "commentatorTierSimilarities": [
+                29.12,
+                34.42,
+                36.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

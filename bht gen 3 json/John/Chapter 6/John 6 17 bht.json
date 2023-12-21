@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:06:48",
+    "verseRef": "John 6:17",
+    "bestBHT": {
+        "bht": "As they were going over the sea towards Capernaum, darkness had already come upon them, and yet Jesus had not come to them. The disciples, anticipating his presence, lingered along the shore, but he did not appear. The tenses used by the evangelist vividly portray the scene of their journey, emphasizing the darkness that had settled in while they were in the midst of the sea. It is clear that they expected Jesus to rejoin them at some point on the coast, but when he finally revealed himself, they were in great danger.",
+        "wordCount": 93,
+        "quoteTokenProportion": 52.38,
+        "qualityScore": 2.156750763527576,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.05,
+        "commentatorTierSimilarities": [
+            31.38,
+            37.94,
+            30.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word So, with which ver. 19 begins, seems to me to render this supposition necessary,\u2014to bind their having rowed twenty-five or thirty stadia, with the fact that the Lord had not come, and it was dark, and the sea swelling into a storm.",
+            "It would appear as if the disciples were lingering along shore with the expectation of taking in Jesus: but night had fallen, and He had not come to them.",
+            "The lake is forty furlongs wide: so that, as we can hardly assume the passage to have been to a point directly opposite, they were somewhere about 'in the midst of the sea'."
+        ],
+        "Marvin Vincent": [
+            "Ship. Rev., boat. See on Luke 5:2. The best texts omit the article.",
+            "Went. The imperfect, were going. So Rev.",
+            "It was now dark. Literally, darkness had already come on."
+        ],
+        "John Calvin": [
+            "Those who conjecture that they were still about the middle of the lake when Christ appeared to them...are led into a mistake by supposing that they had sailed to the farther or opposite bank.",
+            "The Evangelist intended to show that, when Christ presented himself to them, they were in the utmost danger.",
+            "The Lord often makes his people fall into alarming dangers, that they may more plainly and familiarly recognize him in their deliverance."
+        ],
+        "Philip Schaff": [
+            "And darkness had already come on, and Jesus was not yet come to them.\" ",
+            "Probably they were intending to coast along the shore of the lake between Bethsaida-Julias and Capernaum.\" ",
+            "The words that follow show clearly that they expected Him to rejoin them at some point on the coast."
+        ],
+        "Archibald T. Robertson": [
+            "While they were going, 'darkness had already come.'\" ",
+            "Darkness had come, but Jesus had not come, while they were going over the sea.",
+            "The tenses in these verses are very graphic."
+        ],
+        "John Gill": [
+            "And went over the sea towards Capernaum; steered their course from Bethsaida, where they took shipping over the sea of Galilee; at least over one part of it, a creek or bay of it, as they intended, towards the city of Capernaum.\" (Commentary, part 1)",
+            "And it was now dark; quite night, which made their voyage more uncomfortable, especially as it afterwards was tempestuous.\" (Commentary, part 2)",
+            "And Jesus was not come to them; as they expected, and therefore were obliged to set sail and go without him.\" (Commentary, part 3)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As they were going over the sea towards Capernaum, darkness had already come upon them, and yet Jesus had not come to them. The disciples, anticipating his presence, lingered along the shore, but he did not appear. The tenses used by the evangelist vividly portray the scene of their journey, emphasizing the darkness that had settled in while they were in the midst of the sea. It is clear that they expected Jesus to rejoin them at some point on the coast, but when he finally revealed himself, they were in great danger. The Lord often allows his people to face alarming dangers so that they may recognize him more clearly in their deliverance.",
+            "wordCount": 114,
+            "quoteTokenProportion": 49.35,
+            "qualityScore": 1.983243599722028,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                29.56,
+                36.57,
+                33.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While the disciples were going over the sea towards Capernaum, darkness had already come upon them, and yet Jesus had not come to them. The tenses used by the evangelist vividly portray the scene of their journey, emphasizing the darkness that had settled in while they were in the midst of the sea. The disciples expected Jesus to rejoin them at some point on the coast, but when he finally revealed himself, they were in great danger. The Lord often allows his people to face alarming dangers so that they may recognize him more clearly in their deliverance.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9377490515074451,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                29.11,
+                35.44,
+                35.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As they were going over the sea towards Capernaum, darkness had already come upon them, and yet Jesus had not come to them. The disciples, anticipating his presence, lingered along the shore, but he did not appear. The tenses used by the evangelist vividly portray the scene of their journey, emphasizing the darkness that had settled in while they were in the midst of the sea. It is clear that they expected Jesus to rejoin them at some point on the coast, but when he finally revealed himself, they were in great danger.",
+            "wordCount": 93,
+            "quoteTokenProportion": 52.38,
+            "qualityScore": 2.156750763527576,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.05,
+            "commentatorTierSimilarities": [
+                31.38,
+                37.94,
+                30.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While going over the sea towards Capernaum, darkness had already come upon the disciples, and Jesus had not yet come to them. Their lingering along the shore with the expectation of taking in Jesus was met with disappointment. The tenses used by the evangelist vividly depict their journey, highlighting the darkness that enveloped them in the midst of the sea. Though they anticipated Jesus' presence, he did not arrive until they were in the midst of a dangerous situation. This highlights how the Lord often allows his people to face perilous circumstances to deepen their recognition of his deliverance.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.8433566556657288,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                30.72,
+                35.81,
+                33.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As they were going over the sea towards Capernaum, darkness had already come upon them. Their lingering along the shore, expecting Jesus to rejoin them, proved futile. The narrative's tenses provide a graphic depiction of their journey, emphasizing the darkness that set in while they were in the midst of the sea. When Jesus finally revealed himself, the disciples were in great danger, a reminder that the Lord often allows his people to encounter alarming situations for the purpose of recognizing him more intimately in their deliverance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8601011152189915,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                31.23,
+                36.28,
+                32.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:11:01",
+    "verseRef": "John 12:16",
+    "bestBHT": {
+        "bht": "The disciples, through their actions of going out to meet Jesus, strewing clothes and branches, and shouting praises, found themselves unknowingly fulfilling the prophecies of the Messiah. It was only after the Ascension and the Holy Spirit illuminated their minds that they comprehended the true significance of their actions. This serves as a reminder for us to base our understanding of Christ on the Scriptures, rather than relying solely on our own feelings. Although we may not always grasp God's plans, faith empowers us to embrace the unknown and trust in His divine providence.",
+        "wordCount": 95,
+        "quoteTokenProportion": 41.89,
+        "qualityScore": 1.8373370988788338,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+        "commentatorTierSimilarities": [
+            29.15,
+            35.56,
+            35.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Important, as shewing that this, and probably other prophetic citations under similar circumstances, were the effect of the light poured into the minds of the Apostles by the Holy Spirit after the Ascension.",
+            "They had done these things unto him] viz. the going out to meet Him, strewing clothes and branches in the way, and shouting 'Hosanna' before Him: also perhaps, the setting Him on the ass, implied in the concise narrative.",
+            "Notice the thrice-repeated these things each time signifying 'this which was written by the prophet,' 'the above citation.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Spirit, descending on them from the glorified Saviour at Pentecost, opened their eyes suddenly to the true sense of the Old Testament.\" ",
+            "Brought vividly to their recollection this and other Messianic predictions.",
+            "They, and all the actors in these scenes, had been unconsciously fulfilling those predictions."
+        ],
+        "John Calvin": [
+            "The Apostles are the servants of God to fulfill the prophecy, but they do not understand what they are doing.",
+            "We are blind, unless the word of God go before our steps, and it is not even enough that the word of God shine on us, if the Spirit do not also enlighten our eyes.",
+            "Taught by this example, let us learn to form our judgment of everything that relates to Christ, not by our own carnal feelings, but by the Scripture."
+        ],
+        "Philip Schaff": [
+            "It was the events themselves now occurring that were dark to them. They were not seen in their true light as a magnifying, as a prefigurative glorifying, of a suffering Messiah.",
+            "The ignorance of the disciples was corrected by experience. What they did not understand now, they understood when the resurrection and ascension had taken place.",
+            "The light of that glorification shed light alike upon the sufferings and the partial glorifications of Jesus that had gone before."
+        ],
+        "Archibald T. Robertson": [
+            "Another comment by John concerning the failure of the disciples to know what was happening.\" ",
+            "It was easier to understand then and they had the Holy Spirit to help them.\" ",
+            "The use of \u03b5\u03c0' \u03b1\u03c5\u03c4\u03c9 for 'of him' rather than \u03c0\u03b5\u03c1 \u03b1\u03c5\u03c4\u03bf\u03c5 is unusual, but occurs in Revelation 10:11; Revelation 22:16."
+        ],
+        "John Gill": [
+            "They did not then know the sense of that prophecy, nor that the things which were now doing were a fulfilling of it.",
+            "Their minds were greatly illuminated, and they had a very distinct knowledge of the Scriptures of the Old Testament; and saw clearly how they severally had their accomplishment in Christ.",
+            "Then remembered they that these things were written of him; in the prophecies of the Old Testament."
+        ],
+        "John Wesley": [
+            "The design of God's providential dispensations is seldom understood at first.",
+            "We ought therefore to believe, though we understand not, and to give ourselves up to the Divine disposal.",
+            "The great work of faith is, to embrace those things which we knew not now, but shall know hereafter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples' actions in John 12:16, such as going out to meet Jesus, strewing clothes and branches, and shouting praises, were unconsciously fulfilling the prophecies written about the Messiah. It wasn't until after the Ascension, when the Holy Spirit enlightened their minds and brought to their recollection the Messianic predictions, that the disciples truly understood the significance of what they had done. This serves as a reminder for us to form our judgment of everything that relates to Christ not by our own carnal feelings, but by the Scriptures. Though we may not always understand God's providential plans, faith allows us to embrace what we may not know now but will know in the future.",
+            "wordCount": 116,
+            "quoteTokenProportion": 42.35,
+            "qualityScore": 1.9325637952141195,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                29.87,
+                33.02,
+                37.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples unknowingly fulfilled the prophecies written about the Messiah through their actions in the verse. The Holy Spirit, descending on them after the Ascension, illuminated their minds and made them fully grasp the significance of what they had done. This serves as a reminder for us to base our understanding of Christ on the Scriptures rather than our own feelings. Although we may not always comprehend God's plans, faith enables us to embrace the unknown and trust in His divine providence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.7980545526554956,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                30.63,
+                32.69,
+                36.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' actions, like going out to meet Jesus, strewing clothes and branches, and shouting praises, unknowingly fulfilled the prophetic writings about the Messiah. After the Ascension, the Holy Spirit illuminated their minds, enabling them to understand the true meaning of their actions. This reminds us to base our understanding of Christ on the Scriptures rather than our own emotions. Though we may not always comprehend God's plans, faith allows us to embrace the unknown and trust in His divine providence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.7907204273600317,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                30.35,
+                34.13,
+                35.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, by going out to meet Jesus, strewing clothes and branches, and shouting praises, unknowingly fulfilled the prophecies of the Messiah. It wasn't until after the Ascension, when the Holy Spirit enlightened their minds, that they understood the significance of their actions. We should learn from their example and base our understanding of Christ on the Scriptures rather than our own emotions. Although we may not always grasp God's plans, faith enables us to embrace the unknown and trust His providence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7776053605333768,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.45,
+            "commentatorTierSimilarities": [
+                28.47,
+                35.18,
+                36.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, through their actions of going out to meet Jesus, strewing clothes and branches, and shouting praises, found themselves unknowingly fulfilling the prophecies of the Messiah. It was only after the Ascension and the Holy Spirit illuminated their minds that they comprehended the true significance of their actions. This serves as a reminder for us to base our understanding of Christ on the Scriptures, rather than relying solely on our own feelings. Although we may not always grasp God's plans, faith empowers us to embrace the unknown and trust in His divine providence.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.8373370988788338,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                29.15,
+                35.56,
+                35.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

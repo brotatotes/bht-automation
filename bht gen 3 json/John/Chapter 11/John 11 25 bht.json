@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:10:28",
+    "verseRef": "John 11:25",
+    "bestBHT": {
+        "bht": "In these powerful words, Jesus declares Himself to be the resurrection and the life, emphasizing His role as the source of life and the ultimate testimony to Himself. He proclaims that even in death, believers will live through their faith in Him. This proclamation is not merely about future events, but a present reality in Jesus Himself. Through Him, believers find comfort and assurance that their life is preserved and death is ultimately conquered. In Jesus, death is transformed into everlasting life.",
+        "wordCount": 82,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.1329917693946885,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+        "commentatorTierSimilarities": [
+            36.11,
+            25.22,
+            38.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words, as Stier observes, are the central point of the history; the great testimony to Himself, of which the subsequent miracle is the proof.",
+            "This He does by announcing Himself...as 'THE RESURRECTION'...and more than that, THE LIFE ITSELF.",
+            "So that he that believeth in me...even though he have died, shall live."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The whole power to restore, impart, and maintain life, resides in Me.",
+            "The believer's death shall be swallowed up in life, and his life shall never sink into death.",
+            "The temporary separation of soul and body is here regarded as not even interrupting, much less impairing, the new and everlasting life imparted by Jesus to His believing people."
+        ],
+        "Albert Barnes": [
+            "I am the resurrection - I am the author or the cause of the resurrection.",
+            "He intimated that it was not indispensable that it should be deferred to the last day. He had power to do it now as well as then.",
+            "Even if he dies, he shall hereafter live."
+        ],
+        "Marvin Vincent": [
+            "I am the resurrection, I am the life.\" ",
+            "In His own person, representing humanity, He exhibits man as immortal, but immortal only through union with Him.",
+            "This life is not affected by death. 'Every believer is in reality and forever sheltered from death.'"
+        ],
+        "John Calvin": [
+            "Christ shows that he is the commencement of life.",
+            "That men live and breathe, and are endued with sense, understanding, and will, all this tends to their destruction, because there is no part or faculty of the soul that is not corrupted and turned aside from what is right.",
+            "This is truly a remarkable commendation of faith, that it conveys to us the life of Christ, and thus frees us from death."
+        ],
+        "Archibald T. Robertson": [
+            "They are not mere doctrines about future events, but present realities in Jesus himself.",
+            "The Resurrection is one manifestation of the Life: it is involved in the Life.",
+            "Even if he die... yet shall he live."
+        ],
+        "John Gill": [
+            "I am the resurrection and the life,.... Signifying, that he was able of himself to raise men from death to life, without asking it of his Father; and that he could do it now, as well as at the general resurrection.",
+            "This is true of Christ, with regard to a spiritual resurrection, from a death of sin, to a life of grace; he is concerned both in the life itself, and in the resurrection to it.",
+            "He that believeth in me, though he were dead, yet shall he live: believers in Christ die as well as others, though death is not a penal evil to them; its curse is removed, its sting is taken away, being satisfied for by Christ, and so becomes a blessing and privilege to them."
+        ],
+        "John Wesley": [
+            "l am the resurrection \u2014 Of the dead.",
+            "And the life \u2014 Of the living.",
+            "He that believeth in me, though he die, yet shall he live \u2014 In life everlasting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 11:25, Jesus makes a profound statement about Himself: I am the resurrection and the life. He declares that He is the central point of the history, the great testimony to Himself. Jesus unveils Himself as the author and cause of the resurrection, the one who has the power to restore, impart, and maintain life. Through Him, believers have everlasting life that transcends death. The believer's death is swallowed up in life, and their life is sheltered from death. This proclamation goes beyond mere future events; it reflects the present reality of Jesus Himself. Jesus is the commencement of life, and through faith in Him, one is freed from death.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.142360316866256,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.57,
+            "commentatorTierSimilarities": [
+                37.16,
+                25.01,
+                37.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In these words, Jesus proclaims Himself as the resurrection and the life, emphasizing His central role in the history. Through Him, believers receive everlasting life that surpasses death itself. This declaration goes beyond future events, serving as a present reality in Jesus. He is the author of the resurrection, possessing the power to restore, impart, and maintain life. Believers find comfort knowing that even in death, their life is preserved and death becomes a gateway to eternal life. Jesus, as the embodiment of resurrection and life, offers a profound liberation from death through faith in Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.1317234093598896,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.22,
+            "commentatorTierSimilarities": [
+                35.96,
+                25.21,
+                38.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' powerful statement in John 11:25 reveals His central role in history as the testimony to Himself. He boldly proclaims to be the resurrection and the life, possessing the ability to restore, impart, and sustain life. Believers find solace in the assurance that even in death, their life remains sheltered and death itself is ultimately overcome. In Jesus, the believer's death is transformed into an entrance to everlasting life. This proclamation extends beyond future events, as it reflects the present reality found in union with Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.930215802206972,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                37.96,
+                23.43,
+                38.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In these powerful words, Jesus declares Himself to be the resurrection and the life, emphasizing His role as the source of life and the ultimate testimony to Himself. He proclaims that even in death, believers will live through their faith in Him. This proclamation is not merely about future events, but a present reality in Jesus Himself. Through Him, believers find comfort and assurance that their life is preserved and death is ultimately conquered. In Jesus, death is transformed into everlasting life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1329917693946885,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+            "commentatorTierSimilarities": [
+                36.11,
+                25.22,
+                38.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' assertion in John 11:25 that He is the resurrection and the life serves as the central point of the narrative. Believers find solace in the fact that through Him, they are granted eternal life, transcending even death itself. By proclaiming this truth, Jesus reveals that He is the source of life and the power to restore and maintain it. Through faith in Him, believers experience a transformation that frees them from the grip of death and grants them everlasting life.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.0996454961941784,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.15,
+            "commentatorTierSimilarities": [
+                35.97,
+                23.45,
+                40.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

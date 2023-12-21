@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:05:12",
+    "verseRef": "John 3:12",
+    "bestBHT": {
+        "bht": "Faith is the receiving of testimony, making it subjectively real. It is far above reasoning and knowledge, a reception of divine truth declared by One who came from God. While the earthly things encompass the phenomena of the new birth, the heavenly things are the deep secrets of God's purpose in redemption. Jesus employed two ways of teaching, explaining earthly things in relation to God's kingdom and speaking directly of God and His mysteries. The heavenly things can only be fully understood by Him who came from heaven.",
+        "wordCount": 90,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 2.2555465495930744,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.34,
+        "commentatorTierSimilarities": [
+            38.76,
+            32.14,
+            29.11
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Faith is, in the most pregnant sense, \u2018the receiving of testimony;\u2019 because it is the making subjectively real the contents of that testimony.\" ",
+            "This faith is neither reasoning, nor knowledge, but a reception of divine Truth declared by One who came from God; and so it is far above reasoning and knowledge:\u2014we believe above we know.",
+            "The earthly things are the matters relating to the new birth... and the heavenly things are the things of which the discourse goes on to treat from this point: viz. the heavenly side of the new birth and salvation of man, in the eternal counsels of God regarding His only-begotten Son."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "earthly things\u2014such as regeneration, the gate of entrance to the kingdom of God on earth, and which Nicodemus should have understood better, as a truth even of that more earthly economy to which he belonged.\" ",
+            "heavenly things\u2014the things of the new and more heavenly evangelical economy.",
+            "only to be fully understood after the effusion of the Spirit from heaven through the exalted Saviour."
+        ],
+        "Albert Barnes": [
+            "Not sensual or worldly things, for Jesus had said nothing of these; but he had told him of operations of the Spirit which had occurred 'on earth,' whose effects were visible, and which 'might' be, therefore, believed.\" ",
+            "How will you believe. Is there any probability that you will understand them?",
+            "Things pertaining to the government of God and his doings in the heavens; things which are removed from human view, and which cannot be subjected to human sight; the more profound and inscrutable things pertaining to the redemption of men."
+        ],
+        "Marvin Vincent": [
+            "The earthly things would therefore include the phenomena of the new birth.",
+            "Not worldly affairs, nor things sinful, but, on the contrary, 'those facts and phenomena of the higher life as a class, which have their seat and manifestation on earth; which belong in their realization to our present existence; which are seen in their consequences, like the issues of birth; which are sensible in their effects, like the action of the wind; which are a beginning and a prophecy, and not a fulfillment.'",
+            "The author of the fourth Gospel was then clearly aware of two ways of teaching adopted by Jesus; the one the usual, in which he explained earthly things, evidently always in their relation to God and His kingdom; the other, which contrasted in many respects with the first, and which Jesus employed only exceptionally, in which He spoke directly, and as a witness, of God and the things of God, always naturally in connection with the fate of mankind."
+        ],
+        "John Calvin": [
+            "It is too common a fault that men desire to be taught in an ingenious and witty style. Hence, the greater part of men are so delighted with lofty and abstruse speculations.",
+            "Hence, too, many hold the Gospel in less estimation because they do not find in it high-sounding words to fill their ears, and on this account do not deign to bestow their attention on a doctrine so low and mean.",
+            "Whoever exclaims that he is offended by such meanness of language, or pleads it as an excuse for not subjecting himself to the word of God, speaks falsely; for he who cannot endure to embrace God, when he approaches to him, will still less fly to meet him above the clouds."
+        ],
+        "Philip Schaff": [
+            "The things that are in heaven can only be made known by Him who has been in heaven... 'the heavenly things' are those truths which He who cometh from heaven, and He alone, can reveal.\" ",
+            "The things on earth... are things which the prophet or teacher who has never ascended into heaven... can reach, though not necessarily by his own unaided powers.\" ",
+            "If some of the truths hitherto declared had been so imperfectly received... how would it be when He spoke of the things hitherto secret, coming directly out of the heaven which He opens... and for the first time revealed in Him?"
+        ],
+        "Archibald T. Robertson": [
+            "The work of the kingdom of God including the new birth which Nicodemus did not understand belongs to \u03c4\u03b1 \u03b5\u03c0\u03b9\u03b3\u03b5\u03b9\u03b1.",
+            "By \u03c4\u03b1 \u03b5\u03c0\u03bf\u03c5\u03c1\u03b1\u03bd\u03b9\u03b1 Jesus means the things that take place in heaven like the deep secrets of the purpose of God in the matter of redemption.",
+            "Hence the one should not be pitted against the other. There are specimens of the heavenly in the Synoptics as in Matthew 11:25; Luke 10:18."
+        ],
+        "John Gill": [
+            "Not that the doctrines he delivered were earthly ones; for he was not of the earth, but from heaven, and above all, and so spake not of the earth, but of heaven.",
+            "This doctrine of regeneration was a heavenly doctrine; and the thing itself required supernatural power, and grace from above.",
+            "These [heavenly things] delivered in language suitable to them, without figures, or natural similes, which help the understanding, and convey ideas of things more easily to it."
+        ],
+        "John Wesley": [
+            "Earthly things \u2014 Things done on earth; such as the new birth, and the present privileges of the children of God.",
+            "Heavenly things \u2014 Such as the eternity of the Son, and the unity of the Father, Son, and Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith is the receiving of testimony, making the contents of that testimony subjectively real. It is a reception of divine truth declared by One who came from God, far above reasoning and knowledge. The earthly things include the phenomena of the new birth, while the heavenly things are the deep secrets of God's purpose in redemption. Jesus used two ways of teaching, one explaining earthly things in relation to God's kingdom and the other speaking directly of God and things of God. The heavenly things can only be known by Him who came from heaven. So, the earthly and heavenly things should not be opposed to each other.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.2229048275646583,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.25,
+            "commentatorTierSimilarities": [
+                38.18,
+                31.76,
+                30.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith is a subjective reception of divine truth, far above reasoning and knowledge. The earthly things refer to the new birth, while the heavenly things are the deep secrets of God's purpose in redemption. Jesus used two ways of teaching, explaining earthly things in relation to God's kingdom and speaking directly about God and things of God. The heavenly things can only be known by Him who came from heaven. So, the earthly and heavenly things should not be opposed to each other.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2169422270922494,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.05,
+            "commentatorTierSimilarities": [
+                37.31,
+                31.97,
+                30.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith is the receiving of testimony, making the contents of that testimony subjectively real. It is a reception of divine truth declared by One who came from God, far above reasoning and knowledge. The earthly things include the phenomena of the new birth, while the heavenly things are the deep secrets of God's purpose in redemption. Jesus used two ways of teaching, one explaining earthly things in relation to God's kingdom and the other speaking directly of God and things of God. The heavenly things can only be known by Him who came from heaven. So, the earthly and heavenly things should not be opposed to each other.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.2229048275646583,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.25,
+            "commentatorTierSimilarities": [
+                38.18,
+                31.76,
+                30.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith is the receiving of testimony, making it subjectively real. It is far above reasoning and knowledge, a reception of divine truth declared by One who came from God. While the earthly things encompass the phenomena of the new birth, the heavenly things are the deep secrets of God's purpose in redemption. Jesus employed two ways of teaching, explaining earthly things in relation to God's kingdom and speaking directly of God and His mysteries. The heavenly things can only be fully understood by Him who came from heaven.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.2555465495930744,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.34,
+            "commentatorTierSimilarities": [
+                38.76,
+                32.14,
+                29.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith is the subjective reception of divine truth, surpassing reasoning and knowledge, as it makes the testimony real. The earthly things relate to the phenomena of the new birth, while the heavenly things encompass the deep secrets of God's redemptive purpose. Jesus used two distinct teaching methods: explaining earthly things in connection to God's kingdom, and directly speaking about God and His mysteries. The comprehension of heavenly things can only come from Him who originated from heaven. Thus, there should be no opposition between the earthly and heavenly aspects.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.2145329744682476,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.97,
+            "commentatorTierSimilarities": [
+                37.43,
+                31.69,
+                30.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:09:30",
+    "verseRef": "John 9:37",
+    "bestBHT": {
+        "bht": "These words, Thou hast both seen him, serve to remind the man of the benefit he has received and the gratitude he should feel. This was the first time that he had seen his Benefactor, with his new sense of sight gazing upon the Light of the world. The phrase And he it is that speaketh with thee shows that the one speaking to him is indeed Jesus, the Son of Man (or the Son of God). Through this manifestation, the man not only gains physical sight but also a deeper understanding of who Jesus is.",
+        "wordCount": 96,
+        "quoteTokenProportion": 48.39,
+        "qualityScore": 2.177120524118164,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.73,
+        "commentatorTierSimilarities": [
+            35.45,
+            36.8,
+            27.76
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words, Thou hast both seen him, serve to remind the man of the benefit he has received, and to awaken in him the liveliest gratitude.",
+            "They do not refer to a former seeing when he was healed: this was the first time that he had seen his Benefactor."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The new sense of sight having at that moment its highest exercise, in gazing upon 'the Light of the world.'"
+        ],
+        "John Calvin": [
+            "But what principally belongs to faith is, to know that, by the sacrifice of his death, atonement has been made for our sins, and we are reconciled to God...\" (Commentary)",
+            "[Faith] is to know...that we are renewed by his Spirit, in order that, being dead to the flesh and to sin, we may live to righteousness.\" (Commentary)",
+            "Jesus intended to be acknowledged by him as the Christ, that from this beginning of faith he might afterwards lead him forward to a more intimate knowledge of himself.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Thou hast both seen him, and he that speaketh with thee is he. This manifestation is now given.\" ",
+            "Both in word ('he that speaketh') and in the half-veiled, yet clear, reference to the work that had been wrought on him ('thou hast seen Him') in the gift of physical (and we may certainly add spiritual) eyesight."
+        ],
+        "Archibald T. Robertson": [
+            "Thou hast both seen him...since his eyes were opened.",
+            "And he it is that speaketh with thee...the one speaking with thee is that man.",
+            "In John 4:26 Jesus reveals himself in like manner to the Samaritan woman as Messiah while here as the Son of Man (or the Son of God)."
+        ],
+        "John Gill": [
+            "Thou hast both seen him; not that he had seen him before now, with his bodily eyes; but he had seen him, that is, he had perceived and felt the power of him in restoring him to sight.\" ",
+            "He had seen him bodily, and did at this present time.\" ",
+            "It is he that talketh with thee; in like manner he made himself known to the woman of Samaria."
+        ],
+        "John Wesley": [
+            "Lord, I believe \u2014 What an excellent spirit was this man of!",
+            "Of so deep and strong an understanding; (as he had just shown to the confusion of the Pharisees,) and yet of so teachable a temper!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These words, Thou hast both seen him, serve to remind the man of the benefit he has received and the gratitude he should feel. This was the first time that he had seen his Benefactor, with his new sense of sight gazing upon the Light of the world. The phrase And he it is that speaketh with thee shows that the one speaking to him is indeed Jesus, the Son of Man (or the Son of God). Through this manifestation, the man not only gains physical sight but also a deeper understanding of who Jesus is.",
+            "wordCount": 96,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.177120524118164,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.73,
+            "commentatorTierSimilarities": [
+                35.45,
+                36.8,
+                27.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These words, Thou hast both seen him, remind the man of the benefit he has received and awaken his gratitude. This was his first time truly seeing his Benefactor, gazing upon the Light of the world. The phrase And he it is that speaketh with thee confirms that the one speaking to him is Jesus, the Son of Man. Through this encounter, the man not only gains physical sight but also a deeper understanding of Jesus' identity.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.139866776275539,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.49,
+            "commentatorTierSimilarities": [
+                34.54,
+                37.23,
+                28.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These words, Thou hast both seen him, serve to remind the man that he has experienced the benefit of Jesus' healing and should be filled with gratitude. This marks the first time the man truly sees his Benefactor and gazes upon the Light of the world. The phrase And he it is that speaketh with thee confirms that the one speaking to him is Jesus, the Son of Man. Through this encounter, the man gains both physical sight and a deeper understanding of Jesus' identity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.114993117689403,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.66,
+            "commentatorTierSimilarities": [
+                31.71,
+                39.01,
+                29.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These words, Thou hast both seen him, serve to remind the man of the benefit he has received and awaken his gratitude. This was the first time the man saw his Benefactor, gazing upon the Light of the world. The phrase And he it is that speaketh with thee confirms that the one speaking to him is Jesus, the Son of Man. Through this encounter, the man gains not only physical sight but also a deeper understanding of Jesus' identity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.1626643933279834,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.25,
+            "commentatorTierSimilarities": [
+                34.9,
+                36.79,
+                28.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These words spoken to the man who received sight serve as a reminder of the great benefit he has received and emphasize the need for gratitude. It was not a previous seeing but the first time that he truly saw his Benefactor, gazing upon the Light of the world. The phrase And he it is that speaketh with thee confirms that the one speaking to him is none other than Jesus, the Son of Man. Through this encounter, the man not only gains physical sight but also a deeper understanding of Jesus' identity.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.0194119073848116,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.49,
+            "commentatorTierSimilarities": [
+                34.75,
+                36.02,
+                29.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

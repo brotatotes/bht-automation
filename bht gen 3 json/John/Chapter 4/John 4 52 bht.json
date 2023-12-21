@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:05:53",
+    "verseRef": "John 4:52",
+    "bestBHT": {
+        "bht": "The courtier's faith was unexpectedly strengthened as he heard that his son had recovered\u2014a healing that aligned perfectly with Jesus' words. This affirmed his belief in Jesus' Power, Goodness, and Messiahship. Seeking the precise hour of his son's restoration, the courtier desired to establish the exact moment when his child's health was regained. This inquiry, divinely prompted, aimed to provide undeniable proof of the miracle. Witnessing his son's immediate and complete recovery deepened the courtier's unwavering faith.",
+        "wordCount": 83,
+        "quoteTokenProportion": 25.86,
+        "qualityScore": 1.3042544122226725,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.71,
+        "commentatorTierSimilarities": [
+            27.24,
+            32.4,
+            40.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was probably more than he expected to hear.",
+            "The coincidence of so sudden a recovery with the time at which Jesus had spoken the words to him raises his faith at length into a full belief.",
+            "The Power and Goodness and the Messiahship of Him, who had by a word commanded the disease, and it had obeyed."
+        ],
+        "Albert Barnes": [
+            "Jesus has an intimate knowledge of all things.\".",
+            "Jesus has almighty power.",
+            "We see the benevolence of Jesus."
+        ],
+        "John Calvin": [
+            "That this courtier asked his servants at what time his son began to recover, was done by a secret impulse from God, that the truth of the miracle might be rendered more conspicuous.",
+            "For by nature we have an exceedingly wicked disposition to extinguish the light of the power of God, and Satan labors, by various means, to hide the works of God from our view.",
+            "In order that they may obtain from us that praise which is due to them, they must be made so manifest that no room is left for doubt."
+        ],
+        "Philip Schaff": [
+            "If the \u2018seventh hour\u2019 were reckoned from sunrise, the time of the cure would be a little later than noon; in that case it would be necessary to suppose that the servants were following the familiar Jewish reckoning of time, and regarding sunset as the commencement of a new day.",
+            "It seems, however, much more probable... that by the \u2018seventh hour\u2019 we must understand 6 to 7 P.M.",
+            "He had believed the word 'thy son liveth' (John 4:50), and what he asks now is as to the hour at which his child had been stopped upon the road to death, and turned back upon that to full health and strength."
+        ],
+        "Archibald T. Robertson": [
+            "Took a turn, got better... Thou art doing finely.",
+            "During the seventh hour.",
+            "The seventh hour would be (Roman time) seven P.M."
+        ],
+        "John Gill": [
+            "He did not at all hesitate about the truth of it, or was in any surprise upon it...",
+            "He seemed to think, that his recovery might be gradual, and not all at once...",
+            "The fever left him; entirely at once, so that he was perfectly well immediately."
+        ],
+        "John Wesley": [
+            "He asked the hour when he amended \u2014 The more exactly the works of God are considered, the more faith is increased."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon hearing the news that his son had recovered, the courtier's faith was elevated to a level he did not anticipate. The timing of the healing aligned precisely with the moment Jesus spoke the words, affirming his belief in the Power, Goodness, and Messiahship of the One who commanded the illness to obey. The courtier inquired about the specific hour of his son's restoration, wanting to confirm the precise moment when his child's health was restored. This request, prompted by God's guiding hand, aimed to demonstrate the undeniable truth of the miracle. The courtier's unwavering faith grew through witnessing the instantaneous and complete recovery of his son.",
+            "wordCount": 112,
+            "quoteTokenProportion": 29.73,
+            "qualityScore": 1.3154031297599413,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.08,
+            "commentatorTierSimilarities": [
+                28.91,
+                28.3,
+                42.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon hearing that his son had recovered, the courtier's faith surpassed his expectations. The timely healing validated his belief in the Power, Goodness, and Messiahship of the One who commanded the illness. Seeking to ascertain the exact hour of his son's restoration, he desired to confirm the precise moment when his child's health was restored. This request, guided by God, aimed to demonstrate the unmistakable truth of the miracle. The courtier's unwavering faith grew through witnessing the immediate and complete recovery of his son.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.2631681153388168,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.34,
+            "commentatorTierSimilarities": [
+                28.42,
+                26.82,
+                44.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The courtier's faith was unexpectedly strengthened as he heard that his son had recovered\u2014a healing that aligned perfectly with Jesus' words. This affirmed his belief in Jesus' Power, Goodness, and Messiahship. Seeking the precise hour of his son's restoration, the courtier desired to establish the exact moment when his child's health was regained. This inquiry, divinely prompted, aimed to provide undeniable proof of the miracle. Witnessing his son's immediate and complete recovery deepened the courtier's unwavering faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.3042544122226725,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.71,
+            "commentatorTierSimilarities": [
+                27.24,
+                32.4,
+                40.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the courtier received news of his son's recovery, his faith was unexpectedly strengthened by the divine alignment of the healing with Jesus' words. The courtier sought the exact hour of his son's restoration, yearning to confirm the precise moment of his child's renewed health. This request stemmed from a divine impulse, intended to illuminate the undeniable truth of the miracle. Witnessing the immediate and complete recovery of his son deepened the courtier's unwavering faith, increasing his praise for the works of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.215976283652622,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.77,
+            "commentatorTierSimilarities": [
+                22.88,
+                28.14,
+                48.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon hearing the news of his son's recovery, the courtier's faith surged beyond his expectations, as the healing unfolded precisely as Jesus had spoken. Seeking the hour of his son's restoration marked a desire to establish the specific moment when the child returned from the edge of death to full strength. This inquiry, divinely prompted, aimed to present the undeniable evidence of the miracle. Witnessing the immediate and complete recovery deepened the courtier's unwavering faith, acknowledging and praising the power and goodness of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.19776573345712,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.17,
+            "commentatorTierSimilarities": [
+                22.22,
+                33.49,
+                44.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

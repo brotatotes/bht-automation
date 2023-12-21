@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-21-2023 03:07:37",
+    "verseRef": "John 6:66",
+    "bestBHT": {
+        "bht": "Upon hearing Jesus' words, many of his followers abandoned him and ceased to walk with him. These disciples, who had previously journeyed with Jesus, turned their backs on him and went back to the things they had left behind. This separation between true and false believers highlighted Jesus' ability to completely disillusion those who were merely seeking temporal benefits. It became evident that some may initially follow Jesus but turn away when faced with the true cost of discipleship. However, amidst this departure, there were those who remained faithful, whom Jesus continued to refine and use for his purpose.",
+        "wordCount": 99,
+        "quoteTokenProportion": 42.67,
+        "qualityScore": 1.9656800446547043,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+        "commentatorTierSimilarities": [
+            32.93,
+            35.16,
+            31.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The temporal meaning prevails, but does not exclude the causal.",
+            "It was upon this being said, and it was also because this had been said.",
+            "Many, viz. of those that believed not: but not all."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Those last words of our Lord seemed to have given them the finishing stroke\u2014they could not stand it any longer.",
+            "Many a journey, it may be, they had taken with Him, but now they gave Him up finally!",
+            "They walked no more."
+        ],
+        "Albert Barnes": [
+            "Many of his disciples...went back - Turned away from him and left him.\" ",
+            "From this we may learn..."
+        ],
+        "Marvin Vincent": [
+            "From that time [\u03b5\u03ba \u03c4\u03bf\u03c5\u03c4\u03bf\u03c5]. Render, as Rev., upon this. As a result proceeding out of [\u03b5\u03ba] this.\" ",
+            "Went back [\u03b1\u03c0\u03b7\u03bb\u03b8\u03bf\u03bd \u03b5\u03b9\u03c2 \u03c4\u03b1 \u03bf\u03c0\u03b9\u03c3\u03c9]. The Greek expresses more than the English. They went away [\u03b1\u03c0\u03bf] from Christ, Literally, to the things behind, to what they had left in order to follow the Lord.\" ",
+            "Walked [\u03c0\u03b5\u03c1\u03b9\u03b5\u03c0\u03b1\u03c4\u03bf\u03c5\u03bd]. Literally, walked about, with Jesus in His wanderings here and there."
+        ],
+        "John Calvin": [
+            "It is a dreadful and monstrous thing, that so kind and gracious an invitation of Christ could have alienated the minds of many.",
+            "Whatever then may be the dislike entertained by many persons for pure doctrine, still we are not at liberty to suppress it.",
+            "We cannot go back a foot breadth, without being immediately in danger of falling into treacherous denial of our Master."
+        ],
+        "Philip Schaff": [
+            "Upon this many of his disciples went back, and walked no longer with him.\" ",
+            "The Evangelist cannot but record the repelling influence which the light exerted on those who were not of the light.\" ",
+            "These disciples seemed to have left all that they might be followers of Christ, but now they return to the homes and the occupations they had forsaken."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus drew the line of cleavage between the true and the false believers.",
+            "The crisis had come. These half-hearted seekers... turned abruptly from Jesus.",
+            "Jesus had completely disillusioned these hungry camp-followers who did not care for spiritual manna."
+        ],
+        "John Gill": [
+            "They dropped their profession of faith in him, and relinquished him as a Saviour and Redeemer: for finding that he would not be made king, nor set up for a temporal redeemer; and talking of himself as the bread of life, and of coming to him, in a sense they did not understand; they turned their backs on him.",
+            "Returned to the things that were behind; to the world, and to their old companions, to Satan and their own hearts lusts; like the dog to its vomit, and the swine to its wallowing in the mire.",
+            "Their true picture is drawn, in the parable of the unclean spirit going out of the man, and returning... setting up their own righteousness, and not submitting to the righteousness of Christ; and thus to look back and draw back, is a sad case indeed."
+        ],
+        "John Wesley": [
+            "From this time many of his disciples went back... the proud and careless were driven away.\" ",
+            "Our Lord now began to purge his floor.",
+            "Those remained who were meet for the Master's use."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon hearing the challenging words of Jesus, many of his followers who were only seeking temporal benefits were unable to handle the deeper significance behind his message. Jesus drew a clear distinction between the true and false believers, causing those who lacked genuine faith to abandon him and return to their old lives. These disciples, who had previously journeyed with Jesus, now turned their backs on him and walked away. It is a striking reminder that some may initially follow Jesus, yet when faced with the true cost of discipleship, they may choose to forsake him. However, amidst this departure, there were those who remained, demonstrating that the true disciples were separated from the false. Jesus, in his wisdom, used this moment to purify and refine his followers.",
+            "wordCount": 128,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 1.8752770249664135,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                32.01,
+                34.46,
+                33.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon this crisis moment, many of Jesus' disciples could not bear the weight of his challenging words and turned away. They abandoned their former companionship with him, opting to walk no longer with him. Jesus' distinction between true and false believers became abundantly clear as these half-hearted seekers deserted him. This departure served as a refining process, highlighting the genuine disciples who remained faithful to Jesus. It is a powerful reminder that even among those who initially follow Jesus, there will be those who fall away when faced with the true cost of discipleship.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.8374511240435711,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                33.37,
+                33.35,
+                33.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon hearing Jesus' words, many of his followers abandoned him and ceased to walk with him. These disciples, who had previously journeyed with Jesus, turned their backs on him and went back to the things they had left behind. This separation between true and false believers highlighted Jesus' ability to completely disillusion those who were merely seeking temporal benefits. It became evident that some may initially follow Jesus but turn away when faced with the true cost of discipleship. However, amidst this departure, there were those who remained faithful, whom Jesus continued to refine and use for his purpose.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.9656800446547043,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                32.93,
+                35.16,
+                31.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon Jesus uttering his challenging words, many of his disciples could not bear the weight and turned away. These seekers, who had journeyed with Jesus, abandoned him and walked no more with him. Jesus drew a distinction between true and false believers, disheartening those who were not committed. This departure served as a refining process to separate genuine disciples from those who lacked true faith. It is a reminder that some may initially follow Jesus, yet falter when faced with the true cost of discipleship.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.8841891101756878,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                32.95,
+                35.26,
+                31.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon hearing Jesus' words, many of his followers could not bear the weight and turned away. They abandoned their former companionship with Jesus and walked no longer with him. This separation between true and false believers highlighted Jesus' ability to completely disillusion those who were merely seeking temporal benefits. It became evident that some may initially follow Jesus, but turn away when faced with the true cost of discipleship. In the midst of this departure, there were those who remained faithful, whom Jesus continued to refine for his purpose.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.924276008386507,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                34.85,
+                33.23,
+                31.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

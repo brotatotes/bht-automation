@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:07:32",
+    "verseRef": "John 6:60",
+    "bestBHT": {
+        "bht": "The disciples took offense at the saying, not because it was difficult to understand, but because it was strange and insufferable. The teaching about the Bread of Life and the necessity of partaking in Jesus's flesh and blood was scandalous to them. However, those who humbly accept Christ's doctrine find it neither harsh nor offensive. Although it may be hard to comprehend, this saying is a profound and sublime message, sweet to the children of God.",
+        "wordCount": 78,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.7503321050476903,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+        "commentatorTierSimilarities": [
+            23.8,
+            43.35,
+            32.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It seems clear that it was not the difficulty, so much as the strangeness of the saying, which scandalized them.\" ",
+            "It is the whole discourse,\u2014the turn given to it,\u2014the doctrine of the Bread of Life,\u2014the giving His Flesh and Blood to eat,\u2014at which they take offence.",
+            "'Who can stay and hear such sayings as this?' not, Who can understand it?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Many . . . of his disciples\u2014His pretty constant followers, though an outer circle of them.",
+            "hard saying\u2014not merely harsh, but insufferable, as the word often means in the Old Testament.",
+            "who can hear\u2014submit to listen to it."
+        ],
+        "Albert Barnes": [
+            "The word 'hard' here means 'offensive, disagreeable' - that which they could not bear.",
+            "The doctrines which Jesus taught that were so offensive appear to have been: 1. That he was superior to Moses. 2. That God would save all that he had chosen and those only. 3. That he said he was the bread that came from heaven. 4. That it was necessary to partake of that; that it was necessary that an atonement should be made, and that they should be saved by that.",
+            "These doctrines have always been among the most offensive that men have been called on to believe, and many, rather than trust in them, have chosen to draw back to perdition."
+        ],
+        "Marvin Vincent": [
+            "According to the Greek order, hard is this saying.",
+            "Hear means a docile hearing, with a view to receiving what is heard.",
+            "Aujtou may be rendered Him, but this is not probable."
+        ],
+        "John Calvin": [
+            "But out of the word of God the reprobate are thus accustomed to form stones to dash themselves upon.",
+            "Whoever shall submit with true humility (168) to the doctrine of Christ will find nothing in it harsh or disagreeable.",
+            "Yet the reprobate, by their obstinate slanders, will do nothing more than bring down on themselves more dreadful condemnation."
+        ],
+        "Philip Schaff": [
+            "The 'saying' can only be that of the preceding verses... and its hardness consisted in the fact that it pointed out one only way to life.\" ",
+            "Eating the flesh and drinking the blood of the Son of man. These words the disciples did not spiritually comprehend.",
+            "Therefore they were repelled by them."
+        ],
+        "Archibald T. Robertson": [
+            "This saying is a hard one.",
+            "Hear it.",
+            "hear with acceptation."
+        ],
+        "John Gill": [
+            "it is difficult to be understood and received",
+            "anything difficult, or which seems irreconcilable, is so called",
+            "such preaching, and such a preacher, are intolerable; there is no hearing, nor bearing them"
+        ],
+        "John Wesley": [
+            "This is a hard saying \u2014 Hard to the children of the world, but sweet to the children of God.",
+            "Scarce ever did our Lord speak more sublimely, even to the apostles in private.",
+            "Who can hear \u2014 Endure it?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The saying in this verse was not necessarily difficult to understand, but rather it was the strangeness of the saying that caused offense among the disciples. It was the whole discourse, the doctrine of the Bread of Life, and the idea of partaking in Jesus's flesh and blood that they found scandalous. This saying was not simply harsh, but insufferable to them. The disciples struggled to bear and accept this teaching, which was a hard one and required a docile hearing. This saying was offensive and disagreeable to them, pointing out only one way to life that they did not spiritually comprehend. Yet, those who humbly submit to the doctrine of Christ will find nothing harsh or disagreeable in it, while the reprobate will only bring upon themselves more dreadful condemnation. This teaching may be difficult to understand and receive, but to the children of God, it is a hard saying that is sweet.",
+            "wordCount": 155,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8786661368028832,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                25.44,
+                42.08,
+                32.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were scandalized by the strangeness of Jesus' saying, finding it insufferable and difficult to bear. They were offended by the whole discourse on the Bread of Life and the concept of partaking in Jesus's flesh and blood. However, those who humbly submit to Christ's teaching will find nothing disagreeable in it. Although this teaching may be hard to understand, it is a profound and sublime message. While it is offensive to the worldly, it is sweet to those who are children of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7188692826498824,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                24.0,
+                40.73,
+                35.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were scandalized by the strangeness of Jesus' saying, finding it insufferable and difficult to bear. They were offended by the whole discourse on the Bread of Life and the concept of partaking in Jesus's flesh and blood. However, those who humbly submit to Christ's teaching will find nothing disagreeable in it. Although this teaching may be hard to understand, it is a profound and sublime message.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.698897370236954,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                24.17,
+                41.04,
+                34.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The saying in this passage was not simply difficult, but rather it was the strangeness of the saying that scandalized the disciples. They found it insufferable and intolerable, unable to bear or accept it. This teaching, with its doctrine of the Bread of Life and the necessity of partaking in Jesus's flesh and blood, was offensive and disagreeable to them. Yet, to those who humbly submit to the doctrine of Christ, it is not harsh or offensive, but rather a profound and sublime message.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.7755739128513812,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                23.95,
+                42.84,
+                33.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples took offense at the saying, not because it was difficult to understand, but because it was strange and insufferable. The teaching about the Bread of Life and the necessity of partaking in Jesus's flesh and blood was scandalous to them. However, those who humbly accept Christ's doctrine find it neither harsh nor offensive. Although it may be hard to comprehend, this saying is a profound and sublime message, sweet to the children of God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7503321050476903,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "commentatorTierSimilarities": [
+                23.8,
+                43.35,
+                32.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

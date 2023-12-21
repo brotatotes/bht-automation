@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-21-2023 03:08:06",
+    "verseRef": "John 8:2",
+    "bestBHT": {
+        "bht": "Early in the morning, Jesus came again into the temple and all the people fervently gathered around him, drawn to his teaching. As he sat down to teach, his diligence and courage were evident, as he taught with authority and a unique style that captivated his audience. With constancy and intrepidity, Jesus displayed his commitment to his ministry as he spoke with plainness, boldness, and freedom. His hearers commended his work ethic, arriving early at the temple in great numbers to eagerly listen to his teachings.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.4666697677155875,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.11,
+        "commentatorTierSimilarities": [
+            18.04,
+            37.05,
+            44.91
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "With the return of day Jesus resumed His teaching of the people; and they, on their part, seem to have been powerfully attracted by His words.",
+            "According to the custom of the time, He sat with His hearers gathered round Him.",
+            "The sitting of Jesus while teaching is not mentioned elsewhere in this Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Early in the morning (\u03bf\u03c1\u03b8\u03c1\u03bf\u03c5). Genitive of time, \u03bf\u03c1\u03b8\u03c1\u03bf\u03c2 meaning daybreak, old word, not in John, though in Luke 24:1; Acts 5:21.",
+            "He came again into the temple (\u03c0\u03b1\u03bb\u03b9\u03bd \u03c0\u03b1\u03c1\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03b5\u03b9\u03c2 \u03c4\u03bf \u03b9\u03b5\u03c1\u03bf\u03bd). If the paragraph is genuine, the time is the next day after the eighth and last day of the feast. If not genuine, there is no way of telling the time of this apparently true incident.",
+            "And all the people came unto him (\u03ba\u03b1 \u03c0\u03b1\u03c2 \u03bf \u03bb\u03b1\u03bf\u03c2 \u03b7\u03c1\u03c7\u03b5\u03c4\u03bf \u03c0\u03c1\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03bd). Imperfect middle of \u03b5\u03c1\u03c7\u03bf\u03bc\u03b1 picturing the enthusiasm of the whole (\u03c0\u03b1\u03c2) crowd now as opposed to the divisions in chapter 7."
+        ],
+        "John Gill": [
+            "Which shows his diligence, constancy, and assiduity, in his ministerial work, as well as his courage and intrepidity...",
+            "And all the people came unto him; which also commends the industry and diligence of his hearers, who were forward to hear him, and were early at the temple for that purpose, and that in great numbers...",
+            "And he sat down and taught them; he sat, as his manner was, and taught them as one having authority, and such doctrine, and in such a manner, as never man did; with all plainness, boldness, and freedom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Early in the morning, Jesus came again into the temple and all the people eagerly crowded around Him. Sitting down, He resumed His teaching, drawing the attention of the people who were powerfully attracted to His words. With diligence, constancy, and assiduity, Jesus continued His ministerial work, displaying courage and intrepidity. His hearers commended His industry and diligence, for they were eager to hear Him, arriving early at the temple in great numbers. As Jesus sat and taught, He demonstrated His authority and unique manner of teaching, speaking with plainness, boldness, and freedom that no one had ever witnessed before.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.3913828363227574,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.61,
+            "commentatorTierSimilarities": [
+                19.34,
+                36.68,
+                43.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Early in the morning, Jesus came again into the temple and all the people came unto him, eagerly seeking his teaching. As he sat down to teach, his diligent work and courage were commended, for he taught with authority and in a manner that no one had ever witnessed before. His hearers were filled with enthusiasm, constantly gathering around him, as he spoke with plainness, boldness, and freedom.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.415766208788507,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.42,
+            "commentatorTierSimilarities": [
+                18.61,
+                36.55,
+                44.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Early in the morning, Jesus came again into the temple and all the people came unto him, eagerly seeking his teaching. As he sat down to teach, his diligent work and courage were commended, for he taught with authority and in a manner that no one had ever witnessed before. His hearers were filled with enthusiasm, constantly gathering around him, as he spoke with plainness, boldness, and freedom, displaying his constancy and intrepidity in ministerial work.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.448803651496808,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                18.89,
+                35.11,
+                46.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Early in the morning, Jesus came again into the temple and all the people fervently gathered around him, drawn to his teaching. As he sat down to teach, his diligence and courage were evident, as he taught with authority and a unique style that captivated his audience. With constancy and intrepidity, Jesus displayed his commitment to his ministry as he spoke with plainness, boldness, and freedom. His hearers commended his work ethic, arriving early at the temple in great numbers to eagerly listen to his teachings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.4666697677155875,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.11,
+            "commentatorTierSimilarities": [
+                18.04,
+                37.05,
+                44.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Early in the morning, Jesus entered the temple and the people gathered around him, eager to hear his words. Sitting down, he began to teach with authority, captivating his audience with his unique style. His diligence and courage were commended, as he boldly shared his teachings, displaying his constancy and intrepidity in his ministerial work. The people, recognizing his expertise, arrived early in great numbers to listen to his teachings, drawn by his plainness, boldness, and freedom of speech.",
+            "wordCount": 79,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.3446139098945205,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.05,
+            "commentatorTierSimilarities": [
+                17.24,
+                35.18,
+                47.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

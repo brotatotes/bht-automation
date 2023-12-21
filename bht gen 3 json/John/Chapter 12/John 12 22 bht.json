@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-21-2023 03:10:58",
+    "verseRef": "John 12:22",
+    "bestBHT": {
+        "bht": "Andrew, the wise companion of Philip, boldly steps forward when Greeks approach seeking to speak with Jesus. This encounter carries deeper significance, hinting at the breaking down of divisions between Jews and Gentiles through Christ\u2019s sacrifice. The attention to detail in this introduction prepares us for an important event. Andrew\u2019s consultation with Philip and subsequent action pave the way for a significant moment, showcasing their close connection. The unfolding scene highlights the powerful journey that both Jews and Gentiles will embark on towards the nourishment of the bread of life.",
+        "wordCount": 92,
+        "quoteTokenProportion": 30.99,
+        "qualityScore": 1.6096062053739337,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+        "commentatorTierSimilarities": [
+            34.67,
+            35.85,
+            29.48
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Andrew...makes bold when associated with his companion."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As townsmen of Bethsaida, these two seem to have drawn to each other.",
+            "The minuteness of these details... serves to prepare us for something important to come out of this introduction."
+        ],
+        "Albert Barnes": [
+            "Possibly he was doubtful whether Jesus would wish to converse with Gentiles, and chose to consult with Andrew about it.",
+            "Whether the Greeks were with them cannot be determined. From the following discourse if would seem probable that they were, or at least that Jesus admitted them to his presence and delivered the discourse to them."
+        ],
+        "Marvin Vincent": [
+            "Philip - Andrew. They appear together in John 1:45; John 6:7, John 6:8. Compare Mark 3:18."
+        ],
+        "Philip Schaff": [
+            "It may be that Philip was the first disciple whom they met; that the mention of his place of residence is simply for more complete identification of the man.",
+            "The more, however, the Gospel of John is studied, the less shall we be disposed to be content with these explanations, or to think that there was nothing further in the mind of a writer so much accustomed to see even in apparently accidental and trifling circumstances deeper meanings than those which at first strike the eye.",
+            "Thus also in the incident before us, John may have beheld an analogy to the same scene, an illustration of the fact that both Jews and Gentiles shall be conducted by the same path to the 'bread of life.'"
+        ],
+        "Archibald T. Robertson": [
+            "Andrew was clearly a man of wisdom for a crisis.",
+            "Note the vivid dramatic presents here.",
+            "That middle wall of partition between Jew and Gentile that was only broken down by the Cross of Christ."
+        ],
+        "John Gill": [
+            "Philip cometh and telleth Andrew,.... The request the Greeks made to him, and this he did, that he might have his advice in this matter.\" ",
+            "and that not only because he might be a senior man as well as apostle, but because he was of the same town, and might know these men as well as Philip.",
+            "they agreed to acquaint him with it, that he might do his pleasure."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Andrew, a companion to Philip and a man of wisdom for crises, makes a bold move when approached by Greeks seeking to speak with Jesus. The mention of Philip's place of residence serves as identification, highlighting the significance of the encounter. The encounter holds deeper meaning than what meets the eye, symbolizing the breaking down of the barrier between Jew and Gentile through the Cross of Christ. Both Jews and Gentiles shall be led to the bread of life along the same path. Andrew's consultation with Philip and subsequent action not only demonstrates their close association but also makes way for an important event to follow.",
+            "wordCount": 108,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.6503705664634625,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.22,
+            "commentatorTierSimilarities": [
+                30.14,
+                39.4,
+                30.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Andrew, associated with Philip and known for his wisdom in crises, boldly responds when approached by Greeks seeking to speak with Jesus. The specificity of the details surrounding this encounter suggests its significance. It symbolizes the breaking down of barriers between Jew and Gentile, a theme further highlighted by the mention of the bread of life. Andrew's consultation with Philip and subsequent action lays the groundwork for an important event to unfold. Their close association becomes evident as they navigate this significant moment together.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.4879472922343435,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                35.13,
+                32.93,
+                31.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Andrew, known for his wisdom and close association with Philip, confidently responds when approached by Greeks seeking to speak with Jesus. This encounter holds deeper meaning, signifying the breaking down of barriers between Jew and Gentile through the Cross of Christ. The specificity in the details surrounding this event suggests its importance and prepares us for what is to come. Andrew's consultation with Philip and subsequent action sets the stage for the unfolding of a significant moment, illustrating their close bond and partnership.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.587020286879436,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.11,
+            "commentatorTierSimilarities": [
+                32.29,
+                36.37,
+                31.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Andrew, the wise companion of Philip, boldly steps forward when Greeks approach seeking to speak with Jesus. This encounter carries deeper significance, hinting at the breaking down of divisions between Jews and Gentiles through Christ\u2019s sacrifice. The attention to detail in this introduction prepares us for an important event. Andrew\u2019s consultation with Philip and subsequent action pave the way for a significant moment, showcasing their close connection. The unfolding scene highlights the powerful journey that both Jews and Gentiles will embark on towards the nourishment of the bread of life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.6096062053739337,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                34.67,
+                35.85,
+                29.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Andrew, having a close bond with Philip, fearlessly takes the lead when approached by Greeks who desire to meet Jesus. The detailed portrayal of this interaction hints at its significance and prepares us for something significant to follow. This encounter serves as a symbol of the unity between Jews and Gentiles, only made possible through the sacrifice of Christ. Andrew's wise decision to consult with Philip and his subsequent actions set the stage for an important event, showcasing their strong partnership.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.6049858256373095,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                29.01,
+                35.71,
+                35.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

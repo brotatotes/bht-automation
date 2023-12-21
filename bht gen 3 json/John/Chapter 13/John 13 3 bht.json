@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:11:43",
+    "verseRef": "John 13:3",
+    "bestBHT": {
+        "bht": "Jesus, fully conscious of his own glory, dignity, and authority bestowed upon him by the Father, humbled himself to wash the feet of his disciples. Even in the face of imminent betrayal and death, Jesus performed this act of service, exemplifying both his greatness and humility. Being aware of his divine origin and his ultimate return to the Father, Jesus demonstrated his extraordinary character as the Son of God. This profound display of humility is a testament to his remarkable nature as the Messiah.",
+        "wordCount": 84,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.281082977872628,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.19,
+        "commentatorTierSimilarities": [
+            26.92,
+            32.42,
+            40.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He did what follows with a full sense of the glory and dignity of His own Person.",
+            "The prefatory mention of His glory is as it were a protestation, lest it should be thought that the Lord did any thing beneath His dignity in washing the disciples' feet.",
+            "Bengel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "An unclouded perception of His relation to the Father, the commission He held from Him, and His approaching return to Him, possessed His soul.\" ",
+            "This verse is very sublime, and as a preface to what follows, were we not familiar with it, would fill us with inexpressible surprise.",
+            "Jesus knowing that the Father had given all things into his hands."
+        ],
+        "Albert Barnes": [
+            "With the full understanding of his dignity and elevation of character, he yet condescended to wash their feet.",
+            "The evangelist introduces his washing their feet by saying that he was fully conscious of his elevation above them, as being intrusted with all things, and this made his humiliation the more striking and remarkable.",
+            "When we remember the dignity of his nature, it shows how low he would stoop to teach and save his people."
+        ],
+        "Marvin Vincent": [
+            "The aorist marking Jesus' commission as given once for all.",
+            "The aorist points to His coming as a historic fact, not as related to its result.",
+            "Note the original order: that it was from God He came forth, and unto God He is going."
+        ],
+        "John Calvin": [
+            "I am of opinion that this was added for the purpose of informing us whence Christ obtained such a well-regulated composure of mind.",
+            "The Evangelist means, that no agitation of this sort was to be found in Christ, because, though he was to be immediately betrayed by Judas, still he knew that the Father had given all things into his hand.",
+            "It was necessary that he should have a dread of death, and it was necessary that, notwithstanding of this, he should fearlessly discharge every thing that belonged to the office of the Mediator."
+        ],
+        "Philip Schaff": [
+            "Knowing\u2019 takes up again the same word in John 13:1, and has the same meaning, 'because he knows.'",
+            "The knowledge is summed up in three particulars... That \u2018the Father had given all things into His hands... That \u2018He came forth from God... That \u2018He goeth unto God...'",
+            "The three clauses thus refer not to power or glory belonging Jesus as the Son of God: they connect themselves with His work of redeeming love."
+        ],
+        "Archibald T. Robertson": [
+            "Knowing (\u03b5\u03b9\u03b4\u03c9\u03c2). Repeated from verse John 13:1, accenting the full consciousness of Jesus.",
+            "Had given (\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd). So Aleph B L W, aorist active instead of \u03b4\u03b5\u03b4\u03c9\u03ba\u03b5\u03bd (perfect active) of \u03b4\u03b9\u03b4\u03c9\u03bc. Cf. John 3:31 for a similar statement with \u03b5\u03bd instead of \u03b5\u03b9\u03c2. See Matthew 11:27 (Luke 10:22) and John 28:18 for like claim by Jesus to complete power.",
+            "Jesus is fully conscious of his deity and Messianic dignity when he performs this humble act."
+        ],
+        "John Gill": [
+            "These words express the sense Christ had of his own greatness and dignity as Mediator.",
+            "It greatly illustrates his wonderful humility, that in the view, and under a sense and consideration of all this, he should condescend to wash the feet of his disciples.",
+            "Which, as it shows his high esteem with his Father, and his exalted character as Mediator, so it greatly illustrates his wonderful humility."
+        ],
+        "John Wesley": [
+            "Jesus knowing \u2014 Though conscious of his own greatness, thus humbled himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With a full sense of his own glory and dignity, Jesus knew that the Father had given all things into his hands. This knowledge, along with his perception of his relation to the Father and his approaching return to him, possessed his soul. Despite his elevated character as the Son of God, Jesus willingly stooped down to wash the feet of his disciples, displaying a remarkable combination of greatness and humility. This act of service, performed by the one who came forth from God and was going back to God, showcases Jesus' full consciousness of his deity and Messianic dignity. In this verse, we are reminded of the inexpressible surprise we should feel at witnessing the Son of God's profound humility.",
+            "wordCount": 122,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 2.3183947887187255,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.43,
+            "commentatorTierSimilarities": [
+                29.28,
+                34.09,
+                36.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With a full sense of his own glory and dignity, Jesus knew that the Father had given all things into his hands. This knowledge, along with his perception of his relation to the Father and his approaching return to him, possessed his soul. Despite his elevated character as the Son of God, Jesus willingly stooped down to wash the feet of his disciples, showcasing a remarkable combination of greatness and humility. This act of service, performed by the one who came forth from God and was going back to God, truly exemplifies Jesus' full consciousness of his deity and Messianic dignity.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.372769881317873,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.23,
+            "commentatorTierSimilarities": [
+                29.42,
+                34.12,
+                36.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, fully aware of his own glory and dignity, knew that the Father had given him complete authority over all things. Despite this elevated position, he humbled himself by washing the feet of his disciples. This act of service is a profound display of Jesus' divine consciousness and Messianic authority. Knowing that he came from God and was returning to God, Jesus revealed both his greatness and humility in this humble act. His willingness to serve in such a manner is a testament to his extraordinary character as the Son of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1914198206995374,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.21,
+            "commentatorTierSimilarities": [
+                27.92,
+                31.69,
+                40.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, fully conscious of his own glory, dignity, and authority bestowed upon him by the Father, humbled himself to wash the feet of his disciples. Even in the face of imminent betrayal and death, Jesus performed this act of service, exemplifying both his greatness and humility. Being aware of his divine origin and his ultimate return to the Father, Jesus demonstrated his extraordinary character as the Son of God. This profound display of humility is a testament to his remarkable nature as the Messiah.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.281082977872628,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.19,
+            "commentatorTierSimilarities": [
+                26.92,
+                32.42,
+                40.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In John 13:3, Jesus was fully conscious of his own glory and dignity as he embarked on the act of washing his disciples' feet. Aware that the Father had entrusted him with all things, Jesus exemplified a remarkable combination of greatness and humility. Despite his exalted character as the Son of God, he willingly and humbly performed this act of service. This display of humility is a testament to his profound understanding of his own greatness and his role as the Mediator.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.3361631726166845,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.02,
+            "commentatorTierSimilarities": [
+                26.76,
+                32.6,
+                40.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

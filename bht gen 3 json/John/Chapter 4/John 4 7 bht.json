@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:05:18",
+    "verseRef": "John 4:7",
+    "bestBHT": {
+        "bht": "On a sweltering day, Jesus, parched and weary, approached a despised Samaritan woman at a well and politely requested water from her. But beyond physical refreshment, this encounter held a deeper significance. Jesus, valuing her spiritual well-being above his own, used this opportunity to engage in a conversation that would lead her to eternal life. By breaking societal barriers and revealing himself as the source of true satisfaction, Jesus embarked on a transformative interaction with a woman who had no idea she was about to meet the Savior.",
+        "wordCount": 89,
+        "quoteTokenProportion": 44.29,
+        "qualityScore": 1.554981135034978,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+        "commentatorTierSimilarities": [
+            19.41,
+            33.0,
+            47.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Give me to drink\u2014for the heat of a noonday sun had parched His lips.",
+            "But 'in the last, that great day of the feast,' Jesus stood and cried, saying, 'If any man thirst let him come unto Me and drink.'",
+            "If any man thirst let him come unto Me and drink."
+        ],
+        "Albert Barnes": [
+            "Of Samaria - Not of the 'city' of Samaria, for this was at a distance of 8 miles, but a woman who was a Samaritan, and doubtless from the city of Sychar.",
+            "Give me to drink - This was in the heat of the day, and when Jesus was weary with his journey.",
+            "The request was also made that it might give him occasion to discourse with her on the subject of religion, and in this instance we have a specimen of the remarkably happy manner in which he could lead on a conversation so as to introduce the subject of religion."
+        ],
+        "Marvin Vincent": [
+            "Held in low esteem by the popular teachers; a Samaritan, and therefore despised by the Jews; poor...\" ",
+            "Not of the city of Samaria, which was some six miles distant, but the country. A Samaritan by race and religion.\" ",
+            "To draw."
+        ],
+        "John Calvin": [
+            "Forgetting his own thirst, as if he were satisfied with obtaining leisure and opportunity for conversation, that he might instruct her in true godliness.",
+            "He prefers the salvation of the woman to his own wants.",
+            "He draws a comparison between the visible water and the spiritual, and waters with heavenly doctrine the mind of her who had refused him water to drink."
+        ],
+        "Philip Schaff": [
+            "By Samaria here we are of course to understand the country not the city of Samaria.",
+            "It was very natural that she should come at this time to draw water at the well; but from the narrative that follows it seems probable that something more than the excellence of the water drew her to it day by day.",
+            "One so strongly imbued with the ancient traditions of her countrymen could not but turn with deepest interest to \u2018Jacob\u2019s well."
+        ],
+        "Archibald T. Robertson": [
+            "There cometh. Vivid historical present.",
+            "A woman of Samaria. The country, not the city.",
+            "Give me to drink. A polite request."
+        ],
+        "John Gill": [
+            "It is an amazing instance of grace, that a woman, a Samaritan woman, a lewd and infamous one, should be a chosen vessel of salvation, should be the object of divine favour.",
+            "She little thought of meeting at Jacob's well, with Christ the fountain of gardens, and well of living water.",
+            "This request was made to introduce a discourse with the woman, [Jesus] having a more violent thirst, and a stronger desire, after the welfare of her immortal soul."
+        ],
+        "John Wesley": [
+            "Give me to drink \u2014 In this one conversation he brought her to that knowledge which the apostles were so long in attaining."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the scorching heat of the day, Jesus, tired from his journey, approached a Samaritan woman and politely asked her for a drink. This interaction was not merely about quenching his physical thirst, but about leading her to the truth of eternal life and satisfying her spiritual thirst. Jesus, choosing to prioritize her salvation over his own needs, engaged in a conversation that would bring her closer to God. The significance of this encounter cannot be understated, as Jesus, disregarding societal norms and barriers, revealed himself as the source of living water to a Samaritan woman who had no idea that she was about to meet the Savior.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.7782502585831446,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                20.17,
+                33.06,
+                46.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On a sweltering day, Jesus, parched and weary, approached a despised Samaritan woman at a well and politely requested water from her. But beyond physical refreshment, this encounter held a deeper significance. Jesus, valuing her spiritual well-being above his own, used this opportunity to engage in a conversation that would lead her to eternal life. By breaking societal barriers and revealing himself as the source of true satisfaction, Jesus embarked on a transformative interaction with a woman who had no idea she was about to meet the Savior.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.554981135034978,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                19.41,
+                33.0,
+                47.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Approaching a despised Samaritan woman at a well, Jesus, parched and fatigued, graciously asked her for a drink to quench his physical thirst. Yet, this conversation held far greater implications. Jesus, prioritizing her spiritual needs over his own, sought to lead her to the wellspring of eternal life. Despite societal norms and prejudices, Jesus initiated a transformative encounter with a woman who had no inkling of the divine appointment awaiting her. It was through this dialogue that the Savior revealed himself as the ultimate source of true satisfaction.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4412357469432129,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
+            "commentatorTierSimilarities": [
+                19.3,
+                30.61,
+                50.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On a scorching day, Jesus, feeling the heat of the noonday sun and with parched lips, approached a despised Samaritan woman to ask for a drink. However, this interaction went beyond a physical request. Jesus, prioritizing her spiritual well-being above his own comfort, used this moment to offer her living water that would quench her eternal thirst. Breaking through societal barriers, Jesus engaged in a conversation that would ultimately transform her life and introduce her to the saving grace of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.5259305791967597,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                22.12,
+                31.46,
+                46.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Approaching a Samaritan woman at a well, Jesus politely asked her for a drink in the scorching heat. However, this seemingly ordinary encounter held profound significance. Jesus, prioritizing her spiritual thirst over his own physical need, used this moment as an opportunity to offer her the water of eternal life. Regardless of the societal barriers and prejudices, Jesus initiated a conversation that would lead her to the wellspring of true satisfaction, revealing himself as the Savior she didn't even know she was about to meet.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.5513740202714508,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                21.13,
+                32.91,
+                45.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

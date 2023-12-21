@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:05:58",
+    "verseRef": "John 4:34",
+    "bestBHT": {
+        "bht": "His life was centered around fulfilling the will of the Father. Doing His will and bringing about His Kingdom was his daily sustenance, his very food. The work he was sent to accomplish was his purpose, his nourishment, surpassing even the need for physical sustenance. Despite the hunger, his soul found satisfaction in carrying out the Father's will. This unwavering dedication allowed him to bring others to God and lay the foundations for a great work to be done.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.154643216665356,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.98,
+        "commentatorTierSimilarities": [
+            34.96,
+            36.83,
+            28.21
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His whole life was the doing of the Father's will.",
+            "In Him, the hallowing of the Father's name, doing His will, bringing about His Kingdom, was His daily bread.",
+            "That is, it was our Lord's continued sustenance, to be ever carrying onward to completion that performance of His Father's will for which He came into the world."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A servant here to fulfil a prescribed work, to do and to finish, that is 'meat' to Me and of this, while you were away, I have had My fill.",
+            "He had gained her, and through her was going to gain more, and lay perhaps the foundations of a great work in the country of Samaria.",
+            "This filled His whole soul and raised Him above the sense of natural hunger."
+        ],
+        "Albert Barnes": [
+            "The main business of life is not to avoid fatigue or to seek the supply of our temporal wants, but to do the will of God.",
+            "The mind may be so absorbed in doing the will of God as to forget all other things.",
+            "If he was so diligent for our welfare, if he bore fatigue and want to benefit us, then we should be diligent, also, in regard to our own salvation, and also in seeking the salvation of others."
+        ],
+        "Marvin Vincent": [
+            "Meat [\u03b2\u03c1\u03c9\u03bc\u03b1] . A different word from that in ver. 32, signifying what is eaten.",
+            "To do [\u03b9\u03bd\u03b1 \u03c0\u03bf\u03b9\u03c9] . Literally, in order that I do. Emphasizing the end and not the process.",
+            "Finish [\u03c0\u03b5\u03bb\u03b5\u03b9\u03c9\u03c3\u03c9] . Better, as Rev., accomplish. Not merely bring to an end, but perfect."
+        ],
+        "John Calvin": [
+            "My food is to do the will of him who sent me.\" ",
+            "If, therefore, we would follow Christ, it is proper not only that we devote ourselves diligently to the service of God, but that we be so cheerful in complying with its injunctions that the labor shall not be at all oppressive or disagreeable.",
+            "We cannot doubt that he is now actuated by similar feelings towards us."
+        ],
+        "Philip Schaff": [
+            "My meat is that I should do the will of him that sent me, and accomplish his work.",
+            "This is the first of many similar sayings in this Gospel expressing our Lord\u2019s perfect loyalty to His Father\u2019s will, and complete devotion to the accomplishment of His Father\u2019s work.",
+            "The pursuit of this is not His joy, His purpose, His refreshment only, but His very food, that without which He cannot live."
+        ],
+        "Archibald T. Robertson": [
+            "The Messianic consciousness of Jesus is clear and steady... He never doubted that the Father sent him.",
+            "...to bring to an end... On the Cross Jesus will cry \u03a4\u03b5\u03c4\u03b5\u03bb\u03b5\u03c3\u03c4\u03b1 (It is finished). He will carry through the Father's programme.",
+            "That is his 'food.' He had been doing that in winning the woman to God."
+        ],
+        "John Gill": [
+            "As food is pleasant, and delightful, and refreshing to the body of man, so doing the will of God was as delightful and refreshing to the soul of Christ.",
+            "No man could, with greater eagerness, fall to eating, when hungry, than Christ went about his Father's will and work, even that which was most ungrateful to him, as man.",
+            "The whole of the work of God was done by him, just as the Lord commanded it; exactly, according to the pattern given him, with all faithfulness and integrity."
+        ],
+        "John Wesley": [
+            "My meat \u2014 That which satisfies the strongest appetite of my soul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He lived his entire life according to the Father's will. Doing the will of the Father, bringing about His Kingdom, was like daily bread to him. It sustained him to continually fulfill the purpose he was sent for. This purpose consumed him to the point where hunger for physical food was overshadowed by his hunger for doing the Father's will. It was his very sustenance, his food, that which satisfied the deepest longing of his soul. He was wholeheartedly dedicated to accomplishing the work for which he was sent, even in the face of adversity. By doing the Father's will, he gained not only the woman he encountered but also laid the groundwork for a great work to be done in the country. His ultimate joy was in doing the will of the one who sent him, just as he came to bring the Father's work to completion.",
+            "wordCount": 152,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 2.084338334256146,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.65,
+            "commentatorTierSimilarities": [
+                38.61,
+                33.95,
+                27.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "His whole life was dedicated to fulfilling the Father's will. Doing the Father's will and advancing His Kingdom was his daily sustenance and primary purpose. The work set before him was his nourishment, surpassing even the need for physical food. It consumed him completely, driving him to accomplish the Father's work with unwavering determination. Despite the physical hunger, his soul was satisfied in carrying out the Father's will. This unyielding commitment to the Father's plan allowed him to win souls and establish a significant foundation for his work.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.0939365757810453,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+            "commentatorTierSimilarities": [
+                37.7,
+                37.19,
+                25.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "His entire existence revolved around doing the Father's will. It was his daily sustenance; the driving force behind his actions. Every moment was devoted to fulfilling the purpose for which he was sent. The work set before him was not just a duty, but his very source of nourishment. This unwavering commitment to the Father's will allowed him to reach others and lay the groundwork for a greater mission. He found joy and fulfillment in accomplishing the work entrusted to him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9071750112942052,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+            "commentatorTierSimilarities": [
+                37.06,
+                37.25,
+                25.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "His life was centered around fulfilling the will of the Father. Doing His will and bringing about His Kingdom was his daily sustenance, his very food. The work he was sent to accomplish was his purpose, his nourishment, surpassing even the need for physical sustenance. Despite the hunger, his soul found satisfaction in carrying out the Father's will. This unwavering dedication allowed him to bring others to God and lay the foundations for a great work to be done.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.154643216665356,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.98,
+            "commentatorTierSimilarities": [
+                34.96,
+                36.83,
+                28.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "His whole life was the doing of the Father's will. In Him, the hallowing of the Father's name, doing His will, bringing about His Kingdom, was His daily bread. That is, it was our Lord's continued sustenance, to be ever carrying onward to completion that performance of His Father's will for which He came into the world. A servant here to fulfil a prescribed work, to do and to finish, that is 'meat' to Him. He had gained her, and through her was going to gain more, and lay perhaps the foundations of a great work in the country. This filled His whole soul and raised Him above the sense of natural hunger.",
+            "wordCount": 117,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.1294378684484414,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+            "commentatorTierSimilarities": [
+                43.24,
+                31.34,
+                25.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

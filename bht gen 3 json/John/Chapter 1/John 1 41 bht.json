@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:04:07",
+    "verseRef": "John 1:41",
+    "bestBHT": {
+        "bht": "Having been prepared by the ministry of John the Baptist, Andrew and John made the greatest discovery of all time when they found the long-awaited Messias, the Anointed One, also known as the Christ. Andrew wasted no time in sharing this news with his brother Peter, exclaiming, We have found the Messiah! The nature of grace is to be communicative, desiring that all others should partake in it. Just as Andrew sought out his brother, so too should young converts seek out others and tell them about Jesus, so that all may come and be saved.",
+        "wordCount": 97,
+        "quoteTokenProportion": 47.83,
+        "qualityScore": 1.7094104859140238,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+        "commentatorTierSimilarities": [
+            20.31,
+            47.16,
+            32.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Messias...the well-known name of the expected Deliverer.",
+            "In the interpretation, it should be Christ, not the Christ: it is the two words which are here identified, not the two titles.",
+            "It is the two words which are here identified, not the two titles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The previous preparation of their simple hearts under the Baptist's ministry, made quick work of this blessed conviction...\" ",
+            "while others hesitated till doubt settled into obduracy.",
+            "So it is still."
+        ],
+        "Albert Barnes": [
+            "He first findeth - He found him and 'told him about Jesus' before he brought him to Jesus.",
+            "From the conduct of Andrew we may learn that it is the nature of religion to desire that others may possess it.",
+            "Young converts should 'seek' their friends and neighbors, and tell them of a Saviour; and not only their relatives, but all others as far as possible, that all may come to Jesus and be saved."
+        ],
+        "John Calvin": [
+            "The Evangelist has interpreted the Hebrew word Messiah (Anointed) by the Greek word Christ, in order to publish to the whole world what was secretly known to the Jews.",
+            "And as God raised their minds, when subdued and weighed down by various calamities, to the expectation of the Messiah, so he more clearly revealed to them that his coming was at hand.",
+            "Thus we shall find the woman of Samaria saying, the Messiah will come, which makes it the more wonderful that he who was so eagerly desired by all, and whom they had constantly in their mouths, should be received by so small a number of persons."
+        ],
+        "Philip Schaff": [
+            "The peculiar language of this verse leads directly to the conclusion that each of the two disciples mentioned in the previous verse had gone in search of his brother.\" ",
+            "The finding was not accidental. Andrew had gone in search of Peter, John of James.\" ",
+            "When Andrew found the object of his search, his joyful announcement was, \u2018We have found the Messiah.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "We have found the Messiah (H\u03b5\u03c5\u03c1\u03b7\u03ba\u03b1\u03bc\u03b5\u03bd \u03c4\u03bf\u03bd \u039c\u03b5\u03c3\u03c3\u03b9\u03b1\u03bd). First aorist active indicative of \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03c9. Andrew and John had made the greatest discovery of the ages, far beyond gold or diamond mines.",
+            "The Baptist had told about him. 'We have seen him.'",
+            "This Aramaic title Messiah is preserved in the N.T. only here and John 4:25, elsewhere translated into \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2, Anointed One, from \u03c7\u03c1\u03b9\u03c9, to anoint."
+        ],
+        "John Gill": [
+            "such is the nature of grace, it is very communicative, and those that have it, are very desirous that all others should be partakers of it",
+            "he is so called, because he was anointed from everlasting, to be prophet, priest, and king",
+            "happy are those souls that find Christ under his direction; for they find life, spiritual and eternal, in him; a justifying righteousness; free and full pardon of their sins; spiritual food for their souls; and peace, comfort, joy, and rest, and eternal glory"
+        ],
+        "John Wesley": [
+            "He first findeth his own brother Simon.\" ",
+            "Which is, being interpreted, the Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples Andrew and John had the privilege of making the greatest discovery of all time - they found the long-awaited Messias, the Anointed One, the Messiah. This title, Messiah, or Christ, signifies the One who was anointed from eternity to fulfill the roles of prophet, priest, and king. Andrew, having already been prepared by the ministry of John the Baptist, wasted no time in sharing this news with his brother Peter, exclaiming, We have found the Messiah! Such is the nature of grace - it is communicative and desires that all others should partake in it. Just as Andrew sought out his brother, so too should young converts seek out their friends and neighbors, and tell them about Jesus, that all may also come and be saved.",
+            "wordCount": 127,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.712738451765008,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                21.07,
+                42.34,
+                36.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having been prepared by the ministry of John the Baptist, Andrew and John made the greatest discovery of all time when they found the long-awaited Messias, the Anointed One, also known as the Christ. Andrew wasted no time in sharing this news with his brother Peter, exclaiming, We have found the Messiah! The nature of grace is to be communicative, desiring that all others should partake in it. Just as Andrew sought out his brother, so too should young converts seek out others and tell them about Jesus, so that all may come and be saved.",
+            "wordCount": 97,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.7094104859140238,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                20.31,
+                47.16,
+                32.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Andrew and John were privileged to make the greatest discovery of the ages when they found the Messiah, the long-awaited Deliverer. Andrew wasted no time in sharing the good news with his brother Peter, exclaiming, We have found the Messiah! The nature of grace is to be communicative, desiring that all others should partake in it. Just as Andrew sought out his brother, so too should young converts seek out others and tell them about Jesus, urging them to come and be saved.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.6773563469545887,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                19.12,
+                47.17,
+                33.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Andrew and John made the greatest discovery of all time when they found the Messias, the well-known name of the expected Deliverer. Andrew wasted no time in sharing this news with his brother Peter, exclaiming, We have found the Messiah! The nature of grace is to be communicative, desiring that all others should partake in it. Just as Andrew sought out his brother, so too should young converts seek out others and tell them about Jesus, urging them to come and be saved.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.641831840935645,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.93,
+            "commentatorTierSimilarities": [
+                20.19,
+                49.28,
+                30.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Andrew and John had the privilege of making the greatest discovery of all time when they found the long-awaited Deliverer, the Messiah. Andrew wasted no time in sharing the news with his brother, exclaiming, We have found the Messiah! The nature of grace is to be communicative, desiring that all others should partake in it. Young converts should follow Andrew's example and share the good news with their friends and neighbors, that all may come to Jesus and be saved.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6008762400121554,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.57,
+            "commentatorTierSimilarities": [
+                19.11,
+                47.72,
+                33.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

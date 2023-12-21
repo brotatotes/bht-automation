@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:15:44",
+    "verseRef": "John 21:7",
+    "bestBHT": {
+        "bht": "John, being more observant, quickly identifies Jesus, while Peter, driven by his zeal, hastily puts on his fisher's coat and swims towards Him. This incident showcases the disciples' deep love and eagerness to be in the presence of Jesus. Peter respectfully girds his coat about him, while John's recognition of God's grace allows him to discern that it is indeed the Lord. It is the love of Christ that propels these disciples to overcome any obstacles, whether fire or water.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.9892727284849312,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+        "commentatorTierSimilarities": [
+            26.83,
+            37.77,
+            35.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "John is the more keen-sighted, Peter the more ardent. So John recognizes Him before Peter; but Peter goes forth to Him before John.\" ",
+            "He put on his fisher's coat or shirt for decorum: he bound it round him, to facilitate his swimming.",
+            "He was naked, i.e. he was stripped for his fisher's work;... Some take it literally, that he was absolutely naked, which is more probable, and understand the putting on of the coat as above."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is the Lord\u2014again having the advantage of his brother in quickness of recognition.",
+            "His vest only on, worn next the body.",
+            "Not meaning therefore to swim, but to get sooner to Jesus than in the full boat."
+        ],
+        "Albert Barnes": [
+            "Therefore that disciple whom Jesus loved - John, John 13:23.",
+            "His fisher\u2019s coat - His upper or outer garment or tunic, in distinction from the inner garment or tunic which was worn next the skin.",
+            "Did cast himself into the sea - With characteristic ardor, desirous of meeting again his Lord, and showing his affection for him."
+        ],
+        "Marvin Vincent": [
+            "Fisher's coat [\u03b5\u03c0\u03b5\u03bd\u03b4\u03c5\u03c4\u03b7\u03bd] . An upper garment or blouse.",
+            "The kindred verb, ejpenduomai, occurs twice (2 Corinthians 5:2, 2 Corinthians 5:4), meaning 'to be clothed upon,' with the house which is from heaven, i.e., clothed as with an upper garment.",
+            "Naked. Not absolutely, but clothed merely in his undergarment or shirt."
+        ],
+        "John Calvin": [
+            "It is our duty to raise our hearts to God, whenever we succeed in anything beyond our expectation.",
+            "That holy recognition of the grace of God, which dwelt in the heart of John, led him also to the knowledge of Christ.",
+            "Peter is actuated by a peculiar zeal in comparison to the others."
+        ],
+        "Philip Schaff": [
+            "That the incident thus related of each of the two apostles is in closest harmony with everything else that we know of them strikes every reader.",
+            "He does not call him simply Simon Peter; but, as in chap. John 18:10, he interposes a word between the two names, 'Simon, therefore, Peter.'",
+            "The girding is probably not to pass unnoticed. It was thus that at John 13:4-5, our Lord prepared Himself for service: His apostle, when preparing for the active service of his Master, must do the same."
+        ],
+        "Archibald T. Robertson": [
+            "It is the Lord (\u03bf \u03ba\u03c5\u03c1\u03b9\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd). John's quick insight appears again.",
+            "Girt his coat about him (\u03c4\u03bf\u03bd \u03b5\u03c0\u03b5\u03bd\u03b4\u03c5\u03c4\u03b7\u03bd \u03b4\u03b9\u03b5\u03b6\u03c9\u03c3\u03b1\u03c4\u03bf). First aorist middle (indirect) indicative with which note \u03b4\u03b9\u03b5\u03b6\u03c9\u03c3\u03b5\u03bd \u03b5\u03b1\u03c5\u03c4\u03bf\u03bd in John 13:4.",
+            "Apparently Peter threw on the upper garment or linen blouse (\u03b5\u03c0\u03b5\u03bd\u03b4\u03c5\u03c4\u03b7\u03bd) worn by fishers over his waistcloth and tucked it under his girdle."
+        ],
+        "John Gill": [
+            "John knew that it was the Lord, either by some special revelation, or from the multitude of fishes which were taken, and which showed a divine hand and power to be concerned.",
+            "Now when Simon heard that it was the Lord; faith came by hearing, he was immediately convinced, and thoroughly satisfied...",
+            "...showing his great love and eagerness to be with him; and, as fearless of danger, risks all to be with Christ; his love being such, that many waters could not quench, nor floods drown."
+        ],
+        "John Wesley": [
+            "Peter girt on his upper coat...Reverencing the presence of his Lord.",
+            "Threw himself into the sea...To swim to him immediately.",
+            "The love of Christ draws men through fire and water."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John, the more keen-sighted disciple, recognizes Jesus before Peter, who responds with ardent zeal. Peter, initially clad merely in his undergarment or shirt, hastily throws on his fisher's coat to swim towards Jesus. It is through John's quick insight and the multitude of fishes caught that he knows it is the Lord. This incident is in harmony with their unique characteristics and illustrates the disciples' deep love and eagerness to be with Jesus. Peter girds his coat about him, expressing reverence for Christ's presence, while John's recognition of God's grace leads him to recognize Christ. The love of Christ draws these disciples through any obstacles, be it fire or water.",
+            "wordCount": 116,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.0159393999273325,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                29.18,
+                37.39,
+                33.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John, with his keen insight, recognizes Jesus before Peter and hastily throws on his fisher's coat to swim towards Him. This incident, in harmony with their unique characteristics, shows the disciples' love and eagerness to be with Jesus. Peter reverentially girds his coat about him, while John's recognition of God's grace enables him to recognize Christ. The love of Christ draws these disciples through obstacles like fire and water.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9440448027465358,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                25.65,
+                38.8,
+                35.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John, being more observant, quickly identifies Jesus, while Peter, driven by his zeal, hastily puts on his fisher's coat and swims towards Him. This incident showcases the disciples' deep love and eagerness to be in the presence of Jesus. Peter respectfully girds his coat about him, while John's recognition of God's grace allows him to discern that it is indeed the Lord. It is the love of Christ that propels these disciples to overcome any obstacles, whether fire or water.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9892727284849312,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+            "commentatorTierSimilarities": [
+                26.83,
+                37.77,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John, with his keen insight, quickly recognizes Jesus, while Peter, driven by his zeal, hastily puts on his fisher's coat to swim towards Him. This incident reveals the disciples' deep love and eagerness to be in the presence of Jesus. Peter respectfully girds his coat about him, while John's recognition of God's grace enables him to discern that it is indeed the Lord. The love of Christ motivates these disciples to overcome any obstacles, be it fire or water.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9613624596547288,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.56,
+            "commentatorTierSimilarities": [
+                26.31,
+                36.93,
+                36.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John, being more observant, quickly identifies Jesus, while Peter, driven by his zeal, hastily puts on his fisher's coat and swims towards Him. This incident showcases the disciples' deep love and eagerness to be in the presence of Jesus. Peter respectfully girds his coat about him, while John's recognition of God's grace enables him to discern that it is indeed the Lord. The love of Christ motivates these disciples to overcome any obstacles, be it fire or water.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9643551439241675,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.66,
+            "commentatorTierSimilarities": [
+                26.29,
+                37.49,
+                36.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

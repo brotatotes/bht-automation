@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:05:50",
+    "verseRef": "John 4:42",
+    "bestBHT": {
+        "bht": "The Samaritans, free from prejudice and narrow-mindedness, recognized Jesus as the Savior of the world based on their abiding experience of hearing Him themselves. Their faith, surpassing that of the Jews and disciples, was built on the understanding that Jesus was not just a teacher but the authoritative Word of God. This significant revelation from the Samaritans emphasizes the universality of salvation. Their recognition serves as a reminder that true faith lies solely in Christ, who testifies that salvation is for all people, not just a select few.",
+        "wordCount": 89,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.6494642853216284,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+        "commentatorTierSimilarities": [
+            46.5,
+            0.0,
+            53.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The feeling expressed in the words 'we have heard Him ourselves' was enough to raise their faith to a point never attained by the Jews, and hardly as yet by the disciples\u2014 that He was the Saviour of the world.",
+            "Their view seems to have been less clouded by prejudice and narrow-mindedness than that of the Jews.",
+            "A trace of this occurrence may be found ch. viii, 48, where see note. Compare throughout Acts viii. 1\u201325."
+        ],
+        "Marvin Vincent": [
+            "In ver. 39 logov, word, is used of the woman, from the Evangelist 's standpoint, as being a testimony to Christ. Here the Samaritans distinguish between the more authoritative and dignified word of Jesus, and the talk of the woman.",
+            "The best texts omit [The Christ].\" ",
+            "It is significant that this conception of Christ should have been first expressed by a Samaritan."
+        ],
+        "John Calvin": [
+            "...faith cannot rest on any other than on himself.",
+            "...the first thing necessary is, to know that it is Christ who speaks by his ministers; and the next is, to give him the honor which is due...",
+            "And Christ testified that the salvation, which he had brought, was common to the whole world..."
+        ],
+        "Archibald T. Robertson": [
+            "No longer because of thy talk,\" good and effective as that was. ",
+            "We have heard, our abiding experience.",
+            "The Samaritan villagers rise to the conception that he was the Saviour of the world."
+        ],
+        "John Gill": [
+            "Not only externally with their bodily ears, but internally, having ears given them to hear, so as to understand what he said; to mix it with faith, and receive it in love.",
+            "They knew him to be the Saviour, he who was spoken of as such; for his work to bruise the serpent's head implies it, and his name Shiloh imports as much.",
+            "And a great Saviour he is; both able, and willing; and he is suitable to the case of sinners; and is a complete, and an only one."
+        ],
+        "John Wesley": [
+            "We know that this is the Saviour of the world \u2014 And not of the Jews only."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Samaritan villagers, unencumbered by prejudice and narrow-mindedness, were able to grasp the profound truth that Jesus was the Savior of the world. Their faith, based not only on the woman's testimony but on hearing Jesus for themselves, surpassed that of the Jews and even the disciples. They acknowledged that Jesus was not just another teacher, but the authoritative and dignified Word of God. It is significant that this revelation was first expressed by Samaritans, and not the Jews. This recognition of Jesus as the Savior of the world was not based on mere talk but on their abiding experience of him. It is a reminder that true faith rests solely in Christ, who testifies that salvation is for all people, not just a select few.",
+            "wordCount": 128,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.7183578013962777,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                45.78,
+                0.0,
+                54.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Samaritan villagers, unencumbered by prejudice and narrow-mindedness, recognized Jesus as the Savior of the world. Their faith surpassed that of the Jews and even the disciples, based on hearing Him themselves. They acknowledged that Jesus was not just another teacher, but the authoritative and dignified Word of God. This revelation of Jesus as the Savior of the world was first expressed by Samaritans, highlighting the universality of salvation. Their understanding was built not on mere talk, but on their abiding experience of Him. True faith rests solely in Christ, who testifies that salvation is for all people.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.601403115970041,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                46.17,
+                0.0,
+                53.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The faith of the Samaritans surpassed that of the Jews as they recognized Jesus as the Savior of the world, unencumbered by prejudice and narrow-mindedness. They discerned that Jesus was not just another teacher, but the authoritative Word of God. It is significant that this revelation originated from Samaritans, emphasizing the universality of salvation. Their understanding was not based on mere talk, but on the abiding experience of Jesus. Their profound recognition underscores that true faith rests solely in Christ, who testifies that salvation is for all people.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6399248664966837,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.87,
+            "commentatorTierSimilarities": [
+                46.72,
+                0.0,
+                53.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Samaritans, unhampered by prejudice like the Jews, recognized Jesus as the Savior of the world. Their faith, based on hearing Jesus themselves, surpassed even that of the disciples. They understood that Jesus was not just an ordinary teacher, but the authoritative Word of God. It is significant that this profound revelation came from Samaritans, not the Jews. Their faith was not based on mere talk, but on their abiding experience of Jesus. This highlights that true faith rests solely in Christ, who testifies that salvation is for all people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.634357511972471,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                46.14,
+                0.0,
+                53.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Samaritans, free from prejudice and narrow-mindedness, recognized Jesus as the Savior of the world based on their abiding experience of hearing Him themselves. Their faith, surpassing that of the Jews and disciples, was built on the understanding that Jesus was not just a teacher but the authoritative Word of God. This significant revelation from the Samaritans emphasizes the universality of salvation. Their recognition serves as a reminder that true faith lies solely in Christ, who testifies that salvation is for all people, not just a select few.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6494642853216284,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.19,
+            "commentatorTierSimilarities": [
+                46.5,
+                0.0,
+                53.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

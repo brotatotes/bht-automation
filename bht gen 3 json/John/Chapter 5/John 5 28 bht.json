@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:06:38",
+    "verseRef": "John 5:28",
+    "bestBHT": {
+        "bht": "At the close of the whole dispensation of mercy, Jesus will raise the dead. All that are in the graves, both the righteous and the wicked, will hear His voice and come forth to judgment. While some may marvel at this, Jesus affirms that this is the astounding proof that He has the power of life and judgment. The grave, representing both burial and preserving the memory of the dead, shall release the bodies of the dead at the last day.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 2.142662241058969,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+        "commentatorTierSimilarities": [
+            38.62,
+            33.11,
+            28.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the astounding proof which shall be given in the face of the universe that this is so.",
+            "when not merely 'the dead,' but all that are in the graves, shall hear His voice",
+            "the descriptions reach far wider, including indeed in this most general form the first resurrection unto life also\u2014and the two great classes are described as they that have done (wrought) good and they that have done (practised, see on ch. iii. 20, 21) evil (vain, worthless things)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Marvel not at this\u2014this committal of all judgment to the Son of man.\" ",
+            "He adds not in this case (as in :-), 'and now is,' because this was not to be till the close of the whole dispensation of mercy."
+        ],
+        "Albert Barnes": [
+            "Marvel not - Do not wonder or be astonished at this.",
+            "The hour is coming - The 'time' is approaching or will be.",
+            "Shall hear his voice - He will restore them to life, and command them to appear before him."
+        ],
+        "Marvin Vincent": [
+            "The graves [\u03c4\u03bf\u03b9\u03c2 \u03bc\u03bd\u03b7\u03bc\u03b5\u03b9\u03bf\u03b9\u03c2]. Rev., better; tombs.",
+            "Two words are used in the New Testament for the place of burial, tafov, and mnhmeion or mnhma.",
+            "The former emphasizes the idea of burial (qaptw, to bury); the latter of preserving the memory of the dead; from mimnhskw, to remind."
+        ],
+        "John Calvin": [
+            "We may be apt to think that he reasons inconclusively, in drawing from the last resurrection a confirmation of what he had said; for it is not an instance of greater power to raise up bodies than to raise up minds.",
+            "It is not from the fact itself that he makes a comparison between the greater and the less, but from the opinion of men; for, being carnal, they admire nothing but what is outward and visible.",
+            "Those whom death already deprived of life and light the grave withdraws, as it were, from the world."
+        ],
+        "Philip Schaff": [
+            "Marvel not at this. Jesus has been speaking of works at which they may well marvel; but great as these may be, there is yet a greater.",
+            "The resurrection is not spiritual and figurative, for the words are \u2018all that are in the graves,' not \u2018all that have heard,\u2019 shall go forth, not \u2018shall live.'",
+            "The consummation of the work of Jesus is the general resurrection both of the righteous and the wicked. Now all shall hear His voice, to which before some only had given heed. All shall go forth, but not all to a resurrection of life."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus claims not only the power of life (spiritual) and of judgement, but of power to quicken the actual dead at the Last Day.",
+            "A general judgement and a general bodily resurrection we have here for both good and bad.",
+            "In John 6:39 Jesus asserts that he will raise up the righteous."
+        ],
+        "John Gill": [
+            "for the hour is coming, in which all that are in their graves shall hear his voice.",
+            "this is also a proof of the resurrection of the same body; for what else are in the graves but bodies? and what else can come forth from them but the same bodies?",
+            "Certain it is, that this voice of Christ will be attended with almighty power, as the effect following upon it will show."
+        ],
+        "John Wesley": [
+            "The time is coming \u2014 When not two or three, but all shall rise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the close of the whole dispensation of mercy, Jesus will exercise His power to raise the dead. All that are in the graves, both the righteous and the wicked, will hear His voice and come forth to judgment. While some may marvel at this, Jesus affirms that this is the astounding proof that He has the power of life and judgment. The grave, representing both burial and preserving the memory of the dead, shall release the bodies of the dead at the last day. It is not only a spiritual resurrection, for it is the bodily resurrection of all those in the graves. Indeed, the hour is coming when all that are in their graves shall hear His voice, a voice that will be accompanied by almighty power.",
+            "wordCount": 129,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.127920014959847,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.09,
+            "commentatorTierSimilarities": [
+                35.14,
+                33.43,
+                31.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the close of the whole dispensation of mercy, Jesus will raise the dead. All that are in the graves, both the righteous and the wicked, will hear His voice and come forth to judgment. While some may marvel at this, Jesus affirms that this is the astounding proof that He has the power of life and judgment. The grave, representing both burial and preserving the memory of the dead, shall release the bodies of the dead at the last day.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.142662241058969,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+            "commentatorTierSimilarities": [
+                38.62,
+                33.11,
+                28.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the close of the whole dispensation of mercy, Jesus will exercise His power to raise the dead. All that are in the graves, both the righteous and the wicked, will hear His voice and come forth to judgment. While some may marvel at this, Jesus affirms that this is the astounding proof that He has the power of life and judgment. The grave, representing both burial and preserving the memory of the dead, shall release the bodies of the dead at the last day. It is not only a spiritual resurrection, for it is the bodily resurrection of all those in the graves. Indeed, the hour is coming when all that are in their graves shall hear His voice, a voice that will be accompanied by almighty power.",
+            "wordCount": 129,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.127920014959847,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.09,
+            "commentatorTierSimilarities": [
+                35.14,
+                33.43,
+                31.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the close of the whole dispensation of mercy, Jesus will exercise His power to raise the dead. All that are in the graves, both the righteous and the wicked, will hear His voice and come forth to judgment. This is the astounding proof that He has the power of life and judgment. The grave shall release the bodies of the dead at the last day. Indeed, the hour is coming when all that are in their graves shall hear His voice, a voice accompanied by almighty power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.0259097247208233,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                35.31,
+                31.14,
+                33.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the close of the whole dispensation of mercy, Jesus will raise the dead. All that are in the graves, both the righteous and the wicked, will hear His voice and come forth to judgment. While some may marvel at this, Jesus affirms that this is the astounding proof of His power of life and judgment. The grave, representing both burial and preserving the memory of the dead, will release the bodies of the dead at the last day. Indeed, the hour is coming when all that are in their graves will hear His voice, accompanied by almighty power.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.132269125237878,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                35.22,
+                33.43,
+                31.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

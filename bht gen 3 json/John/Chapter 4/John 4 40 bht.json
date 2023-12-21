@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-21-2023 03:05:42",
+    "verseRef": "John 4:40",
+    "bestBHT": {
+        "bht": "The Samaritans, who were not His own, came to Jesus, unsought, seeking His company and desiring a conversation with Him. The reception of these Samaritans stood in stark contrast to the rejection Jesus faced from His own people in Judea. This unexpected visitation became a continuous revival, an astonishing experience given the historical tension between Jews and Samaritans. The reaping of souls in this field village provided a foretaste of the inbringing of the entire Gentile world into the Church, a triumphant display of His grace.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5484972373186894,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.83,
+        "commentatorTierSimilarities": [
+            39.43,
+            34.85,
+            25.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These Samaritans were the foundation of the church afterwards built up there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Two precious days, surely, to the Redeemer Himself!",
+            "Unsought, He had come to His own, yet His own received Him not: now those who were not His own had come to Him.",
+            "Here, then, would He solace His already wounded spirit and have in this outfield village triumph of His grace, a sublime foretaste of the inbringing of the whole Gentile world into the Church."
+        ],
+        "Marvin Vincent": [
+            "To tarry [\u03bc\u03b5\u03b9\u03bd\u03b1\u03b9] . Better, as Rev., to abide."
+        ],
+        "Philip Schaff": [
+            "Mark the contrast between Judea repelling and Samaria inviting.",
+            "A dead and petrified orthodoxy may be more proof against the word of life than heresy.",
+            "More proof against the word of life than heresy."
+        ],
+        "Archibald T. Robertson": [
+            "A continuous revival, a most unexpected experience when one recalls the feeling between the Jews and the Samaritans.",
+            "They wanted to cultivate the acquaintance of Jesus.",
+            "The reaping went on gloriously."
+        ],
+        "John Gill": [
+            "They were taken with his divine discourses.",
+            "They were delighted with his company; and...desired a conversation with him.",
+            "He would not deny their request, lest they should be discouraged."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These Samaritans were the foundation of the church afterwards built up there; unsought, Jesus had come to His own, yet His own received Him not. Now those who were not His own had come to Him, cultivating His acquaintance and wanting to engage in conversation with Him. It was a continuous revival, a most unexpected experience given the historical tension between the Jews and Samaritans. The reaping of souls went on gloriously, as Jesus abided with them, solacing His wounded spirit and gaining a foretaste of the inbringing of the whole Gentile world into the Church.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.5314676011343895,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                46.93,
+                24.24,
+                28.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These Samaritans, who were not His own, came to Jesus, seeking His company and desiring a conversation with Him. This unexpected visitation marked a contrast between the repelling nature of Judea and the inviting nature of Samaria. The reaping of souls in this field village was a continuous revival, a foretaste of the inbringing of the whole Gentile world into the Church. Jesus, despite being rejected by His own, found solace in this unexpected triumph of His grace.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5334459418762656,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+            "commentatorTierSimilarities": [
+                34.66,
+                36.82,
+                28.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Samaritans, who were not His own, came to Jesus, unsought, seeking His company and desiring a conversation with Him. The reception of these Samaritans stood in stark contrast to the rejection Jesus faced from His own people in Judea. This unexpected visitation became a continuous revival, an astonishing experience given the historical tension between Jews and Samaritans. The reaping of souls in this field village provided a foretaste of the inbringing of the entire Gentile world into the Church, a triumphant display of His grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5484972373186894,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.83,
+            "commentatorTierSimilarities": [
+                39.43,
+                34.85,
+                25.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Samaritans, who were not His own, came to Jesus, unsought, seeking His company and desiring a conversation with Him. This unexpected visitation became a continuous revival, displaying a foretaste of the inbringing of the entire Gentile world into the Church. The reaping of souls in this field village stood in stark contrast to the rejection Jesus faced from His own people in Judea. It was a remarkable triumph of His grace, as these Samaritans embraced Him, providing solace and joy for His wounded spirit.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5041872724118155,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                39.58,
+                30.49,
+                29.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Samaritans, who were not His own, sought Jesus, desiring His company and conversation. This unexpected visitation became a continuous revival, foreshadowing the inbringing of the entire Gentile world into the Church. This triumphant display of grace stood in contrast to the rejection Jesus faced in Judea. It was an astonishing moment that brought solace and joy to His wounded spirit, as these Samaritans embraced Him willingly. The reaping of souls in this village went on gloriously, marking a profound shift in dynamics.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.5039259990369813,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+            "commentatorTierSimilarities": [
+                38.86,
+                33.33,
+                27.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

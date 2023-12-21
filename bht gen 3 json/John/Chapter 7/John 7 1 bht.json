@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-21-2023 03:07:43",
+    "verseRef": "John 7:1",
+    "bestBHT": {
+        "bht": "After the events recorded in the previous chapters, Jesus continued His ministry by walking and teaching in Galilee. Instead of going to Judea, where His enemies sought to kill Him, Jesus remained in Galilee, demonstrating that piety and the fear of God are not confined to prominent places. Jesus' rejection and departure from Judea foreshadowed the spreading of the Gospel to another people. It is lawful and advisable for good men to preserve their lives when in danger, to continue serving God and benefiting others.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.8687866279827101,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+        "commentatorTierSimilarities": [
+            23.88,
+            35.07,
+            41.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But it will not follow from this, that ch. vi. is not in its right place: it contains an independent memoir of a miracle and discourse of our Lord in Galilee which actually happened in the interval, and only serves to shew us the character of this Gospel as made up of such memoirs, more or less connected with one another, and selected by the Evangelist for their higher spiritual import, and the discourses arising from them.\" ",
+            "I would understand this verse as merely carrying on the time from ch. v. and ch. vi.,\u2014and its contents as introductory to the account of Jesus not going up at first to the feast.",
+            "Ch. vi. is in some measure presupposed in our ver. 3, as indicating that He had not constantly observed the festal journeys of late."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "After these things\u2014that is, all that is recorded after :-.",
+            "walked in Galilee\u2014continuing His labors there, instead of going to Judea, as might have been expected.",
+            "sought to kill him\u2014referring back to John 5:18. Hence it appears that our Lord did not attend the Passover mentioned in John 6:4 \u2014being the third since His ministry began, if the feast mentioned in John 6:4- : was a Passover."
+        ],
+        "Albert Barnes": [
+            "After these things - After the transactions which are recorded in the last chapters had taken place...",
+            "Jesus walked - Or Jesus lived, or taught. He traveled around Galilee teaching.",
+            "The Jews sought - That is, the rulers of the Jews. It does not appear that the common people ever attempted to take his life."
+        ],
+        "Marvin Vincent": [
+            "The association of the latter event with harvest was designed to remind the people in their prosperity of the days of their homeless wandering, that their hearts might not be lifted up and forget God, who delivered them from bondage.\" ",
+            "Therefore they were commanded to quit their permanent homes and to dwell in booths at the time of harvest.\" ",
+            "The festival was also known as the Feast of Jehovah, or simply the Festival, because of its importance, and of being the most joyful of all festivals."
+        ],
+        "John Calvin": [
+            "Christ sojourned for a time in Galilee, because he could not remain in safety anywhere among the Jews.",
+            "He conducted himself as a man who was liable to dangers, and therefore, it was not proper that he should throw himself at random into dangerous situations.",
+            "When a small and despised corner of Galilee grants a lodging to Christ, whom Judea cannot endure, we learn from it that piety and the fear of God are not always to be found in the chief places of the Church."
+        ],
+        "Philip Schaff": [
+            "During that time Jesus \u2018was walking in Galilee,\u2019 for in Judea His enemies \u2018were seeking to kill Him.\u2019",
+            "The ministry in Galilee is in the main passed over, partly, no doubt, because the Evangelist well knew that the types of Gospel teaching that were most widely current chiefly presented the Saviour\u2019s work in Galilee.",
+            "The principal outward characteristics of this portion of our Lord\u2019s public ministry are the wider range of His travels and the comparative privacy which He seems usually to have maintained."
+        ],
+        "Archibald T. Robertson": [
+            "John's favourite general note of the order of events.",
+            "He now skips the period of withdrawal from Galilee of about six months.",
+            "Imperfect active again, progressive attitude, had been seeking to kill him."
+        ],
+        "John Gill": [
+            "He did not sit still, or lie at home, and live an inactive indolent life, but went about from place to place, preaching the Gospel, and healing diseases.",
+            "But being rejected and ill treated, he left them; which was a prelude of the Gospel being taken from them, and carried to another people.",
+            "And very lawful and advisable it is for good men when their lives are in danger, to make use of proper means to preserve them, for further usefulness in the cause of God, and for the benefit of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the events recorded in the previous chapters, Jesus continued His ministry by walking and teaching in Galilee, instead of going to Judea where His enemies were seeking to kill Him. The Gospel of John, composed of independent memoirs and selected by the evangelist, presents Jesus' actions and discourses with a higher spiritual significance. Despite being despised in Judea, Jesus found shelter in Galilee, reminding us that piety and the fear of God are not always found in the chief places of the Church. As a man liable to dangers, Jesus did not remain idle but actively preached the Gospel and healed diseases while ensuring His safety. Rejecting their ill treatment, He left them, foreshadowing the Gospel being taken to another people. It is lawful and advisable for good men to preserve their lives when in danger, for further usefulness in the cause of God and for the benefit of others.",
+            "wordCount": 151,
+            "quoteTokenProportion": 32.67,
+            "qualityScore": 1.8415070263850661,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                23.81,
+                32.01,
+                44.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the events recorded in the previous chapters, Jesus continued His ministry by walking and teaching in Galilee, instead of going to Judea, where His enemies sought to kill Him. The Gospel of John presents Jesus' actions and discourses as selected memoirs with higher spiritual significance, showing that piety and the fear of God are not always found in prominent places. Rejecting ill treatment, Jesus left, foreshadowing the Gospel being taken elsewhere. It is lawful for good men to preserve their lives in danger for the cause of God and others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8416567877936938,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                25.07,
+                34.51,
+                40.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Continuing His ministry in Galilee, Jesus walked and taught, not going to Judea where His enemies sought to kill Him. The Gospel of John presents these events as selected memoirs with spiritual significance, revealing that piety isn't always found in prominent places. Jesus' rejection and departure from Judea foreshadow the spreading of the Gospel to another people. It is lawful for good men facing danger to take measures for self-preservation, enabling further usefulness for the cause of God and the benefit of others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8021671355111135,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                25.51,
+                34.5,
+                39.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the events recorded in the previous chapters, Jesus continued His ministry by walking and teaching in Galilee. Instead of going to Judea, where His enemies sought to kill Him, Jesus remained in Galilee, demonstrating that piety and the fear of God are not confined to prominent places. Jesus' rejection and departure from Judea foreshadowed the spreading of the Gospel to another people. It is lawful and advisable for good men to preserve their lives when in danger, to continue serving God and benefiting others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8687866279827101,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                23.88,
+                35.07,
+                41.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the events recorded in the previous chapters, Jesus walked and taught in Galilee instead of going to Judea, where His enemies sought to kill Him. The Gospel of John presents these actions and discourses as selected memoirs with spiritual significance, revealing that piety is not necessarily found in prominent places. Jesus' rejection and departure from Judea foreshadowed the spreading of the Gospel. Preserving one's life in danger is lawful and advisable, enabling further usefulness for God's cause and benefiting others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7754030614416698,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.37,
+            "commentatorTierSimilarities": [
+                26.38,
+                34.2,
+                39.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

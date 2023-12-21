@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-21-2023 03:07:32",
+    "verseRef": "John 7:9",
+    "bestBHT": {
+        "bht": "Jesus stayed in Galilee for a short period, continuing his ministry before heading to Judea. The exact duration of his stay is unspecified, but it was likely only a couple of days. Unlike Jesus, some claimed to worship God but befriended unbelievers, showing a lack of devotion. In contrast, Jesus entered the city secretly until circumstances required him to openly reveal his presence. He remained steadfast in his words and actions, demonstrating unwavering commitment to his mission.",
+        "wordCount": 77,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.3099686637751773,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.9,
+        "commentatorTierSimilarities": [
+            46.11,
+            26.82,
+            27.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Calvin": [
+            "But if there be nothing more wretched than to be separated from Christ, accursed be that peace which costs so high a price as to leave and abandon the Son of God.",
+            "The Evangelist here places before our eyes the cousins of our Lord Jesus Christ, who, in compliance with ordinary customs, pretend to worship God, but yet are on friendly terms with unbelievers.",
+            "On the other hand, he places before our eyes Christ himself, who hated by the world, comes secretly into the city, till the necessity arising out of his office compels him to show himself openly."
+        ],
+        "Philip Schaff": [
+            "How long, we are not informed.",
+            "the interval spent in Galilee can hardly have been more than two or three days.",
+            "He Himself was teaching in the temple when the sacred week had half expired."
+        ],
+        "Archibald T. Robertson": [
+            "He abode still in Galilee (\u03b5\u03bc\u03b5\u03b9\u03bd\u03b5\u03bd \u03b5\u03bd \u03c4\u03b7 \u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03b9\u03b1). No \"still\" (\u03b5\u03c4) in the Greek text. The constative aorist active indicative \u03b5\u03bc\u03b5\u03b9\u03bd\u03b5\u03bd covers a period of some days. "
+        ],
+        "John Gill": [
+            "Showing hereby a firmness and resolution of mind, not using lightness of speech...",
+            "His words being not yea, and nay, but all of a piece...",
+            "By which he abode."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus stayed in Galilee for some days, not staying still but continuing his ministry before journeying to Judea. The exact length of his stay is not specified, but it was likely only for a short period of time, perhaps two or three days. In contrast to Jesus, there were those who claimed to worship God but maintained friendships with unbelievers, exemplifying a lack of devotion. On the other hand, Jesus, despised by the world, entered the city in secret until his duty compelled him to reveal himself openly. He was steadfast and resolute, never wavering in his words or actions. This confirms his unwavering commitment to his mission and the fulfillment of his purpose.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 1.2233590715481832,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.02,
+            "commentatorTierSimilarities": [
+                44.83,
+                26.34,
+                28.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus stayed in Galilee for a short period, during which he continued his ministry before going to Judea. While the duration of his stay is unspecified, it likely lasted only several days. Unlike Jesus, some people claimed to worship God but maintained friendships with unbelievers, revealing their lack of devotion. In contrast, Jesus entered the city secretly, showing his resolve and determination until the time came for him to reveal himself openly. He remained steadfast in both his words and actions, displaying his unwavering commitment to his mission.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.307344396130327,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.81,
+            "commentatorTierSimilarities": [
+                45.35,
+                27.61,
+                27.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus stayed in Galilee for a period of several days, continuing his ministry before departing for Judea. Some claimed to worship God but maintained friendships with unbelievers, betraying their lack of true devotion. In contrast, Jesus entered the city secretly, demonstrating his firm resolve until the moment required him to reveal himself openly. He remained unwavering in his words and actions, exhibiting his steadfast commitment to his mission.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.2916446067330287,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.29,
+            "commentatorTierSimilarities": [
+                49.11,
+                22.34,
+                28.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus stayed in Galilee for a few days, actively engaged in his ministry before leaving for Judea. While the specific duration of his stay is not mentioned, it is likely to have been brief, around two or three days. In contrast to Jesus, there were those who claimed to worship God but maintained friendships with unbelievers, revealing a lack of genuine devotion. Jesus, on the other hand, entered the city discreetly until the circumstances compelled him to reveal himself openly. He consistently spoke with firmness and resolve, never wavering in his words or actions, emphasizing his unwavering commitment to his purpose.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.279576139993691,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.89,
+            "commentatorTierSimilarities": [
+                45.47,
+                26.7,
+                27.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus stayed in Galilee for a short period, continuing his ministry before heading to Judea. The exact duration of his stay is unspecified, but it was likely only a couple of days. Unlike Jesus, some claimed to worship God but befriended unbelievers, showing a lack of devotion. In contrast, Jesus entered the city secretly until circumstances required him to openly reveal his presence. He remained steadfast in his words and actions, demonstrating unwavering commitment to his mission.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3099686637751773,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.9,
+            "commentatorTierSimilarities": [
+                46.11,
+                26.82,
+                27.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

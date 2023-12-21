@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:07:35",
+    "verseRef": "John 6:44",
+    "bestBHT": {
+        "bht": "The drawing of individuals to Jesus by the Father is not through irresistible grace, but rather a gracious allurement initiated by God. It is a moral power that initiates the soul's approach to God. While faith is a gift from God, it requires a new understanding and perception. Through divine drawing, individuals are brought to Christ by the strong and sweet, yet still resistible, motions of heavenly grace.",
+        "wordCount": 69,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.8814192437006865,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+        "commentatorTierSimilarities": [
+            27.29,
+            28.52,
+            44.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That this 'drawing' is not irresistible grace, is confessed even by Augustine himself, the great upholder of the doctrines of grace.",
+            "Think not that thou art drawn against thy will: the mind can be drawn by love.",
+            "This expression does not remove our part in the coming, but rather shews that we want help to come."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Except the Father which hath sent me\u2014that is, the Father as the Sender of Me and to carry out the design of My mission.",
+            "Draw him\u2014by an internal and efficacious operation; though by all the means of rational conviction, and in a way altogether consonant to their moral nature.",
+            "Raise him up, &c.\u2014(See on John 6:54)."
+        ],
+        "Albert Barnes": [
+            "The difficulty in the case was not, therefore, a want of natural faculties, or of power to do their duty, but erroneous opinions, pride, obstinacy, self-conceit, and a deep-felt contempt for Jesus.\" ",
+            "The word cannot is often used to denote a strong and violent opposition of the will.",
+            "In the conversion of the sinner God enlightens the mind, he inclines the will, and he influences the soul by motives, by just views of his law, by his love, his commands, and his threatenings; by a desire of happiness, and a consciousness of danger; by the Holy Spirit applying truth to the mind, and urging him to yield himself to the Saviour."
+        ],
+        "Marvin Vincent": [
+            "The drawing is not like that of the executioner, who draws the thief up the ladder to the gallows; but it is a gracious allurement, such as that of the man whom everybody loves, and to whom everybody willingly goes.",
+            "One distinction, however, is observed: surw is never used of Christ's attraction of men.",
+            "The distinction is not habitually observed, and the meanings often overlap."
+        ],
+        "John Calvin": [
+            "For many are so foolish that, in the things of God, they depend on the opinions of men; in consequence of which, they entertain suspicions about the Gospel, as soon as they see that it is not received by the world.",
+            "Christ declares that the doctrine of the Gospel, though it is preached to all without exception, cannot be embraced by all, but that a new understanding and a new perception are requisite; and, therefore, that faith does not depend on the will of men, but that it is God who gives it.",
+            "It is a false and profane assertion, therefore, that none are drawn but those who are willing to be drawn, as if man made himself obedient to God by his own efforts; for the willingness with which men follow God is what they already have from himself, who has formed their hearts to obey him."
+        ],
+        "Philip Schaff": [
+            "Only like can understand like.",
+            "The \u2018drawing\u2019 is not precisely the same as the \u2018giving\u2019 of John 6:37, but describes, so to speak, the first stage of the \u2018giving;\u2019 he that \u2018hath been drawn\u2019 by the Father is he that is given to the Son.",
+            "Between these two extreme terms \u2018draw\u2019 and \u2018raise up\u2019 is included all the development of the spiritual life."
+        ],
+        "Archibald T. Robertson": [
+            "The approach of the soul to God is initiated by God.\" ",
+            "The Father draw him...to draw by moral power.\" ",
+            "The same doctrine and use of \u03bf\u03c5\u03b4\u03b5 \u03b4\u03c5\u03bd\u03b1\u03c4\u03b1 like \u03bf\u03c5\u03b4\u03b5\u03b9\u03c2 \u03b4\u03c5\u03bd\u03b1\u03c4\u03b1 here."
+        ],
+        "John Gill": [
+            "And whilst men are in a state of unregeneracy, blindness, and darkness, they see no need of coming to Christ, nor anything in him worth coming for.",
+            "Coming to Christ and believing in Christ being the same thing, it is certain faith is not of a man's self, it is the gift of God, and the operation of his Spirit.",
+            "But though this act of drawing is an act of power, yet not of force; God in drawing of unwilling, makes willing in the day of his power: he enlightens the understanding, bends the will, gives a heart of flesh, sweetly allures by the power of his grace, and engages the soul to come to Christ, and give up itself to him; he draws with the bands of love."
+        ],
+        "John Wesley": [
+            "No man comes to me, unless my Father draw him \u2014 No man can believe in Christ, unless God give him power.",
+            "He draws us first, by good desires.",
+            "Not by compulsion, not by laying the will under any necessity; but by the strong and sweet, yet still resistible, motions of his heavenly grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the Father drawing individuals to Jesus, implying that we need divine help to come to Him. This drawing is not like that of an executioner, but rather a gracious allure, initiated by God. It is an internal and efficacious operation that involves rational conviction, yet also goes beyond natural faculties and encompasses enlightening the mind, inclining the will, and influencing the soul through the Holy Spirit. The drawing is not irresistible grace, but a moral power that initiates the approach of the soul to God. Ultimately, faith is a gift from God and requires a new understanding and perception. While we may think we are drawn against our will, it is the heart that is drawn by love.",
+            "wordCount": 122,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8961357961699266,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                29.96,
+                29.86,
+                40.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Father's drawing of individuals to Jesus is not irresistible grace, but a gracious allurement initiated by God. It involves rational conviction and an internal and efficacious operation. This drawing is a moral power that initiates the soul's approach to God. Faith is not dependent on human will, but is a gift from God, requiring a new understanding and perception. It is through the divine drawing that individuals are brought to Christ, by the strong and sweet, yet still resistible, motions of heavenly grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8159299275693228,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                28.79,
+                28.05,
+                43.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Father's drawing of individuals to Jesus is not irresistible grace, but a gracious allurement initiated by God. It involves rational conviction and an internal and efficacious operation. This drawing is a moral power that initiates the soul's approach to God. Faith is not dependent on human will, but is a gift from God, requiring a new understanding and perception. It is through the divine drawing that individuals are brought to Christ, by the strong and sweet, yet still resistible, motions of heavenly grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8159299275693228,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                28.79,
+                28.05,
+                43.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Father's drawing of individuals to Jesus is not irresistible grace, but a gracious allurement initiated by God. It involves an internal and efficacious operation, a moral power that initiates the soul's approach to God. Faith is a gift from God, requiring a new understanding and perception. Through divine drawing, individuals are brought to Christ by the strong and sweet, yet resistible, motions of heavenly grace.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.8356200486444516,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                27.79,
+                27.81,
+                44.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The drawing of individuals to Jesus by the Father is not through irresistible grace, but rather a gracious allurement initiated by God. It is a moral power that initiates the soul's approach to God. While faith is a gift from God, it requires a new understanding and perception. Through divine drawing, individuals are brought to Christ by the strong and sweet, yet still resistible, motions of heavenly grace.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8814192437006865,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                27.29,
+                28.52,
+                44.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

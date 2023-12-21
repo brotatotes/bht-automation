@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:10:49",
+    "verseRef": "John 11:39",
+    "bestBHT": {
+        "bht": "The sister's natural horror at removing the stone doesn't give the miracle a monstrous character; rather, it reflects the beginning of decomposition with death. Jesus rises above Judaic evils, involving others in the miracle, even though it startles them. The man had been dead for four days, eliminating any possibility of imposture. The power of death is visually depicted in both the body of the departed and his sister's spirit. The change in death terminology, signifying the end of life, carries significant meaning.",
+        "wordCount": 86,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.632306415361025,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+        "commentatorTierSimilarities": [
+            38.87,
+            33.07,
+            28.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression, the sister of him that was dead, as Meyer remarks, notes the natural horror of the sister\u2019s heart at what was about to be done.",
+            "I cannot see that any monstrous character (as asserted by Olshausen and Trench) is given to the miracle by it; any more than such a character can be predicated of restoring the withered hand.",
+            "In fact, the very act of death is the beginning of decomposition."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He who touched the leper, and the bier of the widow of Nain's son, rises here also above these Judaic memorials of evils, every one of which He had come to roll away.\" ",
+            "Observe here what our Lord did Himself, and what He made others do. As Elijah himself repaired the altar on Carmel, arranged the wood, cut the victim, and placed the pieces on the fuel, but made the by-standers fill the surrounding trench with water, that no suspicion might arise of fire having been secretly applied to the pile.\" ",
+            "To such fluctuations all real faith is subject in dark hours."
+        ],
+        "Albert Barnes": [
+            "This proves that there could be no deception, for it could not have been a case of suspended animation.",
+            "All these circumstances are mentioned to show that there was no imposture.",
+            "Every part of this narrative bears the marks of truth."
+        ],
+        "John Calvin": [
+            "The root of the evil consists in measuring the infinite and incomprehensible power of God by the perception of her flesh.",
+            "When our minds are preoccupied by foolish thoughts, we banish God from us...so that he cannot accomplish in us his own work.",
+            "That the grace of God may have access to us, let us learn to ascribe to it far greater power than our senses can comprehend."
+        ],
+        "Philip Schaff": [
+            "No expectation of some great blessing which God will give in answer to the prayer of Jesus is now in Martha\u2019s mind.",
+            "Nothing could more vividly illustrate the power which at this moment death wielded alike over the body of the departed and his sister\u2019s spirit.",
+            "It is instructive to observe that in the words \u2018him that was dead\u2019 he changes the term for death, using not that of John 11:26 , but another which expresses simply coming to the end of life."
+        ],
+        "Archibald T. Robertson": [
+            "Take ye away the stone (\u03b1\u03c1\u03b1\u03c4\u03b5 \u03c4\u03bf\u03bd \u03bb\u03b9\u03b8\u03bf\u03bd). They could do this much without the exercise of Christ's divine power. It was a startling command to them.",
+            "By this time he stinketh (\u03b7\u03b4\u03b7 \u03bf\u03b6\u03b5). It means to give out an odour, either good or bad.",
+            "For he hath been dead four days (\u03c4\u03b5\u03c4\u03b1\u03c1\u03c4\u03b1\u03b9\u03bf\u03c2 \u03b3\u03b1\u03c1 \u03b5\u03c3\u03c4\u03b9\u03bd). The Greek simply says, 'For he is a fourth-day man.' It is an old ordinal numeral... The word is only here in the N.T."
+        ],
+        "John Gill": [
+            "he that could command him to come forth, could have commanded away the stone, but he chose to have it removed this way, that the corpse might be seen, and even smelt",
+            "she imagined that Christ only wanted to have the stone removed, that he might have a sight of his deceased friend, which she thought would be very disagreeable and nauseous",
+            "he had been so long in the grave... his countenance was changed, he was not fit to be seen, nor approached unto; nor was there any hope of his returning to life"
+        ],
+        "John Wesley": [
+            "Lord, by this time he stinketh \u2014 Thus did reason and faith struggle together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sister's natural horror at the thought of removing the stone is noted, but it doesn't give the miracle a monstrous character. In fact, this act of death is the beginning of decomposition. Jesus rises above these Judaic memorials of evils and makes others participate in the miracle. Although it was a startling command to remove the stone, it was something they could do without His divine power. The fact that the man had been dead for four days is emphasized. These circumstances mentioned in the narrative show that there could be no imposture, proving the truth of this event. The power of death is vividly illustrated in both the body of the departed and his sister's spirit. The change in the term for death, expressing simply coming to the end of life, is instructive.",
+            "wordCount": 138,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6454421511939215,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                38.76,
+                35.22,
+                26.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sister's natural horror at removing the stone doesn't give the miracle a monstrous character. In fact, this act of death is the beginning of decomposition. Jesus rises above Judaic memorials of evils and makes others participate, although it startles them. The man had been dead for four days, showing there could be no imposture. The power of death is vividly illustrated in both the body of the departed and his sister's spirit. The change in the term for death, expressing simply coming to the end of life, is instructive.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.623424871995967,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                41.95,
+                34.26,
+                23.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sister's natural horror at removing the stone doesn't give the miracle a monstrous character. In fact, this act of death is the beginning of decomposition. Jesus rises above Judaic memorials of evils and makes others participate, although it startles them. The man had been dead for four days, showing there could be no imposture. The power of death is vividly illustrated in both the body of the departed and his sister's spirit. The change in the term for death, expressing simply coming to the end of life, is instructive.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.623424871995967,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                41.95,
+                34.26,
+                23.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sister's natural horror at removing the stone doesn't give the miracle a monstrous character. In fact, this act of death is the beginning of decomposition. Jesus rises above Judaic evils and startles others by making them participate. The man had been dead for four days, proving there was no imposture. The power of death is vivid in both the body of the departed and his sister's spirit. The change in the term for death, expressing simply coming to the end of life, is instructive.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.5990515398885856,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.51,
+            "commentatorTierSimilarities": [
+                40.81,
+                34.53,
+                24.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sister's natural horror at removing the stone doesn't give the miracle a monstrous character; rather, it reflects the beginning of decomposition with death. Jesus rises above Judaic evils, involving others in the miracle, even though it startles them. The man had been dead for four days, eliminating any possibility of imposture. The power of death is visually depicted in both the body of the departed and his sister's spirit. The change in death terminology, signifying the end of life, carries significant meaning.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.632306415361025,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.62,
+            "commentatorTierSimilarities": [
+                38.87,
+                33.07,
+                28.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

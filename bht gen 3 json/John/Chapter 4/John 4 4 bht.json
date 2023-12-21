@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:05:12",
+    "verseRef": "John 4:4",
+    "bestBHT": {
+        "bht": "Jesus' choice to pass through Samaria on His way to Galilee was not incidental but intentional, guided by a higher purpose and the knowledge of His Father's will. Though it may have been the natural route, there was a sense of necessity and urgency in reaching Galilee without delay. This journey through Samaria was not simply a matter of geographic convenience, but a divine opportunity for Jesus to fulfill His calling, bring redemption to the Samaritans, and demonstrate the wisdom of God's plan.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.9079402074420029,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+        "commentatorTierSimilarities": [
+            30.69,
+            40.18,
+            29.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "4. must needs go through Samaria\u2014for",
+            "\ta geographical reason, no doubt, as it lay straight in his way, but",
+            "\tcertainly not without a higher design."
+        ],
+        "Albert Barnes": [
+            "And he must needs go through Samaria.\" ",
+            "Samaria was between Judea and Galilee.\" ",
+            "The direct and usual way was to pass through Samaria."
+        ],
+        "Marvin Vincent": [
+            "Must needs. Because this was the natural route from Jerusalem to Galilee.\" ",
+            "Possibly with a suggestion of the necessity arising from the Father's will.\" ",
+            "Jesus observed the law which He imposed on His disciples (Matthew 10:5)."
+        ],
+        "John Calvin": [
+            "A Prophet hath no honour in his own country.",
+            "It is certain that prophets are usually more admired elsewhere than in their own country.",
+            "Now this proverb, and the meaning of it, may have a twofold origin; for it is a universal fault, that those whom we have heard crying in the cradle, and whom we have seen acting foolishly in their boyhood, are despised by us throughout their whole life."
+        ],
+        "Philip Schaff": [
+            "The necessity here spoken of, therefore, may simply have reference to geographical position, and to the present urgent motive for reaching Galilee without delay.",
+            "Still the use of \u2018must\u2019 in this Gospel compels us to lay an emphasis on the word, and to interpret it as denoting more than merely usage or convenience.",
+            "But above and beyond all this, there seems a clear intimation of the truth brought before us in John 4:34, chap. John 9:4, etc: here, as always, Jesus acts according to His knowledge of His Father\u2019s will."
+        ],
+        "Archibald T. Robertson": [
+            "He must needs pass through Samaria.\" ",
+            "It was only necessary to pass through Samaria in going directly north from Judea to Galilee.\" ",
+            "Jesus once met this bitterness on going to the feast of tabernacles."
+        ],
+        "John Gill": [
+            "Not the city, but the country of Samaria; for the way to Galilee from Judea, lay through the midst of Samaria.\" ",
+            "This accounts for his going through Samaria, consistently with his forbidding his apostles going in the way of the Gentiles, or into any of the cities of the Samaritans.\" ",
+            "And besides this necessity, there was another thing that lay upon him, and obliged him to take this tour, and that is, the calling and conversion of a certain woman, and other Samaritans, whom the Father had given to him, and he was to redeem by his blood."
+        ],
+        "John Wesley": [
+            "And he must needs go through Samaria \u2014 The road lying directly through it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus' decision to pass through Samaria in order to reach Galilee was not made by mere coincidence or convenience. It was a deliberate choice guided by a higher design and the knowledge of His Father's will. Although geographically the route through Samaria was the natural way, there was also a sense of necessity arising from the Father's plan. In going through Samaria, Jesus not only observed the law He imposed on His disciples, but also fulfilled the calling and conversion of the Samaritan woman and others whom the Father had given to Him. This journey through Samaria was not just about reaching a destination, but about encountering and redeeming lives.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.7450752269853416,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                30.32,
+                37.3,
+                32.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' purposeful decision to pass through Samaria on His way to Galilee was not a matter of convenience, but aligned with a higher design and the knowledge of His Father's will. Although it may have been the natural route, there was a deep sense of necessity behind His choice. This journey through Samaria had a greater significance beyond a mere geographical path; it was an opportunity for Jesus to fulfill His calling and bring redemption to the Samaritans He encountered along the way.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.8951534785763084,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+            "commentatorTierSimilarities": [
+                33.16,
+                36.51,
+                30.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' decision to pass through Samaria on His way to Galilee was not without purpose. Though it may have seemed like a geographical necessity, it held a profound significance. He followed His Father's will and observed the law imposed on His disciples. This route allowed Him to meet bitterness and fulfill His calling to bring salvation to the Samaritans. His journey through Samaria was not merely a means to an end, but an opportunity for redemption and a demonstration of divine design.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.731118406489188,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+            "commentatorTierSimilarities": [
+                34.82,
+                35.03,
+                30.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' choice to pass through Samaria on His way to Galilee was not incidental but intentional, guided by a higher purpose and the knowledge of His Father's will. Though it may have been the natural route, there was a sense of necessity and urgency in reaching Galilee without delay. This journey through Samaria was not simply a matter of geographic convenience, but a divine opportunity for Jesus to fulfill His calling, bring redemption to the Samaritans, and demonstrate the wisdom of God's plan.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9079402074420029,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                30.69,
+                40.18,
+                29.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus made the deliberate decision to journey through Samaria on His way to Galilee, not out of convenience, but as part of a higher purpose and alignment with His Father's will. Although it may have been the natural path to take, there was a sense of necessity and urgency in His choice. This journey through Samaria was not merely a geographical route but an opportunity for Jesus to fulfill His calling, encounter the Samaritans, and bring about redemption according to the divine plan.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.8577464466837343,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                30.04,
+                37.81,
+                32.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

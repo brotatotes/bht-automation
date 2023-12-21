@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:11:53",
+    "verseRef": "John 13:21",
+    "bestBHT": {
+        "bht": "Jesus experienced a troubling of spirit when He made the solemn announcement that one of His disciples would betray Him. This was a profound and important declaration, revealing Jesus's deep compassion and authentic humanity. His visible emotion and delicate approach in conveying this message reflect His sensitivity towards His disciples. With a solemn gaze at each disciple, Jesus conveyed the weightiness of the impending betrayal. This troubled state of Jesus, both fully divine and genuinely human, showcases His genuine care and compassion for His followers.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.891837949242245,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+        "commentatorTierSimilarities": [
+            31.29,
+            46.02,
+            22.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was one of those mysterious troublings of spirit, which passed over our Lord.\" ",
+            "The word testified implies the delivery of some solemn and important announcement.\" ",
+            "This was the first time He had ever spoken so plainly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The announcement of :- seems not to have been plain enough to be quite apprehended, save by the traitor himself.",
+            "But how much it cost Him to do this, appears from the 'trouble' that came over His 'spirit'\u2014visible emotion, no doubt\u2014before He got it uttered.",
+            "What wounded susceptibility does this disclose, and what exquisite delicacy in His social intercourse with the Twelve, to whom He cannot, without an effort, break the subject!"
+        ],
+        "Albert Barnes": [
+            "Jesus was man as well as God, and he felt like other men.",
+            "His human nature shrank from suffering, and his tender sensibilities were affected not less deeply than would be those of other men by baseness and treason.",
+            "He bore witness to the truth; openly declared what he had before intimated - that one of them would betray him."
+        ],
+        "Marvin Vincent": [
+            "The agitation was in the highest region of the spiritual life.\" ",
+            "One of you shall betray me.",
+            "The hand of him that betrayeth me is with me on the table."
+        ],
+        "John Calvin": [
+            "The more sacred the apostolic office is, and the higher its dignity, the more base and detestable was the treachery of Judas.",
+            "A crime so monstrous and detestable struck Christ himself with horror.",
+            "His meaning is, the action was so monstrous that the bare mention of it could not be immediately believed."
+        ],
+        "Philip Schaff": [
+            "All the expressions of the verse indicate how deeply the spirit of Jesus was moved, the \u2018troubled in spirit,\u2019 the \u2018bare witness,\u2019 the \u2018Verily, verily.\u2019\" ",
+            "Compassion, however, is not the leading feature of His mind at present. It is rather horror and indignation at the thought that over against His glorious mission of love to the world there should now appear in their utmost intensity the worldliness, the selfishness, and the sin that would fain defeat it all.",
+            "Therefore He was \u2018troubled\u2019 and troubled \u2018in spirit,\u2019 in the highest region of the spiritual life."
+        ],
+        "Archibald T. Robertson": [
+            "He was troubled in the spirit... for this use of \u03c4\u03b1\u03c1\u03b1\u03c3\u03c3\u03c9 for the agitation of Christ's spirit.",
+            "Jesus was one with God and yet he had our real humanity.",
+            "One of you shall betray me... Jesus swept his eyes around and looked at the disciples."
+        ],
+        "John Gill": [
+            "He was troubled in spirit; in his soul, which shows him to be truly and really man, and to have an human soul, which some have denied; and that to be of like passions with ours, only without sin.",
+            "He was troubled, not at what he had said, but at what he was about to say concerning the betrayer; and that not so much on his own account, because of the danger, the sorrows, and sufferings he should be exposed to, as on account of the horrible blackness of the crime, and the vengeance that would fall upon the criminal.",
+            "Verily, verily, I say unto you; it is truth, it may be believed, however unexpected and strange it may seem to be."
+        ],
+        "John Wesley": [
+            "One of you \u2014 The speaking thus indefinitely at first was profitable to them all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 13:21, Jesus was troubled in spirit as He announced that one of His disciples would betray Him. This announcement was a solemn and important one, even though it may not have been fully understood by the other disciples at the time. Jesus's visible emotion and wounded susceptibility reveal His profound care and delicate approach towards His Twelve followers. This agitation in His spirit demonstrated His deep connection to God and His genuine humanity. By sweeping His eyes around and looking at each disciple, Jesus conveyed the gravity of the situation and the reality of the betrayal that would follow.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.9164791766650242,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                31.62,
+                45.12,
+                23.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus was troubled in spirit as He delivered a solemn and important announcement to His disciples. The visible emotion and wounded susceptibility displayed by Jesus highlight the exquisite delicacy in His social interactions and the cost it took for Him to convey this message. With a sweep of His eyes, He revealed the gravity of the situation and the imminent betrayal that would take place. This deeply moved state of Jesus, both human and divine, exemplifies His compassion and genuine humanity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8606737284837869,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                30.68,
+                46.69,
+                22.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus experienced a troubling of spirit when He made the solemn announcement that one of His disciples would betray Him. This was a profound and important declaration, revealing Jesus's deep compassion and authentic humanity. His visible emotion and delicate approach in conveying this message reflect His sensitivity towards His disciples. With a solemn gaze at each disciple, Jesus conveyed the weightiness of the impending betrayal. This troubled state of Jesus, both fully divine and genuinely human, showcases His genuine care and compassion for His followers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.891837949242245,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                31.29,
+                46.02,
+                22.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's spirit was troubled as he made the solemn announcement of betrayal by one of his disciples. This significant testimony reflected his deep compassion and genuine humanity. With visible emotion and delicate social interaction, he revealed the weightiness of the impending betrayal. Jesus's agitation in the highest region of the spiritual life demonstrated his sensitivity and the profound cost of speaking plainly. His troubled spirit displayed a wounded susceptibility and exquisite delicacy in his relationship with the Twelve, emphasizing his profound love and empathy for them.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.8671842233216482,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                30.93,
+                45.3,
+                23.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's troubled spirit was evident as he openly declared the betrayal by one of his disciples. This solemn and significant announcement showcased his deep compassion and genuine humanity. The intensity of his emotion and the gravity of the situation caused visible agitation in him. His troubled spirit revealed his delicate approach and sensitivity towards the Twelve, highlighting his profound care for them. Through a single gaze at each disciple, Jesus conveyed both the weight of the impending betrayal and his unwavering commitment to truth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8152141939717232,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                30.16,
+                45.96,
+                23.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

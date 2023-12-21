@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:06:55",
+    "verseRef": "John 6:23",
+    "bestBHT": {
+        "bht": "After the miraculous feeding with loaves and fishes, boats from Tiberias arrived near the place where the multitude had eaten. These boats were used to transport the people back to the west side as they sought Jesus. Tiberias, the capital of Herod Antipas, was known for its Jewish learning and Christian families. Jesus giving thanks emphasized the power of prayer and how it obtained the blessing of multiplying the food. The boats from Tiberias allowed people to find Jesus, as they were becoming greatly attached to Him after being fed in such a miraculous manner.",
+        "wordCount": 95,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.755379042201905,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+        "commentatorTierSimilarities": [
+            33.83,
+            28.8,
+            37.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Howbeit, there came other boats from Tiberias whose passengers were part of the multitude that had followed Jesus... these boats were fastened somewhere... nigh unto the place where they did eat bread, after that the Lord had given thanks.\" ",
+            "Thus he refers to the glorious 'miracle of the loaves' and now they were put in requisition to convey the people back again to the west side.\" ",
+            "For when 'the people saw that Jesus was not there, neither His disciples, they also took shipping [in these boats] and came to Capernaum, seeking for Jesus.'"
+        ],
+        "Albert Barnes": [
+            "The city afterward became a celebrated seat of Jewish learning... The number of Christian families is 30 or 40, all Greek Catholics.",
+            "Ever since the destruction of Jerusalem, it has been chiefly celebrated in connection with the Jews, and was for a long time the chief seat of rabbinical learning.",
+            "What can induce human beings to settle down in such a place? And yet some 2,000 of our race make it their chosen abode."
+        ],
+        "Marvin Vincent": [
+            "Howbeit there came other boats [\u03b1\u03bb\u03bb\u03b1 \u03b4\u03b5 \u03b7\u03bb\u03b8\u03b5\u03bd \u03c0\u03bb\u03bf\u03b9\u03b1\u03c1\u03b9\u03b1] . ",
+            "Some editors omit de, howbeit, change alla, other, into ajlla, but, and read, but there came boats."
+        ],
+        "John Calvin": [
+            "I approve more highly of the latter exposition; for Bethsaida, near which Luke states that the miracle was performed, is half-way between Tiberias and Capernaum.",
+            "Accordingly, when ships came down from that place, which was farther up the lake, they sailed along that shore on which the multitude were standing; and there can be no doubt that they came to land for the purpose of taking in passengers.",
+            "When John again mentions that Christ gave thanks, it is not a superfluous repetition; for he means that Christ obtained by prayer that those few loaves were sufficient for feeding so many people; and as we are cold and indolent in prayer, he presses upon us the same thing a second time."
+        ],
+        "Philip Schaff": [
+            "Whilst they were still in wonder and doubt, other boats came across the sea near to the scene of the miracle of the preceding day.",
+            "These boats were from Tiberias, and from the boatmen who brought them the multitude would learn at once...",
+            "...that neither Jesus nor His disciples had gone thither."
+        ],
+        "Archibald T. Robertson": [
+            "Verse 23 is really an explanatory parenthesis in this long sentence.",
+            "Tiberias, capital of Herod Antipas, diagonally across the lake, is only mentioned in John in the N.T.",
+            "Boats (\u03c0\u03bb\u03bf\u03b9\u03b1). Called 'little boats' (\u03c0\u03bb\u03bf\u03b9\u03b1\u03c1\u03b9\u03b1) in verse John 6:24."
+        ],
+        "John Gill": [
+            "Here was a famous university, and here the Misna and Jerusalem Talmud were written; and here the sanhedrim sat, after it removed from Jerusalem.\" ",
+            "So that these men that were waiting by the sea side, had an opportunity of going over in these boats in quest of Christ, to whom they were now become greatly attached, by feeding them in so wonderful a manner.",
+            "Which clause is added to show, that the multiplication of the bread, and the refreshment the men had by it, were owing to the power of Christ, and his blessing it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the miraculous feeding of the multitude with the loaves and fishes, other boats from Tiberias arrived at the place near where they had eaten. These boats were used to transport the people back to the west side, as they sought Jesus who had departed. Tiberias, the capital of Herod Antipas, was mentioned only in John's Gospel and was known for its Jewish learning and Christian families. The mention of Jesus giving thanks emphasizes the power of prayer and highlights how He obtained the blessing of multiplying the food. The boats from Tiberias served as a means for the people to find Jesus, as they were becoming greatly attached to Him after being fed in such a miraculous manner.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.8177664752608242,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                34.24,
+                27.69,
+                38.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the miraculous feeding with loaves and fishes, boats from Tiberias arrived near the place where the multitude had eaten. These boats were used to transport the people back to the west side as they sought Jesus. Tiberias, the capital of Herod Antipas, was known for its Jewish learning and Christian families. Jesus giving thanks emphasized the power of prayer and how it obtained the blessing of multiplying the food. The boats from Tiberias allowed people to find Jesus, as they were becoming greatly attached to Him after being fed in such a miraculous manner.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.755379042201905,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                33.83,
+                28.8,
+                37.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After the miraculous feeding, boats from Tiberias arrived near the place where the multitude had eaten. These boats were used to transport the people back to the west side as they sought Jesus. Tiberias, the capital of Herod Antipas, was known for its Jewish learning and Christian families. Jesus giving thanks emphasized the power of prayer and how it obtained the blessing of multiplying the food. The boats from Tiberias allowed people to find Jesus, as they were becoming greatly attached to Him after being fed in such a miraculous manner.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.731982629747348,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                34.0,
+                28.77,
+                37.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the miraculous feeding, boats from Tiberias arrived near the place where the multitude had eaten. These boats were used to transport the people back to the west side as they sought Jesus. Tiberias, known for its Jewish learning, played a significant role in the region. Jesus giving thanks highlighted the power of prayer and how it obtained the blessing of multiplying the food. The boats from Tiberias allowed people to find Jesus, as they were becoming highly attached to Him after being miraculously fed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6633776123991704,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                34.17,
+                28.85,
+                36.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the miraculous feeding, boats from Tiberias arrived near the place where the multitude had eaten. These boats were used to transport the people back to the west side as they sought Jesus. Tiberias, known for its Jewish learning, played a significant role in the region. Jesus giving thanks highlighted the power of prayer and how it obtained the blessing of multiplying the food. The boats from Tiberias allowed people to find Jesus, as they were becoming attached to Him after being miraculously fed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6668944644032313,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+            "commentatorTierSimilarities": [
+                34.63,
+                28.76,
+                36.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:05:56",
+    "verseRef": "John 4:25",
+    "bestBHT": {
+        "bht": "Prompt: The Samaritan woman, under the guidance of Jesus, quickly transitioned from spiritual darkness to a receptive state for profound revelations. Her readiness for His startling announcement as the Messiah illustrates her previously established preparation. The Samaritans held a more simplistic and non-political understanding of the Messiah, anticipating a prophet akin to Moses. Her hopeful anticipation of the imminent arrival of the Messiah reflects the widespread expectation among the people. This woman's simple faith and contentment with the teachings of Christ serve as a contrasting example to those who complicate doctrines.\n\nWord count: 87\nPercent of words from quotes: 66%",
+        "wordCount": 100,
+        "quoteTokenProportion": 23.61,
+        "qualityScore": 1.725455408217929,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+        "commentatorTierSimilarities": [
+            27.6,
+            35.44,
+            36.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thus quickly, under so matchless a Teacher, was she brought up from her sunken condition to a frame of mind and heart capable of the noblest revelations.",
+            "If we take our Lord's immediate disclosure of Himself, in answer to this, as the proper key to its meaning to His ear, we can hardly doubt that the woman was already all but prepared for even this startling announcement.",
+            "Thus quickly, under so matchless a Teacher, was she brought up from her sunken condition to a frame of mind and heart capable of the noblest revelations."
+        ],
+        "Albert Barnes": [
+            "I know that Messias cometh - As the Samaritans acknowledged the five books of Moses, so they expected, also, the coming of the Messiah.",
+            "Which is called Christ - These are probably the words of the evangelist, as it is not likely that the woman would explain the name on such an occasion.",
+            "Will tell us all things - Jesus had decided the question proposed to him John 4:20 in favor of the Jews. The woman does not seem to have been satisfied with this answer, and said that the Messiah would tell them all about this question. Probably she was expecting that he would soon appear."
+        ],
+        "Marvin Vincent": [
+            "They looked for Him to restore the kingdom of Israel and to re-establish the worship on Gerizim, where they supposed that the tabernacle was hidden. They called Him Hushab or Hathab, meaning the Converter, or, according to some, the Returning One.\" ",
+            "The Samaritan idea was less worldly and political than the Jewish.",
+            "He is come [\u03b5\u03ba\u03b5\u03b9\u03bd\u03bf\u03c2] . Emphatic; pointing to Messiah as contrasted with all other teachers."
+        ],
+        "John Calvin": [
+            "When she says that the Messiah is about to come, she seems to speak of the time as near at hand; and, indeed, it is sufficiently evident from many arguments, that the minds of men were everywhere aroused by the expectation of the Messiah.",
+            "The woman prefers Christ to Moses and to all the Prophets in the office of teaching; for she comprehends three things in a few words.",
+            "I wish that those who now boast of being the pillars of the Christian Church, would at least imitate this poor woman, so as to be satisfied with the simple doctrine of Christ, rather than claim I know not what power of superintendence for putting forth their inventions."
+        ],
+        "Philip Schaff": [
+            "There is nothing surprising in her avowal that a Deliverer was looked for.",
+            "The Samaritan hope was mainly founded on the great passage in the Pentateuch, Deuteronomy 18:15-18.",
+            "The woman\u2019s words, indeed, may not convey her whole conception of Messiah, for the context has pointed only to revelation and teaching."
+        ],
+        "Archibald T. Robertson": [
+            "Messiah cometh (\u039c\u03b5\u03c3\u03c3\u03b9\u03b1\u03c2 \u03b5\u03c1\u03c7\u03b5\u03c4\u03b1). Hebrew word in N.T. only here and John 1:41 and explained by \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2 in both places.",
+            "The Samaritans looked for a Messiah, a prophet like Moses (Deuteronomy 18:18).",
+            "Wistfully she turns to this dim hope as a bare possibility about this strange 'prophet.'"
+        ],
+        "John Gill": [
+            "The knowledge of the coming of the Messiah was not peculiar to this woman, but was common to all the Samaritans...they not only knew that there was a Messiah to come, and expected him, but that he was coming, just ready to come.",
+            "The Messiah is come, who lay in the bosom of the Father, and has made known all things to his disciples.",
+            "God has spoken all he has to say that appertains to his own worship, and the salvation of the children of men by his Son Jesus Christ."
+        ],
+        "John Wesley": [
+            "The woman saith \u2014 With joy for what she had already learned, and desire of fuller instruction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Under the guidance of the divine Teacher, the Samaritan woman quickly rose from her spiritually lost state to a mindset capable of receiving profound revelations. She had already been prepared to hear even the startling announcement of Jesus being the Messiah. The Samaritans had a less political and worldly understanding of the Messiah, looking for a prophet like Moses to come. As she spoke of the imminent arrival of the Messiah, her words reflected a hopeful anticipation. This woman's simple faith and satisfaction with the teachings of Christ are exemplary, standing in contrast to those who create complex doctrines. The knowledge of the Messiah's coming was not limited to her alone, but shared among the Samaritans. The longing for the Messiah's arrival was widespread, and it is evident that minds everywhere were stirred in expectation.",
+            "wordCount": 138,
+            "quoteTokenProportion": 35.87,
+            "qualityScore": 2.0574732321992375,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.75,
+            "commentatorTierSimilarities": [
+                29.68,
+                34.0,
+                36.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Prompt: Under the guidance of the divine Teacher, the Samaritan woman quickly rose from her spiritually lost state to a mindset capable of receiving profound revelations. She had already been prepared to hear even the startling announcement of Jesus being the Messiah. The Samaritans had a less political and worldly understanding of the Messiah, looking for a prophet like Moses to come. As she spoke of the imminent arrival of the Messiah, her words reflected a hopeful anticipation. This woman's simple faith and satisfaction with the teachings of Christ are exemplary, standing in contrast to those who create complex doctrines. The knowledge of the Messiah's coming was not limited to her alone, but shared among the Samaritans. The longing for the Messiah's arrival was widespread, and it is evident that minds everywhere were stirred in expectation.\n\nWord count: 95\nPercent of words from quotes: 53%",
+            "wordCount": 146,
+            "quoteTokenProportion": 34.02,
+            "qualityScore": 1.9065146453174417,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                29.37,
+                34.67,
+                35.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Prompt: The Samaritan woman quickly rose from her spiritually lost state to be receptive to profound revelations under the guidance of Jesus. She was already prepared for His startling announcement as the Messiah, contrasting the Samaritans' less political and worldly understanding of the Messiah. Her words expressed hopeful anticipation for the imminent arrival of the Messiah, reflecting the widespread longing and expectation. Her simple faith and satisfaction with the teachings of Christ serve as examples, contrasting those who create complex doctrines. The knowledge of the Messiah's coming was not limited to her, but shared among the Samaritans.\n\nWord count: 85\nPercent of words from quotes: 58%",
+            "wordCount": 105,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.8118682498719023,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                28.17,
+                35.08,
+                36.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prompt: The Samaritan woman, under the guidance of Jesus, quickly transitioned from spiritual darkness to a receptive state for profound revelations. Her readiness for His startling announcement as the Messiah illustrates her previously established preparation. The Samaritans held a more simplistic and non-political understanding of the Messiah, anticipating a prophet akin to Moses. Her hopeful anticipation of the imminent arrival of the Messiah reflects the widespread expectation among the people. This woman's simple faith and contentment with the teachings of Christ serve as a contrasting example to those who complicate doctrines.\n\nWord count: 87\nPercent of words from quotes: 66%",
+            "wordCount": 100,
+            "quoteTokenProportion": 23.61,
+            "qualityScore": 1.725455408217929,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                27.6,
+                35.44,
+                36.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Prompt: The Samaritan woman, taught by Jesus, rapidly transformed from a spiritually lost state to a receptive mind capable of receiving profound revelations. She had already been prepared to hear the startling announcement of Jesus as the Messiah, contrasting the Samaritans' less worldly and political understanding of the Messiah. With hopeful anticipation, she spoke of the imminent arrival of the Messiah, reflecting the widespread expectation. Her simple faith and satisfaction with Christ's teachings stand in contrast to those who create complex doctrines. The knowledge of the Messiah's coming was not limited to her alone but shared among the Samaritans.\n\nWord count: 96\nPercent of words from quotes: 57%",
+            "wordCount": 108,
+            "quoteTokenProportion": 29.87,
+            "qualityScore": 1.8180119292974344,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.79,
+            "commentatorTierSimilarities": [
+                28.73,
+                35.15,
+                36.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

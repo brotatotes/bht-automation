@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:07:38",
+    "verseRef": "John 7:8",
+    "bestBHT": {
+        "bht": "I am not (at present) going up to this feast, Jesus replied to his brothers, choosing prudently to avoid envy among the rulers. He delayed his arrival until after the mass of people had gone up, displaying his wisdom and opposition to a grand Messianic procession. Although the phrase is not yet full come suggests his intention to attend the festival, the appointed time had not yet arrived. This delay emphasizes the importance of obedience at the right moment, which Jesus would exemplify during the journey to the last Passover.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.7940908609034936,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+        "commentatorTierSimilarities": [
+            34.06,
+            36.39,
+            29.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I go not up would mean, I am not (at present) going up.",
+            "The same Commentator directs attention to the emphatic term, 'this feast,' as implying that our Lord had it in His mind to go up to some future feasts, hut not to this one.",
+            "is not yet full come: see Luke ix. 51 and note."
+        ],
+        "Albert Barnes": [
+            "That is, he remained about four days after his brethren had departed, or until the mass of the people had gone up, so that his going might excite no attention.",
+            "We have here a signal instance of our Lord\u2019s prudence and opposition to parade.",
+            "He chose to forego these advantages rather than to afford an occasion of envy and jealousy to the rulers, or to appear even to excite a tumult among the people."
+        ],
+        "Marvin Vincent": [
+            "This feast. For this, read the, the first time, but not the second. Full come [\u03c0\u03b5\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03b1\u03b9] . Literally, has been fulfilled. So Rev., is not yet fulfilled."
+        ],
+        "Philip Schaff": [
+            "The words \u2018not yet\u2019 imply an intention of attending the festival, though as yet the appointed time had not come.",
+            "The interval before it comes may be of the shortest, but the \u2018not yet\u2019 lasts till the \u2018now\u2019 comes, and then the obedience must be instant and complete.",
+            "In his Greek text of the Gospel, the reading was, \u2018I go not up unto\u2019 (the word \u2018yet\u2019 being absent), and upon this Porphyry founded an accusation of fickleness and change of purpose."
+        ],
+        "Archibald T. Robertson": [
+            "Take your own advice.\" ",
+            "He simply refused to fall in with his brothers' sneering proposal for a grand Messianic procession.",
+            "He will do that on the journey to the last passover."
+        ],
+        "John Gill": [
+            "unregenerate persons ought to attend on the outward means, as the hearing of the word, c. though they do not understand it it may be God may make use of it, for the enlightening of their minds.",
+            "blessed are they that wait at Wisdom's gates, and there find Christ, and life and salvation by him",
+            "I do not go up now to this feast; that is, just at that very time, that very day or hour"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am not (at present) going up to this feast, as Jesus responded to his brothers, tactfully choosing to not parade his arrival for the sake of avoiding envy and jealously among the rulers. Instead, he stayed behind until the mass of people had gone up, showing prudence in his actions. The phrase is not yet full come implies his intention to attend the festival, but not until the appointed time. This delay demonstrates the significance of obedience happening in the present moment when the time is right. Ultimately, Jesus had a purpose in his decision, as he would later embark on the journey to the last Passover.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.6492116511315418,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.18,
+            "commentatorTierSimilarities": [
+                33.69,
+                38.38,
+                27.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I am not (at present) going up to this feast, Jesus replied to his brothers, choosing prudently to avoid envy among the rulers. He delayed his arrival until after the mass of people had gone up, displaying his wisdom and opposition to a grand Messianic procession. Although the phrase is not yet full come suggests his intention to attend the festival, the appointed time had not yet arrived. This delay emphasizes the importance of obedience at the right moment, which Jesus would exemplify during the journey to the last Passover.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7940908609034936,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+            "commentatorTierSimilarities": [
+                34.06,
+                36.39,
+                29.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am not (at present) going up to this feast, Jesus stated to his brothers, deliberately avoiding a grand Messianic procession for prudential reasons. He chose to delay his arrival until after the mass of people had gone up, displaying his wisdom and opposition to parade. Although the phrase is not yet full come suggested his intention to attend the festival, the appointed time had not yet arrived. This delay underscored the importance of obedience at the right moment, a principle Jesus embodied on the journey to the last Passover.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7573324748863755,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.77,
+            "commentatorTierSimilarities": [
+                35.5,
+                38.2,
+                26.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am not (at present) going up to this feast, Jesus responded, tactfully avoiding a grand Messianic procession and choosing to delay his arrival until after the mass of people had gone up. This demonstrated his prudence and opposition to parade. Although the phrase is not yet full come indicated his intention to attend the festival at a later time, the moment had not yet arrived. This delay emphasized the importance of obedience in the present and foreshadowed Jesus' journey to the last Passover.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7300776111178666,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                34.52,
+                38.31,
+                27.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am not (at present) going up to this feast, as Jesus replied, tactfully avoiding a grand Messianic procession and choosing to delay his arrival until after the mass of people had gone up. This demonstrated his prudence and opposition to parade. Although the phrase is not yet full come indicated his intention to attend the festival at a later time, the moment had not yet arrived. This delay emphasized the importance of obedience in the present and hinted at Jesus' journey to the last Passover.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.737651198006478,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                34.68,
+                38.47,
+                26.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

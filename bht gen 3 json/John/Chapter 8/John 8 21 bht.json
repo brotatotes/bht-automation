@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:08:52",
+    "verseRef": "John 8:21",
+    "bestBHT": {
+        "bht": "Jesus warns that those who reject Him will die in their sins and be unable to come to Him. This is not about the destruction of Jerusalem, but about individual perdition. He emphasizes His departure and their separation, expressing the collective state of estrangement from God. In despair, they will seek Him when it's too late, resulting in their tragic realization. Jesus focuses on the judgment they will face, sealing their fate of utter ruin, both temporally and eternally, while others enter the kingdom of heaven.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.8345228378525533,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+        "commentatorTierSimilarities": [
+            24.52,
+            34.56,
+            40.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words do not refer to the destruction of Jerusalem, but to individual perdition.",
+            "In these discourses in John, the public judgment on the Jews is not prominently brought forward, as in the other Evangelists.",
+            "Whither I go, ye cannot come, the consequence, not the cause (by any absolute decree) of their dying in their sins."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "21-25. Then said Jesus again unto",
+            "\tthem, I go my way, &amp;c.\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "Ye shall die in your sins - That is, you will seek the Messiah; you will desire his coming, but the Messiah that you expect will not come; and, as you have rejected me, and there is no other Saviour, you must die in your sins.\" ",
+            "You will die unpardoned, and as you did not seek me where you might find me, you cannot come where I shall be.",
+            "As you have rejected me, and there is no other Saviour, you must die in your sins."
+        ],
+        "Marvin Vincent": [
+            "Go away [\u03c5\u03c0\u03b1\u03b3\u03c9] . Withdraw myself from you; this sense being emphasized by the succeeding words, ye shall seek me.",
+            "In expressing one's departure from men or from surrounding objects, we may emphasize merely the fact of removal, in which case ajpercomai, to go away, would be appropriate; or we may emphasize the removal as affecting some relation of the person to that from which he removes, as in John 6:67, where Jesus says to the disciples, 'will ye also go away, or withdraw from me,' in which case uJpagw is the proper word.",
+            "In your sin [\u03b5\u03bd \u03c4\u03b7 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1 \u03c5\u03bc\u03c9\u03bd] . See on Matthew 1:21. Note the singular, sin, not sins. It is used collectively to express the whole condition of estrangement from God."
+        ],
+        "John Calvin": [
+            "The wicked will at length feel how great loss they have suffered by rejecting Christ when he freely offers himself to them. They will feel it, but it will be too late, for there will be no more room for repentance.\" ",
+            "The Gospel is preached to them only for a short time, and if they allow this opportunity to pass away, the accepted time and the days appointed for salvation will not always last.",
+            "Christ threatens and denounces to all unbelievers, that after having despised the doctrine of the Gospel, they will be seized with such anguish that they shall be constrained to cry to God, but their howling will be of no avail."
+        ],
+        "Philip Schaff": [
+            "The conflict of Jesus with His opponents has now passed into a higher stage.",
+            "The main object of these words is judgment: hence Jesus does not linger on the thought of His own departure, but on that of the fate awaiting them.",
+            "He is not speaking of the seeking of faith or of repentance, but (as before in chap. John 7:34) of the awakening (too late) to need and danger, an awakening not accompanied by the forsaking of sin, for He adds, \u2018in your sin\u2019 ( i.e. your state of sin, comp. John 8:24) \u2018ye shall die.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "As in John 7:34, 'the search of despair' (Bernard), seeking for the Messiah when it is too late, the tragedy of Judaism today (John 1:11).\" ",
+            "Future middle indicative of \u03b1\u03c0\u03bf\u03b8\u03bd\u03b7\u03c3\u03ba\u03c9 which is the emphatic word here (cf. Ezekiel 3:18; Ezekiel 18:18; Proverbs 24:9).",
+            "Precise language of John 7:34 to the Jews and to the apostles in John 13:33."
+        ],
+        "John Gill": [
+            "I go my way; meaning, the way of all flesh, or that he should die: the way of speaking shows, that his death was certain, a determined thing; which must be, and yet was voluntary...",
+            "...they should in vain seek for the Messiah, as a temporal deliverer of them; for their nation, city, and temple, and they therein should utterly perish, for their iniquity; and their ruin would not only be temporal, but eternal...",
+            "...whilst many sat down in the kingdom of heaven, with their fathers Abraham, Isaac, and Jacob, who should come from afar, they would be shut out, and not suffered to enter in."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus warns his audience in John 8:21 that they will die in their sins and will be unable to come to Him. This is not a reference to the destruction of Jerusalem, but to individual perdition. The words carry a sense of finality, emphasizing the consequence of rejecting Him. Jesus uses the phrase go my way to convey His departure from them, highlighting the relational aspect of their separation. The singular form of sin expresses their entire state of estrangement from God. They will seek Him but in despair, tragically realizing their rejection when it is too late. Their fate is sealed, and they will die unpardoned. The main purpose of these words is to communicate judgment, and Jesus does not dwell on His own departure, but rather on the fate awaiting them. This rejection of the Messiah will lead to their utter ruin, both temporally and eternally, while others will enter the kingdom of heaven.",
+            "wordCount": 155,
+            "quoteTokenProportion": 34.41,
+            "qualityScore": 1.818817487269861,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.82,
+            "commentatorTierSimilarities": [
+                26.53,
+                35.5,
+                37.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus warns that those who reject Him will die in their sins and be unable to come to Him. This is not about the destruction of Jerusalem, but about individual perdition. He emphasizes His departure and their separation, expressing the collective state of estrangement from God. In despair, they will seek Him when it's too late, resulting in their tragic realization. Jesus focuses on the judgment they will face, sealing their fate of utter ruin, both temporally and eternally, while others enter the kingdom of heaven.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8345228378525533,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                24.52,
+                34.56,
+                40.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus warns that those who reject Him will die in their sins and be unable to come to Him. This is not about the destruction of Jerusalem, but individual perdition. He emphasizes His departure and their separation, expressing the collective state of estrangement from God. In despair, they will seek Him when it's too late, resulting in their tragic realization. Jesus focuses on the judgment they will face, sealing their fate of utter ruin, both temporally and eternally, while others enter the kingdom of heaven.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8330791617608229,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                24.34,
+                34.7,
+                40.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warns that those who reject Him will die in their sins and be unable to come to Him. This is not about the destruction of Jerusalem, but individual perdition. He emphasizes His departure and their separation, expressing the collective state of estrangement from God. In despair, they will seek Him when it's too late, resulting in their tragic realization. Jesus focuses on the judgment they will face, sealing their fate of utter ruin, both temporally and eternally, while others enter the kingdom of heaven.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8330791617608229,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                24.34,
+                34.7,
+                40.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus warns his audience that those who reject Him will die in their sins and be unable to come to Him. He emphasizes the consequence of their rejection and the separation it causes. They will seek Him in despair, realizing too late the tragedy of their rejection. Jesus focuses on the impending judgment they will face, sealing their fate of ruin both temporally and eternally. Meanwhile, others will be allowed to enter the kingdom of heaven, while they are shut out.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7181450978198212,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                20.46,
+                34.67,
+                44.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

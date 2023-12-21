@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:05:06",
+    "verseRef": "John 4:3",
+    "bestBHT": {
+        "bht": "In order to avoid persecution that could interfere with His work and to delay the impending conflict with the Pharisees, Jesus willingly left Judea and retreated to Galilee. Though He did not fear them, Jesus did not want to provoke their malice and envy by staying in their midst. He had other important work to pursue elsewhere, and by going to Galilee, He ensured that His mission would not be hindered. Jesus intentionally chose to redirect His efforts to spread His message and fulfill His purpose.",
+        "wordCount": 86,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.7966508126314582,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+        "commentatorTierSimilarities": [
+            22.13,
+            42.54,
+            35.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To avoid persecution, which at that early stage would have marred His work.",
+            "By which time John had been cast into prison."
+        ],
+        "Albert Barnes": [
+            "As his time to die had not yet come, he retired to Galilee.\" ",
+            "Though he feared not death and did not shrink from suffering, yet he did not needlessly throw himself into danger or provoke opposition.\" ",
+            "He could do as much good in Galilee, probably, as in Judea, and he therefore withdrew himself from immediate danger."
+        ],
+        "Marvin Vincent": [
+            "He left [\u03b1\u03c6\u03b7\u03ba\u03b5]. The verb means literally to send away, dismiss.\" ",
+            "Its employment here is peculiar.\" ",
+            "Compare John 16:28, of Christ's leaving the world."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus did not wish to bring the coming conflict with the Pharisees to an issue yet.",
+            "So he mainly avoids Jerusalem and Judea now till the end.",
+            "John supplements their records purposely."
+        ],
+        "John Gill": [
+            "He leaves them; not through fear of them, but because he would not irritate and provoke them, and stir up their malice and envy against him, which might put them upon measures to seek to take away his life.",
+            "He had other work to do elsewhere.",
+            "He removes to Galilee again; and of this journey of his thither, after the imprisonment of John, an account is given."
+        ],
+        "John Wesley": [
+            "He left Judea \u2014 To shun the effects of their resentment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To avoid persecution and the premature end of His work, Jesus left Judea and headed for Galilee. He did not wish to bring the impending conflict with the Pharisees to a head just yet. Jesus had a greater purpose and continued to fulfill His mission, while deliberately avoiding Jerusalem and Judea until the appointed time. By retreating to Galilee, Jesus ensured that His work would not be hindered, and He supplemented the records of the other disciples. Though He was not afraid of the Pharisees, Jesus did not needlessly provoke them or put Himself in unnecessary danger. Instead, He focused on carrying out His ministry and spreading His message where He could do the most good.",
+            "wordCount": 116,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.8135975287164756,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.64,
+            "commentatorTierSimilarities": [
+                26.08,
+                44.31,
+                29.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To avoid the persecution that could have marred His work, Jesus left Judea and headed for Galilee. John supplements the records purposely, highlighting how Jesus dismissively opted to send away the conflict with the Pharisees for the time being, instead focusing on other work elsewhere. Jesus did not fear them, but He knew provoking their malice and envy could put His life in danger. In Galilee, He continued to fulfill His mission and spread His message, ensuring that His work would not be hindered.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8180733300667358,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.79,
+            "commentatorTierSimilarities": [
+                26.04,
+                42.07,
+                31.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to avoid persecution that could interfere with His work and to delay the impending conflict with the Pharisees, Jesus willingly left Judea and retreated to Galilee. Though He did not fear them, Jesus did not want to provoke their malice and envy by staying in their midst. He had other important work to pursue elsewhere, and by going to Galilee, He ensured that His mission would not be hindered. Jesus intentionally chose to redirect His efforts to spread His message and fulfill His purpose.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7966508126314582,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                22.13,
+                42.54,
+                35.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To avoid persecution and premature conflict with the Pharisees, Jesus left Judea for Galilee. He did not want to provoke their malice or stir up their envy by staying in close proximity. Jesus had other work to attend to, and by retreating to Galilee, He ensured that His mission would continue unhindered. Even though He didn't fear the Pharisees, He chose to focus on spreading His message and carrying out His purpose in a place where He could make a significant impact.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7957909078582293,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.05,
+            "commentatorTierSimilarities": [
+                23.37,
+                41.69,
+                34.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To avoid persecution and potential conflict with the Pharisees, Jesus purposefully left Judea and withdrew to Galilee. He did not want to agitate or provoke their malice and envy, as it could lead to harm. Instead, Jesus redirected his efforts to other work and continued to fulfill his mission elsewhere. By retreating to Galilee, he ensured that his message and purpose would not be hindered, allowing him to carry out his ministry and make a meaningful impact.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.71675761499028,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+            "commentatorTierSimilarities": [
+                21.35,
+                41.98,
+                36.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

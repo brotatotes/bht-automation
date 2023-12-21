@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:06:35",
+    "verseRef": "John 6:1",
+    "bestBHT": {
+        "bht": "After Jesus confronted the Jews in Jerusalem, he went to the east side of the Sea of Galilee, referred to as Bethsaida. This event, known as the feeding of the five thousand, is the only one recorded in all four Gospels before Jesus' final visit to Jerusalem. The narrative focuses on a different purpose and includes additional details of Jesus's teaching to different audiences with varying needs, illustrating the twofold character of his ministry.",
+        "wordCount": 75,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.7874052450419338,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+        "commentatorTierSimilarities": [
+            36.51,
+            40.53,
+            22.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "After these things gives us no fixed date;\u2014see on ch. v. 1.",
+            "The last appellation is probably inserted for the sake of Gentile readers, to whom it was best known by that name.",
+            "It was more usually called, as by Josephus, Gennesar, or Gennesaritis: see also, 1 Mace. xi. 67."
+        ],
+        "Albert Barnes": [
+            "Jesus went over - Went to the east side of the sea.\" ",
+            "The place to which he went was Bethsaida.",
+            "John has added a few circumstances omitted by the other evangelists."
+        ],
+        "Marvin Vincent": [
+            "The sea. See on Matthew 4:18."
+        ],
+        "John Calvin": [
+            "This narrative...has this peculiarity, that it is directed to another object, as we shall see.",
+            "When tyrants have once imbrued their hands in the blood of the godly, they kindle into greater cruelty.",
+            "Christ therefore intended to abate the rage of Herod by his absence."
+        ],
+        "Philip Schaff": [
+            "The three Evangelists seem to have been led rather to give a full description of certain parts than an outline of the whole of our Lord\u2019s ministry in Galilee.\" ",
+            "Between these chapters, then, must be placed many of the most familiar chapters of the earlier Gospels.",
+            "Nothing can more strikingly illustrate the twofold character of our Lord\u2019s teaching, as addressed to \u2018the Jews\u2019 and the doctors of the law on the one hand and to the multitudes of Galilee on the other, than a comparison of the discourse in Jerusalem which we have just considered with the Sermon and the Parables spoken but a few days later."
+        ],
+        "Archibald T. Robertson": [
+            "The feeding of the five thousand is the only event before the last visit to Jerusalem recorded in all Four Gospels.\" ",
+            "The disciples have returned from the tour of Galilee and report to Jesus.",
+            "It was the passover time (John 6:4) just a year before the end."
+        ],
+        "John Gill": [
+            "Near a year after these things.",
+            "Jesus went over the sea of Galilee; the same with the lake of Gennesaret.",
+            "And from the city of Tiberias built by Herod, and called so in honour of Tiberius Caesar, the sea took its name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Jesus performed miracles and confronted the Jews in Jerusalem, he went to the east side of the Sea of Galilee, to a place known as Bethsaida. This event, referred to as the feeding of the five thousand, is the only one recorded in all four Gospels before Jesus' final visit to Jerusalem. It took place during the passover time, a year before the end. While the other evangelists provide a full description of certain parts of Jesus' ministry in Galilee, this narrative focuses on a different purpose and includes additional details. This event marked a turning point in Jesus' teaching as he addressed both the Jews and the multitudes of Galilee, conveying his message to different audiences with varying needs.",
+            "wordCount": 121,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.7406365745956114,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                36.17,
+                40.3,
+                23.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Jesus confronted the Jews in Jerusalem, he went to the east side of the Sea of Galilee, to a place known as Bethsaida. This event, referred to as the feeding of the five thousand, is the only one recorded in all four Gospels before Jesus' final visit to Jerusalem. It took place during the passover time, a year before the end. This narrative focuses on a different purpose and includes additional details of Jesus's teaching to different audiences with varying needs.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7024818531850279,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.95,
+            "commentatorTierSimilarities": [
+                38.44,
+                37.01,
+                24.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After Jesus confronted the Jews in Jerusalem, he went to the east side of the Sea of Galilee, referred to as Bethsaida. This event, known as the feeding of the five thousand, is the only one recorded in all four Gospels before Jesus' final visit to Jerusalem. The narrative focuses on a different purpose and includes additional details of Jesus's teaching to different audiences with varying needs, illustrating the twofold character of his ministry.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7874052450419338,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.77,
+            "commentatorTierSimilarities": [
+                36.51,
+                40.53,
+                22.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Jesus confronted the Jews in Jerusalem, he went to the east side of the Sea of Galilee, specifically to Bethsaida. This event, called the feeding of the five thousand, is unique because it is recorded in all four Gospels. Taking place during the passover time, a year before the end, it was a significant moment in Jesus' ministry. This narrative provides additional details and showcases the twofold nature of his teaching, addressing both the Jewish leaders and the multitudes of Galilee.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6909138339485223,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.56,
+            "commentatorTierSimilarities": [
+                35.99,
+                38.54,
+                25.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After Jesus confronted the Jews in Jerusalem, he went to the Sea of Galilee, to Bethsaida. This event, called the feeding of the five thousand, is recorded in all four Gospels. The narrative provides additional details and illustrates the twofold nature of Jesus' teaching, addressing both the Jewish leaders and the multitudes of Galilee. Taking place during the passover time, a year before Jesus' final visit to Jerusalem, this event carries significant meaning in his ministry.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7401698370032253,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                36.84,
+                36.94,
+                26.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:12:41",
+    "verseRef": "John 15:3",
+    "bestBHT": {
+        "bht": "Through the word of Christ dwelling in them, the disciples are already in a purified and fruitful condition. This cleansing is not equivalent to being pruned, but rather refers to their present capacities. They are clean because of the word that Jesus has spoken to them. The disciples have undergone a process of purifying through the teachings of Jesus while he was with them. The word of Christ is the instrumental means of this cleansing, both in doctrine and through the Spirit. Now, they are called to abide in Christ, as there is more pruning ahead.",
+        "wordCount": 96,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 2.0330789303299004,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+        "commentatorTierSimilarities": [
+            28.0,
+            37.75,
+            34.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word of Christ dwelling in them by Faith... is the purifying principle.\" ",
+            "But the word clean here is not to be taken as equivalent to cleansed, or pruned, in the sense of ver. 2. The ad-verb now or already limits it to their present capacities and standing.",
+            "There was more pruning at hand... and this future handling of the husbandman is indicated by the command, 'Abide in me.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Already in a purified, fruitful condition, in consequence of the long action upon them of that searching 'word'.\" ",
+            "By reason of the word I have spoken to you.",
+            "As a refiner's fire."
+        ],
+        "Albert Barnes": [
+            "Now ye are clean - Still keeping up the figure \u03ba\u03b1\u03b8\u03b1\u03c1\u03bf\u03b9\u0301 katharoi. It does not mean that they were perfect, but that they had been under a process of purifying by his instructions all the time he had been with them.",
+            "He had removed their erroneous notions of the Messiah; he had gradually reclaimed them from their fond and foolish views respecting earthly honors; he had taught them to be willing to forsake all things; and he had so trained and disciplined them...",
+            "By means of the teachings of Jesus while he had been with them."
+        ],
+        "Marvin Vincent": [
+            "Clean [\u03ba\u03b1\u03b8\u03b1\u03b9\u03c1\u03b5\u03b9] . Etymologically akin to kaqairei, purgeth. The Rev. indicates this by rendering kaqairei, cleanseth."
+        ],
+        "John Calvin": [
+            "He points out the means of pruning, namely, doctrine; and there can be no doubt that he speaks of outward preaching, for he expressly mentions the word, which they had heard from his mouth.",
+            "Not that the word proceeding from the mouth of a man has so great efficacy, but, so far as Christ works in the heart by the Spirit, the word itself is the instrument of cleansing.",
+            "Yet Christ does not mean that the apostles are pure from all sin, but he holds out to them their experience, that they may learn from it that the continuance of grace is absolutely necessary."
+        ],
+        "Philip Schaff": [
+            "Already are ye clean because of the word which I have spoken unto you.",
+            "They were pruned, they were 'clean;' and that 'already,' because they had already received the word which they were now, in their turn, to communicate.",
+            "Not personal piety but Christian action is still in view, and still the 'cleanness' which they possess does not exclude the future and continuous cleansing."
+        ],
+        "Archibald T. Robertson": [
+            "Already ye are clean (\u03b7\u03b4\u03b7 \u03c5\u03bc\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b8\u03b1\u03c1\u03bf \u03b5\u03c3\u03c4\u03b5). Potentially cleansed (Westcott) as in John 13:10 which see and John 17:19. "
+        ],
+        "John Gill": [
+            "Now ye are clean through the word which I have spoken unto you.\" (John 15:3)",
+            "Christ could say of them all, that they were clean: which may be understood of their regeneration and sanctification, in which their hearts were sprinkled with clean water; were washed with the washing of regeneration; had their hearts purified by faith in the blood of Christ, and had pure principles of grace formed in their souls.",
+            "Of all which the Gospel of Christ was the instrumental means: or of their justification by the righteousness of Christ, by which they were justified from all sin; and were all fair, and without spot; which was through the Gospel of Christ revealing his righteousness to them, or through the sentence of justification he, by his Spirit, passed upon their consciences."
+        ],
+        "John Wesley": [
+            "Ye are clean \u2014 All of you, to whom I now speak, are purged from the guilt and power of sin..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the word of Christ dwelling in them by Faith, the disciples are already in a purified and fruitful condition. This cleansing is not equivalent to being pruned, but rather refers to their present capacities and standing. The disciples have already undergone a process of purifying through the teachings and instructions of Jesus while he was with them. They have been cleansed in the sense of being regenerated and sanctified, their hearts purified by faith in the blood of Christ. The word of Christ, both in doctrine and through the Spirit, is the instrumental means of this cleansing. Now, they are called to abide in Christ, as there is more pruning ahead and the continuance of grace is absolutely necessary.",
+            "wordCount": 120,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9949359927185273,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.67,
+            "commentatorTierSimilarities": [
+                28.03,
+                35.21,
+                36.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the word of Christ dwelling in them by Faith, the disciples are already in a purified and fruitful condition. This cleansing is not equivalent to being pruned, but rather refers to their present capacities and standing. The disciples have already undergone a process of purifying through the teachings and instructions of Jesus while he was with them. They have been cleansed in the sense of being regenerated and sanctified, their hearts purified by faith in the blood of Christ. The word of Christ, both in doctrine and through the Spirit, is the instrumental means of this cleansing. Now, they are called to abide in Christ, as there is more pruning ahead.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.9911251989532492,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+            "commentatorTierSimilarities": [
+                28.91,
+                35.4,
+                35.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the word of Christ dwelling in them, the disciples are already in a purified and fruitful condition. This cleansing is not equivalent to being pruned, but rather refers to their present capacities. They are clean because of the word that Jesus has spoken to them. The disciples have undergone a process of purifying through the teachings of Jesus while he was with them. The word of Christ is the instrumental means of this cleansing, both in doctrine and through the Spirit. Now, they are called to abide in Christ, as there is more pruning ahead.",
+            "wordCount": 96,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.0330789303299004,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                28.0,
+                37.75,
+                34.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the word of Christ, the disciples are already cleansed and in a purified and fruitful state. This current cleansing is different from the pruning mentioned earlier. The disciples have already undergone a process of purifying through Jesus' teachings. Their cleansing is not merely personal piety, but rather a readiness for Christian action. The word of Christ, heard from his mouth, acts as the instrument of their cleansing. They are called to abide in Christ, recognizing the continuing need for grace and growth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8967458503728838,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                28.74,
+                36.6,
+                34.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through faith in the word of Christ, the disciples are already purified and fruitful. This present cleansing is distinct from pruning and pertains to their current capacities and standing. Jesus' teachings have purified and refined them, preparing them for Christian action. The word spoken by Christ acts as an instrumental means of cleansing, both through the teachings they heard and the working of the Spirit in their hearts. As they abide in Christ, they recognize the ongoing need for grace and growth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.901463285213742,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                26.56,
+                36.96,
+                36.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

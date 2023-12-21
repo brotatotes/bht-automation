@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:14:40",
+    "verseRef": "John 19:22",
+    "bestBHT": {
+        "bht": "What I have written I have written, Pilate declares, highlighting the complete and unalterable nature of his inscription. This stubbornness surprises the chief priests, as Pilate remains steady in defending the truth. Held by a Divine hand, he stands as an example for us to remain unmoved in the face of opposition. Let us acknowledge the prophetic nature of Pilate's words, reflecting that Jesus of Nazareth is the true King Messiah, and that the truth of this declaration will endure forever.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.337126799720668,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.8,
+        "commentatorTierSimilarities": [
+            27.53,
+            29.06,
+            43.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What I have written I have written.\" ",
+            "The first perfect denotes the past action; the second that it was complete and unalterable."
+        ],
+        "John Calvin": [
+            "Let us know, therefore, that he was held by a Divine hand, so that he remained unmoved.",
+            "The example of Pilate reminds us, also, that it is our duty to remain steady in defending the truth.",
+            "What rank, therefore, shall we assign to those who do all that they can to suppress the knowledge of it, since they show that they are worse than Pilate?"
+        ],
+        "Philip Schaff": [
+            "What I have written I have written.",
+            "It is impossible to mistake the feeling of the Evangelist that in all this the finger of God is to be traced.",
+            "Those who refuse to 'believe' shall yet be compelled to own that Jesus is King."
+        ],
+        "Archibald T. Robertson": [
+            "What I have written I have written (\u03bf \u03b3\u03b5\u03b3\u03c1\u03b1\u03c6\u03b1 \u03b3\u03b5\u03b3\u03c1\u03b1\u03c6\u03b1).\" ",
+            "With emphasis on the permanence of the accusation on the board.",
+            "Pilate has a sudden spirit of stubbornness in this detail to the surprise of the chief priests."
+        ],
+        "John Gill": [
+            "Pilate answered, what I have written I have written.... This he said, either because he could not alter it after it was written... or if he could have altered it, he was not suffered by God to do it; but was so directed, and overruled by divine providence, as to write, so to persist in, and abide by what he had wrote inviolably.",
+            "Dr. Lightfoot has given several instances out of the Talmud, showing that this is a common way of speaking with the Rabbins; and that words thus doubled signify that what is spoken of stands good, and is irrevocable.",
+            "This is a sort of prophecy of Pilate, and which should continue, and forever obtain, that the Jews should have no other King Messiah than Jesus of Nazareth; nor have they had any other; all that have risen up have proved false Messiahs; nor will they have any other."
+        ],
+        "John Wesley": [
+            "What I have written, I have written \u2014 That shall stand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What I have written I have written, says Pilate with emphasis on the permanence of the accusation on the board. With a sudden spirit of stubbornness, Pilate remains unmoved, held by a Divine hand. The Evangelist feels the finger of God in all of this, as those who refuse to believe shall yet be compelled to own that Jesus is King. This prophecy of Pilate's, that the Jews shall have no other King Messiah than Jesus of Nazareth, has stood and will continue to stand. Therefore, let us know that it is our duty to remain steadfast in defending the truth, for what Pilate said demonstrates that the truth is irrevocable and should be upheld inviolably.",
+            "wordCount": 117,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.3402157045926124,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.91,
+            "commentatorTierSimilarities": [
+                20.47,
+                37.9,
+                41.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With a sudden spirit of stubbornness, Pilate asserted, What I have written I have written, emphasizing the permanence of the accusation on the board. Held by a Divine hand, he remained unmoved, and the Evangelist saw the finger of God at work. Those who refuse to believe shall ultimately recognize Jesus as King, and this prophecy of Pilate's has stood and will continue to stand. Let us learn from Pilate's example and remain steadfast in defending the unalterable truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.219346636525136,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.89,
+            "commentatorTierSimilarities": [
+                24.91,
+                33.75,
+                41.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What I have written I have written, says Pilate, emphasizing the permanence of the accusation. Though filled with a sudden spirit of stubbornness, he remains unmoved, held by a Divine hand. The Evangelist sees the finger of God at work, and those who refuse to believe will eventually have to acknowledge Jesus as King. This prophecy of Pilate's stands and will continue to do so. Let us learn from Pilate's example and steadfastly defend the unalterable truth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.1865300227974513,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.8,
+            "commentatorTierSimilarities": [
+                24.87,
+                36.0,
+                39.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With a sudden spirit of stubbornness, Pilate asserts, What I have written I have written, emphasizing the permanence of the accusation. Held by a Divine hand, he remains unmoved. The Evangelist sees the finger of God in all of this, and those who refuse to believe will be compelled to acknowledge Jesus as King. This prophecy of Pilate's stands and will continue. Let us learn from Pilate's example and defend the unalterable truth.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.1906260595925215,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.93,
+            "commentatorTierSimilarities": [
+                23.97,
+                36.81,
+                39.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "What I have written I have written, Pilate declares, highlighting the complete and unalterable nature of his inscription. This stubbornness surprises the chief priests, as Pilate remains steady in defending the truth. Held by a Divine hand, he stands as an example for us to remain unmoved in the face of opposition. Let us acknowledge the prophetic nature of Pilate's words, reflecting that Jesus of Nazareth is the true King Messiah, and that the truth of this declaration will endure forever.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.337126799720668,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.8,
+            "commentatorTierSimilarities": [
+                27.53,
+                29.06,
+                43.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:10:09",
+    "verseRef": "John 11:6",
+    "bestBHT": {
+        "bht": "Knowing that Lazarus was critically ill and deeply loved by Jesus, it may seem perplexing that Jesus purposefully delayed His arrival for two days. Yet, by allowing the situation to worsen, Jesus intended to display His glory and manifest the contrasting ways of divine and human love. Sometimes, in the face of seemingly hopeless circumstances, Jesus waits for the perfect moment ordained by the Father to act, testing the faith and patience of His followers. Through this delay, He ultimately reveals His boundless love and performs an awe-inspiring resurrection.",
+        "wordCount": 90,
+        "quoteTokenProportion": 30.3,
+        "qualityScore": 1.660778532882272,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+        "commentatorTierSimilarities": [
+            25.0,
+            28.08,
+            46.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having then said this,\u2014although He loved, &c., He abode,",
+            "In all probability Lazarus was dead, when He spoke the words ver. 4;\u2014or at all events before the messenger returned.",
+            "Or at all events before the messenger returned."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Beyond all doubt this was just to let things come to their worst, in order to display His glory.",
+            "The ways of divine are not as the ways of human love. Often they are the reverse.",
+            "When His people are sick, in body or spirit; when their case is waxing more and more desperate every day; when all hope of recovery is about to expire\u2014just then and therefore it is that 'He abides two days still in the same place where He is.'"
+        ],
+        "Albert Barnes": [
+            "He abode two days... that there might not be the possibility of doubt that he was dead.\" ",
+            "This shows... he intended to raise him up.\" ",
+            "If he had not, it could hardly be reconciled with friendship thus to remain, without any reason, away from an afflicted family."
+        ],
+        "Philip Schaff": [
+            "He cannot accept the moment suggested by man (comp. chap. John 2:4); He cannot follow at once the prompting of His affection for disciples.",
+            "He will go to assuage their grief, but only at the moment appointed by the Father\u2019s will.",
+            "He cannot accept the moment suggested by man (comp. chap. John 2:4); He cannot follow at once the prompting of His affection for disciples."
+        ],
+        "Archibald T. Robertson": [
+            "Two days (\u03b4\u03c5\u03bf \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2). Accusative of extent of time.",
+            "In the place where he was (\u03b5\u03bd \u03c9 \u03b7\u03bd \u03c4\u03bf\u03c0\u03c9). Incorporation of the antecedent \u03c4\u03bf\u03c0\u03c9 into the relative clause, 'in which place he was.'",
+            "It was long enough for Lazarus to die and seemed unlike Jesus to the sisters."
+        ],
+        "John Gill": [
+            "Though Christ had heard that Lazarus was sick, and by such good hands, a message being sent him by his sisters, to acquaint him with it; and though he had such a very great love for him, and the whole family, yet he did not go directly to him, and to his assistance.\" ",
+            "This he did to try the faith and patience of the sisters of Lazarus.",
+            "And that the miracle of raising him from the dead might be the more manifest, and his own glory might be the more illustrious, and yet equal, if not greater tenderness and love be shown to his friends."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Knowing that Lazarus was gravely ill and loved by Jesus, it may seem surprising that Jesus chose to stay where He was for two days. However, by delaying His arrival until after Lazarus had died, Jesus allowed the situation to worsen, thereby providing an opportunity for His glory to be displayed. This decision reveals the contrasting ways of divine and human love. When His people are in desperate circumstances, with all hope seemingly lost, Jesus may intentionally wait for the perfect moment to intervene, following the will of the Father. Through this delay, He tests and strengthens the faith and patience of His beloved disciples. Ultimately, Jesus' purpose was to perform a miraculous resurrection, magnifying His own glory and demonstrating His profound love for His friends.",
+            "wordCount": 126,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6169878519055811,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.11,
+            "commentatorTierSimilarities": [
+                23.54,
+                28.99,
+                47.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite His deep love for Lazarus, Jesus intentionally delayed His arrival by staying where He was for two days after hearing the news of Lazarus' illness. This decision allowed the situation to deteriorate and emphasized the contrast between divine and human love. At times, when His people are facing desperate circumstances, Jesus may wait for the optimal moment to intervene, following the will of the Father. Through this delay, He tests and strengthens the faith of His disciples, ultimately manifesting His glory through a remarkable resurrection.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5123348624939768,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                24.19,
+                29.33,
+                46.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite His deep love for Lazarus, Jesus intentionally delayed His arrival by staying where He was for two days. This delay was intended to let the situation worsen and allow for the display of His glory. The ways of divine love are often contrary to human love, as Jesus waits for the perfect timing to intervene in desperate circumstances. Through this delay, He tests the faith and patience of His disciples, while ultimately demonstrating His immense love and performing a miraculous resurrection.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6182199697555648,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.15,
+            "commentatorTierSimilarities": [
+                25.54,
+                28.94,
+                45.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Knowing Lazarus was gravely ill and dearly loved by Jesus, it might seem unexpected that Jesus chose to remain where He was for two days. However, He deliberately allowed the situation to worsen in order to reveal His glory. This demonstrates that divine love operates differently from human love, sometimes requiring delays and allowing circumstances to become more dire before intervening. By doing so, Jesus tests the faith and patience of His disciples while showcasing His profound love through a miraculous resurrection.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.584561142520431,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+            "commentatorTierSimilarities": [
+                25.58,
+                28.49,
+                45.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Knowing that Lazarus was critically ill and deeply loved by Jesus, it may seem perplexing that Jesus purposefully delayed His arrival for two days. Yet, by allowing the situation to worsen, Jesus intended to display His glory and manifest the contrasting ways of divine and human love. Sometimes, in the face of seemingly hopeless circumstances, Jesus waits for the perfect moment ordained by the Father to act, testing the faith and patience of His followers. Through this delay, He ultimately reveals His boundless love and performs an awe-inspiring resurrection.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.660778532882272,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "commentatorTierSimilarities": [
+                25.0,
+                28.08,
+                46.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

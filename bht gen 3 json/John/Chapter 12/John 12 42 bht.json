@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:11:29",
+    "verseRef": "John 12:42",
+    "bestBHT": {
+        "bht": "Among the rulers, such as Nicodemus and Joseph, there were those who believed in Jesus but were reluctant to confess their faith out of fear of being expelled from the synagogue. This reveals their preference for the praise of men over the approval of God, demonstrating a cowardice that persists even today. Despite their remarkable belief, the hesitation to openly proclaim their faith serves as a reminder that true faith requires bold confession, especially in the face of opposition.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.879293649469178,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+        "commentatorTierSimilarities": [
+            31.67,
+            32.57,
+            35.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Even of the rulers; such as Nicodemus and Joseph.",
+            "Because of the Pharisees, that is, the leaders of the sects; for they were of it themselves.",
+            "Put out of the synagogue."
+        ],
+        "Albert Barnes": [
+            "Members of the Sanhedrin - Nicodemus, Joseph, and others like them.",
+            "The Pharisees were a majority of the council.",
+            "Two of them, however, did afterward evince their attachment to him. These were Joseph and Nicodemus."
+        ],
+        "Marvin Vincent": [
+            "Among the chief rulers...even of the rulers.",
+            "They did not make confession.",
+            "That they should not be put out of the synagogue."
+        ],
+        "John Calvin": [
+            "A striking instance, truly, of the grace of God; for, when ungodliness has once prevailed, it is a sort of universal plague, which infects with its contagion every part of the body.",
+            "It always finds some places of retreat; and thus faith has \u2014 what may be called \u2014 its harbors or places of refuge, that it may not be entirely banished from the world.",
+            "Let no man, therefore, flatter himself who, in any respect, conceals or dissembles his faith for fear of incurring the hatred of men; for however hateful the name of Christ may be, that cowardice which compels us to turn aside, in the smallest degree, from the confession of him, admits of no excuse."
+        ],
+        "Philip Schaff": [
+            "Nevertheless, even from among the rulers many believed in him.",
+            "Persons believed, belonging to a body in which the bitterest foes of Jesus bore rule; and greatness of unbelief is thus in some degree counterbalanced by greatness of faith.",
+            "It was not powerful enough to surmount the obstacles placed in its way by the resolution of chap. John 9:22; and it had not reached the point at which alone it could be said that, in \u2018leading out\u2019 its possessors after the true Shepherd, its complete victory was gained."
+        ],
+        "Archibald T. Robertson": [
+            "These actually 'believed on him' in their convictions, a remarkable statement as to the effect that Christ had in Jerusalem as the Sanhedrin plotted his death.",
+            "How like the cowardly excuses made today by those under conviction who refuse to step out for Christ.",
+            "They preferred the glory and praise of men more than the glory and praise of God. How \u03b1\u03c0\u03c1\u03bf\u03c0\u03bf\u03c2 these words are to some suave cowards today."
+        ],
+        "John Gill": [
+            "The two persons just mentioned may be thought truly to have believed in Christ; but the many here spoken of seem to have had only an historical faith in him, as appears by what follows.",
+            "For where with the heart men believe in Christ to righteousness, there, with the mouth, confession is made to salvation; and between a non-confession of Christ, and a denying him, is no medium.",
+            "They had made a decree in the sanhedrim, that whoever confessed that Jesus was the Messiah, should be cast out; and they had put it into execution upon the man born blind, whose eyes Christ opened, for speaking in favour of his benefactor."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even among the rulers of the sects, such as Nicodemus and Joseph, there were those who believed in Jesus. However, they did not openly confess their faith for fear of being put out of the synagogue. These individuals preferred the praise of men over the praise of God, making excuses and displaying cowardice in their convictions. Their lack of boldness serves as a stark reminder for those today who hesitate to step out for Christ when under conviction. Though their belief was remarkable considering the hostility of the Sanhedrin, it is clear that true faith necessitates public confession, and the absence of such confession reveals a mere historical faith in Jesus. This dynamic illustrates the universal struggle between godliness and ungodliness, where faith seeks refuge in a hostile world. It is a lesson for all who, fearing the hatred of men, conceal or dissemble their faith, for there is no excuse for this cowardice.",
+            "wordCount": 154,
+            "quoteTokenProportion": 38.38,
+            "qualityScore": 1.7835292824174718,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                33.63,
+                29.38,
+                36.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even among the rulers, such as Nicodemus and Joseph, there were believers in Jesus who refrained from confessing their faith for fear of being expelled from the synagogue. These individuals valued the praise of men over the praise of God, making excuses and displaying cowardice in their convictions. Their example serves as a reminder for those who hesitate to stand up for Christ when faced with opposition. Although their belief was remarkable considering the hostile environment, true faith requires public confession, and the absence of such confession indicates a mere historical faith in Jesus.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.7686168751025269,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.15,
+            "commentatorTierSimilarities": [
+                32.73,
+                30.29,
+                36.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Among the rulers, such as Nicodemus and Joseph, there were believers in Jesus who were hesitant to openly confess their faith for fear of being expelled from the synagogue. They prioritized the admiration of men over the approval of God, making excuses and displaying cowardice in their convictions. This serves as a poignant reminder for those who shrink back from boldly proclaiming their faith. Though their belief was notable given the antagonistic atmosphere, true faith demands public confession, highlighting the significance of openly acknowledging Jesus as Lord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7439679115701838,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.33,
+            "commentatorTierSimilarities": [
+                33.02,
+                32.69,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even among the rulers, like Nicodemus and Joseph, there were those who believed in Jesus but hesitated to confess their faith for fear of being expelled from the synagogue. They preferred the praise of men over that of God and made excuses, reflecting the cowardice seen in society today. Yet their belief was remarkable, considering the Sanhedrin's plot against Jesus. This account reminds us of the tension between godliness and ungodliness, and the need for bold confession in the face of opposition.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7598067211004922,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                33.87,
+                32.9,
+                33.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Among the rulers, such as Nicodemus and Joseph, there were those who believed in Jesus but were reluctant to confess their faith out of fear of being expelled from the synagogue. This reveals their preference for the praise of men over the approval of God, demonstrating a cowardice that persists even today. Despite their remarkable belief, the hesitation to openly proclaim their faith serves as a reminder that true faith requires bold confession, especially in the face of opposition.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.879293649469178,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                31.67,
+                32.57,
+                35.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

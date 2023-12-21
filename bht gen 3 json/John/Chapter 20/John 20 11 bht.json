@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:15:08",
+    "verseRef": "John 20:11",
+    "bestBHT": {
+        "bht": "Mary stood near the open tomb, her tears flowing as she looked inside. Two angels in white sat before her, a sight both astounding and comforting. Mary's grief and confusion were evident as she believed that Jesus's body had been taken away. Yet, she remained steadfast, not willing to leave the spot associated with her beloved Lord. Her constancy in seeking him out despite her sorrow reflects the deep bond she had with Jesus and her yearning for his presence.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.8820541377922009,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+        "commentatorTierSimilarities": [
+            31.76,
+            34.96,
+            33.28
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11.] She had come with them, but more slowly."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Brief was the stay of those two men.",
+            "As she gazes through her tears on the open tomb, she also ventures to stoop down and look into it.",
+            "Lo! 'two angels in white' appear to her in a 'sitting' posture, 'as having finished some business, and awaiting some one to impart tidings to' [BENGEL]."
+        ],
+        "Marvin Vincent": [
+            "Stood. Imperfect, was standing, or continued standing, after the two apostles had gone away."
+        ],
+        "John Calvin": [
+            "It is superstition alone, accompanied by carnal feelings, that keeps them near the sepulchre.",
+            "The women torment themselves by idle and useless weeping.",
+            "The disciples carry with them consolation and joy, but the women torment themselves by idle and useless weeping."
+        ],
+        "Philip Schaff": [
+            "Nothing at least is said of her having met them and been addressed by them.",
+            "She stands there with no thought of a resurrection in her mind, but believing only that the body has been taken away, and therefore weeping with loud lamentation.",
+            "Nothing could be more natural than that she should desire to view the spot associated with all that was so dear to her."
+        ],
+        "Archibald T. Robertson": [
+            "At the tomb (\u03c0\u03c1\u03bf\u03c2 \u03c4\u03c9 \u03bc\u03bd\u03b7\u03bc\u03b5\u03b9\u03c9). \u03a0\u03c1\u03bf\u03c2 (in front of) with locative while \u03c0\u03b1\u03c1\u03b1 (by the side of) with locative in John 19:25.",
+            "Pathetic and common picture of a woman weeping by the tomb.",
+            "Mary 'peeped into' the tomb, but did not enter."
+        ],
+        "John Gill": [
+            "The absence of Christ is cause of great distress and sorrow to gracious souls.",
+            "The excellency of his person, the near and dear relations he stands in to them and on account of the nature of his presence and company, which is preferable to everything in this world.",
+            "Nor can such souls, when they have lost sight of Christ, sit down contented; but will seek after him in the Scriptures, under the ministry of the word, and at the ordinances of the Gospel, where a crucified, buried, risen Jesus is exhibited."
+        ],
+        "John Wesley": [
+            "But Mary stood \u2014 With more constancy. Mark 16:9."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary had come to the tomb with the two men, but at a slower pace. As she stood there, with tears streaming down her face, she peered into the open tomb. And there, to her astonishment, she saw two angels sitting inside. It is clear that Mary was deeply saddened by the absence of Jesus, for she believed that his body had been taken away. She wept loudly, with no thought of resurrection in her mind. How natural it was for her to desire to be near the place where Jesus had been. But despite her sorrow and confusion, Mary stood there with constancy, gazing into the empty tomb. The absence of Christ had caused her great distress and sorrow, for nothing could compare to the excellence of his person and the near and dear relationship she had with him. And so, with unwavering commitment, she sought after him, even when she had lost sight of him.",
+            "wordCount": 157,
+            "quoteTokenProportion": 40.66,
+            "qualityScore": 1.8378513053370655,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                30.69,
+                38.72,
+                30.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary stood near the open tomb, her tears flowing as she looked inside. Two angels in white sat before her, a sight both astounding and comforting. Mary's grief and confusion were evident as she believed that Jesus's body had been taken away. Yet, she remained steadfast, not willing to leave the spot associated with her beloved Lord. Her constancy in seeking him out despite her sorrow reflects the deep bond she had with Jesus and her yearning for his presence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8820541377922009,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                31.76,
+                34.96,
+                33.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary, accompanied by the two men, arrived at the tomb but at a slower pace. As she stood there, tears streaming down her face, she dared to look into the open tomb. To her surprise, she saw two angels sitting inside, finished with some business and awaiting someone to share tidings with. Though her grief and confusion were evident, Mary remained steadfast near the tomb, seeking solace in the physical proximity to the place associated with her beloved Lord. Her unwavering commitment to finding Jesus, even when she had lost sight of him, demonstrated the depth of her relationship and longing for his presence.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.8022152552418835,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                36.66,
+                33.73,
+                29.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary, though she had come to the tomb with the two men, lingered for a while, gazing through her tears into the open tomb. Suddenly, two angels in white appeared before her, sitting as if they had just finished some business and were waiting to impart tidings. Even in her grief, Mary's desire to be near the place associated with her beloved Lord was understandable. Her unwavering commitment to seeking Jesus, even when she had lost sight of him, reflected the deep bond she had with him and her longing for his presence.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.8173791675220379,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                33.5,
+                37.91,
+                28.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary approached the tomb with the two men, though at a slower pace. Through her tear-filled eyes, she peered into the open tomb, longing to see her Lord. And there, she was greeted by two angels in white, sitting as if they had just completed some task, waiting to share tidings. Mary's deep sorrow and confusion were evident, yet she remained steadfast, desiring to be near the place associated with her beloved Jesus. Her unyielding commitment to finding him, even in her despair, illustrated her profound connection and longing for his presence.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.7701048876972514,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                35.33,
+                33.38,
+                31.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

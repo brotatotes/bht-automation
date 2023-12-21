@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:11:43",
+    "verseRef": "John 13:19",
+    "bestBHT": {
+        "bht": "Now, from this time, I announce it to you, that when it shall have happened, you may believe that I am (the Christ). This does not imply that they had no faith before this, but that their faith would be increased and strengthened by it. They would see by that that he had a knowledge of the heart and the power of foretelling future events, and must therefore have been sent by God.",
+        "wordCount": 73,
+        "quoteTokenProportion": 64.0,
+        "qualityScore": 2.0828678148066864,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.6,
+        "commentatorTierSimilarities": [
+            21.28,
+            54.97,
+            23.75
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Now, from this time, I announce it to you, that when it shall have happened, you may believe that I am (the Christ).",
+            "When it shall have happened, you may believe that I am (the Christ).",
+            "You may believe that I am (the Christ)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. I tell you before . . . that",
+            "\twhen it comes to pass, ye may believe\u2014and it came to pass when",
+            "\tthey deeply needed such confirmation."
+        ],
+        "Albert Barnes": [
+            "They would see by that that he had a knowledge of the heart and the power of foretelling future events, and must therefore have been sent by God.",
+            "This does not imply that they had no faith before this, but that their faith would be increased and strengthened by it."
+        ],
+        "Marvin Vincent": [
+            "Now [\u03b1\u03c0 \u03b1\u03c1\u03c4\u03b9] . Rev., correctly, from henceforth. Compare John 1:52; John 14:7; Matthew 23:39. ",
+            "I am he [\u03b5\u03b3\u03c9 \u03b5\u03b9\u03bc\u03b9] . Or, I am. See on 8 24. ",
+            "- 35. Compare Matthew 26:21-25; Mark 14:18-21; Luke 21:21-23."
+        ],
+        "John Calvin": [
+            "For if we did not see before our eyes, in the Church, what has been foretold about her distresses and struggles, a doubt might justly arise in our minds, Where are the prophecies?",
+            "But when the truth of Scripture agrees with our daily experience, then do we perceive more clearly, that God takes care of us, and that we are governed by his providence.",
+            "Nothing will be wanting in him of all that the Scripture testifies concerning Christ."
+        ],
+        "Philip Schaff": [
+            "These words can hardly mean that Jesus would henceforward tell them events that were to happen in order that, when the events did happen, they might see that He had been a true prophet and might have their faith confirmed.",
+            "Because the moment of your work is come I put you in possession of what is to happen, I make you anticipate and foresee it, I give you the same knowledge of it that I have myself, in order that, when suffering comes, you may not only not lose faith by the shock, but may be strengthened in your progress towards a deeper and truer faith.",
+            "My ever present knowledge corresponds to my ever present Divine existence, to the fact that I am. Your knowledge shall be to you a proof that it is indeed One who can say 'I am' that is in you."
+        ],
+        "Archibald T. Robertson": [
+            "From now on.",
+            "Before the coming to pass.",
+            "That ye may keep on believing."
+        ],
+        "John Gill": [
+            "Now I tell you before it come,.... That is, gave them notice of this beforehand, that one of them should betray him.\" ",
+            "ye may believe that I am he: the Lord God omniscient, who knows and declares things before they come to pass, just as they do come to pass, which none but the eternal God can do.",
+            "There is but one passage in it, which has any difficulty in applying it to Christ, and that is, Psalms 41:4, where he is spoken of as having sinned against the Lord; but the words may be rendered thus, 'heal my soul', i.e. deliver me out of my sorrows and afflictions, because I have made an offering for sin unto thee; and well agrees with Christ, who was to make, and has made his soul an offering for sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Now, from this time, I announce it to you, that when it shall have happened, you may believe that I am (the Christ). This does not imply that they had no faith before this, but that their faith would be increased and strengthened by it. They would see by that that he had a knowledge of the heart and the power of foretelling future events, and must therefore have been sent by God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 64.0,
+            "qualityScore": 2.0828678148066864,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.6,
+            "commentatorTierSimilarities": [
+                21.28,
+                54.97,
+                23.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Now, from this time, I announce it to you, that when it shall have happened, you may believe that I am (the Christ). This statement by Jesus serves as a forewarning of events to come, allowing his disciples to see his divine knowledge and the fulfillment of prophecies. By revealing future events, Jesus strengthens their faith and affirms his role as the promised Messiah. This declaration echoes the eternal presence of God and the assurance that He cares for His people. Through these words, Jesus encourages his disciples to not lose faith in the face of suffering, but rather to find deeper and truer faith.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.844812773193097,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.68,
+            "commentatorTierSimilarities": [
+                22.65,
+                45.07,
+                32.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Now, from this time, I announce it to you, that when it shall have happened, you may believe that I am (the Christ). By forewarning his disciples, Jesus shows his divine knowledge and the fulfillment of prophecies, strengthening their faith in him as the Messiah. This declaration emphasizes God's eternal presence and care for his people, urging the disciples to find deeper faith amidst suffering. Through this revelation, Jesus encourages them to trust in him as the one who can declare things before they come to pass, confirming his role as the promised Savior.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.9067626228971046,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                24.58,
+                41.92,
+                33.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Now, from this time, I announce it to you, that when it shall have happened, you may believe that I am (the Christ). Jesus' forewarning of future events demonstrates his divine knowledge and the fulfillment of prophecies, strengthening the disciples' faith in him as the Messiah. By unveiling what is to come, Jesus reassures his followers of God's providential care and affirms his role as the one who can declare things before they happen. This revelation serves to deepen their trust in him and solidify their belief in his identity as the promised Savior.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.9309758531980736,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.55,
+            "commentatorTierSimilarities": [
+                25.11,
+                40.87,
+                34.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Now, from this time, I announce it to you, that when it shall have happened, you may believe that I am (the Christ). By revealing future events, Jesus strengthens the disciples' faith as they witness the fulfillment of prophecies and his divine knowledge. This declaration showcases God's eternal presence and care, urging the disciples to find deeper faith amidst suffering. Jesus assures them that he is the one who can declare things before they occur, solidifying his identity as the promised Savior and encouraging unwavering trust in him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.909181758299245,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+            "commentatorTierSimilarities": [
+                23.68,
+                44.21,
+                32.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

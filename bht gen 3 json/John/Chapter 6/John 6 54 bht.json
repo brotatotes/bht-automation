@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-21-2023 03:07:14",
+    "verseRef": "John 6:54",
+    "bestBHT": {
+        "bht": "Whoever partakes in the spiritual appropriation of Jesus, symbolized by the consuming of his flesh and blood, receives eternal life. The resurrection of the body plays a prominent role in the redemption of the entire person, though its specific interpretation is debated. Jesus employs bold and vivid imagery to convey the significance of embracing him and the life he offers. By having faith, one can truly grasp the immeasurable blessings bestowed by Christ, serving as the foundation and assurance of everlasting life.",
+        "wordCount": 82,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 1.761987830419182,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+        "commentatorTierSimilarities": [
+            45.32,
+            0.0,
+            54.68
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Whoever does so 'hath eternal life.'\" ",
+            "The 'eternal life' which such a man 'hath' cannot be the same with the future resurrection life.",
+            "Giving to the resurrection of the body as that which consummates the redemption of the entire man, a prominence which in the current theology, it is to be feared, it has seldom had."
+        ],
+        "Marvin Vincent": [
+            "No special significance can be fairly attached to its use here.",
+            "It seems to be taken as a current word.",
+            "Efagon is resumed in ver. 58."
+        ],
+        "John Calvin": [
+            "That souls feed on his flesh and blood, in precisely the same manner that the body is sustained by eating and drinking.",
+            "No man, therefore, can perceive what Christ bestows on us, unless, rising above the world, he places before his eyes the last resurrection.",
+            "It is certain, then, that he now speaks of the perpetual and ordinary manner of eating the flesh of Christ, which is done by faith only."
+        ],
+        "Archibald T. Robertson": [
+            "To me that is a violent misinterpretation of the Gospel and an utter misrepresentation of Christ.",
+            "Christ uses bold imagery to picture spiritual appropriation of himself who is to give his life-blood for the life of the world.",
+            "The language of Jesus can only have a spiritual meaning as he unfolds himself as the true manna."
+        ],
+        "John Gill": [
+            "Whoso eateth my flesh, and drinketh my blood... hath eternal life... and I will raise him up at the last day.\" ",
+            "Grace is an incorruptible seed; every part of it is abiding and permanent... it is itself the beginning, pledge, and earnest of everlasting life.",
+            "They have a right unto it, and a meetness for it... and may be assured of it, as if they were personally possessed of it, from their election to it; the security of it in Christ; from the grace they have received, which is the beginning of glory; and the earnest of it in themselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whoever partakes in the spiritual appropriation of Jesus, symbolized by the consuming of his flesh and blood, receives eternal life. However, it is crucial to understand that this eternal life is not synonymous with the future resurrection life. The emphasis on the resurrection of the body, often neglected in contemporary theology, is significant in completing the redemption of the whole person. While there is debate over the specific meaning of the language used, it is clear that Jesus employs bold imagery to depict the profound act of embracing him and the life he offers. Ultimately, it is through faith that one can truly comprehend the inexhaustible blessings bestowed by Christ, which serves as the foundation and guarantee of everlasting life.",
+            "wordCount": 120,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.804933244263342,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                47.62,
+                0.0,
+                52.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whoever partakes in the spiritual appropriation of Jesus has eternal life, which should not be confused with future resurrection life. The prominence of the resurrection of the body should not be overlooked, as it completes the redemption of the whole person. Though the exact meaning of the language used is debated, Jesus employs bold imagery to convey the profound act of embracing him and the life he offers. Through faith, one can truly comprehend the blessings bestowed by Christ, which serve as the foundation and guarantee of everlasting life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7317994354697994,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+            "commentatorTierSimilarities": [
+                49.9,
+                0.0,
+                50.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whoever partakes in the spiritual appropriation of Jesus, symbolized by the consuming of his flesh and blood, receives eternal life. However, it is crucial to understand that this eternal life is not synonymous with the future resurrection life. The emphasis on the resurrection of the body, often neglected in contemporary theology, is significant in completing the redemption of the whole person. While there is debate over the specific meaning of the language used, it is clear that Jesus employs bold imagery to depict the profound act of embracing him and the life he offers. Ultimately, it is through faith that one can truly comprehend the inexhaustible blessings bestowed by Christ, which serves as the foundation and guarantee of everlasting life.",
+            "wordCount": 120,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.804933244263342,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                47.62,
+                0.0,
+                52.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whoever partakes in the spiritual appropriation of Jesus, symbolized by the consuming of his flesh and blood, receives eternal life. The resurrection of the body plays a prominent role in the redemption of the entire person, though its specific interpretation is debated. Jesus employs bold and vivid imagery to convey the significance of embracing him and the life he offers. By having faith, one can truly grasp the immeasurable blessings bestowed by Christ, serving as the foundation and assurance of everlasting life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.761987830419182,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                45.32,
+                0.0,
+                54.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whoever partakes in the spiritual appropriation of Jesus, symbolized by the consuming of his flesh and blood, receives eternal life. The resurrection of the body is a crucial element often overlooked in current theology, completing the redemption of the whole person. Though the exact meaning of the language used is debated, Jesus boldly depicts the profound act of embracing him and the life he offers. Ultimately, through faith, one can truly comprehend the profound blessings bestowed by Christ, serving as the foundation and guarantee of everlasting life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7549733797255467,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                45.98,
+                0.0,
+                54.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

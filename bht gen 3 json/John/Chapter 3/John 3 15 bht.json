@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:04:45",
+    "verseRef": "John 3:15",
+    "bestBHT": {
+        "bht": "Believing in Jesus as the Savior brings eternal life. This faith involves trusting in Him, relying on Him, and committing oneself to Him. By looking to Jesus, believers find healing in the midst of a broken world, just like the Israelites found healing by looking at the bronze serpent. This belief allows them to share in the life of God and receive salvation. All are invited to come and look to Jesus, the Savior, with a faith that lays hold of Him and lives upon Him.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.6912508604799021,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+        "commentatorTierSimilarities": [
+            34.52,
+            29.81,
+            35.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is a belief in His Person being what God by his sufferings and exaltation hath made Him to be, and being that TO ME.",
+            "Just as in the type, God did not remove the fiery serpents,\u2014or not all at once,\u2014but healing was to be found in the midst of them by looking to the brazen serpent.",
+            "In the midst of these, with the Eye of Faith fixed on the uplifted Son of Man, he has eternal life; perishes not of the bite, but shall live."
+        ],
+        "Albert Barnes": [
+            "All may come and be saved.\" ",
+            "Salvation is here full and free for all who will come.",
+            "What was more easy for a poor, wounded, dying Israelite, bitten by a poisonous serpent, than to look up to a brass serpent? So with the poor, lost, dying sinner."
+        ],
+        "Marvin Vincent": [
+            "May in Him have eternal life.\" ",
+            "The phrase believe on the name is not used elsewhere by our Lord, but by John.\" ",
+            "The phrase to do truth occurs elsewhere only in 1 John 1:6."
+        ],
+        "Archibald T. Robertson": [
+            "That whosoever believeth may in him have eternal life.\" ",
+            "It is more than endless, for it is sharing in the life of God in Christ.",
+            "John often puts in explanatory comments."
+        ],
+        "John Gill": [
+            "Such a faith, by which a soul sees a glory, fulness, and suitableness in him as a Savior; goes to him, ventures on him, commits itself to him, lays hold on him, and receives him, leans and relies upon him, and trusts in him, and lives upon him.",
+            "He shall never perish eternally, or be punished with everlasting destruction, as the wicked will.",
+            "A life of perfect holiness and knowledge; a life of never ending pleasure; a life free from all the sorrows, distresses, and imperfections of this; and which will always continue."
+        ],
+        "John Wesley": [
+            "He must be lifted up, that hereby he may purchase salvation for all believers.",
+            "All those who look to him by faith recover spiritual health.",
+            "Even as all that looked at that serpent recovered bodily health."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believing in the person of Jesus Christ, as God has made Him to be, is the key to eternal life. Just as the Israelites were not immediately rescued from the venomous snakes, but found healing by looking at the bronze serpent, the believer finds everlasting life in the midst of a broken world by fixing their eyes on the uplifted Son of Man. This belief is not mere intellectual assent, but a deep trust and reliance on Christ, which allows the believer to share in the life of God. Salvation is available to all who come and look to Jesus, the Savior, with a faith that lays hold of Him and lives upon Him.",
+            "wordCount": 114,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.7264753429799424,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                36.3,
+                29.97,
+                33.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believing in the person of Jesus Christ, as God has made Him to be, is the key to eternal life. Just as the Israelites were not immediately rescued from the venomous snakes, but found healing by looking at the bronze serpent, the believer finds everlasting life in the midst of a broken world by fixing their eyes on the uplifted Son of Man. This belief allows the believer to share in the life of God, and salvation is available to all who come and look to Jesus, the Savior, with a faith that lays hold of Him and lives upon Him.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.7849088096751395,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.69,
+            "commentatorTierSimilarities": [
+                37.11,
+                30.39,
+                32.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believing in Jesus Christ as the Savior brings eternal life. By looking to Him, like the Israelites looked to the bronze serpent, believers find healing in the midst of a broken world. This kind of faith involves trust, reliance, and a deep commitment to Christ. It is through this belief that believers share in God's life. Salvation is available to all who come and look to Jesus with a faith that lays hold of Him and lives upon Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6490073413621014,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                35.34,
+                27.53,
+                37.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believing in Jesus as the Savior brings eternal life. This faith involves trusting in Him, relying on Him, and committing oneself to Him. By looking to Jesus, believers find healing in the midst of a broken world, just like the Israelites found healing by looking at the bronze serpent. This belief allows them to share in the life of God and receive salvation. All are invited to come and look to Jesus, the Savior, with a faith that lays hold of Him and lives upon Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.6912508604799021,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.58,
+            "commentatorTierSimilarities": [
+                34.52,
+                29.81,
+                35.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believing in Jesus brings eternal life. Just as the Israelites found healing by looking at the bronze serpent, believers find healing in a broken world by fixing their eyes on the uplifted Son of Man. This faith involves trusting, relying, and committing to Jesus. By looking to Him, believers share in God's life and receive salvation. All are invited to come and look to Jesus, the Savior, with a faith that lays hold of Him and lives upon Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.6705052616932305,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                34.09,
+                30.32,
+                35.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

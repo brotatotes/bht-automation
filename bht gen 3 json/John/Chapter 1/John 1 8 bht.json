@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:03:49",
+    "verseRef": "John 1:8",
+    "bestBHT": {
+        "bht": "John the Baptist, though a illuminating figure in his own right, boldly declared that he was not the Light. His purpose was not to claim the role of the Light, but to shine as a testimony to it. His light served as a backdrop, highlighting the surpassing brilliance of the true Light from on high. In his humility, John recognized that his significance was in pointing to the impending arrival of the Messiah, rejoicing in the knowledge of it.",
+        "wordCount": 79,
+        "quoteTokenProportion": 36.96,
+        "qualityScore": 2.1890198751853354,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.13,
+        "commentatorTierSimilarities": [
+            24.99,
+            37.29,
+            37.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] John was himself \u201cthe candle, lighted and shining\u201d (ch. v. 35), see note on Matt. v. 14, but not the light."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not that Light\" - What a testimony to John to have to explain that \"he was not that Light!",
+            "a foil to set it off",
+            "his night-taper dwindling before the Dayspring from on high"
+        ],
+        "Philip Schaff": [
+            "He was not the Light, but he was that he might bear witness concerning the Light.",
+            "Great as the Baptist was, he was not the Light.",
+            "What he was is not expressed, but only the purpose which he was to fulfill."
+        ],
+        "Archibald T. Robertson": [
+            "He was a light as all believers are, but not 'the light'.",
+            "No verb in the Greek, to be supplied by repeating \u03b7\u03bb\u03b8\u03b5\u03bd of verse John 1:7.",
+            "In Johannine fashion we have the final \u03b9\u03bd\u03b1 clause of verse John 1:7 repeated."
+        ],
+        "John Gill": [
+            "He was a light; he was the forerunner of the sun of righteousness, the 'phosphorus' of the Gospel day.",
+            "He had great light in him; he knew that the Messiah was ready to come, and declared it.",
+            "He was a burning and shining light, in whose light the Jews rejoiced, at least for a season."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist was a beacon of light, shining brightly in his testimony, yet he humbly clarified that he was not the Light himself. He served as a contrast, setting the stage for the true Light that was to come. His light, though significant, paled in comparison to the glory of the Dayspring from on high. John's purpose was to bear witness to this Light, not to claim it for himself. In the style typical of the book of John, the statement emphasizing his role is repeated from the preceding verse. John's role was to herald the impending arrival of the Messiah, a role he fulfilled with great insight and joy, even though his own light would diminish before the brilliance of the coming Light.",
+            "wordCount": 127,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 2.0610887698993983,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                27.94,
+                35.55,
+                36.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist, though a illuminating figure in his own right, boldly declared that he was not the Light. His purpose was not to claim the role of the Light, but to shine as a testimony to it. His light served as a backdrop, highlighting the surpassing brilliance of the true Light from on high. In his humility, John recognized that his significance was in pointing to the impending arrival of the Messiah, rejoicing in the knowledge of it.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 2.1890198751853354,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.13,
+            "commentatorTierSimilarities": [
+                24.99,
+                37.29,
+                37.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist, though not the Light himself, was a shining candle, illuminating the way and preparing the world for the coming Dayspring from on high. He understood his role as a light-bearer, bearing witness to the surpassing brilliance of the true Light. John's purpose was to serve as a foil, setting off the radiance of the Messiah. In his declaration, John emphasized not only his own limited light, but also the profound significance of the Light that was to come. His burning and shining light brought joy and anticipation to the Jews, who rejoiced in his proclamation.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.0930317195213792,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                27.78,
+                31.52,
+                40.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist, though not the Light, served as a shining beacon, preparing the way for the Dayspring from on high. His purpose was to bear witness to the surpassing brilliance of the true Light. John understood that his role was to set off the radiance of the Messiah. His burning and shining light brought joy and anticipation to the Jews. As a forerunner, John knew that the Messiah was imminent and boldly declared it.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.0835470289213784,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                24.77,
+                32.34,
+                42.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist, a light in his own right, clarified that he was not the Light itself. He humbly acknowledged that his role was to bear witness to the magnificent Light that was soon to arrive. John's purpose was to set the stage, serving as a foil to emphasize the brilliance of the true Light. While his own light was significant, it faded in comparison to the impending Dayspring from on high. John's proclamation brought joy and rejoicing among the Jews, as they awaited the Messiah he heralded.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0548095519782796,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.66,
+            "commentatorTierSimilarities": [
+                25.95,
+                35.62,
+                38.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

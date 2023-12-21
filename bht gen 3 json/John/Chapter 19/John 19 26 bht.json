@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:14:51",
+    "verseRef": "John 19:26",
+    "bestBHT": {
+        "bht": "As the earthly bond between Jesus and His mother neared its end, He entrusted her to John, urging him to care for and protect her. Addressing her as Woman, He affirmed His official relation to her, symbolizing His allegiance to Heaven even in His crucifixion. This act reflected His selflessness and deep filial love, offering a powerful example for all children. It also showcased the love and concern of the dying Savior for the comfort and welfare of His mother, exemplifying the importance of familial relationships and the duty to care for one another.",
+        "wordCount": 94,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 2.137914120448584,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.43,
+        "commentatorTierSimilarities": [
+            30.66,
+            42.46,
+            26.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The relationship in the flesh between the Lord and His mother was about to close.",
+            "He commends her to another son who should care for and protect her.",
+            "Thus,\u2014as at the marriage in Cana, when His official independence of her was to be testified, so now,\u2014He addresses her as Woman."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What forgetfulness of self, what filial love, and to the 'mother' and 'son' what parting words!",
+            "He falls back, however, on a title expressive of His official relation, which, though lower and more distant in itself, yet when grasped in pure and naked faith was mighty in its claims, and rich in psalmodic associations.",
+            "If God will not own Him, He shall own Himself. On the rock of His unsullied allegiance to Heaven He will stand, till the light of Heaven returns to His spirit."
+        ],
+        "Albert Barnes": [
+            "Behold thy son! - This refers to John, not to Jesus himself. Behold, my beloved disciple shall be to you a son, and provide for you, and discharge toward you the duties of an affectionate child.",
+            "Mary was poor. It would even seem that now she had no home. Jesus, in his dying moments, filled with tender regard for his mother, secured for her an adopted son, obtained for her a home, and consoled her grief by the prospect of attention from him who was the most beloved of all the apostles.",
+            "What an example of filial attention! What a model to all children! And how lovely appears the dying Saviour, thus remembering his afflicted mother, and making her welfare one of his last cares on the cross, and even when making atonement for the sins of the world!"
+        ],
+        "Marvin Vincent": [
+            "Canon Westcott remarks upon the four exclamations in this chapter - Behold the man! Behold your King! Behold thy son! Behold thy mother! as a remarkable picture of what Christ is, and what He reveals men to be."
+        ],
+        "John Calvin": [
+            "Henceforth I shall not be an inhabitant of the earth, so as to have it in my power to discharge to thee the duties of a son.\" ",
+            "For by these words he charges him to treat her as a mother, and to take as much care of her as if she had been his own mother.",
+            "Christ intended to show that, after having completed the course of human life, he lays down the condition in which he had lived, and enters into the heavenly kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "The dying Saviour thinks of the comfort of his mother.",
+            "John is the only one of the apostles with courage enough to take his stand with the women by the Cross.",
+            "This trust is to John, though Salome, John's own mother, was standing there."
+        ],
+        "John Gill": [
+            "he took notice of her, and showed a concern for her temporal, as well as for her eternal good",
+            "to let her know that all natural relation was now ceasing between them",
+            "this is a title he sometimes used to give her before"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the relationship between Jesus and His mother in the flesh approached its end, He entrusted her into the care of John, demonstrating a deep filial love and selflessness. Addressing her as Woman, Jesus acknowledged His official independence from her, but also expressed His official relation to her as her son. In this act, He not only provided for the comfort and well-being of His mother but also revealed the love and care that a faithful disciple should have toward their own parents. This moment exemplifies Christ's character and reveals the true nature of humanity.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.11185004941076,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                32.37,
+                42.89,
+                24.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the earthly bond between Jesus and His mother neared its end, He entrusted her to John, urging him to care for and protect her. Addressing her as Woman, He affirmed His official relation to her, symbolizing His allegiance to Heaven even in His crucifixion. This act reflected His selflessness and deep filial love, offering a powerful example for all children. It also showcased the love and concern of the dying Savior for the comfort and welfare of His mother, exemplifying the importance of familial relationships and the duty to care for one another.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.137914120448584,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.43,
+            "commentatorTierSimilarities": [
+                30.66,
+                42.46,
+                26.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the fleshly bond between Jesus and His mother reached its culmination, He entrusted her to John, demonstrating selflessness and filial love. Addressing her as Woman, He acknowledged His official independence from her while emphasizing their connection. This act exemplifies Christ's character and reveals the importance of caring for and protecting one's parents. The dying Savior showed deep concern for his mother, securing for her an adopted son who would provide for her. This moment showcases the love and attention Christ bestowed even while making atonement for the sins of the world.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 2.0513742789677947,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                29.4,
+                44.32,
+                26.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the final moments of His earthly life, Jesus turned His attention to the comfort of His mother, commending her to John as a son who would care for and protect her. By addressing her as Woman, He emphasized his official relation to her and testified His independence. This act of love and filial devotion reveals the selflessness and compassion of Christ. Despite His impending death and His divine mission, Jesus prioritized the welfare and well-being of His mother, setting an example of honoring and caring for parents.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.104760168855032,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.32,
+            "commentatorTierSimilarities": [
+                29.39,
+                44.11,
+                26.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the bond between Jesus and His mother in the flesh drew to a close, He entrusted her to John, directing him to care for and protect her. This act of filial love and selflessness exemplifies Christ's character. By addressing her as Woman, Jesus emphasizes His official relation to her, while also acknowledging His official independence. He ensured the comfort and well-being of His mother, even in His final moments, demonstrating the importance of familial relationships and the duty to care for one another.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0412185588847054,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.21,
+            "commentatorTierSimilarities": [
+                31.31,
+                40.4,
+                28.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

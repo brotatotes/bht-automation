@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-21-2023 03:03:55",
+    "verseRef": "John 1:23",
+    "bestBHT": {
+        "bht": "The voice of one crying in the wilderness, declaring Make straight the way of the Lord, is the proclamation of John the Baptist as he fulfills the prophecy of Isaiah. John identifies himself as the forerunner of the Messiah, proclaiming the approaching fulfillment of Isaiah's promises. John's ministry is not a mere voice of words, but a sweet voice of the Gospel encouraging belief in the Messiah, proclaiming repentance, and calling people to walk in the way of the Lord.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 2.4226960555539363,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.89,
+        "commentatorTierSimilarities": [
+            40.53,
+            27.99,
+            31.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words, which by the other Evangelists are spoken of John as the fulfilment of the prophecy, appear from this place to have been first so used by himself.",
+            "They introduce the great closing section of the prophecy of Isaiah (ch. xl.\u2013lxvi.) so full of the rich promises and revelations of the Messiah and His kingdom.",
+            "By implication, the Baptist, quoting this opening prophecy of himself, announces the approaching fulfilment of the whole section."
+        ],
+        "Albert Barnes": [
+            "I am the voice ... - See the notes at Matthew 3:3."
+        ],
+        "John Calvin": [
+            "He shows what was the duty which he had to perform, and proves it by a quotation from the Prophet Isaiah 60:3. Hence it follows that he does nothing but what God commanded him to do.",
+            "John is called a Voice, because he was enjoined to cry. It is in a figurative sense, undoubtedly, that Isaiah gives the name wilderness to the miserable desolation of the Church.",
+            "That visible wilderness, in which John preached, was a figure or image of the awful desolation which took away all hope of deliverance."
+        ],
+        "Philip Schaff": [
+            "He said, I am a voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Isaiah.\" (23 words)",
+            "To captive Israel, whose warfare is now accomplished, whose iniquity is pardoned, the glorious approach of her Deliverer is proclaimed.\" (23 words)",
+            "The Baptist takes the words in their true application to the Messianic deliverance and kingdom.\" (17 words)"
+        ],
+        "Archibald T. Robertson": [
+            "I am the voice of one crying in the wilderness.\" ",
+            "John refers to Isaiah as the author of the words and also of the message, 'Make straight the way of the Lord'.",
+            "By this language, John identifies himself as the forerunner of the Messiah."
+        ],
+        "John Gill": [
+            "Though another better explains it by, 'they are they that bring glad tidings', or good news; such are Gospel preachers; only it should have been in the singular number: for the text speaks but of one voice.",
+            "He was a 'voice', but not a mere voice; nor was his ministry a mere voice of words, as the law was, but it was the sweet voice of the Gospel, proclaiming the coming of the Messiah; encouraging men to believe in him; calling them to evangelical repentance, and publishing remission of sins in the name of Christ.",
+            "He called upon persons to reform their ways, and walk in the way of the Lord, to repent of their sins, believe in Christ, and submit to the ordinance of baptism."
+        ],
+        "John Wesley": [
+            "I am that forerunner of Christ of whom Isaiah speaks.",
+            "I am nothing but a voice: a sound that so soon as it has expressed the thought of which it is the sign, dies into air, and is known no more.",
+            "Isaiah 40:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The voice of one crying in the wilderness, declaring Make straight the way of the Lord, is the proclamation of John the Baptist as he fulfills the prophecy of Isaiah. John identifies himself as the forerunner of the Messiah, proclaiming the approaching fulfillment of Isaiah's rich promises and revelations of the Messiah and His kingdom. John's ministry is not just a mere voice of words, but a sweet voice of the Gospel encouraging belief in the Messiah, proclaiming repentance and the remission of sins through baptism. He calls upon people to reform their ways, walk in the way of the Lord, and believe in Christ.",
+            "wordCount": 107,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.208997931962265,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.79,
+            "commentatorTierSimilarities": [
+                39.04,
+                28.02,
+                32.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The voice of one crying in the wilderness, declaring Make straight the way of the Lord, is the proclamation of John the Baptist as he fulfills the prophecy of Isaiah. John identifies himself as the forerunner of the Messiah, proclaiming the approaching fulfillment of Isaiah's promises. John's ministry is not a mere voice of words, but a sweet voice of the Gospel encouraging belief in the Messiah, proclaiming repentance, and calling people to walk in the way of the Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 2.4226960555539363,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.89,
+            "commentatorTierSimilarities": [
+                40.53,
+                27.99,
+                31.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Identifying himself as a voice crying in the wilderness, John the Baptist fulfills the prophecy of Isaiah. He proclaims the imminent fulfillment of Isaiah's promises and revelations regarding the Messiah and His kingdom. John's ministry is not merely a voice of words, but a sweet voice of the Gospel, urging belief in the Messiah and calling for repentance. He invites people to reform their ways, walk in the way of the Lord, and receive the remission of sins through baptism.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.128215260914862,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.1,
+            "commentatorTierSimilarities": [
+                38.46,
+                29.31,
+                32.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the voice in the wilderness, John the Baptist fulfills the prophecy by introducing the closing section of Isaiah, which is filled with rich promises and revelations about the Messiah and His kingdom. John identifies himself as the forerunner of the Messiah, proclaiming the approaching fulfillment of Isaiah's words. His ministry is not just a mere voice, but a sweet voice of the Gospel, encouraging belief in the Messiah, calling for repentance, and announcing the remission of sins through baptism.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.3604165736006957,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.82,
+            "commentatorTierSimilarities": [
+                41.43,
+                27.09,
+                31.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist fulfills the prophecy by recognizing himself as the voice crying in the wilderness and proclaiming the fulfillment of Isaiah's message. He identifies himself as the forerunner of the Messiah, heralding the approaching fulfillment of Isaiah's promises of deliverance. John's ministry goes beyond mere words, serving as the sweet voice of the Gospel, urging belief in the Messiah, calling for repentance, and announcing the forgiveness of sins through baptism. His mission is to encourage people to reform their ways, walk in the way of the Lord, and embrace the coming Messiah.",
+            "wordCount": 96,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.1194705844955224,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+            "commentatorTierSimilarities": [
+                40.7,
+                27.22,
+                32.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

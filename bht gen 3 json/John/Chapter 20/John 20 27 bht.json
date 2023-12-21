@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-21-2023 03:15:18",
+    "verseRef": "John 20:27",
+    "bestBHT": {
+        "bht": "The marks on Jesus were not scars but actual wounds, implying a bloodless resurrection body. Jesus, with great condescension and gentleness, turns to Thomas, who was becoming unbelieving. Jesus, who knew the doubts of Thomas, willingly submits to be examined as Thomas desired. He dissuades Thomas from unbelief and encourages him to exercise faith, giving glory to Jesus and bringing comfort to the soul.",
+        "wordCount": 64,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 2.1657004193616958,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.35,
+        "commentatorTierSimilarities": [
+            29.75,
+            36.74,
+            33.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words imply that the marks were no scars, but the veritable wounds themselves.",
+            "This of itself would shew that the resurrection Body was bloodless.",
+            "Be not (do not become)\u2014as applied generally to the spiritual life, and the reception of God\u2019s truth\u2014faithless, but believing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is something rhythmical in these words, and they are purposely couched in the words of Thomas himself, to put him to shame.\" ",
+            "But wish what condescension and gentleness is this done!"
+        ],
+        "Marvin Vincent": [
+            "Thomas was in a fair way to become unbelieving, through his doubt of the resurrection.",
+            "There is a correspondence of the words here, to which, perhaps, the nearest approach in English is unbelieving, believing."
+        ],
+        "Philip Schaff": [
+            "Jesus at once speaks without needing to be told of the doubts of Thomas.",
+            "He recognises the naturalness of that element of weakness which marked the faith of His disciple.",
+            "As before, under the word \u2018believing\u2019 we must understand not belief in the Resurrection only, but a full faith in Jesus Himself as the Savior who has triumphed over all His foes."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus turns directly to Thomas as if he had come expressly for his sake.",
+            "The doubt of Thomas in the face of the witness of the others was not a proof of his superior intelligence.",
+            "But Thomas had carried his incredulity too far."
+        ],
+        "John Gill": [
+            "Satisfy thyself in the manner thou hast desired; which shows the omniscience of Christ, who knew what had passed between him and the other disciples, and the very words Thomas had expressed himself in; also his great humility and condescension in submitting himself to be examined in the very manner he had fixed; and likewise the reality of his resurrection.",
+            "Christ dissuades him from unbelief, which is very evil in its own nature, and in its effects; it is the root of all evil; it unfits for duty, and renders the word unprofitable, and leads men off from Christ.",
+            "The exercise of the grace of faith is well pleasing to Christ; it gives glory to him, and makes for the soul's comfort; and a word from Christ, his power going along with it, will enable men to believe, as it did Thomas; which appears by what follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words imply that the marks were no scars, but the veritable wounds themselves, suggesting that the resurrection Body was bloodless. Jesus turns directly to Thomas, revealing his condescension and gentleness. Thomas was on the brink of becoming unbelieving, but Jesus knew what had transpired and submitted himself to be examined in the very manner Thomas had desired. Jesus dissuades him from unbelief and encourages him to exercise the grace of faith, giving glory to Him and bringing comfort to the soul.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.0593049107408565,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.81,
+            "commentatorTierSimilarities": [
+                29.47,
+                32.91,
+                37.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The marks on Jesus were not scars but actual wounds, implying a bloodless resurrection body. Jesus, with great condescension and gentleness, turns to Thomas, who was becoming unbelieving. Jesus, who knew the doubts of Thomas, willingly submits to be examined as Thomas desired. He dissuades Thomas from unbelief and encourages him to exercise faith, giving glory to Jesus and bringing comfort to the soul.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.1657004193616958,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.35,
+            "commentatorTierSimilarities": [
+                29.75,
+                36.74,
+                33.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wounds on Jesus were not mere scars, but actual wounds, indicating a bloodless resurrection body. Jesus, with condescension and gentleness, directly addresses Thomas, who was on the verge of unbelief. Jesus, having knowledge of Thomas' doubts, willingly submits to examination as Thomas desired. He discourages Thomas from unbelief and encourages him to exercise faith, giving glory to Jesus and providing comfort to the soul.",
+            "wordCount": 65,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.133894755709562,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.29,
+            "commentatorTierSimilarities": [
+                28.59,
+                36.81,
+                34.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wounds on Jesus were not scars, but veritable wounds themselves, suggesting a bloodless resurrection body. Jesus turns directly to Thomas as a gentle act of condescension, aware of his doubts and submitting to examination in the manner Thomas desired. Jesus dissuades Thomas from unbelief, emphasizing the evil nature and harmful effects of unbelief, while encouraging him to exercise the grace of faith, glorifying Jesus and bringing comfort to the soul.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.0414814530158116,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                26.75,
+                33.74,
+                39.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wounds on Jesus were true wounds, not mere scars, indicating a bloodless resurrection body. Jesus directs his attention to Thomas, displaying condescension and gentleness. Aware of Thomas' doubts and the words he had spoken, Jesus accommodates his desire for examination. Jesus dissuades Thomas from unbelief, highlighting its evil nature and adverse effects, while encouraging him to exercise the grace of faith, bringing glory to Jesus and providing comfort to the soul.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.134216432145928,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.3,
+            "commentatorTierSimilarities": [
+                27.03,
+                34.76,
+                38.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:14:31",
+    "verseRef": "John 18:36",
+    "bestBHT": {
+        "bht": "Jesus clearly declared, My kingdom is not of this world. This signifies that His kingdom does not spring from or rely on the world's systems or weapons. The fact that His servants did not contend for His defense serves as a powerful demonstration that His kingdom is not of worldly origin or nature. Instead, Jesus's kingdom is spiritual, subduing evil passions, and bringing unity and peace to the heart. This profound truth spoken by Jesus should always be remembered by Christians.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 2.204730146506786,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.65,
+        "commentatorTierSimilarities": [
+            30.37,
+            36.72,
+            32.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My kingdom is not of this world...not belonging to this world; not springing from, arising out of, this world;\u2014and therefore not to be supported by this world\u2019s weapons.",
+            "There is no denial that His Kingdom is over this world; but that it is to be established by this world\u2019s power.",
+            "The word 'now' implies, \u2018as the case now stands;\u2019 it conveys an ocular demonstration, from the fact that no servants of His had contended or were contending in his behalf."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He does not say 'not over,' but 'not of this world'\u2014that is, in its origin and nature; therefore 'no such kingdom as need give thee or thy master the least alarm.'\" ",
+            "A very convincing argument; for if His servants did not fight to prevent their King from being delivered up to His enemies, much less would they use force for the establishment of His kingdom.\" ",
+            "Our Lord only says whence His kingdom is not\u2014first simply affirming it, next giving proof of it, then reaffirming it."
+        ],
+        "Albert Barnes": [
+            "His dominion was over the heart, subduing evil passions and corrupt desires, and bringing the soul to the love of peace and unity.",
+            "His kingdom is not of this world - that is, it is not of the same nature as earthly kingdoms. It was not originated for the same purpose, or conducted on the same plan.",
+            "If the kingdom of Jesus had been of this kind, he would have excited the multitudes that followed him to prepare for battle."
+        ],
+        "Marvin Vincent": [
+            "Servants [\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b1\u03b9] . Only in this passage in the Gospels, of Christians."
+        ],
+        "John Calvin": [
+            "My kingdom is not of this world...the kingdom of Christ, in which we ought to seek tranquillity, is separated from the world.",
+            "...our true happiness remains unimpaired.",
+            "It results, however, from the depravity of the world, that the kingdom of Christ is strengthened more by the blood of the martyrs than by the aid of arms."
+        ],
+        "Philip Schaff": [
+            "It is not His chief aim to explain the distinction between a spiritual and a political kingdom, a distinction which the Roman governor would hardly have been able to appreciate.",
+            "The mark of an earthly kingdom thus selected is precisely to the purpose of our Lord\u2019s argument.",
+            "The period can never come when other words than those before us may be used of the kingdom of Christ. It is never \u2018of this world,\u2019 never \u2018from hence.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Christ then had only a small band of despised followers who could not fight against Caesar.\" ",
+            "Was he alluding also to legions of angels on his side?",
+            "Christians should never forget the profound truth stated here by Jesus."
+        ],
+        "John Gill": [
+            "My kingdom is not of this world...it does not rise out of, nor proceed upon, nor is it supported by worldly principles.\" ",
+            "The subjects of Christ's kingdom are not of the world, they are chosen and called out of it.\" ",
+            "The whole of [Christ's kingdom] is not of this world; the subjects of Christ's kingdom are not of the world, they are chosen and called out of it."
+        ],
+        "John Wesley": [
+            "My kingdom is not of this world \u2014 Is not an external, but a spiritual kingdom.",
+            "That I might not be delivered to the Jews.",
+            "Which Pilate had already attempted to do...and afterward actually did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declared, My kingdom is not of this world. His kingdom does not arise out of or belong to this worldly system. It does not rely on the weapons or power of this world. This is evident because His servants did not fight to prevent His delivering Himself up to His enemies or to establish His kingdom with force. Instead, they were despised followers who could not fight against earthly authorities. Jesus's kingdom is not political or of the same nature as earthly kingdoms. It is a spiritual kingdom that subdues evil passions and corrupt desires, bringing peace and unity to the heart. Christians should always remember and cherish this profound truth spoken by Jesus.",
+            "wordCount": 116,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.0801725034175247,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.51,
+            "commentatorTierSimilarities": [
+                30.45,
+                35.66,
+                33.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus proclaimed, My kingdom is not of this world. This means that His kingdom does not arise from or belong to the worldly system. It is not established by earthly power or weapons. His small band of despised followers did not fight for His protection or to establish His kingdom. Instead, His dominion is over the heart, subduing evil passions and corrupt desires, bringing peace and unity. Christians must never forget this profound truth spoken by Jesus, as it distinguishes His spiritual kingdom from earthly ones.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.1156610468845374,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.69,
+            "commentatorTierSimilarities": [
+                29.69,
+                36.86,
+                33.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus clearly stated, My kingdom is not of this world. This means that His kingdom does not originate from, spring forth, or rely on the world. It is not a political kingdom to be established by worldly power or force. Even though His followers did not fight for His defense, it serves as proof that His kingdom is not of this world. His dominion is spiritual, and His subjects are chosen and called out of this world. Christians should always remember this profound truth spoken by Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.1637123252635644,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+            "commentatorTierSimilarities": [
+                29.24,
+                35.4,
+                35.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus made it clear when He said, My kingdom is not of this world. This means that His kingdom does not arise from or belong to the worldly system. It is not established by earthly power or weapons. His followers did not fight for His defense, proving that His kingdom is not of this world. Instead, His dominion is over the heart, subduing evil passions and corrupt desires, and bringing peace and unity. Christians should never forget this profound truth spoken by Jesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.1234801957270495,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                30.34,
+                36.82,
+                32.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus clearly declared, My kingdom is not of this world. This signifies that His kingdom does not spring from or rely on the world's systems or weapons. The fact that His servants did not contend for His defense serves as a powerful demonstration that His kingdom is not of worldly origin or nature. Instead, Jesus's kingdom is spiritual, subduing evil passions, and bringing unity and peace to the heart. This profound truth spoken by Jesus should always be remembered by Christians.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.204730146506786,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.65,
+            "commentatorTierSimilarities": [
+                30.37,
+                36.72,
+                32.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

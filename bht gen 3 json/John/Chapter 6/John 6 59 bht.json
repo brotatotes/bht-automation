@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-21-2023 03:07:20",
+    "verseRef": "John 6:59",
+    "bestBHT": {
+        "bht": "He spoke these things in the synagogue, possibly after the congregation had dispersed. The boldness of Jesus declaring these new and surprising truths in the presence of His powerful enemies shows the influence and impact of His teaching. However, despite the large crowd, only a few truly profited from His words. Let us be mindful not to murmur against Christ when He speaks, and let the pride of others not disturb our faith. These words were spoken openly and publicly in the place of divine worship, where the Jews gathered to hear and learn.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.54012081091945,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+        "commentatorTierSimilarities": [
+            19.62,
+            44.53,
+            35.85
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "59. These things said he in the",
+            "\tsynagogue\u2014which seems to imply that what follows took place",
+            "\tafter the congregation had broken up."
+        ],
+        "Marvin Vincent": [
+            "In the synagogue [\u03b5\u03bd \u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03b7]. But the definite article is wanting; so that we must either understand in a synagogue, or in an assembly.",
+            "Among the ruins at Tell Hum, the probable site of Capernaum, have been found among the remains of a synagogue a block of stone, perhaps the lintel, carved with the pot of manna, and with a pattern of vine leaves and clusters of grapes.",
+            "See a full account of these ruins in Thomson's 'Land and Book, Central Palestine and Phoenicia,' pp. 417 - 419."
+        ],
+        "John Calvin": [
+            "But it immediately follows that out of so great a multitude there were scarcely to be found a very few who profited by it.\" ",
+            "If the Evangelist had said that only some of them were offended, that ought to have been accounted monstrous; but when they rise up in crowds and conspire together against him, what name shall we give to such an action?\" ",
+            "Let this narrative then be deeply impressed on our minds, that we may never murmur against Christ when he speaks; and if in the present day we perceive any thing of this kind in others, let not their pride disturb our faith."
+        ],
+        "Philip Schaff": [
+            "These words not only give information as to the place in which the discourse... was delivered, but also show the boldness... Jesus declared truths so new and so surprising...",
+            "He spoke thus in public teaching... and in the place where their influence was greatest.",
+            "He spoke... in the presence of His powerful enemies..."
+        ],
+        "Archibald T. Robertson": [
+            "In the synagogue (\u03b5\u03bd \u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03b7). Definite like our in church, though article absent.\" ",
+            "Only use of the word in John except John 18:20.\" ",
+            "Among the ruins at Tell Hum, the probable site of Capernaum, have been found among the remains of a synagogue a block of stone perhaps the lintel, carved with a pot of manna, and with a pattern of vine leaves and clusters of grapes\" (Vincent)."
+        ],
+        "John Gill": [
+            "These things said he in the synagogue...as he taught in Capernaum.\" ",
+            "Openly and publicly, in the place of divine worship.\" ",
+            "Where the Jews resorted for that purpose."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He spoke these things in the synagogue, possibly after the congregation had dispersed. The boldness of Jesus declaring these new and surprising truths in the presence of His powerful enemies shows the influence and impact of His teaching. However, despite the large crowd, only a few truly profited from His words. Let us be mindful not to murmur against Christ when He speaks, and let the pride of others not disturb our faith. These words were spoken openly and publicly in the place of divine worship, where the Jews gathered to hear and learn.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.54012081091945,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.55,
+            "commentatorTierSimilarities": [
+                19.62,
+                44.53,
+                35.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He spoke these things in the synagogue, possibly after the congregation had dispersed. The boldness of Jesus declaring these new and surprising truths shows the influence and impact of His teaching. However, despite the large crowd, only a few truly profited from His words. Let us be mindful not to murmur against Christ when He speaks, and let the pride of others not disturb our faith. These words were spoken openly and publicly in the place of divine worship, where the Jews gathered to hear and learn.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5112454499392864,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.59,
+            "commentatorTierSimilarities": [
+                20.67,
+                42.96,
+                36.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He spoke these things in the synagogue, possibly after the congregation had dispersed. The boldness of Jesus declaring these new and surprising truths shows the influence and impact of His teaching. However, despite the large crowd, only a few truly profited from His words. Let us be mindful not to murmur against Christ when He speaks, and let the pride of others not disturb our faith. These words were spoken openly and publicly in the place of divine worship, where the Jews gathered to hear and learn.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5112454499392864,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.59,
+            "commentatorTierSimilarities": [
+                20.67,
+                42.96,
+                36.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He spoke these things openly and publicly in the synagogue, possibly after the congregation had dispersed. The boldness of Jesus declaring these new and surprising truths in the place of divine worship shows the influence and impact of His teaching. However, despite the large crowd, only a few truly profited from His words. Let us be mindful not to murmur against Christ when He speaks and not be disturbed by the pride of others.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.4752069126591771,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.39,
+            "commentatorTierSimilarities": [
+                19.33,
+                44.79,
+                35.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He boldly spoke these things openly in the synagogue, possibly after the congregation had dispersed. The impact and influence of Jesus' teaching in the place of divine worship was evident. Despite the large crowd, only a few truly profited from His words. Let us guard against murmuring when Christ speaks and not be unsettled by the pride of others.",
+            "wordCount": 59,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.4481007456225612,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.49,
+            "commentatorTierSimilarities": [
+                21.59,
+                43.05,
+                35.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

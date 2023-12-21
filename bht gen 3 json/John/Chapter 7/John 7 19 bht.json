@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-21-2023 03:07:55",
+    "verseRef": "John 7:19",
+    "bestBHT": {
+        "bht": "Jesus rebukes the Jews for their hypocrisy, as they claim to revere the law of Moses but actually violate it by seeking His life. He exposes their self-righteousness and their failure to truly practice what they preach. This reveals their rejection of God's truth and their unrighteousness in opposing Jesus, who is without fault. Jesus challenges their supposed zeal for the law, highlighting that they are its greatest enemies by their actions.",
+        "wordCount": 74,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 2.0661190063269395,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+        "commentatorTierSimilarities": [
+            25.5,
+            38.28,
+            36.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The being willing to do His will was to be the great key to a true appreciation of His teaching.",
+            "The law was to be read before all Israel every seventh year in the feast of tabernacles.",
+            "In their killing the Lord of Life was summed up all their transgression of God\u2019s law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In opposing Me ye pretend zeal for Moses, but to the spirit and end of that law which he gave ye are total strangers.\" ",
+            "Going about to kill Me, ye are its greatest enemies."
+        ],
+        "Albert Barnes": [
+            "...shows them that, though they pretended great reverence for that law, yet they were really its violators in having sought his life.",
+            "None of you Jews...shows the great faithfulness with which he was accustomed to proclaim the truth.",
+            "Why do ye seek to kill me?"
+        ],
+        "Marvin Vincent": [
+            "Hath not Moses given you the law, which you still profess to observe.",
+            "Keepeth [\u03c0\u03bf\u03b9\u03b5\u03b9] . Rev., rightly, doeth.",
+            "Go ye about [\u03b6\u03b7\u03c4\u03b5\u03b9\u03c4\u03b5] . Properly, seek ye."
+        ],
+        "John Calvin": [
+            "True, this defense would not have been sufficient to prove the point. Granting that \u2014 under a false pretense \u2014 they concealed their wicked and unjust hatred, still it does not follow that Christ did right, if he committed any thing contrary to the injunction of the Law; for we must not attempt to extenuate our own blame by the sins of others.",
+            "In the former, he addresses the consciences of his enemies, and, since they proudly boasted of being defenders of the Law, he tears from them this mask; for he brings against them this reproach, that they allow themselves to violate the Law as often as they please, and, therefore, that they care nothing about the Law.",
+            "Those who, in the present day, are the fiercest enemies of the Gospel and the most strenuous defenders of Popery, have nothing more plausible to urge in their behalf than that they are excited by ardor of zeal. But if their life be narrowly examined, they are all filled with base crimes, and openly mock at God."
+        ],
+        "Philip Schaff": [
+            "They were therefore self-convicted by their own works of opposing the revealed will of God: no wonder therefore that they had rejected Jesus.",
+            "In Jesus, as a true messenger, there is no unrighteousness. What they have called unrighteousness is altogether righteous, nay, it is what they themselves habitually do, and rightly do.",
+            "Every one of them (as the example afterwards given proves) sets aside one of two conflicting laws, breaks one commandment when there is no other way of keeping a higher command inviolate; and this is all that Jesus did in the act for which they seek to kill Him."
+        ],
+        "Archibald T. Robertson": [
+            "And yet they violated that law by not practising it.",
+            "Jesus had previously known that the Jews really rejected the teaching of Moses while professing to believe it.",
+            "He undoubtedly alludes to their conduct then and charges them with the same purpose now."
+        ],
+        "John Gill": [
+            "Though they boasted of it as a singular privilege, and rested in it, and their obedience to it for life and salvation, yet daily broke it in various instances, in thought, word, or deed.",
+            "Nor could the most holy and righteous man among them perfectly keep it.",
+            "An harmless and innocent man, who never injured you in your persons and properties; and which is a proof of their not keeping that body of laws Moses gave them."
+        ],
+        "John Wesley": [
+            "But ye are unrighteous; for ye violate the very law which ye profess so much zeal for."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus emphasizes that being willing to do God's will is crucial for truly understanding His teachings. He confronts the Jews for their hypocrisy, pointing out that while they profess to revere the law of Moses, they actually violate it by seeking His life. Jesus exposes their self-righteousness and calls them out for their failure to truly observe and practice the law they claim to follow. The Jews' opposition to Jesus reveals their rejection of God's truth, just as they had done in the past. Jesus charges them with being the greatest enemies of the law they claim to uphold, highlighting their unrighteousness and violation of God's commandments.",
+            "wordCount": 114,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.1116706894728012,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+            "commentatorTierSimilarities": [
+                27.66,
+                39.22,
+                33.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus emphasizes that being willing to do God's will is crucial for truly understanding His teachings. He confronts the Jews for their hypocrisy, pointing out that while they profess to revere the law of Moses, they actually violate it by seeking His life. Jesus exposes their self-righteousness and calls them out for their failure to truly observe and practice the law they claim to follow. The Jews' opposition to Jesus reveals their rejection of God's truth, just as they had done in the past.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.049636878281653,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                28.52,
+                40.15,
+                31.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus rebukes the Jews for their hypocrisy, as they claim to revere the law of Moses but actually violate it by seeking His life. He exposes their self-righteousness and their failure to truly practice what they preach. This reveals their rejection of God's truth and their unrighteousness in opposing Jesus, who is without fault. Jesus challenges their supposed zeal for the law, highlighting that they are its greatest enemies by their actions.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.0661190063269395,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                25.5,
+                38.28,
+                36.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus confronts the Jews' hypocrisy, exposing their violation of the law they claim to uphold. He criticizes their false zeal for Moses, highlighting their failure to genuinely practice the law. By seeking to kill Him, they reveal their enmity towards the truth. Jesus emphasizes that being willing to do God's will is crucial for understanding His teachings. He charges them with being the greatest enemies of the law, despite their profession of observing it. Their opposition to Jesus exposes their unrighteousness and rejection of God's commandments.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.01452128837715,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.32,
+            "commentatorTierSimilarities": [
+                28.52,
+                37.53,
+                33.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus criticizes the Jews' hypocrisy and false zeal for the law, pointing out their failure to truly practice what they preach. By seeking to kill Him, they expose their rejection of God's truth and reveal themselves as the greatest enemies of the law they claim to uphold. Jesus highlights that being willing to do God's will is essential for understanding His teachings. In confronting their opposition, He charges them with unrighteousness and a violation of the very law they profess to zealously follow.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.053320285784358,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                26.27,
+                36.75,
+                36.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-21-2023 03:10:38",
+    "verseRef": "John 11:31",
+    "bestBHT": {
+        "bht": "When Mary went out to the tomb, the custom of the East required her friends to accompany her, leading to witnesses who were not prejudiced in favor of Jesus but were there by chance. The assumption was that Mary went to weep, and her loud weeping demonstrated her greater passion compared to her sister Martha. This deep grief observed at the tomb was a prevalent practice among the Jews, who observed the first days of mourning with solemnity and many grief ceremonies.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.8284300370130948,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+        "commentatorTierSimilarities": [
+            23.72,
+            48.38,
+            27.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to weep there\u2014as is the custom even now in the East",
+            "see an affecting account in Lamartine\u2019s Pilgrimage to the Holy Land, English translation, vol. ii. pp. 76\u201378.",
+            "an affecting account"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus casually were provided witnesses of the glorious miracle that followed, not prejudiced, certainly, in favor of Him who wrought it.\" ",
+            "According to Jewish practice, for some days after burial.\" ",
+            "More impassioned than her sister, though her words were fewer."
+        ],
+        "Albert Barnes": [
+            "They thought that she went to weep.",
+            "The first days of mourning among the Jews were observed with great solemnity and many ceremonies of grief."
+        ],
+        "Marvin Vincent": [
+            "The word means loud weeping.\" (Commentary on \u03ba\u03bb\u03b1\u03c5\u03c3\u03b7)",
+            "Withdraweth from our company.\" (Commentary on \u03c5\u03c0\u03b1\u03b3\u03b5\u03b9)",
+            "Supposing.\" (Commentary on \u03bb\u03b5\u03b3\u03bf\u03bd\u03c4\u03b5\u03c2)"
+        ],
+        "John Calvin": [
+            "It is a very prevalent disease, that husbands deprived of their wives, parents deprived of their children, and, on the other hand, wives deprived of their husbands, and children deprived of their parents or other relatives and friends, are eager to increase their grief by every possible method.\" ",
+            "The affections of men are already sufficiently disordered; but it is still worse, that they inflame them by new excitements, that they may rush against God with greater ardor and violence.\" ",
+            "Thus it frequently happens, that they who treat too gently the excesses of their friends do them little good by their consolations."
+        ],
+        "Philip Schaff": [
+            "The movements of her sister had suggested no such thought; but as soon as Mary rose and went out, only one explanation seemed possible.",
+            "She sought to go alone, but, according to the custom of the East, the friends who were with her attend her to the tomb to join in her lamentation over the dead.",
+            "That they will meet Jesus has apparently not entered into their thought."
+        ],
+        "Archibald T. Robertson": [
+            "Followed her (\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b7\u03c3\u03b1\u03bd \u03b1\u03c5\u03c4\u03b7). First aorist active indicative of \u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03c9 with associative instrumental case (\u03b1\u03c5\u03c4\u03b7).",
+            "The secrecy of Martha (verse John 11:28) was of no avail.",
+            "Supposing that she was going unto the tomb (\u03b4\u03bf\u03be\u03b1\u03bd\u03c4\u03b5\u03c2 \u03bf\u03c4 \u03c5\u03c0\u03b1\u03b3\u03b5 \u03b5\u03b9\u03c2 \u03c4\u03bf \u03bc\u03bd\u03b7\u03bc\u03b5\u03b9\u03bf\u03bd)."
+        ],
+        "John Gill": [
+            "They go to the graves and visit until three days.",
+            "A shorter one, which is in their liturgies, and is used as they pass by the sepulchres of the Israelites, is this: 'blessed art thou, O Lord our God, who has formed you in judgment, and has quickened you in judgment, and has fed you in judgment, and knows the number of all of you, and he will quicken you, and restore you blessed art thou, O Lord, that quickens the dead.'",
+            "The Jews were wont to visit the graves of their great men, in honour to them; yea, the disciples of the wise men used to meet there to study the law, thereby showing respect, and doing honour to the deceased."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Mary rose and went out, she sought to go alone, but the custom of the East dictated that friends accompany her to the tomb to join in her lamentation over the dead. The witnesses to this affecting scene were not prejudiced in favor of Jesus and were there by chance, providing an unbiased testimony to the miraculous event that followed. The anticipation of Mary's actions led the people to assume she was going to weep at the tomb, and their supposition brought them to witness the glory of the miracle Jesus performed. The loud weeping of Mary showed her greater passion compared to her sister Martha, and it is said that she wept with strong emotions. Despite Martha's attempt to maintain secrecy, her actions were in vain. The deep grief manifested in mourning at the tomb was a prevalent practice among the Jews, who observed the first days of mourning with solemnity and many grief ceremonies.",
+            "wordCount": 159,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.665916543107583,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+            "commentatorTierSimilarities": [
+                23.54,
+                47.48,
+                28.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Mary went out to the tomb, the custom of the East required her friends to accompany her, leading to witnesses who were not prejudiced in favor of Jesus but were there by chance. The assumption was that Mary went to weep, and her loud weeping demonstrated her greater passion compared to her sister Martha. This deep grief observed at the tomb was a prevalent practice among the Jews, who observed the first days of mourning with solemnity and many grief ceremonies.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8284300370130948,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                23.72,
+                48.38,
+                27.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Mary rose and went out, her friends followed her to the tomb, bearing witness to the affecting scene that unfolded. Their presence was providential, as they were not biased in favor of Jesus. Mary's loud weeping showcased her deeper emotions, contrasting her sister Martha. The assumption that Mary went to weep at the tomb led to an unexpected encounter with the glorious miracle that followed. This display of grief at the tomb aligned with the Jewish practice of mourning with solemnity and grief ceremonies.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.6954924967393736,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                28.14,
+                47.31,
+                24.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Mary went to the tomb, her friends accompanied her, unintentionally becoming witnesses to the powerful miracle that was about to unfold. Mary's overwhelming grief was evident in her loud weeping, surpassing even her sister Martha's emotional display. The assumption that Mary went to weep at the tomb led to an unexpected encounter with the glorious miracle that followed. This public mourning at the tomb aligned with the Jewish practice of observing the first days of mourning with solemnity and grief ceremonies.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.794600928946171,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.01,
+            "commentatorTierSimilarities": [
+                26.23,
+                47.77,
+                26.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Mary rose and went out to the tomb, her friends joined her, unintentionally becoming impartial witnesses to the miraculous event that would unfold. Mary's passionate weeping surpassed even that of her sister Martha. The assumption that Mary went to weep at the tomb led to an unexpected encounter with the glorious miracle that followed. This public display of grief at the tomb aligned with the Jewish practice of observing the first days of mourning with solemnity and various grief ceremonies.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7655645388149495,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                28.2,
+                46.64,
+                25.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

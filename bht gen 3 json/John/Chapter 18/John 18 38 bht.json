@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-21-2023 03:14:35",
+    "verseRef": "John 18:38",
+    "bestBHT": {
+        "bht": "Pilate's celebrated question, What is truth?, reflects not an earnest quest for truth, but rather a mocking skepticism and indifference. His moral weakness exemplifies the spirit of worldly power and the ignorance of truth. In contrast, Jesus embodies the absolute truth, while Pilate settles for truth in a specific case. Despite finding no crime in Jesus, Pilate fails to grasp the significance of this truth and misses the opportunity to set him free, epitomizing the struggle of humanity to comprehend and embrace the truth.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 2.298942634196795,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+        "commentatorTierSimilarities": [
+            36.63,
+            28.2,
+            35.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His celebrated question is perhaps more the result of indifferentism than of scepticism; it expresses, not without scoff and irony, a conviction that truth can never be found.",
+            "It was rather an inability than an unwillingness to find the truth.",
+            "His conduct presents a pitiable specimen of the moral weakness of that spirit of worldly power, which reached its culminating point in the Roman empire."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou stirrest the question of questions, which the thoughtful of every age have asked, but never man yet answered.",
+            "The only certainty,\" says the elder PLINY, \"is that nothing is certain, nor more miserable than man, nor more proud.",
+            "The revelation of the eternal truth alone was able to breathe new life into ruined human nature, and that in the apprehension of complete redemption."
+        ],
+        "Albert Barnes": [
+            "This question had long agitated the world. It was the great subject of inquiry in all the schools of the Greeks.\" ",
+            "They have a fixed contempt for the Bible; they deride the instructions of religion; they are unwilling to investigate and to wait at the gates of wisdom; and hence, like Pilate, they remain ignorant of the great Source of truth, and die in darkness and in error.",
+            "All might find truth if they would seek it; none ever will find it if they do not apply for it to the great source of light the God of truth, and seek it patiently in the way in which he has chosen to communicate it to mankind."
+        ],
+        "Marvin Vincent": [
+            "Jesus meant the absolute truth : Pilate, truth in any particular case.",
+            "Pilate's exclamation is neither the expression of an ardent thirst for truth, nor that of the despair of a soul which has long sought it in vain; it is the profession of a frivolous skepticism, such as is frequently met with in the man of the world, and especially in the statesman.",
+            "Fault [\u03b1\u03b9\u03c4\u03b9\u03b1\u03bd]. Properly, cause of accusation. Rev., crime."
+        ],
+        "John Calvin": [
+            "For my own part, I rather think that it is an expression of disdain; for Pilate thought himself highly insulted when Christ represented him as destitute of all knowledge of the truth.",
+            "Though we are all aware of our ignorance, yet there are few who are willing to confess it; and the consequence is, that the greater part of men reject the true doctrine.",
+            "That Pilate spoke in mockery is evident from this circumstance, that he immediately goes out. In short, he is angry with Christ for boasting that he brings forward the truth, which formerly lay hidden in darkness."
+        ],
+        "Philip Schaff": [
+            "Not surely the question of one seriously searching after truth, for in that case he would have waited for a reply.",
+            "He went forth again unto the Jews, and saith unto them, I find in him no crime. It is a distinct sentence of acquittal.",
+            "A Roman governor, a Gentile, declares the innocence and even feels to some extent the true majesty of Him who, though King of the Jews, is rejected and doomed to death by that blinded and guilty people."
+        ],
+        "Archibald T. Robertson": [
+            "What is truth? This famous sneer of Pilate reveals his own ignorance of truth, as he stood before Incarnate Truth.",
+            "The answer in Latin is Vir est qui adest as has been succinctly said by the use of the same letters.",
+            "Pilate turned with indifference from his own great question and rendered his verdict: 'I find no crime in him'. Pilate therefore should have set Jesus free at once."
+        ],
+        "John Gill": [
+            "Many things might be observed in answer to this question, as that there is the truth and faithfulness of God in his word and promises...",
+            "The Gospel is truth in general; it comes from the God of truth; lies in the Scriptures of truth; Christ, who is truth itself, is the substance of it...",
+            "This confession is both to the shame of Pilate and the Jews; to the reproach of Pilate, that after this he should condemn him; and of the Jews, that after such a fair and full declaration from the judge, they should insist upon his crucifixion..."
+        ],
+        "John Wesley": [
+            "What is truth? \u2014 Said Pilate, a courtier; perhaps meaning what signifies truth?",
+            "Is that a thing worth hazarding your life for?",
+            "He left him presently, to plead with the Jews for him, looking upon him as an innocent but weak man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate's famous question, What is truth? is not an honest search for truth, but rather an expression of indifference and skepticism, reflecting his belief that truth cannot truly be found. His lack of conviction and moral weakness, emblematic of the spirit of worldly power, lead him to dismiss the revelation of eternal truth in front of him. Jesus, on the other hand, represents the absolute truth, while Pilate is content with truth in any particular case. Pilate's declaration of finding no crime in Jesus should have set him free, but instead, he turns away from his own question and renders his verdict. This scene encompasses the struggle of mankind to grasp the concept of truth and the consequences of dismissing it.",
+            "wordCount": 123,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 2.1280608491131767,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.1,
+            "commentatorTierSimilarities": [
+                36.67,
+                27.98,
+                35.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate's celebrated question, What is truth?, reflects not an earnest quest for truth, but rather a mocking skepticism and indifference. His moral weakness exemplifies the spirit of worldly power and the ignorance of truth. In contrast, Jesus embodies the absolute truth, while Pilate settles for truth in a specific case. Despite finding no crime in Jesus, Pilate fails to grasp the significance of this truth and misses the opportunity to set him free, epitomizing the struggle of humanity to comprehend and embrace the truth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.298942634196795,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.78,
+            "commentatorTierSimilarities": [
+                36.63,
+                28.2,
+                35.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate's famous question, What is truth?, reveals his disdain, skepticism, and inability to find the truth. His frivolous skepticism mirrors the moral weakness of worldly power and highlights his indifference towards the revelation of eternal truth standing before him. In contrast, Jesus embodies the absolute truth, while Pilate only seeks truth in specific cases. Pilate's declaration of finding no crime in Jesus should have led to his release, but he fails to grasp its significance, representing humanity's struggle to comprehend and embrace the truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.2614278786187,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+            "commentatorTierSimilarities": [
+                36.76,
+                28.34,
+                34.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate's notorious question, What is truth?, stems from indifference rather than genuine skepticism, reflecting his belief that truth is unattainable. His moral weakness, characteristic of the Roman empire, causes him to overlook the revelation of eternal truth before him. While Jesus embodies absolute truth, Pilate settles for truth in isolated instances. Despite finding no crime in Jesus, Pilate fails to grasp the significance, missing the opportunity to set him free. This scene epitomizes humanity's struggle to comprehend and embrace the truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.0955468234174575,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.02,
+            "commentatorTierSimilarities": [
+                37.56,
+                27.48,
+                34.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate's question, What is truth?, reflects not a sincere quest but rather a scoffing doubt that truth can ever be found. As a worldly statesman, his conduct illustrates the moral weakness of earthly power. In contrast, Jesus represents the revelation of eternal truth and complete redemption. While Pilate settles for truth in specific cases, Jesus embodies absolute truth. Pilate's declaration of finding no crime in Jesus should have led to his release, but he fails to comprehend its significance, highlighting humanity's struggle to fully grasp and embrace truth.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.1347182792437325,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.32,
+            "commentatorTierSimilarities": [
+                37.03,
+                27.04,
+                35.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

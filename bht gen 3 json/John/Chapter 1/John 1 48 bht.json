@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:04:04",
+    "verseRef": "John 1:48",
+    "bestBHT": {
+        "bht": "Jesus's response to Nathanael's skepticism reveals His perfect knowledge of Nathanael's character. He knew all that passed between Philip and Nathanael even before Philip called him. Nathanael was astonished by Jesus's tribute, recognizing that his heart had been read and that Jesus saw him in his worship under the fig tree. This interaction highlights Jesus's divine omniscience and His ability to see beyond appearances into the depths of one's soul.",
+        "wordCount": 76,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 1.95548600380596,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+        "commentatorTierSimilarities": [
+            38.45,
+            30.43,
+            31.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The remark was overheard by Nathanael, and recognized as indicating perfect knowledge of his character.",
+            "The whole form of our Lord\u2019s answer seems to indicate that the place where Philip called Nathanael was not now in sight, nor had been.",
+            "In fact it contains in it, \u2018when thou wentest under the fig tree, and while thou wert there.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whence knowest thou me\u2014conscious that his very heart had been read, and at this critical moment more than ever before.",
+            "Before Philip called thee\u2014showing He knew all that passed between Philip and him at a distance.",
+            "Thou guileless one, that fig tree scene, with all its heaving anxieties, deep pleadings and tremulous hopes\u2014I saw it all."
+        ],
+        "Albert Barnes": [
+            "It is evident that it was from something that had occurred under the fig-tree that Jesus judged of his character.",
+            "In that place of retirement it is not improbable that Nathanael was engaged in private devotion.",
+            "We may learn: 1. That Jesus sees what is done in secret, and is therefore divine."
+        ],
+        "John Calvin": [
+            "To meet with a man of such uprightness as to be free from all deceit is an uncommon case, and to know such purity of heart belongs to God alone.",
+            "As Nathanael knew that Christ did not see him after the manner of men, but by a look truly divine, this might lead him to conclude that Christ did not now speak as a man.",
+            "We ought also to gather from this passage a useful doctrine, that when we are not thinking of Christ, we are observed by him; and it is necessary that it should be so, that he may bring us back, when we have wandered from the right path."
+        ],
+        "Philip Schaff": [
+            "Whence gettest Thou Thy knowledge of me? Who has told Thee anything about me?",
+            "It is enough for him that he sees that he is discerned by one whom he had not previously met.",
+            "These wonderful words of Jesus, coming suddenly upon him after long preparation for them and after the instructions just given him by Philip, at once set his heart on fire."
+        ],
+        "Archibald T. Robertson": [
+            "Nathanael is astonished at this tribute, at any knowledge about himself by Jesus.",
+            "Before Philip called thee.",
+            "Jesus saw Nathanael's heart as well as his mere presence there. He saw him in his worship and so knew him."
+        ],
+        "John Gill": [
+            "This he said as one surprised, that he, who was a stranger to him, should hit upon his general character, and describe the internal state and frame of his soul.",
+            "Christ gives two instances of his omniscience; the one is, that he knew Philip had called him... and the other is, that he saw him under the fig tree...",
+            "It was usual with the doctors to read, and study in the law, under fig trees, and sometimes, though rarely, to pray there."
+        ],
+        "John Wesley": [
+            "Under the fig tree I saw thee \u2014 Perhaps at prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus's response to Nathanael's skepticism reveals His perfect knowledge of Nathanael's character, even down to the private moments he spent under the fig tree in prayer. Jesus's ability to discern Nathanael's heart and the details of his conversation with Philip demonstrates His divine omniscience. Nathanael's astonishment at Jesus's recognition of him emphasizes the significance of Jesus seeing beyond mere appearances and into the depths of one's soul. This interaction serves as a reminder that even when we think we are unobserved, Jesus sees and knows our every thought and action, always ready to bring us back to the right path.",
+            "wordCount": 108,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.8388576100332856,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                31.93,
+                31.36,
+                36.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's response to Nathanael's skepticism reveals His perfect knowledge of Nathanael's character, even down to the private moments he spent under the fig tree in prayer. Jesus's ability to discern Nathanael's heart and the details of his conversation with Philip demonstrates His divine omniscience. Nathanael's astonishment at Jesus's recognition of him emphasizes the significance of Jesus seeing beyond mere appearances and into the depths of one's soul. This serves as a reminder that even when we think we are unobserved, Jesus sees and knows our every thought and action.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.8668001640248606,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                32.68,
+                31.51,
+                35.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's response to Nathanael's skepticism reveals His perfect knowledge of Nathanael's character. He knew all that passed between Philip and Nathanael even before Philip called him. Nathanael was astonished by Jesus's tribute, recognizing that his heart had been read and that Jesus saw him in his worship under the fig tree. This interaction highlights Jesus's divine omniscience and His ability to see beyond appearances into the depths of one's soul. It serves as a reminder that Jesus observes us even in our moments when we think we are unobserved, always ready to guide us back to the right path.",
+            "wordCount": 105,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.8912461286885083,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.23,
+            "commentatorTierSimilarities": [
+                36.81,
+                30.89,
+                32.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's response to Nathanael's skepticism reveals His perfect knowledge of Nathanael's character. He knew all that passed between Philip and Nathanael even before Philip called him. Nathanael was astonished by Jesus's tribute, recognizing that his heart had been read and that Jesus saw him in his worship under the fig tree. This interaction highlights Jesus's divine omniscience and His ability to see beyond appearances into the depths of one's soul.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.95548600380596,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                38.45,
+                30.43,
+                31.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's response to Nathanael's skepticism reveals His perfect knowledge of Nathanael's character, even knowing the details of his conversation with Philip prior to being called. Nathanael is astonished by Jesus's tribute, realizing that his heart had been seen and that Jesus knew him in his worship under the fig tree. This interaction illuminates Jesus's divine omniscience and His ability to see beyond outward appearances into the depths of a person's soul. It serves as a reminder that Jesus observes our thoughts and actions, even when we believe we are unseen, always ready to guide us back to the right path.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9097042693373358,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                33.65,
+                31.79,
+                34.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

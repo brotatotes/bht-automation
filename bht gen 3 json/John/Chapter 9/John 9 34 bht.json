@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-21-2023 03:09:39",
+    "verseRef": "John 9:34",
+    "bestBHT": {
+        "bht": "They forget that the two charges,\u2014one that he had never been born blind, and so was an impostor,\u2014the other, that he bore the mark of God\u2019s anger in a blindness that reached back to his birth,\u2014will not agree together. The Pharisees cast him out, unable to tolerate his audacity as a teacher. They accused him of being born in sin, using his blindness as proof. Yet, this undeserved censure teaches us the danger of judging someone solely based on their afflictions. We should always be humble and receptive to the message of God, even if it comes from an unlikely source.",
+        "wordCount": 105,
+        "quoteTokenProportion": 53.16,
+        "qualityScore": 1.7665443197759259,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.08,
+        "commentatorTierSimilarities": [
+            28.49,
+            32.15,
+            39.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'They forget that the two charges,\u2014one that he had never been born blind, and so was an impostor,\u2014the other, that he bore the mark of God\u2019s anger in a blindness that reached back to his birth,\u2014will not agree together.'\" ",
+            "It cannot merely mean, \u2018they cast kim out of the court,\u2019 as many, both ancient and modern, interpret it...",
+            "...where it would hardly be stated that Jesus heard of it, unless it had been some public formal act."
+        ],
+        "Albert Barnes": [
+            "Wast born in sins - That is, thou wast born in a state of blindness a state which proved that either thou or thy parents had sinned, and that this was the punishment for it.\" ",
+            "Thou wast cursed by God with blindness for crime, and yet thou dost set up for a religious teacher!",
+            "When people have no arguments, they attempt to supply their place by revilings."
+        ],
+        "Marvin Vincent": [
+            "In sins wast thou born, all of thee; and dost thou teach us?\" ",
+            "Teach. Emphatic. Dost thou, thus born in sins, assume the office of teacher?",
+            "Cast him out. From the place where they were conversing."
+        ],
+        "John Calvin": [
+            "This undeserved censure ought to instruct us to be exceedingly cautious, not always to estimate the sins of any person by the chastisements of God.",
+            "Now, since we ought always to hear God, by whomsoever he may talk to us, let us learn not to despise any man, that God may find us always mild and submissive, even though he employ a person altogether mean and despicable to instruct us.",
+            "For there is not a more dangerous plague than when pride stops our ears, so that we do not deign to hear those who warn us for our profit; and it frequently happens that God purposely selects vile and worthless persons to instruct and warn us, in order to subdue our pride."
+        ],
+        "Philip Schaff": [
+            "In sins wast thou born, all of thee, and thou, dost thou teach us?"
+        ],
+        "Archibald T. Robertson": [
+            "In sins thou wast begotten (or born) all of thee.\" ",
+            "The audacity of it all. Note emphasis on \u03c3\u03c5 (thou). It was insufferable.",
+            "Certainly forcible driving of the gifted upstart from their presence."
+        ],
+        "John Gill": [
+            "Certainly it was God that gave him a mouth and wisdom which these learned doctors could not resist...",
+            "thou vile, sinful creature, who came into the world covered with sin, with the visible marks of having sinned...",
+            "but was what they call 'Cherem', which was a cutting him off from the whole congregation of Israel; an anathematizing him, and a devoting him to ruin and destruction..."
+        ],
+        "John Wesley": [
+            "Born in sin \u2014 And therefore, they supposed, born blind.",
+            "They cast him out \u2014 Of the synagogue; excommunicated him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They forget that the two charges,\u2014one that he had never been born blind, and so was an impostor,\u2014the other, that he bore the mark of God\u2019s anger in a blindness that reached back to his birth,\u2014will not agree together. The Pharisees cast him out of the court, insufferable of his audacity to assume the office of a teacher. They accused him of being born in sin, using his blindness as evidence of punishment. However, this undeserved censure should caution us against judging someone's sins based on their afflictions. We should always be open to hearing the message of God, even if it comes from an unlikely source. Pride can be a dangerous plague, closing our ears to those who may have been specifically chosen by God to instruct and warn us.",
+            "wordCount": 136,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 1.7203654107435615,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                27.43,
+                31.23,
+                41.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They forget that the two charges,\u2014one that he had never been born blind, and so was an impostor,\u2014the other, that he bore the mark of God\u2019s anger in a blindness that reached back to his birth,\u2014will not agree together. The Pharisees cast him out, unable to tolerate his audacity as a teacher. They accused him of being born in sin, using his blindness as proof. Yet, this undeserved censure teaches us the danger of judging someone solely based on their afflictions. We should always be humble and receptive to the message of God, even if it comes from an unlikely source.",
+            "wordCount": 105,
+            "quoteTokenProportion": 53.16,
+            "qualityScore": 1.7665443197759259,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.08,
+            "commentatorTierSimilarities": [
+                28.49,
+                32.15,
+                39.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, in their arrogance, cast the blind man out and accused him of being born in sin. However, their charges contradicted one another. It is a dangerous mistake to judge someone's sins based on their afflictions. This incident reminds us to be cautious and not despise anyone, for God can use even the most unworthy individuals to teach and warn us. It is pride that closes our ears to invaluable messages, choosing to ignore the messengers that God has sent.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.6413633776234717,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+            "commentatorTierSimilarities": [
+                24.63,
+                35.05,
+                40.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blind man was cast out by the Pharisees, who accused him of being born in sin due to his blindness. However, their charges conflicted, as they suggested he was an impostor while also claiming his blindness was a punishment from God. This unwarranted condemnation teaches us the dangers of judging others based on their afflictions. We should remain humble and receptive to God's teachings, even if they come from unexpected and seemingly unworthy sources. Pride can blind us to the wisdom and warnings God may send through unlikely messengers.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.6582796929960355,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+            "commentatorTierSimilarities": [
+                22.95,
+                34.06,
+                42.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees harshly rejected the blind man, accusing him of being born in sin and challenging his authority to teach. However, their charges actually contradicted one another, suggesting both that he was an impostor and that his blindness was a punishment from God. This unjust criticism cautions us against judging people solely based on their afflictions. We should remain open and receptive to the teachings of God, even if they come from unexpected and seemingly unworthy sources. Pride can blind us to the valuable insights and warnings that God may deliver through unlikely messengers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.6404362964900816,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+            "commentatorTierSimilarities": [
+                23.12,
+                35.81,
+                41.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

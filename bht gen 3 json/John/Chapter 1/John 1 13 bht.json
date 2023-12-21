@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-21-2023 03:04:08",
+    "verseRef": "John 1:13",
+    "bestBHT": {
+        "bht": "Those who become children of God by faith have an exclusive divine birth, separate from any claim of superior human descent or human generation. This divine birth is not a mere title or privilege, but a nature that awakens within the soul the vital capacities, perceptions, and emotions of a child of God. The new birth is the beginning of spiritual life, and no human effort can bring about this transformation. It is solely the work of God, who begets believers and grants them the right to become children of God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.157193893346299,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+        "commentatorTierSimilarities": [
+            35.67,
+            34.97,
+            29.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. John here negatives any such claim, and asserts the exclusive divine birth of all who become children of God by faith.",
+            "It is to be noticed that the conjunctions here are not merely disjunctive ones, which would necessitate the ranging the clauses as co-ordinate and parallel, but exclusive ones, which rise in climax from one clause to another.",
+            "Not of blood, nor yet of the will of the flesh, nor yet of the will of man, but of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Which were born\u2014a sonship therefore not of mere title and privilege, but of nature, the soul being made conscious of the vital capacities, perceptions, and emotions of a child of God, before unknown.",
+            "not of blood, &c.\u2014not of superior human descent, not of human generation at all, not of man in any manner of way. By this elaborate threefold denial of the human source of this sonship, immense force is given to what follows,",
+            "but of God\u2014Right royal gift, and He who confers must be absolutely divine. For who would not worship Him who can bring him into the family, and evoke within him the very life, of the sons of God?"
+        ],
+        "Albert Barnes": [
+            "The term 'to be born' is often used to denote this change. [...] The natural birth introduces us to life. The new birth is the beginning of spiritual life.\" ",
+            "None of the ways by which we become entitled to the privileges of 'children' among people can give us a title to be called the sons of God.",
+            "This work is the work of God, and 'no man' can do it for us."
+        ],
+        "Philip Schaff": [
+            "These believers have received the right to become 'children of God' by virtue of a true spiritual filiation, being begotten of God.",
+            "The contrast to such a sonship is the very claim which is so strongly made by the Jews in chap. 8, and the validity of which our Lord altogether denies.",
+            "By others besides Jews like presumptuous claims have been made, others have rested in the 'divinity' of their race."
+        ],
+        "Archibald T. Robertson": [
+            "By spiritual generation (of God, \u03b5\u03ba \u03b8\u03b5\u03bf\u03c5), not by physical (\u03b5\u03be \u03b1\u03b9\u03bc\u03b1\u03c4\u03c9\u03bd, plural as common in classics and O.T., though why it is not clear unless blood of both father and mother; \u03b5\u03ba \u03b8\u03b5\u03bb\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c3\u03b1\u03c1\u03ba\u03bf\u03c2, from sexual desire; \u03b5\u03ba \u03b8\u03b5\u03bb\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03bd\u03b4\u03c1\u03bf\u03c2, from the will of the male).\" ",
+            "But b of the old Latin reads qui natus est and makes it refer to Christ and so expressly teach the Virgin Birth of Jesus.",
+            "The Virgin Birth is doubtless implied in verse John 1:14, but it is not stated in verse John 1:13."
+        ],
+        "John Gill": [
+            "All that they can do is to pray for them, give advice, and bring them under the means of grace; but all is ineffectual without a divine energy.",
+            "Regeneration is ascribed to another will and power, even to the will and power of God.",
+            "None are born again of any such will: but of God."
+        ],
+        "John Wesley": [
+            "Who became the sons of God, not of blood.",
+            "Not by descent from Abraham, nor by the will of the flesh.",
+            "But of God - By his Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who become children of God by faith have an exclusive divine birth, separate from any claim of superior human descent or human generation. This divine birth is not a mere title or privilege, but a nature that awakens within the soul the vital capacities, perceptions, and emotions of a child of God. The new birth is the beginning of spiritual life, and no human effort can bring about this transformation. It is solely the work of God, who begets believers and grants them the right to become children of God. Such a sonship contrasts the presumptuous claims of those who rely on their own lineage or race, emphasizing the necessity of the divine energy of God in the process of regeneration.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.146743849771319,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.72,
+            "commentatorTierSimilarities": [
+                35.69,
+                34.04,
+                30.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who become children of God by faith have an exclusive divine birth, separate from any claim of superior human descent or human generation. This divine birth is not a mere title or privilege, but a nature that awakens within the soul the vital capacities, perceptions, and emotions of a child of God. The new birth is the beginning of spiritual life, and no human effort can bring about this transformation. It is solely the work of God, who begets believers and grants them the right to become children of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.157193893346299,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+            "commentatorTierSimilarities": [
+                35.67,
+                34.97,
+                29.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who become children of God by faith are not born of human lineage or human will, but of God. Their divine birth is characterized by a nature that stirs within them the qualities of a child of God. The new birth, which marks the beginning of their spiritual life, is solely the work of God and cannot be achieved through human efforts. This exclusive divine birth separates believers from those who rely on their own claims of superiority or privilege, emphasizing the necessity of God's divine energy in the process of regeneration.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.135204129374233,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                33.17,
+                34.52,
+                32.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who become children of God by faith are not born of human lineage or human will, but of God. This divine birth, distinct from any claim of superior human descent, is not merely a title or privilege but a transformative nature that awakens within the soul the capacities and emotions of a child of God. The new birth, the beginning of spiritual life, is a work of God alone, beyond human capability. It distinguishes believers from those who place their confidence in their own heritage or race, highlighting the vital role of God's power in the process of regeneration.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.1113757015190746,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                33.07,
+                34.49,
+                32.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who become children of God by faith have an exclusive divine birth, not dependent on human lineage or the will of the flesh, but solely of God. This divine birth is more than a mere title or privilege; it engenders a new nature within the believer, awakening their vital capacities as a child of God. The new birth, marking the beginning of spiritual life, is not attainable through human effort but is a supernatural work accomplished by God. This divine transformation sets believers apart from those who boast in their own heritage or claim to divinity based on their race.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.1543479037972637,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                34.78,
+                34.03,
+                31.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

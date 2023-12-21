@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-21-2023 03:06:41",
+    "verseRef": "John 6:5",
+    "bestBHT": {
+        "bht": "Jesus, anticipating the hunger of the approaching multitude, directed His question to Philip, not as a test of knowledge or to shed light on his hometown, but to awaken the disciples' awareness. The variations in the narratives should not lead one to handle the Word of God deceitfully, but rather to admire the gracious condescension that provides multiple witnesses, emphasizing the weighty accordance in fundamental truths. Jesus dismissed their objections and continued with His plan, addressing Philip specifically due to his familiarity with the area.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.644780643499649,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+        "commentatorTierSimilarities": [
+            34.25,
+            25.13,
+            40.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There can be no doubt, fairly and honestly speaking, that the narratives, in their mere letter, disagree.",
+            "The humble and believing Christian will not be tempted to handle the word of God deceitfully, but to admire the gracious condescension which has given us the evidence of so many independent witnesses, whose very difference in detail makes their accordance in the great central truths so much the more weighty.",
+            "We must not fall into the mistake of supposing that Philip being of Bethsaida the city of Andrew and Peter throws any light on the question."
+        ],
+        "Marvin Vincent": [
+            "Come [\u03b5\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9] . Better, is coming. Unto Him [\u03c0\u03c1\u03bf\u03c2] is rather toward. Bread [\u03b1\u03c1\u03c4\u03bf\u03c5\u03c2] . Properly, loaves. See on Matthew 4:1."
+        ],
+        "John Calvin": [
+            "Perceiving that they have no conception of an extraordinary remedy, he then arouses their minds, which may be said to be asleep, so that they may, at least, have their eyes open to behold what shall be immediately exhibited to them.",
+            "The design of all that is alleged by the disciples is, to persuade Christ not to detain the people; and, perhaps, in this respect they consult their private advantage...",
+            "Accordingly, Christ disregards their objections, and proceeds in his design."
+        ],
+        "Philip Schaff": [
+            "The place in which the multitudes were gathering was a desert plain at the foot of the hills.",
+            "Our Lord's question to Philip, then, is entirely independent of the later petition of the twelve.",
+            "None of them can contain all that passed between the disciples and their Master."
+        ],
+        "Archibald T. Robertson": [
+            "Lifting up his eyes...Jesus looked down from the mountain on the approaching multitude.",
+            "Whence are we to buy? Deliberative subjunctive...Jesus takes up the matter of feeding the multitude with Philip.",
+            "Bread...that these may eat. Purpose clause with \u03b9\u03bd\u03b1 and the second aorist active subjunctive."
+        ],
+        "John Gill": [
+            "Being before engaged in close conversation with his disciples, and looking wistly and intently on them, whilst he was discoursing with them.\" ",
+            "He directed his discourse to him particularly, because he was of Bethsaida, near to which place Christ now was, and therefore might be best able to answer the following question.\" ",
+            "This, according to the other evangelists, must be said after Christ came from the mountain, and the people were come to him, and he had received them kindly, and had instructed them about the kingdom of God, and had healed the diseased among them, and expressed great compassion for them."
+        ],
+        "John Wesley": [
+            "Jesus saith to Philip \u2014 Perhaps he had the care of providing victuals for the family of the apostles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, looking out at the approaching multitude and knowing that they were hungry, asked Philip where they could buy bread. The intention behind this question was not to test Philip's knowledge or to highlight his connection to Bethsaida, but rather to arouse their minds and to display the extraordinary remedy that would soon be revealed. It is important to note that Jesus disregarded the disciples' objections and continued with His plan. Later, Jesus spoke directly to Philip because he was from Bethsaida and possibly had knowledge of the area. This question to Philip was independent of the later petition made by the twelve. While the narratives may appear to disagree in their details, the humble and believing Christian must see the grace of God in the independent witnesses. Despite the disagreements, the accordance in the central truths of the Gospel is all the more weighty.",
+            "wordCount": 146,
+            "quoteTokenProportion": 41.05,
+            "qualityScore": 1.5038232052188585,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.34,
+            "commentatorTierSimilarities": [
+                30.45,
+                29.48,
+                40.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in anticipation of the approaching hungry multitude, sought Philip's insight on where to buy bread. This question was not a test of knowledge or a reference to Philip's hometown, but a means to awaken the disciples' understanding and introduce the extraordinary remedy that would follow. Despite any perceived disagreements in the narratives, the humble Christian should appreciate the gracious condescension of multiple witnesses and the weighty accordance in central truths. Jesus, disregarding objections, continued with His plan, addressing Philip specifically as someone familiar with the area.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.499046948617841,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                36.78,
+                24.05,
+                39.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, anticipating the hunger of the approaching multitude, directed His question to Philip, not as a test of knowledge or to shed light on his hometown, but to awaken the disciples' awareness. The variations in the narratives should not lead one to handle the Word of God deceitfully, but rather to admire the gracious condescension that provides multiple witnesses, emphasizing the weighty accordance in fundamental truths. Jesus dismissed their objections and continued with His plan, addressing Philip specifically due to his familiarity with the area.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.644780643499649,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.03,
+            "commentatorTierSimilarities": [
+                34.25,
+                25.13,
+                40.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, seeing the approaching multitude and knowing their hunger, asked Philip where they could buy bread. The question was not to reveal Philip's hometown or test his knowledge, but to awaken the disciples' understanding and display the extraordinary remedy that would follow. While the narratives may disagree in detail, the humble Christian appreciates the gracious condescension of multiple witnesses and the weighty accordance in essential truths. Jesus disregarded objections and continued His plan, addressing Philip as someone familiar with the area.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5341736424427515,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.35,
+            "commentatorTierSimilarities": [
+                35.46,
+                23.57,
+                40.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, seeing the approaching multitude and their hunger, asked Philip where they could buy bread. While the narratives may disagree in detail, the humble Christian appreciates the gracious condescension of multiple witnesses and the weighty accordance in essential truths. Jesus disregarded objections and continued His plan, addressing Philip as someone familiar with the area. The question was not intended to test Philip's knowledge or highlight his hometown, but to awaken the disciples' understanding and reveal the extraordinary remedy that would soon be displayed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.5426763255343579,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                35.8,
+                23.21,
+                40.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

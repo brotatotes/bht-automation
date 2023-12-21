@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-21-2023 03:15:02",
+    "verseRef": "John 20:6",
+    "bestBHT": {
+        "bht": "The inner truth of this description is unparalleled, resembling the very voice of Peter as he recounts the state of the tomb. John witnessed the linen clothes lying, while Peter meticulously examined them. Notably, the folded napkin, not loosely thrown down, but carefully wrapped, signifies the serene departure of the Living One from death. This detail signifies that the body was not stolen, as unwrapping it would have been time-consuming and cumbersome. It is evident that the angels who attended to him after his resurrection meticulously folded the napkin and linen clothes.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.570219841446657,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+        "commentatorTierSimilarities": [
+            34.52,
+            0.0,
+            65.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What can exceed the inner truth of this description? And what is not related is as full of truth as that which is.",
+            "For, vv. 6, 7, we seem to hear the very voice of Peter describing to his companion the inner state of the tomb.",
+            "Notice also that John, when he stooped and looked in, saw only the linen clothes... whereas Peter, on going in, saw the napkin."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And the napkin, that was about his head, not lying with the linen clothes\u2014not loosely, as if hastily thrown down, and indicative of a hurried and disorderly removal.",
+            "But wrapped\u2014folded.",
+            "Showing with what grand tranquillity 'the Living One' had walked forth from 'the dead'."
+        ],
+        "Archibald T. Robertson": [
+            "Peter impulsively went on in and beholds, vivid term again, but of careful notice.",
+            "Vivid term again, but of careful notice.",
+            "Not a mere glance."
+        ],
+        "John Gill": [
+            "And seeth the linen clothes lie; as John did; and as by the mouth of two or three witnesses everything is confirmed, so was this; both saw the linen in which the body was wrapped, but that was gone...\" (34 words)",
+            "which was a sign that the body was not stolen away, otherwise the linen would not have been left...\" (23 words)",
+            "it would have taken up some time, and given a good deal of trouble, to have unwrapped the body, when it is considered how many foldings the Jews used to wind up their corpse in\" (35 words)"
+        ],
+        "John Wesley": [
+            "Peter seeth the linen clothes lie \u2014 and the napkin folded up - The angels who ministered to him when he rose, undoubtedly folded up the napkin and linen clothes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What can exceed the inner truth of this description? For, we seem to hear the very voice of Peter describing the inner state of the tomb, where John noticed the linen clothes lying and Peter, being the impulsive one, went on in and carefully beheld them. The folded napkin, not hastily thrown down, but wrapped, reveals the grand tranquillity with which the Living One had come forth from the dead. This detail, confirmed by two witnesses, serves as a sign that the body was not stolen away, as it would have taken time and effort to have unwrapped it. The folded napkin and linen clothes show how the angels who ministered to him when he rose had carefully attended to him.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.35,
+            "qualityScore": 1.5629206528181658,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                34.53,
+                0.0,
+                65.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What can exceed the inner truth of this description? For, we seem to hear the very voice of Peter describing the inner state of the tomb, where John noticed the linen clothes lying and Peter carefully beheld them. The folded napkin reveals the grand tranquillity with which the Living One had come forth from the dead. This detail confirms that the body was not stolen away, as it would have taken time and effort to have unwrapped it. The angels who ministered to him when he rose carefully attended to him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.3985813186609939,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+            "commentatorTierSimilarities": [
+                38.26,
+                0.0,
+                61.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The inner truth of this description is unparalleled, resembling the very voice of Peter as he recounts the state of the tomb. John witnessed the linen clothes lying, while Peter meticulously examined them. Notably, the folded napkin, not loosely thrown down, but carefully wrapped, signifies the serene departure of the Living One from death. This detail signifies that the body was not stolen, as unwrapping it would have been time-consuming and cumbersome. It is evident that the angels who attended to him after his resurrection meticulously folded the napkin and linen clothes.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.570219841446657,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+            "commentatorTierSimilarities": [
+                34.52,
+                0.0,
+                65.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What can exceed the truthfulness in this description? We almost hear Peter himself describing the inner state of the tomb, where John noticed the linen clothes lying, and Peter carefully beheld them. The folded napkin, not hastily thrown down, but wrapped, signifies the calmness with which 'the Living One' arose from the dead. This confirms that the body was not stolen, as unwrapping it would have taken time and effort. The angels who ministered to him lovingly folded the napkin and linen clothes.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.4850933752633317,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+            "commentatorTierSimilarities": [
+                33.14,
+                0.0,
+                66.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The profound truth of this description is unmatched, resembling Peter's own account of the tomb's condition. John witnessed the linen clothes lying there, while Peter examined them with great care. The neatly folded napkin signifies the serene manner in which the Living One emerged from death. This detail provides evidence that the body was not stolen, as unwrapping it would have been time-consuming and cumbersome. It is clear that the angels who ministered to him after his resurrection thoughtfully folded the napkin and linen clothes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.560487587339924,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+            "commentatorTierSimilarities": [
+                33.91,
+                0.0,
+                66.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

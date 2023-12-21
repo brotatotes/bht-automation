@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-21-2023 03:06:06",
+    "verseRef": "John 5:15",
+    "bestBHT": {
+        "bht": "The man, who had been healed by Jesus, seems to have shown ingratitude and betrayal in his response. Rather than heeding Jesus' warning about his sins, he went and told the Jews, possibly out of a sense of duty to the authorities. However, this action reveals a lack of respect for Jesus and his goodness. The man's intention may have been pious, to give honor to his Physician, but it resulted in bringing trouble upon his benefactor. This illustrates how even acts of candor, benevolence, and usefulness can provoke slander and persecution from those who prefer sacrifice over mercy.",
+        "wordCount": 100,
+        "quoteTokenProportion": 43.24,
+        "qualityScore": 1.73818720624463,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+        "commentatorTierSimilarities": [
+            19.46,
+            37.56,
+            42.98
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We can hardly imagine ingratitude in him to have been the cause.",
+            "The words 'which had made him whole' speak so plainly of the benefit received.",
+            "Compare ver. 11 and note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The darkness received not the light which was pouring its rays upon it.",
+            "The darkness received not the light.",
+            "The darkness received not the light which was pouring its rays upon it."
+        ],
+        "Marvin Vincent": [
+            "Told [\u03b1\u03bd\u03b7\u03b3\u03b3\u03b5\u03b9\u03bb\u03b5\u03bd] . See on 4 25. The best texts, however, read eipen, said."
+        ],
+        "John Calvin": [
+            "Nothing was farther from his intention than to make Christ an object of their hatred.",
+            "His intention, therefore, was pious; for he wished to render to his Physician the honor which was justly due to him.",
+            "The Jews, on the other hand, show their venom, not only in accusing Christ of having violated the Sabbath, but in breaking out into extreme cruelty."
+        ],
+        "Philip Schaff": [
+            "The man\u2019s reply, given as soon as he had learnt the name of his Deliverer, was that Jesus had made him whole.",
+            "Probably his motive was a sense of duty to those who, whatever might be their spirit, were constituted authorities who had a right to be satisfied as to all breaches of the law.",
+            "In his eyes the man is for the moment a prophet of the Most High, a messenger of warning, to the guilty Jews."
+        ],
+        "Archibald T. Robertson": [
+            "Instead of giving heed to the warning of Jesus about his own sins he went off and told the Jews.\" ",
+            "He was either ungrateful and wilfully betrayed Jesus or he was incompetent and did not know that he was bringing trouble on his benefactor.\" ",
+            "In either case one has small respect for him."
+        ],
+        "John Gill": [
+            "and went either to Bethesda, where the miracle was wrought, and where a multitude of people were, and where he might expect to find some of the persons that had questioned him about carrying his bed, and who it was that bid him do it;",
+            "this he did, not out of any ill will to Christ, with any bad design upon him, to impeach and accuse him as a violator of the sabbath, for what he had said and done to him; for this would have been most ungrateful, and even barbarous, brutish, and diabolical;",
+            "and chiefly that the sanhedrim might be induced hereby to believe that Jesus was the Messiah, and to declare and patronize him as such."
+        ],
+        "John Wesley": [
+            "One might have expected, that when he had published the name of his benefactor, crowds would have thronged about Jesus, to have heard the words of his mouth, and to have received the blessings of the Gospel.",
+            "Let us not wonder then, if our good be evil spoken of: if even candour, benevolence, and usefulness, do not disarm the enmity of those who have been taught to prefer sacrifice to mercy.",
+            "They... naturally seek to slander and persecute the professors, but especially the defenders of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man, who had been healed by Jesus, seems to have shown ingratitude and betrayal in his response. Rather than heeding Jesus' warning about his sins, he went and told the Jews, possibly out of a sense of duty to the authorities. However, this action reveals a lack of respect for Jesus and his goodness. The man's intention may have been pious, to give honor to his Physician, but it resulted in bringing trouble upon his benefactor. This illustrates how even acts of candor, benevolence, and usefulness can provoke slander and persecution from those who prefer sacrifice over mercy.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.73818720624463,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.14,
+            "commentatorTierSimilarities": [
+                19.46,
+                37.56,
+                42.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man's response to being healed by Jesus was marked by ingratitude and betrayal. Instead of heeding Jesus' warning about his sins, he chose to inform the Jews, potentially out of a sense of duty to the authorities. Unfortunately, this revealed a lack of respect for Jesus and his goodness. Although the man's intention may have been to honor his Physician, his action brought trouble upon his benefactor. This reminds us that acts of kindness and usefulness can sometimes provoke slander and persecution from those who prioritize sacrifice over mercy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.6988515815785454,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                18.04,
+                40.6,
+                41.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man, after being healed by Jesus, seemed ungrateful and betrayed his benefactor. Instead of acknowledging the benefit he received, he went and told the Jews. This action reflects either ingratitude or incompetence on his part and shows a lack of respect for Jesus. The man's intention might have been pious, wanting to give honor to his Physician, but it resulted in bringing trouble upon Jesus. This highlights the reality that even acts of candor, benevolence, and usefulness can provoke slander and persecution.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.7068132617357599,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                22.21,
+                34.42,
+                43.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man, no matter his intention, showed ingratitude towards Jesus by informing the Jews about his healing instead of heeding Jesus' warning. His act of either betrayal or incompetence lacked respect for his benefactor. This circumstance serves as a reminder that acts of kindness and usefulness can sometimes invite slander and persecution from those who prioritize sacrifice over mercy.",
+            "wordCount": 59,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6207215524462564,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                20.2,
+                35.42,
+                44.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man, after receiving healing from Jesus, displayed ingratitude by informing the Jews about his healing rather than acknowledging the benefit he had received. This action reveals either ungratefulness or incompetence, demonstrating a lack of respect for Jesus. Though the man's intention might have been to honor his Healer, it instead resulted in bringing trouble upon Jesus. This serves as a reminder that even acts of kindness and usefulness can provoke slander and persecution from those who prioritize sacrifice over mercy.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.6240540245089743,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                18.33,
+                36.22,
+                45.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

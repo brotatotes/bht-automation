@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:13:00",
+    "verseRef": "John 15:11",
+    "bestBHT": {
+        "bht": "The joy that characterizes Jesus, derived from His awareness of God's love and unity, is a joy He desires to share with His disciples. This joy is not fleeting or shallow, but enduring and complete. Through their union with Christ and the fulfillment found in obedience, believers can partake in this joy. By embracing the teachings of Christ, they discover assurance of salvation and a genuine source of joy that surpasses life's challenges. Ultimately, this joy will find its consummation and perfection in the eternal realm.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 2.1248272097023726,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.99,
+        "commentatorTierSimilarities": [
+            25.14,
+            40.67,
+            34.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My joy, properly speaking...the joy of the Son in the consciousness of the love of God, of His Unity with the Father...\" ",
+            "That their joy might, by the indwelling of that His Joy, be uplifted and ennobled even to fulness...\" ",
+            "To the extreme of their capability and satisfaction, and might remain so."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9-11. continue ye in my love\u2014not,",
+            "\t\"Continue to love Me,\" but, \"Continue in the",
+            "\tpossession and enjoyment of My love to you\"; as is evident from",
+            "\tthe next words."
+        ],
+        "Albert Barnes": [
+            "Their obedience was to him a source of joy. It was that which he sought and for which he had labored.",
+            "Christ rejoices in the obedience of all his friends; and, though his happiness is not dependent on them, yet their fidelity is an object which he desires and in which he finds delight.",
+            "And it showed his great love, that he promised such joy; his infinite knowledge, that, in the midst of their many trials and persecutions, he knew that they would possess it; and the glorious power and loveliness of his gospel, that it could impart such joy amid so many tribulations."
+        ],
+        "Marvin Vincent": [
+            "My joy. The joy that is mine; characteristic of me.",
+            "The A. V. loses the distinction between the absolute joy which is Christ's, and the progressive, but finally consummated joy which is the disciple's.",
+            "Might be full [\u03c0\u03bb\u03b7\u03c1\u03c9\u03b8\u03b7]. Rev., more correctly, may be fulfilled."
+        ],
+        "John Calvin": [
+            "As often, then, as God\u2019s fatherly love towards us is preached, let us know that there is given to us ground for true joy, that, with peaceable consciences, we may be certain of our salvation.",
+            "It is Christ \u2019s, because it is given to us by him; for he is both the Author and the Cause of it.",
+            "Let us therefore learn that we ought to seek in the doctrine of Christ the assurance of salvation, which retains its vigor both in life and in death."
+        ],
+        "Philip Schaff": [
+            "'My joy' must be interpreted in the same way as 'My peace'... It is the joy which Jesus possessed as 'anointed with the oil of gladness above His fellows,' which flowed from His uninterrupted possession of His Father's love... which was crowned in that uninterrupted intercourse with His Father in which He asked and received whatsoever He desired, and which filled His heart amidst all the trials and sorrows of His work on earth.\" ",
+            "That very joy He will communicate to His disciples, and their joy will be then 'fulfilled.' Like Him who went before them, they shall 'see of the travail of their soul and shall be satisfied.'",
+            "The arrangement of the words in the original of this verse... is worthy of notice."
+        ],
+        "Archibald T. Robertson": [
+            "That my joy may be in you (\u03b9\u03bd\u03b1 \u03b7 \u03c7\u03b1\u03c1\u03b1 \u03b7 \u03b5\u03bc\u03b7 \u03b5\u03bd \u03c5\u03bc\u03b9\u03bd \u03b7). Purpose clause with \u03b9\u03bd\u03b1 and the present subjunctive \u03b7 (some MSS. have \u03bc\u03b5\u03b9\u03bd\u03b7, may remain), Christ's permanent absolute joy in the disciples.",
+            "And that your joy be fulfilled (\u039a\u03b1 \u03b7 \u03c7\u03b1\u03c1\u03b1 \u03c5\u03bc\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03c9\u03b8\u03b7). Same construction with first aorist (effective) passive subjunctive of \u03c0\u03bb\u03b7\u03c1\u03bf\u03c9, consummation of the process preceding."
+        ],
+        "John Gill": [
+            "That my joy might remain in you; ... which will always remain and continue the same.",
+            "There is always reason to rejoice in him, even in the most afflictive circumstances of life.",
+            "That grace of joy which is implanted in the soul ... will be entirely full, completely perfected in the other world."
+        ],
+        "John Wesley": [
+            "That my joy might remain in you \u2014 The same joy which I feel in loving the Father, and keeping his commandments."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In John 15:11, Jesus speaks of a joy that is characteristic of Him, the joy that stems from His consciousness of God's love and unity with the Father. Just as Christ finds joy in the disciples' obedience and fulfillment, He desires to impart His joy to them, so that their joy may be uplifted and ennobled to the fullest extent possible. This joy is not dependent on external circumstances, but rather on a deep and abiding relationship with Jesus, through which they can experience the fullness of His joy that remains and continues steadfastly. It is through the doctrine of Christ that believers can find assurance of salvation, a source of true joy that transcends even the most challenging circumstances in life. Ultimately, this joy will be fully perfected and fulfilled in the eternal realm.",
+            "wordCount": 135,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.291816003888721,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.54,
+            "commentatorTierSimilarities": [
+                24.56,
+                39.67,
+                35.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The joy that Jesus possesses as a result of His unity with the Father is one that He desires to share with His disciples. It is not simply a fleeting or superficial joy, but a deep and abiding joy that remains and continues steadfastly. This joy is found in the obedience and fulfillment of the disciples, and through their connection to Jesus, they too can experience the fullness of this joy. It is through the teachings of Christ that believers can find assurance of salvation and a true source of joy that extends beyond the challenges of life. Ultimately, this joy will reach its fullness and perfection in the eternal realm.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.177237448176191,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.73,
+            "commentatorTierSimilarities": [
+                24.3,
+                40.2,
+                35.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In John 15:11, Jesus shares a joy that is intimately connected to His consciousness of God's love and unity with the Father. This joy is not temporary or superficial, but rather a deep and abiding joy that He desires to impart to His disciples. By remaining connected to Jesus and experiencing the fulfillment that comes from obedience and love, believers can partake in this same joy. Through the teachings of Christ, they can find assurance of salvation and a profound source of joy that transcends life's difficulties, leading to ultimate fulfillment in the eternal realm.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.2100364181175602,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.82,
+            "commentatorTierSimilarities": [
+                23.87,
+                42.08,
+                34.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The joy that characterizes Jesus, derived from His awareness of God's love and unity, is a joy He desires to share with His disciples. This joy is not fleeting or shallow, but enduring and complete. Through their union with Christ and the fulfillment found in obedience, believers can partake in this joy. By embracing the teachings of Christ, they discover assurance of salvation and a genuine source of joy that surpasses life's challenges. Ultimately, this joy will find its consummation and perfection in the eternal realm.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.1248272097023726,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.99,
+            "commentatorTierSimilarities": [
+                25.14,
+                40.67,
+                34.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In John 15:11, Jesus speaks of the joy that stems from His unity with the Father, a joy He desires to impart to His disciples. This joy, characterized by a deep consciousness of God's love, is not temporary or superficial, but rather a joy that remains steadfast. By remaining connected to Christ and experiencing the fulfillment that comes from obedience and love, believers can partake in this same enduring joy. Through the teachings of Christ, they can find assurance of salvation and a profound source of joy that transcends life's difficulties, leading to ultimate fulfillment in the eternal realm.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.1707522919604654,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.52,
+            "commentatorTierSimilarities": [
+                24.39,
+                40.69,
+                34.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-21-2023 03:11:29",
+    "verseRef": "John 13:13",
+    "bestBHT": {
+        "bht": "You call Me Teacher and Lord, learning from Me in one capacity and obeying Me in the other. The conscious dignity with which this claim is made is remarkable, following immediately on My act of humble service. Yet what is this whole history but a succession of such astonishing contrasts? I distinctly assert here to be both Teacher and Lord in the full sense. It was in this consciousness of dignity that I entered upon this scene, maintaining My position and authority as your Master and Lord.",
+        "wordCount": 87,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 1.7385320000211268,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+        "commentatorTierSimilarities": [
+            31.62,
+            30.06,
+            38.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Ye call me Master\u2014Teacher and Lord\u2014learning of Him in the one capacity, obeying Him in the other.",
+            "The conscious dignity with which this claim is made is remarkable, following immediately on His laying aside the towel of service.",
+            "Yet what is this whole history but a succession of such astonishing contrast from first to last?"
+        ],
+        "Albert Barnes": [
+            "And Lord - This word is applied to one who rules, and is often given to God as being the Proprietor and Ruler of all things.",
+            "Ye say well ... - Matthew 23:8, Matthew 23:10.",
+            "So I am - That is, he was their Teacher and Instructor, and he was their Sovereign and King."
+        ],
+        "Marvin Vincent": [
+            "Master [\u03bf \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2] . Literally, the Teacher. Teacher and Lord were used, according to the Jewish titles Rabbi and Mar, corresponding to which the followers were disciples or servants."
+        ],
+        "Philip Schaff": [
+            "Ye call me Master and Lord: and ye my well; for so I am.",
+            "It was in the full consciousness of the dignity belonging to Him that Jesus had entered upon this scene.",
+            "The word used for 'Master' is John's Greek rendering for the Hebrew 'Rabbi.' No special meaning therefore, such as 'Teacher,' is to be given it."
+        ],
+        "Archibald T. Robertson": [
+            "Call me. 'Address me.' \u03a6\u03c9\u03bd\u03b5\u03c9 regular for addressing one with his title.",
+            "Teacher. See John 11:28 for Martha's title for Jesus to Mary.",
+            "Jesus distinctly claims here to be both Teacher and Lord in the full sense."
+        ],
+        "John Gill": [
+            "Ye call me Master and Lord... and ye say well, for so I am.",
+            "Though he had acted the part of a servant... he still maintains his place and authority as a 'Master' to teach and instruct them, and as a 'Lord' to rule and govern them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You call Me Teacher and Lord, learning from Me in one capacity and obeying Me in the other. The conscious dignity with which I make this claim is remarkable, following immediately on My act of humble service. Yet throughout this history, there have been constant astonishing contrasts. But I distinctly claim here to be both Teacher and Lord in the full sense, as implied by your titles for Me. I am your Teacher, Instructor, Sovereign, and King. It was in the full consciousness of My dignity that I entered upon this scene, and I maintain My place and authority as a Master and Lord to both teach and rule over you.",
+            "wordCount": 111,
+            "quoteTokenProportion": 54.05,
+            "qualityScore": 1.7320532424028716,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                28.89,
+                30.8,
+                40.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You call Me Teacher and Lord, learning from Me as your Teacher and obeying Me as your Lord. The consciousness of My dignity is evident in this claim, which follows My act of humble service. Throughout this history, there have been remarkable contrasts, yet I assert here that I am both your Teacher and Lord in the fullest sense. I embrace the titles given to Me, for I am your Teacher, Instructor, Sovereign, and King. I entered this scene fully aware of My dignity, maintaining My authority as a Master and Lord to teach and rule over you.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.8914418220586597,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.23,
+            "commentatorTierSimilarities": [
+                27.21,
+                31.28,
+                41.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You call Me Teacher and Lord, learning from Me in the one capacity and obeying Me in the other. The conscious dignity with which this claim is made is remarkable, following immediately on My act of humble service. Yet what is this whole history but a succession of such astonishing contrast from first to last? I distinctly claim here to be both Teacher and Lord in the full sense. It was in the full consciousness of the dignity belonging to Me that I entered upon this scene.",
+            "wordCount": 87,
+            "quoteTokenProportion": 59.32,
+            "qualityScore": 1.648573027933225,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                33.99,
+                32.84,
+                33.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You call Me Teacher and Lord, learning from Me in one capacity and obeying Me in the other. The conscious dignity with which this claim is made is remarkable, following immediately on My act of humble service. Yet what is this whole history but a succession of such astonishing contrasts? I distinctly assert here to be both Teacher and Lord in the full sense. It was in this consciousness of dignity that I entered upon this scene, maintaining My position and authority as your Master and Lord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.7385320000211268,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.15,
+            "commentatorTierSimilarities": [
+                31.62,
+                30.06,
+                38.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You call Me Teacher and Lord, acknowledging My role as both your Instructor and Ruler. The remarkable contrast between these titles and My act of humble service is evident. Throughout this history, I repeatedly shift between these contrasting roles. However, in this moment, I clearly proclaim that I am indeed both your Teacher and Lord, fully embodying the authority and knowledge necessary for both. My entry into this scene exudes the consciousness of My dignity, as I continue to exercise My power as your Master and Lord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5932315000197061,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                25.85,
+                29.28,
+                44.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

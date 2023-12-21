@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-21-2023 03:14:12",
+    "verseRef": "John 18:27",
+    "bestBHT": {
+        "bht": "Peter's denial of Jesus differed greatly from Judas' betrayal. While Judas' treachery was the result of his resistance to the light of Christ, Peter's denial was a fleeting moment of opposition to his love for Jesus. The piercing look on Jesus' face after the denial brought forth a mix of wounded love and penetrating reproach within Peter's heart. The crowing of the cock marked the timing of the incident, as Peter immediately denied Jesus again. His final denial, accompanied by cursing and swearing, demonstrated his desperate attempt to disavow any association with being a disciple of Christ.",
+        "wordCount": 100,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.5858100217837663,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+        "commentatorTierSimilarities": [
+            34.76,
+            31.99,
+            33.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How different from the sequel of Judas' act! Doubtless the hearts of the two men towards the Saviour were perfectly different from the first; and the treason of Judas was but the consummation of the wretched man's resistance of the blaze of light in the midst of which he had lived for three years, while Peter's denial was but a momentary obscuration of the heavenly light and love to his Master which ruled his life.",
+            "But who can tell what lightning flashes of wounded love and piercing reproach shot from that 'look' through the eye of Peter into his heart!",
+            "Then shall the unrighteous judges be impartially judged; and while they are wishing that they had never been born, He for whom they now watch as their Victim shall be greeted with the hallelujahs of heaven, and the welcome of Him that sitteth upon the throne!"
+        ],
+        "Marvin Vincent": [
+            "The cock crew. The Greek has not the definite article. See on Matthew 26:34. The use of the article would seem to mark the time, cock - crowing, rather than the incident. ",
+            "- 38. Compare Matthew 27:1, Matthew 27:2; 11 - 14; Mark 14:1-6; Luke 23:1-5."
+        ],
+        "John Calvin": [
+            "Peter was warned by God at the very time.",
+            "Thus, when any person has once begun to fall through the suggestions of Satan, no voice, no sign, no warning, will bring him back.",
+            "Until the Lord himself cast his eyes upon him."
+        ],
+        "Philip Schaff": [
+            "Again therefore Peter denied. Nothing is said of the adjurations mentioned by the first two Evangelists.",
+            "And immediately the cock crew. All else recorded in the earlier Gospels is omitted.",
+            "One word more may be permitted in regard to the mode in which the three denials of Peter are presented to us by John. It will be observed that they are given in two groups, and that between the two there is advance; the effect is heightened as we proceed."
+        ],
+        "John Gill": [
+            "Peter then denied again,.... A third time, as the Ethiopic version renders it; and that, according to other evangelists, with cursing and swearing...",
+            "The fine for plucking a man's ears, and which some understand of plucking them off, was four hundred \"zuzim\" s, or, pence; which, as they answer to Roman pence, amount to twelve pounds ten shillings...",
+            "and therefore, that it might be believed he was not a disciple of Christ, so not the man; he swears in a profane manner, and imprecates the judgments of God upon him..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, in contrast to Judas, had a different heart towards Jesus. While Judas' betrayal was the culmination of his resistance to the light of Christ, Peter's denial was a momentary obscuration of his love for Jesus. However, the piercing look from Jesus after the denial surely brought waves of wounded love and reproach to Peter's heart. The cock's crow marked the time, not just the incident itself, and Peter immediately denied again. Despite warnings and signs, once someone starts to fall through the cunning of Satan, no voice or warning will bring them back unless the Lord Himself intervenes. As Peter denied a third time, he did so with cursing and swearing, desperately trying to distance himself from being known as a disciple of Christ.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.35,
+            "qualityScore": 1.605211798826975,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.72,
+            "commentatorTierSimilarities": [
+                31.46,
+                31.76,
+                36.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's denial of Jesus can be contrasted with Judas' betrayal. While Judas' act signified his complete resistance to the light of Christ, Peter's denial was a temporary obscuration of his deep love for his Master. The piercing look from Jesus after the denial was surely filled with wounded love and piercing reproach. The crowing of the cock marked the time, emphasizing the moment of denial. Peter's immediate second denial and his ultimate third denial, accompanied by cursing and swearing, demonstrate his desperate attempt to distance himself from being recognized as a disciple of Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4641753775022734,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.03,
+            "commentatorTierSimilarities": [
+                35.19,
+                31.46,
+                33.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's denial of Jesus was a fleeting moment of faltering in his unwavering love for his Master. In contrast to Judas' complete resistance to the light of Christ, Peter's denial was a temporary obscuration of his devotion. The intense gaze from Jesus, filled with wounded love and piercing reproach, surely struck Peter's heart. The crowing of the cock marked the time, underscoring the significance of the denial. Peter's immediate second denial and his final third denial, laced with cursing and swearing, reveal his desperate attempts to disassociate himself from being identified as a follower of Christ.",
+            "wordCount": 100,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.5096996869225867,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.54,
+            "commentatorTierSimilarities": [
+                35.28,
+                30.92,
+                33.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Peter's denial of Jesus, a stark contrast emerges from the parallel of Judas' betrayal. While Judas' act was the culmination of his resistance to the divine light, Peter's denial merely obscured his unwavering love for his Master. The intense gaze that Jesus cast upon Peter after the denial pierced his heart with wounded love and reproach. The crowing of the cock marked not only the incident itself but also emphasized the timing. Peter's immediate second denial, followed by a final third denial with cursing and swearing, showcased his desperate effort to distance himself from his identification as a disciple of Christ.",
+            "wordCount": 105,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.5465290099218425,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                36.05,
+                31.7,
+                32.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's denial of Jesus differed greatly from Judas' betrayal. While Judas' treachery was the result of his resistance to the light of Christ, Peter's denial was a fleeting moment of opposition to his love for Jesus. The piercing look on Jesus' face after the denial brought forth a mix of wounded love and penetrating reproach within Peter's heart. The crowing of the cock marked the timing of the incident, as Peter immediately denied Jesus again. His final denial, accompanied by cursing and swearing, demonstrated his desperate attempt to disavow any association with being a disciple of Christ.",
+            "wordCount": 100,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.5858100217837663,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                34.76,
+                31.99,
+                33.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

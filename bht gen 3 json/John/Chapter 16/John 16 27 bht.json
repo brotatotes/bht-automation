@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-21-2023 03:13:21",
+    "verseRef": "John 16:27",
+    "bestBHT": {
+        "bht": "The love of God the Father for believers is a reflection of His eternal love in giving His Son, and is described as a warm and friendly affection. Our love for Christ is evidence of the Father's love for us, and being united with Christ is the only way we can be connected to God. This bond is formed through our faith in Christ and our love for Him, which are both gifts from God, demonstrating His everlasting love for us.",
+        "wordCount": 82,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 2.0146833688708754,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.33,
+        "commentatorTierSimilarities": [
+            40.55,
+            9.41,
+            50.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For the Father himself loveth you, because ye have loved me\u2014This love of theirs is that which is called forth by God's eternal love in the gift of His Son mirrored in the hearts of those who believe..."
+        ],
+        "Albert Barnes": [
+            "See John 14:21, John 14:23."
+        ],
+        "Marvin Vincent": [
+            "Loveth [\u03c6\u03b9\u03bb\u03b5\u03b9] . As sons, with the love of natural affection.",
+            "The same verb in the following clause, of the love of the disciples for Christ.",
+            "From God. Some editors read, from the Father. Para, from beside."
+        ],
+        "John Calvin": [
+            "The only bond of our union with God is, to be united to Christ.",
+            "The commencement of salvation is from ourselves, because we have anticipated the grace of God.",
+            "We are loved by God, when we love Christ; because we have the pledge of the fatherly love of Him from whom we formerly recoiled as our offended Judge."
+        ],
+        "Archibald T. Robertson": [
+            "Loveth (\u03c6\u03b9\u03bb\u03b5). Present active indicative of \u03c6\u03b9\u03bb\u03b5\u03c9, the word for warm and friendly love, here used of God's love for the disciples.\" ",
+            "Ye have loved me (\u03c0\u03b5\u03c6\u03b9\u03bb\u03b7\u03ba\u03b1\u03c4\u03b5). Perfect active indicative of \u03c6\u03b9\u03bb\u03b5\u03c9, 'loved and still love me warmly.'",
+            "And have believed (\u03c0\u03b5\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03ba\u03b1\u03c4\u03b5). Perfect active indicative again. Recall the exhortation in John 14:1."
+        ],
+        "John Gill": [
+            "The Father loved them from everlasting, and had given proofs of it in time, in the gift of his Son to them, and for them.",
+            "The Father's love to them was the cause of their love to Christ; and therefore as the cause is known by its effect, they might be assured of the Father's love to them by their love to Christ.",
+            "Faith in Christ, and love to him, go together; where the one is, there is the other; faith works by love; they are both the gifts of God's grace, and the fruits and effects of his everlasting love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The love that God the Father has for believers is a reflection of His eternal love in the gift of His Son. This love is described as a warm and friendly love, similar to the love between natural family members. God's love for us is the cause of our love for Christ, and our love for Christ is the evidence of the Father's love for us. The bond between us and God is found in our union with Christ, and our belief in Him is an essential part of this bond. Through faith in Christ and love for Him, we experience the fruits and effects of God's everlasting love.",
+            "wordCount": 112,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.898766701516692,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                40.52,
+                10.31,
+                49.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The love of God the Father for believers is a reflection of His eternal love in giving His Son, and is described as a warm and friendly affection. Our love for Christ is evidence of the Father's love for us, and being united with Christ is the only way we can be connected to God. This bond is formed through our faith in Christ and our love for Him, which are both gifts from God, demonstrating His everlasting love for us.",
+            "wordCount": 82,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 2.0146833688708754,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.33,
+            "commentatorTierSimilarities": [
+                40.55,
+                9.41,
+                50.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Father's love for believers is a reflection of His eternal love in giving His Son. This love is described as warm and friendly, akin to the love between family members. Our love for Christ is evidence of the Father's love for us, and our union with Christ is the only way we can be connected to God. This bond is formed through our faith in Christ and our love for Him, both of which are gifts of God's grace and the fruits of His everlasting love.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.899122307551357,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                41.79,
+                9.75,
+                48.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Father's love for believers is rooted in His eternal love for us, demonstrated through the gift of His Son. This warm and friendly affection is likened to the natural bond of a family. Our love for Christ serves as proof of the Father's love for us, while our union with Christ is the essential connection to God. This bond is formed through our faith in Christ and our love for Him, both of which are gifts from God and manifestations of His everlasting love.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7493126544485418,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                41.16,
+                7.02,
+                51.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Father's love for believers is a reflection of His eternal love in the gift of His Son. This warm and friendly affection is akin to the love between family members. Our love for Christ is evidence of the Father's love for us, and our union with Christ is the only way to be connected to God. This bond is formed through our faith in Christ and our love for Him, both gifts of God's grace and the fruits of His everlasting love.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.850165608523982,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.86,
+            "commentatorTierSimilarities": [
+                41.89,
+                8.49,
+                49.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

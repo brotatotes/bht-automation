@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-21-2023 03:04:26",
+    "verseRef": "John 2:6",
+    "bestBHT": {
+        "bht": "The Lord's condemnation of a false system of moral reformation is evident in His act of turning water into wine, showing the futility of evading God's appointed work. The miracle is not explicitly described, but is understood to occur between verses 7 and 8. The choice of large stone water jars, typically used for ceremonial washings, emphasizes their cleanliness. Christ's generosity in providing an abundance of wine reflects His grace and provision for the feast. The quantity of wine produced indicates His abundant blessings for the occasion.",
+        "wordCount": 88,
+        "quoteTokenProportion": 25.4,
+        "qualityScore": 1.5735965039200517,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+        "commentatorTierSimilarities": [
+            37.41,
+            23.68,
+            38.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord here most effectually and once for all stamps with His condemnation that false system of moral reformation, which would commence by pledges to abstain from intoxicating liquors.",
+            "He pours out His bounty for all, and He vouchsafes His grace to each for guidance; and to endeavor to evade the work which He has appointed for each man,\u2014by refusing the bounty, to save the trouble of seeking the grace, is an attempt which inst ever end in degradation of the individual motives, and in social demoralization.",
+            "The filling with water,\u2014and drawing out wine, is all that is related. \u2018The moment of the miracle,\u2019 says L\u00fccke, \u2018is rather understood than expressed. It seems to lie between vv. 7 and 8\u2019 (i. 471). The process of it is wholly out of the region of our imagination."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "about seven and a half gallons in Jewish, or nine in Attic measure",
+            "each of these huge water jars, therefore, holding some twenty or more gallons",
+            "for washings at such feasts"
+        ],
+        "Albert Barnes": [
+            "Six water-pots of stone - Made of stone; or, as we should say, stoneware.",
+            "After the manner - After the usual custom.",
+            "Two or three firkins - It is not quite certain what is meant here by the word 'firkins.' It is probable that the measure intended is the Hebrew 'bath,' containing about 7 12 gallons."
+        ],
+        "Marvin Vincent": [
+            "Water-pots is literally correct, as the word is from udwr, water.",
+            "Because less liable to impurity, and therefore prescribed by the Jewish authorities for washing before and after meals.",
+            "A liquid measure containing nearly nine gallons."
+        ],
+        "John Calvin": [
+            "Christ supplied them, therefore, with a great abundance of wine, as much as would be sufficient for a banquet to a hundred and fifty men.",
+            "If there had been only two or three jars, many might have suspected that they had been brought from some other place.",
+            "And in the present day, when the light of the Gospel shines so clearly around us, they are not ashamed to practice those tricks, which certainly is not to deceive by enchantments, but daringly to mock men as if they were blind."
+        ],
+        "Philip Schaff": [
+            "Considering the many washings and purifyings of the Jews, there is nothing to surprise us in the number or in the size of the waterpots.",
+            "There is much uncertainty as to the value of Hebrew measures, whether of length or of capacity.",
+            "When we have set ourselves free from our prevailing habit of using this term simply as a national designation, we cannot but feel that the Evangelist is writing of that with which he has entirely broken."
+        ],
+        "Archibald T. Robertson": [
+            "These stone jars full of water were kept handy at a feast for ceremonial cleansing of the hands.",
+            "Each \u03c5\u03b4\u03c1\u03b9\u03b1 thus held about 20 gallons.",
+            "This common distributive use of \u03b1\u03bd\u03b1 occurs here only in this Gospel."
+        ],
+        "John Gill": [
+            "And as these vessels were very likely for washing of hands, such were used for that purpose.",
+            "And which makes the following miracle the greater; and shows the liberality of Christ the more, in providing for the following days of the feast.",
+            "A marriage was kept seven days."
+        ],
+        "John Wesley": [
+            "The purifying of the Jews \u2014 Who purified themselves by frequent washings particularly before eating."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord's action of turning water into wine in this verse serves as a powerful condemnation of a false system of moral reformation that avoids seeking God's grace. By pouring out His bounty and providing guidance to all, He emphasizes the importance of seeking His grace rather than trying to evade the work He has appointed for each person. The miracle itself is not explicitly described, but it is understood to occur between verses 7 and 8. The large stone water jars, each holding about 20 gallons, were typically used for ceremonial washings at feasts and were chosen for their cleanliness. The fact that there were six of these jars, along with the considerable amount of wine produced, indicates Christ's generosity and abundance in providing for the feast.",
+            "wordCount": 128,
+            "quoteTokenProportion": 40.66,
+            "qualityScore": 1.674366129717947,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.01,
+            "commentatorTierSimilarities": [
+                38.48,
+                23.55,
+                37.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord's condemnation of a false system of moral reformation can be seen in His miraculous act of turning water into wine. By pouring out His bounty and providing guidance, He shows that evading the work appointed leads to degradation and demoralization. The process of the miracle is left to our interpretation, occurring between the mentioned verses. The choice of the large stone water jars, typically used for ceremonial washings, highlights their cleanliness. Christ's generosity in providing an abundance of wine underscores His grace and provision for the feast.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.4402713970075325,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.23,
+            "commentatorTierSimilarities": [
+                39.24,
+                18.93,
+                41.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord's condemnation of a false system of moral reformation is evident in His act of turning water into wine, showing the futility of evading God's appointed work. The miracle is not explicitly described, but is understood to occur between verses 7 and 8. The choice of large stone water jars, typically used for ceremonial washings, emphasizes their cleanliness. Christ's generosity in providing an abundance of wine reflects His grace and provision for the feast. The quantity of wine produced indicates His abundant blessings for the occasion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.5735965039200517,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                37.41,
+                23.68,
+                38.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's condemnation of a false system of moral reformation is evident in His act of turning water into wine, highlighting the futility of evading God's appointed work and the resulting degradation and demoralization. Though the process of the miracle is not explicitly described, it is understood to occur between verses 7 and 8. The choice of large stone water jars, typically used for ceremonial washings, emphasizes their cleanliness. Christ's abundant provision of wine showcases His generosity and grace for the feast.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.5647173558907466,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.37,
+            "commentatorTierSimilarities": [
+                37.59,
+                23.18,
+                39.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord's condemnation of a false system of moral reformation is most effectively shown here in His act of turning water into wine. His provision of guidance and bounty is disregarded when individuals choose to evade the work He has appointed. The process of the miracle is left to our understanding, occurring between verses 7 and 8. The choice of large stone water jars, used for ceremonial washings, emphasizes their cleanliness. Christ's generosity in providing an abundance of wine reflects His grace and provision for the feast.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.5099127313655885,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.55,
+            "commentatorTierSimilarities": [
+                38.69,
+                22.46,
+                38.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

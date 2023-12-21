@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-21-2023 03:15:42",
+    "verseRef": "John 21:12",
+    "bestBHT": {
+        "bht": "Jesus invites the disciples to a morning meal, sitting in silence, filled with fear and reverence, amazed at His wonderful form. They don't ask who He is, fearing rebuke for their unbelief. The meal is more like a breakfast, and they hesitate to inquire precisely, overwhelmed by the evidence before them. This breakfast is a joyful surprise in the presence of the Risen Lord, and a restraint of silence continues among them.",
+        "wordCount": 73,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.0480138931729175,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+        "commentatorTierSimilarities": [
+            38.27,
+            35.02,
+            26.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Come and dine\" The word used implies the morning meal.",
+            "None of the disciples durst ask him\" They sat down to the meal in silence, wondering at Him who was their Host.",
+            "In silence and much fear and reverence they sat down, looking on Him\" Seeing His form changed and very wonderful, they were much amazed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "implying that they would have liked Him just to say, 'It is I'; but having such convincing evidence they were afraid of being 'upbraided for their unbelief and hardness of heart' if they ventured to put the question.",
+            "they were afraid of being 'upbraided for their unbelief and hardness of heart' if they ventured to put the question.",
+            "having such convincing evidence they were afraid of being 'upbraided for their unbelief and hardness of heart' if they ventured to put the question."
+        ],
+        "Albert Barnes": [
+            "Come and dine - The word in the original means the meal which is taken in the morning, or breakfast."
+        ],
+        "Marvin Vincent": [
+            "The meal described here, however, evidently took place at an earlier hour, and would seem to have answered more nearly to the ajkratisma, or breakfast of the Greeks, which was taken directly upon rising.",
+            "Plutarch, however, expressly states that both names were applied to the morning meal, and says of Alexander, 'He was accustomed to breakfast [\u03b7\u03c1\u03b9\u03c3\u03c4\u03b1] at early dawn, sitting, and to sup [\u03b5\u03b4\u03b5\u03b9\u03c0\u03bd\u03b5\u03b9] late in the evening.'",
+            "Ask [\u03b5\u03be\u03b5\u03c4\u03b1. \u03c3\u03b1\u03b9] . Rev., inquire. Implying careful and precise inquiry."
+        ],
+        "John Calvin": [
+            "The disciples did not ask Christ, because they were afraid of doing him wrong; so plain and manifest were the signs by which he had made himself known to them.\" ",
+            "It is not usual with us to inquire about matters that are doubtful and obscure.\" ",
+            "The disciples did not dare to ask him because they were not sufficiently certain that he was the Christ."
+        ],
+        "Philip Schaff": [
+            "Jesus saith unto them, Go me and breakfast.\" ",
+            "The bringing of the fish from the net to the fire is not recorded. The Evangelist hastens to the chief point in his narrative.",
+            "Awe and reverence prevented their asking Jesus who He was (comp. chap. John 4:27). They did what they were told."
+        ],
+        "Archibald T. Robertson": [
+            "What a delightful breakfast of fresh broiled fish just caught with the hush of joyful surprise in the presence of the Risen Lord.",
+            "The restraint of silence continued."
+        ],
+        "John Gill": [
+            "One would think it should rather have been said, come and take a breakfast than a dinner, since it was so early in the morning.",
+            "He does not send his disciples elsewhere for food, but invites them to come to him, to hear his word, which is food for faith, to wait in his house, where plenty of provision is made, and to attend on his ordinances, and in all to feed upon himself, and to feed with him; to all which they are heartily welcome.",
+            "To ask such a question was altogether unnecessary, and would have been impertinent, and they might justly have been upbraided and rebuked for it: it would have looked like insolence, or unbelief, or both, and that greatly aggravated, when it was so clear a case that it was the Lord; who might be known by his voice and person, especially when they came near to him, and also by the miracles which he wrought: so at the last day, when every eye shall see him coming in the clouds of heaven, none will ask who he is; all will know him."
+        ],
+        "John Wesley": [
+            "Come ye and dine \u2014 Our Lord needed not food.",
+            "And none presumed \u2014 To ask a needless question."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, Jesus invites the disciples to come and dine, indicating that it was a morning meal. The disciples were silent and filled with fear and reverence, looking on Him in amazement. They didn't ask Him who He was, as they were afraid of being upbraided for their unbelief and hardness of heart. The meal took place at an earlier hour, more like a breakfast, and the disciples refrained from inquiring precisely, as they were in awe of the evidence before them. The whole scene was a delightful breakfast in the presence of the Risen Lord, and the silence among them persisted.",
+            "wordCount": 104,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.120137868868337,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.84,
+            "commentatorTierSimilarities": [
+                36.39,
+                33.4,
+                30.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus invites the disciples to a morning meal, and they sit in silence, filled with fear and reverence, amazed at His wonderful form. They don't ask Him who He is, fearing rebuke for their unbelief. The meal seems to be more like a breakfast, and they hesitate to inquire precisely, overwhelmed by the evidence before them. This breakfast is a joyful surprise in the presence of the Risen Lord, and a restraint of silence continues among them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0450166092163027,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                38.27,
+                34.44,
+                27.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus extends an invitation to the disciples to come and dine, indicating that it was a morning meal. In silence and with reverence, they sit, amazed at His marvelous form. Their hesitation to inquire about His identity is rooted in a fear of being rebuked for their unbelief and hardness of heart. This meal resembles a breakfast, and the disciples refrain from asking precisely who He is, as they are overwhelmed with the convincing evidence before them. A sense of awe and hushed surprise permeates this delightful meal in the presence of the Risen Lord.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.9888255082289428,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                36.74,
+                35.69,
+                27.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus invites the disciples to a morning meal, sitting in silence, filled with fear and reverence, amazed at His wonderful form. They don't ask who He is, fearing rebuke for their unbelief. The meal is more like a breakfast, and they hesitate to inquire precisely, overwhelmed by the evidence before them. This breakfast is a joyful surprise in the presence of the Risen Lord, and a restraint of silence continues among them.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0480138931729175,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                38.27,
+                35.02,
+                26.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus invites the disciples to a morning meal, where they sit in silence, amazed at His form. Their fear prevents them from asking who He is, afraid of being upbraided for their unbelief. This meal resembles a breakfast, and the disciples hesitate to inquire precisely, overwhelmed by the evidence before them. This breakfast is a delightful feast of fresh broiled fish, a hushed and surprised encounter with the Risen Lord, where awe and reverence fill the air.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.046208389940965,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.38,
+            "commentatorTierSimilarities": [
+                35.9,
+                36.37,
+                27.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

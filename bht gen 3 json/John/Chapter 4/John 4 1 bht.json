@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-21-2023 03:05:12",
+    "verseRef": "John 4:1",
+    "bestBHT": {
+        "bht": "The Pharisees' opposition to Jesus was stronger than their hostility towards John the Baptist, which may have been due to previous events in Jerusalem. Jesus, being aware of their anger, left Judea for Samaria. Just as Jesus made disciples before baptizing them, we should be cautious and baptize only those who have truly become disciples of Christ. These disciples are the ones who should proudly wear the symbol of their allegiance to Him.",
+        "wordCount": 73,
+        "quoteTokenProportion": 54.39,
+        "qualityScore": 1.9689292109370902,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.81,
+        "commentatorTierSimilarities": [
+            29.6,
+            37.13,
+            33.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An inference may be drawn from this, that our Lord knew the anger of the Pharisees to be more directed against Him than against the Baptist.",
+            "Probably on account of what had passed in Jerusalem.",
+            "The report which the Pharisees had heard is given verbatim."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "1-4. the Lord knew\u2014not by",
+            "\treport, but in the sense of :-, for which reason He is here styled \"the Lord."
+        ],
+        "Albert Barnes": [
+            "The Lord knew - When Jesus knew. how he knew this we are not informed; whether by that power of omniscience by which he knew all things, or whether some person had informed him of it.",
+            "How the Pharisees had heard - The Pharisees, here, seem to denote either the members of the Sanhedrin or those who were in authority.",
+            "More disciples than John - Though many of the Pharisees came to his baptism Matthew 3:0, yet those who were in authority were displeased with the success of John, John 1:25."
+        ],
+        "Marvin Vincent": [
+            "The Pharisees represented the opposition to Jesus, the most powerful and dangerous of the Jewish sects.",
+            "John never alludes to the Sadducees by name.",
+            "The narrator puts himself at the scene of the story: is making and baptizing."
+        ],
+        "John Calvin": [
+            "This was his motive for setting out from Judea.",
+            "That he now favored the Samaritans with his instruction was an extraordinary and almost accidental occurrence.",
+            "Let us, therefore, remember that we must not advance farther than our calling demands."
+        ],
+        "Archibald T. Robertson": [
+            "The Lord (\u03bf \u039a\u03c5\u03c1\u03b9\u03bf\u03c2). So the best manuscripts (Neutral Alexandrian), though the Western class has \u03bf \u0399\u03b7\u03c3\u03bf\u03c5\u03c2.",
+            "Already the Pharisees had turned violently against John who had called them broods of vipers.",
+            "The Pharisees, with John out of the way, turn to Jesus with envy and hate."
+        ],
+        "John Gill": [
+            "The method Christ took was, he first made men disciples, and then baptized them; and the same he directed his apostles to.",
+            "And this should be a rule of conduct to us, to baptize only such, who appear to have been made the disciples of Christ.",
+            "Such who are Christ's disciples in this sense, are the only proper persons to be baptized; these are they, that ought to put on this badge, and wear Christ's livery."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees' opposition to Jesus was even stronger than their animosity towards John the Baptist, which was likely due to what had occurred in Jerusalem. The Pharisees, being the most powerful and hostile sect, turned their envy and hate towards Jesus after John's removal. Jesus, aware of their anger, left Judea and headed towards Samaria. It is important for us to remember not to exceed the bounds of our calling. Just as Jesus made disciples before baptizing them, we should be cautious and baptize only those who have truly become disciples of Christ. These disciples are the ones who should proudly wear the symbol of their allegiance to Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 49.37,
+            "qualityScore": 1.8734389301365455,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                30.71,
+                36.95,
+                32.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees' opposition to Jesus was stronger than their hostility towards John, possibly due to previous events in Jerusalem. Jesus, being aware of their anger, left Judea for Samaria. It is crucial not to go beyond our calling. Just as Jesus made disciples before baptizing them, we should baptize only those who have truly become disciples of Christ. These disciples are the ones who should proudly wear the symbol of their allegiance to Him.",
+            "wordCount": 74,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 1.7623446650551053,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.94,
+            "commentatorTierSimilarities": [
+                29.51,
+                35.35,
+                35.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees' opposition to Jesus was stronger than their hostility towards John the Baptist, which may have been due to previous events in Jerusalem. Jesus, being aware of their anger, left Judea for Samaria. Just as Jesus made disciples before baptizing them, we should be cautious and baptize only those who have truly become disciples of Christ. These disciples are the ones who should proudly wear the symbol of their allegiance to Him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 1.9689292109370902,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.81,
+            "commentatorTierSimilarities": [
+                29.6,
+                37.13,
+                33.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees' animosity toward Jesus exceeded their hostility toward John the Baptist, possibly because of what had transpired in Jerusalem. Fully aware of their anger, Jesus departed from Judea toward Samaria. It is essential to recognize the limits of our calling and not overstep them. Following Jesus' example, we should baptize only those who have genuinely become disciples of Christ. These true disciples are the ones who should proudly display their commitment to Him through baptism.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.8285799268739544,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.14,
+            "commentatorTierSimilarities": [
+                27.98,
+                36.12,
+                35.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees' opposition to Jesus was even stronger than their animosity towards John the Baptist, which was likely due to what had occurred in Jerusalem. The Pharisees, being the most powerful and hostile sect, turned their envy and hate towards Jesus after John's removal. Jesus, aware of their anger, left Judea and headed towards Samaria. It is important for us to remember not to exceed the bounds of our calling. Just as Jesus made disciples before baptizing them, we should be cautious and baptize only those who have truly become disciples of Christ. These disciples are the ones who should proudly wear the symbol of their allegiance to Him.",
+            "wordCount": 110,
+            "quoteTokenProportion": 49.37,
+            "qualityScore": 1.8734389301365455,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                30.71,
+                36.95,
+                32.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
