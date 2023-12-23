@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:21:05",
+    "verseRef": "Mark 2:18",
+    "bestBHT": {
+        "bht": "The disciples of John and the Pharisees, who were accustomed to fasting, questioned Jesus about why His disciples did not fast. However, their alignment with the Pharisees indicated a misunderstanding of John's teachings, as there was no real connection between the formalism of the Pharisees and the asceticism of John. Mark's repetition of the word fast emphasized his unique style. It is possible that the disciples and Pharisees were observing a specific fast at that time, which prompted their inquiry. Ultimately, their question revealed their lack of understanding and misalignment with Jesus' teachings.",
+        "wordCount": 95,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.279972515797102,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.15,
+        "commentatorTierSimilarities": [
+            37.06,
+            28.58,
+            34.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Mark here gives a notice for the information of his readers, as in ch. vii. 3, which places show that his Gospel was not written for the use of Jews.",
+            "It appears from this account, which is here the more circumstantial, that the Pharisees and disciples of John asked the question in the third person, as of others.",
+            "In Matthew it is the disciples of John, and they join we and the Pharisees. In Luke, it is the Pharisees and Scribes, and they ask as here."
+        ],
+        "Albert Barnes": [
+            "And the disciples of John and of the Pharisees used to fast - Were accustomed often to fast. Compare Luke 5:33; Luke 18:12.",
+            "And they come and say - The disciples of John come, Matthew 9:4."
+        ],
+        "Marvin Vincent": [
+            "Read as Rev., John's disciples and the Pharisees.\" ",
+            "Mark means that they were observing a fast at that time.",
+            "The threefold repetition of the word fast is characteristic of Mark."
+        ],
+        "Philip Schaff": [
+            "This explanatory remark, peculiar to Mark, may point to some particular fast, which these classes were then observing.",
+            "The form of the question in Matthew and Luke indicates the habits of these classes.",
+            "The two were gradually coming together."
+        ],
+        "Archibald T. Robertson": [
+            "John was more of an ascetic than Jesus, but neither one pleased all the popular critics.",
+            "These learners or disciples of John had missed the spirit of their leader when they here lined up with the Pharisees against Jesus.",
+            "there was no real congeniality between the formalism of the Pharisees and the asceticism of John the Baptist."
+        ],
+        "John Gill": [
+            "They fasted often, both John's disciples, and the disciples of the Pharisees, or the Pharisees themselves.",
+            "Why do the disciples of John and of the Pharisees fast, but thy disciples fast not?"
+        ],
+        "John Wesley": [
+            "Matthew 9:14; Luke 5:33."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples of John and the Pharisees, who were accustomed to fasting, approached Jesus with a question about fasting. The fact that the followers of John aligned themselves with the Pharisees in questioning Jesus shows that they had missed the true spirit of their leader. While John was more ascetic in his approach, there was no real common ground between the formalism of the Pharisees and the asceticism of John. Mark's mention of fasting three times in this passage is characteristic of his writing style. The disciples and Pharisees may have been observing a specific fast at that time, which could explain their question. Ultimately, their question reveals their lack of understanding and misalignment with Jesus' teachings.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.3455448963976444,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.33,
+            "commentatorTierSimilarities": [
+                38.22,
+                28.03,
+                33.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples of John and the Pharisees, who regularly fasted, approached Jesus questioning why His disciples did not fast. However, their alignment with the Pharisees showed that they had misunderstood the true message of John, as there was no real connection between the Pharisees' formalism and John's asceticism. Mark's repetition of the word fast throughout the text highlighted his characteristic writing style. Perhaps the disciples and Pharisees were observing a specific fast at that time, explaining their inquiry. Ultimately, their question revealed their lack of understanding and misalignment with Jesus' teachings.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.2361491922166765,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+            "commentatorTierSimilarities": [
+                37.53,
+                27.78,
+                34.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples of John, known for their asceticism, joined the Pharisees in questioning Jesus about fasting. Their misunderstanding of John's teachings and alignment with the formalism of the Pharisees hindered their comprehension of Jesus' message. Mark's repeated use of the word fast emphasized his distinctive writing style. It is possible that the disciples and Pharisees were observing a specific fast at that time, prompting their inquiry. Ultimately, their question highlighted their lack of understanding and their deviation from Jesus' teachings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.2205685844578262,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                37.38,
+                28.46,
+                34.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples of John, who were known for their ascetic practices, and the Pharisees questioned Jesus about why His disciples did not fast. Their alignment with the Pharisees demonstrated their lack of understanding and departure from the true teachings of John. Mark's repetition of the word fast in the passage reflects his distinctive style. It is possible that the disciples and Pharisees were observing a specific fast during that time, which prompted their inquiry. Ultimately, their question revealed their misunderstanding and disconnect from Jesus' teachings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2729565059652073,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.92,
+            "commentatorTierSimilarities": [
+                36.62,
+                28.73,
+                34.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples of John and the Pharisees, who were accustomed to fasting, questioned Jesus about why His disciples did not fast. However, their alignment with the Pharisees indicated a misunderstanding of John's teachings, as there was no real connection between the formalism of the Pharisees and the asceticism of John. Mark's repetition of the word fast emphasized his unique style. It is possible that the disciples and Pharisees were observing a specific fast at that time, which prompted their inquiry. Ultimately, their question revealed their lack of understanding and misalignment with Jesus' teachings.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.279972515797102,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.15,
+            "commentatorTierSimilarities": [
+                37.06,
+                28.58,
+                34.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

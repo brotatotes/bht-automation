@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:26:29",
+    "verseRef": "Mark 10:50",
+    "bestBHT": {
+        "bht": "The vivid details provided by the eyewitness account assure us of the accuracy of what transpired. Bartimaeus, in his eagerness, swiftly discarded his outer garment, displaying his unwavering determination to reach Jesus. This act signifies the fervent desire of those who are called by Christ's grace to cast away their old ways and seek a righteousness that surpasses their own. Joyfully and eagerly, they rise up to approach Christ, seeking righteousness, peace, pardon, and salvation.",
+        "wordCount": 76,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.5159568179617586,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.75,
+        "commentatorTierSimilarities": [
+            23.13,
+            31.08,
+            45.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "50.] Signs of an eye-witness, which make us again believe, that here we have the literally exact account of what took place."
+        ],
+        "Marvin Vincent": [
+            "Rose [\u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c2] . The best texts read ajnaphdhsav, leaped up, or, as Rev., sprang up. "
+        ],
+        "Philip Schaff": [
+            "Casting away his garment. A detail indicating that the narrative comes from an eyewitness.",
+            "Bartimeus did not stop to care for the cloak that might be lost, if it impeded his progress.",
+            "Sprang up. This mark of eagerness is also peculiar to this account."
+        ],
+        "Archibald T. Robertson": [
+            "Casting away his garment (\u03b1\u03c0\u03bf\u03b2\u03b1\u03bb\u03c9\u03bd \u03c4\u03bf \u03b9\u03bc\u03b1\u03c4\u03b9\u03bf\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5). Second aorist active participle. Outer robe in his haste.",
+            "Sprang up (\u03b1\u03bd\u03b1\u03c0\u03b7\u03b4\u03b7\u03c3\u03b1\u03c2). Leaping up, vivid details again in Mark. "
+        ],
+        "John Gill": [
+            "It may be observed from hence, that such who are effectually called by the grace of Christ, of which this man was an emblem, hate the garment spotted with the flesh; and put off the old man, as to the former conversation, being called by an holy God, with an holy calling, to holiness in heart and life...",
+            "...and these also cast away the garment of their own righteousness, it being as fig leaves, a spider's web, filthy rags, and a beggarly robe, as this man's was; and come nakedly to Christ, for righteousness, and renounce their own in point of justification...",
+            "The Gospel reveals a better righteousness to them than their own, more suitable to them, who are called from the dunghill, to sit among princes, and to inherit the throne of glory; and then such rise in the strength of grace, and come forth to Christ, for righteousness, peace, pardon, life, and salvation."
+        ],
+        "John Wesley": [
+            "Casting away his garment \u2014 Through joy and eagerness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:50, we see the signs of an eyewitness account, which gives us confidence in the accuracy of the narrative. Bartimaeus, in his eagerness, cast away his outer garment, not caring about what might be lost in his haste to come to Jesus. This detail highlights the intensity of his desire to be healed. Additionally, Bartimaeus' action of casting away his garment can be seen as a symbol of those who are effectually called by the grace of Christ, renouncing their old ways and putting off their own righteousness. Through joy and eagerness, they rise up and come to Christ for righteousness, peace, pardon, life, and salvation.",
+            "wordCount": 107,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.585166158349479,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.05,
+            "commentatorTierSimilarities": [
+                21.41,
+                33.81,
+                44.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the vivid details and eyewitness testimony reveal the literal account of what took place. Bartimaeus, in his eagerness, quickly cast away his garment, prioritizing his progress towards Jesus. This action signifies the desire of those who, like Bartimaeus, are called by the grace of Christ to renounce their own righteousness and come to Him for a better righteousness. Through joy and eagerness, they rise up to seek righteousness, peace, pardon, life, and salvation in Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5126981329562894,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.64,
+            "commentatorTierSimilarities": [
+                19.12,
+                29.27,
+                51.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The eyewitness account in Mark 10:50 provides convincing signs of the events that unfolded. Bartimaeus, in his eagerness, swiftly cast away his outer garment and sprang up towards Jesus. This act demonstrates the fervent desire of those who are called by the grace of Christ to discard their old ways and seek a better righteousness. They joyfully and eagerly rise up to approach Christ, seeking righteousness, peace, pardon, life, and salvation.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.5795025288234241,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                25.4,
+                29.73,
+                44.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The eyewitness account in this passage lends credibility to the literal accuracy of the events described. Bartimaeus, displaying great eagerness, quickly cast aside his outer garment, symbolizing the rejection of his old ways. This mirrors the attitude of those who are called by the grace of Christ, who renounce their own righteousness and come to Him for a better way. With joy and eagerness, they rise up and approach Christ, seeking righteousness, peace, pardon, and salvation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5088288483324832,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "commentatorTierSimilarities": [
+                20.34,
+                30.59,
+                49.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The vivid details provided by the eyewitness account assure us of the accuracy of what transpired. Bartimaeus, in his eagerness, swiftly discarded his outer garment, displaying his unwavering determination to reach Jesus. This act signifies the fervent desire of those who are called by Christ's grace to cast away their old ways and seek a righteousness that surpasses their own. Joyfully and eagerly, they rise up to approach Christ, seeking righteousness, peace, pardon, and salvation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.5159568179617586,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.75,
+            "commentatorTierSimilarities": [
+                23.13,
+                31.08,
+                45.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:22:53",
+    "verseRef": "Mark 5:29",
+    "bestBHT": {
+        "bht": "The woman who suffered from a discharge of blood for twelve years experienced an immediate and profound change in her body, recognizing her complete healing. This was not merely the cessation of her physical symptoms, but a thorough removal of the cause of her affliction. Described as a plague, her condition was regarded as a scourge from God. The healing of sin, paralleling her physical healing, involves the forgiveness of sin through Christ's blood and brings about spiritual joy, peace, and comfort.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.7428588588443361,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+        "commentatorTierSimilarities": [
+            31.77,
+            25.26,
+            42.97
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "29.] On these particulars see notes on Luke. felt in her body, literally, knew in her body, elliptic\u2014knew by feeling in her body."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only was her issue of blood stanched...",
+            "...but the cause of it was thoroughly removed...",
+            "...by her bodily sensations she immediately knew herself perfectly cured."
+        ],
+        "Marvin Vincent": [
+            "She knew - she was healed. Note the graphic change in the tenses. egnw, she knew; ijatai she is healed. ",
+            "Plague. See on 3 10."
+        ],
+        "Philip Schaff": [
+            "The first clause tells of the cessation of the ordinary symptom of her disease...",
+            "This points to a new sense of health.",
+            "Lit., \u2018knew ( i.e., by feeling) in the body.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "She felt in her body... She knew, the verb means.\" ",
+            "It was a vivid moment of joy for her.\" ",
+            "The plague (\u03bc\u03b1\u03c3\u03c4\u03b9\u03b3\u03bf\u03c2) or scourge was a whip used in flagellations... regarded as a scourge from God."
+        ],
+        "John Gill": [
+            "It was usual with the Jews to call the womb, in which the child is formed, 'a fountain'... and because, from hence, issued the blood in a menstruous and profluvious person, they called it... 'the fountain of her blood'.",
+            "sometimes afflictions are God's scourges in a way of wrath, and sometimes in a fatherly way, in love... The word 'plague' carries in it something more dreadful, and fitly enough expresses the nature of sin, which is a pestilential disease...",
+            "the healing of [sin] is the forgiveness of sin, which is through the blood of Christ, and the application of it to the soul; which, when made, is sensibly felt, for it immediately produces spiritual joy, peace, and comfort..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 5:29, the woman who had been suffering from a discharge of blood for twelve years felt a change in her body that she immediately recognized as a complete healing. This was not only the cessation of her physical symptoms, but also the removal of the underlying cause. It was a moment of joy for her, as she knew in her body that she was healed. The term plague used to describe her condition emphasizes the significant and negative impact it had on her life, as sin can be seen as a pestilential disease. The healing of sin, which parallels the healing of physical ailments, brings about forgiveness and a flood of spiritual joy and peace.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.771147235493341,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                31.89,
+                28.45,
+                39.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman afflicted with a discharge of blood experienced a profound transformation in her body, immediately knowing that she had been completely healed. This went beyond the cessation of her physical symptoms, as the underlying cause was eradicated. The vivid change in verb tenses highlights her awareness of the healing. The term plague suggests the severity of her condition, resembling sin as a pestilential disease. The healing of sin corresponds to the forgiveness obtained through Christ's blood, resulting in spiritual joy and peace.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.6723491842395575,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.95,
+            "commentatorTierSimilarities": [
+                30.06,
+                29.2,
+                40.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman's immediate knowledge of her complete healing in Mark 5:29 was not just the cessation of her physical symptoms, but also the removal of the underlying cause. This moment of joy for her was marked by the change in verb tenses. Her condition, described as a plague, highlights the profound impact it had on her life. The healing of sin, likened to a pestilential disease, involves the forgiveness of sin through Christ's blood and brings spiritual joy, peace, and comfort.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.650902198629592,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                31.98,
+                26.45,
+                41.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman who suffered from a discharge of blood for twelve years experienced an immediate and profound change in her body, recognizing her complete healing. This was not merely the cessation of her physical symptoms, but a thorough removal of the cause of her affliction. Described as a plague, her condition was regarded as a scourge from God. The healing of sin, paralleling her physical healing, involves the forgiveness of sin through Christ's blood and brings about spiritual joy, peace, and comfort.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7428588588443361,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                31.77,
+                25.26,
+                42.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman who had suffered from a discharge of blood for twelve years felt a change in her body that immediately signaled her complete healing. This went beyond the cessation of her physical symptoms, as the underlying cause was effectively removed. Described as a plague, her condition intensified the weight of her affliction, akin to sin as a pestilential disease. The healing of sin coincides with the forgiveness obtained through Christ's blood, ushering in spiritual joy, peace, and comfort.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.719847073159773,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                29.7,
+                27.97,
+                42.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:24:22",
+    "verseRef": "Mark 8:8",
+    "bestBHT": {
+        "bht": "The abundance of broken pieces that remained over from the miracle filled seven baskets, showing that not only was there enough but everyone was satisfied to the full. This miraculous act demonstrated that Christ is the true bread from heaven, providing not only for physical sustenance but also for our spiritual life. Just as we constantly need physical bread, we should always seek this heavenly bread, praying to the Lord to continually give it to us.",
+        "wordCount": 76,
+        "quoteTokenProportion": 48.21,
+        "qualityScore": 1.2662411291482172,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.45,
+        "commentatorTierSimilarities": [
+            26.21,
+            17.69,
+            56.1
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Were filled. See on Matthew 5:6. Wyc., fulfilled. Tynd., sufficed."
+        ],
+        "Philip Schaff": [
+            "Mark 8:8. Baskets. Not the word used in the account of the similar miracle. See notes on Matthew 15:37; Matthew 16:10.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Broken pieces that remained over (\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03b5\u03c5\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bb\u03b1\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd). Overplus, abundance, remains of broken pieces not used, not just scraps or crumbs. "
+        ],
+        "John Gill": [
+            "They not only had some, but they had all enough, a full meal.",
+            "It was surprising that it could be divided so, is that every one should have a bit; but that they should all be satisfied to the full, is amazing.",
+            "They took up of the broken meat that was left seven baskets; as many as there were loaves."
+        ],
+        "John Wesley": [
+            "This miracle was intended to demonstrate, that Christ was the true bread which cometh down from heaven.",
+            "He who was almighty to create bread without means to support natural life, could not want power to create bread without means to support spiritual life.",
+            "And this heavenly bread we stand so much in need of every moment, that we ought to be always praying, Lord, evermore give us this bread."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples collected the overplus and abundance of broken pieces that remained over from the miracle, and it sufficed to fill seven baskets. This demonstration of Christ being the true bread from heaven is awe-inspiring. Not only were they able to divide the bread among themselves, but they were all satisfied to the full. It's important to remember that just as we need physical bread to support our natural life, we also need the heavenly bread of Christ to support our spiritual life. We should always be seeking this bread, praying for the Lord to continually give it to us.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.2535535180416908,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                26.73,
+                18.87,
+                54.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples collected the abundance of broken pieces that remained over and filled seven baskets. This shows that not only was there enough, but everyone was satisfied to the full. It is a reminder that Christ is the true bread from heaven. Just as we need physical bread for our natural life, we need the heavenly bread of Christ for our spiritual life. We should continually seek this bread, praying for the Lord to always provide it.",
+            "wordCount": 77,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.1940340980820698,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.05,
+            "commentatorTierSimilarities": [
+                26.93,
+                17.08,
+                55.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples gathered the overplus of broken pieces that remained and filled seven baskets. This demonstration reveals that not only was there enough, but everyone was satisfied to the full. It serves as a reminder that Christ is the true bread from heaven. Just as we require physical bread for our natural life, we need the heavenly bread of Christ for our spiritual life. Consequently, we should constantly seek this bread, imploring the Lord to consistently supply it.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.1588120663065984,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.87,
+            "commentatorTierSimilarities": [
+                26.91,
+                18.3,
+                54.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The abundance of broken pieces that remained over from the miracle filled seven baskets, showing that not only was there enough but everyone was satisfied to the full. This miraculous act demonstrated that Christ is the true bread from heaven, providing not only for physical sustenance but also for our spiritual life. Just as we constantly need physical bread, we should always seek this heavenly bread, praying to the Lord to continually give it to us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.2662411291482172,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.45,
+            "commentatorTierSimilarities": [
+                26.21,
+                17.69,
+                56.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples collected the overplus and abundance of broken pieces that remained over from the miracle, and it sufficed to fill seven baskets. This demonstration of Christ being the true bread from heaven is awe-inspiring. Not only were they able to divide the bread among themselves, but they were all satisfied to the full. It's important to remember that just as we need physical bread to support our natural life, we also need the heavenly bread of Christ to support our spiritual life. We should always be seeking this bread, praying for the Lord to continually give it to us.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.2535535180416908,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                26.73,
+                18.87,
+                54.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

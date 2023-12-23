@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:20:05",
+    "verseRef": "Mark 2:3",
+    "bestBHT": {
+        "bht": "Approaching the house where Jesus was, a man sick with palsy was brought on a bed by four individuals. Mark's account vividly captures the urgency and drama of the situation, a characteristic feature of his writing style. The mention of four bearers and the condition of the sick man showcases Mark's distinctive attention to specific details, distinguishing his narrative from Matthew and Luke's accounts. The friends' determination to bring the sick man to Jesus reflects their concern for his well-being, a reminder for us to bring others under the means of God's grace.",
+        "wordCount": 98,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.3114981213530759,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+        "commentatorTierSimilarities": [
+            29.95,
+            30.67,
+            39.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And they come unto him\u2014that is, towards the house where He was.",
+            "bringing one sick of the palsy\u2014'lying on a bed.'",
+            "which was borne of four\u2014a graphic particular of Mark only."
+        ],
+        "Marvin Vincent": [
+            "Born of four. A detail peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "Mark 2:3. Borne of four. \u2018In a bed\u2019 Mark 2:4 (and Luke). Mark alone mentions the number of men.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Fine illustration of Mark's vivid dramatic historical present.",
+            "Preserved by Luke Luke 5:18, but not by Matthew 9:2 (imperfect).",
+            "Another picturesque Markan detail not in the others."
+        ],
+        "John Gill": [
+            "This man's case appears to be a very bad one, and what seems to be incurable by the art of medicine.",
+            "This man is an emblem of a sinner in a state of nature, who is insensible of his condition, of the exceeding sinfulness of sin, of his danger and misery to which he is exposed.",
+            "It becomes the friends and relations of unregenerate persons, who have received the grace of God themselves, and are in a sound and safe estate, to be concerned for them; to bring them under the means of grace."
+        ],
+        "John Wesley": [
+            "Matthew 9:2; Luke 5:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As they approached the house where Jesus was, a man sick with palsy was brought to Him by four individuals carrying him on a bed. This detail is uniquely mentioned by Mark, emphasizing the determination and effort put forth by these friends in bringing the sick man to Jesus. Mark's account vividly captures the urgency and drama of the situation, a characteristic feature of his writing style. The mention of the number of men and the condition of the sick man showcases Mark's distinctive attention to specific details. Matthew and Luke, on the other hand, do not include these particulars in their accounts, highlighting Mark's unique contributions to the narrative.",
+            "wordCount": 113,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 1.4126703531322597,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.31,
+            "commentatorTierSimilarities": [
+                31.82,
+                36.01,
+                32.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Approaching the house where Jesus was, a man sick with palsy was brought on a bed by four individuals. Mark's account vividly captures the urgency and drama of the situation, a characteristic feature of his writing style. The mention of four bearers and the condition of the sick man showcases Mark's distinctive attention to specific details, distinguishing his narrative from Matthew and Luke's accounts. The friends' determination to bring the sick man to Jesus reflects their concern for his well-being, a reminder for us to bring others under the means of God's grace.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.3114981213530759,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+            "commentatorTierSimilarities": [
+                29.95,
+                30.67,
+                39.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As they approached Jesus' house, four men brought a bedridden man afflicted with palsy. Mark's account paints a vivid picture, emphasizing the urgency and dramatic nature of the scene. The mention of the four bearers and the sick man's condition showcases Mark's attention to specific details, setting his narrative apart from Matthew and Luke. This incident serves as a powerful illustration of the concern and effort we should have for those who are spiritually unwell, reminding us of the need to bring them to the means of God's grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.2453730838408128,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.75,
+            "commentatorTierSimilarities": [
+                29.12,
+                30.5,
+                40.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Approaching Jesus' dwelling, four men carried a bedridden individual afflicted with palsy. Mark's account highlights the urgency and drama of the scene, marked by his vivid and lively storytelling style. The specificity in mentioning the four bearers and the sick man's condition reveals Mark's attention to detail, distinguishing his narrative from that of Matthew and Luke. This incident serves as a profound reminder to us, urging us to show concern and actively bring those who are spiritually unwell to the means of God's grace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.2388949442352486,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.54,
+            "commentatorTierSimilarities": [
+                30.91,
+                30.16,
+                38.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Approaching Jesus' dwelling, a bedridden man with palsy was carried by four individuals. Mark's vivid narrative captures the urgency and drama of the scene, emphasizing his distinctive storytelling style. The mention of the four bearers and the sick man's condition showcases Mark's attention to specific details, setting his account apart. This incident serves as a reminder for us to show concern for those who are spiritually unwell, bringing them to the means of God's grace just as these friends did for the sick man.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.211363454700715,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.62,
+            "commentatorTierSimilarities": [
+                34.55,
+                30.09,
+                35.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

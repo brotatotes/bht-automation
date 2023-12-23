@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:28:57",
+    "verseRef": "Mark 15:10",
+    "bestBHT": {
+        "bht": "He was aware, apprehending the underlying motive gradually. Envy, the primary motive of the Sanhedrin, was becoming clearer to him. It wasn't about equity or justice; rather, it stemmed from their recognition of his popularity resulting from his teachings and miracles that posed a threat to their authority.",
+        "wordCount": 49,
+        "quoteTokenProportion": 43.59,
+        "qualityScore": 1.5768153932123201,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+        "commentatorTierSimilarities": [
+            53.9,
+            0.0,
+            46.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] He knew is the imperfect tense: He was aware, He perceived, His apprehension of it was concurrent with the action going on."
+        ],
+        "Archibald T. Robertson": [
+            "He perceived... It was gradually dawning on him.\" ",
+            "Both Mark and Matthew give 'envy' as the primary motive of the Sanhedrin.\" ",
+            "The aorist is never used 'as' a past perfect."
+        ],
+        "John Gill": [
+            "For he knew that the chief priests...had delivered him for envy.\" ",
+            "At his popularity through his doctrine and miracles.",
+            "Not from any principle of equity and justice, or from any regard to Caesar."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He was aware, He perceived, His apprehension of it was gradually dawning on him. Both Mark and Matthew give envy as the primary motive of the Sanhedrin, but the aorist tense used here is never used as a past perfect. He knew that the chief priests delivered him for envy, not from any principle of equity and justice, or from any regard to Caesar, but rather due to his popularity resulting from his doctrine and miracles.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.9191609822781235,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                56.09,
+                0.0,
+                43.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He was aware, He perceived, His apprehension of it was gradually dawning on him. Both Mark and Matthew give envy as the primary motive of the Sanhedrin, but the aorist tense used here is never used as a past perfect. He knew that the chief priests delivered him for envy, not from any principle of equity and justice, but rather due to his popularity resulting from his doctrine and miracles.",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9444181494666657,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.99,
+            "commentatorTierSimilarities": [
+                57.14,
+                0.0,
+                42.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He was aware, apprehending the underlying motive gradually. Envy, the primary motive of the Sanhedrin, was becoming clearer to him. It wasn't about equity or justice; rather, it stemmed from their recognition of his popularity resulting from his teachings and miracles that posed a threat to their authority.",
+            "wordCount": 49,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.5768153932123201,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                53.9,
+                0.0,
+                46.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even as the events unfolded, he knew and perceived the true motive behind their actions. Envy, the driving force, was gradually becoming apparent to him. The chief priests delivered him not out of a sense of fairness or concern for Caesar, but rather due to their envy of his popularity, which stemmed from the impact of his teachings and miracles.",
+            "wordCount": 60,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.5335167235646658,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+            "commentatorTierSimilarities": [
+                49.78,
+                0.0,
+                50.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He was aware, perceiving the gradual dawning of the motive behind their actions. Envy, the primary motive cited by Mark and Matthew, was becoming increasingly clear to him. The chief priests delivered him for envy, not out of a sense of equity or justice, but due to his popularity resulting from his doctrine and miracles.",
+            "wordCount": 55,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.6536939391069627,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.33,
+            "commentatorTierSimilarities": [
+                49.49,
+                0.0,
+                50.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

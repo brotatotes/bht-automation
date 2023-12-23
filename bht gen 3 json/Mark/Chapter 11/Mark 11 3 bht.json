@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:26:22",
+    "verseRef": "Mark 11:3",
+    "bestBHT": {
+        "bht": "The Lord will send him back, for Matthew 21:3 states that he will futurely send him. Straightaway, he will send him again hither, meaning that the owner or those objecting would send him back immediately. The message to be given is that the Lord has need of him, referring to our Lord and yours, the Lord of heaven and earth. The owner will understand the importance of the request and willingly let the colt go without dispute.",
+        "wordCount": 76,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.451544204418639,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+        "commentatorTierSimilarities": [
+            32.77,
+            36.11,
+            31.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "And straightway he will send, literally, 'sendeth,' him again hither.",
+            "In Matthew the clause corresponding to this is probably a declaration of what the owner, or those objecting would do.",
+            "Here the word 'again' (found in the best authorities) compels us to take it as part of the message, a promise to return the colt soon."
+        ],
+        "Archibald T. Robertson": [
+            "The Lord (\u03bf \u039a\u03c5\u03c1\u03b9\u03bf\u03c2)\".",
+            "He will send him back (\u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03bb\u03b5).\" ",
+            "Matthew 21:3 has the future \u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03b5."
+        ],
+        "John Gill": [
+            "Say ye that the Lord hath need of him; our Lord and yours, the Lord of heaven and earth, and all things in it;",
+            "and so would at once understand by the language who it was for, and let it go:",
+            "he will send him with all readiness and cheerfulness, without the least hesitation, or making any dispute about it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord will send him back, for Matthew 21:3 states that he will futurely send him. Straightaway, he will send him again hither, meaning that the owner or those objecting would send him back immediately. The message to be given is that the Lord has need of him, referring to our Lord and yours, the Lord of heaven and earth. The owner, upon hearing this, will understand the importance of the request and willingly let the colt go without hesitation or dispute.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.4487413019617663,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.51,
+            "commentatorTierSimilarities": [
+                31.5,
+                36.04,
+                32.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord will send him back, for Matthew 21:3 states that he will futurely send him. Straightaway, he will send him again hither, meaning that the owner or those objecting would send him back immediately. The message to be given is that the Lord has need of him, referring to our Lord and yours, the Lord of heaven and earth. The owner will understand the importance of the request and willingly let the colt go without dispute.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.451544204418639,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "commentatorTierSimilarities": [
+                32.77,
+                36.11,
+                31.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord will send him back, for Matthew 21:3 has the future promise of sending. The message to be conveyed is that the Lord has need of him, referring to our Lord and yours, the Lord of heaven and earth. Upon hearing this, the owner will readily and cheerfully let go of the colt without hesitation or dispute, understanding the significance of the request.",
+            "wordCount": 63,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.3458251946767894,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.09,
+            "commentatorTierSimilarities": [
+                33.76,
+                33.09,
+                33.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord, being the sender, will send him back as indicated in Matthew 21:3. The use of the word again in Mark 11:3 implies a promise to return the colt soon. The message to be relayed is that the Lord has need of the colt, and the owner will readily understand the identity of the one making the request. The owner will comply with the request wholeheartedly, demonstrating readiness and cheerfulness without any hesitation or dispute.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.260959562355517,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.27,
+            "commentatorTierSimilarities": [
+                29.88,
+                42.73,
+                27.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord, being the sender, will send him back. The use of the word again implies a promise to return the colt soon. The message to be relayed is that the Lord has need of the colt, and the owner will readily understand the request. The owner will comply with the request wholeheartedly, demonstrating readiness and cheerfulness without any hesitation or dispute.",
+            "wordCount": 62,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.2548408478573876,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.07,
+            "commentatorTierSimilarities": [
+                27.73,
+                42.11,
+                30.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

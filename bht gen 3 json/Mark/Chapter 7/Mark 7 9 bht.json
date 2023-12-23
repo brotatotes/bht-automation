@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:23:55",
+    "verseRef": "Mark 7:9",
+    "bestBHT": {
+        "bht": "Full well do ye reject the commandment of God that ye may keep your traditions, Jesus exclaimed, delivering a biting sarcasm that cut to the bone. The Pharisees'\u00a0unwillingness to fully submit to God's law led them to prioritize their man-made traditions, contrary to God's commandments. Their adherence to these traditions revealed a repugnance to wholeheartedly obey God. This ironic remark should caution against interpreting it as an endorsement of the Pharisees' perversion of God's word to preserve their own traditions.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.7089889061609453,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.17,
+        "commentatorTierSimilarities": [
+            21.83,
+            43.06,
+            35.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] Full well\u2014ironical\u2014see 2 Cor. xi. 4."
+        ],
+        "Philip Schaff": [
+            "Your tradition. The tradition of the elders was that of \u2018men,\u2019 and they had made it theirs, living by it, contrary to the laws of God.\" ",
+            "At the bottom of all rigorous enforcement of traditional observances there is an unconscious, or half conscious, repugnance to submit perfectly to the law of God."
+        ],
+        "Archibald T. Robertson": [
+            "Full well do ye reject the commandment of God that ye may keep your traditions.",
+            "It was biting sarcasm that cut to the bone.",
+            "The evident irony should prevent literal interpretation as commendation of the Pharisaic pervasion of God's word."
+        ],
+        "John Gill": [
+            "You in a very fair and handsome manner, reject and make void the commandments and laws of God.",
+            "It is very fit it should be so, in order to preserve your own traditions, that nothing may be wanting to keep up the honour of them, and a due regard to them.",
+            "Is it fit that you should omit the commandments of God, and keep your own statutes?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Full well do ye reject the commandment of God that ye may keep your traditions, Jesus scathingly rebuked the Pharisees, employing biting sarcasm to highlight their arrogance and hypocrisy. By prioritizing their man-made traditions over God's commandments, they had perverted the true meaning of His word. At the root of their rigid adherence to tradition was a reluctance to fully submit to God's law, revealed in their concoction of the tradition of the elders, which contradicted God's laws. This irony should dissuade any literal interpretation that commends the Pharisees' distortion of God's word to accommodate their own preferences and honor their own traditions.",
+            "wordCount": 108,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7430812603612411,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                20.19,
+                43.78,
+                36.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Full well do ye reject the commandment of God that ye may keep your traditions, Jesus scathingly rebuked the Pharisees, employing biting sarcasm to highlight their arrogance and hypocrisy. By prioritizing their man-made traditions over God's commandments, they had perverted the true meaning of His word. This irony deters any literal interpretation that commends the Pharisees' distortion of God's word to accommodate their own preferences and honor their own traditions.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.6799507205254325,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.2,
+            "commentatorTierSimilarities": [
+                22.66,
+                37.61,
+                39.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Full well do ye reject the commandment of God that ye may keep your traditions, Jesus exclaimed, delivering a biting sarcasm that cut to the bone. The Pharisees'\u00a0unwillingness to fully submit to God's law led them to prioritize their man-made traditions, contrary to God's commandments. Their adherence to these traditions revealed a repugnance to wholeheartedly obey God. This ironic remark should caution against interpreting it as an endorsement of the Pharisees' perversion of God's word to preserve their own traditions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7089889061609453,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.17,
+            "commentatorTierSimilarities": [
+                21.83,
+                43.06,
+                35.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Full well do ye reject the commandment of God that ye may keep your traditions, Jesus scathingly rebuked the Pharisees, employing biting sarcasm. Prioritizing their man-made traditions, they perverted the true meaning of God's word. This irony prevents a literal interpretation, as it should dissuade commendation of the Pharisees' distortion of God's word. Their rigid enforcement of traditional observances revealed a reluctance to fully submit to God's law. The Pharisees' self-serving traditions took precedence over following the commandments of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.6671562000052604,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.78,
+            "commentatorTierSimilarities": [
+                22.17,
+                42.5,
+                35.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus scathingly rebuked the Pharisees, exclaiming, Full well do ye reject the commandment of God that ye may keep your traditions. This biting sarcasm highlighted their arrogance and hypocrisy. By prioritizing man-made traditions over God's commandments, they perverted the true meaning of His word. Their rigid enforcement of traditional observances revealed a reluctance to fully submit to God's law. The Pharisees' adherence to their own traditions constrained them from recognizing and embracing the commandments of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5858411350001018,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.07,
+            "commentatorTierSimilarities": [
+                19.71,
+                42.44,
+                37.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

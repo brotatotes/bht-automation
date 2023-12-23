@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:26:40",
+    "verseRef": "Mark 10:38",
+    "bestBHT": {
+        "bht": "The disciples asked to partake in Jesus' kingdom, yet they did not comprehend the weight of their request. Jesus compassionately informed them that they did not understand the true significance of what they were asking. He used the imagery of drink of a cup and be baptized with to represent the suffering and death he would endure. By using baptism as a metaphor for His impending death, Jesus highlighted the necessity of suffering for His mission. Their lack of understanding revealed their limited awareness of the sacrificial nature of Christ's kingdom.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.531382468740374,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+        "commentatorTierSimilarities": [
+            45.1,
+            0.0,
+            54.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Observe the present tenses, drink of, and am baptised with.",
+            "They may mean that the Lord had already the cup of His suffering at His lips...",
+            "...or they may be merely official: 'that I am to drink of, and to be baptized with.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye know not what ye ask\u2014How gentle the reply to such a request, preferred at such a time, after the sad announcement just made!",
+            "To 'drink of a cup' is in Scripture a figure for getting one's fill either of good or of ill. Here it is the cup of suffering.",
+            "The object of this question seems to have been to try how far those two men were capable of the dignity to which they aspired and this on the principle that he who is able to suffer most for His sake will be the nearest to Him in His kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "Both the cup and the baptism, both referring to death.",
+            "He had already used baptism as a figure for his death.",
+            "Paul will use it several times."
+        ],
+        "John Gill": [
+            "Indeed, the best of saints know not what they should pray for as they ought; and always stand in need of the help, assistance, and intercession of the Spirit of God...",
+            "In particular, these disciples knew not what they were asking for; they had no true notion of Christ's kingdom and glory...",
+            "Which Christ speaks of in the present time, partly because his sorrows and sufferings were already begun..."
+        ],
+        "John Wesley": [
+            "Ye know not what ye ask \u2014 Ye know not that ye ask for sufferings, which must needs pave the way to glory.",
+            "The cup \u2014 Of inward; the baptism - Of outward sufferings.",
+            "Our Lord was filled with sufferings within, and covered with them without."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples asked to sit at Jesus' right and left hand in His kingdom, but they did not understand the magnitude of what they were asking for. Jesus responded gently, telling them that they did not know what they were truly asking and that they were not yet capable of understanding the honor they sought. He explained that the cup and baptism symbolized suffering and death, emphasizing that both were necessary for His mission. Jesus had already used baptism as a metaphor for His upcoming death, and Paul would later use it as well. The disciples' request revealed their limited understanding of the suffering required to enter into the glory of Christ's kingdom.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.5647560560085099,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.37,
+            "commentatorTierSimilarities": [
+                46.54,
+                0.0,
+                53.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples asked to partake in Jesus' kingdom, yet they did not comprehend the weight of their request. Jesus compassionately informed them that they did not understand the true significance of what they were asking. He used the imagery of drink of a cup and be baptized with to represent the suffering and death he would endure. By using baptism as a metaphor for His impending death, Jesus highlighted the necessity of suffering for His mission. Their lack of understanding revealed their limited awareness of the sacrificial nature of Christ's kingdom.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.531382468740374,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                45.1,
+                0.0,
+                54.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were eager to secure positions of honor in Jesus' kingdom, but they failed to grasp the depth of their request. With gentle understanding, Jesus conveyed that they did not realize the true implications of what they were asking for. The terms drink of a cup and be baptized with symbolized the suffering and death He would endure. Jesus had already used baptism as a metaphor for His impending death, emphasizing that both suffering and death were necessary for His mission. The disciples' limited understanding revealed their incomplete awareness of the sacrificial nature of His kingdom.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.4402472593338642,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.23,
+            "commentatorTierSimilarities": [
+                45.54,
+                0.0,
+                54.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples desired positions of honor in Jesus' kingdom, but they did not fully comprehend the gravity of their request. Jesus responded with gentle wisdom, explaining that they did not understand its true significance. The imagery of drink of a cup and be baptized with symbolized the suffering and death He would face. Jesus had previously used baptism as a metaphor for His impending death, highlighting the importance of both suffering and death for His mission. Their limited understanding revealed their incomplete awareness of the sacrificial nature of Christ's kingdom.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.3531267326069853,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.33,
+            "commentatorTierSimilarities": [
+                46.68,
+                0.0,
+                53.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples fervently sought positions of honor in Jesus' kingdom, unaware of the profound implications of their request. With compassion, Jesus gently informed them that they did not comprehend the weight of what they were asking. The phrases drink of a cup and be baptized with symbolized the suffering and death that Jesus would encounter. By using baptism as a figurative representation of His forthcoming death, Jesus emphasized the necessity of suffering and death in fulfilling His mission. The disciples' limited understanding revealed their incomplete awareness of the sacrificial nature of Christ's kingdom.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.4848559054458401,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+            "commentatorTierSimilarities": [
+                43.53,
+                0.0,
+                56.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

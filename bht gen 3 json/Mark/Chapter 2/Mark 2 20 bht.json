@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:20:23",
+    "verseRef": "Mark 2:20",
+    "bestBHT": {
+        "bht": "Then, in that day, the disciples were in a season of mourning, grieving the loss of their imprisoned master. This period of sorrow foreshadowed the forthcoming sufferings and death of Christ, which would be a deeply sorrowful time for his followers. Mark's use of double expressions, like then - in that day, emphasizes the significance of this moment. The disciples found themselves in a state of lament, knowing that the trials ahead would be tumultuous but ultimately leading to the redemption of humanity.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.6233010096566813,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+        "commentatorTierSimilarities": [
+            51.92,
+            0.0,
+            48.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Then - in those days. The proper reading is ejn ejkeinh, in that day. So Rev. Another of Mark's double expressions : then - in that day."
+        ],
+        "John Gill": [
+            "As they were in some sense now come... their master being taken up by Herod, and confined in prison.",
+            "It was a mourning time with them.",
+            "Referring to the time of the sufferings and death of Christ, which would be a sorrowful season to his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Then, in those days, a significant event occurred. The phrase in that day emphasizes the specific time period being referred to. The disciples were experiencing a time of mourning and sorrow, as their master was taken away and imprisoned. This points to the upcoming sufferings and death of Christ, which would be a sorrowful season for his followers. The use of double expressions in Mark's writing style adds depth and emphasis to the narrative.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.3534320947729856,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.34,
+            "commentatorTierSimilarities": [
+                47.86,
+                0.0,
+                52.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Then, in those days, the disciples found themselves in a season of mourning. Their master had been taken up, leaving them feeling sorrowful and grieving. This time of distress and sadness referred to the sufferings and death of Christ, a significant event that awaited them. The phrase in that day highlights the specific period that the disciples were facing. Mark's use of double expressions, such as then - in that day, adds depth and emphasis to convey the gravity of the situation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4639200875765161,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.02,
+            "commentatorTierSimilarities": [
+                47.84,
+                0.0,
+                52.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Then, in that day, the disciples were in a season of mourning, grieving the loss of their imprisoned master. This period of sorrow foreshadowed the forthcoming sufferings and death of Christ, which would be a deeply sorrowful time for his followers. Mark's use of double expressions, like then - in that day, emphasizes the significance of this moment. The disciples found themselves in a state of lament, knowing that the trials ahead would be tumultuous but ultimately leading to the redemption of humanity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6233010096566813,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                51.92,
+                0.0,
+                48.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In those days, the disciples were caught in a season of mourning as their master was taken away and put in prison. This sorrowful time foreshadowed the sufferings and death of Christ, a period that would deeply affect his followers. The phrase in that day emphasizes the specific timeframe, while Mark's use of double expressions, such as then - in that day, highlights the importance of this event. The disciples experienced a profound sense of lament, knowing that the forthcoming trials would shape their faith and the destiny of mankind.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.4318478790520655,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+            "commentatorTierSimilarities": [
+                46.73,
+                0.0,
+                53.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In that day, the disciples faced a mournful season as their master was imprisoned by Herod. This time of sorrow alluded to the upcoming sufferings and death of Christ, which would deeply affect his followers. Mark's use of the phrase in that day underscores the specific period being referred to, while the double expressions employed highlight the significance of this event. The disciples found themselves in a state of mourning and anticipated the challenging and sorrowful season ahead.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.4563645124685323,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.77,
+            "commentatorTierSimilarities": [
+                43.53,
+                0.0,
+                56.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:20:56",
+    "verseRef": "Mark 3:26",
+    "bestBHT": {
+        "bht": "Satan's kingdom cannot stand long and will soon come to an end. His power and authority will ultimately be destroyed. It is peculiar to Mark that Satan's existence has a finite end. The supposition made by Jesus' enemies would argue Satan out of existence, highlighting the temporary nature of his reign.",
+        "wordCount": 53,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.7271556332892346,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+        "commentatorTierSimilarities": [
+            16.33,
+            38.17,
+            45.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] but hath an end, peculiar to Mark."
+        ],
+        "Marvin Vincent": [
+            "But hath an end. Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "But hath an end, i.e., ceases to be what he is.\" ",
+            "The supposition, which His enemies advanced, would, if fully carried out, argue Satan out of existence."
+        ],
+        "John Gill": [
+            "And if Satan rise up against himself...he cannot stand, but hath an end",
+            "his kingdom cannot stand long, but must soon come to an end",
+            "his power and authority will soon be destroyed"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 3:26, it is stated that Satan's kingdom cannot stand long and will soon come to an end. This implies that although Satan may rise up against himself, his power and authority will ultimately be destroyed. The verse suggests that Satan's existence has a finite end, as it is peculiar to the Gospel of Mark. The supposition made by Jesus' enemies, if fully carried out, would argue Satan out of existence, highlighting the temporary nature of his reign.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.7157035947614039,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                16.98,
+                43.17,
+                39.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Satan's kingdom cannot stand long and will soon come to an end. His power and authority will ultimately be destroyed. It is peculiar to Mark that Satan's existence has a finite end. The supposition made by Jesus' enemies would argue Satan out of existence, highlighting the temporary nature of his reign.",
+            "wordCount": 53,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7271556332892346,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                16.33,
+                38.17,
+                45.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satan's kingdom has an end, unique to Mark. If fully carried out, the supposition of Jesus' enemies would argue Satan out of existence. His power and authority will soon be destroyed, as his kingdom cannot stand in the long run.",
+            "wordCount": 41,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6735037453500068,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                13.84,
+                40.72,
+                45.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Satan's kingdom, unique to Mark, has an end. If fully carried out, the supposition of Jesus' enemies argues Satan out of existence. His power and authority will soon be destroyed, as his kingdom cannot stand in the long run.",
+            "wordCount": 40,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.644425477237415,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+            "commentatorTierSimilarities": [
+                13.96,
+                39.57,
+                46.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Satan's kingdom, peculiar to Mark, has an end, and his power and authority will soon be destroyed. According to Jesus' enemies, their supposition suggests that Satan would cease to exist. His reign is temporary, as his kingdom cannot stand for long.",
+            "wordCount": 42,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.532583607027929,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                13.96,
+                37.41,
+                48.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

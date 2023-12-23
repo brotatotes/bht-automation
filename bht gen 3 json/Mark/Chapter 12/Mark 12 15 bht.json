@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:27:11",
+    "verseRef": "Mark 12:15",
+    "bestBHT": {
+        "bht": "The Pharisees and Herodians attempted to deceive Jesus with their question about paying taxes, but He saw through their hypocrisy and craftiness. Jesus asked for a denarius, the very coin used for the tribute, exposing their insincerity. Their hearts were filled with malice as they tried to test Him, but Jesus called them out, labeling them as hypocrites. Their attempt to deceive Him with their pious palaver failed, for Jesus was fully aware of their wickedness and shrewdness.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.616643354849231,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+        "commentatorTierSimilarities": [
+            45.39,
+            0.0,
+            54.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] a denarius (see note on Matt. xx. 2), Mark and Luke, answers to \u201cthe tribute-money,\u201d Matthew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The malignity of their hearts took the form of craft, pretending what they did not feel...\" ",
+            "Seeing perfectly through this, he said unto them, Why tempt ye me? 'Hypocrites!'\" ",
+            "Bring me a penny that I may see it."
+        ],
+        "Marvin Vincent": [
+            "Penny. See on Matthew 20:2."
+        ],
+        "Archibald T. Robertson": [
+            "Knowing their hypocrisy...perceived their wickedness...perceived their craftiness.\" ",
+            "Each of these words throws a flash-light on the spirit and attitude of these young men.",
+            "They were sly, shrewd, slick, but they did not deceive Jesus with their pious palaver."
+        ],
+        "John Gill": [
+            "They not only ask whether it was lawful, but whether also it was advisable to do it, that they might not only accuse him of his principles, but charge him with persuading, or dissuading in this case.",
+            "He knowing their hypocrisy; expressed in their flattering titles and characters of him, and which lay hid in their secret designs against him; which being thoroughly known to him.",
+            "Why tempt ye me: bring me a penny, that I may see it; what it is, that is required for tribute."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees and Herodians came to Jesus with feigned devotion, seeking to trap Him with their cunning question about paying taxes. However, the Lord, perceiving their deceitful hearts and craftiness, immediately exposed their hypocrisy. Jesus, aware of their ulterior motives, questioned them about the coin used for the tribute, exposing their insincerity. By seeing through their flattery and duplicity, Jesus revealed their true nature as sly and deceitful individuals who were unable to deceive Him with their pious pretenses.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.5093369989052436,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.53,
+            "commentatorTierSimilarities": [
+                42.33,
+                0.0,
+                57.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and Herodians attempted to deceive Jesus with their question about paying taxes, but He saw through their hypocrisy and craftiness. Jesus asked for a denarius, the very coin used for the tribute, exposing their insincerity. Their hearts were filled with malice as they tried to test Him, but Jesus called them out, labeling them as hypocrites. Their attempt to deceive Him with their pious palaver failed, for Jesus was fully aware of their wickedness and shrewdness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.616643354849231,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                45.39,
+                0.0,
+                54.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the Pharisees and Herodians approached Jesus with their question about paying taxes, they feigned devotion while hiding their true intentions. However, Jesus, perceiving their wickedness and craftiness, saw through their deceitful hearts. He immediately called them out, exposing their hypocrisy and questioning their motives. Jesus asked for a denarius, the very coin used for the tribute, compelling them to reveal their insincerity. Their attempt to trap Jesus with their cunning tactics failed, for He was not deceived by their pious palaver.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5483726103143454,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.83,
+            "commentatorTierSimilarities": [
+                44.28,
+                0.0,
+                55.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and Herodians hypocritically approached Jesus, pretending devotion while concealing their malicious motives. Jesus, aware of their deceitful hearts and craftiness, saw through their pious palaver. He exposed their insincerity by requesting a denarius, the very coin for the tribute. With this simple action, their wickedness and shrewdness were laid bare. Their attempt to tempt Jesus with their cunning question failed, as He saw perfectly through their dishonesty and was not deceived by their flattering titles.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.4761129378475295,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "commentatorTierSimilarities": [
+                43.43,
+                0.0,
+                56.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees and Herodians came to Jesus, falsely professing devotion while hiding their true intentions. Jesus, perceiving their wickedness and shrewdness, saw through their hypocrisy. He demanded a denarius, the same coin used for the tribute, effectively exposing their insincerity. Their attempt to tempt Jesus with their deceitful question failed, as He saw perfectly through their pious palaver and was not deceived by their flattering titles and characters. Their sly and crafty nature was fully known to Him, and they could not trick Him with their cunning tactics.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4552351965799053,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.73,
+            "commentatorTierSimilarities": [
+                40.45,
+                0.0,
+                59.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

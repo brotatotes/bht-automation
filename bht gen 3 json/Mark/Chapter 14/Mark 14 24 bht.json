@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:28:23",
+    "verseRef": "Mark 14:24",
+    "bestBHT": {
+        "bht": "Jesus refers to the cup as his blood of the New Testament, emphasizing the shedding of blood as a significant part of the covenant. The present participle is being shed signifies that the sacrifice is already taking place. This shedding of blood serves as a reminder that our sins have been expiated, challenging the belief that faith is unaffected by the sacraments. The cup symbolizes the establishment of the new covenant and the fulfillment of gracious promises for believers.",
+        "wordCount": 79,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 1.6924627935031453,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+        "commentatorTierSimilarities": [
+            51.58,
+            0.0,
+            48.42
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Covenant. See on Matthew 26:28. ",
+            "Is shed [\u03c4\u03bf \u03b5\u03ba\u03c7\u03c5\u03bd\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd] . Lit., is being shed. This present participle is significant. To the Lord 's mind the sacrifice is already being offered."
+        ],
+        "John Calvin": [
+            "Therefore, when we approach to the holy table, let us not only remember in general that the world has been redeemed by the blood of Christ, but let every one consider for himself that his own sins have been expiated.",
+            "It may easily be inferred from it, how foolishly superstitious the Papists and others of the same stamp are in rigidly adhering to the words; for, with all their bluster, they cannot set aside this exposition of the Holy Spirit, that the cup is called blood, because it is the new testament in blood.",
+            "This refutes the error of those who maintain that faith is not aided, nourished, supported, or increased by the sacraments; for there is always a mutual relation between the covenant of God and the faith of men."
+        ],
+        "John Gill": [
+            "This is my blood of the New Testament, which is shed for many.",
+            "For the remission of sins.",
+            "In Matthew it is added, 'for the remission of sins'."
+        ],
+        "John Wesley": [
+            "This is my blood of the New Testament \u2014 That is, this I appoint to be a perpetual sign and memorial of my blood.",
+            "As shed for establishing the new covenant, that all who shall believe in me may receive all its gracious promises."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:24, Jesus refers to the cup as his blood of the New Testament, which is being shed for many. This emphasizes the significance of the covenant and the sacrifice that is already taking place. The shedding of Jesus' blood is a reminder that our sins are expiated and the world has been redeemed. It refutes the notion that faith is not aided or nourished by the sacraments, for there is a mutual relationship between God's covenant and our faith. This cup represents the establishment of the new covenant and the gracious promises available to those who believe.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.604810044666257,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.7,
+            "commentatorTierSimilarities": [
+                47.51,
+                0.0,
+                52.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the passage, Jesus speaks of the cup as his blood of the New Testament, emphasizing the shedding of blood as a significant part of the covenant. This present participle implies that the sacrifice is already being offered. The shedding of Jesus' blood serves as a reminder that our sins have been expiated, refuting the belief that faith is unaffected by sacraments. This cup signifies the establishment of the new covenant and the fulfillment of the gracious promises available to believers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.7250827058451685,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                52.58,
+                0.0,
+                47.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus refers to the cup as his blood of the New Testament, signifying the shedding of blood as an important aspect of the covenant. The present participle highlights that the sacrifice is already being offered. This shedding of blood serves as a reminder that sins have been expiated, refuting the notion that faith is unaffected by sacraments. The cup symbolizes the establishment of the new covenant and the fulfillment of gracious promises for believers.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.6696846721512384,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                51.96,
+                0.0,
+                48.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus describes the cup as his blood of the New Testament, highlighting the shedding of blood as a crucial part of the covenant. The present participle is being shed indicates that the sacrifice is already happening. This shedding of blood serves as a reminder that our sins have been atoned for, countering the idea that sacraments do not impact our faith. The cup represents the establishment of the new covenant and the fulfillment of God's gracious promises for those who believe.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.6675078243825125,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                51.14,
+                0.0,
+                48.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus refers to the cup as his blood of the New Testament, emphasizing the shedding of blood as a significant part of the covenant. The present participle is being shed signifies that the sacrifice is already taking place. This shedding of blood serves as a reminder that our sins have been expiated, challenging the belief that faith is unaffected by the sacraments. The cup symbolizes the establishment of the new covenant and the fulfillment of gracious promises for believers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.6924627935031453,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                51.58,
+                0.0,
+                48.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

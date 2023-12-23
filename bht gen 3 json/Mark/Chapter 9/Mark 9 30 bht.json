@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:25:27",
+    "verseRef": "Mark 9:30",
+    "bestBHT": {
+        "bht": "As our Lord passed through Galilee, His reason for doing so privately was to gradually familiarize His disciples with the announcement of His approaching sufferings. He desired to avoid public work and be alone with His disciples to instruct them fully about what was to come. By keeping their movements secret, He ensured that no one would hinder their journey or delay them with their inquiries. His purpose in passing through Galilee in a private manner was to have the opportunity to remind and inform His disciples about important things that they needed to know and observe.",
+        "wordCount": 97,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.7605715934808708,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.88,
+        "commentatorTierSimilarities": [
+            32.56,
+            30.93,
+            36.5
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "By comparing Matthew 17:22; Matthew 17:23; Luke 9:43; Luke 9:44 with this, we gather, that as our Lord's reason for going through Galilee more privately than usual on this occasion was to reiterate to them the announcement which had so shocked them at the first mention of it, and thus familiarize them with it by little and little.\" ",
+            "This was His reason for enjoining silence upon them as to their present movements."
+        ],
+        "Marvin Vincent": [
+            "Passed through [\u03c0\u03b1\u03c1\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03bf] . Lit., passed along [\u03c0\u03b1\u03c1\u03b1] . Not tarrying. Bengel says, \"not through the cities, but past them."
+        ],
+        "Philip Schaff": [
+            "Mark 9:30. Passed through Galilee ; probably over by-ways, that opportunity might be given for instructing the disciples about His approaching sufferings.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "He would not that any man should know it (\u03bf\u03c5\u03ba \u03b7\u03b8\u03b5\u03bb\u03b5\u03bd \u03b9\u03bd\u03b1 \u03c4\u03b9\u03c2 \u03b3\u03bd\u03bf). He was not willing that any one should learn it.",
+            "He was avoiding public work there now. He was no longer the hero of Galilee.",
+            "He had left Caesarea Philippi for Galilee."
+        ],
+        "John Gill": [
+            "And they departed thence... and passed through Galilee; in order to go to the coasts of Judea, and so to Jerusalem, where he was shortly to suffer.",
+            "That his journey might not be retarded, and he be hindered by the conversation of the people in Galilee, and their importunity to stay with them, and teach, and work miracles among them, he passed through the country, in as private a manner as could be.",
+            "He would not that any man should know it; partly for the reason just mentioned, and partly that he might have the opportunity of conversing alone with his disciples, and of reminding, and informing them, of some important things, which it was necessary they should be acquainted with, and observe."
+        ],
+        "John Wesley": [
+            "They passed through Galilee...in the most private ways.",
+            "He wanted to be alone with them some time, in order to instruct them fully concerning his sufferings.",
+            "The Son of man is delivered \u2014 It is as sure as if it were done already."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As our Lord passed through Galilee, His reason for doing so privately was to gradually familiarize His disciples with the announcement of His approaching sufferings. He desired to avoid public work and be alone with His disciples to instruct them fully about what was to come. By keeping their movements secret, He ensured that no one would hinder their journey or delay them with their inquiries. His purpose in passing through Galilee in a private manner was to have the opportunity to remind and inform His disciples about important things that they needed to know and observe.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.7605715934808708,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.88,
+            "commentatorTierSimilarities": [
+                32.56,
+                30.93,
+                36.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As our Lord passed through Galilee, He wanted to privately familiarize His disciples with the announcement of His approaching sufferings. By avoiding public work and instructing them alone, He ensured their understanding. His secret journey through Galilee allowed Him to remind and inform His disciples of important things, while avoiding delays from the people's conversations and importunity. This private instruction was essential, as the Son of Man's deliverance was as sure as if it were done already.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5732155046194527,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                31.99,
+                29.31,
+                38.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As our Lord passed through Galilee, he desired to privately instruct his disciples about his approaching sufferings. By avoiding public work and keeping their movements secret, he ensured that no one would hinder their journey or delay them with inquiries. His purpose in passing through Galilee in a private manner was to have the opportunity to remind and inform his disciples of important things that they needed to know and observe. Through this private instruction, they would gain a deeper understanding of the Son of Man's imminent deliverance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.6305598548009725,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                28.97,
+                34.25,
+                36.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As our Lord passed through Galilee, he privately instructed his disciples about his approaching sufferings. By avoiding public work and keeping their movements secret, he ensured that no one would hinder their journey or delay them with inquiries. His purpose in passing through Galilee privately was to remind and inform his disciples of important things they needed to know. This private instruction allowed them to gain a deeper understanding of the Son of Man's imminent deliverance.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6418696569032547,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.93,
+            "commentatorTierSimilarities": [
+                31.56,
+                33.21,
+                35.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As our Lord passed through Galilee, he privately familiarized his disciples with the announcement of his approaching sufferings. By avoiding public work and instructing them alone, he ensured their understanding. This private instruction through Galilee allowed him to remind and inform his disciples, ensuring they were fully acquainted with important things they needed to know and observe. The purpose of their secret journey was to have a quiet opportunity for profound instruction about the Son of Man's imminent deliverance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.6129815179376341,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.97,
+            "commentatorTierSimilarities": [
+                29.29,
+                33.38,
+                37.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:23:11",
+    "verseRef": "Mark 5:42",
+    "bestBHT": {
+        "bht": "Immediately, the girl arose and walked\u2014a vivid touch from an eyewitness\u2014leaving everyone astonished with great astonishment and amazement, even bordering on bewilderment. The use of the word amazement in biblical Greek carries both a sense of awe and fear. This miraculous act of raising the girl from the dead was so powerful that it left the witnesses in disbelief. The parents must have experienced immense ecstasy, as indicated by the repetition of the word ecstasy in the instrumental case. It was truly an extraordinary event, demonstrating the divine power of our Lord that left all in awe.",
+        "wordCount": 99,
+        "quoteTokenProportion": 33.82,
+        "qualityScore": 1.475879696866431,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+        "commentatorTierSimilarities": [
+            38.88,
+            35.43,
+            25.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And straightway the damsel arose, and walked\u2014a vivid touch, evidently from an eye-witness.",
+            "And they were astonished with a great astonishment\u2014The language here is the strongest."
+        ],
+        "Marvin Vincent": [
+            "Astonishment [\u03b5\u03ba\u03c3\u03c4\u03b1\u03c3\u03b5\u03b9] . Better Rev., amazement, which carries the sense of bewilderment.",
+            "Its primitive sense, therefore, is that of removal; hence of a man removed out of his senses.",
+            "In Biblical Greek it is used in a modified sense, as here, of amazement, often coupled with fear."
+        ],
+        "Philip Schaff": [
+            "Straightway the damsel arose. Luke, the physician, speaks of her spirit returning.",
+            "And walked. Peculiar to Mark, and an incident which would be impressed upon an eye-witness.",
+            "Amazed. A stronger word than that usually translated 'astonished.'"
+        ],
+        "Archibald T. Robertson": [
+            "Aorist tense (single act) followed by the imperfect (the walking went on).",
+            "The age mentioned by Mark alone and here as explanation that she was old enough to walk.",
+            "Here the word is repeated in the substantive in the associative instrumental case (with a great ecstasy, especially on the part of the parents), and no wonder."
+        ],
+        "John Gill": [
+            "such divine power went along with them, that the child returned to life",
+            "and walked about the room in perfect health and strength",
+            "they were exceedingly amazed at such a signal instance of the power of our Lord"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Immediately, the girl rose up and walked, a scene so vividly described by an eyewitness that it captivates us. The people were not just astonished, but filled with a great astonishment, even bordering on bewilderment. The use of the word amazement in biblical Greek carries the connotation of both awe and fear. The parents must have been ecstatic, as indicated by the repetition of the word ecstasy in the instrumental case. This miraculous act of raising the girl from the dead was so powerful that it left the witnesses in disbelief. The girl not only rose, but continued to walk, symbolizing her complete restoration to health and strength. The extraordinary nature of this event left everyone astounded, a clear demonstration of the divine power of our Lord.",
+            "wordCount": 127,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.38016929127813,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.23,
+            "commentatorTierSimilarities": [
+                35.76,
+                36.53,
+                27.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Straightaway, the girl arose and walked, a striking depiction from an eyewitness\u2014truly a vivid scene. They were not merely astonished, but filled with a great bewilderment and amazement, which can even be coupled with fear. The parents, experiencing immense ecstasy, were undoubtedly in awe. This miraculous act, where the girl not only rose but continued to walk, left everyone in disbelief. It was a remarkable display of the incredible power of our Lord, leaving all witnesses astounded.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4254206174697326,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.74,
+            "commentatorTierSimilarities": [
+                35.92,
+                32.5,
+                31.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Immediately, the girl arose and walked\u2014a vivid touch from an eyewitness\u2014leaving everyone astonished with great astonishment, even bordering on bewilderment. The use of the word amazement in biblical Greek carries both a sense of awe and fear. The parents must have been ecstatic, as indicated by the repetition of the word ecstasy in the instrumental case. This miraculous act of raising the girl from the dead was so powerful that it left the witnesses in disbelief. The extraordinary nature of this event left everyone astounded, a clear demonstration of the divine power of our Lord.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4619191881590106,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                38.89,
+                35.07,
+                26.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Immediately, the girl arose and walked\u2014a vivid touch from an eyewitness\u2014leaving everyone astonished with great astonishment and amazement, even bordering on bewilderment. The use of the word amazement in biblical Greek carries both a sense of awe and fear. This miraculous act of raising the girl from the dead was so powerful that it left the witnesses in disbelief. The parents must have experienced immense ecstasy, as indicated by the repetition of the word ecstasy in the instrumental case. It was truly an extraordinary event, demonstrating the divine power of our Lord that left all in awe.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.475879696866431,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "commentatorTierSimilarities": [
+                38.88,
+                35.43,
+                25.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The girl immediately rose up and walked, a vivid scene witnessed by an eyewitness, resulting in great astonishment and amazement among the onlookers. The use of the word amazement in biblical Greek conveys a sense of awe and fear. The repetition of the word ecstasy in the instrumental case suggests the parents' overwhelming joy. This miraculous act of raising the girl from the dead left everyone in disbelief, showcasing the incredible power of our Lord and leaving them astounded.",
+            "wordCount": 79,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.438864838986328,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.19,
+            "commentatorTierSimilarities": [
+                38.94,
+                36.54,
+                24.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

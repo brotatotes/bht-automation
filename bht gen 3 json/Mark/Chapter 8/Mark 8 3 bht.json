@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:24:09",
+    "verseRef": "Mark 8:3",
+    "bestBHT": {
+        "bht": "In their eagerness, the disciples seemed to have overlooked the need for provisions, but the Lord, in His foresight, had already thought about it. He was unwilling to send them away without food, especially considering that some of them had come from far distances. He knew that if He were to send them away fasting, they would faint by the way. This episode demonstrates the Lord's deep care and compassion for His followers, ensuring their physical well-being along with their spiritual needs.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.365185911649808,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.74,
+        "commentatorTierSimilarities": [
+            27.81,
+            7.88,
+            64.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In their eagerness they seem not to have thought of the need of provisions for such a length of time; but the Lord thought of it.",
+            "I will not send them away fasting\u2014or rather, 'To send them away fasting I am unwilling.'",
+            "The Lord thought of it."
+        ],
+        "Marvin Vincent": [
+            "Faint. See on Matthew 14:32. Wyc., fail. ",
+            "Some of them came from far. Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "Mark 8:3. And some of them are come from far. Peculiar to Mark.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Are come from far (\u03b1\u03c0\u03bf \u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03b5\u03bd \u03b5\u03b9\u03c3\u03b9\u03bd). This item alone in Mark. "
+        ],
+        "John Gill": [
+            "And if I send them away fasting to their own houses... they will faint by the way."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In their eagerness and lack of foresight, the disciples had not considered the need for provisions for such a lengthy period of time, but the Lord, in His infinite wisdom and care, thought of it. He was unwilling to send them away without food, for He knew that they had come from far and would not have the strength to make the journey home if they were fasting. This concern for their well-being and compassion for their physical needs shows the depth of His love for His followers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.1037320057917042,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.04,
+            "commentatorTierSimilarities": [
+                31.41,
+                8.17,
+                60.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their eagerness, the disciples didn't anticipate the need for provisions, but the Lord, who foresaw it, was unwilling to send them away fasting. Some of them had come from far and would not have the strength to journey home without food. This shows a glimpse of the depth of His love and compassion for His followers, as He attends to their physical needs and ensures their well-being.",
+            "wordCount": 70,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.1732039824309033,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.35,
+            "commentatorTierSimilarities": [
+                29.43,
+                8.41,
+                62.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though the disciples were eager, they had failed to consider the need for provisions. However, the Lord, in His wisdom, had foreseen this and was unwilling to send them away without food. His care and concern extended to those who had traveled from far, recognizing that they would not have the strength to journey home if they were fasting. This display of love and compassion highlights the depth of His concern for His followers' physical well-being.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.1404238066060892,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.26,
+            "commentatorTierSimilarities": [
+                31.23,
+                10.07,
+                58.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In their eagerness, the disciples seemed to have overlooked the need for provisions, but the Lord, in His foresight, had already thought about it. He was unwilling to send them away without food, especially considering that some of them had come from far distances. He knew that if He were to send them away fasting, they would faint by the way. This episode demonstrates the Lord's deep care and compassion for His followers, ensuring their physical well-being along with their spiritual needs.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.365185911649808,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.74,
+            "commentatorTierSimilarities": [
+                27.81,
+                7.88,
+                64.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, in their eagerness, had not considered the need for provisions. However, the Lord had thought about it and was unwilling to send them away without food. He knew that some of them had come from far and would faint on the way if they went without eating. This display of compassion reveals the depth of His love for His followers, as He ensures their physical well-being along with their spiritual needs.",
+            "wordCount": 74,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.1954753409999812,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.09,
+            "commentatorTierSimilarities": [
+                31.78,
+                8.3,
+                59.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

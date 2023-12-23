@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:29:19",
+    "verseRef": "Mark 15:26",
+    "bestBHT": {
+        "bht": "The superscription above Jesus on the cross is both an accusation and a title, with the inscription reading The King of the Jews. This phrase is mentioned across all four accounts, emphasizing that it was the sole charge against Jesus. This superscription signifies the crime for which he was crucified, highlighting his identity as the king of the Jews and ultimately leading to his death.",
+        "wordCount": 65,
+        "quoteTokenProportion": 51.06,
+        "qualityScore": 1.9820264071033973,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+        "commentatorTierSimilarities": [
+            26.44,
+            35.47,
+            38.09
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The superscription - The writing over his head upon the cross.",
+            "The King of the Jews - See the notes at Matthew 27:37."
+        ],
+        "Marvin Vincent": [
+            "The superscription of his accusation. Matthew, simply accusation; Luke, superscription; John, title. See on Matthew 27:37."
+        ],
+        "Philip Schaff": [
+            "The king of the Jews. These words are common to all four accounts.",
+            "Matthew and Mark make prominent the fact that this was the one charge against our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "The writing upon the top of the cross (our word epigraph).",
+            "Matthew 27:37 has 'accusation' (\u03b1\u03b9\u03c4\u03b9\u03b1\u03bd).",
+            "John 19:19 has 'title' (\u03c4\u03b9\u03c4\u03bb\u03bf\u03bd)."
+        ],
+        "John Gill": [
+            "The superscription of his accusation... the crime for which he suffered.\" ",
+            "The cause of his death... the king of the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse mentions the superscription of his accusation which is the writing over Jesus' head on the cross. It is referred to as both an accusation and a title. The phrase The King of the Jews is specifically mentioned in all four accounts, with Matthew and Mark emphasizing that this was the only charge against Jesus. The superscription represents the crime for which Jesus was crucified and highlights his identity as the king of the Jews, which ultimately led to his death.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.093404585111884,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                32.87,
+                33.53,
+                33.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The writing over Jesus' head on the cross is referred to as both an accusation and a title. It reads The King of the Jews, a phrase that appears in all four accounts. Matthew and Mark emphasize that this was the sole charge against Jesus. This superscription represents the crime for which Jesus was crucified and highlights his identity as the king of the Jews, ultimately leading to his death.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.075386489062074,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                30.09,
+                37.78,
+                32.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The writing over Jesus' head on the cross, known as the superscription of his accusation, is both an accusation and a title. The inscription, which reads The King of the Jews, is mentioned in all four accounts. According to Matthew and Mark, this was the sole charge against Jesus. This superscription signifies the crime for which Jesus was crucified and emphasizes his identity as the king of the Jews, ultimately leading to his death.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 2.1937857691111304,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                30.53,
+                35.74,
+                33.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The writing above Jesus while on the cross is described as an accusation and a title. All four accounts mention the inscription which reads The King of the Jews. Matthew and Mark specifically highlight that this was the only charge against Jesus. This superscription represents the crime for which Jesus was crucified and highlights his identity as the king of the Jews, ultimately leading to his death.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 2.0740753419509663,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.3,
+            "commentatorTierSimilarities": [
+                30.73,
+                37.61,
+                31.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The superscription above Jesus on the cross is both an accusation and a title, with the inscription reading The King of the Jews. This phrase is mentioned across all four accounts, emphasizing that it was the sole charge against Jesus. This superscription signifies the crime for which he was crucified, highlighting his identity as the king of the Jews and ultimately leading to his death.",
+            "wordCount": 65,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.9820264071033973,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                26.44,
+                35.47,
+                38.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

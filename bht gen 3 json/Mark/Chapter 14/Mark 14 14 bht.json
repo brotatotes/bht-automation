@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:28:19",
+    "verseRef": "Mark 14:14",
+    "bestBHT": {
+        "bht": "Jesus instructs his disciples to find the householder, the master of the house, and tell him that Jesus desires to have his chamber for himself and his disciples alone. The phrase my guest-chamber is significant as it shows that Jesus claims ownership, even if it were a hired room. The disciples are to inquire about the location of the guest chamber, where Jesus will partake in the passover meal with his disciples.",
+        "wordCount": 73,
+        "quoteTokenProportion": 52.08,
+        "qualityScore": 1.4586900966686323,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+        "commentatorTierSimilarities": [
+            20.88,
+            29.39,
+            49.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The word is not classical, and as used by an oriental signifies a khan or caravanserai.\" ",
+            "Hence inn at Luke 2:7.",
+            "Christ will have his chamber for himself and his disciples alone."
+        ],
+        "Philip Schaff": [
+            "To the goodman of the house, or, 'master of the house.' Evidently not the man they followed.",
+            "My guest-chamber. 'The word used properly denotes a place where a traveller unloads his beast, or halts for the night; then an inn or place of public entertainment; then a hired room, as here' (Alexander).",
+            "The correct reading 'my,' is suggestive. Our Lord lays claim to it, even though it were to be hired."
+        ],
+        "Archibald T. Robertson": [
+            "The goodman of the house (\u03c4\u03c9 \u03bf\u03b9\u03ba\u03bf\u03b4\u03b5\u03c3\u03c0\u03bf\u03c4\u03b7). A non-classical word, but in late papyri. It means master (\u03b4\u03b5\u03c3\u03c0\u03bf\u03c4) of the house, householder.",
+            "My guest-chamber (\u03c4\u03bf \u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03bc\u03b1 \u03bc\u03bf\u03c5). In LXX, papyri, and modern Greek for lodging-place (inn, as in Luke 2:7 or guest-chamber as here).",
+            "I shall eat (\u03c6\u03b1\u03b3\u03c9). Futuristic aorist subjunctive with \u03bf\u03c0\u03bf\u03c5."
+        ],
+        "John Gill": [
+            "Say ye to the good man of the house... the owner, and master of it... that might have some knowledge of Christ, and faith in him, though he did not openly profess him...\" ",
+            "The master saith... our master saith: he that is yours, and ours, our master Jesus...",
+            "Where is the guest chamber... where I shall eat the passover with my disciples?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word used in this verse is not a classical term, but rather a word commonly used in the orient to refer to a khan or caravanserai. Jesus instructs his disciples to find the householder, the master of the house, and tell him that Jesus desires to have his chamber for himself and his disciples alone. The phrase my guest-chamber is significant as it shows that Jesus claims ownership, even if it were a hired room. The disciples are to inquire about the location of the guest chamber, where Jesus will partake in the passover meal with his disciples.",
+            "wordCount": 100,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.4248505999744918,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "commentatorTierSimilarities": [
+                25.56,
+                29.36,
+                45.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus instructs his disciples to find the householder, the master of the house, and tell him that Jesus desires to have his chamber for himself and his disciples alone. The phrase my guest-chamber is significant as it shows that Jesus claims ownership, even if it were a hired room. The disciples are to inquire about the location of the guest chamber, where Jesus will partake in the passover meal with his disciples.",
+            "wordCount": 73,
+            "quoteTokenProportion": 52.08,
+            "qualityScore": 1.4586900966686323,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+            "commentatorTierSimilarities": [
+                20.88,
+                29.39,
+                49.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ instructs his disciples to say to the goodman of the house that the Master desires to have His own private chamber in which to celebrate the Passover with His closest followers. This word, used in an oriental context, refers to a lodging place, such as an inn or guest-chamber. It is significant that Jesus claims the guest-chamber as His own, even if it needs to be hired. The disciples are to convey this message to the owner, who may already have knowledge and faith in Christ, though not openly professing Him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.3820816685425876,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.3,
+            "commentatorTierSimilarities": [
+                23.18,
+                33.59,
+                43.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ directs His disciples to approach the goodman of the house and communicate that He desires a private chamber to celebrate the Passover with His followers. The term used here indicates a lodging place like an inn or guest-chamber. It is worth noting that Jesus lays claim to this chamber, even if it needs to be hired. The disciples are instructed to relay this message to the owner, who might already have some knowledge and faith in Christ, albeit not openly professing Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.406028521326007,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+            "commentatorTierSimilarities": [
+                23.52,
+                35.89,
+                40.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ tells His disciples to seek out the owner of the house and proclaim that He desires a private chamber for Himself and His disciples to observe the Passover. The word used for chamber refers to a lodging place, such as an inn or guest-chamber. It is significant that Jesus claims this chamber as His own, even if it needs to be hired. The disciples are to convey this message to the owner, who may have some knowledge and faith in Christ, though not openly professing Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.442538900689595,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.31,
+            "commentatorTierSimilarities": [
+                23.81,
+                32.37,
+                43.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:25:31",
+    "verseRef": "Mark 9:32",
+    "bestBHT": {
+        "bht": "The disciples were completely devastated by Jesus' announcements, leaving them afraid to ask questions out of fear of rebuke. Even after witnessing the Transfiguration, their understanding remained clouded by their own preconceived ideas and prejudices. They struggled to reconcile Jesus' death and resurrection with their perception of him as a holy and innocent man, the Son of God and Messiah. Their fear of being seen as ignorant hindered their grasp of the profound significance of Jesus' death and resurrection.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.80010041577192,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+        "commentatorTierSimilarities": [
+            53.32,
+            0.0,
+            46.68
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Their most cherished ideas were so completely dashed by such announcements, that they were afraid of laying themselves open to rebuke by asking Him any questions.",
+            "While the other Evangelists...notice their ignorance and their fear, Matthew, who was one of them, retains a vivid recollection of their sorrow.",
+            "Strife among the Twelve, with Relative Teaching."
+        ],
+        "Archibald T. Robertson": [
+            "They were agnostics on the subject of the death and resurrection even after the Transfiguration experience.",
+            "They were afraid to ask him, continued to be afraid, perhaps with a bitter memory of the term 'Satan' hurled at Peter.",
+            "It was concealed from them, probably partly by their own preconceived ideas and prejudices."
+        ],
+        "John Gill": [
+            "They could not understand how it could be, and upon what account, and for what end, so holy and good, and innocent a man as he was, could be put to death.",
+            "They could not understand how this could consist with his character, as the Son of God, the Messiah, and king of Israel.",
+            "They were afraid to ask him; lest they should be upbraided with their ignorance and stupidity."
+        ],
+        "John Wesley": [
+            "They did not understand how to reconcile the death of our Saviour (nor consequently his resurrection) with their notions of his temporal kingdom.",
+            "They did not understand the word.",
+            "They did not understand his death and resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were completely devastated by Jesus' announcements about his impending death and resurrection, causing them to be filled with fear and sorrow, to the point where they were afraid to ask questions for fear of rebuke. Even after witnessing the Transfiguration, their understanding was clouded, partly due to their own preconceived ideas and prejudices. The disciples struggled to comprehend how a holy and innocent man like Jesus could be put to death and how this could align with his identity as the Son of God and the Messiah. Their lack of understanding and fear of being seen as ignorant prevented them from grasping the significance of Jesus' death and resurrection.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7903676097085282,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                50.15,
+                0.0,
+                49.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were devastated by Jesus' announcements about his death and resurrection, causing fear and sorrow. They were afraid to ask questions for fear of rebuke, and even after witnessing the Transfiguration, their understanding remained clouded by their own preconceived ideas. They struggled to comprehend how Jesus, a holy and innocent man, could be put to death and how this aligned with his identity as the Son of God and Messiah. Their lack of understanding and fear of appearing ignorant hindered their grasp of the significance of Jesus' death and resurrection.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7924680230470433,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                47.44,
+                0.0,
+                52.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were devastated, their cherished ideas completely dashed by Jesus' announcements of his death and resurrection. This caused them to be filled with fear, making them hesitant to ask questions for fear of rebuke. Their lack of understanding persisted even after witnessing the Transfiguration, clouded by their own preconceived ideas and prejudices. They grappled with reconciling Jesus' death and resurrection with their understanding of him as a holy and innocent man, the Son of God, and the Messiah. Their fear of appearing ignorant hindered their comprehension of these profound truths.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.669009210320108,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                55.09,
+                0.0,
+                44.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were completely devastated by Jesus' announcements, leaving them afraid to ask questions out of fear of rebuke. Even after witnessing the Transfiguration, their understanding remained clouded by their own preconceived ideas and prejudices. They struggled to reconcile Jesus' death and resurrection with their perception of him as a holy and innocent man, the Son of God and Messiah. Their fear of being seen as ignorant hindered their grasp of the profound significance of Jesus' death and resurrection.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.80010041577192,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                53.32,
+                0.0,
+                46.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were filled with fear and sorrow at Jesus' announcements, leading them to keep their questions to themselves for fear of being rebuked. Their understanding was clouded by their own preconceived ideas and prejudices, and even witnessing the Transfiguration did not bring them clarity. They struggled to comprehend how a holy and innocent man like Jesus could be put to death, and how this could align with his identity as the Son of God and the Messiah. Their fear of appearing ignorant prevented them from fully grasping the significance of Jesus' death and resurrection.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.7890282052422803,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+            "commentatorTierSimilarities": [
+                48.4,
+                0.0,
+                51.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

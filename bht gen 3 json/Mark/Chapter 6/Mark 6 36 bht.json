@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:23:31",
+    "verseRef": "Mark 6:36",
+    "bestBHT": {
+        "bht": "Jesus' disciples, alarmed by the hungry crowd, suggested to Him that they send the people away to nearby villages and farms to buy bread for themselves. Jesus, however, tested Philip by asking where they could buy bread for everyone. The disciples' exact words and order of conversation may not be certain, but their concern for the people's hunger was evident. The crowd had brought no provisions with them, and there was no food available in the desolate location. The disciples' suggestion likely arose from a genuine concern for the people's well-being.",
+        "wordCount": 94,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.284261470171452,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.04,
+        "commentatorTierSimilarities": [
+            54.24,
+            0.0,
+            45.76
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat.\" ",
+            "Jesus said to Philip, Whence shall we buy bread, that these may eat? (And this He said to prove him: for He Himself knew what He would do).\" ",
+            "The subject may have been introduced by some remark of the disciples; but the precise order and form of what was said by each can hardly be gathered with precision, nor is it of any importance."
+        ],
+        "Archibald T. Robertson": [
+            "The fields were the scattered farms. The villages may have included Bethsaida Julias not far away.",
+            "The other Bethsaida was on the Western side of the lake.",
+            "Literally, what to eat, what they were to eat. Deliberative subjunctive retained in the indirect question."
+        ],
+        "John Gill": [
+            "Send them away,.... Leave off preaching, dismiss the assembly...\" ",
+            "that they may go into the country round about; or 'into the fields'; that is, to the odd houses; which were here and there in the fields;",
+            "and buy themselves bread, for they have nothing to eat; they brought no provisions with them, and there were none to be had in that desert place..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus' disciples, alarmed by the hungry crowd, suggested to Him that they send the people away to nearby villages and farms to buy bread for themselves. Jesus, however, tested Philip by asking where they could buy bread for everyone. The disciples' exact words and order of conversation may not be certain, but their concern for the people's hunger was evident. The crowd had brought no provisions with them, and there was no food available in the desolate location. The disciples' suggestion likely arose from a genuine concern for the people's well-being.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.284261470171452,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.04,
+            "commentatorTierSimilarities": [
+                54.24,
+                0.0,
+                45.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Feeling overwhelmed by the hungry crowd, the disciples proposed sending them away to neighboring villages and farms to purchase food. In response, Jesus tested Philip, asking him where bread could be bought for everyone. While the precise order of the disciples' conversation remains unclear, their concern for the people's hunger is evident. The location was barren, and the crowd had not brought any provisions. The disciples' suggestion likely arose from a genuine desire to ensure the people's well-being.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.0235623023913272,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.38,
+            "commentatorTierSimilarities": [
+                52.84,
+                0.0,
+                47.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of a hungry crowd, the disciples suggested that they send the people away to purchase food in neighboring villages and farms. Jesus, however, put Philip to the test by asking where they could buy bread for everyone. Though the exact order and words of the disciples' conversation may be uncertain, their concern for the people's hunger is clear. The location was lacking in provisions, and the crowd had not come prepared. It is likely that the disciples genuinely wanted to address the people's hunger.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.2025144700176358,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.33,
+            "commentatorTierSimilarities": [
+                52.6,
+                0.0,
+                47.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When faced with a hungry crowd, the disciples proposed sending them away to nearby villages and farms to buy bread. Jesus tested Philip by asking where they could purchase bread for everyone, although He already knew what He would do. The precise order and wording of the disciples' discussion may be uncertain, but their concern for the crowd's hunger is apparent. The desolate location offered no provisions, and the people had not brought any food. The disciples' suggestion likely stemmed from a genuine concern for the people's well-being.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.1647332771380345,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.07,
+            "commentatorTierSimilarities": [
+                53.02,
+                0.0,
+                46.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Concerned about the crowd's hunger, the disciples suggested sending them to nearby villages and farms to buy bread. Jesus tested Philip, asking where they could find bread for everyone, although He already knew what He planned to do. The exact order and nature of the disciples' conversation are unclear, but their genuine concern for the people's hunger is evident. There were no provisions in the desolate location, and the crowd had not brought any food. The disciples' suggestion reflected their desire to ensure the people's well-being.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.1476597662638337,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.5,
+            "commentatorTierSimilarities": [
+                51.19,
+                0.0,
+                48.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:25:58",
+    "verseRef": "Mark 10:25",
+    "bestBHT": {
+        "bht": "The specific word for needle in this instance is considered unclassical and not widely known. On the other hand, other versions of this account use a different word associated with surgical needles. Additionally, both Matthew and Luke utilize a term for eye that implies a hole or perforation. Mark's choice of words, derived from the meaning to wear away or perforate, highlights the evident challenge being discussed.",
+        "wordCount": 68,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.219045853107346,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.88,
+        "commentatorTierSimilarities": [
+            113.43,
+            0.0,
+            -13.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Needle [\u03c1\u03b1\u03c6\u03b9\u03b4\u03bf\u03c2] . A word stigmatized by the grammarians as unclassical.",
+            "One of them (Phrynichus) says, 'As for rJafiv, nobody would know what it is.'",
+            "Luke uses, belonhv, the surgical needle."
+        ],
+        "Archibald T. Robertson": [
+            "Matthew has the word \u03c1\u03b1\u03c6\u03b9\u03c2 like Mark from \u03c1\u03b1\u03c0\u03c4\u03c9, to sew.",
+            "Both Matthew and Luke employ \u03c4\u03c1\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 for eye, a perforation or hole.",
+            "Mark's word \u03c4\u03c1\u03c5\u03bc\u03b1\u03bb\u03b9\u03b1\u03c2 is from \u03c4\u03c1\u03c5\u03c9, to wear away, to perforate."
+        ],
+        "John Gill": [
+            "It is easier for a camel,.... :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is said that the word used for needle in Mark 10:25 is regarded as unconventional and not commonly understood. In other accounts of this verse, a different word is used, one associated with surgical needles. It is interesting to note that both Matthew and Luke use a different word for eye that implies a perforation or hole. It seems that Mark's specific word choice, derived from the word meaning to wear away or perforate, emphasizes the difficulty in a literal sense.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3055733169588721,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "commentatorTierSimilarities": [
+                96.35,
+                0.0,
+                3.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The passage in question uses a word for needle that is considered unclassical and unfamiliar, according to certain grammarians. However, other accounts of this event use a different word associated with surgical needles. Interestingly, both Matthew and Luke use a word for eye that suggests a perforation or hole. This word choice by Mark, which carries the meaning of to wear away or perforate, highlights the literal difficulty being conveyed in the passage.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3006613647675498,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.59,
+            "commentatorTierSimilarities": [
+                100.5,
+                0.0,
+                -0.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word chosen for needle in this context is somewhat unconventional and not widely understood. Interestingly, other Gospel accounts opt for a different term associated with surgical needles. Moreover, both Matthew and Luke employ a word for eye that implies a perforation or hole. Mark's choice of words, derived from the meaning to wear away or perforate, emphasizes the tangible challenges being conveyed, underlining the physical difficulty in question.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.1534285732103582,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.7,
+            "commentatorTierSimilarities": [
+                100.33,
+                0.0,
+                -0.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chosen term for needle in this context is regarded as unclassical and unfamiliar. Other accounts of this event use a different term associated with surgical needles. Moreover, both Matthew and Luke employ a word for eye that suggests a perforation or hole. Mark's word choice, derived from the meaning to wear away or perforate, emphasizes the literal difficulty being conveyed.",
+            "wordCount": 62,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.210781285146474,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.6,
+            "commentatorTierSimilarities": [
+                106.76,
+                0.0,
+                -6.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The specific word for needle in this instance is considered unclassical and not widely known. On the other hand, other versions of this account use a different word associated with surgical needles. Additionally, both Matthew and Luke utilize a term for eye that implies a hole or perforation. Mark's choice of words, derived from the meaning to wear away or perforate, highlights the evident challenge being discussed.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.219045853107346,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.88,
+            "commentatorTierSimilarities": [
+                113.43,
+                0.0,
+                -13.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

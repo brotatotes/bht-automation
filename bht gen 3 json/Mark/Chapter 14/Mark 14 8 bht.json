@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:28:44",
+    "verseRef": "Mark 14:8",
+    "bestBHT": {
+        "bht": "In the act of love done to Him, she has erected to herself an eternal monument, as lasting as the Gospel, the eternal Word of God. She could not comprehend the Lord's death, but she at least showed her sympathy with him and some understanding of the coming tragedy. She anticipated the event. This is Christ's justification of her noble deed, as if it was to bury him.",
+        "wordCount": 70,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8213298846409038,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+        "commentatorTierSimilarities": [
+            32.38,
+            31.22,
+            36.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "She hath done what she could.",
+            "Similar praise to that given to the widow.",
+            "Grounded on the deepest apprehension of the reality of our Lord\u2019s announcement of His approaching death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "She hath done what she could\u2014a noble testimony, embodying a principle of immense importance.",
+            "In the act of love done to Him, she has erected to herself an eternal monument, as lasting as the Gospel, the eternal Word of God.",
+            "Who but Himself had the power to ensure to any work of man, even if resounding in His own time through the whole earth, an imperishable remembrance in the stream of history? Behold once more here the majesty of His royal judicial supremacy in the government of the world, in this, 'Verily I say unto you.'"
+        ],
+        "Marvin Vincent": [
+            "She hath done what she could.\" ",
+            "She is come aforehand to anoint.",
+            "The verb murizw is found only here."
+        ],
+        "Philip Schaff": [
+            "She hath done what she could. Lit., \u2018what she had she did.\u2019 Peculiar to Mark. High praise!",
+            "What she did was a costly work in itself, and yet is judged by the same standard as the act of the poor widow.",
+            "She hath anointed my body beforehand...in some sense anticipated His speedy death."
+        ],
+        "Archibald T. Robertson": [
+            "She hath done what she could...Mary could not comprehend the Lord's death, but she at least showed her sympathy with him and some understanding of the coming tragedy, a thing that not one of her critics had done.",
+            "She hath anointed my body aforehand for the burying...She anticipated the event. This is Christ's justification of her noble deed.",
+            "Matthew 26:12 also speaks of the burial preparation by Mary, using the verb \u03b5\u03bd\u03c4\u03b1\u03c6\u03b9\u03b1\u03c3\u03b1."
+        ],
+        "John Gill": [
+            "She hath done what she could,.... What she had in her heart, and in the power of her hands to do; she hath done according to her ability, and her good will.\" ",
+            "She is come aforehand to anoint my body to the burying; or, 'as if it was to bury me'.\" ",
+            "Christ signifies by this, that he should shortly die, and that this woman came before hand to anoint him, and, as it were, to perform the funeral rites before he was dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "She hath done what she could\u2014a noble testimony, embodying a principle of immense importance. In the act of love done to Him, she has erected to herself an eternal monument, as lasting as the Gospel, the eternal Word of God. She could not comprehend the Lord's death, but she at least showed her sympathy with him and some understanding of the coming tragedy, a thing that not one of her critics had done. She anticipated the event. This is Christ's justification of her noble deed, as if it was to bury him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.9025987200961891,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "commentatorTierSimilarities": [
+                32.62,
+                33.99,
+                33.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "She hath done what she could\u2014a noble testimony, embodying a principle of immense importance. In the act of love done to Him, she has erected to herself an eternal monument, as lasting as the Gospel, the eternal Word of God. She could not comprehend the Lord's death, but she at least showed her sympathy with him and some understanding of the coming tragedy. She anticipated the event. This is Christ's justification of her noble deed, as if it was to bury him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.885603170982527,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                32.82,
+                33.27,
+                33.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the act of love done to Him, she has erected to herself an eternal monument, as lasting as the Gospel, the eternal Word of God. She could not comprehend the Lord's death, but she at least showed her sympathy with him and some understanding of the coming tragedy. She anticipated the event. This is Christ's justification of her noble deed, as if it was to bury him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8213298846409038,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+            "commentatorTierSimilarities": [
+                32.38,
+                31.22,
+                36.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "She hath done what she could. Similar praise to that given to the widow. Grounded on the deepest apprehension of our Lord's announcement of His approaching death. Who but Himself had the power to ensure to any work of man an imperishable remembrance in the stream of history? Behold once more here the majesty of His royal judicial supremacy in the government of the world. She anticipated the event. Mary showed her sympathy with Him and some understanding of the coming tragedy. This is Christ's justification of her noble deed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6533463935465655,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                36.64,
+                35.1,
+                28.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "She hath done what she could, embodying a principle of immense importance. In the act of love done to Him, she has erected to herself an eternal monument, as lasting as the Gospel. Who but Himself had the power to ensure to any work of man, even if resounding in His own time through the whole earth, an imperishable remembrance in the stream of history? She anticipated the event, showing her sympathy and understanding of the coming tragedy. This is Christ's justification of her noble deed.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.7400661508689883,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                33.97,
+                33.37,
+                32.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

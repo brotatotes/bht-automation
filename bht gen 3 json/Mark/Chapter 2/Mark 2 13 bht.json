@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:20:25",
+    "verseRef": "Mark 2:13",
+    "bestBHT": {
+        "bht": "As Jesus walked by the sea, a familiar scene for him, he continued to teach the eager crowds. It was a joy for him to be in this familiar setting, breathing in the fresh air by the sea. Despite the repetition, Jesus did not shy away from his purpose and willingly taught all those who came to him, whether in a synagogue or by the sea-side.",
+        "wordCount": 67,
+        "quoteTokenProportion": 51.06,
+        "qualityScore": 1.7759743200217892,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+        "commentatorTierSimilarities": [
+            20.37,
+            39.93,
+            39.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13.] again, see ch. i. 16. On the [son] of Alpheus see notes, Matt. xiii. 55; and x. 1 ff."
+        ],
+        "Albert Barnes": [
+            "By the sea-side - That is, by the Sea of Tiberias, on the shore of which Capernaum was situated. See the notes at Matthew 4:13."
+        ],
+        "Marvin Vincent": [
+            "Resorted - taught [\u03b7\u03c1\u03c7\u03b5\u03c4\u03bf - \u03b5\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b5\u03bd] . The imperfects are graphic - kept coming, kept teaching."
+        ],
+        "Archibald T. Robertson": [
+            "A pretty picture of Jesus walking by the sea and a walk that Jesus loved.",
+            "It was a joy to get a whiff of fresh air by the sea.",
+            "It was the old story over again, but Jesus did not run away."
+        ],
+        "John Gill": [
+            "And he went forth again by the sea side...\" ",
+            "...and all the multitude resorted unto him...",
+            "...and he taught them..."
+        ],
+        "John Wesley": [
+            "All the multitude came to him \u2014 Namely, by the sea side. And he as readily taught them there as if they had been in a synagogue."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus walked by the sea, a familiar scene for him, he continued to teach the eager crowds. It was a joy for him to be in this familiar setting, breathing in the fresh air by the sea. Despite the repetition, Jesus did not shy away from his purpose and willingly taught all those who came to him, whether in a synagogue or by the sea-side. His commitment to teaching was unwavering, and the people recognized this, continually seeking him out to receive his words.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6221685305691336,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                20.33,
+                38.4,
+                41.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus walked by the sea, a familiar scene for him, he continued to teach the eager crowds. It was a joy for him to be in this familiar setting, breathing in the fresh air by the sea. Despite the repetition, Jesus did not shy away from his purpose and willingly taught all those who came to him, whether in a synagogue or by the sea-side.",
+            "wordCount": 67,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.7759743200217892,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                20.37,
+                39.93,
+                39.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, walking by the sea, was constantly surrounded by crowds who eagerly sought his teachings. It was a familiar scene, one that Jesus did not shy away from. His love for the sea, the fresh air, and the multitude of people was evident as he kept coming and kept teaching, embracing the opportunity to connect with the masses. This particular instance took place in Capernaum, by the Sea of Tiberias, as Jesus continued his ministry, readily teaching the multitude as if they were gathered in a synagogue.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.7864842567973511,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                22.85,
+                37.36,
+                39.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, known for his love of the sea, found joy in the familiar scene of walking by the sea and being surrounded by crowds eager to hear his teachings. Embracing the opportunity, he kept coming and kept teaching, drawing people to him at the sea side just as readily as if they were gathered in a synagogue. This particular instance occurred in Capernaum, by the Sea of Tiberias, where Jesus continued his ministry and readily taught the multitude that resorted to him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8988791263919302,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                19.73,
+                38.65,
+                41.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, embracing the opportunity to connect with the masses, walked along the sea, a place he loved. He was not deterred by the familiar scene of crowds gathering around him, eager to hear his teachings. As he kept coming and kept teaching, the multitude resorted to him by the sea side. In Capernaum, by the Sea of Tiberias, Jesus readily taught the people, as if they were in a synagogue, demonstrating his dedication to sharing his message wherever he went.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8197579098867545,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                19.13,
+                35.74,
+                45.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

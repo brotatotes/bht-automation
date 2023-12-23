@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:25:58",
+    "verseRef": "Mark 10:29",
+    "bestBHT": {
+        "bht": "Those who have sacrificed familial ties and material possessions for the sake of preaching the Gospel and following Christ will receive immeasurable rewards and blessings. This includes leaving behind houses, relatives, wives, children, and lands for the sake of proclaiming and living out the Gospel. Mark emphasizes this point, perhaps due to his own personal experiences and desire to caution others against making the same mistakes he did. The commitment to Christ and the proclamation of His Gospel should be paramount, even if it means leaving behind what is most dear to us.",
+        "wordCount": 93,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 0.9720878928550973,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.67,
+        "commentatorTierSimilarities": [
+            0.0,
+            37.08,
+            62.92
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark perhaps inserts this in both places, in consequence of his own shrinking from suffering on account of the Gospel (Acts 13:13; Acts 15:38);",
+            "He would guard others against his own mistake.",
+            "He would guard others against his own mistake."
+        ],
+        "John Gill": [
+            "There is no man that hath left house, or brethren, or sister, or father, or mother, or wife, or children, or lands, for my sake, and the Gospel's.\" (100 words)",
+            "For the sake of preaching, or professing Christ, and his Gospel.\" (14 words)",
+            "The word 'wife' is left out in the Vulgate Latin version, perhaps because it is not repeated in the following verse; but all copies, and other versions have it.\" (38 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who have sacrificed familial ties and material possessions for the sake of preaching the Gospel and following Christ will receive immeasurable rewards and blessings. This includes leaving behind houses, relatives, wives, children, and lands for the sake of proclaiming and living out the Gospel. Mark emphasizes this point, perhaps due to his own personal experiences and desire to caution others against making the same mistakes he did. The commitment to Christ and the proclamation of His Gospel should be paramount, even if it means leaving behind what is most dear to us.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 0.9720878928550973,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.08,
+                62.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have forsaken their earthly possessions and relationships for the sake of Christ and spreading the Gospel will be rewarded abundantly. This includes leaving behind houses, family members, spouses, children, and properties out of devotion to Christ and the proclamation of His Gospel. Mark underscores this truth, possibly drawing from his own experiences and serving as a cautionary example for others. Committing wholeheartedly to Christ and sharing His message should take precedence over everything, even the closest and most cherished bonds.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 0.8786608418332684,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.56,
+            "commentatorTierSimilarities": [
+                0.0,
+                33.27,
+                66.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who have forsaken their possessions and relationships for the sake of Christ and the Gospel will be richly rewarded. This involves leaving behind houses, family, spouses, children, and properties out of devotion to Christ and the proclamation of His Gospel. Mark emphasizes this truth, potentially from his own experiences, as a word of caution to others. A wholehearted commitment to Christ and the sharing of His message should take priority over everything, even the closest and most cherished relationships.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 0.8461551215784546,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.48,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.3,
+                67.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who have forsaken their earthly possessions and relationships for the sake of preaching the Gospel and following Christ will receive immeasurable rewards. This includes leaving behind houses, family members, spouses, children, and properties for the sake of proclaiming and living out the Gospel. Mark emphasizes this point, urging others to learn from his own experience and not to repeat his past mistakes. The commitment to Christ and the proclamation of His Gospel should be paramount, even if it means leaving behind what is most dear to us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 0.9173730698596769,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.85,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.03,
+                64.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who have sacrificed their worldly possessions and familial ties for the sake of sharing the Gospel and following Christ will be generously rewarded. This includes leaving behind houses, relatives, spouses, children, and properties out of devotion to proclaiming and exemplifying the Gospel. Mark underscores this message, perhaps reflecting on his own past hesitations and offering a cautionary lesson to others. The commitment to Christ and the proclamation of His Gospel should take precedence over everything, regardless of the personal cost involved.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 0.8557429457980859,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.22,
+                63.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

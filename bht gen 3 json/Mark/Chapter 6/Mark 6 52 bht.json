@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:23:54",
+    "verseRef": "Mark 6:52",
+    "bestBHT": {
+        "bht": "The disciples' failure to understand the power of the Lord over nature, as showcased in the miracle of the loaves, was due to their hardened hearts and sluggish intellect. If they had reflected upon the feeding of the multitude, they would have marveled at the breadth of His power and grace. Their lack of comprehension demonstrated the need for divine illumination to perceive the full glory of Christ, which they sadly overlooked. Their hardened hearts and slow understanding prevented them from truly recognizing and appreciating His miracles.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 2.251274696516215,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.2,
+        "commentatorTierSimilarities": [
+            28.4,
+            33.69,
+            37.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "52.] Peculiar to Mark. for they understood not] They did not, from the miracle which they had seen, infer the power of the Lord over nature."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If they had but 'considered [reflected upon] the miracle of the loaves,' they would have wondered at nothing which He might do within the whole circle of power and grace.",
+            "The meaning seems to be that if they had but 'considered [reflected upon] the miracle of the loaves,' they would have wondered at nothing which He might do within the whole circle of power and grace.",
+            "The details here are given with a rich vividness quite peculiar to this charming Gospel."
+        ],
+        "Marvin Vincent": [
+            "Peculiar to Mark. ",
+            "The miracle of the loaves [\u03b5\u03c0\u03b9 \u03c4\u03bf\u03b9\u03c2 \u03b1\u03c1\u03c4\u03bf\u03b9\u03c2] . Rev., concerning the loaves. Lit., upon; in the matter of. They did not reason from the multiplying of the loaves to the stilling of the sea."
+        ],
+        "Philip Schaff": [
+            "There was no intelligent comprehension founded on the miracle of the loaves. They did not from the miracle they had seen, infer the power of the Lord over nature.\" ",
+            "Their heart was hardened. Not in the sense in which we now use these terms, but meaning rather slowness of intellect.\" ",
+            "This state of mind was in keeping with their character as portrayed throughout the Gospels, and true to human nature."
+        ],
+        "Archibald T. Robertson": [
+            "Their reasoning process was hardened.\" ",
+            "Today some men have such intellectual hardness or denseness that they cannot believe that God can or would work miracles.",
+            "Least of all nature miracles."
+        ],
+        "John Gill": [
+            "For they considered not the miracle of the loaves...they did not attend to it, nor learn from it, as they might, the wonderful glory of Christ, and the greatness of his power.\" ",
+            "The glory of Christ, which he manifested, and showed forth in his miracles, was not so clearly and fully discerned, attended to, and acknowledged by them, as it might reasonably be thought it would.",
+            "They stood in need of divine illuminations, that the darkness of their minds being removed, they might behold the glory of Christ, as the glory of the only begotten of the Father."
+        ],
+        "John Wesley": [
+            "Their heart was hardened \u2014 And yet they were not reprobates. It means only, they were slow and dull of apprehension."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples in Mark 6:52 failed to understand the greatness of Christ's power over nature, even though they had witnessed the miracle of the loaves. Their lack of comprehension stemmed from hardened hearts and a sluggish intellect. If they had taken the time to reflect on the feeding of the multitude, they would have marveled at the entirety of Christ's power and grace. Unfortunately, their failure to recognize the glory of Christ hindered their ability to fully grasp the magnitude of his miracles.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.0698669144351225,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                28.12,
+                34.34,
+                37.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, in their hardened and slow hearts, failed to comprehend the power of Christ over nature. Their inability to understand the miracle of the loaves hindered their recognition of the full glory and greatness of Christ. If they had reflected on the miracle, they would have marveled at the extent of his power and grace. Their lack of comprehension underscored the need for divine illumination to dispel the darkness of their minds and perceive Christ's true glory as the beloved Son of the Father.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2507441529009524,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.18,
+            "commentatorTierSimilarities": [
+                28.55,
+                31.95,
+                39.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' failure to understand the power of the Lord over nature, as showcased in the miracle of the loaves, was due to their hardened hearts and sluggish intellect. If they had reflected upon the feeding of the multitude, they would have marveled at the breadth of His power and grace. Their lack of comprehension demonstrated the need for divine illumination to perceive the full glory of Christ, which they sadly overlooked. Their hardened hearts and slow understanding prevented them from truly recognizing and appreciating His miracles.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.251274696516215,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.2,
+            "commentatorTierSimilarities": [
+                28.4,
+                33.69,
+                37.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' inability to grasp the power of Christ over nature was evident in their failure to comprehend the significance of the miracle of the loaves. Their hardened hearts and slow intellect hindered them from recognizing the glory of Christ and the extent of His miracles. If they had reflected more deeply on the feeding of the multitude, they would have been in awe of the overarching power and grace of the Lord. Their lack of understanding emphasized the necessity of divine enlightenment to unveil the full glory of Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1687367921962197,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.45,
+            "commentatorTierSimilarities": [
+                28.51,
+                34.55,
+                36.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' inability to understand the extent of Christ's power over nature is evident in their failure to grasp the significance of the miracle of the loaves. Their hardened hearts and sluggish intellect prevented them from fully recognizing the glory and greatness of Christ. Had they taken the time to reflect on the feeding of the multitude, they would have marveled at the remarkable power and grace of the Lord. This lack of comprehension underlines the need for divine illumination to perceive and acknowledge the true glory of Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.080791522878071,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                26.97,
+                34.57,
+                38.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

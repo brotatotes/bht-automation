@@ -1,0 +1,108 @@
+{
+    "timestamp": "12-22-2023 23:25:25",
+    "verseRef": "Mark 10:9",
+    "bestBHT": {
+        "bht": "In considering the bond of marriage, this verse emphasizes the unity and connection between a husband and wife, perceiving them as one entity. It highlights God's intention and purpose in joining two individuals in matrimony. By recognizing the divine union, we are called to honor and cherish the sacredness of this marital relationship established by God.",
+        "wordCount": 57,
+        "quoteTokenProportion": 35.56,
+        "qualityScore": 0.7128555187818643,
+        "qualityScoreNormalizedComparedToV2BHTs": 15.05,
+        "commentatorTierSimilarities": [
+            38.53,
+            0.0,
+            61.47
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "What. Regarding the two as one."
+        ],
+        "John Gill": [
+            "What therefore God hath joined together,....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:9, the verse speaks to the unity and connection between two individuals, considering them as one. This emphasizes the divine intention and design of marriage, where God unites a man and a woman to form a lasting bond. The verse highlights the sacredness of this union and invites us to honor and respect the joining that God has ordained.",
+            "wordCount": 60,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 0.6489568530919982,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.92,
+            "commentatorTierSimilarities": [
+                31.75,
+                0.0,
+                68.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Regarding the unity and connection of a husband and wife, this verse emphasizes their oneness, as considered by God. The joining together of two individuals in marriage is a divine act, highlighting the sanctity of the bond created by God. It invites us to honor and respect this sacred union that has been ordained by the Lord.",
+            "wordCount": 57,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 0.538717647236096,
+            "qualityScoreNormalizedComparedToV2BHTs": 9.26,
+            "commentatorTierSimilarities": [
+                23.16,
+                0.0,
+                76.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the context of marriage, this passage highlights the significance of viewing a husband and wife as a unified entity. It underscores the divine intention of bringing two individuals together in a sacred bond. By recognizing the joining together orchestrated by God, we are reminded to honor and uphold the sanctity of this union.",
+            "wordCount": 54,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 0.6578170539873639,
+            "qualityScoreNormalizedComparedToV2BHTs": 13.22,
+            "commentatorTierSimilarities": [
+                38.56,
+                0.0,
+                61.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In considering the bond of marriage, this verse emphasizes the unity and connection between a husband and wife, perceiving them as one entity. It highlights God's intention and purpose in joining two individuals in matrimony. By recognizing the divine union, we are called to honor and cherish the sacredness of this marital relationship established by God.",
+            "wordCount": 57,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 0.7128555187818643,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.05,
+            "commentatorTierSimilarities": [
+                38.53,
+                0.0,
+                61.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Regarding the unity and connection of a husband and wife, this verse underscores their oneness as ordained by God. It emphasizes the sacredness of the marriage bond, where two individuals are brought together by divine design. Recognizing this divine union invites us to honor and respect the sanctity of the marital relationship.",
+            "wordCount": 52,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 0.5890539518930314,
+            "qualityScoreNormalizedComparedToV2BHTs": 10.93,
+            "commentatorTierSimilarities": [
+                32.08,
+                0.0,
+                67.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

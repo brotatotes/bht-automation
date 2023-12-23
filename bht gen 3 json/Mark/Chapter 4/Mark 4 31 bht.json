@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:21:55",
+    "verseRef": "Mark 4:31",
+    "bestBHT": {
+        "bht": "Mark's repetition of expressions highlights the significance of his message, particularly in portraying the gradual and expansive power of the kingdom of God. Like a small seed that grows into a large plant, the Gospel began with humble origins, preached by a few individuals of little account, but it eventually spread widely. Similarly, the grace of God starts small in people's hearts, barely discernible and easily despised, but it has the potential to grow into something significant.",
+        "wordCount": 79,
+        "quoteTokenProportion": 27.12,
+        "qualityScore": 1.5861925667063559,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+        "commentatorTierSimilarities": [
+            35.59,
+            21.27,
+            43.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The repetition of expressions verbatim in discourses is peculiar to Mark.",
+            "The earth here, and cannot stand.",
+            "Shooteth out great branches is also peculiar."
+        ],
+        "Marvin Vincent": [
+            "It is small at the time when it is sown.",
+            "It begins to grow great from the time when it is sown.",
+            "A little detail peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "Mark 4:31. In the earth. Mark is fond of repeating the same expressions; an evidence that his Gospel is not an abridgment.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "From a very small seed a large plant grows, the gradual pervasive expansive power of the kingdom of God.",
+            "Clearly meaning that from a very small seed a large plant grows, the gradual pervasive expansive power of the kingdom of God."
+        ],
+        "John Gill": [
+            "The Gospel was first preached by very few persons, and these of no figure and account, especially at their first setting out.",
+            "The Gospel church state at first, consisted of very few persons, of Christ and his twelve apostles.",
+            "The grace of God in the hearts of his people at first, is very little; it can scarcely be discerned by themselves, and is ready to be despised by others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The repetition of verbatim expressions in Mark's discourse is evident in this verse, emphasizing the importance of the message being conveyed. The imagery of the seed growing into a large plant highlights the gradual and pervasive expansion of the kingdom of God. This growth starts small but becomes significant over time. The Gospel, like a small seed, was initially preached by few individuals, but it grew to encompass a multitude. Similarly, the grace of God in people's hearts at first may seem insignificant, but it can become powerful and impactful.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.4190326221320224,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.53,
+            "commentatorTierSimilarities": [
+                39.66,
+                21.51,
+                38.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mark's unique style of repetition can be seen in this passage, underscoring the significance of the message being conveyed. The imagery of a small seed growing into a large plant represents the gradual and pervasive expansion of the kingdom of God. This growth starts from humble beginnings and becomes remarkable over time. The Gospel, initially preached by a few insignificant individuals, eventually spread and encompassed many more. Likewise, the grace of God in people's hearts, though initially small and easily overlooked, has the potential to become immensely powerful and influential.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.3396069889544053,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.89,
+            "commentatorTierSimilarities": [
+                38.94,
+                17.4,
+                43.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark's repeated expressions in this section highlight the significance of the message. The imagery of a small seed growing into a large plant symbolizes the gradual and far-reaching expansion of the kingdom of God. From its humble beginnings, the Gospel was proclaimed by a few unremarkable individuals, yet it eventually spread widely. Similarly, the initial smallness of God's grace in people's hearts may be easily missed or disregarded, but it has the potential to grow into something remarkable and transformative.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.4014211258008218,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.94,
+            "commentatorTierSimilarities": [
+                36.75,
+                25.93,
+                37.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark's use of repetition in this context emphasizes the importance of the message being conveyed. The imagery of a small seed growing into a large plant illustrates the gradual and pervasive expansion of the kingdom of God. The Gospel, initially preached by a few insignificant individuals, eventually spread widely. Similarly, the initial smallness of God's grace in people's hearts may be overlooked or underestimated, but it has the potential to become powerful and influential.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.3528313732020218,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.32,
+            "commentatorTierSimilarities": [
+                36.41,
+                20.14,
+                43.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark's repetition of expressions highlights the significance of his message, particularly in portraying the gradual and expansive power of the kingdom of God. Like a small seed that grows into a large plant, the Gospel began with humble origins, preached by a few individuals of little account, but it eventually spread widely. Similarly, the grace of God starts small in people's hearts, barely discernible and easily despised, but it has the potential to grow into something significant.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.5861925667063559,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                35.59,
+                21.27,
+                43.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

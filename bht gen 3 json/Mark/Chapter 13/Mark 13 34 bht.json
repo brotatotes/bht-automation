@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-22-2023 23:29:02",
+    "verseRef": "Mark 13:34",
+    "bestBHT": {
+        "bht": "The image of Jesus as the porter or doorkeeper conveys the idea of being watchful and giving warning of approaching danger. Ministers are called to be vigilant and fulfill their duty as watchmen for God's church. The parable speaks to Jesus ascending to heaven, leaving the church under the care of the apostles. It emphasizes the importance of readiness and eagerness for his return, even in our ignorance of the exact time. This call for watchfulness applies to ministers and all believers alike.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.6858397966834775,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+        "commentatorTierSimilarities": [
+            28.5,
+            32.44,
+            39.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The porter is the door-porter, whose office it would be to look out for approaching travellers.\" ",
+            "Answering especially to the ministers of the word, who are watchmen to God's church.\" ",
+            "Peculiar to Mark, and containing the condensed matter of Matthew, vv. 43-47, and perhaps an allusion to the parable of the talents in Matt. xxv."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the Son of man is as a man taking a far journey, c.",
+            "the gatekeeper...to watch",
+            "giving warning of approaching danger to the people"
+        ],
+        "Albert Barnes": [
+            "The word 'house' often means family.",
+            "Our Saviour here represents himself as going away, leaving his household the church, assigning to the apostles and all his servants their duty, and leaving it uncertain when he would return.",
+            "To the janitor or doorkeeper was entrusted particularly the care of the house, whose duty it was to attend faithfully on those who came and those who left the house."
+        ],
+        "Marvin Vincent": [
+            "The A. V. is incorrect, since the idea is not that of a man about to go, but of one already gone.",
+            "The two words form one notion - a man abroad.",
+            "Rev., sojourning in another country."
+        ],
+        "Philip Schaff": [
+            "The whole matter of watchfulness is as in the following parable.",
+            "Having left his house and given authority to his servants, to each one his work, commanded also the porter to watch.",
+            "This injunction is the main point of the parable."
+        ],
+        "Archibald T. Robertson": [
+            "Our ignorance of the time of the Master's return is an argument not for indifference nor for fanaticism, but for alertness and eager readiness for his coming.",
+            "This Parable of the Porter is only in Mark.",
+            "The porter or door-keeper (\u03b8\u03c5\u03c1\u03c9\u03c1\u03bf\u03c2), as well as all the rest, to keep a watch (present subjunctive, \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03b7)."
+        ],
+        "John Gill": [
+            "This case of the son of man's coming to take vengeance on the Jewish nation, is like a man that takes a journey into a far country.",
+            "Christ, when he ascended on high, went to heaven, the land afar off; left his house, his church, particularly in Judea, and at Jerusalem, to the care of his apostles.",
+            "Ordered the porter to be on his watch, not Peter only, but all the apostles and ministers, whose business it is to watch over themselves, and the souls of men committed to their care."
+        ],
+        "John Wesley": [
+            "Being about to leave this world and go to the Father, he appoints the services that are to be performed by all his servants, in their several stations.",
+            "This seems chiefly to respect ministers at the day of judgment: but it may be applied to all men, and to the time of death.",
+            "Matthew 25:14; Luke 19:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse portrays Jesus as the porter or doorkeeper, who is watchful and gives warning of approaching danger to the people. It emphasizes the importance of ministers being vigilant and alert, fulfilling their duty as watchmen for God's church. The image of the Son of man taking a far journey conveys the idea of Jesus ascending to heaven and leaving the church, particularly in Judea and Jerusalem, under the care of his apostles. This parable serves as a reminder for believers to be prepared and eagerly ready for his return, despite our ignorance of the exact time. It is a call for watchfulness, not indifference or fanaticism, among both ministers and all believers.",
+            "wordCount": 114,
+            "quoteTokenProportion": 31.17,
+            "qualityScore": 1.7679021940297335,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                28.93,
+                30.93,
+                40.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, portrayed as the door-porter, is watchful and gives warning of danger to the people. Ministers, as watchmen for God's church, must be vigilant and fulfill their duty. The Son of man depicted as taking a far journey signifies Jesus ascending to heaven, leaving the church under the care of the apostles. This parable emphasizes the need for readiness and eagerness for Jesus' return, despite our ignorance of the exact time. It serves as a call for watchfulness, not indifference or fanaticism, among ministers and believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.670037050897602,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                28.33,
+                31.4,
+                40.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The image of Jesus as the porter or doorkeeper conveys the idea of being watchful and giving warning of approaching danger. Ministers are called to be vigilant and fulfill their duty as watchmen for God's church. The parable speaks to Jesus ascending to heaven, leaving the church under the care of the apostles. It emphasizes the importance of readiness and eagerness for his return, even in our ignorance of the exact time. This call for watchfulness applies to ministers and all believers alike.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.6858397966834775,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                28.5,
+                32.44,
+                39.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Mark 13:34, Jesus is portrayed as the door-porter, whose role is to watch and give warning of approaching danger to the people. The Son of man's journey symbolizes his ascension to heaven, leaving the church in the care of the apostles. This parable emphasizes the need for ministers and believers to be vigilant and ready for Jesus' return, despite our uncertainty of the exact time. It serves as a reminder for all to remain alert and eagerly prepared for his coming.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.68025974123343,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.21,
+            "commentatorTierSimilarities": [
+                26.34,
+                30.83,
+                42.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The door-porter in this passage refers to ministers who are watchmen over God's church, giving warning of approaching danger. Jesus, depicted as the Son of man taking a far journey, emphasizes the importance of readiness and eagerness for his return. Though we are uncertain of the exact time, this parable reminds us to be alert and prepared. It is a call for ministers and believers to be watchful, fulfilling their duties and staying vigilant in their service to God's people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6929159697763876,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                31.19,
+                29.78,
+                39.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

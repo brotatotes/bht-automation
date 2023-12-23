@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:20:46",
+    "verseRef": "Mark 2:21",
+    "bestBHT": {
+        "bht": "Adding something new to something old results in the new taking away from the old, causing a worse tear. This concept is highlighted by the parable, which demonstrates the independent accounts of Mark, Matthew, and Luke. The new addition in this case refers to the traditions of the elders, which were considered new compared to God's commandments. These traditions were not to be combined with the Jews' moral and ceremonial righteousness, as they often led to neglecting God's commands and rendering them void.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.525592598607308,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+        "commentatorTierSimilarities": [
+            28.6,
+            14.03,
+            57.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The filling-up takes away from it, the new from the old, and a worse rent takes place.",
+            "The addition here of the new confirms the view taken of the parable there.",
+            "The same may be said of the three accounts as in the last case, with continually fresh evidence of their entire independence of one another."
+        ],
+        "Marvin Vincent": [
+            "Seweth [\u03b5\u03c0\u03b9\u03c1\u03c1\u03b1\u03c0\u03c4\u03b5\u03b9] . A word found in Mark only. Matthew (ix. 16) and Luke (v. 36) use ejpiballei, throweth upon, as we speak of clapping a patch upon."
+        ],
+        "Philip Schaff": [
+            "That which filleth it up (lit, \u2018the fulness\u2019) taketh away from it, the new from the old, and a worse rent is made.",
+            "The form is peculiar to Mark, and characteristic of his lively style.",
+            "The variations show entire independence."
+        ],
+        "Archibald T. Robertson": [
+            "Sews upon: in Matthew 9:16 and Luke 5:37 use \u03b5\u03c0\u03b9\u03b2\u03b1\u03bb\u03bb\u03b5, put upon or clap upon."
+        ],
+        "John Gill": [
+            "The traditions of the elders are meant, particularly concerning eating and drinking, and fasting, things before spoken of; and which occasioned this parable, and which were new things in comparison of the commands of God.",
+            "The former [moral and ceremonial righteousness of the Jews] were not to be joined with these [traditions of the elders], to make up a justifying righteousness before God.",
+            "By attendance to the traditions of the elders, the Jews were taken off from, and neglected the commandments of God; nay, oftentimes the commands of God were made void by these traditions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When something new is added to something old, it takes away from the old and makes a worse tear. This concept is confirmed by the parable mentioned here. The Gospel accounts of Mark, Matthew, and Luke demonstrate their independence from one another. In the context of this verse, the new addition refers to the traditions of the elders, which were seen as new in comparison to the commands of God. These traditions were not to be combined with the moral and ceremonial righteousness of the Jews, as they often caused neglect of God's commandments and rendered them void.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.4730117729150685,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                31.05,
+                14.66,
+                54.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Adding something new to something old results in the new taking away from the old, causing a worse tear. This concept is highlighted by the parable, which demonstrates the independent accounts of Mark, Matthew, and Luke. The new addition in this case refers to the traditions of the elders, which were considered new compared to God's commandments. These traditions were not to be combined with the Jews' moral and ceremonial righteousness, as they often led to neglecting God's commands and rendering them void.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.525592598607308,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+            "commentatorTierSimilarities": [
+                28.6,
+                14.03,
+                57.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When something new is added to something old, it takes away from the old and makes a worse tear. This concept is confirmed by the parable mentioned here. The Gospel accounts of Mark, Matthew, and Luke demonstrate their independence from one another. In the context of this verse, the new addition refers to the traditions of the elders, which were seen as new in comparison to the commands of God. These traditions were not to be combined with the moral and ceremonial righteousness of the Jews, as they often caused neglect of God's commandments and rendered them void.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.4730117729150685,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                31.05,
+                14.66,
+                54.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Adding something new to something old can result in the new taking away from the old, creating a worse tear. This notion is emphasized by the parable discussed here. The accounts of Mark, Matthew, and Luke demonstrate their independence from each other, providing compelling evidence of their separate origins. In the context of this passage, the introduction of the traditions of the elders, which were considered new, clashed with the commands of God. Combining these traditions with the moral and ceremonial righteousness of the Jews risked disregarding God's commandments and nullifying their significance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.3847144311947701,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.38,
+            "commentatorTierSimilarities": [
+                29.54,
+                14.22,
+                56.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When a new element is introduced to something old, it often diminishes the old and creates a worse tear. This concept aligns with the underlying message of the parable being discussed. The independent accounts provided by Mark, Matthew, and Luke showcase their distinctive perspectives. In the context of this discussion, the addition being referred to is the introduction of the traditions of the elders, considered new compared to God's commands. Integrating these practices with the Jews' existing moral and ceremonial righteousness risked neglecting God's commandments and undermining their validity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.3304676386673029,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.58,
+            "commentatorTierSimilarities": [
+                31.77,
+                15.07,
+                53.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

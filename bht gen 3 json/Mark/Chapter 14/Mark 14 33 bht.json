@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:28:45",
+    "verseRef": "Mark 14:33",
+    "bestBHT": {
+        "bht": "In the Garden of Gethsemane, Jesus feels a deep sense of astonishment and sorrow. He is amazed and homesick for heaven as he faces the struggle ahead. This new experience enriches his human soul and teaches him from what he will suffer. Jesus is greatly amazed and sore troubled, feeling consternation and astonishment as he sees all the sins of his people coming upon him. The curses of the righteous law and the black storm of wrath gather over him, surrounding him with sorrow and grief. Such shocking amazement and sorrow threaten to separate his soul from his body.",
+        "wordCount": 99,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.5225524653908369,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+        "commentatorTierSimilarities": [
+            33.86,
+            20.65,
+            45.49
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "33.] Notice the graphic sore amazed, and see note on ch. ix. 15 where the same word is used in the original. St Matthew has to be sorrowful."
+        ],
+        "Marvin Vincent": [
+            "To be sore amazed [\u03b5\u03ba\u03b8\u03b1\u03bc\u03b2\u03b5\u03b9\u03c3\u03b8\u03b1\u03b9] . A word peculiar to Mark. Compare Mark 9:15; Mark 16:5, Mark 16:6."
+        ],
+        "Philip Schaff": [
+            "Mark 14:33. To be greatly amazed and sore troubled. The first expression used by Mark is stronger than that used by Matthew, the second is the same in both Gospels.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Now Jesus himself feels amazement as he directly faces the struggle in the Garden of Gethsemane.",
+            "For the moment he is rather amazed and homesick for heaven.",
+            "He learned from what he suffered, and this new experience enriched the human soul of Jesus."
+        ],
+        "John Gill": [
+            "To be in great consternation and astonishment, at the sight of all the sins of his people coming upon him.\" ",
+            "At the black storm of wrath, that was gathering thick over him.",
+            "And at the curses of the righteous law, which, like so many thunderbolts of vengeance, were directed at him."
+        ],
+        "John Wesley": [
+            "The original word imports the most shocking amazement, mingled with grief.",
+            "He was surrounded with sorrow on every side, breaking in upon him with such violence.",
+            "Sorrow ready to separate his soul from his body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the Garden of Gethsemane, Jesus feels a deep sense of astonishment and sorrow. He is amazed and homesick for heaven as he faces the struggle ahead. This new experience enriches his human soul and teaches him from what he will suffer. Jesus is greatly amazed and sore troubled, feeling consternation and astonishment as he sees all the sins of his people coming upon him. The curses of the righteous law and the black storm of wrath gather over him, surrounding him with sorrow and grief. Such shocking amazement and sorrow threaten to separate his soul from his body.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.5225524653908369,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+            "commentatorTierSimilarities": [
+                33.86,
+                20.65,
+                45.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus finds himself in the Garden of Gethsemane, facing a struggle that leaves him amazed and homesick for heaven. This new experience enriches his human soul, teaching him from his suffering. Sorrows surround him, with the curses of the righteous law and a black storm of wrath gathering overhead. He is greatly troubled and amazed, feeling consternation and astonishment as he sees all the sins of his people coming upon him. This shocking amazement and sorrow threaten to separate his soul from his body.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4710068411257247,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                30.99,
+                19.63,
+                49.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Garden of Gethsemane, Jesus is amazed and homesick for heaven as he anticipates the struggle ahead. This new experience enriches his human soul, as he learns from his suffering. Surrounded by sorrows, he feels consternation and astonishment, seeing the weight of all the sins of his people coming upon him. The curses of the righteous law and a black storm of wrath gather over him, threatening to separate his soul from his body.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4929108754938092,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+            "commentatorTierSimilarities": [
+                32.47,
+                19.91,
+                47.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus faces the struggle in the Garden of Gethsemane, feeling amazed and homesick for heaven. This new experience enriches his human soul, teaching him through suffering. He is greatly troubled and amazed, feeling consternation and astonishment as he sees all the sins of his people coming upon him. Surrounded by sorrows, curses of the righteous law and a black storm of wrath gather over him, threatening to separate his soul from his body.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.4897331623698125,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.88,
+            "commentatorTierSimilarities": [
+                34.35,
+                19.9,
+                45.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus finds himself in the Garden of Gethsemane, facing a struggle that leaves him amazed and homesick for heaven. This new experience enriches his human soul, teaching him from his suffering. Sorrows surround him, with the curses of the righteous law and a black storm of wrath gathering overhead. He is greatly troubled and amazed, feeling consternation and astonishment as he sees all the sins of his people coming upon him. This shocking amazement and sorrow threaten to separate his soul from his body.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.4710068411257247,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.25,
+            "commentatorTierSimilarities": [
+                30.99,
+                19.63,
+                49.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

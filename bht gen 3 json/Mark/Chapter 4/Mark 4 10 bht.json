@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:21:48",
+    "verseRef": "Mark 4:10",
+    "bestBHT": {
+        "bht": "When Jesus was alone with his disciples, they asked him about the parable of the sower, wanting to understand its meaning and why he spoke in parables. The disciples gathered around Jesus, besides the twelve, seeking a deeper understanding. This parable was of fundamental importance, serving as an introduction to Jesus' teachings. By speaking in parables, Jesus made the truth accessible to those who sought it, while concealing it from those who were unwilling to put forth the effort to understand.",
+        "wordCount": 81,
+        "quoteTokenProportion": 54.24,
+        "qualityScore": 2.0675158550500514,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+        "commentatorTierSimilarities": [
+            40.32,
+            35.99,
+            23.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] they that were about him with the twelve; \u201chis disciples\u201d Luke."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The reply would seem to intimate that this parable of the sower was of that fundamental, comprehensive, and introductory character which we have assigned to it.",
+            "Reason for Teaching in Parables",
+            "Mark 4:11; Mark 4:12; Mark 4:21-25"
+        ],
+        "Marvin Vincent": [
+            "When he was alone. Mark only. ",
+            "They that were about him with the twelve. Mark only. Matthew and Luke, the disciples."
+        ],
+        "Philip Schaff": [
+            "This refers to a temporary withdrawal, when His disciples \u2018came\u2019 to Him (Matthew), for He evidently spoke further to the multitude (Matthew 13:24-35).",
+            "What follows was spoken neither to the multitude nor to the Twelve alone.",
+            "This was precisely the purpose: that those who would seek might know \u2018the mystery,\u2019 and those who would not put forth this effort, might not."
+        ],
+        "Archibald T. Robertson": [
+            "When he was alone (\u03bf\u03c4\u03b5 \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03ba\u03b1\u03c4\u03b1 \u03bc\u03bf\u03bd\u03b1\u03c2). Only in Mark. Vivid recollection of Peter.",
+            "They did not want the multitude to see that they did not understand the teaching of Jesus.",
+            "Mark has also 'they that were about him with the twelve' (\u03bf \u03c0\u03b5\u03c1 \u03b1\u03c5\u03c4\u03bf\u03bd \u03c3\u03c5\u03bd \u03c4\u03bf\u03b9\u03c2 \u03b4\u03c9\u03b4\u03b5\u03ba\u03b1), Matthew and Luke simply 'the disciples'."
+        ],
+        "John Gill": [
+            "When he was alone\"...After the multitude was dismissed, and he either remained in the ship, or left it, and retired to some private place...(26 words)",
+            "They that were about him with the twelve\"...such disciples of his, who, besides the twelve, constantly attended him; perhaps those who now were, or hereafter were the seventy disciples...(32 words)",
+            "His disciples came and asked of him the parable\"...the meaning of it, and why he chose this way of speaking to the people...(20 words)"
+        ],
+        "John Wesley": [
+            "When he was alone \u2014 That is, retired apart from the multitude."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus was alone with his disciples, they came to him and asked for an explanation of the parable he had just told to the multitude. It seems that the parable of the sower was fundamental and introductory, serving as a comprehensive teaching. Jesus taught in parables to convey hidden truths, and by doing so, he ensured that only those who sought understanding would grasp the mysteries of the kingdom. The disciples, being close to Jesus, sought further insights in private.",
+            "wordCount": 81,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.0055602613944723,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                40.39,
+                34.72,
+                24.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus was alone with his disciples, they sought clarification regarding the parable he had shared with the multitude. This parable of the sower was foundational and all-encompassing, establishing important teachings about the kingdom. Jesus used parables to convey hidden truths, making it necessary for those who desired understanding to actively seek it. The disciples, being in close proximity to Jesus, approached him privately to gain deeper insights into the meaning of the parable.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.9777427975853912,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                41.36,
+                35.34,
+                23.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus was alone with his disciples, they came to him and asked for an explanation of the parable he had shared with the multitude. This parable of the sower was of foundational and introductory character, conveying hidden truths about the kingdom. Jesus used parables to ensure that only those who sought understanding would grasp the mysteries. The disciples, being close to Jesus, sought further insights in private.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.0560948819921805,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.71,
+            "commentatorTierSimilarities": [
+                39.22,
+                35.71,
+                25.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus was alone with his disciples, they asked him about the parable of the sower, wanting to understand its meaning and why he spoke in parables. The disciples gathered around Jesus, besides the twelve, seeking a deeper understanding. This parable was of fundamental importance, serving as an introduction to Jesus' teachings. By speaking in parables, Jesus made the truth accessible to those who sought it, while concealing it from those who were unwilling to put forth the effort to understand.",
+            "wordCount": 81,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 2.0675158550500514,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+            "commentatorTierSimilarities": [
+                40.32,
+                35.99,
+                23.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus was alone with his disciples, they asked him about the parable of the sower, seeking to understand why he spoke in parables and what the parable meant. This parable held a fundamental and comprehensive message, serving as an introduction to Jesus' teachings. By speaking in parables, Jesus allowed those who sought the truth to grasp it, while concealing it from those who lacked the desire or effort to understand. The disciples, in addition to the twelve, came to Jesus, eagerly seeking a deeper understanding.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.0067473860866825,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.07,
+            "commentatorTierSimilarities": [
+                40.35,
+                36.99,
+                22.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

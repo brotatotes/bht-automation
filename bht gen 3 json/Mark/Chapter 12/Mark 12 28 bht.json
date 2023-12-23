@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:27:35",
+    "verseRef": "Mark 12:28",
+    "bestBHT": {
+        "bht": "The question of the greatest commandment stirred up debates among Jewish teachers, who had numerous classifications of the law and differing opinions. The scribe who asked Jesus this question admired his wise response, and Jesus, following his own advice, responded with respect. He beautifully stated that the whole law and the prophets depend on these two commandments, highlighting their importance. Jesus's solid and well-thought-out answer left his critics silenced and showcased his deep understanding of the law and his ability to handle challenges.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.6890720714050094,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+        "commentatorTierSimilarities": [
+            31.06,
+            29.56,
+            39.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first commandment of all;\u2014this was one of the 'strivings about the law' (Titus iii. 9),\u2014which was the greatest commandment.",
+            "The Scribes had many frivolous enumerations and classifications of the commands of the law.",
+            "The motive seems to have been, admiration of our Lord's wise answer, and a desire to be instructed further by Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This was a question which, with some others, divided the Jewish teachers into rival schools.",
+            "Our Lord's answer is in a strain of respect very different from what He showed to cavillers.",
+            "Ever observing His own direction, 'Give not that which is holy to the dogs, neither cast ye your pearls before swine; lest they trample them under their feet, and turn again and rend you'."
+        ],
+        "Marvin Vincent": [
+            "Well [\u03ba\u03b1\u03bb\u03c9\u03c2] . Lit., beautifully, finely, admirably. What [\u03c0\u03bf\u03b9\u03b1] . Rather, of what nature."
+        ],
+        "Philip Schaff": [
+            "Knowing that he had answered them well. This scribe no doubt rejoiced in the defeat of the Sadducees, but was also really pleased with our Lord\u2019s answers.\" ",
+            "The fearfully belittling tendencies of Pharisaical legalism may be inferred from the following statement: \u2018The Jews enumerated six hundred and thirteen ordinances; three hundred and sixty-five prohibitions, according to the days of the year; two hundred and twenty-eight commandments, according to the parts of the body. The Pharisees distinguished between lesser and greater commandments.\u2019",
+            "The phrase may mean: \u2018first of all things,\u2019 however."
+        ],
+        "Archibald T. Robertson": [
+            "A few, among whom was the scribe, were constrained to admire, even if they were willing to criticize, the Rabbi who though not himself a Pharisee, surpassed the Pharisees as a champion of the truth.\" ",
+            "First in rank and importance.",
+            "On these two commandments hangeth the whole law and the prophets."
+        ],
+        "John Gill": [
+            "and perceiving that he had answered them well: in a most beautiful manner.",
+            "The answer here was with great solidity, and judgment, and strength of argument, to their utter confusion and silence.",
+            "He understood he had considerable knowledge in the law, and yet was willing to try if he could not puzzle him with a question relating to it."
+        ],
+        "John Wesley": [
+            "Which is the first commandment? \u2014 The principal, and most necessary to be observed. Matthew 22:34; Luke 10:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The greatest commandment was a matter of great debate among the Jewish teachers at the time. Many frivolous enumerations and classifications of the commands of the law existed, creating rival schools. The scribe who asked Jesus this question admired both his wise answer and his status as a champion of the truth. Jesus's response was marked by respect and showed his understanding of not casting pearls before swine. Jesus's answer beautifully and admirably stated that the entire law and the prophets hang on these two commandments, emphasizing their rank and importance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.6840856887831186,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                34.22,
+                29.64,
+                36.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The question of the greatest commandment was a topic of contention among Jewish teachers, who had various classifications and debates. Jesus's response to the scribe who posed the question was marked by respect and a desire to instruct. Jesus admirably stated that the entire law and the prophets rest on these two commandments, emphasizing their significance. His wise answer silenced his critics while showcasing his knowledge of the law and his ability to navigate complex debates.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6525409340324662,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.29,
+            "commentatorTierSimilarities": [
+                32.29,
+                28.87,
+                38.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The question of the greatest commandment stirred up debates among Jewish teachers, who had numerous classifications of the law and differing opinions. The scribe who asked Jesus this question admired his wise response, and Jesus, following his own advice, responded with respect. He beautifully stated that the whole law and the prophets depend on these two commandments, highlighting their importance. Jesus's solid and well-thought-out answer left his critics silenced and showcased his deep understanding of the law and his ability to handle challenges.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6890720714050094,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                31.06,
+                29.56,
+                39.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The question about the greatest commandment was a contentious issue among the Jewish teachers, who had their own classifications and rival schools of thought. The scribe who posed the question admired Jesus's wise response, while Jesus, respectful in his answer, emphasized the significance of these two commandments, asserting that the entirety of the law and the prophets hang on them. His well-crafted and thoughtful reply left his opponents silenced, underscoring his deep knowledge of the law and his ability to navigate complex debates.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.688061909879043,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                31.15,
+                30.6,
+                38.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The debate concerning the greatest commandment among the Jewish teachers led to various classifications and rivalries. The scribe who asked Jesus this question admired his wise response, prompting Jesus to beautifully state that the entire law and the prophets hinge on these two commandments. Jesus's respectful answer showcased his deep understanding of the law and his ability to handle challenges with solid reasoning, leaving his opponents silenced.",
+            "wordCount": 68,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.6858018132263806,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                30.86,
+                31.67,
+                37.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:28:55",
+    "verseRef": "Mark 15:2",
+    "bestBHT": {
+        "bht": "Pilate, although doubting the accusations against Jesus, realizes that he cannot disregard them lest he be charged with neglecting a supposed rival to Caesar. This interaction between Pilate and Jesus holds particular importance as it is the only question where Pilate's testimony is necessary. Though a more comprehensive conversation with Jesus occurs later, Pilate seeks clarification, hoping to determine the veracity of the claims made against Jesus and understand if there is any truth to what others say about him.",
+        "wordCount": 81,
+        "quoteTokenProportion": 49.21,
+        "qualityScore": 1.5020090462936004,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+        "commentatorTierSimilarities": [
+            78.53,
+            0.0,
+            21.47
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "He does not believe this one to be true, but he has to pay attention to it or be liable to charges himself of passing over a man accused of rivalry and revolution against Caesar.\" ",
+            "Thou sayest. An affirmation, though in John 18:34-37 there is a second and fuller interview between Pilate and Jesus.\" ",
+            "It is the only question on which his own testimony is important and necessary."
+        ],
+        "John Gill": [
+            "Thou sayest it;... I am.",
+            "In which he explained himself to Pilate's satisfaction.",
+            "For so he was...in a sense."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, the Roman governor, finds himself in a precarious situation as he listens to the accusations against Jesus. While he may not personally believe the claims to be true, he understands the political ramifications of dismissing the accusations. Despite his reservations, he acknowledges the importance of paying attention to the charges brought against Jesus to protect himself from charges of overlooking a potential rebellion against Caesar. This conversation with Jesus is significant because it is the only question where Pilate's own testimony becomes crucial, even though a more detailed conversation takes place later. Ultimately, Pilate seeks clarification from Jesus, wanting to establish whether what others say about him holds any truth.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 1.3052910145850167,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.74,
+            "commentatorTierSimilarities": [
+                77.26,
+                0.0,
+                22.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate, although doubting the accusations against Jesus, realizes that he cannot disregard them lest he be charged with neglecting a supposed rival to Caesar. This interaction between Pilate and Jesus holds particular importance as it is the only question where Pilate's testimony is necessary. Though a more comprehensive conversation with Jesus occurs later, Pilate seeks clarification, hoping to determine the veracity of the claims made against Jesus and understand if there is any truth to what others say about him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.5020090462936004,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+            "commentatorTierSimilarities": [
+                78.53,
+                0.0,
+                21.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, wary of the potential consequences of disregarding the accusations against Jesus, engages in a conversation to discern the truth. Despite his skepticism, Pilate understands the necessity of addressing the allegations to protect himself from charges of overlooking a potential rebellion. This moment is notable since it marks the only instance where Pilate's own testimony becomes significant. Seeking clarification from Jesus, Pilate aims to ascertain the validity of the claims and sift through what others have said about him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.1956874963053299,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.1,
+            "commentatorTierSimilarities": [
+                73.2,
+                0.0,
+                26.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate, though unconvinced of the truthfulness of the accusations against Jesus, is compelled to pay attention to them for fear of being accused of neglecting a man involved in a rebellion against Caesar. This conversation between Pilate and Jesus holds significance as it is the sole question where Pilate's own testimony carries weight. While a more extensive exchange occurs later, Pilate seeks clarification from Jesus to determine the veracity of the allegations and understand if there is any validity to the rumors circulating about him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.4596776322959921,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "commentatorTierSimilarities": [
+                74.64,
+                0.0,
+                25.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, though hesitant to believe the accusations against Jesus, understands the necessity of addressing them to avoid charges of neglecting a potential rival to Caesar. This particular interaction holds significance as it is the only question where Pilate's own testimony is crucial. Seeking clarification, Pilate engages in dialogue with Jesus, hoping to determine the truth behind the claims and evaluate the validity of what others have said about him.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3340355917291131,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                78.67,
+                0.0,
+                21.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

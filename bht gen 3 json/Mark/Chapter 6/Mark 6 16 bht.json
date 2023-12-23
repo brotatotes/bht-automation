@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:23:21",
+    "verseRef": "Mark 6:16",
+    "bestBHT": {
+        "bht": "Herod's guilty conscience haunted him, as he acknowledged that John, his faithful reprover, had risen in the form of his nightmares. He knew John's worth and holiness and had listened to him with pleasure. Yet, it was Herodias who persecuted John while Herod recognized his guilt. The emphasis on I emphasizes the weight of his guilty conscience, and the correct reading further illustrates the graphic nature of his remorse. The conflicting views about Jesus deeply troubled Herod, but he still held onto the belief that the risen John was the one he had executed.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.91969537577649,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+        "commentatorTierSimilarities": [
+            40.6,
+            24.83,
+            34.56
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I (which is emphatic in the original) has the emphasis given by his guilty conscience.\" (Meyer)",
+            "It was Herodias who persecuted John, whereas Herod knew his worth and holiness, and listened to him with pleasure.\" ",
+            "The maiden went and asked counsel of her mother before making the request; and that an executioner, one of the bodyguard was sent to behead John."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Himself has risen\" - as if the innocence and sanctity of his faithful reprover had not suffered that he should lie long dead.",
+            "as if the innocence and sanctity of his faithful reprover had not suffered\" - Himself has risen.",
+            "the innocence and sanctity of his faithful reprover\" - as if...he should lie long dead."
+        ],
+        "Marvin Vincent": [
+            "He is risen. The he, ou=tov, is emphatic. This one. This very John. ",
+            "- 29. On the Peculiarities of Mark in this narrative, See Introduction."
+        ],
+        "Philip Schaff": [
+            "The emphasis rests on \u2018I,\u2019 and the correct reading is more graphic than the common one.",
+            "His guilty conscience suggested the thought, which was uttered to his servants.",
+            "Others held the same view."
+        ],
+        "Archibald T. Robertson": [
+            "His fears got the best of him and so Herod settled down on this nightmare.\" ",
+            "He could still see that charger containing John's head coming towards him in his dreams.\" ",
+            "Herod had ordered it done and recognizes his guilt."
+        ],
+        "John Gill": [
+            "The thought stuck close to him, and continued with him; he could not get rid of it, nor persuade himself to the contrary.",
+            "These different sentiments of the people concerning Jesus, greatly perplexed the mind of Herod.",
+            "So men may be convinced of sin, and entertain other and better notions of religion, and yet not be converted persons."
+        ],
+        "John Wesley": [
+            "But Herod hearing thereof \u2014 Of their various judgments concerning him, still said, It is John."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod's guilty conscience haunted him, as he acknowledged that John, his faithful reprover, had risen in the form of his nightmares. He knew John's worth and holiness and had listened to him with pleasure. Yet, it was Herodias who persecuted John while Herod recognized his guilt. The emphasis on I emphasizes the weight of his guilty conscience, and the correct reading further illustrates the graphic nature of his remorse. The conflicting views about Jesus deeply troubled Herod, but he still held onto the belief that the risen John was the one he had executed.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.91969537577649,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+            "commentatorTierSimilarities": [
+                40.6,
+                24.83,
+                34.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Haunted by his guilty conscience, Herod couldn't escape the vivid image of John, his faithful reprover, rising from the dead like a nightmare. Although Herod knew John's worth and holiness, it was Herodias who persecuted him while Herod wallowed in his guilt. The emphasis on I underscores the weight of his remorse, while the correct reading vividly captures the graphic nature of his thoughts. The conflicting views about Jesus disturbed Herod greatly, but he held fast to the belief that the risen John was the same man he had executed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8641210075722612,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                40.69,
+                23.59,
+                35.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Haunted by his guilty conscience, Herod couldn't escape the image of John, his faithful reprover, rising from the dead. While Herod recognized John's worth and holiness, it was Herodias who persecuted him, and he carried the weight of his guilt. The emphasis on I highlights the power of remorse, and the correct reading vividly captures the graphic nature of his thoughts. The conflicting views about Jesus troubled Herod deeply, but he clung to the belief that the risen John was the same man he had executed.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8389287203213378,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                41.93,
+                23.33,
+                34.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Haunted by guilt, Herod was tormented by the image of John, the faithful reprover. Though he recognized John's worth and holiness, it was Herodias who persecuted him, while Herod carried the burden of his guilt. The emphasis on I emphasized his guilty conscience, while the correct reading portrayed the graphic nature of his thoughts. The conflicting views about Jesus troubled Herod deeply, yet he clung to the belief that the risen John was the same man he had executed.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.904922477935842,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                40.51,
+                25.66,
+                33.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Haunted by guilt, Herod couldn't escape the image of John, his faithful reprover, rising from the dead. While he acknowledged John's worth and holiness, it was Herodias who persecuted him, while Herod himself recognized his own guilt. The emphasis on I highlighted his guilty conscience, and the correct reading depicted the graphic nature of his remorse. The conflicting views about Jesus troubled Herod deeply, yet he remained convinced that the risen John was the very man he had executed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8846322904184063,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                41.98,
+                24.3,
+                33.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

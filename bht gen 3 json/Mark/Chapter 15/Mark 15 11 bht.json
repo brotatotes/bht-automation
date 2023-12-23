@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:29:12",
+    "verseRef": "Mark 15:11",
+    "bestBHT": {
+        "bht": "The chief priests and scribes resorted to manipulation and deceit to sway the crowd against Jesus. They did not want the Galileans who sympathized with Jesus to interfere, so they hurried the trial before they could wake up to what was happening. Their plan was to convince the people that Jesus had already given up his claim to kingship, while accusing him of treason to Caesar before Pilate. Their envy and malicious intent led them to prefer a murderer to the holy and just Jesus, and they used various tactics to manipulate the people to side with their agenda.",
+        "wordCount": 99,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.4182005463692104,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.5,
+        "commentatorTierSimilarities": [
+            47.32,
+            0.0,
+            52.68
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Moved [\u03b1\u03bd\u03b5\u03c3\u03b5\u03b9\u03c3\u03b1\u03bd] . A feeble translation. Seiw is to shake. Hence seismov, an earthquake.\" ",
+            "See on Matthew 13:8. Better as Rev., stirred up.",
+            "Wyc., The bishops stirred the company of people."
+        ],
+        "Archibald T. Robertson": [
+            "The priests and scribes had amazing success.",
+            "That was the plan of Judas to get the thing over before those Galilean sympathizers waked up.",
+            "The Sanhedrin would say to the people that Jesus had already abdicated his kingly claims while to Pilate they went on accusing him of treason to Caesar."
+        ],
+        "John Gill": [
+            "Choosing rather to have a murderer granted unto them, than the holy and just one.",
+            "The chief priests moved the people...to make use of arguments with them to prevail upon them.",
+            "Caiaphas was behind none of them in envy, rage, and malice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The chief priests and scribes resorted to manipulation and deceit to sway the crowd against Jesus. They did not want the Galileans who sympathized with Jesus to interfere, so they hurried the trial before they could wake up to what was happening. Their plan was to convince the people that Jesus had already given up his claim to kingship, while accusing him of treason to Caesar before Pilate. Their envy and malicious intent led them to prefer a murderer to the holy and just Jesus, and they used various tactics to manipulate the people to side with their agenda.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.4182005463692104,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.5,
+            "commentatorTierSimilarities": [
+                47.32,
+                0.0,
+                52.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chief priests and scribes orchestrated a manipulative plan to turn the crowd against Jesus. Their goal was to expedite the trial before the Galileans who supported Jesus could intervene. They aimed to convince the people that Jesus had renounced his kingship while accusing him of treason to Caesar. Their envy and malice drove them to prefer a murderer instead of the holy and just Jesus. Through manipulation and deceit, they successfully influenced the crowd to align with their sinister agenda.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.2893774795703041,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.22,
+            "commentatorTierSimilarities": [
+                43.3,
+                0.0,
+                56.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chief priests and scribes schemed to manipulate the crowd, eager to expedite Jesus' trial before his Galilean sympathizers could react. They craftily aimed to portray Jesus as having given up his claim to kingship while accusing him of treason. Their envy and malice led them to prefer a murderer over the holy and just Jesus. Through their deceitful tactics, they effectively influenced the people to align with their deceitful agenda.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.2836038722032692,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.02,
+            "commentatorTierSimilarities": [
+                42.76,
+                0.0,
+                57.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The chief priests and scribes devised a plan to quickly conclude Jesus' trial before his Galilean supporters could awaken to the situation. Their envy and malice drove them to favor a murderer over the righteous Jesus. They aimed to sway the crowd by asserting that Jesus had already abandoned his claim to kingship while simultaneously accusing him of treason against Caesar. Through manipulation and deceit, they successfully persuaded the people to align with their wicked agenda.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.306375585714531,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.78,
+            "commentatorTierSimilarities": [
+                45.46,
+                0.0,
+                54.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The chief priests and scribes were determined to expedite Jesus' trial by convincing the crowd that he had renounced his kingship while accusing him of treason against Caesar. Their envy and malice led them to prefer a murderer over the holy and just Jesus. Their cunning plan involved manipulating the people and preventing the Galilean sympathizers from intervening. Through their deceitful tactics, they successfully influenced the crowd to align with their malicious agenda.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.268129983735055,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.51,
+            "commentatorTierSimilarities": [
+                39.56,
+                0.0,
+                60.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

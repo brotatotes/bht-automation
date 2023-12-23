@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:24:33",
+    "verseRef": "Mark 8:29",
+    "bestBHT": {
+        "bht": "When Jesus questioned his disciples about his identity, Peter boldly declared, Thou art the Christ; the Messiah that was long ago promised and so often prophesied of. This confession went beyond the expectations and opinions of the people, solidifying Jesus' true identity as the Messiah. Through Peter's affirmation, the disciples demonstrated their unwavering belief in Jesus as the long-awaited Savior, surpassing any doubts that may have arisen from the challenges and oppositions they had witnessed.",
+        "wordCount": 77,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.8194674924772227,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+        "commentatorTierSimilarities": [
+            33.85,
+            0.0,
+            66.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He saith [\u03b5\u03c0\u03b7\u03c1\u03c9\u03c4\u03b1] . More correctly, he questioned or asked. So Rev. Mark omits the commendation of Peter. See Introduction. ",
+            "On verses 31 - 33, compare notes on Matthew 16:21-28."
+        ],
+        "Archibald T. Robertson": [
+            "The full confession is the form in Matthew. Luke's language means practically the same, while Mark's is the briefest.\" ",
+            "But the form in Mark really means the full idea.\" ",
+            "But did the disciples still believe in Jesus as Messiah after all the defections and oppositions seen by them? It was a serious test to which Jesus now put them."
+        ],
+        "John Gill": [
+            "Thou art the Christ; the Messiah that was long ago promised and so often prophesied of in the books of Moses and the prophets; and whom the Jews have so much and long expected.\" ",
+            "This confession of Peter's in which all the apostles agreed with him speaks out what Jesus really was, and exceeds the most exalted sentiments which the people had of him: he was not the harbinger of the Messiah but the Messiah himself.",
+            "Not one of the various opinions of the people being just, and answering the true character of Jesus, he demands the sense of his disciples which is here given by Peter in their name, and which was right."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus asked his disciples who they believed him to be, Peter confidently responded, Thou art the Christ; the Messiah that was long ago promised and so often prophesied of. This confession went beyond the expectations and opinions of the people, solidifying Jesus' true identity as the Messiah. It was a significant test of the disciples' faith, considering the various defections and oppositions they had witnessed. Through Peter's confession, the disciples affirmed their unwavering belief in Jesus as the long-awaited Savior that the Jews had anticipated for centuries.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6981617655958219,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                33.32,
+                0.0,
+                66.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus questioned his disciples about his identity, Peter boldly declared, Thou art the Christ; the Messiah that was long ago promised and so often prophesied of. This confession went beyond the expectations and opinions of the people, solidifying Jesus' true identity as the Messiah. Through Peter's affirmation, the disciples demonstrated their unwavering belief in Jesus as the long-awaited Savior, surpassing any doubts that may have arisen from the challenges and oppositions they had witnessed.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.8194674924772227,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+            "commentatorTierSimilarities": [
+                33.85,
+                0.0,
+                66.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus asked who they believed him to be, Peter confidently responded, Thou art the Christ; the Messiah that was long ago promised and so often prophesied of. This confession went beyond people's expectations, confirming that Jesus was indeed the Messiah. It was a significant test for the disciples, given the challenges and opposition they had seen. Through Peter's confession, the disciples affirmed their unwavering faith in Jesus as the awaited Savior.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.664888847957774,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                34.58,
+                0.0,
+                65.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus questioned the disciples about his identity, Peter boldly declared, Thou art the Christ; the Messiah that was long ago promised and so often prophesied of. This confession went beyond people's expectations, confirming Jesus' true identity as the Messiah, rather than just a harbinger. It was a test of the disciples' faith, considering the various defections and oppositions they had witnessed. Through Peter's confession, the disciples unanimously acknowledged Jesus as the long-awaited Savior, surpassing all other opinions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7478059754753528,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                35.43,
+                0.0,
+                64.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus asked his disciples who they believed him to be, Peter confidently declared, Thou art the Christ; the Messiah that was long ago promised and so often prophesied of. This profound confession exceeded the expectations and opinions of the people, solidifying Jesus' true identity as the awaited Savior. In the midst of defections and opposition, this moment served as a crucial test for the disciples' faith, yet they unwaveringly acknowledged Jesus as the Messiah, surpassing any other views.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6928106191538457,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                32.5,
+                0.0,
+                67.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:28:44",
+    "verseRef": "Mark 14:52",
+    "bestBHT": {
+        "bht": "A young man, dressed in a linen cloth, followed Jesus. This cloth, a fine linen often used for wrapping the dead, was possibly a sheet or shirt. Filled with fear, the young man left the linen cloth behind and ran away naked, similar to Joseph leaving his garment when escaping from his mistress. The words from them can be excluded, as some versions do. This incident showcases how even small details can hold symbolic significance and enrich the biblical narrative.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.4886694978491999,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+        "commentatorTierSimilarities": [
+            40.67,
+            29.06,
+            30.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 14:52. Naked. Bengel says: \u2018Modesty was overcome by fear in this great danger.\u2019 The words \u2018from them\u2019 are to be omitted. "
+        ],
+        "Archibald T. Robertson": [
+            "Linen cloth (\u03c3\u03b9\u03bd\u03b4\u03bf\u03bd\u03b1). An old Greek word of unknown origin.",
+            "It was fine linen cloth used often for wrapping the dead.",
+            "In this instance it could have been a fine sheet or even a shirt."
+        ],
+        "John Gill": [
+            "And he left the linen cloth.... just as Joseph left his garment in the hands of his mistress.",
+            "and fled from them naked; to the house from whence he came.",
+            "The Syriac, Arabic, Persic, and Ethiopic versions, leave out the words 'from them'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is mentioned that a young man was following Jesus, dressed only in a linen cloth, which was typically associated with burial wrappings. This linen cloth may have been a fine sheet or even a shirt. Interestingly, the young man's fear caused him to leave the linen cloth behind and flee naked, reminiscent of Joseph leaving his garment behind when he fled from his mistress. The words from them in the verse can be omitted, as the Syriac, Arabic, Persic, and Ethiopic versions do. This incident highlights how even a seemingly insignificant detail can provide deeper symbolism and meaning within the biblical narrative.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 1.563116991449101,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+            "commentatorTierSimilarities": [
+                36.47,
+                30.97,
+                32.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A young man, with only a linen cloth, followed Jesus. This cloth, often used for wrapping the dead, may have been a fine sheet or shirt. Overwhelmed by fear, he left the linen cloth behind and fled naked, akin to Joseph leaving his garment. The words from them can be omitted, according to various versions. This incident reminds us that even seemingly insignificant details can bear symbolism and offer deeper meaning within the biblical narrative.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4855293757814012,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "commentatorTierSimilarities": [
+                38.94,
+                32.66,
+                28.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A young man, dressed in a linen cloth, followed Jesus. This cloth, a fine linen often used for wrapping the dead, was possibly a sheet or shirt. Filled with fear, the young man left the linen cloth behind and ran away naked, similar to Joseph leaving his garment when escaping from his mistress. The words from them can be excluded, as some versions do. This incident showcases how even small details can hold symbolic significance and enrich the biblical narrative.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.4886694978491999,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                40.67,
+                29.06,
+                30.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A young man, wearing a linen cloth, accompanied Jesus. This linen cloth, typically used for burial, could have been a fine sheet or a shirt. Driven by fear, he left the linen cloth behind and fled naked, mirroring Joseph's departure of his garment in the face of temptation. Some versions omit the phrase from them. This account illustrates the profound symbolism that can be found in seemingly insignificant details within the biblical narrative.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4597869032869162,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "commentatorTierSimilarities": [
+                40.12,
+                28.95,
+                30.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A young man followed Jesus, wearing only a linen cloth, which could have been a fine sheet or a shirt. This cloth was typically used for wrapping the dead. Overwhelmed by fear, the young man abandoned the linen cloth and fled away naked. This mirrors the story of Joseph leaving his garment with his mistress. The words from them can be omitted in some versions. It's remarkable how even the smallest details in the Bible can carry deep symbolism and enrich the overall narrative.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.413456993131593,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.34,
+            "commentatorTierSimilarities": [
+                38.6,
+                30.37,
+                31.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

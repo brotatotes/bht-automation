@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-22-2023 23:22:45",
+    "verseRef": "Mark 6:10",
+    "bestBHT": {
+        "bht": "When Jesus sent out His disciples, He advised them not to approach their task with restlessness or dissatisfaction, but rather to be deliberate in selecting a place to stay. However, this did not mean they were prohibited from accepting invitations. The disciples were encouraged to abide in one house throughout their time in a town, establishing a sense of stability and trust. By doing so, they would create a strong presence within the community in which they were ministering.",
+        "wordCount": 79,
+        "quoteTokenProportion": 51.61,
+        "qualityScore": 1.178662302288809,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.53,
+        "commentatorTierSimilarities": [
+            60.71,
+            0.0,
+            39.29
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "They were to avoid a restless and dissatisfied manner and to take pains in choosing a home.",
+            "It is not a prohibition against accepting invitations."
+        ],
+        "John Gill": [
+            "In what place soever you enter into a house, there abide till ye depart from that place.\" ",
+            "The first house they went into, they should continue in, during their stay in that city or town.\" ",
+            "Not shift from house to house."
+        ],
+        "John Wesley": [
+            "Matthew 10:11; Luke 9:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus sent out His disciples, He advised them to be mindful of their conduct when entering a new town. They were urged to approach each home with a sense of contentment and to select their dwelling place carefully. This directive was not intended to prohibit them from accepting invitations, but rather to encourage them to stay in one house throughout their stay in a particular location. By abiding in the same home, they would establish a sense of stability and trust within the community they were ministering to. (Matthew 10:11; Luke 9:4)",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.0222470538988704,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.33,
+            "commentatorTierSimilarities": [
+                35.58,
+                0.0,
+                64.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus sent out His disciples, He instructed them to refrain from being restless and dissatisfied, emphasizing the need for them to carefully choose a home as they entered a new town. However, this was not a prohibition against accepting invitations. Instead, He encouraged them to find a place where they could abide throughout their stay in that particular city or town, establishing a sense of stability and trust within the community they were ministering to.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.5183632546702888,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.83,
+            "commentatorTierSimilarities": [
+                68.45,
+                0.0,
+                31.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus sent out His disciples, He advised them not to approach their task with restlessness or dissatisfaction, but rather to be deliberate in selecting a place to stay. However, this did not mean they were prohibited from accepting invitations. The disciples were encouraged to abide in one house throughout their time in a town, establishing a sense of stability and trust. By doing so, they would create a strong presence within the community in which they were ministering.",
+            "wordCount": 79,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.178662302288809,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.53,
+            "commentatorTierSimilarities": [
+                60.71,
+                0.0,
+                39.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus sent out the disciples to proclaim the gospel, He instructed them to be discerning in choosing a home, avoiding restlessness and dissatisfaction. However, this wasn't a prohibition against accepting invitations. Rather, it was a reminder to the disciples to stay focused and committed to their mission, not searching for better accommodations. They were to enter a house and remain there until they departed from that place, not constantly shifting from one house to another. (Matthew 10:11; Luke 9:4)",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.3394061540994229,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.88,
+            "commentatorTierSimilarities": [
+                47.96,
+                0.0,
+                52.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus sent out the disciples to proclaim the gospel, they were advised to carefully choose a home, ensuring they were not restless or discontented. However, this did not mean they should reject invitations they received. The disciples were encouraged to enter a house and stay there until they left that place, rather than constantly seeking out new accommodations. (Matthew 10:11; Luke 9:4)",
+            "wordCount": 61,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.2460842179188951,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.78,
+            "commentatorTierSimilarities": [
+                37.18,
+                0.0,
+                62.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

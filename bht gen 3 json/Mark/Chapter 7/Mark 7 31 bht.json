@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:24:39",
+    "verseRef": "Mark 7:31",
+    "bestBHT": {
+        "bht": "Jesus continued his journey, moving northward to Sidon and crossing the Jordan before approaching the east side of the Sea of Galilee. He intentionally sought out privacy, avoiding the territory of Herod Antipas and the Pharisees who sought his life. As he reached the Greek cities of Decapolis, the people brought to him the dumb, maimed, lame, and blind, marveling at the miracles and glorifying the God of Israel. Through these acts, Jesus revealed his power and divine authority, inspiring wonder among the multitudes who witnessed his miracles.",
+        "wordCount": 88,
+        "quoteTokenProportion": 26.23,
+        "qualityScore": 1.7648147407053707,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+        "commentatorTierSimilarities": [
+            45.59,
+            26.5,
+            27.91
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He went first northward (perhaps for the same reason, of privacy, as before) through Sidon, then crossed the Jordan, and so approached the lake on its E. side.",
+            "On Decapolis, see Matt. iv, 25.",
+            "The dumb speaking mentioned among the miracles, for which the people glorified the God of Israel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be this as it may, on returning from these coasts of Tyre, He passed through the midst of the coasts\u2014frontiers. of Decapolis...\" ",
+            "...and many others, and cast them down at Jesus' feet; and He healed them: insomuch that the multitude [multitudes] wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see; and they glorified the God of Israel.",
+            "Beyond this it is not clear from the Evangelist's language that the people saw into the claims of Jesus."
+        ],
+        "Albert Barnes": [
+            "Departing from the coasts - The country or regions of Tyre.",
+            "Came unto the sea of Galilee - The Sea of Tiberias.",
+            "He did not go immediately into Capernaum, or any city where he was known, but into the retired regions around the Sea of Galilee. This was done to avoid the designs of the Pharisees, who sought his life."
+        ],
+        "Philip Schaff": [
+            "Not the city, but the district thus termed.",
+            "The course was first northward, then eastward, then southward or southwestward.",
+            "In making this circuit, our Lord was seeking needed retirement."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus left Phoenicia, but did not go back into Galilee. He rather went east and came down east of the Sea of Galilee into the region of the Greek cities of Decapolis.\" ",
+            "He thus kept out of the territory of Herod Antipas.",
+            "He had been in this region when he healed the Gadarene demoniac and was asked to leave."
+        ],
+        "John Gill": [
+            "Christ could be in neither of these places, being out of the land of Israel.",
+            "He came to those parts of Galilee, which lay by it.",
+            "Christ passed through the midst of the borders of it."
+        ],
+        "John Wesley": [
+            "Matthew 15:29."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus continued his journey, moving northward to Sidon and crossing the Jordan before approaching the east side of the Sea of Galilee. He intentionally sought out privacy, avoiding the territory of Herod Antipas and the Pharisees who sought his life. As he reached the Greek cities of Decapolis, the people brought to him the dumb, maimed, lame, and blind, marveling at the miracles and glorifying the God of Israel. Through these acts, Jesus revealed his power and divine authority, inspiring wonder among the multitudes who witnessed his miracles.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.7648147407053707,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "commentatorTierSimilarities": [
+                45.59,
+                26.5,
+                27.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus journeyed northward to Sidon and crossed the Jordan to approach the east side of the Sea of Galilee, seeking privacy and avoiding the Pharisees who sought his life. As he entered the Greek cities of Decapolis, the multitudes brought the dumb, maimed, lame, and blind to him. Witnessing these miraculous healings, the people glorified the God of Israel, marveling at Jesus' power. Through these acts, he revealed his divine authority and inspired wonder among those who witnessed the miracles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.715113891016683,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.37,
+            "commentatorTierSimilarities": [
+                48.39,
+                26.43,
+                25.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus journeyed northward through Sidon and crossed the Jordan, approaching the Sea of Galilee on its east side. He sought privacy and avoided the territory of Herod Antipas. As he entered the Greek cities of Decapolis, the multitudes brought the dumb, maimed, lame, and blind to him, marveling at the miracles and glorifying the God of Israel. Through these acts, Jesus revealed his divine authority, inspiring wonder among the multitudes who witnessed these remarkable healings.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7374221855594802,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "commentatorTierSimilarities": [
+                45.06,
+                26.18,
+                28.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus went northward through Sidon and crossed the Jordan, approaching the Sea of Galilee on its east side. It was in this region of Decapolis where the multitudes brought the dumb, maimed, lame, and blind to him. Witnessing these miracles, the people glorified the God of Israel, amazed by the mute speaking, maimed being made whole, lame walking, and blind seeing. Through these acts, Jesus revealed his divine power, leaving the people in awe of his authority.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7313544218735828,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                46.81,
+                26.84,
+                26.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus traveled through Sidon and crossed the Jordan River, eventually reaching the east side of the Sea of Galilee. His purpose was to find privacy and stay away from the territory of Herod Antipas. Upon entering the Greek cities of Decapolis, the people witnessed incredible miracles performed by Jesus. They watched the mute speak, the maimed be made whole, the lame walk, and the blind see. These awe-inspiring acts caused the multitudes to glorify the God of Israel, acknowledging the divine authority and power of Jesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.537689007444992,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+            "commentatorTierSimilarities": [
+                47.16,
+                25.14,
+                27.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

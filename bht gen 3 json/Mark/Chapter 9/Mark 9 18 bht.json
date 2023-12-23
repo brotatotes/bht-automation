@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:25:10",
+    "verseRef": "Mark 9:18",
+    "bestBHT": {
+        "bht": "The boy with symptoms resembling epilepsy is described as pineth away, indicating his condition causes him to become dry and stiff. This severity leads Jesus to rebuke the disciples, highlighting their inability to handle the case. However, Jesus responds to the father's plea with empathy and compassion, ultimately bringing healing to the boy's affliction.",
+        "wordCount": 56,
+        "quoteTokenProportion": 27.91,
+        "qualityScore": 1.4679898667127746,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.15,
+        "commentatorTierSimilarities": [
+            30.38,
+            36.71,
+            32.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] The words rendered pineth away may perhaps mean becomes dry or stiff."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Lo,\" says he in Luke 9:39, \"a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly [or with difficulty] departeth from him.",
+            "Our Lord replies to the father by a severe rebuke to the disciples.",
+            "He puts them to the blush before all, but in language fitted only to raise expectation of what He Himself would do."
+        ],
+        "Marvin Vincent": [
+            "It taketh him [\u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b7] . Lit., seizeth hold of him. Our word catalepsy is derived from this.\" ",
+            "Teareth [\u03c1\u03b7\u03c3\u03c3\u03b5\u03b9] . Rev., dasheth down, with rendeth in margin. The verb is a form of rJhgnumi, to break.",
+            "Gnasheth with his teeth. Rev., grindeth. This and the pining away are peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "The symptoms, as described here and by the other Evangelists, are those of epilepsy.",
+            "The fits were sudden, but the dumbness seems to have been continuous."
+        ],
+        "Archibald T. Robertson": [
+            "The word catalepsy is this same word. The word is used by Galen and Hippocrates for fits.\" ",
+            "Dashes down. Also \u03c1\u03b7\u03b3\u03bd\u03c5\u03bc\u03b9, \u03bc form. Convulses, rends, tears asunder. Old and common word.",
+            "And they were not able. They did not have the strength (\u03b9\u03c3\u03c7\u03c5\u03c2) to handle this case. It was a tragedy."
+        ],
+        "John Gill": [
+            "and gnasheth with his teeth; through the excessive pain he is in.\" ",
+            "and pineth away; his flesh is withered, dried up, and consumed away.\" ",
+            "and I spake to thy disciples that they should cast him out, and they could not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 9:18, the father describes how his son pineth away, suggesting that the boy becomes dry and stiff. The symptoms he exhibits, such as sudden outcries, foaming, and convulsions, resemble those of epilepsy. Jesus not only rebukes the disciples before the father, but also emphasizes that even they did not have the strength to handle such a severe case. The father's plea for help is met with understanding and compassion from Jesus, who ultimately heals the boy.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.3951889177015726,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.73,
+            "commentatorTierSimilarities": [
+                34.99,
+                38.75,
+                26.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The boy in question pineth away, experiencing dryness and stiffness. His symptoms, such as outcries, foaming, and convulsions, resemble epilepsy. Jesus rebukes the disciples before the father and highlights their inability to handle such a severe case. Despite this, Jesus responds with compassion and healing.",
+            "wordCount": 45,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.451328051603352,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                25.16,
+                41.67,
+                33.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The boy described in this passage pineth away, experiencing dryness and stiffness. His symptoms mirror those of epilepsy, with sudden outcries, foaming, and convulsions. The disciples, unable to handle the case, are rebuked by Jesus, who responds with compassion and healing.",
+            "wordCount": 41,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5927258968391713,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                25.9,
+                43.51,
+                30.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The boy mentioned in this verse pineth away, as his condition causes him to become dry and stiff. His symptoms are similar to those of epilepsy, with sudden outcries, foaming, and convulsions. The disciples, being unable to handle such a severe case, are rebuked by Jesus, who responds to the father's plea with understanding and compassion, ultimately healing the boy.",
+            "wordCount": 61,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.64082295267729,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                30.99,
+                39.13,
+                29.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The boy with symptoms resembling epilepsy is described as pineth away, indicating his condition causes him to become dry and stiff. This severity leads Jesus to rebuke the disciples, highlighting their inability to handle the case. However, Jesus responds to the father's plea with empathy and compassion, ultimately bringing healing to the boy's affliction.",
+            "wordCount": 56,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 1.4679898667127746,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.15,
+            "commentatorTierSimilarities": [
+                30.38,
+                36.71,
+                32.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:28:42",
+    "verseRef": "Mark 14:40",
+    "bestBHT": {
+        "bht": "The disciples in this account were heavily weighed down by sleep and sorrow, being unable to fully sympathize with Jesus in his deepest experiences. Their previous embarrassment on the Mount of Transfiguration is reminiscent of their current state, revealing the weakness of their flesh. The disciples found themselves speechless, perhaps due to a sense of failure or physical stupor, their heavy eyes burdened by sleep and grief. They were left confused and ashamed, struggling to excuse themselves as they were stupefied by their emotions.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.391808975127784,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.62,
+        "commentatorTierSimilarities": [
+            30.5,
+            26.15,
+            43.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Heavy [\u03ba\u03b1\u03c4\u03b1\u03b2\u03b1\u03c1\u03c5\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . Lit., weighed down : very heavy."
+        ],
+        "Philip Schaff": [
+            "And they knew not, etc. Comp. Peter\u2019s remark on the Mount of Transfiguration (chap. Mark 9:6).",
+            "They could make no reply, either from a sense of their failure...",
+            "...or more probably from physical stupor."
+        ],
+        "Archibald T. Robertson": [
+            "Mark has the vivid present passive participle, while Matthew has the perfect passive \u03b2\u03b5\u03b2\u03b1\u03c1\u03b7\u03bc\u03b5\u03bd\u03bf.",
+            "Alone in Mark and reminds one of the like embarrassment of these same three disciples on the Mount of Transfiguration (Mark 9:6).",
+            "On both occasions weakness of the flesh prevented their real sympathy with Jesus in his highest and deepest experiences."
+        ],
+        "John Gill": [
+            "Notwithstanding the expostulation he had used with them, the exhortation he had given them, and the danger he had suggested to them: for their eyes were heavy: with sleep and sorrow.",
+            "Neither wist they what to answer him; partly through confusion and shame, not knowing how to excuse themselves.",
+            "Partly, through their being stupefied with sleep and grief."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:40, the disciples were weighed down and very heavy with sleep and sorrow. This vividly recalls their previous embarrassment on the Mount of Transfiguration and reveals their weakness of the flesh in both occasions, preventing them from fully sympathizing with Jesus in his most profound experiences. The disciples were unable to respond, possibly due to a sense of failure or physical stupor. Their eyes were heavy with sleep and grief, causing confusion and shame as they struggled to excuse themselves and were stupefied by their physical and emotional state.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4913689223419295,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                31.22,
+                28.57,
+                40.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples in this passage found themselves weighed down by sleep and sorrow, as Mark vividly describes. This mirrors their previous embarrassment on the Mount of Transfiguration and highlights their fleshly weakness, which hindered their true understanding and sympathy for Jesus' most profound experiences. Consequently, they were left speechless, perhaps stemming from a sense of failure or even physical stupor. Their heavy eyes, burdened by sleep and grief, caused confusion and shame, leaving them unable to adequately respond to Jesus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.4138021033679469,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+            "commentatorTierSimilarities": [
+                30.72,
+                27.24,
+                42.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples in this account were heavily weighed down by sleep and sorrow, being unable to fully sympathize with Jesus in his deepest experiences. Their previous embarrassment on the Mount of Transfiguration is reminiscent of their current state, revealing the weakness of their flesh. The disciples found themselves speechless, perhaps due to a sense of failure or physical stupor, their heavy eyes burdened by sleep and grief. They were left confused and ashamed, struggling to excuse themselves as they were stupefied by their emotions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.391808975127784,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.62,
+            "commentatorTierSimilarities": [
+                30.5,
+                26.15,
+                43.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were heavily weighed down by the combination of sleep and sorrow, as described in Mark's vivid depiction. This echoes their previous embarrassment on the Mount of Transfiguration and signifies their fleshly weakness, which hindered their ability to fully sympathize with Jesus' profound experiences. Their speechlessness could be attributed to a sense of failure or physical stupor. Overwhelmed by sleep and grief, they were left confused and ashamed, struggling to excuse themselves while being stupefied by their emotions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.3595370670562021,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.55,
+            "commentatorTierSimilarities": [
+                28.85,
+                27.51,
+                43.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples found themselves heavily weighed down with both sleep and sorrow, a burden that left them unable to fully empathize with Jesus in his most profound experiences. This situation is reminiscent of their previous embarrassment on the Mount of Transfiguration, showing the weakness of their flesh that hindered their true understanding. Rendered speechless, they likely felt a sense of failure or were physically-stupored, their heavy eyes burdened by fatigue and grief. Their confusion and shame prevented them from adequately responding to Jesus, as they were dumbfounded by their emotional and physical state.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3715906046873994,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.95,
+            "commentatorTierSimilarities": [
+                30.95,
+                24.04,
+                45.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

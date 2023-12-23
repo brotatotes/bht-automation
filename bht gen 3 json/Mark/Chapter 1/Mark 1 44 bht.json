@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:20:06",
+    "verseRef": "Mark 1:44",
+    "bestBHT": {
+        "bht": "Do not trouble thyself with talking to others, but go and get thyself formally declared pure, for without the formal testimony of the priests, the people would not accept the leper as clean. This charge served as a testimony of ingratitude for those who rejected it, while the leper was commanded to maintain silence. Yet, if we have been cleansed from the leprosy of sin, it is our duty to publish it abroad for the honor of our Benefactor and the encouragement of others.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.962222796245239,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+        "commentatorTierSimilarities": [
+            50.49,
+            13.9,
+            35.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "44.] thyself, in the original, has an emphasis: trouble not thyself with talking to others, but go complete thine own case by getting thyself formally declared pure."
+        ],
+        "John Calvin": [
+            "This miracle was afterwards to be a sufficiently clear proof for convicting them of ingratitude.",
+            "There is nothing inconsistent with this in the command which Christ gave to the leper to maintain silence.",
+            "In a word, if they were not past cure, they might be led to Christ; while, on the other hand, so solemn a testimony of God was sufficiently powerful to condemn them, if they were unbelievers."
+        ],
+        "Philip Schaff": [
+            "The purport of our Lord's charge to the healed leper is now given.",
+            "Such prohibitions were called forth by circumstances.",
+            "Evidently this man needed the warning."
+        ],
+        "Archibald T. Robertson": [
+            "For a testimony unto them (\u03b5\u03b9\u03c2 \u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b9\u03bf\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Without the formal testimony of the priests the people would not receive the leper as officially clean. "
+        ],
+        "John Gill": [
+            "See thou say nothing to any man...but go thy way, show thyself to the priest."
+        ],
+        "John Wesley": [
+            "If he has made us clean from our leprosy of sin, we are not commanded to conceal it.",
+            "It is our duty to publish it abroad, both for the honour of our Benefactor, and that others who are sick of sin may be encouraged to ask and hope for the same benefit.",
+            "The priests seeing him, pronouncing him clean, Leviticus 13:17,23,28,37, and accordingly allowing him to offer as Moses commanded, Leviticus 14:2,7, was such a proof against them, that they durst never say the leper was not cleansed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Trouble not thyself with talking to others, but go complete thine own case by getting thyself formally declared pure, for without the formal testimony of the priests, the people would not receive the leper as officially clean. This charge to the healed leper was necessary in the circumstances, as it would serve as a clear proof of the ingratitude of those who rejected it. While the leper was commanded to maintain silence, if we have been made clean from the leprosy of sin, it is our duty to publish it abroad for the honor of our Benefactor. The testimony of the priests pronouncing the leper clean would be a compelling proof against the unbelievers, who durst not deny that the leper was truly cleansed.",
+            "wordCount": 124,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1475397799730835,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                47.82,
+                17.92,
+                34.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Trouble not thyself with talking to others, but go complete thine own case by getting thyself formally declared pure, for without the formal testimony of the priests, the people would not receive the leper as officially clean. This charge to the healed leper was necessary in the circumstances, as it would serve as a clear proof of the ingratitude of those who rejected it. While the leper was commanded to maintain silence, if we have been made clean from the leprosy of sin, it is our duty to publish it abroad for the honor of our Benefactor.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.1419001752731983,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.56,
+            "commentatorTierSimilarities": [
+                48.71,
+                18.42,
+                32.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The healed leper was instructed not to trouble himself with talking to others, but to go and complete his case by getting declared pure, as without the formal testimony of the priests, the people would not accept his cleanliness. This charge served as a testimony to the ingratitude of those who rejected it, and although the leper was commanded to maintain silence, if we have been cleansed from the leprosy of sin, it is our duty to proclaim it for the honor of our Benefactor and the encouragement of others.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.127505457453811,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.08,
+            "commentatorTierSimilarities": [
+                48.82,
+                16.57,
+                34.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not trouble thyself with talking to others, but go and get thyself formally declared pure, for without the formal testimony of the priests, the people would not accept the leper as clean. This charge served as a testimony of ingratitude for those who rejected it, while the leper was commanded to maintain silence. Yet, if we have been cleansed from the leprosy of sin, it is our duty to publish it abroad for the honor of our Benefactor and the encouragement of others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.962222796245239,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                50.49,
+                13.9,
+                35.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The healed leper was advised not to trouble himself with talking to others, but to go and get himself formally declared pure. The formal testimony of the priests was crucial for the people to accept the leper's cleanliness. This charge served as a testimony of ingratitude towards those who rejected it. Although the leper was commanded to maintain silence, it is our duty, if we have been cleansed from the leprosy of sin, to proclaim it for the honor of our Benefactor and the encouragement of others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.8857652639080784,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                45.15,
+                23.14,
+                31.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:22:34",
+    "verseRef": "Mark 5:8",
+    "bestBHT": {
+        "bht": "When Jesus confronted the possessed man, the demons pleaded for Him not to torment them, despite His command to come out. This allowed Jesus to display His power and accomplish His purposes. The simultaneousness of Christ's exorcism, the outbreak of demonic malice, and the cry of the tormented man highlighted the intensity of the situation. Reluctant to return to their place of torment, the demons resisted Jesus' command. However, Jesus would not allow them to dwell where Satan does. Through His grace and Spirit, Jesus sanctifies the heart, making it a fitting dwelling place for Himself.",
+        "wordCount": 97,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.7952520856307403,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+        "commentatorTierSimilarities": [
+            30.77,
+            28.41,
+            40.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] St. Mark generally uses the direct address in the second person: see ver. 12. For He said] literally, For He was saying to him, &c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ordinarily, obedience to a command of this nature was immediate.",
+            "A certain delay is permitted, the more signally to manifest the power of Christ.",
+            "Accomplish His purposes."
+        ],
+        "Marvin Vincent": [
+            "The imperfect gives the reason for this strange entreaty of the demon.",
+            "The literal rendering of the imperfect brings out the simultaneousness of Christ 's exorcism, the outbreak of demoniac malice, and the cry Torment me not.",
+            "Jesus was commanding, was saying 'come out;' and, as in the case of the epileptic child at the Transfiguration Mount, the baffled spirit wreaked his malice on the man."
+        ],
+        "Philip Schaff": [
+            "This and the next verse show that the language just used was that of the demon speaking through the man.",
+            "The adjuration of the demon and the command of our Lord were uttered about the same moment.",
+            "The conversation (Mark 5:9-12) taking place immediately afterwards."
+        ],
+        "Archibald T. Robertson": [
+            "For he had been saying (progressive imperfect). Jesus had already repeatedly ordered the demon to come out of the man whereat the demon made his outcry to Jesus and protested.",
+            "Matthew 8:29 had 'before the time' (\u03c0\u03c1\u03bf \u03ba\u03b1\u03b9\u03c1\u03bf\u03c5) and Mark 8:31 shows that the demons did not want to go back to the abyss (\u03c4\u03b7\u03bd \u03b1\u03b2\u03c5\u03c3\u03c3\u03bf\u03bd) right now.",
+            "That was their real home, but they did not wish to return to the place of torment just now."
+        ],
+        "John Gill": [
+            "Christ will not dwell where Satan does; when therefore he is about to take up his residence in the hearts of any, he outs with Satan.",
+            "He binds the strong man armed, and dispossesses him; he causes the spirit of uncleanness to depart.",
+            "He sanctifies the heart by his grace and Spirit, and so makes it a proper habitation for him to dwell in by faith; and this is done by mighty power."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus confronted the demonic possessed man in Mark 5:8, the demons within him pleaded with Jesus not to torment them. This plea must have confused those present, as they witnessed Jesus commanding the demons to come out of the man. However, the delay in the demon's obedience served a purpose, allowing Jesus to display His power and accomplish His purposes. Through the imperfect form of the verb, the simultaneousness of Christ's exorcism, the outbreak of demoniac malice, and the cry of the tormented man is emphasized. The demons, reluctant to return to their true home of torment, resisted Jesus' command. Yet, Jesus would not permit them to dwell where Satan does, for He binds the strong man armed and dispossesses him with His mighty power. It is by His grace and Spirit that Jesus sanctifies the heart and makes it a proper dwelling place for Himself through faith.",
+            "wordCount": 150,
+            "quoteTokenProportion": 35.79,
+            "qualityScore": 1.8822400331698552,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.93,
+            "commentatorTierSimilarities": [
+                31.3,
+                27.45,
+                41.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus encountered the possessed man, the demons within him pleaded with Jesus not to torment them. The delay in their obedience allowed Jesus to demonstrate His power and fulfill His purposes. Through the simultaneousness of Christ's exorcism, the outbreak of demoniac malice, and the cry of the tormented man, the true nature of the situation unfolded. Reluctant to return to their place of torment, the demons resisted Jesus' command - but He would not permit them to dwell where Satan does. By His grace and Spirit, Jesus sanctifies the heart, making it a fitting dwelling place for Himself through faith.",
+            "wordCount": 101,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.828042410595862,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                30.41,
+                27.93,
+                41.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus confronted the possessed man, the demons pleaded for Him not to torment them, despite His command to come out. This allowed Jesus to display His power and accomplish His purposes. The simultaneousness of Christ's exorcism, the outbreak of demonic malice, and the cry of the tormented man highlighted the intensity of the situation. Reluctant to return to their place of torment, the demons resisted Jesus' command. However, Jesus would not allow them to dwell where Satan does. Through His grace and Spirit, Jesus sanctifies the heart, making it a fitting dwelling place for Himself.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.7952520856307403,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                30.77,
+                28.41,
+                40.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus confronted the possessed man, the demons pleaded Him not to torment them, despite His command to come out. This delay allowed Him to demonstrate His power and fulfill His purposes. The simultaneousness of Christ's exorcism, the outbreak of demonic malice, and the cry of the tormented man emphasized the intensity of the situation. Though the demons resisted, Jesus would not allow them to dwell in a place of torment. By His grace and Spirit, Jesus sanctifies the heart, making it a suitable dwelling for Himself through faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7830516150787736,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                30.34,
+                28.45,
+                41.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus confronted the possessed man, the demons pleaded for Him not to torment them, despite His command to come out. This delay allowed Jesus to display His power and accomplish His purposes. Through the simultaneousness of Christ's exorcism, the outbreak of demonic malice, and the cry of the tormented man, the true intensity of the situation was revealed. Reluctant to return to their place of torment, the demons resisted Jesus' command, yet He would not permit them to dwell where Satan does. By His grace and Spirit, Jesus sanctifies the heart, making it a suitable dwelling place for Himself through faith.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.892021860531682,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                30.47,
+                27.75,
+                41.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

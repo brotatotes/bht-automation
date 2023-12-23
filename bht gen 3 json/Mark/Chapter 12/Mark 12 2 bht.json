@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:26:37",
+    "verseRef": "Mark 12:2",
+    "bestBHT": {
+        "bht": "The verb used in this context is significant as it conveys the idea of summarization and hitting the main point, which is unique to this context in the New Testament. The mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the need to present righteousness, judgment, truth, and holiness, and give an account of them.",
+        "wordCount": 63,
+        "quoteTokenProportion": 34.88,
+        "qualityScore": 0.7841256756496952,
+        "qualityScoreNormalizedComparedToV2BHTs": 17.42,
+        "commentatorTierSimilarities": [
+            22.67,
+            0.0,
+            77.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "An old verb (\u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03b9\u03c9), to bring under heads (\u03ba\u03b5\u03c6\u03b1\u03bb\u03b7), to summarize.\" ",
+            "Then to hit on the head.\" ",
+            "Only here in the N.T."
+        ],
+        "John Gill": [
+            "when the time of the fruit drew near",
+            "a vineyard of the fourth year was marked with clods of earth... and the fruit of it was brought up to Jerusalem",
+            "such as righteousness and judgment, truth and holiness, so as to give an account of them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse uses a verb that means to summarize or to hit on the head, which is only used in the New Testament here. This suggests that the verse is emphasizing the importance of summarizing or hitting on the main point. Additionally, the mention of the fruit drawing near and the vineyard being marked with clods of earth indicates that it is time to bring forth the fruit and give an account of righteousness, judgment, truth, and holiness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 0.9804429024102104,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.94,
+            "commentatorTierSimilarities": [
+                46.28,
+                0.0,
+                53.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verb used in this passage, which means to summarize or to hit on the head, is unique to this context in the New Testament. This implies an emphasis on the importance of summarization and hitting the main point. Furthermore, the mention of the fruit drawing near and the marking of the vineyard with clods of earth suggests that it is time to present righteousness, judgment, truth, and holiness and give an account of them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.8922645011507315,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.01,
+            "commentatorTierSimilarities": [
+                41.82,
+                0.0,
+                58.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verb used in this context is significant as it conveys the idea of summarization and hitting the main point, which is unique to this context in the New Testament. The mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the need to present righteousness, judgment, truth, and holiness, and give an account of them.",
+            "wordCount": 63,
+            "quoteTokenProportion": 34.88,
+            "qualityScore": 0.7841256756496952,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.42,
+            "commentatorTierSimilarities": [
+                22.67,
+                0.0,
+                77.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verb used in this context, meaning to summarize or to hit on the head, is exclusive to this passage in the New Testament. This suggests the significance of summarizing or hitting the main point. Additionally, the mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the time to bring forth the fruit and give an account of righteousness, judgment, truth, and holiness.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 0.8500258539810374,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.61,
+            "commentatorTierSimilarities": [
+                38.73,
+                0.0,
+                61.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verb used exclusively in this passage conveys the idea of summarizing or hitting the main point. It indicates the significance of summarization. Furthermore, the mention of the fruit drawing near and the marking of the vineyard with clods of earth signifies the time to present righteousness, judgment, truth, and holiness and give an account of them.",
+            "wordCount": 57,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 0.6904271771800036,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.3,
+            "commentatorTierSimilarities": [
+                28.07,
+                0.0,
+                71.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

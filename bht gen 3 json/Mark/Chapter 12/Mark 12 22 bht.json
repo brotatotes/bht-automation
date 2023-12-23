@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:26:51",
+    "verseRef": "Mark 12:22",
+    "bestBHT": {
+        "bht": "Last of all (\u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). Adverbial use of \u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd. The situation described is one where each of the seven brothers, in succession, married the woman but none of them were able to have any children with her. Eventually, the woman passed away after the completion of all seven marriages.",
+        "wordCount": 49,
+        "quoteTokenProportion": 51.35,
+        "qualityScore": 2.2098327866991174,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.82,
+        "commentatorTierSimilarities": [
+            62.33,
+            0.0,
+            37.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Last of all (\u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). Adverbial use of \u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd. "
+        ],
+        "John Gill": [
+            "And the seventh had her, and left no seed....\" ",
+            "All, the seven brethren married her, one after another, and neither of them had any children by her.\" ",
+            "And last of all the woman died also; after all the seven brethren, to whom she had been married."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Last of all, the woman in this story died as well, after being married to all seven brothers. It is important to note that the term last is used as an adverb here, indicating the finality of the situation. Each brother, in turn, was married to the woman, but none of them were able to have children with her.",
+            "wordCount": 59,
+            "quoteTokenProportion": 60.47,
+            "qualityScore": 1.305100491095414,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.74,
+            "commentatorTierSimilarities": [
+                33.1,
+                0.0,
+                66.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Last of all (\u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). Adverbial use of \u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd. The verse talks about the situation where all seven brothers married the woman one after another and none of them had any children with her. Ultimately, the woman also died after all the seven marriages.",
+            "wordCount": 44,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.2202984889480613,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                61.02,
+                0.0,
+                38.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Last of all (\u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd). Adverbial use of \u03b5\u03c3\u03c7\u03b1\u03c4\u03bf\u03bd. The situation described is one where each of the seven brothers, in succession, married the woman but none of them were able to have any children with her. Eventually, the woman passed away after the completion of all seven marriages.",
+            "wordCount": 49,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 2.2098327866991174,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.82,
+            "commentatorTierSimilarities": [
+                62.33,
+                0.0,
+                37.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, there is focus on the phrase last of all which signifies the final sequence in a series of events. It is used to describe the woman who was married to seven brothers, each of whom died without leaving any children. The repetition of this phrase emphasizes the completion of the series, highlighting the absence of offspring. The story concludes with the woman's death, marking the end of this cycle.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.1242156462856436,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.72,
+            "commentatorTierSimilarities": [
+                45.9,
+                0.0,
+                54.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The phrase last of all is used to signify the ultimate sequence in a series of events. It emphasizes the completion of the cycle, which involves a woman married to seven brothers, none of whom had children. The repetition of the phrase further underscores the finality of the situation, culminating in the woman's death.",
+            "wordCount": 55,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.0965529388493782,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.8,
+            "commentatorTierSimilarities": [
+                44.46,
+                0.0,
+                55.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

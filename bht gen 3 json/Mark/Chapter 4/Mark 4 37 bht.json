@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:22:06",
+    "verseRef": "Mark 4:37",
+    "bestBHT": {
+        "bht": "A sudden storm of wind, reminiscent of a hurricane, arises and the Sea of Galilee's susceptibility to sudden squalls makes the situation treacherous. The disciples find themselves in imminent danger as the waves violently beat into the ship, causing it to fill with water. This graphic description underscores the intensity and urgency of their plight in this unexpected storm.",
+        "wordCount": 60,
+        "quoteTokenProportion": 28.89,
+        "qualityScore": 1.9047422184261722,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+        "commentatorTierSimilarities": [
+            33.75,
+            26.81,
+            39.44
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "37.] a storm of wind is also in Luke, whose account is in the main so differently worded."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To such sudden squalls the Sea of Galilee is very liable from its position, in a deep basin, skirted on the east by lofty mountain ranges, while on the west the hills are intersected by narrow gorges through which the wind sweeps across the lake, and raises its waters with great rapidity into a storm.",
+            "and the waves beat into the ship\u2014kept beating or pitching on the ship.",
+            "so that it was now full\u2014rather, 'so that it was already filling.' ... 'they were getting filled,' that is, those who sailed; meaning, of course, that their ship was so."
+        ],
+        "Marvin Vincent": [
+            "Distinctively furious storm or hurricane.",
+            "The wind has a singular force and suddenness.",
+            "The wind, speeding swiftly above a long and level plateau, gathers much force as it sweeps through flat deserts, until suddenly it meets this huge gap in the way, and it tumbles down here irresistible."
+        ],
+        "Philip Schaff": [
+            "All three accounts of this storm and its effects differ in form, but agree in substance.",
+            "From Mark 4:35, we infer that it was already night when the storm arose.",
+            "The lake was and is still subject to sudden storms, but very few boats are seen there now."
+        ],
+        "Archibald T. Robertson": [
+            "Luke's 'came down' shows that the storm fell suddenly from Mount Hermon down into the Jordan Valley and smote the Sea of Galilee violently.\" ",
+            "The hot air at this depth draws the storm down with sudden power.\" ",
+            "Graphic description of the plight of the disciples."
+        ],
+        "John Gill": [
+            "And there arose a great storm of wind... it was a sort of a hurricane.\" ",
+            "The waves beat into the ship, so that it was full; of water, and ready to sink.\" ",
+            "They were in imminent danger, in the utmost extremity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 4:37, a storm of wind suddenly arises, causing the waves to violently beat into the ship. This storm is described as a distinctively furious storm or hurricane. The Sea of Galilee, prone to sudden squalls due to its geographic location, becomes a treacherous environment as the winds sweep across the lake, rapidly raising the waters into a storm. The disciples find themselves in a perilous situation as their ship begins to fill with water, rendering them in imminent danger. This graphic description highlights the intensity and urgency of the plight faced by the disciples in this unexpected storm.",
+            "wordCount": 99,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.9657326770444574,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                34.67,
+                29.19,
+                36.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A storm of wind suddenly arises, described as a distinctively furious storm or hurricane. The Sea of Galilee, prone to sudden squalls, becomes treacherous. Violent waves beat into the ship, causing it to fill with water. The disciples find themselves in imminent danger in this unexpected storm, highlighting the intensity and urgency of their plight.",
+            "wordCount": 55,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8844067133188511,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                31.86,
+                28.26,
+                39.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A sudden storm of wind, reminiscent of a hurricane, arises and the Sea of Galilee's susceptibility to sudden squalls makes the situation treacherous. The disciples find themselves in imminent danger as the waves violently beat into the ship, causing it to fill with water. This graphic description underscores the intensity and urgency of their plight in this unexpected storm.",
+            "wordCount": 60,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 1.9047422184261722,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                33.75,
+                26.81,
+                39.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A furious storm of wind suddenly arises, resembling a hurricane. The Sea of Galilee's vulnerability to sudden squalls makes the situation hazardous as the waves violently beat into the ship, causing it to fill with water. The disciples are in imminent danger, vividly illustrating the urgency and gravity of their predicament.",
+            "wordCount": 52,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 1.8265704438947805,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                32.39,
+                23.49,
+                44.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A storm of wind suddenly arises, described as a distinctively furious storm or hurricane. The Sea of Galilee, prone to sudden squalls, becomes treacherous. Violent waves beat into the ship, causing it to fill with water. The disciples find themselves in imminent danger in this unexpected storm, highlighting the intensity and urgency of their predicament.",
+            "wordCount": 55,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8832120893049535,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                31.83,
+                28.3,
+                39.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

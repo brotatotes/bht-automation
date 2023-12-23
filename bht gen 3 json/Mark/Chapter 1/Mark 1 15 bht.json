@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:20:23",
+    "verseRef": "Mark 1:15",
+    "bestBHT": {
+        "bht": "The end of the old covenant draws near, as the last proclamation of God by His Son is about to be declared throughout the world. While John preached repentance, Jesus adds faith to His message. The time is fulfilled, the long-awaited time for the Messiah's appearance. The kingdom of God is at hand, the reign of the Messiah is near. Trust in the gospel, believe in the good tidings of salvation. Repent and embrace the Gospel, for the time for the Messiah's kingdom has arrived.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.7214952119910543,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+        "commentatorTierSimilarities": [
+            17.78,
+            40.83,
+            41.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The end of the old covenant is at hand... now begins that last speaking of God, by His Son, which henceforth shall be proclaimed in all the world till the end comes.",
+            "They furnish us an interesting characteristic of the difference between the preaching of John, which was that of repentance\u2014and of our Lord, which was repentance and faith.",
+            "It is not in Himself as the Saviour that this faith is yet preached: this He did not proclaim till much later in his ministry: but in the fulfilment of the time and approach of the kingdom of God."
+        ],
+        "Albert Barnes": [
+            "The time is fulfilled - That is, the time for the appearance of the Messiah, the time so long foretold, has come.\" ",
+            "Repent ye - Exercise sorrow for sins, and turn from them.",
+            "And believe the gospel - Literally, trust in the gospel, or believe the good tidings - to wit, respecting salvation."
+        ],
+        "Marvin Vincent": [
+            "The time (\u03bf\u0314 \u03ba\u03b1\u03b9\u03c1\u03bf\u0300\u03c2)"
+        ],
+        "Philip Schaff": [
+            "The time is fulfilled. The right time, already predicted, has come in fulfilment of prophecy.",
+            "The kingdom of God is at hand. The reign of the Messiah, which is the kingdom of God, has approached.",
+            "Believe in the gospel. Peculiar to Mark. The message of John the Baptist did not include this. As yet our Lord does not preach faith in Himself; that must come later. Yet even here is the germ of faith in a Personal Redeemer."
+        ],
+        "John Gill": [
+            "The time is fulfilled... the fulness of time for the Messiah's appearance in the world.\" ",
+            "The kingdom of God is at hand... repent ye, and believe the Gospel.",
+            "He called them to repent...and to relinquish them, and give into the Gospel scheme."
+        ],
+        "John Wesley": [
+            "The time is fulfilled \u2014 The time of my kingdom, foretold by Daniel, expected by you, is fully come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The end of the old covenant is nearing, and the last proclamation of God by His Son is about to begin. John preached repentance, but now Jesus introduces repentance and faith. It is not yet proclaimed that Jesus is the Savior, but rather the time has come for the kingdom of God to draw near. The time prophesied and awaited has finally arrived. So, repent and believe the gospel, trust in the good news of salvation. The kingdom of God, the reign of the Messiah, is at hand. This message includes the germ of faith in a Personal Redeemer, which will be further revealed in due time.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.6160401861050961,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.08,
+            "commentatorTierSimilarities": [
+                21.21,
+                40.6,
+                38.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The end of the old covenant is at hand, paving the way for the last speaking of God by His Son, which will be proclaimed worldwide until the end. John preached repentance, while Jesus introduces a message of both repentance and faith. Though not yet proclaimed as the Savior, Jesus announces the fulfillment of time and the approach of the kingdom of God. This signifies the reign of the Messiah, urging all to repent and believe in the gospel, trusting in the good news of salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.6799619222095563,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.2,
+            "commentatorTierSimilarities": [
+                22.36,
+                41.51,
+                36.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The time for the Messiah, long foretold, has arrived. Repent and turn away from your sins, exercising sorrow for them. Trust in the gospel, believe in the good tidings of salvation. The kingdom of God, the reign of the Messiah, is now close at hand. This message calls for repentance and faith, urging us to relinquish our old ways and embrace the Gospel. The time is fulfilled, the prophesied time for the Messiah's appearance has fully come.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.6694178042534717,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                17.43,
+                42.9,
+                39.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The end of the old covenant is near, as the last proclamation of God by His Son will soon commence in all the world. John preached repentance, while Jesus introduces repentance and faith. The time is fulfilled, the prophesied time for the Messiah's appearance. The kingdom of God is at hand, the reign of the Messiah is approaching. Believe in the gospel, trust the good tidings of salvation. Repent and turn away from sins, embracing the Gospel message. The time has come for the Messiah's kingdom to shine.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.7098427195498718,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                19.62,
+                40.14,
+                40.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The end of the old covenant draws near, as the last proclamation of God by His Son is about to be declared throughout the world. While John preached repentance, Jesus adds faith to His message. The time is fulfilled, the long-awaited time for the Messiah's appearance. The kingdom of God is at hand, the reign of the Messiah is near. Trust in the gospel, believe in the good tidings of salvation. Repent and embrace the Gospel, for the time for the Messiah's kingdom has arrived.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.7214952119910543,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.58,
+            "commentatorTierSimilarities": [
+                17.78,
+                40.83,
+                41.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

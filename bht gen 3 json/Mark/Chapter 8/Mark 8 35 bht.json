@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:24:52",
+    "verseRef": "Mark 8:35",
+    "bestBHT": {
+        "bht": "Whoever is willing to save their life will lose it, but whoever is willing to lay it down for Christ's sake and the sake of the gospel will find eternal life. This means being willing to sacrifice and give up one's own desires and comforts in order to follow Jesus and proclaim his message. It is a reminder that our life is not ultimately about what we can gain or save in this world, but about our devotion and commitment to Christ. (Matthew 16:25; Luke 9:24; Luke 17:33; John 12:25)",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4422972645314984,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.3,
+        "commentatorTierSimilarities": [
+            23.85,
+            19.32,
+            56.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "And the gospel 's. Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "For my sake\" remains the leading thought: for the sake of the gospel, because it tells of the personal Redeemer.",
+            "And the gospel's. Peculiar to Mark.",
+            "See the note on the same addition in chap. Mark 10:29."
+        ],
+        "Archibald T. Robertson": [
+            "Two senses of 'life' and 'save.'",
+            "For the last 'save' Matthew 16:25 has 'find' (\u03b5\u03c5\u03c1\u03b7\u03c3\u03b5).",
+            "See on Matthew 16:26 for 'gain,' 'profit,' and 'exchange.'"
+        ],
+        "John Gill": [
+            "But whoever is willing to save it, when it is called for to be laid down for Christ's sake; and rather than lay it down, will deny Christ, and give up a profession of him, and his Gospel, shall lose it.\" ",
+            "Though he will lose it now, he will find it again in the resurrection of life; for he will rise to eternal life.\" ",
+            "He will live forever with Christ, in endless pleasure and glory."
+        ],
+        "John Wesley": [
+            "Matthew 16:25; Luke 9:24; Luke 17:33; John 12:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whoever is willing to lay down their life for Christ's sake and the sake of the gospel will find eternal life. This means being willing to sacrifice and give up one's own desires and comforts in order to follow Jesus and proclaim his message. It is a reminder that our life is not ultimately about what we can gain or save in this world, but about our devotion and commitment to Christ. In choosing to die to ourselves and live for Christ, we gain the promise of eternal life and the joy of being in his presence forever. (Matthew 16:25; Luke 9:24; Luke 17:33; John 12:25)",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.4516706913109432,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "commentatorTierSimilarities": [
+                25.05,
+                20.57,
+                54.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whoever is willing to save their life will lose it, but whoever is willing to lay it down for Christ's sake and the sake of the gospel will find eternal life. This means being willing to sacrifice and give up one's own desires and comforts in order to follow Jesus and proclaim his message. It is a reminder that our life is not ultimately about what we can gain or save in this world, but about our devotion and commitment to Christ. (Matthew 16:25; Luke 9:24; Luke 17:33; John 12:25)",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4422972645314984,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.3,
+            "commentatorTierSimilarities": [
+                23.85,
+                19.32,
+                56.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whoever is willing to save their life will lose it, but whoever is willing to lay it down for Christ's sake and the sake of the gospel will find eternal life. This means being willing to sacrifice and give up one's own desires and comforts in order to follow Jesus and proclaim his message. It is a reminder that our life is not ultimately about what we can gain or save in this world, but about our devotion and commitment to Christ. (Matthew 16:25; Luke 9:24; Luke 17:33; John 12:25)",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4422972645314984,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.3,
+            "commentatorTierSimilarities": [
+                23.85,
+                19.32,
+                56.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whoever is willing to lay down their life for Christ's sake and the sake of the gospel will find eternal life. This means being willing to sacrifice and give up one's own desires and comforts in order to follow Jesus and proclaim his message. It is a reminder that our life is not ultimately about what we can gain or save in this world, but about our devotion and commitment to Christ. In choosing to die to ourselves and live for Christ, we gain the promise of eternal life. (Matthew 16:25; Luke 9:24; Luke 17:33; John 12:25)",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.4577210122982516,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "commentatorTierSimilarities": [
+                25.56,
+                20.42,
+                54.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whoever is willing to lay down their life for Christ's sake and the sake of the gospel will find eternal life. This means being willing to sacrifice and give up one's own desires and comforts in order to follow Jesus and proclaim his message. It is a reminder that our life is not ultimately about what we can gain or save in this world but about our devotion and commitment to Christ. In choosing to die to ourselves and live for Christ, we gain the promise of eternal life. (Matthew 16:25; Luke 9:24; Luke 17:33; John 12:25)",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 1.4577210122982516,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "commentatorTierSimilarities": [
+                25.56,
+                20.42,
+                54.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

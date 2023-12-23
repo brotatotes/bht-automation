@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-22-2023 23:28:02",
+    "verseRef": "Mark 12:34",
+    "bestBHT": {
+        "bht": "Jesus commended the scribe for his discreet and intelligent answer, acknowledging that he was not far from grasping the true essence of the commandments. The scribe lacked only repentance and faith, which Jesus desired to see within him. This encounter demonstrated the futility of challenging Jesus, as he emerged as the clear victor. The scribe was on the verge of embracing the Gospel dispensation and entering the kingdom of God, requiring only a complete surrender of his heart to the transformative power of the Gospel.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.7933179284015033,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+        "commentatorTierSimilarities": [
+            46.12,
+            21.65,
+            32.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He only wanted (but the want was indeed a serious one) repentance and faith to be within it.",
+            "The Lord shows us here that even outside His flock, those who can answer discreetly\u2014who have knowledge of the spirit of the great command of Law and Gospel, are nearer to being of his flock, than the formalists.",
+            "If thou art not far off, come in: otherwise thou hadst better been far off."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And when Jesus saw that he answered discreetly\u2014rather, 'intelligently,' or 'sensibly'; not only in a good spirit, but with a promising measure of insight into spiritual things.\" ",
+            "He needed only the experience of another eminent scribe who at a later period said, 'We know that the law is spiritual, but I am carnal, sold under sin': who exclaimed, 'O wretched man that I am! Who shall deliver me?' but who added, 'I thank God through Jesus Christ!'",
+            "And no man after that durst ask any question\u2014all feeling that they were no match for Him, and that it was vain to enter the lists with Him."
+        ],
+        "Marvin Vincent": [
+            "Discreetly [\u03bd\u03bf\u03c5\u03bd\u03b5\u03c7\u03c9\u03c2] . From nouv, mind, and ecw, to have. Having his mind in possession : \"having his wits about him.\" The word occurs only here in the New Testament."
+        ],
+        "John Calvin": [
+            "Christ stretches out the hand to him, and teaches us, by his example, that we ought to assist those in whom there is any beginning either of docility or of right understanding.",
+            "By these words we are also taught that many, while they are still held and involved in error, advance with closed eyes towards the road, and in this manner are prepared for running in the course of the Lord, when the time arrives.",
+            "It will often happen, indeed, that enemies shall molest and insult us till the end, but God will at length secure that their fury shall recoil on their own heads, and that, in spite of their efforts, truth shall be victorious."
+        ],
+        "Philip Schaff": [
+            "Thou art not far from the kingdom of God.",
+            "The best of them, when brought into direct communication with Him on the most important subjects, found themselves almost in the position of His own disciples.",
+            "No further question is put to Him, but He asks one which they cannot answer."
+        ],
+        "Archibald T. Robertson": [
+            "Using the mind to good effect is what the adverb means.",
+            "The critical attitude of the lawyer had melted before the reply of Jesus into genuine enthusiasm.",
+            "Jesus was complete victor on every side."
+        ],
+        "John Gill": [
+            "Thou art not far from the kingdom of God: not meaning from heaven, and eternal happiness... but our Lord's sense is, that he was not far off from the Gospel dispensation, and was in a fair way of entering into it.",
+            "There are some that seem very devout and religious... and yet are destitute of the grace of God.",
+            "There are some who have clear notions of the Gospel, and make a bright profession of it, and yet have no experience of the power of it upon their hearts... and come short of the kingdom and glory of our Lord Jesus."
+        ],
+        "John Wesley": [
+            "Thou art not far from the kingdom of God.\" ",
+            "Reader, art not thou? then go on: be a real Christian.",
+            "Else it had been better for thee to have been afar off."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He only wanted (but the want was indeed a serious one) repentance and faith to be within it. Jesus appreciated the discreet and intelligent answer of the scribe, recognizing that he was not far from understanding the spirit of the great commandments. The scribe's response showed promise and insight into spiritual matters. Jesus wanted him to experience the transformative power of repentance and faith through Jesus Christ. This encounter left everyone realizing the futility of challenging Jesus, as he was the complete victor in every way. The scribe was close to embracing the Gospel dispensation and entering the kingdom of God, but he still needed to take the next step of fully surrendering his heart to the transformative power of the Gospel.",
+            "wordCount": 123,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 1.7677726589259413,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                44.41,
+                23.1,
+                32.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus appreciated the discreet and intelligent answer of the scribe, recognizing that he was not far from understanding the spirit of the great commandments. He only needed repentance and faith to be within him. This encounter left everyone realizing the futility of challenging Jesus. The scribe was close to embracing the Gospel dispensation and entering the kingdom of God, but he still needed to take the next step of fully surrendering his heart to the transformative power of the Gospel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.6990165952334493,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.83,
+            "commentatorTierSimilarities": [
+                43.02,
+                23.9,
+                33.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus commended the scribe for his discreet and intelligent answer, acknowledging that he was not far from grasping the true essence of the commandments. The scribe lacked only repentance and faith, which Jesus desired to see within him. This encounter demonstrated the futility of challenging Jesus, as he emerged as the clear victor. The scribe was on the verge of embracing the Gospel dispensation and entering the kingdom of God, requiring only a complete surrender of his heart to the transformative power of the Gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7933179284015033,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                46.12,
+                21.65,
+                32.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus commended the scribe for his discreet and intelligent answer, acknowledging that he was not far from grasping the true essence of the commandments. The scribe lacked only repentance and faith, which Jesus desired to see within him. This encounter demonstrated the futility of challenging Jesus. The scribe was on the verge of embracing the Gospel dispensation and entering the kingdom of God, requiring only a complete surrender of his heart to the transformative power of the Gospel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.7129040650423455,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                45.21,
+                21.84,
+                32.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus commended the scribe for answering intelligently and sensibly, recognizing that he was not far from understanding the great commandments. The scribe needed repentance and faith to be within him. This encounter silenced anyone who dared to question Jesus, as he emerged as the ultimate victor. The scribe was on the cusp of embracing the Gospel dispensation and entering the kingdom of God. However, he still needed to fully surrender his heart to experience the transformative power of the Gospel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6727186746685554,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.96,
+            "commentatorTierSimilarities": [
+                42.95,
+                24.24,
+                32.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

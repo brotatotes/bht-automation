@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:28:36",
+    "verseRef": "Mark 14:48",
+    "bestBHT": {
+        "bht": "Jesus questions the crowd, asking if their armed response is meant for him, as if he were a thief. This comparison is significant, as it reflects the perception of highway robbers, like Barabbas, as heroes in society. The identity of the unnamed youth mentioned here remains a subject of speculation, with different suggestions ranging from Mark himself to Lazarus and even St. Paul. Ultimately, this foreshadows Jesus' crucifixion between two robbers, in the very place reserved for Barabbas.",
+        "wordCount": 78,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.4517234069911913,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+        "commentatorTierSimilarities": [
+            87.09,
+            0.0,
+            12.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "A thief. Rev., better, robber.\" ",
+            "There is no means of knowing who the youth may have been.\" ",
+            "Conjecture has named Mark himself, John, James the Just, Lazarus, the brother of Martha and Mary, and St. Paul!"
+        ],
+        "Archibald T. Robertson": [
+            "Highway robbers like Barabbas were common and were often regarded as heroes.",
+            "Jesus will be crucified between two robbers in the very place that Barabbas would have occupied."
+        ],
+        "John Gill": [
+            "Are ye come out as against a thief, with swords and with staves, to take me?\" ",
+            "To take me?\" ",
+            "With swords and with staves"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:48, Jesus asks the crowd if they had come out against him as if he were a thief, armed with swords and staves. This comparison to a thief or robber is significant because it highlights the common association of highway robbers, like Barabbas, as heroes. It is interesting to note that there is speculation as to the identity of the unnamed youth mentioned in this verse, with various conjectures including Mark himself, John, James the Just, Lazarus, and even St. Paul. Ultimately, this verse foreshadows the future crucifixion of Jesus between two robbers, right in the place where Barabbas would have been.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 1.68299981066561,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                73.54,
+                0.0,
+                26.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage presents Jesus questioning the crowd about their armed response, asking if they consider him to be a thief. The mention of thieves and robbers is significant, as it reflects the common perception of highway robbers, such as Barabbas, as heroes. Interestingly, there is speculation about the identity of an unidentified youth mentioned here, with different suggestions including Mark himself, John, James the Just, Lazarus, and even St. Paul. Ultimately, this foreshadows Jesus' crucifixion between two robbers, in the very place where Barabbas would have stood.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.570258799089018,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.55,
+            "commentatorTierSimilarities": [
+                85.75,
+                0.0,
+                14.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus questions the crowd, asking if they have come against him as if he were a thief, armed with swords and staves. Notably, the association of highway robbers, like Barabbas, as heroes is highlighted here. The identity of the unnamed youth is shrouded in speculation, with suggestions ranging from Mark himself to Lazarus and even St. Paul. This verse serves as a foreshadowing of Jesus' crucifixion between two robbers, in the very place where Barabbas would have stood.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.5704331269566005,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.56,
+            "commentatorTierSimilarities": [
+                72.84,
+                0.0,
+                27.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus questions the crowd, asking if they have come against him as if he were a thief, armed with swords and staves. The mention of thieves and robbers is remarkable, as it reflects the common perception of highway robbers like Barabbas, who were often seen as heroes. Intriguingly, there is speculation about the originally unnamed youth, with conjectures including Mark himself, John, James the Just, Lazarus, and even St. Paul. Ultimately, this passage hints at the future crucifixion of Jesus between two robbers, in the very spot where Barabbas would have been.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.618693316376772,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                74.4,
+                0.0,
+                25.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus questions the crowd, asking if their armed response is meant for him, as if he were a thief. This comparison is significant, as it reflects the perception of highway robbers, like Barabbas, as heroes in society. The identity of the unnamed youth mentioned here remains a subject of speculation, with different suggestions ranging from Mark himself to Lazarus and even St. Paul. Ultimately, this foreshadows Jesus' crucifixion between two robbers, in the very place reserved for Barabbas.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4517234069911913,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "commentatorTierSimilarities": [
+                87.09,
+                0.0,
+                12.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

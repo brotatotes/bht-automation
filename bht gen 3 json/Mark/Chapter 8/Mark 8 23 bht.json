@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-22-2023 23:25:29",
+    "verseRef": "Mark 8:23",
+    "bestBHT": {
+        "bht": "Jesus led the blind man by the hand out of the town, displaying great humility and seeking to gain his trust. He then applied spittle to the man's eyes, symbolizing the means of grace and Divine power. Jesus asked the man if he saw anything, using a multi-step process that differed from his usual word or touch. This illustrates how Jesus takes people by the hand and becomes their guide in spiritual conversion, showing his condescension, grace, and mercy. The secrecy surrounding the miracle may be attributed to Jesus' displeasure with the town's obstinate infidelity.",
+        "wordCount": 98,
+        "quoteTokenProportion": 34.29,
+        "qualityScore": 1.701401404955645,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+        "commentatorTierSimilarities": [
+            29.64,
+            22.49,
+            47.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The leading of this blind man out of the town appears as if it had been from some local reason.",
+            "Or we may perhaps find the reason in our Lord\u2019s immediate departure to such a distance.",
+            "We cannot say what may hare induced our Lord to form this miracle at twice\u2014certainly not the reason assigned by Dr. Burton."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He led him by the hand out of the town, doing it Himself rather than employing another\u2014great humility, exclaims BENGEL\u2014that He might gain his confidence and raise his expectation.",
+            "And when he had spit on his eyes\u2014the organ affected\u2014See on :-.",
+            "And put his hands upon him, he asked him if he saw aught."
+        ],
+        "Albert Barnes": [
+            "While he did good, he desired to do it in such a way as to avoid the 'appearance' of evil.",
+            "It was to the man a 'sign,' an evidence that it was the power of Jesus.",
+            "The power was not in the spittle, but it attended the application of it."
+        ],
+        "Marvin Vincent": [
+            "Seeest thou aught?\" - Rev.",
+            "The change of tenses is graphic.",
+            "Asked. Dost thou see."
+        ],
+        "Philip Schaff": [
+            "A more decided separation even, than in the last case.\" ",
+            "The reason may have been the unbelief of the place.",
+            "Three successive acts instead of the usual word or touch."
+        ],
+        "Archibald T. Robertson": [
+            "Philip had enlarged it and made it a town or city, though still called a village.",
+            "Jesus observes the utmost secrecy in performing the miracle for reasons not given by Mark.",
+            "Jesus led him out by the hand, put spittle on his eyes, and laid his hands upon him, perhaps all this to help the man's faith."
+        ],
+        "John Gill": [
+            "Christ's taking the blind man by the hand, and leading him out or the town, and spitting on his eyes, and putting his hands upon him, and then asking him if he saw ought, are emblematical of what he does in spiritual conversion...\" ",
+            "He takes them by the hand, which expresses his condescension, grace, and mercy, and becomes their guide and leader; and a better, and safer guide they cannot have.",
+            "His putting spittle upon his eyes may signify the means of grace, the eye salve of the word, which, when attended with divine power, enlightens the eyes."
+        ],
+        "John Wesley": [
+            "It was in just displeasure against the inhabitants of Bethsaida for their obstinate infidelity, that our Lord would work no more miracles among them.\" ",
+            "Our Lord...would...not even suffer the person he had cured, either to go into the town, or to tell it to any therein.",
+            "It was in just displeasure against the inhabitants of Bethsaida."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus led the blind man out of the town, perhaps to avoid the appearance of evil or because of his immediate departure. He did this by taking the man by the hand, displaying his humility and desire to gain his confidence. Jesus then put spittle on the man's eyes and asked him if he saw anything, using a multi-step process that was different from his usual word or touch. These actions are symbolic of what Jesus does in spiritual conversion, taking people by the hand and becoming their guide. The spittle may represent the means of grace, the word that enlightens the eyes. Jesus' secrecy in performing the miracle may have been due to the unbelief of the place and his displeasure with their obstinate infidelity.",
+            "wordCount": 128,
+            "quoteTokenProportion": 43.37,
+            "qualityScore": 1.6754392296176706,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                29.33,
+                26.22,
+                44.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus led the blind man out of the town, displaying humility and gaining his confidence. He put spittle on the man's eyes, symbolizing the means of grace that enlightens. Jesus then asked if the man saw anything, using a multi-step process, different from his usual touch. This signifies how Jesus guides and becomes the leader in spiritual conversion. His secrecy in performing the miracle may be due to the unbelief of the place and his displeasure with their obstinate infidelity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6298348851418485,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                29.2,
+                25.43,
+                45.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus led the blind man by the hand out of the town, displaying great humility and seeking to gain his trust. He then applied spittle to the man's eyes, symbolizing the means of grace and Divine power. Jesus asked the man if he saw anything, using a multi-step process that differed from his usual word or touch. This illustrates how Jesus takes people by the hand and becomes their guide in spiritual conversion, showing his condescension, grace, and mercy. The secrecy surrounding the miracle may be attributed to Jesus' displeasure with the town's obstinate infidelity.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.701401404955645,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+            "commentatorTierSimilarities": [
+                29.64,
+                22.49,
+                47.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus led the blind man out of the town, demonstrating humility by personally guiding him. He applied spittle to the man's eyes, a symbol of the means of grace that brings enlightenment. By using a multi-step process instead of his usual word or touch, Jesus emphasizes his power. This mirrors how Jesus guides and becomes the leader in spiritual conversion, providing condescension, grace, and mercy. The secrecy surrounding the miracle may stem from Jesus' displeasure with the town's stubborn unbelief.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.6462103097860332,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.08,
+            "commentatorTierSimilarities": [
+                28.15,
+                25.64,
+                46.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus led the blind man out of the town, displaying humility in leading him by the hand to gain his trust. He applied spittle to the man's eyes and asked if he saw anything, using a unique process to work the miracle. This process represents Jesus' guidance and leadership in spiritual conversion, showing his condescension, grace, and mercy. The secrecy surrounding the miracle may be due to Jesus' dissatisfaction with the town's persistent unbelief.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6560848377256046,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.41,
+            "commentatorTierSimilarities": [
+                32.32,
+                21.44,
+                46.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

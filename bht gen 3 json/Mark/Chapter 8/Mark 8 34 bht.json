@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:24:52",
+    "verseRef": "Mark 8:34",
+    "bestBHT": {
+        "bht": "Jesus pauses to address all who follow him, presenting a philosophy of life and death that contrasts with the understanding of the disciples and the people. He calls for self-denial, saying no to oneself, and emphasizes the importance of taking up the cross. By embracing the will of God, even in the midst of pain and suffering, one can truly follow Jesus in holiness towards eternal glory.",
+        "wordCount": 68,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.5885425989508337,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.16,
+        "commentatorTierSimilarities": [
+            35.17,
+            27.24,
+            37.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Jesus now pauses; for what he has to say now is to be said to all who follow him.\" ",
+            "Will [\u03b8\u03b5\u03bb\u03b5\u03b9] . Rev., would. See on Matthew 1:19. It is more than is wishful.\" ",
+            "His cross. The pronoun aujtou his, is in an emphatic position."
+        ],
+        "Philip Schaff": [
+            "He would prepare the multitude to hear what He had just revealed to the Twelve, and test their willingness to follow Him to death.\" ",
+            "He thus showed His wisdom as a Teacher, in adapting the truth to the audience.\" ",
+            "Take up his cross."
+        ],
+        "Archibald T. Robertson": [
+            "In the presence of this crowd Jesus explains his philosophy of life and death which is in direct contrast with that offered by Peter and evidently shared by the disciples and the people.\" ",
+            "Deny himself. Say no to himself, a difficult thing to do. Note reflexive along with the middle voice.\" ",
+            "The shadow of Christ's Cross was already on him and one faces everyone."
+        ],
+        "John Gill": [
+            "Let him deny himself, and take up his cross, and follow me.\" ",
+            "Signifying, that his followers must deny themselves of worldly advantages, and suffer many things, as well as he.",
+            "Which is the same as to be a disciple of his."
+        ],
+        "John Wesley": [
+            "Let him deny himself \u2014 His own will, in all things small and great, however pleasing, and that continually.",
+            "And take up his cross - Embrace the will of God, however painful, daily, hourly, continually.",
+            "Thus only can he follow me in holiness to glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus pauses in Mark 8:34, he is addressing all who follow him, presenting them with a philosophy of life and death that contrasts with the disciples' and people's understanding. In this moment, Jesus calls for self-denial, an act that is difficult but necessary. He emphasizes the importance of saying no to oneself and taking up the cross, embracing the will of God even in the face of pain and suffering. Ultimately, this is the path to following Jesus in holiness towards glory.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4403903824303932,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                37.1,
+                25.52,
+                37.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus pauses to address all who follow him, sharing a philosophy of life and death that contrasts with the understanding of the disciples and the people. He calls for self-denial, emphasizing the need to say no to oneself and take up the cross. This act of embracing God's will, even in the face of pain and suffering, is the path to following Jesus in holiness towards glory.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.566739661324685,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                35.91,
+                27.23,
+                36.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus pauses to speak to all who follow him, presenting a philosophy of life and death that challenges the mindset of the disciples and the people. He calls for self-denial, a difficult but necessary act of saying no to oneself and embracing God's will, even in the midst of suffering. By taking up the cross, followers can truly walk the path of discipleship, following Jesus in holiness towards ultimate glory.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.493827293755033,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "commentatorTierSimilarities": [
+                35.02,
+                27.16,
+                37.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus pauses to share his philosophy of life and death, which contrasts with the understanding of the disciples and the people. He calls for self-denial and emphasizes the need to say no to oneself, a challenging task. Taking up the cross is essential in following him, embracing God's will even in the face of pain and suffering. Only by denying oneself and embracing God's will can one follow Jesus in holiness towards eternal glory.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.4620329885508776,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+            "commentatorTierSimilarities": [
+                34.37,
+                25.53,
+                40.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus pauses to address all who follow him, presenting a philosophy of life and death that contrasts with the understanding of the disciples and the people. He calls for self-denial, saying no to oneself, and emphasizes the importance of taking up the cross. By embracing the will of God, even in the midst of pain and suffering, one can truly follow Jesus in holiness towards eternal glory.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5885425989508337,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.16,
+            "commentatorTierSimilarities": [
+                35.17,
+                27.24,
+                37.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

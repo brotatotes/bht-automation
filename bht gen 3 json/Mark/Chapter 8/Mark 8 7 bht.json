@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-22-2023 23:24:08",
+    "verseRef": "Mark 8:7",
+    "bestBHT": {
+        "bht": "The meal features a few small fishes, which are mentioned last in one account but not in another. The language suggests that the fishes were separately blessed and distributed, with a slight distinction in the type of blessing used. Some argue that the fishes were blessed, broke, and distributed separately after the bread, while others posit that both the bread and fishes were blessed, broke, and distributed together. Alternate versions of the text provide various interpretations of this.",
+        "wordCount": 78,
+        "quoteTokenProportion": 51.02,
+        "qualityScore": 1.5497330944963092,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+        "commentatorTierSimilarities": [
+            30.38,
+            31.41,
+            38.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The language intimates that they were separately blessed and distributed.",
+            "Having blessed. A different word from that used in Mark 8:6. The distinction is slight, however: this one implying praise, and the other thanksgiving."
+        ],
+        "Archibald T. Robertson": [
+            "A few small fishes (\u03b9\u03c7\u03b8\u03c5\u03b4\u03b9\u03b1 \u03bf\u03bb\u03b9\u03b3\u03b1). Mark mentions them last as if they were served after the food, but not so Matthew 15:34. "
+        ],
+        "John Gill": [
+            "It looks, by this account, as if the fishes were blessed, and brake, and distributed separately, alter the blessing, breaking, and distribution of the bread.",
+            "According to Matthew they were both blessed, and brake, and distributed together, as it is highly reasonable to suppose they were both ate together.",
+            "The Syriac version renders it, 'upon whom also he blessed'; and the Persic thus, 'and he also blessed the fishes'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse mentions a few small fishes as part of the meal, although it is interesting to note that Mark lists them last while Matthew includes them in a different order. The language used suggests that the fishes were separately blessed and distributed, with a slight distinction in the type of blessing given. Some commentators argue that the fishes were blessed, broke, and distributed separately after the bread, while others believe that both the bread and fishes were blessed, broke, and distributed together. The different versions of the Bible also offer different interpretations of the wording used in this passage.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7905827887113075,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                33.83,
+                31.17,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A meal mentioned in the text includes a small quantity of fish, which is mentioned separately in one account but not in another. The distribution process is described with the implication that the fish and bread were blessed and distributed separately. However, some suggest that the blessing, breaking, and distribution of both fish and bread occurred together. Alternate versions of the text offer varying interpretations of the wording.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.2984810325057872,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.52,
+            "commentatorTierSimilarities": [
+                24.0,
+                32.26,
+                43.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In describing the meal, Mark mentions a few small fishes after the food, although Matthew presents a different order. It is suggested that the fishes were individually blessed and distributed. The distinction between the blessing and thanksgiving is slight, with one implying praise and the other gratitude. Some interpretations propose that the fishes were blessed, broke, and distributed separately, while others argue that both the bread and fishes were blessed, broke, and distributed together. Different versions of the Bible offer various understandings of the wording used.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.544327678973521,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.69,
+            "commentatorTierSimilarities": [
+                28.06,
+                35.05,
+                36.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The meal includes a few small fishes, mentioned last in Mark but not in Matthew. It is suggested that the fishes were separately blessed and distributed, with a slight distinction between the types of blessings used. Some propose that the fishes were blessed, broke, and distributed apart from the bread, while others argue they were blessed, broke, and distributed together. Different versions of the text offer diverse interpretations of these events.",
+            "wordCount": 71,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.628544652858023,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                31.72,
+                31.04,
+                37.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The meal features a few small fishes, which are mentioned last in one account but not in another. The language suggests that the fishes were separately blessed and distributed, with a slight distinction in the type of blessing used. Some argue that the fishes were blessed, broke, and distributed separately after the bread, while others posit that both the bread and fishes were blessed, broke, and distributed together. Alternate versions of the text provide various interpretations of this.",
+            "wordCount": 78,
+            "quoteTokenProportion": 51.02,
+            "qualityScore": 1.5497330944963092,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                30.38,
+                31.41,
+                38.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

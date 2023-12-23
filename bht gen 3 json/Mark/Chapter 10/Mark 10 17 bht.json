@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:25:59",
+    "verseRef": "Mark 10:17",
+    "bestBHT": {
+        "bht": "Jesus had left the house and was proceeding on His journey when the ruler eagerly ran and kneeled before Him. This young, very rich man's eagerness and respect were remarkable, for he had misapprehended what was good and who was good. He sought guidance on attaining eternal life, believing in its existence. The ruler's question was directed to the right person, as Jesus had the words of eternal life to offer.",
+        "wordCount": 73,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.561761133388916,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.27,
+        "commentatorTierSimilarities": [
+            24.04,
+            41.39,
+            34.57
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] into the way, out of the house, ver. 10, to continue His journey, ver. 32. The running and the kneeling are both found in the graphic St. Mark only."
+        ],
+        "Marvin Vincent": [
+            "Running and kneeled. Two details peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "This eagerness and respect was the more remarkable, since the man was a 'ruler' and 'very rich.'\" ",
+            "Still the enthusiasm was also that of youth.",
+            "Both what was good, and who was good, had been misapprehended by the questioner."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus had left the house and was proceeding with the caravan on the way when this ruler eagerly ran and kneeled.\" ",
+            "The ruler eagerly ran and kneeled and was asking Jesus about his problem.\" ",
+            "Both these details alone in Mark."
+        ],
+        "John Gill": [
+            "This man, though a young man, and also a rich man, was thoughtful of the world to come, and the life of it.",
+            "He believed there was an eternal life after this state of things, and so was no Sadducee; but he had wrong notions about the way and manner of attaining it.",
+            "Eternal life is the gift of God, through the Messiah, the person he now applied to, and who had the words of eternal life; and to a more proper person he could not have put the question."
+        ],
+        "John Wesley": [
+            "Matthew 19:16; Luke 18:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus had left the house, continuing His journey, when this ruler eagerly ran and kneeled to ask Him about his problem. The man's eagerness and respect were remarkable, especially since he was a young, rich ruler who had misapprehended what was truly good and who was truly good. He believed in an eternal life after this one and sought guidance on how to attain it. This question was directed to the right person since Jesus had the words of eternal life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.534204103001732,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.35,
+            "commentatorTierSimilarities": [
+                23.78,
+                37.56,
+                38.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus had left the house and was proceeding on His journey when the ruler eagerly ran and kneeled before Him. This young, very rich man's eagerness and respect were remarkable, for he had misapprehended what was good and who was good. He sought guidance on attaining eternal life, believing in its existence. The ruler's question was directed to the right person, as Jesus had the words of eternal life to offer.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.561761133388916,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.27,
+            "commentatorTierSimilarities": [
+                24.04,
+                41.39,
+                34.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ruler eagerly ran and kneeled before Jesus, showing his remarkable eagerness and respect. As a young, rich man, he sought guidance on attaining eternal life, believing in its existence. Misapprehending what was truly good and who was truly good, he approached Jesus with his question. Fortunately, he directed his question to the right person, for Jesus had the words of eternal life.",
+            "wordCount": 63,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.4484301853281183,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.5,
+            "commentatorTierSimilarities": [
+                21.99,
+                39.83,
+                38.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ruler, a young and very rich man, eagerly ran and kneeled before Jesus, demonstrating remarkable eagerness and respect. He sought guidance on attaining eternal life, believing in its existence. Though he had misapprehended what was truly good and who was truly good, he approached Jesus with his question. Thankfully, the ruler had directed his question to the right person, as Jesus possessed the words of eternal life.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.465958592334947,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.09,
+            "commentatorTierSimilarities": [
+                21.81,
+                40.73,
+                37.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ruler, a young and very rich man, eagerly ran and kneeled before Jesus, showing remarkable eagerness and respect. He sought guidance on attaining eternal life, believing in its existence. Although he had misconceptions about what was truly good and who was truly good, the ruler approached Jesus with his question. Fortunately, he had chosen the right person to ask, as Jesus possessed the words of eternal life.",
+            "wordCount": 68,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.4285519162329434,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.84,
+            "commentatorTierSimilarities": [
+                22.79,
+                39.07,
+                38.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

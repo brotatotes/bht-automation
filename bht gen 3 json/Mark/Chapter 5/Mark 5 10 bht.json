@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:22:18",
+    "verseRef": "Mark 5:10",
+    "bestBHT": {
+        "bht": "The demons pleaded with Jesus, entreating Him not to expel them from the country but to allow them to remain in the deep. This reveals their true intentions\u2014to cause harm and destruction among mankind. Their insistence on staying in the district may be due to its lawless nature or simply a desire to continue tormenting the possessed man. Nonetheless, Jesus asserted His authority over the demons, forcing them to acknowledge His power and submit to His commands. Though they sought no mercy, their plea demonstrated their desire to perpetuate chaos.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.183026730974612,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+        "commentatorTierSimilarities": [
+            24.85,
+            27.58,
+            47.56
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] send them away out of the country; \u201ccommand them to go out into the deep\u201d Luke: see on Matthew, ver. 30."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "he besought Him not to send them, &amp;c.\"\u2014just as in Mark 5:9, \"he answered we are many.",
+            "But what do they mean by entreating so earnestly not to be ordered out of the country?",
+            "Their next petition (Mark 5:12) will make that clear enough."
+        ],
+        "John Calvin": [
+            "As the devils have no other object than to prowl among men, like lions in search of prey, they are grieved at being plunged into the deep, where they will have no opportunity of injuring and ruining men.",
+            "They manifest their disposition to be such, that there is nothing which they more eagerly desire than the destruction of mankind.",
+            "They requested that they might not be compelled to go out of the country."
+        ],
+        "Philip Schaff": [
+            "The singular and plural here used confirm the explanation just given.",
+            "Out of the country, i.e., the Gerasene district.",
+            "Their desire to remain in that district was probably connected with its lawless character, though it may have been merely the wish to stay where they were, in the man."
+        ],
+        "John Gill": [
+            "This shows the authority Christ has over the devils, and their subjection to him.",
+            "They cannot go any where else, or where they would, without his leave.",
+            "Though they are no humble supplicants to him for grace and mercy, yet they are, that they may continue where they are."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The demons in Mark 5:10 earnestly begged Jesus not to send them out of the country, as they did not want to be ordered to go into the deep. Their request reveals their true intentions and disposition, which is to harm and ruin mankind. Their desire to remain in the district may have been due to its lawless character or simply their wish to stay where they were in the possessed man. However, Jesus' authority over the demons is evident, as they are subject to his commands and cannot go elsewhere without his permission. Although the demons do not seek mercy or grace from Jesus, they plead in order to continue their destructive presence.",
+            "wordCount": 113,
+            "quoteTokenProportion": 46.05,
+            "qualityScore": 1.3225786692159844,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.32,
+            "commentatorTierSimilarities": [
+                30.15,
+                24.97,
+                44.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The demons pleaded with Jesus not to send them out of the country, as they desired to remain in the district, likely due to its lawless nature. They revealed their malicious intentions towards mankind, showing their eagerness to harm and destroy. However, Jesus showcased his authority over the demons, demonstrating that they are subject to his commands and cannot go elsewhere without his permission. Despite not seeking mercy or grace, they begged to continue their destructive presence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.1753914355298434,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.43,
+            "commentatorTierSimilarities": [
+                26.86,
+                21.57,
+                51.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The demons in the Bible verse earnestly implored Jesus not to send them out of the country, as they did not want to be ordered to go into the deep. Their request reveals their true disposition - their eagerness to harm and ruin mankind. They desired to remain in the district, possibly due to its lawless character or simply their preference to stay where they were. Jesus' authority over the demons is evident, as they are subject to his commands and cannot go elsewhere without his permission. Though they do not seek mercy or grace, they plead to continue their destructive presence.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.2991419574693936,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.54,
+            "commentatorTierSimilarities": [
+                29.64,
+                22.9,
+                47.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The demons fervently beseeched Jesus not to send them away from the country, as they dreaded being commanded to go deep into the unknown. Their desperate appeal unveils their sinister intentions and eagerness to exploit and ruin humanity. Their desire to stay in the region might be linked to its lawlessness or a preference to remain in the possessed man's vicinity. Jesus' display of authority over the demons underscores their subjugation to him, as they cannot go anywhere without his permission. While not seeking mercy, they plead to continue their malevolent presence.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.171732753556177,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.3,
+            "commentatorTierSimilarities": [
+                27.73,
+                22.12,
+                50.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The demons pleaded with Jesus, entreating Him not to expel them from the country but to allow them to remain in the deep. This reveals their true intentions\u2014to cause harm and destruction among mankind. Their insistence on staying in the district may be due to its lawless nature or simply a desire to continue tormenting the possessed man. Nonetheless, Jesus asserted His authority over the demons, forcing them to acknowledge His power and submit to His commands. Though they sought no mercy, their plea demonstrated their desire to perpetuate chaos.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.183026730974612,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+            "commentatorTierSimilarities": [
+                24.85,
+                27.58,
+                47.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

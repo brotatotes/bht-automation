@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:28:10",
+    "verseRef": "Mark 14:28",
+    "bestBHT": {
+        "bht": "Jesus assures his disciples that he will go before them into Galilee, offering them comfort and hope. Despite the challenges and discouragement they will face, Jesus promises to rise again from the dead. His words not only anticipate their forthcoming doubts and offenses but also call to mind the significance of Galilee, a place where they had shared close fellowship with him in the past.",
+        "wordCount": 65,
+        "quoteTokenProportion": 50.94,
+        "qualityScore": 1.0587123592617886,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.55,
+        "commentatorTierSimilarities": [
+            33.09,
+            0.0,
+            66.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Go before. See on Matthew 26:32."
+        ],
+        "John Gill": [
+            "But after that I am risen... from the dead, which, for their comfort, he assures them of.\" ",
+            "Though they would be offended and discouraged at the seizing, and condemning, and crucifixion of him.",
+            "I will go before you into Galilee; the place of their nativity, and where he had often conversed with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus tells his disciples that after His resurrection, He will go before them into Galilee. This assurance brings comfort to the disciples, as they may be discouraged and offended by His impending arrest and crucifixion. The mention of Galilee is significant because it is where they were born and where Jesus had numerous interactions with them. This promise gives the disciples hope and reminds them of the relationship they share with Jesus. (Words: 61)",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 0.9029629517578337,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.37,
+            "commentatorTierSimilarities": [
+                35.86,
+                0.0,
+                64.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus promises his disciples in Mark 14:28 that he will go before them into Galilee. This assurance is meant to comfort them in the face of the upcoming events, including his death and resurrection. It is a reminder that although they may be discouraged and offended by what is to come, Jesus will rise from the dead and reunite with them in Galilee, a place of familiarity and past fellowship.",
+            "wordCount": 69,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.1453100311920503,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.43,
+            "commentatorTierSimilarities": [
+                36.56,
+                0.0,
+                63.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus assures his disciples that he will go before them into Galilee, offering them comfort and hope. Despite the challenges and discouragement they will face, Jesus promises to rise again from the dead. His words not only anticipate their forthcoming doubts and offenses but also call to mind the significance of Galilee, a place where they had shared close fellowship with him in the past.",
+            "wordCount": 65,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.0587123592617886,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.55,
+            "commentatorTierSimilarities": [
+                33.09,
+                0.0,
+                66.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Jesus predicts that His disciples will scatter, He tells them in Mark 14:28 to go before Him to Galilee. This echoes His earlier instructions in Matthew 26:32. Jesus wants His followers to know that although they will be discouraged and offended by His crucifixion, He will rise from the dead. This assurance of His resurrection should bring them comfort as they prepare to face difficult times. Galilee holds significance as the place of their birth and previous fellowship with Jesus. He intends to meet them there, going ahead of them to ensure their paths cross once again.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.228526261379631,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.19,
+            "commentatorTierSimilarities": [
+                44.27,
+                0.0,
+                55.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus assures His disciples that He will rise from the dead, bringing them comfort despite the offense and discouragement they will face by witnessing His crucifixion. Instructing them to go before Him into Galilee, the place of their birth and past fellowship with Him, He promises to meet them there. He wants them to understand that He will go ahead of them, ensuring their paths intersect once again. This echoes His earlier instruction, emphasizing the importance of their reunion in Galilee.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 0.9674441046021574,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.51,
+            "commentatorTierSimilarities": [
+                30.78,
+                0.0,
+                69.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

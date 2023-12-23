@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:22:52",
+    "verseRef": "Mark 5:30",
+    "bestBHT": {
+        "bht": "In this account, Jesus displays a unique awareness of the power that emanates from Him. Unlike prophets and apostles, His healing power is not an external force but a part of His own being. He senses that this power has gone forth to heal and seeks to identify the one who had touched His clothes. By honing in on this particular case, Jesus reveals that He possesses an internal, essential virtue to cure diseases\u2014an infinite power undiminished by its frequent use. This power stems from His divine nature and enables Him to heal and forgive.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.8688383353264224,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+        "commentatorTierSimilarities": [
+            20.87,
+            41.3,
+            37.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He was conscious of the forthgoing of His healing power, which was not - as in prophets and apostles - something foreign to Himself and imparted merely, but what He had dwelling within Him as 'His own fulness.'\" ",
+            "He turned him about in the press - crowd.",
+            "Who touched my clothes?"
+        ],
+        "Marvin Vincent": [
+            "Knowing... that virtue had gone out of him.",
+            "The object of the Savior's knowledge was thus complex: 1st, his power; 2nd, that his power had gone forth.",
+            "This and the following sentence are peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "The power, which was His and which proceeded from Him, He felt had on this occasion also gone forth to heal.",
+            ""
+        ],
+        "Archibald T. Robertson": [
+            "Jesus perceiving in himself the power from him go out.",
+            "Who touched me on my clothes.",
+            "But here Jesus chose to single out this case for examination."
+        ],
+        "John Gill": [
+            "This shows that there was an internal essential virtue in Christ to cure diseases: it was not what he derived from another, or exercised under another's influence; but what was his own, and which he put forth as the Lord God omnipotent.",
+            "But Christ, being God, had infinite virtue within himself, which went forth from him when he pleased, to the curing of whatsoever disease he thought fit; and which was no ways lessened by the frequent exertions of it.",
+            "Christ has a power within him to forgive all trespasses; and virtue may be said to go out of him to this purpose, when it is his will to make application of pardoning mercy to his people; which requires an exertion of power, as well as a display of grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this particular verse, Jesus demonstrates awareness that His healing power, unlike that of prophets and apostles, is not external or imparted, but rather a part of His own essence. He is aware that His power has gone forth to heal, and upon realizing this, He turns to identify who had touched His clothes. While some may find it peculiar that Jesus chose to single out this individual for examination, it reveals that there is an internal essential virtue in Christ to cure diseases, derived from His own being. This infinite virtue is not diminished by frequent exertions of power, as Jesus has the divine power within Himself to heal and forgive.",
+            "wordCount": 112,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8238803612823817,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                19.76,
+                33.22,
+                47.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's consciousness of his healing power, which is His own fulness, sets Him apart from prophets and apostles. When He feels His power go forth to heal, He turns to identify who had touched His clothes. Singularly focusing on this case for examination reveals an internal essential virtue in Christ to cure diseases, derived from His own being. This infinite virtue is undiminished by frequent exertions of power, as Jesus has the divine power within Himself to heal and forgive.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.8633426380037714,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.3,
+            "commentatorTierSimilarities": [
+                20.34,
+                37.71,
+                41.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Jesus displays a unique awareness of the power that emanates from Him. Unlike prophets and apostles, His healing power is not an external force but a part of His own being. He senses that this power has gone forth to heal and seeks to identify the one who had touched His clothes. By honing in on this particular case, Jesus reveals that He possesses an internal, essential virtue to cure diseases\u2014an infinite power undiminished by its frequent use. This power stems from His divine nature and enables Him to heal and forgive.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8688383353264224,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                20.87,
+                41.3,
+                37.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this incident, Jesus demonstrates His awareness of the healing power that dwells within Him. Unlike prophets and apostles, His power is not external, but His own fullness. He perceives that His healing virtue has gone out from Him to manifest in a particular situation. His intentional focus on this specific case for examination showcases His internal, essential virtue to cure diseases, derived from His infinite power. This divine power is unfazed by its frequent exertions and enables Him to heal and extend pardoning mercy to His people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.749811110442538,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+            "commentatorTierSimilarities": [
+                18.49,
+                37.86,
+                43.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this incident, Jesus demonstrates His unique awareness of the power emanating from Him. This power is not something foreign to Himself, but His own fullness. He is conscious that His healing virtue has gone out from Him to manifest in a specific situation. By focusing on this case for examination, Jesus reveals that He possesses an internal and essential virtue to cure diseases, derived from His infinite power within. This divine power remains undiminished, allowing Him to heal and extend pardoning mercy to His people.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7692381478009969,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                20.4,
+                36.63,
+                42.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

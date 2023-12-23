@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-22-2023 23:30:24",
+    "verseRef": "Mark 15:43",
+    "bestBHT": {
+        "bht": "An honorable man of noble station, Joseph from Arimathaea boldly went in, daring all possible consequences. He had secretly believed in Jesus but had taken no public stand until now. It is the glory of Joseph that he took a bold stand when others were in terror and dismay. He believed Jesus to be the Messiah and had patiently waited for the kingdom of God. This decisive act marked the change from a secret to an open discipleship, showing his unwavering attachment to Jesus.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.980662657257196,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+        "commentatorTierSimilarities": [
+            27.1,
+            42.89,
+            30.02
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "honourable\u2014probably in its later sense of noble, i.e. in station.",
+            "went in boldly] Characteristic of St. Mark\u2019s narrative.",
+            "On the change of mind produced in Joseph and in Nicodemus by the crucifixion, see note, John xix. 39."
+        ],
+        "Albert Barnes": [
+            "The word 'honorable,' here, is not a mere title of 'office,' but is given in reference to his personal character, as being a man of integrity and blameless life.",
+            "He believed 'Jesus' to be the Messiah, and that he had 'waited' for Him to build up the kingdom of God.",
+            "This bold attachment of a senator for Jesus is worthy of special notice, and has been set down for our imitation."
+        ],
+        "Marvin Vincent": [
+            "Joseph, he from Arimathaea: the article indicating a man well known.",
+            "Honorable in rank.",
+            "Having dared went in, daring all possible consequences."
+        ],
+        "John Calvin": [
+            "The highest commendation bestowed on Joseph is, that he waited for the kingdom of God.",
+            "It is therefore pointed out in commendation of Joseph\u2019s piety, that, during the disorder which then prevailed, he cherished the hope of that redemption which God had promised.",
+            "Hence it is evident, that nearly the whole of the people had buried in base forgetfulness the inestimable grace of God."
+        ],
+        "Philip Schaff": [
+            "An honourable councillor. 'Honorable' here means noble in station.",
+            "He expected the Messiah, and had been a secret disciple of Jesus.",
+            "The decisive act which marked the change from a secret to an open discipleship."
+        ],
+        "Archibald T. Robertson": [
+            "A councillor of honourable estate... Looking for the Kingdom of God.\" ",
+            "The very verb used by Luke of Simeon and Anna... He had evidently taken no public stand for Jesus before now.\" ",
+            "It is the glory of Joseph and Nicodemus, secret disciples of Jesus, that they took a bold stand when the rest were in terror and dismay."
+        ],
+        "John Gill": [
+            "A man of a good aspect, well dressed, and that behaved well and honourably in his office, as a counsellor.",
+            "He seems to have been a priest, and one of the bench of priests that sat in the high priest's chamber.",
+            "Not now ashamed of Christ, or afraid openly to appear in his cause, and declare himself a lover of him, a believer in him, and a disciple of his, though he formerly was."
+        ],
+        "John Wesley": [
+            "Honourable \u2014 A man of character and reputation: A counsellor - A member of the sanhedrim.",
+            "Who waited for the kingdom of God \u2014 Who expected to see it set up on earth.",
+            "Matthew 27:57; Luke 23:50; John 19:38."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "An honorable man of noble station, Joseph from Arimathaea boldly went in, daring all possible consequences. He had secretly believed in Jesus but had taken no public stand until now. It is the glory of Joseph that he took a bold stand when others were in terror and dismay. He believed Jesus to be the Messiah and had patiently waited for the kingdom of God. This decisive act marked the change from a secret to an open discipleship, showing his unwavering attachment to Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.980662657257196,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                27.1,
+                42.89,
+                30.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Joseph, an honorable man of noble station, boldly went in, daring all consequences. He, along with Nicodemus, took a bold stand when others were in terror. Joseph had secretly believed in Jesus and patiently waited for the Kingdom of God. This decisive act marked the shift from secret to open discipleship, revealing his unwavering attachment to Jesus as the Messiah. His actions serve as an example of boldness and unwavering faith to be emulated.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8815404498326938,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                28.43,
+                41.29,
+                30.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Joseph, an honorable man of noble station, went in boldly, daring all consequences to openly stand with Jesus. He had secretly believed in Jesus and patiently waited for the Kingdom of God. This decisive act marked a shift from secret to open discipleship, demonstrating his unwavering attachment to Jesus as the Messiah. Joseph's courageous actions serve as an example of boldness and steadfast faith that we should strive to emulate.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9341069457637974,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                25.8,
+                43.53,
+                30.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Joseph, an honorable man of noble station, boldly went in, daring all possible consequences. It is the glory of Joseph and Nicodemus that they took a bold stand when the rest were in terror and dismay. He expected the Messiah and had been a secret disciple of Jesus. This decisive act marked the change from a secret to an open discipleship. Joseph's unwavering attachment to Jesus as the Messiah serves as an example for us to boldly stand for our faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9456010243418318,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                28.57,
+                44.69,
+                26.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Joseph, an honorable man of noble station, boldly went in, daring all possible consequences. It is the glory of Joseph and Nicodemus that they took a bold stand when the rest were in terror and dismay. He expected the Messiah and had been a secret disciple of Jesus. This decisive act marked the change from a secret to an open discipleship. Joseph's unwavering attachment to Jesus as the Messiah serves as an example for us to boldly stand for our faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9456010243418318,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                28.57,
+                44.69,
+                26.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:29:06",
+    "verseRef": "Mark 14:71",
+    "bestBHT": {
+        "bht": "As Peter denies knowing Jesus for the third time, he goes to great lengths by cursing himself and taking a solemn oath. The synonymous terms used for curse and oath highlight the intensity of Peter's reaction. By invoking these curses and swearing, Peter demonstrates the extent of his fear and betrayal. This serves as a powerful reminder of the human struggle with faith, particularly in times of crisis and testing.",
+        "wordCount": 71,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.3690651863969476,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.86,
+        "commentatorTierSimilarities": [
+            44.14,
+            0.0,
+            55.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But he began to curse\u2014anathematize, or wish himself accursed if what he was now to say was not true.\" ",
+            "And to swear\u2014or to take a solemn oath.",
+            "Saying, I know not this man of whom ye speak."
+        ],
+        "Marvin Vincent": [
+            "Curse [\u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03b6\u03b5\u03b9\u03bd] .",
+            "Compare on Matthew 26:74; where the word is kataqematizein, to call down [\u03ba\u03b1\u03c4\u03b1] curses on himself if he were not telling the truth.",
+            "The words are Synonymous."
+        ],
+        "Archibald T. Robertson": [
+            "Our word anathema (\u03b1\u03bd\u03b1, \u03b8\u03b5\u03bc\u03b1, an offering, then something devoted or a curse). Finally the two meanings were distinguished by \u03b1\u03bd\u03b1\u03b8\u03b7\u03bc\u03b1 for offering and \u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1 for curse.",
+            "Deissmann has found examples at Megara of \u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1 in the sense of curse.",
+            "Matthew 26:74 has \u03ba\u03b1\u03c4\u03b1\u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03b6\u03b5\u03b9\u03bd, which is a \u03b1\u03c0\u03b1\u03be \u03bb\u03b5\u03b3\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd in the N.T., though common in the LXX. This word has the notion of calling down curses on one's self if the thing is not true."
+        ],
+        "John Gill": [
+            "But he began to curse and to swear... To wish the most dreadful things upon himself, and to swear by the living God.\" ",
+            "I know not this man of whom ye speak."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:71, when Peter denies Jesus for the third time, he becomes so agitated and fearful that he begins to curse and take a solemn oath. This oath is a way for Peter to emphasize his denial and his insistence that he does not know Jesus. The words used for curse and oath in the commentaries are synonymous, highlighting the severity of Peter's reaction. By swearing and cursing himself, Peter wishes the most dreadful things upon himself if his denial is not true. This intense moment of denial further demonstrates the depth of Peter's fear and betrayal.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4181520813827326,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.5,
+            "commentatorTierSimilarities": [
+                47.24,
+                0.0,
+                52.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Peter's denial of Jesus reaches a climax as he fervently curses himself and takes a solemn oath, vehemently declaring that he does not know Jesus. The words used for curse and oath in the commentaries are synonymous, emphasizing the intensity of Peter's reaction. By invoking these curses and swearing, Peter is expressing the extent of his fear and betrayal. This moment serves as a powerful reminder of the human struggle with faith in times of crisis.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.4407332778451636,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+            "commentatorTierSimilarities": [
+                47.9,
+                0.0,
+                52.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's denial of Jesus escalates dramatically in this passage, as he not only vociferously claims ignorance of Jesus but also proceeds to utter solemn curses and oaths. The commentators note the interchangeability of the terms for curse and oath, underscoring the intensity of Peter's reaction. By cursing and swearing, Peter vividly communicates the depth of his fear and disloyalty. This episode serves as a poignant reminder of the frailty of human faith, particularly in moments of distress and testing.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.307904501723066,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.83,
+            "commentatorTierSimilarities": [
+                45.92,
+                0.0,
+                54.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Peter denies knowing Jesus for the third time, he goes to great lengths by cursing himself and taking a solemn oath. The synonymous terms used for curse and oath highlight the intensity of Peter's reaction. By invoking these curses and swearing, Peter demonstrates the extent of his fear and betrayal. This serves as a powerful reminder of the human struggle with faith, particularly in times of crisis and testing.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.3690651863969476,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.86,
+            "commentatorTierSimilarities": [
+                44.14,
+                0.0,
+                55.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Peter denies any association with Jesus in Mark 14:71, the commentators note that he not only curses himself but also takes a solemn oath, emphasizing the severity of his denial. By using both cursing and swearing, Peter intensifies his declaration of ignorance towards Jesus. This moment reveals the depth of Peter's fear and betrayal, reminding us that even the most faithful can succumb to doubt and denial in times of distress.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.4169961711356605,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
+            "commentatorTierSimilarities": [
+                44.14,
+                0.0,
+                55.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

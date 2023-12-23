@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-22-2023 23:27:10",
+    "verseRef": "Mark 11:11",
+    "bestBHT": {
+        "bht": "Mark, writing with the perspective of an eyewitness, carefully maintains the accurate sequence of events in his narrative, providing more precise details than Matthew. Following Jesus's triumphant entry into Jerusalem, He took a deliberate and sorrowful look at the temple before departing for Bethany with His disciples. This quick inspection indicated Jesus's deep worry regarding the temple. Subsequently, He cleansed the temple, overturning the tables and healing the sick. As the day came to a close, Jesus left for Bethany, concluding this significant day in Jerusalem.",
+        "wordCount": 88,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.926300235417517,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+        "commentatorTierSimilarities": [
+            28.83,
+            41.5,
+            29.68
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When St. Mark, as here, relates an occurrence throughout, with such signs of an eye-witness as in ver. 4, it is very difficult to suppose that he has transposed any thing.",
+            "The times and order of the events are here more exact than in St. Matthew.",
+            "St. Matthew certainly does not speak here so exactly, having transposed the anointing in Bethany."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus briefly does our Evangelist dispose of this His first day in Jerusalem, after the triumphal entry.",
+            "It was not now safe for the Lord to sleep in the city, nor, from the day of His Triumphal Entry, did He pass one night in it, save the last fatal one.",
+            "The Barren Fig Tree Cursed."
+        ],
+        "Marvin Vincent": [
+            "When he had looked round. Peculiar to Mark. As the master of the house, inspecting. \"A look serious, sorrowful, judicial\" (Meyer). Compare Mark 3:5, Mark 3:34."
+        ],
+        "John Calvin": [
+            "So then, though Mark has stated more distinctly the order of time, he makes no contradiction.",
+            "For, having been formerly accustomed to pay frequent visits to the temple, it was not the novelty of the sight that affected him.",
+            "But any one who will consider how little care the Evangelists bestowed on pointing out dates will not stumble at this diversity in the narrative."
+        ],
+        "Philip Schaff": [
+            "He passed at once into the temple, and visited no other point."
+        ],
+        "Archibald T. Robertson": [
+            "When he had looked round about upon all things... it is all implied in this swift glance at the temple before he went out to Bethany with the Twelve.\" ",
+            "Another Markan detail in this aorist middle participle.\" ",
+            "What did the apostles think now?"
+        ],
+        "John Gill": [
+            "And Jesus entered into Jerusalem,.... this public manner, riding upon an ass, with the multitude attending hin, some going before, and others after, crying, 'Hosanna' to him.",
+            "his great concern being there; and having dismounted, and dismissed the colt, and sent it by proper persons to the owner of it, he went into the temple, into the court of the Gentiles; where he found and overturned the tables of the money changers, and the seats of them that sold doves, and healed the lame and the blind.",
+            "and now the eventide was come, he went out unto Bethany with the twelve; having spent great part of the day in reforming abuses in the temple, in healing diseases, and disputing with the chief priests and Scribes."
+        ],
+        "John Wesley": [
+            "Matthew 21:10,17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Mark recounts the events of this day, it is clear that he has taken great care to maintain the accuracy of the order in which everything occurred. Unlike Matthew, who transposed the anointing in Bethany, Mark presents a more precise and detailed timeline. After Jesus had made His triumphant entry into Jerusalem, he took a moment to survey the surroundings of the temple before departing for Bethany. This swift glance at the temple, with a serious and sorrowful judicial look, signaled Jesus' concern for what would transpire there. He then went on to cleanse the temple, overturning the tables of the money changers and the seats of those selling doves, and healing the lame and blind. The day was coming to a close, so Jesus left for Bethany with the twelve disciples, bringing an end to this significant first day in Jerusalem.",
+            "wordCount": 143,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.8828667900061273,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                29.98,
+                37.94,
+                32.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As our Evangelist, Mark, accurately portrays the events of this day, it is evident that he meticulously maintains the correct order in which everything took place. Unlike Matthew's account, Mark provides a more precise and detailed timeline. After Jesus entered Jerusalem and surveyed the temple, He moved on to reprimand the money changers and heal the afflicted. The day drew to a close, and Jesus departed for Bethany with His twelve disciples, concluding this momentous day in Jerusalem.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7340746397574534,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                31.59,
+                33.25,
+                35.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his account, Mark faithfully preserves the chronological order of the events, offering a more precise narrative compared to Matthew. After Jesus's triumphal entry into Jerusalem, he took a serious and judicial look around the temple before departing for Bethany with his twelve disciples. Jesus's concern for the temple's state is evident as he cleansed it by overturning the money changers' tables and healing those who were sick. As the day came to a close, Jesus left for Bethany, marking the end of this significant day in Jerusalem.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9151848781896446,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                31.18,
+                35.19,
+                33.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark, as an eyewitness, carefully preserves the precise order of events in his account, providing more exact details than Matthew. After Jesus's triumphant entry into Jerusalem, he observed the temple before departing for Bethany. This swift and solemn glance demonstrated Jesus's deep concern for the temple and its affairs. He then proceeded to cleanse the temple, overturning the tables of the money changers and healing the infirm. As the day drew to a close, Jesus left for Bethany with his twelve disciples, concluding this momentous day in Jerusalem.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.9040759823607831,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                27.48,
+                41.35,
+                31.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark, writing with the perspective of an eyewitness, carefully maintains the accurate sequence of events in his narrative, providing more precise details than Matthew. Following Jesus's triumphant entry into Jerusalem, He took a deliberate and sorrowful look at the temple before departing for Bethany with His disciples. This quick inspection indicated Jesus's deep worry regarding the temple. Subsequently, He cleansed the temple, overturning the tables and healing the sick. As the day came to a close, Jesus left for Bethany, concluding this significant day in Jerusalem.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.926300235417517,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                28.83,
+                41.5,
+                29.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

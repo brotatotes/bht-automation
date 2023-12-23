@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:23:11",
+    "verseRef": "Mark 5:34",
+    "bestBHT": {
+        "bht": "When Jesus spoke the words, Daughter, be of good comfort. Thy faith hath made thee whole... go in peace, it was a solemn ratification of the healing the woman had obtained surreptitiously. In addition to physical healing, she found sympathy, healing, and pardon for her sins. The peace Jesus spoke of may have more the idea of the Hebrew shalom, health of body and soul. This woman's faith had saved her from her bodily disease and sins, granting her true spiritual peace.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.9628792557871941,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+        "commentatorTierSimilarities": [
+            35.94,
+            31.72,
+            32.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peculiar to Mark, and inexplicable.",
+            "The Lord really spoke the words, as a solemn ratification of the healing.",
+            "As a solemn ratification of the healing which she had as it were surreptitiously obtained."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Daughter... be of good comfort.\" ",
+            "Thy faith hath made thee whole... go in peace.\" ",
+            "Go in peace!"
+        ],
+        "Marvin Vincent": [
+            "In peace [\u03b5\u03b9\u03c2 \u03b5\u03b9\u03c1\u03b7\u03bd\u03b7\u03bd] . Lit., into peace. Contemplating the peace in store for her. Mark alone adds, Be whole of thy plague."
+        ],
+        "John Calvin": [
+            "From this exhortation we infer that the benefit which she had obtained was fully ratified, when she heard from the lips of Christ what she had already learned from experience.",
+            "We do not truly, or with a safe conscience, enjoy God\u2019s benefits in any other way than by possessing them as contained in the treasury of his promises."
+        ],
+        "Philip Schaff": [
+            "Be healed. Not the same word as in the previous clause.",
+            "These words were a gracious and solemn ratification of the healing, which had been stolen, as it were.",
+            "Go in peace. Lit, 'into peace.' The state in which she could now live in contrast with her previous suffering and her unquiet up to this moment."
+        ],
+        "Archibald T. Robertson": [
+            "Go in peace. She found sympathy, healing, and pardon for her sins, apparently.\" ",
+            "Peace here may have more the idea of the Hebrew shalom, health of body and soul.",
+            "So Jesus adds: 'Be whole of thy plague.' Continue whole and well."
+        ],
+        "John Gill": [
+            "She was one of those that were predestinated to the adoption of children, and were given to Christ as such; and who are evidentially the children of God by faith in him: and to have a testimony of adoption from the Spirit of God, and from the mouth of Christ himself, as this woman had; how great a blessing is it!",
+            "In the Greek text it is, 'thy faith hath saved thee'; both from her bodily disease, and from her sins: not that there is such an intrinsic virtue in faith as to deliver from either; for certain it is, that it was not virtue that went out of her faith, but virtue which went out from Christ, that cured her of her issue; though faith was the means of drawing it out; or it was that, through which, virtue from Christ exerted itself, and produced such an effect.",
+            "Peace is the effect of faith in Christ, of pardon through his blood, and salvation in him; true, spiritual, solid peace is enjoyed in a way of believing; it is the fruit of a view of interest in justification by faith in Christ's righteousness; and nothing more effectually produces and secures it than a sense of all spiritual diseases being healed, or an application of pardoning grace and mercy, through the blood of Christ; which itself speaks better things than that of Abel, even pardon, and so peace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus spoke the words, Daughter, be of good comfort. Thy faith hath made thee whole... go in peace, it was a solemn ratification of the healing that the woman had obtained surreptitiously. In addition to physical healing, she found sympathy, healing, and pardon for her sins. The peace Jesus spoke of may have encompassed the Hebrew concept of shalom, referring to both the health of body and soul. This woman's faith had saved her from her bodily disease and sins, and through her belief in Christ, she was able to experience true, spiritual peace.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.940757649024729,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                33.88,
+                31.51,
+                34.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus told the woman, Daughter, be of good comfort, He solemnly ratified the healing she had received, both physically and spiritually. Her faith had played a crucial role in her restoration, as Jesus proclaimed, Thy faith hath made thee whole. This assurance of wholeness was accompanied by the command to go in peace, encompassing both physical well-being and the deep sense of shalom, peace in the Hebrew sense, which encompasses the health of both body and soul.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7942715273392893,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.0,
+            "commentatorTierSimilarities": [
+                30.79,
+                30.54,
+                38.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus spoke the words, Daughter, be of good comfort. Thy faith hath made thee whole... go in peace, it was a solemn ratification of the healing that the woman had as it were surreptitiously obtained. In addition to physical healing, she found sympathy, healing, and pardon for her sins. The peace Jesus spoke of may have more the idea of the Hebrew shalom, health of body and soul. This woman's faith had saved her from her bodily disease and sins, and through her belief in Christ, she was able to experience true, spiritual peace.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9512184256888077,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.22,
+            "commentatorTierSimilarities": [
+                35.04,
+                31.05,
+                33.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus spoke the words, Daughter, be of good comfort. Thy faith hath made thee whole... go in peace, to solemnly ratify the healing that the woman had surreptitiously obtained. Her faith played a crucial role in her restoration, both physically and spiritually. The peace Jesus spoke of encompassed the Hebrew concept of shalom, referring to the health of body and soul. Through her belief in Christ, she found true, spiritual peace, as her faith saved her from her bodily disease and sins.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8275605164957986,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.11,
+            "commentatorTierSimilarities": [
+                34.29,
+                29.48,
+                36.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus spoke the words, Daughter, be of good comfort. Thy faith hath made thee whole... go in peace, it was a solemn ratification of the healing the woman had obtained surreptitiously. In addition to physical healing, she found sympathy, healing, and pardon for her sins. The peace Jesus spoke of may have more the idea of the Hebrew shalom, health of body and soul. This woman's faith had saved her from her bodily disease and sins, granting her true spiritual peace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9628792557871941,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                35.94,
+                31.72,
+                32.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

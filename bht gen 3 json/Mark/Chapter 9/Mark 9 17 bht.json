@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-22-2023 23:25:43",
+    "verseRef": "Mark 9:17",
+    "bestBHT": {
+        "bht": "The father approached Jesus, presenting his son who was described as lunatic due to a spirit that caused him to be speechless and deaf. The father's plea highlighted the distressing effects of the possession, while the absence of Jesus added to the pathos of the situation. The encounter sparked a debate between the Scribes and Jesus' disciples, with the Scribes refusing to answer and remaining hostile and cowardly. This incident serves as a reminder of Satan's various means of causing harm and the necessity of heartfelt prayer in such wretched circumstances.",
+        "wordCount": 93,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.695639956719397,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+        "commentatorTierSimilarities": [
+            34.17,
+            37.99,
+            27.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Unto thee\u2014i. e. intended to do so, not being aware of His absence.",
+            "From Luke, ver. 38, we learn that this was his only son.",
+            "Dumb, i.e. causing deafness and dumbness, and fits of epilepsy; see Luke xi. 14."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Master, I have brought unto thee my son\" - The father's plea to Jesus, presenting his son.",
+            "a spirit whose operation had the effect of rendering his victim speechless, and deaf also\" - The spirit's impact on the boy, silencing him and making him unable to hear.",
+            "he is lunatic\" - The father's description of his son's condition, indicating the distressing and disruptive effects of the possession."
+        ],
+        "John Calvin": [
+            "Let us learn from this how many ways Satan has of injuring us, were it not that he is restrained by the hand of God.",
+            "We are worse than stupid, if a condition so wretched does not arouse us to prayer.",
+            "We must attend also to the circumstance of the time. [...] If Satan was permitted to exert his power, to such an extent, on a person of that tender age, what reason have not we to fear, who are continually exposing ourselves by our crimes to deadly strokes."
+        ],
+        "Philip Schaff": [
+            "The hostility to our Lord was always cowardly!",
+            "He actually brought his son, expecting to find Christ, to thee, not knowing of His absence.",
+            "A spirit causing the boy to be speechless; not that the demon was a silent one."
+        ],
+        "Archibald T. Robertson": [
+            "I brought unto thee my son (\u03b7\u03bd\u03b5\u03b3\u03ba\u03b1 \u03c4\u03bf\u03bd \u03c5\u03b9\u03bf\u03bd \u03bc\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c2 \u03c3\u03b5).\" ",
+            "The father stepped out and gave the explanation of the excited dispute in direct and simple pathos."
+        ],
+        "John Gill": [
+            "The occasion of this debate between the Scribes, and thy disciples, is as follows.\" ",
+            "The case of his son was, he had a 'dumb spirit'.\" ",
+            "This disease did not arise from natural causes, but from a diabolical possession."
+        ],
+        "John Wesley": [
+            "The scribes gave no answer to our Lord's question.",
+            "They did not care to repeat what they had said to his disciples.",
+            "A spirit that takes his speech from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The distressed father presented his son to Jesus, describing him as lunatic and afflicted with a spirit that rendered him speechless and deaf. The father's plea and the absence of Jesus created a pathos-filled moment, as the father sought help for his son's condition caused by the silent and debilitating spirit. The encounter sparked a debated between the Scribes and the disciples, but the Scribes failed to provide an answer or repeat their previous words, highlighting their hostility as well as cowardice. This incident reveals the varied ways that Satan aims to harm us if not for God's restraining hand. It also serves as a reminder for us to be stirred to prayer by such wretched circumstances.",
+            "wordCount": 121,
+            "quoteTokenProportion": 32.1,
+            "qualityScore": 1.6234646186445492,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                31.3,
+                37.96,
+                30.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The father approached Jesus, bringing his son who was afflicted by a spirit that caused silence and deafness. The father's desperate plea revealed the distressing impact of the possession. This encounter led to a heated debate between the Scribes and Jesus' disciples. The Scribes, showing hostility and cowardice, remained silent in response to Jesus' question. The incident serves as a reminder of the various ways Satan seeks to harm us and highlights the importance of fervent prayer in the face of such wretched conditions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.6245739237609902,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                32.31,
+                38.21,
+                29.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The father approached Jesus, presenting his son who was described as lunatic due to a spirit that caused him to be speechless and deaf. The father's plea highlighted the distressing effects of the possession, while the absence of Jesus added to the pathos of the situation. The encounter sparked a debate between the Scribes and Jesus' disciples, with the Scribes refusing to answer and remaining hostile and cowardly. This incident serves as a reminder of Satan's various means of causing harm and the necessity of heartfelt prayer in such wretched circumstances.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.695639956719397,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.72,
+            "commentatorTierSimilarities": [
+                34.17,
+                37.99,
+                27.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The father came to Jesus, seeking help for his speechless and deaf son, who was plagued by a spirit. The distressed plea and the absence of Jesus added to the pathos of the situation, while also revealing the diverse ways Satan can inflict harm. The encounter between the Scribes and Jesus' disciples led to a hostile and silent response from the Scribes, exposing their cowardice. This incident serves as a reminder of the need for earnest prayer in the face of such wretched conditions caused by demonic powers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.6075880307153807,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.79,
+            "commentatorTierSimilarities": [
+                32.07,
+                38.09,
+                29.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A father approached Jesus, presenting his speechless and deaf son who was plagued by a spirit. The distressing plea and Jesus' absence intensified the pathos, illuminating the various ways Satan can cause harm. The encounter resulted in a debate between the Scribes and Jesus' disciples, with the Scribes choosing silence, displaying hostility and cowardice. This incident offers a reminder to seek prayer fervently in the midst of such wretched circumstances influenced by demonic forces.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.5941632325977284,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                31.6,
+                39.83,
+                28.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

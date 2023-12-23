@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:20:12",
+    "verseRef": "Mark 1:24",
+    "bestBHT": {
+        "bht": "The demon, aware of its temporary power and suspecting Jesus as the one who would destroy the works of the devil, exclaimed in fear and recognition, Thou and we have nothing in common, we want not Thee; what wouldst Thou with us? Even the demons recognized Jesus, calling Him a Nazarene in contempt. This acknowledgement of Jesus by the demons contrasts with the failure of the religious leaders to recognize Him. The demon's cry revealed their fear of Jesus' power and their belief that He was the Holy One of God, a testimony that resonated throughout.",
+        "wordCount": 97,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.76886853087717,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+        "commentatorTierSimilarities": [
+            38.21,
+            27.67,
+            34.13
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thou and we have nothing in common we want not Thee; what wouldst Thou with us?",
+            "Jesus, Nazarene!\" an epithet originally given to express contempt. ",
+            "Conscious, too, that their power was but permitted and temporary, and perceiving in Him, perhaps, the woman's Seed that was to bruise the head and destroy the works of the devil, they regard His approach to them on this occasion as a signal to let go their grasp of this miserable victim."
+        ],
+        "Marvin Vincent": [
+            "Us",
+            "The Holy One of God"
+        ],
+        "Philip Schaff": [
+            "What have we in common; comp. Matthew 8:29.",
+            "The destruction referred to includes banishment to torment (comp. Matthew 8:29), and also the destruction of the empire of Satan in the world, signified and begun in such expulsions as these.",
+            "An acknowledgment of His Messiahship, but not necessarily of His Divinity."
+        ],
+        "Archibald T. Robertson": [
+            "The recognition of Jesus by the demons may surprise us since the rabbis (the ecclesiastics) failed to do so.",
+            "The demon feared that Jesus was come to destroy him and the man in his power.",
+            "The demon cried out aloud so that all heard the strange testimony to Jesus."
+        ],
+        "John Gill": [
+            "'What have we to do with thee?'\" - They had nothing to do with Christ, as a Savior; they had no interest in him, nor in his redemption, but he had something to do with them, to show his power over them, and to deliver men out of their hands.",
+            "'Art thou come to destroy us?'\" - Not to annihilate them, but either to turn them out of the bodies of men, which to them was a sort of destruction of them, or to shut them up in the prison of hell, and inflict that full punishment on them, which is in reserve for them.",
+            "'I know thee who thou art, the Holy One of God.'\" - The devil knew from his wonderful incarnation, by the voice from heaven at his baptism, from the conquest over him in the wilderness, and by the miracles he had already wrought, that Jesus is the Holy One of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The demon, aware of its temporary power and suspecting Jesus as the one who would destroy the works of the devil, exclaimed in fear and recognition, Thou and we have nothing in common, we want not Thee; what wouldst Thou with us? Even the demons recognized Jesus, calling Him a Nazarene in contempt. This acknowledgement of Jesus by the demons contrasts with the failure of the religious leaders to recognize Him. The demon's cry revealed their fear of Jesus' power and their belief that He was the Holy One of God, a testimony that resonated throughout.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.76886853087717,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                38.21,
+                27.67,
+                34.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The demon, conscious of its temporary power, cried out in fear and recognition, Thou and we have nothing in common; what wouldst Thou with us? even referring to Jesus as a Nazarene, originally an expression of contempt. This acknowledgment of Jesus by the demons contrasts sharply with the failure of the religious leaders to do so. The demon's cry revealed their fear of Jesus' power and their belief that He was the Holy One of God, a remarkable testimony.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.5299386544846576,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.21,
+            "commentatorTierSimilarities": [
+                40.42,
+                29.96,
+                29.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The demon, conscious that their power was temporary, questioned Jesus, saying, Thou and we have nothing in common; what wouldst Thou with us? Their recognition of Jesus contrasted with the failure of the religious leaders to acknowledge Him. The demon's cry revealed their fear of Jesus' power and their belief that He was the Holy One of God. This testimony echoed throughout, as the demon cried out so all could hear the strange acknowledgment of Jesus.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.7348407399899783,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+            "commentatorTierSimilarities": [
+                38.84,
+                27.09,
+                34.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The demon, aware of their temporary power and perceiving in Jesus the woman's Seed who would destroy the works of the devil, cried out, Thou and we have nothing in common; what wouldst Thou with us? Even though the religious leaders failed to recognize Him, the demons acknowledged Jesus, calling Him a Nazarene in contempt. Their cry demonstrated their fear of Jesus' destructive power and their belief that He was the Holy One of God, serving as a profound testimony to all who heard.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6212360394766057,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "commentatorTierSimilarities": [
+                36.88,
+                27.15,
+                35.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The demon, perceiving Jesus as the one to destroy the works of the devil, recognized Him by exclaiming, Thou and we have nothing in common; what wouldst Thou with us? This acknowledgment by the demons contrasted with the failure of the religious leaders. The cry of the demon reflected their fear of Jesus' power and affirmed their belief that He was the Holy One of God, serving as a profound testimony to all who heard it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.7393603288999837,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.18,
+            "commentatorTierSimilarities": [
+                37.38,
+                28.26,
+                34.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:26:51",
+    "verseRef": "Mark 11:17",
+    "bestBHT": {
+        "bht": "Jesus exercises his Messianic authority by boldly denouncing the abuse and corruption in the temple, which he describes as a den of robbers. This phrase, taken from passages in Isaiah and Jeremiah, emphasizes the severity of the situation and highlights Jesus' unwavering commitment to addressing political and financial abuses that invade the realms of morals and religion. Despite objections, Jesus fearlessly confronts these issues, demonstrating the independent accuracy of the Gospel and the righteousness of his actions.",
+        "wordCount": 77,
+        "quoteTokenProportion": 26.32,
+        "qualityScore": 1.821093149018857,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+        "commentatorTierSimilarities": [
+            36.94,
+            39.06,
+            24.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] for all the nations, omitted in Matthew and Luke, but contained in the prophecy:\u2014mentioned by St. Mark as writing for Gentile Christians: but this may be doubted."
+        ],
+        "Marvin Vincent": [
+            "Of all nations. Which rendering implies, shall be called by all nations. But render with Rev., a house of prayer for all the nations (pasin toiv eqnesin).",
+            "Thieves [\u03bb\u03b7\u03c3\u03c4\u03c9\u03bd] . Rev., correctly, robbers. See on Matthew 21:13; Matthew 26:55; John 10:1, John 10:8. From lhiv or leia, booty. In classical usage mostly of cattle.",
+            "A den would be appropriate to a band of robbers, not to thieves. Thus the traveler to Jericho, in Christ 's parable (Luke 10:30), fell among robbers, not thieves."
+        ],
+        "Philip Schaff": [
+            "The stress cannot be laid upon it, since Matthew and Luke omit it. It shows the independence and accuracy of this Evangelist.",
+            "Part of the original prophecy (Isaiah 56:7) and of the quotation also.",
+            "It shows the independence and accuracy of this Evangelist."
+        ],
+        "Archibald T. Robertson": [
+            "For all the nations...(\u03c0\u03b1\u03c3\u03b9\u03bd \u03c4\u03bf\u03b9\u03c2 \u03b5\u03b8\u03bd\u03b5\u03c3\u03b9\u03bd). Mark alone has this phrase from Isaiah 56:7; Jeremiah 7:11.",
+            "Jesus assumes and exercises Messianic authority and dares to smite this political and financial abuse.",
+            "Some people deny the right of the preacher to denounce such abuses in business and politics even when they invade the realm of morals and religion. But Jesus did not hesitate."
+        ],
+        "John Gill": [
+            "My house shall be called of all nations, the house of prayer?\" (Isaiah 56:7)",
+            "But ye have made it a den of thieves.\" ",
+            "For no other, in our Lord's esteem, were the buyers and sellers of sheep, oxen, and doves, and the money changers, and the priests that encouraged them, and had a profit out of them."
+        ],
+        "John Wesley": [
+            "Isaiah 56:7; Jeremiah 7:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in his authoritative and bold manner, condemns the abuse and corruption going on in the temple. He refers to the temple as a den of thieves rather than merely a place where thieves gather, highlighting the severity of the situation. This phrase is taken from the prophecies in Isaiah 56:7 and Jeremiah 7:11. Jesus is exercising his Messianic authority by confronting these political and financial abuses that intrude upon the realms of morality and religion. Despite objections, Jesus does not hesitate in denouncing these abuses, exemplifying his unwavering commitment to justice.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.677333045654536,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                36.32,
+                32.52,
+                31.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus boldly condemns the exploitation and corruption occurring in the temple, referring to it as a den of thieves rather than merely a gathering place for thieves. This phrase, taken from Isaiah 56:7 and Jeremiah 7:11, emphasizes the severity of the situation and Jesus' Messianic authority in addressing the political and financial abuses taking place. Despite opposition, Jesus fearlessly denounces these abuses, demonstrating his unwavering commitment to justice in both the moral and religious realms.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.6639674716084254,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                41.29,
+                30.3,
+                28.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus exercises his Messianic authority by boldly denouncing the abuse and corruption in the temple, which he describes as a den of robbers. This phrase, taken from passages in Isaiah and Jeremiah, emphasizes the severity of the situation and highlights Jesus' unwavering commitment to addressing political and financial abuses that invade the realms of morals and religion. Despite objections, Jesus fearlessly confronts these issues, demonstrating the independent accuracy of the Gospel and the righteousness of his actions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.821093149018857,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                36.94,
+                39.06,
+                24.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus fearlessly denounces the abuse in the temple, referring to it as a den of robbers. This phrase, found in the prophecies of Isaiah and Jeremiah, emphasizes the severity of the situation and Jesus' Messianic authority in addressing the political and financial corruption that infiltrates the moral and religious realms. Despite objections, Jesus boldly confronts these issues, exemplifying the independent accuracy of the Gospel and his unwavering commitment to justice.",
+            "wordCount": 70,
+            "quoteTokenProportion": 24.0,
+            "qualityScore": 1.7890768257984173,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+            "commentatorTierSimilarities": [
+                36.74,
+                37.33,
+                25.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus boldly confronts the abuse and corruption in the temple, calling it a den of robbers. This description, taken from both Isaiah and Jeremiah, emphasizes the severity of the situation and demonstrates Jesus' Messianic authority. He fearlessly addresses the political and financial abuses that invade the realms of morals and religion. Despite objections, Jesus does not hesitate to denounce these injustices, showcasing the independent accuracy of the Gospel and his unwavering commitment to righteousness.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.690691192286374,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.56,
+            "commentatorTierSimilarities": [
+                36.34,
+                39.27,
+                24.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

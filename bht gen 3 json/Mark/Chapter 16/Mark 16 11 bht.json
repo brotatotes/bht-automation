@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:30:20",
+    "verseRef": "Mark 16:11",
+    "bestBHT": {
+        "bht": "Upon hearing that Jesus had been seen alive by Mary Magdalene, the disciples disbelieved the report, as they had not expected his resurrection and required clear evidence to believe. This disbelief is emphasized through the unique word used for seen in Mark's Gospel and the rare verb for disbelieved found in the New Testament. The disciples' initial disbelief serves as proof that their testimonies of the resurrection were genuine and not fabricated, demonstrating their commitment to spreading the truth despite the risk to their own lives.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.27805347953511,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.09,
+        "commentatorTierSimilarities": [
+            35.5,
+            38.72,
+            25.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "had been seen of (by) her is a construction only found here in N.T.",
+            "the word here used for 'seen' (which occurs again ver. 14) is not used by Mark.",
+            "believed not (disbelieved) is only used in ver. 16 and Luke xxiv. 11, 41, throughout the Gospels."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And they, when they had heard that he was alive, and had been seen of her, believed not\u2014This, which is once and again repeated of them all, is most important in its bearing on their subsequent testimony to His resurrection at the risk of life itself."
+        ],
+        "Albert Barnes": [
+            "Believed not - This is proof that they did not expect his resurrection; proof that they were not easily deceived, and that nothing but the clearest evidence could undeceive them."
+        ],
+        "John Calvin": [
+            "I am convinced that all of them in common conveyed the message in obedience to the commands of Christ.",
+            "If the women had related anything of which they had not formerly heard, there would have been some reason for not immediately believing them in a matter which was incredible.",
+            "They not only refuse the light of truth, but reject it as an idle fancy."
+        ],
+        "Philip Schaff": [
+            "Had been seen of her. Another expression peculiar to this section. But 'new facts, new words.'\" ",
+            "Disbelieved. A different form from 'believed not' (Mark 16:12). Comp. Luke 24:11.\" ",
+            "Their disbelief has been overruled for good; it furnishes abundant proof that they did not invent the story of the resurrection."
+        ],
+        "Archibald T. Robertson": [
+            "Disbelieved (\u03b7\u03c0\u03b9\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd). This verb is common in the ancient Greek, but rare in the N.T.",
+            "Luke 24:11 uses this verb (\u03b7\u03c0\u03b9\u03c3\u03c4\u03bf\u03c5\u03bd) of the disbelief of the report of Mary Magdalene and the other women.",
+            "The verb \u03b5\u03b8\u03b5\u03b1\u03b8\u03b7 (from \u03b8\u03b5\u03b1\u03c9\u03bc\u03b1) occurs only here and in verse Mark 16:14 in Mark."
+        ],
+        "John Gill": [
+            "When they heard the report of Mary Magdalene, that Christ was raised from the dead, and was certainly alive...",
+            "they believed not; the words of Mary, and the other women, for they seemed as idle tales to them...",
+            "forgetting the words of their Lord, that he should rise again the third day, and which had been so often repeated to them; and all this through stupidity of mind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon hearing that Jesus had been seen alive by Mary Magdalene, the disciples, in a construction only found in Mark, disbelieved the report. This disbelief, as emphasized repeatedly, is significant because it highlights their subsequent testimonies to His resurrection, risking their own lives. The verb used for seen is unique to Mark and uncommon in the New Testament, while the verb for disbelieved is rare in the NT and Luke also uses it to describe the disbelief of Mary Magdalene and the other women. This disbelief serves as proof that they did not expect Jesus' resurrection and that they required clear evidence to believe. It also provides assurance that their testimony of the resurrection was not fabricated.",
+            "wordCount": 117,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.174728198257619,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.65,
+            "commentatorTierSimilarities": [
+                35.58,
+                38.42,
+                25.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon hearing that Jesus had been seen alive by Mary Magdalene, the disciples disbelieved the report, as they had not expected his resurrection and required clear evidence to believe. This disbelief is emphasized through the unique word used for seen in Mark's Gospel and the rare verb for disbelieved found in the New Testament. The disciples' initial disbelief serves as proof that their testimonies of the resurrection were genuine and not fabricated, demonstrating their commitment to spreading the truth despite the risk to their own lives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.27805347953511,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.09,
+            "commentatorTierSimilarities": [
+                35.5,
+                38.72,
+                25.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' disbelief in the resurrection of Jesus, despite hearing the report of Mary Magdalene, indicates that they did not anticipate His rising and needed compelling proof. The use of unique terms for seen and disbelieved reinforces their skepticism, distinguishing this account in Mark's Gospel. Nonetheless, their disbelief ultimately strengthens the authenticity of their testimonies. It highlights their unwavering commitment to sharing the truth of the resurrection, even at the risk of their lives, affirming the realness of their experiences and dispelling any notion of fabrication.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.9139286942508946,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                31.78,
+                40.83,
+                27.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon hearing that Jesus had been seen alive by Mary Magdalene, the disciples, disbelieving the report, showed their lack of expectation for His resurrection. This disbelief, highlighted by the unique usage of seen and disbelieved in Mark's Gospel, serves as evidence that they required substantial proof to believe. However, this skepticism ultimately strengthens the genuineness of their testimonies, as it demonstrates their unwavering commitment to spreading the truth of the resurrection, even in the face of potential danger.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.0682152466695083,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.11,
+            "commentatorTierSimilarities": [
+                31.06,
+                43.14,
+                25.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' disbelief in the resurrection of Jesus, despite hearing the report of Mary Magdalene, indicates their lack of expectation and the need for compelling evidence. The unique terms used for seen and disbelieved underscore their skepticism, distinguishing this account in Mark's Gospel. Nonetheless, their initial doubt reinforces the authenticity of their testimonies, as it reveals their unwavering commitment to truth and willingness to risk their lives. This disbelief, in obedience to Christ's commands, highlights their genuine experiences and dispels any notion of fabrication",
+            "wordCount": 86,
+            "quoteTokenProportion": 20.0,
+            "qualityScore": 1.8612218065525976,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                31.69,
+                38.45,
+                29.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

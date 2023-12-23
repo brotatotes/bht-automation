@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:27:27",
+    "verseRef": "Mark 13:22",
+    "bestBHT": {
+        "bht": "There will arise false Christs and false prophets who will perform signs and wonders, with the purpose of leading people astray. The danger is real, for their deception is powerful enough to potentially deceive even the elect. Yet, the power and grace of God safeguards the elect and prevents them from falling into these deceitful traps.",
+        "wordCount": 56,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.4224015515708381,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.64,
+        "commentatorTierSimilarities": [
+            34.94,
+            0.0,
+            65.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Shall shew [\u03b4\u03c9\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd] . Lit., shall give. A few editors, however, read poihsousin, shall make or do."
+        ],
+        "Archibald T. Robertson": [
+            "That they may lead astray (\u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03b1\u03c0\u03bf\u03c0\u03bb\u03b1\u03bd\u03b1\u03b9\u03bd). With a view to leading off (\u03c0\u03c1\u03bf\u03c2 and the infinitive). Matthew 24:24 has \u03c9\u03c3\u03c4\u03b5 \u03b1\u03c0\u03bf\u03c0\u03bb\u03b1\u03c3\u03b8\u03b1, so as to lead off. "
+        ],
+        "John Gill": [
+            "For false Christs and false prophets shall rise... and shall show signs and wonders... to seduce, if it were possible, even the elect.\" ",
+            "...there was apparent danger of it, were it not for the power and grace of God.",
+            "...though such was the force of their deception, that there was apparent danger of it..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "False Christs and false prophets will come, performing signs and wonders, in order to deceive, if possible, even the elect. They will give the appearance of leading people astray. The danger is real, for their deception is so powerful. But the power and grace of God protect the elect from falling into their deceptive traps.",
+            "wordCount": 55,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.2683220568174998,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.51,
+            "commentatorTierSimilarities": [
+                31.82,
+                0.0,
+                68.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "False Christs and false prophets will come, giving the appearance of leading people astray through signs and wonders. Their deception is so potent that even the elect are at risk of being seduced. However, the power and grace of God protect the elect from being deceived by these imposters.",
+            "wordCount": 49,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.3308056232750534,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.59,
+            "commentatorTierSimilarities": [
+                29.18,
+                0.0,
+                70.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "There will arise false Christs and false prophets who will perform signs and wonders, with the purpose of leading people astray. The danger is real, for their deception is powerful enough to potentially deceive even the elect. Yet, the power and grace of God safeguards the elect and prevents them from falling into these deceitful traps.",
+            "wordCount": 56,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.4224015515708381,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.64,
+            "commentatorTierSimilarities": [
+                34.94,
+                0.0,
+                65.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "False Christs and false prophets will come and perform signs and wonders, aiming to lead people astray. Their deception is so potent that even the elect are at risk of being seduced. Nevertheless, the power and grace of God protect the elect from falling into their deceptive traps.",
+            "wordCount": 48,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.4024290747281825,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.97,
+            "commentatorTierSimilarities": [
+                33.54,
+                0.0,
+                66.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "False Christs and false prophets will arise, showing signs and wonders, looking to lead people astray. Their deception is powerful, posing a real danger to the elect. However, the power and grace of God prevent the elect from being deceived by these imposters, safeguarding them from falling into their traps.",
+            "wordCount": 50,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 1.2871853243023086,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.14,
+            "commentatorTierSimilarities": [
+                32.08,
+                0.0,
+                67.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

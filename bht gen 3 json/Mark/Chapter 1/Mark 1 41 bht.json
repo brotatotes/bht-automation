@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:20:00",
+    "verseRef": "Mark 1:41",
+    "bestBHT": {
+        "bht": "Moved with compassion, Jesus, filled with deep empathy, was stirred by the pitiful state of the man. The term moved with compassion used by Mark suggests a firsthand account, possibly from Peter. Despite the prohibition against touching lepers, Jesus fearlessly reached out and touched him, disregarding ceremonial laws. With undeniable authority, Jesus spoke, I will; be clean, instantly bringing healing to the man afflicted with leprosy. This compassionate act showcased Jesus' role as a merciful high priest, demonstrating His willingness to restore the unclean to wholeness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.36,
+        "qualityScore": 1.4499217069122365,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.55,
+        "commentatorTierSimilarities": [
+            33.34,
+            25.13,
+            41.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Moved with compassion",
+            "Only Mark."
+        ],
+        "Philip Schaff": [
+            "Mark 1:41. Moved with compassion. Peculiar to Mark, suggesting the report of an eye witness (Peter).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Being moved with compassion (\u03c3\u03c0\u03bb\u03b1\u03b3\u03c7\u03bd\u03b9\u03c3\u03b8\u03b5\u03b9\u03c2). Only in Mark. First aorist passive participle. "
+        ],
+        "John Gill": [
+            "And Jesus, moved with compassion,.... At the sad and deplorable case the poor man was in, being a merciful high priest",
+            "put forth his hand and touched him; though the leprosy was spread all over him, and there was no place clean, and touching him was forbidden by the law",
+            "and saith unto him, I will be thou clean;"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, filled with compassion, was deeply moved by the pitiful condition of the man. The word used by Mark to describe Jesus' compassion suggests a firsthand account, possibly from Peter. Although touching a leper was forbidden by the law, Jesus outstretched his hand to touch him, displaying his divine power over sickness and defilement. With authority, Jesus declared, I will; be clean, instantly healing the man from his leprosy. This moment exemplifies Jesus' role as a merciful high priest, showing his willingness to reach out and cleanse the unclean.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.3597596644319851,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.56,
+            "commentatorTierSimilarities": [
+                27.75,
+                25.11,
+                47.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, moved with compassion, was filled with deep empathy for the afflicted man. This particular word used by Mark to describe Jesus' compassion indicates that the account may have originated directly from Peter, an eyewitness. Despite the prohibition against touching lepers, Jesus reached out and touched him, defying the law to demonstrate His authority over sickness and impurity. With unwavering authority, Jesus uttered, I will; be clean, instantly curing the man of his leprosy. This act exemplified Jesus' role as a merciful high priest, displaying His willingness to extend cleansing to the unclean.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.3556407082044792,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.42,
+            "commentatorTierSimilarities": [
+                28.91,
+                26.05,
+                45.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moved with compassion, Jesus, filled with deep empathy, was stirred by the pitiful state of the man. The term moved with compassion used by Mark suggests a firsthand account, possibly from Peter. Despite the prohibition against touching lepers, Jesus fearlessly reached out and touched him, disregarding ceremonial laws. With undeniable authority, Jesus spoke, I will; be clean, instantly bringing healing to the man afflicted with leprosy. This compassionate act showcased Jesus' role as a merciful high priest, demonstrating His willingness to restore the unclean to wholeness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.4499217069122365,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.55,
+            "commentatorTierSimilarities": [
+                33.34,
+                25.13,
+                41.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, moved with deep compassion, was stirred by the pitiable condition of the afflicted man. Mark's use of moved with compassion suggests a firsthand account, possibly from Peter. Despite the prohibition against touching lepers, Jesus boldly extended His hand to touch him, disregarding the legal restrictions. With divine authority, Jesus declared, I will; be clean, instantly healing the leper. This compassionate act exemplified His role as a merciful high priest, displaying His willingness to cleanse the unclean and restore them to wholeness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.3994570941111448,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.87,
+            "commentatorTierSimilarities": [
+                32.11,
+                26.33,
+                41.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Filled with compassion, Jesus was profoundly moved by the desperate condition of the afflicted man. The term moved with compassion exclusively used by Mark suggests this firsthand account came from Peter. Despite the prohibition against contact with lepers, Jesus boldly reached out and touched him, defying the legal restrictions. With boundless authority, Jesus declared, I will; be clean, instantly restoring the man from his leprosy. This powerful act showcased Jesus' role as a merciful high priest, revealing His willingness to purify the defiled and grant them healing.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.355831188819039,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.42,
+            "commentatorTierSimilarities": [
+                30.66,
+                25.51,
+                43.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

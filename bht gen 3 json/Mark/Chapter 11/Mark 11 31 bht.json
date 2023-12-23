@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:26:41",
+    "verseRef": "Mark 11:31",
+    "bestBHT": {
+        "bht": "In their secret conclave, the religious leaders know exactly what Jesus will say in reply to their question. If they acknowledge John's divine commission, Jesus will ask them why they didn't believe him. Yet, if they deny John's commission, Jesus will turn the laugh on them by pointing out that they had no valid reason to question him since John testified of him. They find themselves in a delicate situation, knowing that a false step will result in their own embarrassment.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.4268379256783466,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.79,
+        "commentatorTierSimilarities": [
+            51.66,
+            0.0,
+            48.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "The alternatives are sharply presented in their secret conclave.",
+            "They know only too well what Jesus will say in reply.",
+            "A false step now will turn the laugh on them."
+        ],
+        "John Gill": [
+            "If we shall say from heaven, he will say, why then did ye not believe him?\" ",
+            "Should they say that John had a divine commission for what he said and did, they were aware that Christ would reply, why did not ye give credit to him?\" ",
+            "And had you done so, seeing he testified of me, you would have had no occasion to have put the above question."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the secret conclave, the religious leaders are faced with two possible outcomes of their question for Jesus. They know that if they acknowledge John's divine commission, Jesus will ask them why they did not believe him. On the other hand, if they deny John's divine commission, Jesus will turn the laugh on them by pointing out that they had no reason to question him in the first place, because John had testified of him. The religious leaders find themselves in a precarious situation, fully aware that a false step now will bring embarrassment upon them.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.3758613895966791,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.09,
+            "commentatorTierSimilarities": [
+                50.06,
+                0.0,
+                49.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their secret conclave, the religious leaders are well aware of the sharply presented alternatives before them when they question Jesus. They know exactly what Jesus will say in reply, whether they acknowledge John's divine commission or deny it. If they admit that John had a divine commission, Jesus would question why they didn't believe him. Conversely, if they deny John's commission, Jesus will point out that they had no reason to question him since John testified of him. Thus, they find themselves in a precarious situation, aware that a false step will bring laughter upon them.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.424393379712325,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+            "commentatorTierSimilarities": [
+                47.26,
+                0.0,
+                52.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their secret conclave, the religious leaders know exactly what Jesus will say in reply to their question. If they acknowledge John's divine commission, Jesus will ask them why they didn't believe him. Yet, if they deny John's commission, Jesus will turn the laugh on them by pointing out that they had no valid reason to question him since John testified of him. They find themselves in a delicate situation, knowing that a false step will result in their own embarrassment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.4268379256783466,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.79,
+            "commentatorTierSimilarities": [
+                51.66,
+                0.0,
+                48.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In their secret conclave, the religious leaders are fully aware of the alternatives before them. They anticipate Jesus' reply to their question, knowing that if they affirm John's divine commission, Jesus will challenge them on why they didn't believe him. Conversely, if they deny John's commission, Jesus will expose their lack of credibility in questioning him, as John had testified of him. Faced with this dilemma, they tread cautiously, as one wrong move would bring laughter and mockery upon them.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2756748021643542,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.76,
+            "commentatorTierSimilarities": [
+                53.85,
+                0.0,
+                46.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their secret conclave, the religious leaders know the outcome of their question to Jesus. If they acknowledge John's divine commission, Jesus will ask why they didn't believe him. Alternatively, if they deny John's commission, Jesus will reveal their lack of reason to question him, as John testified of him. They find themselves in a precarious situation, aware that making a false move will result in their own humiliation. The religious leaders are fully conscious of the consequences awaiting them as they deliberate on their next steps.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.2391992478705738,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.55,
+            "commentatorTierSimilarities": [
+                55.75,
+                0.0,
+                44.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

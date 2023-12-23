@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:24:24",
+    "verseRef": "Mark 7:19",
+    "bestBHT": {
+        "bht": "Jesus teaches his disciples that defilement arises from within, rather than external actions. He emphasizes the insignificance of Levitical uncleanness, such as eating with unwashed hands, compared to moral uncleanness. By asserting that what God has cleansed should not be treated as defiled, Jesus challenges his disciples to gain a new and genuine spiritual insight. He highlights the purifying process that occurs in the body, leaving behind what is pure. Ultimately, Jesus directs his disciples to focus on inner purity rather than external rituals.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.6029109353563094,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.64,
+        "commentatorTierSimilarities": [
+            38.94,
+            41.08,
+            19.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sewer is that which, by the removal of the part carried off, purifies the meat.\" ",
+            "The portion available for nourishment being in its passage converted into chyle.",
+            "The remainder being cast out."
+        ],
+        "Marvin Vincent": [
+            "Christ was enforcing the truth that all defilement comes from within.",
+            "Levitical uncleanness, such as eating with unwashed hands, is of small importance compared with moral uncleanness.",
+            "[Peter] probably realized for the first time the import of the Lord's words on this occasion."
+        ],
+        "Philip Schaff": [
+            "The clause may be joined with \u2018draught;\u2019 if then refers to the purifying process, which takes place in the impure matter coming from the body.",
+            "God having thus provided for a purifying (physical) process, how absurd to make the spiritual condition depend on food, especially upon certain ceremonies connected with it.",
+            "This he saith; making all meats clean."
+        ],
+        "Archibald T. Robertson": [
+            "Christ asserts that Levitical uncleanness, such as eating with unwashed hands, is of small importance compared with moral uncleanness.",
+            "What God cleansed do not thou treat as defiled.",
+            "They were making little use of their intelligence in trying to comprehend the efforts of Jesus to give them a new and true spiritual insight."
+        ],
+        "John Gill": [
+            "Because it entereth not into his heart... food and drink do not go into it.\" ",
+            "and goeth into the draught; 'the private house', as the Jews call it, without going into the heart at all.",
+            "purging all meats; that which it leaves behind, is pure and nourishing; and whatever is gross and impure, is carried with it into the draught, so that nothing remains in the man that is defiling."
+        ],
+        "John Wesley": [
+            "Purging all meats \u2014 Probably the seat was usually placed over running water."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus is highlighting the truth that all defilement comes from within, emphasizing that moral uncleanness is of far greater importance than Levitical uncleanness, such as eating with unwashed hands. By saying that what God has cleansed should not be treated as defiled, Jesus is instructing his disciples to have a new and true spiritual insight. The clause that says food and drink do not go into the heart, but into the draught, further emphasizes that whatever is gross and impure is carried out of the body. In essence, Jesus is challenging his disciples to focus on inner purity rather than external rituals.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.739763026671425,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                35.54,
+                38.54,
+                25.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus teaches his disciples that true defilement comes from within and not from external rituals such as eating with unwashed hands. Levitical uncleanness is of little importance compared to moral uncleanness. By asserting that what God has cleansed should not be treated as defiled, Jesus challenges his disciples to cultivate a new and genuine spiritual insight. He emphasizes that it's what is in a person's heart that truly matters, rather than outward actions or traditions.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5134404580639231,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.66,
+            "commentatorTierSimilarities": [
+                43.73,
+                36.44,
+                19.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus emphasizes that defilement comes from within, teaching his disciples about the insignificance of Levitical uncleanness like eating with unwashed hands, compared to moral uncleanness. He encourages them to gain a new and meaningful spiritual insight. The cleansing process of the body removes impurities, leaving behind what is pure and nourishing. Jesus reminds his disciples that what God has cleansed should not be considered defiled. In essence, he emphasizes the importance of inner purity over external rituals and traditions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.5321788055367627,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                38.6,
+                40.2,
+                21.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus teaches his disciples that defilement arises from within, rather than external actions. He emphasizes the insignificance of Levitical uncleanness, such as eating with unwashed hands, compared to moral uncleanness. By asserting that what God has cleansed should not be treated as defiled, Jesus challenges his disciples to gain a new and genuine spiritual insight. He highlights the purifying process that occurs in the body, leaving behind what is pure. Ultimately, Jesus directs his disciples to focus on inner purity rather than external rituals.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6029109353563094,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.64,
+            "commentatorTierSimilarities": [
+                38.94,
+                41.08,
+                19.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus stresses the source of defilement, teaching that it originates from within. He underscores the triviality of Levitical uncleanness like eating with unwashed hands, compared to moral uncleanness. By affirming that what God has cleansed should not be deemed defiled, Jesus urges his disciples to embrace a fresh spiritual insight. The purifying process of the body purges impurities, leaving behind what is nourishing and pure. Jesus calls his disciples to prioritize inner purity, rather than fixating on external rituals or traditions.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.5521374730187385,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                38.09,
+                39.46,
+                22.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-22-2023 23:23:40",
+    "verseRef": "Mark 7:5",
+    "bestBHT": {
+        "bht": "Some leaders questioned Jesus about his disciples not following the tradition of the elders, specifically about not washing their hands before eating. The word common used here refers to unwashed hands. It is important to note that the word of God should be the ultimate guide and not the traditions of men. Walking according to the rule of God's word brings true peace.",
+        "wordCount": 64,
+        "quoteTokenProportion": 36.96,
+        "qualityScore": 0.8100585665821621,
+        "qualityScoreNormalizedComparedToV2BHTs": 18.28,
+        "commentatorTierSimilarities": [
+            0.0,
+            12.31,
+            87.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 7:5. See on Matthew 15:2.",
+            "\t"
+        ],
+        "John Gill": [
+            "The word 'common' is used for that which is unclean or unholy, Acts 10:14, and so signifies unwashen hands, as we read, and render it.\" ",
+            "Instead of 'the tradition of the elders', the Ethiopic version reads, 'the constitution of the Scribes and Pharisees'; and which are sometimes by the Jews called, 'the words', or 'sayings of the Scribes.",
+            "Not the traditions of men, but the word of God, should be the rule of walk and conversation; and as many as walk according to this rule, peace will be upon them."
+        ],
+        "John Wesley": [
+            "The tradition of the elders \u2014 The rule delivered down from your forefathers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some religious leaders questioned Jesus about his disciples not following the tradition of the elders, specifically about not washing their hands before eating. The word common used in this verse refers to unwashed hands. The tradition of the elders was seen as a rule passed down from previous generations. However, it's important to note that the word of God should be the ultimate guide and not the traditions of men. True peace is found in walking according to the rule of God's word.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 0.9022004933407268,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.34,
+            "commentatorTierSimilarities": [
+                0.0,
+                13.58,
+                86.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some leaders questioned Jesus about his disciples not following the tradition of the elders, specifically about not washing their hands before eating. The word common used here refers to unwashed hands. It is important to note that the word of God should be the ultimate guide and not the traditions of men. Walking according to the rule of God's word brings true peace.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 0.8100585665821621,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.28,
+            "commentatorTierSimilarities": [
+                0.0,
+                12.31,
+                87.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders confronted Jesus about his disciples not adhering to the tradition of the elders, particularly regarding their failure to wash their hands before eating. The term common in this context denotes unwashed hands. However, it is crucial to recognize that the word of God should take precedence over human traditions. True peace can only be found by living according to the guidance of God's word.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 0.6894754906068319,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                13.97,
+                86.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tradition of the elders was questioned by some religious leaders when they noticed that Jesus' disciples did not observe the custom of washing their hands before eating. The term common in this verse refers to unwashed hands. However, it is important to prioritize the word of God over human traditions. Walking according to the rule of God's word brings about true peace and should be the guiding principle in our lives.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 0.8542420468798836,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                16.12,
+                83.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tradition of the elders came under scrutiny when religious leaders confronted Jesus about his disciples neglecting the practice of washing their hands before eating. Common in this context refers to unwashed hands. It is essential to recognize that the word of God should supersede human traditions. Those who abide by God's word will find peace in their lives, as living in accordance with His teachings should be the ultimate guide for our actions and conduct.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 0.7487147198301447,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.24,
+            "commentatorTierSimilarities": [
+                0.0,
+                15.17,
+                84.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

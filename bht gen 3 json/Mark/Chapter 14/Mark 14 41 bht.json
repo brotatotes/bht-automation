@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:29:06",
+    "verseRef": "Mark 14:41",
+    "bestBHT": {
+        "bht": "It is enough, Jesus said to his disciples, not referring to their watching for Him, but rather indicating that He no longer needed it as the hour had come. This use of the phrase in an impersonal sense is rare in the New Testament and has puzzled many expositors. Nonetheless, it was evident that this was not the time to expose the faults of friends, for the enemy was approaching. The approaching betrayal by one of His disciples would mark the moment when the Son of Man would be handed to sinners, both Jews and Gentiles.",
+        "wordCount": 96,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 1.2907267437944432,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.26,
+        "commentatorTierSimilarities": [
+            31.92,
+            25.4,
+            42.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is enough: viz, your watching with Me.\" ",
+            "The Lord had no need of it any more, now that the hour had come.",
+            "Not, as some, it is enough of sleep: this as Meyer observes, is refuted by the sleep on now."
+        ],
+        "Marvin Vincent": [
+            "It is enough. Peculiar to Mark.",
+            "In this impersonal sense the word occurs nowhere else in the New Testament.",
+            "Expositors are utterly at sea as to its meaning."
+        ],
+        "Philip Schaff": [
+            "It is enough. That is, enough of your watching with me, or seeming to watch with me. Even could you watch, it would no longer avail, the hour is come.\" (Quote #1)",
+            "A number of other interpretations have been given, but they are open to serious objections.\" (Quote #2)",
+            "The single word in the original is therefore well rendered; 'it is enough.'\" (Quote #3)"
+        ],
+        "Archibald T. Robertson": [
+            "It is enough (\u03b1\u03c0\u03b5\u03c7\u03b5). Alone in Mark. This impersonal use is rare and has puzzled expositors no little.",
+            "This is no time for a lengthened exposure of the faults of friends; the enemy is at the gate.",
+            "See further on Matthew 26:45 for the approach of Judas."
+        ],
+        "John Gill": [
+            "And he cometh the third time... and saith unto them, sleep on now, and take your rest; it is enough.\" ",
+            "The hour is come, behold the son of man is betrayed into the hands of sinners.",
+            "Both Jews and Gentiles, by one of his own disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is enough, Jesus said to his disciples. He didn't mean that their watching with Him had been sufficient, but rather that He no longer needed their watchfulness as the hour had come. The use of this phrase in an impersonal sense is rare in the New Testament and has puzzled many expositors. Some have suggested that Jesus meant, Enough of your watching with me, or seeming to watch with me. Regardless, it was clear that this was not the time for the disciples' faults to be exposed, as the enemy was approaching. (Matthew 26:45 offers more insight into the approach of Judas.) Now the hour had arrived, and the Son of Man was about to be betrayed into the hands of sinners, both Jews and Gentiles, even by one of His own disciples.",
+            "wordCount": 134,
+            "quoteTokenProportion": 48.86,
+            "qualityScore": 1.281732385734937,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.96,
+            "commentatorTierSimilarities": [
+                30.19,
+                26.6,
+                43.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is enough, Jesus said to his disciples, not referring to their watching for Him, but rather indicating that He no longer needed it as the hour had come. This use of the phrase in an impersonal sense is rare in the New Testament and has puzzled many expositors. Nonetheless, it was evident that this was not the time to expose the faults of friends, for the enemy was approaching. The approaching betrayal by one of His disciples would mark the moment when the Son of Man would be handed to sinners, both Jews and Gentiles.",
+            "wordCount": 96,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.2907267437944432,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.26,
+            "commentatorTierSimilarities": [
+                31.92,
+                25.4,
+                42.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is enough, Jesus declared to His disciples, indicating that their watching with Him was sufficient for the time being. The phrase has an impersonal usage unique to Mark's Gospel, leaving interpreters unsure of its exact meaning. However, it is clear that this was not the moment for lengthy exposure of the faults of friends, as the enemy was at hand. The approaching betrayal of Jesus by Judas is also referenced, marking the arrival of the hour when the Son of Man would be delivered into the hands of sinners, both Jews and Gentiles.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.2384871713831407,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.52,
+            "commentatorTierSimilarities": [
+                32.17,
+                25.45,
+                42.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "It is enough, Jesus said to His disciples, expressing that their watchful presence was sufficient. This unique phrase, found only in Mark, has puzzled interpreters, but it is clear that Jesus was signaling that the time had come and He no longer needed their vigilance. He emphasized that this was not the moment to expose the faults of His friends, as the enemy was approaching. The impending betrayal by one of His own disciples was imminent, leading to the Son of Man being handed over to sinners, including both Jews and Gentiles.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.1447271578785103,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.41,
+            "commentatorTierSimilarities": [
+                28.5,
+                21.23,
+                50.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is enough, Jesus reassured his disciples, indicating that their watchful presence had been adequate. Though the precise meaning of this unique phrase remains elusive, it is evident that Jesus was conveying that the hour had arrived and their continued watchfulness was no longer necessary. This was not the time for exposing the faults of his friends, as the enemy was drawing near. The approaching betrayal by one of his own disciples would mark the Son of Man's surrender into the hands of sinners, encompassing both Jews and Gentiles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.1905824610798037,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.93,
+            "commentatorTierSimilarities": [
+                29.67,
+                20.15,
+                50.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

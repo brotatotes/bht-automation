@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:26:00",
+    "verseRef": "Mark 10:19",
+    "bestBHT": {
+        "bht": "St. Mark underscores the importance of the commandments of the second table, specifically mentioning do not defraud. St. Matthew summarizes these commandments, excluding do not defraud, as it is similar to do not steal. Jesus likely focuses on the commandments of the second table because they are more familiar to the person He is addressing. This highlights the idea that eternal life cannot be achieved solely through the works of the law.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.9736696138948302,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+        "commentatorTierSimilarities": [
+            41.33,
+            25.7,
+            32.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Mark here takes exactly the commandments of the second table,\u2014defraud not standing for the tenth.",
+            "St. Matthew adds their summary ( 'thou shalt love thy neighbour as thyself'), omitting (with St. Luke) 'defraud not' perhaps on account of 'do not steal' having gone before."
+        ],
+        "Philip Schaff": [
+            "Mark 10:19. Do not defraud. This probably answers to the tenth commandment Matthew gives the sum of the second table of the law. See on Matthew 19:18-19.",
+            "\t"
+        ],
+        "John Gill": [
+            "A certain Jew objects against our Lord Jesus, that he did not mention the other precepts in Exodus 20:3, by which he seems to mean the precepts of the first table, which respect the unity of God, and his worship, which are of greater moment.",
+            "Christ instances in the commandments of the second table, as being more known, and better understood by this young man; 'thou knowest the commandments.'",
+            "And if men fail short in keeping the lesser commands, it can hardly be thought they should be perfect in the observance of greater ones; and so consequently, and which is our Lord's drift, eternal life is never to be obtained by the works of the law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:19, St. Mark focuses on the commandments of the second table, specifically addressing the commandment do not defraud. St. Matthew summarizes the second table with love your neighbor as yourself, possibly omitting do not defraud since it is similar to do not steal. This emphasizes the importance of treating others with fairness and honesty. While some may argue that Jesus did not mention the commandments of the first table, it is likely that He cites the commandments of the second table because they are more familiar to the young man He is speaking to. This reinforces the idea that even if one fails to fully keep the lesser commands, it would be challenging to uphold the greater ones and attain eternal life solely through the works of the law.",
+            "wordCount": 130,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 1.813759853126741,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                36.96,
+                26.54,
+                36.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, St. Mark focuses on the commandments of the second table, specifically addressing the commandment do not defraud. St. Matthew provides a summary of the second table, omitting do not defraud since it is similar to do not steal. This highlights the importance of treating others with fairness and honesty. Jesus likely cites the commandments of the second table because they are more familiar to the young man He is speaking to. It becomes clear that attaining eternal life through the works of the law alone is unlikely.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6771379573834544,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                39.27,
+                27.13,
+                33.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Mark emphasizes on the commandments of the second table, particularly highlighting do not defraud. St. Matthew summarizes the second table by leaving out do not defraud, as it is similar to do not steal. This underscores the significance of treating others fairly and honestly. Jesus may have focused on the commandments of the second table because they are more familiar to the young man He is addressing. It becomes apparent that attaining eternal life solely through the works of the law is unlikely.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6681825659899143,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                40.11,
+                26.3,
+                33.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "St. Mark specifically addresses the commandment do not defraud, which is a part of the commandments of the second table. St. Matthew summarizes the second table and omits do not defraud, possibly because it is similar to do not steal. This highlights the importance of treating others with fairness and honesty. Jesus singles out the commandments of the second table because they are more familiar to the person He is speaking to. Ultimately, it is clear that the works of the law alone cannot lead to eternal life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.715928108526819,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                39.21,
+                28.17,
+                32.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "St. Mark underscores the importance of the commandments of the second table, specifically mentioning do not defraud. St. Matthew summarizes these commandments, excluding do not defraud, as it is similar to do not steal. Jesus likely focuses on the commandments of the second table because they are more familiar to the person He is addressing. This highlights the idea that eternal life cannot be achieved solely through the works of the law.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.9736696138948302,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                41.33,
+                25.7,
+                32.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

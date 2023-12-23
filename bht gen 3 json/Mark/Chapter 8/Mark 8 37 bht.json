@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:24:30",
+    "verseRef": "Mark 8:37",
+    "bestBHT": {
+        "bht": "The value of the soul is emphasized, as it declares that the riches of the world are insufficient to redeem it. Material wealth holds no power to save the soul from judgment or destruction. Even if someone possessed everything the world had to offer, it would not be enough to rescue their soul. This points to the immeasurable worth of the soul, which cannot be traded or replaced.",
+        "wordCount": 68,
+        "quoteTokenProportion": 51.06,
+        "qualityScore": 1.7322084159604332,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "all the riches of the world, and the whole world itself, are not an equivalent to it, or a sufficient ransom for it\" ",
+            "riches will not profit in the day of wrath, or deliver a soul from damnation, and ruin\" ",
+            "wherefore, if he had the whole world, he could not redeem his soul with it; and he has nothing else to give for it, and therefore it is past all recovery"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the true value of one's soul, declaring that all the wealth and possessions in the world cannot compare to its worth. No amount of riches can save a soul from judgment or bring redemption. Even if someone possessed all the treasures of the world, it would not be enough to ransom their soul. This emphasizes the irreplaceable and priceless nature of the soul, which cannot be redeemed by anything else.",
+            "wordCount": 74,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.8358373536621813,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The true worth of a soul is emphasized in this passage, as it states that no amount of worldly riches can compare to its value. One's soul cannot be redeemed by material possessions, as wealth holds no power to save it from damnation or ruin. Even if someone were to possess all the riches in the world, it would still be insufficient to ransom their soul. This highlights the priceless and irreplaceable nature of the soul, which cannot be redeemed by any other means.",
+            "wordCount": 85,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.8400696505658845,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse highlights the value of the soul, stating that all the riches in the world cannot compare to it. No amount of wealth can save a soul from judgment or bring redemption. Even if one possessed all the world's treasures, it would not suffice to ransom their soul. This emphasizes the priceless nature of the soul, beyond any material possessions. It cannot be redeemed by anything else, making its value immeasurable.",
+            "wordCount": 73,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 1.602171432488968,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The value of the soul is emphasized, as it declares that the riches of the world are insufficient to redeem it. Material wealth holds no power to save the soul from judgment or destruction. Even if someone possessed everything the world had to offer, it would not be enough to rescue their soul. This points to the immeasurable worth of the soul, which cannot be traded or replaced.",
+            "wordCount": 68,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.7322084159604332,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse reminds us that no amount of riches or material possessions can compare to the value of a soul. Even if one were to possess all the wealth in the world, it would not be enough to save or ransom their soul. In the day of judgment, riches will hold no profit and cannot deliver one from damnation or ruin. Thus, there is no other recourse or means of redemption for the soul beyond what has already been given.",
+            "wordCount": 80,
+            "quoteTokenProportion": 60.0,
+            "qualityScore": 1.9759894674834366,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:26:18",
+    "verseRef": "Mark 10:49",
+    "bestBHT": {
+        "bht": "Jesus's compassionate and vivid gesture of standing still and calling out to the blind man demonstrates His willingness to directly interact with those in need, going against societal norms. This interaction serves as a reproof to those who discourage others from seeking Christ themselves. The effectual calling of God brings comfort and reassurance to the chosen ones, affirming their beloved status and assuring them of blessings according to His grace. It encourages believers to live in faith, knowing they are justified and destined for eternal glory.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.29,
+        "qualityScore": 1.0898511221713842,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.58,
+        "commentatorTierSimilarities": [
+            16.73,
+            35.27,
+            48.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Call ye him. Peculiar in this form to Mark, and omitted altogether by Matthew. This was a \u2018reproof to the reprovers.\u2019\" ",
+            "The words now addressed to the blind man are full of sympathy: Be of good cheer, rise, he calleth thee.",
+            "The forbidding and the cheering address represent the priestly spirit which would keep men from applying directly to Christ, and the true spirit of the Gospel messengers."
+        ],
+        "Archibald T. Robertson": [
+            "Stood still (\u03c3\u03c4\u03b1\u03c2)...So Matthew 20:32. Luke 18:40 has \u03c3\u03c4\u03b1\u03b8\u03b5\u03b9\u03c2...\" (Commentary)",
+            "He calleth thee (\u03c6\u03c9\u03bd\u03b5 \u03c3\u03b5). That was joyful news to Bartimaeus.\" (Commentary)",
+            "Vivid dramatic presents here in Mark.\" (Commentary)"
+        ],
+        "John Gill": [
+            "The effectual calling is a ground of comfort: called ones may take comfort from it, and be assured that they are loved by God.",
+            "Called ones may expect all good things from him; seeing they are called according to grace, given them in him before the world began.",
+            "They may live in the faith of eternal glory and happiness; since they that are called, are justified, and shall be glorified."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:49, we see a vivid and dramatic scene unfold as Jesus stood still and called out to Bartimaeus, bringing joyful news to the blind man. This action of Jesus demonstrates His compassion and willingness to directly interact with those in need, even though it may go against societal norms. This interaction serves as a reproof to those who would discourage others from seeking Christ themselves. The calling of the blind man not only brought him physical healing, but also exemplifies the effectual calling by God, providing comfort and assurance to those who are loved and called according to His grace. It reminds us that through Christ, we can expect all good things, live in the faith of eternal glory, and be justified and glorified.",
+            "wordCount": 125,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.2104742286231636,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.59,
+            "commentatorTierSimilarities": [
+                21.9,
+                34.71,
+                43.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus's stopping and calling out to Bartimaeus showcases the vivid and dramatic nature of the event. This gesture not only brought joy to the blind man but also acted as a reproof to those who discouraged others from approaching Christ directly. Such a calling is a source of comfort, assuring those who are loved by God and called according to His grace that they can expect all good things, live by faith, and be justified and glorified.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.3028491933884956,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
+            "commentatorTierSimilarities": [
+                24.38,
+                34.68,
+                40.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's compassionate act of standing still and calling out to Bartimaeus exemplifies the vivid and dramatic nature of the encounter. This direct interaction challenges the societal norms and serves as a reproof to those who discourage others from seeking Jesus themselves. Moreover, being called by God brings comfort and assurance to the chosen, assuring that they are loved and can expect blessings according to His grace. It reminds believers to live in faith, knowing that they are justified and will ultimately be glorified.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.067946236266811,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.85,
+            "commentatorTierSimilarities": [
+                19.71,
+                28.16,
+                52.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's compassionate and vivid action of standing still and calling out to Bartimaeus in Mark 10:49 not only brought joy to the blind man but also challenged societal norms. This direct interaction served as a reproof to those who discouraged others from seeking Christ themselves. The effectual calling of God brings comfort and reassurance to the chosen ones, affirming their beloved status and assuring them of blessings according to His grace. It encourages believers to live in faith, knowing they are justified and destined for eternal glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.1557129815407987,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.77,
+            "commentatorTierSimilarities": [
+                20.04,
+                35.0,
+                44.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's compassionate and vivid gesture of standing still and calling out to the blind man demonstrates His willingness to directly interact with those in need, going against societal norms. This interaction serves as a reproof to those who discourage others from seeking Christ themselves. The effectual calling of God brings comfort and reassurance to the chosen ones, affirming their beloved status and assuring them of blessings according to His grace. It encourages believers to live in faith, knowing they are justified and destined for eternal glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.0898511221713842,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.58,
+            "commentatorTierSimilarities": [
+                16.73,
+                35.27,
+                48.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:30:16",
+    "verseRef": "Mark 15:25",
+    "bestBHT": {
+        "bht": "The chronological differences in the accounts of Jesus' crucifixion have raised questions, but they do not undermine the authenticity of the Gospels. Mark's account, generally accepted, provides a timeline that allows for the trial and crucifixion to unfold. The third hour, corresponding to nine in the morning, aligns with the trial before Pilate. Death on the cross likely took several hours, from nine in the morning until early evening. Discrepancies between the Gospels show there was no collusion and indicate the honesty of those who held them sacred.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.650027743247624,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+        "commentatorTierSimilarities": [
+            38.02,
+            30.26,
+            31.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The difficulty is of a kind in no way affecting the authenticity of the narrative, nor the truthfulness of each Evangelist; but requires some solution to the furnishing of which we are not competent.",
+            "It is preposterous to imagine that two such accounts as these of the proceedings of so eventful a day should differ by three whole hours in their apportionment of its occurrences.",
+            "Meanwhile the chronology of our text,\u2014as being carried on through the day, and as allowing time both for the trial, and the events of the crucifixion,\u2014is that which will I believe be generally concurred in."
+        ],
+        "Albert Barnes": [
+            "(1) \"The Jews divided both the night and the day into four equal parts of three hours each.",
+            "(2) \"Mark professes to give the time accurately; John does not.",
+            "(3) \"One thing is conclusively proved by this - that the evangelists did not 'conspire together' to impose on the world."
+        ],
+        "John Calvin": [
+            "The whole time, from sunrise to the second part of the day, they called the first hour.",
+            "The second part, which lasted till noon, was called by them the third hour.",
+            "Christ did not hang on the cross longer than three hours."
+        ],
+        "Philip Schaff": [
+            "As death on the cross set in slowly, the period could not have been shorter than from nine o\u2019clock to early evening, before sunset.",
+            "An error in the text of John is possible, owing to the resemblance between the Greek signs for 3 and 6, but this explanation is not supported by any considerable evidence.",
+            "An apparent discrepancy of such long standing is a proof (1) that there was no collusion between the two writers, if the difference originally existed; (2) that those who have held these writings as sacred have been very honest, or such an apparent disagreement would have disappeared long ago."
+        ],
+        "Archibald T. Robertson": [
+            "The third hour (\u03c9\u03c1\u03b1 \u03c4\u03c1\u03b9\u03c4\u03b7). This is Jewish time and would be nine A.M. The trial before Pilate was the sixth hour Roman time (John 19:14), six A.M. "
+        ],
+        "John Gill": [
+            "The time of the daily sacrifice of the morning, at which the priests ought to have been; and the time when the sanhedrim usually began to sit.",
+            "This being an extraordinary case, and they in a hurry to put Jesus to death, had been sitting up all night.",
+            "This was about nine o'clock in the morning, and takes in the time between that and twelve at noon."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The timing of the events leading up to the crucifixion of Jesus has been a subject of debate, as the accounts in the Gospels seem to differ in their allocation of time. However, it is important to note that these discrepancies do not undermine the authenticity and truthfulness of the narratives. The chronology presented in Mark's Gospel, which allows for the trial and crucifixion events to unfold, is generally accepted. According to Jewish time, the third hour corresponds to nine in the morning, which aligns with the trial before Pilate. This also indicates that death on the cross would have taken several hours, from nine in the morning until early evening. While some propose errors in John's text, such explanations lack substantial evidence. The evident disagreement between the Gospel accounts not only refutes collusion but also attests to the honesty of those who held these writings as sacred.",
+            "wordCount": 150,
+            "quoteTokenProportion": 40.59,
+            "qualityScore": 1.5728355480682474,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.64,
+            "commentatorTierSimilarities": [
+                39.99,
+                33.7,
+                26.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chronological differences in the accounts of Jesus' crucifixion have raised questions, but they do not undermine the authenticity of the Gospels. Mark's account, generally accepted, provides a timeline that allows for the trial and crucifixion to unfold. The third hour, corresponding to nine in the morning, aligns with the trial before Pilate. Death on the cross likely took several hours, from nine in the morning until early evening. Discrepancies between the Gospels show there was no collusion and indicate the honesty of those who held them sacred.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.650027743247624,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "commentatorTierSimilarities": [
+                38.02,
+                30.26,
+                31.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The timing of Jesus' crucifixion has raised questions due to the variations in the Gospel accounts. However, these discrepancies do not invalidate the authenticity of the narratives. Scholars generally agree with Mark's chronology, which accommodates both the trial and crucifixion events. The third hour, equivalent to nine in the morning, aligns with the trial before Pilate. Death on the cross likely lasted several hours, from morning until early evening. The divergent accounts indicate there was no collusion and attest to the integrity of those who revered these writings.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5279684840935113,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                39.26,
+                30.08,
+                30.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The timing of Jesus' crucifixion remains a topic of discussion, as the Gospel accounts appear to differ in their chronology. Nevertheless, these discrepancies do not undermine the credibility of the narratives. Scholars generally accept Mark's chronology, which allows for the trial and crucifixion to take place. According to Jewish time, the third hour corresponds to nine in the morning, aligning with the trial before Pilate. Death on the cross likely lasted for several hours, from morning until early evening. The disagreements between the Gospel accounts demonstrate the absence of collusion and affirm the honesty of those who regarded these writings as sacred.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.6042508997187435,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.68,
+            "commentatorTierSimilarities": [
+                39.42,
+                30.63,
+                29.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The timing of Jesus' crucifixion has led to debates due to variations in the Gospel accounts. Nonetheless, these differences do not undermine the narratives' authenticity. Mark's chronology is generally accepted, allowing for the trial and crucifixion events to transpire. According to Jewish time, the third hour corresponds to nine in the morning, aligning with Pilate's trial. Death on the cross likely lasted several hours, from morning to early evening. The divergences between the Gospel writers imply no collusion and highlight the integrity of those who regarded these texts as sacred.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4851130934156247,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+            "commentatorTierSimilarities": [
+                39.8,
+                31.64,
+                28.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

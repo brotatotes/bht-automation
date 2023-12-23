@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:28:43",
+    "verseRef": "Mark 14:57",
+    "bestBHT": {
+        "bht": "In this account, certain individuals, two in Matthew's record, came forward to give false testimony against Jesus. They were motivated by the need to present duplicate testimony, yet they initially faced difficulties in achieving their goal. The phrase bare false witness emphasizes their deliberate intention to deceive, highlighting the significance of their actions within the context.",
+        "wordCount": 57,
+        "quoteTokenProportion": 31.11,
+        "qualityScore": 1.5296473599971108,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.2,
+        "commentatorTierSimilarities": [
+            36.25,
+            19.0,
+            44.75
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "57.] certain,\u2014two: see Matthew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And there arose certain, and bare false witness against him.\" ",
+            "Matthew is more precise here: 'At the last came two false witnesses.'",
+            "They felt it necessary to secure a duplicate testimony to something, but they were long of succeeding."
+        ],
+        "Philip Schaff": [
+            "Mark 14:57. Certain. Matthew, more definitely, \u2018two.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Bare false witness (\u03b5\u03c8\u03b5\u03c5\u03b4\u03bf\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u03c5\u03bd). In desperation some attempted once more (conative imperfect). "
+        ],
+        "John Gill": [
+            "And there arose certain,.... Two false witnesses",
+            "witnesses were obliged to stand, whilst they gave in their testimony",
+            "witnesses ought 'to stand', whilst they bear witness; as it is said"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:57, it is mentioned that certain people came forward to bear false witness against Jesus. Matthew's account is more specific, stating that two false witnesses appeared. These individuals were desperate, attempting to secure duplicate testimony, but they were not successful right away. The term used to describe their actions, bare false witness, implies their deliberate intention to deceive.",
+            "wordCount": 60,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.805630423781602,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.38,
+            "commentatorTierSimilarities": [
+                36.55,
+                17.64,
+                45.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Certain people, referred to as certain and more specifically as two in Matthew's account, emerged as false witnesses against Jesus in Mark 14:57. Their aim was to deceive by giving false testimony, as indicated by the phrase bare false witness. Despite their desperate attempts, they initially struggled to secure duplicate testimony. The term bare false witness conveys their deliberate intention to deceive and highlights the significance of their actions in the context of the verse.",
+            "wordCount": 75,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 1.7153497427933275,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.38,
+            "commentatorTierSimilarities": [
+                37.18,
+                16.74,
+                46.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, certain individuals, two in Matthew's record, came forward to give false testimony against Jesus. They were motivated by the need to present duplicate testimony, yet they initially faced difficulties in achieving their goal. The phrase bare false witness emphasizes their deliberate intention to deceive, highlighting the significance of their actions within the context.",
+            "wordCount": 57,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.5296473599971108,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.2,
+            "commentatorTierSimilarities": [
+                36.25,
+                19.0,
+                44.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Certain individuals, known as certain and specifically mentioned as two in Matthew, rose up to bear false witness against Jesus. These individuals were desperate in their attempts to secure duplicate testimony, but faced initial setbacks. The term bare false witness indicates their deliberate intention to deceive, underscoring the significance of their actions in the given verse.",
+            "wordCount": 56,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 1.6655156910563256,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                39.31,
+                17.83,
+                42.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, certain individuals, referred to as certain and more specifically as two in Matthew, emerged to bear false witness against Jesus. These individuals were driven by the necessity to secure duplicate testimony, although they faced difficulties initially. The term bare false witness denotes their deliberate intention to deceive, signifying the importance of their actions within the passage.",
+            "wordCount": 59,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.5205207436061539,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.9,
+            "commentatorTierSimilarities": [
+                35.8,
+                17.65,
+                46.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

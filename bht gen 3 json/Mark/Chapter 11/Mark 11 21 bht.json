@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:26:48",
+    "verseRef": "Mark 11:21",
+    "bestBHT": {
+        "bht": "This miracle, a curse from Jesus, reveals a higher purpose at play. The withered fig tree's demise is directly linked to the curse pronounced upon it, emphasizing the just and judicial nature of Jesus' act. Peter's recollection and astonishment with the withered tree seems to indicate a possible blame towards Jesus. This remarkable demonstration of authority and power leaves witnesses in awe of Christ's overwhelming might and remarkable dominion.",
+        "wordCount": 72,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 1.5196950232683015,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+        "commentatorTierSimilarities": [
+            31.93,
+            27.01,
+            41.06
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "a miracle, not of blessing, as all His other miracles, but of cursing\u2014could not have been wrought but with some higher reference",
+            "so connecting the two things as to show that he traced the death of the tree entirely to the curse of his Lord",
+            "he traced the death of the tree entirely to the curse of his Lord"
+        ],
+        "Philip Schaff": [
+            "This minute detail, implying an interval, confirms the view that Mark gives the more exact account.",
+            "The language of Peter; yet our Lord\u2019s act was a curse, i.e., a judicial word and act of condemnation.",
+            "That it was judicial and just, not passionate and wanton, is evident not only from the character of our Lord, but from the lessons He connects with it."
+        ],
+        "Archibald T. Robertson": [
+            "Peter calling to remembrance...being reminded.\" ",
+            "For his quick memory...\" ",
+            "It almost sounds as if Peter blamed Jesus for what he had done to the fig tree."
+        ],
+        "John Gill": [
+            "Not so much the tree, and its spreading leaves, and the greatness of it, and the flourishing condition it was in, the other day, as the imprecation of Christ upon it.",
+            "Which he observed, as matter of astonishment, and as an instance of Christ's surprising power and authority.",
+            "Behold, the fig tree which thou cursedst is withered away."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse narrates a miracle performed by Jesus, but it is a miracle of cursing rather than blessing, showing it had a higher purpose. Jesus connects the death of the fig tree entirely to his curse upon it, confirming the judicial and just nature of his act. When Peter recalls the withered tree, it seems as though he may be attributing blame to Jesus. This miracle serves as a powerful demonstration of Christ's authority and power, leaving those who witnessed it astonished.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5323709969194965,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                36.76,
+                24.48,
+                38.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This miracle, a curse rather than a blessing, showcases a higher purpose at work. Jesus explicitly links the death of the fig tree to his own curse upon it, emphasizing the judicial and just nature of his act. Peter, reminded of the withered tree, almost appears to blame Jesus for the outcome. This astonishing display of authority and power serves as a vivid testament to Christ's incredible might and leaves a lasting impression.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5114706792513952,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.6,
+            "commentatorTierSimilarities": [
+                35.71,
+                27.39,
+                36.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This miracle, not a blessing but a cursing, demonstrates a higher reference at work. The death of the fig tree is directly attributed to the curse of Jesus, highlighting the judicial nature of his words. Peter recalls with astonishment the withered tree, suggesting a possible blame towards Jesus. This event serves as a remarkable display of Christ's authority and power, leaving spectators in awe of his tremendous might and impressive dominion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.452777060393479,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                36.93,
+                25.83,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This miracle, a curse from Jesus, reveals a higher purpose at play. The withered fig tree's demise is directly linked to the curse pronounced upon it, emphasizing the just and judicial nature of Jesus' act. Peter's recollection and astonishment with the withered tree seems to indicate a possible blame towards Jesus. This remarkable demonstration of authority and power leaves witnesses in awe of Christ's overwhelming might and remarkable dominion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.5196950232683015,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                31.93,
+                27.01,
+                41.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This miracle of cursing, rather than blessing, serves a higher purpose according to the commentators. The death of the fig tree is attributed entirely to Jesus' curse, reflecting the judicial nature of his words. Peter's recollection and astonishment at the withered tree may suggest a sense of blame towards Jesus. This powerful display of Christ's authority and power leaves witnesses in awe, as it showcases his remarkable might and dominion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.50808353424738,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+            "commentatorTierSimilarities": [
+                33.25,
+                28.59,
+                38.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

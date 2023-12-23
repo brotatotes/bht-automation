@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-22-2023 23:28:19",
+    "verseRef": "Mark 13:11",
+    "bestBHT": {
+        "bht": "In the face of upcoming challenges, Jesus encourages his followers to not be apprehensive or worried about what to say, for the Holy Spirit will guide and inspire them. This guidance extends beyond preaching to the defences they will have to make before councils and governors. Although they can rely on the Holy Spirit, there is still a need for diligent preparation and study. By casting their cares on the Father and trusting in His promised aid, they can face these trials with confidence, knowing that the Spirit's power will be displayed through them.",
+        "wordCount": 95,
+        "quoteTokenProportion": 49.28,
+        "qualityScore": 1.7532089977719694,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.64,
+        "commentatorTierSimilarities": [
+            26.31,
+            34.93,
+            38.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11.] St. Mark has vv. 10, 11 peculiar to himself. St. Luke (vv. 14, 15) has something very like them\u2014St. Matthew nothing: but they occur Matt. x. 19, where see note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not anxious beforehand.",
+            "Be not filled with apprehension, in the",
+            "   prospect of such public appearances for Me.",
+            "It is not you that speak, but the Holy Ghost."
+        ],
+        "Albert Barnes": [
+            "You know not what the accusations will be, and God will furnish you with a reply that shall be adapted to the occasion.",
+            "This is a full promise that they should be inspired, and consequently their defenses recorded in the Acts of the Apostles are the words of the Holy Spirit.",
+            "They were unfit of themselves to make the important statements of religion which were requisite, but God gave them power, and they spake with a wisdom, fearlessness, pungency, and ability which no other men have ever manifested."
+        ],
+        "Marvin Vincent": [
+            "While you are going along in custody to the judgment - seat, do not be worrying about your defences.",
+            "Take no thought beforehand.",
+            "Do not be worrying about your defences."
+        ],
+        "John Calvin": [
+            "Not that he wishes us to fall asleep in indolent security, for nothing is more advantageous than to have such a consciousness of our weakness as produces humility and excites to prayer.",
+            "Christ advises us to cast all our cares into the bosom of our Father, so that, relying on his promised aid, we may pursue our course with cheerfulness.",
+            "Would that all who are called upon to make a confession of their faith would rely on that assurance; for the power and majesty of the Spirit would be displayed in a different manner for overthrowing the ministers of Satan."
+        ],
+        "Philip Schaff": [
+            "Be not anxious beforehand.\" ",
+            "The same thought occurs in Matthew 10:19-20."
+        ],
+        "Archibald T. Robertson": [
+            "Be not anxious beforehand what ye shall speak. Jesus is not here referring to preaching, but to defences made before these councils and governors.",
+            "They are not to be stricken with fright beforehand, but to face fearlessly those in high places who are seeking to overthrow the preaching of the gospel.",
+            "There is no excuse here for the lazy preacher who fails to prepare his sermon out of the mistaken reliance upon the Holy Spirit."
+        ],
+        "John Gill": [
+            "Be not previously anxious, and carefully solicitous, in a distressing way.",
+            "Whatever shall be immediately suggested to your thoughts, be put into your minds, and laid upon your hearts.",
+            "They were only the instruments of the Holy Ghost; they spoke as they were moved by him."
+        ],
+        "John Wesley": [
+            "The Holy Ghost will help you. But do not depend upon any other help For all the nearest ties will be broken."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When faced with the prospect of defending their faith, Jesus instructs his disciples in Mark 13:11 to not be filled with apprehension or worry about what to speak, for it is not they who will speak, but the Holy Spirit. This instruction is not limited to preaching, but also applies to the defences they must make before councils and governors. Jesus reassures them that the Holy Spirit will inspire their responses, providing the right words at the right time. However, this does not excuse laziness in preparation, as the reliance on the Holy Spirit must be coupled with diligent study and readiness. By casting their cares on the Father and relying on His promised aid, the disciples can face these challenges fearlessly, knowing that the power and majesty of the Spirit will be displayed through them.",
+            "wordCount": 135,
+            "quoteTokenProportion": 43.02,
+            "qualityScore": 1.7746609533087905,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.35,
+            "commentatorTierSimilarities": [
+                28.36,
+                35.4,
+                36.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the face of upcoming challenges, Jesus encourages his followers to not be apprehensive or worried about what to say, for the Holy Spirit will guide and inspire them. This guidance extends beyond preaching to the defences they will have to make before councils and governors. Although they can rely on the Holy Spirit, there is still a need for diligent preparation and study. By casting their cares on the Father and trusting in His promised aid, they can face these trials with confidence, knowing that the Spirit's power will be displayed through them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.28,
+            "qualityScore": 1.7532089977719694,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.64,
+            "commentatorTierSimilarities": [
+                26.31,
+                34.93,
+                38.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When facing persecution and the need to defend their faith, Jesus assures his disciples not to be filled with worry and apprehension about what to speak. He reminds them that it is not they who will speak, but the Holy Spirit who will guide and inspire their words. Although this does not excuse laziness or lack of preparation, it points to the reliance on the Spirit's power and wisdom. By casting their cares on the Father and trusting in His aid, they can face their challenges fearlessly, with the assurance that the Spirit's presence will be evident in their defences.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.7907219651704893,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                29.2,
+                34.97,
+                35.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of impending challenges, Jesus advises his disciples to not be filled with anxiety or apprehension about what to say. Instead, he assures them that the Holy Spirit will be the one speaking through them. This instruction is not limited to preaching, but extends to the defences they must make before councils and governors. While the disciples can rely on the Holy Spirit's guidance, they are still called to diligently prepare and not become lazy. By casting their cares on the Father and trusting in His promised aid, they can approach these trials with confidence, knowing that the Spirit's power will be demonstrated through them.",
+            "wordCount": 109,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.819889442628969,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                28.94,
+                34.21,
+                36.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of challenges and the need to defend their faith, Jesus advises his disciples to not be anxious or worried about what to say. Instead, he assures them that it is the Holy Spirit who will speak through them, providing the right words at the right time. This reliance on the Spirit's guidance extends beyond preaching to the defences they must make before councils and governors. While they can trust in the Spirit's help, they must also diligently prepare and not rely solely on this assistance. By casting their cares on the Father and depending on His promised aid, they can face these trials fearlessly, as the Spirit's power will be evident in their defences.",
+            "wordCount": 120,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.7536570066694868,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                27.12,
+                33.66,
+                39.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

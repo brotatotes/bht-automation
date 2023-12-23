@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:27:51",
+    "verseRef": "Mark 14:16",
+    "bestBHT": {
+        "bht": "Jesus, displaying His prescience, instructed His disciples to find a man carrying a pitcher of water, whom they obediently followed to a house. Here, they diligently made the necessary arrangements for the Passover feast, procuring a lamb and gathering all the essential elements for the celebration. This specific fulfillment of Christ's foreknowledge serves as a considerable proof of His divine insight and affirms His divine purpose.",
+        "wordCount": 67,
+        "quoteTokenProportion": 28.0,
+        "qualityScore": 1.777247220076691,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "a man bearing a pitcher of water, whom they followed to the house he went into... a considerable proof of the prescience of Christ.",
+            "they made ready the passover; they bought a lamb... and every thing that was proper for the feast.",
+            "which is a considerable proof of the prescience of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, displaying His prescience, instructed His disciples to find a man carrying a pitcher of water, whom they then followed to a house. There, they made the necessary preparations for the Passover feast, buying a lamb and everything else required. This fulfillment of Christ's foreknowledge is demonstrated in the specific details of their observance.",
+            "wordCount": 55,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7167197967496786,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a remarkable display of His foreknowledge, Jesus guided His disciples to a man carrying a pitcher of water, whom they obediently followed to the designated house. Here, they diligently made the necessary arrangements for the Passover, procuring a lamb and gathering all the essential elements for the feast. This remarkable precision serves as a tangible proof of Jesus' ability to foresee the future and demonstrates the divine nature of His mission.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.5049053810057977,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.38,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, exhibiting His prescience, directed His disciples to follow a man bearing a pitcher of water, which served as a significant indication of His foreknowledge. The disciples faithfully did as instructed, accompanying the man to the house where they made preparations for the Passover feast. This fulfillment of Christ's anticipated knowledge can be considered a remarkable demonstration of His divine insight and confirmation of His divine nature.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.53319035069225,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, displaying His prescience, instructed His disciples to find a man carrying a pitcher of water, whom they obediently followed to a house. Here, they diligently made the necessary arrangements for the Passover feast, procuring a lamb and gathering all the essential elements for the celebration. This specific fulfillment of Christ's foreknowledge serves as a considerable proof of His divine insight and affirms His divine purpose.",
+            "wordCount": 67,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.777247220076691,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.44,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With a remarkable display of His divine foresight, Jesus instructed His disciples to observe a man carrying a pitcher of water and faithfully follow him to a designated house. Once there, they meticulously made all the necessary preparations for the Passover feast, procuring a lamb and gathering the required elements. This remarkable fulfillment of Christ's prescience serves as tangible evidence of His divine knowledge and underscores the significance of His mission.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.4896886851076576,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

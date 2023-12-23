@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:20:44",
+    "verseRef": "Mark 2:12",
+    "bestBHT": {
+        "bht": "The people were amazed and grateful for the miraculous healing they witnessed. It was a paradoxical scene - the man who had been bedridden now carried his own bed, symbolizing the extraordinary power of Jesus. This act not only showed Jesus' authority to forgive sins but also affirmed his claim to be equal with God. The spectators recognized the supernatural nature of the miracle and praised God for granting such power to Jesus. This powerful event left a lasting impression, evoking wonder, gratitude, and fear, as the kingdom of God was visibly revealed.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.23,
+        "qualityScore": 1.5375350984954368,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+        "commentatorTierSimilarities": [
+            33.5,
+            33.32,
+            33.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The bed had borne the man: now the man bore the bed.",
+            "He who could work such a glorious miracle of healing, must indeed 'have power on earth to forgive sins.'",
+            "They marvelled, and glorified God, which had given such power unto men."
+        ],
+        "Philip Schaff": [
+            "Before them all. A hint that the account comes from an eye-witness.",
+            "The impression produced was a very powerful one, and the emotions were of a mixed character: wonder, gratitude, and fear.",
+            "This was the prevalent feeling, a conviction that the kingdom of God was manifesting itself as never before."
+        ],
+        "Archibald T. Robertson": [
+            "He picked up his pallet and walked and went home as Jesus had commanded him to do.",
+            "Jesus had acted with the power of God and claimed equality with God and had made good his claim.",
+            "They all marveled at the paradoxes of that day."
+        ],
+        "John Gill": [
+            "Power going along with the words of Christ, he found himself perfectly well; and at once sprung up from off his bed, and took up his bed, upon his shoulders, with all the ease imaginable.\" ",
+            "They easily perceived it was a preternatural action, and what could never be done by any mere man; they therefore attribute it to God, and give him the glory of it.",
+            "They praised him and his works, and gave thanks to him for this wonderful cure, which was wrought; and that he had given such power to Christ, who they looked upon to be but a man; though they might have concluded from hence that he was God, to perform such mighty works."
+        ],
+        "John Wesley": [
+            "They were all amazed \u2014 Even the scribes themselves for a time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people were filled with astonishment as they witnessed the incredible miracle. It was a paradoxical sight to behold - the man who had once been carried on a bed was now carrying it himself, a powerful testament to the healing power of Jesus. This extraordinary act not only demonstrated Jesus' authority to forgive sins, but also revealed his divine nature and his ability to perform miraculous works. The onlookers recognized the extraordinary nature of the event and gave glory to God for granting such power to Jesus. The impact of this miracle was profound, evoking a range of emotions including wonder, gratitude, and fear, as the kingdom of God was palpably manifesting itself before their eyes.",
+            "wordCount": 116,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.479360289207614,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.53,
+            "commentatorTierSimilarities": [
+                32.22,
+                33.03,
+                34.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were amazed and grateful for the miraculous healing they witnessed. It was a paradoxical scene - the man who had been bedridden now carried his own bed, symbolizing the extraordinary power of Jesus. This act not only showed Jesus' authority to forgive sins but also affirmed his claim to be equal with God. The spectators recognized the supernatural nature of the miracle and praised God for granting such power to Jesus. This powerful event left a lasting impression, evoking wonder, gratitude, and fear, as the kingdom of God was visibly revealed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.5375350984954368,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+            "commentatorTierSimilarities": [
+                33.5,
+                33.32,
+                33.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The extraordinary healing of the paralyzed man left the witnesses in a state of awe and wonder. They acknowledged the remarkable power displayed by Jesus, realizing that only God could perform such miracles. The sight of the man taking up his bed and walking home fulfilled Jesus' claim of having the authority to forgive sins. This extraordinary event evoked mixed emotions of gratitude and fear, as the kingdom of God was manifesting itself like never before. The power and works of Jesus left everyone amazed, including the scribes themselves.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.4928814582126835,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+            "commentatorTierSimilarities": [
+                31.76,
+                30.13,
+                38.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Witnessing the miraculous healing of the paralyzed man, the onlookers were filled with astonishment. The sight of the man rising from his bed, picking it up, and walking home was a paradox that demonstrated the divine power and authority of Jesus. By performing such a remarkable act, Jesus not only proved his ability to forgive sins but also claimed equality with God. The spectators recognized the supernatural nature of the miracle and praised God for bestowing such power upon Jesus, leaving them in awe and wonder.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.486215985679059,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                38.86,
+                26.48,
+                34.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The miraculous healing of the paralyzed man astonished the witnesses, leaving them in awe of Jesus' power. As the man took up his bed and walked home, it was evident that Jesus possessed the authority to forgive sins and work extraordinary wonders. The onlookers acknowledged the divine nature of this act and gave glory to God for granting such power to Jesus. This remarkable event left a lasting impression, evoking a range of emotions and affirming the manifestation of the kingdom of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.4141938093158541,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.36,
+            "commentatorTierSimilarities": [
+                35.97,
+                32.04,
+                31.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:20:20",
+    "verseRef": "Mark 1:14",
+    "bestBHT": {
+        "bht": "Both John and Jesus proclaimed the arrival of the kingdom of God, calling for repentance and faith in the message. This proclamation made a clear distinction among the listeners, eliciting either belief or disbelief. Understanding the significance of the kingdom of God, which is the reign of God among men, helps us appreciate the Gospel message that Jesus preached. He moved to Galilee, following John's footsteps, to reach out to the masses who were moved by John's preaching. The Gospel of the kingdom of God is not about worldly pomp, but about righteousness, peace, and joy.",
+        "wordCount": 98,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.8065351149091855,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+        "commentatorTierSimilarities": [
+            35.92,
+            26.97,
+            37.1
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "delivered up] This seems to have been the usual and well-known term for the imprisonment of John."
+        ],
+        "Albert Barnes": [
+            "He supposed that if he remained in Judea, Herod would also persecute him and attempt to take his life.",
+            "His time of death had not come, and he therefore prudently sought safety in retirement.",
+            "When we can secure them without a sacrifice of principle, we are to do it."
+        ],
+        "John Calvin": [
+            "The kingdom of God is at hand: repent ye, and believe the Gospel.",
+            "He exhorts the Jews to conversion, because the kingdom of God is at hand: that is, because God undertakes to govern his people, which is true and perfect happiness.",
+            "We must observe the designation which Paul gives to the Gospel, the kingdom of God: for hence we learn, that by the preaching of the Gospel the kingdom of God is set up and established among men, and that in no other way does God reign among men."
+        ],
+        "Philip Schaff": [
+            "Jesus came into Galilee... to reach the Galilean masses who had been impressed by the preaching of John.",
+            "Preaching the gospel of God.",
+            "From the latter passage the words: 'of the kingdom' have crept in here."
+        ],
+        "Archibald T. Robertson": [
+            "But Jesus took the same line as John and proclaimed both repentance and the arrival of the kingdom of God.",
+            "Both repent and believe in the gospel. Usually faith in Jesus (or God) is expected as in John 14:1. But this crisis called for faith in the message of Jesus that the Messiah had come.",
+            "Belief or disbelief in the message of Jesus made a sharp cleavage in those who heard him."
+        ],
+        "John Gill": [
+            "Jesus came into Galilee: again, from whence he came to be baptized of John.\" ",
+            "Preaching the Gospel of the kingdom of God: the good news and glad tidings of the kingdom of the Messiah.",
+            "Which lies not in worldly pomp and splendour, in outward observances, in legal rites and ceremonies, but in righteousness, peace, and joy.\" "
+        ],
+        "John Wesley": [
+            "Matthew 4:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Both John and Jesus proclaimed the arrival of the kingdom of God, calling for repentance and faith in the message. This proclamation made a clear distinction among the listeners, eliciting either belief or disbelief. Understanding the significance of the kingdom of God, which is the reign of God among men, helps us appreciate the Gospel message that Jesus preached. He moved to Galilee, following John's footsteps, to reach out to the masses who were moved by John's preaching. The Gospel of the kingdom of God is not about worldly pomp, but about righteousness, peace, and joy.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8065351149091855,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                35.92,
+                26.97,
+                37.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John and Jesus both proclaimed the arrival of the kingdom of God, urging repentance and belief in the Gospel message. This proclamation created a clear division among the listeners, separating those who embraced the message from those who rejected it. The Gospel of the kingdom of God establishes God's reign among humanity, characterized by righteousness, peace, and joy, rather than external rituals or worldly grandeur. Jesus followed in John's footsteps by moving to Galilee to reach the crowds who were impacted by John's preaching.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7433858575883563,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.31,
+            "commentatorTierSimilarities": [
+                38.28,
+                26.26,
+                35.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Both John and Jesus emphasized the coming of the kingdom of God and called for repentance and belief in the Gospel message. This proclamation caused a clear divide among the listeners, as some accepted and others rejected it. The Gospel of the kingdom of God establishes God's reign among humanity, focusing on righteousness, peace, and joy rather than external rituals or worldly grandeur. Following in John's footsteps, Jesus went to Galilee to reach the crowds who were impacted by John's preaching.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.7819920638066788,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                37.39,
+                26.15,
+                36.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John and Jesus both proclaimed the arrival of the kingdom of God and called for repentance and belief in the Gospel message. This proclamation caused a clear division among the listeners, separating those who embraced the message from those who rejected it. The Gospel of the kingdom of God establishes God's reign among humanity, emphasizing righteousness, peace, and joy instead of external rituals or worldly splendor. Jesus followed John's example by going to Galilee to reach the masses influenced by John's preaching.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8036462483322042,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+            "commentatorTierSimilarities": [
+                39.36,
+                26.25,
+                34.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Both John and Jesus proclaimed the kingdom of God and urged people to repent and believe in the Gospel. This proclamation created a sharp division among the listeners, separating those who embraced the message from those who rejected it. The Gospel of the kingdom of God establishes God's reign among humanity, focusing on righteousness, peace, and joy rather than external rituals or worldly grandeur. Jesus followed in John's footsteps by going to Galilee to reach the masses who were moved by John's preaching.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.7491995772979134,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                36.63,
+                26.88,
+                36.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

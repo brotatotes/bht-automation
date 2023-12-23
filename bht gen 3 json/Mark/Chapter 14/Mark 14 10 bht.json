@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:28:16",
+    "verseRef": "Mark 14:10",
+    "bestBHT": {
+        "bht": "Judas, the one among the twelve, struck a deal with the chief priests to betray Jesus for thirty pieces of silver, approximately four to five pounds. He voiced disdain at the amount, exclaiming, A goodly price that I was prized at of them! Judas' hasty actions, going straight to the chief priests after Jesus' defense of a woman, reveal the influence of Satan and his own greed and anger. The specificity of calling Judas the one of the twelve highlights the significance of his role in this betrayal.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.8520361242399863,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+        "commentatorTierSimilarities": [
+            41.83,
+            0.0,
+            58.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "COMPACT OF JUDAS WITH THE CHIEF PRIESTS TO BETRAY HIM. Matt. xxvi. 14\u201316. Luke xxii. 3\u20136."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The thirty pieces of silver were thirty shekels, the fine paid for man- or maid-servant accidentally killed.",
+            "Equal to between four and five pounds sterling.",
+            "A goodly price that I was prized at of them!"
+        ],
+        "Archibald T. Robertson": [
+            "He that was one of the twelve (\u03bf \u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03b4\u03c9\u03b4\u03b5\u03ba\u03b1).",
+            "Note the article here, 'the one of the twelve,' Matthew has only \u03b5\u03b9\u03c2, 'one.'",
+            "Rather he means to call attention to the idea that he was the one of the twelve who did this deed."
+        ],
+        "John Gill": [
+            "And Judas Iscariot, one of the twelve... the principal person that had indignation at the woman... went unto the chief priests...\" ",
+            "as soon as this affair was over, and Christ had defended the woman's conduct to his shame and silence...",
+            "which Satan had put into his heart, and what his avarice and revenge for the late action of the woman, and Christ's defence of it, prompted him to..."
+        ],
+        "John Wesley": [
+            "Judas went to the chief priests \u2014 Immediately after this reproof, having anger now added to his covetousness. Matthew 26:14; Luke 22:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Judas, one of the twelve, made a secret pact with the chief priests to betray Jesus for thirty pieces of silver, equal to four or five pounds sterling. The irony is not lost on him, as he himself exclaims, A goodly price that I was prized at of them! By using the definite article when referring to Judas as the one of the twelve, the text emphasizes that he was the very disciple who committed this act of betrayal. It is remarkable how quickly Judas acted, going to the chief priests right after Jesus had defended a woman's extravagant act of anointing him. Satan's influence, coupled with Judas' avarice and anger, fueled his betrayal.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.872805561719796,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                41.79,
+                0.0,
+                58.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas, the one among the twelve, struck a deal with the chief priests to betray Jesus for thirty pieces of silver, approximately four to five pounds. He voiced disdain at the amount, exclaiming, A goodly price that I was prized at of them! Judas' hasty actions, going straight to the chief priests after Jesus' defense of a woman, reveal the influence of Satan and his own greed and anger. The specificity of calling Judas the one of the twelve highlights the significance of his role in this betrayal.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8520361242399863,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+            "commentatorTierSimilarities": [
+                41.83,
+                0.0,
+                58.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas, one of the twelve disciples, struck a deal with the chief priests to betray Jesus for thirty pieces of silver, equivalent to about four or five pounds. In a bitter reflection, he expressed his disappointment, remarking, A goodly price that I was prized at of them! The deliberate use of the definite article highlights Judas' unique role as the one among the twelve who would carry out this treacherous act. His swift actions, immediately seeking out the chief priests after Jesus' defense of the woman, illustrate the impact of Satan's influence, fueled by Judas' own greed and resentment.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7657263004185761,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                41.72,
+                0.0,
+                58.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas, one of the twelve, clandestinely conspired with the chief priests to betray Jesus for thirty pieces of silver, an amount approximating four to five pounds. Expressing his discontent, he remarked, A goodly price that I was prized at of them! The deliberate choice of the definite article emphasizes Judas' role as the one of the twelve involved in this treacherous act. Without delay, Judas approached the chief priests immediately following Jesus' defense of a woman, showcasing Satan's influence, intertwined with Judas' own covetousness and vindictiveness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7972538067578219,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                42.7,
+                0.0,
+                57.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas, one of the twelve disciples, entered into a secret agreement with the chief priests to betray Jesus for thirty pieces of silver, which amounted to about four or five pounds. Feeling undervalued, he bitterly declared, A goodly price that I was prized at of them! The deliberate use of the definite article highlights Judas' unique position as the one of the twelve who would carry out this act of betrayal. Promptly after Jesus defended a woman, Judas swiftly sought out the chief priests, driven by a combination of Satan's influence, his own greed, and anger.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.7883323657385217,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                42.21,
+                0.0,
+                57.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

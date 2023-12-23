@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:22:19",
+    "verseRef": "Mark 5:21",
+    "bestBHT": {
+        "bht": "The multitude, who had gathered unto Jesus, eagerly received Him and remained near the beach, hoping for His return that evening. The people, having witnessed the sudden calming of the tempest, were disappointed when Jesus left, but their appetite for His teachings continued to grow. The rising tide of Jesus' popularity drew a great multitude to Him, as they sought to witness His miracles and listen to His teachings once again.",
+        "wordCount": 71,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.5666927450478139,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.43,
+        "commentatorTierSimilarities": [
+            39.47,
+            30.55,
+            29.98
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21. gathered unto him\u2026] received him, Luke."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The abundant teaching earlier that day had only whetted the people's appetite: and disappointed, as would seem, that He had left them in the evening to cross the lake, they remain hanging about the beach, having got a hint, probably through some of His disciples, that He would be back the same evening.",
+            "Perhaps they witnessed at a distance the sudden calming of the tempest.",
+            "The tide of our Lord's popularity was now fast rising."
+        ],
+        "Philip Schaff": [
+            "A great multitude was gathered unto him.",
+            "The night after the discourse was probably passed on the lake, so that this was the day after; possibly the second day.",
+            "He resumed His teaching there."
+        ],
+        "John Gill": [
+            "To which it may be replied, there was a bridge at Chammath of Gadara m, over an arm of this sea, over which Christ and his disciples might have passed, and have gone by land to Capernaum; so that this phrase is very necessarily and significantly used.",
+            "Much people gathered unto him; who had before attended on his ministry in these parts, and had seen his miracles.",
+            "He seems to have been at Capernaum, which was nigh unto the sea, and in the house of Matthew or Levi, whom he had called at the sea side from the receipt of custom."
+        ],
+        "John Wesley": [
+            "Luke 8:40."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The day after an evening of abundant teaching, a great multitude gathered to Jesus, eager for more. Disappointed that He had left them the previous night, they remained near the beach with the hope that He would return. They may have even witnessed the sudden calming of the tempest from a distance. The excitement and popularity surrounding Jesus continued to grow, as people flocked to Him to listen to His teachings and witness His miracles.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.3924771754293066,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                39.49,
+                36.06,
+                24.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people, having received Jesus and hearing His abundant teaching earlier that day, remained near the beach, disappointed that He had left but hopeful that He would return. They may have even witnessed the sudden calming of the tempest. The tide of Jesus' popularity was rising, as a great multitude gathered to Him, eager for more teachings and miracles.",
+            "wordCount": 59,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.5534548481965706,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+            "commentatorTierSimilarities": [
+                41.12,
+                33.63,
+                25.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Disappointed that Jesus had left them in the evening to cross the lake, the people remained near the beach, anticipating His return. They had received Jesus and heard His abundant teaching that day, whetting their appetite for more. The excitement surrounding Jesus was palpable, as the great multitude gathered to Him, eager to witness His miracles and listen to His teachings.",
+            "wordCount": 61,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5444775876478127,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.7,
+            "commentatorTierSimilarities": [
+                35.57,
+                34.01,
+                30.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people, having gathered unto Jesus, eagerly received Him, with the previous day's teachings only increasing their hunger for more. Disappointed that He had left them the previous evening, they remained near the beach, anticipating His return. The growing popularity and excitement surrounding Jesus were undeniable, as a great multitude flocked to Him, eager to witness His miracles and listen to His teachings.",
+            "wordCount": 64,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.392694034107059,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+            "commentatorTierSimilarities": [
+                37.11,
+                33.56,
+                29.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The multitude, who had gathered unto Jesus, eagerly received Him and remained near the beach, hoping for His return that evening. The people, having witnessed the sudden calming of the tempest, were disappointed when Jesus left, but their appetite for His teachings continued to grow. The rising tide of Jesus' popularity drew a great multitude to Him, as they sought to witness His miracles and listen to His teachings once again.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5666927450478139,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.43,
+            "commentatorTierSimilarities": [
+                39.47,
+                30.55,
+                29.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

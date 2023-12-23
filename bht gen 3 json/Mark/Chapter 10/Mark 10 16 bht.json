@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:26:12",
+    "verseRef": "Mark 10:16",
+    "bestBHT": {
+        "bht": "In this account, Jesus emphasized His divinity by claiming to be God, despite the argument that only God is good. The Evangelists' primary focus wasn't on literal accuracy but on conveying the truthful teachings of Jesus. He fervently blessed the children, taking them in His arms to show affection and care. By going beyond the disciples' expectations, Jesus demonstrated his deep interest and love for each mother and child, making this a significant moment for them.",
+        "wordCount": 77,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.6366060765043307,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+        "commentatorTierSimilarities": [
+            32.74,
+            32.77,
+            34.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is none but God: Christ is good: therefore Christ is GOD.",
+            "There is none good but God: therefore Christ is not God; therefore Christ IS NOT GOOD.",
+            "Such notices as these shew the point at which, not short of which nor beyond which, we may expect the Evangelists to be in accord: viz. in that inner truthfulness of faithful report which reflects to us the teaching of the Lord, but does not depend on slavish, literal exactitude."
+        ],
+        "Marvin Vincent": [
+            "Put his hands upon them and blessed them. The best texts read kateulogei, tiqeiv tav ceirav ejp aujta, blessed them, laying his hands upon them; including the laying on of hands in the blessing.\" ",
+            "The compound rendered blessed occurs only here in the New Testament. It is stronger than the simple form, and expresses the earnestness of Christ's interest.\" ",
+            "Alford renders fervently blessed."
+        ],
+        "Philip Schaff": [
+            "Christ did more for the children than those who brought them asked, as He always does.",
+            "The servants of such a Master should welcome children to His fold.",
+            "We have no definite account of any ordination of the Apostles by the laving on of Christ\u2019s hands; but we do read of a laying-on of hands upon children, and consequently of their ordination to the kingdom of heaven."
+        ],
+        "Archibald T. Robertson": [
+            "He took them in his arms. A distinct rebuke to the protest of the over-particular disciples.",
+            "This word already in Mark 9:36. In Luke 2:28 we have the full idiom, to receive into the arms.",
+            "So with tender fondling Jesus repeatedly blessed, laying his hands upon each of them. It was a great moment for each mother and child."
+        ],
+        "John Gill": [
+            "He took them up in his arms... expresses great tenderness towards them, and affection for them.",
+            "He first put his hands on the children, according to the custom of the Jews, and then prayed over them.",
+            "He wished all happiness and prosperity to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:16, Jesus demonstrated His divine nature by claiming to be God. However, this verse has caused some controversy, with some arguing that Jesus cannot be God because only God is good. Nevertheless, the primary focus of the Evangelists is not on literal exactitude but on faithfully conveying the inner truthfulness of Jesus' teachings. In this passage, Jesus fervently blessed the children, taking them in His arms as a tender gesture of affection. This act not only rebuked the disciples but also exemplified the earnestness of Christ's interest in each mother and child, showing that He always goes above and beyond what is expected.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7226963115249392,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                39.54,
+                35.09,
+                25.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, Jesus emphasized His divinity by claiming to be God, despite the argument that only God is good. The Evangelists' primary focus wasn't on literal accuracy but on conveying the truthful teachings of Jesus. He fervently blessed the children, taking them in His arms to show affection and care. By going beyond the disciples' expectations, Jesus demonstrated his deep interest and love for each mother and child, making this a significant moment for them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6366060765043307,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                32.74,
+                32.77,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Mark 10:16, Jesus revealed His divinity by proclaiming Himself as God, despite the debate that only God is good. The primary aim of the Evangelists was not rigid adherence to details, but rather to faithfully convey the inner truthfulness of Jesus' teachings. With great earnestness and tenderness, He fervently blessed the children, taking them lovingly in His arms. This gesture served as a rebuke to the disciples' objections and demonstrated Jesus' genuine interest and affection for each mother and child, making this a deeply significant and cherished moment for all involved.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.6429655906663356,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+            "commentatorTierSimilarities": [
+                35.42,
+                32.01,
+                32.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, Jesus showcased His divinity by declaring Himself as God, despite the argument that only God is good. While the Evangelists prioritized conveying the underlying truthfulness of Jesus' teachings rather than rigid precision, they spotlighted His fervent blessing of the children. Taking them tenderly into His arms, Jesus not only scolded the disciples but also demonstrated His sincere interest and affection for each mother and child. This moment became a significant and cherished experience for everyone involved.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.5109579523256054,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.58,
+            "commentatorTierSimilarities": [
+                30.77,
+                34.34,
+                34.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Mark 10:16, Jesus demonstrated His divine nature by claiming to be God. Nevertheless, the primary focus of the Evangelists is not on literal exactitude but on faithfully conveying the inner truthfulness of Jesus' teachings. In this passage, Jesus fervently blessed the children, taking them in His arms as a tender gesture of affection. This act not only rebuked the disciples but also exemplified the earnestness of Christ's interest in each mother and child, showing that He always goes above and beyond what is expected.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8074638013049573,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.44,
+            "commentatorTierSimilarities": [
+                35.99,
+                35.78,
+                28.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

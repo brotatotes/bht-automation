@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:20:22",
+    "verseRef": "Mark 1:35",
+    "bestBHT": {
+        "bht": "In anticipation of a crucial stage in His public work, Jesus departed from Peter and Andrew's house before daybreak, seeking a deserted place. Before the break of dawn, He engaged in fervent prayer, pouring out His soul to His Father about the imminent tasks ahead. His choice of time and location, leaving His disciples behind, highlighted His unwavering dedication and the paramount importance of prayer. By rising early, Jesus emphasized the significance of diligent labor and the profound impact of prayer in fulfilling His calling.",
+        "wordCount": 86,
+        "quoteTokenProportion": 23.33,
+        "qualityScore": 1.6905308865206004,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+        "commentatorTierSimilarities": [
+            26.9,
+            40.32,
+            32.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35.] went out, from the house of Peter and Andrew, ver. 29."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His choosing this day to inaugurate a new and glorious stage of His public work, should be noted by the reader.",
+            "What would one not give to have been, during the stillness of those grey morning hours, within hearing... of His calm, exalted anticipations of the work which lay immediately before Him, and the outpourings of His soul about it into the bosom of Him that sent Him!",
+            "When morning came, Peter, loath to break in upon the repose of his glorious Guest, would await His appearance beyond the usual hour; but at length, wondering at the stillness, and gently coming to see where the Lord lay, he finds it\u2014like the sepulchre afterwards\u2014empty!"
+        ],
+        "Marvin Vincent": [
+            "A great while before day (\u00e5\u0313\u0301\u00ed\u00ed\u00f5\u00f7\u00e1)",
+            "Lit., while it was in the night. The word is peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "A proof of the independence of Mark, since Matthew does not give these details.",
+            "His work and prayer are closely connected.",
+            "Prayer with Him seems to have been not only intimate communion with His Father, but a necessary preparation for His ministry."
+        ],
+        "Archibald T. Robertson": [
+            "Flight from the unexpected reality into which His ideal conception of His calling had brought Him\" (H.J. Holtzmann).",
+            "He felt He could not begin too soon. He left in the night, fearing opposition from the people\" (Bruce).",
+            "Jesus knew what it was to spend a whole night in prayer. He knew the blessing of prayer and the power of prayer."
+        ],
+        "John Gill": [
+            "And in the morning, rising up a great white before day... he rose up very early while it was very much within the night, as the light and day were coming on, and before the day broke...\" (around 50 words)",
+            "he went out... leaving his disciples and friends behind him\" (around 10 words)",
+            "he chose a desert, and solitary place, for the sake of retirement, from the crowd of people... as most suitable for the exercise of prayer\" (around 25 words)"
+        ],
+        "John Wesley": [
+            "Rising a great while before day \u2014 So did he labour for us, both day and night. Luke 4:42."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the early hours of the morning, Jesus left the house of Peter and Andrew and went out to a deserted place. This choice of time and location is significant, representing the start of a new and glorious phase of His ministry. Jesus, in His divine solitude, fervently communed with His Father, pouring out His soul about the work ahead. He understood the importance of prayer and the power it held. His departure, while His disciples were still sleeping, exemplifies His willingness to sacrifice rest for the sake of fulfilling His calling. This act of rising early echoes His commitment to labor day and night for our sake.",
+            "wordCount": 108,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 1.5724216065622785,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                28.14,
+                35.91,
+                35.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the stillness of the morning, Jesus left Peter and Andrew's house to find a deserted place. This choice of time and location was intentional, marking the beginning of a significant new phase in His ministry. With great anticipation, He poured out His soul to His Father, voicing His exalted expectations for the work ahead. His departure before daybreak, leaving His sleeping disciples behind, demonstrates His dedication to fulfilling His calling. Through rising early, Jesus sets an example of laboring day and night for our sake.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.5578547187443896,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                32.21,
+                28.57,
+                39.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the early morning, Jesus left Peter and Andrew's house and sought a deserted place. This deliberate choice of time and location marked the initiation of an extraordinary new stage in His public work. He treasured the moments of calm anticipation, communing with His Father and pouring out His soul about the imminent tasks ahead. His decision to depart before daybreak, even before His disciples awakened, revealed His unwavering commitment to fulfilling His divine purpose. By rising early, Jesus exemplified the value of persistent labor and the power of prayer.",
+            "wordCount": 91,
+            "quoteTokenProportion": 23.88,
+            "qualityScore": 1.5365618943832824,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+            "commentatorTierSimilarities": [
+                32.19,
+                34.14,
+                33.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Before daybreak, Jesus departed from Peter and Andrew's house and ventured to a solitary place. This deliberate choice of time and location set the stage for a momentous phase of His ministry. During the stillness of the morning, He fervently engaged in intimate communion with His Father, sharing His exalted expectations for the work that lay ahead. Leaving His disciples behind, He demonstrated His unwavering commitment and the significance of prayer as a preparation for His ministry. Through rising early, Jesus embodied the value of dedicated labor and the transformative power of prayer.",
+            "wordCount": 94,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.661627879170295,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.59,
+            "commentatorTierSimilarities": [
+                26.33,
+                44.71,
+                28.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In anticipation of a crucial stage in His public work, Jesus departed from Peter and Andrew's house before daybreak, seeking a deserted place. Before the break of dawn, He engaged in fervent prayer, pouring out His soul to His Father about the imminent tasks ahead. His choice of time and location, leaving His disciples behind, highlighted His unwavering dedication and the paramount importance of prayer. By rising early, Jesus emphasized the significance of diligent labor and the profound impact of prayer in fulfilling His calling.",
+            "wordCount": 86,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.6905308865206004,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+            "commentatorTierSimilarities": [
+                26.9,
+                40.32,
+                32.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:27:33",
+    "verseRef": "Mark 13:13",
+    "bestBHT": {
+        "bht": "Those who endure in their confession for my name's sake will not perish, but be saved. In the face of increasing iniquity, the love of many may grow cold, yet those who endure until the end will be protected by God. Remaining under, steadfastly holding onto faith until the end is the key to experiencing final salvation. Despite the hatred and persecution they may face, those who hold firm in their faith will be preserved and ultimately receive the promised salvation.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.556187785220407,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+        "commentatorTierSimilarities": [
+            45.06,
+            0.0,
+            54.94
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13.] hath endured, viz. in the confession implied by for my name\u2019s sake preceding."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And because iniquity shall abound, the love of many\"\u2014\"of the many,\" or \"of the most,\" that is, of the generality of professed disciples\u2014\"shall wax cold.",
+            "But there shall not an hair of your heads perish.",
+            "He that shall endure unto the end, the same shall be saved."
+        ],
+        "Archibald T. Robertson": [
+            "The idea here is true to the etymology of the word, remaining under (\u03c5\u03c0\u03bf\u03bc\u03b5\u03bd\u03c9) until the end.\" ",
+            "Be saved (\u03c3\u03c9\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1). Here Jesus means final salvation (effective aorist future passive), not initial salvation."
+        ],
+        "John Gill": [
+            "And ye shall be hated of all men... for my name's sake...\" ",
+            "but he that shall endure... the same shall be saved..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who endure in their confession and remain steadfast in their faith, even in the midst of tribulation and increasing iniquity, will not only be protected by God but will also be ultimately saved. The love of many may grow cold, but those who persevere until the end will experience final salvation. While enduring may come with the cost of being hated by others, the promise of salvation remains for those who hold firm in their faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.5013985729138835,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.26,
+            "commentatorTierSimilarities": [
+                45.28,
+                0.0,
+                54.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who endure, remaining under the hardships and challenges that come with confessing their faith, will not perish\u2014 not even a hair of their heads\u2014 but will be saved in the end. Despite the rampant increase of iniquity that may cause the love of many to grow cold, those who hold firm in their confession and endure until the very end will be protected by God and experience final salvation. Even in the face of hatred and persecution for the sake of Christ, the promise of salvation remains for those who remain steadfast.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.5113999744471647,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.6,
+            "commentatorTierSimilarities": [
+                48.11,
+                0.0,
+                51.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who endure, remaining under hardships in their confession, will not perish. Despite increasing iniquity causing the love of many to grow cold, those who endure until the end will be saved. Remaining steadfast in faith, even in the face of hatred for Christ's sake, is crucial. The promise of salvation holds for those who endure until the end. Not a single hair will perish\u2014 God will protect and deliver those who persevere.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.542116627210909,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                44.33,
+                0.0,
+                55.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who endure in their confession for my name's sake will not perish, but be saved. In the face of increasing iniquity, the love of many may grow cold, yet those who endure until the end will be protected by God. Remaining under, steadfastly holding onto faith until the end is the key to experiencing final salvation. Despite the hatred and persecution they may face, those who hold firm in their faith will be preserved and ultimately receive the promised salvation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.556187785220407,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                45.06,
+                0.0,
+                54.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Enduring in their confession for my name's sake, those who endure until the end will not perish, but will be saved. In the face of increasing iniquity, the love of many may grow cold; however, those who remain steadfast will be protected by God. By remaining under, holding onto their faith until the end, they will experience final salvation. Regardless of the hatred and persecution they endure, those who stand firm in their faith will receive the promised salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.5349234961857618,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "commentatorTierSimilarities": [
+                44.46,
+                0.0,
+                55.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

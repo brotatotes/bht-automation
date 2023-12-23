@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:24:44",
+    "verseRef": "Mark 8:33",
+    "bestBHT": {
+        "bht": "As a leader, Peter felt obligated to challenge Jesus' seemingly negative outlook, but his concerns went beyond mere officiousness. Peter, still bound to the mindset of an ordinary man, inadvertently took on the role of Satan himself, replicating the temptation Jesus faced on the mountain. Jesus firmly rebuked him, declaring, Get thee behind me, Satan, highlighting Peter's lack of alignment with God's will. This confrontation was significant, as Jesus intentionally looked at the other disciples, ensuring they understood the weight of His words to Peter.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 2.1181513956387494,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.77,
+        "commentatorTierSimilarities": [
+            38.97,
+            34.87,
+            26.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "This look, mentioned by Mark only, shows that Peter had not taken Him aside, but laid hold on Him to interrupt Him.",
+            "Luke omits altogether the rebuke of Peter."
+        ],
+        "Archibald T. Robertson": [
+            "Peter no doubt felt that it was his duty as a leader of the Twelve to remonstrate with the Master for this pessimistic utterance.",
+            "It was more than mere officiousness on the part of Peter. He had not risen above the level of ordinary men and deserves the name of Satan whose role he was now acting.",
+            "The temptation of the devil on the mountain was here offered by Peter. It was Satan over again."
+        ],
+        "John Gill": [
+            "Get thee behind me, Satan: for thou savourest not the things that be of God.\" ",
+            "Things which were according to the will of God.",
+            "Whose keen resentment is seen by using a phrase he never did but to the devil himself."
+        ],
+        "John Wesley": [
+            "Looking on his disciples \u2014 That they might the more observe what he said to Peter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, as a leader, felt compelled to challenge Jesus for His seemingly negative statement. However, his concerns were not simply well-intentioned; he had not matured beyond the mindset of an ordinary human and was essentially playing Satan's role. Just as Satan had tempted Jesus on the mountain, Peter was now tempting Him with doubt. Jesus's response, Get thee behind me, Satan, was a powerful rebuke, showing that Peter's thoughts and actions were not aligned with God's will. This confrontation was not lost on the other disciples, as Jesus purposefully looked at them, ensuring they also recognized the significance of His words to Peter.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 2.091580669671706,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                41.58,
+                32.86,
+                25.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As a leader, Peter felt obligated to confront Jesus after His pessimistic remark, but this was more than mere officiousness; Peter had yet to transcend the thinking of ordinary men and was embodying the role of Satan. The temptation Jesus faced with Satan on the mountain was now being replicated by Peter. In response, Jesus sharply rebuked him, adamant that Peter's mindset and actions did not align with God's will. Notably, Jesus deliberately looked at the other disciples, ensuring they grasped the gravity of His exchange with Peter.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.0888265793399583,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                39.84,
+                34.32,
+                25.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter, as a leader of the Twelve, felt it was his duty to remonstrate with Jesus for His seemingly pessimistic statement. However, his intervention went beyond mere officiousness. Trapped in an ordinary human mindset, Peter unwittingly assumed the role of Satan, tempting Jesus just as Satan had on the mountain. Jesus sharply responded, Get thee behind me, Satan, rebuking Peter's lack of alignment with God's will. Moreover, Jesus intentionally looked at the other disciples to ensure they grasped the significance of His exchange with Peter.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.84788072266619,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                40.0,
+                31.53,
+                28.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As a leader, Peter felt obligated to challenge Jesus' seemingly negative outlook, but his concerns went beyond mere officiousness. Peter, still bound to the mindset of an ordinary man, inadvertently took on the role of Satan himself, replicating the temptation Jesus faced on the mountain. Jesus firmly rebuked him, declaring, Get thee behind me, Satan, highlighting Peter's lack of alignment with God's will. This confrontation was significant, as Jesus intentionally looked at the other disciples, ensuring they understood the weight of His words to Peter.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.1181513956387494,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.77,
+            "commentatorTierSimilarities": [
+                38.97,
+                34.87,
+                26.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, in his role as a leader, felt compelled to remonstrate with Jesus over His seemingly negative statement. However, it was more than mere officiousness on Peter's part; he had not risen above the mindset of an ordinary man and was essentially embodying the role of Satan. Just as Satan tempted Jesus on the mountain, Peter was now offering the same temptation. Jesus sharply responded, Get thee behind me, Satan, highlighting Peter's lack of alignment with God's will. This encounter was not lost on the other disciples, whom Jesus purposefully looked at, emphasizing the importance of His words to Peter.",
+            "wordCount": 103,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.2065296266844414,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.71,
+            "commentatorTierSimilarities": [
+                42.23,
+                32.48,
+                25.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

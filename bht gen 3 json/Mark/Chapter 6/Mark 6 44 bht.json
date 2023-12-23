@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:23:41",
+    "verseRef": "Mark 6:44",
+    "bestBHT": {
+        "bht": "When Jesus perceived that they wanted to make Him a king, He withdrew to the mountain by Himself. This miraculous feeding of the five thousand men, not including women and children, is recorded by all four Gospels, emphasizing its significance as a nature miracle. The evidence of this miracle is overwhelming, as no natural explanation can account for it. Mark's omission of the mention of women and children indicates his independence as a writer, while Matthew includes this detail. Overall, the feeding of the five thousand is a remarkable testimony to the power and authority of Jesus.",
+        "wordCount": 98,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.461967200961943,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+        "commentatorTierSimilarities": [
+            36.27,
+            34.1,
+            29.63
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Of these, however, there would probably not be many; as only the males were obliged to go to the approaching festival.",
+            "When Jesus therefore perceived that they would take Him by force, to make Him a king, He departed again into a mountain Himself alone.",
+            "One very important particular given by John alone (John 6:15) introduces this portion."
+        ],
+        "Marvin Vincent": [
+            "Men [\u03b1\u03bd\u03b4\u03c1\u03b5\u03c2] . Not generic, including men and women, but literally men. Compare Matthew 14:21, beside women and children; a detail which we should have expected from Mark."
+        ],
+        "Philip Schaff": [
+            "Mark 6:44. Five thousand men. Mark, usually so exact, does not speak of the \u2018women and children\u2019 (Matthew). An evidence of independence.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "This remarkable miracle is recorded by all Four Gospels, a nature miracle that only God can work.",
+            "No talk about accelerating natural processes will explain this miracle.",
+            "The evidence is overwhelming."
+        ],
+        "John Gill": [
+            "And they that did eat of the loaves... were about five thousand men.\" ",
+            "The word 'about' is  omitted in the Vulgate Latin, Syriac, Arabic, Persic and Ethiopic versions, reading five thousand men certain.\" ",
+            "The Evangelist Matthew adds, 'beside children and women.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus perceived that they wanted to make Him a king, He withdrew to the mountain by Himself. This miraculous feeding of the five thousand men, not including women and children, is recorded by all four Gospels, emphasizing its significance as a nature miracle. The evidence of this miracle is overwhelming, as no natural explanation can account for it. Mark's omission of the mention of women and children indicates his independence as a writer, while Matthew includes this detail. Overall, the feeding of the five thousand is a remarkable testimony to the power and authority of Jesus.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.461967200961943,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                36.27,
+                34.1,
+                29.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus perceived that they wanted to make Him a king, He withdrew to the mountain by Himself. This miraculous feeding of the five thousand men, not including women and children, is a nature miracle that only God can perform. The evidence for this remarkable miracle is overwhelming, and no explanation about accelerating natural processes can account for it. Mark's omission of women and children, while Matthew includes them, highlights the independence of Mark's account. It is a powerful testimony to the authority and power of Jesus.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.3804922610004304,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.24,
+            "commentatorTierSimilarities": [
+                38.57,
+                33.62,
+                27.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus perceived that they wanted to make Him a king, He withdrew to the mountain by Himself. The feeding of the five thousand men, recorded by all Four Gospels, is a nature miracle that only God can work. The evidence for this remarkable miracle is overwhelming, and no natural explanation can explain it. Mark's omission of women and children, in contrast to Matthew's inclusion, showcases the independence of Mark's account. The feeding of the five thousand is a powerful testimony to the authority and power of Jesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3830601935808935,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+            "commentatorTierSimilarities": [
+                37.77,
+                32.98,
+                29.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus perceived that they wanted to make Him a king, He withdrew to the mountain by Himself. This miraculous feeding of the five thousand men, not including women and children, is a testimony to the power and authority of Jesus. The evidence for this extraordinary nature miracle is overwhelming, as no natural explanation can account for it. Mark's omission of women and children, while Matthew includes them, demonstrates his independence as a writer. It serves as a reminder of the remarkable works that only God can perform.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3948238898764522,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+            "commentatorTierSimilarities": [
+                39.1,
+                33.0,
+                27.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The feeding of the five thousand men, not including women and children, is a miraculous event that emphasizes Jesus' authority and power. It is a nature miracle that defies any natural explanation. The overwhelming evidence points to the divine nature of this extraordinary event. Mark's omission of women and children, in contrast to Matthew's inclusion, highlights his independence as a writer. This feeding serves as a profound testimony to the sovereign work of God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.2151438918967457,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.75,
+            "commentatorTierSimilarities": [
+                42.48,
+                31.28,
+                26.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

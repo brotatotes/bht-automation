@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:30:23",
+    "verseRef": "Mark 16:2",
+    "bestBHT": {
+        "bht": "When the women arrived at the tomb on the first day of the week, it was very early in the morning. The Gospel accounts slightly differ on the exact time, but all agree that it was before sunrise. Jesus had predicted that he would rise on the third day, and that is precisely what happened. The phrase 'after three days' can be understood in a more general sense, rather than an exact literal interpretation. As the women approached, they observed that the stone had been rolled away, just as the sun was rising.",
+        "wordCount": 93,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1192492401133585,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+        "commentatorTierSimilarities": [
+            31.36,
+            38.75,
+            29.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This does not agree with Matthew, 'as it began to dawn toward the first day of the week,' Luke, 'at early (or deep) dawn,' or John, 'when it was yet dark.'\" (Mark 16:2) ",
+            "If the sun was up, it would be between 6 and 7 o'clock; which in the East especially, where even public business was transacted very early, could not be so called.\" (Mark 16:2) ",
+            "Even Greswell virtually acknowledges a difficulty here.\" (Mark 16:2)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And very early in the morning...the first day of the week, they came unto the sepulchre at the rising of the sun\u2014not quite literally, but 'at earliest dawn'\".",
+            "Thus our Lord rose on the third day; having lain in the grave part of Friday, the whole of Saturday, and part of the following First day.",
+            "According to a way of speaking not uncommon, and occurring sometimes in the Old Testament."
+        ],
+        "Marvin Vincent": [
+            "At the rising of the sun [\u03b1\u03bd\u03b1\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd\u03c4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b7\u03bb\u03b9\u03bf\u03c5] . More correctly, as Rev., when the sun was risen."
+        ],
+        "Philip Schaff": [
+            "Very early. In the East this would mean before sunrise, as the other accounts show. The anxious women would go to the tomb as soon as possible.",
+            "When the sun was risen. This may be taken literally as referring to the time when they reached the tomb, or less exactly \u2018when the sun was about to rise.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Some people are greatly disturbed over the fact that Jesus did not remain in the grave full seventy-two hours. But he repeatedly said that he would rise on the third day and that is precisely what happened.\" ",
+            "If he had really remained in the tomb full three days and then had risen after that, it would have been on the fourth day, not on the third day.",
+            "The occasional phrase 'after three days' is merely a vernacular idiom common in all languages and not meant to be exact and precise like 'on the third day.' We can readily understand 'after three days' in the sense of 'on the third day.'"
+        ],
+        "John Gill": [
+            "And very early in the morning, the first day of the week...",
+            "...of the sun of righteousness, as Mr. Mede observes...",
+            "...the sun was rising; the Jews say g, that..."
+        ],
+        "John Wesley": [
+            "They set out while it was yet dark, and came within sight of the sepulchre, for the first time, just as it grew light enough to discern that the stone was rolled away.\" ",
+            "But by the time Mary had called Peter and John, and they had viewed the sepulchre, the sun was rising."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the women arrived at the tomb, it was very early in the morning, the first day of the week. The Gospel accounts differ slightly in their descriptions of the time, but all agree that it was before sunrise. Some commentators note that if the sun was already up, it would not be considered 'very early' in the Eastern culture. Jesus had said he would rise on the third day, and it is precisely what happened, even though the phrase 'after three days' can be understood more loosely. As the anxious women approached the sepulchre, they saw that the stone had been rolled away, just as the sun was rising.",
+            "wordCount": 110,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.250833325500748,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.18,
+            "commentatorTierSimilarities": [
+                28.47,
+                41.34,
+                30.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the women arrived at the tomb on the first day of the week, it was very early in the morning. The Gospel accounts slightly differ on the exact time, but all agree that it was before sunrise. Jesus had predicted that he would rise on the third day, and that is precisely what happened. The phrase 'after three days' can be understood in a more general sense, rather than an exact literal interpretation. As the women approached, they observed that the stone had been rolled away, just as the sun was rising.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1192492401133585,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+            "commentatorTierSimilarities": [
+                31.36,
+                38.75,
+                29.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the women arrived at the tomb on the first day of the week, it was very early in the morning. The Gospel accounts differ slightly on the exact time, but all agree that it was before sunrise. Jesus had predicted that he would rise on the third day, and that is precisely what happened. The phrase 'after three days' can be understood in a more general sense. As the women approached, they noticed the stone had been rolled away, just as the sun was rising.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.0840659912328485,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.64,
+            "commentatorTierSimilarities": [
+                31.13,
+                38.67,
+                30.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the women arrived at the tomb, it was very early in the morning on the first day of the week. The Gospel accounts slightly differ on the exact time, but all agree that it was before sunrise. Jesus had predicted that he would rise on the third day, and that is precisely what happened. The phrase 'after three days' can be understood in a more general sense. As the women approached, they noticed the stone had been rolled away, just as the sun was rising.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.085872359321819,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                31.22,
+                38.48,
+                30.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the women arrived at the tomb, it was very early in the morning on the first day of the week. The Gospel accounts differ on the exact time, but all agree that it was before sunrise. Jesus had said he would rise on the third day, and that is precisely what happened. The phrase 'after three days' can be understood more loosely in a general sense. As the women approached, they observed that the stone had been rolled away, just as the sun was rising.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.097163120626266,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+            "commentatorTierSimilarities": [
+                31.35,
+                38.92,
+                29.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-22-2023 23:30:25",
+    "verseRef": "Mark 16:15",
+    "bestBHT": {
+        "bht": "The commission in Mark reminds us that Christ's redemption extends to all creation, an idea echoed in Colossians 1:15, 23 and Romans 8:19-23. This commission is not limited to the disciples, but applies to the Church throughout all ages. The Gospel is to be preached to every human being, without any limitations or restrictions. It is a reminder that the Gospel is meant to be proclaimed to every person, everywhere, as articulated in Matthew 28:16-20, John 20:21-23, Luke 24:44-49, and Acts 1:3-8.",
+        "wordCount": 76,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.9725590817811063,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+        "commentatorTierSimilarities": [
+            32.06,
+            30.32,
+            37.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "all creation is redeemed by Christ\u2014see Col. i. 15, 23; Rom. viii. 19\u201323.",
+            "As wide as the curse extends, reaches the blessing. The creation by the Son, is the foundation of redemption and of the kingdom.",
+            "By these words the missionary office is bound upon the Church through all ages, till every part of the earth shall have been evangelized."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. And he said unto them, Go ye",
+            "\tinto all the world, and preach the Gospel to every creature\u2014See",
+            "\ton :- and :-."
+        ],
+        "Albert Barnes": [
+            "It was long before the disciples could be trained to the belief that the gospel was to be preached to all men; and it was only by special revelation, even after this command, that Peter preached to the Gentile centurion.\" ",
+            "Jesus has graciously ordered that the preaching of the gospel shall be stopped by no barriers. Wherever there is man, there it is to be proclaimed.",
+            "To every creature - That is, to every human being. Man has no right to limit this offer to any class of men. God commands his servants to offer the salvation to 'all men.'"
+        ],
+        "Marvin Vincent": [
+            "To every creature [\u03c0\u03b1\u03c3\u03b7 \u03c4\u03b7 \u03ba\u03c4\u03b9\u03c3\u03b5\u03b9] . Rightly, as Rev., to the whole creation."
+        ],
+        "Philip Schaff": [
+            "There is no reference to the appearances in Galilee.",
+            "The more important points of the revelations made on various occasions up to the time of the Ascension are summed up.",
+            "These words may, however, have been uttered on one occasion."
+        ],
+        "Archibald T. Robertson": [
+            "This commission in Mark is probably another report of the missionary Magna Charta in Matthew 28:16-20 spoken on the mountain in Galilee.\" ",
+            "One commission has already been given by Christ (John 20:21-23). The third appears in Luke 24:44-49; Acts 1:3-8."
+        ],
+        "John Gill": [
+            "but into every known and habitable part of the whole universe, to all the nations of the world under heaven",
+            "this commission not only included the Apostles, but reaches to all the ministers of the Gospel in succeeding ages, to the end of the world",
+            "the Gospel he would have preached to them, the word of peace and reconciliation, by his atoning sacrifice; the doctrine of free and full pardon by his blood; and of justification by his righteousness"
+        ],
+        "John Wesley": [
+            "Our Lord speaks without any limitation or restriction.",
+            "If therefore every creature in every age hath not heard it, either those who should have preached, or those who should have heard it, or both, made void the counsel of God herein.",
+            "Matthew 28:19."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The commission in Mark 16:15 reveals the vast scope of Christ's redemption, as it encompasses all creation. The mission is not limited to a select few, but extends to the entire world. This command was not exclusive to the disciples, but applies to the Church throughout all ages. The gospel message is to be preached to every human being, without restriction. This commission echoes the missionary Magna Charta spoken by Christ in Matthew 28:16-20, and additional commissions are found in John 20:21-23 and Luke 24:44-49; Acts 1:3-8. It is a reminder that the Gospel knows no barriers or limitations, as it is to be proclaimed wherever there is man.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.88716467292564,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                30.86,
+                33.43,
+                35.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The commission in Mark's Gospel reminds us that Christ's redemption extends to all creation, as seen in Colossians 1:15, 23 and Romans 8:19-23. This command is not restricted to the disciples, but is bound upon the Church throughout all ages. The Gospel is to be preached to every human being without limitations or restrictions. Similar to Matthew 28:16-20, John 20:21-23, Luke 24:44-49, and Acts 1:3-8, this commission emphasizes the limitless nature of the Gospel, as it is meant to be proclaimed to every person, everywhere.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9569686599754377,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+            "commentatorTierSimilarities": [
+                31.79,
+                30.32,
+                37.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wide-reaching redemption accomplished by Christ is emphasized in the commission given in Mark, revealing that the foundation of both redemption and the kingdom lies in the Son's creation. This commission extends to the Church throughout all ages, binding them to the missionary office of evangelizing every part of the earth. The call to preach the Gospel to every creature emphasizes the all-encompassing nature of the message, as highlighted in Colossians 1:15, 23, Romans 8:19-23, and paralleled in Matthew 28:16-20, John 20:21-23, Luke 24:44-49, and Acts 1:3-8.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.9040693133713624,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.65,
+            "commentatorTierSimilarities": [
+                40.15,
+                27.28,
+                32.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The commission in Mark reminds us that Christ's redemption extends to all creation, an idea echoed in Colossians 1:15, 23 and Romans 8:19-23. This commission is not limited to the disciples, but applies to the Church throughout all ages. The Gospel is to be preached to every human being, without any limitations or restrictions. It is a reminder that the Gospel is meant to be proclaimed to every person, everywhere, as articulated in Matthew 28:16-20, John 20:21-23, Luke 24:44-49, and Acts 1:3-8.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.9725590817811063,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                32.06,
+                30.32,
+                37.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The commission given in Mark 16:15 reveals the expansive reach of Christ's redemption, as seen in Colossians 1:15, 23 and Romans 8:19-23. This commission is not limited to the disciples, but extends to the Church throughout all generations. It is a call to faithfully carry out the missionary task of spreading the Gospel to every corner of the earth. The Gospel is to be proclaimed without limitations or restrictions, echoing Matthew 28:16-20, John 20:21-23, Luke 24:44-49, and Acts 1:3-8.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9012774846600147,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                33.84,
+                30.71,
+                35.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

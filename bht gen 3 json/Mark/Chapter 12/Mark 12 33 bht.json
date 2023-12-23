@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:27:49",
+    "verseRef": "Mark 12:33",
+    "bestBHT": {
+        "bht": "Genuine worship extends beyond external observances, as the scribe wisely acknowledged that loving God with all one's heart and loving one's neighbor holds greater worth than offerings and sacrifices. It involves a union of the mind with God, blending understanding and heartfelt devotion. The prophets similarly teach that sacrifices alone are insufficient, but when coupled with brotherly kindness, they become pleasing to God. Therefore, authentic worship encompasses a sincere love and compassion for others, which God considers highly significant.",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.9434474028075437,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+        "commentatorTierSimilarities": [
+            30.62,
+            31.53,
+            37.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "whole burnt offerings and sacrifices, the things to which the outward literal observers paid all their attention."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And to love him with all the heart... and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices."
+        ],
+        "Marvin Vincent": [
+            "Understanding [\u03c3\u03c5\u03bd\u03b5\u03c3\u03b5\u03c9\u03c2]... denotes the faculty of quick comprehension, intelligence, sagacity.\" ",
+            "A union or bringing together of the mind with an object.\" ",
+            "The prudent."
+        ],
+        "John Calvin": [
+            "Though the worship of God is greatly preferable, and is more valuable than all the duties of a holy life, yet its outward exercises ought not to be estimated so highly as to swallow up brotherly kindness.",
+            "For we know that brotherly kindness, in itself and simply, is pleasing to God, though sacrifices are not regarded by him with delight or approbation, except with a view to another object.",
+            "The same doctrine is to be found very frequently in the prophets, that hypocrites may know that sacrifices are of no value, unless spiritual truth be joined to them, and that God is not appeased by offerings of beasts, where brotherly kindness is neglected."
+        ],
+        "Philip Schaff": [
+            "With all the understanding. The scribe substitutes \u2018understanding\u2019 for \u2018mind,\u2019 which seems to express the same thought less abstractly.\" ",
+            "Is much more than. Better, \u2018more acceptable to God, and more useful to the worshipper.\u2019",
+            "Christ\u2019s atoning sacrifice is the centre of the gospel, but he who has a correct theory on this subject, without being led to the love here spoken of, is but a Pharisee at heart, below the standard of this man."
+        ],
+        "John Gill": [
+            "And to love him with all the heart...",
+            "More than all whole burnt offerings and sacrifices...",
+            "True love to God being no other than the offering up of the soul..."
+        ],
+        "John Wesley": [
+            "To love him with all the heart \u2014 To love and serve him, with all the united powers of the soul in their utmost vigour...",
+            "...and to love his neighbour as himself - To maintain the same equitable and charitable temper and behaviour toward all men...",
+            "...is a more necessary and important duty, than the offering the most noble and costly sacrifices."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "True worship and devotion to God extends far beyond outward actions and ritualistic observances. The scribe's acknowledgement that loving God with all one's heart and loving one's neighbor surpasses the value of whole burnt offerings and sacrifices reflects a deeper understanding and sagacity. It is a union of the mind with God, a bringing together of intelligence and heartfelt love. While correct theological knowledge is important, it is incomplete without being led to the kind of love described here. The prophets also emphasize that sacrifices without brotherly kindness are of little value in God's eyes. Therefore, it is clear that true worship involves more than mere religious practices, but rather a genuine love and compassion towards our fellow human beings, which God finds pleasing and valuable.",
+            "wordCount": 130,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8636771340410374,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                29.54,
+                32.72,
+                37.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True worship involves more than outward actions and ritualistic observances. The scribe's acknowledgment that loving God with all one's heart and loving one's neighbor surpasses the value of sacrifices reflects a deeper understanding. It is a union of the mind with God, a bringing together of intelligence and heartfelt love. The prophets also emphasize that sacrifices without brotherly kindness are of little value. Therefore, true worship involves a genuine love and compassion towards others, which God finds pleasing and valuable.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8758961384691433,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                31.73,
+                30.03,
+                38.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True worship goes beyond outward actions and rituals. The scribe understood that loving God with all one's heart and loving one's neighbor is more valuable than sacrifices. It involves a union of the mind and heart with God, demonstrating intelligence and genuine love. The prophets also emphasized that sacrifices without brotherly kindness hold little significance for God. Therefore, true worship encompasses a sincere love and compassion for others, which God finds pleasing and valuable.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.8853570525829237,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                32.4,
+                29.2,
+                38.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True worship involves more than mere outward actions, as the scribe recognized the surpassing value of loving God with all one's heart and loving one's neighbor. This understanding entails a union of the mind with God, combining intelligence and heartfelt love. The prophets also ascertain that sacrifices, without the accompanying virtue of brotherly kindness, hold no pleasing significance for God. Therefore, genuine worship encompasses a sincere and compassionate love for others, which God finds truly valuable.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.8992797466451141,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.49,
+            "commentatorTierSimilarities": [
+                29.0,
+                31.76,
+                39.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Genuine worship extends beyond external observances, as the scribe wisely acknowledged that loving God with all one's heart and loving one's neighbor holds greater worth than offerings and sacrifices. It involves a union of the mind with God, blending understanding and heartfelt devotion. The prophets similarly teach that sacrifices alone are insufficient, but when coupled with brotherly kindness, they become pleasing to God. Therefore, authentic worship encompasses a sincere love and compassion for others, which God considers highly significant.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.9434474028075437,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                30.62,
+                31.53,
+                37.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

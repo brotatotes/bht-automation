@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:30:00",
+    "verseRef": "Mark 14:72",
+    "bestBHT": {
+        "bht": "When Peter heard the cock crow, he wept upon reflection of his denial of Jesus. The look that Jesus gave him pierced and broke Peter's heart, resulting in repentance and salvation. This moment carried the weight of Jesus' earlier words, where he had prayed for Peter's faith. Peter's response went beyond tears; he turned away from the company and wept vehemently, covering his head as a mourner would, expressing deep grief and shame for his denial of the Lord.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 1.6920853195507228,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+        "commentatorTierSimilarities": [
+            21.87,
+            32.9,
+            45.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "No entirely satisfactory meaning has yet been given for the original word thus rendered.",
+            "The sense in the text, though not elsewhere found, seems to suit both the word and the context better than any other that has been suggested.",
+            "Referring to my Greek Testament for the discussion, I may sum it up by stating that..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our Second Evangelist makes no mention of this look, but dwells on the warning of his Lord about the double crowing of the cock, which would announce his triple fall, as what rushed stingingly to his recollection and made him dissolve in tears.\" ",
+            "The most precious link, however, in the whole chain of circumstances in this scene is beyond doubt that 'look' of deepest, tenderest import reported by Luke alone.",
+            "And remembering the Savior's own words at the table, 'Simon, Simon, Satan hath desired to have you, that he may sift you as wheat; but I prayed for thee, that thy faith fail not,' may we not say that this prayer fetched down all that there was in that look to pierce and break the heart of Peter, to keep it from despair, to work in it 'repentance unto salvation not to be repented of,' and at length, under other healing touches, to 'restore his soul?'"
+        ],
+        "Marvin Vincent": [
+            "When he thought thereon [\u03b5\u03c0\u03b9\u03b2\u03b1\u03bb\u03c9\u03bd] . From ejpi, upon, and, ballw, to throw. When he threw his thought upon it. ===Mr_15 ",
+            "CHAPTER XV ",
+            "Compare verses 1 - 5 with Matthew 27:1, Matthew 27:2, Matthew 27:11-14."
+        ],
+        "Philip Schaff": [
+            "And when he thought thereon, he wept.\" ",
+            "The calling to mind was the momentary act of remembrance occasioned by the crowing of the cock, this the serious and continued reflection on the sin.\" ",
+            "Other interpretations are given: 'rushing forth,' i.e., he threw himself out of the place; 'beginning' 'continuing,' 'covering his head,' etc."
+        ],
+        "Archibald T. Robertson": [
+            "Called to mind (\u03b1\u03bd\u03b5\u03bc\u03bd\u03b7\u03c3\u03b8\u03b7)... was reminded.",
+            "When he thought thereon (\u03b5\u03c0\u03b9\u03b2\u03b1\u03bb\u03c9\u03bd)... the meaning is to put the mind upon something.",
+            "Wept (\u03b5\u03ba\u03bb\u03b1\u03b9\u03b5\u03bd). Inchoative imperfect, began to weep."
+        ],
+        "John Gill": [
+            "he turned himself to weep\"; he turned away from the company, he threw himself out of it, and got out of doors as fast as he could, and broke out into a violent fit of weeping.",
+            "he began to weep\"; this phrase is omitted in the Ethiopic version: some choose to render it, \"he looked upon him\", that is, on Christ: as Christ looked upon him; which produced true evangelical repentance in him, so Peter looked upon his dear Lord with concern, whom he so had shamefully denied; he looked upon him and mourned, he looked upon him with an eye of faith, and sorrowed for his sin after a godly sort.",
+            "he covered himself\"; he cast his garment over his head, he veiled himself as mourners did, who covered their heads, and their faces, and even their lips."
+        ],
+        "John Wesley": [
+            "And he covered his head \u2014 Which was a usual custom with mourners, and was fitly expressive both of grief and shame."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Peter heard the cock crow and thought about his denial of Jesus, he wept. This moment of reflection and remembrance brought about deep sorrow and repentance in Peter. It is worth noting that in this scene, Luke emphasizes the significance of Jesus' look, which pierced and broke Peter's heart. Through this prayer and look, Peter's faith was preserved, leading to salvation. Peter's reaction was not just tears, but a turning away from the company and a violent fit of weeping. He covered his head as a sign of mourning and shame, expressing his deep grief for his denial of the Lord.",
+            "wordCount": 105,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.6606873042163732,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "commentatorTierSimilarities": [
+                21.72,
+                32.95,
+                45.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Peter heard the cock crow and thought about his denial of Jesus, he wept. This moment of reflection and remembrance brought about deep sorrow and repentance in Peter. It is worth noting that in this scene, Luke emphasizes the significance of Jesus' look, which pierced and broke Peter's heart. Through this prayer and look, Peter's faith was preserved, leading to salvation. Peter's reaction was not just tears, but a turning away from the company and a violent fit of weeping. He covered his head as a sign of mourning and shame, expressing his deep grief for his denial of the Lord.",
+            "wordCount": 105,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.6606873042163732,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.56,
+            "commentatorTierSimilarities": [
+                21.72,
+                32.95,
+                45.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Peter heard the cock crow, he wept as he thought about his denial of Jesus. This moment of reflection brought about deep sorrow and repentance. Luke emphasizes the significance of Jesus' look, which pierced and broke Peter's heart. Through this prayer and look, Peter's faith was preserved. His reaction was not just tears but a turning away from the company and a violent fit of weeping, covering his head in mourning and shame. His grief for denying the Lord was evident.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.6118374176235477,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.94,
+            "commentatorTierSimilarities": [
+                21.61,
+                34.07,
+                44.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Peter heard the cock crow, he wept as he reflected on his denial of Jesus. Luke highlights the profound impact of Jesus' look on Peter, breaking his heart. This look, accompanied by Jesus' prayer, preserved Peter's faith and led to repentance and salvation. Peter's response was not limited to tears; he turned away from the company, weeping intensely and covering his head as a symbol of grief and shame. His sorrowful reaction displayed the depth of his remorse for denying the Lord.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.6199969170407509,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "commentatorTierSimilarities": [
+                21.78,
+                31.95,
+                46.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Peter heard the cock crow, he wept upon reflection of his denial of Jesus. The look that Jesus gave him pierced and broke Peter's heart, resulting in repentance and salvation. This moment carried the weight of Jesus' earlier words, where he had prayed for Peter's faith. Peter's response went beyond tears; he turned away from the company and wept vehemently, covering his head as a mourner would, expressing deep grief and shame for his denial of the Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.6920853195507228,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                21.87,
+                32.9,
+                45.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

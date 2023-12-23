@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:28:41",
+    "verseRef": "Mark 14:30",
+    "bestBHT": {
+        "bht": "In the unfolding events of that night, there is a climactic moment when the cock crows twice. This signifies the passing of time and symbolizes the impending denial to come. The denial will not only happen on that day but specifically during this night, before it is even over. The emphasis on the second crowing of the cock brings clarity to the timeline, noting that the denial will occur long before the break of dawn.",
+        "wordCount": 75,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.5608449188833524,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+        "commentatorTierSimilarities": [
+            41.98,
+            34.52,
+            23.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Notice the climax: this day, but not only this\u2014in this night, the part of it now present.",
+            "nor only so, but before the cock crow twice, i.e., long before the night is over.",
+            "the cock crow twice."
+        ],
+        "Marvin Vincent": [
+            "Cock crow. See on Matthew 26:34. Mark alone adds twice. Deny [\u03b1\u03c0\u03b1\u03c1\u03bd\u03b7\u03c3\u03b7] . The compound verb signifies utterly deny."
+        ],
+        "Philip Schaff": [
+            "That thou, emphatic, \u2018even thou.\u2019",
+            "Before the cock crow twice. Before the usual time of the second cock-crowing, about three o\u2019clock in the morning.",
+            "This night. The prediction becomes more specific."
+        ],
+        "Archibald T. Robertson": [
+            "One crowing is always the signal for more.",
+            "The Fayum papyrus agrees with Mark in having \u03b4\u03b9\u03c2.",
+            "The cock-crowing marks the third watch of the night."
+        ],
+        "John Gill": [
+            "Verily I say unto thee, as confident as thou art of standing by me, and abiding with me.",
+            "Before the cock crow twice, for there was a first and second cock crowing, the one at midnight, and the other near break of day.",
+            "Thou shalt deny me thrice; as he did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, there is a sense of urgency and emphasis as the night progresses. The cock crowing twice serves as a significant marker, representing the passing of time before a denial would occur. The first-tier commentaries note the significance of the second crowing, emphasizing that the denial would take place well before the night is over. The prediction becomes more specific, focusing on the individual being addressed, reinforcing a sense of confident assurance in the words spoken. The third-tier commentary provides further context, explaining that the first and second crowing of the cock occur at midnight and near dawn, respectively, indicating that the denial would occur three times, just as the individual did.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.443848815467264,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "commentatorTierSimilarities": [
+                39.0,
+                34.32,
+                26.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the unfolding events of that night, there is a climactic moment when the cock crows twice. This signifies the passing of time and symbolizes the impending denial to come. The denial will not only happen on that day but specifically during this night, before it is even over. The emphasis on the second crowing of the cock brings clarity to the timeline, noting that the denial will occur long before the break of dawn.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.5608449188833524,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+            "commentatorTierSimilarities": [
+                41.98,
+                34.52,
+                23.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this critical moment, the cock's dual crowing holds significance, marking the passage of time. The convergence of this day and night amplifies the weight of what is to come. The compound verb, deny, denotes a complete rejection. It is noteworthy that the first cockcrow acts as a signal, inviting subsequent crowing. Remarkably, the Fayum papyrus aligns with Mark, affirming the twofold crowing. By acknowledging the cock-crowing as a marker of the third watch, the specific timeline of events is further illuminated.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.3447040695555474,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.05,
+            "commentatorTierSimilarities": [
+                47.44,
+                28.9,
+                23.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the unfolding events, the two-fold crowing of the cock assumes great importance, indicating the passing of time. The compound verb deny emphasizes a complete rejection. Notably, the first crowing serves as a signal for further crows, while the Fayum papyrus supports the idea of a repetition. Delving deeper, the mention of the cock-crowing and its association with the third watch provides valuable context for understanding the timeline in question.",
+            "wordCount": 72,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.3485335994677141,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.18,
+            "commentatorTierSimilarities": [
+                48.8,
+                26.01,
+                25.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the night progresses, the dual crowing of the cock becomes a pivotal moment, signifying the passage of time. This prediction carries a sense of urgency and certainty, emphasizing that the denial will occur long before the night's end. The compound verb deny implies a complete and utter rejection. Notably, the first crowing acts as a signal for subsequent ones, intensifying the gravity of the situation. This specific timeline, aligned with the third watch of the night, further sheds light on the unfolding events.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.3107479589076005,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.93,
+            "commentatorTierSimilarities": [
+                40.57,
+                36.43,
+                23.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

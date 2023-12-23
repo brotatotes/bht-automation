@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:28:14",
+    "verseRef": "Mark 14:13",
+    "bestBHT": {
+        "bht": "A servant, likely a slave, bearing an earthenware pitcher of water, would serve as the identifying mark for the disciples. Luke reveals that the two disciples were Peter and John. They were instructed to follow the man into the house. This detail serves to demonstrate Jesus' unparalleled knowledge and power over people's hearts.",
+        "wordCount": 54,
+        "quoteTokenProportion": 35.56,
+        "qualityScore": 1.563107616165933,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+        "commentatorTierSimilarities": [
+            37.05,
+            35.61,
+            27.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "A man. A slave probably, whose business it was to draw water. See Deuteronomy 19:11. ",
+            "Pitcher. Of earthenware : keramion from keramov potter 's clay."
+        ],
+        "Philip Schaff": [
+            "A man bearing a pitcher of water. This was the sign by which they should know him.",
+            "The vessel was earthen, but the fact has no necessary significance.",
+            "Luke gives their names: \u2018Peter and John.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Two of his disciples (\u03b4\u03c5\u03bf \u03c4\u03c9\u03bd \u03bc\u03b1\u03b8\u03b7\u03c4\u03c9\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5). Luke 22:8 names them, Peter and John.",
+            "Bearing a pitcher of water (\u03ba\u03b5\u03c1\u03b1\u03bc\u03b9\u03bf\u03bd \u03c5\u03b4\u03b1\u03c4\u03bf\u03c2 \u03b2\u03b1\u03c3\u03c4\u03b1\u03b6\u03c9\u03bd). This item also in Luke, but not in Matthew."
+        ],
+        "John Gill": [
+            "Go ye into the city; the city of Jerusalem; for there only the passover might be eaten.",
+            "And there shall meet you a man bearing a pitcher of water; a servant of the master of the house that was sent for water, to mix with the wine, at the passover.",
+            "Follow him; into the house to which he goes."
+        ],
+        "John Wesley": [
+            "It was highly seasonable for our Lord to give them this additional proof both of his knowing all things, and of his influence over the minds of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A servant, most likely a slave, would be carrying an earthenware pitcher of water, the sign by which the disciples would recognize him. This man, mentioned by Luke but not by Matthew, would lead them to the city of Jerusalem where the Passover could be eaten. Once they found him, they were to follow him into the house. It was a timely opportunity for Jesus to demonstrate his omniscience and authority over people's hearts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.402862203277683,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                33.93,
+                27.49,
+                38.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A servant, likely a slave, bearing an earthenware pitcher of water, would serve as the identifying mark for the disciples. Luke reveals that the two disciples were Peter and John. They were instructed to follow the man into the house. This detail serves to demonstrate Jesus' unparalleled knowledge and power over people's hearts.",
+            "wordCount": 54,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.563107616165933,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+            "commentatorTierSimilarities": [
+                37.05,
+                35.61,
+                27.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A servant, possibly a slave, carrying a pitcher of water would symbolize the person the disciples were instructed to follow. The specific names of Peter and John are given by Luke, emphasizing their role in this event. By obeying Jesus' directive and following this man, the disciples would be led to the house. This episode showcased Jesus' divine knowledge and influence over people's minds, reinforcing his authority.",
+            "wordCount": 68,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.4631539840453516,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.99,
+            "commentatorTierSimilarities": [
+                36.31,
+                32.18,
+                31.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A servant, likely a slave, would be identified by carrying an earthenware pitcher of water, guiding the disciples to the designated house. In Luke's account, the names Peter and John are mentioned as the disciples who would encounter this servant. By obeying Jesus' instructions to follow this individual, the disciples would be led to their destination. This episode served as a demonstration of Jesus' omniscience and his ability to influence the thoughts of individuals.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.503247796629716,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.33,
+            "commentatorTierSimilarities": [
+                40.73,
+                30.53,
+                28.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were given a specific sign to recognize the servant - a man carrying a pitcher of water. Luke provides additional context by revealing the names of the two disciples - Peter and John. Following the servant would lead them to the house. This incident highlighted Jesus' divine knowledge and his ability to exercise control over people's minds.",
+            "wordCount": 58,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 1.4613065288665243,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "commentatorTierSimilarities": [
+                36.05,
+                33.81,
+                30.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

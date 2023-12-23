@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:27:44",
+    "verseRef": "Mark 13:25",
+    "bestBHT": {
+        "bht": "The language used in this vivid description should not solely be understood as referring to the final day, but rather as a portrayal of fear and awe that will grip men's hearts. The falling of the stars from the heavens, as depicted graphically in the original language, serves as a reminder of the profound impact of this event. While some may interpret it symbolically, it is crucial to grasp the magnitude of what is being conveyed.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.3339116930135364,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+        "commentatorTierSimilarities": [
+            90.64,
+            0.0,
+            9.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And the stars of heaven shall fall... the sea and the waves roaring; men's hearts failing them for fear.\" ",
+            "Though the grandeur of this language carries the mind over the head of all periods but that of Christ's Second Coming...\" ",
+            "We cannot therefore consider the mere strength of this language a proof that it refers exclusively or primarily to the precursors of the final day..."
+        ],
+        "Marvin Vincent": [
+            "The stars of heaven shall fall.",
+            "A rendering which falls very far short of the graphic original.",
+            "The stars shall be falling from heaven."
+        ],
+        "Archibald T. Robertson": [
+            "The stars shall be falling (\u03bf \u03b1\u03c3\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c3\u03bf\u03bd\u03c4\u03b1 \u03c0\u03b9\u03c0\u03c4\u03bf\u03bd\u03c4\u03b5\u03c2). Periphrastic future indicative, \u03b5\u03c3\u03bf\u03bd\u03c4\u03b1, future middle indicative and \u03c0\u03b9\u03c0\u03c4\u03bf\u03bd\u03c4\u03b5\u03c2, present active participle. "
+        ],
+        "John Gill": [
+            "The Jewish Rabbins and doctors, who fell off from the written word, and compiled their 'Misna', or oral law, their book of traditions, and set it up above the Bible...",
+            "The ordinances of the legal dispensation, which were shaken before, but now so shaken as to be removed...",
+            "Compare Haggai 2:6 with Hebrews 12:26."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When considering the verse, it is important to acknowledge the grandeur of the language used, though it may not exclusively refer to the final day. The stars of heaven falling from the sky is a graphic depiction, portrayed even more vividly in the original language. This rendering serves as a reminder of the fear and awe that will stir the hearts of men during this time. While some may interpret this verse in a more symbolic manner, it is crucial to focus on the overall message of the passage.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3209882952477334,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.27,
+            "commentatorTierSimilarities": [
+                90.84,
+                0.0,
+                9.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The language used in this vivid description should not solely be understood as referring to the final day, but rather as a portrayal of fear and awe that will grip men's hearts. The falling of the stars from the heavens, as depicted graphically in the original language, serves as a reminder of the profound impact of this event. While some may interpret this verse symbolically, it is crucial to grasp the magnitude of what is being conveyed.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.361281883675351,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                86.71,
+                0.0,
+                13.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The grandeur of this language should not be regarded only in relation to the final day, as it symbolizes the fear that will overwhelm men. The depiction of stars falling from the sky in the original language adds to the vividness of the image. While interpretations may vary, focusing on the impact of this event is crucial. Acknowledging the profound nature of what is being conveyed allows for a deeper understanding of the message.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.111114734157551,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.29,
+            "commentatorTierSimilarities": [
+                116.44,
+                0.0,
+                -16.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The language used in this passage is grand and vivid, describing the stars of heaven falling and men's hearts filled with fear. While this depiction may not exclusively refer to the final day, its graphic original serves as a reminder of the awe-inspiring nature of this event. Interpreting the verse symbolically should not overshadow the significance of what is being conveyed. It is crucial to understand the profound impact that this event will have on humanity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.188346756758284,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+            "commentatorTierSimilarities": [
+                94.84,
+                0.0,
+                5.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The language used in this vivid description should not solely be understood as referring to the final day, but rather as a portrayal of fear and awe that will grip men's hearts. The falling of the stars from the heavens, as depicted graphically in the original language, serves as a reminder of the profound impact of this event. While some may interpret it symbolically, it is crucial to grasp the magnitude of what is being conveyed.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3339116930135364,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.7,
+            "commentatorTierSimilarities": [
+                90.64,
+                0.0,
+                9.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

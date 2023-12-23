@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:23:34",
+    "verseRef": "Mark 6:47",
+    "bestBHT": {
+        "bht": "The disciples embarked on their journey, but to their distress, a strong wind caused the seas to rise. As they struggled, Jesus had come down from the mountain where he had prayed to the Father. In the darkness, Jesus had not yet joined them, leaving the disciples feeling hopeless in the midst of their turbulent voyage. This created the perfect scenario for the incredible miracle that was about to unfold: Jesus walking on water to reach his disciples in their time of need.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.6441527028135412,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+        "commentatorTierSimilarities": [
+            47.95,
+            0.0,
+            52.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "It had come even when the disciples embarked.",
+            "Perhaps they made no great effort to push across at first, having a lingering hope that their Master would yet join them.",
+            "And the sea arose, by reason of a great wind that blew."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus had come down out of the mountain where he had prayed to the Father.",
+            "He is by the sea again in the late twilight.",
+            "It was now dark and Jesus had not yet come to them."
+        ],
+        "John Gill": [
+            "This is observed, partly to show what distress the disciples were in, in the midst of the sea, having a hard gale of wind, and their master not with them...",
+            "...partly to show that there was no way, humanly speaking, of Christ's getting to the ship, in order to go over...",
+            "...an illustration of the following miracle, of walking so many furlongs, as he must, upon the water, in a stormy, blustering night, to get to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples had set out in the boat without Jesus, but the sea grew rough due to a strong wind. As they struggled through the waves in the late twilight, darkness settled in and Jesus had still not joined them. They were in great distress, feeling hopeless as their Master was not with them. This sets the stage for the miraculous event that was about to unfold, as Jesus would go on to walk on water in the midst of the storm to reach them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.5997959322953126,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                46.45,
+                0.0,
+                53.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the disciples ventured across the sea without Jesus, a fierce wind arose, causing the waves to swell. The disciples, in distress, were left waiting in the boat while Jesus remained on the mountain, praying to the Father. As darkness fell, Jesus had yet to join them. This situation highlights the seemingly impossible task Jesus would soon accomplish: walking on water in the midst of a storm to reach his disciples, demonstrating his divine power and presence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6424899864211309,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+            "commentatorTierSimilarities": [
+                47.37,
+                0.0,
+                52.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples set out in the boat without Jesus, hoping he would join them soon. However, the sea grew tumultuous due to a strong wind. Meanwhile, Jesus had come down from the mountain where he had been praying and arrived by the sea in the dark, and yet, he had not yet reached the disciples. This sets the stage for the remarkable miracle about to occur: Jesus walking on water amidst the stormy night to reach the distressed disciples in their hour of need.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.547542632747998,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                46.27,
+                0.0,
+                53.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples embarked on their journey, hopeful that Jesus would soon join them. However, as they sailed, the sea became turbulent due to a powerful wind. Jesus, having finished his time in prayer, descended from the mountain and arrived by the sea under the cover of night. Yet, to their dismay, Jesus had not yet reached them. Little did they know that this apparent delay would set the stage for the miraculous event to come: Jesus walking on water to join his struggling disciples.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.492734133520383,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+            "commentatorTierSimilarities": [
+                51.25,
+                0.0,
+                48.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples embarked on their journey, but to their distress, a strong wind caused the seas to rise. As they struggled, Jesus had come down from the mountain where he had prayed to the Father. In the darkness, Jesus had not yet joined them, leaving the disciples feeling hopeless in the midst of their turbulent voyage. This created the perfect scenario for the incredible miracle that was about to unfold: Jesus walking on water to reach his disciples in their time of need.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.6441527028135412,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                47.95,
+                0.0,
+                52.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

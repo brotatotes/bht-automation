@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:27:30",
+    "verseRef": "Mark 12:27",
+    "bestBHT": {
+        "bht": "God is the God of the living, not the dead. No human being is truly dead to God, as all mankind sustains a conscious relationship with Him. Those accounted worthy to obtain the world to come enter into an unbreakable covenant with God. Therefore, it is a grave error to think otherwise. The solemn, severe, but kindly close in Mark emphasizes the seriousness of this mistake. To be the God of someone indicates a relation to them as living, pointing to the certainty of a future blessedness and bodily resurrection.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.6634107310167123,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+        "commentatorTierSimilarities": [
+            44.13,
+            0.0,
+            55.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He is not the God of the dead, but the God of the living.\" ",
+            "To God no human being is dead or ever will be, but all mankind sustain an abiding conscious relation to Him.",
+            "The 'all' here means 'those who shall be accounted worthy to obtain that world.' These sustain a gracious covenant relation to God which cannot be dissolved."
+        ],
+        "Marvin Vincent": [
+            "Ye do greatly err. An emphatic close, peculiar to Mark."
+        ],
+        "Archibald T. Robertson": [
+            "Ye do greatly err (\u03c0\u03bf\u03bb\u03c5 \u03c0\u03bb\u03b1\u03bd\u03b1\u03c3\u03b8\u03b5). Only in Mark. Solemn, severe, impressive, but kindly close (Bruce). "
+        ],
+        "John Gill": [
+            "since God is the God of these persons, they must be now alive in their souls",
+            "their bodies must rise again, or he will not be the God of their whole persons",
+            "it was not a slight mistake, an error of small importance, but a very great one"
+        ],
+        "John Wesley": [
+            "He is not the God of the dead, but the God of the living.\" ",
+            "the character of his being the God of any persons, plainly intimates a relation to them, not as dead, but as living",
+            "there must needs be a future state of blessedness, and a resurrection of the body to share with the soul in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God is the God of the living, not the dead. This means that no human being is truly dead to God, but rather all mankind sustains an abiding conscious relationship with Him. Those who are accounted worthy to obtain the world to come enter into a gracious covenant relationship with God that cannot be dissolved. Therefore, to say otherwise is a grave error. The emphatic closing of the passage in Mark emphasizes the seriousness of this mistake. This highlights the importance of understanding that since God is the God of these persons, their souls are alive in Him and their bodies will rise again. This points to the certainty of a future state of blessedness and the resurrection of the body to partake in it.",
+            "wordCount": 125,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.4871477079566442,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+            "commentatorTierSimilarities": [
+                38.76,
+                0.0,
+                61.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is the God of the living, not the dead. No human being is truly dead to God, as all mankind sustains a conscious relationship with Him. Those accounted worthy to obtain the world to come enter into an unbreakable covenant with God. Therefore, it is a grave error to think otherwise. The solemn, severe, but kindly close in Mark emphasizes the seriousness of this mistake. To be the God of someone indicates a relation to them as living, pointing to the certainty of a future blessedness and bodily resurrection.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.6634107310167123,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                44.13,
+                0.0,
+                55.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No human being is dead or ever will be to God, as He is the God of the living. Those who are accounted worthy have a gracious covenant relationship with Him that cannot be dissolved. It is a great error to think otherwise. The emphatic close in Mark emphasizes the seriousness of this mistake. This highlights the importance of understanding that God's relation to any person suggests a connection to them as living. Thus, a future state of blessedness and bodily resurrection is necessary to fully embrace this relationship.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.4431067336495658,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.33,
+            "commentatorTierSimilarities": [
+                44.17,
+                0.0,
+                55.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Mark, Jesus teaches that God is the God of the living, not the dead. This means that no human being is dead to God, but rather all sustain an abiding conscious relation with Him. It is a grave error to think otherwise. The emphasis in Mark underscores the severity of this mistake. Recognizing that God's relationship with someone implies a connection to them as living reveals the need for a future state of blessedness and a bodily resurrection to fully experience this bond.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.589354170832653,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.19,
+            "commentatorTierSimilarities": [
+                46.35,
+                0.0,
+                53.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To God, no human being is truly dead, but rather all maintain an abiding conscious relation with Him. Those deemed worthy have an unbreakable covenant with God. To think otherwise is a significant error. The forceful yet compassionate ending in Mark highlights the importance of recognizing this mistake. As God is the God of the living, it indicates a relation to them as living, both in soul and body. This underlines the necessity of a future state of blessedness and bodily resurrection to fully partake in God's promise.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.4827475463777136,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.64,
+            "commentatorTierSimilarities": [
+                43.78,
+                0.0,
+                56.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

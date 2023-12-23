@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:28:45",
+    "verseRef": "Mark 14:43",
+    "bestBHT": {
+        "bht": "Judas' abrupt arrival with a multitude, along with the chief priests, captains of the temple, and elders, signifies the fulfillment of his treachery. The Sanhedrin, with whom Judas had struck a deal, were evidently involved in this scheme. Their appearance armed with swords and staves suggests their anticipation of resistance or a potential rescue. For further details and context, one can refer to Matthew 26:47, Luke 22:47, and John 18:2.",
+        "wordCount": 67,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.3748552032555885,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.06,
+        "commentatorTierSimilarities": [
+            38.5,
+            16.92,
+            44.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "One of the twelve. See on Matthew 26:47; as also on multitude."
+        ],
+        "Philip Schaff": [
+            "Mark 14:43. Straightway. Mark\u2019s favorite expression; the appearance of Judas and his band was sudden.",
+            "\t",
+            " The scribes. Peculiar to Mark, as in other cases.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "It was evidently a committee of the Sanhedrin for Judas had made his bargain with the Sanhedrin.\" ",
+            "Mark adds this item while John 18:3 mentions 'Pharisees'.",
+            "See discussion of the betrayal and arrest on Matthew 26:47-56 for details."
+        ],
+        "John Gill": [
+            "and with him a great multitude; a band of men and officers, with many of the chief priests and captains of the temple, and elders of the people, that mixed themselves with the crowd, to see how things would issue.\"  ",
+            "with swords and staves; which they intended to make use of, should any resistance be made in apprehending him, or any attempt to rescue him\"  ",
+            "from the chief priests, and the Scribes, and the elders; from the Jewish sanhedrim, which consisted of these"
+        ],
+        "John Wesley": [
+            "Matthew 26:47; Luke 22:47; John 18:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Judas appeared with a band of men and officers, including the chief priests, captains of the temple, and elders of the people, the suddenness of their arrival is captured by Mark's use of the phrase straightway. This scene marks the fulfillment of Judas' betrayal, for he had made his bargain with the Sanhedrin, a committee that was involved in this plot. The presence of the chief priests, officers, and elders with swords and staves suggests their preparation for resistance or a possible rescue attempt. Matthew 26:47, Luke 22:47, and John 18:2 provide further details and context on this event.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.4568570526786389,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.78,
+            "commentatorTierSimilarities": [
+                33.16,
+                19.51,
+                47.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas' sudden appearance with a multitude including the chief priests, captains of the temple, and elders reveals the fulfillment of his betrayal. The Sanhedrin, with whom Judas had made his bargain, orchestrated this plot. Their arrival with swords and staves suggests a readiness for resistance or a potential rescue attempt. Additional insight can be found in Matthew 26:47, Luke 22:47, and John 18:2, which provide more details on this event.",
+            "wordCount": 67,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.3630449311420276,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.66,
+            "commentatorTierSimilarities": [
+                39.52,
+                15.81,
+                44.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas' abrupt arrival with a multitude, along with the chief priests, captains of the temple, and elders, signifies the fulfillment of his treachery. The Sanhedrin, with whom Judas had struck a deal, were evidently involved in this scheme. Their appearance armed with swords and staves suggests their anticipation of resistance or a potential rescue. For further details and context, one can refer to Matthew 26:47, Luke 22:47, and John 18:2.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.3748552032555885,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.06,
+            "commentatorTierSimilarities": [
+                38.5,
+                16.92,
+                44.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas, one of the twelve, made his sinister appearance accompanied by a great multitude, including the chief priests, captains of the temple, and elders. This sudden arrival marked the culmination of his betrayal that he had orchestrated with the Sanhedrin. The presence of swords and staves indicated their preparedness for resistance or the need to thwart any attempt of rescue. To gain a deeper understanding of this event, one can explore the details provided in Matthew 26:47, Luke 22:47, and John 18:2.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.3183497078980029,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.18,
+            "commentatorTierSimilarities": [
+                39.14,
+                15.8,
+                45.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Judas appeared with a multitude, including the chief priests, captains of the temple, and elders of the people, the suddenness of their arrival is captured by Mark's use of the phrase straightway. This scene marks the fulfillment of Judas' betrayal, for he had made his bargain with the Sanhedrin, a committee that was involved in this plot. The presence of the chief priests, officers, and elders with swords and staves suggests their preparation for resistance or a possible rescue attempt. Matthew 26:47, Luke 22:47, and John 18:2 provide further details and context on this event.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.4748229062174547,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.38,
+            "commentatorTierSimilarities": [
+                33.89,
+                20.02,
+                46.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

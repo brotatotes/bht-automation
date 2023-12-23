@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:20:22",
+    "verseRef": "Mark 1:20",
+    "bestBHT": {
+        "bht": "Zebedee and his sons were not poor fishermen, but had hired servants, indicating a larger fishing business. Leaving their father and the hired servants behind required sacrifice and reflects the commitment needed to follow Jesus. Zebedee was not left helpless, and the phrase with the hired servants emphasizes that the business would continue. Powerfully called by Jesus, James and John willingly left their natural affection and the potential profit to follow Him.",
+        "wordCount": 72,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 1.7786370633214184,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+        "commentatorTierSimilarities": [
+            31.6,
+            18.81,
+            49.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It gives us a view of the station of life of Zebedee and his sons; they were not poor fishermen, but had hired servants.",
+            "May we not venture to say that both these accounts came from Peter originally?",
+            "This carefully corrected and rendered accurate, even to the omitting the name Peter, which, though generally known, and therefore mentioned in the oral account, was perhaps not yet formally given, and must be omitted in the historical."
+        ],
+        "Marvin Vincent": [
+            "With the hired servants",
+            "Peculiar to Mark. It may imply that Zebedee carried on his business on a larger scale than ordinary fishermen."
+        ],
+        "Philip Schaff": [
+            "Zebedee was not poor, and was not left helpless by this act of his sons.",
+            "Went after him, not simply 'followed Him' (Matt. and Luke).",
+            "The order of Mark is probably the more exact, Peter being an eye-witness throughout."
+        ],
+        "Archibald T. Robertson": [
+            "They left the boat and their father (Matthew 4:22) with the hired servants. The business would go on while they left all (Luke 5:11) and became permanent followers of Jesus.",
+            "Many a young man has faced precisely this problem when he entered the ministry. Could he leave father and mother, brothers and sisters, while he went forth to college and seminary to become a fisher of men?",
+            "Not the least of the sacrifices made in the education of young preachers is that made by the home folks who have additional burdens to bear because the young preacher is no longer a bread-winner at home."
+        ],
+        "John Gill": [
+            "It might seem unnatural, had they left their father alone in the ship...and therefore it is added, 'with the hired servants'; who were hired for that purpose...and therefore were not to be charged with want of humanity.",
+            "Such was the power that went along with Christ's call, that notwithstanding natural affection to their parents, and the gain they might get by these servants and their trade, they cheerfully quitted all, and followed Christ.",
+            "And they left their father Zebedee with the hired servants, and went after him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Zebedee and his sons, James and John, were not poor fishermen but had hired servants, indicating a larger scale of their fishing business. It is likely that the accounts of their calling came from Peter, who may have omitted his own name for accuracy. The sacrifice made by leaving their father and the hired servants behind highlights the commitment and dedication required to follow Jesus. This mirrors the sacrifices made by young preachers in leaving their families to pursue their calling. Zebedee was not left helpless by his sons' departure, and the phrase with the hired servants emphasizes that the business would continue. The power of Christ's call was so strong that James and John willingly left behind their natural affection for their parents and the potential profit from their trade to follow Him.",
+            "wordCount": 135,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7350344352253773,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+            "commentatorTierSimilarities": [
+                32.39,
+                20.27,
+                47.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Zebedee and his sons were not poor fishermen, but had hired servants, indicating a larger fishing business. It is likely that the accounts of their calling came from Peter, who may have omitted his own name for accuracy. Leaving their father and the hired servants behind required sacrifice and reflects the commitment needed to follow Jesus. This mirrors the sacrifices made by young preachers in leaving their families. Zebedee was not left helpless, and the phrase with the hired servants emphasizes that the business would continue. Powerfully called by Jesus, James and John willingly left their natural affection and the potential profit to follow Him.",
+            "wordCount": 105,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6894228099977648,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.52,
+            "commentatorTierSimilarities": [
+                32.54,
+                20.69,
+                46.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Zebedee and his sons, James and John, were not poor fishermen, but had hired servants, indicating a larger scale of their fishing business. Leaving their father and the hired servants behind required sacrifice and reflects the commitment needed to follow Jesus. Zebedee was not left helpless, and the phrase with the hired servants emphasizes that the business would continue. Powerfully called by Jesus, James and John willingly left their natural affection and the potential profit to follow Him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.7779733403151763,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                31.64,
+                18.81,
+                49.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zebedee and his sons, James and John, were not poor fishermen, but had hired servants, indicating a larger scale of their fishing business. The sacrifice of leaving their father and the hired servants behind reflects the commitment required to follow Jesus. The phrase with the hired servants emphasizes that the business would continue. Despite the natural affection and potential profit they left behind, James and John willingly followed Jesus, demonstrating the power of His call.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6892221414744375,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                33.6,
+                16.46,
+                49.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zebedee and his sons were not poor fishermen, but had hired servants, indicating a larger fishing business. Leaving their father and the hired servants behind required sacrifice and reflects the commitment needed to follow Jesus. Zebedee was not left helpless, and the phrase with the hired servants emphasizes that the business would continue. Powerfully called by Jesus, James and John willingly left their natural affection and the potential profit to follow Him.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.7786370633214184,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "commentatorTierSimilarities": [
+                31.6,
+                18.81,
+                49.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

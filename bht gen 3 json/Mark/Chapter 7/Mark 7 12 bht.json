@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:23:46",
+    "verseRef": "Mark 7:12",
+    "bestBHT": {
+        "bht": "Jesus exposes a teaching that allowed people to neglect their parents. The Pharisees' emphasis on keeping vows meant that individuals were obligated to prioritize fulfilling their vows over caring for their parents, even if the parents were poor or helpless. This clash between human traditions and God's commandments is evident, as the Pharisees insisted on the observance of vows, even when it went against the command to honor and care for one's parents unless a wise authority intervened to dissolve the vow.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.1238045161323136,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.71,
+        "commentatorTierSimilarities": [
+            16.67,
+            31.29,
+            52.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "12.] See note on Matthew, ver. 5."
+        ],
+        "Philip Schaff": [
+            "Their teachings virtually permitted him to neglect his father and mother altogether.",
+            "Not necessarily that they actively forbade it.",
+            "This is the comment of our Lord, not the language of the Pharisees."
+        ],
+        "John Gill": [
+            "If a man vowed a thing which is contrary to a command, he was obliged to keep his vow, and break the command.",
+            "He was obliged to keep his vow; nor was he allowed after this to do anything for his father, or mother, however poor or helpless they might be.",
+            "They did not rescind the vow, because it was contrary to the command of God: for notwithstanding its being contrary to the command of God, it was to be observed, though to the breaking of that, unless loosed by a wise man, at the man's request."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 7:12, Jesus refers to a teaching that permitted someone to neglect their father and mother. Although the Pharisees didn't necessarily forbid honoring parents, their interpretation of vows allowed individuals to prioritize keeping their vows over caring for their parents. This meant that even if someone's parents were poor or helpless, the Pharisees would not allow them to break their vows to help their parents. It was considered obligatory to keep a vow, even if it went against God's command to honor our parents.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.1725743757410942,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.33,
+            "commentatorTierSimilarities": [
+                13.12,
+                31.28,
+                55.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus confronts a teaching that permitted neglect of one's parents. The Pharisees, while not explicitly forbidding the honoring of parents, applied vows in a way that prioritized their observance over caring for parents. This meant that, regardless of the dire circumstances of the parents, the Pharisees insisted on fulfilling the vow and disregarding the obligation to care for family. The clash between man-made rules and God's commandments is apparent, as even vows contrary to God's command were expected to be kept, unless otherwise determined by a wise authority.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.1678331625495493,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.17,
+            "commentatorTierSimilarities": [
+                16.79,
+                33.13,
+                50.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus addresses a teaching that allowed individuals to neglect their parents. The Pharisees, while not explicitly prohibiting the honor due to parents, upheld vows that took precedence over filial obligations. This meant that even in situations where parents were impoverished or helpless, the vows would take precedence, rendering individuals unable to fulfill their duty towards their parents. Despite contradicting God's command, the Pharisees insisted on the observance of vows unless a wise authority intervened to release them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.1140284328178454,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.39,
+            "commentatorTierSimilarities": [
+                14.8,
+                33.26,
+                51.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus confronts a teaching that permitted neglect of parents. The Pharisees upheld vows, even if they contradicted God's command to honor one's mother and father. This meant that individuals were obligated to prioritize fulfilling their vows over caring for their parents, regardless of their parents' financial or physical needs. The clash between man-made rules and God's commandments is evident, as the Pharisees required the observance of vows, unless released by a wise authority, in spite of their contradiction to honoring parents.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.0881803737487148,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.53,
+            "commentatorTierSimilarities": [
+                16.58,
+                32.61,
+                50.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus exposes a teaching that allowed people to neglect their parents. The Pharisees' emphasis on keeping vows meant that individuals were obligated to prioritize fulfilling their vows over caring for their parents, even if the parents were poor or helpless. This clash between human traditions and God's commandments is evident, as the Pharisees insisted on the observance of vows, even when it went against the command to honor and care for one's parents unless a wise authority intervened to dissolve the vow.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.1238045161323136,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.71,
+            "commentatorTierSimilarities": [
+                16.67,
+                31.29,
+                52.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

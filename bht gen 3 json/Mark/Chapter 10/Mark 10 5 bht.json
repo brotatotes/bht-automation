@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:25:27",
+    "verseRef": "Mark 10:5",
+    "bestBHT": {
+        "bht": "Mark 10:5 reveals the human tendency towards hardness of heart, resulting in sin. The precepts of the Mosaic law were not intended to promote divorce but rather to address the general sinfulness and harsh treatment of wives. Some of these laws were temporary and served as educational tools for the chosen people. By contrast, the Abrahamic covenant, which Paul uplifts in Galatians 3:0, holds a more permanent significance, emphasizing the enduring nature of God's intentions.",
+        "wordCount": 74,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.5325511115174446,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+        "commentatorTierSimilarities": [
+            0.0,
+            59.48,
+            40.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "For your hardness of heart. Their general sinfulness, with special reference to harshness toward their wives, which this regulation was designed to counteract. It was not to encourage divorce.",
+            "He wrote. This implies that some of the precepts of the Mosaic law were of temporary validity, designed only to educate the chosen people.",
+            "The law of Paradise is, in one sense, more permanent, just as Paul exalts the Abrahamic covenant above the law (Galatians 3:0)."
+        ],
+        "John Gill": [
+            "For the hardness of your heart he wrote you this precept."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some commentators suggest that Mark 10:5 highlights the hardness of heart that humanity possesses and how this leads to sin. They emphasize that the precepts of the Mosaic law were not meant to encourage divorce but rather to address the general sinfulness and harshness towards wives. It is also noted that certain laws in the Mosaic law were temporary, serving as educational tools for the chosen people. Ultimately, the verse reminds us that the law of Paradise is more permanent, as Paul also affirms in Galatians 3:0 when he exalts the Abrahamic covenant above the law.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.7163102155251924,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                0.0,
+                65.54,
+                34.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mark 10:5 reveals the human tendency towards hardness of heart, resulting in sin. The precepts of the Mosaic law were not intended to promote divorce but rather to address the general sinfulness and harsh treatment of wives. Some of these laws were temporary and served as educational tools for the chosen people. By contrast, the Abrahamic covenant, which Paul uplifts in Galatians 3:0, holds a more permanent significance, emphasizing the enduring nature of God's intentions.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.5325511115174446,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                0.0,
+                59.48,
+                40.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark 10:5 reminds us of humanity's inclination towards hardness of heart, which often results in sinful actions. The Mosaic law, including regulations about divorce, aimed to address this sinful nature rather than encourage divorce. It is important to note that some laws in the Mosaic law were temporary, serving as teaching tools for God's chosen people. By contrast, the Abrahamic covenant, which is highlighted by Paul in Galatians 3:0, holds a more enduring significance, indicating God's unchanging intentions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.4927233093870746,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.98,
+            "commentatorTierSimilarities": [
+                0.0,
+                64.07,
+                35.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark 10:5 reveals the reality of humanity's hardness of heart, which leads to sinful behavior. The law of Moses, including regulations concerning divorce, was not intended to promote divorce but rather to address the prevalent sinfulness and mistreatment of wives. Certain precepts of the Mosaic law were temporary and served as educational tools for the chosen people. However, the Abrahamic covenant, as emphasized by Paul in Galatians 3:0, holds a greater permanence, highlighting God's unchanging intentions and the superiority of His covenant.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.5194056055200915,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.22,
+                38.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark 10:5 reveals that humanity's hardness of heart is the root cause of sinful actions. The Mosaic law, including regulations on divorce, aims to address this sinfulness rather than encourage divorce. Certain laws in the Mosaic law are temporary and were designed as educational tools for the chosen people. The Abrahamic covenant, as emphasized in Galatians 3:0, holds a more permanent significance, highlighting God's unchanging intentions.",
+            "wordCount": 66,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.5124376625774525,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                0.0,
+                63.66,
+                36.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -7,7 +7,7 @@ if __name__ == '__main__':
     verses = []
     for book in [BibleRange(b) for b in [
         "Matthew",
-        # "Mark",
+        "Mark",
         "Luke",
         "John",
         "Acts",

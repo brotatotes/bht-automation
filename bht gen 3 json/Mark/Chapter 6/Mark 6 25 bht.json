@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:23:32",
+    "verseRef": "Mark 6:25",
+    "bestBHT": {
+        "bht": "The narrative emphasizes the swift and eager haste with which the murder of John the Baptist was carried out, driven by Herodias' calculated manipulation and her insistence on the immediate fulfillment of her request. With great concern and diligence, she wasted no time returning to the hall, demanding the head of John be brought to her on a large dish. Herodias' ability to exploit the situation and her knowledge of how to play the game reveal her true nature as a member of the Herodian family.",
+        "wordCount": 86,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 1.2645427645144056,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+        "commentatorTierSimilarities": [
+            20.54,
+            20.27,
+            59.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "25. I will that thou give me by and",
+            "\tby\u2014rather, \"at once.\" ",
+            "\t",
+            "in a charger\u2014large,",
+            "\tflat trencher. ",
+            "\t",
+            "the head of John the Baptist."
+        ],
+        "Marvin Vincent": [
+            "Mark's narrative emphasizes the eager haste with which the murder was pushed.",
+            "By and by [\u03b5\u03be\u03b1\u03c5\u03c4\u03b7\u03c2] . Obsolete in the old sense of immediately.",
+            "The expression by and by in older English was sometimes used of place."
+        ],
+        "Philip Schaff": [
+            "With haste. She shows no reluctance, but is a genuine daughter of the Herodian family.\" ",
+            "Her request is put most strongly: I will, i.e., this is my choice.",
+            "Forthwith, after as short an interval as possible."
+        ],
+        "Archibald T. Robertson": [
+            "Before the king's rash mood passed and while he was still under the spell of the dancing princess.",
+            "Herodias knew her game well.",
+            "Herodias knew her game well. See on Matthew 14:8."
+        ],
+        "John Gill": [
+            "Having had her mother's advice, and being hastened by her, she immediately returned to the hall, where the king and his guests were, with much Concern, eagerness, and diligence.",
+            "[Her petition] insisting upon it, that in a very little time, 'this hour', as the Syriac version renders it, within an hour's time, or less; and 'here', as Matthew has it, in that very place, and whilst the company was there...",
+            "...that orders should be given to cut off the head of John the Baptist, and that that should be brought, in a large dish, unto her; and this was what she had to ask, and insisted upon the immediate and punctual performance of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The narrative of Mark 6:25 reveals the eager haste with which the murder of John the Baptist was pushed. The request from Herodias, fueled by her mother's advice, was made with great concern, diligence, and insistence on immediate action. As the king's rash mood and fascination with the dancing princess clouded his judgment, Herodias knew how to manipulate the situation to fulfill her desires. She wasted no time in returning to the hall, demanding the head of John the Baptist be brought to her on a large dish. This request was made with such urgency that it needed to be fulfilled within the hour, in the very place where the company was gathered. The willingness of Herodias to carry out this gruesome act shows her to be a true daughter of the Herodian family.",
+            "wordCount": 135,
+            "quoteTokenProportion": 32.18,
+            "qualityScore": 1.2495000349515832,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.89,
+            "commentatorTierSimilarities": [
+                19.15,
+                26.15,
+                54.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The narrative depicts the eager haste with which the murder of John the Baptist was carried out, fueled by Herodias' manipulation and insistence on immediate action. Not wasting a moment, she returned to the hall, demanding John's head be brought to her on a large dish, emphasizing the urgency of her request. Herodias' knowledge of the situation and her mother's guidance allowed her to swiftly execute her plan, showcasing her true nature as a member of the Herodian family.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.2457116119351732,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.76,
+            "commentatorTierSimilarities": [
+                15.91,
+                26.24,
+                57.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The narrative highlights the intense urgency with which Herodias pursued the murder of John the Baptist. She swiftly returned to the hall, pressing for the immediate beheading of John and insisting on its prompt execution. Herodias, guided by her mother and motivated by her own desires, manipulated the situation to ensure her request was fulfilled without delay. This grim display of haste and determination underscores Herodias' true character as a shrewd member of the Herodian family.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.2186722713712403,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.86,
+            "commentatorTierSimilarities": [
+                18.0,
+                28.81,
+                53.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With great eagerness and diligence, Herodias wasted no time returning to the hall, demanding the immediate beheading of John the Baptist. Her insistence on the prompt execution of her request showcases her cunning and knowledge of the situation, as well as her manipulation of the circumstances to fulfill her desires. Swiftly pressing for the head of John in a large dish, Herodias reveals her true nature as a member of the Herodian family, driven by her own agenda.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.213970053112871,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.71,
+            "commentatorTierSimilarities": [
+                13.72,
+                24.53,
+                61.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The narrative emphasizes the swift and eager haste with which the murder of John the Baptist was carried out, driven by Herodias' calculated manipulation and her insistence on the immediate fulfillment of her request. With great concern and diligence, she wasted no time returning to the hall, demanding the head of John be brought to her on a large dish. Herodias' ability to exploit the situation and her knowledge of how to play the game reveal her true nature as a member of the Herodian family.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.2645427645144056,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.39,
+            "commentatorTierSimilarities": [
+                20.54,
+                20.27,
+                59.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

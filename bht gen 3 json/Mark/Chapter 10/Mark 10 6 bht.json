@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:25:31",
+    "verseRef": "Mark 10:6",
+    "bestBHT": {
+        "bht": "From the beginning of the creation of the world, God made them male and female, so that there could be no polygamy or divorce. This suggests that there was no creation previous to that described by Moses. Adam was initially created as a male and Eve as a female. In a state of innocence, God joined them together as husband and wife.",
+        "wordCount": 62,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7458461668067238,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.39,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "But from the beginning of the creation of the world",
+            "God made them male and female",
+            "so that there could be no polygamy or divorce"
+        ],
+        "John Wesley": [
+            "From the beginning of the creation \u2014 [...] Does it not clearly follow, that there was no creation previous to that which Moses describes?\" (Mark 10:6)",
+            "God made them male and female - Therefore Adam did not at first contain both sexes in himself: but God made Adam, when first created, male only; and Eve female only.\" (Mark 10:6)",
+            "And this man and woman he joined together, in a state of innocence, as husband and wife.\" (Mark 10:6)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From the beginning of the creation of the world, God made them male and female, so that there could be no polygamy or divorce. This verse suggests that there was no creation previous to that which Moses describes, and that initially, Adam was created male only and Eve was created female only. In a state of innocence, God joined them together as husband and wife. (Mark 10:6)",
+            "wordCount": 66,
+            "quoteTokenProportion": 48.89,
+            "qualityScore": 1.6039576499569628,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God made them male and female from the beginning of the creation of the world, so that there could be no polygamy or divorce. This verse indicates that there was no creation previous to that described by Moses. Adam was initially created as a male and Eve as a female. In a state of innocence, God joined them together as husband and wife.",
+            "wordCount": 63,
+            "quoteTokenProportion": 48.84,
+            "qualityScore": 1.7503697582555873,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From the beginning of the creation of the world, God made them male and female, so that there could be no polygamy or divorce. This suggests that there was no creation previous to that described by Moses. Adam was initially created as a male and Eve as a female. In a state of innocence, God joined them together as husband and wife.",
+            "wordCount": 62,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7458461668067238,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.39,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From the beginning of the creation of the world, God made them male and female so that there could be no polygamy or divorce. It is clear from Mark 10:6 that there was no creation before the one described by Moses. Adam was originally created as a male, and God created Eve as a female, joining them together in a state of innocence as husband and wife. This verse emphasizes the divine design and intention for marriage from the very beginning of time.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.7466431467386965,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "From the beginning of the creation of the world, God made them male and female so that there could be no polygamy or divorce. It is clear that there was no creation before the one described. Adam was originally created as a male, and God created Eve as a female, joining them together as husband and wife. This verse highlights the divine design and intention for marriage from the very beginning.",
+            "wordCount": 71,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.6442913000830992,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

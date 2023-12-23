@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:25:26",
+    "verseRef": "Mark 9:12",
+    "bestBHT": {
+        "bht": "The sense given by this statement is extremely meagre and without precedence in our Lord's discourses. It concludes by affirming that Elias has come and suggests that the sufferings of the Son of Man were imminent. Just as the first coming of the Son of Man involved suffering and death, so did the first coming of Elias fulfill prophecy. Jesus patiently clarifies the understanding of his disciples as they engage in an argument about the interpretation of the scribes. It becomes evident that the predicted Elijah has indeed come and suffered, identifying John the Baptist as this Elijah.",
+        "wordCount": 99,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.986090278507687,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+        "commentatorTierSimilarities": [
+            36.7,
+            38.47,
+            24.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But not to mention that such a sentence would be without example in our Lord\u2019s discourses, the sense given by it is meagre in the extreme.",
+            "Then comes the conclusion in ver. 13 with But I say unto you, stating that Elias has come, and leaving it therefore to be inferred that the sufferings of the Son of Man were close at hand.",
+            "Just as the first coming of the Son of Man is to suffer and to die, so has the first coming of Elias been as it was written of him; but there is a future coming of Elias to restore all things, and of the Son of Man in glory."
+        ],
+        "Philip Schaff": [
+            "The next verse shows that the main point is not so much to prove that the Son of man must soon suffer, as that the predicted Elijah had come, and, like the Old Testament Elijah, had suffered as the Messiah also would...\" (emphasis added). ",
+            "...hence that this Elijah was John the Baptist...\" (emphasis added).",
+            "Most later scholars take the first half only as a question: And how is it written of the Son of man? then the answer: That he should suffer, etc."
+        ],
+        "Archibald T. Robertson": [
+            "Restoreth all things (\u03b1\u03c0\u03bf\u03ba\u03b1\u03c4\u03b9\u03c3\u03c4\u03b1\u03bd\u03b5 \u03c0\u03b1\u03bd\u03c4\u03b1). This late double compound verb, usual form \u03b1\u03c0\u03bf\u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03b7\u03bc in the papyri, is Christ's description of the Baptist as the promised Elijah and Forerunner of the Messiah.\" ",
+            "The disciples had not till now understood that the Baptist fulfilled the prophecy in Malachi 3:5.\" ",
+            "But Jesus patiently enlightens his dull pupils as they argue about the exegesis of the scribes."
+        ],
+        "John Gill": [
+            "And among the rest of the things he sets right, this is one, and not of the least; namely, that he gives the true sense of such passages of the sacred writings, which related to the contemptuous usage, rejection, and sufferings of the Messiah.\" ",
+            "He was the Lamb of God typified in the sacrifices of the law, who by his sufferings and death takes away the sin of the world.",
+            "Therefore he exhorted and directed those to whom he ministered, to look unto him, and believe in him."
+        ],
+        "John Wesley": [
+            "Elijah's coming is not inconsistent with my suffering. He is come: yet I shall suffer.",
+            "The first part of the verse answers their question concerning Elijah.",
+            "The second refutes their error concerning the Messiah's continuing for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse provides a meager sense of understanding and is without example in our Lord's discourses. It concludes with the statement that Elias has come, implying that the sufferings of the Son of Man were close at hand. Just as the first coming of the Son of Man was to suffer and die, so was the first coming of Elias to fulfill prophecy. Jesus patiently enlightens his disciples as they argue about the exegesis of the scribes. This passage clarifies that the predicted Elijah had come, suffering like the Messiah would, and that he was John the Baptist.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.129961868503475,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.16,
+            "commentatorTierSimilarities": [
+                36.58,
+                38.3,
+                25.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The understanding from this particular statement is unusually limited in our Lord's teachings. It concludes by mentioning that Elias has come, implying that the sufferings of the Son of Man were soon to occur. Just as the Son of Man's coming involved suffering and death, so did Elias' first coming fulfill prophecy. The disciples, engaged in a discussion about the interpretation given by the scribes, are patiently enlightened by Jesus. It becomes clear that the predicted Elijah has come and suffered like the Messiah would, with John the Baptist being identified as this Elijah.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.8150763190026669,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                35.57,
+                38.71,
+                25.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sense given by this statement is extremely meagre and without precedence in our Lord's discourses. It concludes by affirming that Elias has come and suggests that the sufferings of the Son of Man were imminent. Just as the first coming of the Son of Man involved suffering and death, so did the first coming of Elias fulfill prophecy. Jesus patiently clarifies the understanding of his disciples as they engage in an argument about the interpretation of the scribes. It becomes evident that the predicted Elijah has indeed come and suffered, identifying John the Baptist as this Elijah.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.986090278507687,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                36.7,
+                38.47,
+                24.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The statement made here lacks precedent in our Lord's discourses, and its meaning is incredibly limited. It concludes by asserting that Elias has come, hinting that the sufferings of the Son of Man were near. Just as the Son of Man's first coming entailed suffering and death, so did Elias' initial appearance fulfill prophecy. Jesus demonstrates patience as he enlightens his disciples amidst their debate over the scribes' interpretation. Consequently, it becomes clear that the foretold Elijah has already come, suffering in the same manner as the Messiah, with John the Baptist identified as this Elijah.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9628956645593734,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                36.42,
+                38.35,
+                25.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The teaching provided in this passage is remarkably sparse and unprecedented in our Lord's discourses. It concludes by declaring the arrival of Elias, implying that the sufferings of the Son of Man were imminent. Just as the Son of Man's first coming involved suffering and death, likewise the first coming of Elias fulfilled prophecy. Jesus patiently enlightens his disciples who were engaged in a discussion about the interpretations of the scribes. Thus, it becomes evident that the predicted Elijah has indeed come, suffering like the Messiah, with John the Baptist identified as this Elijah.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.036643422419015,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.06,
+            "commentatorTierSimilarities": [
+                36.81,
+                37.89,
+                25.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

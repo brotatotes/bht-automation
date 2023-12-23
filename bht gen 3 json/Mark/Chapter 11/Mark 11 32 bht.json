@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:26:42",
+    "verseRef": "Mark 11:32",
+    "bestBHT": {
+        "bht": "Though John the Baptist had already been martyred, his influence and power over the people remained strong even after his death, with the general public regarding him as a true prophet. The fear that the religious leaders had towards John and the people's respect for him acted as a deterrent for the leaders to speak openly against him. They understood that disrespecting John's memory could potentially ignite a storm of opposition from the people. Thus, the leaders were hesitant to voice their true opinions on John, recognizing his significance in the eyes of the public.",
+        "wordCount": 97,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 1.501120132900586,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+        "commentatorTierSimilarities": [
+            63.93,
+            0.0,
+            36.07
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "All three Gospels state the popular view of John as a prophet.",
+            "They feared John though dead as much as Herod Antipas did.",
+            "His martyrdom had deepened his power over the people and disrespect towards his memory now might raise a storm."
+        ],
+        "John Gill": [
+            "But if we shall say, of men...they feared the people.",
+            "They feared the people...for all men counted John.",
+            "A real prophet, one truly sent from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though John the Baptist had already been martyred, his influence and power over the people remained strong even after his death, with the general public regarding him as a true prophet. The fear that the religious leaders had towards John and the people's respect for him acted as a deterrent for the leaders to speak openly against him. They understood that disrespecting John's memory could potentially ignite a storm of opposition from the people. Thus, the leaders were hesitant to voice their true opinions on John, recognizing his significance in the eyes of the public.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.501120132900586,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.25,
+            "commentatorTierSimilarities": [
+                63.93,
+                0.0,
+                36.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite John the Baptist being deceased, his reputation as a prophet held great influence among the people. The religious leaders, while privately fearing John's power and the people's high regard for him, were cautious in openly expressing disrespect towards his memory. Aware of the potential backlash from the public, the leaders refrained from openly denouncing John, recognizing his significant role and the deep impact he had in the hearts and minds of the people.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.4565229448323114,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.77,
+            "commentatorTierSimilarities": [
+                66.21,
+                0.0,
+                33.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prevalent consensus among the religious leaders was that John the Baptist was widely regarded as a prophet by the general public, and his martyrdom had only heightened his influence. Fearful of the potential consequences and a potential backlash from the people, the leaders hesitated to openly show disdain for him, knowing that disrespecting his memory could incite a storm of public support. Acknowledging the people's reverence for John, the leaders treaded cautiously, recognizing his true prophetic stature and the grip he held over the masses.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4030143115705715,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                64.59,
+                0.0,
+                35.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders held the widespread belief that John the Baptist was viewed as a prophet by the public. Even after his death, the people continued to respect and fear him, creating an atmosphere where disrespecting his memory could potentially spark backlash and unrest. Fully aware of John's significant influence, the leaders avoided openly denouncing him, as they understood the power he held in the eyes of the people. Their hesitation stemmed from their recognition of John's true prophetic status and the control he exerted over the masses.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.3161133471771556,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.1,
+            "commentatorTierSimilarities": [
+                66.45,
+                0.0,
+                33.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders were well aware that John the Baptist was widely regarded as a prophet, even after his death. Fearful of the people's respect for him and the potential fallout from disrespecting his memory, the leaders hesitated to openly condemn him. They recognized that the strong influence John held over the people could potentially stir up a storm of opposition. Their cautious approach spoke to their understanding of John's genuine prophetic status and the impact he had on the masses.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.403860133925068,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                62.1,
+                0.0,
+                37.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

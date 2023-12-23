@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:30:22",
+    "verseRef": "Mark 16:8",
+    "bestBHT": {
+        "bht": "The women, seized with tremor and amazement, fled in terror from the tomb, leaving the message unspoken. Their intense emotions of fear and astonishment, mingled with joy, at the sight of the risen Jesus were to be expected. Although some argue that the remaining verses were not written by Mark, it is difficult to believe that Mark would end his Gospel without interruption. The women, overwhelmed by their experience, were unable to speak and shared their encounter only with the disciples.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.652769940950843,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+        "commentatorTierSimilarities": [
+            27.88,
+            37.45,
+            34.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The women fled in terror from the sepulchre, and did not deliver the message at the time,\u2014for they were afraid.\" ",
+            "It is a manifest evidence that our narrative is here suddenly broken off, and (perhaps?) that no more information about the women was in the possession of its author.",
+            "The legitimate inference is, that it was placed as a completion of the Gospel soon after the apostolic period,\u2014the Gospel itself having been, for some reason unknown to us, eh incomplete."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Tremor and amazement seized them.",
+            "How intensely natural and simple is this!",
+            "Appearances of Jesus after His Resurrection."
+        ],
+        "Marvin Vincent": [
+            "Quickly. Omitted by best texts.",
+            "The wonder merges into fear.",
+            "By a large number of the ablest modern critics the remainder of this chapter is held to be from some other hand than Mark's."
+        ],
+        "Philip Schaff": [
+            "And fled from the tomb. In a tumult of excitement.",
+            "For trembling and astonishment possessed them. This was the reason of their fleeing.",
+            "The remarkable events of that day produced mingled and indeed confused emotions. To that of fear and indecision, Mark gives prominence."
+        ],
+        "Archibald T. Robertson": [
+            "Trembling and astonishment, while Matthew 28:8 has 'with fear and great joy' which see for discussion. Clearly and naturally their emotions were mixed.",
+            "They said nothing to any one. This excitement was too great for ordinary conversation. Hushed to silence their feet had wings as they flew on.",
+            "The facts are very complicated, but argue strongly against the genuineness of verses Mark 16:9-20 of Mark 16. It is difficult to believe that Mark ended his Gospel with verse Mark 16:8 unless he was interrupted."
+        ],
+        "John Gill": [
+            "And they went out quickly... immediately they went out.\" ",
+            "They trembled and were amazed; at what they saw and heard, and yet this dread and fear were mixed with joy at the news of Christ's resurrection.\" ",
+            "Neither said they any thing to any man... for they were afraid; not only affrighted with what they had seen and heard, but they were afraid to tell any but the disciples of these things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The women, filled with terror and trembling, fled from the tomb, leaving the message unspoken. This abrupt ending suggests that the author may not have had any additional information about the women. However, their intense emotions of fear and astonishment at the sight of the risen Jesus were to be expected. Although some argue that the remaining verses were not written by Mark, it is difficult to believe that Mark would end his Gospel at verse 8 unless something had interrupted him. The women were so overwhelmed by what they had witnessed that they were unable to speak and shared their experience only with the disciples.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 1.5356057806807968,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.4,
+            "commentatorTierSimilarities": [
+                28.88,
+                33.94,
+                37.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The women, seized with tremor, fled the tomb in fear and amazement, leaving the message unspoken. This sudden ending suggests that the author may not have had any more information about the women. Their intense emotions of fear and astonishment, mingled with joy, at the sight of the risen Jesus were to be expected. Although some argue that the remaining verses were not written by Mark, it is difficult to believe that Mark would end his Gospel without interruption. The women, overwhelmed by their experience, were unable to speak and shared their encounter only with the disciples.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.5674586540182591,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.46,
+            "commentatorTierSimilarities": [
+                29.23,
+                35.72,
+                35.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The women, consumed by fear and trembling, hastily fled the tomb, their emotions a mixture of astonishment and terror. The sudden end of the narrative indicates that the author may have lacked further information about the women. Some scholars contend that these verses might not have been written by Mark, yet it is hard to believe that Mark would abruptly conclude his Gospel without being interrupted. Overwhelmed by what they had witnessed, the women remained silent, saving their account for the disciples alone.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.6486333679785872,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                30.55,
+                35.75,
+                33.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The women, seized with tremor and amazement, fled in terror from the tomb, leaving the message unspoken. Their intense emotions of fear and astonishment, mingled with joy, at the sight of the risen Jesus were to be expected. Although some argue that the remaining verses were not written by Mark, it is difficult to believe that Mark would end his Gospel without interruption. The women, overwhelmed by their experience, were unable to speak and shared their encounter only with the disciples.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.652769940950843,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+            "commentatorTierSimilarities": [
+                27.88,
+                37.45,
+                34.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The women, trembling and amazed, quickly fled from the tomb, overcome with fear and astonishment. The sudden end of the narrative suggests that the author may not have had more information about the women. While some scholars dispute the authenticity of the remaining verses, it is hard to believe that Mark would conclude his Gospel without interruption. The women, speechless and afraid, kept their encounter a secret, sharing it only with the disciples.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5795187865561977,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                31.64,
+                33.85,
+                34.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

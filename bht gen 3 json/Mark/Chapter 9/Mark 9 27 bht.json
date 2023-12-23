@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:25:05",
+    "verseRef": "Mark 9:27",
+    "bestBHT": {
+        "bht": "Jesus took hold of the child's hand and lifted him up; the cure was now complete as the child arose. This act of reaching out and physically connecting with the child was a customary external gesture. The vivid and detailed description of the healing suggests it was obtained from the recollections of an eyewitness. Through Jesus' touch, the child, who was previously unwell, now stood perfectly well, serving as a powerful testimony to his complete restoration.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.2779553673815982,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.84,
+        "commentatorTierSimilarities": [
+            13.95,
+            55.64,
+            30.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "27.] See ch. v. 41; also Matt. xvii. 6, 8: Rev. i. 17: Dan. x. 9, 10."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "27. But Jesus took him by the hand,",
+            "\tand lifted him up; and he arose."
+        ],
+        "Philip Schaff": [
+            "Took him by the hand. The usual external act which connected His person with the subject of a miracle.",
+            "And he arose, or 'stood up.' The cure was now complete, the child's own activity appearing.",
+            "The effect of the miracle is described by Luke (Luke 9:43). The vivid and detailed narrative must have been obtained from the recollections of an eye-witness."
+        ],
+        "John Gill": [
+            "Took hold of the hand of the child",
+            "He arose",
+            "He was perfectly well"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus reached out and took hold of the child's hand, an external act that connected Him with the miracle. With Jesus' touch, the child stood up, fully cured from his affliction. This miraculous healing is described in great detail, likely based on the firsthand account of an eyewitness. The child, who was once unwell, now stood before them completely restored to health.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.2690066693574058,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.54,
+            "commentatorTierSimilarities": [
+                17.33,
+                55.72,
+                26.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus extended His hand and grasped the child's, a significant action that established a direct link between Himself and the miracle. Through His touch, the child rose to his feet, completely healed from his ailment. The thorough depiction of this remarkable healing likely stems from the firsthand recollections of a witness. The child, who was previously afflicted, now stood before them as a living testament of complete restoration.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.182864835986918,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.67,
+            "commentatorTierSimilarities": [
+                17.67,
+                55.16,
+                27.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus took hold of the child's hand and lifted him up, causing the child to arise from his condition. This act of reaching out and physically connecting with the child was a customary external gesture that Jesus often employed in performing miracles. The child's restoration to health is described in vivid detail, possibly based on the narration of an eyewitness. Jesus' touch not only brought about the child's physical healing but also served as a powerful testament to his complete recovery.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.2590251305042452,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.21,
+            "commentatorTierSimilarities": [
+                16.55,
+                56.06,
+                27.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reached out and took hold of the child's hand, an external act that connected Him with the miracle. With Jesus' touch, the child stood up, fully cured from his affliction. This miraculous healing is described in great detail, likely based on the firsthand account of an eyewitness. The child, who was once unwell, now stood before them completely restored to health.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.2690066693574058,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.54,
+            "commentatorTierSimilarities": [
+                17.33,
+                55.72,
+                26.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus took hold of the child's hand and lifted him up; the cure was now complete as the child arose. This act of reaching out and physically connecting with the child was a customary external gesture. The vivid and detailed description of the healing suggests it was obtained from the recollections of an eyewitness. Through Jesus' touch, the child, who was previously unwell, now stood perfectly well, serving as a powerful testimony to his complete restoration.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.2779553673815982,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.84,
+            "commentatorTierSimilarities": [
+                13.95,
+                55.64,
+                30.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:25:38",
+    "verseRef": "Mark 10:2",
+    "bestBHT": {
+        "bht": "The Pharisees, once again, approached Jesus in Galilee, not with good intentions, but to test and tempt him. Their motives were evil, for they sought to expose any inconsistency in Jesus' teachings. Perhaps they hoped that Jesus would be stricter than what Moses taught, or maybe they wanted to see if he would differ from Herod's law on divorce. Nonetheless, their purpose was not to seek instruction but to ensnare him. This dangerous topic of divorce, which was also discussed in Matthew's account, had the potential to disturb the territory of Herod, the husband of Herodias.",
+        "wordCount": 98,
+        "quoteTokenProportion": 45.21,
+        "qualityScore": 1.4241556084426055,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+        "commentatorTierSimilarities": [
+            43.55,
+            24.79,
+            31.66
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Tempting. See on Matthew 6:13."
+        ],
+        "Philip Schaff": [
+            "Mark 10:2. Mark omits \u2018for every cause\u2019 (Matthew), but the whole subject is brought into discussion, a dangerous topic in the territory of Herod, the husband of Herodias.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "As soon as Jesus appears in Galilee the Pharisees attack him again.",
+            "The word means either [tempting or testing], but their motive was evil.",
+            "They may have some such hopes about Jesus, or their purpose may have been to see if Jesus will be stricter than Moses taught."
+        ],
+        "John Gill": [
+            "not to be instructed by him, but to ensnare him",
+            "tempting him; trying to entangle him",
+            "expose him as an inconsistent preacher"
+        ],
+        "John Wesley": [
+            "Matthew 5:31; Matthew 19:7; Luke 16:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees, once again, approached Jesus in Galilee, not with good intentions, but to test and tempt him. Their motives were evil, for they sought to expose any inconsistency in Jesus' teachings. Perhaps they hoped that Jesus would be stricter than what Moses taught, or maybe they wanted to see if he would differ from Herod's law on divorce. Nonetheless, their purpose was not to seek instruction but to ensnare him. This dangerous topic of divorce, which was also discussed in Matthew's account, had the potential to disturb the territory of Herod, the husband of Herodias.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.4241556084426055,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+            "commentatorTierSimilarities": [
+                43.55,
+                24.79,
+                31.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees, once again, approached Jesus, not with good intentions, but to test and tempt him. Their motives were evil, for they sought to expose any inconsistency in Jesus' teachings. Perhaps they hoped that Jesus would be stricter than what Moses taught, or maybe they wanted to see if he would differ from Herod's law on divorce. Nonetheless, their purpose was not to seek instruction but to ensnare him. This dangerous topic had the potential to disturb the territory of Herod, the husband of Herodias.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.3610588090629343,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.6,
+            "commentatorTierSimilarities": [
+                43.11,
+                24.44,
+                32.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees, in their continuous attempts to challenge Jesus, approached him with malicious intentions. Their purpose was not to seek guidance or instruction but to test and ensnare him. They wanted to prove him inconsistent or stricter than Moses taught on the topic of divorce. This dangerous subject could potentially disturb the territory of Herod, husband of Herodias. Mark's account omits the specific phrase for every cause, but the overall discussion revolves around the contentious issue of divorce.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.1670622950095955,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.15,
+            "commentatorTierSimilarities": [
+                31.05,
+                37.14,
+                31.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees, in their persistent efforts, came to Jesus once again with deceitful intentions. Their aim was to test and trap him, seeking to exploit any inconsistency in his teachings. Their motives were not to seek instruction but to entangle him. The contentious topic of divorce was at the forefront of their minds, perhaps hoping to challenge Jesus' stance against Moses' teachings. This could potentially have consequences in the territory of Herod, who was married to Herodias.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.2406416812821406,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.59,
+            "commentatorTierSimilarities": [
+                42.75,
+                22.9,
+                34.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees, in their continuous attempts to challenge Jesus, approached him with malicious intentions. Their purpose was not to seek guidance or instruction but to test and ensnare him. They wanted to prove him inconsistent or stricter than Moses taught on the topic of divorce. This dangerous subject could potentially disturb the territory of Herod, husband of Herodias. Mark's account omits the specific phrase for every cause, but the overall discussion revolves around the contentious issue of divorce.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.1670622950095955,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.15,
+            "commentatorTierSimilarities": [
+                31.05,
+                37.14,
+                31.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

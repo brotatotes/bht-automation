@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:26:48",
+    "verseRef": "Mark 11:20",
+    "bestBHT": {
+        "bht": "The fig tree, previously cursed by Jesus, had withered entirely, from the roots\u2014no partial blight, leaving life in the root; but it was now dead, root and branch. Mark's focus on the timeline of events confirms Matthew's account, emphasizing that the tree's condition was evident to Jesus and his disciples as they passed by it in the morning. This confirmed that the tree was completely dead, with no chance of revival or bearing fruit again.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.5217507060347581,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+        "commentatorTierSimilarities": [
+            35.05,
+            23.93,
+            41.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The fig tree dried up from the roots\u2014no partial blight, leaving life in the root; but it was now dead, root and branch.\" ",
+            "The precision with which Mark distinguishes the days is not observed by Matthew, intent only on holding up the truths which the incident was designed to teach.\" ",
+            "The only difference is between a more summary and a more detailed narrative, each of which only confirms the other."
+        ],
+        "Philip Schaff": [
+            "The day before the \u2018leaves\u2019 were visible \u2018afar off.\u2019",
+            "Today, Tuesday, the blasting was complete.",
+            "Our verse does not say when this took place, but when they \u2018saw\u2019 it Matthew says that it took place \u2018immediately.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "As they passed by in the morning (\u03c0\u03b1\u03c1\u03b1\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03b5\u03bd\u03bf \u03c0\u03c1\u03c9). Literally, passing by in the morning.",
+            "They went back by the lower road up the Mount of Olives and came down each morning by the steep and more direct way.",
+            "From the roots (\u03b5\u03ba \u03c1\u03b9\u03b6\u03c9\u03bd). Mark alone gives this detail with \u03b5\u03be\u03b7\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b7\u03bd perfect passive predicate participle from \u03be\u03b7\u03c1\u03b1\u03b9\u03bd\u03c9."
+        ],
+        "John Gill": [
+            "They saw the fig tree dried up from the roots.",
+            "Not only the tender branches and boughs of it, but the trunk and body of the tree, and even the roots of it, were all dried up.",
+            "It was entirely dead, and there was no room ever to expect it would revive, and bear any more fruit."
+        ],
+        "John Wesley": [
+            "Matthew 21:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fig tree that Jesus cursed the previous day had withered completely, from its roots to its branches. Mark's attention to the timeline of events, in contrast to Matthew's focus on the spiritual lesson, confirms the account. Jesus and his disciples passed by the dried-up fig tree in the morning as they descended from the Mount of Olives. The tree's condition was evident to them, leaving no doubt that it was completely dead, with no chance of revival or bearing fruit again.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.393644508481966,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.68,
+            "commentatorTierSimilarities": [
+                34.65,
+                25.38,
+                39.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fig tree, previously cursed by Jesus, had withered entirely, from the roots\u2014no partial blight, leaving life in the root; but it was now dead, root and branch. Mark's focus on the timeline of events confirms Matthew's account, emphasizing that the tree's condition was evident to Jesus and his disciples as they passed by it in the morning. This confirmed that the tree was completely dead, with no chance of revival or bearing fruit again.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5217507060347581,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+            "commentatorTierSimilarities": [
+                35.05,
+                23.93,
+                41.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fig tree that Jesus cursed the previous day had withered completely, from its roots to its branches. Mark's attention to the timeline of events and the precision with which he distinguishes the days confirms Matthew's account. The tree's condition was evident to them as they passed by it in the morning, leaving no doubt that it was completely dead, with no chance of revival or bearing fruit again.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.419044446517229,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.53,
+            "commentatorTierSimilarities": [
+                36.5,
+                26.45,
+                37.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fig tree that Jesus cursed the previous day had dried up completely, from the roots. Mark's specific detail about the withering, using the perfect passive participle dried up, emphasizes the complete and irreversible nature of the tree's condition. It was not just the branches and boughs, but the trunk, body, and even the roots of the tree that had withered. This confirmed that the tree was entirely dead and would never bear fruit again.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.4205655377138287,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.58,
+            "commentatorTierSimilarities": [
+                33.8,
+                22.29,
+                43.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fig tree that Jesus cursed the day before had withered completely. Mark's attention to detail about the withering emphasized that it was not a partial blight, but rather the tree was dead, root and branch. The tree's condition was evident as they passed by it in the morning, leaving no room for revival or the possibility of bearing fruit again. The complete withering of the fig tree confirmed the power of Jesus' words and the consequences of spiritual barrenness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.4180289153580894,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.49,
+            "commentatorTierSimilarities": [
+                35.19,
+                25.48,
+                39.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

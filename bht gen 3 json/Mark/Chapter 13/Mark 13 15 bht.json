@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:27:28",
+    "verseRef": "Mark 13:15",
+    "bestBHT": {
+        "bht": "When faced with urgency, swift action is required, as seen in the instruction given. Those on the housetop should refrain from entering the house or gathering belongings. This vivid imagery emphasizes the criticality of the situation. The mention of the housetop highlights the need to take external steps, underscoring the urgency. It is a call for immediate action, leaving no room for delay or distraction, but rather a focused response to the impending danger.",
+        "wordCount": 74,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 0.8954689732088614,
+        "qualityScoreNormalizedComparedToV2BHTs": 21.12,
+        "commentatorTierSimilarities": [
+            53.37,
+            22.91,
+            23.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Let him that is on the housetop not get down into the house, neither enter therein, to take any thing out of his house\u2014that is, let him take the outside flight of steps from the roof to the ground; a graphic way of denoting the extreme urgency of the case..."
+        ],
+        "Albert Barnes": [
+            "On the house-top - See the notes at Matthew 9:1-8."
+        ],
+        "Marvin Vincent": [
+            "Housetop. See on Matthew 24:17."
+        ],
+        "John Gill": [
+            "And let him that is on the house top, not go down into the house.\" ",
+            "Neither enter therein, to take any thing out of his house.\" ",
+            "To take care of his goods, or take any thing along with him, that might be useful in his flight, and journey, and stay abroad."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 13:15, the urgency of the situation is emphasized by the command for those on the housetop not to go down into the house or bring anything with them. This graphic imagery highlights the necessity for immediate action in response to the impending danger. The commentators also point out that the phrase on the housetop refers to taking the outside flight of steps from the roof to the ground, further emphasizing the urgency of the situation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.271742989619938,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.63,
+            "commentatorTierSimilarities": [
+                56.3,
+                22.02,
+                21.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In regards to the urgency of the situation in the verse, it is advised that those on the housetop should not go down into the house or bring along any belongings. This vivid imagery magnifies the necessity for immediate action. Additionally, the phrase on the housetop refers to taking the outside flight of steps from the roof to the ground, further underlining the pressing nature of the circumstance.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.184033713512841,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.71,
+            "commentatorTierSimilarities": [
+                49.42,
+                24.64,
+                25.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When faced with a time of great urgency, one must heed the cautionary words of the advice given in Mark 13:15. It is stressed that those situated on the housetop should refrain from descending into the house or gathering any possessions. This vivid imagery serves to emphasize the pressing need for immediate action, leaving no room for delay or hesitation. The reference to the housetop also signifies the significance of taking the external flight of steps from the roof to the ground, further highlighting the gravity of the situation at hand.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.0945507131629602,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.74,
+            "commentatorTierSimilarities": [
+                48.49,
+                26.22,
+                25.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In times of urgency, one must not hesitate but act swiftly, as advised in the passage. The command for those on the housetop to refrain from going inside or taking any belongings underscores the critical nature of the situation. The imagery of the housetop depicts the need to take the external flight of steps, emphasizing the urgency. It is a call to immediate action, leaving no time for delay or distraction, but rather a focused response to the impending danger.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.010372769317983,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.94,
+            "commentatorTierSimilarities": [
+                56.54,
+                19.59,
+                23.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When faced with urgency, swift action is required, as seen in the instruction given. Those on the housetop should refrain from entering the house or gathering belongings. This vivid imagery emphasizes the criticality of the situation. The mention of the housetop highlights the need to take external steps, underscoring the urgency. It is a call for immediate action, leaving no room for delay or distraction, but rather a focused response to the impending danger.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 0.8954689732088614,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.12,
+            "commentatorTierSimilarities": [
+                53.37,
+                22.91,
+                23.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

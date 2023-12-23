@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:27:33",
+    "verseRef": "Mark 13:10",
+    "bestBHT": {
+        "bht": "God always warns before sending judgment, as was the case with the dispersion of the Jews across many countries who had already heard the Gospel. This spread of the Gospel throughout the world was a necessary precursor to the gathering of the elect Jews among all nations, particularly in the Roman empire, prior to the destruction of Jerusalem.",
+        "wordCount": 58,
+        "quoteTokenProportion": 45.24,
+        "qualityScore": 1.997063061347554,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+        "commentatorTierSimilarities": [
+            43.79,
+            26.6,
+            29.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "God never sends judgment without previous warning.\" ",
+            "There can be no doubt that the Jews, already dispersed over most known countries, had nearly all heard the Gospel 'as a witness,' before the end of the Jewish state.",
+            "The same principle was repeated and will repeat itself to 'the end.'"
+        ],
+        "Philip Schaff": [
+            "Their martyrdom would spread the gospel, and this spread should precede the end of the woes, in distinction from the beginning.\" ",
+            "A twofold fulfilment of this verse is most probable."
+        ],
+        "Archibald T. Robertson": [
+            "Must first be preached... before the destruction of Jerusalem.\" ",
+            "Paul... claims that the gospel has spread all over the world.",
+            "The gospel has spread... all this was before the destruction of Jerusalem."
+        ],
+        "John Gill": [
+            "The Gospel which Christ was the author, subject, and preacher of; this 'must be published'.",
+            "There was a necessity of the promulgation of it by the will of God, the command and commission of Christ.",
+            "For the gathering in of the Jews, that were the elect of God, 'among all nations' of the world, especially in the Roman empire; and that 'first', or before the destruction of Jerusalem."
+        ],
+        "John Wesley": [
+            "Matthew 24:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse suggests that God always warns before sending judgment. It is clear that the Jews, dispersed across many countries, had heard the Gospel as a witness before the end of their state, as the same principle will repeat itself until the end. Furthermore, the Gospel had already spread all over the world before the destruction of Jerusalem. This spread was necessary for the gathering in of the elect Jews among all nations, especially in the Roman empire, before the city's destruction.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.943700457135237,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+            "commentatorTierSimilarities": [
+                45.09,
+                31.13,
+                23.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God always warns before sending judgment, as was the case with the dispersion of the Jews across many countries who had already heard the Gospel. This spread of the Gospel throughout the world was a necessary precursor to the gathering of the elect Jews among all nations, particularly in the Roman empire, prior to the destruction of Jerusalem.",
+            "wordCount": 58,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.997063061347554,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+            "commentatorTierSimilarities": [
+                43.79,
+                26.6,
+                29.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before the end of the Jewish state, the Gospel had spread among the dispersed Jews as a witness, as there can be no doubt that nearly all of them had heard it. This pattern of spreading the Gospel repeats itself until the end, and it was crucial for the gathering in of the elect Jews from all nations, especially in the Roman empire, before the destruction of Jerusalem. The Gospel's promulgation was necessary according to the will and command of God, and it served as a warning before impending judgment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9307606371724755,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                41.63,
+                28.66,
+                29.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel, as a warning prior to judgment, spread among the dispersed Jews before the end of their state. The Jews had already heard the Gospel as a witness, for it had spread throughout the world. This was necessary for gathering the elect Jews from all nations, particularly in the Roman empire, before Jerusalem's destruction. The promulgation of the Gospel was mandated by the will and command of God.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.8575768543535967,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                42.97,
+                26.81,
+                30.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before the end of their state, the dispersed Jews had already heard the Gospel, which had spread as a warning throughout the world. This spreading, mandated by the will and command of God, was necessary for the gathering of the elect Jews among all nations, especially in the Roman empire, before Jerusalem's destruction. It is clear, therefore, that the Gospel serves as a witness and a precursor to impending judgment, as God never sends judgment without previous warning.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.894596208086587,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+            "commentatorTierSimilarities": [
+                42.55,
+                28.27,
+                29.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

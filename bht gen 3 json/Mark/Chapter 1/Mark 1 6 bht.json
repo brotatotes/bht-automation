@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:19:55",
+    "verseRef": "Mark 1:6",
+    "bestBHT": {
+        "bht": "John the Baptist's appearance was characterized by wearing rough cloth woven from camel's hair, reflecting his humble lifestyle. His unique diet consisted of locusts and wild honey, both of which were abundant in the rocky areas where he lived. While the honey of bees was considered lawful to eat, John may have consumed the honey of earth bees, demonstrating his willingness to embrace simplicity and live in harmony with nature.",
+        "wordCount": 72,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.2816456473374473,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.96,
+        "commentatorTierSimilarities": [
+            33.38,
+            5.17,
+            61.46
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "With camels' hair (\u03c4\u03c1\u03b9\u0301\u03c7\u03b1\u03c2 \u03ba\u03b1\u03bc\u03b7\u0301\u03bb\u03bf\u03c5)",
+            " ",
+            "",
+            "return to 'Top of Page'",
+            ""
+        ],
+        "Philip Schaff": [
+            "Mark 1:6. Locusts. See on Matthew 3:4, and accompanying cut.",
+            "\t",
+            "Click image for full-size version"
+        ],
+        "Archibald T. Robertson": [
+            "It was, of course, not camel's skin, but rough cloth woven of camel's hair.",
+            "Dried locusts are considered palatable and the wild honey, or 'mountain honey' as some versions give it, was bountiful in the clefts of the rocks.",
+            "Some Bedouins make their living yet by gathering this wild honey out of the rocks."
+        ],
+        "John Gill": [
+            "This is a description of John by his clothes; ... to live in deserts, to fare hard, and wear coarse apparel.",
+            "he ate locusts and wild honey. The Ethiopic version renders it, 'honey of earth bees'...",
+            "the honey of bees was lawful to eat...So Jonathan ben Uzziel paraphrases, Leviticus 11:20, 'Let the species of bees be an abomination to you, but the honey of bees may be eaten;'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist's distinctive appearance is described by the first-tier commentary as wearing rough cloth woven of camel's hair. This type of garment, made from the hair of camels, was commonly worn by Bedouins and reflected John's simple and humble lifestyle, as mentioned in the third-tier commentary. Additionally, the commentary highlights John's unusual diet of locusts, which were known to be palatable and nutritious, and wild honey, which was abundant in the rocky areas where John lived. While the honey of bees was considered lawful to eat, it is mentioned that John may have consumed the honey of earth bees, further emphasizing his willingness to embrace a simple and natural way of living.",
+            "wordCount": 119,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.2675302947770546,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.49,
+            "commentatorTierSimilarities": [
+                35.61,
+                5.59,
+                58.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist's appearance was characterized by wearing rough cloth woven from camel's hair, reflecting his humble lifestyle. His unique diet consisted of locusts and wild honey, both of which were abundant in the rocky areas where he lived. While the honey of bees was considered lawful to eat, John may have consumed the honey of earth bees, demonstrating his willingness to embrace simplicity and live in harmony with nature.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.2816456473374473,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.96,
+            "commentatorTierSimilarities": [
+                33.38,
+                5.17,
+                61.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist's distinctive appearance was marked by the use of camels' hair, which was turned into a rough cloth he wore. This attire symbolized his simple and humble lifestyle. Further emphasizing his unique way of living, John sustained himself by consuming dried locusts and wild honey, which were readily available in the rocky areas he inhabited. His choice to partake in the honey of earth bees indicated his commitment to a natural and uncomplicated existence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.2163014797828544,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.79,
+            "commentatorTierSimilarities": [
+                31.68,
+                9.54,
+                58.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist's appearance was characterized by wearing rough cloth woven from camel's hair, reflecting his humble lifestyle. He sustained himself by consuming dried locusts and wild honey, both of which were abundant in the rocky areas where he lived. This choice of food, along with the use of honey of earth bees, exemplified his commitment to a simple and natural way of living. John's clothes and diet were symbolic of his desert-dwelling existence, emphasizing his separation from worldly comforts.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.1984248489342495,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.19,
+            "commentatorTierSimilarities": [
+                32.39,
+                9.93,
+                57.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist's appearance was characterized by wearing rough cloth woven from camel's hair, reflecting his humble lifestyle. He sustained himself by consuming dried locusts and wild honey, both of which were abundant in the rocky areas where he lived. This choice of food exemplified his commitment to a simple and natural way of living. John's clothes and diet were symbolic of his desert-dwelling existence, emphasizing his separation from worldly comforts.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.0981142529338301,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.86,
+            "commentatorTierSimilarities": [
+                34.08,
+                13.09,
+                52.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

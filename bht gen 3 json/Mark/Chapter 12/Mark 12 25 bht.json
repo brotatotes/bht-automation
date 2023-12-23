@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:27:19",
+    "verseRef": "Mark 12:25",
+    "bestBHT": {
+        "bht": "In the future resurrection, marriage will cease to exist because it is meant to perpetuate the human family, but with no death in the future state, this ordinance will no longer be relevant. Although the equality taught here is limited to the immortality of human nature, the Pharisees and Sadducees were mistaken in their understanding of the resurrection body and future life without marriage. Humans will become like angels, rising to an undecaying existence and sharing in the immortality of their heavenly Father.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.8603695105143134,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+        "commentatorTierSimilarities": [
+            53.88,
+            0.0,
+            46.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] the when they shall rise here is general, not as in ver. 23: see last note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Marriage is ordained to perpetuate the human family; but as there will be no breaches by death in the future state, this ordinance will cease.",
+            "But as the subject is death and resurrection, we are not warranted to extend the equality here taught beyond the one point\u2014the immortality of their nature.",
+            "A beautiful clause is added in Luke\u2014'and are the children of God'\u2014not in respect of character, which is not here spoken of, but of nature\u2014'being the children of the resurrection,' as rising to an undecaying existence and so being the children of their Father's immortality."
+        ],
+        "Archibald T. Robertson": [
+            "The Pharisees were in error on this point. The Sadducees made this one of their objections to belief in the resurrection body, revealing thus their own ignorance of the true resurrection body and the future life where marriage functions do not exist.",
+            "Their equality with angels consists in their deliverance from mortality and its consequences.",
+            "The angels are directly created, not procreated."
+        ],
+        "John Gill": [
+            "There will be no such natural relation subsisting, nor any need of any.",
+            "They neither marry, nor are given marriage.",
+            "But are as the angels which are in heaven."
+        ],
+        "John Wesley": [
+            "When they rise from the dead, neither men marry nor women are given in marriage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 12:25, Jesus teaches that in the future resurrection, there will be no need for marriage because there will be no death. The Pharisees and Sadducees were mistaken in their understanding of the resurrection and the nature of the future life. The equality with angels refers to the deliverance from mortality and its consequences, rather than an exact similarity in nature. Just as the angels are directly created, humans will rise to an undecaying existence, becoming children of God and partaking in the Father's immortality.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7474062982722651,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                54.75,
+                0.0,
+                45.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future resurrection, there will be no need for marriage, as it serves the purpose of perpetuating the human family, which will no longer be necessary in the absence of death. The erroneous beliefs of the Pharisees and Sadducees about the resurrection and the absence of marriage reveal their ignorance of the true nature of the resurrection body and the future life. The equality with angels pertains to the deliverance from mortality and its consequences, as angels are directly created beings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.820090597832023,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                51.39,
+                0.0,
+                48.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the future resurrection, there will be no marriage because it serves the purpose of perpetuating the human family, which will become unnecessary. The Pharisees and Sadducees misunderstood the concept of the resurrection and the absence of marriage. The equality with angels refers to the deliverance from mortality and its consequences. Angels are directly created, unlike humans who are procreated. The future life will be marked by the immortality of human nature, resembling the undecaying existence of angels.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.6900872169276837,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.54,
+            "commentatorTierSimilarities": [
+                51.59,
+                0.0,
+                48.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future resurrection, marriage will cease to exist because it is meant to perpetuate the human family, but with no death in the future state, this ordinance will no longer be relevant. Although the equality taught here is limited to the immortality of human nature, the Pharisees and Sadducees were mistaken in their understanding of the resurrection body and future life without marriage. Humans will become like angels, rising to an undecaying existence and sharing in the immortality of their heavenly Father.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8603695105143134,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                53.88,
+                0.0,
+                46.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future resurrection, marriage will cease to exist due to the absence of death. The Pharisees and Sadducees misunderstood the concept of the resurrection and the nature of the future life. The equality with angels lies in the deliverance from mortality and its consequences. Angels are directly created, not procreated like humans. Rising to an undecaying existence, humans become children of God, sharing in the Father's immortality. This depicts a future where marriage functions do not exist and humans partake in the immortality of their heavenly Father.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.7079968556617118,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                51.63,
+                0.0,
+                48.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

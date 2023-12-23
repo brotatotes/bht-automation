@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:20:35",
+    "verseRef": "Mark 1:45",
+    "bestBHT": {
+        "bht": "Our Lord didn't want to be overwhelmed by crowds in the towns; He wanted people to focus more on His teachings than on signs and miracles. Even though Jesus had to go to desert places to avoid the cities, people still sought Him for teaching and healing from all parts. The leper's disobedience in spreading the word had negative consequences. Jesus wished that people would think properly about His doctrine and not be solely concerned with His miraculous work. He enjoined the leper to keep silent to avoid the inconvenience of a large crowd.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 1.9445311819320406,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+        "commentatorTierSimilarities": [
+            25.4,
+            37.93,
+            36.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord did not wish to put a stop to the multitudes seeking Him, but only to avoid that kind of concourse which would have beset Him in the towns.",
+            "The seeking to Him for teaching and healing still went on, and that from all parts.",
+            "The seeking to Him for teaching and healing still went on, and that from all parts."
+        ],
+        "Marvin Vincent": [
+            "The city",
+            "Properly, as Rev., a city; any city."
+        ],
+        "John Calvin": [
+            "He wished that they would all be more attentive to the word than to signs.",
+            "He avoided a crowd of men, because he saw that he would not satisfy the wishes of the people, without overwhelming his doctrine by a superfluity of miracles.",
+            "Without doing so many miracles as to prevent them from thinking properly about his doctrine."
+        ],
+        "Philip Schaff": [
+            "Spread abroad the matter. Lit., \u2018the word,\u2019 i.e., the account of what had happened, not the word of Jesus. This was wrong, a specimen and type of the injudicious zeal, all too common among those whom the Lord blesses.",
+            "Could no more. Moral inability. His purpose would have been defeated by entering where the people were excited by this report. The evil effect of the leper\u2019s disobedience.",
+            "Was without in desert places. Not to avoid the people, for it is added: and they came to him from every quarter, and Luke, without stating that the leper himself had spread the report, tells of this effect of the miracle."
+        ],
+        "Archibald T. Robertson": [
+            "One of the best ways to spread a thing is to tell people not to tell.",
+            "Soon Jesus had to avoid cities and betake himself to desert places to avoid the crowds.",
+            "Some preachers are not so disturbed by the onrush of crowds."
+        ],
+        "John Gill": [
+            "He went out ... and he might be in the synagogue: and this was allowed a leper, according to the Jewish canons.",
+            "And began to publish it much ... perhaps with a good intention to spread the fame and glory of his Savior.",
+            "So agreeable was his doctrine to some; and so useful his miraculous work of healing to others."
+        ],
+        "John Wesley": [
+            "So that Jesus could no more openly enter into the city \u2014 It was also to prevent this inconvenience that our Lord had enjoined him silence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord did not want to be overwhelmed by crowds in the towns, but people kept seeking Him for teaching and healing from all parts. Jesus had to go to desert places to avoid the cities, but still, people came to Him from every quarter. The leper's disobedience in spreading the word about his healing had negative consequences. Jesus wished that people would focus more on His teachings than on signs and miracles. He avoided performing too many miracles, to allow people to properly think about His doctrine. And yet, there were those who found his teachings agreeable and his miraculous healings beneficial. But, Jesus wanted to avoid the inconvenience that comes with a large crowd, so he enjoined the leper to keep silent.",
+            "wordCount": 125,
+            "quoteTokenProportion": 43.53,
+            "qualityScore": 1.9791805663063191,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                26.34,
+                36.77,
+                36.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord didn't want to be overwhelmed by crowds in the towns; He wanted people to focus more on His teachings than on signs and miracles. Even though Jesus had to go to desert places to avoid the cities, people still sought Him for teaching and healing from all parts. The leper's disobedience in spreading the word had negative consequences. Jesus wished that people would think properly about His doctrine and not be solely concerned with His miraculous work. He enjoined the leper to keep silent to avoid the inconvenience of a large crowd.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.9445311819320406,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                25.4,
+                37.93,
+                36.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord intended to avoid the overwhelming crowds in the towns, while still welcoming those who sought Him for teaching and healing from all parts. Jesus had to retreat to desert places to evade the cities, yet people continued to come to Him from all directions. The leper's disobedience in spreading the news had negative consequences. Jesus desired that people would focus more on His teachings than on signs and miracles, allowing them to properly contemplate His doctrine. Therefore, He urged the leper to keep silent to prevent the inconvenience of large crowds.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.9043353991347125,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                26.81,
+                37.1,
+                36.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord chose to avoid the overwhelming crowds in the towns, yet the seeking to Him for teaching and healing persisted from all parts. Jesus had to seek refuge in desert places to evade the cities, as people continued to come to Him from every quarter. The leper's disobedience in spreading the news had unfavorable consequences. Jesus desired that people would prioritize His teachings over signs and miracles, allowing them to properly appreciate his doctrine. Therefore, He instructed the leper to remain silent to deter the inconvenience of large crowds.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.8672898368550475,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                27.17,
+                37.29,
+                35.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord chose to avoid being overwhelmed by crowds in the towns, while people from all parts still sought Him for teaching and healing. Jesus had to retreat to desert places to evade the cities, yet crowds continued to come to Him. The leper's disobedience in spreading the news had negative consequences. Jesus desired that people focus more on His teachings than on signs and miracles, allowing them to truly understand His doctrine. Hence, He urged the leper to remain silent to prevent the inconvenience of large crowds.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8946066565180697,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.34,
+            "commentatorTierSimilarities": [
+                27.54,
+                36.5,
+                35.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

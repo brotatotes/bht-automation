@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:25:13",
+    "verseRef": "Mark 9:3",
+    "bestBHT": {
+        "bht": "His raiment became shining and exceeding white, glistening with a splendor that no human effort could achieve. The radiance of his clothes was preternatural, beyond anything seen before. This brilliance was so intense that it was compared to the snow-capped summit of Hermon, the whitest of all whiteness. The raiment was white as snow, surpassing the skill of any fuller on earth to achieve such whiteness. Just as the Israelites could not withstand the glory of Moses' countenance, mankind was unable to behold the full brightness of his garments.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.7281201997854794,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+        "commentatorTierSimilarities": [
+            25.83,
+            32.41,
+            41.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] became is of itself a graphic touch, bringing out the glistening of each separate portion of his clothing."
+        ],
+        "Marvin Vincent": [
+            "Shining [\u03c3\u03c4\u03b9\u03bb\u03b2\u03bf\u03bd\u03c4\u03b1] . Rev., glistering. The word is used of a gleam from polished surfaces - arms, sleek horses, water in motion, the twinkling of the stars, lightning.",
+            "As no fuller, etc. Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "This graphic touch brings out 'the glistening of each separate portion of His clothing' (Alford).",
+            "This indicates that the splendor was preternatural.",
+            "Beyond all these efforts of human splendor was the glory of our Lord's raiment. An anticipation of His future glory as the Son of man."
+        ],
+        "Archibald T. Robertson": [
+            "Glistering, exceeding white.",
+            "So as no fuller on earth can whiten them.",
+            "Probably the snow-capped summit of Hermon was visible on this very night."
+        ],
+        "John Gill": [
+            "And his raiment became shining...and exceeding white as snow; than which nothing is whiter; so as no fuller on earth can white them.\" ",
+            "The Syriac version renders it, 'as men cannot white on earth'; and the Persic thus, 'so as men could not behold him'.\" ",
+            "Just as the Israelites could not steadfastly behold the face of Moses, because of the glory of his countenance when he came down from the mount."
+        ],
+        "John Wesley": [
+            "White as snow, such as no fuller can whiten \u2014 Such as could not be equalled either by nature or art."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "His raiment became shining and exceeding white, glistening with a splendor that no human effort could achieve. The radiance of his clothes was preternatural, beyond anything seen before. It was a foreshadowing of his future glory as the Son of man. This brilliance was so intense that it was compared to the snow-capped summit of Hermon, the whitest of all whiteness. The raiment was white as snow, surpassing the skill of any fuller on earth to achieve such whiteness. Just as the Israelites could not withstand the glory of Moses' countenance, mankind was unable to behold the full brightness of his garments.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.67877994443421,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                24.47,
+                36.74,
+                38.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "His raiment became shining and exceeding white, glistening with a splendor that no human effort could achieve. The radiance of his clothes was preternatural, beyond anything seen before. This brilliance was so intense that it was compared to the snow-capped summit of Hermon, the whitest of all whiteness. The raiment was white as snow, surpassing the skill of any fuller on earth to achieve such whiteness. Just as the Israelites could not withstand the glory of Moses' countenance, mankind was unable to behold the full brightness of his garments.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.7281201997854794,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                25.83,
+                32.41,
+                41.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "His raiment became shining and exceeding white, glistening with a splendor that no human effort could achieve. The radiance of his clothes was preternatural, beyond anything seen before. It was a foreshadowing of his future glory as the Son of man. This brilliance was so intense that it was compared to the snow-capped summit of Hermon, the whitest of all whiteness. The raiment was white as snow, surpassing the skill of any fuller on earth to achieve such whiteness. Just as the Israelites could not withstand the glory of Moses' countenance, mankind was unable to behold the full brightness of his garments.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.67877994443421,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                24.47,
+                36.74,
+                38.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Mark 9:3, the raiment of Jesus became shining and exceeding white, with a splendor that surpassed any human effort. His clothes glistened, resembling polished surfaces like gleaming armors, sleek horses, or twinkling stars. This preternatural radiance hinted at his future glory as the Son of man. It was as white as snow, even whiter than what any earthly fuller could achieve, comparable to the pristine summit of Hermon. Mankind, like the Israelites who couldn't gaze at Moses' radiant face, could not fully comprehend the dazzling brilliance of Jesus' garments.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 1.5338830667261147,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.34,
+            "commentatorTierSimilarities": [
+                23.79,
+                36.01,
+                40.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "His raiment became shining and exceeding white, glistening with a splendor that no human effort could achieve. The radiance of his clothes was preternatural, beyond anything seen before. It was a foreshadowing of his future glory as the Son of man. This brilliance was compared to the snow-capped summit of Hermon, the whitest of all whiteness. The raiment was white as snow, surpassing the skill of any fuller on earth. Just as the Israelites couldn't withstand Moses' countenance, mankind was unable to behold the full brightness of his garments.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.677400994360493,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                25.28,
+                36.05,
+                38.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

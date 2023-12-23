@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:29:47",
+    "verseRef": "Mark 14:65",
+    "bestBHT": {
+        "bht": "As members of the Sanhedrin and their servants surrounded Jesus, they subjected Him to scorn and ridicule. They sarcastically demanded that He prophesy who had struck Him, mocking His claim as the Christ. These contemptuous acts fulfilled the prophetic words, I gave My back to the smiters... I hid not My face from shame and spitting! The cruelty escalated as they struck Him with blows to His face, while others spat on Him. These gross indignities were a painful fulfillment of the suffering Christ endured for our redemption.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 1.5177557474449475,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.81,
+        "commentatorTierSimilarities": [
+            32.36,
+            35.36,
+            32.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The some appear to be members of the Sanhedrim: the servants follow.",
+            "Prophesy, who smote thee?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And the men that held Jesus mocked him\"\u2014or cast their jeers at Him.",
+            "Prophesy unto us, thou Christ, Who is he that smote Thee?\" The sarcastic fling at Him as \"the Christ,\" and the demand of Him in this character to name the unseen perpetrator of the blows inflicted on Him, was in them as infamous as to Him it must have been, and was intended to be, stinging.",
+            "Ah! Well did He say prophetically, in that Messianic prediction which we have often referred to, 'I gave My back to the smiters, and My cheeks to them that plucked off the hair: I hid not My face from shame and spitting!'"
+        ],
+        "Marvin Vincent": [
+            "Palms of their hands [\u03c1\u03b1\u03c0\u03b9\u03c3\u03bc\u03b1\u03c3\u03b9\u03bd]. An unclassical word, but used also by John (xix. 3). The word means blows.",
+            "Did strike. Following the old reading, eballon. The Correct reading is elabon, received.",
+            "Rev. Received him into custody."
+        ],
+        "Philip Schaff": [
+            "Some. Others than the 'officers,' spoken of below. The context (Mark 14:64) points to members of the Sanhedrin as engaged in this cruelty.",
+            "The officers. Probably those who had been by the fire (Mark 14:54).",
+            "Received him with blows of their hands. The correct reading is thus translated, describing the conduct of the officers when they received Jesus again as their prisoner."
+        ],
+        "Archibald T. Robertson": [
+            "Not in Matthew, but in Luke 22:64 where Revised Version translates \u03c0\u03b5\u03c1\u03b9\u03ba\u03b1\u03bb\u03c5\u03c8\u03b1\u03bd\u03c4\u03b5\u03c2 by 'blind-folded.'",
+            "All three Gospels give the jeering demand of the Sanhedrin: 'Prophesy,' meaning, as Matthew and Luke add, thereby telling who struck him while he was blindfolded.",
+            "At any rate it was a gross indignity."
+        ],
+        "John Gill": [
+            "And some began to spit on him....\" - The men that held him. ",
+            "...to blindfold him, as a person unworthy to behold the light.\" ",
+            "...buffet him with their double fists."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Christ stood before the Sanhedrin, some members of the council and their servants jeered at Him, mocking His claim to be the Christ. They demanded that He identify the person who had struck Him, treating Jesus with scorn and contempt. These acts of contempt were a fulfillment of the prophecy that He would suffer humiliation, fulfilling the words, I gave My back to the smiters, and My cheeks to them that plucked off the hair: I hid not My face from shame and spitting! The cruelty escalated as they struck Him with blows to the face and received Him into custody. It was a gross indignity, and later His captors would continue to mistreat Him, spitting on Him and blindfolding Him. Such ruthless acts were a testament to the profound suffering Christ endured for our sake.",
+            "wordCount": 137,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5779395162826206,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.81,
+            "commentatorTierSimilarities": [
+                30.58,
+                37.67,
+                31.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Christ faced the Sanhedrin, their mockery and jeering were evident. They sarcastically questioned Him, demanding that He prophesy the identity of the one who had struck Him. This contemptible treatment fulfilled the prophecy of the Messiah's suffering, I gave My back to the smiters... I hid not My face from shame and spitting! The mistreatment continued as they struck Him and took Him into custody. These acts of cruelty and indignity showcased the immense pain and humiliation that Christ endured for the sake of humanity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4473819996316672,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+            "commentatorTierSimilarities": [
+                34.06,
+                31.82,
+                34.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As members of the Sanhedrin and their servants surrounded Jesus, they subjected Him to scorn and ridicule. They sarcastically demanded that He prophesy who had struck Him, mocking His claim as the Christ. These contemptuous acts fulfilled the prophetic words, I gave My back to the smiters... I hid not My face from shame and spitting! The cruelty escalated as they struck Him with blows to His face, while others spat on Him. These gross indignities were a painful fulfillment of the suffering Christ endured for our redemption.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.5177557474449475,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.81,
+            "commentatorTierSimilarities": [
+                32.36,
+                35.36,
+                32.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the members of the Sanhedrin and their servants surrounded Jesus, they subjected Him to mockery and contempt. They sarcastically demanded that He reveal the identity of the one who had struck Him, demeaning His claim as the Christ. These vile acts fulfilled the prophecy, I gave My back to the smiters... I hid not My face from shame and spitting! The cruelty escalated with blows to His face. Such gross indignities demonstrated the immense suffering that Christ endured for the sake of humanity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4651592994059013,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.06,
+            "commentatorTierSimilarities": [
+                31.67,
+                33.87,
+                34.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the members of the Sanhedrin and their servants surrounded Jesus, they subjected Him to mockery and contempt. Mockingly, they challenged Him to prophesy who had struck Him, as they jeered at His claim to be the Christ. These degrading actions fulfilled the prophetic words, I gave My back to the smiters... I hid not My face from shame and spitting! They further dishonored Him with blows to His face, disregarding His dignity. These acts of cruelty vividly depict the intense suffering that Christ endured for the sake of humanity.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.5166595571599253,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.77,
+            "commentatorTierSimilarities": [
+                31.39,
+                35.1,
+                33.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

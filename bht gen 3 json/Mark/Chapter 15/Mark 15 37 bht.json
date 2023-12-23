@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:29:29",
+    "verseRef": "Mark 15:37",
+    "bestBHT": {
+        "bht": "Jesus gave up the ghost, meaning He literally breathed out His last breath and expired. This term serves as a substitute for died, offering a more nuanced description of His passing. He cried out with a loud voice, uttering the words found in Luke 23:46 and John 19:30, signifying the culmination of His life, ministry, and the work entrusted to Him.",
+        "wordCount": 59,
+        "quoteTokenProportion": 36.17,
+        "qualityScore": 1.854238240750194,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+        "commentatorTierSimilarities": [
+            43.07,
+            31.5,
+            25.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Gave up the ghost, the literal sense here is: \u2018breathed out,\u2019 expired.\" (J. A. Alexander)",
+            "A beautiful substitute for died, which all the Evangelists appear to have avoided.\" (J. A. Alexander)"
+        ],
+        "Archibald T. Robertson": [
+            "Gave up the ghost (\u03b5\u03be\u03b5\u03c0\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd). Literally, breathed out. See \"yielded up his spirit\" in Matthew 27:50 for discussion for details. Mark uses this word \u03b5\u03be\u03b5\u03c0\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd again in verse Mark 15:39. "
+        ],
+        "John Gill": [
+            "And Jesus cried with a loud voice,.... A second time, and said the words which are in Luke 23:46 and in John 19:30.",
+            "And gave up the ghost.",
+            "He finished his life, his days, his race, his ministry, and the work which was given him to do."
+        ],
+        "John Wesley": [
+            "Matthew 27:50; Luke 23:46; John 19:30."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus gave up the ghost, meaning He breathed out His last breath and expired. This term is a beautiful substitute for died, as it avoids explicitly stating His death. Jesus cried with a loud voice, uttering the words found in Luke 23:46 and John 19:30, as He finished the work that was given to Him to do. This act marked the completion of His life, ministry, and the race He had run. (Matthew 27:50; Luke 23:46; John 19:30)",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.7107696222813997,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                36.47,
+                26.2,
+                37.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus gave up the ghost, breathing out his last breath and expiring. This term is a substitute for died, and Jesus cried out with a loud voice, uttering the words found in Luke 23:46 and John 19:30. This marked the completion of his life, his ministry, and the work he was given to do. (Matthew 27:50; Luke 23:46; John 19:30)",
+            "wordCount": 55,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.6316585571891586,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.59,
+            "commentatorTierSimilarities": [
+                34.69,
+                21.93,
+                43.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus gave up the ghost, literally breathing out his last breath and expiring. This term serves as a beautiful substitute for the word died, as it avoids explicitly stating his death. Jesus cried out with a loud voice, uttering the words recorded in Luke 23:46 and John 19:30. This marked the completion of his life, his ministry, and the work assigned to him.",
+            "wordCount": 61,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.6071775773106838,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.78,
+            "commentatorTierSimilarities": [
+                40.39,
+                30.85,
+                28.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus gave up the ghost, meaning He literally breathed out His last breath and expired. This term serves as a substitute for died, offering a more nuanced description of His passing. He cried out with a loud voice, uttering the words found in Luke 23:46 and John 19:30, signifying the culmination of His life, ministry, and the work entrusted to Him.",
+            "wordCount": 59,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.854238240750194,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                43.07,
+                31.5,
+                25.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus gave up the ghost, breathing out His final breath and expiring. This term is a substitute for died, deliberately chosen by the Evangelists to describe His passing. He cried out loudly, uttering the same words recorded in Luke 23:46 and John 19:30. This marked the completion of His life, ministry, and the work assigned to Him.(Mt 27:50; Lk 23:46; Jn 19:30)",
+            "wordCount": 58,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.5884355753055828,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.16,
+            "commentatorTierSimilarities": [
+                37.1,
+                30.72,
+                32.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

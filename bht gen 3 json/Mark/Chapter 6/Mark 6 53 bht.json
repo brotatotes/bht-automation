@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:23:54",
+    "verseRef": "Mark 6:53",
+    "bestBHT": {
+        "bht": "After passing over, they arrived in the land of Gennesaret, specifically in Capernaum, and they drew the boat to the shore using a nautical phrase unique to Mark's gospel. It is likely that they moored or lashed the boat to a post on the shore, as indicated by the term moored to the shore, which is only found here in the New Testament. This landing took place at the plain of Gennesaret, south of Bethsaida, due to the influence of the night wind.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.9859295789128275,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+        "commentatorTierSimilarities": [
+            42.91,
+            41.62,
+            15.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And when they had passed over, they came into the land of Gennesaret\u2014from which the lake sometimes takes its name, stretching along its western shore.\" ",
+            "Capernaum was their landing-place.",
+            "And drew to the shore\u2014a nautical phrase, nowhere else used in the New Testament."
+        ],
+        "Marvin Vincent": [
+            "Drew to the shore. Peculiar to Mark.\" ",
+            "Rev., moored to the shore, though the meaning may be near the shore.",
+            "jAnebh, he went up (verse 51), seems to indicate a vessel of considerable size, standing quite high out of the water."
+        ],
+        "Philip Schaff": [
+            "The correct reading strengthens the view that there was no miraculous sailing, since it distinguishes the passing over to the land, and the coming to Gennesaret.",
+            "The natural course of things is further apparent from the last phrase: moored there, i.e., came to anchor, or, made fast, possibly ran the boat on shore.",
+            "Although there is nothing in the original answering to the phrase: 'to the shore,' of the common version."
+        ],
+        "Archibald T. Robertson": [
+            "And moored to the shore (\u03ba\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03bc\u03b9\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd). Only here in the New Testament... H\u03bf\u03c1\u03bc\u03bf\u03c2 is roadstead or anchorage.\" ",
+            "They cast anchor or lashed the boat to a post on shore.\" ",
+            "It was at the plain of Gennesaret several miles south of Bethsaida owing to the night wind."
+        ],
+        "John Gill": [
+            "The land of Gennesaret was watered with a very excellent spring, which the inhabitants of that place called Capernaum.",
+            "The land of Gennesaret was watered with a very excellent spring.",
+            "The inhabitants of that place called Capernaum."
+        ],
+        "John Wesley": [
+            "Matthew 14:34; John 6:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After crossing over to the land of Gennesaret, they arrived in Capernaum and drew the boat to the shore using a nautical phrase specific to Mark's gospel. It is likely that they moored the boat or lashed it to a post on the shore due to the presence of a roadstead or anchorage. The use of the term went up implies that the boat they were in was of considerable size. This landing took place at the plain of Gennesaret, several miles south of Bethsaida, due to the influence of the night wind. This location was known for its excellent spring that watered the land and was also referred to as Capernaum.",
+            "wordCount": 113,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.7130570702721433,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                39.84,
+                39.81,
+                20.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After passing over, they arrived in the land of Gennesaret, specifically in Capernaum, and they drew the boat to the shore using a nautical phrase unique to Mark's gospel. It is likely that they moored or lashed the boat to a post on the shore, as indicated by the term moored to the shore, which is only found here in the New Testament. This landing took place at the plain of Gennesaret, south of Bethsaida, due to the influence of the night wind.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9859295789128275,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                42.91,
+                41.62,
+                15.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After passing over, they arrived in the land of Gennesaret, specifically in Capernaum, and they drew the boat to the shore using a nautical phrase unique to Mark's gospel. It is likely that they moored or lashed the boat to a post on the shore, as indicated by the term moored to the shore, which is only found here in the New Testament. This landing took place at the plain of Gennesaret, south of Bethsaida, due to the influence of the night wind.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9859295789128275,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                42.91,
+                41.62,
+                15.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They reached the land of Gennesaret, specifically Capernaum, and brought the boat to the shore using a nautical phrase unique to Mark's gospel. It is likely that they moored or lashed the boat to a post on the shore, as the term moored to the shore suggests. This landing occurred at the plain of Gennesaret, south of Bethsaida, influenced by the night wind. The land of Gennesaret, known for its excellent spring, was often referred to as Capernaum by its inhabitants.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.8351444561129586,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                37.93,
+                38.31,
+                23.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On their journey, they arrived in the land of Gennesaret, specifically in Capernaum, and safely brought the boat to the shore using a nautical term unique to Mark's gospel. It is likely that they moored or lashed the boat to a post on the shore, as indicated by the phrase moored to the shore. This landing took place at the plain of Gennesaret, influenced by the night wind, several miles south of Bethsaida. The land of Gennesaret, also known as Capernaum, was blessed with an abundant spring.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.784549470746824,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+            "commentatorTierSimilarities": [
+                39.54,
+                37.51,
+                22.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

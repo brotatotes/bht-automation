@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:24:56",
+    "verseRef": "Mark 9:2",
+    "bestBHT": {
+        "bht": "Jesus, driven by a motive of prayer, took Peter, James, and John up a high mountain by themselves for a transformative encounter. As Jesus was transfigured before them, his appearance changed into the form of divine glory, reminiscent of the form of God referenced by Paul in Philippians 2:6-7. This exclusive experience, separate from the multitude, served both the immediate purpose of prayer and the ultimate purpose of revealing Jesus' true divine nature, offering a glimpse into his identity as the Son of God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.5557619071119437,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.07,
+        "commentatorTierSimilarities": [
+            31.47,
+            28.68,
+            39.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Transfigured. See on Matthew 17:2."
+        ],
+        "Philip Schaff": [
+            "Six days. So Matthew. Luke more generally, or perhaps including the day of Peter\u2019s confession: \u2018about an eight days\u2019 (i.e., a week).",
+            "By themselves. Not simply in private (\u2018apart\u2019), but actually \u2018alone.\u2019",
+            "The immediate purpose was \u2018to pray\u2019 (Luke), the ultimate purpose this revelation."
+        ],
+        "Archibald T. Robertson": [
+            "By themselves (\u03bc\u03bf\u03bd\u03bf\u03c5\u03c2). Alone. This word only in Mark.",
+            "See on Matthew 17:1-8 for discussion of the Transfiguration.",
+            "Luke 9:28 adds 'to pray' as the motive of Jesus in taking Peter, James, and John into the high mountain."
+        ],
+        "John Gill": [
+            "And after six days... Jesus taketh with him Peter, James, and John... and leadeth them up into an high mountain apart by themselves..."
+        ],
+        "John Wesley": [
+            "By themselves \u2014 That is, separate from the multitude.\" ",
+            "Apart - From the other apostles.",
+            "The Greek word seems to refer to the form of God, and the form of a servant, {mentioned by St. Paul, Philippians 2:6,7,} and may intimate, that the Divine rays, which the indwelling God let out on this occasion, made the glorious change from one of these forms into the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Six days after Jesus' conversation with his disciples about his coming suffering, Jesus, driven by the motive of prayer, took Peter, James, and John up a high mountain alone. This exclusive experience, separate from the multitude, allowed for a profound revelation to take place. As Jesus was transfigured before them, his appearance changed into the form of divine glory, reminiscent of the form of God mentioned by Paul in Philippians 2:6-7. This extraordinary event served both an immediate purpose of praying and an ultimate purpose of revealing Jesus' true nature. It was a transformative encounter that provided a glimpse into the divine identity of Jesus.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.306082784798987,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.77,
+            "commentatorTierSimilarities": [
+                30.22,
+                32.6,
+                37.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Driven by the motive of prayer, Jesus took Peter, James, and John up a high mountain alone to seek a profound revelation. This exclusive experience, separate from the multitude, allowed for a transformative encounter where Jesus was transfigured. As his appearance changed into the form of divine glory, it resembled the form of God mentioned by Paul in Philippians 2:6-7. Through this transfiguration, Jesus revealed his true nature and provided a glimpse into his divine identity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.449747735419595,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.55,
+            "commentatorTierSimilarities": [
+                33.01,
+                27.48,
+                39.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Driven by the motive of prayer, Jesus took Peter, James, and John up a high mountain alone to seek a profound revelation. This exclusive experience, separate from the multitude, allowed for a transformative encounter where Jesus was transfigured. As his appearance changed, it resembled the form of God mentioned by Paul in Philippians 2:6-7, indicating the divine nature within him. Through this transfiguration, Jesus revealed his true identity, offering a glimpse into his divine being.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.4601741765299143,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.89,
+            "commentatorTierSimilarities": [
+                33.64,
+                27.83,
+                38.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After six days, Jesus took Peter, James, and John up a high mountain alone, driven by the motive of prayer. This exclusive and separate experience from the multitude allowed for a profound revelation as Jesus was transfigured before them. His appearance changed, resembling the form of God mentioned by Paul in Philippians 2:6-7, signifying the divine nature within him. This transfiguration served both an immediate purpose of prayer and an ultimate purpose of revealing Jesus' true identity as the Son of God, offering a glimpse into his divine being.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.482703643266693,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.64,
+            "commentatorTierSimilarities": [
+                29.9,
+                29.77,
+                40.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, driven by a motive of prayer, took Peter, James, and John up a high mountain by themselves for a transformative encounter. As Jesus was transfigured before them, his appearance changed into the form of divine glory, reminiscent of the form of God referenced by Paul in Philippians 2:6-7. This exclusive experience, separate from the multitude, served both the immediate purpose of prayer and the ultimate purpose of revealing Jesus' true divine nature, offering a glimpse into his identity as the Son of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.5557619071119437,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.07,
+            "commentatorTierSimilarities": [
+                31.47,
+                28.68,
+                39.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

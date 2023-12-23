@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:27:48",
+    "verseRef": "Mark 13:31",
+    "bestBHT": {
+        "bht": "Jesus establishes his enduring authority, stating that while heaven and earth will pass away, his words will remain unchanging. As he approaches the pivotal events of Jerusalem's downfall and the Church's redemption, his language becomes more transcendent, alluding to the final day. Jesus emphasizes the need to prepare for THAT DAY. This verse reinforces the certainty of his predictions, specifically the forthcoming calamities that will befall the Jewish nation.",
+        "wordCount": 71,
+        "quoteTokenProportion": 26.92,
+        "qualityScore": 1.5495714557038616,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+        "commentatorTierSimilarities": [
+            54.03,
+            0.0,
+            45.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Heaven and earth shall pass away; but my words shall not pass away\u2014the strongest possible expression of the divine authority by which He spake.\" ",
+            "It will be observed that, in the foregoing prophecy, as our Lord approaches the crisis of the day of vengeance on Jerusalem and redemption for the Church... His language rises and swells beyond all temporal and partial vengeance, beyond all earthly deliverances and enlargements, and ushers us resistlessly into the scenes of the final day.\" ",
+            "Accordingly, in these six concluding verses it is manifest that preparation for 'THAT DAY' is what our Lord designs to inculcate."
+        ],
+        "John Gill": [
+            "Heaven and earth shall pass away....but my words shall not pass away.\" ",
+            "...shows the certainty and irreversibleness of his predictions.",
+            "...relates to those he had just delivered, concerning the calamities that should come upon the Jewish nation..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us of the unchanging authority of Jesus' words, even as heaven and earth will eventually pass away. The commentary emphasizes that as Jesus approaches the climax of the events surrounding Jerusalem's downfall and the redemption of the Church, his language becomes more transcendent, pointing towards the final day. The focus is on preparation for THAT DAY. This verse signifies the certainty and irreversibility of Jesus' predictions, particularly regarding the calamities that would befall the Jewish nation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.4508924080514152,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+            "commentatorTierSimilarities": [
+                58.63,
+                0.0,
+                41.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus affirms the enduring authority of his words, even as the world will eventually fade away. The commentary illustrates that as Jesus approaches the climax of the events surrounding Jerusalem's downfall and the redemption of the Church, his language becomes more transcendent, foreshadowing the final day. The emphasis lies in preparing for THAT DAY. This verse underscores the unwavering certainty of Jesus' predictions, particularly regarding the calamities that await the Jewish nation.",
+            "wordCount": 73,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.424532743318101,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.71,
+            "commentatorTierSimilarities": [
+                55.37,
+                0.0,
+                44.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus establishes his divine authority by declaring that while heaven and earth will eventually pass away, his words will endure eternally. The commentary highlights Jesus' prophetic words, indicating their significance and surpassing temporal matters. As Jesus approaches the critical events surrounding Jerusalem's downfall and the redemption of the Church, his language expands to encompass the final day, urging believers to prepare for its arrival. This verse emphasizes the certainty and unchangeability of Jesus' predictions, particularly pertaining to the impending calamities faced by the Jewish nation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 21.54,
+            "qualityScore": 1.668625009218472,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.82,
+            "commentatorTierSimilarities": [
+                56.08,
+                0.0,
+                43.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus affirms his divine authority, declaring that while heaven and earth will pass away, his words will endure. As he approaches the climactic events surrounding Jerusalem's downfall and the redemption of the Church, Jesus uses transcendent language, pointing towards the final day. The focus is on the preparation needed for THAT DAY. This verse underscores the certainty of Jesus' predictions, particularly the impending calamities faced by the Jewish nation.",
+            "wordCount": 70,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.4680247695552906,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.15,
+            "commentatorTierSimilarities": [
+                58.39,
+                0.0,
+                41.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus establishes his enduring authority, stating that while heaven and earth will pass away, his words will remain unchanging. As he approaches the pivotal events of Jerusalem's downfall and the Church's redemption, his language becomes more transcendent, alluding to the final day. Jesus emphasizes the need to prepare for THAT DAY. This verse reinforces the certainty of his predictions, specifically the forthcoming calamities that will befall the Jewish nation.",
+            "wordCount": 71,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.5495714557038616,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                54.03,
+                0.0,
+                45.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

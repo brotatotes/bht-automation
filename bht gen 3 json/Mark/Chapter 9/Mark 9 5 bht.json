@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:24:39",
+    "verseRef": "Mark 9:5",
+    "bestBHT": {
+        "bht": "In response to the Lord's transfiguration, Peter, without any question being asked, perceived Jesus' invitation and desired to participate. Overwhelmed by the magnificent company, delightful conversations, and the glorious manifestation of Christ, Peter enthusiastically declared the goodness of being present at that moment. In his excitement, he suggested the construction of three tabernacles, showing his resolution to honor each significant figure in their own dwelling places, while also submitting to the will of Christ.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.7211366113554047,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.57,
+        "commentatorTierSimilarities": [
+            58.7,
+            0.0,
+            41.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Answered. Though no question had been asked him : but the Lord 's transfiguration was an appeal to him and he desired to respond."
+        ],
+        "John Gill": [
+            "Master, it is good for us to be here: the company and conversation were exceeding agreeable to him and his fellow disciples; and the glory that Christ appeared in surpassed every thing they had seen before.",
+            "And let us make three tabernacles; or, as the Syriac, Arabic, and Ethiopic versions read, 'and we will make', expressing not a petition, but a resolution...",
+            "...submitting it to the will of Christ: one for thee, and one for Moses, and one for Elias."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 9:5, Jesus' transfiguration served as an invitation for Peter to respond, prompting him to exclaim, Master, it is good for us to be here. The companionship and conversation of Jesus, Moses, and Elijah, coupled with the extraordinary glory in which Christ appeared, immensely delighted Peter and the other disciples. In his eagerness, Peter proposed building three tabernacles, not as a petition, but as a resolute plan, acknowledging the significance of each figure in their distinctive dwelling places.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6403021873712718,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.88,
+            "commentatorTierSimilarities": [
+                54.95,
+                0.0,
+                45.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In response to the Lord's transfiguration, Peter, without any question being asked, perceived Jesus' invitation and desired to participate. Overwhelmed by the magnificent company, delightful conversations, and the glorious manifestation of Christ, Peter enthusiastically declared the goodness of being present at that moment. In his excitement, he suggested the construction of three tabernacles, showing his resolution to honor each significant figure in their own dwelling places, while also submitting to the will of Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7211366113554047,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.57,
+            "commentatorTierSimilarities": [
+                58.7,
+                0.0,
+                41.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord's transfiguration was an implicit invitation, to which Peter responded eagerly, acknowledging the goodness of being present in that divine moment. The delightful company of Jesus, Moses, and Elijah, coupled with the remarkable glory that radiated from Christ, surpassed anything they had seen before. Peter's exclamation of Master, it is good for us to be here reflected his deep appreciation for the experience. In his enthusiasm, Peter proposed building three tabernacles, expressing his intention to honor and commemorate the divine presence of Jesus, Moses, and Elijah.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.4789958232240203,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+            "commentatorTierSimilarities": [
+                55.23,
+                0.0,
+                44.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's transfiguration appealed to Peter, who eagerly acknowledged the goodness of being present. In the splendid company of Jesus, Moses, and Elijah, the surpassing glory of Christ outshone all previous experiences. Peter's exclamation of Master, it is good for us to be here expressed his deep appreciation for the moment. His proposal to build three tabernacles reflected his resolute intention to honor Jesus, Moses, and Elijah, submitting to the divine will.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.3807483538819194,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.25,
+            "commentatorTierSimilarities": [
+                50.79,
+                0.0,
+                49.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord's transfiguration served as an unasked question, prompting Peter's eager response. Recognizing the goodness of the moment, Peter exclaimed, Master, it is good for us to be here. The delightful company of Jesus, Moses, and Elijah, along with the unparalleled glory of Christ, surpassed all previous experiences. Peter's proposal to build three tabernacles demonstrated his firm resolve to honor each figure individually, humbly submitting to Christ's will.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3424247758055825,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+            "commentatorTierSimilarities": [
+                53.73,
+                0.0,
+                46.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

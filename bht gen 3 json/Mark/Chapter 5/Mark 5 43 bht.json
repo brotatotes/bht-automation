@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-22-2023 23:23:28",
+    "verseRef": "Mark 5:43",
+    "bestBHT": {
+        "bht": "An eyewitness account of the girl being raised from the dead is provided, while Matthew gives details of the spreading report. Her recovery of strength is left to natural causes. Jesus charges those present to remain silent, perhaps to manage public perception of him and delay the expected climax. The instruction to provide her with food shows the compassionate care of the Great Physician. While the miracle's concealment would not last long, Jesus intends for a delay in order to reflect on God's work calmly.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.373453297425245,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.01,
+        "commentatorTierSimilarities": [
+            28.06,
+            38.09,
+            33.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Betokens an eyewitness, who relates what passed within.",
+            "St. Matthew says nothing of this, but tells what took place without, viz. the spreading abroad of the report.",
+            "Notice in the last words, that her further recovery of strength is left to natural causes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The only reason we can assign for this is His desire not to let the public feeling regarding Him come too precipitately to a crisis.",
+            "In token of perfect restoration.",
+            "He charged them straitly."
+        ],
+        "John Calvin": [
+            "The miracle might not have remained long concealed.",
+            "He wished them to be silent, and that only for a time.",
+            "He therefore intended to allow some delay, that they might in quietness and composure revolve the work of God."
+        ],
+        "Philip Schaff": [
+            "Charged them much. A tumult might be excited, the carnal expectations about the Messiah might be roused.\" ",
+            "The miraculous power now ceased: she needed food; her strength would be recovered by natural means.",
+            "At the same time it was an evidence that she was actually restored."
+        ],
+        "Archibald T. Robertson": [
+            "She could walk and eat; not only alive, but well\" (Bruce).",
+            "Both Mark and Luke note that Jesus ordered that food be given to the child given her to eat, a natural care of the Great Physician.",
+            "There was the girl besides."
+        ],
+        "John Gill": [
+            "This charge he gave, to show his dislike of ostentation and popular applause, and to avoid the envy of the Scribes and Pharisees, and prevent the people from making any attempts to proclaim him king...",
+            "His time not being yet come to die, he having some other work to do; and a more full manifestation of him being reserved for another time, and to be done in another way.",
+            "She did not rise with it, but was free from it; and was now like one that had been asleep for a while, and was hungry upon it; as children of such an age generally are upon rising from sleep."
+        ],
+        "John Wesley": [
+            "He charged them that no man should know it \u2014 That he might avoid every appearance of vain glory, might prevent too great a concourse of people, and might not farther enrage the scribes and Pharisees against him; the time for his death, and for the full manifestation of his glory, being not yet come.",
+            "He commanded something should be given her to eat \u2014 So that when either natural or spiritual life is restored, even by immediate miracle, all proper means are to be used in order to preserve it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The eyewitness account of the girl being raised from the dead in Mark 5:43 is emphasized, with St. Matthew providing additional external details. It is noteworthy that her complete recovery of strength is left to natural causes. Jesus' decision to charge those present to keep silent about the miracle is seen as an effort to manage the public's perception of him and prevent premature notoriety. The instruction to give her something to eat highlights the care and concern of the Great Physician. While it can be inferred that the publicity of the miracle would have been inevitable, Jesus intended for a delay to allow for reflection on God's work in a peaceful manner.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.3647264676827775,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "commentatorTierSimilarities": [
+                27.54,
+                33.55,
+                38.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "An eyewitness account of the girl being raised from the dead is provided, while Matthew gives details of the spreading report. Her recovery of strength is left to natural causes. Jesus charges those present to remain silent, perhaps to manage public perception of him and delay the expected climax. The instruction to provide her with food shows the compassionate care of the Great Physician. While the miracle's concealment would not last long, Jesus intends for a delay in order to reflect on God's work calmly.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.373453297425245,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.01,
+            "commentatorTierSimilarities": [
+                28.06,
+                38.09,
+                33.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The eyewitness account reveals what transpired during the girl's resurrection, while Matthew adds the external details. Her complete recovery is attributed to natural causes. Jesus charges those present to remain silent, possibly to manage public perception and avoid unnecessary attention. The command to give the girl something to eat demonstrates the care of the Great Physician. While the miracle's concealment would not endure, Jesus intentionally delays its publicity, allowing for contemplation of God's work in a peaceful manner.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.3462658863249304,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.11,
+            "commentatorTierSimilarities": [
+                28.23,
+                35.68,
+                36.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The eyewitness provides an account of what happened during the girl's resurrection, while Matthew focuses on the spreading of the news. Her recovery is attributed to natural causes. Jesus instructs those present to remain silent, indicating his desire to manage public perception and prevent a premature crisis. The instruction to provide the girl with food reveals the compassionate care of the Great Physician. While the miracle's concealment is temporary, Jesus intentionally delays its publicity, allowing for a peaceful contemplation of God's work.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.3183530997120618,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.18,
+            "commentatorTierSimilarities": [
+                29.05,
+                36.69,
+                34.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The eyewitness account of the girl's resurrection emphasizes the events that took place. Her recovery of strength is left to natural causes, but the need for her to eat showcases the care of the Great Physician. Jesus charges those present to remain silent, likely to manage public feelings and prevent a premature crisis. While the concealment of the miracle would not last long, Jesus deliberately delays its publicity to allow for a calm reflection on God's work.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.358952147346146,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.53,
+            "commentatorTierSimilarities": [
+                25.58,
+                34.9,
+                39.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

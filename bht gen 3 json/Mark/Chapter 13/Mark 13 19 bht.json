@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:27:58",
+    "verseRef": "Mark 13:19",
+    "bestBHT": {
+        "bht": "The affliction foretold in this passage is described as an unprecedented suffering since the beginning of creation. This kind of language is not uncommon in the Old Testament when referencing immense calamities. The Jewish war during that period witnessed an unmatched level and complexity of suffering, including the Roman siege, the zealots' fury, and internal conflicts within the Jewish community. The devastating impact of violence, plagues, and famines was experienced. While some argue that part of this affliction has already occurred, others speculate that there is more suffering yet to come.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.5090049525074942,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+        "commentatorTierSimilarities": [
+            45.03,
+            0.0,
+            54.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the creation which God created..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For in those days shall be affliction, such as was not from the beginning of the creation.\" ",
+            "Such language is not unusual in the Old Testament with reference to tremendous calamities.",
+            "But it is a matter of literal fact that there was crowded into the period of the Jewish war an amount and complication of suffering perhaps unparalleled."
+        ],
+        "Marvin Vincent": [
+            "The creation which God created. Note the peculiar amplification, and compare verse 20, the elect or chosen whom he chose."
+        ],
+        "Archibald T. Robertson": [
+            "Which God created (\u03b7\u03bd \u03b5\u03ba\u03c4\u03b9\u03c3\u03b5\u03bd \u03bf \u03b8\u03b5\u03bf\u03c2). Note this amplification to the quotation from Daniel 12:1. "
+        ],
+        "John Gill": [
+            "What with the close siege of the Romans; the fury of the zealots, and seditious; the rage of different parties among the Jews themselves; the ravage of the sword, both within and without, together with dreadful plagues and famines...",
+            "Of which there never was the like in any age, and cannot be paralleled in any history, since the beginning of time, or the world was made, or any thing in it, down to that period...",
+            "Nor ever will the like befall any one particular nation under the heavens, to the end of the world..."
+        ],
+        "John Wesley": [
+            "In those days shall be affliction, such as was not from the beginning of the creation.",
+            "May it not be doubted, whether this be yet fully accomplished?",
+            "Is not much of this affliction still to come?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 13:19, the verse speaks about the affliction that will occur in the future, a suffering that will be unlike anything that has ever been experienced before. The language used in this verse is not uncommon in the Old Testament when describing immense calamities. It is evident that during the Jewish war, an unprecedented amount of suffering and complexity of events took place. The intensity of this suffering can be seen through the close siege of the Romans, the fury of the zealots, and the internal strife among the Jewish people. This period was marked by ravages of the sword, plagues, and famines, which are unparalleled in history. It is important to recognize that this affliction, though partially fulfilled, may not be fully accomplished yet. We must consider if there is still more suffering to come in the future.",
+            "wordCount": 139,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.361697026966283,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.62,
+            "commentatorTierSimilarities": [
+                37.26,
+                0.0,
+                62.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Speaking of a future affliction, Mark 13:19 describes a suffering that will be unmatched since the beginning of creation. This language is not uncommon in the Old Testament, which often uses it to depict tremendous calamities. The Jewish war saw an incomparable amount and complexity of suffering, from the close siege of the Romans to the internal strife among the Jewish people. This period was marked by the ravages of the sword, plagues, and famines. While some argue that this affliction has already been partially fulfilled, it is possible that there is still more suffering to come in the future.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.5169044490646528,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                45.37,
+                0.0,
+                54.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The future affliction described in this passage is said to be unlike anything ever experienced since the creation of the world. This kind of language is often used in the Old Testament to express tremendous calamities. The period of the Jewish war was marked by an unparalleled amount and complexity of suffering, comprising the close siege of the Romans, the fury of the zealots, and internal strife among the Jewish people. The magnitude of this suffering included the ravages of the sword, plagues, and famines. Though some believe that this affliction has been partially fulfilled, there are those who argue that there may still be more suffering to come in the future.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.5698504400573556,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                47.26,
+                0.0,
+                52.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The future affliction mentioned in this verse is described as a suffering that is unparalleled since the creation of the world. This type of language is commonly used in the Old Testament to depict tremendous calamities. The Jewish war was a period marked by a staggering amount and complexity of suffering, including the close siege of the Romans, the fury of the zealots, and internal strife among the Jewish people. The suffering endured during this time included the devastating impact of the sword, plagues, and famines. While some argue that this affliction has been partly fulfilled, others speculate that there may still be more suffering to come in the future.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5000166014494398,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.22,
+            "commentatorTierSimilarities": [
+                45.94,
+                0.0,
+                54.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The affliction foretold in this passage is described as an unprecedented suffering since the beginning of creation. This kind of language is not uncommon in the Old Testament when referencing immense calamities. The Jewish war during that period witnessed an unmatched level and complexity of suffering, including the Roman siege, the zealots' fury, and internal conflicts within the Jewish community. The devastating impact of violence, plagues, and famines was experienced. While some argue that part of this affliction has already occurred, others speculate that there is more suffering yet to come.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.5090049525074942,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+            "commentatorTierSimilarities": [
+                45.03,
+                0.0,
+                54.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

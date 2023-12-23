@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:27:01",
+    "verseRef": "Mark 11:16",
+    "bestBHT": {
+        "bht": "Jesus enters the court of the Gentiles and forbids its desecration, where people were using it for common life purposes and carrying vessels through it. He rebukes the neglect of the temple authorities who had prohibited such a practice and demonstrates his strong notions of holiness, demanding respect for places dedicated to God. Jesus's strictness and severity in this matter highlight the significance of upholding even relative holiness and the regard owed to sacred spaces.",
+        "wordCount": 76,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.631977520116872,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.61,
+        "commentatorTierSimilarities": [
+            31.4,
+            29.41,
+            39.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was the court of the Gentiles, which was used as a thoroughfare; which desecration our Lord forbade.",
+            "Any vessel\u2014e. g. a pail or basket,\u2014used for common life.",
+            "[Jesus] forbade [the desecration of the court of the Gentiles]."
+        ],
+        "Marvin Vincent": [
+            "Vessel [\u03c3\u03ba\u03b5\u03c5\u03bf\u03c2] . See on Matthew 12:29; Mark 3:27.",
+            "Temple [\u03b9\u03b5\u03c1\u03bf\u03c5] . See on Matthew 4:5. The temple enclosure, not the naov, or sanctuary.",
+            "The court of the Gentiles, moreover, was not regarded by the Jews as entitled to the respect due to the other part of the enclosure. This our Lord rebukes."
+        ],
+        "Philip Schaff": [
+            "And he suffered not that any one. Peculiar to Mark. How He stopped this profanation, we do not know.",
+            "Should carry a vessel, including utensils, tools, etc.",
+            "This practice involved the same sin as the others (Mark 11:15), and expressed the same contempt for the Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "The temple authorities had prohibited using the outer court of the temple...but the rule was neglected and all sorts of irreverent conduct was going on that stirred the spirit of Jesus.\" ",
+            "This item is given only in Mark.\" ",
+            "Note the use of \u03b9\u03bd\u03b1 after \u03b7\u03c6\u03b9\u03b5 instead of the infinitive (the usual construction)."
+        ],
+        "John Gill": [
+            "He was more strict and severe than the day before; and gave orders, that they should be so far from being allowed to sit and trade in that sacred place.",
+            "No man should carry any vessel through the temple; should make a thoroughfare of it, by carrying through to any other place, any vessel that was for common use, or any sort of burden whatever.",
+            "This they could not well find fault with, nor complain of, since it was agreeable to one of their own canons."
+        ],
+        "John Wesley": [
+            "He suffered not that any should carry a vessel through the temple.\" ",
+            "So strong notions had our Lord, of even relative holiness!",
+            "And of the regard due to those places (as well as times) that are peculiarly dedicated to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 11:16, Jesus enters the court of the Gentiles, a place that was supposed to be respected and not desecrated. He forbids the people from using this area as a thoroughfare, preventing them from carrying any common vessel or burden through it. Jesus's actions reveal his strong sense of even relative holiness and the regard due to places dedicated to God. This rebuke of the temple authorities for neglecting the rules and allowing irreverent conduct displays Jesus's strictness and severity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5747725184715047,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                32.45,
+                31.5,
+                36.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus enters the court of the Gentiles, a place regarded with less respect by the Jews, and forbids the desecration of this area. He stops people from using it as a thoroughfare and carrying common vessels or burdens through it. By doing so, Jesus shows his strong notions of holiness and the respect owed to places dedicated to God. His actions rebuke the temple authorities for neglecting the rules and allowing irreverent conduct, displaying his strictness and severity.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5289799084350593,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                30.27,
+                31.74,
+                37.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus forbids the desecration of the court of the Gentiles in Mark 11:16, where people were using it as a thoroughfare and carrying common vessels. This area, though not regarded with the same respect as the other parts of the temple, was not meant to be profaned. Jesus's actions reveal his strong sense of holiness and the importance of respecting places dedicated to God. He rebukes the temple authorities for neglecting the rules and allowing irreverent conduct, displaying his strictness and severity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6215628366546528,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.26,
+            "commentatorTierSimilarities": [
+                34.3,
+                30.28,
+                35.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus enters the court of the Gentiles and forbids its desecration, where people were using it for common life purposes and carrying vessels through it. He rebukes the neglect of the temple authorities who had prohibited such a practice and demonstrates his strong notions of holiness, demanding respect for places dedicated to God. Jesus's strictness and severity in this matter highlight the significance of upholding even relative holiness and the regard owed to sacred spaces.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.631977520116872,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.61,
+            "commentatorTierSimilarities": [
+                31.4,
+                29.41,
+                39.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus enters the court of the Gentiles and forbids the desecration of this sacred place, where people were using it as a thoroughfare and carrying common vessels. He reproves the neglect of the temple authorities who had prescribed against such a practice, displaying his strictness and severity. Jesus's actions reveal his strong notions of holiness and the respect owed to places dedicated to God. His rebuke highlights the importance of upholding even relative holiness in all aspects of worship.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4993704307629798,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
+            "commentatorTierSimilarities": [
+                31.89,
+                29.08,
+                39.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

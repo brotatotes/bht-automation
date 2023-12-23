@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:21:54",
+    "verseRef": "Mark 4:8",
+    "bestBHT": {
+        "bht": "The good soil stands apart from the others, possessing qualities that promote fruitfulness. Its cleanliness allows the plant to thrive with full vigor and vitality. As the plant grows and increases, it continually yields fruit in varying degrees. The focus is on the ongoing growth of the plant, highlighting the significance of bearing fruit. The word of God affects hearts differently, resulting in some being more fruitful and useful, overflowing with the fruits of righteousness.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.6192502803213056,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+        "commentatorTierSimilarities": [
+            29.7,
+            38.51,
+            31.79
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and in ver. 8, that sprang up and increased."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The goodness of this last soil consists in its qualities being precisely the reverse of the other three soils.\" ",
+            "In such a soil the seed 'brings forth fruit,' in all different degrees of profusion, according to the measure in which the soil possesses those qualities.",
+            "From its cleanness, giving its whole vigor and sap to the plant."
+        ],
+        "Marvin Vincent": [
+            "Growing up and increasing, thus describing the process more vividly.",
+            "It began to yield and kept yielding as it increased.",
+            "Lit., up to thirty."
+        ],
+        "Philip Schaff": [
+            "Growing up and increasing.\" The words are peculiar to Mark. This is spoken of the 'fruit,' but in the wider sense of the whole progress of the plant, since all this is necessary to the real fruit or grain, which was brought forth.",
+            "This verse puts the smallest proportion first; in Matthew's account it is put last.\" Other verbal differences attesting the independence of the Evangelists, are indicated as far as possible in the footnotes to the text."
+        ],
+        "Archibald T. Robertson": [
+            "Growing up and increasing.\" ",
+            "A vivid detail enlarging on the continued growth implied in the imperfect 'yielded fruit.'",
+            "Fruit is what matters."
+        ],
+        "John Gill": [
+            "The word was preached to some whose hearts were disposed by the Spirit and grace of God to receive it.",
+            "They not only appeared, and made an outward profession of the word, and brought forth a little show of fruit, which comes to nothing, as in others; but they were filled with the fruits of righteousness.",
+            "In some the word of God produced larger and greater effects; the grace of God was more in exercise in some than in others, and some were more fruitful and useful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The seed in this verse represents the Word of God, and the soil represents the different conditions of our hearts. The good soil is the opposite of the other three types, as it possesses the qualities needed for the seed to bear fruit. This good soil is clean, giving its full vigor to the plant. The process of growth is vividly described as the plant grows up and keeps increasing. What matters is that this soil continues to yield fruit, in varying degrees of abundance. In this verse, the emphasis is on the progress and development of the plant, which is necessary for the ultimate goal of bearing fruit.",
+            "wordCount": 109,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6807899111954354,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.23,
+            "commentatorTierSimilarities": [
+                29.93,
+                45.53,
+                24.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The good soil in this passage is characterized by its qualities being the reverse of the other soils. It is clean, giving its full vigor to the plant. As the plant grows up and increases, it continues to yield fruit in different degrees of abundance. The focus is on the progress and development of the plant, as it is necessary for the ultimate goal of bearing fruit. The word of God produces larger effects in some hearts, as they are filled with the fruits of righteousness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.665194277784923,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                27.98,
+                41.93,
+                30.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The opposite qualities of the good soil make it suitable for the seed to bear fruit. Its cleanliness allows the plant to grow with full vigor and sap. It not only yields fruit, but continues to do so as it grows and increases. The focus is on the progress and development of the plant, emphasizing the importance of bearing fruit. The word of God has varying effects on different hearts, with some being more fruitful and useful, producing an abundance of righteousness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.5424026930651036,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                30.27,
+                37.94,
+                31.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The good soil is unlike the other soils, possessing opposite qualities that enable the seed to bear fruit. This clean and fertile soil allows the plant to grow with vitality and strength. As the plant continues to grow and increase, it consistently yields fruit in different degrees. The emphasis is on the ongoing growth and development of the plant, ultimately leading to the desired outcome of bearing fruit. The word of God has diverse effects on hearts, producing greater fruitfulness in some, manifesting the abundant grace and righteousness of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.572432086379583,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                32.21,
+                34.78,
+                33.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The good soil stands apart from the others, possessing qualities that promote fruitfulness. Its cleanliness allows the plant to thrive with full vigor and vitality. As the plant grows and increases, it continually yields fruit in varying degrees. The focus is on the ongoing growth of the plant, highlighting the significance of bearing fruit. The word of God affects hearts differently, resulting in some being more fruitful and useful, overflowing with the fruits of righteousness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6192502803213056,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                29.7,
+                38.51,
+                31.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

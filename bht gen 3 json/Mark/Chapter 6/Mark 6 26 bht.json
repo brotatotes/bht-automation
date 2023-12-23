@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:23:33",
+    "verseRef": "Mark 6:26",
+    "bestBHT": {
+        "bht": "Caught between his conscience and the repercussions of a foolish promise, Herod's internal struggle in this narrative exposes the dangers of prioritizing societal expectations over moral convictions. His remorse for John the Baptist clashes with his reluctance to be seen as unsteady. This cautionary tale serves as a sobering reminder of how easily one's principles can be compromised under the influence of false shame. It urges us to remain steadfast in our convictions, guarding against the snare of sacrificing integrity for the sake of reputation.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.3405314386176208,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+        "commentatorTierSimilarities": [
+            51.85,
+            6.55,
+            41.6
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "With his feelings regarding John, and the truths which so told upon his conscience from that preacher's lips, and after so often and carefully saving him from his paramour's rage, it must have been very galling to find himself at length entrapped by his own rash folly.",
+            "See how men of no principle, but troublesome conscience, will stick at breaking a rash oath, while yielding to the commission of the worst crimes!",
+            "Under the influence of that false shame, which could not brook being thought to be troubled with religious or moral scruples. To how many has this proved a fatal snare!"
+        ],
+        "Marvin Vincent": [
+            "Exceeding sorry. Where Matthew has sorry."
+        ],
+        "John Calvin": [
+            "And yet he has not the courage to give a refusal to a dancing girl, lest he should incur the reproach of unsteadiness; as if it were more dishonorable to retract a rash and foolish promise than to persist in a heinous crime.",
+            "No inward feelings of religion constrained Herod to do this, but the mere love of power drove him headlong; for he reckoned that he would sink in the estimation of those who were present, if he did not fulfill his engagement.",
+            "Hence it follows, that monastic vows, which are attended by open impiety, do not bind the conscience any more than the enchantments of magicians; for it is not the will of God that his sacred name shall give support to what is sinful."
+        ],
+        "Philip Schaff": [
+            "Mark 6:26. Exceeding sorry. Mark\u2019s language is stronger than that of Matthew.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "He would not reject her (\u03bf\u03c5\u03ba \u03b7\u03b8\u03b5\u03bb\u03b7\u03c3\u03b5\u03bd \u03b1\u03b8\u03b5\u03c4\u03b7\u03c3\u03b1 \u03b1\u03c5\u03c4\u03b7\u03bd). He was caught once again between his conscience and his environment. Like many since his day the environment stifled his conscience. "
+        ],
+        "John Gill": [
+            "And the king was exceeding sorry...",
+            "yet for his oath's sake, [and] for their sakes which sat with him...",
+            "He would not reject her; deny her her request, or send her away without granting it..."
+        ],
+        "John Wesley": [
+            "Herod's honour was like the conscience of the chief priests, Matthew 27:6.",
+            "To shed innocent blood wounded neither one nor the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 6:26, we see the internal struggle of Herod between his conscience and the pressure of his surroundings. Although Herod felt remorse in his heart for John the Baptist, he found himself trapped in a situation where he had to break a rash oath made to a dancing girl. This reveals how easily men of no principles but troubled conscience will prioritize the breaking of a careless promise over committing grave sins. Sadly, false shame often leads people into fatal snares, as they fear being seen as troubled by religious or moral scruples. This story serves as a cautionary tale, reminding us of the dangers of succumbing to societal expectations and ignoring the convictions of our conscience.",
+            "wordCount": 117,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 1.4555770656950209,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "commentatorTierSimilarities": [
+                51.98,
+                10.73,
+                37.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we witness Herod's inner struggle between his conscience and the pressure to fulfill an ill-advised promise. His remorse for John the Baptist clashes with the desire to maintain his reputation, ultimately leading him to break his oath. This story serves as a reminder of the dangers of allowing external influences to override our moral convictions. It is a cautionary tale, exposing the folly of prioritizing societal expectations over the true principles of righteousness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.2800281577486174,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.9,
+            "commentatorTierSimilarities": [
+                50.58,
+                7.63,
+                41.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, we witness the turmoil within Herod as he grapples with his guilty conscience and the pressure to uphold a foolish promise. The clash between his feelings for John the Baptist and the desire to save face in the eyes of others becomes a snare for him. It sheds light on the danger of allowing false shame to trap us in compromising situations. This episode serves as a stark reminder of the consequences when we prioritize societal expectations over our moral convictions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.311408109926657,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.95,
+            "commentatorTierSimilarities": [
+                51.02,
+                7.89,
+                41.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Caught between his conscience and the repercussions of a foolish promise, Herod's internal struggle in this narrative exposes the dangers of prioritizing societal expectations over moral convictions. His remorse for John the Baptist clashes with his reluctance to be seen as unsteady. This cautionary tale serves as a sobering reminder of how easily one's principles can be compromised under the influence of false shame. It urges us to remain steadfast in our convictions, guarding against the snare of sacrificing integrity for the sake of reputation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3405314386176208,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.92,
+            "commentatorTierSimilarities": [
+                51.85,
+                6.55,
+                41.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Mark 6:26, we witness the struggle of Herod as he wrestles with his conscience and the pressure to fulfill a rash promise. This treacherous situation highlights the perils of allowing false shame and societal expectations to outweigh moral values. Herod's remorse for John the Baptist is contrasted with his fear of being seen as unsteady, illustrating the tragic consequences of prioritizing reputation over righteousness. This powerful narrative serves as a timeless reminder of the need to courageously adhere to our convictions, avoiding the fatal snares of compromise.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.4894757720819676,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.87,
+            "commentatorTierSimilarities": [
+                46.28,
+                17.85,
+                35.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

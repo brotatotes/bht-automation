@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:23:43",
+    "verseRef": "Mark 6:20",
+    "bestBHT": {
+        "bht": "Recognizing John's righteousness, Herod kept him safe from Herodias, yet his actions did not reflect genuine, saving grace. Herod's visits to John in prison provided a brief respite for his troubled conscience, but they did not result in true repentance. He remained torn between his fear of John and his attachment to Herodias, ultimately lacking a transformed heart. While Herod's external acts appeared virtuous, they fell short of the inner change that comes from embracing God's grace.",
+        "wordCount": 81,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.7520379553781362,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+        "commentatorTierSimilarities": [
+            33.65,
+            35.51,
+            30.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Kept him safe, or preserved him; not, as in A.V. observed him, or \u2018esteemed him highly\u2019.",
+            "Kept him in safety that he should not be killed by Herodias.",
+            "Whether Herod heard him only at such times as he happened to be at Machaerus, or took him also to his residence at Tiberias, is uncertain."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For Herod feared John\u2014but, as BENGEL notes, John feared not Herod.",
+            "Compare the case of Elijah with Ahab, after the murder of Naboth (1 Kings 21:20).",
+            "A striking statement this, for which we are indebted to our graphic Evangelist alone, illustrating the working of contrary principles in the slaves of passion."
+        ],
+        "Marvin Vincent": [
+            "Observed him [\u03c3\u03c5\u03bd\u03b5\u03c4\u03b7\u03c1\u03b5\u03b9]. A mistranslation. Rev., kept him safe.",
+            "Did many things [\u03c0\u03bf\u03bb\u03bb\u03b1 \u03b5\u03c0\u03bf\u03b9\u03b5\u03b9]. The proper reading, however, is hjporei; from aj, not, and porov, a passage. Hence, strictly, to be in circumstances where one cannot find a way out.",
+            "Rev., rightly, he was much perplexed. The other reading is meaningless."
+        ],
+        "Philip Schaff": [
+            "For Herod feared John...Herod\u2019s feelings toward John are detailed by Mark only.",
+            "A recognition of John\u2019s dignity as a prophet, one consecrated to God\u2019s service.",
+            "Some real influence for good was beginning to operate."
+        ],
+        "Archibald T. Robertson": [
+            "He feared John and also Herodias. Between the two Herod vacillated.\" ",
+            "He knew him to be righteous and holy and so innocent of any wrong.",
+            "These interviews with the Baptist down in the prison at Machaerus during his occasional visits there braced 'his jaded mind as with a whiff of fresh air'\" (Swete)."
+        ],
+        "John Gill": [
+            "He was a 'just', or 'righteous' man, in a civil, legal, and evangelical sense: he did that which was just, between man and man; he did to others, as he would be done by himself.",
+            "And so far they had such an influence upon him, as to engage him to do many things in an external way, which had the appearance of good, at least of moral good.",
+            "There may be all this, and yet true grace may not be wrought, and the word not be the engrafted word, which is able to save."
+        ],
+        "John Wesley": [
+            "Preserved him \u2014 Against all the malice and contrivances of Herodias.",
+            "He heard him \u2014 Probably sending for him, at times, during his imprisonment, which continued a year and a half.",
+            "He heard him gladly \u2014 Delusive joy! While Herodias lay in his bosom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod, though filled with fear of John, had a strange fascination for him, having a sense of the righteousness and holiness in John. Mark paints a picture of a conflicted man, vacillating between his fear of John and his attachment to Herodias. These occasional visits to John in prison served to refresh Herod's mind, but it became a temporary reprieve from the turmoil of his conscience. While Herod appeared to do many good things externally, his actions did not reflect genuine, saving grace. So, ultimately, even though Herod kept John safe against the plots of Herodias, his fear did not lead to true repentance or a transformed heart.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.7991997901967638,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                34.77,
+                35.48,
+                29.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herod, in his fear of John, recognized his righteousness and holiness, leading him to keep John safe from the plots of Herodias. However, Herod's actions were not rooted in genuine, saving grace. He was a conflicted man, torn between his fear of John and his attachment to Herodias. While the visits to John in prison offered a refreshing break for Herod, they did not result in true repentance or a transformed heart. Herod's external actions, though seemingly good, did not reflect a genuine inner change.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6126872017290181,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+            "commentatorTierSimilarities": [
+                34.21,
+                36.94,
+                28.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fearful yet fascinated by John, Herod sought to keep him safe, recognizing his righteousness and holiness. Despite their interactions, Herod remained conflicted, torn between his fear of John and his attachment to Herodias. While these visits to John in prison offered a temporary respite for Herod's troubled conscience, they did not lead to true repentance or a genuine transformation. Herod's external actions, though seemingly virtuous, lacked the inner change that comes from embracing God's grace.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.704473840101819,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                35.21,
+                35.75,
+                29.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing John's righteousness and fearing him, Herod attempted to keep him safe from the plots of Herodias. However, this fear did not lead to genuine repentance or inner transformation. Herod's visits to John in prison provided a fleeting solace for his troubled conscience, but his actions remained influenced by his attachment to Herodias. Although Herod appeared to do many good things externally, genuine saving grace was absent. External acts of righteousness cannot replace the need for a changed heart.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.613388529327668,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.99,
+            "commentatorTierSimilarities": [
+                31.64,
+                38.57,
+                29.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing John's righteousness, Herod kept him safe from Herodias, yet his actions did not reflect genuine, saving grace. Herod's visits to John in prison provided a brief respite for his troubled conscience, but they did not result in true repentance. He remained torn between his fear of John and his attachment to Herodias, ultimately lacking a transformed heart. While Herod's external acts appeared virtuous, they fell short of the inner change that comes from embracing God's grace.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7520379553781362,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                33.65,
+                35.51,
+                30.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

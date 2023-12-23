@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:27:29",
+    "verseRef": "Mark 13:2",
+    "bestBHT": {
+        "bht": "Jesus acknowledged the disciples' admiration for the impressive buildings, but he solemnly prophesied their inevitable destruction, saying, There shall not be left one stone upon another. The word used here, thrown down, suggests a gradual demolition. However, Jesus also recognized the greatness and beauty of these structures, making their complete demolition even more remarkable. In the end, only the foundation stones would remain.",
+        "wordCount": 63,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.7517604077202584,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+        "commentatorTierSimilarities": [
+            42.13,
+            27.22,
+            30.64
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Ye call My attention to these things? I have seen them. Ye point to their massive and durable appearance: now listen to their fate.",
+            "There shall not be left one stone upon another, that shall not be thrown down.",
+            "Eleazar wished they had all died before seeing that holy city destroyed by enemies' hands, and before the temple was so profanely dug up."
+        ],
+        "Marvin Vincent": [
+            "Thrown down [\u03ba\u03b1\u03c4\u03b1\u03bb\u03c5\u03b8\u03b7] . Rather, loosened down. A very graphic word, implying gradual demolition."
+        ],
+        "Philip Schaff": [
+            "Mark 13:2. These great buildings. Our Lord takes up the thought of His disciples, and prophecies the complete destruction of this great edifice.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Jesus fully recognizes their greatness and beauty.",
+            "The more remarkable will be their complete demolition.",
+            "Only the foundation stones remain."
+        ],
+        "John Gill": [
+            "Seest thou these great buildings? how beautiful and strong they are.",
+            "Dost thou take a survey of all these buildings, and of the whole of this stately edifice?",
+            "There shall not be left one stone upon another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus acknowledged the disciples' admiration for the impressive buildings, but he solemnly prophesied their inevitable destruction, saying, There shall not be left one stone upon another. The word used here, thrown down, suggests a gradual demolition. However, Jesus also recognized the greatness and beauty of these structures, making their complete demolition even more remarkable. In the end, only the foundation stones would remain.",
+            "wordCount": 63,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7517604077202584,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                42.13,
+                27.22,
+                30.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in response to the disciples' awe at the magnificent buildings, acknowledged their greatness and beauty. However, he delivered a somber prophecy, foretelling the complete destruction of these structures, stating, There shall not be left one stone upon another. The word choice, thrown down, implies a gradual and thorough demolition. Nevertheless, only the foundation stones would withstand the test of time.",
+            "wordCount": 61,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.555093054946223,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                41.11,
+                27.16,
+                31.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus acknowledged the disciples' admiration for the impressive buildings, but he solemnly prophesied their inevitable destruction, saying, There shall not be left one stone upon another. The word used here, thrown down, suggests a gradual demolition. However, Jesus also recognized the greatness and beauty of these structures, making their complete demolition even more remarkable. In the end, only the foundation stones would remain.",
+            "wordCount": 63,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7517604077202584,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.59,
+            "commentatorTierSimilarities": [
+                42.13,
+                27.22,
+                30.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus responded to the disciples' admiration of the magnificent buildings, recognizing their greatness and beauty. However, he foretold their complete demolition, stating, There shall not be left one stone upon another. The choice of words, thrown down, conveys a gradual demolition. Nonetheless, only the foundation stones would survive the destruction.",
+            "wordCount": 50,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.647748553396322,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                42.44,
+                24.41,
+                33.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus acknowledged the disciples' admiration for these impressive, strong, and beautiful buildings. However, he solemnly prophesied their inevitable fate, foretelling that not one stone would be left upon another. This demolition would be gradual, thrown down bit by bit, until only the foundation stones remained. Jesus recognized their greatness but emphasized the remarkable completeness of their destruction.",
+            "wordCount": 57,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.601992124573572,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+            "commentatorTierSimilarities": [
+                37.91,
+                31.43,
+                30.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

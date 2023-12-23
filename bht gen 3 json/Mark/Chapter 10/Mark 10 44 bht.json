@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:26:05",
+    "verseRef": "Mark 10:44",
+    "bestBHT": {
+        "bht": "To attain the highest position, one must humbly take on the role of a servant for all. The ministers of the Gospel exemplify this by serving others, as they are ultimately serving Christ. Their objective is to win souls for Christ and expand his influence by placing others' interests above their own. True leadership lies not in dominion or control, but in willingly and selflessly serving those around them.",
+        "wordCount": 69,
+        "quoteTokenProportion": 52.73,
+        "qualityScore": 1.0380336822869893,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.86,
+        "commentatorTierSimilarities": [
+            30.61,
+            0.0,
+            69.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And whosoever of you will be the chiefest shall be [he who is prepared to be] the servant of all.\" ",
+            "One in the lowest condition of service."
+        ],
+        "John Gill": [
+            "And whosoever of you will be the chiefest... shall be the servant of all.\" ",
+            "For the ministers of the Gospel are... in serving them, they serve Christ.\" ",
+            "They become servants to all that they may win souls to Christ, and increase his churches, and enlarge his interest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To truly be the chief, one must be willing to serve all. This means taking up the lowest position, embracing the role of a servant. The ministers of the Gospel exemplify this by serving others, for in serving them, they are serving Christ. Their purpose is to win souls for Christ and build his church, putting the interests of others above their own. Thus, the mark of a true leader is not found in power or authority, but in their willingness to humbly serve those around them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.2078168249160917,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                37.58,
+                0.0,
+                62.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To attain the highest position, one must humbly take on the role of a servant for all. The ministers of the Gospel exemplify this by serving others, as they are ultimately serving Christ. Their objective is to win souls for Christ and expand his influence by placing others' interests above their own. True leadership lies not in dominion or control, but in willingly and selflessly serving those around them.",
+            "wordCount": 69,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.0380336822869893,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.86,
+            "commentatorTierSimilarities": [
+                30.61,
+                0.0,
+                69.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly become the chiefest and the greatest, one must be willing to take on the role of a servant to all. This means embracing the lowest condition of service and serving others selflessly. The ministers of the Gospel exemplify this by serving others to serve Christ, winning souls and expanding the kingdom of God. By embracing servanthood, they empower themselves to bring about positive change and growth in the name of Christ.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.337463308112128,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.81,
+            "commentatorTierSimilarities": [
+                44.08,
+                0.0,
+                55.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To truly become the chiefest and the greatest, one must be prepared to be the servant of all, embracing the lowest condition of service. The ministers of the Gospel exemplify this by serving others to serve Christ. In serving them, they serve Christ himself. Their ultimate goal is to win souls to Christ, increase his churches, and enlarge his interest. By becoming servants to all, they not only demonstrate humility and selflessness, but also contribute to the growth and advancement of the kingdom of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.391510845700921,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.61,
+            "commentatorTierSimilarities": [
+                34.13,
+                0.0,
+                65.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To truly become the chiefest and the greatest, one must be prepared to be the servant of all. This means embracing the lowest condition of service. The ministers of the Gospel exemplify this by serving others to serve Christ. In serving them, they serve Christ himself. Their ultimate goal is to win souls to Christ, increase his churches, and enlarge his interest. By becoming servants to all, they not only demonstrate humility and selflessness, but also contribute to the growth of the kingdom of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4625383690138716,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.97,
+            "commentatorTierSimilarities": [
+                40.28,
+                0.0,
+                59.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

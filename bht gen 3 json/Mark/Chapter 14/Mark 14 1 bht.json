@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:28:17",
+    "verseRef": "Mark 14:1",
+    "bestBHT": {
+        "bht": "During the feast of the passover and the unleavened bread, a significant festival commemorating the redemption of God's people from Egypt through the sacrifice of a lamb, Jesus became the great Sacrifice, fulfilling the typological foreshadowing. The timing of the events mentioned as Tuesday evening and Thursday evening can be reconciled as the beginning of Jewish Wednesday and Jewish Friday. It was during this time that the chief priests and the scribes sought to take Jesus by craft and put him to death.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 2.001614611173784,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.89,
+        "commentatorTierSimilarities": [
+            34.25,
+            26.09,
+            39.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The passover was the first and the chief of the three great annual festivals, commemorative of the redemption of God's people from Egypt, through the sprinkling of the blood of a lamb divinely appointed to be slain for that end.",
+            "Bright typical foreshadowing of the great Sacrifice, and the Redemption effected thereby.",
+            "It was so ordered that precisely at the passover season, 'Christ our Passover should be sacrificed for us.'"
+        ],
+        "Marvin Vincent": [
+            "The feast of the passover and the unleavened bread... It was really one and the same festival.",
+            "Sought... were all this while seeking.",
+            "Compare Matthew 26:6-13."
+        ],
+        "Philip Schaff": [
+            "The feast of the Passover and the unleavened bread. The Passover meal was the beginning of the feast of unleavened bread, which lasted for seven days.\" ",
+            "After two days. Probably on Tuesday evening after the denunciation of the scribes, etc. Possibly, however, on Wednesday.",
+            "On the further details of the conspiracy, see on Matthew 26:3-5."
+        ],
+        "Archibald T. Robertson": [
+            "After two days (\u03bc\u03b5\u03c4\u03b1 \u03b4\u03c5\u03bf \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2). This was Tuesday evening as we count time (beginning of the Jewish Wednesday).\" ",
+            "In Matthew 26:2 Jesus is reported as naming this same date which would put it on our Thursday evening, beginning of the Jewish Friday.\" ",
+            "Mark calls it here the feast of 'the passover and the unleavened bread,' both names covering the eight days."
+        ],
+        "John Gill": [
+            "After two days was [the feast of] the passover...which was kept in commemoration of God's passing over the houses of the Israelites, when he destroyed the firstborn of Egypt, and made way for the deliverance of the children of Israel from thence.",
+            "The passover lamb was only eaten on the first night, but unleavened bread was eaten for seven days together.",
+            "The chief priests and Scribes sought how they might take him by craft...and put him to death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The events in Mark 14:1 take place during the feast of the passover and the unleavened bread, a significant festival that commemorates the redemption of God's people from Egypt through the sacrifice of a lamb. This festival served as a foreshadowing of the ultimate sacrifice and redemption brought about by Jesus. The two descriptions of the timing of the events \u2013 one mentioning Tuesday evening and the other Thursday evening \u2013 can be reconciled as indicating the beginning of Jewish Wednesday and Jewish Friday. During this time, the chief priests and the scribes were seeking to take Jesus by craft and put him to death.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.8933989623862635,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                35.92,
+                25.52,
+                38.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the feast of the passover and the unleavened bread, a significant festival commemorating the redemption of God's people from Egypt, Jesus became the ultimate sacrifice as foreshadowed by this event. The events took place either on Tuesday evening or Thursday evening, depending on how the Jewish calendar is interpreted. At this time, the chief priests and the scribes sought to take Jesus by craft and put him to death.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9170781272097395,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+            "commentatorTierSimilarities": [
+                32.65,
+                27.6,
+                39.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the feast of the passover and the unleavened bread, a significant festival commemorating the redemption of God's people from Egypt through the sacrifice of a lamb, Jesus became the great Sacrifice, fulfilling the typological foreshadowing. The timing of the events mentioned as Tuesday evening and Thursday evening can be reconciled as the beginning of Jewish Wednesday and Jewish Friday. It was during this time that the chief priests and the scribes sought to take Jesus by craft and put him to death.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.001614611173784,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.89,
+            "commentatorTierSimilarities": [
+                34.25,
+                26.09,
+                39.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the feast of the passover and the unleavened bread, Jesus became the ultimate Sacrifice, fulfilling the typological foreshadowing. The timing of the events, either on Tuesday evening or Thursday evening, marked the beginning of Jewish Wednesday and Jewish Friday. In this period, the chief priests and the scribes sought to take Jesus by craft and put him to death, as they were conspiring against him.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.9661166755837045,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                33.35,
+                28.89,
+                37.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the feast of the passover and the unleavened bread, Jesus became the great Sacrifice, fulfilling the typological foreshadowing. The timing of the events on either Tuesday evening or Thursday evening marked the beginning of Jewish Wednesday and Jewish Friday. It was during this time that the chief priests and the scribes sought to take Jesus by craft and put him to death. Their conspiracy against Jesus intensified during the monumental festival, symbolic of the redemption of God's people from Egypt.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.907182619295745,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.76,
+            "commentatorTierSimilarities": [
+                34.02,
+                28.22,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

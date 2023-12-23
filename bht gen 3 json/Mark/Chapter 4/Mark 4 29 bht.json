@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:22:09",
+    "verseRef": "Mark 4:29",
+    "bestBHT": {
+        "bht": "When the fruit yields itself or permits, the husbandman puts in the sickle to begin the harvest - a transition from earthly to heavenly. This parable of the Mustard Seed highlights the Christian's readiness for heaven once prepared. The lesson emphasizes spiritual growth independent of our agency, but when grace is brought to maturity, the good work is perfected, and the harvest of souls is reaped by the ministers of the Gospel.",
+        "wordCount": 72,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.9751669360035549,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+        "commentatorTierSimilarities": [
+            25.53,
+            34.34,
+            40.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "29.] he putteth in\u2014 i.e. the husbandman, see above. See Joel iii. 18, to which this verse is a reference:\u2014also Rev. xiv. 14, 15, and 1 Pet. i. 23\u201325."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This charmingly points to the transition from the earthly to the heavenly condition of the Christian and the Church.",
+            "For the exposition of this portion, see on Mark 4:30-41.",
+            "Parable of the Mustard Seed."
+        ],
+        "Albert Barnes": [
+            "As soon as the grain is ripe it is cut down. So it is often with the Christian. As soon as he is prepared for heaven he is taken there.\" ",
+            "Every parable contains circumstances thrown in to fill up the story, which cannot be literally interpreted.\" ",
+            "The gospel, in the meantime, left by him, would take root, spring up, and produce an abundant harvest."
+        ],
+        "Marvin Vincent": [
+            "Rev. is ripe, is a free rendering from the margin of A. V.",
+            "It is, perhaps, better to explain, as Meyer does, whose rendering is adopted by Rev. in margin : When the fruit shall have allowed, i.e., shall have admitted of being harvested.",
+            "The rendering, putteth in, misses the figure. The verb is the same as that used of sending forth the apostles to reap the harvest of souls."
+        ],
+        "Philip Schaff": [
+            "The thought of independence of human agency is kept up.",
+            "We reap in spiritual things, though God alone (by His laws of grace) gives the increase.",
+            "The main lesson is: that of spiritual growth independent of our agency, even though we sow the good seed and reap the harvest."
+        ],
+        "Archibald T. Robertson": [
+            "Whenever the fruit yields itself or permits.\" ",
+            "The word for apostle comes from this verb.\" ",
+            "Sickle here by metonymy stands for the reapers who use it when the harvest stands ready for it."
+        ],
+        "John Gill": [
+            "when grace is brought to maturity, and faith is performed with power, and the good work begun is perfected",
+            "when all the elect of God are called by grace, and grace in them is brought to its perfection, and they have brought forth all the fruit they were ordained to bear",
+            "either by Christ himself who comes into his garden, and gathers his lilies by death; or by the angels, the reapers, at the close of time, who will gather the elect from the four winds; or the ministers of the Gospel, who shall come again with joy, bringing their sheaves with them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the fruit yields itself or permits, it is time for the husbandman to put in the sickle and begin harvesting. This transition from the earthly to the heavenly condition of the Christian and the Church is beautifully depicted in the parable of the Mustard Seed. As soon as the grain is ripe, it is cut down, just as the Christian, when prepared for heaven, is taken there. While the main lesson is spiritual growth independent of our agency, it is important to note that when grace is brought to maturity, the good work begun is perfected, and the harvest of souls is ready for reaping by the ministers of the Gospel.",
+            "wordCount": 112,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.9199761699863367,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+            "commentatorTierSimilarities": [
+                25.85,
+                34.57,
+                39.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the fruit yields itself or permits, the husbandman puts in the sickle to begin the harvest - a transition from earthly to heavenly. This parable of the Mustard Seed highlights the Christian's readiness for heaven once prepared. The lesson emphasizes spiritual growth independent of our agency, but when grace is brought to maturity, the good work is perfected, and the harvest of souls is reaped by the ministers of the Gospel.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.9751669360035549,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.02,
+            "commentatorTierSimilarities": [
+                25.53,
+                34.34,
+                40.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the fruit yields itself or permits, it is time for the husbandman to put in the sickle and begin harvesting. This transition from the earthly to the heavenly condition of the Christian and the Church is beautifully depicted in the parable of the Mustard Seed. As soon as the grain is ripe, it is cut down, just as the Christian, when prepared for heaven, is taken there. While the main lesson is spiritual growth independent of our agency, it is important to note that when grace is brought to maturity, the good work begun is perfected, and the harvest of souls is ready for reaping by the ministers of the Gospel.",
+            "wordCount": 112,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.9199761699863367,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+            "commentatorTierSimilarities": [
+                25.85,
+                34.57,
+                39.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the fruit yields itself or permits, it's time for the husbandman to put in the sickle and begin harvesting. This transition from earthly to heavenly conditions for Christians and the Church is depicted in the Mustard Seed parable. Just as ripe grain is cut down, prepared Christians are taken to heaven. The main lesson is spiritual growth independent of our agency, but when grace reaches maturity, the good work is perfected, and the harvest of souls is reaped by Gospel ministers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8820937576139056,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                25.59,
+                35.47,
+                38.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the fruit yields itself or permits, it's time for the husbandman to put in the sickle and begin harvesting. This transition from earthly to heavenly conditions for Christians and the Church is depicted in the parable of the Mustard Seed. As soon as the grain is ripe, it is cut down, and similarly, Christians who are prepared for heaven are taken there. The main lesson is of spiritual growth independent of our agency, but when grace reaches maturity, the harvest of souls is reaped by Gospel ministers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.9048148495061268,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                26.16,
+                35.9,
+                37.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

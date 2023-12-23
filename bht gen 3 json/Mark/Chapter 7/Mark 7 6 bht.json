@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:23:40",
+    "verseRef": "Mark 7:6",
+    "bestBHT": {
+        "bht": "Jesus, in his response to the religious leaders, employs irony by saying Well to highlight their hypocrisy. He acknowledges their outwardly well-executed actions but adds a touch of sarcasm, calling them hypocrites. This aligns with the prophecy of Isaiah, who warned of people honoring God with their lips while their hearts remained distant. This serves as a compelling reminder that true worship requires sincerity, as mere lip service fails to genuinely honor God.",
+        "wordCount": 74,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.3678991094462973,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.83,
+        "commentatorTierSimilarities": [
+            55.1,
+            0.0,
+            44.9
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Well [\u03ba\u03b1\u03bb\u03c9\u03c2] . Finely, beautifully. Ironical."
+        ],
+        "Archibald T. Robertson": [
+            "Well (\u03ba\u03b1\u03bb\u03c9\u03c2). Appositely here, but ironical sarcasm in verse Mark 7:9. Note here \"you hypocrites\" (\u03c5\u03bc\u03c9\u03bd \u03c4\u03c9\u03bd \u03c5\u03c0\u03bf\u03ba\u03c1\u03b9\u03c4\u03c9\u03bd). "
+        ],
+        "John Gill": [
+            "Ye hypocrites, well did Esaias prophesy of you.",
+            "This people honoureth me with their lips, but their heart is far from me.",
+            "This people draweth nigh unto me with their mouth, and honoureth me with their lips, but their heart is far from me."
+        ],
+        "John Wesley": [
+            "Isaiah 29:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in his response to the religious leaders, uses irony to highlight their hypocrisy. He sarcastically says Well to suggest that their actions are finely performed, but inwardly empty. He then goes on to reference Isaiah, saying that their outward show of honor is merely lip service, while their hearts are far from genuine devotion. This passage reminds us of the importance of sincerity and wholeheartedness in our worship of God.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.2376670052926146,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.5,
+            "commentatorTierSimilarities": [
+                53.43,
+                0.0,
+                46.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in his response to the religious leaders, uses irony to highlight their hypocrisy. He sarcastically says Well to suggest that their actions are finely performed, but inwardly empty. He then goes on to reference Isaiah, saying that their outward show of honor is merely lip service, while their hearts are far from genuine devotion. This reminds us of the need for sincerity and wholeheartedness in our worship of God.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.227578479735345,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.16,
+            "commentatorTierSimilarities": [
+                55.21,
+                0.0,
+                44.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in his response to the religious leaders, tactfully uses irony by saying Well to highlight their hypocritical behavior. He acknowledges their outwardly flawless actions, but in verse Mark 7:9, he delivers a poignant comment calling them hypocrites. This aligns with the prophecy of Isaiah, who spoke of people honoring God with their lips while their hearts remain distant. This passage serves as a powerful reminder that genuine worship requires sincerity, as mere lip service will never be enough.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3976055572124384,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.81,
+            "commentatorTierSimilarities": [
+                53.2,
+                0.0,
+                46.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in his response to the religious leaders, employs irony by saying Well to highlight their hypocrisy. He acknowledges their outwardly well-executed actions but adds a touch of sarcasm, calling them hypocrites. This aligns with the prophecy of Isaiah, who warned of people honoring God with their lips while their hearts remained distant. This serves as a compelling reminder that true worship requires sincerity, as mere lip service fails to genuinely honor God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3678991094462973,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.83,
+            "commentatorTierSimilarities": [
+                55.1,
+                0.0,
+                44.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in response to the religious leaders, uses irony by saying Well to expose their hypocrisy. He acknowledges their outward actions, calling them hypocrites, and refers to the prophecy of Isaiah, where people honor God with their lips, but their hearts are far from Him. This reminds us of the importance of sincere worship and the need for genuine devotion to God, rather than empty displays of religion.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.2334651560969185,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.36,
+            "commentatorTierSimilarities": [
+                48.86,
+                0.0,
+                51.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

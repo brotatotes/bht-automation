@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:29:15",
+    "verseRef": "Mark 14:67",
+    "bestBHT": {
+        "bht": "Despite Peter's demeanor and timidity, he caught the attention of those around him, leading them to recognize that he was one of Jesus' disciples. This recognition is further clarified in John's account, where the maid questions Peter, saying, Art not thou also one of this man's disciples? The narratives of Peter's denials in the Four Gospels can be difficult to thread together due to multiple conversations and varying renditions. However, the common thread is the maid's suspicion of Peter as she remarks, And thou also wast with Jesus of Nazareth; that is, one of his disciples.",
+        "wordCount": 101,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 1.5082065416371517,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+        "commentatorTierSimilarities": [
+            42.96,
+            26.0,
+            31.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "His demeanor and timidity, which must have attracted notice, as so generally happens, 'leading,' says OLSHAUSEN, 'to the recognition of him.'\" ",
+            "The sense of this is given in John's report of it (John 18:17), 'Art not thou also one of this man's disciples?' that is, thou as well as 'that other disciple,' whom she knew to be one, but did not challenge, perceiving that he was a privileged person.\" ",
+            "In Luke (John 18:17- :), it is given as a remark made by the maid to one of the by-standers\u2014'this man was also with Him.'"
+        ],
+        "Philip Schaff": [
+            "Mark 14:67. Thou also wast with the Nazarene, even Jesus. \u2018Nazarene,\u2019 used in contempt.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Warming himself (\u03b8\u03b5\u03c1\u03bc\u03b1\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd). Mark mentions this fact about Peter twice (Mark 14:54; Mark 14:67) as does John (John 18:18; John 18:25).",
+            "It is quite difficult to relate clearly the three denials as told in the Four Gospels.",
+            "A number were probably speaking, one saying one thing, another another."
+        ],
+        "John Gill": [
+            "She looked upon him; very earnestly, knowing him to be the same.\" ",
+            "And suspecting him, by being a stranger, and by his looks.",
+            "And thou also wast with Jesus of Nazareth; that is, one of his disciples."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite Peter's demeanor and timidity, he caught the attention of those around him, leading them to recognize that he was one of Jesus' disciples. This recognition is further clarified in John's account, where the maid questions Peter, saying, Art not thou also one of this man's disciples? However, in Luke, it is reported as a comment made by the maid to someone nearby, stating that this man was also with Him. Peter's attempt to blend in and keep warm was mentioned both by Mark and John, emphasizing the details of his actions during this crucial moment. The narrative of Peter's denials becomes somewhat challenging to piece together due to probable multiple conversations and differing accounts. Ultimately, the maid's suspicion of Peter arose from his unfamiliarity and appearance, leading her to remark, And thou also wast with Jesus of Nazareth; that is, one of his disciples.",
+            "wordCount": 151,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4071156632616086,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.13,
+            "commentatorTierSimilarities": [
+                43.33,
+                24.63,
+                32.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst Peter's timid demeanor, his noticeable presence led to his recognition as one of Jesus' disciples. The maid's question in John's account, Art not thou also one of this man's disciples? sheds light on her suspicion towards Peter, whereas in Luke, it is stated as a comment made by the maid to someone else. Mark and John both highlight Peter's attempts to keep warm, mentioning it twice to emphasize his actions during this crucial moment. These various accounts make it challenging to clearly piece together the sequence of Peter's denials. Nonetheless, the maid's remark, And thou also wast with Jesus of Nazareth; that is, one of his disciples, reflects her suspicion based on Peter's unfamiliarity and appearance.",
+            "wordCount": 125,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 1.3272225673067497,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.47,
+            "commentatorTierSimilarities": [
+                41.25,
+                28.08,
+                30.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's demeanor and timidity attracted notice, leading to his recognition as one of Jesus' disciples. John's account clarifies the maid's comment, Art not thou also one of this man's disciples? whereas in Luke, the remark is made to someone nearby. Both Mark and John highlight Peter's act of warming himself, emphasizing this detail. The various accounts of Peter's denials can be difficult to piece together. However, the maid's remark, And thou also wast with Jesus of Nazareth; that is, one of his disciples, reveals her suspicion of Peter based on his unfamiliarity and appearance.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3606048185557502,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.58,
+            "commentatorTierSimilarities": [
+                40.4,
+                27.11,
+                32.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite Peter's demeanor and timidity, he caught the attention of those around him, leading them to recognize that he was one of Jesus' disciples. This recognition is further clarified in John's account, where the maid questions Peter, saying, Art not thou also one of this man's disciples? The narratives of Peter's denials in the Four Gospels can be difficult to thread together due to multiple conversations and varying renditions. However, the common thread is the maid's suspicion of Peter as she remarks, And thou also wast with Jesus of Nazareth; that is, one of his disciples.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.5082065416371517,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+            "commentatorTierSimilarities": [
+                42.96,
+                26.0,
+                31.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's demeanor and timidity attracted attention, resulting in his recognition as one of Jesus' disciples. The maid's question, Art not thou also one of this man's disciples? in John's account sheds light on her suspicion towards Peter. Mark and John both emphasize Peter's act of warming himself, mentioning it twice. It can be challenging to piece together the three denials described in the Gospels. Nevertheless, the maid's remark, And thou also wast with Jesus of Nazareth; that is, one of his disciples, reveals her suspicion anchored in Peter's unfamiliarity and appearance.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.3245231414485703,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.38,
+            "commentatorTierSimilarities": [
+                40.54,
+                27.01,
+                32.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

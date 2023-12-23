@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-22-2023 23:22:48",
+    "verseRef": "Mark 4:26",
+    "bestBHT": {
+        "bht": "The emphasis of the parable is on the seed and its power to grow, rather than the man who sows it. The aorist tense highlights the single act of casting the seed, while the present tense signifies the continuous process of sleeping and rising. This parable likens the kingdom of God to a man casting seed into the ground and trusting in the natural laws of growth. The imperceptible growth of the seed reflects the gradual increase of grace through the word. Just as the farmer rests, pious teachers should have faith and not be anxious about the growth of the kingdom.",
+        "wordCount": 102,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.8981069639254837,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+        "commentatorTierSimilarities": [
+            33.22,
+            24.75,
+            42.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The man then is just the farmer or husbandman, hardly admitting an interpretation, but necessary to the machinery of the parable.",
+            "The whole stress being on the SEED\u2014its power and its development.",
+            "If a meaning must be assigned, the best is 'human agency' in general."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "So is the kingdom of God, as if a man should cast seed into the ground...\" (Commentary)",
+            "...leaving it to the well-known laws of vegetation under the genial influences of heaven.\" (Commentary)",
+            "This is the sense of 'the earth bringing forth fruit of herself'...\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "The gospel, or religion in the soul, may be compared to this.",
+            "The kingdom of God - The gospel.",
+            "This parable is recorded only by Mark."
+        ],
+        "Marvin Vincent": [
+            "Should cast, the aorist tense, followed by the presents sleep and rise.",
+            "The aorist tense indicates the single act of casting; the presents the repeated, continued sleeping and rising while the seed is growing.",
+            "Seed [\u03c4\u03bf\u03bd \u03c3\u03c0\u03bf\u03c1\u03bf\u03bd] . The seed; that particular seed which he had to sow. Such is the force of the article."
+        ],
+        "John Calvin": [
+            "He holds out for their imitation the example of husbandmen, who throw seed into the ground with the expectation of reaping, and do not torment themselves with uneasiness and anxiety, but go to bed and rise again.\" ",
+            "Christ enjoins pious teachers to be of good courage, and not to allow their alacrity to be slackened through distrust."
+        ],
+        "Philip Schaff": [
+            "The main point is the seed, the agent being in the background throughout.",
+            "Human agency in general may be referred to.",
+            "A single past act of sowing, not involving great care, as the expression plainly intimates."
+        ],
+        "Archibald T. Robertson": [
+            "As if a man should cast... It is a supposable case and so the subjunctive and the aorist tense because a single instance.\" ",
+            "Blass considers this idiom 'quite impossible,' but it is the true text here and makes good sense.\" ",
+            "The more common idiom would have been \u03c9\u03c2 \u03b5\u03b1\u03bd (or \u03b1\u03bd)."
+        ],
+        "John Gill": [
+            "The imperceptibleness of its springing and growth.",
+            "The gradual increase of grace under the instrumentality of the word.",
+            "The gathering of gracious souls, when grace is brought to maturity."
+        ],
+        "John Wesley": [
+            "The inward kingdom is like seed which a man casts into the ground - This a preacher of the Gospel casts into the heart.",
+            "And he sleeps and rises night and day - That is, he has it continually in his thoughts.",
+            "Yet observe the amazing exactness of the comparison. The earth brings forth no corn (as the soul no holiness) without both the care and toil of man, and the benign influence of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in Mark 4:26 focuses on the seed and its power to grow. The emphasis is not on the man, but on the act of casting the seed and the natural process of growth. The aorist tense indicates the single act of casting, while the present tense emphasizes the continuous process of sleeping and rising. This parable compares the kingdom of God to a man casting seed into the ground, leaving it to the well-known laws of vegetation. The imperceptible growth of the seed symbolizes the gradual increase of grace under the instrumentality of the word. Just as the farmer rests and relies on the natural process of growth, pious teachers are encouraged not to be anxious but to trust in the power of God's kingdom to bring forth fruit.",
+            "wordCount": 132,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8545614154064265,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                34.12,
+                26.05,
+                39.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The emphasis of the parable is on the seed and its power to grow, rather than the man who sows it. The aorist tense highlights the single act of casting the seed, while the present tense signifies the continuous process of sleeping and rising. This parable likens the kingdom of God to a man casting seed into the ground and trusting in the natural laws of growth. The imperceptible growth of the seed reflects the gradual increase of grace through the word. Just as the farmer rests, pious teachers should have faith and not be anxious about the growth of the kingdom.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8981069639254837,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+            "commentatorTierSimilarities": [
+                33.22,
+                24.75,
+                42.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This parable centers around the seed and its power to bring forth growth. The man casting the seed is merely the farmer, with the emphasis placed on the seed itself. The aorist tense signifies the single act of casting, while the present tense represents the ongoing process of sleeping and rising. This parable illustrates how the kingdom of God operates, as the seed is sown and left to the natural laws of vegetation. The gradual growth of the seed symbolizes the increase of grace through the implementation of the word. Trusting in the process, pious teachers are urged to have courage and not allow themselves to doubt.",
+            "wordCount": 107,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.7578169203917042,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                34.24,
+                26.04,
+                39.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The focal point of the parable is the seed and its potential for growth. The man is merely the farmer, as the emphasis lies in the power and development of the seed. The aorist tense denotes the singular act of casting, while the present tense implies the continuous process of sleeping and rising. This parable illustrates the kingdom of God, where the seed is cast into the ground and left to the known laws of vegetation. The gradual growth of the seed reflects the increase of grace through the word. In emulation of the farmers, pious teachers are encouraged to be courageous and not allow doubt to hinder their efforts.",
+            "wordCount": 110,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 1.8066156639817845,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                35.14,
+                26.09,
+                38.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable in Mark 4:26 centers on the power of the seed and its development when cast by a man into the ground. The emphasis is on the seed itself and its capacity to grow under the natural laws of vegetation. The aorist tense indicates the singular act of casting, while the present tense highlights the continuous process of sleeping and rising. This parable serves as an analogy for the gradual increase of grace through the preaching of the Gospel, encouraging pious teachers to trust in the divine process of growth.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.768821830261742,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                34.27,
+                25.37,
+                40.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:26:45",
+    "verseRef": "Mark 11:30",
+    "bestBHT": {
+        "bht": "Jesus, with a right given his connection to John, boldly questions the authorities who rejected both John and himself. His direct challenge forces them to confront their rejection of John's authority and by extension, their rejection of Jesus. Jesus' demand for an answer exposes their evasion tactics and reveals his confidence in the righteousness of his mission. He uncompromisingly seeks a clear response, leaving no room for their avoidance or evasion.",
+        "wordCount": 72,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.59262379079073,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+        "commentatorTierSimilarities": [
+            46.02,
+            33.08,
+            20.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Answer me. Peculiar to Mark, bringing out yet more decidedly His challenge of their moral competency, to decide as to His authority.",
+            "The tone is peremptory, implying confidence of victory in this encounter."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus has a right to take this turn because of John's direct relation to himself.",
+            "It was not a dodge, but a home thrust that cleared the air and defined their attitude both to John and Jesus.",
+            "They rejected John as they now reject Jesus."
+        ],
+        "John Gill": [
+            "The baptism of John,.... The doctrine of which he was the first preacher, and the ordinance of which he was the first administrator.",
+            "Was it from heaven, or of men? was it of divine or of human institution?",
+            "Answer me; directly and plainly, without any shuffling, or evasion: it is a fair question, and may be answered."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus confronts his opponents with a pointed question that exposes their hypocrisy and rejection not only of John the Baptist but also of Jesus himself. By challenging them to answer whether John's authority came from heaven or from men, Jesus forces them to question the validity of their own beliefs and actions. This confrontation reveals the confidence Jesus has in his divine authority and the righteousness of his mission. It is a powerful moment that calls for a straightforward response, without any evasion or hesitation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.4888737576772644,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.85,
+            "commentatorTierSimilarities": [
+                39.27,
+                32.52,
+                28.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in a decisive and confident manner, confronts his critics with a direct question regarding the authority of John the Baptist. By demanding a response, he exposes their rejection of both John and himself. This challenge forces them to evaluate the validity of their beliefs and actions. In this critical moment, Jesus assertively asserts his own divine authority and the righteousness of his mission. He demands a clear and unambiguous answer, leaving no room for evasiveness.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.3058158348226805,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.76,
+            "commentatorTierSimilarities": [
+                39.29,
+                37.89,
+                22.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, with a right given his connection to John, boldly questions the authorities who rejected both John and himself. His direct challenge forces them to confront their rejection of John's authority and by extension, their rejection of Jesus. Jesus' demand for an answer exposes their evasion tactics and reveals his confidence in the righteousness of his mission. He uncompromisingly seeks a clear response, leaving no room for their avoidance or evasion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.59262379079073,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                46.02,
+                33.08,
+                20.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With the authority granted by his intimate relationship with John, Jesus fearlessly confronts his opponents, who rejected both John and himself. The question he poses forces them to face their own rejection of John's authority and, by extension, their rejection of Jesus. Jesus' powerful demand for an answer exposes their attempts to dodge the issue and reveals his unwavering confidence in the righteousness of his mission. He presses for a direct and unambiguous response, leaving no room for evasion or obfuscation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5800115247073032,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.88,
+            "commentatorTierSimilarities": [
+                44.98,
+                32.73,
+                22.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus confronts his critics head-on, emphasizing his connection to John the Baptist and challenging their rejection of both John and himself. His forceful question exposes their evasion tactics and demonstrates Jesus' unwavering confidence in the righteousness of his mission. He demands a clear response, leaving no room for their avoidance. By highlighting the authority of John's baptism and challenging its divine origin, Jesus forces his opponents to critically examine their own beliefs and actions.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.4113863762832648,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.27,
+            "commentatorTierSimilarities": [
+                40.83,
+                36.01,
+                23.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

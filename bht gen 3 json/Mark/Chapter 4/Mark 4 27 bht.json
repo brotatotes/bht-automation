@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:22:16",
+    "verseRef": "Mark 4:27",
+    "bestBHT": {
+        "bht": "The growth of the seed sown in the heart is dependent on causes beyond human effort. It is a mistake to be always working at the seed, instead of leaving it to God's timing. The mystery of growth still puzzles farmers and scientists today, just as we are ignorant of the actual process. Once we have done our part, the actual process of growth is beyond our reach and comprehension. Trust in God's timing and diligently do His work, while leaving the growth to Him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 49.09,
+        "qualityScore": 1.7566860040307022,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+        "commentatorTierSimilarities": [
+            45.91,
+            33.22,
+            20.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The seed sown in the heart is in its growth dependent on other causes than mere human anxiety and watchfulness.",
+            "No trouble of ours can accelerate the growth, or shorten the stages through pass.",
+            "It is the mistake of modern Methodism, for instance, to be always working at the seed, taking it up to see whether it is growing, instead of leaving it to God\u2019s own good time, and meanwhile diligently doing God\u2019s work elsewhere."
+        ],
+        "Albert Barnes": [
+            "By this we are not to infer that men are to use no diligence in the obtaining and in the growth of piety... but the illustration shows only that as we cannot tell how grain grows, so we cannot tell the mode in which piety increases in the heart.",
+            "After all the researches of philosophers, no one has been able to tell the way in which grain grows... So in religion. We can mark the change; we can see the need of prayer, and self-examination, and searching the Scriptures, and the ordinances of religion, but we cannot tell in what way the religious principle is developed and strengthened.",
+            "As God unseen, yet by the use of proper means, makes the grass flourish, so God unseen, but by proper means, nourishes the soul, and the plants of piety spring up, and bloom, and bear fruit."
+        ],
+        "Marvin Vincent": [
+            "Grow [\u03bc\u03b7\u03ba\u03c5\u03bd\u03b7\u03c4\u03b1\u03b9] . Lit., lengthen; be extended by the seed lengthening out into blade and stalk.",
+            "He knoweth not how (wJv oujk oiden aujtov). The Greek order is very lively : how knoweth not he."
+        ],
+        "Philip Schaff": [
+            "He who sows does not know how that takes place which he expects to occur, and to occur for his benefit.",
+            "A true picture, since such knowledge is not permitted to the wisest of men, and what is known helps the growth very little.",
+            "The emphasis rests on the word 'he'; he who sows does not know how."
+        ],
+        "Archibald T. Robertson": [
+            "The mystery of growth still puzzles farmers and scientists of today with all our modern knowledge.",
+            "But nature's secret processes do not fail to operate because we are ignorant.",
+            "When man has done his part, the actual process of growth is beyond his reach or comprehension."
+        ],
+        "John Gill": [
+            "nor can they be easy, unless they have some seals of their ministry",
+            "but rather, this may be understood of their holy security, confidence, and satisfaction in their own minds",
+            "though the sowing and planting are theirs, all the increase is God's"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The growth of the seed sown in the heart is not solely dependent on human effort, but on the mysterious processes of nature that surpass our understanding. Our anxiety and watchfulness cannot accelerate or control this growth. It is a mistake to constantly examine or interfere with the seed, but rather, we should trust in God's timing and diligently do His work in other areas. Just as farmers and scientists of today are still puzzled by the secret processes of nature, so too are we unaware of the way in which piety increases in the heart. We can see the outward changes and the necessary means for spiritual growth, but the actual development of the religious principle remains a mystery. Therefore, our focus should be on faithfully sowing, while leaving the actual process of growth in God's hands.",
+            "wordCount": 140,
+            "quoteTokenProportion": 40.66,
+            "qualityScore": 1.7514648736032457,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.58,
+            "commentatorTierSimilarities": [
+                39.46,
+                38.77,
+                21.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The seed sown in the heart is dependent on causes beyond human efforts. Our anxiety and watchfulness cannot speed up or control its growth. It is a mistake to constantly interfere and examine the seed, instead of trusting God's timing and diligently doing His work in other areas. Just as farmers and scientists are puzzled by the secret processes of growth, we cannot fully comprehend how piety increases in the heart. Our focus should be on faithfully sowing, while leaving the actual process of growth in God's hands.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7266693370307538,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                40.9,
+                35.73,
+                23.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The growth of the seed sown in the heart is beyond our control and comprehension. Human anxiety and watchfulness cannot accelerate or shorten its stages. It is a mistake to constantly work at the seed, instead of leaving it to God's timing and diligently doing His work elsewhere. Just as farmers and scientists are still puzzled by the mystery of growth, so too are we ignorant of the exact process. Once we have done our part, the actual process of growth is in God's hands.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.712002792437274,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                44.18,
+                32.42,
+                23.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The growth of the seed sown in the heart is dependent on causes beyond human effort. It is a mistake to be always working at the seed, instead of leaving it to God's timing. The mystery of growth still puzzles farmers and scientists today, just as we are ignorant of the actual process. Once we have done our part, the actual process of growth is beyond our reach and comprehension. Trust in God's timing and diligently do His work, while leaving the growth to Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 1.7566860040307022,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+            "commentatorTierSimilarities": [
+                45.91,
+                33.22,
+                20.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The growth of the seed sown in the heart is beyond human efforts. It is a mistake to constantly examine the seed, instead of leaving it to God's timing and faithfully doing His work. Just as farmers and scientists are puzzled by the mystery of growth, we cannot fully comprehend how piety increases in the heart. Our focus should be on faithfully sowing, while leaving the process of growth in God's hands. Trust in His timing and diligently do His work.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7244540889754663,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.68,
+            "commentatorTierSimilarities": [
+                38.92,
+                36.7,
+                24.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

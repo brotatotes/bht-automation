@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:20:39",
+    "verseRef": "Mark 2:14",
+    "bestBHT": {
+        "bht": "Jesus, ever watchful for opportunities to do good, made a decisive choice when he called Levi, also known as Matthew, to follow him. This serves as a lesson to business people who may delay their service to Christ for the sake of their business. Levi, perhaps a wayward young man who disregarded his father's wishes, immediately responded to the voice of Christ and left his business behind to become a faithful disciple. The transformative power of God's grace works mightily yet freely, turning hearts and inspiring obedience. (Matthew 9:9; Luke 5:27)",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.548330635463878,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.82,
+        "commentatorTierSimilarities": [
+            29.92,
+            26.88,
+            43.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Levi, the son of Alpheus - The same, undoubtedly, as 'Matthew,' the writer of the gospel which bears his name. It was not uncommon among the Jews to have two names.",
+            "The receipt of custom - See the notes at Matthew 9:9."
+        ],
+        "Marvin Vincent": [
+            "See on Matthew 9:9."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus was constantly on the alert for opportunities to do good.",
+            "Great decisions are often made on a moment's notice.",
+            "Levi is a fine object lesson for business men who put off service to Christ to carry on their business."
+        ],
+        "John Gill": [
+            "it is thought, by some, probable, that he was a loose, extravagant young man, and so might depart from his father's family, and enter into this scandalous employment of a publican; and herein went contrary to his father's will",
+            "Christ, as the good shepherd, went before; and Levi, through the grace that was now given him, as one of his sheep, heard and knew his voice, and, without the least hesitation or reluctance, quitted his business, and became a follower of him.",
+            "How powerful is efficacious grace! what is it, it cannot do! it turns the heart of a sinner at once, inclines it to Christ, and causes it to leave all for his sake; it at once fills the soul with love to Christ, faith in him, and obedience to him; it works powerfully, and yet freely; it always obtains, and effects what it designs, yet puts no force upon the will."
+        ],
+        "John Wesley": [
+            "Matthew 9:9; Luke 5:27."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, constantly seeking opportunities to do good, made a great decision on a moment's notice when He called Levi, also known as Matthew, to follow Him. This is a lesson for business people who may delay serving Christ due to the demands of their business. Levi, who was likely an extravagant young man and may have gone against his father's wishes, heard the voice of Christ as the good shepherd and without hesitation left his business to become a follower of Jesus. The powerful grace of God turns hearts, inclining them towards Christ and causing them to leave everything behind. (Matthew 9:9; Luke 5:27)",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.5735049181825174,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                30.03,
+                26.8,
+                43.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, ever watchful for opportunities to do good, made a decisive choice when he called Levi, also known as Matthew, to follow him. This serves as a lesson to business people who may delay their service to Christ for the sake of their business. Levi, perhaps a wayward young man who disregarded his father's wishes, immediately responded to the voice of Christ and left his business behind to become a faithful disciple. The transformative power of God's grace works mightily yet freely, turning hearts and inspiring obedience. (Matthew 9:9; Luke 5:27)",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.548330635463878,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.82,
+            "commentatorTierSimilarities": [
+                29.92,
+                26.88,
+                43.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, always alert for ways to do good, made a swift decision when he called Levi, who is also known as Matthew, to follow him. This story serves as a valuable lesson for business people who may be tempted to prioritize their business over their commitment to Christ. In an impressive display of efficacious grace, Levi immediately abandoned his scandalous occupation as a tax collector and became a devoted follower of Jesus. The powerful grace of God has the ability to transform hearts and draw individuals to lovingly obey and have faith in Christ. (Matthew 9:9; Luke 5:27)",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.4823819011433326,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.63,
+            "commentatorTierSimilarities": [
+                30.34,
+                27.1,
+                42.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, always vigilant for opportunities to do good, made a spontaneous decision when he called Levi, later known as Matthew, to follow him. This account serves as a lesson for businesspeople who may postpone serving Christ due to their worldly occupations. Levi, possibly a reckless young man who defied his father's wishes, heard the voice of Christ and immediately abandoned his questionable profession to become a faithful disciple. The profound efficacy of God's grace is witnessed in its power to swiftly and willingly turn hearts towards Christ, inspiring love, faith, and obedience. (Matthew 9:9; Luke 5:27)",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.5085699575573113,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.5,
+            "commentatorTierSimilarities": [
+                28.95,
+                26.99,
+                44.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, always alert for chances to do good, made a spontaneous decision when he called Levi, also known as Matthew, to follow him. This narrative serves as a reminder to individuals immersed in business who may delay their service to Christ. Levi, possibly a rebellious young man who defied his father's wishes, willingly heeded the call of Christ and left his profession to become a devoted follower. Through the empowering grace of God, hearts are transformed, leading individuals to love, trust, and obey Christ. (Matthew 9:9; Luke 5:27)",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4655207995405102,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.07,
+            "commentatorTierSimilarities": [
+                28.91,
+                26.35,
+                44.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

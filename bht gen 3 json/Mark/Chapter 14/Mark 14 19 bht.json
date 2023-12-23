@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:28:05",
+    "verseRef": "Mark 14:19",
+    "bestBHT": {
+        "bht": "The disciples gathered around Jesus began to feel a deep sense of sorrow when He made a certain statement. This sorrow seems to have affected all of them, except for Judas. It is interesting to note that Judas, who would later betray Jesus, did not share in this sorrow. In response to Jesus' statement, the disciples individually questioned, Is it I? that shall betray thee. This shows their genuine concern and uncertainty about their own loyalty to Jesus.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 1.1487706396570139,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.54,
+        "commentatorTierSimilarities": [
+            0.0,
+            35.12,
+            64.88
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 14:19. The question of Judas (Matthew) is omitted here. Comp. at this point John 13:23-30.",
+            "\t"
+        ],
+        "John Gill": [
+            "And they began to be sorrowful,.... And were so, all but Judas, at this saying of Christ's",
+            "Is it I? that shall betray thee",
+            "The disciples are said before to express themselves in this manner, one by one"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples gathered around Jesus began to feel a deep sense of sorrow when He made a certain statement. This sorrow seems to have affected all of them, except for Judas. It is interesting to note that Judas, who would later betray Jesus, did not share in this sorrow. In response to Jesus' statement, the disciples individually questioned, Is it I? that shall betray thee. This shows their genuine concern and uncertainty about their own loyalty to Jesus.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.1487706396570139,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.12,
+                64.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples began to be sorrowful at Jesus' statement, Is it I? that shall betray thee. This caused them great distress, with the exception of Judas. The disciples, one by one, expressed their concern and questioned if they were the one who would betray Jesus. This moment reveals the true loyalty and love they had for their teacher. (Words: 52)",
+            "wordCount": 59,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 0.9200664166192185,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                27.12,
+                72.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As they gathered around the table, a heavy cloud of sorrow loomed over the hearts of the disciples, all except Judas who had already decided to betray Jesus. The weight of Jesus' words pressed upon their souls, causing them to feel a deep sadness. In their somber state, they questioned themselves, one by one, asking, Is it I? Am I the one who will betray Him? This moment, captured in Mark 14:19, reveals the inner turmoil and confusion that swirled within the disciples.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 0.8989032884882819,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                32.7,
+                67.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Gathered around the table, the disciples were enveloped in a sorrowful atmosphere, each one questioning themselves with concern, Is it I? That shall betray thee? While the weight of Christ's statement had deeply affected them, it was only Judas who remained unaffected by the brooding emotions that hung heavy in the air. The disciples' collective distress was palpable as they individually expressed their fears and uncertainties about their loyalty to Jesus.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 0.9392542105234898,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                26.67,
+                73.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the disciples assembled, a heavy sorrow settled upon them, all except Judas, who would become the betrayer. In response to Jesus' words, their spirits were filled with heaviness, and they earnestly asked, Is it I? That shall betray thee? Individually, they voiced their concerns, probing themselves for any potential disloyalty. This poignant moment, recorded in the Scriptures, unveils the disciples' emotional turmoil and their genuine desire to remain faithful to their Master.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 0.7928873681269635,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                19.79,
+                80.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

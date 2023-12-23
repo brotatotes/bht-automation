@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:22:13",
+    "verseRef": "Mark 5:5",
+    "bestBHT": {
+        "bht": "This man was both terrible to others and endured untold misery, seeking relief in tears and self-inflicted torture. Crying out and cutting himself with stones day and night, his loud screams could be heard like other demoniacs. Perhaps he was scarred all over with such gashes during his frenzied moments. A vivid emblem of a person in a state of unregeneracy, their spirit defiled with sin, seeking to ruin and destroy themselves both soul and body. Carnal men are their own worst enemies, cutting and wounding themselves with their sins, unaware of the damage they inflict upon themselves.",
+        "wordCount": 99,
+        "quoteTokenProportion": 38.67,
+        "qualityScore": 1.8294216526643394,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+        "commentatorTierSimilarities": [
+            47.54,
+            0.0,
+            52.46
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Terrible as he was to others, he himself endured untold misery.\" ",
+            "He sought relief in tears and self-inflicted torture."
+        ],
+        "Marvin Vincent": [
+            "Crying [\u03ba\u03c1\u03b1\u03b6\u03c9\u03bd] . Rev., crying out. The verb denotes an inarticulate cry; a shriek. Aristophanes uses it of the frogs (\" Ranae, \"258), and of the bawling of a boor (\" Equites,\" 285)."
+        ],
+        "Archibald T. Robertson": [
+            "He was crying out, and cutting himself with stones...Night and day his loud scream or screech could be heard like other demoniacs.\" ",
+            "It means to cut down... We say cut up, gash, hack to pieces.",
+            "Perhaps he was scarred all over with such gashes during his moments of wild frenzy night and day in the tombs and on the mountains."
+        ],
+        "John Gill": [
+            "This man was a lively emblem of a man in a state of nature and unregeneracy: he had 'an unclean spirit', as every natural man has; his soul or spirit is defiled with sin...",
+            "Who but men out of their senses, would seek to ruin and destroy themselves, both soul and body?",
+            "...carnal men are the worst enemies to themselves; they cut and wound themselves with their sins, though, like the madman, they are not sensible of it; and if grace prevent not, will destroy themselves, both soul and body, with their transgressions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This man in Mark 5:5 was both terrible to others and endured untold misery. He sought relief in tears and self-inflicted torture, crying out and cutting himself with stones day and night. His loud screams could be heard like other demoniacs. Perhaps he was scarred all over with such gashes during his frenzied moments. This man serves as a lively emblem of a person in a state of unregeneracy, whose spirit is defiled with sin. It is foolish for individuals to seek their own ruin and destruction, harming themselves both soul and body. Carnal men are their own worst enemies, cutting and wounding themselves with their sins, unaware of the damage they inflict upon themselves. Without grace, they are destined to destroy themselves with their transgressions.",
+            "wordCount": 126,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6406395041951654,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+            "commentatorTierSimilarities": [
+                44.87,
+                0.0,
+                55.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This man in the passage was both terrible to others and endured untold misery, seeking relief in tears and self-inflicted torture, crying out and cutting himself with stones day and night. Perhaps he was scarred all over with such gashes during his frenzied moments. This man serves as a vivid emblem of a person in a state of unregeneracy, their spirit defiled with sin, seeking to ruin and destroy themselves both soul and body. Carnal men are their own worst enemies, cutting and wounding themselves with their sins, unaware of the damage they inflict upon themselves.",
+            "wordCount": 97,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.8509859462909168,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+            "commentatorTierSimilarities": [
+                43.05,
+                0.0,
+                56.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This man was both terrible to others and endured untold misery, seeking relief in tears and self-inflicted torture. Crying out and cutting himself with stones day and night, his loud screams could be heard like other demoniacs. Perhaps he was scarred all over with such gashes during his frenzied moments. A vivid emblem of a person in a state of unregeneracy, their spirit defiled with sin, seeking to ruin and destroy themselves both soul and body. Carnal men are their own worst enemies, cutting and wounding themselves with their sins, unaware of the damage they inflict upon themselves.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.8294216526643394,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+            "commentatorTierSimilarities": [
+                47.54,
+                0.0,
+                52.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This man, terrible to others, endured misery and sought relief in tears and self-inflicted torture. He cried out, cutting himself with stones day and night. His loud screams, like other demoniacs, could be heard. He was scarred all over with gashes from his frenzied moments. A vivid emblem of a person in a state of unregeneracy, their spirit defiled with sin, seeking to ruin and destroy themselves both soul and body. Carnal men, their own worst enemies, cut and wound themselves with their sins, oblivious to the damage inflicted.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.7363167674817395,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.07,
+            "commentatorTierSimilarities": [
+                53.04,
+                0.0,
+                46.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This man, terrible to others, endured untold misery, seeking relief through tears and self-inflicted torture. He cried out, cutting himself with stones day and night. His loud screams, like those of other demoniacs, echoed through the tombs and mountains. Perhaps his entire body was marked with the scars from his frenzied moments. This man represents the state of unregeneracy, defiled by sin, as he sought to ruin himself both physically and spiritually. Carnal men are their own worst enemies, inflicting wounds upon themselves with their transgressions.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7203087717205512,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                51.77,
+                0.0,
+                48.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

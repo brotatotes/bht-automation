@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:26:48",
+    "verseRef": "Mark 11:4",
+    "bestBHT": {
+        "bht": "In an Eastern town with its winding streets, the disciples arrived at a road that led round a block of buildings, where the colt was tied. This topographical note showcases the eye-witness account of Mark, who describes the details of the location. The word used for this place is difficult to translate, but it refers to a crooked street. Mark vividly portrays the disciples dramatically untying the colt, with Peter possibly being among them. The execution of these orders was done publicly, in a place where their actions could not go unnoticed.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.47290966212231,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+        "commentatorTierSimilarities": [
+            36.5,
+            31.04,
+            32.47
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered a place where two ways met, only means, a road leading round a place.",
+            "Wordsw. interprets it, \u2018the back way, w hich led round the house.\u2019",
+            "Dean Trench, on the A.V. p. 116, would render it 'a way round,' 'a crooked lane.'"
+        ],
+        "Marvin Vincent": [
+            "In a place where two ways met [\u03b5\u03c0\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03bc\u03c6\u03bf\u03b4\u03bf\u03c5] . Amfodon is literally any road which leads round [\u03b1\u03bc\u03c6\u03b9] a place or a block of buildings.\" (Commentary)",
+            "The word occurs only here in the New Testament. Rev., in the open street, which in an Eastern town is usually crooked.\" (Commentary)",
+            "It is a topographical note,\" says Dr. Morison, \"that could only be given by an eye - witness.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Mark is more detailed here: perhaps Peter was one of those sent (comp. Luke 22:8), where Peter and John are the two sent into the city.",
+            "At the door without. Probably the door of the owner\u2019s house.",
+            "In the open street, or, \u2018lane.\u2019 The E. V. following the Latin Vulgate, paraphrases: \u2018in a place where two ways meet.\u2019 The phrase refers first to a way round, i.e., round a block of houses, then to the street of a town (usually winding in the East)."
+        ],
+        "Archibald T. Robertson": [
+            "The better class of houses were built about an open court, from which a passage way under the house led to the street outside. It was at this outside opening to the street that the colt was tied.",
+            "The word \u03b1\u03bc\u03c6\u03bf\u03b4\u03bf\u03c2 (from \u03b1\u03bc\u03c6\u03c9, both, and \u03bf\u03b4\u03bf\u03c2, road) is difficult. It apparently means road around a thing, a crooked street as most of them were.",
+            "And they loose him (\u03ba\u03b1 \u03bb\u03c5\u03bf\u03c5\u03c3\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Dramatic present tense. Perhaps Peter was one of those sent this time as he was later (Luke 22:8). If so, that explains Mark's vivid details here."
+        ],
+        "John Gill": [
+            "The two disciples went to the village, where Christ sent them, without objecting any difficulties that might present, in the execution of these orders.",
+            "The place was very public, and such an affair could not be transacted, without being seen.",
+            "As soon as ever they came to the place, they immediately began to untie the colt, and were going away with him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In an Eastern town with its winding streets, the disciples arrived at a road that led round a block of buildings, where the colt was tied. This topographical note showcases the eye-witness account of Mark, who describes the details of the location. The word used for this place is difficult to translate, but it refers to a crooked street. Mark vividly portrays the disciples dramatically untying the colt, with Peter possibly being among them. The execution of these orders was done publicly, in a place where their actions could not go unnoticed.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.47290966212231,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                36.5,
+                31.04,
+                32.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In an Eastern town with winding streets, the disciples arrived at a road that led round a block of buildings, where the colt was tied. The topographical note given by Mark, an eye-witness, describes this crooked street in vivid detail. The disciples immediately began untying the colt, carrying out their orders without objection. This public act in a visible location ensured their actions would not go unnoticed.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.3820233491164913,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.3,
+            "commentatorTierSimilarities": [
+                34.03,
+                25.55,
+                40.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In an Eastern town with its winding streets, the disciples arrived at a road that led round a block of buildings, where the colt was tied. This topographical note showcases the eye-witness account of Mark, who describes the details of the location. The word used for this place is difficult to translate, but it refers to a crooked street. Mark vividly portrays the disciples dramatically untying the colt, with Peter possibly being among them. The execution of these orders was done publicly, in a place where their actions could not go unnoticed.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.47290966212231,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                36.5,
+                31.04,
+                32.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In an Eastern town with its winding streets, the disciples arrived at a road that led round a block of buildings, where the colt was tied. This topographical note showcases the eye-witness account of Mark, who describes the details of the location. The word \u03b1\u03bc\u03c6\u03bf\u03b4\u03bf\u03c2, meaning road around a thing or crooked street, accurately portrays the scene. Mark vividly depicts the disciples dramatically untying the colt, with Peter possibly among them. The execution of these orders was done publicly, ensuring their actions would not go unnoticed.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.4324732749840337,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.97,
+            "commentatorTierSimilarities": [
+                37.55,
+                30.59,
+                31.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an Eastern town with winding streets, the disciples arrived at a road round a block of buildings where the colt was tied. Mark's eye-witness account provides a vivid description of this specific location, using the word \u03b1\u03bc\u03c6\u03bf\u03b4\u03bf\u03c2 to refer to the crooked street. The disciples promptly untied the colt, carrying out the orders without objection. This public act in such a visible place ensured that their actions would not go unnoticed.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.3911887720892204,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.6,
+            "commentatorTierSimilarities": [
+                33.59,
+                27.56,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

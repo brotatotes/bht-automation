@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:19:43",
+    "verseRef": "Mark 1:40",
+    "bestBHT": {
+        "bht": "Approaching Jesus full of leprosy, the leper knelt before Him, a detail often omitted by some manuscripts, as Luke notes that he fell on his face. This act of kneeling symbolized the leper's submission, respect, and reverence, signifying his desire to worship Jesus. The man, aware of his incurable condition, humbly pleaded, If thou wilt thou canst make me clean. This account aligns with the parallel verses in Matthew and Luke, further emphasizing the severity of the leper's leprosy.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.5473433587516197,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.79,
+        "commentatorTierSimilarities": [
+            39.17,
+            24.06,
+            36.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 1:40. A leper. See on Matthew 8:2. The variations from that account are only in the choice of words and the omission of \u2018Lord\u2019 here.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Kneeling down to him (\u03ba\u03b1 \u03b3\u03bf\u03bd\u03c5\u03c0\u03b5\u03c4\u03c9\u03bd). Picturesque detail omitted by some MSS. Luke 5:12 has \"fell on his face.\" "
+        ],
+        "John Gill": [
+            "This man was full of leprosy, as Luke says, and very probably deemed incurable.\" ",
+            "Kneeling down to him; in token of submission, respect, and reverence, and to worship him.",
+            "If thou wilt thou canst make me clean."
+        ],
+        "John Wesley": [
+            "Matthew 8:2; Luke 5:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A leper, full of leprosy and deemed incurable, approached Jesus and knelt down to Him, humbly expressing submission, respect, and reverence. This man, aware of Jesus' power, pleaded, If thou wilt thou canst make me clean. This detail, often omitted, adds a picturesque element to the story, emphasizing the deep desperation and faith of the leper as he sought healing from the one who had the ability to do so.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.1701393064526429,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.25,
+            "commentatorTierSimilarities": [
+                35.21,
+                23.12,
+                41.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Approaching Jesus with his condition of being full of leprosy, the leper knelt down in a gesture of submission and reverence, acknowledging Jesus' authority and power. This detail, at times excluded, adds a vivid aspect to the story and depicts the deep desperation and faith of the leper as he sought to be cleansed. In his plea, he acknowledged Jesus' ability to heal by exclaiming, If thou wilt thou canst make me clean.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.208024767122877,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.51,
+            "commentatorTierSimilarities": [
+                37.27,
+                25.53,
+                37.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Approaching Jesus full of leprosy, the leper knelt down in submission and reverence, acknowledging Jesus' authority. This picturesque detail, sometimes omitted, highlights the leper's desperation and faith as he sought cleansing. With conviction, he implored, If thou wilt thou canst make me clean. This story parallels accounts in Matthew and Luke, emphasizing the leper's incurable state of leprosy and his belief that Jesus had the power to heal him.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.2788527420017202,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.87,
+            "commentatorTierSimilarities": [
+                35.18,
+                26.71,
+                38.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Approaching Jesus full of leprosy, the leper knelt before Him, a detail often omitted by some manuscripts, as Luke notes that he fell on his face. This act of kneeling symbolized the leper's submission, respect, and reverence, signifying his desire to worship Jesus. The man, aware of his incurable condition, humbly pleaded, If thou wilt thou canst make me clean. This account aligns with the parallel verses in Matthew and Luke, further emphasizing the severity of the leper's leprosy.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.5473433587516197,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.79,
+            "commentatorTierSimilarities": [
+                39.17,
+                24.06,
+                36.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Approaching Jesus full of leprosy, the leper knelt before Him, a picturesque detail omitted by some manuscripts. This act of kneeling symbolized the leper's submission, respect, and reverence, signifying his desire to worship Jesus. The man, aware of his incurable condition, humbly pleaded, If thou wilt thou canst make me clean. This account aligns with parallel verses, emphasizing the severity of the leper's leprosy and his unwavering belief in Jesus' ability to heal.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.3275113192468389,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.48,
+            "commentatorTierSimilarities": [
+                39.58,
+                25.03,
+                35.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:21:01",
+    "verseRef": "Mark 3:28",
+    "bestBHT": {
+        "bht": "Mark's meticulous and detailed account surpasses that of Matthew, offering a richer exploration of forgiveness for sins and blasphemies. This forgiveness extends to offenses against God, the Son of God, angels, and men, and is made possible through the blood of Christ. Its application hinges on individuals realizing the gravity of their transgressions. Matthew and Luke also touch on this theme in their Gospels.",
+        "wordCount": 65,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 1.337770958890604,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.82,
+        "commentatorTierSimilarities": [
+            52.12,
+            0.0,
+            47.88
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Compare Matthew 12:31; and note Mark's superior precision and fullness of detail."
+        ],
+        "John Gill": [
+            "Verily I say unto you,.... The Scribes and Pharisees, who had not only blasphemed him, but the Spirit of God also.",
+            "All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme; God; or the Son of God, angels, and men, and that through the blood of Christ, and when brought to a sense of the evil of them.",
+            "For though pardon is procured before, it is not applied till then."
+        ],
+        "John Wesley": [
+            "Matthew 12:31; Luke 12:10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mark 3:28 emphasizes the precision and fullness of detail that Mark provides in comparison to Matthew 12:31. The verse explores the concept of forgiveness for all sins and blasphemies against God, the Son of God, angels, and men, through the blood of Christ. While pardon may be procured before, it is applied at the appropriate time. This verse is also echoed in Matthew 12:31 and Luke 12:10.",
+            "wordCount": 63,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.7236377029605612,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                50.95,
+                0.0,
+                49.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his Gospel, Mark offers a more precise and detailed account compared to Matthew, as seen in his treatment of the concept described in the first-tier commentary. This concept explores the forgiveness of sins and blasphemies against God, the Son of God, angels, and men. This forgiveness is made possible through the blood of Christ and is applied when individuals are brought to a sense of the evil they have committed. This similar idea is also mentioned in Matthew and Luke.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.281003362382743,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.94,
+            "commentatorTierSimilarities": [
+                44.58,
+                0.0,
+                55.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark's Gospel provides a meticulous and comprehensive account, displaying a higher level of precision than Matthew's Gospel. The verse explores the theme of forgiveness for sins and blasphemies committed against God, the Son of God, angels, and men. This forgiveness is made possible through the blood of Christ and is applied once individuals realize the gravity of their offenses. This idea is also echoed in Matthew and Luke.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.4372963055580676,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
+            "commentatorTierSimilarities": [
+                50.94,
+                0.0,
+                49.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark's Gospel emphasizes its superior precision and attention to detail compared to Matthew's Gospel. The verse addresses the forgiveness of sins and blasphemies against God, the Son of God, angels, and men. This forgiveness is made possible through the blood of Christ and is applied when individuals acknowledge the seriousness of their offenses. Similar sentiments are echoed in the Gospels of Matthew and Luke.",
+            "wordCount": 66,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.6772098780614293,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.11,
+            "commentatorTierSimilarities": [
+                55.35,
+                0.0,
+                44.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark's meticulous and detailed account surpasses that of Matthew, offering a richer exploration of forgiveness for sins and blasphemies. This forgiveness extends to offenses against God, the Son of God, angels, and men, and is made possible through the blood of Christ. Its application hinges on individuals realizing the gravity of their transgressions. Matthew and Luke also touch on this theme in their Gospels.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.337770958890604,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.82,
+            "commentatorTierSimilarities": [
+                52.12,
+                0.0,
+                47.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

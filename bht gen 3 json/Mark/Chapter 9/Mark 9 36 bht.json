@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:25:46",
+    "verseRef": "Mark 9:36",
+    "bestBHT": {
+        "bht": "Conversion must be thorough, turning not only the heart to God but also redirecting ambition towards humility. By humbling oneself as a little child, greatness is attained in the kingdom of heaven. Jesus takes a child in his arms, emphasizing the importance of humility. The word deacon in the New Testament denotes ministers of the gospel, further highlighting the significance placed on humility. This act of taking the child in his arms is unique to Mark, emphasizing the attention given to this detail.",
+        "wordCount": 83,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5204662553330779,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.9,
+        "commentatorTierSimilarities": [
+            40.17,
+            31.33,
+            28.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "36. taken him in his arms] This particular we learn from Mark."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Conversion must be thorough; not only must the heart be turned to God in general, and from earthly to heavenly things, but in particular, except ye be converted from that carnal ambition which still rankles within you, into that freedom from all such feelings which ye see in this child, ye have neither part nor lot in the kingdom at all.",
+            "Whosoever, therefore, shall 'humble himself as this little child, the same is greatest in the kingdom of heaven'.",
+            "For he that is [willing to be] least among you all, the same shall be great."
+        ],
+        "Marvin Vincent": [
+            "The word deacon is an almost literal transcription of the original.\" ",
+            "The word is often used in the New Testament to denote ministers of the gospel.",
+            "When he had taken him in his arms. The verb is found only in Mark, and only he records this detail."
+        ],
+        "Philip Schaff": [
+            "And taking him in his arms. Peculiar to Mark.",
+            "The child seems not to have been brought in, but to have been a member of the household.",
+            "The little one may have been the child of one of the Apostles, perhaps of Peter, whose house this may have occurred."
+        ],
+        "John Gill": [
+            "And he took a child... and set him in the midst of them; his disciples, that all might see and learn from this instance.\" ",
+            "And when he had taken him in his arms... to show his great regard to humility, and humble persons.\" ",
+            "He said unto them."
+        ],
+        "John Wesley": [
+            "Matthew 18:2; Luke 9:47."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Conversion must be thorough, turning not only the heart to God but also redirecting ambition towards humility. Only by being transformed from worldly desires to childlike innocence can one truly enter the kingdom of heaven. By humbling oneself as a little child, greatness is attained in the kingdom. Jesus demonstrates this by taking a child in his arms, emphasizing the importance of humility. The word deacon in the New Testament denotes ministers of the gospel, further highlighting the significance Jesus places on humility. This act of taking the child in his arms is unique to Mark, emphasizing the attention given to this detail in his account.",
+            "wordCount": 106,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4571353915544278,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.79,
+            "commentatorTierSimilarities": [
+                40.52,
+                30.06,
+                29.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Conversion must be thorough, turning not only the heart to God but also redirecting ambition towards humility. By humbling oneself as a little child, greatness is attained in the kingdom of heaven. Jesus takes a child in his arms, emphasizing the importance of humility. The word deacon in the New Testament denotes ministers of the gospel, further highlighting the significance placed on humility. This act of taking the child in his arms is unique to Mark, emphasizing the attention given to this detail.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5204662553330779,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.9,
+            "commentatorTierSimilarities": [
+                40.17,
+                31.33,
+                28.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Conversion involves a thorough transformation, not only of the heart turning to God but also redirecting ambition towards humility. The greatness in the kingdom of heaven is achieved by humbling oneself as a little child. Jesus' act of taking a child in his arms emphasizes the value placed on humility. The word deacon in the New Testament refers to ministers of the gospel, underlining the significance of humility. This act of cradling the child is unique to Mark and signifies the attention given to this detail.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.4387433790558826,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.18,
+            "commentatorTierSimilarities": [
+                39.39,
+                30.4,
+                30.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Conversion necessitates a comprehensive change that encompasses both the heart's turning to God and the redirection of ambition toward humility. By humbling themselves as a little child, individuals can attain greatness in the kingdom of heaven. Demonstrating the significance of humility, Jesus embraced a child, symbolizing the esteem placed upon humility. The term deacon, frequently used to denote gospel ministers in the New Testament, further underscores the importance of humility. This distinctive act of embracing the child is recorded solely in Mark, highlighting its significance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.3578091981461704,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.49,
+            "commentatorTierSimilarities": [
+                41.18,
+                25.88,
+                32.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Conversion requires a complete transformation, not only in turning one's heart to God, but also in redirecting ambition towards humility. By humbling oneself like a child, greatness is attained in the kingdom of heaven. Jesus exemplified this by taking a child in his arms, highlighting the value of humility. The term deacon in the New Testament denotes ministers of the gospel, emphasizing the importance of humility. Mark uniquely records this act of embracing the child, signifying its significance in illustrating the lesson of humility.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.4760222121894448,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "commentatorTierSimilarities": [
+                40.95,
+                26.05,
+                32.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

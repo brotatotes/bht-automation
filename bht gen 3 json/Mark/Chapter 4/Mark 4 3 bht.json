@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:21:41",
+    "verseRef": "Mark 4:3",
+    "bestBHT": {
+        "bht": "Hearken! Behold, a sower went out to sow. This solemn declaration, exclusive to Mark, introduces a parable deserving attention. The sower signifies Jesus Christ, who came forth as a teacher from God, sowing spiritual truths among people. This can also apply to any faithful minister of the word. The word hearken may have been spoken loudly by Jesus to capture the crowd's attention and silence their distractions.",
+        "wordCount": 68,
+        "quoteTokenProportion": 35.19,
+        "qualityScore": 1.0728936704639862,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.02,
+        "commentatorTierSimilarities": [
+            23.26,
+            32.27,
+            44.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] Hearken\u2014this solemn prefatory is peculiar to Mark."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. Hearken; Behold, there went out a",
+            "\tsower to sow\u2014What means this? See on :-. ",
+            "\t",
+            "First Case: THE",
+            "\tWAYSIDE. (Mark 4:4;",
+            "\tMark 4:15)."
+        ],
+        "Philip Schaff": [
+            "Mark 4:3. Hearken . This, inserted by Mark only, seems to introduce the whole discourse, as deserving great attention.",
+            "\t"
+        ],
+        "John Gill": [
+            "By whom is meant Jesus Christ, who came forth from God as a teacher, and went out into the land of Judea to preach the Gospel...\" (36 words)",
+            "...sowing spiritual things among men...\" (6 words)",
+            "...this may be also applicable to any faithful minister of the word.\" (15 words)"
+        ],
+        "John Wesley": [
+            "Hearken \u2014 This word he probably spoke with a loud voice, to stop the noise and hurry of the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hearken! Behold, there went out a sower to sow. This solemn prefatory declaration, unique to Mark's account, introduces a parable that deserves great attention. The sower mentioned in this passage can be understood as Jesus Christ who, like a sower, came forth from God to preach the Gospel and sow spiritual truths among humanity. It may also be applicable to any faithful minister of the word. The use of the word hearken suggests that Jesus may have spoken it with a loud voice to capture the crowd's attention and quiet their noise and distractions.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.0983007466739223,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.86,
+            "commentatorTierSimilarities": [
+                21.32,
+                33.85,
+                44.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hearken! Behold, a sower went out to sow. This solemn declaration, exclusive to Mark, introduces a parable deserving attention. The sower signifies Jesus Christ, who came forth as a teacher from God, sowing spiritual truths among people. This can also apply to any faithful minister of the word. The word hearken may have been spoken loudly by Jesus to capture the crowd's attention and silence their distractions.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.0728936704639862,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.02,
+            "commentatorTierSimilarities": [
+                23.26,
+                32.27,
+                44.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Listen! A sower went out to sow. This significant introduction by Mark sets the stage for a parable that commands our attention. The sower represents Jesus Christ, who emerged as a divine teacher to sow spiritual truths among mankind. This symbolism can also apply to any faithful minister of the Gospel. The word listen suggests that Jesus spoke with a commanding voice, aiming to capture the crowd's focus and overcome their distractions.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.9285751520539447,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.22,
+            "commentatorTierSimilarities": [
+                21.99,
+                33.32,
+                44.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Attention! Behold, a sower went out to sow. This significant introduction, exclusive to Mark, marks the beginning of an important parable that demands our attention. The sower represents Jesus Christ, who came forward as a divine teacher, sowing spiritual truths among humanity. This symbolic imagery can also relate to any sincere minister of the Word. The use of the word attention suggests that Jesus may have spoken with authority to arrest the crowd's bustling and capture their undivided focus.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 0.978121019084393,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.87,
+            "commentatorTierSimilarities": [
+                23.57,
+                38.65,
+                37.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Listen! Behold, a sower went out to sow. This solemn introduction, unique to Mark, introduces an important parable that deserves our careful consideration. The sower symbolizes Jesus Christ, who emerged as a teacher from God, sowing spiritual truths among humanity. This imagery can also apply to any faithful preacher of the Gospel. The use of the word listen suggests that Jesus may have spoken with a commanding voice, aiming to capture the crowd's attention and silence their distractions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 0.9716376021281632,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.65,
+            "commentatorTierSimilarities": [
+                25.46,
+                32.58,
+                41.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

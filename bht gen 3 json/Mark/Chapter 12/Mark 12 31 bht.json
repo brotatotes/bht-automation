@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:27:33",
+    "verseRef": "Mark 12:31",
+    "bestBHT": {
+        "bht": "The first and greatest commandment is to reserve our supreme affection for God, reflecting the shining of His love. The second commandment, like unto it, is to sincerely love all mankind and treat them as we would desire to be treated. These commandments encompass the whole law of human duty, surpassing all other commandments. They embody the golden rule and summarize all of Scripture, guiding our conduct towards both God and our fellow human beings.",
+        "wordCount": 75,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.6258385990279562,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.4,
+        "commentatorTierSimilarities": [
+            45.14,
+            0.0,
+            54.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first is the Sun, so to speak, of the spiritual life:\u2014this the lesser light, which reflects the shining of that other.",
+            "Both are laws of love: both deduced from the great and highest love: both dependent on 'I am the Lord thy God.'",
+            "Stier sets forth beautifully the strong contrast between the requirements of these two commands, and the then state of the Jewish Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our supreme and uttermost affection is to be reserved for God. But as sincerely as ourselves we are to love all mankind, and with the same readiness to do and suffer for them as we should reasonably desire them to show to us.",
+            "The golden rule is here our best interpreter of the nature and extent of these claims.",
+            "It is as if He had said, 'This is all Scripture in a nutshell; the whole law of human duty in a portable, pocket form.' Indeed, it is so simple that a child may understand it, so brief that all may remember it, so comprehensive as to embrace all possible cases."
+        ],
+        "Marvin Vincent": [
+            "Neighbor. See on Matthew 5:43. ",
+            "- 34. Peculiar to Mark."
+        ],
+        "John Gill": [
+            "This commandment stands in Leviticus 19:18 and respects not an Israelite only, or one of the same religion with a man's self, or his intimate friend and acquaintance, or one that lives in the same neighbourhood; but any man whatever, to whom affection should be shown, and good should be done to him, and for him, as a man would have done to and for himself.\" ",
+            "As much as lies in his power, both in things temporal and spiritual.",
+            "There is none other commandment greater than these; in the whole law, moral or ceremonial; not the sabbath, nor circumcision, nor the phylacteries, nor the fringes on the borders of the garments, nor any other."
+        ],
+        "John Wesley": [
+            "The second is like unto it \u2014 Of a like comprehensive nature: comprising our whole duty to man.",
+            "There is no other moral, much less ceremonial commandment, greater than these.",
+            "Leviticus 19:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The first and greatest commandment is to reserve our supreme and uttermost affection for God, reflecting the shining of His love. And the second commandment, like unto it and deduced from the great and highest love, is to love all mankind sincerely, treating them as we ourselves would expect to be treated. This commandment encompasses the whole law of human duty, surpassing all other commandments both moral and ceremonial. It teaches us to do good to every person, regardless of their religion, relation to us, or proximity, embodying the golden rule. In a nutshell, these two commandments summarize all of Scripture and dictate our conduct towards both God and our fellow human beings.",
+            "wordCount": 113,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 1.6396065975667486,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                44.07,
+                0.0,
+                55.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The first commandment requires us to reserve our supreme affection for God, while the second commandment instructs us to sincerely love all mankind and treat them as we would want to be treated. These commandments reflect the great and highest love and encompass the entire law of human duty. They surpass all other commandments, both moral and ceremonial, and summarize Scripture in a portable, pocket form. Embodying the golden rule, they call us to do good to others and encompass all possible cases of human interaction.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5252238854353575,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.06,
+            "commentatorTierSimilarities": [
+                45.31,
+                0.0,
+                54.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The first and greatest commandment is to have utmost love for God, while the second commandment entails extending sincere love to all humanity and treating others as we desire to be treated. These commandments, derived from the highest form of love, summarize the entire law of human duty. They exceed all other commandments, whether moral or ceremonial, and embody the essence of Scripture. In a nutshell, these commandments encapsulate the golden rule, prompting us to do good to others and encompass all possible scenarios of human interaction.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5928668653836295,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                42.68,
+                0.0,
+                57.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first and greatest commandment is to reserve our supreme affection for God, reflecting the shining of His love. The second commandment, like unto it, is to sincerely love all mankind and treat them as we would desire to be treated. These commandments encompass the whole law of human duty, surpassing all other commandments. They embody the golden rule and summarize all of Scripture, guiding our conduct towards both God and our fellow human beings.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.6258385990279562,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.4,
+            "commentatorTierSimilarities": [
+                45.14,
+                0.0,
+                54.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first is the Sun of the spiritual life, a reflection of the great and highest love that requires us to reserve supreme affection for God. The second commandment, like unto it and deduced from the same love, requires us to sincerely love and treat all mankind as we would want to be treated. These commandments encompass the entire law of human duty, surpassing all other commandments, whether moral or ceremonial. They serve as a portable, pocket form of Scripture, embracing all possible cases and exemplifying the golden rule.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5831840947001028,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "commentatorTierSimilarities": [
+                45.02,
+                0.0,
+                54.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

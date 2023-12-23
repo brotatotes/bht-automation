@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:21:09",
+    "verseRef": "Mark 4:9",
+    "bestBHT": {
+        "bht": "After illustrating a parable, Jesus invites his audience to discern and fully comprehend his words with the proclamation, He that hath ears to hear, let him hear. This expression emphasizes the crucial nature of the message and encourages individuals to pay careful attention and take note of its profound implications. For a deeper understanding and further clarification of this parable, additional insight can be found in the related text found in Matthew 13:3.",
+        "wordCount": 72,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.2795192048244843,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.89,
+        "commentatorTierSimilarities": [
+            29.81,
+            0.0,
+            70.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9. And he said unto them, He that",
+            "\thath ears to hear, let him hear.",
+            "",
+            "After this parable is recorded the",
+            "\tEvangelist says:"
+        ],
+        "John Gill": [
+            "He that hath ears to hear, let him hear: observe, and take notice of what has been said, as being of the greatest moment and importance.",
+            "For a larger explanation and illustration of this parable, see the notes on Matthew 13:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He that hath ears to hear, let him hear, declares Jesus in Mark 4:9, urging his listeners to pay close attention to the parable he just shared. This statement signifies the significance and urgency of his message, imploring everyone to take notice of the profound truths being conveyed. For further understanding of this parable, additional insights can be found in the notes on Matthew 13:3.",
+            "wordCount": 63,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.4011069447910078,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.93,
+            "commentatorTierSimilarities": [
+                30.02,
+                0.0,
+                69.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the aftermath of delivering a parable, Jesus emphasizes the importance of actively listening and truly grasping the meaning behind his words, urging those who possess receptive hearts and open minds to give heed. By stating, He that hath ears to hear, let him hear, Jesus underscores the significance of absorbing the profound message he has just shared. For a more expansive explanation and illumination of this parable, one can refer to the commentary on Matthew 13:3.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5017238867840852,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                31.97,
+                0.0,
+                68.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After illustrating a parable, Jesus invites his audience to discern and fully comprehend his words with the proclamation, He that hath ears to hear, let him hear. This expression emphasizes the crucial nature of the message and encourages individuals to pay careful attention and take note of its profound implications. For a deeper understanding and further clarification of this parable, additional insight can be found in the related text found in Matthew 13:3.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.2795192048244843,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.89,
+            "commentatorTierSimilarities": [
+                29.81,
+                0.0,
+                70.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Mark 4:9, Jesus emphasizes the significance of active listening and comprehension by declaring, He that hath ears to hear, let him hear. These words carry weight, urging individuals to pay close attention and grasp the profundity of his teachings. To gain a more comprehensive understanding of this parable, one can refer to the notes on Matthew 13:3, which provide a broader explanation and illustration.",
+            "wordCount": 63,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.3158048742693345,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.09,
+            "commentatorTierSimilarities": [
+                26.47,
+                0.0,
+                73.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus emphasizes the importance of attentive listening and understanding with the declaration, He that hath ears to hear, let him hear. His words serve as a reminder to pay careful attention and recognize the immense significance of what has been shared. For a more comprehensive explanation and illustration of this parable, it is valuable to refer to the accompanying notes, which provide additional insight and clarity.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.2697181162094302,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.56,
+            "commentatorTierSimilarities": [
+                26.82,
+                0.0,
+                73.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

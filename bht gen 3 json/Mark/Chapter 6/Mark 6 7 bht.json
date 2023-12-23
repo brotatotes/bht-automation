@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:23:23",
+    "verseRef": "Mark 6:7",
+    "bestBHT": {
+        "bht": "Jesus sent out his apostles in pairs, emphasizing the importance of companionship and collaboration. This arrangement enabled them to provide mutual counsel and support, lightening their burdens and increasing their chances of success. Mark's style captures the vernacular language and details the apostles' mission to preach and heal. By sending them in pairs, Jesus prioritized both their happiness and their usefulness, ensuring effective communication and prompt delivery of the message across different regions.",
+        "wordCount": 74,
+        "quoteTokenProportion": 24.07,
+        "qualityScore": 1.5769836419576502,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+        "commentatorTierSimilarities": [
+            30.01,
+            36.45,
+            33.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These couples are pointed out in Matthew's list of the Apostles.\" ",
+            "The total absence of connecting design in this Gospel.\" ",
+            "Such as is often assumed."
+        ],
+        "Albert Barnes": [
+            "Amid the trials and opposition with which they would meet, mutual counsel and aid would greatly lighten their burdens and alleviate their calamities.",
+            "Mutual counsel might also contribute to their success, and lead to 'united' plans to advance the kingdom of the Redeemer.",
+            "Jesus here, as in all the work of religion, consulted at the same time the 'happiness' and the 'usefulness' of his disciples; nor are they ever separated."
+        ],
+        "Marvin Vincent": [
+            "By two and two. To help and encourage each other, and also for fullness of testimony. ",
+            "- 12. See Matthew 10:0."
+        ],
+        "Philip Schaff": [
+            "A proof both of truthfulness and of independence.",
+            "Power over the unclean spirits. Peculiar to Mark, and characteristic of his narrative."
+        ],
+        "Archibald T. Robertson": [
+            "Mark preserves the vernacular Koine better than the other Gospels and this detail suits his vivid style.\" ",
+            "The six pairs of apostles could thus cover Galilee in six different directions.",
+            "They were to preach and to heal."
+        ],
+        "John Gill": [
+            "He first sent forth one couple, and then another; the reason of his sending them by pairs, was partly for the sake of company, and that they might be useful and assisting to one another.",
+            "Being thus sent by pairs into different parts, their message would be the sooner dispatched than if they had all went together.",
+            "The reason of all which seems to be, because he refers not to the same time as Matthew does, to their appointment and ordination; but to the time they were sent out and proceeded on their journey."
+        ],
+        "John Wesley": [
+            "Matthew 10:1; Luke 9:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus called his apostles and sent them out in pairs to preach and heal. The mention of the apostles going out in pairs in Matthew's list highlights the importance of companionship and support for their mission. Mark's vivid style and attention to detail reflect the vernacular language. Sending the apostles in six different directions allowed for wider coverage and quicker spread of the message. This strategy also provided mutual counsel and aid, lightening their burdens and contributing to their success. Jesus considered both their happiness and usefulness in this work, as they were to preach and heal, showing independence and truthfulness in their ministry. This arrangement of pairs allowed for efficient communication and ensured that the message was promptly delivered.",
+            "wordCount": 122,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.4989686502799857,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.18,
+            "commentatorTierSimilarities": [
+                34.07,
+                34.43,
+                31.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus sent his apostles out in pairs, highlighting the importance of companionship and support. Mark's vivid style captures the vernacular language and the emphasis on efficient communication. The apostles were sent in different directions, covering a wider area and spreading the message quickly. Mutual counsel and aid helped alleviate their burdens and contribute to their success. Jesus considered both their happiness and usefulness in their mission, showing independence and truthfulness. This arrangement of pairs allowed for effective communication and prompt delivery of the message.",
+            "wordCount": 85,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.4812874448886326,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.6,
+            "commentatorTierSimilarities": [
+                29.57,
+                40.22,
+                30.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus sent the apostles out in pairs, emphasizing the value of companionship and support. Mark's vivid style reflects the vernacular language and his attention to detail. Sending the apostles in different directions allowed for wider coverage and faster spread of the message. Mutual counsel and aid lightened their burdens and contributed to their success. Jesus prioritized both their happiness and usefulness, demonstrating truthfulness and independence. The arrangement of pairs facilitated efficient communication and ensured timely delivery of the message.",
+            "wordCount": 80,
+            "quoteTokenProportion": 17.86,
+            "qualityScore": 1.4730977437296693,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                29.39,
+                41.5,
+                29.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus sent out his apostles in pairs, emphasizing the importance of companionship and collaboration. Through this arrangement, they could provide mutual counsel and support one another, lightening their burdens and increasing their chances of success. Mark's style captures the vernacular language and details the apostles' mission to preach and heal. This strategy allowed for wider coverage as they spread out in different directions. By sending them in pairs, Jesus prioritized both their happiness and their usefulness, ensuring effective communication and prompt delivery of the message.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.4796946917659792,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+            "commentatorTierSimilarities": [
+                31.64,
+                34.24,
+                34.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus sent out his apostles in pairs, emphasizing the importance of companionship and collaboration. This arrangement enabled them to provide mutual counsel and support, lightening their burdens and increasing their chances of success. Mark's style captures the vernacular language and details the apostles' mission to preach and heal. By sending them in pairs, Jesus prioritized both their happiness and their usefulness, ensuring effective communication and prompt delivery of the message across different regions.",
+            "wordCount": 74,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.5769836419576502,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "commentatorTierSimilarities": [
+                30.01,
+                36.45,
+                33.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

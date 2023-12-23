@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:19:52",
+    "verseRef": "Mark 1:39",
+    "bestBHT": {
+        "bht": "Jesus began his preaching tour, going throughout all of Galilee, preaching in their synagogues and casting out demons. This was the first of Jesus' tours in Galilee, and although we are not given many details about it, it is clear that he preached the Gospel of the kingdom to the people, confirming his message through casting out demons from both souls and bodies. (39 words)",
+        "wordCount": 64,
+        "quoteTokenProportion": 54.17,
+        "qualityScore": 1.5668841143179413,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+        "commentatorTierSimilarities": [
+            36.66,
+            30.15,
+            33.2
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "39.] See on Matt. iv. 23: also on Luke iv. 44."
+        ],
+        "Albert Barnes": [
+            "And he preached in their synagogues - See Matthew 4:23.",
+            "All Galilee - See Matthew 1:22.",
+            "And cast out devils - See Matthew 4:24."
+        ],
+        "Philip Schaff": [
+            "In their synagogues. Lit, 'into,' implying that He went into them and reached the ears of the people.",
+            "All Galilee. Not the next towns only, but throughout the whole region.",
+            "Comp. Matthew 4:23, and especially Luke 4:44."
+        ],
+        "Archibald T. Robertson": [
+            "Throughout all Galilee (\u0395\u03b9\u03c2 \u03bf\u03bb\u03b7\u03bd \u03c4\u03b7\u03bd \u0393\u03b1\u03bb\u03b9\u03bb\u03b1\u03b9\u03b1\u03bd). The first tour of Galilee by Jesus. We are told little about this great preaching tour. "
+        ],
+        "John Gill": [
+            "taking every town and city in his circuit, he continued preaching the Gospel of the kingdom in one place and another, until he had gone over the whole country",
+            "and cast out devils; as out of the souls, so out of the bodies of men",
+            "whereby he confirmed the doctrine he preached."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus began his preaching tour, going throughout all of Galilee, preaching in their synagogues and casting out demons. This was the first of Jesus' tours in Galilee, and although we are not given many details about it, it is clear that he preached the Gospel of the kingdom to the people, confirming his message through casting out demons from both souls and bodies. (39 words)",
+            "wordCount": 64,
+            "quoteTokenProportion": 54.17,
+            "qualityScore": 1.5668841143179413,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                36.66,
+                30.15,
+                33.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Throughout all Galilee, Jesus preached in their synagogues, taking every town and city in his circuit, reaching the ears of the people. He continued to preach the Gospel of the kingdom in one place and another until he had gone over the whole country. Not only did Jesus preach, but he also cast out devils, both out of the souls and out of the bodies of men, confirming the doctrine he preached. This great preaching tour demonstrated Jesus's dedication to spreading his message and his ability to perform miracles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7832289495438085,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                28.9,
+                28.33,
+                42.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Throughout all Galilee, Jesus preached in their synagogues, reaching the ears of the people and confirming the doctrine he preached by casting out devils from both souls and bodies of men. This great preaching tour displayed Jesus's dedication to spreading his message, taking every town and city in his circuit, until he had gone over the whole country. His preaching and miracles served as a powerful demonstration of his mission and ministry.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.7060823083905694,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                32.93,
+                25.8,
+                41.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Throughout all Galilee, Jesus preached in their synagogues, reaching the ears of the people and confirming the doctrine he preached by casting out devils from both souls and bodies of men. This great preaching tour displayed Jesus's dedication to spreading his message, taking every town and city in his circuit, until he had gone over the whole country. His preaching and miracles served as a powerful demonstration of his mission and ministry.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.7060823083905694,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                32.93,
+                25.8,
+                41.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Throughout all Galilee, Jesus preached in their synagogues, taking every town and city in his circuit, reaching the ears of the people and casting out devils from both souls and bodies of men. This great preaching tour displayed Jesus's dedication to spreading his message, confirming the doctrine he preached. His miracles served as a powerful demonstration of his mission and ministry, confirming the truth of his words.",
+            "wordCount": 68,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6787736047602408,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                31.86,
+                25.56,
+                42.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

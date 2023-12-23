@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:23:45",
+    "verseRef": "Mark 6:40",
+    "bestBHT": {
+        "bht": "The crowd was seated in an orderly manner, arranged in ranks by hundreds and by fifties. This arrangement allowed for a quick count of the number fed, as well as an opportunity for all to witness the glorious miracle in an organized way. The colorful clothing of the participants resembled a garden, with orderly walks between the rows. The description of this event suggests a ministry of Jesus that extended beyond a year.",
+        "wordCount": 73,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.4930503663795613,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+        "commentatorTierSimilarities": [
+            35.77,
+            41.25,
+            22.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And they sat down in ranks, by hundreds, and by fifties\u2014Doubtless this was to show at a glance the number fed.\" ",
+            "and to enable all to witness in an orderly manner this glorious miracle.",
+            "this glorious miracle."
+        ],
+        "Marvin Vincent": [
+            "The red, blue, and yellow clothing of the poorest Orientals makes an Eastern crowd full of color.",
+            "A fact which would appeal to Peter's eye, suggesting the appearance of flower beds in a garden.",
+            "Like beds in a garden."
+        ],
+        "Philip Schaff": [
+            "The crowd was arranged in an orderly manner.",
+            "Some have thought there were 50 seats in breadth and 100 in length, thus making 5,000.",
+            "The fourth side remained, after the manner of the ancient's tables, empty and open."
+        ],
+        "Archibald T. Robertson": [
+            "They were arranged in groups by hundreds and by fifties and they looked like garden beds with their many-coloured clothes which even men wore in the Orient.\" ",
+            "There was colour as well as order in the grouping. There were orderly walks between the rows on rows of men reclining on the green grass.\" ",
+            "So here the Synoptic Gospels have an indication of more than a one-year ministry of Jesus."
+        ],
+        "John Gill": [
+            "R. Eliezer ben Azariah expounded before the wise men in the vineyard (i.e. the university) of Jabneh: though was there a vineyard there? but these are the disciples of the wise men, who are made, or placed, \u05e9\u05d5\u05e8\u05d5\u05ea \u05e9\u05d5\u05e8\u05d5\u05ea, 'rows, rows', or 'in ranks', as a vineyard.",
+            "By hundreds, and by fifties; that is, an hundred in 'each' bed, or row, and fifty in 'each' bed, or row, as the word \u03b1\u03bd\u03b1, signifies: each distinct bed, or row, had either a hundred, or fifty in it.",
+            "Vid. Gloss. in T. Bab. Yebamot, fol. 42. 2."
+        ],
+        "John Wesley": [
+            "They sat down in ranks \u2014 The word properly signifies a parterre or bed in a garden; by a metaphor, a company of men ranged in order, by hundreds and by fifties.",
+            "That is, fifty in rank, and a hundred in file.",
+            "So a hundred multiplied by fifty, make just five thousand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The crowd in this verse was seated in an orderly manner, with groups arranged in ranks by hundreds and by fifties. This arrangement not only allowed for a quick count of the number of people present, but also provided an opportunity for everyone to witness the glorious miracle in an organized way. The colorful clothing of the crowd resembled the appearance of flower beds in a garden, adding to the visual impact of the scene. The Synoptic Gospels' description of this event hints at a ministry of Jesus that lasted more than a year.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.4411817843874084,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
+            "commentatorTierSimilarities": [
+                39.16,
+                37.14,
+                23.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crowd was seated in an orderly manner, arranged in ranks by hundreds and by fifties. This arrangement allowed for a quick count of the number fed, as well as an opportunity for all to witness the glorious miracle in an organized way. The colorful clothing of the participants resembled a garden, with orderly walks between the rows. The description of this event suggests a ministry of Jesus that extended beyond a year.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.4930503663795613,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+            "commentatorTierSimilarities": [
+                35.77,
+                41.25,
+                22.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowd in this passage sat down in ranks, by hundreds, and by fifties, resembling garden beds with their many-colored clothes. This orderly arrangement served both practical and visual purposes, enabling a quick count of the number fed and creating a visually striking scene reminiscent of flower beds. The Synoptic Gospels' mention of this event suggests a ministry of Jesus that extended beyond a year, further emphasizing the significance of this miraculous feeding.",
+            "wordCount": 74,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.407591881151605,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.15,
+            "commentatorTierSimilarities": [
+                42.52,
+                25.78,
+                31.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crowd gathered and sat down in ranks, arranged by hundreds and by fifties, forming a colorful and orderly scene akin to flower beds in a garden. This arrangement served not only to easily determine the number of people present, but also allowed for an organized and visually striking witness to the glorious miracle. The Synoptic Gospels' account of this event hints at a ministry of Jesus that lasted beyond a year, reflecting the significant impact of his teachings and acts.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.3050917771651893,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.74,
+            "commentatorTierSimilarities": [
+                43.94,
+                31.64,
+                24.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowd sat down in ranks by hundreds and by fifties, resembling garden beds with their colorful attire. This orderly arrangement facilitated a quick count of those fed and provided an organized and visually appealing witness to the glorious miracle. The description of this event in the Synoptic Gospels indicates an extended ministry of Jesus, underscoring the profound impact of his teachings and actions.",
+            "wordCount": 64,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.3978534898454535,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.82,
+            "commentatorTierSimilarities": [
+                44.3,
+                30.48,
+                25.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

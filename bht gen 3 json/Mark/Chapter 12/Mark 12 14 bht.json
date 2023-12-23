@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:27:28",
+    "verseRef": "Mark 12:14",
+    "bestBHT": {
+        "bht": "The Pharisees and Herodians were trying to trap Jesus with a cunning question. They praised His integrity and accused Him, saying He did not care about anyone's opinion and taught God's truth faithfully. They then asked if it was lawful to pay tribute to Caesar. This sharp question aimed to force Jesus into a straightforward answer, but He saw through their flattery and recognized their hidden agenda. He understood they sought to engage Him in a deceptive conversation, hoping to corner Him into making a definitive statement on tribute payment.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.23,
+        "qualityScore": 1.2912699821189224,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.28,
+        "commentatorTierSimilarities": [
+            34.48,
+            0.0,
+            65.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] Must we give, or must we not give? the originality of the report is shewn by these words. They wish to drive our Lord to an absolute affirmation or negation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "we know that thou art true,",
+            "\tand carest for no man; for thou regardest not the person of men, but teachest the way of God in truth\" ",
+            "By such flattery\u2014though they",
+            " \tsaid only the truth\u2014they hoped to throw Him off His guard.",
+            "Is it lawful to give tribute",
+            "\tto C\u00e6sar, or not?"
+        ],
+        "Marvin Vincent": [
+            "Tribute. See on Matthew 22:19. ",
+            "Person [\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bd] . Lit., face. ",
+            "Shall we give, etc. A touch peculiar to Mark."
+        ],
+        "Archibald T. Robertson": [
+            "Shall we give or shall we not give? Mark alone repeats the question in this sharp form.\" ",
+            "The deliberative subjunctive, aorist tense active voice.\" ",
+            "For the discussion of the palaver and flattery of this group of theological students see on Matthew 22:16-22."
+        ],
+        "John Gill": [
+            "We know that thou art true; an honest, sincere, and upright man, and carest for no man, for thou regardest not the person of men; no, not Caesar himself...",
+            "...teachest the way of God in truth; instructest men in the word, will, and worship of God, with all integrity and faithfulness...",
+            "...is it lawful to give tribute to Caesar or not?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees and Herodians approached Jesus, hoping to trap Him with a trick question. They showered Him with flattering words, acknowledging that He was true, unbiased, and taught the way of God with integrity. The question they posed was whether it was lawful to give tribute to Caesar. Mark emphasizes the sharpness of their question. These theological students were attempting to engage Jesus in a palaver and flattery, but Jesus saw through their deceitful motives. He understood that their question was meant to corner Him into giving a definitive answer, either affirming or denying the payment of tribute.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.3344953497697531,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.72,
+            "commentatorTierSimilarities": [
+                41.63,
+                0.0,
+                58.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and Herodians were trying to trap Jesus with a cunning question. They praised His integrity and accused Him, saying He did not care about anyone's opinion and taught God's truth faithfully. They then asked if it was lawful to pay tribute to Caesar. This sharp question aimed to force Jesus into a straightforward answer, but He saw through their flattery and recognized their hidden agenda. He understood they sought to engage Him in a deceptive conversation, hoping to corner Him into making a definitive statement on tribute payment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.2912699821189224,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.28,
+            "commentatorTierSimilarities": [
+                34.48,
+                0.0,
+                65.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees and Herodians sought to trap Jesus by using flattery and posing a question about whether it was lawful to give tribute to Caesar. They acknowledged Jesus' truthfulness and impartiality in teaching the ways of God. Their cunning question aimed to force a definite answer from Him. However, Jesus saw through their deceitful intentions and understood their deceptive motives. He recognized that they were trying to manipulate Him into making a clear statement on tribute payment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.270496521252854,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.59,
+            "commentatorTierSimilarities": [
+                39.62,
+                0.0,
+                60.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and Herodians approached Jesus with a devious question, attempting to trap Him into giving a clear answer about whether it was lawful to give tribute to Caesar. They utilized flattery, acknowledging that Jesus was truthful and impartial in teaching God's ways. Their intention was to corner Him into making a definitive statement. However, Jesus perceived their ulterior motives and saw through their artifice. He understood that their question was a ploy to manipulate Him into revealing His stance on the matter of tribute payment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.1838557120896822,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.71,
+            "commentatorTierSimilarities": [
+                40.03,
+                0.0,
+                59.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees and Herodians used flattery to deceive Jesus, recognizing His truthfulness and impartial teaching of God's ways. They aimed to trap Him with an ambiguous question on whether it was lawful to pay tribute to Caesar. By doing so, they hoped to elicit a definitive response from Him. However, Jesus saw through their deceptive motives and understood their hidden agenda. He recognized their attempt to corner Him into making a clear statement on the issue of tribute payment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.1832259779781833,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.69,
+            "commentatorTierSimilarities": [
+                38.01,
+                0.0,
+                61.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

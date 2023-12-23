@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:28:34",
+    "verseRef": "Mark 14:35",
+    "bestBHT": {
+        "bht": "Jesus, in his moment of distress, fell on the ground and began to pray with repetition, expressing his human dread for the impending hour of suffering. He desired for the hour to pass, hoping there might be a way for him to be saved without enduring the agony. This act of prostration, a posture of deep supplication, emphasized his earnest plea for an alternative path that would still lead to the salvation of his people. The intensity of his prayer reflects the depth of his anguish and the weight of the impending sacrifice he was about to make.",
+        "wordCount": 98,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.3267429375594035,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.46,
+        "commentatorTierSimilarities": [
+            25.48,
+            24.02,
+            50.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Prayed [\u03c0\u03c1\u03bf\u03c3\u03b7\u03c5\u03c7\u03b5\u03c4\u03bf] . Imperfect tense : began to pray."
+        ],
+        "Philip Schaff": [
+            "Mark 14:35. The hour might pass away from him. The \u2018hour\u2019 representing the specific conflict of that hour in the garden. See Matthew 26:46.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Fell on the ground. See him falling.",
+            "Prayed repeatedly or inchoative, began to pray.",
+            "Now he dreads it, surely a human trait that all can understand."
+        ],
+        "John Gill": [
+            "He fell on his face to the ground, which was a praying posture.",
+            "The supplication Christ made in this posture was, that, it were possible, the hour might pass from him.",
+            "That is, that it might pass without his enduring them, if there was any possibility of excusing him, and of his people's being saved without them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:35, Jesus began to pray by falling on the ground in a vulnerable posture, praying repeatedly or initiating the act of prayer. This act shows his human side, as he dreads the challenges that lie ahead. The specific conflict referred to as the hour represents the intense struggle he faces in the garden. Jesus prays that this hour may pass from him, hoping for a way to be saved without enduring the agony.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.2935645997877603,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.35,
+            "commentatorTierSimilarities": [
+                28.52,
+                29.21,
+                42.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in Mark 14:35, displayed his humanity by falling on the ground, a posture of deep prayer. The repetition and inchoative nature of his prayers reveal his inner turmoil. He fervently pleaded for the hour of suffering to pass, longing for a way to be saved without enduring it. This act of vulnerability reminds us that Jesus experienced apprehension like any human would. The specific conflict referred to as the hour represents the intense struggle he faced in the garden.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.220859892212554,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+            "commentatorTierSimilarities": [
+                25.04,
+                30.5,
+                44.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in his moment of distress, fell on the ground and began to pray with repetition, expressing his human dread for the impending hour of suffering. He desired for the hour to pass, hoping there might be a way for him to be saved without enduring the agony. This act of prostration, a posture of deep supplication, emphasized his earnest plea for an alternative path that would still lead to the salvation of his people. The intensity of his prayer reflects the depth of his anguish and the weight of the impending sacrifice he was about to make.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.3267429375594035,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.46,
+            "commentatorTierSimilarities": [
+                25.48,
+                24.02,
+                50.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his moment of distress, Jesus fell on the ground, a vulnerable posture of deep prayer. With repetition and human dread, he pleaded for the hour of suffering to pass, hoping for salvation without enduring the agony. This act of prostration reflected his earnest supplication and the weight of his impending sacrifice. The intensity of his plea emphasized the depth of his anguish, revealing his humanity and the immense challenge he faced in the garden.",
+            "wordCount": 75,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.1653432858519601,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.09,
+            "commentatorTierSimilarities": [
+                26.92,
+                24.1,
+                48.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in his distress, fell on the ground, beginning to pray with repetition and expressing his human dread for the impending hour of suffering. He fervently pleaded for the hour to pass, hoping for an alternate path to salvation without enduring the agony. This vulnerable posture of prostration in prayer demonstrated his deep supplication and the intensity of his anguish. It revealed his human nature and the immense struggle he faced in the garden, highlighting the weight of the sacrifice he was about to make.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.3087138093788249,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.86,
+            "commentatorTierSimilarities": [
+                26.77,
+                25.37,
+                47.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

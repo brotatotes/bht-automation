@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-22-2023 23:21:17",
+    "verseRef": "Mark 1:1",
+    "bestBHT": {
+        "bht": "In the opening words of Mark's Gospel, we find a probable title that sets the stage for what follows. Mark's aim is to provide a comprehensive account of Jesus's life, highlighting the hidden nuances of His character and emotions. This Gospel recognizes Jesus as the Son of God, the Only-begotten of the Father, with the glory attributed to Him. The beginning refers not to the Gospel as a whole, but to the facts within it, starting with the proclamation of John the Baptist. Mark's purpose is to unveil Jesus's ministry, miracles, sufferings, and death.",
+        "wordCount": 100,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 2.153879121838374,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+        "commentatorTierSimilarities": [
+            29.82,
+            35.58,
+            34.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is probably a title to what follows...and not connected with ver. 4, nor with ver. 2.\" ",
+            "It is simpler, and gives more majesty to the opening, to put a period at the end of ver. 1, and make the citation from the prophet a new and confirmatory title.",
+            "Here probably it is the latter: and so will mean, the glad tidings concerning Jesus Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What strikes every one is, that though the briefest of all the Gospels, this is in some of the principal scenes of our Lord's history the fullest.\" ",
+            "But what is not so obvious is, that wherever the finer and subtler feelings of humanity, or the deeper and more peculiar hues of our Lord's character were brought out, these, though they should be lightly passed over by all the other Evangelists, are sure to be found here, and in touches of such quiet delicacy and power.",
+            "These few opening words of the Second Gospel are enough to show, that though it was the purpose of this Evangelist to record chiefly the outward and palpable facts of our Lord's public life, he recognized in Him, in common with the Fourth Evangelist, the glory of the Only-begotten of the Father."
+        ],
+        "Albert Barnes": [
+            "The word 'gospel' here has reference rather to the preaching of John, an account of which immediately follows, and means the beginning of the good news, or annunciation respecting the Messiah.",
+            "It was very customary thus to prefix a title to a book.",
+            "The Son of God... It does not recount the deeds of man - of a hero or a philosopher - but the doctrines and doings of the Son of God. The history, therefore, 'commands' respect."
+        ],
+        "Marvin Vincent": [
+            "Beginning (\u00e1\u0313\u00f1\u00f7\u00e7\u0300)... It is 'the beginning, not of his book, but of the facts of the Gospel.\" ",
+            "He shows from the prophets that the Gospel was to begin by the sending forth of a forerunner."
+        ],
+        "John Calvin": [
+            "For the Law and the Prophets then came to an end... 'The Law and the Prophets were until John: since that time the kingdom of God is preached.'\" ",
+            "The Gospel was not an inferior appendage to the Law, but a new form of instruction, by which the former was set aside.\" ",
+            "The abrogation of the Law, and the beginning of the Gospel, strictly speaking, took place when John began to preach."
+        ],
+        "Philip Schaff": [
+            "The beginning of the gospel. This is regarded by some as the title of the whole book: here begins the Gospel.\" ",
+            "The Son of God. Matthew (Matthew 1:1), writing for the Jews, says: 'the Son of David, the Son of Abraham;' but Mark, writing for Gentile Christians, adds the title.",
+            "The beginning, etc., as it is written. Others again, with Mark 1:4: The beginning of the gospel (was this), John did baptize, etc."
+        ],
+        "Archibald T. Robertson": [
+            "The beginning (\u03b1\u03c1\u03c7\u03b7). There is no article in the Greek.",
+            "And then the Gospel of Jesus Christ means the Message about Jesus Christ (objective genitive).",
+            "If Mark wrote the words, there is no reason to doubt the genuineness since he uses the phrase elsewhere."
+        ],
+        "John Gill": [
+            "The Gospel began with the ministry of John the Baptist, and of Christ; which was a Gospel one, and was the beginning of the Gospel dispensation, in distinction from the legal one.",
+            "The design of this evangelist, is not to give an account of the genealogy of Christ, of his conception and birth, of what befell him in his infancy, or of any actions and sayings of his from thence, to his appearance in Israel; but to give an account of his ministry and miracles, sufferings and death.",
+            "Mark begins his account of the Gospel, and which he calls the beginning of it, with the same article of the divine sonship of Christ, as the Apostle Paul began his ministry with."
+        ],
+        "John Wesley": [
+            "The beginning of the Gospel is in the account of John the Baptist.\" ",
+            "The Gospel itself in the rest of the book.",
+            "The evangelist speaks with strict propriety."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This Gospel of Mark begins with a title, which is likely separate from the verses that follow. In these opening words, we can already see the intentions of the author. While Mark's account of Jesus's life may be the shortest of all the Gospels, it is also the fullest in terms of the finer and subtler aspects of our Lord's character. Mark focuses not only on the outward facts but also on the deeper emotions and distinctive qualities of Jesus's nature. Mark recognizes the glory of Jesus as the Son of God, the Only-begotten of the Father. The phrase the beginning refers to the start of the facts within the Gospel, and Mark points to the biblical prophecy of a forerunner, John the Baptist, who heralds the beginning of the Gospel. This Gospel emphasizes the transition from the Law and the Prophets to the preaching of the kingdom of God through Jesus. In Mark's writing, he aims to provide an account of Jesus's ministry, miracles, sufferings, and death.",
+            "wordCount": 175,
+            "quoteTokenProportion": 35.05,
+            "qualityScore": 2.1420693458144906,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.56,
+            "commentatorTierSimilarities": [
+                29.81,
+                35.65,
+                34.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the opening of this Gospel, Mark presents a title that stands separate from the following verses. While Mark's account may be the shortest, it is the fullest in terms of unveiling the nuanced and profound aspects of Jesus's character. Mark acknowledges the glory of Jesus as the Son of God, the Only-begotten of the Father. The phrase the beginning points to the commencement of the Gospel's facts and the biblical prophecy of John the Baptist as the forerunner. This Gospel emphasizes the transition from the Law and the Prophets to the preaching of the kingdom of God through Jesus.",
+            "wordCount": 104,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.2545953134829357,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                28.5,
+                36.57,
+                34.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the opening words of Mark's Gospel, we find a probable title that sets the stage for what follows. Mark's aim is to provide a comprehensive account of Jesus's life, highlighting the hidden nuances of His character and emotions. This Gospel recognizes Jesus as the Son of God, the Only-begotten of the Father, with the glory attributed to Him. The beginning refers not to the Gospel as a whole, but to the facts within it, starting with the proclamation of John the Baptist. Mark's purpose is to unveil Jesus's ministry, miracles, sufferings, and death.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.153879121838374,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+            "commentatorTierSimilarities": [
+                29.82,
+                35.58,
+                34.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the opening of Mark's Gospel, there is a likely title that introduces what follows. Mark's account may be the shortest, but it is the most detailed in capturing the subtleties of Jesus's character. He recognizes Jesus as the Son of God, the Only-begotten of the Father, and highlights His glory. The beginning refers specifically to the facts of the Gospel, starting with the ministry of John the Baptist. Mark's focus is on portraying Jesus's ministry, miracles, sufferings, and death in a precise and authentic manner.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.1270136623125095,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.06,
+            "commentatorTierSimilarities": [
+                30.17,
+                35.24,
+                34.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The opening words of Mark's Gospel likely serve as a separate title. Although Mark's account is the shortest, it richly portrays the deeper aspects of Jesus's character. Mark acknowledges Jesus as the Son of God, the Only-begotten of the Father, revealing His glory. The beginning refers specifically to the factual events within the Gospel, commencing with the ministry of John the Baptist. Mark's main purpose is to present a detailed account of Jesus's ministry, miracles, sufferings, and death, with a focus on authenticity and precision.",
+            "wordCount": 91,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 2.118518771826367,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.78,
+            "commentatorTierSimilarities": [
+                29.36,
+                35.64,
+                34.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

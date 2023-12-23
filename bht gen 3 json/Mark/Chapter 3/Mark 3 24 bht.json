@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:20:50",
+    "verseRef": "Mark 3:24",
+    "bestBHT": {
+        "bht": "The conjunction and plays a crucial role in connecting the sayings and enhancing the powerful progression of thoughts. It highlights the significance of a kingdom that is divided against itself, emphasizing its inability to stand. This principle is applicable to various realms, including earthly kingdoms and the kingdom of Satan. The presence of internal conflicts and divisions within a kingdom ultimately brings about its downfall and devastation, emphasizing the importance of unity and harmony.",
+        "wordCount": 74,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 1.2002335454039346,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.25,
+        "commentatorTierSimilarities": [
+            38.68,
+            0.0,
+            61.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "And. Note the way in which the sayings are linked by this conjunction; an impressive rhetorical progression."
+        ],
+        "John Gill": [
+            "And if a kingdom be divided against itself.... that kingdom cannot stand.\" ",
+            "Any of the kingdoms of this world, and the kingdom of Satan.",
+            "Its internal broils and divisions will, soon bring it to desolation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in Mark 3:24 uses the conjunction and to link the sayings, creating an impactful rhetorical progression. It talks about a kingdom that is divided against itself, emphasizing the inability of such a kingdom to stand. This concept is applicable to various kingdoms, including earthly ones as well as the kingdom of Satan. Ultimately, any kingdom that experiences internal discord and divisions is destined for desolation.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5105931820490028,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.57,
+            "commentatorTierSimilarities": [
+                41.15,
+                0.0,
+                58.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The conjunction and serves as a rhetorical link in this passage. It highlights the significance of the connected sayings, demonstrating a progression of ideas. The verse speaks of a divided kingdom, emphasizing its inability to stand. This concept is applicable to various realms, including earthly kingdoms and even the kingdom of Satan. The internal conflicts and divisions within a kingdom will inevitably lead to its downfall and ruin, highlighting the importance of unity.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.5305744284263394,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                53.74,
+                0.0,
+                46.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The conjunction and plays a crucial role in connecting the sayings and enhancing the powerful progression of thoughts. It highlights the significance of a kingdom that is divided against itself, emphasizing its inability to stand. This principle is applicable to various realms, including earthly kingdoms and the kingdom of Satan. The presence of internal conflicts and divisions within a kingdom ultimately brings about its downfall and devastation, emphasizing the importance of unity and harmony.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.2002335454039346,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.25,
+            "commentatorTierSimilarities": [
+                38.68,
+                0.0,
+                61.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The conjunction and in this passage serves to link the sayings in a way that creates a compelling rhetorical progression. It emphasizes the significance of a kingdom that is divided against itself, stating that such a kingdom cannot stand. This concept is not limited to earthly kingdoms, but also applies to the kingdom of Satan. The internal conflicts and divisions within a kingdom inevitably lead to its destruction and ruin, underscoring the critical importance of unity within any realm.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.46178136686552,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                41.94,
+                0.0,
+                58.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The conjunction and functions to link the sayings, creating a powerful and rhetorical progression. The verse focuses on the concept of a divided kingdom, emphasizing the inability of such a kingdom to stand. This principle extends beyond earthly realms to include the kingdom of Satan. Divisions and conflicts within a kingdom ultimately result in its downfall and destruction. Hence, unity is of utmost importance to ensure the stability and strength of any kingdom.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.240111846729073,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.58,
+            "commentatorTierSimilarities": [
+                40.72,
+                0.0,
+                59.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

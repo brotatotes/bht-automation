@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:23:57",
+    "verseRef": "Mark 7:10",
+    "bestBHT": {
+        "bht": "The commandment given by Moses, or as Matthew says, for God commanded, stresses the importance of honoring one's parents. This involves not just showing respect in words and actions, but also providing for them in times of need and distress. Neglecting or disrespecting parents in their vulnerable state goes against these commandments. The Jews, however, prioritized tradition over the true essence of these laws. These commands are in line with Exodus 20:12 and Exodus 21:17.",
+        "wordCount": 74,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.2622708064894892,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.31,
+        "commentatorTierSimilarities": [
+            28.74,
+            21.95,
+            49.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] For Moses said = \u201cfor God commanded\u201d Matthew."
+        ],
+        "Marvin Vincent": [
+            "If any man serve me, my Father shall worship him.",
+            "A prophet is not without worship but in his own country.",
+            "Die the death [\u03b8\u03b1\u03bd\u03b1\u03c4\u03c9 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03c4\u03c9] . Lit., come to an end by death."
+        ],
+        "Philip Schaff": [
+            "Mark 7:10. For Moses said. Matthew: \u2018For God commanded.\u2019",
+            "\t"
+        ],
+        "John Gill": [
+            "The former of these commands is to be understood, not only of honouring parents in thought, word, and deed, but also of providing for them, when in want and distress, through poverty and old age.",
+            "The latter is to be interpreted, not merely of wishing or imprecating the most dreadful things upon parents, but likewise of every slight put upon them, and neglect of them, when in necessitous circumstances.",
+            "Both these laws were broken by the Jews, through their tradition."
+        ],
+        "John Wesley": [
+            "Exodus 20:12; Exodus 21:17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 7:10, the commandment given by Moses, or as Matthew states, for God commanded, is referenced. This commandment emphasizes the importance of honoring one's parents, not just in words and actions, but also in providing for them in times of need and distress. It also warns against any form of disrespect or neglect towards parents in their vulnerable state. The breaking of these laws by the Jews can be attributed to their adherence to tradition rather than truly embracing the essence of these commands. This commandment is in line with Exodus 20:12 and Exodus 21:17.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.2919868535212382,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.3,
+            "commentatorTierSimilarities": [
+                28.35,
+                24.69,
+                46.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For Moses said, or as Matthew states, for God commanded, the importance of honoring one's parents is emphasized. This entails not only showing respect through words and actions but also providing for them in times of need and distress. Neglecting or disrespecting parents in their vulnerable state goes against these commandments. The Jews, however, erred by prioritizing tradition over the true essence of these laws. These commands align with the teachings in Exodus 20:12 and Exodus 21:17.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.2617312864604981,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.3,
+            "commentatorTierSimilarities": [
+                28.93,
+                23.82,
+                47.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The importance of honoring one's parents is highlighted in the commandment given by Moses, or as Matthew phrases it, for God commanded. This not only includes showing respect in words and actions but also extends to providing for them in times of need and distress. Neglecting or disrespecting parents in their vulnerable state is a direct violation of these commandments. The Jews, unfortunately, prioritized tradition over the essence of these laws. These commands can be found in Exodus 20:12 and Exodus 21:17.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.220579658549995,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.93,
+            "commentatorTierSimilarities": [
+                28.23,
+                21.37,
+                50.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The commandment given by Moses, or for God commanded as Matthew phrases it, emphasizes the importance of honoring one's parents. This means not only showing respect through words and actions but also providing for them in times of need and distress. Neglecting or disrespecting parents in their vulnerable state is clearly against these commandments. Unfortunately, the Jews failed to uphold these laws due to their adherence to tradition rather than embracing the true essence of the commands. These teachings can be found in Exodus 20:12 and Exodus 21:17.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.216622790310479,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.8,
+            "commentatorTierSimilarities": [
+                26.65,
+                22.94,
+                50.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The commandment given by Moses, or as Matthew says, for God commanded, stresses the importance of honoring one's parents. This involves not just showing respect in words and actions, but also providing for them in times of need and distress. Neglecting or disrespecting parents in their vulnerable state goes against these commandments. The Jews, however, prioritized tradition over the true essence of these laws. These commands are in line with Exodus 20:12 and Exodus 21:17.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.2622708064894892,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.31,
+            "commentatorTierSimilarities": [
+                28.74,
+                21.95,
+                49.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

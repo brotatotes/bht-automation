@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:19:55",
+    "verseRef": "Mark 1:5",
+    "bestBHT": {
+        "bht": "A steady stream of people kept coming to the baptism, a wonderful sight as they gathered by the river Jordan, confessing their sins. The Jerusalemites, the inhabitants of Jerusalem, were prominent among the people of Judea who came to be baptized. This preparatory ministry focused on repentance and led many, including some Pharisees and Sadducees, to immerse in the river Jordan after confessing their sins.",
+        "wordCount": 65,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.6811517096837654,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.24,
+        "commentatorTierSimilarities": [
+            16.08,
+            33.18,
+            50.74
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "There went out (\u03b5\u0313\u03be\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u0301\u03b5\u03c4\u03bf)",
+            "The river",
+            "See on Mat 3:6."
+        ],
+        "Philip Schaff": [
+            "And all they of Jerusalem, lit., \u2018the Jerusalemites.\u2019 This expression is peculiar to Mark.\" ",
+            "These are made prominent among the inhabitants of Judea, since they lived in the capital city.",
+            "Confessing their sins; since 'repentance' was the main theme of this preparatory ministry."
+        ],
+        "Archibald T. Robertson": [
+            "A steady stream of people who kept coming to the baptism.",
+            "A wonderful sight.",
+            "In the Jordan river, literally."
+        ],
+        "John Gill": [
+            "And there went out unto him all the land of Judea... and they of Jerusalem... and were all baptized of him in the river Jordan, confessing their sins.",
+            "as many of them as were brought to a sight and sense of their sins, and made a confession of them, these he baptized, or immersed, in the river Jordan...",
+            "for certain it is, that there were many of the Pharisees and Sadducees who came, whom he rejected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A steady stream of people kept coming to the baptism, a wonderful sight as they gathered in the Jordan river, confessing their sins. The inhabitants of Jerusalem were particularly mentioned, emphasizing their prominence as the capital city. This preparatory ministry focused on repentance, which led many in Judea, including some Pharisees and Sadducees, to be baptized in the river Jordan after confessing their sins.",
+            "wordCount": 64,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.6005729314822839,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                14.45,
+                37.21,
+                48.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A steady stream of people kept coming to the baptism, a wonderful sight as they gathered in the Jordan river, confessing their sins. The inhabitants of Jerusalem, referred to as the Jerusalemites, were prominent among the people of Judea who came to be baptized. This preparatory ministry focused on repentance and led many, including some Pharisees and Sadducees, to immerse in the river Jordan after confessing their sins.",
+            "wordCount": 68,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6683102839030433,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                16.16,
+                33.46,
+                50.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A steady stream of people who kept coming to the baptism was a wonderful sight in the Jordan river. People from all the land of Judea and those of Jerusalem gathered, confessing their sins. In particular, the inhabitants of Jerusalem, known as the Jerusalemites, were prominent as they came to be baptized. This preparatory ministry emphasized repentance and led many, including some Pharisees and Sadducees, to be baptized in the river Jordan after confessing their sins.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6277747755705405,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "commentatorTierSimilarities": [
+                14.43,
+                34.13,
+                51.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A steady stream of people kept coming to the baptism, a wonderful sight as they gathered by the river Jordan, confessing their sins. The Jerusalemites, the inhabitants of Jerusalem, were prominent among the people of Judea who came to be baptized. This preparatory ministry focused on repentance and led many, including some Pharisees and Sadducees, to immerse in the river Jordan after confessing their sins.",
+            "wordCount": 65,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.6811517096837654,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.24,
+            "commentatorTierSimilarities": [
+                16.08,
+                33.18,
+                50.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A steady stream of people who kept coming to the baptism was a wonderful sight in the Jordan river. People from all the land of Judea and those of Jerusalem gathered, confessing their sins. In particular, the inhabitants of Jerusalem, known as the Jerusalemites, were prominent as they came to be baptized. This preparatory ministry emphasized repentance and led many, including some Pharisees and Sadducees, to be baptized in the river Jordan after confessing their sins.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6277747755705405,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "commentatorTierSimilarities": [
+                14.43,
+                34.13,
+                51.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

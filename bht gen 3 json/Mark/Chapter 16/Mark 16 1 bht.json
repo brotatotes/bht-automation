@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:30:23",
+    "verseRef": "Mark 16:1",
+    "bestBHT": {
+        "bht": "When the Sabbath ended, the women had bought spices to anoint Jesus' body, as it had not been done yet. Their intention was to reverentially anoint Jesus' body with fresh supplies of spices. The women observed the holy rest and left during the night to reach the sepulcher at daybreak. Anointing the dead with spices was a customary practice among the Jews, handed down by the Fathers, to confirm their faith in the resurrection. It was an act of affection for Christ, even though they seemed to doubt His resurrection.",
+        "wordCount": 90,
+        "quoteTokenProportion": 46.03,
+        "qualityScore": 1.91860576735171,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+        "commentatorTierSimilarities": [
+            33.28,
+            28.65,
+            38.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It was strictly when the Sabbath was ended, i.e. at sunset, that they bought the spices.\" ",
+            "St. Luke xxiii. 55, places [the buying of spices] on the evening before the Sabbath; a slight but valuable discrepancy, as shewing the independence of the accounts.",
+            "This had not been done as yet. Nicodemus (John xix. 40) had only wrapped the Body hurriedly in the spices with the linen clothes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And when the sabbath was past\u2014that is, at sunset of our Saturday.\" ",
+            "The word is simply 'bought.' But our translators are perhaps right in rendering it here 'had bought.'",
+            "They had only deferred using them to anoint the body till the sabbath rest should be over."
+        ],
+        "John Calvin": [
+            "The women, after having observed the holy rest, left home during the darkness of the night, that they might reach the sepulcher about the break of day.",
+            "The custom of anointing the dead, though it was common among many heathen nations, was applied to a lawful use by the Jews alone, to whom it had been handed down by the Fathers, to confirm them in the faith of the resurrection.",
+            "For himself, he needed not those aids, but they were owing to the ignorance of the women, who were not yet fully aware that he was free from corruption."
+        ],
+        "Philip Schaff": [
+            "When the Sabbath was past. After sunset on Saturday.",
+            "The resting on the Sabbath is expressly affirmed by Luke.",
+            "Nicodemus (John 19:39-40) had done this in a necessarily hasty manner."
+        ],
+        "Archibald T. Robertson": [
+            "The sabbath having come in between, and now over.",
+            "It was to be a reverential anointing of the body of Jesus with spices.",
+            "Now they secured a fresh supply."
+        ],
+        "John Gill": [
+            "For this there was a particular market at Jerusalem, for we are told, that 'there were there three markets, one by another; in the first of which were sold, all kinds of precious things, silks, and embroidered work; in the second, various kinds of fruits and herbs; and in the third, all kinds of spices.\" ",
+            "Hence we read of 'the spices of the dead,' which were used to expel an ungrateful savour: this they did, out of affection to Christ, but seemed to have no faith in his resurrection, though he had told them of it, which they had forgot.",
+            "Though it seems most likely, that they came to anoint his body; for this was one of the things which was customary in Israel to do to dead men, as Maimonides observes, 'they anoint him with various sorts of spices'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Sabbath came to an end, the women bought spices in preparation to anoint Jesus' body. Luke places the buying of the spices on the evening before the Sabbath, highlighting the independent accounts of this event. Nicodemus had previously wrapped Jesus' body hastily with spices and linen clothes, but the women had deferred using their spices until the Sabbath rest was over. Their intention was to reverentially anoint Jesus' body with fresh supplies of spices. It was customary among the Jews to anoint the dead with spices as an act of faith in the resurrection. The women, after observing the holy rest, left during the darkness of the night and headed towards the sepulcher.",
+            "wordCount": 115,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.103047594129678,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+            "commentatorTierSimilarities": [
+                36.0,
+                30.36,
+                33.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Sabbath ended, the women bought spices to anoint Jesus' body, as it had not been done properly before. Their intention was to reverentially anoint Jesus' body. The women, after observing the holy rest, left home during the darkness of the night to reach the sepulcher at daybreak. Anointing the dead with spices was a customary act among the Jews to confirm their faith in the resurrection. It was a sign of affection for Christ, although they seemed to lack faith in His resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.8939490365878506,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                32.55,
+                29.64,
+                37.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Sabbath ended, the women had bought spices to anoint Jesus' body, as it had not been done yet. Their intention was to reverentially anoint Jesus' body with fresh supplies of spices. The women observed the holy rest and left during the night to reach the sepulcher at daybreak. Anointing the dead with spices was a customary practice among the Jews, handed down by the Fathers, to confirm their faith in the resurrection. It was an act of affection for Christ, even though they seemed to doubt His resurrection.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.91860576735171,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                33.28,
+                28.65,
+                38.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the Sabbath was over, the women bought spices to anoint Jesus' body. Their purpose was to reverentially anoint His body with fresh supplies, as it had only been hastily wrapped by Nicodemus. The women left during the night, having observed the holy rest, to arrive at the sepulcher at daybreak. Anointing the dead with spices was a customary practice among the Jews as a sign of faith in the resurrection. Their action demonstrated affection for Christ, although they seemed to lack belief in His predicted resurrection.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8953339692719329,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+            "commentatorTierSimilarities": [
+                32.58,
+                30.49,
+                36.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the Sabbath ended, the women had bought spices to anoint Jesus' body, which had not been done yet. Their intention was a reverential anointing, an act commonly practiced among the Jews to confirm their faith in the resurrection. Observing the holy rest, the women left during the night to reach the sepulcher at daybreak. However, although an act of affection for Christ, their action seemed to indicate a lack of faith in His resurrection, despite Him foretelling it to them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7995937201397276,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                31.11,
+                30.47,
+                38.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:28:22",
+    "verseRef": "Mark 14:39",
+    "bestBHT": {
+        "bht": "In this instance, we witness Christ offering a prayer that resembles his previous supplication, as described in Matthew's narrative. While the exact words may differ, the essence and substance of the prayer remain consistent. By comparing it to Matthew 26:39, we perceive that Christ's petition, though not expressed in the same manner, carries the same significance and heartfelt intention. This repetition serves to underscore the depth of Christ's agony and the immense sacrifice he was about to make.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.5761077993459103,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+        "commentatorTierSimilarities": [
+            55.66,
+            0.0,
+            44.34
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "39.] the same words, not verbatim, but in substance: see in Matthew."
+        ],
+        "John Gill": [
+            "Christ prayed to the same effect, for matter and substance the same as before...",
+            "...though not in the same express words...",
+            "...as is clear from Matthew 26:39."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see a parallel to Christ's previous prayer, as noted in Matthew's account. Although the exact words may differ, the substance of the prayer remains the same. As we can see from Matthew 26:39, Christ's prayer is expressed differently but carries the same profound meaning. This repetition underscores the significance and intention behind His words, emphasizing the depth of His anguish and the weight of His sacrifice.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 1.8637357690652807,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                57.13,
+                0.0,
+                42.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this instance, Christ's prayer reflects a striking similarity to his previous supplication, as noted in Matthew's narrative. While the specific phrasing may differ, the essence of the prayer remains consistent. The interchangeability of the expressions employed by Christ underscores the genuine depth of his distress, underscoring the magnitude of his selfless sacrifice. By examining Matthew 26:39, we further comprehend that despite the variance in wording, the substantive message and intent of Christ's supplications persist.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.346310894296063,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.11,
+            "commentatorTierSimilarities": [
+                55.71,
+                0.0,
+                44.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this instance, the prayer of Christ echoes his previous entreaty, as found in Matthew's account. Though the precise words used may differ, the core essence of the prayer remains unchanged. The repetition of these heartfelt expressions underscores the profound intensity of Christ's anguish and emphasizes the weighty significance of his sacrificial act. This parallel to Matthew 26:39 reveals that while the phrasing may vary, the fundamental message and purpose of Christ's prayer endure.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.4336069147412647,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.01,
+            "commentatorTierSimilarities": [
+                55.43,
+                0.0,
+                44.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this instance, we witness Christ offering a prayer that resembles his previous supplication, as described in Matthew's narrative. While the exact words may differ, the essence and substance of the prayer remain consistent. By comparing it to Matthew 26:39, we perceive that Christ's petition, though not expressed in the same manner, carries the same significance and heartfelt intention. This repetition serves to underscore the depth of Christ's agony and the immense sacrifice he was about to make.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5761077993459103,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "commentatorTierSimilarities": [
+                55.66,
+                0.0,
+                44.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this instance, we notice the remarkable similarity between Christ's prayer and his previous entreaty, as recorded in Matthew's account. Although the specific wording may not be identical, the essence of the prayer remains consistent. By examining Matthew 26:39, we can ascertain that Christ's prayer, while not expressed with the exact words, carries the same powerful meaning and purpose. This repetition emphasizes the profound depth of Christ's distress, underscoring the tremendous weight of his selfless sacrifice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.548324268404999,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.82,
+            "commentatorTierSimilarities": [
+                56.05,
+                0.0,
+                43.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

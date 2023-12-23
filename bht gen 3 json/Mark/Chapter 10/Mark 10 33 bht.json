@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:26:05",
+    "verseRef": "Mark 10:33",
+    "bestBHT": {
+        "bht": "The fulfillment of the prophets' words can be seen in the circumstances surrounding this event. The collaboration of Jews and Gentiles in delivering and condemning the Son of Man is highlighted, as they play a role in crucifying the Lord of Glory. The chief priests and Scribes are responsible for condemning Jesus to death and handing Him over to the Gentiles. Through this process, all that was prophesied about the Son of Man is brought to fruition.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.640423881591223,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+        "commentatorTierSimilarities": [
+            52.82,
+            0.0,
+            47.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "33.] The circumstances of the passion are brought out in all three Evangelists with great particularity. The \u2018delivery to the Gentiles\u2019 is common to them all."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All things that are written by the prophets concerning the Son of man shall be accomplished\" (Luke 18:31).",
+            "This is the first express statement that the Gentiles would combine with the Jews in His death.",
+            "The two grand divisions of the human race for whom He died thus taking part in crucifying the Lord of Glory."
+        ],
+        "John Gill": [
+            "And the son of man... shall be delivered unto the chief priests, and unto the Scribes.",
+            "And they shall condemn him to death... nemine contradicente.",
+            "And shall deliver him to the Gentiles... because they were desirous he should die the death of the cross."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The circumstances of the passion and the involvement of both the Gentiles and Jews in Jesus' death are highlighted in this verse. This is the first explicit mention of the Gentiles participating in crucifying the Lord of Glory. The prophets foretold that all things concerning the Son of Man would be fulfilled, including His delivery to the Gentiles. The chief priests and Scribes would condemn Him to death and deliver Him to the Gentiles, as they desired Him to die a crucifixion death. Through these events, all that was written about the Son of Man would be accomplished.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8974675160143166,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                53.43,
+                0.0,
+                46.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The circumstances of the passion, as foretold by the prophets, are brought to light in this passage. It is significant that the Gentiles, along with the Jews, would be involved in delivering and condemning the Son of Man. This collaboration in crucifying the Lord of Glory marks a pivotal moment. The chief priests and Scribes play a role in condemning Jesus to death and handing Him over to the Gentiles who desired Him to suffer crucifixion. Thus, all that was prophesied about the Son of Man would come to pass.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6305818413658495,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                52.18,
+                0.0,
+                47.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The circumstances surrounding the passion reveal the fulfillment of the prophets' words. This verse highlights the significant involvement of both Jews and Gentiles in the delivery and condemnation of the Son of Man. Notably, this verse emphasizes the collaboration of these two groups in crucifying the Lord of Glory. The chief priests and Scribes play a crucial role in condemning Jesus to death and handing Him over to the Gentiles. Thus, all that was prophesied about the Son of Man would come to fruition.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.5967912280360013,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.44,
+            "commentatorTierSimilarities": [
+                54.48,
+                0.0,
+                45.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fulfillment of the prophets' words is revealed through the circumstances surrounding the passion. It is noteworthy that both Jews and Gentiles are involved in delivering and condemning the Son of Man. The collaboration between these two groups in crucifying the Lord of Glory is emphasized. The chief priests and Scribes have a significant role in condemning Jesus to death and handing Him over to the Gentiles. Thus, all that was prophesied about the Son of Man would be accomplished according to this passage.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.629230456761651,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.51,
+            "commentatorTierSimilarities": [
+                53.06,
+                0.0,
+                46.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fulfillment of the prophets' words can be seen in the circumstances surrounding this event. The collaboration of Jews and Gentiles in delivering and condemning the Son of Man is highlighted, as they play a role in crucifying the Lord of Glory. The chief priests and Scribes are responsible for condemning Jesus to death and handing Him over to the Gentiles. Through this process, all that was prophesied about the Son of Man is brought to fruition.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.640423881591223,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+            "commentatorTierSimilarities": [
+                52.82,
+                0.0,
+                47.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

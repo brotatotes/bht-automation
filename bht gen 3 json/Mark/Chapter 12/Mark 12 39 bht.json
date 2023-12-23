@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:27:27",
+    "verseRef": "Mark 12:39",
+    "bestBHT": {
+        "bht": "Jesus criticizes the religious leaders for their love of distinction and desire for precedence. The chief seats in the synagogues were reserved for the rulers and elders, yet the hypocrites sought them out to display their status. Similarly, at feasts, they aimed for the uppermost rooms, or the chief places of honor. This love of recognition and desire for prominence extended even to the disciples, as they too fell victim to this inclination. Jesus warns against seeking personal recognition and elevating oneself above others.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.4597079775727666,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+        "commentatorTierSimilarities": [
+            39.13,
+            0.0,
+            60.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "39. And the chief seats in the",
+            "\tsynagogues, and the uppermost rooms\u2014or positions. ",
+            "\t",
+            "at feasts\u2014On this love",
+            "\tof distinction, see on :-; :-."
+        ],
+        "Marvin Vincent": [
+            "Uppermost rooms [\u03c0\u03c1\u03c9\u03c4\u03bf\u03ba\u03bb\u03b9\u03c3\u03b9\u03b1\u03c2] . More correctly, the chief couches. So Rev., chief places."
+        ],
+        "Archibald T. Robertson": [
+            "First seats in the synagogues... the hypocrites present in church prefer the rear seats.",
+            "Recognizing proper rank and station.",
+            "Even the disciples fall victims to this desire for precedence at table."
+        ],
+        "John Gill": [
+            "And the chief seats in the synagogues... Where the rulers of the synagogue, and the elders of the people sat.",
+            "And the uppermost rooms at feasts... or the first and chief places where they sat, or rather lay along at public entertainment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 12:39, Jesus criticizes the religious leaders for their love of distinction and desire for precedence. The chief seats in the synagogues were reserved for the rulers and elders, yet the hypocrites sought them out to display their status. Similarly, at feasts, they aimed for the uppermost rooms, or the chief places of honor. This love of recognition and desire for prominence extended even to the disciples, as they too fell victim to this inclination. Jesus highlights the importance of recognizing proper rank and station, while cautioning against seeking personal recognition and elevating oneself above others.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5326368590080306,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                38.88,
+                0.0,
+                61.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus confronts the religious leaders' desire for prominence and recognition. He admonishes them for seeking the chief seats in the synagogues and the uppermost rooms at feasts. The hypocrites prioritize their own status, even at the expense of others, displaying a love of distinction. This desire for precedence is not limited to the religious leaders, as even the disciples fall victim to it. Jesus warns against the pursuit of personal recognition, urging humility instead.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.3056056993775103,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.75,
+            "commentatorTierSimilarities": [
+                43.91,
+                0.0,
+                56.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus criticizes the religious leaders for their love of distinction and desire for precedence. The chief seats in the synagogues were reserved for the rulers and elders, yet the hypocrites sought them out to display their status. Similarly, at feasts, they aimed for the uppermost rooms, or the chief places of honor. This love of recognition and desire for prominence extended even to the disciples, as they too fell victim to this inclination. Jesus warns against seeking personal recognition and elevating oneself above others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.4597079775727666,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "commentatorTierSimilarities": [
+                39.13,
+                0.0,
+                60.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus confronts the religious leaders' desire for prominence. They sought the chief seats in the synagogues and the uppermost rooms at feasts, displaying a love of distinction. Even the disciples were not immune to this inclination. Jesus warns against seeking personal recognition and elevating oneself above others, emphasizing the importance of humility.",
+            "wordCount": 52,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3277100410343332,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "commentatorTierSimilarities": [
+                40.45,
+                0.0,
+                59.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus rebukes the religious hypocrites for their love of distinction and desire for prominence. They prioritize the chief seats in the synagogues and the uppermost rooms at feasts, seeking personal recognition and status. Their craving for precedence is not limited to the religious leaders, but even the disciples succumb to it. Jesus cautions against this pursuit, urging humility instead.",
+            "wordCount": 59,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.3026843082717112,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
+            "commentatorTierSimilarities": [
+                40.14,
+                0.0,
+                59.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

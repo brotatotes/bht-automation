@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:27:06",
+    "verseRef": "Mark 11:18",
+    "bestBHT": {
+        "bht": "In the temple, Jesus' teachings leave the people astonished, regarding him as a heroic figure and the long-awaited Messiah. Both the Sadducees and Pharisees are united in their resentment, conspiring against Jesus and seeking to kill him. The fear of reformation and the potential impact on their reputation and gains drives their motive. Despite their hatred, they fear taking him by force due to the people's admiration for his authoritative teachings and the possibility of causing a tumult.",
+        "wordCount": 80,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.3823418314967297,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.31,
+        "commentatorTierSimilarities": [
+            38.36,
+            15.46,
+            46.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All the people was astonished at his doctrine...\" ",
+            "This remark, given by St. Mark and St. Luke, is omitted by St. Matthew\" ",
+            "Probably because he has given us so much of the doctrine itself."
+        ],
+        "Philip Schaff": [
+            "The determination to kill Him had been formed before (see John 11:53). \u2018How,\u2019 was now the question.",
+            "The answer was the treachery of Judas, who probably meditated this step already.",
+            "First treated with them on the next (Tuesday) evening."
+        ],
+        "Archibald T. Robertson": [
+            "Here both Sadducees (chief priests) and Pharisees (scribes) combine in their resentment against the claims of Jesus and in the determination to kill him.",
+            "And now right in the temple itself 'all the multitude was astonished at his teaching'. The people looked on Jesus as a hero, as the Messiah.",
+            "This verse aptly describes the crisis that has now come between Christ and the Sanhedrin."
+        ],
+        "John Gill": [
+            "They took counsel together to take away his life, for they hated reformation.",
+            "Lest he should go on to make great changes and alterations among them, which would affect their credit and character, and their gains also, and draw the people after him.",
+            "Both as to the matter of it, which were such words as never man spake; and, as to the manner of it, being with such majesty, power, and authority, as the Scribes and Pharisees taught not with; and also at the miracles, by which it was confirmed."
+        ],
+        "John Wesley": [
+            "They feared him [...] because all the people was astonished at his teaching.\" ",
+            "They were afraid to take him by violence, lest it should raise a tumult.\" ",
+            "The people was astonished at his teaching - Both at the excellence of his discourse, and at the majesty and authority with which he taught."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the people are astonished at Jesus' teaching in the temple, perceiving him as a hero and the Messiah. The combined resentment of the Sadducees and Pharisees against Jesus, leading to their determination to kill him, is described as a crisis between Christ and the Sanhedrin. The treachery of Judas is hinted at as a factor in this plot. The hatred of reformation and the fear of Jesus making changes and drawing people away from them contribute to their counsel to take his life. Despite their fears, they were afraid to take him by violence, knowing it could provoke a tumult due to the people's astonishment at his teaching.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.464860806212953,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.05,
+            "commentatorTierSimilarities": [
+                38.72,
+                22.66,
+                38.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the temple, Jesus' teaching astonishes the multitude, who view him as a heroic Messiah. The combined resentment of the Sadducees and Pharisees leads them to plot his death, causing a crisis between Jesus and the Sanhedrin. The treachery of Judas potentially plays a role in this malicious plan. Their fear of change and the potential loss of their authority and gains drives their desire to eliminate Jesus. They hesitate to use violence due to the people's admiration for Jesus' teaching, fearing it would incite chaos.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.3023447335870584,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.65,
+            "commentatorTierSimilarities": [
+                39.69,
+                21.04,
+                39.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the temple, Jesus' teaching astonishes the multitude, who view him as a heroic Messiah. The combined resentment of the Sadducees and Pharisees leads them to plot his death, causing a crisis between Jesus and the Sanhedrin. The treachery of Judas potentially plays a role in this malicious plan. Their fear of change and the potential loss of their authority and gains drives their desire to eliminate Jesus. They hesitate to use violence due to the people's admiration for Jesus' teaching, fearing it would incite chaos.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.3023447335870584,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.65,
+            "commentatorTierSimilarities": [
+                39.69,
+                21.04,
+                39.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the temple, Jesus' teaching astonishes the people, who regard him as a heroic Messiah. The combined animosity of the Sadducees and Pharisees fuels their determination to kill him and creates a crisis between Jesus and the Sanhedrin. Judas' impending betrayal likely factors into their treacherous plan. Their fear of Jesus initiating changes and eroding their credibility and gains motivates their intent to extinguish his life. Yet they hesitate to use violence due to the masses' admiration for Jesus' teachings, dreading a potential uprising.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.3287976455152344,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.53,
+            "commentatorTierSimilarities": [
+                38.9,
+                23.5,
+                37.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the temple, Jesus' teachings leave the people astonished, regarding him as a heroic figure and the long-awaited Messiah. Both the Sadducees and Pharisees are united in their resentment, conspiring against Jesus and seeking to kill him. The fear of reformation and the potential impact on their reputation and gains drives their motive. Despite their hatred, they fear taking him by force due to the people's admiration for his authoritative teachings and the possibility of causing a tumult.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.3823418314967297,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.31,
+            "commentatorTierSimilarities": [
+                38.36,
+                15.46,
+                46.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:29:58",
+    "verseRef": "Mark 15:34",
+    "bestBHT": {
+        "bht": "Amidst his suffering on the cross, Jesus cried out in the Syro-chaldaic form of 'Eloi,' which corresponds to the Hebrew word 'Eli' mentioned in Matthew. This suggests that Jesus may have used the Hebrew form, emphasizing the resemblance to the name Elijah. The phrase 'lama sabachthani' is pronounced as 'Sab\u00e1chthani,' expressing Jesus' lamentation and questioning why God has forsaken him, echoing a quotation from the Old Testament. In this profound moment, Jesus claims God as his own, bemoaning the withdrawal of God's love and enduring the weight of our sins.",
+        "wordCount": 92,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.7425537792640997,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.28,
+        "commentatorTierSimilarities": [
+            34.82,
+            41.03,
+            24.15
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Eloi, the Syro-chaldaic form, answering to 'Eli' in Matthew.",
+            "Meyer argues that the words in Matthew must have been those actually spoken by our Lord, owing to the taunt, that He called for Elias.",
+            "The last word is pronounced Sab\u00e1chthani, not Sabachth\u00e1ni."
+        ],
+        "Philip Schaff": [
+            "Eloi. This is in the Aramaic dialect then in use.",
+            "Our Lord probably used the Hebrew form ('Eli') given by Matthew, which more closely resembles the name Elijah.",
+            "A quotation from the Old Testament would naturally be made in Hebrew."
+        ],
+        "John Gill": [
+            "And at the ninth hour Jesus cried with a loud voice...",
+            "...Eloi, Eloi, lama sabachthani?...my God, my God, why hast thou forsaken me?",
+            "...from whence the whole is taken."
+        ],
+        "John Wesley": [
+            "My God, my God, why hast thou forsaken me \u2014 Thereby claiming God as his God.",
+            "Lamenting his Father's withdrawing the tokens of his love, and treating him as an enemy.",
+            "While he bare our sins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amidst his suffering on the cross, Jesus cried out in the Syro-chaldaic form of 'Eloi,' which corresponds to the Hebrew word 'Eli' mentioned in Matthew. This suggests that Jesus may have used the Hebrew form, emphasizing the resemblance to the name Elijah. The phrase 'lama sabachthani' is pronounced as 'Sab\u00e1chthani,' expressing Jesus' lamentation and questioning why God has forsaken him, echoing a quotation from the Old Testament. In this profound moment, Jesus claims God as his own, bemoaning the withdrawal of God's love and enduring the weight of our sins.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.7425537792640997,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.28,
+            "commentatorTierSimilarities": [
+                34.82,
+                41.03,
+                24.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of his suffering, Jesus cried out using the Syro-chaldaic form 'Eloi.' This emphasizes the connection to the Hebrew word 'Eli' mentioned in Matthew and the name Elijah. Uttering the words 'lama sabachthani,' pronounced as 'Sab\u00e1chthani,' Jesus questions why God has forsaken him and experiences a sense of lament. His cry reflects an Old Testament quotation and serves as an assertion that God is his own, despite feeling deprived of his Father's love. Jesus's ultimate purpose is to bear the weight of our sins.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.512624878109036,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.64,
+            "commentatorTierSimilarities": [
+                35.75,
+                35.11,
+                29.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst his agony on the cross, Jesus cried out 'Eloi,' the Syro-chaldaic form that corresponds to 'Eli' in Matthew. The Hebrew form, closer to Elijah's name, is likely what Jesus used. He lamented with the phrase 'lama sabachthani,' pronouncing it as 'Sab\u00e1chthani,' questioning why God has forsaken him. This cry echoes an Old Testament passage, signaling Jesus' declaration of God as his own, despite feeling abandoned. Bearing the weight of our sins, Jesus offers us redemption and salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.572425481669054,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                33.97,
+                38.46,
+                27.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst his crucifixion, Jesus cried out 'Eloi,' the Syro-chaldaic form that corresponds to 'Eli' in Matthew. The Hebrew form, resembling Elijah's name, is likely what Jesus used. His lamentation through the words 'lama sabachthani' reveals his questioning of why God has forsaken him. This cry, mirroring an Old Testament quotation, shows Jesus claiming God as his own, even in the midst of feeling abandoned. In bearing our sins, Jesus offers us redemption and salvation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.56596593311045,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "commentatorTierSimilarities": [
+                33.89,
+                37.42,
+                28.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst his suffering on the cross, Jesus cried out 'Eloi,' the Syro-chaldaic form corresponding to 'Eli' in Matthew, suggesting that Jesus may have used the Hebrew form resembling Elijah's name. Through the phrase 'lama sabachthani,' pronounced as 'Sab\u00e1chthani,' Jesus laments and questions why God has forsaken him, echoing an Old Testament quote. In this profound moment, Jesus claims God as his own, bemoaning the withdrawal of God's love and bearing the weight of our sins.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6539518661943355,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.34,
+            "commentatorTierSimilarities": [
+                34.2,
+                36.14,
+                29.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

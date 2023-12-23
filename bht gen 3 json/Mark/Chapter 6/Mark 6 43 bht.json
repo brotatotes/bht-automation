@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:23:37",
+    "verseRef": "Mark 6:43",
+    "bestBHT": {
+        "bht": "The first three Evangelists wrote independently, but use the same word to describe the baskets used in the feeding of the Four Thousand. Mark adds that the baskets also contained fragments of bread and fishes. While the accounts of this miracle differ in their descriptions, they all point to an abundance of fragments that satisfied everyone through Christ's multiplication.",
+        "wordCount": 60,
+        "quoteTokenProportion": 45.65,
+        "qualityScore": 1.9841398893284738,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+        "commentatorTierSimilarities": [
+            39.37,
+            32.73,
+            27.91
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Internal evidence renders it clear, we think, that the first three Evangelists wrote independently of each other, though the fourth must have seen all the others.",
+            "But here, each of the first three Evangelists uses the same word to express the apparently insignificant circumstance that the baskets employed to gather up the fragments were of the kind which even the Roman satirist, JUVENAL, knew by the name of cophinus.",
+            "In both the narratives of the feeding of the Four Thousand the baskets used are expressly said to have been of the kind called spuris."
+        ],
+        "Marvin Vincent": [
+            "Baskets full [\u03ba\u03bf\u03c6\u03b9\u03bd\u03c9\u03bd \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b1\u03c4\u03b1] . Lit., fillings of baskets. See on Matthew 14:20. Mark alone adds, and of the fishes."
+        ],
+        "Philip Schaff": [
+            "Among the many peculiarities of the various accounts of this miracle... none are more remarkable than the variety of expressions used to tell of what was gathered by the disciples.",
+            "Among the six accounts no two are precisely alike. It is impossible to reproduce the dissimilarity.",
+            "What remained of the fishes was probably included in the contents of the twelve baskets, although John seems to limit these to the fragments of the loaves."
+        ],
+        "John Gill": [
+            "Of the broken pieces of bread, after all had eaten, and were satisfied.",
+            "Though there was but one loaf for a thousand persons and more, and two small fishes to be divided among five thousand and more.",
+            "Through the wonderful power of Christ increasing both, as they were distributing and eating, there was enough of both for them all."
+        ],
+        "John Wesley": [
+            "Full of the fragments \u2014 of the bread."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The first three Evangelists wrote independently of each other, with the fourth likely having seen all the others. They all use the same word to describe the baskets used, even referencing their specific type known as cophinus. In both the narratives of the feeding of the Four Thousand, the baskets used are called spuris. Mark adds that the baskets were not only filled with fragments of bread but also with the fishes. The accounts of this miracle vary in their descriptions of what was gathered by the disciples, with no two accounts precisely alike. However, it is likely that what remained of the fishes was included in the contents of the twelve baskets. Ultimately, through the powerful multiplication of Christ, there was enough for everyone to be satisfied with an abundance of fragments.",
+            "wordCount": 133,
+            "quoteTokenProportion": 49.43,
+            "qualityScore": 1.7982130397547702,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                38.44,
+                38.69,
+                22.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The synoptic Gospel writers, believed to have written independently, use the same word to describe the baskets used in the feeding of the Four Thousand, emphasizing their specific type. Mark adds that the baskets included both fragments of bread and fishes. The accounts of this miracle vary in their descriptions, highlighting the dissimilarity. However, it is likely that the remaining fishes were also gathered in the twelve baskets. Through Christ's multiplication, there was an abundance of fragments, satisfying everyone.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7160627554239052,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                37.56,
+                37.18,
+                25.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The synoptic Gospel writers, believed to have written independently, use the same word to describe the baskets used in the feeding of the Four Thousand, emphasizing their specific type. Mark adds that the baskets included both fragments of bread and fishes. The accounts of this miracle vary in their descriptions but point to an abundance of fragments that satisfied everyone through Christ's multiplication.",
+            "wordCount": 64,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.933470737798352,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                38.04,
+                35.49,
+                26.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The first three Evangelists wrote independently, but use the same word to describe the baskets used in the feeding of the Four Thousand. Mark adds that the baskets also contained fragments of bread and fishes. While the accounts of this miracle differ in their descriptions, they all point to an abundance of fragments that satisfied everyone through Christ's multiplication.",
+            "wordCount": 60,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.9841398893284738,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+            "commentatorTierSimilarities": [
+                39.37,
+                32.73,
+                27.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The synoptic Gospel writers wrote independently, using the same word to describe the baskets used in the feeding of the Four Thousand. Mark further specifies that the baskets contained both fragments of bread and fishes. The various accounts of this miracle differ in their descriptions, highlighting the dissimilarity. However, it is likely that the remaining fishes were included in the contents of the twelve baskets. Through Christ's multiplication, there was an abundance of fragments, satisfying everyone.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.7649509303390065,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.03,
+            "commentatorTierSimilarities": [
+                34.9,
+                39.45,
+                25.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

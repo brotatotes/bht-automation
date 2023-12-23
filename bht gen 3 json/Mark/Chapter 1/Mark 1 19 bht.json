@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:19:52",
+    "verseRef": "Mark 1:19",
+    "bestBHT": {
+        "bht": "As Jesus continued on his way, he noticed James, the son of Zebedee, and his brother John, who were on their boat repairing their nets. This attention to detail is unique to Mark's Gospel, highlighting the practical nature of the disciples' work and their commitment to their task. This small act of getting ready signifies their desire to succeed in their next fishing endeavor. The mention of James and John being brothers reminds us of the close relationships Jesus formed with his disciples.",
+        "wordCount": 84,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.2815950801700642,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.96,
+        "commentatorTierSimilarities": [
+            17.47,
+            32.11,
+            50.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] who also, as well as the former pair of brothers. It belongs only to \u201cin the ship,\u201d not to the following clause."
+        ],
+        "Marvin Vincent": [
+            "A little farther",
+            "See on Mat 4:21."
+        ],
+        "Philip Schaff": [
+            "Mark 1:19. A little further . An exact statement, peculiar to Mark. Matthew mentions in this connection that Zebedee was in the boat; Mark inserts that fact in the next verse.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "A Marcan detail.",
+            "Mending their nets.",
+            "Getting ready that they might succeed better at the next haul."
+        ],
+        "John Gill": [
+            "And when he had gone a little further thence... he saw James the son of Zebedee, and John his brother.\" ",
+            "The former was be whom afterwards Herod killed with the sword, and the latter the beloved disciple.",
+            "These were also in a ship, repairing their nets, in order to use them the same way, and for the same purpose."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus continued on his way, he noticed James, the son of Zebedee, and his brother John, who were on their boat repairing their nets. This attention to detail is unique to Mark's Gospel, emphasizing the practical nature of the disciples' work by mending their nets. It is an intentional act of preparation, highlighting their commitment and dedication to their task. This small act of getting ready signifies their desire to succeed in their next fishing endeavor. The mention of James and John being brothers also adds a personal touch to the narrative, reminding us of the close relationships Jesus formed with his disciples.",
+            "wordCount": 105,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.2189382756079707,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.87,
+            "commentatorTierSimilarities": [
+                18.76,
+                31.84,
+                49.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus continued on his way, he noticed James, the son of Zebedee, and his brother John, who were on their boat repairing their nets. This attention to detail is unique to Mark's Gospel, highlighting the practical nature of the disciples' work and their commitment to their task. This small act of getting ready signifies their desire to succeed in their next fishing endeavor. The mention of James and John being brothers reminds us of the close relationships Jesus formed with his disciples.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.2815950801700642,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.96,
+            "commentatorTierSimilarities": [
+                17.47,
+                32.11,
+                50.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus moved ahead, he noticed that James and John, the sons of Zebedee, were in their boat mending their nets. The attention to this detail in Mark's Gospel is significant, emphasizing the practical nature of the disciples' work. Their act of repairing the nets shows their commitment and preparation for future fishing endeavors. The mention of James and John being brothers adds a personal touch, reminding us of the close relationships Jesus formed with his disciples.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.2077328774074845,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                15.52,
+                31.47,
+                53.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus continued on his way, he noticed James, the son of Zebedee, and his brother John, who were on their boat repairing their nets. This attention to detail in Mark's Gospel highlights the practical nature of the disciples' work and their commitment to preparation. By mending their nets, they displayed their desire to succeed in future fishing endeavors. The mention of James and John being brothers adds a personal touch, reminding us of the close relationships Jesus formed with his disciples.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.2735045964059275,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.69,
+            "commentatorTierSimilarities": [
+                17.65,
+                31.93,
+                50.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus moved ahead, he noticed James and John, the sons of Zebedee, in their boat mending their nets. This detail in Mark's Gospel emphasizes the practical nature of the disciples' work and their commitment to preparation. Repairing their nets signifies their desire to succeed in future fishing endeavors. The mention of James and John being brothers adds a personal touch, reminding us of the close relationships Jesus formed with his disciples.",
+            "wordCount": 73,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.2308277528007934,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+            "commentatorTierSimilarities": [
+                16.4,
+                31.97,
+                51.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

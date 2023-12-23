@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:21:16",
+    "verseRef": "Mark 2:26",
+    "bestBHT": {
+        "bht": "In the narrative, there is confusion regarding names and historical context. Nevertheless, it is evident that the shewbread, also known as the loaves of the presence of God, was prepared on Friday and placed on the golden table in the sanctuary. The old bread was eaten by the priests as they entered and exited. This event occurred in the tabernacle at Nob, not the temple in Jerusalem. Despite the debate over timing and the identity of the high priest, it is apparent that the house of God provides abundant spiritual sustenance, just as David found nourishment there.",
+        "wordCount": 97,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.4617989914913552,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+        "commentatorTierSimilarities": [
+            45.64,
+            19.3,
+            35.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is however considerable confusion in the names about this part of the history.",
+            "Amidst this variation, we can hardly undertake to explain the difficulty in the text.",
+            "Who would ever understand, 'in the time of Elisaus the prophet, as importing, in matter of fact, any other period than that of the prophetic course of Elisha?"
+        ],
+        "Marvin Vincent": [
+            "The Jews called them the loaves of the face, i e., of the presence of God.",
+            "The shewbread was prepared on Friday, unless that day happened to be a feast - day that required sabbatical rest; in which case it was prepared on Thursday afternoon.",
+            "The bread which was taken off was deposited on the golden table in the porch of the sanctuary, and distributed among the outgoing and incoming courses of priests."
+        ],
+        "Philip Schaff": [
+            "Probably both father and son had the two names, Ahimelech and Abiathar.",
+            "The father was certainly called 'Abiathar,' and, as actual high-priest, is here meant.",
+            "This explanation is the simplest."
+        ],
+        "Archibald T. Robertson": [
+            "The house of God (\u03c4\u03bf\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). The tent or tabernacle at Nob, not the temple in Jerusalem built by Solomon.",
+            "When Abiathar was high priest (\u03b5\u03c0 \u0391\u03b2\u03b9\u03b1\u03b8\u03b1\u03c1 \u03b1\u03c1\u03c7\u03b9\u03b5\u03c1\u03b5\u03c9\u03c2). Neat Greek idiom, in the time of Abiathar as high priest.",
+            "They had the most elaborate rules for the preparation of the shewbread (\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03c4\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03c1\u03bf\u03b8\u03b5\u03c3\u03b5\u03c9\u03c2), the loaves of presentation, the loaves of the face or presence of God. It was renewed on the commencement of the sabbath and the old bread deposited on the golden table in the porch of the Sanctuary. This old bread was eaten by the priests as they came and went. This is what David ate."
+        ],
+        "John Gill": [
+            "Where should such go, who are hungering and thirsting after righteousness, but into the house of God?",
+            "Here is bread enough, and to spare; here is a table furnished with excellent provisions.",
+            "On the Lord's day, the day set apart for public worship, it becomes the saints to go up to the house of the Lord, and feed upon the provisions of it."
+        ],
+        "John Wesley": [
+            "In the days of Abiathar the high priest \u2014 Abimelech, the father of Abiathar, was high priest then...\" ",
+            "Abiathar himself not till some time after.\" ",
+            "This phrase therefore only means, In the time of Abiathar, who was afterward the high priest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the account mentioned, there is some confusion regarding the names and historical context. However, it is clear that the shewbread, also known as the loaves of the presence of God, was prepared on Friday and placed on the golden table in the sanctuary. The old bread was eaten by the priests as they entered and exited. It is noteworthy that this event took place in the tent or tabernacle at Nob, not the temple in Jerusalem. Despite the debate over the exact timing and the identification of Abiathar, the high priest, it is evident that the house of God is a place where one can find abundant spiritual nourishment, just as David himself found sustenance.",
+            "wordCount": 116,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 1.5000110523616146,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.22,
+            "commentatorTierSimilarities": [
+                45.36,
+                20.75,
+                33.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the narrative, there is confusion regarding names and historical context. Nevertheless, it is evident that the shewbread, also known as the loaves of the presence of God, was prepared on Friday and placed on the golden table in the sanctuary. The old bread was eaten by the priests as they entered and exited. This event occurred in the tabernacle at Nob, not the temple in Jerusalem. Despite the debate over timing and the identity of the high priest, it is apparent that the house of God provides abundant spiritual sustenance, just as David found nourishment there.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.4617989914913552,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                45.64,
+                19.3,
+                35.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, there is confusion over the names and historical details. However, it is clear that the shewbread, also known as the loaves of the presence of God, was prepared on Friday and placed on the golden table in the sanctuary. The priests would then consume the old bread as part of their duties. This event took place in the tabernacle at Nob, and despite the debate about the timing and the high priest's identity, it underscores the idea that the house of God is a source of spiritual nourishment, as David found sustenance there.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5322625607752993,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                43.38,
+                20.87,
+                35.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the account, there is confusion surrounding the names and historical details. However, it is evident that the shewbread, also known as the loaves of the presence of God, was prepared and placed on the golden table in the sanctuary every Friday. The old bread was then consumed by the priests as part of their duties. This event occurred in the tabernacle at Nob, emphasizing that the house of God is a source of abundant spiritual nourishment. David himself experienced this sustenance firsthand.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.3514603778998437,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.28,
+            "commentatorTierSimilarities": [
+                43.36,
+                20.51,
+                36.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, there is some confusion regarding names and historical context. However, it is clear that the shewbread, also known as the loaves of the presence of God, was prepared on Friday and placed on the golden table in the sanctuary. The old bread was eaten by the priests as they entered and exited. This event occurred in the tabernacle at Nob, highlighting the significance of the house of God as a place of abundant spiritual nourishment. David himself partook in this provision.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.3627429539772096,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.65,
+            "commentatorTierSimilarities": [
+                43.72,
+                19.85,
+                36.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

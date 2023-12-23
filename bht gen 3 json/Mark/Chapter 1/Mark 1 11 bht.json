@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:19:52",
+    "verseRef": "Mark 1:11",
+    "bestBHT": {
+        "bht": "God's proclamation of love resounds, stating, Thou art my beloved son. This declaration signifies the depth of God's affection and pleasure in his Son. Both Mark and Luke express this truth with the phrase in thee, while Matthew uses in whom. Connecting the phrase came out of the heavens with came is suggested. The well-supported reading of in thee emphasizes the unique bond between God and his Son, highlighting the joy God finds in him, even in his humble state.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.6051267129229854,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+        "commentatorTierSimilarities": [
+            37.39,
+            28.31,
+            34.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Thou art my beloved son"
+        ],
+        "Philip Schaff": [
+            "Came out of the heavens. The latter phrase is to be joined with \u2018came,\u2019 not with \u2018voice\u2019 as in the E. V.",
+            "In thee (compare Luke 3:22) is the better supported reading."
+        ],
+        "Archibald T. Robertson": [
+            "Thou art (\u03c3\u03c5 \u03b5). So Luke 3:22. Matthew 3:17 has",
+            "this is (\u03bf\u03c5\u03c4\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd) which see. So both Mark and Luke have \"in thee,\" while Matthew has \"in whom.\" "
+        ],
+        "John Gill": [
+            "Thou art my beloved Son.\" ",
+            "...how much he was the object of his love, and what a pleasure and delight he took in him.",
+            "he is not only called his Son, but his 'beloved Son'; which might be necessary to be said to him in his state of humiliation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it is proclaimed that Thou art my beloved son. This statement emphasizes the deep love and delight that God takes in his Son. The phrase in thee is used in Mark and Luke, while Matthew uses in whom. Some commentators suggest that the phrase came out of the heavens should be connected with came, rather than with voice. Additionally, the reading in thee is considered to be better supported. This declaration of love towards God's Son highlights the special relationship between them and underscores the pleasure God finds in him, even during his time of humility.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.6470770793481755,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                34.31,
+                33.97,
+                31.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The powerful proclamation of God's love is heard, declaring, Thou art my beloved son. It is a beautiful reminder of the deep affection and delight God has for his Son. The phrase in thee is found in both Mark and Luke, while Matthew uses in whom. Some suggest connecting the phrase came out of the heavens with came. The supported reading in thee further accentuates the special relationship between God and his Son, underscoring the joy God finds in him even in his humble state.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5769993047812862,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "commentatorTierSimilarities": [
+                35.98,
+                29.21,
+                34.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's proclamation of love resounds, stating, Thou art my beloved son. This declaration signifies the depth of God's affection and pleasure in his Son. Both Mark and Luke express this truth with the phrase in thee, while Matthew uses in whom. Connecting the phrase came out of the heavens with came is suggested. The well-supported reading of in thee emphasizes the unique bond between God and his Son, highlighting the joy God finds in him, even in his humble state.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.6051267129229854,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                37.39,
+                28.31,
+                34.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The declaration echoes with divine love, affirming, Thou art my beloved son. These words convey the depth of God's adoration and delight in his Son. Mark and Luke use the phrase in thee, while Matthew opts for in whom. Some suggest connecting came out of the heavens with came. The supported reading of in thee underlines the unique bond shared between God and his Son, underscoring the joy God derives from him, even in his state of humility.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.546407509500567,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                37.91,
+                28.55,
+                33.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The profound proclamation reveals God's boundless love, declaring, Thou art my beloved son. This statement showcases the immense affection and pleasure God takes in his Son. Both Mark and Luke express this truth with the phrase in thee, whereas Matthew uses in whom. Some commentators propose associating came out of the heavens with came. The well-supported reading of in thee highlights the exceptional relationship between God and his Son, underscoring the joy God finds in him, even in his state of humility.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.4560999427970907,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.76,
+            "commentatorTierSimilarities": [
+                36.63,
+                27.72,
+                35.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:22:00",
+    "verseRef": "Mark 4:36",
+    "bestBHT": {
+        "bht": "Without any preparation, Jesus was taken in the same boat from which He had spent the day teaching. Other boats, carrying passengers who wished to accompany Him, followed. This detail, given only by Mark, emphasizes the spontaneous nature of their departure. The disciples were quick to gather together and inform the multitude that Jesus was not going to preach anymore, but was going to the other side of the lake. They departed, carrying Jesus as He was, without any prior arrangements.",
+        "wordCount": 81,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.8404478681234542,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+        "commentatorTierSimilarities": [
+            35.86,
+            24.02,
+            40.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Without any preparation, and without so much as leaving the vessel, out of which He had been all day teaching.",
+            "Other little ships\u2014with passengers, probably, wishing to accompany Him."
+        ],
+        "Marvin Vincent": [
+            "Even as he was in the ship. Rev., boat. Just as he was, in the boat in which he was then sitting. Mark adds the detail about the accompanying boats."
+        ],
+        "Philip Schaff": [
+            "And leaving the multitude... left them.",
+            "As he was; without preparation.",
+            "Other boats... were probably separated from them during the subsequent gale."
+        ],
+        "Archibald T. Robertson": [
+            "That is, they take Jesus along without previous preparation.\" ",
+            "This detail also is given only by Mark.\" ",
+            "Some people had got into boats to get close to Jesus."
+        ],
+        "John Gill": [
+            "Upon Christ's going to the sea shore again, in order to take boat for the other side, they might gather together the disciples acquainted them that he was not about to preach any more to them, but was going to the other side of the lake; upon which they departed."
+        ],
+        "John Wesley": [
+            "They take him as he was in the vessel \u2014 They carried him immediately in the same vessel from which he had been preaching to the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Without any preparation, Jesus was taken in the same boat from which He had spent the day teaching. Other boats, carrying passengers who wished to accompany Him, followed. This detail, given only by Mark, emphasizes the spontaneous nature of their departure. The disciples were quick to gather together and inform the multitude that Jesus was not going to preach anymore, but was going to the other side of the lake. Immediately, they departed, carrying Jesus as He was, without any delay or prior arrangements.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.798450826044991,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                36.07,
+                23.27,
+                40.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Without any preparation, Jesus was taken in the same boat from which He had spent the day teaching. Other boats, carrying passengers who wished to accompany Him, followed. This detail, given only by Mark, emphasizes the spontaneous nature of their departure. The disciples were quick to gather together and inform the multitude that Jesus was not going to preach anymore, but was going to the other side of the lake. They departed, carrying Jesus as He was, without any delay or prior arrangements.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.8064439075881715,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.41,
+            "commentatorTierSimilarities": [
+                36.15,
+                23.46,
+                40.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Without any preparation, Jesus was taken in the same boat from which He had spent the day teaching. Other boats, carrying passengers who wished to accompany Him, followed. This detail, given only by Mark, emphasizes the spontaneous nature of their departure. The disciples were quick to gather together and inform the multitude that Jesus was not going to preach anymore, but was going to the other side of the lake. They departed, carrying Jesus as He was, without any prior arrangements.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.8404478681234542,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                35.86,
+                24.02,
+                40.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus was taken in the same boat from which He had been teaching all day, without any preparation. Other boats, with passengers wishing to accompany Him, followed suit. The spontaneous nature of their departure is highlighted by Mark in this unique detail. The disciples quickly gathered together and informed the multitude that Jesus was not going to preach anymore, but was heading to the other side of the lake. Without any prior arrangements, they embarked on the journey, carrying Jesus with them in the same vessel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7871525593628022,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.76,
+            "commentatorTierSimilarities": [
+                36.87,
+                22.36,
+                40.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Without any preparation, Jesus was taken in the same boat from which He had been teaching all day. Other boats, carrying passengers who wished to accompany Him, followed suit. This spontaneous departure, a detail mentioned only by Mark, highlights the immediacy of their action. The disciples quickly gathered and informed the multitude that Jesus was leaving to the other side of the lake, signaling an end to His preaching. Without delay or prior arrangements, they set off, carrying Jesus with them in the same vessel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.7625175500923929,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.95,
+            "commentatorTierSimilarities": [
+                36.91,
+                22.69,
+                40.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

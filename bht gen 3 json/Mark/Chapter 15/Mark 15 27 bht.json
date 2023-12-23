@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:29:07",
+    "verseRef": "Mark 15:27",
+    "bestBHT": {
+        "bht": "Placed between two thieves, Jesus' crucifixion was a fulfillment of Scripture, as noted in Matthew 27:38. This positioning not only intensified his suffering but also emphasized his identification with sinners. The presence of robbers on his right hand and left hand showcased the depth of his humiliation, as he was treated as if he had been one of them, and a principal among them. This arrangement fulfilled the prophecy and served as a poignant reminder of Jesus' willingness to be numbered among transgressors.",
+        "wordCount": 82,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.168209194544152,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.19,
+        "commentatorTierSimilarities": [
+            64.79,
+            0.0,
+            35.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Thieves. Rev., robbers. See on Matthew 27:38."
+        ],
+        "John Gill": [
+            "For his greater reproach.",
+            "As if he had been one of them, and a principal among them.",
+            "The one on his right hand, and the other on his left."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Among the events surrounding the crucifixion, it's notable that Jesus was crucified between two thieves, as mentioned in Mark 15:27. This underscores the fulfillment of Scripture, as Matthew 27:38 also notes. The presence of these robbers further emphasizes the shame and humiliation that Jesus endured, being placed on the cross as if he had been one of them, and a principal among them. The positioning of the thieves on his right hand and left hand serves as a vivid depiction of Jesus being numbered with the transgressors.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.3691332416042608,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.87,
+            "commentatorTierSimilarities": [
+                67.16,
+                0.0,
+                32.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crucifixion of Jesus is marked by the profound detail that he was crucified alongside two robbers, fulfilling Scripture. This placement not only adds to his suffering but also emphasizes his identification with sinners. Placed as if he had been one of them, and a principal among them, Jesus endured the shame of being numbered among transgressors on his right hand and left hand. This arrangement serves to highlight the extent of his humiliation and the fulfillment of prophecy.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 0.9021202904749134,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.34,
+            "commentatorTierSimilarities": [
+                46.77,
+                0.0,
+                53.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Placed between two thieves, Jesus' crucifixion was a fulfillment of Scripture, as noted in Matthew 27:38. This positioning not only intensified his suffering but also emphasized his identification with sinners. The presence of robbers on his right hand and left hand showcased the depth of his humiliation, as he was treated as if he had been one of them, and a principal among them. This arrangement fulfilled the prophecy and served as a poignant reminder of Jesus' willingness to be numbered among transgressors.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.168209194544152,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.19,
+            "commentatorTierSimilarities": [
+                64.79,
+                0.0,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crucifixion scene depicted in Mark 15:27 includes Jesus being flanked by two robbers, a detail that is also mentioned in Matthew 27:38. This arrangement fulfilled Scripture and added to Jesus' profound humiliation. Placed as if he had been one of them, and a principal among them, Jesus experienced the shame of being numbered with transgressors. This positioning on his right hand and left hand underscored his identification with sinners and reflected the fulfillment of prophecy in the sacred text.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.0220977515942336,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.33,
+            "commentatorTierSimilarities": [
+                56.93,
+                0.0,
+                43.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crucifixion of Jesus included the significant detail of him being positioned between two thieves, which fulfilled Scripture. Placed as if he had been one of them, and a principal among them, Jesus faced deep humiliation and shame. This arrangement on his right hand and left hand vividly portrayed his identification with sinners and served as a fulfillment of prophecy. The presence of these robbers highlighted the extent of Jesus' suffering and his willingness to be associated with transgressors.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.1279091762403568,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.85,
+            "commentatorTierSimilarities": [
+                56.57,
+                0.0,
+                43.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

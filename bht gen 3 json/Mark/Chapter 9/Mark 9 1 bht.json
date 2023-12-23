@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:24:53",
+    "verseRef": "Mark 9:1",
+    "bestBHT": {
+        "bht": "Jesus' allusion to the Transfiguration and the potential arrival of the Holy Spirit on Pentecost are indicated by his words. Peter's humble confession, taking place in a northern region, showcases his humility, as Mark chooses to emphasize his rebuke rather than subsequent blessings and promises. These words foreshadow the powerful coming of God's kingdom, witnessed by those who saw the Gospel spreading and the ultimate demise of the Jewish nation.",
+        "wordCount": 72,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.793750853953419,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+        "commentatorTierSimilarities": [
+            34.44,
+            33.86,
+            31.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Verily I say ... - See the notes at Matthew 16:28. This verse properly belongs to the preceding chapter and the preceding discourse."
+        ],
+        "Philip Schaff": [
+            "The Passion of Christ is the central truth, involving the active and passive confession of His people, and not the institution of the Church, much less the primacy of Peter.",
+            "It is remarkable that this fundamental confession of faith was called forth by our Lord, not in Galilee or Judea, but near Cesarea Philippi (Banias), a Roman settlement on the extreme northern boundary of Palestine.",
+            "Mark omits the blessing bestowed on Peter, and the subsequent promise, but inserts the rebuke. A significant fact, showing the humility of Peter."
+        ],
+        "Archibald T. Robertson": [
+            "In Mark 8:38 Jesus clearly is speaking of the second coming. To what is he referring in Mark 9:1?",
+            "The very next incident in the Synoptic Gospels is the Transfiguration on Mount Hermon. Does not Jesus have that in mind here?",
+            "The language will apply also to the coming of the Holy Spirit on the great Day of Pentecost."
+        ],
+        "John Gill": [
+            "There be some of them that stand here; that were then living, and upon the spot, which shall not taste of death, or die, till they have seen the kingdom of God come with power.\" ",
+            "When Jesus was declared both Lord and Christ, by the wonderful effusion of the Holy Spirit; the Gospel spread in the world both among Jews and Gentiles, in spite of all opposition, under the power and influence of the grace of God, to the conversion of thousands of souls.\" ",
+            "That branch of Christ's regal power exerted in the destruction of the Jewish nation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After addressing his disciples about the certainty of his second coming, Jesus hints at the events that will follow. The mention of the Transfiguration on Mount Hermon suggests that Jesus may have had this event in mind. Additionally, the language used in this verse can also be applied to the coming of the Holy Spirit on the Day of Pentecost. This fundamental confession of faith, brought forth in the far northern region of Palestine, shows the humility of Peter as Mark omits the subsequent promises and blessings bestowed upon him. Ultimately, these words serve to foreshadow the coming of the kingdom of God with power, which was witnessed by those who then lived and saw the Gospel spread among Jews and Gentiles, leading to the destruction of the Jewish nation.",
+            "wordCount": 130,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.9519523141813953,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                40.66,
+                31.18,
+                28.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After discussing his future return, Jesus hints at upcoming events. The reference to the Transfiguration suggests that he may have had it in mind. The language used also applies to the coming of the Holy Spirit on Pentecost. This confession of faith, prompted in a far northern area, shows Peter's humility. Mark omits the subsequent blessings and promises, focusing on Peter's rebuke instead. These words foreshadow the coming of God's kingdom with power, witnessed by those who saw the Gospel spread and the destruction of the Jewish nation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6107313237979193,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                41.05,
+                32.37,
+                26.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' mention of the Transfiguration implies that it might be the event he is referring to. The language used can also be applied to the coming of the Holy Spirit on Pentecost. Peter's humble confession in the northern region shows his obedience despite the omission of subsequent blessings and promises from Mark's account. These words serve as a foreshadowing of the powerful coming of God's kingdom, witnessed by those who saw the spread of the Gospel and the eventual downfall of the Jewish nation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.7695352930246764,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                41.21,
+                30.05,
+                28.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' reference to the Transfiguration and the possibility of the Holy Spirit's coming on Pentecost suggests the events he is alluding to. Peter's confession in a northern region showcases his humility, even without the subsequent blessings and promises mentioned by Mark. These words foretell the powerful arrival of God's kingdom, witnessed by those who saw the Gospel spreading and the eventual downfall of the Jewish nation.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.7930040138366612,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                35.35,
+                33.42,
+                31.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' allusion to the Transfiguration and the potential arrival of the Holy Spirit on Pentecost are indicated by his words. Peter's humble confession, taking place in a northern region, showcases his humility, as Mark chooses to emphasize his rebuke rather than subsequent blessings and promises. These words foreshadow the powerful coming of God's kingdom, witnessed by those who saw the Gospel spreading and the ultimate demise of the Jewish nation.",
+            "wordCount": 72,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.793750853953419,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                34.44,
+                33.86,
+                31.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

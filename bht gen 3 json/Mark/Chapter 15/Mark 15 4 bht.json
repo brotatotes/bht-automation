@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:28:42",
+    "verseRef": "Mark 15:4",
+    "bestBHT": {
+        "bht": "Pilate was faced with multiple serious charges against Jesus, which he believed necessitated his own defense. The accusations brought before him were numerous and weighty, causing Pilate to feel the need to protect himself. It is clear that the charges against Jesus were significant and held great importance in the eyes of Pilate.",
+        "wordCount": 53,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.85820471481325,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "The charges were many, and very heinous, and which Pilate thought called for self-defence.\" (24 words)",
+            "Pilate thought called for self-defence.\" (6 words)",
+            "The charges were many, and very heinous.\" (8 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate was faced with multiple serious charges against Jesus, which he believed necessitated his own defense. The accusations brought before him were numerous and weighty, causing Pilate to feel the need to protect himself. It is clear that the charges against Jesus were significant and held great importance in the eyes of Pilate.",
+            "wordCount": 53,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.85820471481325,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The charges brought against Jesus were numerous and very heinous, leading Pilate to believe that he must defend himself. In the face of these weighty accusations, Pilate felt the need to protect his own position. It is evident that the charges held great significance and urgency in Pilate's perspective.",
+            "wordCount": 50,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.6798282229648267,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, feeling the weight of the many grave charges against Jesus, believed they demanded his self-defense. The allegations were numerous and serious, causing Pilate to find it necessary to protect himself. The gravity and importance of these charges were evident, prompting Pilate to take defensive measures.",
+            "wordCount": 47,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8521554469781052,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Facing numerous and very heinous charges against Jesus, Pilate considered it crucial to defend himself. The seriousness of these accusations, which demanded self-defence in his eyes, cannot be understated. These weighty charges held immense significance and compelled Pilate to prioritize his own protection.",
+            "wordCount": 44,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.7167622296164406,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The charges brought against Jesus were many and grievous, leading Pilate to believe he needed to defend himself. These serious accusations compelled Pilate to prioritize his own protection, as the weight of the charges could not be ignored. The gravity and significance of these allegations were evident, prompting Pilate's decision to focus on self-defense.",
+            "wordCount": 56,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.6212089193385006,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

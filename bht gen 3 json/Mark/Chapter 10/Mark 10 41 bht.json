@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:26:06",
+    "verseRef": "Mark 10:41",
+    "bestBHT": {
+        "bht": "Could the ten disciples really be blamed for their feelings of indignation? There might have been a hint of the old spirit of rivalry in their response. Despite Jesus' recent and solemn warnings against it, their competitive nature seemed to persist. When the two disciples sought positions of honor, it undoubtedly stirred up anger and resentment among the rest. Their subsequent murmuring and wrath displayed the ongoing struggle to fully embrace humility and unity, as they teetered on the brink of an open quarrel.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.234490848145869,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.39,
+        "commentatorTierSimilarities": [
+            55.39,
+            0.0,
+            44.61
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And can we blame the ten for the indignation which they felt?",
+            "Yet there was probably a spice of the old spirit of rivalry in it.",
+            "In spite of our Lord's recent lengthened, diversified, and most solemn warnings against it, had not ceased to stir in their breasts."
+        ],
+        "John Gill": [
+            "they were filled with wrath and were very angry with them",
+            "they highly resented it and were ready to break out into an open quarrel upon it",
+            "they began to murmur against them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples' indignation and spirit of rivalry in Mark 10:41 may not be entirely surprising, given the prior warnings from Jesus about such attitudes. Their anger and resentment towards the two who sought to be placed above the rest, reflects the deep-rooted desire for prominence that had not yet been fully extinguished in their hearts. No doubt, this incident tested their commitment to humility and unity as they struggled against murmuring and the potential for an open quarrel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.1298846533382798,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.91,
+            "commentatorTierSimilarities": [
+                54.82,
+                0.0,
+                45.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples' response in this situation is understandable, as their indignation and spirit of rivalry likely fueled their anger and resentment towards the two seeking prominence. However, Jesus had previously warned against such attitudes, emphasizing the importance of humility and unity. Despite these warnings, the disciples' desire for superiority had not fully dissipated. This incident served as a test of their commitment to these principles, as they fought against the temptation to murmur and engage in an open quarrel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.0781961473240582,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.19,
+            "commentatorTierSimilarities": [
+                50.27,
+                0.0,
+                49.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Can the ten disciples really be blamed for their feelings of indignation? After all, there may have been a hint of old rivalries in their response. Despite Jesus' recent and stern warnings against it, the competitiveness within them probably still remained. So, when the two disciples sought positions of honor, it stirred up anger and resentment among the rest. Their reactions demonstrated the struggle to fully embrace humility and unity, as they began to murmur and seethe with wrath.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.1599838539599423,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.91,
+            "commentatorTierSimilarities": [
+                50.65,
+                0.0,
+                49.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Can we truly fault the ten disciples for their feelings of indignation? Perhaps there was even a touch of their previous rivalry in their reaction. Even though Jesus had just issued many solemn and varied warnings against such behavior, their competitive spirit still stirred within them. Their subsequent anger and resentment towards the two disciples who sought positions of honor reveals the ongoing struggle to fully embrace humility and unity. The disciples' murmuring and wrath reflected the deep-seated tension that threatened to escalate into an open quarrel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.1723486135634535,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.32,
+            "commentatorTierSimilarities": [
+                53.47,
+                0.0,
+                46.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Could the ten disciples really be blamed for their feelings of indignation? There might have been a hint of the old spirit of rivalry in their response. Despite Jesus' recent and solemn warnings against it, their competitive nature seemed to persist. When the two disciples sought positions of honor, it undoubtedly stirred up anger and resentment among the rest. Their subsequent murmuring and wrath displayed the ongoing struggle to fully embrace humility and unity, as they teetered on the brink of an open quarrel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.234490848145869,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.39,
+            "commentatorTierSimilarities": [
+                55.39,
+                0.0,
+                44.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

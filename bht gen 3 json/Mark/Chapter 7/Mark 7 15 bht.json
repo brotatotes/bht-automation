@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:23:52",
+    "verseRef": "Mark 7:15",
+    "bestBHT": {
+        "bht": "The verse teaches that external factors have no power to defile us; rather, it is the evil thoughts and intentions that come from the heart that can bring moral defilement. Although our dietary choices can affect our health, the pollution arises from the wickedness of the heart. Ultimately, the verse emphasizes that our internal disposition determines our guilt and moral defilement.",
+        "wordCount": 61,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 0.7335561135639589,
+        "qualityScoreNormalizedComparedToV2BHTs": 15.74,
+        "commentatorTierSimilarities": [
+            0.0,
+            19.9,
+            80.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 7:15. See on Matthew 15:11. Mark does not mention \u2018the mouth,\u2019 but that is implied.",
+            "\t"
+        ],
+        "John Gill": [
+            "There is nothing from without a man, that entering into him, can defile him.\" ",
+            "The things which come out of him... these are they that defile the man.\" ",
+            "It is not what enters from without into the mouth of man, which can defile him; but only what goes out of the heart man, this defiles the man."
+        ],
+        "John Wesley": [
+            "There is nothing entering into a man from without which can defile him.\" ",
+            "A man may bring guilt, which is moral defilement, upon himself by eating what hurts his health, or by excess either in meat or drink yet even here the pollution arises from the wickedness of the heart, and is just proportionable to it.",
+            "And this is all that our Lord asserts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "According to the commentary, the verse suggests that external factors, such as what we eat or encounter, do not have the power to defile us. Rather, it is the things that come out of our hearts that can defile us. The emphasis is on the evil thoughts and intentions that stem from the heart, which ultimately determine our moral defilement. While certain dietary choices may adversely affect our health, the pollution stems from the wickedness of the heart. In essence, the verse asserts that it is our internal disposition that has the potential to bring guilt and moral defilement upon ourselves.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 0.7970989688454054,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.85,
+            "commentatorTierSimilarities": [
+                0.0,
+                18.9,
+                81.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse teaches that external factors have no power to defile us; rather, it is the evil thoughts and intentions that come from the heart that can bring moral defilement. Although our dietary choices can affect our health, the pollution arises from the wickedness of the heart. Ultimately, the verse emphasizes that our internal disposition determines our guilt and moral defilement.",
+            "wordCount": 61,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 0.7335561135639589,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.74,
+            "commentatorTierSimilarities": [
+                0.0,
+                19.9,
+                80.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is not external factors that can defile us, but rather the evil thoughts and intentions that arise from the heart. Our moral defilement is determined by what comes out of us rather than what enters into us. While our diet and behaviors may impact our health, the pollution is rooted in the wickedness of the heart. This passage highlights the significance of our internal disposition in bringing about guilt and moral defilement.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 0.7118677559190385,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                19.8,
+                80.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "There is no external source able to defile us; instead, it is the malicious thoughts and intentions originating from the heart that possess the power to bring moral defilement. Our moral pollution is not derived from external factors, but rather from the wickedness within us. Although our dietary choices may impact our health, the contamination arises from the inner disposition. In essence, this verse emphasizes the internal condition as the determinant of guilt and moral defilement.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 0.622617614466439,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                21.24,
+                78.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "There is no external influence capable of defiling a person; rather, it is the impure thoughts and intentions that emanate from within the heart that have the potential to bring about moral defilement. The pollution does not arise from external factors, but rather from the wickedness within. While our choices in food and behavior may impact our physical well-being, the true contamination stems from the inner disposition. This passage underscores the significance of our internal state in determining guilt and moral impurity.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 0.627377643215522,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.21,
+            "commentatorTierSimilarities": [
+                0.0,
+                25.36,
+                74.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

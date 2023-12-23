@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-22-2023 23:24:49",
+    "verseRef": "Mark 7:37",
+    "bestBHT": {
+        "bht": "He hath done all things well, the same Beneficence that God displayed in the first creation is seen in Christ's work, a new creation. He has cured the deaf to hear and the dumb to speak, astonishing the people who glorified the God of Israel. The settled convictions of the people about Jesus were expressed in their vociferous championship of him, exceeding in amazement and zeal. He has done all things well, for the good of mankind and the glory of God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.961227637476938,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+        "commentatorTierSimilarities": [
+            32.71,
+            31.57,
+            35.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He hath done all things well... So 'God saw every thing that He had made, and, behold, it was very good,' Gen. i. 31.\" ",
+            "This work was properly and worthily compared with that first one of creation\u2014it was the same Beneficence which prompted, and the same Power that wrought it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He hath done all things well\u2014reminding us, says TRENCH, of the words of the first creation (Genesis 1:31, Septuagint), upon which we are thus not unsuitably thrown back, for Christ's work is in the truest sense 'a new creation,'\" (Mark 7:37).",
+            "He maketh both the deaf to hear and the dumb to speak,\" (Mark 7:37).",
+            "And they glorified the God of Israel,\" (Mark 7:37)."
+        ],
+        "Albert Barnes": [
+            "Beyond measure - Exceedingly; very much. In the Greek, 'Very abundantly.'",
+            "He hath done all things well - All things in a remarkable manner.",
+            "He has perfectly effected the cure of this deaf-mute."
+        ],
+        "Marvin Vincent": [
+            "Astonished. See on Matthew 7:28. ",
+            "To speak [\u03bb\u03b1\u03bb\u03b5\u03b9\u03bd] . See on Matthew 28:18. The emphasis is not on the matter, but on the fact of speech. "
+        ],
+        "John Calvin": [
+            "He hath done all things well.",
+            "All that he did was so far from exposing him to calumny that it deserved the highest praise.",
+            "Nothing is more unjust than to make the bestowal of favors an occasion of envy and ill-will."
+        ],
+        "Philip Schaff": [
+            "Beyond measure. Their excessive zeal was equalled by their excessive astonishment.",
+            "He hath done all things well. Perhaps an allusion to Genesis 1:31; the same Power and Beneficence were manifested in His healing as in God\u2019s work of creation.",
+            "The dumb to speak. This favors the view that the cured man was entirely speechless. The whole verse intimates that this was but one of many miracles. Comp. Matthew 15:30-31."
+        ],
+        "Archibald T. Robertson": [
+            "He hath done all things well (\u039a\u03b1\u03bb\u03c9\u03c2 \u03c0\u03b1\u03bd\u03c4\u03b1 \u03c0\u03b5\u03c0\u03bf\u03b9\u03b7\u03ba\u03b5\u03bd). The present perfect active shows the settled convictions of these people about Jesus.",
+            "Their great amazement (\u03c5\u03c0\u03b5\u03c1\u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03c9\u03c2 \u03b5\u03be\u03b5\u03c0\u03bb\u03b7\u03c3\u03c3\u03bf\u03bd\u03c4\u03bf), imperfect passive and compound adverb, thus found expression in a vociferous championship of Jesus in this pagan land."
+        ],
+        "John Gill": [
+            "The grace of God, in opening the ears and heart of a sinner, and causing the tongue of the dumb to sing his praise, is very astonishing, to men and angels; to the persons themselves that partake of it; and to all the saints that hear of it; it is amazing that such grace should be bestowed at all; and it is more, that it should be communicated to such unworthy persons it is; as also that it should produce such effects it does; that it should make such a surprising change, and be attended with such blessed consequences.",
+            "He hath done all things well; not by Beelzebub, the prince of devils, as said the Scribes and Pharisees; nor in any ostentatious manner, for the sake of the honour and applause of men, as they plainly saw; but for the good of mankind, and for the glory of God.",
+            "He maketh both the deaf to hear, and the dumb, or those that could not speak, at least without a great deal of difficulty, to speak; an instance of both which there was in this single man's case."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He hath done all things well, the same Beneficence and Power that God displayed in the first creation were seen in Christ's work, the truest sense of a new creation. He has cured the deaf to hear and the dumb to speak, astonishing the people who glorified the God of Israel. The settled convictions of the people about Jesus were expressed in their vociferous championship of him, exceeding in amazement and zeal. This remarkable healing is one of many miracles, alluding to the grace of God in opening the ears, heart, and mouth of sinners, causing them to sing his praise. It is astonishing that such grace should be bestowed at all, let alone on unworthy individuals, and produce such a surprising change with blessed consequences. Jesus has done all things well, not for his own glory, but for the good of mankind and the glory of God.",
+            "wordCount": 149,
+            "quoteTokenProportion": 39.36,
+            "qualityScore": 1.9146797651185246,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                30.62,
+                30.2,
+                39.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He hath done all things well, the same Beneficence that God displayed in the first creation is seen in Christ's work, a new creation. He has cured the deaf to hear and the dumb to speak, astonishing the people who glorified the God of Israel. The settled convictions of the people about Jesus were expressed in their vociferous championship of him, exceeding in amazement and zeal. He has done all things well, for the good of mankind and the glory of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.961227637476938,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                32.71,
+                31.57,
+                35.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Mark 7:37, it is declared that He hath done all things well, reminding us of the words in Genesis 1:31, where God saw that everything He had made was very good. This healing work performed by Christ is compared to the act of creation, as it showcases the same Beneficence and Power. By enabling the deaf to hear and the dumb to speak, Jesus astounded the people who glorified the God of Israel. The settled convictions of the people about Jesus were expressed through their fervent endorsement of Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8585331061891732,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                38.24,
+                30.94,
+                30.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He hath done all things well, the same Beneficence and Power that God displayed in the first creation were seen in Christ's work, a true new creation. The deaf were enabled to hear and the dumb to speak, astonishing the people who glorified the God of Israel. The settled convictions of the people about Jesus were passionately expressed, reflecting their exceeding amazement and zeal.",
+            "wordCount": 65,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.8812886709539902,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                35.77,
+                30.58,
+                33.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He hath done all things well, the same Beneficence and Power that God displayed in the first creation were seen in Christ's work, a true new creation. The deaf were enabled to hear and the dumb to speak, astonishing the people who glorified the God of Israel. The settled convictions of the people about Jesus were passionately expressed, reflecting their exceeding amazement and zeal.",
+            "wordCount": 65,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.8812886709539902,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                35.77,
+                30.58,
+                33.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:25:40",
+    "verseRef": "Mark 9:34",
+    "bestBHT": {
+        "bht": "The disciples, while on their way to Capernaum, had been arguing amongst themselves about who would be the greatest in the kingdom of heaven. Ashamed and overwhelmed, they held their peace when Jesus questioned them about it, knowing that their jealousy and rivalry had been exposed. This dispute was not just an abstract thought, but a burden that had taken root in their hearts. They likely believed that their current ranking would determine their status in the future kingdom. Their desire for worldly grandeur and misunderstanding of Jesus' teachings led to this misguided dispute.",
+        "wordCount": 94,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.6125403779279324,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+        "commentatorTierSimilarities": [
+            33.02,
+            37.32,
+            29.66
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The kingdom of heaven was looked on as about soon to appear: and their relative rank now would be assumed as their relative rank then.",
+            "The difference in the expression of this is a mark of independence and authority."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But they held their peace: for by the way they had disputed among themselves, who should be the greatest.\" ",
+            "Perhaps one or two of them first referred the matter to Jesus, who put them off till they should all be assembled together at Capernaum.",
+            "This raised the whole question afresh, and at this point our Evangelist takes it up."
+        ],
+        "Philip Schaff": [
+            "But they held their peace. In shame and contusion. The thought of their heart had been perceived.",
+            "Who was the greater. The dispute was occasioned by the preference given to Peter, James, and John, rather than by the promise to Peter.",
+            "They probably thought that their rank now would determine their rank in the future kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "They felt ashamed that the Master had discovered their jealous rivalry.",
+            "It was not a mere abstract query, but a canker in their hearts."
+        ],
+        "John Gill": [
+            "Fearing a reprimand, for their vanity and affectation of worldly grandeur.",
+            "For by the way they had disputed among themselves, who [should be] the greatest.",
+            "They still retained their former principle, to which they knew not how to reconcile his dying."
+        ],
+        "John Wesley": [
+            "Who should be greatest \u2014 Prime minister in his kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, while on their way to Capernaum, had been arguing amongst themselves about who would be the greatest in the kingdom of heaven. Ashamed and overwhelmed, they held their peace when Jesus questioned them about it, knowing that their jealousy and rivalry had been exposed. This dispute was not just an abstract thought, but a burden that had taken root in their hearts. They likely believed that their current ranking would determine their status in the future kingdom. Their desire for worldly grandeur and misunderstanding of Jesus' teachings led to this misguided dispute.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.6125403779279324,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.96,
+            "commentatorTierSimilarities": [
+                33.02,
+                37.32,
+                29.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On their way to Capernaum, the disciples engaged in a dispute over who would hold the highest rank in the kingdom of heaven. Jesus had sensed their rivalry and questioned them about it, causing them to feel ashamed. This longing for recognition and authority was not merely an abstract thought, but a deep-rooted canker in their hearts. They mistakenly believed that their current positions would determine their future status. Their desire for worldly grandeur and ignorance of Jesus' teachings fueled their misguided ambition.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.5813218645959548,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "commentatorTierSimilarities": [
+                32.88,
+                38.85,
+                28.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During their journey to Capernaum, the disciples found themselves embroiled in a dispute about who among them would hold the highest position in the kingdom of heaven. Jesus, perceiving their jealous rivalry, confronted them, causing them to feel ashamed. This desire for worldly recognition and authority had taken root in their hearts, driving their need to determine their rankings. However, their understanding of Jesus' teachings was flawed, as they wrongly believed that their present positions would determine their future statuses in the kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5549578965424056,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.04,
+            "commentatorTierSimilarities": [
+                32.34,
+                38.45,
+                29.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On their journey to Capernaum, the disciples found themselves engaged in a dispute regarding their individual rankings in the kingdom of heaven. This rivalry, rooted in their desire for recognition and authority, was noticed by Jesus, leaving them feeling ashamed. Their misguided belief was that their current positions would determine their statuses in the future kingdom. However, their misunderstanding of Jesus' teachings led to this canker in their hearts and a misplaced emphasis on worldly grandeur.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6115740565001662,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
+            "commentatorTierSimilarities": [
+                33.97,
+                38.12,
+                27.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the disciples made their way to Capernaum, they were consumed by a dispute over their future rankings in the kingdom of heaven. Jesus, perceiving their jealous rivalry, confronted them, laying bare their misguided ambition. Their longing for recognition and authority was deeply rooted, causing them to feel ashamed when exposed. Ignoring the essence of Jesus' teachings, they mistakenly believed that their current positions would determine their importance in the future kingdom. Their warped understanding revealed a canker in their hearts and a preoccupation with worldly grandeur.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.581746810821063,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.94,
+            "commentatorTierSimilarities": [
+                33.43,
+                36.05,
+                30.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:22:37",
+    "verseRef": "Mark 5:20",
+    "bestBHT": {
+        "bht": "The healed man gratefully attributed his healing to Christ while Jesus acknowledged His Father's involvement. Obedient to Jesus' command, he proclaimed throughout the region the great works Jesus had done for him, becoming a witness of divine power. This act of faith and obedience was not only miraculous to others but also brought astonishment to the man himself. Like him, we are called to obey Christ's commands and testify to His transformative power, sharing the message of redemption in our own lives and spheres of influence.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.7533186050782308,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.64,
+        "commentatorTierSimilarities": [
+            29.01,
+            33.83,
+            37.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord, in His humility, ascribed the work to His Father: but the healed man, in his gratitude, attributed it to Christ.",
+            "He commands the man to tell this, for He was little known in Perea where it happened, and so would have no consequences to fear, as in Galilee, &c."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Throughout that considerable region did this monument of mercy proclaim his new-found Lord; and some, it is to be hoped, did more than 'marvel.'\" ",
+            "The occasion of this scene will appear presently.\" ",
+            "Jairus' Daughter."
+        ],
+        "Philip Schaff": [
+            "The healed man became a preacher, not only where Christ had been rejected but where He had not gone.",
+            "His message was his own experience: how great things Jesus had done for him, which he understood to be the same as \u2018how great things the Lord hath done for thee.\u2019",
+            "In Pella, a city of Decapolis, the Christians found refuge at the destruction of Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "He went off and did as Jesus told him.",
+            "The man had a greater opportunity for Christ right in his homeland than anywhere else.",
+            "Thousands of like cases of conversion under Christ's power have happened in rescue missions in our cities."
+        ],
+        "John Gill": [
+            "He submitted to the will of Christ, though he could gladly have gone with him; he hearkened to his instructions, took his advice, and obeyed his commands, as every one that has received favors from him ought to do.",
+            "This is an instance of the obedience of faith, and is a considerable branch of it; for, as with the heart, men believe in Christ unto righteousness, so, with the mouth, confession must be made to the glory of that salvation which Christ has wrought out.",
+            "It is not only marvelous to the persons themselves, for whom great things are done by the Lord; but it is amazing to others, to angels and men, when it is considered who they are, on whose account they are wrought; great sinners, very unworthy of such high favors."
+        ],
+        "John Wesley": [
+            "He published in Decapolis \u2014 Not only at home, but in all that country where Jesus himself did not come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man who had been healed by Jesus had a true heart of gratitude, acknowledging the power and authority of Christ. While Jesus attributed the work to His Father, the man proclaimed the great things Jesus had done for him. In his obedience and gratitude, he became a witness throughout the region, declaring the glory of the Lord. This act of faith and obedience astonishes not only those who have received the Lord's favors, but also onlookers, who marvel at the transformation of great sinners into vessels of grace. May we also obey the commands of Christ and boldly proclaim His works, for there are countless opportunities to spread His message of redemption, just as the man did in Decapolis.",
+            "wordCount": 121,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 1.7441711054894982,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                28.43,
+                35.09,
+                36.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The healed man attributed the work to Christ, while Jesus acknowledged His Father's involvement. Grateful for his rescue, the man obediently spread the news of Jesus' power, reaching even areas unfamiliar with Him. This act of faith and obedience astounded both witnesses and the man himself, as they marveled at the transformation of unworthy sinners. Let us follow his example, obeying Christ's commands and sharing His redemptive work in our own spheres. Just as the man proclaimed in Decapolis, there are countless opportunities to testify to the Lord's greatness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.6186788932131817,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                30.92,
+                31.02,
+                38.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The healed man gratefully attributed his healing to Christ while Jesus acknowledged His Father's involvement. Obedient to Jesus' command, he proclaimed throughout the region the great works Jesus had done for him, becoming a witness of divine power. This act of faith and obedience was not only miraculous to others but also brought astonishment to the man himself. Like him, we are called to obey Christ's commands and testify to His transformative power, sharing the message of redemption in our own lives and spheres of influence.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.7533186050782308,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.64,
+            "commentatorTierSimilarities": [
+                29.01,
+                33.83,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In gratitude and humility, the healed man ascribed his miraculous transformation to Christ, while Jesus commanded him to spread the news of his healing far and wide. This act of obedience and gratitude allowed the man to become a living testimony, proclaiming the greatness of Jesus' work in his life throughout the region. The remarkable nature of this event left both the man and the onlookers amazed at the power and grace of Christ. May we also obey the commands of Christ and boldly share our own experiences of His transformative work in our lives.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.670087594591437,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                31.05,
+                32.76,
+                36.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Grateful for his healing, the man attributed it to Christ, while Jesus acknowledged His Father's involvement. Obedient to Jesus' command, he spread the news of the great things Jesus had done for him, becoming a witness of divine power. This remarkable act of faith and obedience astonished both the man and those who heard his testimony. Let us also obey Christ's commands, sharing the transformative work He has done in our lives and marvel at the great things He continues to do.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.67166455996747,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.92,
+            "commentatorTierSimilarities": [
+                30.4,
+                33.19,
+                36.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

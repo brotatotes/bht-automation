@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:29:15",
+    "verseRef": "Mark 15:40",
+    "bestBHT": {
+        "bht": "Among the women present at the crucifixion was Mary Magdalene, who had previously received great favors from Christ, and Salome, the mother of James and John.",
+        "wordCount": 26,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 2.2436895961990837,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.94,
+        "commentatorTierSimilarities": [
+            41.14,
+            0.0,
+            58.86
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Magdalene. See on Matthew 27:56."
+        ],
+        "Archibald T. Robertson": [
+            "And Salome (\u03ba\u03b1 \u03a3\u03b1\u03bb\u03c9\u03bc\u03b7). Apparently the \"mother of the sons of Zebedee\" (Matthew 27:56). Only in Mark. "
+        ],
+        "John Gill": [
+            "There were also women looking on afar off,.... At some distance from the cross, observing what was said and done.",
+            "Mary Magdalene... who had received great favours from Christ.",
+            "Salome; the mother of Zebedee's children, James and John."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Among the women present at the crucifixion was Mary Magdalene, who had previously received great favors from Christ, and Salome, the mother of James and John.",
+            "wordCount": 26,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.2436895961990837,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.94,
+            "commentatorTierSimilarities": [
+                41.14,
+                0.0,
+                58.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the crucifixion, Mary Magdalene and Salome, the mother of James and John, were among the women who stood at a distance, witnessing what was happening. Mary Magdalene had previously received great favors from Christ, and her presence shows her devotion and commitment to him. Salome's presence also underscores the significance of the moment, as the mother of two prominent disciples.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7987462326845542,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                44.55,
+                0.0,
+                55.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amidst the crucifixion scene, Mary Magdalene, who had received great favors from Christ, and Salome, the mother of James and John, were present among the women who observed the unfolding events from a distance. The inclusion of Mary Magdalene highlights her deep connection with Christ, while Salome's attendance underscores the importance of the moment as the mother of two prominent disciples.",
+            "wordCount": 62,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.022521168538852,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                46.64,
+                0.0,
+                53.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Among the women who were present at the crucifixion, Mary Magdalene, who had received great favors from Christ, and Salome, the mother of James and John, were standing at a distance, observing the significant events unfolding before them. Their inclusion in this moment emphasizes Mary Magdalene's deep connection with Christ and Salome's role as the mother of two prominent disciples.",
+            "wordCount": 62,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9445827747037627,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.0,
+            "commentatorTierSimilarities": [
+                44.46,
+                0.0,
+                55.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst the crucifixion scene, Mary Magdalene, who had received great favors from Christ, and Salome, the mother of James and John, were present among the women who observed the unfolding events from a distance. The inclusion of Mary Magdalene highlights her deep connection with Christ, while Salome's attendance underscores the importance of the moment as the mother of two prominent disciples.",
+            "wordCount": 62,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.022521168538852,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.59,
+            "commentatorTierSimilarities": [
+                46.64,
+                0.0,
+                53.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

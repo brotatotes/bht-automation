@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:26:51",
+    "verseRef": "Mark 11:15",
+    "bestBHT": {
+        "bht": "As they arrived in Jerusalem, Jesus wasted no time but entered the temple and began casting out those who were involved in buying and selling. He overturned the tables of the money changers and the seats of those selling doves. These individuals were responsible for selling animals like lambs for the Passover and doves for specific purposes like new mothers or those with certain conditions. Jesus was determined to disrupt their activities and restore the sacredness of the temple. (Matthew 21:12; Luke 19:45)",
+        "wordCount": 81,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.238310353770543,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.52,
+        "commentatorTierSimilarities": [
+            18.46,
+            22.7,
+            58.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Such words as these might naturally find their place in the mongrel Greek of the slaves and freedmen who formed the first congregations of the church in Rome.\" ",
+            "Another unclassical word, but used also by Matthew.",
+            "See on Matthew 21:12."
+        ],
+        "Philip Schaff": [
+            "Mark 11:15. And they come to Jerusalem. Still another mark of accuracy. On the cleansing of the temple, see on Matthew 21:12 (John 3:13-17, refers to a distinct occurrence).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Mark is fond of 'began.'",
+            "This same late word in Matthew 21:12 which see for discussion.",
+            "It occurs in papyri."
+        ],
+        "John Gill": [
+            "and Jesus went into the temple: [...] and began to cast out them that bought and sold in the temple, and overthrew the tables of the money changers, and the seats of them that sold doves.\" ",
+            "They 'that bought and sold in the temple', were those that bought and sold lambs for the passover, which was now at hand; and the sheep and oxen for the 'Chagiga', or feast the day following; as well as doves hereafter mentioned, for new mothers, and such as had fluxes.",
+            "upon which account, there was a great demand for these creatures; and many sat upon seats to sell them, which Christ overturned."
+        ],
+        "John Wesley": [
+            "Matthew 21:12; Luke 19:45."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As they came to Jerusalem, Jesus entered the temple and immediately began casting out those who bought and sold within its grounds. He overturned the tables of the money changers and the seats of those selling doves. These individuals were involved in selling lambs for the Passover and other animals for religious purposes, as well as doves for new mothers and those with certain conditions. Due to the high demand for these creatures, many sat on seats to sell them, which Jesus disrupted. (Matthew 21:12; Luke 19:45)",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.1868261504048507,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.81,
+            "commentatorTierSimilarities": [
+                17.23,
+                19.34,
+                63.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon arriving in Jerusalem, Jesus wasted no time and went straight to the temple, where he began driving out those who were engaged in buying and selling. He overturned the tables of the money changers and the seats of those selling doves. These individuals were involved in selling various animals, such as lambs for the Passover and doves for specific purposes like new mothers or those with certain conditions. Jesus was determined to disrupt their activities and restore the sanctity of the temple. (Matthew 21:12; Luke 19:45)",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.2361011315986734,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.44,
+            "commentatorTierSimilarities": [
+                18.51,
+                23.03,
+                58.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As they arrived in Jerusalem, Jesus wasted no time but entered the temple and began casting out those who were involved in buying and selling. He overturned the tables of the money changers and the seats of those selling doves. These individuals were responsible for selling animals like lambs for the Passover and doves for specific purposes like new mothers or those with certain conditions. Jesus was determined to disrupt their activities and restore the sacredness of the temple. (Matthew 21:12; Luke 19:45)",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.238310353770543,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.52,
+            "commentatorTierSimilarities": [
+                18.46,
+                22.7,
+                58.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon arriving in Jerusalem, Jesus wasted no time but entered the temple and immediately began casting out those who were buying and selling within its premises. He overturned the tables of the money changers and the seats of those selling doves. These individuals were involved in the sale of animals, such as lambs for the Passover and doves for specific purposes, such as new mothers or those with specific conditions. Jesus was resolute in his mission to disrupt their activities and restore the sanctity of the temple. (Matthew 21:12; Luke 19:45)",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.2144696889218793,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.72,
+            "commentatorTierSimilarities": [
+                18.39,
+                21.9,
+                59.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon arriving in Jerusalem, Jesus wasted no time but entered the temple and immediately began driving out those who were buying and selling within its premises. He overturned the tables of the money changers and the seats of those selling doves. These individuals were involved in the sale of animals, such as lambs for the Passover and doves for specific purposes. Jesus was determined to disrupt their activities and restore the sanctity of the temple, showing his unwavering commitment to righteousness. (Matthew 21:12; Luke 19:45)",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.2057700169864352,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.44,
+            "commentatorTierSimilarities": [
+                18.37,
+                22.27,
+                59.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

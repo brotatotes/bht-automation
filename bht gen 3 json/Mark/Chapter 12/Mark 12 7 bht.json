@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:26:40",
+    "verseRef": "Mark 12:7",
+    "bestBHT": {
+        "bht": "The tenants in the parable said among themselves, Come let us kill him, and the inheritance shall be ours. They did not deny that the vineyard belonged to the rightful heir, but they desired to continue in their comfortable position and privileges. However, their plot did not change the ownership of the vineyard, and their actions led to their own destruction.",
+        "wordCount": 61,
+        "quoteTokenProportion": 44.19,
+        "qualityScore": 1.2390274970758433,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.54,
+        "commentatorTierSimilarities": [
+            28.07,
+            0.0,
+            71.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Those husbandmen. Lit., they the husbandmen. Wyc., tenants."
+        ],
+        "Archibald T. Robertson": [
+            "Among themselves (\u03c0\u03c1\u03bf\u03c2 \u03b5\u03b1\u03c5\u03c4\u03bf\u03c5\u03c2). This phrase alone in Mark. Luke 20:14 has \"with one another\" (\u03c0\u03c1\u03bf\u03c2 \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2), reciprocal instead of reflexive, pronoun. "
+        ],
+        "John Gill": [
+            "They could not deny but that the vineyard of the house of Judah belonged to him, and he was right heir to the throne of Israel.",
+            "Come let us kill him, and the inheritance shall be ours.",
+            "That they might continue in the quiet possession of their nation, temple, and worship, in the office they bore, and in the privileges they partook of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The tenants in the parable said among themselves, Come let us kill him, and the inheritance shall be ours. They did not deny that the vineyard belonged to the rightful heir, but they desired to continue in their comfortable position and privileges. However, their plot did not change the ownership of the vineyard, and their actions led to their own destruction.",
+            "wordCount": 61,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.2390274970758433,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.54,
+            "commentatorTierSimilarities": [
+                28.07,
+                0.0,
+                71.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The husbandmen or tenants in the parable secretly plotted, saying, Come let us kill him, and the inheritance shall be ours. Even though they recognized that the vineyard rightfully belonged to the heir, they selfishly desired to maintain their status quo and benefits. Nonetheless, their scheme did not alter the ownership of the vineyard, and instead, it resulted in their own downfall.",
+            "wordCount": 62,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.2076640193997508,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                30.61,
+                0.0,
+                69.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tenants, also referred to as the husbandmen, in the parable contemplated amongst themselves, Come let us kill him, and the inheritance shall be ours. They acknowledged that the vineyard rightfully belonged to the heir but were motivated by their desire to preserve their privileges, the tranquility of their nation, and their position. Nevertheless, their devious plan did not change the true ownership of the vineyard and ultimately led to their own demise.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.1837078603017896,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.7,
+            "commentatorTierSimilarities": [
+                30.16,
+                0.0,
+                69.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The husbandmen, or tenants, in the parable conspired together, affirming, Come let us kill him, and the inheritance shall be ours. They acknowledged the rightful ownership of the vineyard by the heir but were driven by their longing for continued possession of their nation, temple, and worship, as well as the privileges they enjoyed. However, their plot failed to alter the true ownership of the vineyard and resulted in their own downfall.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.2202841731352176,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.92,
+            "commentatorTierSimilarities": [
+                27.33,
+                0.0,
+                72.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tenants, also known as the husbandmen, contemplated among themselves, saying, Come let us kill him, and the inheritance shall be ours. They grudgingly accepted the fact that the vineyard belonged to the rightful heir, yet they sought to maintain their current status and benefits. Ultimately, their nefarious scheme failed to alter the true ownership of the vineyard and, instead, led to their own ruin.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.200946152116211,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.27,
+            "commentatorTierSimilarities": [
+                31.73,
+                0.0,
+                68.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

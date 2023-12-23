@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:28:05",
+    "verseRef": "Mark 13:36",
+    "bestBHT": {
+        "bht": "Lest, coming suddenly, he find you sleeping\u2014Inattentive to your post, neglecting your duty, and unprepared for his coming. The special duty of the Apostles, representing the ministry, is doubtlessly referred to as they should be watchful and diligent, faithfully attending to the duties entrusted to them. Ministers should be prepared and not inactive in the exercise of grace, negligent in the performance of duty, or unprepared for his coming and unfit for service.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 1.430660595739756,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.91,
+        "commentatorTierSimilarities": [
+            8.03,
+            49.87,
+            42.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "36. Lest, coming suddenly, he find",
+            "\tyou sleeping\u2014See on :-;",
+            "\t :-."
+        ],
+        "Albert Barnes": [
+            "Find you sleeping - Inattentive to your post, neglecting your duty, and unprepared for his coming."
+        ],
+        "Philip Schaff": [
+            "Coming suddenly... he find you sleeping.",
+            "The special duty of the Apostles... is doubtless referred to as representing the ministry.",
+            "Ministers... should be watchful and diligent, faithfully attending to the duties entrusted to them."
+        ],
+        "John Gill": [
+            "Lest coming suddenly, unthought of, and unexpected, at an unawares.",
+            "Find you sleeping; inactive in the exercise of grace, and negligent in the performance of duty.",
+            "Unprepared for his coming, and unfit for service."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Lest, coming suddenly, he find you sleeping\u2014Inattentive to your post, neglecting your duty, and unprepared for his coming. The special duty of the Apostles, which represents the ministry, is doubtlessly referred to here. Ministers should be watchful and diligent, faithfully attending to the duties entrusted to them, lest coming suddenly, unthought of, and unexpected, they find themselves inactive in the exercise of grace and negligent in the performance of duty, unprepared for his coming and unfit for service.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.3857044940394943,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.42,
+            "commentatorTierSimilarities": [
+                10.03,
+                51.47,
+                38.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Lest, coming suddenly, he find you sleeping\u2014Inattentive to your post, neglecting your duty, and unprepared for his coming. The special duty of the Apostles, representing the ministry, is doubtlessly referred to here. Ministers should faithfully attend to their entrusted duties, being watchful, diligent, and not inactive in the exercise of grace or negligent in the performance of duty. They should be prepared for his unexpected arrival and ready to serve.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.2281303013111105,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.18,
+            "commentatorTierSimilarities": [
+                7.48,
+                51.3,
+                41.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Lest, coming suddenly, he find you sleeping\u2014Inattentive to your post, neglecting your duty, and unprepared for his coming. The special duty of the Apostles, representing the ministry, is doubtlessly referred to as they should be watchful and diligent, faithfully attending to the duties entrusted to them. Ministers should be prepared and not inactive in the exercise of grace, negligent in the performance of duty, or unfit for service when he arrives unexpectedly.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.3900700650020208,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.56,
+            "commentatorTierSimilarities": [
+                7.86,
+                50.39,
+                41.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Lest, coming suddenly, he find you sleeping\u2014Inattentive to your post, neglecting your duty, and unprepared for his coming. The special duty of the Apostles, representing the ministry, is doubtlessly referred to as they should be watchful and diligent, faithfully attending to the duties entrusted to them. Ministers should be prepared and not inactive in the exercise of grace, negligent in the performance of duty, or unprepared for his coming and unfit for service.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.430660595739756,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.91,
+            "commentatorTierSimilarities": [
+                8.03,
+                49.87,
+                42.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Lest, coming suddenly, he find you sleeping\u2014inattentive to your post, neglecting your duty, and unprepared for his coming. The special duty of the Apostles, representing the ministry, is doubtlessly referred to as they should be watchful and diligent, faithfully attending to the duties entrusted to them. Ministers should be prepared, not inactive in the exercise of grace, negligent in the performance of duty, or unfit for service when he arrives unexpectedly.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.3858075975006807,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.42,
+            "commentatorTierSimilarities": [
+                8.07,
+                50.39,
+                41.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:26:45",
+    "verseRef": "Mark 11:2",
+    "bestBHT": {
+        "bht": "Jesus tells His disciples to go into the village where they will find a colt tied, one that no one has ever ridden. The accounts in Matthew, Mark, and Luke are almost identical in their description of this event. It is interesting to note that while Matthew mentions the presence of the colt's mother, Mark and Luke primarily focus on the colt itself. This emphasizes the significance of Jesus choosing to ride on a colt that had never been broken or ridden before. The disciples are instructed to untie the colt and bring it to Jesus.",
+        "wordCount": 97,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9346100672081534,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.67,
+        "commentatorTierSimilarities": [
+            40.93,
+            34.63,
+            24.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As far as ye shall find, the agreement in Matthew, Mark, and Luke is nearly verbal.",
+            "Our Lord\u2019s birth, triumph, and burial were to be, in this, alike.",
+            "But does it never strike such annotators, that this very usage would lead not only to the narrative being so constructed, but to the command itself having been so given?"
+        ],
+        "Marvin Vincent": [
+            "Colt. Only Matthew adds the ass. Mark and Luke have colt only."
+        ],
+        "Philip Schaff": [
+            "Mark 11:2. A colt. Matthew mentions the mother, but Mark and Luke the colt only.",
+            "Whereon no man ever yet sat. This agrees with the account that the mother was with it.",
+            "Animals never yet worked were used for sacred purposes (Numbers 19:2; Deuteronomy 21:3; 1 Samuel 6:7)."
+        ],
+        "Archibald T. Robertson": [
+            "As ye enter (\u03b5\u03b9\u03c3\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bc\u03b5\u03bd\u03bf). So also Luke 19:30. Present middle participle.",
+            "Colt (\u03c0\u03c9\u03bb\u03bf\u03bd). So Luke 19:30. Matthew 21:2 speaks of the ass (\u03bf\u03bd\u03bf\u03bd) also.",
+            "Whereon no one ever yet sat (\u03b5\u03c6' \u03bf\u03bd \u03bf\u03c5\u03b4\u03b5\u03b9\u03c2 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd \u03b5\u03ba\u03b1\u03b8\u03b9\u03c3\u03b5\u03bd). So Luke 19:30."
+        ],
+        "John Gill": [
+            "and as soon as ye be entered into it; are come to the town's end, and to one of the first houses in it, ye shall find a colt tied.",
+            "whereon never man sat; which had never been backed and broke, and which makes it the more wonderful, that Christ should choose to ride upon it, and that that should quietly carry him.",
+            "loose him, and bring him; that is, away to me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus instructs his disciples to go into the village, where they will find a colt tied, which no one has ever ridden before. The accounts in Matthew, Mark, and Luke of this event are nearly identical. It is worth considering the possibility that the shared wording is due to both the narrative structure and the way the command was given. Matthew mentions that the mother of the colt is present, while Mark and Luke focus on the colt itself. This suggests that Jesus chose to ride on a colt that had never been backed or broke, making it all the more remarkable that it would peacefully carry Him. The disciples are told to untie the colt and bring it to Him.",
+            "wordCount": 121,
+            "quoteTokenProportion": 47.44,
+            "qualityScore": 1.819988584783892,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                39.88,
+                34.01,
+                26.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus tells His disciples to go into the village where they will find a colt tied, one that no one has ever ridden. The accounts in Matthew, Mark, and Luke are almost identical in their description of this event. It is interesting to note that while Matthew mentions the presence of the colt's mother, Mark and Luke primarily focus on the colt itself. This emphasizes the significance of Jesus choosing to ride on a colt that had never been broken or ridden before. The disciples are instructed to untie the colt and bring it to Jesus.",
+            "wordCount": 97,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9346100672081534,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.67,
+            "commentatorTierSimilarities": [
+                40.93,
+                34.63,
+                24.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus tells His disciples to go into the village and find a colt tied, a young donkey that no one has ever ridden. The similarities in the accounts of Matthew, Mark, and Luke highlight the precision and agreement in their narratives. Notably, while Matthew includes the mention of the colt's mother, Mark and Luke focus solely on the colt itself. This detail emphasizes the remarkable choice of Jesus to ride upon an untamed colt, contributing to the extraordinary nature of His entrance into the city. The disciples are instructed to untie the colt and bring it to Jesus.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.7669653270667491,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.09,
+            "commentatorTierSimilarities": [
+                41.15,
+                34.94,
+                23.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus instructs His disciples to enter the village and locate a young colt tied up, one which has never been ridden before. The accounts in Matthew, Mark, and Luke exhibit striking verbal similarities, suggesting a shared narrative structure and the likelihood of the command being given in this manner. While Matthew mentions both the colt and its mother, Mark and Luke solely focus on the colt. Jesus deliberately selects an untamed colt for His triumphant entrance, an extraordinary choice considering it has never been broken or ridden. The disciples are to release the colt and bring it to Jesus.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.883728815668058,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                40.67,
+                33.33,
+                26.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus directs His disciples to enter the village where they will find a young colt tied up, one that has never been ridden. The accounts in Matthew, Mark, and Luke closely match each other, indicating the high level of agreement in their narratives. While Matthew mentions the presence of the colt's mother, Mark and Luke focus solely on the colt itself. This unique choice of an untamed colt, untouched by human hand, adds to the significance of Jesus' decision to ride upon it. The disciples are instructed to loosen the colt and bring it to Jesus.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8416484959402109,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                40.8,
+                35.16,
+                24.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

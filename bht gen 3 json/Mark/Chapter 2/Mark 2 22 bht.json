@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:20:29",
+    "verseRef": "Mark 2:22",
+    "bestBHT": {
+        "bht": "The mention of putting new wine into fresh wineskins raises some textual debate among scholars, with the clause being considered a Western non-interpolation by some and genuine by others due to its presence in Luke 5:38. The phrase old bottles refers to the Scribes and Pharisees who reject the Gospel and despise it, leading to their increased sin and misery. In contrast, the new wine represents the hearts of sinners who have been called to repentance, renewed by the Spirit, and who eagerly desire the Gospel.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.317227145045876,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+        "commentatorTierSimilarities": [
+            29.97,
+            0.0,
+            70.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "But new wine into fresh wineskins.",
+            "Westcott and Hort bracket this clause as a Western non-interpolation though omitted only in D and some old Latin MSS.",
+            "It is genuine in Luke 5:38 and may be so here."
+        ],
+        "John Gill": [
+            "By 'old bottles' are meant, the Scribes and Pharisees, the whole, which needed not a physician, and the righteous, Christ came not to call...",
+            "the Gospel will only fill them with rage and fury, and they will despise it, and let it go; which will be an aggravation of their sin and misery...",
+            "into the hearts of sinners, who are called to repentance, and are renewed in the Spirit of their minds; are newborn babes, that desire the sincere milk of the word, and wine of the Gospel..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks about putting new wine into fresh wineskins. This clause is debated among scholars, with some arguing that it is a Western non-interpolation while others believe it is genuine, as it is found in Luke 5:38 as well. In terms of interpretation, the old bottles refer to the Scribes and Pharisees who reject the Gospel and despise it, leading to their increased sin and misery. On the other hand, the new wine symbolizes the hearts of sinners who have been called to repentance, renewed by the Spirit, and desire the Gospel.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.3056680384617911,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.76,
+            "commentatorTierSimilarities": [
+                38.48,
+                0.0,
+                61.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mention of putting new wine into fresh wineskins raises some textual debate among scholars, with the clause being considered a Western non-interpolation by some and genuine by others due to its presence in Luke 5:38. The phrase old bottles refers to the Scribes and Pharisees who reject the Gospel and despise it, leading to their increased sin and misery. In contrast, the new wine represents the hearts of sinners who have been called to repentance, renewed by the Spirit, and who eagerly desire the Gospel.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.317227145045876,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+            "commentatorTierSimilarities": [
+                29.97,
+                0.0,
+                70.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some scholars suggest that the clause about putting new wine into fresh wineskins in Mark 2:22 may be a Western non-interpolation, while others argue for its authenticity based on its presence in Luke 5:38. In terms of interpretation, the phrase old bottles refers to the Scribes and Pharisees who reject and despise the Gospel, leading to increased sin and misery. Conversely, the new wine symbolizes the hearts of sinners who have been called to repentance, renewed by the Spirit, and eagerly desire the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3187844975640255,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.19,
+            "commentatorTierSimilarities": [
+                33.39,
+                0.0,
+                66.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The debate among scholars centers around the authenticity of the phrase putting new wine into fresh wineskins in the passage. While some consider it a Western non-interpolation, others argue for its genuineness based on its occurrence in a parallel passage. The expression old bottles refers to the Scribes and Pharisees who reject and despise the Gospel, resulting in increased sin and misery. On the contrary, new wine symbolizes the hearts of sinners who are called to repentance, renewed by the Spirit, and eagerly seek the Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.0341897278292458,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.73,
+            "commentatorTierSimilarities": [
+                29.69,
+                0.0,
+                70.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The authenticity of the phrase putting new wine into fresh wineskins is disputed among scholars, with some suggesting it may be a Western non-interpolation, while others maintain its genuineness based on a parallel occurrence. The reference to old bottles signifies the Scribes and Pharisees who reject and despise the Gospel, resulting in intensified sin and misery. In contrast, the new wine represents sinners who have been called to repentance, renewed by the Spirit, and eagerly longing for the Gospel's message.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.1795245462916124,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.56,
+            "commentatorTierSimilarities": [
+                28.86,
+                0.0,
+                71.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:21:16",
+    "verseRef": "Mark 3:30",
+    "bestBHT": {
+        "bht": "The Lord's denunciation is grounded in the fact that the accusers called and summoned Him, who looked on them and those who surrounded Him. These accusers had attributed the works of the Holy Spirit to the power of an evil spirit, despite the evidence that they were divinely accomplished. Their act amounted to the unforgivable sin against the Holy Ghost, as they ascribed the miracles of Christ to the influence of the devil himself.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.574533107572082,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+        "commentatorTierSimilarities": [
+            10.95,
+            45.37,
+            43.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "30.] explains the ground and meaning of this awful denunciation of the Lord."
+        ],
+        "Marvin Vincent": [
+            "An addition peculiar to Mark.",
+            "They sent unto him calling him.",
+            "Looking round on them which sat round about him."
+        ],
+        "Philip Schaff": [
+            "This does not necessarily define the sin of blasphemy against the Holy Ghost, but certainly indicates its character.",
+            "Ever if these accusers had not committed it, their language tended in that direction.",
+            "They had attributed to an evil spirit what was the work of the Holy Spirit, that too in presence of sufficient evidence of its true character."
+        ],
+        "John Gill": [
+            "They charged Christ with having a devil, and his miracles with being wrought by the help of the devil; when, at the same time, they knew in their own consciences they were works which were wrought by the finger and Spirit of God.\" ",
+            "They were guilty of the sin against the Holy Ghost; the unpardonable sin, for which there is no remission.\" ",
+            "They had been guilty of it, and so were liable to everlasting punishment on account of it."
+        ],
+        "John Wesley": [
+            "Is it not astonishing, that men who have ever read these words, should doubt, what is the blasphemy against the Holy Ghost?",
+            "Can any words declare more plainly, that it is 'the ascribing those miracles to the power of the devil which Christ wrought by the power of the Holy Ghost?'",
+            "He hath an unclean spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in question explains the reason behind the severe reprimand from the Lord. The addition to Mark's gospel emphasizes the act of calling and summoning the Lord. The accusers had attributed the miraculous works of the Holy Spirit to the power of an evil spirit, despite the clear evidence of their true divine origin. By doing so, they had committed the unforgivable sin against the Holy Ghost, deserving everlasting punishment. The sin is unmistakably identified as ascribing the miracles of Christ, performed by the power of the Holy Spirit, to the influence of the devil himself.",
+            "wordCount": 98,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.5346894744108899,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.37,
+            "commentatorTierSimilarities": [
+                18.31,
+                40.18,
+                41.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord's denunciation is grounded in the fact that the accusers called and summoned Him, who looked on them and those who surrounded Him. These accusers had attributed the works of the Holy Spirit to the power of an evil spirit, despite the evidence that they were divinely accomplished. Their act amounted to the unforgivable sin against the Holy Ghost, as they ascribed the miracles of Christ to the influence of the devil himself.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.574533107572082,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                10.95,
+                45.37,
+                43.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The severe reprimand the Lord gave was prompted by the accusers sending for Him and calling Him, and His response was to look round on them and those who surrounded Him. These accusers had committed the unpardonable sin against the Holy Ghost by attributing the works of the Holy Spirit to the assistance of an evil spirit, even though they were fully aware that these works were accomplished by the power of the Holy Spirit.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.4488110551592939,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                15.01,
+                44.73,
+                40.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The addition to Mark's account sheds light on the reason behind the Lord's solemn denunciation. The accusers had sent for Him and called Him, and Jesus, in response, looked around at those who sat around Him. Here, the accusers had committed the unforgivable sin against the Holy Ghost, as they ascribed the miraculous works of the Holy Spirit to the assistance of an evil spirit. These works, however, were unmistakably performed through the finger and Spirit of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.3725502226755424,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.98,
+            "commentatorTierSimilarities": [
+                19.51,
+                41.07,
+                39.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord's severe denunciation was a result of the accusers summoning Him and calling Him, as described in the passage by the addition unique to Mark. By attributing the works of the Holy Spirit to the power of an evil spirit, these accusers committed the unpardonable sin against the Holy Ghost. It is clear that the sin is the act of ascribing the miracles of Christ, which were performed through the power of the Holy Spirit, to the influence of the devil.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.5761768055880205,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "commentatorTierSimilarities": [
+                12.13,
+                43.09,
+                44.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

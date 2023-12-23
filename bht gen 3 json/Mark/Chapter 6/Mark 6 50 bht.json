@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:23:59",
+    "verseRef": "Mark 6:50",
+    "bestBHT": {
+        "bht": "Troubled by the sight of Jesus walking on water, they all saw Him and were troubled; however, His words, It is I, echoed the power of the Almighty I AM. Remarkably, Mark's Gospel excludes the incident of Peter's walk on the waves but emphasizes Jesus' friendly and encouraging address to the disciples. His voice reassured them in the darkness, dispelling their fears and restoring their peace of mind.",
+        "wordCount": 70,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.6005670145120074,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+        "commentatorTierSimilarities": [
+            34.47,
+            35.89,
+            29.64
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All saw him, and were troubled: peculiar to Mark.",
+            "After this follows the history respecting Peter, which might naturally be omitted here if this Gospel were drawn up under his inspection.",
+            "But this is at least doubtful in any general sense."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is something in these two little words\u2014'It is I,' which from the mouth that spake it and the circumstances in which it was uttered, passes the power of language to express.",
+            "But spoken by One who at that moment was 'treading upon the waves of the sea,' and was about to hush the raging elements with His word, what was it but the Voice which cried of old in the ears of Israel, even from the days of Moses, 'I AM'; 'I, EVEN I, AM HE!'",
+            "This rebuke was not administered while Peter was sinking, nor till Christ had him by the hand: first reinvigorating his faith, and then with it enabling him again to walk upon the crested wave."
+        ],
+        "Marvin Vincent": [
+            "They all saw him. Peculiar to Mark.",
+            "Mark's with them is more familiar, and gives the idea of a more friendly and encouraging address.",
+            "It is significant, in view of Peter's relation to this gospel, that Mark omits the incident of Peter's walk on the waves."
+        ],
+        "Philip Schaff": [
+            "For they all saw him and were troubled. A proof that this story was not due to the over-heated imagination of a few of them.",
+            "At this point Peter's attempt to walk on the water occurred."
+        ],
+        "Archibald T. Robertson": [
+            "It is I (\u03b5\u03b3\u03bf \u03b5\u03b9\u03bc). These were the astounding words of cheer.",
+            "They did not recognize Jesus in the darkness.",
+            "His voice reassured them."
+        ],
+        "John Gill": [
+            "Had it been only seen by one, it might have been thought a fancy, and the effect of mere imagination; but as everyone saw it, it was out of all doubt that so it was.",
+            "That so by hearing his voice their fears might be allayed.",
+            "Be of good cheer, it is I, be not afraid."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As they all saw Jesus walking on the water, they were troubled, a detail peculiar to Mark's Gospel. His words, It is I, carried a profound significance, for spoken by the One who could walk on the sea and calm the storm, it echoed the voice of the Almighty, the great I AM. Interestingly, Mark's account omits Peter's walk on the waves, instead emphasizing the friendly and encouraging nature of Jesus' address to the disciples. For before rebuking the storm, Jesus first reinvigorated Peter's faith, enabling him to walk on the water once again. Through his voice, Jesus reassured them, dispelling their fears and restoring their confidence.",
+            "wordCount": 111,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6664274625044866,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                33.57,
+                44.09,
+                22.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Troubled by the sight of Jesus walking on water, all the disciples saw and heard Him say, It is I, words that held immeasurable power and significance. As the One who could calm storms and traverse the sea, Jesus' statement echoed the voice of the Almighty, the great I AM. Mark's Gospel, unique in its account, omits Peter's walk on water, focusing instead on the friendly and encouraging nature of Jesus' address. His voice, reassuring and comforting, dispelled their fears and restored their confidence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5475027624625444,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                33.12,
+                39.28,
+                27.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Witnessing Jesus walking on water, the disciples were filled with trouble. Mark's Gospel highlights the significance of Jesus saying, It is I, as it conveyed His divine nature and power. By treading upon the waves and about to calm the storm, Jesus was like the Voice of old that cried, I AM; a voice that instilled awe and reverence. Notably, Mark excludes Peter's walk on water, focusing instead on the supportive and encouraging tone of Jesus' address. His reassuring voice dispelled their fears and restored their faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.5058539513512936,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.41,
+            "commentatorTierSimilarities": [
+                35.38,
+                37.82,
+                26.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Witnessing Jesus walking on the water troubled the disciples, but His words, It is I, carried an indescribable power. Spoken by the One who could command the raging elements, these words resonated with the divine announcement, I AM. Notably, Mark's Gospel omits Peter's walk on the waves, instead emphasizing the friendly and encouraging address of Jesus to the disciples. His voice, heard amidst the darkness, reassured them and dispelled their fears.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.471755914017145,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.28,
+            "commentatorTierSimilarities": [
+                36.57,
+                31.65,
+                31.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Troubled by the sight of Jesus walking on water, they all saw Him and were troubled; however, His words, It is I, echoed the power of the Almighty I AM. Remarkably, Mark's Gospel excludes the incident of Peter's walk on the waves but emphasizes Jesus' friendly and encouraging address to the disciples. His voice reassured them in the darkness, dispelling their fears and restoring their peace of mind.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.6005670145120074,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.56,
+            "commentatorTierSimilarities": [
+                34.47,
+                35.89,
+                29.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

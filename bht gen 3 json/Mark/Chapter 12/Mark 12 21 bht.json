@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:26:47",
+    "verseRef": "Mark 12:21",
+    "bestBHT": {
+        "bht": "According to the ancient custom, if a man dies without children, his eldest brother bears the responsibility to marry his widow. If the eldest refuses, they go to the other brothers, returning to the eldest and compelling him to either marry or symbolically pluck off the shoe. Sadly, in this case, multiple brothers married the widow but all passed away without any descendants.",
+        "wordCount": 63,
+        "quoteTokenProportion": 42.22,
+        "qualityScore": 1.798392919906911,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "the command is upon thee, either pluck off the shoe, or marry.",
+            "if the eldest will not marry her, they go round to all the brethren; and if they will not, they return to the eldest, and say, upon thee is the command, either pluck off the shoe, or marry; and they do not compel him to marry, but they compel him to pluck off the shoe.\" ",
+            "married her, and died without issue, as the second did. The Persic version adds, 'and the fourth, and fifth'; for so they all did to the seventh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "According to commentators, this verse is referring to the ancient practice of levirate marriage, where a man would marry his deceased brother's widow if he died without having any children. The commentaries explain that if the eldest brother did not want to marry her, they would go to the other brothers until eventually returning to the eldest brother and compelling him to either marry or symbolically pluck off the shoe. The third-tier commentary further highlights that in this specific case, multiple brothers married her but died without any offspring.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.5539764016598818,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "According to ancient customs, if a married man passed away without having children, his eldest brother would be obligated to marry his widow. If the eldest refused, they would seek the other brothers until they returned to the eldest and forced him to either marry or symbolically renounce the responsibility by removing his shoe. In this particular case, multiple brothers fulfilled the duty but tragically died without leaving any descendants behind.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.50166812172785,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As per the ancient practice of levirate marriage, if a man died childless, his eldest brother would be commanded to either marry the widow or symbolically pluck off the shoe. If the eldest declined, they would approach the other siblings before returning to the eldest and compelling him to fulfill the duty. In this specific scenario, multiple brothers married the widow, but none of them were able to conceive offspring.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5264650921021332,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.1,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the context of this verse, it refers to the practice of levirate marriage, wherein the eldest brother is obligated to marry his deceased brother's widow if he has no children. The commentaries explain that if the eldest refuses, they approach the other brothers until they return to the eldest and compel him to either marry or symbolically pluck off the shoe. Multiple brothers married the widow but tragically died without leaving any offspring.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7085309753231621,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "According to the ancient custom, if a man dies without children, his eldest brother bears the responsibility to marry his widow. If the eldest refuses, they go to the other brothers, returning to the eldest and compelling him to either marry or symbolically pluck off the shoe. Sadly, in this case, multiple brothers married the widow but all passed away without any descendants.",
+            "wordCount": 63,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 1.798392919906911,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

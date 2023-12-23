@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:20:09",
+    "verseRef": "Mark 1:25",
+    "bestBHT": {
+        "bht": "Jesus' authoritative command to the demon illustrates his power as he instructs it to be silenced and come out. By employing the phrase be muzzled, Jesus effectively restrains the demon and disregards its testimony. He relies on his own identity and strength to drive out the demon, showing that he does not require the flattery or praises of demons to establish his authority. Jesus sets himself apart from others who claim similar power but lack the true source.",
+        "wordCount": 78,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.5978612909036132,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.47,
+        "commentatorTierSimilarities": [
+            19.23,
+            41.98,
+            38.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Hold thy peace, and come out of him\u2014A glorious word of command.\" ",
+            "It was only the testimony borne to Himself which our Lord meant to silence.\" ",
+            "He would right willingly permit [the demon] to afterwards cry out for fear or rage."
+        ],
+        "Marvin Vincent": [
+            "Hold thy peace (\u03c6\u03b9\u03bc\u03c9\u0301\u03b8\u03b7\u03c4\u03b9)",
+            "Lit., be muzzled or gagged See on Mat 22:12."
+        ],
+        "Philip Schaff": [
+            "Our Lord refuses the testimony of demons to His Person.",
+            "Lit., \u2018be thou muzzled,\u2019 silenced. A command joined with enforcing power.",
+            "Two distinct personalities are spoken of, the demon and the possessed man."
+        ],
+        "Archibald T. Robertson": [
+            "Be muzzled like an ox.\" ",
+            "Shut up.\" ",
+            "Gagged."
+        ],
+        "John Gill": [
+            "I need no such witness as thine, nor thy praises; I am not to be soothed by thy flattery, nor is my mouth to be stopped, or power restrained, by such methods.\" ",
+            "I will not let thee alone, thy encomiums of me shall not prevail upon me to leave thee in the quiet possession of the man; I will give a testimony of who I am, by the dispossessing of thee out of this man.\" ",
+            "In imitation of this authoritative power of Christ, the Jewish exorcists, in their pretensions to cast out devils, use a like form: so they tell us... saying, 'Come out, Ben Talmion come out'; and he came out of her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 1:25, Jesus responds to the demon by commanding it to be silenced and come out of the possessed man. This command showcases the authoritative power of Jesus, as he refuses to let the demon testify to his identity. While the demon may later cry out in fear or rage, Jesus willingly muzzles it like an ox, shutting it up and gagging its praises. Jesus does not need the flattery or witness of demons; he shows that he is the true power by dispossessing the demon from the man. This act sets him apart from the Jewish exorcists who used a similar form of authoritative power but were not the true source of it.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.7188293523295068,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                19.06,
+                41.91,
+                39.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus demonstrates his authority in Mark 1:25 as he commands the demon to be silenced, using the phrase be muzzled like an ox, effectively shutting it up and gagging its praises. Jesus refuses to rely on the testimony of demons and does not let their flattery sway him. By dispossessing the demon from the man, Jesus establishes his true power and distinguishes himself from the Jewish exorcists who used a similar authoritative form but lacked the true source of power.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7287385562243087,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                18.42,
+                40.9,
+                40.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' powerful command in this passage effectively silences the demon and demonstrates his divine authority. By using the phrase be muzzled like an ox, Jesus forcefully restrains the demon and refuses to accept its testimony. He does not need the flattery or praises from demons to establish his identity. Instead, Jesus proves his power by driving out the demon, showcasing his true authority as the source of deliverance. This distinguishes him from others who may claim similar power without possessing the true source.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5340429134631326,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.35,
+            "commentatorTierSimilarities": [
+                18.39,
+                43.43,
+                38.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through a commanding phrase like be muzzled, Jesus exhibits his divine authority over the demon in this verse. He refuses to accept the testimony of the demon and instead presents his power by expelling it from the possessed man. Jesus does not rely on the flattery or praises of demons to establish his identity, distinguishing himself from others who claim similar power without possessing the true source.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.6627485868619196,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                16.7,
+                45.68,
+                37.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' authoritative command to the demon illustrates his power as he instructs it to be silenced and come out. By employing the phrase be muzzled, Jesus effectively restrains the demon and disregards its testimony. He relies on his own identity and strength to drive out the demon, showing that he does not require the flattery or praises of demons to establish his authority. Jesus sets himself apart from others who claim similar power but lack the true source.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5978612909036132,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.47,
+            "commentatorTierSimilarities": [
+                19.23,
+                41.98,
+                38.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

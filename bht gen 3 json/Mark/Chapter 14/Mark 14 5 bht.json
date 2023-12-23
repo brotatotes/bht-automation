@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:28:28",
+    "verseRef": "Mark 14:5",
+    "bestBHT": {
+        "bht": "The incident exposes the hypocrisy of the apostles, particularly Judas, who claimed that the expensive perfume could have been sold to benefit the poor. However, their true intentions were self-serving, as Judas himself was a thief entrusted with the money. The murmuring and criticism against Mary of Bethany for her extravagant act reveal the apostles' lack of genuine concern for the needy. This scene serves as a poignant reminder of the contrast between outward displays of piety and true compassion for others.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.3093990858528,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.88,
+        "commentatorTierSimilarities": [
+            35.06,
+            29.43,
+            35.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The three hundred denarii is common to our narrative and that of St. John."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For it might have been sold for more than three hundred pence\u2014between nine and ten pounds sterling.\" ",
+            "This he said, 'not that he cared for the poor but because he was a thief, and had the bag'.\" ",
+            "What a remarkable arrangement was this, by which an avaricious and dishonest person was not only taken into the number of the Twelve, but entrusted with the custody of their little property!"
+        ],
+        "Marvin Vincent": [
+            "Murmured [\u03b5\u03bd\u03b5\u03b2\u03c1\u03b9\u03bc\u03c9\u03bd\u03c4\u03bf] . See on Mark 1:43."
+        ],
+        "Philip Schaff": [
+            "Mark 14:5. And they murmured against her. Peculiar to Mark. The original seems to indicate a harsh address to Mary, though there was probably also a general murmur against her.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Above three hundred pence.\" - The use of \"far above\" may be a detail from Peter's memory of Judas' objection whose name in this connection is preserved in John 12:4.",
+            "And they murmured against her.\" - Imperfect tense of this striking word used of the snorting of horses and seen already in Mark 1:43; Mark 11:38. It occurs in the LXX in the sense of anger as here (Daniel 11:30).",
+            "Judas made the complaint against Mary of Bethany, but all the apostles joined in the chorus of criticism of the wasteful extravagance."
+        ],
+        "John Gill": [
+            "For it might have been sold for more than three hundred pence....",
+            "and given to the poor; which was thought to be a better way of expending it...",
+            "and they murmured against her: that she should lavish so much money away in such an imprudent manner..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The incident from Mark 14:5 highlights the irony of Judas, an avaricious and dishonest person, being entrusted with the money bag. Judas's objection to Mary of Bethany's act of pouring expensive perfume on Jesus' feet was merely a smokescreen to conceal his own greed. Judas made the initial complaint, but all the apostles joined in the chorus of criticism. While they claimed that the perfume could have been sold for a large sum and given to the poor, their true motives were self-serving and lacking genuine concern for the needy. This scene vividly portrays the hypocrisy of those who pretend to care for the poor while harboring selfish intentions.",
+            "wordCount": 111,
+            "quoteTokenProportion": 34.94,
+            "qualityScore": 1.3490062481882883,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.2,
+            "commentatorTierSimilarities": [
+                32.49,
+                30.96,
+                36.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The incident exposes the hypocrisy of the apostles, particularly Judas, who claimed that the expensive perfume could have been sold to benefit the poor. However, their true intentions were self-serving, as Judas himself was a thief entrusted with the money. The murmuring and criticism against Mary of Bethany for her extravagant act reveal the apostles' lack of genuine concern for the needy. This scene serves as a poignant reminder of the contrast between outward displays of piety and true compassion for others.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.3093990858528,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.88,
+            "commentatorTierSimilarities": [
+                35.06,
+                29.43,
+                35.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The incident unveils the hypocrisy of the apostles, especially Judas, who criticized Mary of Bethany for pouring expensive perfume on Jesus' feet, claiming it could have been sold for the benefit of the poor. However, their true motivations were self-serving, as Judas, a thief, was entrusted with the money. The murmuring and condemnation show the apostles' lack of genuine concern for the needy. This episode serves as a powerful reminder of the stark contrast between empty gestures of righteousness and truly caring for others.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.2801076595551195,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.91,
+            "commentatorTierSimilarities": [
+                37.85,
+                23.04,
+                39.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The incident in Mark 14:5 reveals the disingenuousness of the apostles, particularly Judas, who objected to Mary of Bethany's act of pouring expensive perfume on Jesus' feet. While they claimed it could have been sold for the benefit of the poor, their true motives were selfish. Judas, in particular, who was entrusted with the money bag, not only lacked genuine concern for the needy but also used his position to fulfill his own greed. This account highlights the stark contrast between outward appearances and true intentions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.2937254964455103,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.36,
+            "commentatorTierSimilarities": [
+                29.08,
+                32.74,
+                38.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The incident involving the pouring of expensive perfume on Jesus' feet exposes the hypocrisy of the apostles, particularly Judas. While they claimed that the perfume could have been sold to help the poor, their true motives were self-serving. Judas, entrusted with the money, showed not only his lack of concern for the needy but also his own dishonesty. This scene reveals the stark contrast between their outward show of piety and their hidden motives, serving as a cautionary reminder of the dangers of hypocrisy.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.2768469798069346,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.8,
+            "commentatorTierSimilarities": [
+                29.12,
+                27.7,
+                43.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

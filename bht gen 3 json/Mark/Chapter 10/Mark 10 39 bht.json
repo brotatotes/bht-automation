@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:26:07",
+    "verseRef": "Mark 10:39",
+    "bestBHT": {
+        "bht": "James, the first apostle to be honored with the baptism of blood, and John, who endured numerous persecutions, were both promised the reward of glory through their sufferings. Their initial response to Jesus' prediction demonstrated their ignorance of their own weaknesses and Christ's immense sufferings, as they failed to acknowledge the grace of God or rely on the strength of Christ. Nevertheless, they both eventually experienced sufferings akin to Christ's for His sake.",
+        "wordCount": 75,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.6439861515183765,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.0,
+        "commentatorTierSimilarities": [
+            45.24,
+            0.0,
+            54.76
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "As for James, he was the first of the apostles who was honored, and showed himself able to be baptized with his Master's baptism of blood.",
+            "John, after going through all the persecutions to which the infant Church was exposed...lived to be the victim, after all the rest had got to glory, of a bitter persecution in the evening of his days.",
+            "No doubt this prediction, when their sufferings at length came upon them, cheered them with the assurance...that 'if they suffered with Him, they should be also glorified together.'"
+        ],
+        "John Gill": [
+            "They were ignorant of their own weakness as well as of the greatness of the sufferings Christ should endure or even they should be called unto.",
+            "Had they had a just notion of either, they would not have expressed themselves in this manner without any mention of the grace of God or any dependence on the strength of Christ.",
+            "But that they should endure sufferings in some sort like to his for his sake as they both afterwards did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "James and John, two of the apostles, displayed their willingness to endure sufferings for their faith. James was the first apostle to be honored with a baptism of blood, while John faced numerous persecutions throughout his life. Their sufferings were a fulfillment of Jesus' prediction, which ultimately assured them that if they suffered with Him, they would also be glorified together. However, their response, expressing ignorance of their own weakness and the greatness of Christ's suffering, lacked mention of God's grace and reliance on His strength. Nevertheless, they both indeed endured sufferings in some manner similar to Christ's for His sake.",
+            "wordCount": 104,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 1.716154839183938,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                47.95,
+                0.0,
+                52.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "James and John, two honored apostles, displayed their willingness to be baptized with their Master's baptism of blood and endured persecutions for their faith. Their sufferings fulfilled Jesus' prediction, providing them with assurance that if they suffered with Him, they would also be glorified together. However, they lacked understanding of their own weakness and the magnitude of Christ's sufferings, not acknowledging God's grace or relying on His strength. Despite this, they did suffer in a manner similar to Christ's for His sake.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.6385619404223213,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.82,
+            "commentatorTierSimilarities": [
+                46.28,
+                0.0,
+                53.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "James, the first apostle to be honored with the baptism of blood, and John, who endured numerous persecutions, were both promised the reward of glory through their sufferings. Their initial response to Jesus' prediction demonstrated their ignorance of their own weaknesses and Christ's immense sufferings, as they failed to acknowledge the grace of God or rely on the strength of Christ. Nevertheless, they both eventually experienced sufferings akin to Christ's for His sake.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.6439861515183765,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.0,
+            "commentatorTierSimilarities": [
+                45.24,
+                0.0,
+                54.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "James, being the first apostle to be honored with the baptism of blood, and John, who underwent many persecutions, were both reassured by Jesus' prediction that their sufferings would result in glorification. However, their response reflected their limited understanding of their own weaknesses and the magnitude of Christ's sufferings. They failed to mention the grace of God or to rely on the strength of Christ in facing their trials. Nonetheless, they did eventually endure sufferings similar to Christ's for His sake.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5746173218243564,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                39.24,
+                0.0,
+                60.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "James, the first apostle to be honored with the baptism of blood, and John, who faced persecutions, were both encouraged by Jesus' prediction of their sufferings leading to glorification. However, their response highlighted their lack of understanding of their own weaknesses and the magnitude of Christ's sufferings. They failed to mention God's grace or rely on Christ's strength. Nevertheless, they did endure sufferings similar to Christ's for His sake.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.569555118858662,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.53,
+            "commentatorTierSimilarities": [
+                39.24,
+                0.0,
+                60.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

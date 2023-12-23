@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:29:23",
+    "verseRef": "Mark 15:8",
+    "bestBHT": {
+        "bht": "The crowd in Jerusalem gathered with anticipation as they came up towards the palace, their excitement rising. This was a familiar sight for Pilate, who had offered the choice of release before, but Mark's Gospel uniquely captures this moment. The people were likely hoping for the customary release of a prisoner, as was the practice during festivals. It seems that the mob already desired the release of Barabbas as a political prisoner. The multitude cried out, desiring Pilate to do as he had always done, releasing a prisoner to them.",
+        "wordCount": 91,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.6286243842137558,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+        "commentatorTierSimilarities": [
+            21.29,
+            46.09,
+            32.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is also peculiar to Mark\u2014in Matthew it is Pilate who first offers them the choice.",
+            "coming up probably implies the rising of the crowd in excitement",
+            "their coming up towards the palace"
+        ],
+        "Marvin Vincent": [
+            "Crying aloud [\u03b1\u03bd\u03b1\u03b2\u03bf\u03b7\u03c3\u03b1\u03c2] . But the best texts read ajnabav, having gone up. So Rev., went up. ",
+            "Ever [\u03b1\u03b5\u03b9] . Omitted by the best texts."
+        ],
+        "Philip Schaff": [
+            "This picture of the mob in Jerusalem is true to the life.",
+            "The crowd collected, partly to see the trial, partly to call for the usual release of a prisoner, partly to be in a crowd, as is always the case on festival occasions.",
+            "Pilate proposed to the rulers the choice between Jesus and Barabbas, but the mob had probably already desired the latter as a political prisoner."
+        ],
+        "Archibald T. Robertson": [
+            "As he was wont to do unto them (\u03ba\u03b1\u03b8\u03c9\u03c2 \u03b5\u03c0\u03bf\u03b9\u03b5 \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Imperfect of customary action again and dative case. "
+        ],
+        "John Gill": [
+            "And the multitude crying aloud.",
+            "Began to desire [him to do] as he had ever done to them.",
+            "Release a prisoner to them, as he had done at every passover, since he had been a governor over them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene in Jerusalem was filled with excitement and anticipation as the crowd began to gather around the palace. This was a familiar sight for Pilate, who had offered the choice of release before, but in this case, Mark is the only Gospel that mentions the crowd coming up towards the palace. It is likely that the people were rising in excitement, eager to witness the trial and perhaps hoping for the customary release of a prisoner. This was a common practice during festivals, and it seems that the mob had already desired Barabbas as a political prisoner. The atmosphere was charged with anticipation as the multitude cried out, desiring Pilate to do as he had always done, releasing a prisoner to them.",
+            "wordCount": 123,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.5535765956426364,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+            "commentatorTierSimilarities": [
+                20.73,
+                50.3,
+                28.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the crowd gathered around the palace in Jerusalem, the atmosphere was filled with excitement. Mark's Gospel uniquely highlights this scene, where the people were seen coming up in anticipation, likely eager for the customary release of a prisoner. This was a familiar practice during festivals, and the fact that Barabbas was already desired by the mob as a political prisoner adds to the suspense. The multitude cried out, hoping Pilate would follow his usual custom and release a prisoner, as he had done before.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5807304813807102,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.9,
+            "commentatorTierSimilarities": [
+                22.07,
+                47.91,
+                30.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crowd in Jerusalem gathered with anticipation as they came up towards the palace, their excitement rising. This was a familiar sight for Pilate, who had offered the choice of release before, but Mark's Gospel uniquely captures this moment. The people were likely hoping for the customary release of a prisoner, as was the practice during festivals. It seems that the mob already desired the release of Barabbas as a political prisoner. The multitude cried out, desiring Pilate to do as he had always done, releasing a prisoner to them.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.6286243842137558,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                21.29,
+                46.09,
+                32.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the charged atmosphere in Jerusalem, the crowd eagerly gathered near the palace, their excitement rising. While the choice of release was Pilate's typical custom, Mark's Gospel specifically highlights the crowd coming up towards the palace, showcasing their anticipation. Festival occasions were known to draw crowds, and the people likely hoped for the customary release of a prisoner. It appears that Barabbas had already gained favor with the mob as a political prisoner. As the multitude cried out, they desired Pilate to adhere to his prior practice of releasing a prisoner to them.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.5346599141244224,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.37,
+            "commentatorTierSimilarities": [
+                22.2,
+                46.91,
+                30.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scene in Jerusalem was filled with anticipation as the crowd gathered near the palace, their excitement rising. This gathering of people was peculiar to Mark's Gospel, with the crowd coming up in excitement. It is likely that they were anticipating the customary release of a prisoner during the festival. The mob had already desired Barabbas as a political prisoner. The multitude cried out, desiring Pilate to continue his customary practice of releasing a prisoner, as he had done every Passover since becoming governor over them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5606342943294225,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+            "commentatorTierSimilarities": [
+                21.11,
+                46.91,
+                31.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

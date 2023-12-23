@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:27:42",
+    "verseRef": "Mark 13:26",
+    "bestBHT": {
+        "bht": "And then shall they see the Son of man coming in the clouds with great power and glory...That this language finds its highest interpretation in the Second Personal Coming of Christ, is most certain. This language speaks to the Second Personal Coming of Christ, where the Son of Man will come in clouds with great power and glory, visibly asserting His regal claims and rights. The sight of His arrival will be awe-inspiring, manifesting His divine authority and presence as the embodiment of wrath and vengeance.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.065519277637562,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+        "commentatorTierSimilarities": [
+            47.97,
+            17.44,
+            34.59
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And then shall they see the Son of man coming in the clouds with great power and glory...That this language finds its highest interpretation in the Second Personal Coming of Christ, is most certain.",
+            "Well, after the doom of these has been pronounced and executed...what follows? 'I saw in the night visions, and behold, one like THE SON OF MAN came with the clouds of heaven, and came to the Ancient of days...To receive investiture in the kingdom, which, as Messiah, of right belonged to Him.'",
+            "He seems to us, by 'the Son of man coming in the clouds with great power and glory,' to mean, that when judicial vengeance shall once have been executed upon Jerusalem...His true regal claims and rights would be visibly and gloriously asserted and manifested."
+        ],
+        "Philip Schaff": [
+            "A striking proof of independence, Mark alone has: in clouds; Matthew: \u2018on the clouds of heaven,\u2019 Luke: \u2018in a cloud.\u2019",
+            "With great power and glory.",
+            "See on Matthew 24:30."
+        ],
+        "John Gill": [
+            "And then shall they see the son of man...in the power of his wrath and vengeance...as if they had seen him in person."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And then shall they see the Son of man coming in the clouds with great power and glory...That this language finds its highest interpretation in the Second Personal Coming of Christ, is most certain. When judgment is executed, the Son of Man will come in clouds with great power and glory. This phrase signifies the regal claims and rights of Jesus, which will be visibly and gloriously asserted and manifested after the vengeance upon Jerusalem. It is a powerful and awe-inspiring sight that speaks to the divine authority and presence of the Son of Man.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.978560944401679,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.13,
+            "commentatorTierSimilarities": [
+                49.73,
+                19.19,
+                31.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And then shall they see the Son of man coming in the clouds with great power and glory...That this language finds its highest interpretation in the Second Personal Coming of Christ, is most certain. When judgment is executed, the Son of Man will come in clouds with great power and glory, visibly asserting His regal claims and rights. This awe-inspiring sight speaks to the divine authority and presence of the Son of Man.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.0229501289643776,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                49.3,
+                17.95,
+                32.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And then shall they see the Son of man coming in the clouds with great power and glory...That this language finds its highest interpretation in the Second Personal Coming of Christ, is most certain. When judgment is executed, the Son of Man will visibly and gloriously assert His regal claims and rights, coming in clouds with great power and glory. This manifestation speaks to His divine authority and presence, as foretold in the Second Personal Coming of Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0482131503162515,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                49.95,
+                18.48,
+                31.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "And then shall they see the Son of man coming in the clouds with great power and glory...That this language finds its highest interpretation in the Second Personal Coming of Christ, is most certain. This language speaks to the Second Personal Coming of Christ, where the Son of Man will come in clouds with great power and glory, visibly asserting His regal claims and rights. The sight of His arrival will be awe-inspiring, manifesting His divine authority and presence as the embodiment of wrath and vengeance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.065519277637562,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                47.97,
+                17.44,
+                34.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "And then shall they see the Son of man coming in the clouds with great power and glory...That this language finds its highest interpretation in the Second Personal Coming of Christ, is most certain. When judgment is executed, the Son of Man will come in clouds with great power and glory, visibly asserting His regal claims and rights. This visible manifestation will speak to His divine authority and presence, as if they had seen Him in person, embodying wrath and vengeance.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0597264331183336,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+            "commentatorTierSimilarities": [
+                44.89,
+                17.0,
+                38.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

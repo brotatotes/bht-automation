@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:22:53",
+    "verseRef": "Mark 5:39",
+    "bestBHT": {
+        "bht": "The words used by Jesus when referring to the dead girl highlight the transient nature of her death, as if she is in a short sleep. This comparison of death to sleep is a beautiful word that Jesus uses, emphasizing the expectation of a future resurrection. The hired mourners in the house are making a commotion, but Jesus dismisses them, showing that their ostentatious noise does not reflect genuine grief.",
+        "wordCount": 70,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.8622167249179054,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+        "commentatorTierSimilarities": [
+            51.59,
+            12.34,
+            36.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The damsel is not dead, but sleepeth\u2014so brief her state of death as to be more like a short sleep.",
+            "The damsel is not dead, but sleepeth\u2014so brief her state of death...",
+            "The damsel is not dead, but sleepeth\u2014so brief her state of death as to be more like a short sleep."
+        ],
+        "John Calvin": [
+            "Sleep is everywhere in Scripture employed to denote death; and there is no doubt but this comparison, taken from temporal rest, points out a future resurrection.",
+            "But here Christ expressly makes a distinction between sleep and death, so as to excite an expectation of life.",
+            "And yet this very circumstance was an additional confirmation of the miracle, that those persons entertained no doubt whatever as to her death."
+        ],
+        "Philip Schaff": [
+            "The crowd was kept outside, three disciples accompanying Him.",
+            "He then speaks to the crowd inside, and after their scornful reply, they are put out of the house.",
+            "They are kept from entering into the chamber of death."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus undoubtedly meant that she was not dead to stay dead, though some hold that the child was not really dead.",
+            "It is a beautiful word (she is sleeping) that Jesus uses of death.",
+            "Jesus had dismissed one crowd, but finds the house occupied by the hired mourners making bedlam as if that showed grief with their ostentatious noise."
+        ],
+        "John Gill": [
+            "Why make ye this ado and weep?...The damsel is not dead, but sleepeth.\" ",
+            "Not but that she was truly dead, but not so as to remain under the power of death.",
+            "She was like a person in a sleep, who would in a little time be awaked out of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words used by Jesus when referring to the dead girl in Mark 5:39\u2014The damsel is not dead, but sleepeth\u2014highlight the transient nature of her death. It is as if she is in a short sleep, indicating that she is not meant to remain dead. This comparison of death to sleep is a beautiful word that Jesus uses, emphasizing the expectation of a future resurrection. The hired mourners in the house are making a commotion, but Jesus dismisses them, showing that their ostentatious noise does not reflect genuine grief.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8967153529739749,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                53.41,
+                9.81,
+                36.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The words used by Jesus when referring to the dead girl highlight the transient nature of her death, as if she is in a short sleep. This comparison of death to sleep is a beautiful word that Jesus uses, emphasizing the expectation of a future resurrection. The hired mourners in the house are making a commotion, but Jesus dismisses them, showing that their ostentatious noise does not reflect genuine grief.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.8622167249179054,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                51.59,
+                12.34,
+                36.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The words used by Jesus when referring to the dead girl in Mark 5:39\u2014The damsel is not dead, but sleepeth\u2014highlight the transient nature of her death. It is as if she is in a short sleep, indicating that she is not meant to remain dead. This comparison of death to sleep is a beautiful word that Jesus uses, emphasizing the expectation of a future resurrection. The hired mourners in the house are making a commotion, but Jesus dismisses them, showing that their ostentatious noise does not reflect genuine grief.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8967153529739749,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                53.41,
+                9.81,
+                36.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The words used by Jesus when referring to the dead girl in this passage highlight the transient nature of her death. It is as if she is in a short sleep, indicating that she is not meant to remain dead. This comparison of death to sleep emphasizes the expectation of a future resurrection. The hired mourners in the house are making a commotion, but Jesus dismisses them, showing that their ostentatious noise does not reflect genuine grief.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.7791800023814281,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                50.1,
+                13.27,
+                36.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus refers to the deceased girl as sleeping, implying that her death is temporary. This comparison highlights the expectation of a future resurrection and emphasizes the transitory nature of her state. Despite the hired mourners making a commotion, Jesus dismisses them because their ostentatious noise does not reflect genuine grief.",
+            "wordCount": 50,
+            "quoteTokenProportion": 34.88,
+            "qualityScore": 1.5388318279033446,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.51,
+            "commentatorTierSimilarities": [
+                51.31,
+                11.51,
+                37.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

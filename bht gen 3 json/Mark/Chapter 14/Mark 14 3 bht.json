@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:28:33",
+    "verseRef": "Mark 14:3",
+    "bestBHT": {
+        "bht": "As Jesus sat at the meal, a woman approached Him with a box of pure nard, a highly valued aromatic. Breaking the box, she poured the ointment over His head, signifying her love for Him and the costly sacrifice she made. Some scholars suggest that she crushed the box in her hand to release the fragrance. This act of pouring the genuine and unadulterated ointment over Jesus' head displayed her deep devotion and extravagant love for Him.",
+        "wordCount": 77,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.5458001954800316,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+        "commentatorTierSimilarities": [
+            40.99,
+            40.79,
+            18.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There clearly appears to have been a certain sort of ointment which they drank.",
+            "brake the box can hardly mean only having broken the resin with which the cork was sealed.",
+            "I see no objection to supposing that the box was crushed in the hand, and the ointment thus poured over His head."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "pure nard, a celebrated aromatic\u2014(See Song of Solomon 1:12).",
+            "The only use of this was to refresh and exhilarate\u2014a grateful compliment in the East, amid the closeness of a heated atmosphere, with many guests at a feast.",
+            "Such was the form in which Mary's love to Christ, at so much cost to herself, poured itself out."
+        ],
+        "Marvin Vincent": [
+            "Spikenard [\u03bd\u03b1\u03c1\u03b4\u03bf\u03c5 \u03c0\u03b9\u03c3\u03c4\u03b9\u03ba\u03b7\u03c2] . The meaning of pistikhv is greatly disputed. The best authorities define it genuine or unadulterated : pure nard.\" (32 words)",
+            "Brake. Possibly by striking the brittle neck of the flask. This detail is peculiar to Mark.\" (17 words)"
+        ],
+        "Philip Schaff": [
+            "Ointment. John: \u2018a pound,\u2019 etc.",
+            "Spikenard, or \u2018nard pistic.\u2019 \u2018Nard\u2019 means an oriental gum, but the Greek word \u2018pistic\u2019 is akin to the word meaning \u2018faithful,\u2019 and probably refers to the purity of the precious gum.",
+            "She brake the box. Crushing the neck of the cruse with the hand. See notes on Matthew. Mark alone gives this detail."
+        ],
+        "Archibald T. Robertson": [
+            "As he sat at meat (\u03ba\u03b1\u03c4\u03b1\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03bf\u03c5 \u03b1\u03c5\u03c4\u03bf\u03c5). Matthew 26:7 uses \u03b1\u03bd\u03b1\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03bf\u03c5, both words meaning reclining (leaning down or up or back) and in the genitive absolute.",
+            "Spikenard (\u03bd\u03b1\u03c1\u03b4\u03bf\u03c5 \u03c0\u03b9\u03c3\u03c4\u03b9\u03ba\u03b7\u03c2). This use of \u03c0\u03b9\u03c3\u03c4\u03b9\u03ba\u03bf\u03c2 with \u03bd\u03b1\u03c1\u03b4\u03bf\u03c2 occurs only here and in John 12:3.",
+            "Brake (\u03c3\u03c5\u03bd\u03c4\u03c1\u03b9\u03c8\u03bf\u03c5\u03c3\u03b1). Only in Mark. She probably broke the narrow neck of the vase holding the ointment."
+        ],
+        "John Gill": [
+            "very precious, costly, and valuable",
+            "she broke the box",
+            "poured it on his head"
+        ],
+        "John Wesley": [
+            "Matthew 26:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As he sat at the meal, a woman approached Jesus with a box of pure nard, a highly prized aromatic. She broke the box and poured the ointment over Jesus' head, a gesture that signified her love for him and the costly sacrifice she was making. Some suggest that she crushed the box in her hand to release the fragrance. Although there is debate about the exact meaning of the Greek word used for pure in this context, it is clear that the ointment she used was genuine and unadulterated. This act of pouring the ointment over Jesus' head was a display of her deep devotion and willingness to give extravagantly in her love for Jesus.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.5829016518521826,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+            "commentatorTierSimilarities": [
+                40.35,
+                41.82,
+                17.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As he sat at the meal, a woman approached Jesus with a box of pure nard, a highly prized aromatic. She broke the box and poured the ointment over Jesus' head, a gesture that signified her love for him and the costly sacrifice she was making. Some suggest that she crushed the box in her hand to release the fragrance. This act of pouring the ointment over Jesus' head was a display of her deep devotion and willingness to give extravagantly in her love for Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.5322794918354488,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.29,
+            "commentatorTierSimilarities": [
+                39.4,
+                41.23,
+                19.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus sat at the meal, a woman approached Him with a box of pure nard, a highly valued aromatic. Breaking the box, she poured the ointment over His head, displaying her love and making a costly sacrifice. The gesture of breaking the box is seen as crushing the narrow neck to release the fragrance. This act of pouring the genuine and unadulterated ointment over Jesus' head demonstrated her deep devotion and willingness to give extravagantly in her love for Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5269237283557815,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.11,
+            "commentatorTierSimilarities": [
+                42.71,
+                41.12,
+                16.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus sat at the meal, a woman approached Him with a box of pure nard, a highly valued aromatic. Breaking the box, she poured the ointment over His head, a gesture that signified her love for Him and the costly sacrifice she was making. The act of breaking the box was seen as crushing the narrow neck to release the fragrance. This display of pouring the genuine and unadulterated ointment over Jesus' head demonstrated her deep devotion and willingness to give extravagantly in her love for Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.521874326290825,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+            "commentatorTierSimilarities": [
+                44.05,
+                40.25,
+                15.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus sat at the meal, a woman approached Him with a box of pure nard, a highly valued aromatic. Breaking the box, she poured the ointment over His head, signifying her love for Him and the costly sacrifice she made. Some scholars suggest that she crushed the box in her hand to release the fragrance. This act of pouring the genuine and unadulterated ointment over Jesus' head displayed her deep devotion and extravagant love for Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5458001954800316,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+            "commentatorTierSimilarities": [
+                40.99,
+                40.79,
+                18.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

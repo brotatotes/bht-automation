@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:22:51",
+    "verseRef": "Mark 6:2",
+    "bestBHT": {
+        "bht": "The townsmen were astonished by Jesus's mighty works and the outcomings of God's power. They questioned the origin of these things, conveying a sneer in their acknowledgement of Jesus's wisdom. Their astonishment arose from their realization that Jesus possessed gifts and graces they had never anticipated.",
+        "wordCount": 49,
+        "quoteTokenProportion": 37.84,
+        "qualityScore": 1.3597842346275169,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.56,
+        "commentatorTierSimilarities": [
+            38.92,
+            25.21,
+            35.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Astonished.",
+            "Mighty works [\u03b4\u03c5\u03bd\u03b1\u03bc\u03b5\u03b9\u03c2].",
+            "Outcomings of God's power."
+        ],
+        "Philip Schaff": [
+            "Mark, here as so often, is more specific than Matthew.",
+            "This acknowledgement of His wisdom conveys a sneer. More graphic than Matthew\u2019s statement.",
+            "It is plain, from Mark 6:5, that they referred to miracles in other places."
+        ],
+        "Archibald T. Robertson": [
+            "Whence hath this man these things? Laconic and curt, Whence these things to this fellow? With a sting and a fling in their words...",
+            "They challenge both the apparent wisdom with which he spoke and the mighty works or powers such as those coming to pass by his hands.",
+            "They felt that there was some hocus-pocus about it somehow and somewhere. They do not deny the wisdom of his words, nor the wonder of his works, but the townsmen knew Jesus and they had never suspected that he possessed such gifts and graces."
+        ],
+        "John Gill": [
+            "And many hearing [him] were astonished...saying, from whence hath this man these things?\" ",
+            "This skill of explaining Scripture, this doctrine which he teaches, and these miracles he is said to work?",
+            "What wisdom is this which is given to him, that even such mighty works are wrought by his hands?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in Mark 6:2 were astonished by Jesus's mighty works and the outcomings of God's power. They questioned where Jesus, who they thought they knew, acquired such things. Their words had a sting and a fling to them, challenging both his wisdom and the miracles he performed. The people were taken aback by the gifts and graces Jesus possessed, as they had never suspected him to have such wisdom and power.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.442139195755321,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                36.79,
+                25.82,
+                37.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The townsmen in this passage were astonished by the mighty works and outcomings of God's power that Jesus displayed. They questioned the origin of these things, conveying a sneer in their acknowledgement of Jesus's wisdom. The people were astounded by the wisdom in Jesus's words and the miracles he performed, and they found it difficult to comprehend how such powers could manifest through him. Their astonishment arose from their realization that Jesus possessed gifts and graces they had never anticipated.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.4800420068790383,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.55,
+            "commentatorTierSimilarities": [
+                34.74,
+                26.51,
+                38.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The townsmen were astonished by Jesus's mighty works and the outcomings of God's power. They questioned the origin of these things, conveying a sneer in their acknowledgement of Jesus's wisdom. Their astonishment arose from their realization that Jesus possessed gifts and graces they had never anticipated.",
+            "wordCount": 49,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.3597842346275169,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.56,
+            "commentatorTierSimilarities": [
+                38.92,
+                25.21,
+                35.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in Mark 6:2 were astonished by Jesus's mighty works, the outcomings of God's power. They challenged the wisdom in his words and the wonders of his works, feeling that there was some hocus-pocus about it somehow. The townsmen were taken aback by the gifts and graces that Jesus possessed, as they had never suspected he had such talents.",
+            "wordCount": 62,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5051833057410864,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.39,
+            "commentatorTierSimilarities": [
+                37.62,
+                24.51,
+                37.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in this verse were astonished by Jesus's mighty works, the outcomings of God's power. They questioned where Jesus acquired these things, expressing their disbelief and sneering at his wisdom. Their astonishment stemmed from discovering the unexpected gifts and graces that Jesus possessed, leading them to doubt and wonder about the source of his teachings and the miracles he performed.",
+            "wordCount": 63,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.5369343463225822,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                34.27,
+                25.28,
+                40.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:26:20",
+    "verseRef": "Mark 11:9",
+    "bestBHT": {
+        "bht": "The people who went before and followed Jesus were divided into two bodies, with one going before him and the other following behind. They cried out, saying, Hosanna! Blessed is he who comes in the name of the Lord! Their response indicated that they believed Jesus to be the one who would come and destroy. Matthew further elaborates on their answer, but here in Mark, it is Jesus Himself who speaks, affirming the truth of their statement.",
+        "wordCount": 77,
+        "quoteTokenProportion": 52.63,
+        "qualityScore": 1.3260123849063463,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.43,
+        "commentatorTierSimilarities": [
+            0.0,
+            36.96,
+            63.04
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "He will come and destroy.\" ",
+            "The full answer of the hearers is given by Matthew.",
+            "Here the substance of the answer is given, not as coming from them, but spoken by our Lord Himself."
+        ],
+        "John Gill": [
+            "They that went before, and they that followed...two bodies, the one went before him, and the other followed after him.\" ",
+            "Cried, saying, Hosanna, blessed is he that cometh in the name of the Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people who went before and followed Jesus were divided into two bodies, with one going before him and the other following behind. They cried out, saying, Hosanna! Blessed is he who comes in the name of the Lord! Their response indicated that they believed Jesus to be the one who would come and destroy. Matthew further elaborates on their answer, but here in Mark, it is Jesus Himself who speaks, affirming the truth of their statement.",
+            "wordCount": 77,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.3260123849063463,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.43,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.96,
+                63.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The response of the crowd that went before and followed Jesus was a declaration of praise and honor. They exclaimed, Hosanna! Blessed is he that cometh in the name of the Lord! This statement revealed their recognition of Jesus as the one who would come and bring about destruction, as indicated in the second-tier commentary. This affirmation was not simply from the people themselves, but spoken by Jesus Himself, confirming the truth of their declaration.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.1995685927284596,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.23,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.99,
+                60.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The response of the crowd that went before and followed Jesus was a proclamation of praise and honor, exclaiming, Hosanna! Blessed is he that cometh in the name of the Lord! This acknowledgment demonstrated their belief that Jesus would come to bring destruction, in line with the second-tier commentary. Interestingly, it is Jesus Himself who affirms the truth of their declaration, emphasizing its validity.",
+            "wordCount": 65,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.1052944679089247,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.41,
+                60.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crowd that went before and followed Jesus hailed Him with shouts of Hosanna! Blessed is he that cometh in the name of the Lord! Their proclamation signified their belief that Jesus was the one who would come and bring destruction, echoing the insight from the second-tier commentary. Notably, it was Jesus Himself who validated their declaration, underscoring its truth.",
+            "wordCount": 61,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.2425738121804855,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.79,
+                64.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowd that preceded and followed Jesus voiced their acclamation, crying out, Hosanna! Blessed is he that cometh in the name of the Lord! Their exclamation revealed their understanding that Jesus is the One who would come and bring about destruction, as mentioned in the second-tier commentary. Remarkably, Jesus Himself acknowledged the truth of their proclamation, affirming its validity.",
+            "wordCount": 60,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.1751563308320148,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.42,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.79,
+                64.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

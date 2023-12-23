@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:30:23",
+    "verseRef": "Mark 16:9",
+    "bestBHT": {
+        "bht": "On the first day of the week, Mary Magdalene, a woman who had been delivered from seven demons by Jesus, was the first to witness the risen Redeemer. Her encounter with Jesus occurred after she had separated from the other women and returned to the tomb with Peter and John. Mark's use of the phrase to see the Risen Christ is notable, showcasing his attention to detail. This significant moment highlights the honor bestowed upon Mary Magdalene, who had received abundant favor from Jesus in the past.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.8157028454911783,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+        "commentatorTierSimilarities": [
+            35.93,
+            31.73,
+            32.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The first day of the week is remarkable as occurring so soon after the mention of it.\" (Commentary)",
+            "This notice, coming so late, after the mention of Mary Magdalene in ver. 1, is remarkable.\" (Commentary)",
+            "This verse agrees with John xx. 1 ff, but is unconnected with the former narrative in this chapter.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To a woman was this honor given to be the first that saw the risen Redeemer, and that woman was NOT his virgin-mother.",
+            "There is some difficulty here, and different ways of removing it have been adopted.",
+            "She had gone with the other women to the sepulchre, parting from them, perhaps, before their interview with the angel, and on finding Peter and John she had come with them back to the spot; and it was at this second visit, it would seem, that Jesus appeared to this Mary."
+        ],
+        "Marvin Vincent": [
+            "A phrase which Mark does not use.",
+            "With Mark's well-known habit of particularizing, it is somewhat singular...",
+            "An unusual expression. Mark habitually uses the preposition ejk in this connection..."
+        ],
+        "Philip Schaff": [
+            "The emphatic repetition suggests that the readers knew the sacredness of 'the first day' among Christians.",
+            "From whom he had cast out seven demons.",
+            "The first manifestation of our Lord\u2019s victory over the grave was made to one in whom He had won such a victory over Satan."
+        ],
+        "Archibald T. Robertson": [
+            "First (\u03c0\u03c1\u03c9\u03c4\u03bf\u03bd). Definite statement that Jesus appeared (\u03b5\u03c6\u03b1\u03bd\u03b7) to Mary Magdalene first of all.\" ",
+            "The verb \u03b5\u03c6\u03b1\u03bd\u03b7 (second aorist passive of \u03c6\u03b1\u03b9\u03bd\u03c9) is here alone of the Risen Christ (cf. \u0395\u03bb\u03b5\u03b9\u03b1\u03c2 \u03b5\u03c6\u03b1\u03bd\u03b7, Luke 9:8), the usual verb being \u03c9\u03c6\u03b8\u03b7 (Luke 24:34; 1 Corinthians 15:5).\" ",
+            "This description of Mary Magdalene is like that in Luke 8:2 and seems strange in Mark at this point, described as a new character here, though mentioned by Mark three times just before (Mark 15:40; Mark 15:47; Mark 16:1)."
+        ],
+        "John Gill": [
+            "Jesus rose from the dead on the first day of the week, agrees with the accounts of all the evangelists, and is here expressly affirmed.",
+            "That he rose early on that day, is clear from the women, who set out at the end of the sabbath, when that was past and over.",
+            "This was a very great favour, and an high honour that was bestowed upon her; and who had received large favours from him before."
+        ],
+        "John Wesley": [
+            "John 20:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the first day of the week, Mary Magdalene, a woman who had been delivered from seven demons by Jesus, was the first to witness the risen Redeemer. Scarcely mentioned until now, her encounter with Jesus occurred after she had separated from the other women who had come to the tomb. Returning with Peter and John, she once again found herself in the presence of the Lord and became the first to see him after his resurrection. Mark's use of the phrase to see the Risen Christ is unusual and demonstrates his particularizing style, while also emphasizing the significance of this moment. It is noteworthy that Jesus chose Mary Magdalene, not his own mother, for this honor.",
+            "wordCount": 118,
+            "quoteTokenProportion": 46.25,
+            "qualityScore": 1.8328890441493213,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                37.69,
+                31.0,
+                31.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the first day of the week, Mary Magdalene, a woman who had been delivered from seven demons by Jesus, was the first to witness the risen Redeemer. Scarcely mentioned until now, her encounter with Jesus occurred after she had separated from the other women who had come to the tomb. Returning with Peter and John, she once again found herself in the presence of the Lord and became the first to see him after his resurrection. Mark's use of the phrase to see the Risen Christ is unusual and demonstrates his particularizing style, emphasizing the significance of this moment.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8477279228266383,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                36.08,
+                31.99,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the first day of the week, Mary Magdalene, a woman who had been delivered from seven demons by Jesus, was the first to witness the risen Redeemer. Her encounter with Jesus occurred after she had separated from the other women and returned to the tomb with Peter and John. Mark's use of the phrase to see the Risen Christ is notable, showcasing his attention to detail. This significant moment highlights the honor bestowed upon Mary Magdalene, who had received abundant favor from Jesus in the past.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8157028454911783,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                35.93,
+                31.73,
+                32.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the first day of the week, Mary Magdalene, a woman who had been delivered from seven demons by Jesus, was the first to witness the risen Redeemer. Scarcely mentioned until now, her encounter with Jesus occurred after she had separated from the other women who had come to the tomb. Returning with Peter and John, she once again found herself in the presence of the Lord and became the first to see him after his resurrection. Mark's use of the phrase to see the Risen Christ is unusual and demonstrates his particularizing style, emphasizing the significance of this moment.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.8477279228266383,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                36.08,
+                31.99,
+                31.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the first day of the week, Mary Magdalene, a woman who had been delivered from seven demons by Jesus, was the first to witness the risen Redeemer. Her encounter with Jesus occurred after she had separated from the other women who had come to the tomb. Returning with Peter and John, she once again found herself in the presence of the Lord and became the first to see him after his resurrection. Mark's use of the phrase to see the Risen Christ is unusual and emphasizes the importance of this moment.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.7988412858369447,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                34.99,
+                32.57,
+                32.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:20:55",
+    "verseRef": "Mark 4:6",
+    "bestBHT": {
+        "bht": "When persecution arose, it tried and pierced through this thin speculative knowledge of the word, showing that the connection with the teachings of Jesus was merely superficial. The word had only a place in the head, not in the heart, resulting in an empty profession that quickly faded away.",
+        "wordCount": 49,
+        "quoteTokenProportion": 43.59,
+        "qualityScore": 1.9246260042834118,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.34,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "When persecution arose ... it tried and pierced through this thin speculative knowledge of the word.\" ",
+            "The word had only a place in the head, and not in the heart.\" ",
+            "The profession of it was soon dropped, and came to nothing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When persecution arose, it tried and pierced through this thin speculative knowledge of the word, showing that the connection with the teachings of Jesus was merely superficial. The word had only a place in the head, not in the heart, resulting in an empty profession that quickly faded away.",
+            "wordCount": 49,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.9246260042834118,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.34,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When persecution arose, it tested and penetrated the shallow understanding of the word, revealing that the connection to Jesus' teachings was merely superficial. The word resided only in the mind, lacking any impact on the heart, resulting in a hollow profession that fizzled away.",
+            "wordCount": 44,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.5232314659073058,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.99,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When persecution arose, it tried and pierced through this superficial knowledge of the word, leaving behind a faith that was merely in the head and not in the heart. The profession of belief quickly vanished into thin air, having no lasting impact or substance.",
+            "wordCount": 44,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7940330072959336,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.99,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When persecution arose, it tested and pierced through the brittle understanding of the word, exposing its lack of depth. The knowledge of the word merely resided in the mind without sinking into the depths of the heart. As a result, the profession of faith crumbled away and became empty, unable to withstand the challenges and trials it encountered.",
+            "wordCount": 58,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.3412393298506438,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.94,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When persecution arose, it penetrated the superficial knowledge of the word, revealing that the connection to Jesus' teachings was merely in the head and not in the heart. The profession of faith quickly faded away, lacking any lasting impact or substance.",
+            "wordCount": 41,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4474114781712855,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

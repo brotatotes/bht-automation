@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-22-2023 23:27:22",
+    "verseRef": "Mark 13:16",
+    "bestBHT": {
+        "bht": "If someone is in the field working or doing business, they should not turn back to retrieve their garment. It is important for them to flee without it to ensure their safety. Instead, they should make their way to the part of the field where they initially left their clothes.",
+        "wordCount": 50,
+        "quoteTokenProportion": 58.33,
+        "qualityScore": 1.1422202034067312,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.32,
+        "commentatorTierSimilarities": [
+            26.69,
+            0.0,
+            73.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "16. And let him that is in the field",
+            "\tnot turn back again for to take up his garment."
+        ],
+        "Archibald T. Robertson": [
+            "In the field (\u03b5\u03b9\u03c2 \u03c4\u03bf\u03bd \u03b1\u03b3\u03c1\u03bf\u03bd). Here Matthew 24:18 has \u03b5\u03bd \u03c4\u03c9 \u03b1\u03b3\u03c1\u03c9, showing identical use of \u03b5\u03b9\u03c2 with accusative and \u03b5\u03bd with the locative. "
+        ],
+        "John Gill": [
+            "And let him that is in the field,.... At work, in any sort of business there, not turn back again",
+            "But let him flee without it, or otherwise he would be in great danger",
+            "Or rather to that part of the field where he laid down his clothes"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it states that if someone is in the field, they should not turn back to retrieve their garment. This commentary emphasizes that this is specifically referring to someone who is working or engaged in some sort of business in the field. The second-tier commentary adds that it is important for this person to flee without the garment for the sake of their own safety. The third-tier commentary suggests that the person should flee to the part of the field where they had initially laid down their clothes.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.1244207281596446,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.73,
+            "commentatorTierSimilarities": [
+                36.96,
+                0.0,
+                63.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If someone is in the field working or doing business, they should not turn back to retrieve their garment. It is important for them to flee without it to ensure their safety. Instead, they should make their way to the part of the field where they initially left their clothes.",
+            "wordCount": 50,
+            "quoteTokenProportion": 58.33,
+            "qualityScore": 1.1422202034067312,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.32,
+            "commentatorTierSimilarities": [
+                26.69,
+                0.0,
+                73.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Mark 13:16, the verse warns that those in the field should not turn back to retrieve their garments. This phrase specifically refers to individuals engaged in work or business in the field, and Matthew 24:18 confirms this by using the same terminology. The focus is on immediate flight and not on possessions, highlighting the urgency and danger of the situation.",
+            "wordCount": 59,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 0.9556358969882119,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.12,
+            "commentatorTierSimilarities": [
+                45.28,
+                0.0,
+                54.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the context of those engaged in field work, the command in Mark 13:16 is clear - to refrain from turning back for belongings. This urgency is echoed in Matthew 24:18, where the phrasing is virtually identical. The emphasis here is on swift escape rather than material possessions, highlighting the imminent danger and the necessity of prioritizing personal safety.",
+            "wordCount": 56,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.0121386164434034,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.0,
+            "commentatorTierSimilarities": [
+                53.3,
+                0.0,
+                46.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For those in the field, the warning in this passage cautions against looking back to retrieve garments. This directive underscores the necessity of immediate flight, as confirmed in a related verse. The phrase specifically addresses those occupied with work or business in the field, emphasizing the urgency of their escape and discouraging any delay for personal belongings. The focus here is on prioritizing personal safety over material possessions.",
+            "wordCount": 68,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 0.6968498673456524,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.52,
+            "commentatorTierSimilarities": [
+                42.42,
+                0.0,
+                57.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

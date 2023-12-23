@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:24:36",
+    "verseRef": "Mark 8:30",
+    "bestBHT": {
+        "bht": "Jesus, aware that the time for the full revelation of his true identity as the Messiah and Son of God was not yet ripe, instructed his disciples to remain silent. This silence served multiple purposes, preventing the provocation of the religious leaders and premature attempts to establish Jesus as a temporal king. Instead, Jesus entrusted Peter with the keys of the kingdom of heaven, conferring authority, and affirms that his church will be built upon Peter's confession of faith. The future triumphal entry into Jerusalem would witness the stones themselves testifying if people remained silent.",
+        "wordCount": 96,
+        "quoteTokenProportion": 30.56,
+        "qualityScore": 1.2295765073776137,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+        "commentatorTierSimilarities": [
+            41.0,
+            0.0,
+            59.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Not yet, for the time was not yet ripe.",
+            "When that comes, the triumphal entry into Jerusalem, the very stones will cry out, if men will not."
+        ],
+        "John Gill": [
+            "His approbation of Peter's confession of faith... signified he would build his church on that rock.\" ",
+            "And promised Peter the keys of the kingdom of heaven; and that whatsoever was bound, or loosed by him on earth, should be bound and loosed in heaven.",
+            "After this he gave a strict and severe charge, that they should tell no man of him; that he was the Messiah, and the Son of God."
+        ],
+        "John Wesley": [
+            "He enjoined them silence for the present, That he might not encourage the people to set him up for a temporal king.",
+            "He enjoined them silence for the present, That he might not provoke the scribes and Pharisees to destroy him before the time.",
+            "He enjoined them silence for the present, That he might not forestall the bright evidence which was to be given of his Divine character after his resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At this point in Mark's Gospel, Jesus asks his disciples not to reveal his true identity as the Messiah and Son of God. The time was not yet ripe for the full revelation of his true nature, but Jesus hints at the future triumphal entry into Jerusalem where even the stones will cry out if people remain silent. Jesus' response to Peter's confession of faith affirms that he will build his church on this rock and grants Peter the keys of the kingdom of heaven, symbolizing his authority. This charge to silence serves multiple purposes; to avoid provoking the religious leaders, to prevent premature attempts to set him up as a temporal king, and to allow for the undeniable evidence of his Divine character that would be revealed after his resurrection.",
+            "wordCount": 133,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.1884318962999283,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.86,
+            "commentatorTierSimilarities": [
+                35.46,
+                0.0,
+                64.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, aware that the time for the full revelation of his true identity as the Messiah and Son of God was not yet ripe, instructed his disciples to remain silent. This silence served multiple purposes, preventing the provocation of the religious leaders and premature attempts to establish Jesus as a temporal king. Instead, Jesus entrusted Peter with the keys of the kingdom of heaven, conferring authority, and affirms that his church will be built upon Peter's confession of faith. The future triumphal entry into Jerusalem would witness the stones themselves testifying if people remained silent.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.2295765073776137,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.23,
+            "commentatorTierSimilarities": [
+                41.0,
+                0.0,
+                59.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, aware that the time was not yet ripe to fully reveal his identity, admonished his disciples to remain silent regarding his nature as the Messiah. This directive had multiple reasons: to avoid provoking the religious leaders, to prevent premature attempts to crown him as a temporal king, and to allow for the undeniable evidence of his Divine character that would be revealed after his resurrection. Jesus entrusted Peter with the keys of the kingdom of heaven, indicating his authority and the foundational role Peter's confession of faith would have in the establishment of the church.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.88,
+            "qualityScore": 1.018787348964742,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.22,
+            "commentatorTierSimilarities": [
+                26.0,
+                0.0,
+                74.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, aware that the time for a full revelation of his identity was not yet ripe, instructed his disciples to maintain silence about his Messianic nature. This directive served various purposes: to avoid provoking the religious leaders, to prevent premature efforts to establish him as a temporal king, and to allow for the undeniable evidence of his Divine character after his resurrection. In conferring the keys of the kingdom of heaven upon Peter, Jesus indicated Peter's significant role in the establishment of the church based on his confession of faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.0398127746393928,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.92,
+            "commentatorTierSimilarities": [
+                29.76,
+                0.0,
+                70.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Although Peter correctly identified Jesus as the Messiah and Son of God, Jesus instructed his disciples to keep this revelation a secret for the time being. This command had several reasons: to avoid provoking the religious leaders, to prevent premature attempts to establish Jesus as an earthly king, and to allow for the undeniable evidence of his Divine character to be manifested after his resurrection. Jesus affirmed Peter's confession by granting him the keys of the kingdom of heaven, emphasizing his important role in the foundation of the church.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 0.7979399886985648,
+            "qualityScoreNormalizedComparedToV2BHTs": 17.88,
+            "commentatorTierSimilarities": [
+                16.8,
+                0.0,
+                83.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

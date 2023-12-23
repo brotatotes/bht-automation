@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:24:25",
+    "verseRef": "Mark 7:26",
+    "bestBHT": {
+        "bht": "A Syro-Phoenician woman, not an Israelite herself but recognizing Jesus as Israel's promised Messiah, approached Him with a desperate plea. This woman, a Greek in religion, but Canaanite by race, persistently besought Him to cast out a devil from her daughter. Though initially Jesus remained silent, testing her faith, her unwavering belief and heartfelt appeal ultimately moved Him. Thus, her extraordinary example of faith serves as a reminder that even as Gentiles, we can approach the Jewish Messiah with trust in His power to deliver us.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.68,
+        "qualityScore": 1.6860626479985577,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+        "commentatorTierSimilarities": [
+            21.86,
+            33.43,
+            44.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "26.] Syro phenician, because there were also Liby phenicians, Carthaginians."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thus, though no Israelite herself, she salutes Him as Israel's promised Messiah.",
+            "But another reason for keeping silence plainly was to try and whet her faith, patience, and perseverance.",
+            "This appeal, so artless, wrung from the depths of a believing heart, and reminding us of the publican's 'God be merciful to me a sinner,' moved the Redeemer at last to break silence."
+        ],
+        "Marvin Vincent": [
+            "Syro - Phoenician. Phoenician of Syria, as distinguished from a Libyo - Phoenician of North Africa, Libya being often used for Africa."
+        ],
+        "Philip Schaff": [
+            "A Greek, i.e., a Gentile in religion.",
+            "Syrophenician by race, such a nation no longer existed.",
+            "She besought him. Here occurred all the details given in Matthew 15:23-25."
+        ],
+        "Archibald T. Robertson": [
+            "A Greek in religion, a Syrian in tongue, a Phoenician in race\" - Bruce",
+            "She besought (\u03b7\u03c1\u03c9\u03c4\u03b1). Imperfect tense. She kept at it.",
+            "This verb, as in late Greek, is here used for a request, not a mere question."
+        ],
+        "John Gill": [
+            "The woman was a Greek,.... Or Gentile, an Heathen woman, which made her faith the more remarkable.",
+            "And this place was now inhabited by Gentiles; hence the Jews often distinguish between an Hebrew and a Canaanitish servant.",
+            "And she besought him, that he would cast forth the devil out of her daughter; which she was persuaded, by what she had heard of him, he was able to do, by a word speaking, though her daughter was not present."
+        ],
+        "John Wesley": [
+            "The woman was a Greek (that is, a Gentile, not a Jew) a Syrophenician or Canaanite.",
+            "Canaan was also called Syrophenicia, as lying between Syria, properly so called, and Phenicia."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A Syro-Phoenician woman, not an Israelite herself but recognizing Jesus as Israel's promised Messiah, approached Him with a desperate plea to cast out a devil from her daughter. With faith, patience, and perseverance, she fervently beseeched Him, unwavering in her belief that He could heal her daughter. Initially, Jesus remained silent, testing and strengthening her resolve. But moved by her heartfelt and genuine appeal, He was compelled to break His silence and grant her request. In her, we see an extraordinary example of faith, as a Gentile woman of Greek origin approached the Jewish Messiah, displaying deep trust in His power to deliver her daughter from evil.",
+            "wordCount": 109,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.4017946028966342,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.95,
+            "commentatorTierSimilarities": [
+                24.52,
+                28.61,
+                46.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A Syro-Phoenician woman, not an Israelite herself but recognizing Jesus as Israel's promised Messiah, approached Him with a desperate plea. This woman, a Greek in religion, but Canaanite by race, persistently besought Him to cast out a devil from her daughter. Though initially Jesus remained silent, testing her faith, her unwavering belief and heartfelt appeal ultimately moved Him. Thus, her extraordinary example of faith serves as a reminder that even as Gentiles, we can approach the Jewish Messiah with trust in His power to deliver us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.6860626479985577,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                21.86,
+                33.43,
+                44.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Approaching Jesus with a desperate plea, a Syro-Phoenician woman displayed her unwavering faith and patience. Despite not being an Israelite herself, she recognized Him as the promised Messiah and fervently besought Him to cast out a devil from her daughter. Initially, Jesus chose to remain silent, testing the depths of her faith, but her heartfelt appeal moved Him to respond. This remarkable example serves as a powerful reminder that even as Gentiles, we can approach Jesus with trust and belief in His ability to deliver us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.3742255520716289,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.04,
+            "commentatorTierSimilarities": [
+                22.24,
+                30.04,
+                47.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A Syro-Phoenician woman, though not an Israelite, approached Jesus with a plea to cast out a devil from her daughter. Displaying unwavering faith and persistence, she fervently besought Him, recognizing Him as the promised Messiah. Initially silent, Jesus tested and sharpened her faith, but ultimately, her heartfelt appeal penetrated His heart, leading Him to respond. This remarkable example reminds us that even as Gentiles, we can approach Jesus with trust and belief in His power to deliver and heal.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.3673684125400973,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.81,
+            "commentatorTierSimilarities": [
+                22.66,
+                30.66,
+                46.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A Syro-Phoenician woman, not an Israelite herself but recognizing Jesus as Israel's promised Messiah, approached Him with a desperate plea. This woman, a Greek in religion, but Canaanite by race, persistently besought Him to cast out a devil from her daughter. Though initially Jesus remained silent, testing her faith, her unwavering belief and heartfelt appeal ultimately moved Him. Thus, her extraordinary example of faith serves as a reminder that even as Gentiles, we can approach the Jewish Messiah with trust in His power to deliver us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.6860626479985577,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                21.86,
+                33.43,
+                44.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

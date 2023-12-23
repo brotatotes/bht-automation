@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:22:01",
+    "verseRef": "Mark 5:11",
+    "bestBHT": {
+        "bht": "But these expressions, far from being inconsistent, only confirm, by their precision, the minute accuracy of the narrative. It can hardly be doubted that the owners of these were Jews, since to them our Lord had now come to offer His services. This will explain what follows: the mountain where this man often was, a great one, with a great herd of swine feeding.",
+        "wordCount": 64,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 1.2050353364594844,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.41,
+        "commentatorTierSimilarities": [
+            58.7,
+            10.81,
+            30.5
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But these expressions, far from being inconsistent, only confirm, by their precision, the minute accuracy of the narrative.\" ",
+            "There can hardly be any doubt that the owners of these were Jews, since to them our Lord had now come to proffer His services.\" ",
+            "This will explain what follows."
+        ],
+        "Philip Schaff": [
+            "Mark 5:11. The mountain. The better established reading, agreeing more exactly with Luke\u2019s account.",
+            "\t"
+        ],
+        "John Gill": [
+            "Where this man often was...",
+            "It may be called a great one, for there were about two thousand hogs in it.",
+            "...a great herd of swine feeding."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But these expressions, far from being inconsistent, only confirm, by their precision, the minute accuracy of the narrative. It can hardly be doubted that the owners of these were Jews, since to them our Lord had now come to offer His services. This will explain what follows: the mountain where this man often was, a great one, with a great herd of swine feeding.",
+            "wordCount": 64,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.2050353364594844,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.41,
+            "commentatorTierSimilarities": [
+                58.7,
+                10.81,
+                30.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The precise language used in this verse confirms the accuracy of the narrative. It is clear that the owners of the swine were Jews, as Jesus had come to offer His services to them. This detail helps to explain the events that follow. It is worth noting that the mountain mentioned in Mark 5:11 is better aligned with Luke's account. This verse also reveals that the man often frequented this area where a large herd of swine fed, consisting of about two thousand hogs.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 0.9530657631663964,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.03,
+            "commentatorTierSimilarities": [
+                42.92,
+                32.26,
+                24.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The precise language used in this passage confirms the accuracy of the narrative, as it describes the owners of the swine as likely being Jews, since Jesus had come to offer His services to them. This detail helps to explain the subsequent events. Additionally, the mention of the mountain aligns more closely with Luke's account. It is worth noting that the area in question was a frequented spot for the man, where a great herd of about two thousand hogs fed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 0.9355434399347117,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.45,
+            "commentatorTierSimilarities": [
+                39.24,
+                34.52,
+                26.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The language used in these accounts confirms the accuracy of the narrative. The owners of the swine were likely Jews since Jesus offered His services to them. This detail helps explain what happened next. The mention of the mountain in Mark 5:11 aligns closely with Luke's account. It is worth noting that the area was frequented by the man and had a large herd of about two thousand hogs.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 0.9043124897466464,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.41,
+            "commentatorTierSimilarities": [
+                38.62,
+                34.14,
+                27.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The precise language used in this story confirms the accuracy of the account. It is clear that the owners of the swine were Jews, as Jesus had come to offer His services to them. This detail helps explain the subsequent events. The mention of the mountain aligns with Luke's account, and it is noteworthy that this was a frequented area where a large herd of about two thousand hogs fed.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 0.8984437169661483,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.22,
+            "commentatorTierSimilarities": [
+                46.94,
+                24.85,
+                28.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

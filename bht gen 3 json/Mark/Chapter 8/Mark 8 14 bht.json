@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:24:38",
+    "verseRef": "Mark 8:14",
+    "bestBHT": {
+        "bht": "The disciples, having forgotten to bring enough provisions, only had one loaf of bread with them. Mark emphasizes that this was enough to feed all thirteen of them, reminiscent of Jesus' recent miracles. The caution against the leaven of Herod serves as a reminder to stay away from the bad and irreligious ways. This conversation may have taken place outside of the boat, and no stock of provisions was necessary for their short voyage.",
+        "wordCount": 74,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.7619322520820055,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+        "commentatorTierSimilarities": [
+            30.66,
+            34.19,
+            35.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The leaven of Herod here seems to answer to the leaven of the Sadducees in Matthew.",
+            "He certainly was a bad and irreligious man, which would be quite enough ground for such a caution.",
+            "In the last not yet, ver. 21, Meyer sees a new climax, and refers the not yet to the moment even after the reminiscence of vv. 18\u201320."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The circumstance of the 'one loaf' only remaining... was more suggestive of their Master's recent miracles than the entire absence of provisions."
+        ],
+        "Marvin Vincent": [
+            "The one loaf is a detail given by Mark only. ",
+            "- 26. Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "The conversation did not necessarily take place in the boat.",
+            "They forgot to supply themselves with provisions for their land journey.",
+            "No stock of provisions was needed for the short voyage."
+        ],
+        "Archibald T. Robertson": [
+            "Bread (\u03b1\u03c1\u03c4\u03bf\u03c5\u03c2).",
+            "Loaves , plural.",
+            "More than one loaf (\u03b5 \u03bc\u03b7 \u03b9\u03bd\u03b1 \u03b1\u03c1\u03c4\u03bf\u03bd). Except one loaf. Detail only in Mark. Practically for thirteen men when hungry. "
+        ],
+        "John Gill": [
+            "Now the disciples had, forgotten to take bread...",
+            "Neither had they in the ship with them more than one loaf",
+            "and there was no bread with them in the ship"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, in their journey with Jesus, had forgotten to bring enough provisions, only having one loaf of bread with them. This detail given by Mark highlights the significance of their Master's recent miracles, as the presence of one loaf was enough to provide for all thirteen of them. The caution to beware of the leaven of Herod may have been prompted by his bad and irreligious nature, highlighting the importance of maintaining a faithful and righteous path. It is also worth noting that this conversation may not have necessarily taken place in the boat, and that no stock of provisions was needed for their short voyage.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.7634115853555037,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                35.42,
+                33.61,
+                30.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, having forgotten to bring enough provisions, only had one loaf of bread with them. Mark emphasizes that this was enough to feed all thirteen of them, reminiscent of Jesus' recent miracles. The caution against the leaven of Herod serves as a reminder to stay away from the bad and irreligious ways. This conversation may have taken place outside of the boat, and no stock of provisions was necessary for their short voyage.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7619322520820055,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.93,
+            "commentatorTierSimilarities": [
+                30.66,
+                34.19,
+                35.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, in their journey with Jesus, forgot supplies and had only one loaf of bread. Mark's emphasis on this detail highlights the abundant miracles of provision and the importance of remaining faithful. The caution against the leaven of Herod warns against the influence of his irreligious nature. It is worth noting that the conversation could have taken place outside of the boat, and no additional provisions were needed for their short voyage.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6682871970679183,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                30.44,
+                38.23,
+                31.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, forgetting to bring enough provisions, only had one loaf of bread with them. Mark points out that this single loaf was sufficient to feed all thirteen of them, reminding us of Jesus' recent miracles of multiplication. The caution against the leaven of Herod serves as a warning to avoid the influence of his wicked and godless nature. Interestingly, the conversation may have taken place outside of the boat, and no additional supplies were needed for their short voyage.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.727138281677744,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                33.42,
+                30.31,
+                36.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their journey with Jesus, the disciples had forgotten to bring enough provisions and were left with only one loaf of bread for the thirteen of them. This detail, mentioned only by Mark, highlights the significance of their Master's recent miracles of provision. The caution against the leaven of Herod is a warning to steer clear of his wicked and irreligious ways. Notably, the conversation may have taken place outside the boat while no additional supplies were needed for their short voyage.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6682552510064226,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                31.96,
+                36.26,
+                31.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

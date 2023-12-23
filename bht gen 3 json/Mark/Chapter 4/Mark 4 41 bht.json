@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:22:14",
+    "verseRef": "Mark 4:41",
+    "bestBHT": {
+        "bht": "The disciples, having witnessed Jesus calm the wind and the sea, were in awe and asked, What manner of man is this? They recognized the power of Jesus and how it surpassed human capabilities. This incident opened their eyes to the majesty of Jesus, revealing that He must be more than just a human being. With authority over the elements, Jesus demonstrated that He was not a mere man, but someone who possesses divine power.",
+        "wordCount": 75,
+        "quoteTokenProportion": 51.79,
+        "qualityScore": 1.7156458068300706,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+        "commentatorTierSimilarities": [
+            23.17,
+            28.97,
+            47.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "41.] The then expresses the inference from the event which they had witnessed: Who then is this, seeing He doeth such things?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What manner of man is this, that even the wind and the sea obey him?",
+            "Israel has all along been singing of JEHOVAH, 'Thou rulest the raging of the sea: when the waves thereof arise, Thou stillest them!'",
+            "But, lo, in this very boat of ours is One of our own flesh and blood, who with His word of command hath done the same!"
+        ],
+        "Marvin Vincent": [
+            "They feared a great fear.",
+            "Who then is this?",
+            "The then is argumentative. Since these things are so, who then is this?"
+        ],
+        "Philip Schaff": [
+            "Feared exceedingly, lit., \u2018feared a great fear.\u2019",
+            "Who then is this?...This command over the wind and sea was a new revelation of Christ even to his disciples."
+        ],
+        "Archibald T. Robertson": [
+            "They feared a great fear.",
+            "No wonder that they feared if this One could command the wind and the waves at will as well as demons and drive out all diseases and speak such mysteries in parables.",
+            "This incident opened the eyes and minds of the disciples to the majesty of Jesus."
+        ],
+        "John Gill": [
+            "Surely this person must not be a mere man; he must be more than a man; he must be truly God, that has such power over the wind and sea.",
+            "This best suits with the mariners, since the disciples must have known before, who and what he was; though they might be more established and confirmed in the truth of Christ's deity, by this wonderful instance of his power.",
+            "He must be truly God, that has such power over the wind and sea."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 4:41, the disciples, having witnessed Jesus calm the wind and the sea, were in awe and asked, What manner of man is this? They recognized the power of Jesus to still the waves, but now they had witnessed Him do the same with mere words. Their fear was justified, for this incident opened their eyes to the majestic authority of Jesus. He was not just a mere man, but must be more than human, truly God Himself, with the ability to command even the wind and the sea.",
+            "wordCount": 89,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 1.8842042228720017,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                23.59,
+                30.45,
+                45.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the disciples were filled with awe and fear as they witnessed Jesus command the wind and the sea. They wondered, Who then is this? It was clear to them that this was no ordinary man. They recognized the power of Jesus extending beyond the physical realm, leading them to contemplate His true identity. It was through this incredible display of authority over the elements that their eyes were opened to the majesty of Jesus, realizing that He must be more than just a human being.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.6134048769186915,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.99,
+            "commentatorTierSimilarities": [
+                28.53,
+                31.33,
+                40.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, having witnessed Jesus calm the wind and the sea, were in awe and asked, What manner of man is this? They recognized the power of Jesus and how it surpassed human capabilities. This incident opened their eyes to the majesty of Jesus, revealing that He must be more than just a human being. With authority over the elements, Jesus demonstrated that He was not a mere man, but someone who possesses divine power.",
+            "wordCount": 75,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 1.7156458068300706,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                23.17,
+                28.97,
+                47.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, astounded by witnessing Jesus calming the wind and sea, exclaimed, What manner of man is this, that even the wind and the sea obey him? In this profound moment, they were reminded of the majestic power of Jehovah, who stills the raging sea. Yet here was Jesus, in their very boat, demonstrating the same command over the forces of nature. This awe-inspiring event opened the eyes and minds of the disciples to the divine majesty of Jesus, causing them to fear greatly. Surely, they concluded, Jesus must be more than a mere man, but truly God himself, possessing such dominion over the wind and the sea.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.9163710843812973,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.06,
+            "commentatorTierSimilarities": [
+                23.99,
+                30.56,
+                45.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Witnessing Jesus's ability to command the wind and the sea, the disciples were filled with awe and exclaimed, Who then is this? They recognized that Jesus's power over nature went beyond the ordinary and surpassed their previous understanding. This extraordinary event opened their eyes to the majesty of Jesus, instilling within them a profound fear. His unfathomable authority challenged their perception and led them to acknowledge that this person could not be a mere man, but must be truly God, possessing such unrivaled power.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7526719158759037,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                25.23,
+                31.43,
+                43.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:23:40",
+    "verseRef": "Mark 7:20",
+    "bestBHT": {
+        "bht": "What defiles a person is not what goes into them from the outside, but rather what comes out of their heart and is expressed in their words and actions.",
+        "wordCount": 29,
+        "quoteTokenProportion": 62.5,
+        "qualityScore": 1.9509504038920413,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "That which cometh out of the man, that defileth the man.",
+            "Meaning, not his excrements, but what comes out of his heart, by his mouth.",
+            "What is expressed in action."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What defiles a person is not what goes into them from the outside, but rather what comes out of their heart and is expressed in their words and actions.",
+            "wordCount": 29,
+            "quoteTokenProportion": 62.5,
+            "qualityScore": 1.9509504038920413,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What comes out of a person's heart and is expressed in their words and actions is what truly defiles them, not what they consume from the outside. The focus is not on physical excrements, but on the inner disposition that manifests in their behavior.",
+            "wordCount": 45,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.2732718110499492,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "That which defiles a person is not what goes into them from the outside, but rather what comes out of their heart and is expressed in their words and actions. It is not referring to physical excrements, but rather to the thoughts and intentions that are expressed through one's behavior.",
+            "wordCount": 51,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 1.456410185569045,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse states, That which cometh out of the man, that defileth the man. This means that it is not bodily waste that defiles a person, but rather the words and actions that originate from the heart. It is not the physical, but the spiritual and moral aspect of a person that truly matters.",
+            "wordCount": 54,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.35920854926398,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.54,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The defilement of a person does not stem from bodily waste, but rather from the words and actions that flow from the heart. The verse emphasizes that it is what is expressed in one's actions and spoken through his mouth that truly defiles him. It reminds us that our inner character, our spiritual and moral aspect, is what truly matters and influences our standing before God.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.1029437657869863,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

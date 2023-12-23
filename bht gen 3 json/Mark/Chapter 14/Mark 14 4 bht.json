@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:28:10",
+    "verseRef": "Mark 14:4",
+    "bestBHT": {
+        "bht": "Some individuals, possibly incited by Judas, express indignation within themselves regarding the apparent waste of ointment. The thought may have first stirred in Judas' breast and issued from his lips, but others, ignorant of his true character and carried away by his speech, might have also felt chagrin at the apparent waste. Ultimately, their questioning of the purpose behind the ointment highlights their lack of understanding.",
+        "wordCount": 66,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.5845374054529406,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+        "commentatorTierSimilarities": [
+            26.27,
+            23.16,
+            50.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "some] See notes on Matthew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And there were some that had indignation within themselves and said...",
+            "...the thought stirred first in his breast, and issued from his base lips...",
+            "...some of the rest, ignorant of his true character and feelings, and carried away by his plausible speech, might for the moment feel some chagrin at the apparent waste."
+        ],
+        "Marvin Vincent": [
+            "To what purpose, etc. See on Matthew 26:8."
+        ],
+        "Philip Schaff": [
+            "Judas alone spoke out; the feeling was general, though no doubt instigated by him.",
+            "The best authorities omit the words, \u2018and said.\u2019",
+            "See on John 12:6."
+        ],
+        "John Gill": [
+            "Some of the disciples... particularly Judas, and others might be incensed by his means.\" ",
+            "Why was this waste of the ointment made?"
+        ],
+        "John Wesley": [
+            "Some had indignation \u2014 Being incited thereto by Judas: and said - Probably to the women."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, some individuals express indignation within themselves, possibly incited by Judas, regarding the apparent waste of ointment. The commentators suggest that the initial thought may have arisen within Judas, but others, unaware of his true character, may have also felt a sense of chagrin. Judas alone, however, vocalized this feeling. It is worth noting that the best authorities omit the words and said in their translation of this verse. Ultimately, this questioning of the purpose behind the ointment's use by these individuals highlights their lack of understanding.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5087352182005636,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "commentatorTierSimilarities": [
+                20.39,
+                32.3,
+                47.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some individuals, possibly incited by Judas, express indignation within themselves regarding the perceived waste of ointment. The thought may have originated with Judas, but others, ignorant of his true character, might have also felt chagrin. Although the best authorities omit the phrase and said, it is clear that Judas alone vocalized this sentiment. Their questioning of the ointment's use reveals a lack of understanding.",
+            "wordCount": 65,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5520190394326236,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                17.37,
+                31.59,
+                51.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some individuals, possibly incited by Judas, express indignation within themselves regarding the apparent waste of ointment. The thought may have first stirred in Judas' breast and issued from his lips, but others, ignorant of his true character and carried away by his speech, might have also felt chagrin at the apparent waste. Ultimately, their questioning of the purpose behind the ointment highlights their lack of understanding.",
+            "wordCount": 66,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5845374054529406,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+            "commentatorTierSimilarities": [
+                26.27,
+                23.16,
+                50.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some individuals in this passage have indignation within themselves and question the purpose behind the apparent waste of ointment. It is suggested that this feeling may have originated from Judas, but others, unaware of his true character, might have also felt chagrin at the apparent waste. Their ignorance of Jesus' true identity and motives leads to their misunderstanding of the situation. Ultimately, their questioning of the ointment's use reveals a lack of comprehension.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.4752937491388944,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+            "commentatorTierSimilarities": [
+                27.95,
+                22.63,
+                49.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some individuals express indignation within themselves and question the purpose behind the waste of ointment. The commentators suggest that the initial thought may have arisen within Judas, but others, unaware of his true character, may have also felt chagrin. Judas alone vocalized this feeling, while the rest, carried away by his plausible speech, might have momentarily shared this sentiment. Ultimately, their questioning of the ointment's use highlights their lack of understanding.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4430737837132979,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.32,
+            "commentatorTierSimilarities": [
+                22.95,
+                29.07,
+                47.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

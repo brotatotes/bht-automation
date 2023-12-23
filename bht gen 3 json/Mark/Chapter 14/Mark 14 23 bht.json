@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:28:13",
+    "verseRef": "Mark 14:23",
+    "bestBHT": {
+        "bht": "In the account of the institution of the Supper, Jesus took a cup that was most likely a mixture of ordinary wine and water. He gave thanks over it, and then passed it to his disciples, including Judas, who all partook in drinking from it. This event is described similarly in the writings of Mark and Matthew, emphasizing the significance of Jesus' actions and instructions during this profound moment.",
+        "wordCount": 69,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.6938037563169874,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.66,
+        "commentatorTierSimilarities": [
+            49.98,
+            0.0,
+            50.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The cup. The wine was the ordinary one of the country, only red. It was mixed with water, generally in the proportion of one part to two of water."
+        ],
+        "Archibald T. Robertson": [
+            "A cup (\u03c0\u03bf\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd). Probably the ordinary wine of the country mixed with two-thirds water...",
+            "...but 'the fruit of the vine' (\u03b5\u03ba \u03c4\u03bf\u03c5 \u03b3\u03b5\u03bd\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03bc\u03c0\u03b5\u03bb\u03bf\u03c5).",
+            "Mark and Matthew give substantially the same account of the institution of the Supper by Jesus..."
+        ],
+        "John Gill": [
+            "He took the cup, and when he had given thanks,.... Over it, and for it, by blessing it, and appropriating it to the present use and service.",
+            "He gave it to them; his disciples.",
+            "And they all drank of it; Judas, as well as the rest, as he bid them do."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:23, Jesus took the cup, which was likely a mixture of ordinary wine and water, and gave thanks over it. He then gave the cup to his disciples, instructing them to drink from it. This account of the institution of the Supper by Jesus is echoed in the writings of both Mark and Matthew. Notably, all of the disciples, including Judas, participated in this act.",
+            "wordCount": 66,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6788617412580114,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                47.29,
+                0.0,
+                52.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the account of the institution of the Supper, Jesus took a cup that was most likely a mixture of ordinary wine and water. He gave thanks over it, and then passed it to his disciples, including Judas, who all partook in drinking from it. This event is described similarly in the writings of Mark and Matthew, emphasizing the significance of Jesus' actions and instructions during this profound moment.",
+            "wordCount": 69,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6938037563169874,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.66,
+            "commentatorTierSimilarities": [
+                49.98,
+                0.0,
+                50.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, during the institution of the Supper, took a cup containing a mixture of ordinary red wine and water, commonly consumed in that region. Mark and Matthew provide a comparable account, highlighting the significance of Jesus' actions and instructions. He gave thanks over the cup and distributed it among his disciples, including Judas, who all partook in drinking from it. This moment underscores the solemnity and importance of the Last Supper as a pivotal event in the life of Jesus and his followers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.5935099484825448,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.33,
+            "commentatorTierSimilarities": [
+                49.91,
+                0.0,
+                50.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the institution of the Supper, Jesus took a cup containing a mixture of ordinary red wine and water, commonly consumed in that region. Mark and Matthew provide a comparable account, highlighting the significance of Jesus' actions and instructions. He gave thanks over the cup and distributed it among his disciples, including Judas, who all partook in drinking from it. This moment highlights the solemnity of the Last Supper as a pivotal event in the life of Jesus and his followers.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.588751561920277,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.17,
+            "commentatorTierSimilarities": [
+                49.88,
+                0.0,
+                50.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the institution of the Supper, Jesus took a cup containing a mixture of ordinary red wine and water. Mark and Matthew provide a comparable account, underlining the importance of Jesus' actions and instructions. He gave thanks over the cup and distributed it among his disciples, including Judas, who all drank from it. This significant moment underscores the solemnity and significance of the Last Supper in the life of Jesus and his followers.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.5980116137141773,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "commentatorTierSimilarities": [
+                48.04,
+                0.0,
+                51.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:23:06",
+    "verseRef": "Mark 6:5",
+    "bestBHT": {
+        "bht": "Jesus encountered the sick, who were considered to have constitutional weakness. He had the power to perform miracles, but the unbelieving did not give Him the opportunity to save them, which went against His purpose. It was not fitting or proper for Him to work miracles in that place, as it would not promote His ultimate goal. However, Jesus worked miracles in other places, demonstrating His power and leaving them without excuse. By not performing miracles there, He prevented an increase in their damnation.",
+        "wordCount": 84,
+        "quoteTokenProportion": 51.61,
+        "qualityScore": 1.668388249286281,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.82,
+        "commentatorTierSimilarities": [
+            22.93,
+            43.76,
+            33.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Sick [\u03b1\u03c1\u03c1\u03c9\u03c3\u03c4\u03bf\u03b9\u03c2] . From aj, not, and rJwnnumi, to strengthen. Sickness regarded as constitutional weakness."
+        ],
+        "Philip Schaff": [
+            "His miracles were not feats of magic, but required two conditions to call them forth: an opportunity and a sufficient moral purpose.",
+            "The unbelieving would not come for healing; to heal such would be contrary to His purpose in the miracles, the demonstration of His spiritual power.",
+            "When men do not believe, they do not give Him the opportunity to save them, and to save the unbelieving is contrary to His purpose, and impossible."
+        ],
+        "John Gill": [
+            "Not but that he could if he would, but he would not; nor was it fit and proper that he should; the same is the sense here.\" ",
+            "The emphasis lies upon the word there; though he did not work any considerable miracle in that place, he did in others; which shows, that it was not a defect of power in him, that was the reason of it, but something else.",
+            "And these cures he wrought, to show his power, what he could do, and what benefits they might have enjoyed by him, and to leave them inexcusable."
+        ],
+        "John Wesley": [
+            "He could do no miracle there \u2014 Not consistently with his wisdom and goodness.",
+            "It being inconsistent with his wisdom to work them there, where it could not promote his great end.",
+            "And therefore to have given them more evidence, would only have increased their damnation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sick [\u03b1\u03c1\u03c1\u03c9\u03c3\u03c4\u03bf\u03b9\u03c2], those with constitutional weakness, were unable to receive healing in that place. Though Jesus had the power to perform miracles, he chose not to in this case, as it went against his purpose. It was the unbelieving who did not provide him with the opportunity to save them, as His miracles required both an opportunity and a sufficient moral purpose. Working miracles in that place was not fitting or proper, and it would not have served His ultimate goal. He performed miracles in other places to demonstrate His power and the benefits that could have been enjoyed if only they had believed. By not performing miracles there, Jesus left them without excuse and did not increase their damnation by providing more evidence.",
+            "wordCount": 125,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.6715885872463616,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.92,
+            "commentatorTierSimilarities": [
+                20.82,
+                46.23,
+                32.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sick, known as the \u03b1\u03c1\u03c1\u03c9\u03c3\u03c4\u03bf\u03b9\u03c2 in Greek, were considered to have constitutional weakness. Jesus had the power to perform miracles, but the unbelieving did not give Him the opportunity to save them, which went against His purpose. Working miracles in that place was not fitting or proper, as it would not have promoted His great end. However, Jesus did perform miracles in other places to reveal His power and the benefits people could have enjoyed if they had believed. His decision not to work miracles there left them without excuse and prevented an increase in their damnation.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.6198520351258006,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.2,
+            "commentatorTierSimilarities": [
+                24.59,
+                42.73,
+                32.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus encountered the sick, who were considered to have constitutional weakness. Although He had the power to perform miracles, the unbelieving did not provide Him with the opportunity to save them, which did not align with His purpose. Performing miracles in that place was not fitting or proper and would not have served His ultimate goal. Jesus chose to work miracles in other locations to showcase His power and the benefits that could have been enjoyed through Him. By not performing miracles there, He left them without excuse and did not amplify their damnation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.62877417198417,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                22.65,
+                44.46,
+                32.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus encountered the sick who were regarded as having constitutional weakness. He had the power to perform miracles, yet the unbelieving did not give Him the opportunity to save them, which went against His purpose. It was not fitting or proper for Him to work miracles in that place, as it would not promote His ultimate goal. However, in other places, Jesus displayed His power, demonstrating what He could do and leaving them without excuse. By not performing miracles there, He prevented an increase in their damnation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.6429374598906246,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+            "commentatorTierSimilarities": [
+                23.4,
+                42.42,
+                34.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus encountered the sick, who were considered to have constitutional weakness. He had the power to perform miracles, but the unbelieving did not give Him the opportunity to save them, which went against His purpose. It was not fitting or proper for Him to work miracles in that place, as it would not promote His ultimate goal. However, Jesus worked miracles in other places, demonstrating His power and leaving them without excuse. By not performing miracles there, He prevented an increase in their damnation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.668388249286281,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.82,
+            "commentatorTierSimilarities": [
+                22.93,
+                43.76,
+                33.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:27:00",
+    "verseRef": "Mark 11:24",
+    "bestBHT": {
+        "bht": "Believe that when you asked, you received, and the fulfillment shall come. This is a general assurance for prevailing prayer, particularly for the encouragement of evangelistic and missionary efforts. It emphasizes the test of faith, seeing the fulfillment before it actually happens. The past tense usage reflects the divine counsels aligning with the request. It is a prayer of great faith, believing with certainty that the requests are already granted, paving the way for their eventual manifestation.",
+        "wordCount": 77,
+        "quoteTokenProportion": 29.63,
+        "qualityScore": 1.6776130014788495,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+        "commentatorTierSimilarities": [
+            47.96,
+            0.0,
+            52.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Believe that ye have received them - The past tense is used because the reception spoken of is the determination in the divine counsels coincident with the request.\" ",
+            "Believe that when you asked, you received, and the fulfillment shall come."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This verse only generalizes the assurance of Mark 11:23; which seems to show that it was designed for the special encouragement of evangelistic and missionary efforts...",
+            "...this is a directory for prevailing prayer in general.",
+            "...encouragement of evangelistic and missionary efforts..."
+        ],
+        "Marvin Vincent": [
+            "Receive [\u03b5\u03bb\u03b1\u03b2\u03b5\u03c4\u03b5] . More lit., received. Rev., have received."
+        ],
+        "Archibald T. Robertson": [
+            "Believe that ye have received them (\u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b5\u03c4\u03b5 \u03bf\u03c4 \u03b5\u03bb\u03b1\u03b2\u03b5\u03c4\u03b5). That is the test of faith, the kind that sees the fulfilment before it happens.",
+            "\u0395\u03bb\u03b1\u03b2\u03b5\u03c4\u03b5 is second aorist active indicative, antecedent in time to \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03b5\u03c4\u03b5, unless it be considered the timeless aorist when it is simultaneous with it.",
+            "For this aorist of immediate consequence see John 15:6."
+        ],
+        "John Gill": [
+            "For encouragement in prayer more particularly, without which nothing should be attempted, and especially which is above the power of nature, and is of a miraculous kind.",
+            "Believe that ye receive [them], and ye shall have [them]; the petitions that are desired, and the things asked in them: that is, be as much assured of having them, as if you had already received them, and you shall have them.",
+            "And great faith it is so to believe; and this is the prayer of faith; see 1 John 5:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believe that when you asked, you received, and the fulfillment shall come. This verse is a general assurance and a directory for prevailing prayer. It encourages evangelistic and missionary efforts, providing the test of faith to see the fulfillment before it happens. The use of the past tense indicates that the reception spoken of is in line with the divine counsels. It is a prayer of faith, believing with such certainty that one can be assured of having the requests granted as if they had already received them. This verse serves as an encouragement in prayer, especially for the miraculous and above the power of nature.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.759905521448267,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                44.27,
+                0.0,
+                55.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believe that when you asked, you received, and the fulfillment shall come. This verse is a general assurance and a directory for prevailing prayer. It encourages evangelistic and missionary efforts, providing the test of faith to see the fulfillment before it happens. The use of the past tense indicates that the reception spoken of is in line with the divine counsels. It is a prayer of faith, believing with such certainty that one can be assured of having the requests granted as if they had already received them.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.782187582319665,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                49.83,
+                0.0,
+                50.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believe that when you asked, you received, and the fulfillment shall come. This is a general assurance for prevailing prayer, particularly for the encouragement of evangelistic and missionary efforts. It emphasizes the test of faith, seeing the fulfillment before it actually happens. The past tense usage reflects the divine counsels aligning with the request. It is a prayer of great faith, believing with certainty that the requests are already granted, paving the way for their eventual manifestation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.6776130014788495,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                47.96,
+                0.0,
+                52.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believe that when you asked, you received, and the fulfillment shall come. This verse is a directory for prevailing prayer and serves as an encouragement for evangelistic and missionary efforts. The assurance of receiving is tied to the test of faith, where the fulfillment is seen before it happens. By using the past tense, it indicates that the divine counsels coincide with the request. It exemplifies the prayer of great faith, having the certainty that the desired petitions are already granted and will be received.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.802960298604079,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+            "commentatorTierSimilarities": [
+                49.41,
+                0.0,
+                50.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believe that when you asked, you received, and the fulfillment shall come. This verse provides guidance for prevailing prayer, particularly for evangelistic and missionary endeavors. It emphasizes the test of faith, seeing the outcome before it materializes. The past tense denotes the alignment of the divine counsels with the request. It represents a prayer of unwavering faith, firmly believing that the desired petitions are already granted and will be obtained.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.609430046752037,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                46.8,
+                0.0,
+                53.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

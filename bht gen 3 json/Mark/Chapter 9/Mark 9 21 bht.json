@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:25:19",
+    "verseRef": "Mark 9:21",
+    "bestBHT": {
+        "bht": "The father's faith is tested by the Lord, who inquires about the disciples' failure and the severity of his son's condition. The father draws hope from what he had heard about Christ, though he is dispirited by their inadequacy and the aggravation of his son's malady. It is important to recognize that this affliction is not a result of the child's sins, but a hidden judgment from God meant to test their obedience. The prolonged and stubborn nature of the disorder showcases the divine power and goodness at work, revealing the impact of original sin.",
+        "wordCount": 99,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5072187055948691,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+        "commentatorTierSimilarities": [
+            33.28,
+            22.69,
+            44.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] The Lord takes occasion to enquire thus of the father, to bring in the trial of his faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "half dispirited by the failure of the disciples",
+            "aggravated virulence of the malady itself in presence of their Master",
+            "encouraged too by what he had heard of Christ"
+        ],
+        "John Calvin": [
+            "From a child. Hence we infer that this punishment was not inflicted on account of the sins of the individual, but was a secret judgment of God.",
+            "True indeed, even infants... are not innocent in the sight of God, or free from guilt; but God\u2019s chastisements have sometimes hidden causes, and are intended to try our obedience.",
+            "We do not render to God the honor which is due to Him, unless with reverence and modesty we adore His justice, when it is concealed from us."
+        ],
+        "Philip Schaff": [
+            "Mark 9:21. And he asked his father. To bring out his faith.",
+            "\t"
+        ],
+        "John Gill": [
+            "the length and stubbornness of his disorder might be known, and so the cure the more remarkable, and appear the more expressive of his divine power and goodness",
+            "it was not for any actual sin that he had committed, that this sore affliction came upon him",
+            "must be tainted with original sin, which is the source and spring of all afflictions, calamities and judgments"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The father's faith is tested by the Lord in this verse, and his weariness from the disciples' failed attempts and the severity of his son's condition is mixed with hope from what he had heard about Christ. It is noteworthy that this affliction was not punishment for the child's sins, but rather a hidden judgment of God to try their obedience. Even infants, though not innocent in the sight of God, can be subject to His secret judgments. Through this trial, the length and stubbornness of the disorder serves to highlight the remarkable nature of the cure and the divine power and goodness at work. It is a reminder that all afflictions and hardships can ultimately be traced back to the presence of original sin.",
+            "wordCount": 128,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.3277773721525918,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "commentatorTierSimilarities": [
+                29.19,
+                16.11,
+                54.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The father's faith is tested by the Lord, who inquires about the aggravated malady and the disciples' failed attempts. The father, half dispirited by their inadequacy, finds encouragement in what he had heard of Christ. It becomes clear that this affliction is not a direct punishment, but a hidden judgment intended to try their obedience. The prolonged and obstinate nature of the disorder serves to highlight the remarkable cure, displaying the divine power and goodness at work. It reminds us that all afflictions trace back to original sin.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.3646817090562005,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.72,
+            "commentatorTierSimilarities": [
+                36.54,
+                19.62,
+                43.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The father's faith is put to the test by the Lord, who queries him about the disciples' failure and the severity of his son's condition. Despite feeling disheartened, the father finds comfort in what he had heard about Christ. It is important to note that this affliction is not a punishment for personal sins, but rather a concealed judgment from God, meant to test their obedience. The prolonged and stubborn nature of the disorder serves to emphasize the remarkable cure and showcase the divine power and goodness in action. This serves as a reminder that all hardships ultimately stem from original sin.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.29504506373933,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.4,
+            "commentatorTierSimilarities": [
+                32.64,
+                21.07,
+                46.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The father's faith is tested by the Lord, who inquires about the disciples' failure and the severity of his son's condition. Encouraged by what he had heard about Christ, the father faces the trial, aware that this affliction is not a punishment for personal sins but a hidden judgment from God. The prolonged and obstinate disorder serves to highlight the remarkable cure, demonstrating the divine power and goodness at work. Through this, we are reminded of the presence of original sin, the source of all afflictions and judgments.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4059321189772835,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+            "commentatorTierSimilarities": [
+                31.75,
+                20.12,
+                48.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The father's faith is tested by the Lord, who inquires about the disciples' failure and the severity of his son's condition. The father draws hope from what he had heard about Christ, though he is dispirited by their inadequacy and the aggravation of his son's malady. It is important to recognize that this affliction is not a result of the child's sins, but a hidden judgment from God meant to test their obedience. The prolonged and stubborn nature of the disorder showcases the divine power and goodness at work, revealing the impact of original sin.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5072187055948691,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "commentatorTierSimilarities": [
+                33.28,
+                22.69,
+                44.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:21:02",
+    "verseRef": "Mark 3:12",
+    "bestBHT": {
+        "bht": "Jesus charged those whom he healed not to make him known, using a word commonly rendered as rebuke in the New Testament. This word carries a sense of severe reproach for unworthy acts, hinting at a charge under penalty. By instructing them not to spread the news, Jesus may have been trying to prevent premature conflict with the Pharisees. This charge was also given to evil spirits on other occasions. It is evident that Jesus did not seek vain glory or the approval of men or devils, especially to thwart his enemies' attempts to defame him.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.42,
+        "qualityScore": 1.7036820855429489,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.99,
+        "commentatorTierSimilarities": [
+            31.9,
+            38.23,
+            29.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The word is commonly rendered rebuke in the New Testament. In classical Greek its predominant sense is that of severe, strenuous reproach for unworthy deeds or acts.",
+            "In this sense the word carries, at bottom, a suggestion of a charge under penalty.",
+            "He charged them in order that they should not make him known."
+        ],
+        "Philip Schaff": [
+            "And he charged them much.\" - Matthew 12:16, shows that some such charge was given to all who were healed; probably to prevent a premature rupture with the Pharisees.",
+            "The prohibition to evil spirits was special, and usually given.\" - See the addition Matthew (Matthew 12:17-21) makes to this account of our Lord\u2019s healing."
+        ],
+        "John Gill": [
+            "And he straitly charged them... he gave them a strict and severe charge, that they should not make him known.\" ",
+            "He sought not vain glory and popular applause, nor did he need the testimony of men or devils.",
+            "Especially did not choose the latter, lest his enemies should traduce him, as having familiarity with them, as they did."
+        ],
+        "John Wesley": [
+            "He charged them not to make him known \u2014 It was not the time: nor were they fit preachers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word used in this verse is commonly rendered as rebuke and carries the sense of severe reproach for unworthy acts. It implies a charge under penalty. Jesus charged those healed to not make him known, possibly to prevent a premature rupture with the Pharisees. This charge to evil spirits was common as well. Jesus sought neither vain glory nor the testimony of men or devils. In particular, he did not want to be known by the devils, as it could lead his enemies to traduce him. It was not the right time, nor were his followers fit preachers.",
+            "wordCount": 99,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5371005033161067,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                28.9,
+                33.24,
+                37.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word used in this passage is commonly rendered as rebuke and carries a sense of severe reproach for unworthy acts. Jesus straitly charged those healed to not make him known, possibly to prevent a premature rupture with the Pharisees. This charge to evil spirits was common as well. Jesus sought neither vain glory nor the testimony of men or devils. He did not want to be known by the devils in particular, as it could lead his enemies to traduce him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.561964572228096,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.28,
+            "commentatorTierSimilarities": [
+                27.62,
+                37.39,
+                34.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word commonly rendered as rebuke in the New Testament suggests severe reproach for unworthy acts. It carries the idea of a charge under penalty. Jesus charged those healed not to make him known, possibly to avoid conflict with the Pharisees. This charge was also given to evil spirits. Jesus sought neither vain glory nor the testimony of men or devils. He particularly avoided being known by the devils, as it could lead his enemies to criticize him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.5587606887517649,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+            "commentatorTierSimilarities": [
+                33.79,
+                33.68,
+                32.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word commonly used for rebuke in the New Testament implies severe reproach for unworthy acts. Jesus charged those healed not to make him known, possibly to avoid conflict with the Pharisees. This charge was also given to evil spirits. Jesus sought neither vain glory nor the testimony of men or devils. He particularly avoided being known by the devils, as it could lead his enemies to criticize him.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5574043944975058,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.13,
+            "commentatorTierSimilarities": [
+                28.78,
+                37.37,
+                33.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus charged those whom he healed not to make him known, using a word commonly rendered as rebuke in the New Testament. This word carries a sense of severe reproach for unworthy acts, hinting at a charge under penalty. By instructing them not to spread the news, Jesus may have been trying to prevent premature conflict with the Pharisees. This charge was also given to evil spirits on other occasions. It is evident that Jesus did not seek vain glory or the approval of men or devils, especially to thwart his enemies' attempts to defame him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.7036820855429489,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.99,
+            "commentatorTierSimilarities": [
+                31.9,
+                38.23,
+                29.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

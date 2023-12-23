@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:29:58",
+    "verseRef": "Mark 15:36",
+    "bestBHT": {
+        "bht": "As Jesus hangs on the cross, a bystander cruelly responds to His cry for drink by saying, Let be, let us see whether Elijah will come to save him. The phrase let be implies ridicule rather than restraint, and the bystander briefly considers the possibility of Elijah's arrival but ultimately dismisses it. Another bystander fills a sponge with vinegar, places it on a reed, and offers it to Jesus to drink, fulfilling the prophecy in Psalms 69:21. The various accounts of this conversation in the Gospels provide different perspectives on the scene.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.537669326338639,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+        "commentatorTierSimilarities": [
+            32.37,
+            42.47,
+            25.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "36.] On the difference in Matthew, see notes there."
+        ],
+        "Marvin Vincent": [
+            "Vinegar. See on Matthew 27:48."
+        ],
+        "John Calvin": [
+            "The phrase, let him alone, appears to have implied not restraint, but ridicule.",
+            "Let us see if Elijah will come.",
+            "Hush! Hush!"
+        ],
+        "Philip Schaff": [
+            "Let be' means 'let this suffice,' until we see Elijah coming.",
+            "The man may have had the passing earnest thought that Elijah might come.",
+            "The two Evangelists give two distinct parts of the same conversation."
+        ],
+        "Archibald T. Robertson": [
+            "To take him down (\u03ba\u03b1\u03b8\u03b5\u03bb\u03b5\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Matthew 27:49 has \"to save him\" (\u03c3\u03c9\u03c3\u03c9\u03bd), which see for discussion. "
+        ],
+        "John Gill": [
+            "And one ran and filled a sponge full of vinegar.",
+            "And put it on a reed; an hyssop stalk.",
+            "And gave him to drink; and so fulfilled a prophecy in Psalms 69:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus hangs on the cross, a bystander responds to His cry for thirst by saying, Let be, let us see whether Elijah will come to save him. This phrase is not a call for restraint, but rather a cruel taunt, as it implies ridicule rather than sympathy. The bystander may have briefly considered the possibility of Elijah coming to Jesus' aid, but ultimately dismisses it. Another bystander runs to fill a sponge with vinegar, puts it on a reed, and offers it to Jesus to drink, fulfilling the prophecy in Psalms 69:21. The different accounts of this conversation in the Gospels provide distinct snapshots of the scene.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.5495318642986942,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.86,
+            "commentatorTierSimilarities": [
+                31.14,
+                45.02,
+                23.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Amidst Jesus' crucifixion, one bystander responds rudely to Jesus' cry for thirst, tauntingly remarking, Let be, let us see whether Elijah will come to save him. This phrase, let be, implies not restraint but rather ridicule. While the bystander momentarily entertains the thought of Elijah's intervention, he dismisses it. Another individual fills a sponge with vinegar, places it on a reed, and offers it to Jesus to drink, fulfilling the prophecy in Psalms 69:21. The varying accounts of this conversation in the Gospels provide differing perspectives of this encounter.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.4176039874321007,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.48,
+            "commentatorTierSimilarities": [
+                30.52,
+                41.41,
+                28.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus hangs on the cross, a bystander cruelly responds to His cry for drink by saying, Let be, let us see whether Elijah will come to save him. The phrase let be implies ridicule rather than restraint, and the bystander briefly considers the possibility of Elijah's arrival but ultimately dismisses it. Another bystander fills a sponge with vinegar, places it on a reed, and offers it to Jesus to drink, fulfilling the prophecy in Psalms 69:21. The various accounts of this conversation in the Gospels provide different perspectives on the scene.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.537669326338639,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.47,
+            "commentatorTierSimilarities": [
+                32.37,
+                42.47,
+                25.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus hangs on the cross, a bystander mockingly responds to His cry for drink, saying, Let be, let us see whether Elijah will come to save him. The phrase let be implies ridicule rather than restraint. Although the bystander briefly entertains the thought of Elijah's possible arrival, it is quickly dismissed. Another bystander responds by filling a sponge with vinegar, placing it on a reed, and offering it to Jesus to drink, thereby fulfilling the prophecy found in Psalms 69:21. The diverse Gospel accounts offer distinct perspectives on this conversation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.4154036221888406,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.41,
+            "commentatorTierSimilarities": [
+                25.44,
+                46.92,
+                27.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus hangs on the cross, a bystander responds with mockery to His cry for drink, sarcastically saying, Let be, let us see whether Elijah will come to save him. The phrase let be carries a tone of ridicule rather than restraint. Although the bystander briefly considers the possibility of Elijah's intervention, it is ultimately dismissed. Another individual fills a sponge with vinegar, places it on a reed, and offers it to Jesus to drink, fulfilling the prophecy in Psalms 69:21. The Gospel accounts provide different perspectives on this conversation.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4161342557735743,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.43,
+            "commentatorTierSimilarities": [
+                29.05,
+                43.58,
+                27.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

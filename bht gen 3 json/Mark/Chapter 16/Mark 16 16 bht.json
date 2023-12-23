@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-22-2023 23:30:29",
+    "verseRef": "Mark 16:16",
+    "bestBHT": {
+        "bht": "Unbelief, or the rejection of the Gospel, will condemn a person, regardless of whether they are baptized or not. Our Lord here emphasizes the general necessity of Baptism to salvation, highlighting the importance of belief and disbelief as the main subjects. Baptism serves as the external symbol of the inner faith of the heart and is not the means of securing salvation. Condemnation rests on disbelief, not on baptism. Salvation is ultimately based on belief, and baptism merely represents the new life.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 2.622172622330706,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.53,
+        "commentatorTierSimilarities": [
+            32.85,
+            32.88,
+            34.27
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Unbelief\u2014by which is meant the rejection of the Gospel in heart and life, not weakness or doubt as in ver. 14\u2014shall condemn a man, whether baptized or unbaptized.",
+            "And, conversely, it follows that our Lord does not set forth here the absolute, but only the general necessity of Baptism to salvation; as the Church of England also teaches.",
+            "These words cannot be taken, as those in Matt. xxviii, 19, 20, as setting forth the order in which faith and baptism must always come; belief and disbelief are in this verse the great leading subjects, and believeth must on that account stand first."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Baptism is here put for the external signature of the inner faith of the heart.\" ",
+            "He that believeth and is baptized...shall be saved.",
+            "These awful issues of the reception or rejection of the Gospel, though often recorded in other connections, are given in this connection only by Mark."
+        ],
+        "Albert Barnes": [
+            "He who credits [the gospel] to be true, and acts as if it were true... This is the whole of faith.",
+            "Faith is feeling and acting as if there were a God, a Saviour, a heaven, a hell... casting our eternal interests on the mercy of God in Christ Jesus.",
+            "A creature who has no confidence in God; who does not believe that he is true or worthy of his regard, and who never seeks his favor, must be wretched."
+        ],
+        "Marvin Vincent": [
+            "Shall be damned [\u03ba\u03b1\u03c4\u03b1\u03ba\u03c1\u03b9\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1\u03b9] . A most unfortunate rendering.",
+            "The word is a judicial term, and, as Dr. Morison truthfully says, 'determines, by itself, nothing at all concerning the nature, degree, or extent of the penalty to be endured.'",
+            "Rev., rightly, condemned."
+        ],
+        "John Calvin": [
+            "This promise was added in order to allure all mankind to believe... in order to terrify unbelievers.\" ",
+            "Baptism is joined to the faith of the gospel... to testify the grace of God.\" ",
+            "Rebels, when they reject the salvation offered to them, draw down upon themselves severer punishment..."
+        ],
+        "Philip Schaff": [
+            "He that believeth and is baptised shall be saved; but he that disbelieveth shall be condemned. The obvious lessons of this verse are pressing and practical.",
+            "Baptism is generally but not absolutely necessary to salvation. It is not said: He that believeth not and is not baptized will be condemned.",
+            "The condemnation for the sin of unbelief implies a previous offer of the gospel. Blessedness is impossible for those who, when they know of Christ, do not trust Him."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus does not make baptism essential to salvation. Condemnation rests on disbelief, not on baptism.",
+            "So salvation rests on belief.",
+            "Baptism is merely the picture of the new life not the means of securing it."
+        ],
+        "John Gill": [
+            "but he that believeth,.... Not notionally only, or that gives a bare assent to the truth of the Gospel; but spiritually, who sees Christ, his need of him, and the worth and excellency, suitableness and fulness of him; who comes to him as a poor perishing sinner, and ventures on him, and commits himself to him, and lives upon him; believing alone in him, and expecting life and salvation alone by him...\" ",
+            "faith and eternal life are so connected together, that he that has the one, shall have the other; and it is descriptive of the person that shall enjoy it...\" ",
+            "but it is the duty of every one that believes, and he that truly believes, ought to be baptized, and prove the truth of his faith, by his obedience to Christ, and such shall be saved..."
+        ],
+        "John Wesley": [
+            "And is baptized \u2014 In token thereof. Every one that believed was baptized.",
+            "But he that believeth not \u2014 Whether baptized or unbaptized, shall perish everlastingly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Unbelief, or the rejection of the Gospel, will condemn a person, regardless of whether they are baptized or not. Our Lord here emphasizes the general necessity of Baptism to salvation, highlighting the importance of belief and disbelief as the main subjects. Baptism serves as the external symbol of the inner faith of the heart and is not the means of securing salvation. Condemnation rests on disbelief, not on baptism. Salvation is ultimately based on belief, and baptism merely represents the new life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.622172622330706,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.53,
+            "commentatorTierSimilarities": [
+                32.85,
+                32.88,
+                34.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Unbelief, the rejection of the Gospel, results in condemnation, regardless of baptism. Our Lord emphasizes the general necessity of Baptism to salvation, with belief and disbelief as primary concerns. Baptism represents the external display of inner faith and is not the means of securing salvation. Condemnation rests on disbelief, not baptism. Ultimately, salvation is contingent on belief, while baptism serves as a symbolic representation of the new life.",
+            "wordCount": 68,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 2.5763252722524586,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.0,
+            "commentatorTierSimilarities": [
+                33.83,
+                32.54,
+                33.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Unbelief, the rejection of the Gospel, shall condemn a man, whether baptized or unbaptized. Our Lord does not set forth the absolute, but the general necessity of Baptism to salvation. Baptism is the external signature of the inner faith of the heart. He that believeth and is baptized...shall be saved. These issues of the reception or rejection of the Gospel are given in this connection only by Mark. Jesus does not make baptism essential to salvation; salvation rests on belief, with baptism merely signifying the new life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.565058815126142,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.63,
+            "commentatorTierSimilarities": [
+                33.94,
+                32.99,
+                33.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Unbelief, whether baptized or unbaptized, condemns a person. Baptism signifies the external expression of inner faith. While our Lord emphasizes the general necessity of Baptism to salvation, it is belief that determines one's fate. Salvation is contingent on belief, not on baptism. The reception or rejection of the Gospel is highlighted uniquely in the book of Mark. Therefore, baptism is merely a symbol of the new life and not the means of securing salvation.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.530225583370523,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.47,
+            "commentatorTierSimilarities": [
+                33.07,
+                31.91,
+                35.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unbelief, whether baptized or unbaptized, shall condemn a person. Our Lord does not set forth the absolute, but only the general necessity of Baptism to salvation. Baptism represents the external signature of the inner faith of the heart. He that believeth and is baptized...shall be saved. These issues of the reception or rejection of the Gospel are given only by Mark. Salvation rests on belief, while baptism is merely the picture of the new life and not the means of securing it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.5112681539129094,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.84,
+            "commentatorTierSimilarities": [
+                33.58,
+                32.77,
+                33.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

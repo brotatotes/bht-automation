@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:25:54",
+    "verseRef": "Mark 10:36",
+    "bestBHT": {
+        "bht": "Though fully aware of what James and John were requesting, our Lord will have the unseemly petition uttered before all. He insists upon them telling Him the particular thing they wanted before giving them any promise. Jesus wants to hear their plea from their own mouths, aware of their intentions.",
+        "wordCount": 50,
+        "quoteTokenProportion": 48.84,
+        "qualityScore": 2.0627982261289053,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.93,
+        "commentatorTierSimilarities": [
+            42.52,
+            0.0,
+            57.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Though well aware what was in their mind and their mother's, our Lord will have the unseemly petition uttered before all.",
+            "Our Lord will have the unseemly petitioner uttered before all.",
+            "Our Lord will have the unseemly petition uttered."
+        ],
+        "John Gill": [
+            "Christ insists upon their telling him the particular thing they wanted to have done for them.",
+            "Before he would give them any promise, though he knew very well what it was they were desirous of.",
+            "Christ insists upon their telling him the particular thing they wanted to have done for them, before he would give them any promise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Although fully aware of what James and John were requesting, Jesus wanted them to openly express their unseemly petition before everyone. He insisted on them telling Him specifically what they desired before granting any promises. Jesus wanted to hear their plea directly from their mouths, fully aware of their intentions.",
+            "wordCount": 50,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.6373996509401116,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                35.02,
+                0.0,
+                64.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though fully aware of what James and John were requesting, our Lord will have the unseemly petition uttered before all. He insists upon them telling Him the particular thing they wanted before giving them any promise. Jesus wants to hear their plea from their own mouths, aware of their intentions.",
+            "wordCount": 50,
+            "quoteTokenProportion": 48.84,
+            "qualityScore": 2.0627982261289053,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.93,
+            "commentatorTierSimilarities": [
+                42.52,
+                0.0,
+                57.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even though Jesus knew exactly what James and John were seeking, He purposely wanted their unseemly petition to be voiced in front of everyone. He insisted that they reveal specifically what they desired before granting any promises. Jesus desired to hear their plea directly from their own mouths, fully aware of their intentions.",
+            "wordCount": 53,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.54982514687931,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                37.05,
+                0.0,
+                62.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though fully aware of their intentions, Jesus wanted James and John to publicly express their unseemly petition before all. He insisted that they reveal specifically what they desired before making any promises. Jesus desired to hear their plea directly from their own mouths before responding to their request.",
+            "wordCount": 48,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.5732913785708265,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                37.36,
+                0.0,
+                62.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Although Jesus was well aware of what James and John had in mind, He chose to have their inappropriate request spoken aloud in the presence of others. He required them to articulate the particular thing they desired before offering any assurances. Jesus wanted them to openly express their plea, fully aware of their intentions, before considering their request.",
+            "wordCount": 58,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.2109528729201748,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.61,
+            "commentatorTierSimilarities": [
+                31.4,
+                0.0,
+                68.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

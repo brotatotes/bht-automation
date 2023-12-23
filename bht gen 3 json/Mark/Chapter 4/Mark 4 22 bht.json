@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:22:06",
+    "verseRef": "Mark 4:22",
+    "bestBHT": {
+        "bht": "For there is nothing hid which shall not be manifested, as concealment is a means to revelation. The disciples have the responsibility to proclaim the great truths they have been entrusted with publicly. It is crucial for ministers of the Gospel to declare the whole counsel of God and not withhold anything beneficial to the churches. Every hidden thing will be revealed in due time, as nothing will be kept secret but will come to light.",
+        "wordCount": 76,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.9523914851318063,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+        "commentatorTierSimilarities": [
+            38.84,
+            29.87,
+            31.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For there is nothing hid which shall not be manifested...\" (Mark 4:22). ",
+            "I have privately expounded to you these great truths, but only that ye may proclaim them publicly; and if you will not, others will.\" ",
+            "They are imparted to be diffused abroad, and they shall be so; yea, a time is coming when the most hidden things shall be brought to light."
+        ],
+        "Albert Barnes": [
+            "There is nothing hid ... - See the notes at Matthew 10:26."
+        ],
+        "Marvin Vincent": [
+            "Concealment is a means to revelation.",
+            "Things are hidden in order that they may be manifested.",
+            "Every hidden thing shall be revealed."
+        ],
+        "Philip Schaff": [
+            "For there is nothing hid, etc. See on Matthew 10:26. Here these words are a literal statement of what was figuratively expressed in Mark 4:21.",
+            "But that it should come to light. This is the purpose of the temporary secrecy, a thought implied throughout, but more strongly expressed here.",
+            "The concealing, hiding purpose, mentioned in Mark 4:12, is not without this gracious use of revealing the truth more fully to those who see the evil effect of rejecting it."
+        ],
+        "Archibald T. Robertson": [
+            "The temporary concealment is for final manifestation and a means to that end.",
+            "Those who are charged with the secret at this time are given the set responsibility of proclaiming it on the housetops after Ascension.",
+            "The hidden and the secret are to be revealed in due time."
+        ],
+        "John Gill": [
+            "For there is nothing hid... which shall not be manifested, sooner or later, to his disciples.\" ",
+            "Neither was any thing kept secret... but that it should come abroad.\" ",
+            "Wherefore it becomes the ministers of the Gospel to keep back nothing that may be profitable to the churches, nor shun to declare the whole counsel of God."
+        ],
+        "John Wesley": [
+            "Matthew 10:26; Luke 8:17."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For there is nothing hid which shall not be manifested, and this concealment serves as a means to revelation. The disciples have been entrusted with great truths, with the set responsibility to proclaim them publicly. These hidden and secret things are imparted to be diffused abroad, and they will indeed be brought to light. The purpose of temporary secrecy is to fully reveal the truth to those who recognize the consequences of rejecting it. Therefore, it is imperative for the ministers of the Gospel to declare the whole counsel of God and not withhold anything that may be profitable to the churches. Ultimately, every hidden thing shall be revealed, and nothing will be kept secret but will come abroad in due time.",
+            "wordCount": 122,
+            "quoteTokenProportion": 42.68,
+            "qualityScore": 1.8696666118877812,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                42.0,
+                29.37,
+                28.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For there is nothing hid which shall not be manifested, and this concealment serves as a means to revelation. The disciples have been entrusted with great truths, with the set responsibility to proclaim them publicly. These hidden and secret things are imparted to be diffused abroad, and they will indeed be brought to light. It is imperative for the ministers of the Gospel to declare the whole counsel of God and not withhold anything that may be profitable to the churches. Every hidden thing shall be revealed in due time.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.9143816063752985,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                43.05,
+                28.82,
+                28.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The purpose of temporary secrecy is to fully reveal the truth to those who recognize the consequences of rejecting it. Every hidden thing shall be revealed, and nothing will be kept secret but will come abroad in due time. The disciples have been entrusted with great truths, with the set responsibility to proclaim them publicly. For there is nothing hid which shall not be manifested, as concealment is a means to revelation. It is imperative for the ministers of the Gospel to declare the whole counsel of God and not withhold anything that may be profitable to the churches.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8882294073108525,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.13,
+            "commentatorTierSimilarities": [
+                40.72,
+                29.31,
+                29.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples have been entrusted with great truths, with the set responsibility to proclaim them publicly. For there is nothing hid which shall not be manifested, as concealment is a means to revelation. It is imperative for the ministers of the Gospel to declare the whole counsel of God and not withhold anything that may be profitable to the churches. Every hidden thing shall be revealed in due time, and nothing will be kept secret but will come abroad.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.9272486787983434,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                39.87,
+                27.83,
+                32.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For there is nothing hid which shall not be manifested, as concealment is a means to revelation. The disciples have the responsibility to proclaim the great truths they have been entrusted with publicly. It is crucial for ministers of the Gospel to declare the whole counsel of God and not withhold anything beneficial to the churches. Every hidden thing will be revealed in due time, as nothing will be kept secret but will come to light.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.9523914851318063,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                38.84,
+                29.87,
+                31.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

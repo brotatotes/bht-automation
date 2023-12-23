@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:28:27",
+    "verseRef": "Mark 14:49",
+    "bestBHT": {
+        "bht": "He signifies that taking him away might have been easily done, but the Scriptures must be fulfilled. The Scriptures spoke of the betraying him by Judas and of their taking him in this private and secret manner. Even though he was daily with them in the temple, teaching, they did not seize him then. But now, it was time for the Scriptures to be fulfilled.",
+        "wordCount": 65,
+        "quoteTokenProportion": 63.83,
+        "qualityScore": 1.9616164121366553,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "I was daily with you in the temple, teaching, and ye took me not... But the Scriptures must be fulfilled.\" ",
+            "He signifies [that taking him away] might have been easily done.",
+            "The Scriptures must be fulfilled, which spoke of the betraying him by Judas; and of their taking him in this private and secret manner; and of the flight of the disciples from him next mentioned."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He signifies that taking him away might have been easily done, but the Scriptures must be fulfilled. The Scriptures spoke of the betraying him by Judas and of their taking him in this private and secret manner. Even though he was daily with them in the temple, teaching, they did not seize him then. But now, it was time for the Scriptures to be fulfilled.",
+            "wordCount": 65,
+            "quoteTokenProportion": 63.83,
+            "qualityScore": 1.9616164121366553,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse highlights Jesus' frustration with the disciples for not recognizing the fulfillment of Scripture in his arrest, as he remarks, I was daily with you in the temple, teaching, and ye took me not... But the Scriptures must be fulfilled. This indicates that Jesus understood that his capture and the disciples' abandonment were divinely ordained in order for the prophecies to be fulfilled. The commentaries suggest that not only could the disciples have prevented Jesus' arrest, but also that these events were foretold in the Scriptures, emphasizing the importance of fulfilling God's plan.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.4214366149973001,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.61,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus expresses his disappointment towards the disciples, saying, I was daily with you in the temple, teaching, and ye took me not... But the Scriptures must be fulfilled. It is evident that Jesus expected the disciples to recognize the fulfillment of prophecies in his arrest. These commentaries emphasize the disciples' missed opportunity to prevent Jesus' capture and highlight the significance of these events aligning with what was foretold in the Scriptures. This underlines the importance of God's plan being carried out according to His Word.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.2242794401396806,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus expresses his frustration with the disciples, noting that even though he was teaching in the temple daily, they did not intervene when he was arrested. He emphasizes the necessity of fulfilling the Scriptures. The commentaries shed light on the missed opportunity the disciples had to prevent Jesus' arrest, while also emphasizing the importance of these events aligning with biblical prophecy. This highlights the significance of God's plan unfolding as foretold in Scripture.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.083292244021567,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.36,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus expresses his disappointment with the disciples, highlighting how he taught in the temple daily, yet they did not intervene during his arrest. He emphasizes that it was necessary for the Scriptures to be fulfilled. The commentaries explain that the disciples missed the opportunity to prevent Jesus' capture and highlight the importance of these events aligning with prophetic Scriptures. This emphasizes the significance of God's plan being carried out according to His Word.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.139877546537936,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.24,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

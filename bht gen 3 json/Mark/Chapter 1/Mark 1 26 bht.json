@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-22-2023 23:20:27",
+    "verseRef": "Mark 1:26",
+    "bestBHT": {
+        "bht": "The impure spirit's malignant cruelty is evident in its attempt to harm the man. The demon's loud cry and convulsions depict its enforced submission and despair in the face of Jesus, the Stronger One. These deliberate actions were far from natural, demonstrating the demon's malicious intent. The mention of the loud voice heightens the intensity of the moment, adding to the overall excitement of the scene.",
+        "wordCount": 69,
+        "quoteTokenProportion": 23.4,
+        "qualityScore": 1.678395811258813,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.15,
+        "commentatorTierSimilarities": [
+            28.3,
+            45.16,
+            26.54
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Malignant cruelty\u2014just showing what he would have done, if permitted to go farther: it was a last fling!",
+            "and cried with a loud voice\u2014the voice of enforced submission and despair.",
+            "Thus impotent were the malignity and rage of the impure spirit when under the restraint of 'the Stronger than the strong one armed'."
+        ],
+        "Marvin Vincent": [
+            "Had torn (\u00f3\u00f0\u00e1\u00f1\u00e1\u0301\u00ee\u00e1\u00ed)",
+            "Rev., tearing, convulsions in margin. Luke has had thrown him down in the midst. Mark adds the crying out with a loud voice."
+        ],
+        "John Calvin": [
+            "The design of both was to show, that the devil went out of the man in a violent manner.\" ",
+            "He threw down the unhappy man, as if he had intended to tear him.\" ",
+            "Not that the attack was, in no degree whatever, attended by injury, or at least by some feeling of pain; but that the man was afterwards delivered from the devil, and restored to perfect health."
+        ],
+        "Philip Schaff": [
+            "Had torn him. A paroxysm attended the dispossession...not a natural convulsion, but the malicious act of the demon.\" ",
+            "Cried with a loud voice. The act of the demon, not a cry of pain from the demoniac.\" ",
+            "The graphic and minute description forbids the view that this was a cure of epilepsy."
+        ],
+        "Archibald T. Robertson": [
+            "Tearing him (\u03c3\u03c0\u03b1\u03c1\u03b1\u03be\u03b1\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Margin, convulsing him like a spasm.",
+            "Luke 4:35 adds 'when the demon had thrown him down in the midst.'",
+            "Mark mentions the 'loud voice' (\u03c6\u03bf\u03bd\u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7), a screech, in fact. It was a moment of intense excitement."
+        ],
+        "John Gill": [
+            "He threw him into convulsions, and laid him prostrate on the floor.",
+            "Though sorely, against his will, as his loud cry showed, and being obliged to it by a superior power.",
+            "He came out of him; though sorely, against his will, as his loud cry showed, and being obliged to it by a superior power."
+        ],
+        "John Wesley": [
+            "A loud noise \u2014 For he was forbidden to speak.",
+            "Christ would neither suffer those evil spirits to speak in opposition, nor yet in favour of him.",
+            "He needed not their testimony, nor would encourage it, lest any should infer that he acted in concert with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The malignant cruelty of the impure spirit is on full display in this verse, with the demon showing what it would have done if not constrained by the power of Jesus. The loud cry that accompanied the man convulsing and being thrown down in the midst reveals the desperation and despair of the demon in the face of the Stronger One. This was not a natural convulsion, but a deliberate and malicious act of the demon. The intense excitement of the moment is emphasized by the mention of the loud voice, a screech that added to the atmosphere of the event.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8722643366943008,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.59,
+            "commentatorTierSimilarities": [
+                28.89,
+                44.86,
+                26.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The impure spirit's malignant cruelty is evident as it tries to harm the man, showing its true intentions if not restrained. The loud cry, along with the convulsions and being thrown down, highlights the demon's despair and enforced submission to Jesus, the Stronger One. These actions were not merely natural, but deliberately malicious. The intense excitement of the moment is captured through the mention of the loud voice, a screech that added to the gripping atmosphere.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5928238609753709,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                29.13,
+                41.77,
+                29.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The impure spirit's malignant cruelty is evident in its attempt to harm the man. The loud cry and convulsions emphasize the demon's despair and enforced submission to Jesus, the Stronger One. These actions were not natural, but intentionally malicious. The loud voice adds to the intense excitement of the moment.",
+            "wordCount": 52,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.5541355048467995,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.02,
+            "commentatorTierSimilarities": [
+                29.11,
+                42.24,
+                28.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The impure spirit's malignant cruelty is evident in its attempt to harm the man. The demon's loud cry and convulsions depict its enforced submission and despair in the face of Jesus, the Stronger One. These deliberate actions were far from natural, demonstrating the demon's malicious intent. The mention of the loud voice heightens the intensity of the moment, adding to the overall excitement of the scene.",
+            "wordCount": 69,
+            "quoteTokenProportion": 23.4,
+            "qualityScore": 1.678395811258813,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.15,
+            "commentatorTierSimilarities": [
+                28.3,
+                45.16,
+                26.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The impure spirit's malignant cruelty is on full display, showing what it would have done if permitted to go farther. The loud cry and convulsions depict the demon's enforced submission and despair in the presence of Jesus, the Stronger One. These actions were not natural but deliberate and malicious, underscoring the intensity of the moment. The mention of the loud voice adds to the atmosphere, highlighting the magnitude of the encounter between Jesus and the impure spirit.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6221922288450576,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                30.23,
+                41.83,
+                27.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

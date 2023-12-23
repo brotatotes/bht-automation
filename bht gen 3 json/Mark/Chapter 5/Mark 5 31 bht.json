@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:22:39",
+    "verseRef": "Mark 5:31",
+    "bestBHT": {
+        "bht": "In the midst of the crowd pressing and thronging around Jesus, there was one person who stood out with their conscious, voluntary touch of faith. This touch drew out virtue from Him, showing the power of living contact rooted in belief. The disciples were amazed at Jesus' sensitivity to the touch of the crowd, but they did not fully comprehend the depth of compassion and energy that healing drained from Him. They were perplexed by His question, failing to grasp the significance of the woman's faith-filled touch amidst the multitude.",
+        "wordCount": 92,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.5192845752026125,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+        "commentatorTierSimilarities": [
+            48.24,
+            27.88,
+            23.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Rather ask who touched Thee not in such a throng.",
+            "Yes, the multitude 'thronged and pressed Him'... but one, one only\u2014'a certain person\u2014TOUCHED HIM,' with the conscious, voluntary, dependent touch of faith.",
+            "The voluntary, living contact of faith is that electric conductor which alone draws virtue out of Him."
+        ],
+        "Philip Schaff": [
+            "His disciples. Luke: \u2018Peter and they that were with Him.\u2019",
+            "The denial of all is mentioned by the same Evangelist.",
+            "This natural answer of the disciples, according to Luke, called forth an express declaration from our Lord, that He perceived power had gone out from Him."
+        ],
+        "Archibald T. Robertson": [
+            "The disciples were amazed at the sensitiveness of Jesus to the touch of the crowd.",
+            "They little understood the drain on Jesus from all this healing that pulled at his heart-strings and exhausted his nervous energy even though the Son of God.",
+            "He had the utmost human sympathy."
+        ],
+        "John Gill": [
+            "Thou seest the multitude thronging thee, and sayest thou who touched me?\" ",
+            "They seem astonished at his question, and answer with some degree of warmth.\" ",
+            "They thought was a very strange and unnecessary question."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of the crowd pressing and thronging around Jesus, there was one person who stood out because of her conscious, voluntary touch of faith. This touch drew out virtue from Jesus, showing the power of living contact rooted in belief. The disciples were amazed at Jesus' sensitivity to the touch of the crowd, not fully comprehending the deep well of compassion and energy that healing drained from him. While they were perplexed by Jesus' question of who touched him in such a multitude, they failed to understand the extent of his empathetic nature and the profound significance of the woman's faith-filled touch.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.57319704068823,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                49.14,
+                31.01,
+                19.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of the crowd pressing and thronging around Jesus, there was one person who stood out with their conscious, voluntary touch of faith. This touch drew out virtue from Him, showing the power of living contact rooted in belief. The disciples were amazed at Jesus' sensitivity to the touch of the crowd, but they did not fully comprehend the depth of compassion and energy that healing drained from Him. They were perplexed by His question, failing to grasp the significance of the woman's faith-filled touch amidst the multitude.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5192845752026125,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+            "commentatorTierSimilarities": [
+                48.24,
+                27.88,
+                23.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the pressing and thronging multitude, one person stood out with a conscious, voluntary touch of faith. This living contact drew virtue out of Jesus, showcasing the power of belief. The disciples, amazed at His sensitivity to the crowd's touch, didn't fully understand the extent of His compassion and the energy healing drained from Him. They were perplexed by His question, failing to grasp the significance of the woman's faith-filled touch amidst the multitude.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.4361474955189015,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.09,
+            "commentatorTierSimilarities": [
+                47.87,
+                27.47,
+                24.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the pressing crowd, one person's conscious, voluntary touch of faith stood out. This living contact drew virtue out of Jesus, showcasing the power of belief. The disciples, amazed at His sensitivity to the crowd's touch, didn't grasp the depth of His compassion and the energy that healing required of Him. They were perplexed by His question, failing to understand the profound significance of the woman's faith-filled touch amidst the multitude.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.4292873207492396,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.87,
+            "commentatorTierSimilarities": [
+                49.9,
+                27.99,
+                22.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of the pressing multitude, one person's conscious, voluntary touch of faith drew virtue out of Jesus. The disciples, amazed at His sensitivity to the crowd's touch, failed to understand the depth of His compassion and the energy healing required. Perplexed by His question, they overlooked the profound significance of the woman's faith-filled touch.",
+            "wordCount": 60,
+            "quoteTokenProportion": 26.83,
+            "qualityScore": 1.4012129348788842,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.93,
+            "commentatorTierSimilarities": [
+                50.57,
+                25.27,
+                24.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

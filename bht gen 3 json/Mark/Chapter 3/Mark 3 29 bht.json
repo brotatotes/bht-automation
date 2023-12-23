@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:21:35",
+    "verseRef": "Mark 3:29",
+    "bestBHT": {
+        "bht": "Attributing the work of Christ to the devil is an unpardonable sin, guilty of eternal sin never to be wiped out. This eternal sin finds its parallel in ye shall die in your sins. The punishment is perpetual because the sin excludes repentance, leaving one in a state of eternal sin and guilt. It is a fearful aspect of eternal punishment, being forever deprived of the necessary influences of the Holy Spirit, leading to an unending state of activity in sin and everlasting destruction.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.7621149031986,
+        "qualityScoreNormalizedComparedToV2BHTs": 83.18,
+        "commentatorTierSimilarities": [
+            29.42,
+            43.83,
+            26.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Guilty of eternal sin... 'never to be wiped out.'",
+            "It finds its parallel in 'ye shall die in your sins'.",
+            "If a sin remains unremitted for ever, what is it but eternal?"
+        ],
+        "Marvin Vincent": [
+            "Guilty [\u03b5\u03bd\u03bf\u03c7\u03bf\u03c2]. From ejn, in, ecw, to hold or have. Lit., is in the grasp of, or holden of.\" ",
+            "Eternal damnation [\u03b1\u03b9\u03c9\u03bd\u03b9\u03bf\u03c5 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2]. An utterly false rendering. Rightly as Rev., of an eternal sin.\" ",
+            "The A. V. has gone wrong in following Tyndale, who, in turn, followed the erroneous text of Erasmus, krisewv, judgment, wrongly rendered damnation."
+        ],
+        "Philip Schaff": [
+            "An eternal sin...points to an unending state of activity in sin.",
+            "The punishment is perpetual, because the sin is perpetual. The sin excludes pardon, because it excludes repentance.",
+            "This is the most fearful aspect of eternal punishment; namely, being forever deprived of the needed influences of the Holy Spirit, and hence in a state of eternally growing sin and guilt."
+        ],
+        "Archibald T. Robertson": [
+            "In saying that Jesus had an unclean spirit...they had attributed to the devil the work of the Holy Spirit. This is the unpardonable sin...\" (Mark 3:29)",
+            "It can be committed today by men who call the work of Christ the work of the devil, Nietzsche may be cited as an instance in point.\" (Mark 3:29)",
+            "Those who hope for a second probation hereafter may ponder carefully how a soul that eternally sins in such an environment can ever repent. That is eternal punishment.\" (Mark 3:29)"
+        ],
+        "John Gill": [
+            "There is no pardon provided in the covenant of grace, nor obtained by the blood of Christ for such persons.\" ",
+            "A sin which can never be blotted out, and will never be forgiven.\" ",
+            "Will be punished with everlasting destruction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who attribute the work of Christ to the devil commit an unpardonable sin, guilty of eternal sin that will never be wiped out. This sin, described as an eternal sin rather than eternal damnation, finds its parallel in the statement ye shall die in your sins. The punishment for this sin is perpetual because the sin itself excludes repentance and pardon. It is an unending state of activity in sin, resulting in everlasting destruction. Those who commit such a sin are forever deprived of the necessary influences of the Holy Spirit and are in a state of eternally growing sin and guilt.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.6972536661847615,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.02,
+            "commentatorTierSimilarities": [
+                28.18,
+                43.8,
+                28.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who attribute the work of Christ to the devil commit an unpardonable sin, guilty of eternal sin that will never be wiped out. This sin, described as an eternal sin rather than eternal damnation, finds its parallel in the statement ye shall die in your sins. The punishment for this sin is perpetual because the sin itself excludes repentance and pardon. Those who commit such a sin are forever deprived of the necessary influences of the Holy Spirit and are in a state of eternally growing sin and guilt.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.7408104079203985,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.47,
+            "commentatorTierSimilarities": [
+                28.9,
+                43.6,
+                27.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who attribute the work of Christ to the devil commit an unpardonable sin, guilty of eternal sin that will never be wiped out. This sin, described as an eternal sin rather than eternal damnation, finds its parallel in ye shall die in your sins. The punishment is perpetual because the sin excludes repentance, leaving one forever deprived of the necessary influences of the Holy Spirit. It is a state of eternally growing sin and guilt, resulting in everlasting destruction.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.6896259472605966,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.77,
+            "commentatorTierSimilarities": [
+                29.57,
+                42.71,
+                27.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Attributing the work of Christ to the devil is an unpardonable sin, guilty of eternal sin never to be wiped out. This eternal sin finds its parallel in ye shall die in your sins. The punishment is perpetual because the sin excludes repentance, leaving one in a state of eternal sin and guilt. It is a fearful aspect of eternal punishment, being forever deprived of the necessary influences of the Holy Spirit, leading to an unending state of activity in sin and everlasting destruction.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.7621149031986,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.18,
+            "commentatorTierSimilarities": [
+                29.42,
+                43.83,
+                26.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who attribute the work of Christ to the devil commit an unpardonable sin, guilty of eternal sin never to be wiped out. This eternal sin finds its parallel in ye shall die in your sins. The punishment is perpetual because the sin excludes repentance and pardon. It is a fearful aspect of eternal punishment, being forever deprived of the necessary influences of the Holy Spirit, leading to an unending state of activity in sin and everlasting destruction.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.694495349540577,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.93,
+            "commentatorTierSimilarities": [
+                28.29,
+                43.78,
+                27.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

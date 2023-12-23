@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:26:52",
+    "verseRef": "Mark 11:28",
+    "bestBHT": {
+        "bht": "The religious leaders question Jesus about his actions, including his teachings and the cleansing of the temple. This question is seen as legitimate and requires an answer from Jesus himself. His authority to perform these acts is highlighted, demonstrating that the only justification for such actions is the authority given to him. This challenges the leaders more definitively. Jesus not only enters the temple as if he is its Lord, but also performs miracles and takes on the role of instructing the people.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.43,
+        "qualityScore": 1.3121582919867956,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.97,
+        "commentatorTierSimilarities": [
+            32.45,
+            33.29,
+            34.26
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression these things need not necessarily refer to the cleansing of the temple, but seems, from Luke, to extend over our Lord\u2019s whole course of teaching and putting himself forward in public.",
+            "The answer to the question, asked by themselves, is given by the Evangelist."
+        ],
+        "Philip Schaff": [
+            "Mark with his fondness for solemn repetitions, adds to the second question: to do these things.\" ",
+            "This implies the only authority which could justify such acts is one given for this purpose.",
+            "Their challenge thus becomes even more definite."
+        ],
+        "Archibald T. Robertson": [
+            "This question in all three Gospels was a perfectly legitimate one.",
+            "Note present subjunctive here, that you keep on doing these things."
+        ],
+        "John Gill": [
+            "Enter into the temple, as if he was Lord of it; and correct in such a magisterial way every thing he thought an abuse in it.\" ",
+            "Do the miracles he did, as healing the lame, and blind.\" ",
+            "Take upon him to instruct the people, a work he was now engaged in."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The question asked by the religious leaders to Jesus in this verse is not merely about the cleansing of the temple, but rather encompasses his entire course of teaching and public presentation from the perspective of Luke's Gospel. The fact that the question is posed by the leaders themselves reveals its legitimacy. Jesus' authority to do the things he does, including the acts of cleansing the temple, is emphasized through Mark's repetition of the phrase to do these things. This challenges the religious leaders further, emphasizing the definitiveness of their challenge. In his actions, Jesus not only enters the temple as if he is its Lord, but also performs miraculous healings and takes on the role of instructing the people.",
+            "wordCount": 122,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.373069799053221,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.0,
+            "commentatorTierSimilarities": [
+                36.38,
+                33.7,
+                29.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders pose a question to Jesus, encompassing his teachings and public actions. The legitimacy of their question is evident. Jesus' authority to cleanse the temple and perform miracles is emphasized through repetition. This challenges the leaders further. Jesus not only enters the temple like its Lord but also heals and instructs the people.",
+            "wordCount": 55,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.1458072809801143,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.44,
+            "commentatorTierSimilarities": [
+                33.46,
+                31.6,
+                34.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders question Jesus about the things he does, which include his teachings and acts of cleansing the temple. Their query is seen as legitimate, and Jesus' authority to perform these acts is emphasized through repetition. This challenges the leaders even more definitively. Jesus takes on the role of instructing the people, performing healing miracles, and entering the temple as if he is its Lord, correcting what he deems as abuses within it.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.2965855612713149,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.45,
+            "commentatorTierSimilarities": [
+                27.36,
+                34.37,
+                38.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders pose a question to Jesus, encompassing his teachings and public actions. Jesus' authority to cleanse the temple and perform miracles is emphasized through repetition. This challenges the leaders further. Jesus not only enters the temple like its Lord but also heals and instructs the people.",
+            "wordCount": 48,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.1722957557371745,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.32,
+            "commentatorTierSimilarities": [
+                31.24,
+                30.05,
+                38.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders question Jesus about his actions, including his teachings and the cleansing of the temple. This question is seen as legitimate and requires an answer from Jesus himself. His authority to perform these acts is highlighted, demonstrating that the only justification for such actions is the authority given to him. This challenges the leaders more definitively. Jesus not only enters the temple as if he is its Lord, but also performs miracles and takes on the role of instructing the people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.3121582919867956,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.97,
+            "commentatorTierSimilarities": [
+                32.45,
+                33.29,
+                34.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

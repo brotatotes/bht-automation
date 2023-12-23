@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:20:31",
+    "verseRef": "Mark 2:25",
+    "bestBHT": {
+        "bht": "Jesus, Himself, defends His disciples when they were accused of breaking the Sabbath. He reminds the Pharisees of the time when David and his companions, out of great necessity and distress, ate the consecrated bread that only priests were allowed to eat. Jesus emphasizes that the disciples' hunger was a valid reason for what they did. The analogy between David and the disciples lies in the generic need and the specific hunger, illustrating the justifiability of their actions. This story serves as a fitting example, showing how Jesus, as their advocate, supports His followers in times of need.",
+        "wordCount": 98,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.4951421675365706,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.06,
+        "commentatorTierSimilarities": [
+            51.25,
+            0.0,
+            48.75
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25. he] emphatic,\u2014Himself, taking up the cause of his disciples, and not leaving their defence to themselves."
+        ],
+        "Marvin Vincent": [
+            "Had need. Mark adds this to the was an hungered, which is in both Matthew and Luke.",
+            "The analogy lay in the necessity.",
+            "The had need is generic; the was hungry is specific, describing the peculiar character of the need."
+        ],
+        "John Gill": [
+            "Have ye never read what David did... when he had need: of bread, was in great necessity, and in the utmost distress...",
+            "which was a justifiable reason for what he and his company did; as it was for the action of the disciples...",
+            "being in a like case, and therefore very appropriate to the purpose..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, Himself, defends His disciples when they were accused of breaking the Sabbath. He reminds the Pharisees of the time when David and his companions, out of great necessity and distress, ate the consecrated bread that only priests were allowed to eat. Jesus emphasizes that the disciples' hunger was a valid reason for what they did. The analogy between David and the disciples lies in the generic need and the specific hunger, illustrating the justifiability of their actions. This story serves as a fitting example, showing how Jesus, as their advocate, supports His followers in times of need.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.4951421675365706,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.06,
+            "commentatorTierSimilarities": [
+                51.25,
+                0.0,
+                48.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus defends His disciples when accused of breaking the Sabbath by highlighting how David, in a state of great necessity and distress, ate consecrated bread meant only for priests. This comparison emphasizes the validity of the disciples' actions due to their hunger. Jesus acts as an advocate for His followers, just as David's situation justified his actions. This story serves as a fitting example of Jesus taking up the cause of His disciples and providing support in times of need.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4060138417880201,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+            "commentatorTierSimilarities": [
+                47.08,
+                0.0,
+                52.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus defends His disciples when accused of breaking the Sabbath by highlighting how David, in a state of great necessity and distress, ate consecrated bread meant only for priests. This emphasizes the validity of the disciples' actions due to their hunger. Just as David's situation justified his actions, Jesus takes up the cause of His disciples and provides support in times of need.",
+            "wordCount": 64,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4692336938438229,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.19,
+            "commentatorTierSimilarities": [
+                48.38,
+                0.0,
+                51.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, Himself, takes up the cause of His disciples, defending them when accused of breaking the Sabbath. He reminds the Pharisees of the story of David, who ate consecrated bread out of great necessity and distress. By highlighting this analogy, Jesus emphasizes the validity of the disciples' actions due to their hunger. This example shows how Jesus acts as an advocate for His followers, supporting them in times of need.",
+            "wordCount": 70,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.4701554224357023,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.23,
+            "commentatorTierSimilarities": [
+                51.51,
+                0.0,
+                48.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, Himself, defends His disciples when accused of breaking the Sabbath by drawing an analogy to the story of David. Just as David ate consecrated bread out of great necessity and distress, the disciples were justified in satisfying their hunger. This example highlights how Jesus takes up the cause of His followers, advocating for them and providing support in times of need.",
+            "wordCount": 62,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.4892396800797363,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                49.33,
+                0.0,
+                50.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

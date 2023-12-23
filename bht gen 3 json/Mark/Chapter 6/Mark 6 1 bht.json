@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:23:00",
+    "verseRef": "Mark 6:1",
+    "bestBHT": {
+        "bht": "Jesus returned to his hometown of Nazareth, where he was rejected the first time he preached. Some suggest that this visit should not be confused with the one mentioned in Luke. It is only natural for Jesus to give Nazareth a second chance and visit his own family members again. Though He and His disciples went from Capernaum to Nazareth, it is important to note that there is no real reason to differentiate between the visits mentioned by Matthew and Mark. Jesus had a regard for Nazareth and desired for it to benefit from His teachings and miracles, just as His disciples faithfully followed Him wherever He went.",
+        "wordCount": 108,
+        "quoteTokenProportion": 51.39,
+        "qualityScore": 1.758871427525047,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+        "commentatorTierSimilarities": [
+            29.73,
+            28.79,
+            41.48
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I may go out of my own house into a neighbour\u2019s, but I do not say, I go out of my own house into Lincolnshire...\" ",
+            "...the two members of such a sentence must correspond...",
+            "This against those who try on this misinterpretation to ground a difference between St. Matthew and St. Mark."
+        ],
+        "Philip Schaff": [
+            "Went out from thence. From Capernaum.",
+            "His own country, i.e., Nazareth.",
+            "His disciples follow him. Mentioned by Matthew also; this opposes the identity with the visit mentioned by Luke."
+        ],
+        "Archibald T. Robertson": [
+            "There is no real reason for identifying this visit to Nazareth with that recorded in Luke 4:26-31 at the beginning of the Galilean Ministry.\" ",
+            "He was rejected both times, but it is not incongruous that Jesus should give Nazareth a second chance.",
+            "It was only natural for Jesus to visit his mother, brothers, and sisters again."
+        ],
+        "John Gill": [
+            "His own country... the city of Nazareth; so called because it was the place where Christ was conceived, and where he was educated; for which he had a regard, and was willing it should partake of the benefit of his doctrine and miracles.\" ",
+            "And his disciples follow him; as they did wherever he went; and which is a true characteristic of a disciple of Jesus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus returned to his hometown of Nazareth, where he was rejected the first time he preached. Some suggest that this visit should not be confused with the one mentioned in Luke. It is only natural for Jesus to give Nazareth a second chance and visit his own family members again. Though He and His disciples went from Capernaum to Nazareth, it is important to note that there is no real reason to differentiate between the visits mentioned by Matthew and Mark. Jesus had a regard for Nazareth and desired for it to benefit from His teachings and miracles, just as His disciples faithfully followed Him wherever He went.",
+            "wordCount": 108,
+            "quoteTokenProportion": 51.39,
+            "qualityScore": 1.758871427525047,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.82,
+            "commentatorTierSimilarities": [
+                29.73,
+                28.79,
+                41.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus returned to his hometown of Nazareth, where He was rejected the first time He preached. This visit should not be confused with another mentioned in Luke. It is only natural for Jesus to give Nazareth a second chance and visit His family members again. Though He and His disciples went from Capernaum to Nazareth, it is important to note that there is no real reason to differentiate between the visits mentioned by Matthew and Mark. Jesus had a regard for Nazareth and desired for it to benefit from His teachings and miracles, just as His disciples faithfully followed Him wherever He went.",
+            "wordCount": 103,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.7576993232955171,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                30.39,
+                28.6,
+                41.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus returned to His hometown of Nazareth, where He faced rejection during His first visit. However, this should not be confused with another visit mentioned in Luke. Despite the initial rejection, Jesus gave Nazareth a second chance by visiting His family members again. It is important to note that there is no real reason to differentiate between the visits mentioned by Matthew and Mark. Jesus had an affection for Nazareth and wanted it to benefit from His teachings and miracles, and His disciples faithfully followed Him wherever He went.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.5040147508733912,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.35,
+            "commentatorTierSimilarities": [
+                31.3,
+                28.2,
+                40.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus returned to His hometown of Nazareth, where He faced rejection during His first visit. However, He gave Nazareth a second chance by visiting His family members again. There is no real reason to differentiate between the visits mentioned by Matthew and Mark. Jesus had an affection for Nazareth and wanted it to benefit from His teachings and miracles, and His disciples faithfully followed Him wherever He went.",
+            "wordCount": 68,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.530548205128413,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                29.19,
+                28.26,
+                42.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus returned to His hometown of Nazareth, where He was rejected the first time He preached. This visit should not be confused with another mentioned in Luke. It is only natural for Jesus to give Nazareth a second chance and visit His family members again. Though He and His disciples went from Capernaum to Nazareth, it is important to note that there is no real reason to differentiate between the visits mentioned by Matthew and Mark. Jesus had a regard for Nazareth and desired for it to benefit from His teachings and miracles, just as His disciples faithfully followed Him wherever He went.",
+            "wordCount": 103,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.7576993232955171,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                30.39,
+                28.6,
+                41.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

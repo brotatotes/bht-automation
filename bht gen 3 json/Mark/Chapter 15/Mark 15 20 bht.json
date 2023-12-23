@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:29:12",
+    "verseRef": "Mark 15:20",
+    "bestBHT": {
+        "bht": "In a vivid and historical present, they lead him out of the city, unkinging him by taking off the purple cloak. He carries his own cross, bearing the weight and burden, as they guide him through the city towards the usual place of crucifixion. These soldiers, who have been entrusted with his custody, receive the perquisites of his clothes at his execution. This scene is reminiscent of the accounts in Matthew 27:31 and John 19:16, where he too is led out.",
+        "wordCount": 79,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 1.3920924590825972,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.63,
+        "commentatorTierSimilarities": [
+            46.9,
+            13.87,
+            39.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 15:20. Lead him out, i.e., out of the city, as the other accounts imply. This verse, except the last clause, properly belongs to the last section.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They lead him out (\u03b5\u03be\u03b1\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Vivid historical present after imperfects in verse Mark 15:19. "
+        ],
+        "John Gill": [
+            "they took off the purple from him; and so, in their way, unkinged him;",
+            "both that he might be known to be the same person; and that the four soldiers, who had the charge of him, might have the perquisites of his clothes at his execution",
+            "they led him out of the 'praetorium', or judgment hall, and through the city, without the gates of it, to the usual place of crucifixion; he bearing his own cross, when first led out."
+        ],
+        "John Wesley": [
+            "Matthew 27:31; John 19:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Vividly and abruptly, they lead him out of the city. They take off the purple from him, stripping him of his royal appearance and unkinging him. As they lead him through the city, he carries his own cross, bearing the weight and burden. These soldiers, entrusted with his custody, receive the perquisites of his clothes at his execution. This scene resonates with Matthew 27:31 and John 19:16, as they too depict the moment when he is led out.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.2307387608556097,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.27,
+            "commentatorTierSimilarities": [
+                46.57,
+                13.31,
+                40.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Vividly and abruptly, they lead him out of the city, stripping him of his royal appearance and unkinging him. As they lead him through the city, he bears his own cross, carrying the weight and burden. These soldiers, entrusted with his custody, receive the perquisites of his clothes at his execution. This scene resonates with the depiction in Matthew 27:31 and John 19:16, as they too describe when he is led out.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.3,
+            "qualityScore": 1.2735110910440777,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.69,
+            "commentatorTierSimilarities": [
+                44.19,
+                15.66,
+                40.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a vivid and abrupt moment, they lead him out of the city, unkinging him as they strip off the purple cloak. He carries his own cross as they make their way through the city, towards the usual place of crucifixion. The soldiers, who have been entrusted with his custody, receive the perquisites of his clothes at his execution. This scene aligns with the accounts in Matthew 27:31 and John 19:16, where he is also led out.",
+            "wordCount": 75,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.3567228222513041,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.45,
+            "commentatorTierSimilarities": [
+                45.27,
+                14.4,
+                40.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a vivid and historical present, they lead him out of the city, unkinging him by taking off the purple cloak. He carries his own cross, bearing the weight and burden, as they guide him through the city towards the usual place of crucifixion. These soldiers, who have been entrusted with his custody, receive the perquisites of his clothes at his execution. This scene is reminiscent of the accounts in Matthew 27:31 and John 19:16, where he too is led out.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.3920924590825972,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.63,
+            "commentatorTierSimilarities": [
+                46.9,
+                13.87,
+                39.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a vivid historical present, they lead him out of the city, stripping off the purple cloak and unkinging him as they go. Bearing his own cross, he is guided through the city to the customary location of crucifixion. The soldiers, tasked with his custody, receive the perquisites of his clothes at the time of his execution. This event parallels the descriptions in Matthew 27:31 and John 19:16, where he is also led out.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.3293799373861848,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.54,
+            "commentatorTierSimilarities": [
+                51.52,
+                9.17,
+                39.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

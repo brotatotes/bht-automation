@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:22:54",
+    "verseRef": "Mark 5:15",
+    "bestBHT": {
+        "bht": "The account of a man delivered from demonic possession is a powerful display of Jesus' authority. The man, once naked and wild, now sits clothed and in his right mind, intently searching and understanding what has happened to him. His transformation and the destruction of the swine create both awe and fear among those who witness it. This incident serves as a reminder that not all who recognize the hand of God will truly respond to His grace, often opting to distance themselves from Him instead.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.563849697070065,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.34,
+        "commentatorTierSimilarities": [
+            27.23,
+            36.51,
+            36.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Omitted by St. Matthew, as also vv. 18\u201320. The whole of this is fall of minute and interesting detail"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is a striking case of what are called Undesigned Coincidences amongst the different Evangelists; one of them taking a thing for granted, as familiarly known at the time, but which we should never have known but for one or more of the others.",
+            "The clothing which the poor man would feel the want of the moment his consciousness returned to him, was doubtless supplied to him by some of the Twelve.",
+            "and in his right mind\u2014but now, oh, in what a lofty sense!"
+        ],
+        "Marvin Vincent": [
+            "For it was more than simple seeing. The verb means looking steadfastly, as one who has an interest in the object, and with a view to search into and understand it: to look inquiringly and intently.",
+            "Clothed. Compare Luke 8:27. For a long time he had worn no clothes."
+        ],
+        "John Calvin": [
+            "We have here a striking proof that not all who perceive the hand of God profit as they ought to do by yielding themselves to him in sincere godliness.",
+            "They choose rather to be deprived of the salvation which is offered to them, than to endure any longer the presence of Christ.",
+            "Thus we see that they were not at all moved by a sense of the divine grace. And indeed, though all wicked men adore God, and bestow great pains on appeasing him, yet if they had their choice, they would withdraw to the greatest possible distance from him."
+        ],
+        "Philip Schaff": [
+            "Sitting, not wandering as before; clothed, not naked now; and in his right mind, sane, not a maniac.\" ",
+            "The reality of the possession is emphasized by the fact that they identified this man as the former terror to the district.",
+            "They were afraid, terrified, awe-struck."
+        ],
+        "Archibald T. Robertson": [
+            "To Jesus as the cause of it all, 'to meet Jesus'.",
+            "And behold...They became afraid.",
+            "Here was the healing of the wild man and the destruction of the hogs all by this same Jesus."
+        ],
+        "John Gill": [
+            "They saw, along with Jesus, the man who had been possessed with a legion of devils, whom they knew very well to be the same man; sitting, and clothed, and in his right mind, and they were afraid.",
+            "There was a strange change and alteration in the man; he, who before was running about among the tombs, and upon the mountains, and scarce ever sat still, but was always in motion, as persons distracted commonly are, was now sitting at the feet of Jesus.",
+            "This man, as whilst under the possession of Satan, was an emblem of a man in a natural estate; so, being now dispossessed, he very aptly represented a converted man; who, being brought out of a state of nature, out of an horrible pit, a pit wherein is no water, is 'sitting' at the feet of Jesus."
+        ],
+        "John Wesley": [
+            "And they were afraid \u2014 It is not improbable they might otherwise have offered some rudeness, if not violence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 5:15, we witness a powerful transformation in a man who was demon-possessed. Notably, St. Matthew does not include this account, but thanks to the other Gospel writers, we are given a detailed and fascinating description. This Undesigned Coincidence highlights how one Gospel assumes familiarity with a particular detail that is only revealed through the others. The man, who was previously tormented and naked, is now clothed and sitting calmly in his right mind. His healing is no ordinary sight; he looks intensely and purposefully at Jesus, recognizing the cause of his transformation. However, those who witnessed this miraculous event became afraid. They saw the same man who was previously possessed and feared his eerie powers, yet now he was transformed and seated at Jesus' feet. The remarkable change instilled both awe and fear in the onlookers. This story serves as a reminder that not all who witness God's power are willing to surrender themselves to Him. Some prefer to distance themselves from Him, even at the expense of missing out on His salvation.",
+            "wordCount": 176,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.550807978534253,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.91,
+            "commentatorTierSimilarities": [
+                31.33,
+                32.51,
+                36.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we encounter a remarkable demonstration of a man delivered from a legion of demons. The details provided by the Gospel writers reveal the magnitude of his transformation. Once naked and tormented, he now sits clothed and in his right mind, fixing his gaze intently on Jesus. This act of deeply looking reflects his genuine interest and desire to understand the One who brought about his healing. Yet, those who witnessed this incredible change were filled with fear, recognizing both the healing and the destruction of the swine as works of Jesus.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4835231447505302,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.67,
+            "commentatorTierSimilarities": [
+                32.67,
+                30.71,
+                36.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The account of a man delivered from demonic possession is a powerful display of Jesus' authority. The man, once naked and wild, now sits clothed and in his right mind, intently searching and understanding what has happened to him. His transformation and the destruction of the swine create both awe and fear among those who witness it. This incident serves as a reminder that not all who recognize the hand of God will truly respond to His grace, often opting to distance themselves from Him instead.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.563849697070065,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.34,
+            "commentatorTierSimilarities": [
+                27.23,
+                36.51,
+                36.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The story of the man delivered from demonic possession showcases the remarkable power of Jesus. The man, once naked and tormented, now sits clothed, in his right mind, and with a deep interest in understanding his healing. However, those who witness this transformative event become filled with fear. They recognize both the healing and the destruction of the swine as the works of Jesus, yet they choose to distance themselves from Him rather than embrace His salvation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5475841504664836,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                26.53,
+                37.37,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The account of a man delivered from a legion of demons vividly portrays the transformative power of Jesus. This man, previously tormented, now sits clothed and in his right mind, intently searching and understanding the cause of his healing. The witnesses are overcome with fear as they recognize both the miraculous healing and the destruction of the swine by Jesus. This story serves as a striking reminder that not all who perceive the hand of God are willing to yield to Him and accept His salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5496999676610952,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                27.92,
+                30.46,
+                41.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

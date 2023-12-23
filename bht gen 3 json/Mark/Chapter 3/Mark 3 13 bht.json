@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:21:38",
+    "verseRef": "Mark 3:13",
+    "bestBHT": {
+        "bht": "Jesus, in his sovereign authority, selected twelve disciples from a larger group, going up into the mountains for this purpose. His choice was not based on human merits, but on the mercy and grace of God. Jesus' prayer on the mountain was likely centered around the important work he was about to embark on. He intentionally raised Judas to a position of prominence, intending to make him an example to others. This highlights that the call of the apostles and believers is not based on personal will or works, but on the sovereign will of Christ.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.5043189411626479,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+        "commentatorTierSimilarities": [
+            30.72,
+            31.34,
+            37.94
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Whom he himself would; not allowing any to offer themselves for special work.\" ",
+            "He selected twelve.\" ",
+            "Out of the larger number thus called he selected twelve."
+        ],
+        "John Calvin": [
+            "The apostleship was not bestowed on account of any human merits; but, by the free mercy of God, persons, who were altogether unworthy of it, were raised to that high rank.\" ",
+            "Our Lord expressly intended to prevent future offenses, that we may not feel excessive uneasiness, when unprincipled men occupy the situation of teachers in the Church, or when professors of the Gospel become apostates.\" ",
+            "Christ did not prefer Judas to devout and holy disciples, but raised him to an eminence from which he was afterwards to fall, and thus intended to make him an example and instruction to men of every condition and of every age."
+        ],
+        "Philip Schaff": [
+            "The freedom of choice is made prominent.",
+            "He gathered a larger number of disciples about Him and chose out twelve.",
+            "This verse probably refers to the latter act. Strictly speaking, this was rather the formal announcement of His choice."
+        ],
+        "Archibald T. Robertson": [
+            "He goeth up into the mountain [...] Historical present so common in Mark's vivid narrative.\" ",
+            "Neither Gospel gives the name of the mountain, assuming it as well known, probably not far from the lake.\" ",
+            "This select group up in the hills probably respected the long agony of Jesus though they did not comprehend his motive."
+        ],
+        "John Gill": [
+            "His prayer, as is very probable, was chiefly concerning the great and important work, which was upon his mind, and he was about to do.\" ",
+            "The choice and call of the apostles to office, were not according to their will, works and merits, but according to the sovereign will and grace of Christ, who chose them, and not they him.\" ",
+            "This regards not the call of the twelve only, and much less of them to office, but a call of many of the followers of Christ to come to him on the mountain."
+        ],
+        "John Wesley": [
+            "He calleth whom he would \u2014 With regard to the eternal states of men, God always acts as just and merciful.",
+            "But with regard to numberless other things, he seems to us to act as a mere sovereign.",
+            "Luke 6:12"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, in his sovereign authority, selected twelve disciples from a larger group of followers. He purposely went up into the mountains for this significant moment, showing his dedication even though the disciples did not fully understand his motives. This freedom of choice emphasized that the apostleship was not based on human merits, but on the mercy and grace of God. Jesus' prayer on the mountain was likely centered around the important work he was about to do. His selection of the apostles was intentional, even though Judas, whom he raised to a position of prominence, would later serve as an example of betrayal. This passage also reminds us that the call of the apostles, and of believers in general, is not based on personal will or works, but on the sovereign will of Christ.",
+            "wordCount": 134,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 1.4597755729225468,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.88,
+            "commentatorTierSimilarities": [
+                29.19,
+                31.8,
+                39.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in his sovereign authority, selected twelve disciples from a larger group, going up into the mountains for this purpose. His choice was not based on human merits, but on the mercy and grace of God. Jesus' prayer on the mountain was likely centered around the important work he was about to embark on. He intentionally raised Judas to a position of prominence, knowing that he would later serve as an example of betrayal. This underscores that the call of the apostles and believers in general is not based on personal will or works, but on the sovereign will of Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.466155941886254,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.09,
+            "commentatorTierSimilarities": [
+                30.21,
+                30.99,
+                38.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in his sovereign authority, selected twelve disciples from a larger group, going up into the mountains for this purpose. His choice was not based on human merits, but on the mercy and grace of God. Jesus' prayer on the mountain was likely centered around the important work he was about to do. He intentionally raised Judas to a position of prominence, intending to make him an example to others. This highlights that the call of the apostles and believers in general is not based on personal will or works, but on the sovereign will of Christ.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.5001846791099198,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.22,
+            "commentatorTierSimilarities": [
+                30.23,
+                31.76,
+                38.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in his sovereign authority, selected twelve disciples from a larger group, going up into the mountains for this purpose. His choice was not based on human merits, but on the mercy and grace of God. Jesus' prayer on the mountain was likely centered around the important work he was about to embark on. He intentionally raised Judas to a position of prominence, knowing that he would later serve as an example of betrayal. This underscores that the call of the apostles and believers in general is not based on personal will or works, but on the sovereign will of Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.466155941886254,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.09,
+            "commentatorTierSimilarities": [
+                30.21,
+                30.99,
+                38.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, in his sovereign authority, selected twelve disciples from a larger group, going up into the mountains for this purpose. His choice was not based on human merits, but on the mercy and grace of God. Jesus' prayer on the mountain was likely centered around the important work he was about to embark on. He intentionally raised Judas to a position of prominence, intending to make him an example to others. This highlights that the call of the apostles and believers is not based on personal will or works, but on the sovereign will of Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.5043189411626479,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                30.72,
+                31.34,
+                37.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

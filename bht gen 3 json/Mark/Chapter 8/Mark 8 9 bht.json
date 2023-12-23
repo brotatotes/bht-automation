@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:24:13",
+    "verseRef": "Mark 8:9",
+    "bestBHT": {
+        "bht": "In spite of what our Lord says, it is important to recognize the differences in localities, times, and circumstances, which signify that the two miracles mentioned are distinct and not the same. Matthew's account adds the detail of besides women and children, emphasizing the attention to detail in the Gospel narratives. This highlights the significance of these separate miracles and underscores the carefulness in recording these events.",
+        "wordCount": 68,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 1.207349430479575,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.49,
+        "commentatorTierSimilarities": [
+            53.52,
+            18.28,
+            28.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But even in spite of what our Lord says, it is painful to find such men as NEANDER endeavoring to identify the two miracles.",
+            "In view of these things, who could have believed that these were one and the same miracle, even if the Lord Himself had not expressly distinguished them?",
+            "The localities, though both on the eastern side of the lake, were different; the time was different; the preceding and following circumstances were different."
+        ],
+        "Marvin Vincent": [
+            "Baskets. See on Matthew 14:20. ",
+            "Four thousand. Matthew (xv. 38) here adds a detail which we should rather expect in Mark : beside women and children."
+        ],
+        "Philip Schaff": [
+            "Mark 8:9. Mark again omits \u2018besides women and children.\u2019",
+            "\t"
+        ],
+        "John Gill": [
+            "And they that had eaten were about four thousand,.... That is, men, besides women and children, as Matthew observes.\" ",
+            "He sent them away; some that came dumb, with their speech, and deaf, with their hearing; others that were maimed, with perfect healing of their wounds, and with their limbs sound and whole.",
+            "Others that came lame, he dismissed leaping; and others that were blind, with their sight restored to them, and all of them full."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 8:9, there is a distinction made between two miracles by our Lord himself, making it clear that they were not the same. The localities, times, and circumstances were all different. Matthew adds the detail of besides women and children in his account. Overall, the verse highlights the significance of the distinction between these two miracles and the attention to detail in the Gospel narratives.",
+            "wordCount": 65,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.272894239060811,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.67,
+            "commentatorTierSimilarities": [
+                47.74,
+                23.16,
+                29.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In light of the differences in localities, times, and circumstances, it is evident that the two miracles referred to are not the same, as even our Lord himself makes it clear in the passage. It is interesting to note the attention to detail in the Gospel narratives, with Matthew adding the detail of besides women and children in his account, underscoring the significance of these distinct miracles.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.369736106513186,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.89,
+            "commentatorTierSimilarities": [
+                62.06,
+                10.85,
+                27.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In spite of what our Lord says, it is important to recognize the differences in localities, times, and circumstances, which signify that the two miracles mentioned are distinct and not the same. Matthew's account adds the detail of besides women and children, emphasizing the attention to detail in the Gospel narratives. This highlights the significance of these separate miracles and underscores the carefulness in recording these events.",
+            "wordCount": 68,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.207349430479575,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.49,
+            "commentatorTierSimilarities": [
+                53.52,
+                18.28,
+                28.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The distinction between the two miracles is evident from the differences in localities, times, and circumstances, as emphasized by our Lord himself. Notably, Matthew adds the detail of besides women and children, emphasizing the attention to detail in the Gospel narratives. This underscores the significance of these distinct miracles and the meticulousness in recording these events.",
+            "wordCount": 56,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.1736287380178811,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.37,
+            "commentatorTierSimilarities": [
+                56.42,
+                15.34,
+                28.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In view of the differences in localities, times, and circumstances, it is evident that the miracles referred to by our Lord are not one and the same. Matthew's account includes the detail of beside women and children, which we should expect in Mark's narrative. This attention to detail highlights the significance of these separate miracles, emphasizing the unique healing and restoration experienced by those who were in need, as well as the careful recording of these events in the Gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.288455842053308,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.18,
+            "commentatorTierSimilarities": [
+                49.41,
+                17.11,
+                33.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

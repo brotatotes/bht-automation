@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:23:57",
+    "verseRef": "Mark 7:18",
+    "bestBHT": {
+        "bht": "The disciples, being steeped in Jewish teachings, failed to comprehend the message Jesus was conveying to the crowd. Jesus laments their lack of understanding, describing them as unintelligent and spiritually stupid for still adhering to the Pharisaic outlook on clean and unclean. He wanted them to grasp that external factors do not defile a person, but rather it is what springs from within. Regardless, Jesus charges them with being intellectually dull and failing to perceive this truth.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.5611203239734188,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.25,
+        "commentatorTierSimilarities": [
+            57.57,
+            0.0,
+            42.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "So. So unintelligent as not to understand what I uttered to the crowd."
+        ],
+        "Archibald T. Robertson": [
+            "You also as well as the multitude. It was a discouraging moment for the great Teacher if his own chosen pupils (disciples) were still under the spell of the Pharisaic theological outlook.\" ",
+            "They had been trained in Judaism, in which the distinction between clean and unclean is ingrained, and could not understand a statement abrogating this\" (Gould). ",
+            "Jesus charges the disciples with intellectual dulness and spiritual stupidity."
+        ],
+        "John Gill": [
+            "Are ye so without understanding also? As well as others, and to such a degree; and 'yet', as Matthew expresses it, so wretchedly stupid, and so long, and as much, as others.",
+            "Do ye not perceive? Common sense will tell you.",
+            "Whatsoever thing from without entereth into the man, it cannot defile him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were not fully grasping the message Jesus was trying to convey to the people. They were still influenced by their previous Jewish teachings that placed a strong emphasis on the distinction between clean and unclean. Jesus expressed his disappointment in their lack of understanding and spiritual dullness, as they were trained in Judaism and struggled to comprehend a statement challenging the ingrained beliefs. Jesus wanted them to realize that it is not what enters a person from the outside that defiles them, but what comes from within.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.2693438274018394,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.55,
+            "commentatorTierSimilarities": [
+                60.63,
+                0.0,
+                39.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, being steeped in Jewish teachings, failed to comprehend the message Jesus was conveying to the crowd. Jesus laments their lack of understanding, describing them as unintelligent and spiritually stupid for still adhering to the Pharisaic outlook on clean and unclean. He wanted them to grasp that external factors do not defile a person, but rather it is what springs from within. Regardless, Jesus charges them with being intellectually dull and failing to perceive this truth.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.5611203239734188,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.25,
+            "commentatorTierSimilarities": [
+                57.57,
+                0.0,
+                42.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, as products of their Jewish upbringing, were struggling to grasp the essence of Jesus' teachings. Jesus, disappointed by their limited understanding, deemed them unintelligent and spiritually obtuse for clinging to the traditional view of clean and unclean. Their conditioning in the Pharisaic theology hindered them from comprehending Jesus' statement that challenged these ingrained beliefs. Jesus aimed to convey that external factors do not defile a person, contrary to their previous teachings. Hence, he rebuked the disciples for their intellectual dulness and their failure to perceive this truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.3869738524806077,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.46,
+            "commentatorTierSimilarities": [
+                62.35,
+                0.0,
+                37.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus expressed his disappointment in the disciples, questioning their intelligence and spiritual understanding. Having been trained in Judaism, their inability to comprehend the abrogation of the distinction between clean and unclean was disheartening to the great Teacher. Jesus criticized their intellectual dulness, referring to them as so wretchedly stupid. He wanted them to recognize that what enters a person from the outside does not defile them. Jesus urged them to use common sense and perceive this truth for themselves.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.5238393873984326,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "commentatorTierSimilarities": [
+                58.21,
+                0.0,
+                41.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus found it discouraging that his own disciples, who had been trained in Judaism, were still influenced by the Pharisaic perspective on clean and unclean. He criticized their lack of understanding and spiritual dullness, as they couldn't comprehend his statement challenging these ingrained beliefs. Jesus lamented their intellectual dulness and wanted them to grasp that external factors don't defile a person. He urged them to use common sense and perceive that it is what comes from within that matters.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.43609161258778,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.09,
+            "commentatorTierSimilarities": [
+                54.98,
+                0.0,
+                45.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

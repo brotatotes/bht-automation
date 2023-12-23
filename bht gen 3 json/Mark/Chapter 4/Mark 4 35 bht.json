@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:21:54",
+    "verseRef": "Mark 4:35",
+    "bestBHT": {
+        "bht": "After a day filled with speaking memorable parables and healing, Jesus sought a change from the busy crowds by taking a rowing journey to the eastern shore in the evening. This refreshing activity not only provided rest for the weary Christ but also gave the Gadarenes a chance to hear the message of salvation. Unbeknownst to the disciples, this journey across the sea would test their faith and serve as the backdrop for a remarkable miracle Jesus was about to perform on the other side.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.3152830061576979,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.08,
+        "commentatorTierSimilarities": [
+            43.71,
+            13.39,
+            42.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "On which He spoke the memorable parables.\" ",
+            "To grapple with a desperate case of possession, and set the captive free.\" ",
+            "To give the Gadarenes an opportunity of hearing the message of salvation, amid the wonder which that marvellous cure was fitted to awaken."
+        ],
+        "Philip Schaff": [
+            "Mark is most definite.",
+            "This vivid form of the command indicates a sudden departure.",
+            "He would thus seek rest, which could be obtained more easily on a lake subject to storms than in a crowd already excited."
+        ],
+        "Archibald T. Robertson": [
+            "It had been a busy day.",
+            "The first parables by the sea, then more in the house, and now out of the house and over the sea.",
+            "A row over to the eastern shore in the evening would be a delightful change and refreshing to the weary Christ."
+        ],
+        "John Gill": [
+            "After he had finished his parables among the multitude, and had explained them to his disciples.\" ",
+            "With a view for retirement and rest, after the fatigue of the day; and for the trial of the faith of his disciples.",
+            "For the sake of a miracle he was to work on the other side, after related."
+        ],
+        "John Wesley": [
+            "Matthew 8:23; Luke 8:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After a busy day of speaking memorable parables and performing miraculous healings, Jesus was seeking rest by taking a row over to the eastern shore in the evening. This change of scenery would be refreshing to the weary Christ, and it would also serve as an opportunity for the Gadarenes to hear the message of salvation. Jesus intended to grapple with a desperate case of possession and set the captive free. Little did the disciples know that this journey across the sea would not only test their faith, but also be the backdrop for the remarkable miracle that Jesus was about to work on the other side.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.251706828821551,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.96,
+            "commentatorTierSimilarities": [
+                48.48,
+                11.42,
+                40.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After a busy day of speaking memorable parables, Jesus sought rest by taking a row over to the eastern shore in the evening. This change would refresh the weary Christ and give the Gadarenes the opportunity to hear the message of salvation. Little did the disciples know that this journey across the sea would test their faith and be the backdrop for the remarkable miracle Jesus was about to work on the other side.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3003843708909546,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.58,
+            "commentatorTierSimilarities": [
+                43.36,
+                13.53,
+                43.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It had been a busy day for Jesus, filled with speaking memorable parables and caring for the crowds. Seeking rest and a change of environment, he decided to take a row over to the eastern shore in the evening. Not only was this a refreshing activity for the weary Christ, but it also provided an opportunity for the Gadarenes to hear the message of salvation amidst the wonder of the miraculous healings. Little did the disciples know that this journey across the sea would test their faith and ultimately be the setting for a miraculous event.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.265783164141453,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.43,
+            "commentatorTierSimilarities": [
+                46.43,
+                18.52,
+                35.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After a busy day of speaking memorable parables, Jesus sought rest by taking a row over to the eastern shore in the evening. This change would refresh the weary Christ and give the Gadarenes the opportunity to hear the message of salvation. Little did the disciples know that this journey across the sea would test their faith and be the backdrop for the remarkable miracle Jesus was about to work on the other side.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3003843708909546,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.58,
+            "commentatorTierSimilarities": [
+                43.36,
+                13.53,
+                43.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After a day filled with speaking memorable parables and healing, Jesus sought a change from the busy crowds by taking a rowing journey to the eastern shore in the evening. This refreshing activity not only provided rest for the weary Christ but also gave the Gadarenes a chance to hear the message of salvation. Unbeknownst to the disciples, this journey across the sea would test their faith and serve as the backdrop for a remarkable miracle Jesus was about to perform on the other side.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.3152830061576979,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.08,
+            "commentatorTierSimilarities": [
+                43.71,
+                13.39,
+                42.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

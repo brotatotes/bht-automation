@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:28:18",
+    "verseRef": "Mark 14:42",
+    "bestBHT": {
+        "bht": "Rise up let us go, for there is no escaping. Judas, the one who had hinted at supper that he would betray Jesus, was now at hand, coming upon him to deliver him into the hands of the Jews and the Roman soldiers.",
+        "wordCount": 43,
+        "quoteTokenProportion": 60.53,
+        "qualityScore": 1.9191398168066365,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Rise up let us go,.... To meet the enemy and the danger; for there is no escaping.",
+            "Lo, he that betrayeth me is at hand; Judas, that he had hinted at supper should betray him, was now about doing it.",
+            "and was just now coming upon him, in order to deliver him into the hands of the Jews, and the Roman band of soldiers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Rise up, for the moment of danger has come. The betrayer, Judas, is approaching, fulfilling the prophecy that he would deliver Jesus into the hands of the authorities. There is no escaping this ordeal as he is now upon us, ready to hand him over to the Jews and the Roman soldiers. It is time to face what lies ahead.",
+            "wordCount": 60,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.4305420329875063,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.91,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Rise up and let us go, for the danger is imminent. The one who will betray me, Judas, is approaching at this very moment to deliver me into the hands of the Jews and the Roman soldiers. There is no escape from this fate that has been foretold. We must prepare ourselves to face what lies ahead.",
+            "wordCount": 57,
+            "quoteTokenProportion": 57.45,
+            "qualityScore": 1.235655103684088,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.43,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rise up let us go, for there is no escaping. Judas, the one who had hinted at supper that he would betray Jesus, was now at hand, coming upon him to deliver him into the hands of the Jews and the Roman soldiers.",
+            "wordCount": 43,
+            "quoteTokenProportion": 60.53,
+            "qualityScore": 1.9191398168066365,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rise up, let us go, Jesus urged his disciples, sensing the imminent danger that was approaching. His words revealed his awareness of the betrayer, Judas, who was about to deliver him into the hands of the Jews and the Roman soldiers. Jesus recognized that there was no escaping the impending threat and he prepared himself and his disciples to face it head-on.",
+            "wordCount": 63,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.7904583462479768,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rise up, let us go, Jesus urged his disciples as the betrayer, Judas, who he had mentioned at supper, was now upon him, ready to deliver him into the hands of the Jews and the Roman soldiers. Jesus sensed the imminent danger and recognized that there was no escaping the situation at hand, prompting him to gather his followers and face their adversaries head-on.",
+            "wordCount": 65,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.9501498762360543,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

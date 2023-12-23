@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:24:52",
+    "verseRef": "Mark 8:10",
+    "bestBHT": {
+        "bht": "After dismissing the multitude, Jesus immediately boarded a ship with his disciples and sailed to Dalmanutha, a village likely near Magdala on the western shore of the lake of Galilee. Mark's mention of Dalmanutha, while Matthew mentions Magadan, demonstrates the independence of Mark's account. Notably, Mark includes the detail that Jesus embarked with his disciples, a detail not explicitly mentioned in Matthew's version. The specific place names and details in this account can vary in different translations and manuscripts, leading to differences in readings.",
+        "wordCount": 87,
+        "quoteTokenProportion": 25.42,
+        "qualityScore": 1.9123855884814684,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+        "commentatorTierSimilarities": [
+            35.38,
+            38.01,
+            26.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Matthew mentions Magadan, ver. 39.",
+            "Dalmanutha was probably a village in the neighbourhood.",
+            "A striking instance of the independence of Mark."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And straightway he entered into a ship, with his disciples.\" ",
+            "Magdala and Dalmanutha were both on the western shore of the lake, and probably not far apart.",
+            "Dalmanutha may have been a village, but it cannot now be identified with certainty."
+        ],
+        "Albert Barnes": [
+            "Dalmanutha - In Matthew 15:39 it is said that he came into the coasts of \u201cMagdala.\u201d See the note on the place."
+        ],
+        "Marvin Vincent": [
+            "With his disciples. Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "The theory that they were on the south-eastern shore of the lake is altogether unsupported, and makes of these journeys of our Lord an aimless wandering.",
+            "The two were probably near each other, north of Tiberias, and our Lord seems to have landed at some retired point between them.",
+            "See Matt. on Mark 15:39."
+        ],
+        "Archibald T. Robertson": [
+            "Both names are unknown elsewhere, but apparently the same region of Galilee on the western side of the lake not far from Tiberias.",
+            "Mark here uses 'parts' (\u03bc\u03b5\u03c1\u03b7) in the same sense as 'borders' (\u03bf\u03c1\u03b9\u03b1) in Mark 7:24 just as Matthew reverses it with 'parts' in Matthew 15:21 and 'borders' here in Matthew 15:39.",
+            "Mark has here 'with his disciples' (\u03bc\u03b5\u03c4\u03b1 \u03c4\u03c9\u03bd \u03bc\u03b1\u03b8\u03b7\u03c4\u03c9\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5) only implied in Matthew 15:39."
+        ],
+        "John Gill": [
+            "As soon as ever he had dismissed the multitude, he took shipping with his disciples.",
+            "It was a city in the coasts of Magdala, and is thought by Dr. Lightfoot to be the same with Tzalmon, or Salmon, a place often mentioned in the Jewish writings.",
+            "The Arabic version reads it, 'Magdal'; and in two of Beza's copies it is read, 'Madegada'; but the Syriac version reads, 'Dalmanutha'; and the Persic, 'Dalmanuth'; and the Ethiopic, 'Dalmathy'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Immediately after dismissing the multitude, Jesus boarded a ship with his disciples and went to the region of Dalmanutha, which is thought to be near Magdala. Both towns were located on the western side of the lake of Galilee, not far from each other. Mark emphasizes the independence of his account by mentioning Dalmanutha, a village whose exact location is unknown. Matthew refers to Magadan instead. It is notable that Mark states that Jesus embarked on the ship with his disciples, a detail not explicitly mentioned in Matthew's account. The specific details and place names mentioned in this passage are subject to some variation in different translations and ancient manuscripts, leading to different readings in different versions of the Bible.",
+            "wordCount": 121,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9473558936197057,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                34.13,
+                39.15,
+                26.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Jesus dismissed the multitude, he immediately set sail with his disciples to the region of Dalmanutha, possibly a village near Magdala. Mark's account of this event highlights his own unique perspective, as he mentions Dalmanutha while Matthew mentions Magadan. These towns were likely situated on the western shore of the lake of Galilee, relatively close to one another. It is worth noting that Mark emphasizes the presence of Jesus' disciples on the ship, a detail not explicitly mentioned in Matthew's Gospel. The exact identification and details of these places can vary in different translations and manuscripts of the Bible.",
+            "wordCount": 102,
+            "quoteTokenProportion": 32.43,
+            "qualityScore": 1.9308015241432774,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                33.45,
+                38.64,
+                27.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After dismissing the multitude, Jesus promptly went on a ship with his disciples to the region of Dalmanutha, which is believed to be close to Magdala. Mark's account of this incident highlights his independence as a writer, mentioning Dalmanutha while Matthew mentions Magadan. Both towns were likely situated on the western shore of the lake of Galilee. It is notable that Mark specifies that Jesus embarked on the ship with his disciples, a detail not explicitly mentioned in Matthew's account. The specific location and names mentioned in this passage may vary across translations.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9782401446922906,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                32.73,
+                39.5,
+                27.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After dismissing the multitude, Jesus immediately boarded a ship with his disciples and sailed to Dalmanutha, a village likely near Magdala on the western shore of the lake of Galilee. Mark's mention of Dalmanutha, while Matthew mentions Magadan, demonstrates the independence of Mark's account. Notably, Mark includes the detail that Jesus embarked with his disciples, a detail not explicitly mentioned in Matthew's version. The specific place names and details in this account can vary in different translations and manuscripts, leading to differences in readings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.9123855884814684,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                35.38,
+                38.01,
+                26.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Shortly after dismissing the crowd, Jesus instantly entered a ship with his disciples and set sail towards Dalmanutha, a village that likely neighbored Magdala on the western shore of the lake of Galilee. This distinction in location between Mark and Matthew highlights the distinctiveness of Mark's account. Interestingly, Mark specifically mentions that Jesus embarked on the ship with his disciples, a detail that Matthew's narrative does not explicitly mention. The precise details and specific names in this passage may vary in different translations and manuscripts.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.9261735903690003,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                35.1,
+                37.65,
+                27.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

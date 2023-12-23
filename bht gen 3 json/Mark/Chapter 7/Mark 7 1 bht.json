@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:23:38",
+    "verseRef": "Mark 7:1",
+    "bestBHT": {
+        "bht": "There were people who gathered together unto Jesus, specifically from Jerusalem. These individuals, who were likely sent by the sanhedrim to observe Jesus and find fault with him, came together to watch and observe what was said and done by him. They consulted with one another, seeking to take advantage against him. These cunning individuals were not from the local region, but were from Jerusalem, along with their companions, the Scribes.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.152247667095713,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.66,
+        "commentatorTierSimilarities": [
+            0.0,
+            28.97,
+            71.03
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 7:1. And there are gathered together unto him. Against Him, as we see.",
+            "\t",
+            " From Jerusalem. They had recently come.",
+            "\t"
+        ],
+        "John Gill": [
+            "They consulted with one another, and came together to Jesus, to watch and observe what was said and done by him, and take what advantage they could against him.\" ",
+            "These were not of that country, but were of Jerusalem, as were their companions the Scribes.\" ",
+            "These men being the more artful and cunning of the whole sect, either came of themselves, or were sent by the sanhedrim, to make their observations upon his doctrine and conduct."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There were people who gathered together unto Jesus, specifically from Jerusalem. These individuals, who were likely sent by the sanhedrim to observe Jesus and find fault with him, came together to watch and observe what was said and done by him. They consulted with one another, seeking to take advantage against him. These cunning individuals were not from the local region, but were from Jerusalem, along with their companions, the Scribes.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.152247667095713,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                28.97,
+                71.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders from Jerusalem had gathered together against Jesus, joining forces to closely watch and observe him in order to find any opportunity to use it against him. These men, known for their cunning and artfulness, either came on their own or were sent by the Sanhedrin to carefully scrutinize his teachings and actions. Their primary goal was to find any fault or inconsistency they could exploit.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 0.9013980145716589,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.32,
+            "commentatorTierSimilarities": [
+                0.0,
+                21.8,
+                78.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders from Jerusalem, who were known for their cunning and artfulness, had gathered together against Jesus. They consulted with one another and came together to Jesus, with the intention to watch and observe what was said and done by him. Their purpose was to take advantage of any opportunity they could find to use it against him. These men either came on their own or were sent by the Sanhedrin to make their observations on his doctrine and conduct.",
+            "wordCount": 81,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 1.1118340902038129,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                22.52,
+                77.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders from Jerusalem, known for their cunning, gathered against Jesus. They came together to watch and observe his words and actions, intent on finding anything to use against him. These men consulted with one another, either coming on their own or sent by the Sanhedrin. Their purpose was to carefully scrutinize his teachings and conduct, looking for any fault or inconsistency they could exploit.",
+            "wordCount": 66,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.0059288415455883,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                23.63,
+                76.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders from Jerusalem, known for their cunning, gathered against Jesus. They came together to watch and observe his words and actions, intent on finding anything to use against him. These men consulted with one another, either coming on their own or sent by the Sanhedrin. Their purpose was to carefully scrutinize his teachings and conduct, looking for any fault or inconsistency they could exploit.",
+            "wordCount": 66,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.0059288415455883,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                23.63,
+                76.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:22:19",
+    "verseRef": "Mark 4:19",
+    "bestBHT": {
+        "bht": "The cares of this world, the deceitfulness of riches, and the lusts of other things entering in choke the word and make it unfruitful. This condition is often seen in commercial countries where many once promised much fruit but now bring no fruit to perfection. The desires become lusts when they interfere with spiritual growth, even innocent objects may become snares. Other worldly distractions and the perplexing and distressing cares of this world diminish the fruitfulness of the word. Let those who have received and retained the word be watchful and guard against unfruitful desires.",
+        "wordCount": 95,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.7824853649297223,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+        "commentatorTierSimilarities": [
+            33.97,
+            31.77,
+            34.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The cares of this world, and the deceitfulness of riches, and the lusts of other things entering in\u2014or 'the pleasures of this life'\u2014choke the word, and it becometh unfruitful.\" ",
+            "What a vivid picture is this of the mournful condition of many, especially in great commercial countries, who once promised much fruit!",
+            "They bring no fruit to perfection... indicating how much growth there may be, in the early stages of such a case, and promise of fruit\u2014which after all never ripens."
+        ],
+        "Marvin Vincent": [
+            "Lusts not in the limited sense of mere sexual desire, but in the general sense of longing.",
+            "The word is also used of desire for good and lawful things.",
+            "Desire for good and lawful things."
+        ],
+        "Philip Schaff": [
+            "The desires become \u2018lusts,\u2019 because the objects interfere with spiritual growth.",
+            "What is in itself innocent may become a snare.",
+            "This includes all other worldly distractions."
+        ],
+        "Archibald T. Robertson": [
+            "The lusts of other things... the world of sense drowning the world of spirit.",
+            "All the passions or longings, sensual, worldly, 'pleasures of this life.'",
+            "The word \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03b9\u03b1 is not evil in itself."
+        ],
+        "John Gill": [
+            "The perplexing and distressing cares of it to get as much of it as they can, for themselves and families, fill their minds, and possess their souls even when and while they are hearing the word.",
+            "Riches which are deceitful, especially when trusted in, and being obtained, they do not give the satisfaction they promise.",
+            "Carnal desires after other objects, which are pleasing to the sensual mind, entering into their hearts, and gaining the ascendant there: choke the word, and it becomes unfruitful."
+        ],
+        "John Wesley": [
+            "The desire of any thing, otherwise than as it leads to happiness in God, directly tends to barrenness of soul.",
+            "Let him therefore who has received and retained the word, see that no other desire then enter in, such as perhaps till then he never knew.",
+            "It becometh unfruitful \u2014 After the fruit had grown almost to perfection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The cares of this world, the deceitfulness of riches, and the lusts of other things entering in choke the word and make it unfruitful. This is a vivid picture of the condition of many who once promised much fruit, but now bring no fruit to perfection. The desires become lusts when they interfere with spiritual growth, even innocent objects may become snares. The word \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03b9\u03b1 is not evil in itself; it includes all other worldly distractions and the perplexing and distressing cares of this world. Riches, when trusted in, are deceitful and do not bring the satisfaction they promise. Carnal desires choke the word and make it unfruitful, and any desire that does not lead to happiness in God directly tends to barrenness of soul. Let those who have received and retained the word be careful not to let any other desire enter in and make it unfruitful, for after the fruit has grown almost to perfection, it becomes unfruitful.",
+            "wordCount": 160,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8271462243946748,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                33.46,
+                27.96,
+                38.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The cares of this world, deceitfulness of riches, and lusts of other things choke the word, making it unfruitful. This condition is often seen in commercial countries where many once promised much fruit but fail to bring it to completion. Innocent desires can become snares when they interfere with spiritual growth. Riches, when trusted in, prove to be deceitful and unsatisfying. Other worldly distractions and the cares of this world diminish the fruitfulness of the word. Let those who have received it be watchful and guard against unfruitful desires.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6412543234002586,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                33.56,
+                32.88,
+                33.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cares of this world, the deceitfulness of riches, and the lusts of other things entering in choke the word and make it unfruitful. This condition is often seen in commercial countries where many once promised much fruit but now bring no fruit to perfection. The desires become lusts when they interfere with spiritual growth, even innocent objects may become snares. Other worldly distractions and the perplexing and distressing cares of this world diminish the fruitfulness of the word. Let those who have received and retained the word be watchful and guard against unfruitful desires.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.7824853649297223,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                33.97,
+                31.77,
+                34.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The cares of this world, the deceitfulness of riches, and the lusts of other things entering in choke the word and it becomes unfruitful. This condition is often seen in commercial countries where many once promised much fruit but fail to bring it to completion. Innocent desires can become snares that interfere with spiritual growth. Other worldly distractions and the perplexing and distressing cares of this world diminish the fruitfulness of the word. Let those who have received and retained the word be watchful and guard against unfruitful desires.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7299153858950782,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.86,
+            "commentatorTierSimilarities": [
+                33.49,
+                32.32,
+                34.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The cares of this world, the deceitfulness of riches, and the lusts of other things entering in choke the word, making it unfruitful. This condition is seen in many, especially in commercial countries, where they once promised much fruit but bring none to perfection. Innocent desires become snares, interfering with spiritual growth. Other worldly distractions and the perplexing cares of this world diminish the fruitfulness of the word. Those who have received and retained it must be watchful and guard against unfruitful desires.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7427827283249244,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                34.26,
+                32.92,
+                32.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

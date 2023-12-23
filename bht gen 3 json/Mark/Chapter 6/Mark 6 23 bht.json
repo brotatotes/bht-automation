@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:23:16",
+    "verseRef": "Mark 6:23",
+    "bestBHT": {
+        "bht": "In a moment of caprice, the king, though called so only by courtesy, made a reckless oath to Salome, a young girl of marriageable age. This impulsive act, resembling the oath Ahasuerus made to Esther, demonstrates the regret that often follows when self-control is lost to passion and luxury. The subsequent marriage of Salome to Philip the Tetrarch further emphasizes the consequences of indulging in unchecked desires. Let this narrative serve as a cautionary tale, reminding us of the dangers of hasty words and the importance of temperance.",
+        "wordCount": 89,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.4447875068313707,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+        "commentatorTierSimilarities": [
+            45.02,
+            31.28,
+            23.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The king, so called, but only by courtesy.",
+            "Those in whom passion and luxury have destroyed self-command will in a capricious moment say and do what in their cool moments they bitterly regret.",
+            "In a capricious moment say and do what in their cool moments they bitterly regret."
+        ],
+        "Philip Schaff": [
+            "Unto the half of my kingdom.\" ",
+            "The full form of the oath is here preserved.\" ",
+            "Ahasuerus made a similar oath to his queen; this was to a girl whose graceful immodesty had pleased the king."
+        ],
+        "Archibald T. Robertson": [
+            "The girl was of marriageable age though called \u03ba\u03bf\u03c1\u03b1\u03c3\u03b9\u03bf\u03bd (cf. Esther 2:9).",
+            "Salome was afterward married to Philip the Tetrarch.",
+            "The swaggering oath to the half of the kingdom reminds one of Esther 5:3, the same oath made to Esther by Ahasuerus."
+        ],
+        "John Gill": [
+            "He added an oath to what he had before said, the more to confirm it, and to encourage her in her request."
+        ],
+        "John Wesley": [
+            "To the half of my kingdom \u2014 A proverbial expression."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In a capricious moment, the king, only known as such by courtesy, made a boastful oath to the young girl, Salome, promising her anything she desired, up to half of his kingdom. Such reckless words are often regretted in moments of cool reflection, as passion and luxury can cloud one's self-command. This reminds one of a similar oath made by Ahasuerus to his queen Esther. Despite the context, Salome's marriage to Philip the Tetrarch is mentioned, highlighting the consequences of impulsive actions. May this passage serve as a cautionary example of the dangers of unchecked desires and rash words.",
+            "wordCount": 102,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.3733783849124084,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.01,
+            "commentatorTierSimilarities": [
+                42.39,
+                31.76,
+                25.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a capricious moment, the king, called so only by courtesy, rashly swore an oath to Salome, a young girl of marriageable age. This boastful declaration, reminiscent of Ahasuerus' oath to Esther, highlights the regret that often follows impulsive actions fueled by passion and luxury. The mention of Salome's subsequent marriage to Philip the Tetrarch further emphasizes the consequences of such unchecked desires. Let this serve as a stark reminder of the perils of hasty words and the importance of self-control.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.4276641145192075,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.81,
+            "commentatorTierSimilarities": [
+                42.36,
+                30.16,
+                27.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a moment of caprice, the king, though called so only by courtesy, made a reckless oath to Salome, a young girl of marriageable age. This impulsive act, resembling the oath Ahasuerus made to Esther, demonstrates the regret that often follows when self-control is lost to passion and luxury. The subsequent marriage of Salome to Philip the Tetrarch further emphasizes the consequences of indulging in unchecked desires. Let this narrative serve as a cautionary tale, reminding us of the dangers of hasty words and the importance of temperance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.4447875068313707,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "commentatorTierSimilarities": [
+                45.02,
+                31.28,
+                23.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a capricious moment, the king, so called only by courtesy, made a rash oath to Salome, a girl of marriageable age. Acting on passion and luxury can lead to saying and doing things that are bitterly regretted in moments of clarity. This reminds one of a similar oath made to Esther by Ahasuerus, showing the consequences of impulsive actions. Furthermore, the subsequent marriage of Salome to Philip the Tetrarch highlights the outcomes of unchecked desires. May this serve as a reminder to control our words and actions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.3192465861541365,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+            "commentatorTierSimilarities": [
+                47.85,
+                26.09,
+                26.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a capricious moment, the king, called so by courtesy, made a reckless oath to Salome, a young girl of marriageable age. The consequences of giving in to passion and luxury are evident in the remorse that follows such impulsive words and actions. This scene echoes the oath made to Esther by Ahasuerus, emphasizing the regret that often accompanies thoughtless behavior. The subsequent marriage of Salome to Philip the Tetrarch serves as a reminder of the outcomes that can arise from unchecked desires.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.408687465015038,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.18,
+            "commentatorTierSimilarities": [
+                50.02,
+                29.35,
+                20.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

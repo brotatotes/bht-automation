@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:25:46",
+    "verseRef": "Mark 10:11",
+    "bestBHT": {
+        "bht": "A marriage that has been consummated cannot be annulled by a formal divorce; it is only through the breaking of the bond that the marriage is truly annulled. Although Mark does not explicitly mention the exception for fornication, it is implied in what Mark records. Divorcing a wife and marrying another without just cause is an act of adultery against the wife, injuring the very person who is lawfully married. However, the one justifiable ground for divorce, fornication, is understood as a matter of course.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0990318417567164,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.13,
+        "commentatorTierSimilarities": [
+            33.47,
+            40.67,
+            25.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Against her. It is not clear whether this means the first or second woman. But the marriage with the second is a crime against the first, as well as adultery with the second.",
+            "The one justifiable ground of divorce is omitted here, being understood as a matter of course."
+        ],
+        "Archibald T. Robertson": [
+            "Mere formal divorce does not annul actual marriage consummated by the physical union.",
+            "Breaking that bond does annul it.",
+            "Mark does not give the exception stated in Matthew 19:9 'except for fornication,' though the point is really involved in what Mark does record."
+        ],
+        "John Gill": [
+            "Whosoever shall put away his wife, and marry another; when there is no uncleanness in the case; when his former wife has not injured him by violating the marriage bed.\" ",
+            "Committeth adultery against her; to the injury of his lawful wife; or 'upon her', or 'with her', with the person he marries.",
+            "The Syriac and Persic versions leave out the phrase, 'against her'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A marriage that has been consummated cannot be annulled by a formal divorce; it is only through the breaking of the bond that the marriage is truly annulled. Although Mark does not explicitly mention the exception for fornication, it is implied in what Mark records. Divorcing a wife and marrying another without just cause is an act of adultery against the wife, injuring the very person who is lawfully married. However, it is uncertain whether the phrase against her refers to the first or second wife. Nonetheless, the one justifiable ground for divorce, fornication, is understood as a matter of course.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0330932584791173,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                31.16,
+                40.35,
+                28.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A marriage that has been consummated cannot be annulled by a formal divorce; it is only through the breaking of the bond that the marriage is truly annulled. Although Mark does not explicitly mention the exception for fornication, it is implied in what Mark records. Divorcing a wife and marrying another without just cause is an act of adultery against the wife, injuring the very person who is lawfully married. However, the one justifiable ground for divorce, fornication, is understood as a matter of course.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0990318417567164,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.13,
+            "commentatorTierSimilarities": [
+                33.47,
+                40.67,
+                25.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A marriage consummated by physical union cannot be annulled simply through a formal divorce. The bond must be broken for the marriage to be truly dissolved. Although Mark does not explicitly mention the exception of fornication, it is implied in his account. To divorce a wife and marry another without just cause is to commit adultery and cause harm to the lawful wife. While the phrase against her is unclear, the one justifiable ground for divorce is understood to be fornication.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.0335457669979005,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.96,
+            "commentatorTierSimilarities": [
+                33.58,
+                38.38,
+                28.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A marriage consummated by physical union cannot be annulled through a formal divorce alone; the bond must be broken for the marriage to be truly dissolved. Mark does not directly mention the exception for fornication, but it is implicit in his account. Divorcing a wife and marrying another without just cause is adultery, causing harm to the lawful wife. While it is unclear whether against her refers to the first or second wife, the one justifiable ground for divorce is understood to be fornication.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.1096622607899653,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.49,
+            "commentatorTierSimilarities": [
+                32.86,
+                38.34,
+                28.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A marriage consummated by physical union cannot be annulled merely through a formal divorce; the bond must be broken to truly dissolve the marriage. While Mark does not mention the exception for fornication, it is implied in his account. Divorcing a wife and marrying another without just cause is a form of adultery, causing harm to the lawful wife. Although it is uncertain whether against her refers to the first or second wife, the one justifiable ground for divorce is understood to be fornication.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.078194579467029,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.44,
+            "commentatorTierSimilarities": [
+                32.33,
+                39.52,
+                28.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

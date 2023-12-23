@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:25:39",
+    "verseRef": "Mark 10:7",
+    "bestBHT": {
+        "bht": "In Mark 10:7, Jesus reaffirms the words of Adam from Genesis 2:24, emphasizing the permanent union between a man and his wife. The omission of certain phrases by St. Mark compared to St. Matthew and St. Luke demonstrates his focus on accuracy in circumstantial details rather than preserving the exact order and connection of the discourses. The phrase shall cleave signifies the importance of staying committed to one's spouse, as mentioned in Matthew 19:5. Furthermore, this verse condemns polygamy, highlighting the exclusivity and permanence of the marital bond.",
+        "wordCount": 86,
+        "quoteTokenProportion": 25.4,
+        "qualityScore": 1.6369228992682587,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+        "commentatorTierSimilarities": [
+            54.41,
+            0.0,
+            45.59
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our makes Adam's saying His own: in Matthew it is attributed to 'him that made (them) from the beginning.' The parallel is most instructive.",
+            "We may notice, that St. Mark omits St. Matthew\u2019s 'for every cause' in ver. 2,\u2014and his 'except for fornication' in ver. 11; as also does St. Luke (xvi. 18). The one omission seems to involve the other.",
+            "As a general rule, St. Mark, so accurate in circumstantial details, is less exact than St. Matthew in preserving the order and connexion of the discourses."
+        ],
+        "Marvin Vincent": [
+            "Shall cleave. See on Matthew 19:5. Tynd., bide by."
+        ],
+        "John Gill": [
+            "For this cause shall a man leave his father and mother...",
+            "...and cleave to his wife...",
+            "...in Genesis 2:24, from whence this passage is cited; or in any copy of the evangelist."
+        ],
+        "John Wesley": [
+            "Genesis 2:2411,12. All polygamy is here totally condemned."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:7, Jesus reaffirms the words of Adam from Genesis 2:24, emphasizing the permanent union between a man and his wife. The omission of certain phrases by St. Mark compared to St. Matthew and St. Luke demonstrates his focus on accuracy in circumstantial details rather than preserving the exact order and connection of the discourses. The phrase shall cleave signifies the importance of staying committed to one's spouse, as mentioned in Matthew 19:5. Furthermore, this verse condemns polygamy, highlighting the exclusivity and permanence of the marital bond.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.6369228992682587,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+            "commentatorTierSimilarities": [
+                54.41,
+                0.0,
+                45.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus reinforces the timeless words of Adam in Genesis 2:24, emphasizing the lifelong union between a man and his wife. The omission of certain phrases by St. Mark, compared to St. Matthew and St. Luke, highlights his attention to detail regarding the order and connection of the discourses. The phrase shall cleave underscores the importance of remaining steadfast to one's spouse, as stated in Matthew 19:5. This verse also condemns polygamy, affirming the exclusive and enduring nature of the marital relationship.",
+            "wordCount": 80,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.6230253874703364,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.31,
+            "commentatorTierSimilarities": [
+                53.39,
+                0.0,
+                46.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus affirms the age-old saying of Adam, stressing the lifelong commitment of a man to his wife. St. Mark's omission of certain phrases, which St. Matthew and St. Luke include, suggests his focus on preserving the details rather than the exact order of the discourses. The phrase shall cleave signifies the importance of staying devoted to one's spouse, echoing the sentiment in Matthew 19:5. Moreover, this passage explicitly condemns polygamy, solidifying the exclusivity and permanence of the marital bond.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.553338618413675,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+            "commentatorTierSimilarities": [
+                53.47,
+                0.0,
+                46.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus echoes Adam's words, underscoring the lifelong commitment between a man and his wife. Although St. Mark omits certain phrases found in St. Matthew and St. Luke, this highlights his meticulous attention to detail rather than the precise order of the discourse. The phrase shall cleave emphasizes the significance of remaining devoted to one's spouse, in line with Matthew 19:5. Furthermore, this verse unequivocally condemns polygamy, emphasizing the exclusive and enduring nature of the marital bond.",
+            "wordCount": 77,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.5382788740706526,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.49,
+            "commentatorTierSimilarities": [
+                56.33,
+                0.0,
+                43.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus affirms the lifelong commitment between a man and his wife by reiterating Adam's words. St. Mark's omission of certain phrases, also absent in St. Matthew and St. Luke, preserves the accuracy of circumstantial details rather than the order and connection of discourses. The phrase shall cleave emphasizes the necessity of remaining faithful to one's spouse, as discussed in Matthew 19:5. This passage unequivocally condemns polygamy, highlighting the exclusivity and permanence of the marital relationship.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.5489889786032178,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.85,
+            "commentatorTierSimilarities": [
+                53.52,
+                0.0,
+                46.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

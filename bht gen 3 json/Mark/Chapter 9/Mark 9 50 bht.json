@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-22-2023 23:26:10",
+    "verseRef": "Mark 9:50",
+    "bestBHT": {
+        "bht": "If the fire of purification and preserving salt have no power due to the nullity of grace in you, it can only consume. The salt, symbolic of the covenant, has lost its savour, rendering it void and resulting in being cast out. Therefore, we must maintain our faith and remain fervent, so that we may be a blessing and season our speech with salt, purifying us from profane follies and corruptions. Let us have peace with one another, for the warning to retain the saltiness of our faith is necessary for all Christians.",
+        "wordCount": 93,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.163485346557742,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+        "commentatorTierSimilarities": [
+            45.29,
+            0.0,
+            54.71
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If this fire which is to purify and act as a preserving salt to you, have, from the nullity and vapidity of the grace of the covenant in you, no such power,\u2014it can only consume.",
+            "The salt has lost its savour\u2014the covenant is void\u2014you will be cast out.",
+            "The interpretation of the sacrifice as the condemned\u2014and the fire and salt as eternal fire,\u2014except in the case of the salt having lost its savour, is contrary to the whole symbolism of Scripture."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Salt is good; but if the salt have lost his saltness... wherewith will ye season it?\".",
+            "Have salt in yourselves... that will make you a blessing to one another, and to all around you.\".",
+            "Have peace one with another\"."
+        ],
+        "Marvin Vincent": [
+            "Have lost its saltness [\u03b1\u03bd\u03b1\u03bb\u03bf\u03bd \u03b3\u03b5\u03bd\u03b7\u03c4\u03b1\u03b9] . Lit., may have become saltless. Compare on Matthew 5:13. ",
+            "Will ye season [\u03b1\u03c1\u03c4\u03c5\u03c3\u03b5\u03c4\u03b5] . Lit., will ye restore. Compare Colossians 4:5. "
+        ],
+        "John Calvin": [
+            "This word may be taken in a different sense from what it had in the former verse, as meaning that seasoning of good odor, which is obtained by faith, or rather the wisdom of the Spirit.\" ",
+            "When Paul enjoins, 'Let your speech be always with grace, seasoned with salt,' he means, that we ought to be holy, and purified from all profane follies and corruptions, and filled with spiritual grace, which edifies all who hear it, and diffuses over them its sweet odor.\" ",
+            "I think that Christ is exhorting his own people to maintain the rigor of faith, which may serve also to purify others."
+        ],
+        "Archibald T. Robertson": [
+            "Have salt in yourselves (\u03b5\u03c7\u03b5\u03c4\u03b5 \u03b5\u03bd \u03b5\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03b1\u03bb\u03b1). Jesus had once called them the salt of the earth (Matthew 5:13) and had warned them against losing the saltness of the salt.",
+            "If it is \u03b1\u03bd\u03b1\u03bb\u03bf\u03bd, nothing can season (\u03b1\u03c1\u03c4\u03c5\u03c9) it and it is of no use to season anything else.",
+            "It is like an exploded shell, a burnt-out crater, a spent force. This is a warning for all Christians."
+        ],
+        "John Gill": [
+            "Salt is good,.... To make meat savoury, and keep flesh from corrupting; and so is the grace of God, to season men's hearts, make their discourse savoury, and preserve them from the corruption of sin.",
+            "Salt is an emblem of firm union, concord, and agreement: hence the covenant of peace is called a covenant of salt.",
+            "This exhortation, very appropriately follows upon the making mention of salt in different senses; especially, this exhortation was the more necessary to the disciples at this time, since they had been very lately warmly disputing the point among themselves, who should be greatest in the kingdom of the Messiah; and which had occasioned this discourse of Christ's."
+        ],
+        "John Wesley": [
+            "Such salt is good indeed; highly beneficial to the world, in respect of which I have termed you the salt of the earth.",
+            "But if the salt which should season others, have lost its own saltness, wherewith will ye season it? - Beware of this; see that ye retain your savour; and as a proof of it, have peace one with another.",
+            "As every burnt offering was salted with salt, in order to its being cast into the fire of the altar, so every one who will not part with his hand or eye, shall fall a sacrifice to Divine justice, and be cast into hell fire, which will not consume, but preserve him from a cessation of being."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the fire of purification and preserving salt have no power due to the nullity of grace in you, it can only consume. The salt, symbolic of the covenant, has lost its savour, rendering it void and resulting in being cast out. Therefore, as followers of Christ, we must ensure that we maintain our faith and remain fervent, so that we may be a blessing to one another and to those around us. Let our speech be seasoned with salt, purifying us from profane follies and corruptions. Above all, let us have peace with one another, for the warning to retain the saltiness of our faith is necessary for all Christians.",
+            "wordCount": 111,
+            "quoteTokenProportion": 50.67,
+            "qualityScore": 1.9952902972440103,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                43.96,
+                0.0,
+                56.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the fire of purification and preserving salt have no power due to the nullity of grace in you, it can only consume. The salt, symbolic of the covenant, has lost its savour, rendering it void and resulting in being cast out. Therefore, as followers of Christ, we must ensure that we maintain our faith and remain fervent, so that we may be a blessing to one another and to those around us. Let our speech be seasoned with salt, purifying us from profane follies and corruptions. Let us have peace with one another, for the warning to retain the saltiness of our faith is necessary for all Christians.",
+            "wordCount": 109,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0120759238955226,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                44.64,
+                0.0,
+                55.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the fire of purification and preserving salt have no power due to the nullity of grace in you, it can only consume. The salt, symbolic of the covenant, has lost its savour, rendering it void and resulting in being cast out. Therefore, we must maintain our faith and remain fervent, so that we may be a blessing and season our speech with salt, purifying us from profane follies and corruptions. Let us have peace with one another, for the warning to retain the saltiness of our faith is necessary for all Christians.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.163485346557742,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+            "commentatorTierSimilarities": [
+                45.29,
+                0.0,
+                54.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the fire of purification and preserving salt have no power due to the nullity of grace in you, it can only consume. The salt, symbolic of the covenant, has lost its savour, rendering it void and resulting in being cast out. Therefore, we must maintain our faith and remain fervent, so that we may be a blessing and season our speech with salt, purifying us from profane follies and corruptions. Let us have peace with one another, for the warning to retain the saltiness of our faith is necessary for all Christians.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.163485346557742,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+            "commentatorTierSimilarities": [
+                45.29,
+                0.0,
+                54.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If the fire, which serves as a purifying and preserving salt, lacks power due to the lack of grace, it can only consume. In this context, the salt symbolizes the covenant, and if it loses its savour, it becomes void and leads to being cast out. Therefore, it is essential for believers to maintain their faith and fervency, allowing them to be a blessing to others and purifying their speech. Above all, maintaining peace with one another is crucial, as it is a testament to the enduring saltiness of our faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 1.8660123257402879,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.39,
+            "commentatorTierSimilarities": [
+                42.02,
+                0.0,
+                57.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:20:19",
+    "verseRef": "Mark 2:9",
+    "bestBHT": {
+        "bht": "Is it easier to command away disease than to bid away sin? If, then, I do the one which you can see, know thus that I have done the other, which you cannot see. Both of them were easy to say, but not with power and effect: they were both instances of divine power, and proofs of deity. By the one, which they would see done before their eyes, there would be left no room for them to doubt the reality of the other. Walk about.",
+        "wordCount": 86,
+        "quoteTokenProportion": 66.1,
+        "qualityScore": 1.472777356107376,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.31,
+        "commentatorTierSimilarities": [
+            43.79,
+            0.0,
+            56.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Is it easier to command away disease than to bid away sin?",
+            "If, then, I do the one which you can see, know thus that I have done the other, which you cannot see.",
+            "I have done the other, which you cannot see."
+        ],
+        "Marvin Vincent": [
+            "Walk [\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u03b9] . Lit., walk about."
+        ],
+        "John Gill": [
+            "Both of them were easy to say, but not with power and effect: they were both instances of divine power, and proofs of deity.",
+            "Perhaps forgiveness of sin may be the greatest evidence of divine power and goodness.",
+            "By the one, which they would see done before their eyes, there would be left no room for them to doubt the reality of the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Is it easier to command away disease than to bid away sin? If, then, I do the one which you can see, know thus that I have done the other, which you cannot see. I have done the other, which you cannot see. Both of them were easy to say, but not with power and effect: they were both instances of divine power, and proofs of deity. Perhaps forgiveness of sin may be the greatest evidence of divine power and goodness. By the one, which they would see done before their eyes, there would be left no room for them to doubt the reality of the other. Walk about.",
+            "wordCount": 109,
+            "quoteTokenProportion": 63.08,
+            "qualityScore": 1.4306965977621071,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.91,
+            "commentatorTierSimilarities": [
+                40.57,
+                0.0,
+                59.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Is it easier to command away disease than to bid away sin? If, then, I do the one which you can see, know thus that I have done the other, which you cannot see. Both of them were easy to say, but not with power and effect: they were both instances of divine power, and proofs of deity. By the one, which they would see done before their eyes, there would be left no room for them to doubt the reality of the other. Walk about.",
+            "wordCount": 86,
+            "quoteTokenProportion": 66.1,
+            "qualityScore": 1.472777356107376,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.31,
+            "commentatorTierSimilarities": [
+                43.79,
+                0.0,
+                56.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Is it easier to command away disease than to bid away sin? If, then, I do the one which you can see, know thus that I have done the other, which you cannot see. Both of them were instances of divine power and proofs of deity. By the one, which they would see done before their eyes, there would be left no room for them to doubt the reality of the other.",
+            "wordCount": 72,
+            "quoteTokenProportion": 66.67,
+            "qualityScore": 1.3426131433504134,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.98,
+            "commentatorTierSimilarities": [
+                34.1,
+                0.0,
+                65.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Is it easier to command away disease than to bid away sin? If I do one which you can see, know that I have also done the other which you cannot see. Both are instances of divine power, proofs of deity. Perhaps forgiveness of sin may be the greatest evidence of divine power and goodness. By doing the visible act of healing, there is no room for doubt of the reality of the forgiveness of sins.",
+            "wordCount": 76,
+            "quoteTokenProportion": 57.41,
+            "qualityScore": 1.2712016617362232,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.61,
+            "commentatorTierSimilarities": [
+                29.26,
+                0.0,
+                70.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Is it easier to command away disease than to bid away sin? If, then, someone does the one which you can see, know thus that they have done the other, which you cannot see. Both of them were easy to say, but not with power and effect: they were both instances of divine power, and proofs of deity. Perhaps forgiveness of sin may be the greatest evidence of divine power and goodness. By the one, which you would see done before your eyes, there would be left no room for you to doubt the reality of the other.",
+            "wordCount": 98,
+            "quoteTokenProportion": 63.49,
+            "qualityScore": 1.3387579497936786,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.86,
+            "commentatorTierSimilarities": [
+                27.29,
+                0.0,
+                72.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

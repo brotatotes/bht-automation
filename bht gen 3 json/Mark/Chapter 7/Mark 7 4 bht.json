@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:24:11",
+    "verseRef": "Mark 7:4",
+    "bestBHT": {
+        "bht": "The disciples engaged in practices of washing that involved sprinkling or affusions of water, rather than immersions. This understanding of baptisms aligns with the Levitical washings and the flexible interpretation of the term found in The Teaching of the Apostles. While the Pharisees multiplied the occasions of defilement, requiring excessive washing, it is important to avoid unnecessary disputes about the form of baptism. Christianity does not prescribe a specific mode as essential, allowing for various interpretations and practices.",
+        "wordCount": 78,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.8905982042119964,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+        "commentatorTierSimilarities": [
+            27.18,
+            44.96,
+            27.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These baptisms (for such is the word in the original), as applied to couches (meaning probably here those used at meals), were certainly not immersions, but sprinklings or affusions of water.",
+            "It certainly refers to themselves; as it would not be any unusual practice to wash things bought in the market.",
+            "but probably not to washing their whole bodies: see below."
+        ],
+        "Marvin Vincent": [
+            "In a metaphorical sense Plato uses it of drunkenness: drowned in drink.",
+            "The New Testament use of the word to denote submersion for a religious purpose may be traced back to the Levitical washings.",
+            "'The Teaching of the Apostles' throws light on the elastic interpretation of the term, in its directions for baptism."
+        ],
+        "Philip Schaff": [
+            "Christianity does not prescribe any particular mode as essential. Disputes about the form of baptism savor much of what our Lord is rebuking in the discourse which follows.\" ",
+            "All these things were ceremonially washed, or baptized, in case of defilement. Ordinary washing for cleanliness is not referred to.",
+            "It is probable that the Pharisees multiplied the occasions of defilement, as they had done the articles which could be defiled."
+        ],
+        "Archibald T. Robertson": [
+            "The disciples were already ceremonially defiled.",
+            "Before eating they wash the hands always. When they come from market they take a bath before eating.",
+            "We must let the Jewish scrupulosity stand for itself."
+        ],
+        "John Gill": [
+            "Every defiled man dips himself, except a profluvious man; and in it, they dip all unclean vessels.",
+            "Their canons run thus: 'A bed that is wholly defiled, if he dips it, part by part, it is pure.'",
+            "Various rules concerning these things may be seen in the treatises 'Celim' and 'Mikvaot'."
+        ],
+        "John Wesley": [
+            "Washing of cups and pots and brazen vessels and couches \u2014 The Greek word (baptisms) means indifferently either washing or sprinkling. The cups, pots, and vessels were washed; the couches sprinkled."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples in Mark 7:4 were not practicing immersion baptism when they washed themselves and their utensils before meals. Rather, they were partaking in sprinklings or affusions of water. Plato even used the word baptisms metaphorically to describe being drowned in drink. This practice can be traced back to the Levitical washings and was also mentioned in The Teaching of the Apostles, showing the elastic interpretation of the term. The Pharisees, however, had multiplied the occasions of defilement, requiring excessive washing. It's important to understand the Jewish scrupulosity and not impose unnecessary disputes about the form of baptism, as Christianity does not prescribe any particular mode as essential.",
+            "wordCount": 108,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8535513270050576,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                30.34,
+                41.24,
+                28.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples in this passage were not immersing themselves, but rather practicing sprinklings or affusions of water. This understanding of baptisms can be traced back to the Levitical washings and was also mentioned in The Teaching of the Apostles. The Pharisees, however, had multiplied occasions of defilement, requiring excessive washing. It's important to understand the Jewish scrupulosity and not impose unnecessary disputes about the form of baptism, as Christianity does not prescribe any particular mode as essential.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9728123127195096,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                28.18,
+                46.74,
+                25.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples in Mark 7:4 were not immersing themselves, but rather participating in sprinklings or affusions of water as part of their washing rituals. This understanding of baptisms can be traced back to the Levitical washings and has appeared in The Teaching of the Apostles. The Pharisees, however, had multiplied occasions of defilement, requiring excessive washing. It's important to recognize the Jewish scrupulosity and not engage in unnecessary disputes about the form of baptism, as Christianity does not prescribe a specific mode as essential.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9822163524036371,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                27.79,
+                45.49,
+                26.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The practice of baptisms mentioned in the verse does not refer to immersion, but rather to sprinklings or affusions of water. This ceremonial washing of hands and utensils was common among the disciples and in Jewish traditions. The term baptisms can be traced back to the Levitical washings and has been understood in different ways, demonstrating its elastic interpretation. It is crucial not to impose unnecessary disputes about the form of baptism, as Christianity does not mandate a specific mode as essential.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8466448973451346,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                30.7,
+                40.71,
+                28.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples engaged in practices of washing that involved sprinkling or affusions of water, rather than immersions. This understanding of baptisms aligns with the Levitical washings and the flexible interpretation of the term found in The Teaching of the Apostles. While the Pharisees multiplied the occasions of defilement, requiring excessive washing, it is important to avoid unnecessary disputes about the form of baptism. Christianity does not prescribe a specific mode as essential, allowing for various interpretations and practices.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8905982042119964,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+            "commentatorTierSimilarities": [
+                27.18,
+                44.96,
+                27.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

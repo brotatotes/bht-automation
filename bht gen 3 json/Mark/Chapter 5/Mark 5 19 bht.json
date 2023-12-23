@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:22:43",
+    "verseRef": "Mark 5:19",
+    "bestBHT": {
+        "bht": "Chosen to proclaim God's mercy to his friends, this man had a past that may have influenced them negatively. However, now he had the opportunity to be a living example of transformation and grace. His task of being a missionary in his own community was more noble than going somewhere unfamiliar. With Christ's power and grace, he could bring forth more testimonies of redemption. He was called to share the great works the Lord had done for him, as a living testimony of God's transformative power.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.03,
+        "qualityScore": 1.5662127393263219,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.42,
+        "commentatorTierSimilarities": [
+            31.69,
+            32.2,
+            36.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was perhaps some reason why this man should be sent to proclaim God\u2019s mercy to his friends.",
+            "His example may in former times have been prejudicial to them.",
+            "His example may in former times have been prejudicial to them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To be a missionary for Christ, in the region where he was so well known and so long dreaded, was a far nobler calling than to follow Him where nobody had ever heard of him.\" ",
+            "Other trophies not less illustrious could be raised by the same power and grace."
+        ],
+        "Philip Schaff": [
+            "His previous life may have harmed them; our Lord would make his future life a blessing to them.",
+            "The command to those healed was often to keep silence, here it is the reverse, and for a good reason.",
+            "And hath had mercy on thee. This hints at a spiritual blessing."
+        ],
+        "Archibald T. Robertson": [
+            "To thy own folks\" rather than \"thy friends.",
+            "Jesus had greatly blessed this man and so gave him the hardest task of all, to go home and witness there for Christ.",
+            "There was no danger of too much enthusiasm for Christ in this environment."
+        ],
+        "John Gill": [
+            "Such as are called by grace, and are turned from darkness to light; and from the power of Satan unto God, ought to go, to their Christian friends, and to the church of God, and declare in Zion the great things which God has done for their souls.",
+            "They are 'great things' indeed which the Lord has done for his people: he has done great things for them in eternity; he has loved them with an everlasting love; he has chosen them in his Son to holiness and happiness; he has made a covenant with him, for them, full of spiritual blessings and promises.",
+            "The Lord, the Spirit, does great things for them, when he calls them by his grace, and afterwards; in opening their eyes who were born blind, and who otherwise must have lift them up in hell; and in bringing them into the marvellous light of, the Gospel; in quickening them, when dead in trespasses and sins, who otherwise must have died the second death."
+        ],
+        "John Wesley": [
+            "Tell them how great things the Lord hath done for thee \u2014 This was peculiarly needful there, where Christ did not go in person."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It was not a coincidence that this man was chosen to be a messenger of God's mercy to his friends, who may have been affected by his past life. While his example may have once been harmful to them, now he would have the opportunity to be a living testimony of transformation and grace. What a noble calling it was to go home and proclaim the greatness of what Christ had done for him in a place where he was so well known and feared. Jesus, in His great power and grace, could surely raise up more testimonies of redemption in that environment. And so, this man was entrusted with the mission to bring the news of salvation to his own people, sharing the great things the Lord had done for him. There was no fear of too much enthusiasm for Christ in this setting, for the Lord had greatly blessed him and gifted him with the hardest task of all.",
+            "wordCount": 162,
+            "quoteTokenProportion": 45.26,
+            "qualityScore": 1.6651330425250226,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                30.66,
+                30.04,
+                39.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Chosen to proclaim God's mercy to his friends, this man had a past that may have influenced them negatively. However, now he had the opportunity to be a living example of transformation and grace. His task of being a missionary in his own community was more noble than going somewhere unfamiliar. With Christ's power and grace, he could bring forth more testimonies of redemption. He was called to share the great works the Lord had done for him, as a living testimony of God's transformative power.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.5662127393263219,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.42,
+            "commentatorTierSimilarities": [
+                31.69,
+                32.2,
+                36.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Chosen as a messenger of God's mercy, this man had the task of proclaiming Christ's transformative power to his own people. He had a past that may have influenced them negatively. Now, he had the opportunity to show them the great things the Lord had done for him. It was a noble calling to be a missionary in his well-known and feared community, where more testimonies of redemption could be raised by God's power and grace. He was entrusted with the hardest task of all, to go home and witness for Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.5463502170150467,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                33.09,
+                28.69,
+                38.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Chosen to be a messenger of God's mercy, this man had a unique task of proclaiming Christ's transformative power to his own people. In his former life, he may have influenced them negatively. However, now he had the opportunity to become a living example of grace and redemption. Witnessing for Christ in his well-known and feared community was a noble calling. Through God's power and grace, he could bring forth more testimonies of transformation and bless his friends with the great works the Lord had done for him.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.523630658217932,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.0,
+            "commentatorTierSimilarities": [
+                31.45,
+                31.79,
+                36.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Chosen as a messenger to his own people, this man had the challenge of sharing God's mercy and grace with his friends. Though his past may have been detrimental to them, now he had the opportunity to be a living testimony of transformation. It was a far nobler calling to witness for Christ in his familiar community rather than in an unknown place. Through God's power and grace, he could inspire and bring forth more stories of redemption, sharing the great things the Lord had done for him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.5372691617378027,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.46,
+            "commentatorTierSimilarities": [
+                31.93,
+                29.1,
+                38.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

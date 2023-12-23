@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:29:46",
+    "verseRef": "Mark 15:21",
+    "bestBHT": {
+        "bht": "Simon, a man from Cyrene, was compelled to bear the cross of Jesus. The mention of Rufus, possibly the same person as in Romans 16:13, indicates Mark's accuracy in designating Simon. It is interesting that Jesus initially bore his own cross until Simon took over. The mention of Simon being from the field does not explain why he was chosen or if it was a regular feast day. Simon's act of carrying the cross of Jesus, the father of Alexander and Rufus, who were well-known individuals, adds significance to the event.",
+        "wordCount": 93,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.9519183001147784,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+        "commentatorTierSimilarities": [
+            33.99,
+            29.21,
+            36.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is a Rufus saluted Rom. xvi. 13."
+        ],
+        "Marvin Vincent": [
+            "Compel. Better impress, as Rev. in margin. See on Matthew 5:41. Note the accuracy in designating Simon."
+        ],
+        "Philip Schaff": [
+            "Coming from the country. Lit, 'from the field.' This statement throws no light on the reason why they impressed him for this service, nor upon the question whether it was the regular feast day or not.",
+            "The father of Alexander and Rufus. Persons well known to the first readers of this Gospel. As Mark probably wrote in Rome, the 'Rufus 'saluted in Romans 16:13, may be the person here spoken of. But the name was a common one.",
+            "This 'Alexander,' can scarcely be the man put forward by the Jews at Ephesus (Acts 19:33), who may or may not be identical with the person mentioned in 1 Timothy 1:20; 2 Timothy 4:14."
+        ],
+        "Archibald T. Robertson": [
+            "Simon met the procession.",
+            "Paul mentions a Rufus in Romans 16:13, but it was a common name and proves nothing.",
+            "Jesus bore his own cross till he was relieved of it, and he walked in front of his own cross for the rest of the way."
+        ],
+        "John Gill": [
+            "And they compel one Simon a Cyrenian...to bear his cross.\" ",
+            "He might have been in the field, about some rural business...to fetch wood from thence.\" ",
+            "The father of Alexander and Rufus; who were men well known...they obliged 'Simon' to bear his cross."
+        ],
+        "John Wesley": [
+            "The father of Alexander and Rufus \u2014 These were afterward two eminent Christians, and must have been well known when St. Mark wrote."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Simon, a man from Cyrene, was compelled to bear the cross of Jesus as they journeyed to the crucifixion site. It is interesting to note the accuracy in Mark's designation of Simon and the mention of Rufus, possibly the same person mentioned in Romans 16:13. However, it is important to remember that Rufus was a common name. Jesus himself bore his own cross initially until Simon took over. The mention of Simon being from the field does not shed light on why he was chosen for this task or whether it was a regular feast day. Simon's act of carrying the cross of Jesus, the father of Alexander and Rufus, who were well-known individuals, speaks to the impact and significance of this event.",
+            "wordCount": 125,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.8310000062941194,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.22,
+            "commentatorTierSimilarities": [
+                32.63,
+                31.18,
+                36.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simon, a man from Cyrene, was compelled to bear the cross of Jesus. The mention of Rufus, possibly the same person as in Romans 16:13, indicates Mark's accuracy in designating Simon. It is interesting that Jesus initially bore his own cross until Simon took over. The mention of Simon being from the field does not explain why he was chosen or if it was a regular feast day. Simon's act of carrying the cross of Jesus, the father of Alexander and Rufus, who were well-known individuals, adds significance to the event.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9519183001147784,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.24,
+            "commentatorTierSimilarities": [
+                33.99,
+                29.21,
+                36.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simon, a man from Cyrene, was compelled to bear the cross of Jesus. The accuracy in Mark designating Simon, and the mention of Rufus, whom Paul greets in Romans 16:13, highlight the attention to detail. Interestingly, Jesus initially carried his own cross until Simon took over. The reason for choosing Simon from the field remains unclear, as does whether it was a regular feast day. However, Simon's act of carrying the cross of Jesus, the father of Alexander and Rufus, reflects the significance of this event.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8546611350497177,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                36.75,
+                26.99,
+                36.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Simon, a man from Cyrene, was compelled to bear the cross of Jesus. The accuracy in designating Simon and the mention of Rufus, possibly the same person in Romans 16:13, demonstrate Mark's attention to detail. Jesus initially carried his own cross until Simon took over. The reason for choosing Simon from the field remains unclear, as well as whether it was a regular feast day. However, Simon's act of carrying the cross of Jesus, the father of Alexander and Rufus, signifies the significance of this event.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.8264334627858143,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                35.9,
+                26.37,
+                37.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simon, a man from Cyrene, was compelled to bear the cross of Jesus. The accuracy in designating Simon and the mention of Rufus, possibly the same person in Romans 16:13, demonstrate Mark's attention to detail. Jesus initially bore his own cross until Simon took over. The reason for choosing Simon from the field remains unclear, as well as whether it was a regular feast day. However, Simon, the father of Alexander and Rufus, is evidence of the significance of this event in the lives of well-known individuals.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.821875279909626,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                35.77,
+                26.74,
+                37.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

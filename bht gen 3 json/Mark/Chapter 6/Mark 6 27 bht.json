@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:23:17",
+    "verseRef": "Mark 6:27",
+    "bestBHT": {
+        "bht": "The prompt response of the king was evident as he sent one of the guards, a speculator, to carry out the execution of John the Baptist. This soldier, who was accustomed to such tasks and had the role of a spy, promptly beheaded John in the prison and presented his head to the damsel. This gruesome act marked the fulfillment of the prophecy against the Tetrarch, who now lived in fear, haunted by the memory of John and trembling at the reports of Jesus' works.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.7350487893009672,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+        "commentatorTierSimilarities": [
+            32.76,
+            32.56,
+            34.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And immediately the king sent an executioner\u2014one of the guards in attendance.\" ",
+            "Blessed martyr! Dark and cheerless was the end reserved for thee: but now thou hast thy Master's benediction.",
+            "But where are they in whose skirts is found thy blood?"
+        ],
+        "Marvin Vincent": [
+            "The king is prompt in his response.\" ",
+            "A speculator was a guardsman, whose business it was to watch or spy out.",
+            "He met the executioners (speculatoribus), declared that he had nothing to say against the execution of the sentence, and then stretched out his neck."
+        ],
+        "Philip Schaff": [
+            "The members of the body-guard would be entrusted with the execution of capital sentences, but that was not their special office."
+        ],
+        "Archibald T. Robertson": [
+            "A soldier of his guard (\u03c3\u03c0\u03b5\u03ba\u03bf\u03c5\u03bb\u03b1\u03c4\u03bf\u03c1\u03b1). Latin word speculator. A spy, scout, lookout, and often executioner.\" ",
+            "He was used to do errands of this sort and it was soon done. It was a gruesome job, but he soon brought John's head to the damsel, apparently in the presence of all.",
+            "This miserable Tetrarch, the slave of Herodias, was now the slave of his fears. He is haunted by the ghost of John and shudders at the reports of the work of Jesus."
+        ],
+        "John Gill": [
+            "And immediately the king sent an executioner,....and commanded his head to be brought; ordered him to cut off his head in prison, and bring it away forthwith in a charger to him...",
+            "...and he went and beheaded him in the prison; according to his orders."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The king wasted no time in responding to the request of his daughter and immediately sent one of the guards in attendance, a speculator, to carry out the execution of John the Baptist. This grim task was not unfamiliar to the soldier, as he was often called upon to fulfill such duties. Soon enough, he brought John's head to the young girl, completing the gruesome act in the presence of all. This dark and cheerless end marked the fulfillment of the prophecy against the wretched Tetrarch, who now found himself haunted by the ghost of John and trembling at the reports of Jesus' works.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.51764133763241,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                34.66,
+                33.29,
+                32.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The king wasted no time in sending one of the guards, a speculator, to execute John the Baptist. This grim task was not unfamiliar to the soldier, as he often fulfilled such duties. Soon enough, he brought John's head to the young girl, completing the act in the presence of all. This dark end marked the fulfillment of the prophecy against the wretched Tetrarch, haunted by the ghost of John and trembling at Jesus' works.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.475917874030233,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.42,
+            "commentatorTierSimilarities": [
+                34.75,
+                34.13,
+                31.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prompt response of the king was evident as he sent one of the guards, a speculator, to carry out the execution of John the Baptist. This soldier, who was accustomed to such tasks and had the role of a spy, promptly beheaded John in the prison and presented his head to the damsel. This gruesome act marked the fulfillment of the prophecy against the Tetrarch, who now lived in fear, haunted by the memory of John and trembling at the reports of Jesus' works.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7350487893009672,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.03,
+            "commentatorTierSimilarities": [
+                32.76,
+                32.56,
+                34.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Without hesitation, the king dispatched one of his guards, a speculator, to swiftly execute John the Baptist. This soldier, who was tasked with watching and executing, wasted no time in fulfilling the order. He cut off John's head in the prison and promptly presented it to the damsel, with the dreadful act witnessed by all. This morbid event marked the fulfillment of the prophecy against the wretched Tetrarch, who was now consumed with fear, haunted by the memory of John and trembling at the miraculous works of Jesus.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6256323154653893,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                28.27,
+                30.03,
+                41.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Without hesitation, the king sent one of his guards, a speculator, to execute John the Baptist. This soldier, accustomed to such tasks, promptly beheaded John in the prison and brought his head to the damsel. This gruesome act marked the fulfillment of the prophecy against the Tetrarch, who now lived in fear, haunted by John's memory, and trembled at the reports of Jesus' works.",
+            "wordCount": 65,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6899441037416383,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                30.77,
+                28.72,
+                40.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

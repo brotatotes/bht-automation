@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:28:59",
+    "verseRef": "Mark 15:18",
+    "bestBHT": {
+        "bht": "In a mocking manner, the crowd sarcastically hailed Jesus with the words, Long live the King! They treated him as if he had just become a king and it was his coronation day, feigning wishes of long life and prosperity. This derisive act belittled Jesus' true kingship and disrespected his rightful authority.",
+        "wordCount": 52,
+        "quoteTokenProportion": 41.86,
+        "qualityScore": 1.82582838224515,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "In a mock way, wishing him long life and prosperity, as if he was a king just come to his throne, and this was his coronation day.",
+            "A king just come to his throne, and this was his coronation day.",
+            "Mock way, wishing him long life and prosperity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mocking Jesus as a king, the people sarcastically hailed him, Long live the King! It was as if he had just ascended the throne, receiving the honor and accolades of a coronation day. In their scornful gesture, they trivialized Jesus' true kingship and scoffed at his authority.",
+            "wordCount": 47,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 1.793192836062691,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sarcastically mocking Jesus as a king, the people cynically exclaimed, Long live the King! It was akin to treating his arrival as a regal inauguration, with wishes for his prolonged reign and prosperity. This derisive act trivialized Jesus' legitimate kingship and scorned his rightful authority over all.",
+            "wordCount": 47,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6475548267561129,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.12,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sarcastically mocking Jesus as a king, the people cynically hailed him, Long live the King! It was as if he had just ascended the throne, receiving the honor and accolades of a coronation day. In their scornful gesture, they trivialized Jesus' true kingship and scoffed at his authority.",
+            "wordCount": 48,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.7562051712587785,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a mocking manner, the crowd sarcastically hailed Jesus with the words, Long live the King! They treated him as if he had just become a king and it was his coronation day, feigning wishes of long life and prosperity. This derisive act belittled Jesus' true kingship and disrespected his rightful authority.",
+            "wordCount": 52,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.82582838224515,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sarcastically ridiculing Jesus, the crowd ironically proclaimed, Long live the King! Their words carried a mocking tone, as if he were a newly enthroned ruler on his coronation day, while insincerely offering wishes for his well-being and success. This disrespectful gesture diminished the truth of Jesus' kingship, undermining his authority and significance.",
+            "wordCount": 53,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.4090434854723093,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

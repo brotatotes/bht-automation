@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:19:55",
+    "verseRef": "Mark 1:16",
+    "bestBHT": {
+        "bht": "Jesus, while walking alongside the Sea of Galilee, observed Simon and Andrew, fishermen by trade, casting a net into the water. Mark paints a vivid and realistic picture of their fishing technique, using the word casting to imply the motion of throwing the net on both sides. Luke confirms that these four individuals were not only fishermen but also partners in their trade. This glimpse into their occupation sets the stage for the life-changing moment when they would encounter Jesus and become his disciples.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.5679343145443134,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+        "commentatorTierSimilarities": [
+            32.49,
+            30.27,
+            37.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Casting a net (\u03b1\u0313\u03bc\u03c6\u03b9\u03b2\u03b1\u0301\u03bb\u03bb\u03bf\u03bd\u03c4\u03b1\u03c2)"
+        ],
+        "Philip Schaff": [
+            "The form of the original shows entire independence of Matthew, and the more graphic style of Mark.",
+            "In the sea, not \u2018into;\u2019 the net was in the water, and they were moving it there."
+        ],
+        "Archibald T. Robertson": [
+            "Mark uses \u03c0\u03b1\u03c1\u03b1 (along, beside) twice and makes the picture realistic.",
+            "Casting a net (\u03b1\u03bc\u03c6\u03b9\u03b2\u03b1\u03bb\u03bb\u03bf\u03bd\u03c4\u03b1\u03c2). Literally casting on both sides, now on one side, now on the other.",
+            "These four disciples were fishermen (\u03b1\u03bb\u03b9\u03b5\u03b9\u03c2) and were partners (\u03bc\u03b5\u03c4\u03bf\u03c7\u03bf) as Luke states (Luke 5:7)."
+        ],
+        "John Gill": [
+            "Now as he walked by the sea of Galilee... he saw Simon... and Andrew his brother... casting a net into the sea.\" ",
+            "For they were fishers: by occupation, this was their trade and business, by which they got their livelihood."
+        ],
+        "John Wesley": [
+            "Matthew 4:18; Luke 5:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus walked by the Sea of Galilee, he saw Simon and Andrew, who were fishermen by trade, casting a net into the sea. Mark depicts this scene with vividness by emphasizing the realistic detail of the disciples casting a net on both sides, giving the reader a clear picture of their fishing activity. Furthermore, Luke confirms that these four disciples were partners in their fishing trade. This passage paints a vivid picture of the disciples' occupation and sets the stage for their momentous call to follow Jesus.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5676282503769166,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.47,
+            "commentatorTierSimilarities": [
+                32.13,
+                27.76,
+                40.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While walking by the Sea of Galilee, Jesus observed Simon and Andrew, who were both fishermen by trade, casting a net into the water. Mark's descriptive use of the word casting underscores the disciples' action of throwing the net on both sides, showcasing the realism of the scene. These four disciples, as Luke confirms, were partners in this fishing enterprise. This depiction provides a vivid glimpse into the occupation and livelihood of the disciples before they responded to Jesus' call to follow him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5335807615100654,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+            "commentatorTierSimilarities": [
+                32.66,
+                27.63,
+                39.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, while walking alongside the Sea of Galilee, observed Simon and Andrew, fishermen by trade, casting a net into the water. Mark paints a vivid and realistic picture of their fishing technique, using the word casting to imply the motion of throwing the net on both sides. Luke confirms that these four individuals were not only fishermen but also partners in their trade. This glimpse into their occupation sets the stage for the life-changing moment when they would encounter Jesus and become his disciples.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.5679343145443134,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+            "commentatorTierSimilarities": [
+                32.49,
+                30.27,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, walking by the Sea of Galilee, noticed Simon and Andrew, who were professional fishermen, casting a net into the water. Mark describes their action skillfully, using the term casting to depict the back-and-forth motion they utilized to ensure a thorough catch. Luke reinforces this portrayal, emphasizing their partnership in the fishing trade. This glimpse into their daily occupation serves as a backdrop for the transformative moment when Jesus would call them to become his devoted followers.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.4338267325142549,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.02,
+            "commentatorTierSimilarities": [
+                32.05,
+                27.75,
+                40.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, as he walked by the Sea of Galilee, encountered Simon and Andrew, who were skilled fishermen. Mark's use of the word casting accurately captures the disciples' method of throwing the net on both sides, creating a lifelike image. Additionally, Luke confirms that these four disciples were partners in their fishing trade. The fishermen's occupation provided them with their livelihood, making their eventual call to follow Jesus even more significant.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.4237754970249394,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.68,
+            "commentatorTierSimilarities": [
+                32.19,
+                25.98,
+                41.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

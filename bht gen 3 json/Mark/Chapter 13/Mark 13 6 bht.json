@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:27:27",
+    "verseRef": "Mark 13:6",
+    "bestBHT": {
+        "bht": "Many shall come in my name, saying, I am Christ, and the time draweth nigh. These individuals are not pretending to be mere Messiahs, but imposters claiming to be Jesus himself, returned in glory to establish his kingdom. Jesus advises his genuine disciples to not be deceived by these false claimants who will use his name to deceive many. He warns his followers to not follow after these deceivers, who will mislead people by taking upon themselves the name of the Messiah.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.5000440856685713,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.22,
+        "commentatorTierSimilarities": [
+            41.69,
+            0.0,
+            58.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For many shall come in my name, saying, I am Christ\u2014(see :)\u2014'and the time draweth nigh' ( :)\".",
+            "The reference here seems not to be to pretended Messiahs, deceiving those who rejected the claims of Jesus, of whom indeed there were plenty\u2014for our Lord is addressing His own genuine disciples\u2014but to persons pretending to be Jesus Himself, returned in glory to take possession of His kingdom\".",
+            "Go ye not therefore after them\" ( :)."
+        ],
+        "Marvin Vincent": [
+            "In my name [\u03b5\u03c0\u03b9] . Lit., upon. Basing their claims on the use of my name."
+        ],
+        "John Gill": [
+            "For many shall come in my name, taking upon them the name of the Messiah...",
+            "I am indeed, I am\": he that was promised and expected, the true Messiah...",
+            "And shall deceive many."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many will come in the name of Jesus, proclaiming themselves to be the Christ or claiming that the time of his return is approaching. However, Jesus warns his disciples not to be fooled by these imposters. These individuals are not pretenders to the title of Christ, but rather pretenders to be Jesus himself, returning in glory to establish his kingdom. They will deceive many by misusing his name and making false claims. Therefore, Jesus cautions his followers to not be led astray by these deceivers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.2176660546239289,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.83,
+            "commentatorTierSimilarities": [
+                42.96,
+                0.0,
+                57.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Many will come in my name, saying, I am Christ, and the time draweth nigh, deceiving those who rejected the claims of Jesus. These imposters will pretend to be Jesus himself, returned in glory to take possession of his kingdom. Jesus warns his genuine disciples not to follow after them, emphasizing that these deceivers will use his name as the basis for their false claims. Their deception will lead many astray, so it is important to discern the truth and not be swayed by these imposters.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.3973121920801863,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+            "commentatorTierSimilarities": [
+                47.34,
+                0.0,
+                52.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Many shall come in my name, saying, I am Christ, and the time draweth nigh. These individuals are not pretending to be mere Messiahs, but imposters claiming to be Jesus himself, returned in glory to establish his kingdom. Jesus advises his genuine disciples to not be deceived by these false claimants who will use his name to deceive many. He warns his followers to not follow after these deceivers, who will mislead people by taking upon themselves the name of the Messiah.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5000440856685713,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.22,
+            "commentatorTierSimilarities": [
+                41.69,
+                0.0,
+                58.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many will come in my name, saying, I am Christ, and the time draweth nigh. While there were indeed plenty of pretenders to the title of Christ, Jesus' warning here is directed towards those who will pretend to be Jesus himself, returned in glory to establish his kingdom. These deceivers will misuse his name, claiming to be the long-awaited Messiah. Jesus cautions his disciples not to be led astray by these imposters and emphasizes the importance of not following after them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.4166044884191238,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.44,
+            "commentatorTierSimilarities": [
+                41.95,
+                0.0,
+                58.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Many will come in my name, saying, I am Christ, and the time draweth nigh. These individuals are not pretenders to the title of Christ, but pretenders to be Jesus himself, returned in glory to take possession of his kingdom. They will deceive many by misusing his name. Jesus warns his followers not to be led astray by these imposters, emphasizing the need to discern the truth and not be swayed by their false claims.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.4200043162723386,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.56,
+            "commentatorTierSimilarities": [
+                43.16,
+                0.0,
+                56.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

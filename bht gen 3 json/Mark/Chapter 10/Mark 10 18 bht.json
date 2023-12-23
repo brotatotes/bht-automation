@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:26:02",
+    "verseRef": "Mark 10:18",
+    "bestBHT": {
+        "bht": "This is said not to deny Jesus' goodness or be angry with the young ruler for calling Him good, but to lead him to a true knowledge of Jesus' goodness and deity. Jesus affirms the unity of the divine being by stating that there is none good but God. This challenges the notion of obtaining eternal life through keeping the commandments of the law, emphasizing that following Christ and giving up all for Him is the ultimate test for eternal life.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.6671147195086968,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+        "commentatorTierSimilarities": [
+            21.23,
+            33.18,
+            45.59
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Why callest thou, etc.",
+            "The renderings of the A. V. and Rev. here are correct.",
+            "There is no change of reading as in Matthew, where the text was altered to conform it to Mark and Luke."
+        ],
+        "Philip Schaff": [
+            "Why callest thou me good? Matthew (the correct reading): \u2018Why askest thou me of that which is good?\u2019\" ",
+            "Either \u2018there is none good, but God: Christ is good; therefore Christ is God\u2019 or, \u2018there is none good, but God: Christ is not God: therefore Christ is NOT GOOD\u2019",
+            "Since but one is good, God, then giving up all for Him is the last test, and following Christ (Mark 10:21) is doing that."
+        ],
+        "Archibald T. Robertson": [
+            "The young ruler was probably sincere and not using mere fulsome compliment, but Jesus challenges him to define his attitude towards him as was proper.",
+            "Did he mean 'good' in the absolute sense as applied to God? The language is not a disclaiming of deity on the part of Jesus.",
+            "Matthew 19:16 has 'that I may 'get'."
+        ],
+        "John Gill": [
+            "Why callest thou me good? This is said, not as denying that he was good, or as being angry with him for calling him so, but in order to lead this young man to a true knowledge of him, and his goodness, and even of his proper deity.",
+            "There is none good, but one, [that is], God; some render it, 'but one God', as the Vulgate Latin, Syriac, and Arabic versions; and so the words are a proof of the unity of the divine being.",
+            "This Christ said not as his sense, that the way to eternal life lies in keeping the commandments of the law; but he speaks in the language of the Pharisees, and of this man; and his view is, to bring him to a sense of the impossibility of obtaining eternal life by these things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus challenges the young ruler's declaration of goodness, not in a disclaiming of his own deity, but to lead the man to a true knowledge of Jesus' goodness and his proper deity. By stating that there is no one good but God, Jesus not only affirms the unity of the divine being but also shows that obtaining eternal life through keeping the commandments of the law is impossible. The young ruler must recognize that following Christ and giving up all for Him is the ultimate test which leads to eternal life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.6095751891445436,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                20.59,
+                34.04,
+                45.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus challenges the young ruler's declaration of goodness, not as a disclaiming of his own deity, but to lead the man to a true knowledge of Jesus' goodness and his proper deity. By stating that there is no one good but God, Jesus affirms the unity of the divine being and shows that obtaining eternal life through keeping the commandments of the law is impossible. The young ruler must recognize that following Christ and giving up all for Him is the ultimate test for obtaining eternal life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5812902670652114,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "commentatorTierSimilarities": [
+                20.72,
+                33.24,
+                46.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus challenges the young ruler's declaration of goodness, not as a disclaiming of his own deity, but to lead him to a true knowledge of Jesus' goodness and proper deity. By stating that there is no one good but God, Jesus affirms the unity of the divine being and shows the impossibility of obtaining eternal life through keeping the commandments of the law. The young ruler must recognize that following Christ and giving up all for Him is the ultimate test for eternal life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6092005863514889,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.85,
+            "commentatorTierSimilarities": [
+                21.38,
+                32.79,
+                45.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This is said not to deny Jesus' goodness or be angry with the young ruler for calling Him good, but to lead him to a true knowledge of Jesus' goodness and deity. Jesus affirms the unity of the divine being by stating that there is none good but God. This challenges the notion of obtaining eternal life through keeping the commandments of the law, emphasizing that following Christ and giving up all for Him is the ultimate test for eternal life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.6671147195086968,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+            "commentatorTierSimilarities": [
+                21.23,
+                33.18,
+                45.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus challenges the young ruler's declaration of goodness, not as a disclaiming of his own deity, but to lead the man to a true knowledge of Jesus' goodness and his proper deity. By stating that there is no one good but God, Jesus affirms the unity of the divine being and shows that obtaining eternal life through keeping the commandments of the law is impossible. The young ruler must recognize that following Christ and giving up all for Him is the ultimate test for obtaining eternal life.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.5812902670652114,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "commentatorTierSimilarities": [
+                20.72,
+                33.24,
+                46.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

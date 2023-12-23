@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:20:01",
+    "verseRef": "Mark 1:28",
+    "bestBHT": {
+        "bht": "This account provides a detailed and eyewitness testimony of the events. It distinguishes between the sick individuals and those who were possessed by demons, while noting that the demons were not allowed to speak. Despite the lack of modern communication methods, news of this remarkable teacher spread rapidly through word of mouth, reaching the entire region of Galilee and even extending to the surrounding areas.",
+        "wordCount": 65,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 1.245731829975769,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.76,
+        "commentatorTierSimilarities": [
+            35.31,
+            36.19,
+            28.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words of ver. 33 are added in our text, showing the accurate detail of an eyewitness.",
+            "Observe the distinction between the sick and the demoniacs.",
+            "On the not permitting the demons to speak, see note above, ver. 25."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And immediately his fame spread abroad throughout all the region round about Galilee.",
+            "...the whole region of Galilee...",
+            "...explain it of the country surrounding Galilee."
+        ],
+        "Philip Schaff": [
+            "And the report of him straightway went out everywhere. The correct reading presents most graphically the effect of the miracle.",
+            "Region of Galilee round about. Not the regions adjacent to Galilee, but the adjacent regions of Galilee."
+        ],
+        "Archibald T. Robertson": [
+            "They had no telephones, telegraphs, newspapers or radio, but news has a marvellous way of spreading by word of mouth.",
+            "The fame of this new teacher went out 'everywhere' throughout all Galilee.",
+            "The report of him... They had no telephones, telegraphs, newspapers or radio."
+        ],
+        "John Gill": [
+            "And immediately his fame spread abroad.\" ",
+            "Not only in the city of Capernaum, where these things were done, and where his fame was first spread.",
+            "But also throughout all the region round about Galilee: and not only throughout Galilee, but throughout all the country that was bordering upon it, and adjacent to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The accurate detail in this verse highlights the eyewitness account of the events. It is important to note the distinction between the sick and the demoniacs, as the demons were not allowed to speak. Despite the absence of modern communication methods, news of this new teacher spread rapidly through word of mouth, reaching the entire region of Galilee. The effects of the miracle were so impactful that his fame extended not only throughout Galilee but also to the adjacent regions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5164040011525173,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.76,
+            "commentatorTierSimilarities": [
+                30.41,
+                39.83,
+                29.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The accurate detail in this account emphasizes the eyewitness testimony of the events that took place. It is crucial to observe the distinction between the sick individuals and those who were possessed by demons. The demons were not allowed to speak, as noted previously. Despite the absence of modern means of communication, news of this remarkable teacher spread rapidly by word of mouth throughout the entire region of Galilee, even extending to the surrounding areas.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.214829610556194,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.74,
+            "commentatorTierSimilarities": [
+                42.51,
+                33.93,
+                23.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This verse presents an accurate and eyewitness account, highlighted by the specific details mentioned. A distinction is made between those who were sick and those who were demon-possessed. The demons were not permitted to speak, as mentioned earlier in the text. Although there were no modern means of communication, the news of this extraordinary teacher quickly spread throughout the region of Galilee by word of mouth. This report of him extended not only throughout Galilee but also to the adjacent areas.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.3583449349331636,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
+            "commentatorTierSimilarities": [
+                33.46,
+                39.29,
+                27.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This account provides a detailed and eyewitness testimony of the events. It distinguishes between the sick individuals and those who were possessed by demons, while noting that the demons were not allowed to speak. Despite the lack of modern communication methods, news of this remarkable teacher spread rapidly through word of mouth, reaching the entire region of Galilee and even extending to the surrounding areas.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.245731829975769,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.76,
+            "commentatorTierSimilarities": [
+                35.31,
+                36.19,
+                28.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse gives an accurate and eyewitness account, emphasizing specific details. It distinguishes between the sick and those possessed by demons, with the latter not being permitted to speak. Despite the absence of modern communication, news of this extraordinary teacher spread rapidly by word of mouth throughout Galilee and even the surrounding regions.",
+            "wordCount": 53,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.2962090701281381,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.44,
+            "commentatorTierSimilarities": [
+                37.53,
+                34.28,
+                28.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

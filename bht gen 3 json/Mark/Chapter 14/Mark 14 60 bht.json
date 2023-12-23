@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:28:58",
+    "verseRef": "Mark 14:60",
+    "bestBHT": {
+        "bht": "Their failure to provide convincing evidence left the accusers frustrated and seeking a response from the accused. In their attempt to make up for their lack of proof, they resorted to bluster and intimidation. The rapid succession of denials reflected the mounting desperation and tension in the situation. As the accused remained silent, refusing to engage with the witnesses, the truth of the accusations remained uncertain.",
+        "wordCount": 66,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 1.2041518785901637,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.38,
+        "commentatorTierSimilarities": [
+            43.37,
+            24.04,
+            32.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "60.] On the most probable punctuation and construction, see note on Matthew, ver. 62."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Answerest thou nothing?",
+            "Clearly, they felt that their case had failed.",
+            "But in this, too, they failed."
+        ],
+        "Philip Schaff": [
+            "Mark 14:60. The maid. Probably the same one, but possibly the porteress. On the cause of this second denial, which so soon followed the first, see on Matthew.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "For greater solemnity he arose to make up by bluster the lack of evidence."
+        ],
+        "John Gill": [
+            "For he had made no reply to the several witnesses, that came against him.",
+            "Is it true, or false?",
+            "Misn. Sanhedrin, c. 4. sect. 3. Maimon. Hiltch. Sanhedrin, c. 1. sect. 3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene in Mark 14:60 portrays the frustration of the accusers as they tried to get a response from the accused. Their case had failed, as they had no solid evidence against him. In an attempt to compensate for their lack of evidence, they resorted to blustering and intimidation. This second denial, coming so soon after the first, reflects the growing tension and desperation in their pursuit. The question of whether the accusations were true or false hung in the air, but the accused remained silent, refusing to engage with the witnesses against him.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3093781534523714,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.88,
+            "commentatorTierSimilarities": [
+                39.9,
+                31.07,
+                29.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The failure of the accusers is evident in their frustration as they received no response from the accused, despite their attempts to gather evidence. The lack of solid proof led them to resort to bluster and intimidation to make up for their shortcomings. The rapid succession of denials further emphasizes the mounting tension and desperation of the situation. The accused's refusal to engage with the witnesses raises the question of the validity of the accusations. Their silence speaks volumes, leaving the truth hanging in the balance.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.1651432303664513,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.08,
+            "commentatorTierSimilarities": [
+                43.83,
+                22.68,
+                33.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the confrontation depicted in the passage, the accusers' failure became apparent as they received no response from the accused. Their case had clearly fallen short, leading them to resort to bluster and intimidation instead. The swift succession of denials underscored the escalating tension and desperation. The accused's silence in the face of the witnesses' statements raised doubts about the veracity of the accusations. This silence carried a weighty significance, leaving the truth of the matter uncertain.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.1821149083256448,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.65,
+            "commentatorTierSimilarities": [
+                39.6,
+                26.34,
+                34.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the accusers pressed the accused for a reply, their failure to present solid evidence became apparent. In their frustration, they resorted to bluster and intimidation, attempting to compensate for their shortcomings. The swift succession of denials highlighted the growing tension and desperation. The accused's silence in the face of the witnesses' statements left the truth of the accusations hanging in the balance.",
+            "wordCount": 64,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.1444734284987752,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.4,
+            "commentatorTierSimilarities": [
+                41.58,
+                23.64,
+                34.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their failure to provide convincing evidence left the accusers frustrated and seeking a response from the accused. In their attempt to make up for their lack of proof, they resorted to bluster and intimidation. The rapid succession of denials reflected the mounting desperation and tension in the situation. As the accused remained silent, refusing to engage with the witnesses, the truth of the accusations remained uncertain.",
+            "wordCount": 66,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.2041518785901637,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.38,
+            "commentatorTierSimilarities": [
+                43.37,
+                24.04,
+                32.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

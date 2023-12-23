@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:22:03",
+    "verseRef": "Mark 4:2",
+    "bestBHT": {
+        "bht": "In His doctrine, Jesus taught the people many things in parables, selecting one parable from His extensive teaching. Known as the Parable of the Sower, it addresses the sower, the seed, and the soil. Jesus used parables to convey new truths rather than mere exhortations, making His teachings authoritative and doctrinal. Through this method, He aimed to bring His doctrine of God's grace to the Israelites who eagerly sought after it, explaining and illustrating spiritual truths through relatable natural examples.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 2.0883319538655543,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.78,
+        "commentatorTierSimilarities": [
+            36.01,
+            31.17,
+            32.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] Out from among the many things, the great mass of His teaching, one parable is selected, which he spoke during it\u2014In his doctrine."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. And he taught them many things by",
+            "\tparables, and said unto them in his doctrine\u2014or \"teaching.",
+            "\t",
+            "Parable of the Sower",
+            "\t(Mark 4:3-9; Mark 4:13-20).",
+            "\t",
+            "Mark 4:3;",
+            "\tMark 4:14. THE",
+            "\tSOWER, THE SEED,",
+            "\tAND THE SOIL."
+        ],
+        "Philip Schaff": [
+            "The reference is to His habit of teaching.",
+            "Christ\u2019s teaching was authoritative, and in this as in most cases, doctrinal.",
+            "He presents new truth here, not mere exhortation."
+        ],
+        "Archibald T. Robertson": [
+            "He taught them (\u03b5\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2). Imperfect tense describing it as going on.",
+            "In parables (\u03b5\u03bd \u03c0\u03b1\u03c1\u03b1\u03b2\u03bf\u03bb\u03b1\u03b9\u03c2). As in Mark 3:23, only here more extended parables.",
+            "Manifestly, therefore, Jesus spoke many parables on this day and all theories of exegesis or dispensations on the basis of the number of these kingdom parables are quite beside the mark."
+        ],
+        "John Gill": [
+            "And he taught them many things by parables...and said unto them in his doctrine.\" ",
+            "But it appears from hence, and many other places, that the Israelites both stood in need of his doctrine, and sought after it; and very excellent it was; the doctrine of God, and of the grace of God.",
+            "The doctrine...which, if ministers bring not with them, should not be bid God speed."
+        ],
+        "John Wesley": [
+            "He taught them many things by parables \u2014 After the usual manner of the eastern nations, to make his instructions more agreeable to them, and to impress them the more upon attentive hearers.",
+            "A parable signifies not only a simile or comparison, and sometimes a proverb, but any kind of instructive speech, wherein spiritual things are explained and illustrated by natural.",
+            "To understand a proverb and the interpretation \u2014 The proverb is the literal sense, the interpretation is the spiritual resting in the literal sense killeth, but the spiritual giveth life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In His doctrine, Jesus taught the people many things in parables, selecting one particular parable from His extensive teaching. This parable, known as the Parable of the Sower, addresses the sower, the seed, and the soil. This was a regular part of His teaching, characterized by its authoritative and doctrinal nature, bringing forth new truths rather than mere exhortations. Jesus used parables to make His instructions more relatable and impactful, as they served to explain and illustrate spiritual truths through natural examples. Through this method, Jesus aimed to bring His doctrine of God's grace to the Israelites who eagerly sought after it.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.9676283216048844,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                35.87,
+                31.04,
+                33.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In His doctrine, Jesus taught the people many things in parables, selecting one particular parable from His extensive teaching. This parable, known as the Parable of the Sower, addresses the sower, the seed, and the soil. This was a regular part of His teaching, characterized by its authoritative and doctrinal nature, bringing forth new truths rather than mere exhortations. Jesus used parables to make His instructions more relatable and impactful, explaining and illustrating spiritual truths through natural examples, aiming to bring His doctrine of God's grace to eager Israelites.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.087400175092422,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                35.74,
+                31.75,
+                32.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In His doctrine, Jesus taught the people many things in parables, selecting one particular parable from His extensive teaching. This parable, known as the Parable of the Sower, addresses the sower, the seed, and the soil. Jesus used parables to make His instructions more relatable and impactful, explaining and illustrating spiritual truths through natural examples. His teaching was authoritative and doctrinal, presenting new truth instead of mere exhortation. Through this method, Jesus aimed to bring His doctrine of God's grace to the eager Israelites.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 2.0316732495344296,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                34.63,
+                33.89,
+                31.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In His doctrine, Jesus taught the people many things in parables, selecting one parable from His extensive teaching. Known as the Parable of the Sower, it addresses the sower, the seed, and the soil. Jesus used parables to convey new truths rather than mere exhortations, making His teachings authoritative and doctrinal. Through this method, He aimed to bring His doctrine of God's grace to the Israelites who eagerly sought after it, explaining and illustrating spiritual truths through relatable natural examples.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.0883319538655543,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.78,
+            "commentatorTierSimilarities": [
+                36.01,
+                31.17,
+                32.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In His doctrine, Jesus taught the people many things in parables, selecting one parable from His extensive teaching. Known as the Parable of the Sower, it addresses the sower, the seed, and the soil. Jesus used parables to explain and illustrate spiritual truths through relatable natural examples. His teaching was authoritative and doctrinal, presenting new truth instead of mere exhortation. Through this method, Jesus aimed to bring His doctrine of God's grace to the eager Israelites who sought after it.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.0027333209025633,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+            "commentatorTierSimilarities": [
+                34.59,
+                34.26,
+                31.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

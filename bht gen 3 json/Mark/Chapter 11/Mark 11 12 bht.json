@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:26:46",
+    "verseRef": "Mark 11:12",
+    "bestBHT": {
+        "bht": "How Jesus spent the previous night remains uncertain, but what is clear is that He was genuinely hungry when He sought fruit on the fig tree, not merely using the scene as a teaching tool. This event occurred early on the following morning, Monday, after the Triumphal Entry that took place on Sunday. The desire of the religious leaders to seize Jesus and their increased fear of the people may have been influenced by this incident, but ultimately their conscience made them cowards.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.4655064151303525,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.07,
+        "commentatorTierSimilarities": [
+            39.18,
+            42.93,
+            17.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How was that? Had he stolen forth from that dear roof at Bethany to the 'mountain to pray, and continued all night in prayer to God?' (Luke 6:12); or, 'in the morning,' as on a former occasion, 'risen up a great while before day, and departed into a solitary place, and there prayed' (Mark 1:35); not breaking His fast thereafter, but bending His steps straight for the city, that He might 'work the works of Him that sent Him while it was day?' (John 9:4).\" ",
+            "We know not, though one lingers upon and loves to trace out the every movement of that life of wonders.",
+            "One thing, however we are sure of\u2014it was real bodily hunger which He now sought to allay by the fruit of this fig tree, 'if haply He might find any thing thereon'; not a mere scene for the purpose of teaching a lesson, as some early heretics maintained, and some still seem virtually to hold."
+        ],
+        "Philip Schaff": [
+            "Mark shows that it was a continued effort (literally \u2018they were seeking\u2019); while Luke tells that they would have done so on the spot, had they not been afraid of the people.",
+            "Their desire to seize Him was increased by this parable, but their fear of the people was also increased, since they (i.e., the rulers) perceived that he spake the parable against them, and in the presence of the people (Luke 20:9), so that they felt themselves convicted before the people.",
+            "Conscience made them cowards."
+        ],
+        "Archibald T. Robertson": [
+            "On the morrow (\u03c4\u03b7 \u03b5\u03c0\u03b1\u03c5\u03c1\u03b9\u03bf\u03bd). Matthew 21:18 has 'early' (\u03c0\u03c1\u03c9), often of the fourth watch before six A.M. This was Monday morning.",
+            "The Triumphal Entry had taken place on our Sunday, the first day of the week."
+        ],
+        "John Gill": [
+            "The next day early in the morning...",
+            "When he came out of Bethany...",
+            "He was hungry."
+        ],
+        "John Wesley": [
+            "Matthew 21:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 11:12, it is unclear whether Jesus had spent the previous night in prayer, departing early in the morning to work in the city, or whether He had risen before daybreak to a solitary place to pray. Nonetheless, we do know that Jesus was genuinely hungry when He sought fruit on the fig tree, not merely using the scene as a teaching tool. This event occurred early on the following morning, Monday, after the Triumphal Entry that took place on Sunday. While some may argue that the desire of the religious leaders to seize Jesus and their fear of the people increased as a result of this incident, it is evident that their conscience made them cowards. Ultimately, examining Matthew 21:18 sheds more light on this narrative.",
+            "wordCount": 126,
+            "quoteTokenProportion": 35.63,
+            "qualityScore": 1.430672869226983,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.91,
+            "commentatorTierSimilarities": [
+                39.48,
+                36.28,
+                24.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How Jesus spent the previous night remains uncertain, but what is clear is that He was genuinely hungry when He sought fruit on the fig tree, not merely using the scene as a teaching tool. This event occurred early on the following morning, Monday, after the Triumphal Entry that took place on Sunday. The desire of the religious leaders to seize Jesus and their increased fear of the people may have been influenced by this incident, but ultimately their conscience made them cowards.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.4655064151303525,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.07,
+            "commentatorTierSimilarities": [
+                39.18,
+                42.93,
+                17.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The events leading up to Mark 11:12 are shrouded in uncertainty, leaving us to wonder whether Jesus had spent the night in prayer or rose early to find solitude. Either way, it is certain that He was truly hungry when He sought fruit on the fig tree. This took place on Monday morning, following the Triumphal Entry on Sunday. The religious leaders grew more determined to seize Jesus and yet more afraid of the people, as their conscience rendered them cowards.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3633873189294226,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+            "commentatorTierSimilarities": [
+                39.78,
+                38.85,
+                21.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As we reflect on the events leading up to this particular moment, questions arise about how Jesus spent his time, whether it was a night of prayer or rising early to seek solitude. Nevertheless, what is evident is that Jesus experienced genuine hunger as he sought fruit on the fig tree, not solely for the purpose of teaching a lesson. This incident occurred early on Monday morning, following the Triumphal Entry on Sunday. The religious leaders grew more determined to apprehend Jesus while becoming increasingly fearful of the people, their conscience driving them to cowardice.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.4101546854120897,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.23,
+            "commentatorTierSimilarities": [
+                39.66,
+                40.85,
+                19.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The details surrounding the events preceding this moment are uncertain, leaving us to ponder whether Jesus had spent the night in prayer or rose early for solitude. However, it is clear that Jesus experienced genuine hunger as he sought fruit on the fig tree, rather than using the scene solely as a teaching tool. This incident took place on Monday morning, following the Triumphal Entry on Sunday. The religious leaders grew more determined to seize Jesus while their increasing fear of the people was intensified by their guilty conscience.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.3716276085978172,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.95,
+            "commentatorTierSimilarities": [
+                40.14,
+                42.2,
+                17.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

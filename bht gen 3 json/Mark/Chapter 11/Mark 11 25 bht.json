@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:27:09",
+    "verseRef": "Mark 11:25",
+    "bestBHT": {
+        "bht": "When you stand praying, forgive if you have any grievances against others, so that your Father in heaven may forgive you your trespasses. This quote from the Sermon on the Mount reminds us that forgiveness is integral to our prayers. It is not sufficient to ask for great things and expect them to be granted if we hold resentment towards others. God's forgiveness is contingent upon our willingness to forgive, and this sobering thought should guide all who approach Him in prayer.",
+        "wordCount": 83,
+        "quoteTokenProportion": 51.56,
+        "qualityScore": 1.7095764990399536,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+        "commentatorTierSimilarities": [
+            30.87,
+            32.15,
+            36.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] On the matter, compare Matt. vi. 14 f. See also Matt. v. 23 f., where the converse to this is treated of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And when ye stand praying, forgive, if ye have aught against any; that your Father also which is in heaven may forgive you your trespasses.\" ",
+            "This is repeated from the Sermon on the Mount to remind them that if this was necessary to the acceptableness of all prayer, much more when great things were to be asked and confidently expected.",
+            "THE AUTHORITY OF JESUS QUESTIONED\u2014HIS REPLY."
+        ],
+        "Marvin Vincent": [
+            "Trespasses. See on Matthew 6:14"
+        ],
+        "Philip Schaff": [
+            "A forgiving temper is necessary for them in working miracles, as well as faith and believing prayer; their faith and the power it wields should never be used in the service of hate.",
+            "A caution against passing judicial condemnation on the evil and unfruitful, as He had just done, even though their faith should be strong enough, to effect like results.",
+            "The best authorities omit Mark 11:26."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus does not mean by the use of 'stand' here to teach that this is the only proper attitude in prayer.",
+            "Evidently God's willingness to forgive is limited by our willingness to forgive others.",
+            "This is a solemn thought for all who pray."
+        ],
+        "John Gill": [
+            "but instead of complaining of it before God, and calling upon him to avenge his cause, he should immediately in his heart, and from his heart, forgive him.\" ",
+            "and such an one may expect forgiveness of God, and a manifestation of it to his soul; which is one the things he is constantly praying for, as his daily case makes it necessary",
+            "this points at a temper and disposition of mind well pleasing to God, and describes persons who may expect this favour from him"
+        ],
+        "John Wesley": [
+            "Standing was their usual posture when they prayed.",
+            "And on this condition, ye shall have whatever you ask, without wrath or doubting.",
+            "Matthew 6:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When you stand praying, forgive if you have any grievances against others, so that your Father in heaven may forgive you your trespasses. This quote from the Sermon on the Mount is a reminder that forgiveness is a necessary aspect of prayer. It is not enough to simply ask for great things and expect them to be granted if we harbor resentment towards others. God's willingness to forgive us is dependent on our willingness to forgive others, and this is a solemn thought for all who pray. It is a reminder that a forgiving temper is necessary not only in working miracles, but in all aspects of our faith.",
+            "wordCount": 110,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 1.731284479418782,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.91,
+            "commentatorTierSimilarities": [
+                29.12,
+                36.6,
+                34.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When you stand praying, forgive if you have any grievances against others, so that your Father in heaven may forgive you your trespasses. This quote from the Sermon on the Mount emphasizes the importance of forgiveness in our prayers. It reminds us that our willingness to forgive others is directly linked to God's willingness to forgive us. This serves as a sobering reminder for all who pray, urging us to maintain a forgiving temper not only in our pursuit of great things but in all aspects of our faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7484776887277205,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.48,
+            "commentatorTierSimilarities": [
+                31.01,
+                34.45,
+                34.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When you stand praying, forgive if you have any grievances against others, so that your Father in heaven may forgive you your trespasses. This quote from the Sermon on the Mount reminds us that forgiveness is integral to our prayers. It is not sufficient to ask for great things and expect them to be granted if we hold resentment towards others. God's forgiveness is contingent upon our willingness to forgive, and this sobering thought should guide all who approach Him in prayer.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.7095764990399536,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                30.87,
+                32.15,
+                36.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When you stand praying, forgive if you have any grievances against others, so that your Father in heaven may forgive you your trespasses. This quote highlights the significance of forgiveness in prayer. It teaches us that our ability to receive forgiveness from God is tied to our willingness to forgive others. It is a reminder that a forgiving spirit is necessary not only in seeking miracles, but in all aspects of our faith. This verse serves as a solemn reminder for anyone who engages in the act of prayer.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.7491137916546697,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                32.51,
+                34.5,
+                32.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Prayer requires forgiveness. When you stand praying, forgive, if you have aught against any; that your Father also which is in heaven may forgive you your trespasses. It is not enough to ask for great things and expect them to be granted if we hold grudges against others. This verse reminds us that our willingness to forgive others affects God's willingness to forgive us. Therefore, a forgiving spirit is crucial not only when seeking miracles, but in all aspects of our faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.6893152753438478,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                30.29,
+                35.52,
+                34.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

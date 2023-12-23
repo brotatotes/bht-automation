@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:26:09",
+    "verseRef": "Mark 10:28",
+    "bestBHT": {
+        "bht": "Peter reminded Jesus of what the disciples had left behind to follow Him, highlighting their obedience to the ideal of forsaking worldly possessions. This instance is reported without indicating Peter's involvement. The promise to the apostles is alluded to, emphasizing the contrast between the disciples' sacrifice and the rich young ruler's reluctance. Just as the young man was promised treasure in heaven if he sold all and gave to the poor, the disciples had given up everything to follow Christ.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.6132631467720167,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+        "commentatorTierSimilarities": [
+            45.72,
+            31.3,
+            22.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Here is an instance of a saying of Peter\u2019s reported, without any distinction indicating that he had a share in the report.",
+            "See notes on Matthew, for the promise here made to the Apostles."
+        ],
+        "Philip Schaff": [
+            "Peter began to say. Probably under the influence of the astonishment just mentioned.",
+            "On the promise to the Apostles, see Matthew 19:28.",
+            "Mark\u2019s account presents a few peculiar features."
+        ],
+        "Archibald T. Robertson": [
+            "It was hard for Peter to hold in till now.",
+            "Peter reminds Jesus of what they had left to follow him.",
+            "It was to claim obedience to this high ideal on their part in contrast with the conduct of the rich young ruler."
+        ],
+        "John Gill": [
+            "Christ promised treasure in heaven to the young man, provided he sold all that he had, and gave it to the poor.\" ",
+            "That same power, which had caused them to quit all their worldly substance for Christ, though it was but small, could also work a like effect upon the heart of a man ever so rich.\" ",
+            "Lo! we have left all, and have followed thee."
+        ],
+        "John Wesley": [
+            "Lo, we have left all \u2014 Though the young man would not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter reminded Jesus of what the disciples had left behind to follow Him, emphasizing their obedience to the high ideal of forsaking worldly possessions. This instance of Peter's saying is reported without any indication of his personal involvement. The promise to the apostles, mentioned in Matthew, is alluded to here as well. The disciples' sacrifice of their worldly possessions stood in stark contrast to the rich young ruler's unwillingness to do the same. Just as the young man was promised treasure in heaven if he sold all he had and gave to the poor, the disciples had given up everything to follow Christ.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.6294491084084628,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                42.59,
+                32.91,
+                24.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter reminded Jesus of what the disciples had left behind to follow Him, highlighting their obedience to the ideal of forsaking worldly possessions. This instance is reported without indicating Peter's involvement. The promise to the apostles is alluded to, emphasizing the contrast between the disciples' sacrifice and the rich young ruler's reluctance. Just as the young man was promised treasure in heaven if he sold all and gave to the poor, the disciples had given up everything to follow Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6132631467720167,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+            "commentatorTierSimilarities": [
+                45.72,
+                31.3,
+                22.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter reminded Jesus of the disciples' sacrifice in leaving everything behind to follow Him, showcasing their obedience to the ideal of forsaking worldly possessions. This instance is reported without indicating Peter's involvement. The promise to the apostles is alluded to, underlining the contrast between their commitment and the rich young ruler's reluctance. Like the young man, the disciples were promised treasure in heaven as a reward for their abandonment of worldly goods to serve Christ.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.5180408297949133,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+            "commentatorTierSimilarities": [
+                46.98,
+                33.49,
+                19.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter highlighted the disciples' sacrifice in forsaking their worldly possessions to follow Jesus, reminding Him of what they had left behind. This instance is reported without specifying Peter's role. The promise made to the apostles is referenced, emphasizing the distinction between their obedience and the reluctance of the rich young ruler. The rich young ruler was promised heavenly treasure if he sold all he had and gave to the poor, and the disciples, who had left everything, were also promised treasure in heaven.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5833039843263976,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                44.07,
+                32.46,
+                23.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter reminded Jesus of the disciples' sacrifice in forsaking their worldly possessions to follow Him, emphasizing their obedience in contrast to the rich young ruler's conduct. Just as the rich young ruler was promised treasure in heaven if he sold all he had and gave it to the poor, the disciples had likewise given up everything to follow Jesus. Their commitment to this high ideal was evident, and they sought to claim its obedience as they reminded Jesus of what they had left behind.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.4566175219543547,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.78,
+            "commentatorTierSimilarities": [
+                45.99,
+                23.32,
+                30.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-22-2023 23:28:02",
+    "verseRef": "Mark 12:43",
+    "bestBHT": {
+        "bht": "This account showcases a poor widow who gave all she had, which in God's reckoning was more significant than the contributions of the rich. Her self-denial and sincerity in giving demonstrated her deep love and dedication to the sacred cause. God values offerings not by their apparent worth, but by the true feeling of our hearts. It is the small sacrifices made in faith and love that are truly esteemed by God. Let us be inspired by this widow's example and offer ourselves in self-denial, for that is the ultimate sacrifice required by God.",
+        "wordCount": 98,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.7015062384881623,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+        "commentatorTierSimilarities": [
+            28.58,
+            32.1,
+            39.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "43.] more, in God\u2019s reckoning; more, for her own stewardship of the goods entrusted to her care."
+        ],
+        "Albert Barnes": [
+            "More in proportion to her means, and therefore more that was acceptable to God.",
+            "It showed more love to the sacred cause, more self-denial, and, of course, more sincerity in what she did.",
+            "This is the rule by which God will reward us."
+        ],
+        "Marvin Vincent": [
+            "This poor widow [\u03b7 \u03c7\u03b7\u03c1\u03b1 \u03b1\u03c5\u03c4\u03b7 \u03b7 \u03c0\u03c4\u03c9\u03c7\u03b7] . The Greek order is very suggestive, forming a kind of climax : this widow, the poor one, or and she poor. "
+        ],
+        "John Calvin": [
+            "Whatever men offer to God ought to be estimated not by its apparent value, but only by the feeling of the heart.",
+            "The holy affection of him who...offers to God the little that he has, is more worthy of esteem than that of him who offers a hundred times more out of his abundance.",
+            "The chief sacrifice which God requires from us is self-denial."
+        ],
+        "Philip Schaff": [
+            "And he called unto him. Peculiar to Mark. Our Lord directed their special attention to this act of the widow.",
+            "More than all they that are casting into the treasury. Not more than a specific number, but than the many who had given and were still giving.",
+            "The reason follows."
+        ],
+        "Archibald T. Robertson": [
+            "More than all the rich put together.",
+            "All that she had.",
+            "It is a tragedy to see a stingy saint pose as giving the widow's mite when he could give thousands instead of pennies."
+        ],
+        "John Gill": [
+            "That this poor widow... hath cast more in, than all they which have cast into the treasury.",
+            "Hers, though very small in itself, and might be contemptible to others, yet it was more in the account of God and Christ, and more highly valued and esteemed of by them.",
+            "What she gave, she gave in faith, and from a principle of love, and with a view to the glory of God; when theirs was given only in hypocrisy, to make an outward show, and to be seen of men."
+        ],
+        "John Wesley": [
+            "See what judgement is cast on the most specious, outward actions by the Judge of all!",
+            "And how acceptable to him is the smallest, which springs from self-denying love!",
+            "...the smallest, which springs from self-denying love!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 12:43, a poor widow gave all she had to God's treasury, which in God's reckoning was more significant than all the contributions of the rich put together. Her self-denial and sincerity in giving showed her deep love and dedication to the sacred cause. It is a stark reminder to us that the value of our offerings to God is not measured by their apparent worth but by the true feeling of our hearts. While others may give out of abundance, it is the small sacrifices made in faith and love that are truly esteemed by God. Let us learn from this widow's example and offer ourselves in self-denial, for that is the chief sacrifice required by God.",
+            "wordCount": 123,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7506269047590384,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.55,
+            "commentatorTierSimilarities": [
+                29.31,
+                33.0,
+                37.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, a poor widow gave all she had, which in the reckoning of God was more significant than all the contributions of the rich put together. Her self-denial and sincerity in giving showed her deep love and dedication to the sacred cause. The value of our offerings to God is not measured by their apparent worth but by the true feeling of our hearts. It is the small sacrifices made in faith and love that are truly esteemed by God. Let us learn from this widow's example and offer ourselves in self-denial, for that is the chief sacrifice required by God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.7094945878151662,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                28.25,
+                32.8,
+                38.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, a poor widow gave all she had, which in God's reckoning was more significant than the contributions of the rich. Her self-denial and sincerity in giving showed her deep love and dedication. The value of our offerings to God should not be measured by apparent worth but by the feeling of our hearts. The smallest sacrifices made in faith and love are esteemed by God. Let us learn from this widow's example and offer ourselves in self-denial, for that is the sacrifice required by God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.6487747205384808,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                28.38,
+                30.85,
+                40.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This account showcases a poor widow who gave all she had, which in God's reckoning was more significant than the contributions of the rich. Her self-denial and sincerity in giving demonstrated her deep love and dedication to the sacred cause. God values offerings not by their apparent worth, but by the true feeling of our hearts. It is the small sacrifices made in faith and love that are truly esteemed by God. Let us be inspired by this widow's example and offer ourselves in self-denial, for that is the ultimate sacrifice required by God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7015062384881623,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+            "commentatorTierSimilarities": [
+                28.58,
+                32.1,
+                39.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Mark 12:43, a poor widow gave all she had, which in God's reckoning was more significant than the contributions of the rich. Her self-denial and sincerity in giving demonstrated her deep love and dedication to the sacred cause. The value of our offerings to God should not be measured by their apparent worth, but by the true feeling of our hearts. It is the small sacrifices made in faith and love that are truly esteemed by God. Let us follow the widow's example and offer ourselves in self-denial, for that is the ultimate sacrifice required by God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.6907362287250711,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.56,
+            "commentatorTierSimilarities": [
+                28.41,
+                32.27,
+                39.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

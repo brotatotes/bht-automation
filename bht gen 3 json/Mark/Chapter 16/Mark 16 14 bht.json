@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-22-2023 23:30:26",
+    "verseRef": "Mark 16:14",
+    "bestBHT": {
+        "bht": "The disciples' doubt in the resurrection of Jesus is not a sign of intellectual superiority but rather a struggle between skepticism and belief. It is worth mentioning that even some prominent scientists today are devout believers in the risen Christ. The disciples' disbelief was not due to deception but rather an unwillingness to accept the miraculous truth. Jesus reproached them for their hardened hearts, as their obstinate unbelief deliberately suppressed the evident truth. Ultimately, they could no longer deny the overwhelming evidence of Jesus' resurrection.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.8219665407175527,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+        "commentatorTierSimilarities": [
+            30.16,
+            40.69,
+            29.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The following narrative, evidently intended by its author to represent what took place at one and the same time...",
+            "...joins together in one at least four appearances of the Lord...",
+            "The latter part of this ver. 14 appears to be an epitome of what our Lord said to them on several occasions..."
+        ],
+        "Albert Barnes": [
+            "This shows conclusively that they had not conspired to impose on the world... It may be added that it was impossible that eleven men of good natural understanding should have been deceived in so plain a case.\" ",
+            "Never were people more difficult to be convinced of anything than they were of that fact.",
+            "They were not convinced until it was impossible for them longer to deny it."
+        ],
+        "Marvin Vincent": [
+            "Afterward [\u03c5\u03c3\u03c4\u03b5\u03c1\u03bf\u03bd] . Not found elsewhere in Mark Often in Matthew."
+        ],
+        "John Calvin": [
+            "The participle (\u1f00\u03bd\u03b1\u03ba\u03b5\u03b9\u03bc\u1f73\u03bd\u03bf\u03b9\u03c2) which some have rendered sitting at table, ought, in my opinion, to be simply rendered sitting.",
+            "This reproof corresponds more to the first appearance than to the second; for since, the disciples, as John tells us, (John 20:20) were glad when they had seen the Lord on the day after the Passover, their unbelief was then rebuked.",
+            "Justly, therefore, are they reproached with hardness of heart, because, in addition to their slowness, there was wicked obstinacy; as if they had intentionally desired to suppress what was evidently true."
+        ],
+        "Philip Schaff": [
+            "This 'unbelief' was in the fact of His resurrection.",
+            "They seem to have remained that day in an intellectual and moral stupor.",
+            "The specific reproach was that in the face of sufficient evidence they doubted a glorious fact, which He, whom they loved, had predicted again and again."
+        ],
+        "Archibald T. Robertson": [
+            "Doubt is not necessarily a mark of intellectual superiority.",
+            "One must steer between credulity and doubt.",
+            "Some of the highest men of science today are devout believers in the Risen Christ."
+        ],
+        "John Gill": [
+            "and upbraided them with their unbelief, and hardness of heart",
+            "their unbelief increased by their fears",
+            "they believed not them which had seen him after he was risen"
+        ],
+        "John Wesley": [
+            "Luke 24:36; John 20:19."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The account in this verse seems to combine multiple appearances of Jesus into one, as represented by the author. The disciples, however, struggled with doubt despite Jesus appearing to them repeatedly. It is important to note that doubt is not a sign of superior intellect and one must avoid both extreme skepticism and blind acceptance. In fact, many prominent scientists today are devout believers in the resurrected Christ. The disciples' disbelief was not due to deception or ignorance, but rather because they were hesitant to accept the miraculous reality of Jesus' resurrection. Their unbelief stemmed from a combination of intellectual and moral stagnation. Jesus rebuked them for their hardness of heart, as their unbelief was marked by obstinacy and a deliberate suppression of the evident truth. Ultimately, their doubts were overcome only when they could no longer deny the overwhelming evidence.",
+            "wordCount": 141,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.6903698201187254,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+            "commentatorTierSimilarities": [
+                31.18,
+                40.76,
+                28.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples' doubt in the resurrection of Jesus is not a sign of intellectual superiority but rather a struggle between skepticism and belief. It is worth mentioning that even some prominent scientists today are devout believers in the risen Christ. The disciples' disbelief was not due to deception but rather an unwillingness to accept the miraculous truth. Jesus reproached them for their hardened hearts, as their obstinate unbelief deliberately suppressed the evident truth. Ultimately, they could no longer deny the overwhelming evidence of Jesus' resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.8219665407175527,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                30.16,
+                40.69,
+                29.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' doubt regarding the resurrection of Jesus was not a result of deception or intellectual deficiency. Their struggle between skepticism and belief demonstrates the need to strike a balance between credulity and doubt. It is noteworthy that renowned scientists today are devout followers of the risen Christ. Jesus reproached the disciples for their hardened hearts and obstinate unbelief, which deliberately suppressed the undeniable truth. Over time, they were confronted with overwhelming evidence that compelled them to finally accept the reality of Jesus' resurrection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7051935501503293,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.04,
+            "commentatorTierSimilarities": [
+                30.85,
+                39.11,
+                30.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' doubts about the resurrection of Jesus were not indicative of their intellectual superiority. One must navigate between extreme skepticism and blind acceptance. Interestingly, many prominent scientists are devout believers in the risen Christ. Jesus reproached the disciples for their hardened hearts and obstinate unbelief, as they deliberately suppressed the overwhelming evidence at hand. Over time, they were confronted with such compelling proof that they could no longer deny the reality of Jesus' resurrection.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7360044072969956,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+            "commentatorTierSimilarities": [
+                30.41,
+                40.41,
+                29.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' doubt concerning Jesus' resurrection was not a sign of intellectual superiority. It is important to avoid the extremes of blind acceptance and extreme skepticism. Notably, there are distinguished scientists today who firmly believe in the risen Christ. Jesus reprimanded the disciples for their hardened hearts and stubborn unbelief, as they intentionally suppressed the evident truth. Eventually, they could no longer deny the overwhelming evidence that substantiated Jesus' resurrection.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7330352403579585,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.97,
+            "commentatorTierSimilarities": [
+                30.7,
+                40.01,
+                29.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

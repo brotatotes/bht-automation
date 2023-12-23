@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:26:21",
+    "verseRef": "Mark 10:34",
+    "bestBHT": {
+        "bht": "The disciples struggled to comprehend the true significance of Jesus' words, as they remained fixed on the idea of an unsuffering Messiah. The mention of Gentiles hinted at their role in His crucifixion, while the descriptions of spitting, mocking, and killing foreshadowed the cruel fate that awaited Him. Despite their limited understanding, their later testimony held immense weight in affirming Jesus as a suffering and dying Savior. His prediction of His death marked the first explicit revelation of the manner in which He would die.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.5742674457506203,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.69,
+        "commentatorTierSimilarities": [
+            40.52,
+            33.29,
+            26.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "spit upon him, Mark and Luke:\u2014crucify him, Matthew only, which is remarkable, as being the first intimation, in plain terms, of the death He should die.",
+            "The taking up the cross, so often alluded to, might have had now for them a deep meaning.",
+            "The they in ver. 34 means the Gentiles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They understood none of these things; and this saying was hid from them, neither knew they the things which were spoken.",
+            "The meaning of the words they could be at no loss to understand, but their import in relation to His Messianic kingdom they could not penetrate...",
+            "That they should have clung so tenaciously to the popular notion of an 'unsuffering' Messiah, may surprise us; but it gives inexpressible weight to their after-testimony to a suffering and dying Saviour."
+        ],
+        "Philip Schaff": [
+            "Spit upon him. See chap. Mark 15:19. Omitted by Matthew.",
+            "Kill him. Matthew: \u2018crucify Him,\u2019 which is implied here, as the \u2018Gentiles,\u2019 to whom the whole verse refers, were to put Him to death.",
+            "After three days. This form is given by Mark in all three predictions (chaps. Mark 8:31; Mark 9:31, and here)."
+        ],
+        "John Gill": [
+            "And they shall mock him, and shall scourge him... and shall spit upon him.\" ",
+            "This clause is placed by the Vulgate Latin, Arabic, and Ethiopic versions, between the two former; though, according to the order in which these things were executed, he was first scourged, then mocked, and then spit upon: all which express both the cruel and indecent usage he was to meet with.",
+            "and shall kill him, and the third day he shall rise again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They did not fully grasp the significance of Jesus' words; it was as if a veil covered their understanding. They clung to a belief in an unsuffering Messiah, preventing them from comprehending the true nature of His mission. The mention of Gentiles in verse 34 hints at their involvement in His crucifixion, while the mention of spitting, mocking, and killing reveals the cruel fate awaiting Him. But even in their limited understanding, the disciples' testimony later holds immense weight, affirming Jesus as a suffering and dying Savior. Jesus' prediction of His death was the first clear indication of the type of death He would die.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.523959260200915,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "commentatorTierSimilarities": [
+                42.79,
+                30.67,
+                26.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They clung to the popular notion of an 'unsuffering' Messiah, unable to fully comprehend Jesus' words. The mention of Gentiles indicates their involvement in His crucifixion. The disciples could not penetrate the import of His words in relation to His Messianic kingdom. Despite their limited understanding, their testimony later affirmed Him as a suffering and dying Savior. Jesus' prediction of His death, expressed in plain terms, foreshadowed the cruel treatment He would endure. His words carried a deeper meaning about taking up the cross.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.5397862932377673,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.54,
+            "commentatorTierSimilarities": [
+                44.88,
+                30.86,
+                24.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples struggled to fully grasp the implications of Jesus' words. Clinging to the notion of an unsuffering Messiah, they failed to understand the depth of His message in relation to His Messianic kingdom. The mention of Gentiles in the verse suggests their role in His crucifixion, while the references to spitting, mocking, and killing reveal the cruel fate that awaited Him. Nevertheless, the disciples' later testimony, recognizing Him as a suffering and dying Savior, carries great weight in affirming the truth of His mission.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.526036916305425,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.08,
+            "commentatorTierSimilarities": [
+                40.73,
+                35.39,
+                23.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples struggled to comprehend the true significance of Jesus' words, as they remained fixed on the idea of an unsuffering Messiah. The mention of Gentiles hinted at their role in His crucifixion, while the descriptions of spitting, mocking, and killing foreshadowed the cruel fate that awaited Him. Despite their limited understanding, their later testimony held immense weight in affirming Jesus as a suffering and dying Savior. His prediction of His death marked the first explicit revelation of the manner in which He would die.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5742674457506203,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.69,
+            "commentatorTierSimilarities": [
+                40.52,
+                33.29,
+                26.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples found it difficult to fully grasp the significance of Jesus' words, holding onto the belief in an unsuffering Messiah. The mention of Gentiles suggested their involvement in His crucifixion, while the references to spitting, mocking, and killing foreshadowed the cruel fate awaiting Him. Despite their limited understanding, their later testimony affirming Him as a suffering and dying Savior carried great weight. His prediction of His death provided the initial clear indication of the manner in which He would die.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.4822787766358116,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.63,
+            "commentatorTierSimilarities": [
+                41.22,
+                30.29,
+                28.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:21:18",
+    "verseRef": "Mark 4:18",
+    "bestBHT": {
+        "bht": "Some people, described as seeds sown among thorns, are characterized by their worldly dispositions, being excessively concerned with acquiring earthly riches and gratifying their carnal and sensual appetites. Despite their inclination towards the world, these individuals still find themselves compelled to listen to the teachings of the word, whether it be out of habit or the inner voice of conscience. This serves as a reminder to prioritize spiritual matters over worldly concerns.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 0.9813036775813427,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.97,
+        "commentatorTierSimilarities": [
+            23.39,
+            0.0,
+            76.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "18. And these are they which are",
+            "\tsown among thorns; such as hear the word,"
+        ],
+        "John Gill": [
+            "Such hearers of the word are designed by the thorny ground, upon which other seed fell, as it was sown, who are of worldly dispositions; who are immoderately careful and anxious about the things of this life, and are bent upon acquiring earthly riches, and gratifying their carnal and sensual appetites.\" ",
+            "Such as hear the word; who notwithstanding are prevailed upon through custom, or the dictates of their consciences, to attend upon the ministry of the word."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some people are like seeds sown among thorns, representing those who hear the word but are consumed by worldly desires. These individuals become overly preoccupied with acquiring earthly riches and satisfying their carnal and sensual appetites. However, despite their worldly dispositions, they are still compelled to listen to the teachings of the word, whether it be due to habit or the prompting of their consciences. This verse reminds us of the importance of prioritizing spiritual pursuits above earthly concerns.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.133868297894464,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.04,
+            "commentatorTierSimilarities": [
+                27.47,
+                0.0,
+                72.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some people, described as seeds sown among thorns, are characterized by their worldly dispositions, being excessively concerned with acquiring earthly riches and gratifying their carnal and sensual appetites. Despite their inclination towards the world, these individuals still find themselves compelled to listen to the teachings of the word, whether it be out of habit or the inner voice of conscience. This serves as a reminder to prioritize spiritual matters over worldly concerns.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 0.9813036775813427,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.97,
+            "commentatorTierSimilarities": [
+                23.39,
+                0.0,
+                76.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Seeds sown among thorns portrays those who hear the word but are consumed by worldly desires. They become overly preoccupied with acquiring earthly riches and satisfying their carnal appetites. Nonetheless, they still attend to the ministry of the word, either out of custom or the dictates of their consciences. This verse emphasizes the need to prioritize spiritual pursuits over earthly concerns, cautioning against worldly preoccupations that hinder the growth of faith.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.2371498474242166,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.48,
+            "commentatorTierSimilarities": [
+                29.39,
+                0.0,
+                70.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some individuals, referred to as seeds sown among thorns, possess worldly dispositions. They are consumed by the desire to attain earthly riches and fulfill their carnal and sensual appetites. Despite this, they do listen to the word, whether influenced by habit or the conviction of their consciences. This serves as a reminder to prioritize spiritual matters over the distractions and allure of worldly pursuits.",
+            "wordCount": 64,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 0.9730799949089959,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.7,
+            "commentatorTierSimilarities": [
+                27.59,
+                0.0,
+                72.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who are represented as seeds sown among thorns are characterized by their preoccupation with worldly concerns. Their incessant pursuit of earthly riches and indulgence in carnal desires hinders their ability to fully embrace the teachings of the word. However, they still feel compelled to attend to the ministry of the word, either due to habit or the inner voice of their conscience. This verse serves as a reminder to prioritize spiritual growth above the temptations and distractions of the world.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.0748995999780686,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.08,
+            "commentatorTierSimilarities": [
+                28.91,
+                0.0,
+                71.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

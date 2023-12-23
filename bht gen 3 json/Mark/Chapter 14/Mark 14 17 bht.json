@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:28:06",
+    "verseRef": "Mark 14:17",
+    "bestBHT": {
+        "bht": "At the regular time and hour, Jesus is observing the passover meal with his disciples. He sets out from Bethany with all twelve of them, including Judas, who had covenanted with the chief priests to betray him. Together, they come to Jerusalem to partake in the regular passover meal that has been prepared for them. (Matthew 26:20; Luke 22:14) This moment is marked by a dramatic historical present, as Jesus shares this significant meal with his disciples.",
+        "wordCount": 75,
+        "quoteTokenProportion": 49.12,
+        "qualityScore": 1.7881601287148494,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+        "commentatorTierSimilarities": [
+            49.04,
+            0.0,
+            50.96
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Dramatic historical present.",
+            "Jesus is observing the passover meal at the regular time and hour.",
+            "The regular passover meal."
+        ],
+        "John Gill": [
+            "Christ set out from Bethany with the rest of the twelve, with the other nine, and came to Jerusalem.\" ",
+            "They were joined by Judas, who had covenanted with the chief priests to betray him.\" ",
+            "He went with all twelve of them to the house, where the provision to eat the passover together was made for them."
+        ],
+        "John Wesley": [
+            "Matthew 26:20; Luke 22:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the regular time and hour, Jesus is observing the passover meal with his disciples. He sets out from Bethany with all twelve of them, including Judas, who had covenanted with the chief priests to betray him. Together, they come to Jerusalem to partake in the regular passover meal that has been prepared for them. (Matthew 26:20; Luke 22:14) This moment is marked by a dramatic historical present, as Jesus shares this significant meal with his disciples.",
+            "wordCount": 75,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.7881601287148494,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                49.04,
+                0.0,
+                50.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the regular time and hour, Jesus is observing the passover meal with his disciples. He sets out from Bethany with all twelve of them, including Judas, who had covenanted with the chief priests to betray him. Together, they come to Jerusalem to partake in the regular passover meal that has been prepared for them. (Matthew 26:20; Luke 22:14) This moment is marked by a dramatic historical present, as Jesus shares this significant meal with his disciples.",
+            "wordCount": 75,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.7881601287148494,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                49.04,
+                0.0,
+                50.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the regular passover meal, Jesus, accompanied by all twelve of his disciples, including Judas who had conspired with the chief priests, sets out from Bethany and arrives in Jerusalem. This moment is captured in a dramatic historical present, highlighting the significance of Jesus sharing this meal with his disciples. (Matthew 26:20; Luke 22:14)",
+            "wordCount": 52,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.6502746087986249,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "commentatorTierSimilarities": [
+                38.84,
+                0.0,
+                61.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the regular time and hour, Jesus observes the passover meal with his disciples. He sets out from Bethany with the rest of the twelve, including Judas, who has conspired with the chief priests against him. Together, they arrive in Jerusalem, joining the other nine. In this dramatic historical present, Jesus shares this significant meal with his disciples, as they partake in the regular passover meal that has been prepared for them.",
+            "wordCount": 72,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.6190620600906453,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.18,
+            "commentatorTierSimilarities": [
+                56.83,
+                0.0,
+                43.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the appointed time, Jesus engages in the traditional passover meal with his disciples. Departing from Bethany, he is accompanied by all twelve, including Judas, who has entered into an agreement to betray him with the religious authorities. Together, they arrive in Jerusalem, joining the other nine disciples. The moment is captured in a vivid historical present tense, emphasizing the significance as Jesus shares this customary meal with his followers.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3594270212486417,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.54,
+            "commentatorTierSimilarities": [
+                50.92,
+                0.0,
+                49.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:20:13",
+    "verseRef": "Mark 1:4",
+    "bestBHT": {
+        "bht": "The baptism of John represented repentance and forgiveness, a death to sin, and a rebirth to righteousness. While it didn't confer the Holy Spirit, it challenged people to change their minds and confess their sins. This well-known ceremonial washing signified repentance and forgiveness. John's preaching and baptism prepared the way for Christ by urging individuals to repent, believe, and testify to the forgiveness of their sins through baptism.",
+        "wordCount": 71,
+        "quoteTokenProportion": 27.66,
+        "qualityScore": 2.452324010479721,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+        "commentatorTierSimilarities": [
+            30.24,
+            24.33,
+            45.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The baptism of repentance, the baptism symbolic of repentance and forgiveness\u2014of the death unto sin, and new birth unto righteousness.",
+            "The former of these only comes properly into the notion of John\u2019s baptism.",
+            "John's baptism...did not confer the Holy Spirit."
+        ],
+        "Marvin Vincent": [
+            "John did baptize (\u00e5\u0313\u00e3\u00e5\u0301\u00ed\u00e5\u00f4\u00ef \u00c9\u0313\u00f9\u00e1\u0301\u00ed\u00ed\u00e7\u00f2 \u00ef\u0314 \u00e2\u00e1\u00f0\u00f4\u00e9\u0301\u00e6\u00f9\u00ed)",
+            "Baptism of repentance (\u00e2\u00e1\u0301\u00f0\u00f4\u00e9\u00f3\u00ec\u00e1 \u00ec\u00e5\u00f4\u00e1\u00ed\u00ef\u00e9\u0301\u00e1\u00f2)"
+        ],
+        "Philip Schaff": [
+            "As it was written, so it was, so there appeared, or came, the one spoken of, John.",
+            "The correct reading makes this not so much a declaration of what John did, as an explanation of how he performed the duty of forerunner, according to the prophecy.",
+            "John did not institute some new rite, but his baptism was a ceremonial washing, such as was well-known, to signify repentance and forgiveness."
+        ],
+        "Archibald T. Robertson": [
+            "The coming of John the Baptizer was the real beginning of the spoken message about Christ.",
+            "He called upon the Jews to change their minds and to turn from their sins, 'confessing their sins.'",
+            "The baptism in the Jordan was the objective challenge to the people."
+        ],
+        "John Gill": [
+            "John was in the wilderness, baptizing and preaching the baptism of repentance, for the remission of sins.",
+            "Baptism is here called the baptism of repentance: because John required repentance antecedent to it, and administered it upon the profession of repentance, and as an open testification of it.",
+            "John preached that men should repent of their sins and believe in Christ, who was to come; and upon their repentance and faith, be baptized; in which ordinance, they might be led to a fresh view of the free and full forgiveness of their sins, through Christ."
+        ],
+        "John Wesley": [
+            "Preaching the baptism of repentance \u2014 That is, preaching repentance, and baptizing as a sign and means of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The baptism of John was not meant to confer the Holy Spirit, but rather to symbolize repentance and forgiveness, a death unto sin and new birth unto righteousness. John's baptism served as the objective challenge to the people, calling upon the Jews to change their minds, turn from their sins, and confess them. It was a ceremonial washing, well-known and used to signify repentance and forgiveness. Through preaching and baptizing, John prepared the way for the coming of Christ, urging people to repent of their sins, believe in Him, and be baptized as a testimony of their faith and the forgiveness of their sins through Him.",
+            "wordCount": 108,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 2.5896014348052776,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.44,
+            "commentatorTierSimilarities": [
+                29.95,
+                27.19,
+                42.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John's baptism was a symbolic act of repentance and forgiveness, representing a death to sin and a rebirth to righteousness. While it did not confer the Holy Spirit, it served as a profound challenge for the people to change their minds and turn away from their sins. It was a well-known ceremonial washing used to signify repentance and forgiveness. Through preaching and baptizing, John prepared the way for Christ, calling on individuals to repent, believe, and bear witness to the forgiveness of their sins through baptism.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.448591768351773,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.76,
+            "commentatorTierSimilarities": [
+                29.44,
+                26.47,
+                44.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The baptism of John represented repentance and forgiveness, a death to sin, and a rebirth to righteousness. While it didn't confer the Holy Spirit, it challenged people to change their minds and confess their sins. This well-known ceremonial washing signified repentance and forgiveness. John's preaching and baptism prepared the way for Christ by urging individuals to repent, believe, and testify to the forgiveness of their sins through baptism.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 2.452324010479721,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+            "commentatorTierSimilarities": [
+                30.24,
+                24.33,
+                45.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John's baptism served as a symbolic act of repentance and forgiveness, a death to sin and a rebirth to righteousness. Although it did not grant the Holy Spirit, it presented a powerful challenge for people to change their minds and turn away from their sins, confessing them. This well-known ceremonial washing was used to signify repentance and forgiveness. Through his preaching and baptism, John paved the way for the coming of Christ, urging individuals to repent, believe, and bear witness to the forgiveness of their sins through baptism.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4304660650796475,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.15,
+            "commentatorTierSimilarities": [
+                29.55,
+                26.09,
+                44.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John's baptism symbolized repentance and forgiveness, a death to sin, and a rebirth to righteousness. Although it didn't confer the Holy Spirit, it presented a challenge for people to change their minds and confess their sins. This ceremonial washing signified repentance and forgiveness. Through his preaching and baptism, John paved the way for Christ, urging individuals to repent, believe, and bear witness to the forgiveness of their sins through baptism.",
+            "wordCount": 72,
+            "quoteTokenProportion": 25.53,
+            "qualityScore": 2.4108620154191023,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.5,
+            "commentatorTierSimilarities": [
+                30.22,
+                24.15,
+                45.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

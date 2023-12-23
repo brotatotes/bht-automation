@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-22-2023 23:26:09",
+    "verseRef": "Mark 9:22",
+    "bestBHT": {
+        "bht": "The ignorant and weak faith of the wretched father is evident as he pleads, Help me and Have mercy on me, identifying himself with his son's misery. Despite the disciples' failure, the father still believes in Jesus' power. The boy's chronic epilepsy, coupled with demon possession, makes the case desperate. With touching tenderness, the father pleads for mercy, making his son's case his own. However, his intense feelings alone don't equate to faith. He approaches Jesus with hesitation, doubting His full power, though faith should embrace the boundless power of God.",
+        "wordCount": 95,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.9591540550955022,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+        "commentatorTierSimilarities": [
+            27.15,
+            46.14,
+            26.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This bespeaks, if any faith, at most but a very ignorant and weak one.\" ",
+            "The wretched father counts his child\u2019s misery his own.",
+            "Help me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "us,\" says the father; for it was a sore family affliction.",
+            "Still nothing is done: the man is but struggling into faith: it must come a step farther.",
+            "But he had to do with Him who breaks not the bruised reed, and who knew how to inspire what He demanded."
+        ],
+        "Marvin Vincent": [
+            "Us. Very touching. The father identifies himself with the son's misery.",
+            "Compare the Syro-Phoenician, who makes her daughter's case entirely her own.",
+            "Have mercy on me."
+        ],
+        "John Calvin": [
+            "We see how little honor he renders to Christ; for, supposing him to be some prophet, whose power was limited, he approaches to him with hesitation.",
+            "The first foundation of faith is, to embrace the boundless power of God; and the first step to prayer is, to raise it above all opposition by the firm belief that our prayers are not in vain.",
+            "Our faith must be so formed as to be capable and prepared for receiving the desired favor."
+        ],
+        "Philip Schaff": [
+            "The father describes the case still further, representing the demon as a malignant enemy seeking to kill his only son.",
+            "The father\u2019s sense of need is stirred by the recital, but his faith is very weak. Not strong at first, it had probably been weakened by the failure of the disciples.",
+            "The father\u2019s feelings are intense, as he naturally and properly identifies himself with the misery of his son. But intense feeling is not faith!"
+        ],
+        "Archibald T. Robertson": [
+            "The failure of the disciples had not wholly destroyed his faith in the power of Jesus...\" ",
+            "It was a chronic and desperate case of epilepsy with the demon possession added.",
+            "With touching tenderness he makes the boy's case his own as the Syrophoenician woman had said, 'Have mercy on me'."
+        ],
+        "John Gill": [
+            "The Ethiopic version before fire and water reads, 'into the deep'; meaning either the sea or some deep pit, or off a precipice. All this is said to aggravate the case, and show the miserable condition the child was in, from the frequency of the fits, and the danger he was exposed to.",
+            "This man's faith was very weak, and perhaps weaker than when he first came from home with his child... he puts an if upon his power, and earnestly entreats him, if he had any, he would put it forth.",
+            "He tries, in very moving language, both the power and pity of Christ; and begs that if he had either, he would exert them on this occasion."
+        ],
+        "John Wesley": [
+            "If thou canst do any thing \u2014 In so desperate a case: Have compassion on us - Me as well as him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The wretched father, with a very weak and ignorant faith, identifies himself with his son's misery, saying, Help me and Have mercy on me. Although the disciples had failed, the father's faith in Jesus' power had not been completely destroyed. The boy's condition was chronic and desperate, with epilepsy and demon possession. With touching tenderness, the father pleads to Jesus, making the boy's case his own and begging for mercy. The father's intense feelings, though, do not equate to true faith. He approaches Jesus with hesitation, doubting the full extent of His power. However, the foundation of faith lies in embracing the boundless power of God and believing that our prayers are not in vain. The father's weak faith is evident as he places an if upon Jesus' power, earnestly begging Him to exert it if He can.",
+            "wordCount": 144,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9631146239334112,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                26.08,
+                44.85,
+                29.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ignorant and weak faith of the wretched father is evident as he pleads, Help me and Have mercy on me, identifying himself with his son's misery. Despite the disciples' failure, the father still believes in Jesus' power. The boy's chronic epilepsy, coupled with demon possession, makes the case desperate. With touching tenderness, the father pleads for mercy, making his son's case his own. However, his intense feelings alone don't equate to faith. He approaches Jesus with hesitation, doubting His full power, though faith should embrace the boundless power of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.9591540550955022,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                27.15,
+                46.14,
+                26.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With a weak and ignorant faith, the wretched father pleads for help and mercy, intimately identifying with his son's misery. Although the disciples' failure weakened his faith, he still believes in Jesus' power. The boy's chronic epilepsy, worsened by demon possession, makes the situation desperate. The father's plea for mercy is filled with touching tenderness, casting himself as the one in need. However, intense feelings alone do not constitute true faith. The father approaches Jesus with hesitation, doubting His full power, despite the fact that faith should embrace the limitless power of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8980155643249983,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+            "commentatorTierSimilarities": [
+                25.91,
+                47.4,
+                26.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wretched father, with his ignorant and weak faith, pleads for help and mercy, closely identifying himself with his son's misery. Even though the disciples had failed, the father's faith in Jesus' power remains. The boy's chronic epilepsy, compounded by demon possession, makes the case dire. The father's touching plea for mercy unites his own desperation with his son's suffering. However, intensity of feeling alone does not constitute true faith. With hesitation, the father approaches Jesus, uncertain of His full power, despite the fact that faith should encompass the boundless power of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9366740314832849,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                26.34,
+                49.72,
+                23.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wretched father, with his weak and ignorant faith, pleads for help and mercy, intimately identifying himself with his son's misery. Despite the disciples' failure, the father still believes in Jesus' power. The boy's chronic epilepsy, worsened by demon possession, adds to the severity of the situation. The father's tender plea for mercy echoes the Syrophoenician woman's plea, uniting his own needs with his son's affliction. However, intense feelings alone do not embody true faith. The father approaches Jesus hesitantly, doubting His full power, even though faith should encompass the boundless power of God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.9151359300380366,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                26.25,
+                48.85,
+                24.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

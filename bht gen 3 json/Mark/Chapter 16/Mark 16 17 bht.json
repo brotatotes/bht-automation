@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-22-2023 23:30:29",
+    "verseRef": "Mark 16:17",
+    "bestBHT": {
+        "bht": "Believers are promised signs that will accompany their faith, including casting out demons and speaking in tongues. These signs apply to all Christians and serve as evidence of their divine authority and the power of Christ. Speaking in tongues refers to speaking in other languages, as seen in the book of Acts. While the duration of these miracles is not specified, they were likely intended to bring glory to the gospel in its early stages. These signs and miracles confirm and strengthen the faith of both preachers and believers.",
+        "wordCount": 89,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.049378379894052,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+        "commentatorTierSimilarities": [
+            25.5,
+            34.03,
+            40.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This promise is generally made, without limitation to the first ages of the Church.",
+            "Signs are not needed where Christianity is professed: nor by missionaries who are backed by the influence of powerful Christian nations.",
+            "The Lord Himself has declared how weighty a sign [casting out devils] was."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And these signs shall follow them that believe . . . They shall take up serpents.\" ",
+            "These two verses also are peculiar to Mark.\" ",
+            "The Ascension and Triumphant Proclamation of the Gospel Thereafter."
+        ],
+        "Albert Barnes": [
+            "These signs - These miracles. These evidences that they are sent from God.",
+            "In my name - By my authority, and using the power that I would in such cases, if bodily present.",
+            "Shall speak with new tongues - Shall speak other languages than their native language."
+        ],
+        "Marvin Vincent": [
+            "Shall follow [\u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b7\u03c3\u03b5\u03b9] . The preposition para, alongside of, gives the sense of accompany."
+        ],
+        "John Calvin": [
+            "The meaning, therefore, is, that believers will be ministers of the same power which had formerly excited admiration in Christ.",
+            "Though Christ does not expressly state whether he intends this gift to be temporary, or to remain perpetually in his Church, yet it is more probable that miracles were promised only for a time, in order to give luster to the gospel, while it was new and in a state of obscurity.",
+            "That our faith may be duly confirmed by miracles, let our minds be kept within that moderation which I have mentioned."
+        ],
+        "Philip Schaff": [
+            "This promise is to be taken literally; but is it to be limited to the Apostolic times, or is it to be extended to all Christians?",
+            "In my name. This presents the power by which all the succeeding miracles should be wrought.",
+            "They shall speak with new tongues. See Acts 2:4; Acts 10:46; Acts 1:0 Corinthians 13, 14. This was literally fulfilled."
+        ],
+        "Archibald T. Robertson": [
+            "They shall speak with new tongues.",
+            "Casting out demons we have seen in the ministry of Jesus.",
+            "Speaking with tongues comes in the apostolic era."
+        ],
+        "John Gill": [
+            "And these signs shall follow them that believe... for the encouragement both of those that preach the Gospel, and of them that hear, believe and obey.",
+            "In my name shall they cast out devils... by the power and authority of Christ, and not their own, and by calling upon, and making use of his name, such miraculous operations were wrought by the apostles.",
+            "They shall speak with new tongues... not such as were new made, and had never been heard and known before; but foreign languages, such as they had never learned, or were able to speak, or understood before."
+        ],
+        "John Wesley": [
+            "It was not one faith by which St. Paul was saved, another by which he wrought miracles.",
+            "Even at this day in every believer faith has a latent miraculous power; (every effect of prayer being really miraculous;)",
+            "Miracles, in the beginning, were helps to faith; now also they are the object of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are promised signs that will accompany their faith, including the ability to cast out demons and speak in foreign tongues. These signs were not limited to the early Church or apostolic era, but are applicable to all believers. They serve as evidence that believers are sent by God and have the authority of Christ. The power to perform miracles is not based on their own abilities, but on the power and authority of Christ. Speaking in tongues refers to speaking other languages, as seen in the examples of Acts. While the duration of these miracles is not explicitly stated, it is likely that they were intended to give luster to the gospel in its early stages. These signs and miracles serve to confirm and strengthen the faith of both the preachers and the believers.",
+            "wordCount": 135,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.9823630645911696,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                24.03,
+                34.41,
+                41.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are promised signs that will accompany their faith, including the ability to cast out demons and speak in foreign tongues. These signs were not limited to the early Church, but are applicable to all believers. The power to perform miracles is not based on their own abilities, but on the power and authority of Christ. Speaking in tongues refers to speaking other languages, as seen in the examples of Acts. These signs and miracles serve to confirm and strengthen the faith of both the preachers and the believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0255570336732363,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                24.98,
+                35.32,
+                39.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are promised signs that will accompany their faith, including casting out demons and speaking in tongues. These signs apply to all Christians and serve as evidence of their divine authority and the power of Christ. Speaking in tongues refers to speaking in other languages, as seen in the book of Acts. While the duration of these miracles is not specified, they were likely intended to bring glory to the gospel in its early stages. These signs and miracles confirm and strengthen the faith of both preachers and believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.049378379894052,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                25.5,
+                34.03,
+                40.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are promised signs that will accompany their faith, including casting out demons and speaking in tongues. These signs apply to all Christians and serve as evidence of their divine authority and the power of Christ. Speaking in tongues refers to speaking in other languages, as seen in the book of Acts. While the duration of these miracles is not specified, they were likely intended to bring glory to the gospel in its early stages. These signs and miracles confirm and strengthen the faith of both preachers and believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.049378379894052,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                25.5,
+                34.03,
+                40.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are promised signs that will accompany their faith, including the ability to cast out demons and speak in tongues. These signs serve as evidence of divine authority and the power of Christ, applicable to all Christians. Speaking in tongues refers to speaking in other languages, witnessed in the book of Acts. The duration of these miracles is not specified, but they likely aimed to bring glory to the gospel during its early stages. These signs and miracles confirm and fortify the faith of both preachers and believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.0455245261359805,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                25.28,
+                34.15,
+                40.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

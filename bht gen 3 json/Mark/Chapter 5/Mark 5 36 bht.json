@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:23:08",
+    "verseRef": "Mark 5:36",
+    "bestBHT": {
+        "bht": "Jesus, with his tender sympathy and knowledge of the human heart, overhears the message being spoken to the ruler of the synagogue. He reassures the ruler, saying, Be not afraid, only believe. Jesus understands the potential doubt and despair that could arise from the news of his daughter's death, but he encourages Jairus to have faith in the boundless power of God. By urging him to only believe, Jesus reminds him that there are no limits to the extent of his faith.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.9601753469178869,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+        "commentatorTierSimilarities": [
+            28.6,
+            33.5,
+            37.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "36.] Jesus... overheard the message (word that was) being spoken: a mark of accuracy which is lost in the A.V."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not afraid, only believe\" - words of unchanging preciousness and power!",
+            "How vividly do such incidents bring out Christ's knowledge of the human heart and tender sympathy!",
+            "Jesus, knowing how the heart of the agonized father would sink at the tidings, and the reflections at the delay which would be apt to rise in his mind, hastens to reassure him."
+        ],
+        "Marvin Vincent": [
+            "The correct reading is parakousav, which may be rendered either not heeding, as Rev. (compare Matthew 28:17), or over - hearing, as Rev. in margin, which, on the whole, seems the more natural.\" ",
+            "Disregarding would be more appropriate if the message had been addressed to Jesus himself; but it was addressed to the ruler.\" ",
+            "Jesus overheard it. The present participle, laloumenon, being spoken, seems to fall in with this."
+        ],
+        "John Calvin": [
+            "Fear not, only believe. The message about her death had induced despair: for he had asked nothing from Christ but relief to the diseased young woman.",
+            "By this expression, only believe, he means that he will not want power, provided Jairus will allow him; and, at the same time, exhorts him to enlarge his heart with confidence, because there is no room to fear that his faith will be more extensive than the boundless power of God.",
+            "In general, we are taught by this passage, that we cannot go beyond bounds in believing: because our faith, however large, will never embrace the hundredth part of the divine goodness."
+        ],
+        "Philip Schaff": [
+            "But Jesus not heeding, or, overhearing, the word spoken. The correct reading introduces a word, which usually means, to pass by as unheard, not to heed: more rarely, to overhear.",
+            "Be not afraid, only believe. Luke adds: \u2018and she shall be made whole.\u2019 The delay seemed fatal, was in itself a trial to the faith of Jairus, especially now that the crisis had come.",
+            "Yet what had just happened, for the message came \u2018while He was speaking\u2019 (Mark 5:35, would encourage Jairus, especially as faith had been exalted in the miracle which the ruler himself witnessed."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus might overhear what was said and disregard its import.\" (Bruce)",
+            "Fear not, only believe.\" (Mark and Luke 8:50)",
+            "This to the ruler of the synagogue who had remained and to whom the messenger had spoken."
+        ],
+        "John Gill": [
+            "Do not be discouraged at these tidings, or distrust my power to help thee, only believe that I am able to raise her, even from the dead; and fear not, but it will be done.",
+            "If a man can but believe, he has no reason to fear; for what is it that almighty power cannot do?",
+            "Faith is not of a man's self at first; it is the gift of God, and the operation of his Spirit; and the lively and comfortable exercise of it is owing to the influence of efficacious grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, with his knowledge of the human heart and tender sympathy, overheard the message being spoken to the ruler of the synagogue. He immediately reassures him, saying, Be not afraid, only believe, words of unchanging preciousness and power. Jesus understands that the news of his daughter's death could have caused doubt and despair in the heart of the ruler, but he encourages him to have faith and trust in the boundless power of God. By urging him to only believe, Jesus reminds Jairus that there is no limit to the extent of his faith, and that with God, all things are possible.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.016720586774528,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.4,
+            "commentatorTierSimilarities": [
+                28.93,
+                32.94,
+                38.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, knowing the heart of the agonized father would sink at the tidings and the reflections at the delay, reassures the ruler: Be not afraid, only believe. He urges Jairus to have faith and trust in the boundless power of God. By saying only believe, Jesus reminds him that there is no limit to the extent of his faith, and that with God, all things are possible. Faith is a gift from God, and the exercise of it is due to the influence of efficacious grace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.7833060200853574,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                20.29,
+                34.37,
+                45.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, with his tender sympathy and knowledge of the human heart, overhears the message being spoken to the ruler of the synagogue. He reassures the ruler, saying, Be not afraid, only believe. Jesus understands the potential doubt and despair that could arise from the news of his daughter's death, but he encourages Jairus to have faith in the boundless power of God. By urging him to only believe, Jesus reminds him that there are no limits to the extent of his faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9601753469178869,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                28.6,
+                33.5,
+                37.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, with his tender sympathy, reassures the ruler of the synagogue by saying, Be not afraid, only believe. He understands the potential doubt and despair that could arise from the news of his daughter's death, but Jesus encourages Jairus to have faith in the boundless power of God. By urging him to only believe, Jesus reminds him that there are no limits to the extent of his faith. With God, all things are possible, and this passage teaches us to have unwavering trust in His goodness and power.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9984187592581355,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                24.86,
+                32.86,
+                42.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, with his tender sympathy, reassures the ruler of the synagogue by saying, Be not afraid, only believe. He understands the potential doubt and despair that could arise from the news of his daughter's death, but Jesus encourages Jairus to have faith in the boundless power of God. By urging him to only believe, Jesus reminds him that there are no limits to the extent of his faith. With God, all things are possible, and this teaches us to have unwavering trust in His goodness and power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.9572635243114542,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                24.58,
+                32.48,
+                42.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

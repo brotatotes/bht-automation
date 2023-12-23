@@ -1,0 +1,93 @@
+{
+    "timestamp": "12-22-2023 23:29:07",
+    "verseRef": "Mark 15:30",
+    "bestBHT": {
+        "bht": "The mocking voices and taunts of the people echoed in the air as they shouted, Save thyself, and come down from the cross. They questioned if He truly was what he had pretended to be, and could do what he gave out he could, suggesting that if he was what he had pretended to be, and could do what he gave out he could, he might easily free himself from the cross.",
+        "wordCount": 72,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 2.303009921369597,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.92,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Save thyself, and come down from the cross.\" ",
+            "if he was what he had pretended to be, and could do what he gave out he could, he might easily free himself from the cross, and make his escape.",
+            "Suggesting that if he was what he had pretended to be, and could do what he gave out he could, he might easily free himself from the cross."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "The people mocked Jesus on the cross, taunting him to save himself and come down. This mocking reflected their disbelief in his divinity and power, as they questioned whether he could truly do what he had claimed. Their words were a challenge to prove himself, suggesting that if he truly was as he had portrayed himself to be, he should have been able to easily free himself from the cross and escape.",
+            "wordCount": 72,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 2.012068475592858,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some people taunted Jesus, saying, Save yourself, and come down from the cross. They were mocking him, suggesting that he could easily free himself if he truly had the power that he claimed. However, these words only reveal their ignorance and lack of understanding of Jesus' purpose on the cross.",
+            "wordCount": 50,
+            "quoteTokenProportion": 51.22,
+            "qualityScore": 1.768007684465621,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mocking voices and taunts of the people echoed in the air as they shouted, Save thyself, and come down from the cross. They questioned if He truly was who He claimed to be, doubting His power and authority. The voices carried an air of cynicism, suggesting that if He truly possessed the ability He had proclaimed, He could effortlessly free Himself from the cross.",
+            "wordCount": 65,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.3895968316741774,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mocking voices and taunts of the people echoed in the air as they shouted, Save thyself, and come down from the cross. They questioned if He truly was what he had pretended to be, and could do what he gave out he could, suggesting that if he was what he had pretended to be, and could do what he gave out he could, he might easily free himself from the cross.",
+            "wordCount": 72,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.303009921369597,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

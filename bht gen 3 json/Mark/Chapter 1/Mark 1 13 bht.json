@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:20:29",
+    "verseRef": "Mark 1:13",
+    "bestBHT": {
+        "bht": "Jesus, amidst wild beasts in the desert, faced both external threats and internal trials. The beasts symbolize the danger of the region, yet Jesus remains unharmed, demonstrating his purity and similarity to the first man in Eden. The angels come to serve their great Lord and master, presumably providing food to sustain him during his fasting period. This verse highlights Jesus' unwavering strength in the face of temptation and reminds believers of the ongoing battle against the devil, often more challenging in urban settings.",
+        "wordCount": 84,
+        "quoteTokenProportion": 25.81,
+        "qualityScore": 1.6017629253295802,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.6,
+        "commentatorTierSimilarities": [
+            31.74,
+            39.58,
+            28.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Perhaps the being with the beasts may point to one form of temptation, viz. that of terror, which was practiced on Him\u2014 but of the inward trials, who may speak?\" ",
+            "There is nothing here to contradict the fast spoken of in Matthew and Luke, as some have maintained.",
+            "No apportionment of these details to the various successive parts of the temptation is given by our Evangelist. They are simply stated to have happened, compendiously."
+        ],
+        "Marvin Vincent": [
+            "With the wild beasts",
+            "Peculiar to Mark. The region just alluded to abounds in boars, jackals, wolves, foxes, leopards, hyenas, etc."
+        ],
+        "Philip Schaff": [
+            "Satan, the prince of darkness, was personally engaged.",
+            "Christ was probably threatened with physical danger from the wild beasts. Scarcely a figurative expression of His loneliness and helplessness.",
+            "Ministered. Probably with food. The fasting, though not mentioned, is thus implied."
+        ],
+        "Archibald T. Robertson": [
+            "It was the haunt at night of the wolf, the boar, the hyena, the jackal, the leopard.",
+            "The angels did come and minister, kept it up till he was cheered and strengthened.",
+            "But we are all tempted of the devil in the city even worse than in the desert."
+        ],
+        "John Gill": [
+            "and where only the most fierce and most savage of creatures dwelt; and yet was as secure and unhurt by them, being the Lord of them, as Adam in Eden's garden, or Daniel in the lions' den.",
+            "his being not hurt by them, may declare, partly his innocence, as man, being as pure and holy as the first man was in his state of integrity, when all creatures were brought before him, to give them names.",
+            "And the angels ministered unto him; after the temptations were over... serving him as their great Lord and master."
+        ],
+        "John Wesley": [
+            "And he was there forty days, tempted by Satan\u2014Invisibly.",
+            "And he was with the wild beasts\u2014Though they had no power to hurt him.",
+            "St. Mark not only gives us a compendium of St. Matthew's Gospel, but likewise several valuable particulars, which the other evangelists have omitted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 1:13, Jesus is mentioned to be with the wild beasts during his temptation in the desert. Some commentators believe that this may signify the terrorizing temptation that Jesus faced, while others suggest that it emphasizes his innocence and purity as he remains unharmed by these creatures. The presence of the wild beasts is specific to Mark's Gospel, highlighting the dangerous nature of the region. Yet, despite being surrounded by these fierce creatures, Jesus remains secure and unharmed, much like Adam in the garden or Daniel in the lions' den. The angels, serving as his Lord and master, come to minister to him, providing comfort and strength. It is worth noting that all believers are tempted by the devil, with the city being an even worse place for such trials than the desert. This verse reminds us of Jesus' unwavering resilience and purity in the face of temptation.",
+            "wordCount": 149,
+            "quoteTokenProportion": 36.17,
+            "qualityScore": 1.5643855768882298,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
+            "commentatorTierSimilarities": [
+                31.54,
+                32.54,
+                35.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, surrounded by wild beasts during his time in the desert, faced not only external terrors but also inward trials. The beasts, a unique detail in Mark's Gospel, represent the dangerous nature of the region. Despite this, Jesus remains unharmed, reflecting his innocence and purity. The angels come to minister to him, serving their great Lord and master. This verse highlights Jesus' unwavering resilience and emphasizes that believers, too, face temptation from the devil, often in even more challenging environments.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.473279308953868,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.33,
+            "commentatorTierSimilarities": [
+                32.92,
+                33.68,
+                33.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, amidst wild beasts in the desert, faced both external threats and internal trials. The beasts symbolize the danger of the region, yet Jesus remains unharmed, demonstrating his purity and similarity to the first man in Eden. The angels come to serve their great Lord and master, presumably providing food to sustain him during his fasting period. This verse highlights Jesus' unwavering strength in the face of temptation and reminds believers of the ongoing battle against the devil, often more challenging in urban settings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.6017629253295802,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.6,
+            "commentatorTierSimilarities": [
+                31.74,
+                39.58,
+                28.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the wild beasts in the desert, Jesus faced temptation, both externally and internally. The presence of these creatures signifies the terrorizing nature of the wilderness. However, Jesus, like Adam in Eden, remained unharmed by them, demonstrating his innocence and purity. As their Lord and master, the angels came to minister to Jesus, providing him with comfort and strength. This verse highlights Jesus' unwavering resilience in the face of temptation, reminding believers of the constant battle against the devil, especially in urban settings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.511044692316511,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.58,
+            "commentatorTierSimilarities": [
+                31.76,
+                33.93,
+                34.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the desert, Jesus faced both outward challenges and internal trials, symbolized by the wild beasts surrounding him. Unharmed and secure, he demonstrated his innocence and purity, akin to the first man in Eden. The angels ministered to Jesus, serving their great Lord and master. This passage prompts believers to remember that we, too, are tempted by the devil, especially in city settings, urging us to remain steadfast in our faith.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.5173393090875111,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.79,
+            "commentatorTierSimilarities": [
+                32.17,
+                33.51,
+                34.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

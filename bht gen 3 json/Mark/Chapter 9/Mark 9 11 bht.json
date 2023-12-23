@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:24:51",
+    "verseRef": "Mark 9:11",
+    "bestBHT": {
+        "bht": "The disciples asked, Why do the scribes say that Elijah must come first? The scribes and Pharisees believed that before the Messiah came or before his kingdom was established, Elijah would reappear. This belief was likely influenced by their encounter with Elijah on the mount and the teachings of Jesus about his resurrection. The disciples sought clarification, wanting to understand the connection between Elijah and the coming of the Messiah.",
+        "wordCount": 70,
+        "quoteTokenProportion": 45.83,
+        "qualityScore": 1.3972081710195743,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+        "commentatorTierSimilarities": [
+            0.0,
+            37.46,
+            62.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The question is the same as in Matthew 17:10 (see notes there).",
+            "Three renderings are possible: \u2018saying, The scribes say,\u2019 etc., \u2018How is it that the scribes,\u2019 etc., \u2018Why,\u2019 etc.",
+            "The last is probably the sense here. See on Mark 9:28."
+        ],
+        "John Gill": [
+            "Why say the Scribes, the Vulgate Latin adds, 'and Pharisees', that Elias must first come?",
+            "Before the Messiah comes, or before the setting up his kingdom in greater glory;",
+            "Being put in mind of it, by seeing Elias on the mount, or else by what Christ had said concerning his resurrection, or both"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples asked, Why do the scribes say that Elijah must come first? The scribes and Pharisees believed that before the Messiah came or before his kingdom was established, Elijah would reappear. This belief was likely influenced by their encounter with Elijah on the mount and the teachings of Jesus about his resurrection. The disciples sought clarification, wanting to understand the connection between Elijah and the coming of the Messiah.",
+            "wordCount": 70,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.3972081710195743,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.46,
+                62.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples inquired about the reasoning behind the statement made by the scribes and Pharisees, who believed that the coming of Elijah was a prerequisite before the arrival of the Messiah. Their conviction stemmed from witnessing Elijah's presence on the mount and Jesus' teachings affirming his resurrection. Seeking clarification, the disciples longed to grasp the association between Elijah's return and the imminent advent of the Messiah's kingdom.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.1766261716039226,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                33.64,
+                66.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples asked, Why do the scribes say that Elijah must come first? The scribes and Pharisees believed that before the Messiah came or before his kingdom was established, Elijah would reappear. This belief was likely influenced by their encounter with Elijah on the mount and the teachings of Jesus about his resurrection. The disciples sought clarification, wanting to understand the connection between Elijah and the coming of the Messiah.",
+            "wordCount": 70,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.3972081710195743,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.46,
+                62.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why do the scribes say that Elijah must come first? The disciples questioned the belief held by the scribes and Pharisees that the return of Elijah was a prerequisite for the coming of the Messiah or his kingdom. This conviction may have been influenced by the disciples' encounter with Elijah on the mount and the teachings of Jesus regarding his resurrection. Seeking further understanding, the disciples sought clarification on the correlation between Elijah's reappearance and the imminent arrival of the Messiah.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.3299311777839053,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.56,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.39,
+                61.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples asked, Why do the scribes say that Elijah must come first? The scribes and Pharisees believed that before the Messiah came, Elijah's return was necessary. This belief may have been influenced by their encounter with Elijah on the mount and teachings from Jesus about his resurrection. Seeking clarification, the disciples desired to understand the connection between Elijah's reappearance and the arrival of the Messiah's kingdom.",
+            "wordCount": 70,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.3462121842639254,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.1,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.87,
+                61.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

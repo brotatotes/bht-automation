@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:23:28",
+    "verseRef": "Mark 6:49",
+    "bestBHT": {
+        "bht": "In the midst of a storm, the disciples' fear clouded their perception as they mistook Jesus for a spirit. The turbulent night and dark sky obscured their recognition of their own Lord, causing them to cry out in terror. Initially viewing him as a mere speck, they gradually realized that it was a human figure, yet their apprehension prevented them from truly understanding. The disciples' fear and the chaotic circumstances made it challenging for them to fully comprehend Jesus' presence.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.4991020870630751,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+        "commentatorTierSimilarities": [
+            56.72,
+            0.0,
+            43.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They supposed it had been a spirit, and cried out\u2014for fear.",
+            "He would appear to them at first like a dark moving speck upon the waters; then as a human figure.",
+            "In the dark tempestuous sky, and not dreaming that it could be their Lord, they take it for a spirit."
+        ],
+        "John Gill": [
+            "They supposed it had been a spirit; a phantom, a spectre, an apparition, a nocturnal demon.",
+            "And cried out; as men affrighted at the sight, and fearing they should be hurt by it, or that it portended some evil to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the disciples found themselves in the midst of a storm, their fear and confusion overcame them. In the darkness of the night, they caught a glimpse of a figure approaching them, and their immediate reaction was to assume that it was a spirit. The turbulent sea only intensified their anxiety, making it difficult for them to recognize Jesus. Filled with fear, they cried out, uncertain of the situation unfolding before them.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.414939092346463,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.39,
+            "commentatorTierSimilarities": [
+                56.23,
+                0.0,
+                43.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of a tempestuous sea, the disciples, gripped by fear, mistook Jesus for a spirit that haunted them in the darkness. Their initial perception was clouded by the stormy surroundings, causing them to cry out in terror. The figure that appeared before them was initially perceived as a mere speck, gradually transforming into a human form, yet their apprehension prevented them from recognizing their Lord. The tumultuous circumstances blinded them from perceiving the true identity of Jesus.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.4170176521818532,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
+            "commentatorTierSimilarities": [
+                53.85,
+                0.0,
+                46.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Caught in the midst of a storm, the disciples found themselves in a state of confusion and fear. The dark sky and raging waters made it difficult for them to recognize Jesus as he approached them. Their initial reaction was to mistake him for a spirit, causing them to cry out in alarm. They could not comprehend that it was their own Lord who was walking towards them. The disciples' fear and the chaotic surroundings obscured their perception and hindered them from recognizing Jesus' presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.4189954738560642,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
+            "commentatorTierSimilarities": [
+                58.57,
+                0.0,
+                41.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of a storm, the disciples were filled with fear and confusion. Their limited vision caused them to mistake Jesus for a spirit, and they cried out in alarm. The darkness and turbulent waters contributed to their misunderstanding, preventing them from recognizing their own Lord. The disciples' initial perception of a mere speck gradually transformed into the image of a human figure, yet their fear hindered their ability to see the truth. Their tumultuous surroundings obscured their understanding of Jesus' presence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.3358240948924835,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.76,
+            "commentatorTierSimilarities": [
+                57.91,
+                0.0,
+                42.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of a storm, the disciples' fear clouded their perception as they mistook Jesus for a spirit. The turbulent night and dark sky obscured their recognition of their own Lord, causing them to cry out in terror. Initially viewing him as a mere speck, they gradually realized that it was a human figure, yet their apprehension prevented them from truly understanding. The disciples' fear and the chaotic circumstances made it challenging for them to fully comprehend Jesus' presence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.4991020870630751,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                56.72,
+                0.0,
+                43.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

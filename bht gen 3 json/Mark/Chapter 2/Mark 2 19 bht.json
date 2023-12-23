@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:20:43",
+    "verseRef": "Mark 2:19",
+    "bestBHT": {
+        "bht": "Jesus's identification as the bridegroom signifies his covenant relationship with Israel, highlighting the spiritual over the ritualistic. The repetition in the report underscores its authoritative nature. By questioning the suitability of fasting during a wedding feast, Jesus challenges traditions, urging a shift towards joy over mourning. This revolutionary stance disrupts established norms, emphasizing the spiritual realm over ceremonial expressions of faith.",
+        "wordCount": 62,
+        "quoteTokenProportion": 26.0,
+        "qualityScore": 1.3063615230433392,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.78,
+        "commentatorTierSimilarities": [
+            68.62,
+            0.0,
+            31.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The repetition in the last clause, contained neither in Matthew nor Luke, is inconsistent with the design of an abridger; and sufficiently shews the primary authority of this report.\" ",
+            "It is strange to see such a Commentator as De Wette calling the repetition, in that day, a proof of carelessness.\" ",
+            "It is a touching way, as Meyer well observes, of expressing \u2018in that dark day.\u2019"
+        ],
+        "Marvin Vincent": [
+            "The sons of the bride-chamber are different from the groomsmen.",
+            "They are the guests invited to the bridal.",
+            "In Judaea there were at every marriage two groomsmen or friends of the bridegroom."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus identifies himself with the bridegroom of the O.T., God in his covenant relation with Israel.",
+            "Mourning does not suit the wedding feast.",
+            "Jesus here seems iconoclastic to the ecclesiastics and revolutionary in emphasis on the spiritual instead of the ritualistic and ceremonial."
+        ],
+        "John Gill": [
+            "Can the children of the bride chamber fast, while the bridegroom is with them?... as long as they have the bridegroom with them, they cannot fast.\" (Mark 2:19) ",
+            "It was very unsuitable for them, and very unreasonable to desire them to fast at such a time, and under such a character.\" ",
+            "The answer returned by Christ himself to the question is, 'No.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 2:19, Jesus presents a powerful and revolutionary message. He identifies himself as the bridegroom, symbolizing his covenant relationship with Israel and emphasizing the spiritual over the ritualistic. The repetition in the report highlights its primary authority and the care with which it was recorded. Jesus's question about fasting during a wedding feast challenges the ecclesiastical norms, as mourning does not suit such a celebration. He affirms that while the bridegroom is present, fasting is neither suitable nor reasonable. Through this metaphor, Jesus calls for a shift in focus towards the joy and abundance of the spiritual life.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.3483458373354695,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.18,
+            "commentatorTierSimilarities": [
+                54.55,
+                0.0,
+                45.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's identification as the bridegroom in this verse signifies his covenant relation with Israel and highlights the spiritual aspects over mere rituals. The repetition in the report demonstrates its primary authority and the care taken in recording it. Jesus challenges traditional norms by questioning the suitability of fasting during a joyous wedding feast, emphasizing the importance of joy and abundance over mourning. This revolutionary stance calls for a shift in focus from the ceremonial to the spiritual, rejecting ritualistic and ceremonial practices.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.307003609947649,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.8,
+            "commentatorTierSimilarities": [
+                66.66,
+                0.0,
+                33.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus's identification as the bridegroom reveals his covenant relationship with Israel and his emphasis on the spiritual rather than the ritualistic. The repetition in the report highlights its primary authority and careful recording. By questioning the suitability of fasting during a wedding feast, Jesus challenges traditional practices and urges a focus on joy and abundance instead of mourning. This revolutionary stance disrupts the established ecclesiastical norms and shifts the emphasis towards the spiritual aspects of faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.2589352652362065,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.2,
+            "commentatorTierSimilarities": [
+                67.2,
+                0.0,
+                32.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, Jesus's identification as the bridegroom conveys his covenant relationship with Israel, highlighting his emphasis on the spiritual aspects of faith over rituals. The repetition in the report underscores its authoritative nature and careful recording. By questioning the suitability of fasting during a wedding feast, Jesus disrupts traditional practices, urging a shift towards joy and abundance rather than mourning. This revolutionary stance challenges established ecclesiastical norms, emphasizing the importance of the spiritual realm over ritualistic and ceremonial expressions of faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.2574169180168495,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.15,
+            "commentatorTierSimilarities": [
+                67.36,
+                0.0,
+                32.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's identification as the bridegroom signifies his covenant relationship with Israel, highlighting the spiritual over the ritualistic. The repetition in the report underscores its authoritative nature. By questioning the suitability of fasting during a wedding feast, Jesus challenges traditions, urging a shift towards joy over mourning. This revolutionary stance disrupts established norms, emphasizing the spiritual realm over ceremonial expressions of faith.",
+            "wordCount": 62,
+            "quoteTokenProportion": 26.0,
+            "qualityScore": 1.3063615230433392,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.78,
+            "commentatorTierSimilarities": [
+                68.62,
+                0.0,
+                31.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

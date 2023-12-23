@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:26:10",
+    "verseRef": "Mark 10:26",
+    "bestBHT": {
+        "bht": "The disciples, well aware that having riches and trusting in them go hand in hand, are filled with dread at Jesus' solemn statement. Their astonishment and dismay are understandable, as they see the almost inevitable connection between wealth and misplaced trust. The impossibility of a rich person entering the kingdom of God amplifies their disbelief, prompting them to wonder who, then, can be saved. The disciples' amazement increases greatly when Jesus uses a comparison that implies the severe difficulty for a rich person to enter God's kingdom.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.5971164234924142,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.45,
+        "commentatorTierSimilarities": [
+            26.55,
+            30.81,
+            42.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This reiterated expression of dismay, after the explanation in ver. 24, need not surprise us.",
+            "The disciples were quite as well aware as we must be, if we deal truly with ourselves, that they that have riches and they that trust riches are too nearly commensurate.",
+            "for the mind to be relieved of much of its dread at the solemn saying which preceded."
+        ],
+        "Philip Schaff": [
+            "Astonished out of measure. Driven out of their wonted state of mind, dismayed.",
+            "Evidently they felt that having riches almost inevitably led to \u2018trusting in riches.\u2019",
+            "Because the impossibility was thus extended, the question, Then who can be saved? was so natural."
+        ],
+        "Archibald T. Robertson": [
+            "Then who (\u03ba\u03b1 \u03c4\u03b9\u03c2). Matthew 19:25 has \u03a4\u03b9\u03c2 \u03bf\u03c5\u03bd. Evidently \u03ba\u03b1 has here an inferential sense like \u03bf\u03c5\u03bd. "
+        ],
+        "John Gill": [
+            "They were still more amazed, their surprise increased exceedingly upon our Lord's using the above comparison; which, in their apprehension, showed, that it was utterly impossible for a rich man to enter into the kingdom of God.\" ",
+            "Who then can be saved? in the Messiah's kingdom, if rich men are not?\" ",
+            "The Persic version renders it, 'how can this man be saved?' as if the words had a particular respect to the young man, that had great possessions, and was gone away sorrowful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were aware that those who have riches and trust in them are too closely tied to their wealth. Their minds were burdened with dread at the solemn saying that preceded, but this repeated expression of dismay should not surprise us. Astonished and driven out of their usual state of mind, they felt that having riches almost inevitably led to trusting in riches. The impossibility of a rich man entering the kingdom of God extended their disbelief, leading to the natural question of who then can be saved. Their amazement increased greatly, especially considering the comparison used by Jesus, which seemed to suggest that it was utterly impossible for a rich man to enter the kingdom of God.",
+            "wordCount": 119,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.6805034656743076,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                25.67,
+                35.22,
+                39.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, well aware that having riches and trusting in them go hand in hand, are filled with dread at Jesus' solemn statement. Their astonishment and dismay are understandable, as they see the almost inevitable connection between wealth and misplaced trust. The impossibility of a rich person entering the kingdom of God amplifies their disbelief, prompting them to wonder who, then, can be saved. The disciples' amazement increases greatly when Jesus uses a comparison that implies the severe difficulty for a rich person to enter God's kingdom.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5971164234924142,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.45,
+            "commentatorTierSimilarities": [
+                26.55,
+                30.81,
+                42.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples' awareness of the correlation between having riches and trusting in them leads to their astonishment and disbelief. Their apprehension is heightened by Jesus' comparison, emphasizing the near-impossibility for a rich person to enter the kingdom of God. This amplifies their distress and raises the natural question of who can truly be saved. The disciples' surprise is only further compounded when considering the young man who possessed great wealth and departed sorrowfully, prompting them to ponder the specific implications of his salvation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4230424285904772,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.66,
+            "commentatorTierSimilarities": [
+                25.39,
+                30.85,
+                43.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples are well aware that riches and trusting in them are closely intertwined. Jesus' solemn saying deepens their dread, leading to their repeated expression of dismay. Their astonishment is understandable, as they observe the inevitable connection between wealth and misplaced trust. The impossibility of a rich person entering the kingdom of God intensifies their disbelief and raises the natural question of who can be saved. Their amazement is further heightened by Jesus' comparison, which seems to suggest the utter impossibility for a rich man to experience salvation in the kingdom of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.5334381510029675,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+            "commentatorTierSimilarities": [
+                27.47,
+                32.51,
+                40.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples understand the close correlation between having riches and trusting in them. Jesus' solemn words add to their hesitation and dismay. They feel the weight of the impossibility of a rich person entering the kingdom of God, which increases their disbelief. This leads them to question who can truly be saved. Their astonishment grows upon considering Jesus' comparison, which seems to indicate that it is completely impossible for a wealthy individual to obtain salvation. The disciples' confusion is deepened by the departure of the sorrowful young man with great possessions.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3995726323176583,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.88,
+            "commentatorTierSimilarities": [
+                26.13,
+                30.8,
+                43.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

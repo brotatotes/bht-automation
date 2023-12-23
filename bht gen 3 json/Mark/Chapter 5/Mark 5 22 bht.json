@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:22:44",
+    "verseRef": "Mark 5:22",
+    "bestBHT": {
+        "bht": "One would suppose that the ruler had been with the multitude, anxiously awaiting the return of Jesus. The vivid scene portrays the ruler falling at the feet of Jesus to worship Him. Jairus, the ruler's Hebrew name, signifies enlightening or enlightened. As a ruler of the synagogue, Jairus's humble act reveals his belief in Jesus as a great prophet and man of God. Synagogues often had a council of grave men, with the president serving as the ruler. Jairus, himself a ruler in his synagogue, recognized the authority and power of Jesus.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.3784490185284963,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.18,
+        "commentatorTierSimilarities": [
+            34.96,
+            18.18,
+            46.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "One would suppose from this that the ruler had been with the multitude on the shore, anxiously awaiting the return of Jesus.",
+            "The right order is indicated by the First Evangelist alone.",
+            "The meaning is the same in both [falling at his feet and worshiping Him]."
+        ],
+        "Philip Schaff": [
+            "Mark is fond of using the present tense.",
+            "The original is vivid: seeing him he falleth at his feet.",
+            "Matthew omits the name."
+        ],
+        "John Gill": [
+            "Jairus by name; in Hebrew \u05d9\u05d0\u05d9\u05e8, 'Jair': and Jerom says n, it signifies 'enlightening', or 'enlightened'.\" ",
+            "And it is no doubt a Jewish name, since he was a ruler of the synagogue; and besides, it is often mentioned in the Old Testament.",
+            "Though he was a person of such authority; yet having heard much of the doctrine and miracles of Christ, and believing him to be a great prophet, and man of God; though he might not know that he was the Messiah, and truly God, threw himself at his feet."
+        ],
+        "John Wesley": [
+            "To regulate the affairs of every synagogue, there was a council of grave men.",
+            "Over these was a president, who was termed the ruler of the synagogue.",
+            "Sometimes there was no more than one ruler in a synagogue."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ruler, who had been anxiously awaiting Jesus, fell at His feet and worshiped Him. Mark, using the present tense to bring vividness to the scene, emphasizes the ruler's reverence for Jesus. Jairus, the ruler's Hebrew name meaning enlightening or enlightened, demonstrates his belief in Jesus as a great prophet and man of God. As a ruler of the synagogue, Jairus held authority in the community and likely heard of Jesus' teachings and miracles. Despite his position, he humbled himself before Jesus. It was common for synagogues to have a council of grave men, with the president serving as the ruler of the synagogue. In some cases, there was only one ruler.",
+            "wordCount": 114,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.2406035317424804,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.59,
+            "commentatorTierSimilarities": [
+                31.24,
+                19.27,
+                49.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The anxious ruler, having awaited Jesus with the multitude, fell at His feet and worshiped Him. Jairus, his Hebrew name meaning enlightening, believed Jesus to be a great prophet and man of God. Despite his authority as ruler of the synagogue, Jairus humbled himself before Jesus. Synagogues typically had a council of grave men, with the president as the ruler. Sometimes, there was only one ruler, and Jairus fulfilled this role in his synagogue.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.3077438436599071,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.83,
+            "commentatorTierSimilarities": [
+                30.74,
+                15.57,
+                53.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "One would suppose that the ruler had been with the multitude, anxiously awaiting the return of Jesus. The vivid scene portrays the ruler falling at the feet of Jesus to worship Him. Jairus, the ruler's Hebrew name, signifies enlightening or enlightened. As a ruler of the synagogue, Jairus's humble act reveals his belief in Jesus as a great prophet and man of God. Synagogues often had a council of grave men, with the president serving as the ruler. Jairus, himself a ruler in his synagogue, recognized the authority and power of Jesus.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.3784490185284963,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.18,
+            "commentatorTierSimilarities": [
+                34.96,
+                18.18,
+                46.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ruler, having anxiously awaited Jesus, fell at His feet to worship Him. Jairus, meaning enlightening in Hebrew, believed Jesus to be a great prophet and man of God. Despite his authority as ruler of the synagogue, Jairus humbled himself before Jesus. Synagogues had a council of grave men, with the president as the ruler. Jairus, fulfilling this role, recognized Jesus' authority and power.",
+            "wordCount": 64,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.26513280258942,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.41,
+            "commentatorTierSimilarities": [
+                33.07,
+                18.14,
+                48.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ruler had been with the multitude, anxiously awaiting Jesus' return. Falling at His feet, the ruler worshiped Him. Jairus, his Hebrew name meaning enlightening, believed Jesus to be a great prophet and man of God. Despite his authority, Jairus humbled himself before Jesus. Synagogues had a council of grave men, and Jairus served as the ruler in his synagogue. Recognizing Jesus' authority and power, he approached Him with reverence.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.3420011794995574,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.96,
+            "commentatorTierSimilarities": [
+                36.5,
+                22.75,
+                40.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

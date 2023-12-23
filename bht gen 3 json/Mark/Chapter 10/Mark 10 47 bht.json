@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:26:03",
+    "verseRef": "Mark 10:47",
+    "bestBHT": {
+        "bht": "Upon hearing that Jesus of Nazareth was passing by, the blind beggar cried out fervently, addressing Him as Jesus, thou son of David, a title associated with the Messiah. Unlike the curious crowd who called Him the Nazarene, the beggar recognized Jesus as the promised Messiah. Instead of seeking material wealth, the beggar humbly pleaded for mercy, acknowledging that Jesus held the power to heal his affliction.",
+        "wordCount": 67,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 2.541792987264181,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.85,
+        "commentatorTierSimilarities": [
+            0.0,
+            62.02,
+            37.98
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Notice the contrast between the title given by the curious crowd: the Nazarene... and that in the cry of the blind beggar: Son of David (Messiah)."
+        ],
+        "John Gill": [
+            "And when he heard that it was Jesus of Nazareth.... That passed by.... he began to cry out; aloud, and with great vehemency, and often repeating it.\" ",
+            "Jesus, thou son of David, have mercy on me: he did not call him Jesus of Nazareth, as the common people did, but Jesus, the son of David, a title of the Messiah.\" ",
+            "Nor did he ask for money, but for mercy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the blind beggar heard that Jesus of Nazareth was passing by, he cried out with great urgency, addressing Him as Jesus, the son of David. This phrase emphasized his belief in Jesus as the Messiah. Instead of asking for money, the beggar pleaded for mercy, recognizing that only Jesus could grant him the healing he desperately sought. The crowd referred to Jesus as the Nazarene, highlighting their curiosity, while the beggar recognized Him as the promised Messiah.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.189723759928816,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.15,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.76,
+                43.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the blind beggar heard that it was Jesus of Nazareth passing by, he began to cry out with great vehemency, addressing Him as Jesus, thou son of David - a title of the Messiah. In contrast to the crowd's curiosity, the beggar recognized Jesus for who He truly was. Instead of asking for money, he pleaded for mercy, acknowledging that Jesus alone had the power to heal him.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.2682171324516465,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                54.53,
+                45.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon hearing that Jesus of Nazareth was passing by, the blind beggar cried out fervently, addressing Him as Jesus, thou son of David, a title associated with the Messiah. Unlike the curious crowd who called Him the Nazarene, the beggar recognized Jesus as the promised Messiah. Instead of seeking material wealth, the beggar humbly pleaded for mercy, acknowledging that Jesus held the power to heal his affliction.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.541792987264181,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.85,
+            "commentatorTierSimilarities": [
+                0.0,
+                62.02,
+                37.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When he heard that it was Jesus of Nazareth passing by, the blind beggar began to cry out with great vehemence, saying, Jesus, thou son of David, have mercy on me. The beggar's use of the title son of David pointed to his recognition of Jesus as the Messiah. Unlike the curious crowd, who referred to Jesus as the Nazarene, the beggar saw beyond the physical and addressed Jesus by His divine identity. Instead of asking for material help, the beggar humbly implored for mercy, recognizing Jesus as the ultimate source of healing and deliverance.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.503617773867679,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.58,
+            "commentatorTierSimilarities": [
+                0.0,
+                59.58,
+                40.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the blind beggar learned that Jesus of Nazareth was passing by, he fervently cried out, Jesus, thou son of David, have mercy on me. By addressing Him as son of David, the beggar acknowledged Jesus' identity as the long-awaited Messiah. In contrast to the crowd's curiosity, the beggar understood the true nature of Jesus. Rather than asking for monetary assistance, he humbly sought compassion, recognizing Jesus as the source of spiritual and physical healing.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.3030721371922005,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.92,
+            "commentatorTierSimilarities": [
+                0.0,
+                59.82,
+                40.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

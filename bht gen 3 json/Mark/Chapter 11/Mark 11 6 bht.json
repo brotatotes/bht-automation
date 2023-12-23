@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:26:22",
+    "verseRef": "Mark 11:6",
+    "bestBHT": {
+        "bht": "In this poignant account, Jesus showcases His authority and compassion. Described vividly as graphic and touching, this event carries deep significance. The colt, referred to as a beloved son, holds great value. It is remarkable to witness the obedience and willingness of those who released the colt, as they followed Jesus' command. This narrative reflects Jesus' divine authority and the responsive nature of both people and animals to His call.",
+        "wordCount": 70,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 0.8692569089790119,
+        "qualityScoreNormalizedComparedToV2BHTs": 20.25,
+        "commentatorTierSimilarities": [
+            0.0,
+            52.88,
+            47.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 11:6. He had yet one, a beloved son. Mark\u2019s account is more graphic and touching here.",
+            "\t"
+        ],
+        "John Gill": [
+            "The Lord hath need of him.",
+            "They let them go, and the colt with them, very freely.",
+            "Even as Jesus had commanded."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 11:6, we see a profound moment where Jesus shows His authority and power. The first-tier commentary describes the scene as graphic and touching, emphasizing the significance of this event. The second-tier commentary highlights the unique status of the colt, referred to as the beloved son, indicating its value and importance. The third-tier commentary further emphasizes the obedience and willingness of those who released the colt, following Jesus' command. This verse showcases Jesus' divine authority and how both people and animals respond to His call.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 0.8254556586125421,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                61.54,
+                38.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this poignant account, Jesus demonstrates His authority and compassion. Described vividly as graphic and touching, this event holds deep significance. The colt, referred to as a beloved son, holds great value as highlighted in the second-tier commentary. Mark 11:6 shows the obedience and willingness of those who released the colt, following Jesus' command. This verse showcases Jesus' divine authority, and the unwavering response of both people and animals to His call.",
+            "wordCount": 72,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 0.9245838913081408,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                60.34,
+                39.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this poignant account, Jesus demonstrates His authority and compassion. Described vividly as graphic and touching, this event holds deep significance. The colt, referred to as a beloved son, holds great value. Mark 11:6 shows the obedience and willingness of those who released the colt, following Jesus' command. This verse showcases Jesus' divine authority, and the unwavering response of both people and animals to His call.",
+            "wordCount": 65,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 0.946416985421231,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.81,
+            "commentatorTierSimilarities": [
+                0.0,
+                56.21,
+                43.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this poignant account, Jesus showcases His authority and compassion. Described vividly as graphic and touching, this event carries deep significance. The colt, referred to as a beloved son, holds great value. It is remarkable to witness the obedience and willingness of those who released the colt, as they followed Jesus' command. This narrative reflects Jesus' divine authority and the responsive nature of both people and animals to His call.",
+            "wordCount": 70,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 0.8692569089790119,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                52.88,
+                47.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this compelling episode, Jesus displays both His authority and compassion. The description given as graphic and touching underscores the profound nature of this event. The colt, referred to affectionately as a beloved son, signifies its inherent worth. Mark 11:6 reveals the unwavering obedience and readiness of those who released the colt, meticulously following Jesus' command. This passage powerfully depicts Jesus' divine authority, as well as the wholehearted response displayed by both people and animals to His call.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 0.8650808097334446,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.11,
+            "commentatorTierSimilarities": [
+                0.0,
+                57.42,
+                42.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

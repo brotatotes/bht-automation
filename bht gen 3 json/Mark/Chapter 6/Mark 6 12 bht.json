@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:23:01",
+    "verseRef": "Mark 6:12",
+    "bestBHT": {
+        "bht": "The disciples preached that men should repent, echoing the message of John the Baptist and Jesus. Their preaching aimed to lead people to repent and reform their lives in recognition of the evil of sin, and to receive forgiveness through the Messiah's teachings. The disciples understood that faith and repentance went hand in hand, and they recognized the necessity for individuals to change both their hearts and their actions. This call to repentance was a vital aspect of their ministry.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.044875913605816,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+        "commentatorTierSimilarities": [
+            49.51,
+            33.05,
+            17.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "See the nature of repentance explained in notes at Matthew 3:2.",
+            "They were now called upon to repent and reform their lives because sin was evil, because the Messiah had come to preach forgiveness to the penitent.",
+            "At 'his' presence it was fit that the nation should turn from its sins and prepare to receive him."
+        ],
+        "John Calvin": [
+            "I think, therefore, that this anointing was a visible token of spiritual grace, by which the healing that was administered by them was declared to proceed from the secret power of God.",
+            "The absurdity of an attempt to imitate the Apostles, by making the anointing of the sick a perpetual ordinance of the Church.",
+            "In our own day, the ignorance of the Papists is exceedingly ridiculous in maintaining that their nasty unction, (3) by which they hurry to the grave persons who are fast dying, is a Sacrament."
+        ],
+        "Philip Schaff": [
+            "Mark 6:12. That men should repent. Not simply, preached repentance, but preached in order that men might be lead to repentance; the latter including the former.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Preached that men should repent (\u03b5\u03ba\u03b7\u03c1\u03c5\u03be\u03b1\u03bd \u03b9\u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1\u03bd\u03bf\u03c9\u03c3\u03b9\u03bd). Constative aorist (\u03b5\u03ba\u03b7\u03c1\u03c5\u03be\u03b1\u03bd), summary description. This was the message of the Baptist (Matthew 3:2) and of Jesus (Mark 1:15). "
+        ],
+        "John Gill": [
+            "change both their sentiments and their conduct",
+            "faith and repentance went together",
+            "they were in such a state as to need it; and how necessary it was for them to have it"
+        ],
+        "John Wesley": [
+            "Luke 9:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse talks about how the disciples were preaching that men should repent. This message of repentance was also proclaimed by John the Baptist and Jesus. Men were called upon to repent and reform their lives because sin was evil and the Messiah had come to preach forgiveness to the penitent. The disciples were not just preaching repentance, but preaching in order to lead people to repentance. This emphasizes the importance of changing both one's sentiments and conduct.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.9904751924594417,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                50.83,
+                32.43,
+                16.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples preached that men should repent, echoing the message of John the Baptist and Jesus. Their preaching aimed to lead people to repent and reform their lives in recognition of the evil of sin, and to receive forgiveness through the Messiah's teachings. The disciples understood that faith and repentance went hand in hand, and they recognized the necessity for individuals to change both their hearts and their actions. This call to repentance was a vital aspect of their ministry.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.044875913605816,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+            "commentatorTierSimilarities": [
+                49.51,
+                33.05,
+                17.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples proclaimed the need for men to repent, aligning with the message of John the Baptist and Jesus. They sought to guide people towards a transformative change, urging them to recognize the inherent evil in sin and emphasizing the importance of both faith and repentance. Understanding the profound connection between one's beliefs and actions, the disciples emphasized the necessity for individuals to embrace a change of heart and conduct, paving the way for forgiveness and spiritual growth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.939383784544805,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                50.06,
+                31.72,
+                18.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples preached repentance, echoing John the Baptist and Jesus. Their goal was to lead people to recognize the evil of sin and reform their lives. Both faith and repentance were emphasized as essential, and the disciples understood that individuals needed to undergo a significant change in their beliefs and behaviors. This call to repentance was a crucial aspect of their ministry, urging people to embrace a transformative journey towards forgiveness and spiritual renewal.",
+            "wordCount": 74,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8759654463429936,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                48.1,
+                31.76,
+                20.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples preached a message of repentance, echoing the teachings of John the Baptist and Jesus. They aimed to lead people to recognize the evilness of sin and bring about a change in their lives. The disciples emphasized the importance of faith and repentance going hand in hand, underscoring the need for individuals to transform both their beliefs and behaviors. This call to repentance was a significant aspect of their ministry, inviting people to embrace a path of forgiveness and spiritual renewal.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.8737395006375217,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.64,
+            "commentatorTierSimilarities": [
+                48.51,
+                31.87,
+                19.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

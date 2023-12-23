@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:23:59",
+    "verseRef": "Mark 7:14",
+    "bestBHT": {
+        "bht": "Our Lord gathered the multitude to Him and delivered a pointed appeal, urging the people to see through the pretentious hypocrisy of the Pharisees. This call to listen and understand exposed the deceptive practices of these religious leaders. In doing so, Jesus invited the common people to draw nearer to Him and pay attention to what concerned every one of them. This speech caused offense to the Pharisees, but it served as a powerful message to the crowd, who were encouraged to discern the truth and not be deceived by the religious elite.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.6224552238495806,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+        "commentatorTierSimilarities": [
+            52.33,
+            21.59,
+            26.08
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord called the multitude to Him, when He uttered this speech.\" ",
+            "It was especially this, said in the hearing of both the Pharisees and them, that gave offence to the former."
+        ],
+        "Philip Schaff": [
+            "Again 'implies that during this questioning the crowd was not so closely about Him as usual.\" ",
+            "It does not follow that He had been judicially examined in the synagogue.",
+            "Hear me all (of you). 'All' is peculiar to Mark."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus now turned the tables on them completely and laid bare their hollow pretentious hypocrisy to the people.",
+            "Hear me all of you and understand. A most pointed appeal to the people to see into and see through the chicanery of these ecclesiastics.",
+            "A most pointed appeal to the people to see into and see through the chicanery of these ecclesiastics."
+        ],
+        "John Gill": [
+            "He turns himself to the common people...and called to them to come nearer to him.\" ",
+            "Hearken to me every one of you, and understand; signifying, he had something of moment to say to them.",
+            "What they should be desirous of understanding aright, it being what concerned every one of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord gathered the multitude to Him and delivered a pointed appeal, urging the people to see through the pretentious hypocrisy of the Pharisees. This call to listen and understand exposed the deceptive practices of these religious leaders. In doing so, Jesus invited the common people to draw nearer to Him and pay attention to what concerned every one of them. This speech caused offense to the Pharisees, but it served as a powerful message to the crowd, who were encouraged to discern the truth and not be deceived by the religious elite.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.6224552238495806,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                52.33,
+                21.59,
+                26.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord summoned the multitude and uttered a speech, directed at both the Pharisees and the people, exposing the false pretenses of the religious elite. He called on the crowd to listen and understand, highlighting the importance of seeing through the chicanery of these ecclesiastics. By doing so, Jesus aimed to enlighten the common people about matters that concerned each of them. This appeal caused offense to the Pharisees but served as a clear message to the crowd to discern the truth and reject deceit.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6195629251225296,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                51.32,
+                23.01,
+                25.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord's speech in the presence of both the crowd and the Pharisees sought to expose the hollow pretentiousness of the religious leaders. He invited the people to listen and comprehend, urging them to see through the deceptive practices of the ecclesiastics. This direct appeal aimed to dismantle their hypocrisy and encourage the common people to understand the significance of what was being said, as it pertained to each individual. Although offensive to the Pharisees, it served as a vital message for the crowd to discern and reject falsehood.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.5294542629183394,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.2,
+            "commentatorTierSimilarities": [
+                54.44,
+                22.32,
+                23.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Gathering the multitude, our Lord fearlessly confronted the Pharisees with a speech that exposed their empty pretense. His pointed appeal challenged the crowd to see through the deceptive practices of these religious leaders. By urging them to listen and understand, Jesus called upon the common people to discern the truth and unravel the chicanery of the ecclesiastics. This bold message not only unsettled the Pharisees but also empowered the crowd to perceive the significance of his words and to resist being misled.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.6096716284706294,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.86,
+            "commentatorTierSimilarities": [
+                53.99,
+                23.67,
+                22.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Summoning the multitude, Our Lord delivered a speech that exposed the Pharisees' hollow pretentiousness, calling upon the people to see through their deceptive practices. This direct appeal challenged the common people to listen and understand, urging them to discern the chicanery of these religious leaders. By doing so, Jesus not only confronted the Pharisees but also empowered the crowd to grasp the significance of his message. This call to discernment disrupted the Pharisees' fa\u00e7ade, announcing the importance of perceiving the truth amidst their hypocrisy.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.6118242676210297,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.94,
+            "commentatorTierSimilarities": [
+                55.69,
+                22.08,
+                22.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

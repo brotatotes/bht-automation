@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:24:03",
+    "verseRef": "Mark 6:55",
+    "bestBHT": {
+        "bht": "During this time, there was a strong popular enthusiasm for Jesus, and people would eagerly run from place to place to bring the sick to Him. They would carry them in beds, sometimes even from one place to another, in hopes of finding Jesus wherever they heard He was. It was an excited pursuit, with the news spreading and people acting quickly to bring the sick to Jesus. This shows the deep faith and determination of the people, as they believed in Jesus' power to heal and were willing to go through great lengths to bring the sick to Him.",
+        "wordCount": 100,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 1.7695084168687807,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+        "commentatorTierSimilarities": [
+            37.14,
+            26.92,
+            35.94
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "55.] to carry about implies that they occasionally had wrong information of His being in a place, and had to carry the sick about, following the rumour of his presence"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "At this period of our Lord's ministry the popular enthusiasm in His favor was at its height.",
+            "where they heard he was",
+            "carry about in beds those that were sick"
+        ],
+        "Marvin Vincent": [
+            "Ran round. From place to place where the sick were, to bring them to Jesus.",
+            "Carry about [\u03c0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03bd]. peri, about; one hither and another thither, wherever Christ might be at the time.",
+            "Beds [\u03ba\u03c1\u03b1\u03b2\u03b1\u03c4\u03c4\u03bf\u03b9\u03c2]. Condemned as bad Greek, but used by both Luke and John."
+        ],
+        "Philip Schaff": [
+            "To carry about in beds. Some were taken to one place, others to another, as they heard where our Lord was.",
+            "Some may have been carried from place to place after Him.",
+            "It is not meant that this was generally necessary."
+        ],
+        "Archibald T. Robertson": [
+            "Vivid constative aorist picturing the excited pursuit of Jesus as the news spread that he was in Gennesaret.",
+            "Pallets like that of the man let down through the roof.",
+            "Imperfect tense of \u03b1\u03ba\u03bf\u03c5\u03c9 (repetition), present indicative \u03b5\u03c3\u03c4\u03b9\u03bd retained in indirect discourse."
+        ],
+        "John Gill": [
+            "And ran through that whole region round about... and began to carry about in beds those that were sick.\" ",
+            "These they brought to him, where they heard he was.",
+            "For he went about from place to place doing good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this time, there was a strong popular enthusiasm for Jesus, and people would eagerly run from place to place to bring the sick to Him. They would carry them in beds, sometimes even from one place to another, in hopes of finding Jesus wherever they heard He was. It was an excited pursuit, with the news spreading and people acting quickly to bring the sick to Jesus. This shows the deep faith and determination of the people, as they believed in Jesus' power to heal and were willing to go through great lengths to bring the sick to Him.",
+            "wordCount": 100,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.7695084168687807,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                37.14,
+                26.92,
+                35.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this time, the popular enthusiasm for Jesus was at its height, and people would carry the sick from place to place, following the news of His presence. They would carry the sick in beds, eagerly running through the region in search of Jesus. This vividly portrays the deep faith and determination of the people to bring the sick to Him, wherever He may be. Their actions demonstrate their belief in Jesus' healing power and their willingness to go to great lengths to access it.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6414004135002314,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+            "commentatorTierSimilarities": [
+                40.6,
+                21.31,
+                38.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this period of Jesus' ministry, there was a strong popular enthusiasm for Him, leading people to carry the sick from one place to another based on rumors of His presence. They would run through the region in search of Jesus, eager to bring the sick to Him. This demonstrates the deep faith and determination of the people, as well as their belief in Jesus' healing power. They were willing to go to great lengths to access His miraculous abilities.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.5042473438521449,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                37.19,
+                25.57,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During this time, the popular enthusiasm for Jesus was at its height, and people would eagerly run from place to place to bring the sick to Him. They would carry them in beds, sometimes even from one place to another, in hopes of finding Jesus wherever they heard He was. The vivid constative aorist picturing the excited pursuit of Jesus as the news spread that he was in Gennesaret demonstrates the deep faith and determination of the people. Their actions reflect their belief in Jesus' healing power and their unwavering commitment to bringing the sick to Him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.7197686757197395,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                39.8,
+                25.85,
+                34.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this time, the popular enthusiasm for Jesus reached its peak, and people energetically carried the sick from place to place, following rumors of His whereabouts. They ran all around the region, diligently seeking Jesus and bringing the sick to Him. This vibrant pursuit highlights the profound faith and devotion of the people, who firmly believed in Jesus' ability to heal. Their unwavering dedication to bringing the sick to Him exemplifies their strong conviction in His miraculous power.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.4488077049999288,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.52,
+            "commentatorTierSimilarities": [
+                40.36,
+                18.38,
+                41.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

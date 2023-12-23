@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:29:29",
+    "verseRef": "Mark 15:33",
+    "bestBHT": {
+        "bht": "At noon, specifically the sixth hour according to Jewish time, darkness enveloped the entire land where Jesus hung on the cross. This profound desolation and suffering did not diminish His identity as the Son of God; it was impossible for Him to cease being divine. The darkness persisted until the ninth hour, around three o'clock in the afternoon, symbolizing the extended duration of Jesus' anguish from approximately nine in the morning.",
+        "wordCount": 72,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.623827863421396,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+        "commentatorTierSimilarities": [
+            48.81,
+            23.29,
+            27.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 15:33. The sixth hour. The form of the verse, as well as the connection, shows that our Lord had already hung for some time upon the cross (see Mark 15:25).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The sixth hour (\u03c9\u03c1\u03b1\u03c2 \u03b5\u03ba\u03c4\u03b7\u03c2). That is, noon (Jewish time), as the third hour was nine A.M.\" ",
+            "Given also by Luke 23:44. Mark gives the Aramaic transliteration as does B in Matthew 27:45, which see for discussion.",
+            "This desolation was the deepest suffering. He did not cease to be the Son of God. That would be impossible."
+        ],
+        "John Gill": [
+            "And when it was noon, the sun was darkened, and the whole world was darkened until the ninth hour.",
+            "There was darkness over the whole land until the ninth hour; or three o'clock in the afternoon.",
+            "Having hung upon the cross from about the third hour, or nine in the morning."
+        ],
+        "John Wesley": [
+            "Matthew 27:45; Luke 23:44."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At noon, the sixth hour, darkness covered the land as Jesus hung on the cross. This desolation and suffering, though deep, did not strip Him of His divinity as the Son of God. This darkness persisted until the ninth hour, indicating that Jesus endured this agony for several hours, from about nine in the morning until three o'clock in the afternoon. (Mark 15:33; Matthew 27:45; Luke 23:44)",
+            "wordCount": 65,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.5621035201219722,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.28,
+            "commentatorTierSimilarities": [
+                37.24,
+                24.08,
+                38.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Around noon, at the sixth hour according to Jewish time, darkness covered the land while Jesus was on the cross. This deep suffering did not diminish His divine nature as the Son of God. This darkness lasted until the ninth hour, approximately three in the afternoon, signifying that Jesus endured this agony for several hours, beginning at around nine in the morning.",
+            "wordCount": 62,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.525007035575029,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                48.32,
+                22.28,
+                29.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At noon, specifically the sixth hour according to Jewish time, darkness enveloped the entire land where Jesus hung on the cross. This profound desolation and suffering did not diminish His identity as the Son of God; it was impossible for Him to cease being divine. The darkness persisted until the ninth hour, around three o'clock in the afternoon, symbolizing the extended duration of Jesus' anguish from approximately nine in the morning.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.623827863421396,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                48.81,
+                23.29,
+                27.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Around noon, at the sixth hour, darkness covered the land where Jesus was crucified. This darkness is a symbol of the profound suffering that Jesus endured on the cross. However, this suffering did not diminish His divine nature as the Son of God. The darkness lasted until the ninth hour, around three o'clock in the afternoon, suggesting that Jesus endured this agony for several hours, starting at approximately nine in the morning.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.4146210096923297,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+            "commentatorTierSimilarities": [
+                46.32,
+                22.73,
+                30.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Around noon, specifically at the sixth hour according to Jewish time, darkness descended upon the land. This darkness represents the deep anguish and suffering that Jesus experienced on the cross. It is important to note that despite this immense suffering, Jesus did not cease to be the Son of God. The darkness persisted until the ninth hour, around three o'clock in the afternoon, indicating that Jesus endured this torment for hours, beginning at approximately nine in the morning.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.4110449716883118,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+            "commentatorTierSimilarities": [
+                48.08,
+                22.96,
+                28.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

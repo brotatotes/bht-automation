@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:25:40",
+    "verseRef": "Mark 10:8",
+    "bestBHT": {
+        "bht": "The union of two individuals in marriage goes beyond a mere physical joining. When a man and a woman are lawfully married, they become one flesh. This expression signifies the deep unity and inseparability that is established between them. The use of the preposition unto graphically portrays the transformative process of becoming one from two. This union encompasses not only the physical aspect but also a spiritual and emotional connection. It is a bond that should not be easily broken, except in cases of adultery.",
+        "wordCount": 85,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 0.9617796900139333,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.32,
+        "commentatorTierSimilarities": [
+            35.94,
+            0.0,
+            64.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Shall be unto one flesh.",
+            "The preposition expresses more graphically than the A. V. the becoming of one from two.",
+            "Shall become."
+        ],
+        "John Gill": [
+            "And the twain shall be one flesh...so then they are no more twain; but one flesh.\" ",
+            "Two persons, a man and woman, being lawfully married together, become one flesh, or 'one body'\" ",
+            "The wife is to be loved by the husband as his own body, and from whom there should be no separation, until death, but in case of adultery."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:8, the verse states that two individuals shall become one flesh. This phrase goes beyond a simple joining of two bodies and emphasizes the profound unity and indivisibility that occurs in marriage. The use of the preposition unto vividly depicts the transformation from two separate entities into a single entity. This union is not merely physical, but also spiritual and emotional. It is a merging of two lives into one, where there should be no separation, except in cases of adultery.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 0.9823203223210686,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.01,
+            "commentatorTierSimilarities": [
+                36.19,
+                0.0,
+                63.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The joining of two individuals in marriage is symbolized by their becoming one flesh. This phrase conveys the profound unity and inseparability that occurs when a man and a woman are lawfully married. The preposition used in the verse vividly captures the transformation from two distinct individuals to a single entity. This unity extends beyond the physical realm, encompassing emotional and spiritual connection as well. The husband is called to love his wife as his own body, with a commitment to not separate except in cases of adultery.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.0351776475700234,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.76,
+            "commentatorTierSimilarities": [
+                30.26,
+                0.0,
+                69.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The union of two individuals in marriage goes beyond a mere physical joining. When a man and a woman are lawfully married, they become one flesh. This expression signifies the deep unity and inseparability that is established between them. The use of the preposition unto graphically portrays the transformative process of becoming one from two. This union encompasses not only the physical aspect but also a spiritual and emotional connection. It is a bond that should not be easily broken, except in cases of adultery.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 0.9617796900139333,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.32,
+            "commentatorTierSimilarities": [
+                35.94,
+                0.0,
+                64.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When a man and a woman enter into the sacred institution of marriage, they are united in a profound way. This joining is represented by the phrase shall be unto one flesh. The use of the preposition unto vividly illustrates the transformative process of becoming one from two. This unity extends beyond the physical realm and encompasses a deep spiritual and emotional connection. It is a bond that should not be easily broken, apart from situations involving adultery.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 0.8860328854790174,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.8,
+            "commentatorTierSimilarities": [
+                39.59,
+                0.0,
+                60.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The phrase shall be unto one flesh in Mark 10:8 signifies the transformative power of marriage. The preposition used here, unto, graphically depicts the process of becoming one from two. By entering into this sacred covenant, two separate individuals are united in a profound and indissoluble manner. This union extends beyond the physical realm, encompassing a deep spiritual and emotional connection. It represents a bond that should not be easily broken, except in cases of infidelity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 0.9216189797221608,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.99,
+            "commentatorTierSimilarities": [
+                44.11,
+                0.0,
+                55.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

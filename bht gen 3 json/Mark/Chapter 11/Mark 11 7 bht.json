@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-22-2023 23:26:28",
+    "verseRef": "Mark 11:7",
+    "bestBHT": {
+        "bht": "As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.",
+        "wordCount": 86,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.81619822007284,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+        "commentatorTierSimilarities": [
+            47.4,
+            17.95,
+            34.65
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 11:7. Sat upon him. On the colt. Luke and John specify this. See on Matthew 21:7.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They bring the colt unto Jesus (\u03c6\u03b5\u03c1\u03bf\u03c5\u03c3\u03b9\u03bd \u03c4\u03bf\u03bd \u03c0\u03c9\u03bb\u03bf\u03bd \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u0399\u03b7\u03c3\u03bf\u03c5\u03bd). Vivid historical present. The owners acquiesced as Jesus had predicted. Evidently friends of Jesus. "
+        ],
+        "John Gill": [
+            "and cast their garments on him; their clothes to be instead of a saddle, for Christ to sit upon:",
+            "Jesus rode on him",
+            "he sat on it without any trouble, though it had never been backed before, and rode on his way to Jerusalem"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.81619822007284,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                47.4,
+                17.95,
+                34.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus entered Jerusalem, his friends brought a colt to him, just as he had predicted. The owners willingly released the colt, allowing Jesus to sit upon it. It is worth noting that other accounts specify that Jesus sat upon the colt. Interestingly, instead of a saddle, his followers placed their garments on the colt. It is remarkable that Jesus was able to ride the colt without any difficulty, even though it had never been ridden before. And so, he continued on his way to Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.81619822007284,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                47.4,
+                17.95,
+                34.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus entered Jerusalem, his friends vividly brought a colt to him, as he had predicted. The owners willingly acquiesced, allowing Jesus to sit upon the colt. Other accounts specify that he sat upon it. Interestingly, his followers placed their garments on the colt instead of a saddle. Remarkably, Jesus rode the colt without any trouble, despite it never being ridden before. And so, he continued on his way to Jerusalem.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.5504238712491052,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.89,
+            "commentatorTierSimilarities": [
+                42.89,
+                16.85,
+                40.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus entered Jerusalem, his friends vividly brought a colt to him, just as he had predicted, willingly acquiescing to his request. Other accounts specify that he sat upon the colt, and his followers placed their garments on it in lieu of a saddle. Remarkably, Jesus rode the colt without any trouble, despite it being unridden before. And so, he continued on his way to Jerusalem.",
+            "wordCount": 66,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.6408713426889254,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.9,
+            "commentatorTierSimilarities": [
+                42.85,
+                16.42,
+                40.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus entered Jerusalem, the owners of the colt willingly brought it to him, fulfilling his prediction. Jesus sat upon the colt, while his followers placed their garments on it as a makeshift saddle. Despite the colt never being ridden before, Jesus rode it without any trouble. And so, he continued his journey to Jerusalem.",
+            "wordCount": 55,
+            "quoteTokenProportion": 48.78,
+            "qualityScore": 1.7199586181110895,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                41.83,
+                15.79,
+                42.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

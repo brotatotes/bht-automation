@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:26:32",
+    "verseRef": "Mark 11:26",
+    "bestBHT": {
+        "bht": "This verse is omitted or put in a footnote by some versions of the Bible. However, it is important to understand its significance. It serves as a warning that if we do not forgive others, our heavenly Father will not forgive our own trespasses. This implies that those who do not have a proper understanding of forgiveness may struggle to draw near to God as His children. It is essential for us to recognize the need for forgiveness through the blood of Christ in order to approach our heavenly Father.",
+        "wordCount": 90,
+        "quoteTokenProportion": 51.61,
+        "qualityScore": 1.3702890532155796,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.91,
+        "commentatorTierSimilarities": [
+            42.53,
+            0.0,
+            57.47
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "This verse is omitted by Westcott and Hort. The Revised Version puts it in a footnote. "
+        ],
+        "John Gill": [
+            "If ye do not forgive... neither will your heavenly Father forgive your trespasses.\" ",
+            "Such persons do not appear to have any true, or right notions of forgiveness.\" ",
+            "Without a view of pardon through the blood of Christ, a child of God cannot draw nigh to its heavenly Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse is omitted or put in a footnote by some versions of the Bible. However, it is important to understand its significance. It serves as a warning that if we do not forgive others, our heavenly Father will not forgive our own trespasses. This implies that those who do not have a proper understanding of forgiveness may struggle to draw near to God as His children. It is essential for us to recognize the need for forgiveness through the blood of Christ in order to approach our heavenly Father.",
+            "wordCount": 90,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.3702890532155796,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.91,
+            "commentatorTierSimilarities": [
+                42.53,
+                0.0,
+                57.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage, although omitted or placed in a footnote in some versions of the Bible, carries an important message about forgiveness. It serves as a warning that if we fail to forgive others, our heavenly Father will likewise not forgive our own transgressions. This highlights the significance of having a proper understanding of forgiveness and the need for the atoning sacrifice of Christ to approach God as His children. Without this understanding, our relationship with the heavenly Father may be hindered.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.4413857682576483,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.27,
+            "commentatorTierSimilarities": [
+                38.33,
+                0.0,
+                61.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Although some versions of the Bible omit or place Mark 11:26 in a footnote, this verse carries a crucial message about forgiveness. It warns that if we withhold forgiveness, our heavenly Father will withhold forgiveness from us. This shows the importance of understanding forgiveness and the need for Christ's sacrifice to approach God as His children. Without this understanding, our relationship with the heavenly Father may face obstacles. Remembering this verse can help guide us in extending forgiveness to others just as God does for us.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.3634802014955538,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.68,
+            "commentatorTierSimilarities": [
+                35.93,
+                0.0,
+                64.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some versions of the Bible omit or place this verse in a footnote, yet its significance lies in its message about forgiveness. It warns that if we fail to forgive others, our heavenly Father will withhold His forgiveness from us. This highlights the importance of understanding the concept of forgiveness and the role of Christ's sacrifice in our relationship with God. Without this understanding, our ability to draw near to God as His children may be hindered. We should remember this message and strive to extend forgiveness to others as God does for us.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.3591670131861022,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.54,
+            "commentatorTierSimilarities": [
+                37.27,
+                0.0,
+                62.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While some versions of the Bible omit or footnote this verse, its relevance lies in its warning about forgiveness. Failure to forgive others would result in our heavenly Father withholding forgiveness from us. Understanding forgiveness and the significance of Christ's sacrifice is vital in our relationship with God. Without this knowledge, our ability to approach Him as His children might be hindered. Remembering this message prompts us to extend forgiveness to others, just as God forgives us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.2551689871215166,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.08,
+            "commentatorTierSimilarities": [
+                33.87,
+                0.0,
+                66.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

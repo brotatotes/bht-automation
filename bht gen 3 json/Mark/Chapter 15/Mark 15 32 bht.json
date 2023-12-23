@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:29:28",
+    "verseRef": "Mark 15:32",
+    "bestBHT": {
+        "bht": "The thieves crucified with Jesus scorned him on the cross, demanding that he come down if he was truly the Christ and the King of Israel. Their request for tangible evidence revealed their lack of comprehension regarding the profound purpose of Jesus' suffering. Their hope was that witnessing his descent would lead them to faith, as they failed to grasp the true significance of the cross and Jesus' redemptive mission.",
+        "wordCount": 70,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.6477760353645943,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+        "commentatorTierSimilarities": [
+            44.46,
+            0.0,
+            55.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32. And they that were crucified with him] See notes on Luke."
+        ],
+        "Marvin Vincent": [
+            "The Christ. See on Matthew 2:1. Referring to the confession before the high - priest (xiv. 62). ",
+            "King of Israel. Referring to the confession before Pilate (xv. 2)."
+        ],
+        "Archibald T. Robertson": [
+            "Now come down (\u03ba\u03b1\u03c4\u03b1\u03b2\u03b1\u03c4\u03c9 \u03bd\u03c5\u03bd). Now that he is nailed to the cross.",
+            "That we may see and believe (\u03b9\u03bd\u03b1 \u03b9\u03b4\u03c9\u03bc\u03b5\u03bd \u03ba\u03b1 \u03c0\u03b9\u03c3\u03c4\u03b5\u03c5\u03c3\u03c9\u03bc\u03b5\u03bd).",
+            "Reproached him (\u03c9\u03bd\u03b5\u03b9\u03b4\u03b9\u03b6\u03bf\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Imperfect tense. They did it several times."
+        ],
+        "John Gill": [
+            "Let Christ the king of Israel,.... Who sets up for the Messiah, and whose followers call him the king of Israel, whom the nation expected: and if he is so, let him descend now from the cross, that we may see; see him come down, and be eyewitnesses of his power:\" ",
+            "and believe; that he is the Messiah that was prophesied of, and has been waiting for:\" ",
+            "and they that were crucified with him reviled him; that is, the thieves, at least one of them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Letting out their taunts, the two thieves crucified alongside Jesus challenged him to descend from the cross if he truly was the Christ and the King of Israel. Their jeers demanded visible proof of his power so that they may see and believe. Their relentless mockery continued, repeatedly reproaching him as they hung in their own agonizing pain. These thieves, desperate in their own dire circumstances, failed to grasp the true significance of the cross and the redemptive purpose of Jesus' suffering.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.4581914144937103,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.83,
+            "commentatorTierSimilarities": [
+                44.23,
+                0.0,
+                55.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus hung on the cross, the two thieves crucified with him derided him, demanding that he come down if he truly was the Christ and the King of Israel. They wanted visible proof of his power, thinking it would lead them to belief. Their continuous jeering demonstrated a lack of understanding, as they failed to comprehend the profound purpose of Jesus' suffering and the redemptive mission he was fulfilling on the cross.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.5998752965346625,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                41.15,
+                0.0,
+                58.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mocking Jesus, the two thieves crucified alongside him challenged him to come down from the cross if he truly was the Christ and the King of Israel. Their demand for visible proof betrayed their ignorance of the redemptive purpose of Jesus' suffering. They wanted to see him descend and believed that witnessing such power would confirm his status as the long-awaited Messiah. Unaware of the profound significance of the cross, these thieves failed to grasp the true nature of Jesus' mission.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5704725840567306,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.56,
+            "commentatorTierSimilarities": [
+                39.74,
+                0.0,
+                60.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crucified thieves, in their mockery and disbelief, challenged Jesus to come down from the cross if he truly was the Christ and the King of Israel. Their demand for visible proof reflected their failure to understand the redemptive purpose of Jesus' suffering. They hoped that witnessing his descent would lead to belief, unaware of the profound significance of the cross and Jesus' sacrificial mission.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.5758227892466197,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                45.74,
+                0.0,
+                54.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The thieves crucified with Jesus scorned him on the cross, demanding that he come down if he was truly the Christ and the King of Israel. Their request for tangible evidence revealed their lack of comprehension regarding the profound purpose of Jesus' suffering. Their hope was that witnessing his descent would lead them to faith, as they failed to grasp the true significance of the cross and Jesus' redemptive mission.",
+            "wordCount": 70,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.6477760353645943,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                44.46,
+                0.0,
+                55.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

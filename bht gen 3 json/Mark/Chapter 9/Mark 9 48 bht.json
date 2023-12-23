@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:25:29",
+    "verseRef": "Mark 9:48",
+    "bestBHT": {
+        "bht": "The vivid imagery of an undying worm and an unquenchable fire depicts the terrifying reality of Gehenna, drawing on the phrases and language used by the Jewish Church. These figures convey the insatiable nature of the worm that preys upon the inhabitants of this dreadful realm, as well as the eternal nature of the consuming flame. The description surpasses any earthly comparison and leaves no room for redemption or escape, emphasizing the relentless agony of Gehenna.",
+        "wordCount": 76,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 1.6627325666066923,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+        "commentatorTierSimilarities": [
+            56.52,
+            0.0,
+            43.48
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The 'unquenchableness' of this fire has already been brought before us.",
+            "The awfully vivid idea of an undying worm, everlastingly consuming an unconsumable body.",
+            "The closing words of the evangelical prophet, which seem to have furnished the later Jewish Church with its current phraseology on the subject of future punishment."
+        ],
+        "Archibald T. Robertson": [
+            "The worm, i.e. that preys upon the inhabitants of this dread realm.",
+            "Two bold figures of Gehenna combined (the gnawing worm, the burning flame).",
+            "No figures of Gehenna can equal the dread reality which is here described."
+        ],
+        "John Gill": [
+            "Where their worm dieth not, and the fire is not quenched.\" ",
+            "This is repeated again, not only to assure the truth of the thing, but to raise the attention of the mind unto it, and fix an awful impression upon it.\" ",
+            "There is no redemption from hell, as Origen and others have thought."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 9:48, the vivid imagery of an undying worm and an unquenchable fire conveys the terrifying reality of Gehenna, the place of future punishment. This description draws on the prophetic words and current phraseology of the Jewish Church. It emphasizes the insatiable nature of the worm that preys upon the inhabitants of this dreadful realm, as well as the burning flame that consumes an unconsumable body. The relentless agony of Gehenna, depicted through these bold figures, surpasses any earthly comparisons and leaves no room for redemption or escape.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.6443570730301442,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+            "commentatorTierSimilarities": [
+                57.22,
+                0.0,
+                42.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The vivid description of an unquenchable fire and an undying worm in this verse portrays the dreadful reality of Gehenna, drawing on the imagery used by the Jewish Church. The combination of these figures communicates the insatiability of the worm that preys upon the inhabitants of Gehenna and the eternal nature of the consuming flame. This depiction goes beyond any earthly comparison and emphasizes the lack of redemption or escape from the terrifying torment of Gehenna.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.7968921703537262,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.09,
+            "commentatorTierSimilarities": [
+                56.43,
+                0.0,
+                43.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The vivid imagery of an undying worm and an unquenchable fire depicts the terrifying reality of Gehenna, drawing on the phrases and language used by the Jewish Church. These figures convey the insatiable nature of the worm that preys upon the inhabitants of this dreadful realm, as well as the eternal nature of the consuming flame. The description surpasses any earthly comparison and leaves no room for redemption or escape, emphasizing the relentless agony of Gehenna.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.6627325666066923,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                56.52,
+                0.0,
+                43.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The undying worm and unquenchable fire described in this passage vividly depict the dreadful and unending nature of Gehenna, drawing on the imagery used by the Jewish Church. These figures convey the insatiable nature of the worm that preys upon the inhabitants of this realm and the eternal nature of the consuming flame. The intensity of Gehenna's torment exceeds any earthly comparison, leaving no room for redemption or escape. The descriptions used here serve to emphasize the terrifying reality and relentless agony that await those condemned to Gehenna.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.6116127010492267,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.93,
+            "commentatorTierSimilarities": [
+                56.15,
+                0.0,
+                43.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The depiction of an undying worm and unquenchable fire in this verse reflects the vivid imagery employed by the Jewish Church to illustrate the dreadful and everlasting nature of Gehenna. The relentless and insatiable worm that preys on its inhabitants, combined with the eternal consuming flame, convey a terror beyond earthly comprehension. Gehenna's torment is unparalleled, leaving no possibility for redemption or escape. These descriptions serve to emphasize the indescribable horror and unending agony awaiting those destined for Gehenna.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.5758688589695837,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.74,
+            "commentatorTierSimilarities": [
+                54.4,
+                0.0,
+                45.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

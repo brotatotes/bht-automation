@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:28:06",
+    "verseRef": "Mark 14:22",
+    "bestBHT": {
+        "bht": "At the Last Supper, Jesus took bread, blessed it, and broke it, instituting a new feast to commemorate His sufferings and death, which were approaching. He instructed the disciples to partake of the bread, using the word eat, although this is not present in some versions and copies of the Bible. This bread was a figurative representation of His body, emphasizing the impending crucifixion.",
+        "wordCount": 64,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.405956116087519,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+        "commentatorTierSimilarities": [
+            40.44,
+            0.0,
+            59.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "INSTITUTION OF THE LORD\u2019s SUPPER. Matt. xxvi. 26\u201329. Luke xxii. 19, 20. 1 Cor. xi, 23\u201325. See notes on Matthew."
+        ],
+        "John Gill": [
+            "Jesus took bread, and blessed, and brake it; beginning and instituting a new feast, to be kept in aftertimes, in commemoration of his sufferings and death, now near at hand.\" ",
+            "And said, take, eat: the word eat is not in the Vulgate Latin, Syriac, Arabic, Persic, and Ethiopic versions, and is wanting in some copies.",
+            "This is body; a figure and representation of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the Last Supper, as the time of His suffering and death drew near, Jesus took bread, blessed it, and broke it, instituting a new feast to commemorate His sacrifice. He then instructed the disciples to partake of it, using the word eat. However, some versions and copies of the Bible do not include the word eat in this verse. The bread that Jesus distributed was a symbolic representation of His body, foreshadowing His upcoming crucifixion.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.344697594921246,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.05,
+            "commentatorTierSimilarities": [
+                45.58,
+                0.0,
+                54.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the Last Supper, Jesus took bread, blessed it, and broke it, instituting a new feast to commemorate His sufferings and death, which were approaching. He instructed the disciples to partake of the bread, using the word eat, although this is not present in some versions and copies of the Bible. This bread was a figurative representation of His body, emphasizing the impending crucifixion.",
+            "wordCount": 64,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.405956116087519,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.09,
+            "commentatorTierSimilarities": [
+                40.44,
+                0.0,
+                59.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Last Supper, Jesus initiated the Lord's Supper by taking bread, blessing it, and breaking it. This act was significant, as it marked the beginning of a new feast that would serve as a commemoration of His forthcoming sufferings and death. He conveyed the importance of partaking in this feast with the instruction to take, eat, although the word eat may not be present in certain versions of the Bible. The bread, in this context, held symbolic value, representing the body of Jesus and foreshadowing the sacrifice He would soon make.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.256524657051997,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.12,
+            "commentatorTierSimilarities": [
+                44.68,
+                0.0,
+                55.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the Last Supper, Jesus initiated the Lord's Supper by taking bread, blessing it, and breaking it. This act marked the beginning of a new feast, commemorating His sufferings and death. He instructed the disciples to partake, saying take, eat, although some versions omit the word eat. The bread represented His body, a symbolic figure of the upcoming crucifixion.",
+            "wordCount": 60,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.2726734798518125,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.66,
+            "commentatorTierSimilarities": [
+                43.53,
+                0.0,
+                56.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the Last Supper, Jesus took bread, blessed it, and broke it, instituting a new feast to commemorate His sufferings and death, which were near at hand. He commanded the disciples to partake, using the word eat, although it may not be found in some versions. This bread served as a symbolic representation of His body, foreshadowing His impending crucifixion.",
+            "wordCount": 60,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.2984768875236494,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.52,
+            "commentatorTierSimilarities": [
+                41.09,
+                0.0,
+                58.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

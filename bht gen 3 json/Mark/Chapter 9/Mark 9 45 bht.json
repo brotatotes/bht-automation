@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-22-2023 23:25:10",
+    "verseRef": "Mark 9:45",
+    "bestBHT": {
+        "bht": "Those who provide essential support and sustenance, like a foot to the body, should be avoided if they cause others to stumble and fall away from Christ. It is better to go alone to heaven than to be accompanied by those who lead others astray, as they would be cast into the unquenchable fire of hell.",
+        "wordCount": 56,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0792448389014804,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Such who are that to men, as the foot is to the body, the support of them through whom they have their maintenance and subsistence; and yet these, if they are a means of causing them to stumble and tail, or of leading out of the ways of Christ, and off from him, their company is to be shunned and abstained from.",
+            "It is better to go alone without such company into heaven than having two feet to be cast into hell, into the fire that never shall be quenched."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who provide essential support and sustenance, like a foot to the body, should be avoided if they cause others to stumble and fall away from Christ. It is better to go alone to heaven than to be accompanied by those who lead others astray, as they would be cast into the unquenchable fire of hell.",
+            "wordCount": 56,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0792448389014804,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be cautious of those who may seem to support you but actually lead you astray, for it is better to go alone into heaven than to be influenced towards destruction. Those individuals who serve as the foundation of your life, like the foot is to the body, should be carefully chosen. If they cause stumbling or divert you from the ways of Christ, it is important to distance yourself from their company, as it is preferable to enter heaven without their presence than to end up in the unquenchable fires of hell.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.7542024502652753,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Choose your companions wisely, for those who appear supportive can actually lead you astray. It is better to journey alone towards heaven than to be influenced towards destruction. Just as the foot supports the body, be cautious of those who are the foundation of your life. If they cause stumbling or divert you from the path of Christ, distance yourself from their company. It is preferable to enter heaven without their presence, rather than facing the unquenchable fires of hell.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.3816491098374406,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.28,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be mindful of the company you keep, as those who may seem supportive can actually lead you astray. It is better to walk alone on the path to heaven than to be influenced towards destruction. Just as the foot supports the body, choose your companions wisely, for they are the foundation of your life. If they cause stumbling or lead you away from Christ, it is necessary to distance yourself from their presence. It is more favorable to enter heaven without their company than to face the eternal fires of hell.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.4940320997333296,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Choose your companions carefully, for those who seem supportive can lead you astray. It is better to walk alone towards heaven than to be influenced towards destruction. Just as the foot supports the body, be cautious of those who lay the foundation of your life. If they cause stumbling or divert you from Christ, distance yourself from their company. It is preferable to enter heaven without them than to face the unending fires of hell.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.396094841769128,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

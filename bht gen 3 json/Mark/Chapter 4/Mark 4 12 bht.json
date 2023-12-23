@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:21:54",
+    "verseRef": "Mark 4:12",
+    "bestBHT": {
+        "bht": "Jesus uses parables in the confrontation with the Pharisees to condemn their willful blindness and rejection of Him, pronouncing their doom and reflecting Isaiah's prophecy. The purpose of the parables is to both reveal and conceal the truth, depending on the moral state of the hearers. Through preaching His word, God seeks to renew hearts and minds, but when it blinds and hardens the reprobate, it is a consequence of their own depravity. True understanding requires willing hearts that are open to perceiving and receiving His message.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.4862961360119922,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+        "commentatorTierSimilarities": [
+            21.86,
+            41.87,
+            36.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We must keep the that strictly to its full meaning\u2014in order that.",
+            "Such matters are not trifling, because they show the gradual deflection of verbal expression in different versions of the same report.",
+            "The general agreement of St. Luke\u2019s, which seems to be from a different hearer."
+        ],
+        "John Calvin": [
+            "The doctrine is not, strictly speaking, or by itself, or in its own nature, but by accident, the cause of blindness.",
+            "When the word of God blinds and hardens the reprobate, as this takes place through their own depravity, it belongs truly and naturally to themselves, but is accidental, as respects the word.",
+            "The true end for which God desires that his word should be preached is, to reconcile men to himself by renewing their minds and hearts."
+        ],
+        "Philip Schaff": [
+            "When God transacts a matter, it is idle to say that the result is not the purpose.",
+            "The object of the parable is to conceal and to reveal the truth, according to the moral state of the hearers.",
+            "Their moral unwillingness preceded their moral inability, and the latter was a divine judgment on the former."
+        ],
+        "Archibald T. Robertson": [
+            "It is the purpose of condemnation for wilful blindness and rejection such as suits the Pharisees after their blasphemous accusation against Jesus.",
+            "Jesus is pronouncing their doom in the language of Isaiah.",
+            "It sounds like the dirge of the damned."
+        ],
+        "John Gill": [
+            "That seeing they may see,.... Which the end and reason of his speaking to them in parables. The passage referred to is in Isaiah 6:9.",
+            "Isaiah 6:9- :.",
+            "Isaiah 6:9- :."
+        ],
+        "John Wesley": [
+            "So that seeing they see and do not perceive \u2014 They would not see before now they could not, God having given them up to the blindness which they had chosen."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 4:12, Jesus pronounces the doom of the Pharisees in the language of Isaiah, using parables to conceal and reveal the truth according to their moral state. It is a condemnation for their wilful blindness and rejection of Him. The purpose of the parables is to show the gradual deflection of verbal expression in different versions of the same report, highlighting the moral unwillingness that preceded their moral inability. God desires to reconcile men to Himself through His word, but when it blinds and hardens the reprobate, it is a result of their own depravity. Therefore, the true end of God's word being preached is to renew the minds and hearts of those who are willing to perceive.",
+            "wordCount": 119,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.623707313180405,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                25.42,
+                38.14,
+                36.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus uses parables in Mark 4:12 to pronounce the doom of the Pharisees, condemning their wilful blindness and rejection of Him. The purpose of the parables is to reveal and conceal the truth based on the moral state of the hearers. God desires to reconcile people to Himself by renewing their minds and hearts through His word. However, when the word of God blinds and hardens the reprobate, it is a result of their own depravity. The true end of preaching His word is to bring about transformation in willing hearts.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5156454252498461,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.74,
+            "commentatorTierSimilarities": [
+                23.17,
+                40.8,
+                36.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus delivers a dire pronouncement to the Pharisees in Mark 4:12, using the language of Isaiah to condemn their blindness and rejection of Him. The purpose of His parables is to both reveal and hide the truth, depending on the moral state of the hearers. It is through the preaching of God's word that He desires to renew hearts and minds, but when it blinds and hardens the reprobate, it is a result of their own depravity. Only those with willing hearts can truly perceive and understand.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.4848075088991264,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+            "commentatorTierSimilarities": [
+                24.7,
+                38.47,
+                36.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus uses parables in the confrontation with the Pharisees to condemn their willful blindness and rejection of Him, pronouncing their doom and reflecting Isaiah's prophecy. The purpose of the parables is to both reveal and conceal the truth, depending on the moral state of the hearers. Through preaching His word, God seeks to renew hearts and minds, but when it blinds and hardens the reprobate, it is a consequence of their own depravity. True understanding requires willing hearts that are open to perceiving and receiving His message.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.4862961360119922,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                21.86,
+                41.87,
+                36.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus uses parables in Mark 4:12 as a condemnation for the Pharisees' wilful blindness and rejection of Him, pronouncing their doom in the language of Isaiah. The purpose of the parables is to reveal and conceal the truth based on the moral state of the hearers. God desires to renew hearts and minds through the preaching of His word, but when it blinds and hardens the reprobate, it is a result of their own depravity. True understanding requires receptive hearts that are willing to perceive and receive His message.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4962565737009426,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.09,
+            "commentatorTierSimilarities": [
+                23.42,
+                40.2,
+                36.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

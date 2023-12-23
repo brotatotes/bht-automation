@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:26:06",
+    "verseRef": "Mark 10:43",
+    "bestBHT": {
+        "bht": "Jesus teaches that true greatness in His kingdom does not come from wielding power, but from adopting a humble servant's heart. He urges believers to be subordinate servants, actively engaging in ministry and diligently serving others. In order to attain greatness, one must be willing to take on substantial responsibilities, endure hardships, and exert great effort. This commitment to selfless service brings glory to God and fosters a profound impact on the lives of people, reflecting the values of Christ's kingdom.",
+        "wordCount": 83,
+        "quoteTokenProportion": 30.3,
+        "qualityScore": 0.9933492991780501,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.37,
+        "commentatorTierSimilarities": [
+            27.6,
+            0.0,
+            72.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "43. But so shall it not be among",
+            "\tyou: but whosoever will be great among you, shall be your minister\u2014a",
+            "\tsubordinate servant."
+        ],
+        "Marvin Vincent": [
+            "Minister. See on 9 35."
+        ],
+        "John Gill": [
+            "But so shall it not be among you...such a lordly spirit does not become you.\" ",
+            "The only way to preferment and greatness in Christ's kingdom...is to labour in the work of the ministry more abundantly than others.\" ",
+            "...to take great pains and endure great hardships in order to bring great glory to God, and do great good to the souls of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:43, Jesus teaches that greatness in His kingdom is not measured by authority or dominance, but by servanthood. The commentary explains that instead of adopting a lordly spirit, believers are called to be subordinate servants. The primary way to attain greatness in Christ's kingdom is through ministry and laboring diligently in the work of serving others. This includes taking on great responsibilities and enduring hardships in order to bring glory to God and make a significant impact in the lives of people.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.0300386367303571,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.59,
+            "commentatorTierSimilarities": [
+                25.86,
+                0.0,
+                74.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Jesus cautions against adopting a domineering mindset and instead emphasizes the importance of serving others. He encourages believers to seek greatness through acts of humble service, choosing to be a subordinate servant. This means actively engaging in the work of ministry, laboring diligently to bring glory to God and positively impact the lives of others. True greatness in Christ's kingdom lies not in authority or dominance, but in selfless service and sacrificial love.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 0.9675349402795492,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.51,
+            "commentatorTierSimilarities": [
+                27.72,
+                0.0,
+                72.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus emphasizes that true greatness in His kingdom does not come from a position of power or authority, but from a heart of servanthood. He calls His followers to be subordinate servants, actively engaging in the work of ministry. This means taking on great responsibilities and enduring hardships in order to bring glory to God and make a significant impact in the lives of others. The path to greatness lies in selflessly serving and seeking to bring about positive change through diligent labor and sacrificial love.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 0.9820212856266552,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.0,
+            "commentatorTierSimilarities": [
+                26.28,
+                0.0,
+                73.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus teaches that true greatness in His kingdom does not come from wielding power, but from adopting a humble servant's heart. He urges believers to be subordinate servants, actively engaging in ministry and diligently serving others. In order to attain greatness, one must be willing to take on substantial responsibilities, endure hardships, and exert great effort. This commitment to selfless service brings glory to God and fosters a profound impact on the lives of people, reflecting the values of Christ's kingdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 0.9933492991780501,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.37,
+            "commentatorTierSimilarities": [
+                27.6,
+                0.0,
+                72.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus teaches that in His kingdom, greatness is not attained through a domineering spirit, but rather through a heart of humility and servanthood. He calls His followers to be subordinate servants, actively engaging in the work of ministry and willingly taking on great responsibilities. The path to greatness involves enduring hardships and working diligently to bring glory to God and bring about positive change in the lives of others. True greatness is found in selfless service and sacrificial love.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 0.9595386286853353,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.25,
+            "commentatorTierSimilarities": [
+                22.37,
+                0.0,
+                77.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

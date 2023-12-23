@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-22-2023 23:20:42",
+    "verseRef": "Mark 1:38",
+    "bestBHT": {
+        "bht": "Jesus had just begun his ministry, and though the crowds were eager, he chose to leave Capernaum and go to the suburban towns. He recognized that preaching in Capernaum alone would not fulfill the purpose for which he came. His intention was to spread the Gospel throughout all of Judea, not confining his ministry to just one place. Jesus prioritized reaching those who hadn't yet heard the truth, demonstrating his desire to bless them by seeking them out.",
+        "wordCount": 79,
+        "quoteTokenProportion": 47.46,
+        "qualityScore": 1.8648922986762146,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+        "commentatorTierSimilarities": [
+            21.71,
+            49.69,
+            28.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "came I forth = 'was I sent,' Luke: not 'undertook this journey:'\" ",
+            "He had not yet begun any journey, and it cannot apply to 'went out' above, for that was not to any city, nor to preach.",
+            "The word has its more solemn sense, as in John xvi. 28, though of course not understood then by the hearers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let us go elsewhere.",
+            "I may preach there also; for therefore came I forth.",
+            "An act of self-denial it doubtless was, to resist such pleadings to return to Capernaum. But there were overmastering considerations on the other side."
+        ],
+        "Albert Barnes": [
+            "Since the anxiety to hear the truth is so great, since such multitudes are waiting to hear the word, let us go into the next towns.",
+            "He proposed to carry the gospel to them, rather than that multitudes should leave their homes and attend him in his ministry.",
+            "Since multitudes press to hear the word, let us not remain here, but go into the neighboring towns also: for I was sent by God not to preach at Capernaum only, but 'throughout Judea,' and it is therefore improper to confine my labors to this place."
+        ],
+        "Marvin Vincent": [
+            "Towns (\u00ea\u00f9\u00ec\u00ef\u00f0\u00ef\u0301\u00eb\u00e5\u00e9\u00f2)",
+            "Lit., village-towns, suburban towns."
+        ],
+        "John Calvin": [
+            "For on this account I came out.",
+            "For on this account am I sent.",
+            "The design of Christ, which is here mentioned, was agreeable to the injunction and call of the Father, and was founded on the best reasons."
+        ],
+        "Philip Schaff": [
+            "The crowd gathered because of the works He performed, but His great object was to teach.",
+            "Although indifferent to the immediate wish of the multitudes, He shows His desire to really bless them, by seeking them even while all sought Him.",
+            "For to this end came I forth, i.e., from God. Luke: \u2018therefore am I sent.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "It was a surprising decision for Jesus to leave the eager, excited throngs in Capernaum for the country town or village cities without walls or much importance.",
+            "The use of \u03b5\u03c7\u03bf\u03bc\u03b5\u03bd\u03b1\u03c2 for next is a classic use meaning clinging to, next to a thing.",
+            "\"D\" here has \u03b5\u03b3\u03b3\u03c5\u03c2 (near)."
+        ],
+        "John Gill": [
+            "These were the places Christ judged it advisable to go to; he had preached already at Capernaum, the day before, and had confirmed his doctrine by miracles, which was sufficient for the present, and therefore thought fit to go elsewhere.",
+            "That I may preach there also; as well as at Capernaum, that so the Gospel may be spread, and have its usefulness in other parts as well as there.",
+            "Meaning, not from Simon's house, nor from Capernaum, though there may be a truth in that; for Christ might come from thence, with that view, to preach the Gospel elsewhere; but from God his Father, from whom he came forth, and by whom he was sent to preach the Gospel to other cities also."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus had just begun his ministry and already the crowds were flocking to hear him. Despite the excitement and eagerness of the people in Capernaum, Jesus made the surprising decision to leave them behind and go to the suburban towns. He recognized that preaching in Capernaum alone would not fulfill the purpose for which he came. His intention was to spread the Gospel throughout all of Judea, not confining his ministry to just one place. Jesus prioritized reaching those who hadn't yet heard the truth, demonstrating his desire to really bless them by seeking them out. This decision required self-denial, but there were powerful reasons for Jesus to go elsewhere.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7551948396990027,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                22.74,
+                48.52,
+                28.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus had just begun his ministry, and though the crowds were eager, he chose to leave Capernaum and go to the suburban towns. He recognized that preaching in Capernaum alone would not fulfill the purpose for which he came. His intention was to spread the Gospel throughout all of Judea, not confining his ministry to just one place. Jesus prioritized reaching those who hadn't yet heard the truth, demonstrating his desire to bless them by seeking them out.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.8648922986762146,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                21.71,
+                49.69,
+                28.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus made the surprising decision to leave the eager, excited throngs in Capernaum for the village towns. He recognized that preaching in Capernaum alone would not fulfill the purpose for which he came. His intention was to spread the Gospel throughout all of Judea, not confining his ministry to just one place. Jesus prioritized reaching those who hadn't yet heard the truth, demonstrating his desire to really bless them by seeking them out.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.821807071942799,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                22.56,
+                49.42,
+                28.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus came forth not to undertake a journey, but to be sent by God. Despite the allure of the crowds in Capernaum, Jesus chose to go to the suburban towns. His purpose was not to confine his ministry to one place, but to spread the Gospel throughout all of Judea. Jesus prioritized reaching those who had not yet heard the truth, showing his sincere desire to bless them. This decision required self-denial but was founded on the best reasons.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6695760771655568,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                24.98,
+                45.02,
+                30.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus made the surprising decision to leave the eager, excited throngs in Capernaum for the village-towns. He recognized that preaching in Capernaum alone would not fulfill the purpose for which he came. His intention was to spread the Gospel throughout all of Judea, not confining his ministry to just one place. Jesus prioritized reaching those who hadn't yet heard the truth, demonstrating his desire to really bless them by seeking them out.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.770379488237839,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                20.23,
+                50.15,
+                29.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

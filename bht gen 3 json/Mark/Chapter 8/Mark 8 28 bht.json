@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:24:19",
+    "verseRef": "Mark 8:28",
+    "bestBHT": {
+        "bht": "They knew only too well and told him, as discussed in Matthew 16:14 and Matthew 16:28. The people in common did not look upon him as a mean person; they perceived by his doctrine and miracles that he was an extraordinary one. All spake highly and honourably of him, agreeing that he was an uncommon man. However, they did not confess him to be the Messiah since he did not appear as a temporal prince, contradicting their beliefs.",
+        "wordCount": 76,
+        "quoteTokenProportion": 50.94,
+        "qualityScore": 1.879381348966442,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+        "commentatorTierSimilarities": [
+            41.55,
+            0.0,
+            58.45
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "And they told him (\u03bf \u03b4\u03b5 \u03b5\u03b9\u03c0\u03b1\u03bd). They knew only too well. See on Matthew 16:14; Matthew 16:28 for discussion. "
+        ],
+        "John Gill": [
+            "The people in common did not look upon him as a mean person; they perceived by his doctrine and more especially by his miracles that he was an extraordinary one.",
+            "All spake highly and honourably of him... and all agreed he was an uncommon man.",
+            "They knew him not at least did not confess him to be the Messiah; he not appearing as a temporal prince, they were taught to believe he would be."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They knew only too well and they told him, as it was widely known and acknowledged that Jesus was an extraordinary man. The people recognized his teachings and miracles and spoke highly and honorably of him. However, they did not fully understand or confess him to be the Messiah, as they had been taught to expect a temporal prince. (Mark 8:28)",
+            "wordCount": 60,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.3829639153299018,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.33,
+            "commentatorTierSimilarities": [
+                41.08,
+                0.0,
+                58.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They knew only too well and told him that the people, recognizing his extraordinary nature, spoke highly of him because of his teachings and miracles. However, while they recognized his uniqueness, they did not fully understand or acknowledge him as the Messiah, possibly because he did not fit their expectations of a temporal prince.",
+            "wordCount": 54,
+            "quoteTokenProportion": 48.78,
+            "qualityScore": 1.6232937771574896,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                36.97,
+                0.0,
+                63.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They knew only too well and told him that the people recognized him as an extraordinary man. He was highly regarded for his teachings and miracles, but they did not fully understand or confess him as the Messiah. Their expectations were shaped by the belief that the Messiah would be a temporal prince, and Jesus did not fit that mold.",
+            "wordCount": 60,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 1.4881495139447032,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                34.48,
+                0.0,
+                65.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They knew only too well and told him, as discussed in Matthew 16:14 and Matthew 16:28. The people in common did not look upon him as a mean person; they perceived by his doctrine and miracles that he was an extraordinary one. All spake highly and honourably of him, agreeing that he was an uncommon man. However, they did not confess him to be the Messiah since he did not appear as a temporal prince, contradicting their beliefs.",
+            "wordCount": 76,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.879381348966442,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.83,
+            "commentatorTierSimilarities": [
+                41.55,
+                0.0,
+                58.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They knew only too well - they perceived by his doctrine and miracles that he was an extraordinary man. All spoke highly and honorably of him, recognizing him as an uncommon man. However, they did not confess him to be the Messiah as they expected him to be a temporal prince.",
+            "wordCount": 50,
+            "quoteTokenProportion": 57.89,
+            "qualityScore": 1.3268495505715958,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.46,
+            "commentatorTierSimilarities": [
+                25.58,
+                0.0,
+                74.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

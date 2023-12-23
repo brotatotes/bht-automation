@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:28:54",
+    "verseRef": "Mark 15:14",
+    "bestBHT": {
+        "bht": "Pilate, finding no fault, judged Jesus innocent and was reluctant to condemn him. Though accused of multiple offenses, no evidence supported the charges. However, the crowd insisted on death, specifically by crucifixion. This illustrates the unjust treatment Jesus suffered as he was unjustly accused and sentenced to the cross, the only death that would satisfy them.",
+        "wordCount": 56,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.4886164186382933,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Pilate could find no fault in him, and judged him an innocent person, and therefore was loth to condemn him.",
+            "They had charged him with many things, but proved nothing against him.",
+            "Nothing short of death would satisfy them, and no other death but that of the cross."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 15:14, Pilate is depicted as finding no fault in Jesus, deeming him innocent and reluctant to condemn him. Even though Jesus was charged with numerous offenses, none of them were proven. Nevertheless, the crowd demanded nothing less than death, specifically crucifixion. This verse highlights the unjust treatment Jesus faced, as he was wrongly accused and condemned to the most brutal form of execution.",
+            "wordCount": 64,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.4632634271877327,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate, discerning no fault in Jesus, hesitated to pass judgment and considered him innocent. Despite the multitude of charges brought against him, none were substantiated. However, the crowd insisted on nothing short of crucifixion, demanding a specific form of death. This passage illuminates the unjust treatment Jesus endured, as he was falsely accused and condemned to undergo the harshest form of execution.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4338948098066555,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, finding no fault, judged Jesus innocent and was reluctant to condemn him. Though accused of multiple offenses, no evidence supported the charges. However, the crowd insisted on death, specifically by crucifixion. This illustrates the unjust treatment Jesus suffered as he was unjustly accused and sentenced to the cross, the only death that would satisfy them.",
+            "wordCount": 56,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4886164186382933,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.84,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate, unable to find fault, judged Jesus to be innocent and was hesitant to pass judgment on him. Although he faced multiple accusations, none were proven. Nevertheless, the crowd demanded nothing less than death, specifically the crucifixion. This verse reveals the unjust treatment endured by Jesus, as he was falsely charged and condemned to the cross as the only satisfactory form of execution for the crowd.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.4862188827541467,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, having found no fault, deemed Jesus innocent and was reluctant to condemn him. Although they had presented numerous charges, none were substantiated. Nonetheless, the crowd demanded nothing but death, specifically on a cross. This highlights the unjust treatment Jesus endured, as he was falsely accused and sentenced to the cruel and brutal form of crucifixion.",
+            "wordCount": 56,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.4497278393962674,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

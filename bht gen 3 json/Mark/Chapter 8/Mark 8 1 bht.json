@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:24:21",
+    "verseRef": "Mark 8:1",
+    "bestBHT": {
+        "bht": "In those days, a multitude gathered, and Jesus performed a nature miracle, feeding about four thousand people. The repetition of a similar miracle raises doubt among critics, but it is more plausible that both Mark and Matthew included both incidents, distinguishing the baskets used in each. Scholars speculate that the coming referred to could be a significant event like the day of Pentecost or the destruction of Jerusalem. The multitude had no provisions, and Jesus called His disciples to Him, demonstrating His power and compassion in providing for their needs.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.3949031450707192,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+        "commentatorTierSimilarities": [
+            34.28,
+            28.33,
+            37.39
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "1. In those days the multitude being",
+            "\tvery great, &amp;c."
+        ],
+        "Philip Schaff": [
+            "The coming referred to was probably at the day of Pentecost, or the destruction of Jerusalem, and the consequent triumph of Christianity, as a religion distinct from Judaism.",
+            "This would be not simply with power, but in power, i.e., its principal manifestation would be an exhibition of power."
+        ],
+        "Archibald T. Robertson": [
+            "The repetition of a nature miracle of feeding four thousand in Decapolis disturbs some modern critics who cannot imagine how Jesus could or would perform another miracle elsewhere so similar to the feeding of the five thousand up near Bethsaida Julias.",
+            "Surely it is easier to conceive that Jesus wrought two such miracles than to hold that Mark and Matthew have made such a jumble of the whole business.",
+            "Both Mark and Matthew give both miracles, distinguish the words for baskets (\u03ba\u03bf\u03c6\u03b9\u03bd\u03bf\u03c3, \u03c3\u03c6\u03c5\u03c1\u03b9\u03c2), and both make Jesus later refer to both incidents and use these two words with the same distinction."
+        ],
+        "John Gill": [
+            "The multitude being very great: for the number of men that ate, when the following miracle was wrought, were about four thousand.\" ",
+            "Having nothing to eat; what they might have brought with them being expended, and they in a desert, where nothing was to be had, nor bought for money.\" ",
+            "Jesus called his disciples to him, and saith unto them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In those days, a multitude gathered, and Jesus performed a nature miracle, feeding about four thousand people. This repetition of a similar miracle has led to some skepticism among critics, but it is more plausible to believe that both Mark and Matthew included both incidents, differentiating the baskets used in each. Some scholars suggest that the coming referred to in this verse could be the day of Pentecost or the destruction of Jerusalem, marking the triumph of Christianity as a distinct religion. The multitude had nothing to eat, as they were in a desert with no provisions. Jesus called his disciples to Him, demonstrating His compassion and power in providing for the needs of His people.",
+            "wordCount": 116,
+            "quoteTokenProportion": 41.98,
+            "qualityScore": 1.3029017954521842,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.66,
+            "commentatorTierSimilarities": [
+                30.22,
+                27.57,
+                42.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In those days, a multitude gathered, and Jesus performed a nature miracle, feeding about four thousand people. This repetition of a similar miracle has led to some skepticism among critics, but it is more plausible to believe that both Mark and Matthew included both incidents, differentiating the baskets used in each. Some scholars suggest that the coming referred to in this passage could be a significant event, such as the day of Pentecost or the destruction of Jerusalem. The multitude had nothing to eat, and Jesus called His disciples to Him, demonstrating His compassion and power in providing for their needs.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.394537742382446,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.71,
+            "commentatorTierSimilarities": [
+                33.44,
+                27.67,
+                38.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In those days, a great multitude gathered, and Jesus fed about four thousand people, performing a nature miracle. Although some are skeptical about the repetition of a similar miracle, it is more plausible that both Mark and Matthew included both incidents, distinguishing the baskets used in each. Some scholars suggest that the coming referred to could be a significant event like the day of Pentecost or the destruction of Jerusalem. With no provisions, the multitude had nothing to eat, but Jesus, calling His disciples to Him, demonstrated His power and compassion in providing for their needs.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.3833487356139076,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.34,
+            "commentatorTierSimilarities": [
+                34.4,
+                27.16,
+                38.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In those days, a multitude gathered, and Jesus performed a nature miracle, feeding about four thousand people. The repetition of a similar miracle raises doubt among critics, but it is more plausible that both Mark and Matthew included both incidents, distinguishing the baskets used in each. Scholars speculate that the coming referred to could be a significant event like the day of Pentecost or the destruction of Jerusalem. The multitude had no provisions, and Jesus called His disciples to Him, demonstrating His power and compassion in providing for their needs.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.3949031450707192,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.72,
+            "commentatorTierSimilarities": [
+                34.28,
+                28.33,
+                37.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In those days, a multitude gathered, and Jesus performed a nature miracle, feeding about four thousand people. The repetition of a similar miracle has raised doubts among critics, but it is plausible that both Mark and Matthew included both incidents, differentiating the baskets used. Scholars suggest that the coming referred to could be a significant event like the day of Pentecost or the destruction of Jerusalem. The multitude had no provisions, and Jesus called His disciples to Him, showcasing His power and compassion in providing for their needs.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.3776451874320317,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "commentatorTierSimilarities": [
+                34.55,
+                27.71,
+                37.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

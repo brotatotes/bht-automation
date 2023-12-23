@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:24:01",
+    "verseRef": "Mark 6:56",
+    "bestBHT": {
+        "bht": "As news spread of the miraculous healings performed by Jesus, people flocked to the streets, hoping to touch the hem of his garment for their own healing. This desire stemmed from the accounts they had heard of others who had been healed in a similar manner, and it seemed that anywhere Jesus went, those who touched him were made whole. This heightened anticipation and eagerness marked the culmination of Jesus' Galilean ministry, where healing was abundant and excitement was at its peak in the marketplace.",
+        "wordCount": 85,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 1.2115205463590284,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.63,
+        "commentatorTierSimilarities": [
+            31.36,
+            29.94,
+            38.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "and besought him that they might touch if it were but the border of his garment\u2014having heard, no doubt, of what the woman with the issue of blood experienced.\" ",
+            "and perhaps of other unrecorded cases of the same nature.\" ",
+            "All this they continued to do and to experience while our Lord was in that region."
+        ],
+        "Marvin Vincent": [
+            "Peculiar to Mark. ",
+            "In the streets [\u03b1\u03b3\u03bf\u03c1\u03b1\u03b9\u03c2] . Rightly, Rev., Market - places. See on Matthew 11:16. ",
+            "Border. See on Matthew 9:20. "
+        ],
+        "Philip Schaff": [
+            "Wheresoever he entered. This implies that a journey of some kind followed.",
+            "Country, lit,' fields.'",
+            "Market-places, here with a wide sense. This description may refer to a period of some length, and indicates the great number of miracles performed by our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Wheresoever he entered... as many as touched him.",
+            "The imperfect indicative with \u03b1\u03bd used to make a general indefinite statement with the relative adverb.",
+            "We are now near the close of the Galilean ministry with its many healing mercies and excitement is at the highest pitch."
+        ],
+        "John Gill": [
+            "they laid the sick in the streets",
+            "and besought him that they but might touch the border of his garment",
+            "and as many as touched him were made whole"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the news of the miraculous healing powers of Jesus spread, people from all around brought their sick to the streets, fervently desiring even to touch the hem of his garment. This was not an isolated incident, as similar cases of healing had been witnessed before. In fact, it seemed that wherever Jesus went, as many as touched him were made whole. We are now reaching the culmination of Jesus' ministry in Galilee, where healing mercies abounded and anticipation was at its peak. The crowds gathered in the marketplaces, hopeful and eager for the opportunity to experience the transformative touch of Jesus. Such was the faith and desperation of the people that they believed even a mere touch would bring restoration and wholeness to their lives.",
+            "wordCount": 126,
+            "quoteTokenProportion": 45.35,
+            "qualityScore": 1.1256631869571034,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.77,
+            "commentatorTierSimilarities": [
+                31.94,
+                22.05,
+                46.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As news spread of the miraculous healings performed by Jesus, people flocked to the streets, hoping to touch the hem of his garment for their own healing. This desire stemmed from the accounts they had heard of others who had been healed in a similar manner, and it seemed that anywhere Jesus went, those who touched him were made whole. This heightened anticipation and eagerness marked the culmination of Jesus' Galilean ministry, where healing was abundant and excitement was at its peak in the marketplace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.2115205463590284,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.63,
+            "commentatorTierSimilarities": [
+                31.36,
+                29.94,
+                38.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus journeyed through the streets, the crowds beseeched him, longing to touch even the border of his garment. Such requests stemmed from the numerous accounts they had heard, testifying to the healing power of Jesus. It seemed that wherever he went, as many as touched him were made whole. This scene represented the climax of Jesus' ministry in Galilee, where healing was abundant and excitement reached its peak. The marketplace became filled with expectant hearts, eager to experience the transformative touch of Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.1825184260868862,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.66,
+            "commentatorTierSimilarities": [
+                26.81,
+                22.14,
+                51.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The streets were alive with fervent requests from the crowd, as they pleaded with Jesus for the chance to touch even the border of his garment, inspired by the remarkable accounts of the woman with the issue of blood and others who had experienced healing. This scene unfolded during the pinnacle of Jesus' ministry in Galilee, where healing wonders were plentiful, and anticipation coursed through the marketplaces. It was a time marked by the belief that anyone who touched Jesus would be made whole, a testament to the extraordinary healing power of the Son of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.194842399773878,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.07,
+            "commentatorTierSimilarities": [
+                36.31,
+                29.75,
+                33.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wherever Jesus went, people in the streets sought after him, hoping to touch even the edge of his cloak, influenced by the remarkable accounts of the woman with the issue of blood and other unrecorded cases. This persistent seeking of Jesus continued throughout his time in that region, as crowds gathered, desperate for healing and restoration. It was a time of high excitement, as word of Jesus' healing power spread among the people, igniting faith and anticipation for the transformative touch of the Son of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.1704613474259449,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.26,
+            "commentatorTierSimilarities": [
+                37.15,
+                31.96,
+                30.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

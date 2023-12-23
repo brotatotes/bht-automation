@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:28:44",
+    "verseRef": "Mark 13:32",
+    "bestBHT": {
+        "bht": "The Son, in his mediatorial office, does not know the precise time of a significant event that rests solely with the Father. Scholars differ on the interpretation of this statement, with some taking it literally, highlighting Jesus' self-emptying and limited knowledge as the Son of God in his humanity. It is important to note that this lack of knowledge pertains to the second coming, not the predetermined destruction of Jerusalem. Jesus, as the Son, knows this day and hour from his deity, but in his humanity, he had no commission to reveal it.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.9679276256931881,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+        "commentatorTierSimilarities": [
+            31.1,
+            33.94,
+            34.96
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is one of those things which the Father hath put in his own power, Acts i. 7, and with which the Son, in his mediatorial office, is not acquainted.",
+            "We must not deal unfaithfully with a plain and solemn assertion of our (and what can be more so than nor even the Son, in which by the nor even He is not below but above the angels?) by such evasions as 'He does not know it so as to reveal it to us,' or as Aug., 'He did not so know it as then to indicate it to the disciples.'",
+            "The account given by the orthodox Lutherans, as represented by Meyer, that our Lord knew this by possession, but not by use, is right enough, if at the same time it is carefully remembered, that it was this possession of which He emptied Himself when He became man for us, and which it belongs to the very essence of His mediatorial kingdom to hold in subjection to the Father."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But of that day and that hour\u2014that is, the precise time... knoweth no man\u2014literally, no one.\" ",
+            "This very remarkable statement regarding 'the Son' is peculiar to Mark... has been matter of much controversy even among the firmest believers in the proper Divinity of Christ.\" ",
+            "It is taken literally by CALVIN, GROTIUS, DE WETTE, MEYER, FRITZSCHE, STIER, ALFORD, and ALEXANDER."
+        ],
+        "Albert Barnes": [
+            "If Jesus had a divine nature, how could he say that he knew not the day and hour of a future event?",
+            "The passage means, 'that day and hour none makes known, neither the angels, nor the Son, but the Father.'",
+            "He had a human nature. He grew as a man in knowledge. As a man his knowledge must be finite, for the faculties of the human soul are not infinite."
+        ],
+        "Philip Schaff": [
+            "Neither the Son...as part of the mystery of Christ's humiliation, a self-limitation, a self-emptying of the God-man.",
+            "The verse is to be taken in its plain sense...as above them, since there is a climax.",
+            "Here distinguished from 'angels,'... 'the Son,' 'the Father.'"
+        ],
+        "Archibald T. Robertson": [
+            "Not even the Son... This disclaimer of knowledge naturally interpreted applies to the second coming, not to the destruction of Jerusalem.",
+            "There is no doubt as to the genuineness of these words here.",
+            "The destruction of Jerusalem... had been definitely limited to that generation as it happened in A.D. 70."
+        ],
+        "John Gill": [
+            "they that lived to see it, and have spoken of it, are not agreed about the particular day, when it was; much less did they know it beforehand, or could speak of it, and make it known to others",
+            "neither the Son; Christ, as the son of man; though he did know it as the Son of God, who knows all things, and so this; but as the son of man, and from his human nature he had no knowledge of any thing future",
+            "what knowledge he had of future things in his humanity, he had from his deity; nor, as man, had he any commission to make known, nor did he make known the day of God's vengeance on the Jews"
+        ],
+        "John Wesley": [
+            "The day of judgment is often in the Scriptures emphatically called that day.",
+            "Not as man: as man he was no more omniscient than omnipresent.",
+            "But as God he knows all the circumstances of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse discusses the knowledge of the precise time of a significant event, which even the Son does not possess. The orthodox belief is that Jesus, in his mediatorial role, does not have this knowledge, as it is something that the Father has exclusively. This statement has been a point of contention, but some scholars take it literally and believe that Jesus, even as the Son of God, did not know the exact timing. It is important to note that this disclaimer of knowledge pertains to the second coming and not the destruction of Jerusalem, which was predetermined to happen in AD 70. The Son's lack of knowledge can be understood as part of the mystery of Christ's self-emptying during his incarnation, wherein his human nature limited his omniscience. Ultimately, Jesus knows this day and hour from his deity, but in his humanity, he had no commission to make it known.",
+            "wordCount": 153,
+            "quoteTokenProportion": 38.04,
+            "qualityScore": 2.0380683859025623,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                29.61,
+                34.19,
+                36.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' lack of knowledge regarding the specific time of a significant event, even as the Son of God, indicates the Father's exclusive possession of this information. While there is debate surrounding this statement, some take Jesus' disclaimer literally, emphasizing his self-emptying during his earthly life. Notably, this disclaimer pertains to the second coming, not the predetermined destruction of Jerusalem. Jesus, as the Son, possesses omniscience from his deity, but in his humanity, he had no commission to reveal this timing.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8689938135978834,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                30.87,
+                34.09,
+                35.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse expresses that even the Son, in his mediatorial role, does not possess knowledge of the precise time of a significant event, a fact some scholars interpret literally. This disclaimer of knowledge pertains to the second coming, not the predetermined destruction of Jerusalem, which occurred in AD 70. Jesus' lack of knowledge can be understood in the context of his self-emptying during his incarnation, limiting his omniscience in his human nature. Ultimately, Jesus, as the Son of God, knows this day and hour from his deity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.9874123047964394,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                29.51,
+                34.65,
+                35.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this passage, the Son does not possess knowledge of the exact timing of a significant event, as it is exclusively in the Father's power. Some hold a literal interpretation of this statement, underscoring Jesus' self-emptying during his earthly life and his restricted knowledge as the Son of God. Notably, this lack of knowledge is specific to the second coming, not the predetermined destruction of Jerusalem in AD 70. Jesus, in his humanity, had no commission to make this timing known, but as God, He knows all the circumstances surrounding it.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.967159075912617,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                30.36,
+                32.62,
+                37.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Son, in his mediatorial office, does not know the precise time of a significant event that rests solely with the Father. Scholars differ on the interpretation of this statement, with some taking it literally, highlighting Jesus' self-emptying and limited knowledge as the Son of God in his humanity. It is important to note that this lack of knowledge pertains to the second coming, not the predetermined destruction of Jerusalem. Jesus, as the Son, knows this day and hour from his deity, but in his humanity, he had no commission to reveal it.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9679276256931881,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.77,
+            "commentatorTierSimilarities": [
+                31.1,
+                33.94,
+                34.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

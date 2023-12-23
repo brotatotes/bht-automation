@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:21:23",
+    "verseRef": "Mark 3:10",
+    "bestBHT": {
+        "bht": "The people, each with their own plagues, pressed upon Jesus, falling upon Him in their eagerness. These plagues were regarded as divine strokes, afflictions sent as scourges for their sins. Amidst the intense scene, Jesus felt the tremendous strain of their desperate need for healing. However, He showed great compassion and healed them all. The pressing and pushing upon Him revealed the people's intense desire to be freed from their painful scourges, seeking relief from the punishments they believed they deserved.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.478513601841637,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.5,
+        "commentatorTierSimilarities": [
+            27.74,
+            34.12,
+            38.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "As many as had plagues - As many as had diseases or maladies of body or mind.",
+            "The word plague, now confined to the pestilence, does not express the meaning of the original, and tends to mislead."
+        ],
+        "Marvin Vincent": [
+            "Pressed upon [\u03b5\u03c0\u03b9\u03c0\u03b9\u03c0\u03c4\u03b5\u03b9\u03bd] . Lit., fell upon.",
+            "Plagues [\u03bc\u03b1\u03c3\u03c4\u03b9\u03b3\u03b1\u03c2] . Lit., scourges. Compare Acts 22:24; Hebrews 11:36.",
+            "Pestilence or disease is thus regarded as a stroke from a divine hand."
+        ],
+        "Philip Schaff": [
+            "They pressed upon him... actually pushed themselves upon Him, to touch him.\" ",
+            "The last clause shows that all were healed, as Matthew states.",
+            "Plagues. Lit., \u2018scourges,\u2019 not a particular class of diseases, as the word \u2018plagues\u2019 now implies."
+        ],
+        "Archibald T. Robertson": [
+            "They were not hostile, but simply intensely eager, each to have his own case attended to by Jesus.",
+            "It was a really pathetic scene and a tremendous strain on Jesus.",
+            "Our word plague is from \u03c0\u03bb\u03b7\u03b3\u03b7 (Latin plaga), from \u03c0\u03bb\u03b7\u03b3\u03bd\u03c5\u03bc, to strike a blow."
+        ],
+        "John Gill": [
+            "Insomuch that they pressed upon him; or pushed upon him, with great eagerness and violence.",
+            "They pushed on, and pressed so hard to get to him, that they fell upon one another, and on him.",
+            "As many as had plagues; of leprosy, and other diseases, which were inflicted on them by God, as scourges and chastisements for their sins."
+        ],
+        "John Wesley": [
+            "Plagues or scourges (so the Greek word properly means) seem to be those very painful or afflictive disorders...",
+            "...which were frequently sent, or at least permitted of God...",
+            "...as a scourge or punishment of sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people pressed upon Jesus, desperately reaching out to touch Him, as if they were falling upon Him in their eagerness. Each person had their own affliction, their own plague, which they believed was a divine stroke. The scene was truly heartbreaking and overwhelming for Jesus, as the crowd pushed and pressed upon Him with great intensity. But amidst the chaos, Jesus healed them all, showing compassion and bringing relief to their scourges. These plagues were not specific diseases, but rather afflictions that were seen as divine punishments. The people sought healing, seeking to be freed from the painful scourges that they believed were the result of their sins.",
+            "wordCount": 109,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.514099706513136,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                29.02,
+                35.32,
+                35.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people, each with their own plagues, pressed upon Jesus, falling upon Him in their eagerness. These plagues were regarded as divine strokes, afflictions sent as scourges for their sins. Amidst the intense scene, Jesus felt the tremendous strain of their desperate need for healing. However, He showed great compassion and healed them all. The pressing and pushing upon Him revealed the people's intense desire to be freed from their painful scourges, seeking relief from the punishments they believed they deserved.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.478513601841637,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.5,
+            "commentatorTierSimilarities": [
+                27.74,
+                34.12,
+                38.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people, each with their own plagues, pressed upon Jesus, falling upon Him in their eagerness. These plagues were regarded as divine strokes, afflictions sent as scourges for their sins. Amidst the intense scene, Jesus felt the tremendous strain of their desperate need for healing. However, He showed great compassion and healed them all. The pressing and pushing upon Him revealed the people's intense desire to be freed from their painful scourges, seeking relief from the punishments they believed they deserved.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.478513601841637,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.5,
+            "commentatorTierSimilarities": [
+                27.74,
+                34.12,
+                38.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people, each falling upon Jesus, pressed upon Him with great eagerness, seeking healing for their plagues. These plagues were seen as divine scourges, afflictions sent as punishment for their sins. Despite the overwhelming strain it placed on Jesus, he showed compassion and healed them all. The intensity of their pressing and pushing showed their deep desire to be freed from the painful scourges they believed were the result of their transgressions. Jesus offered relief and forgiveness, demonstrating His divine power and mercy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.406154999790517,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.1,
+            "commentatorTierSimilarities": [
+                27.01,
+                31.45,
+                41.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people, each falling upon Jesus, pressed upon Him with great eagerness, seeking healing for their plagues. These plagues were seen as divine scourges, afflictions sent as punishment for their sins. Despite the overwhelming strain it placed on Jesus, he showed compassion and healed them all. The intensity of their pressing and pushing showed their deep desire to be freed from the painful scourges they believed were the result of their transgressions. Jesus offered relief and forgiveness, demonstrating His divine power and mercy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.406154999790517,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.1,
+            "commentatorTierSimilarities": [
+                27.01,
+                31.45,
+                41.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:20:41",
+    "verseRef": "Mark 2:17",
+    "bestBHT": {
+        "bht": "Jesus accepted the claim of the Pharisees to be righteous, though they fell short. He called people to a new spiritual life, away from sin, and towards repentance. Those who see the impurity and sickness within themselves recognize their need for Jesus. He came not to call the righteous, but the sick. Only the sick, not the well, need a physician. Jesus came to save those who are sick, not those who consider themselves righteous.",
+        "wordCount": 75,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6597607543065627,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+        "commentatorTierSimilarities": [
+            47.79,
+            0.0,
+            52.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "No need have they that are strong of a physician.",
+            "Whole men have no need to a leech, but they that have evil.",
+            "They that are strong."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus for the sake of argument accepts the claim of the Pharisees to be righteous, though, as a matter of fact, they fell very far short of it.",
+            "Jesus called men to new spiritual life and away from sin and so to repentance.",
+            "The well or the strong are not those who need the physician in an epidemic."
+        ],
+        "John Gill": [
+            "They that are whole, have no need of the physician, but they that are sick.\" ",
+            "There are some that cry up the power of man's freewill, and plead for the strength and purity of human, nature, and extol its excellencies and abilities; and it is no wonder that these see no need of Christ, either for themselves or others.",
+            "There are others that are sick, and are quite sick of themselves; they see the impurity of their nature, how unsound and unhealthful they are; that from the crown of the head to the sole of the foot, there is no soundness in them, nothing but wounds, bruises, and putrefying sores."
+        ],
+        "John Wesley": [
+            "I came not to call the righteous \u2014 Therefore if these were righteous I should not call them. But now, they are the very persons I came to save."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus came not to call the righteous, but those who are sick. The Pharisees may have claimed to be whole and strong, but Jesus knew they were far from it. He accepted their self-righteousness for the sake of argument, but in reality, they were in need of spiritual healing and repentance. Those who see the impurity and sickness within themselves, who are sick of their own sinful nature, are the ones who recognize their need for a physician. Jesus called people to new spiritual life, away from sin, and towards repentance. The well and strong, who do not see their own need for a physician, have no need of Jesus. It is those who recognize their own sickness and brokenness that Jesus came to save.",
+            "wordCount": 126,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.730359358035245,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                52.65,
+                0.0,
+                47.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus came not to call the righteous, but those who are sick. He accepted the claim of the Pharisees to be righteous for the sake of argument, though they fell far short. Jesus called people to new spiritual life and away from sin, recognizing that only the sick, not the well, need a physician. Those who see the impurity and sickness within themselves are the ones who recognize their need for Jesus. He came to save the sick, not the righteous.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.7040177056751578,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                46.76,
+                0.0,
+                53.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus didn't come to call the righteous, but the sick. He acknowledged the Pharisees' claim to righteousness, even though they fell short. He called people to a new spiritual life and away from sin. Only those who recognize their own impurity and sickness see the need for a physician, while the well and strong do not. Jesus came to save those who are sick, not those who consider themselves righteous.",
+            "wordCount": 71,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.6729807125633385,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                49.34,
+                0.0,
+                50.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus called people to a new spiritual life and away from sin, recognizing that only the sick, not the well, need a physician. He accepted the claim of the Pharisees to be righteous as a matter of argument, although they fell far short. Those who see the impurity and sickness within themselves are the ones who recognize their need for Jesus. He came to save the sick, not the righteous.",
+            "wordCount": 70,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.6393436980253697,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.85,
+            "commentatorTierSimilarities": [
+                48.41,
+                0.0,
+                51.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus accepted the claim of the Pharisees to be righteous, though they fell short. He called people to a new spiritual life, away from sin, and towards repentance. Those who see the impurity and sickness within themselves recognize their need for Jesus. He came not to call the righteous, but the sick. Only the sick, not the well, need a physician. Jesus came to save those who are sick, not those who consider themselves righteous.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6597607543065627,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+            "commentatorTierSimilarities": [
+                47.79,
+                0.0,
+                52.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

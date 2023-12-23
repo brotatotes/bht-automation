@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:26:18",
+    "verseRef": "Mark 10:42",
+    "bestBHT": {
+        "bht": "Those who are acknowledged as rulers in this world exercise authority and lordship over others, as if they have the title of rulers. However, true rulership comes from God alone. The essence of heathen government is despotism, where those in power enforce their authority upon those beneath them. Jesus called his disciples to him, knowing that they also had ambitions of superiority. He wanted to humble them and show them that their desires for power were unbecoming, for this is how the Gentiles who do not know God act.",
+        "wordCount": 89,
+        "quoteTokenProportion": 53.03,
+        "qualityScore": 1.7008311773346283,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+        "commentatorTierSimilarities": [
+            35.24,
+            31.61,
+            33.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "42.] they which are accounted to rule,\u2014who have the title of rulers: literally, they which seem to rule, or, think that they rule. It is not, \u2018those who rule,\u2019 which God alone does."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye know that they which are accounted to rule\u2014are recognized or acknowledged as rulers.",
+            "Over the Gentiles exercise lordship over them: and their great ones exercise authority upon them\u2014as superiors exercising an acknowledged authority over inferiors."
+        ],
+        "Marvin Vincent": [
+            "Which are accounted to rule. Wyc., that seem to have princehead on folks."
+        ],
+        "Philip Schaff": [
+            "Accounted to rule over the Gentiles, have the title of rulers, God being the real Ruler.\" ",
+            "The essence of all heathen government being despotism.",
+            "The latter is perhaps the more suggestive sense."
+        ],
+        "John Gill": [
+            "But Jesus called them to him...knowing that they had the same ambitious views with the two brethren...\" ",
+            "...to check their pride and vanity and reprove them for their ambitious desires of superiority and pre-eminence over one another...",
+            "...showing them that this was a part which the Heathens that knew not God acted and therefore was very unbecoming them..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are recognized as rulers in this world exercise authority and lordship over others, as if they have the title of rulers. However, it is important to remember that true rulership comes from God alone. The nature of Gentile governments is characterized by despotism, where those in power enforce their authority upon those beneath them. Jesus called his disciples to him, knowing that they also had ambitions of superiority and pre-eminence. He wanted to humble them and remind them that their desires for power were unbecoming of those who follow God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.636779866654829,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.77,
+            "commentatorTierSimilarities": [
+                35.61,
+                29.01,
+                35.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who are acknowledged as rulers in this world exercise authority and lordship over others, as if they have the title of rulers. However, true rulership comes from God alone. The essence of heathen government is despotism, where those in power enforce their authority upon those beneath them. Jesus called his disciples to him, knowing that they also had ambitions of superiority. He wanted to humble them and show them that their desires for power were unbecoming, for this is how the Gentiles who do not know God act.",
+            "wordCount": 89,
+            "quoteTokenProportion": 53.03,
+            "qualityScore": 1.7008311773346283,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                35.24,
+                31.61,
+                33.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those recognized as rulers in this world exercise authority and lordship, as if they have the title of rulers. However, true rulership comes from God alone. The essence of heathen government is despotism, where those in power enforce authority upon the inferior. Jesus called his disciples to address their ambitions of superiority. He wanted to humble them and emphasize that their desires for power were unbecoming, resembling the actions of the Gentiles who do not know God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.6967062269493844,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                34.84,
+                33.85,
+                31.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ones recognized as rulers in this world seem to have authority and lordship, as if they hold the title of rulers. However, rulership truly belongs to God alone. Heathen governments function through despotism, with those in power exerting authority over the subordinates. Jesus gathered his disciples and confronted their aspirations for superiority. He wished to humble them and remind them that their hunger for power resembled the actions of the Gentiles who are ignorant of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.6488394880339814,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                35.7,
+                32.55,
+                31.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who are accounted to rule in this world exercise authority and lordship over others, appearing as if they have the title of rulers. Yet it is important to recognize that true rulership ultimately belongs to God alone. The nature of heathen governments involves the exercise of despotic control, with those in power wielding authority over those who are considered inferior. When Jesus called his disciples to him, he recognized their ambitions for superiority and sought to correct their pride and vanity, admonishing them for their desire for pre-eminence over one another.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.723118824598457,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                38.44,
+                29.05,
+                32.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:28:40",
+    "verseRef": "Mark 14:47",
+    "bestBHT": {
+        "bht": "In this account, Mark briefly mentions the incident where a servant's ear was cut off, without explicitly identifying Peter as the one responsible or including Jesus' rebuke. However, cross-referencing with Matthew, Luke, and John reveals that it was indeed Peter who acted, cutting off the right ear of the servant named Malchus. Although Mark's narrative is concise, the other Gospels provide more details that enhance our understanding of this event.",
+        "wordCount": 73,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.57367535706623,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+        "commentatorTierSimilarities": [
+            35.09,
+            27.27,
+            37.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The servant. See on Matthew 26:51. ",
+            "Ear [\u03c9\u03c4\u03b1\u03c1\u03b9\u03bf\u03bd] . A word found only here and at Joh 23:10. See on Matthew 26:51."
+        ],
+        "Philip Schaff": [
+            "Mark 14:47. The stroke of Peter is mentioned most briefly here.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Mark does not tell that it was Peter.",
+            "He really tried to kill the man, Malchus by name.",
+            "Mark does not give the rebuke to Peter by Jesus."
+        ],
+        "John Gill": [
+            "One of them that stood by... drew a sword, and smote a servant of the high priest.\" ",
+            "And cut off his ear; his right ear; the servant's name was Malchus."
+        ],
+        "John Wesley": [
+            "Matthew 26:51; Luke 22:49; John 18:10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:47, the account of the servant's ear being cut off by Peter is mentioned briefly, with Mark not providing the details of Peter's rebuke or explicitly naming him as the one who struck the servant. However, further insights can be found by cross-referencing this verse with Matthew 26:51, Luke 22:49, and John 18:10, where the servant is identified as Malchus and the action of cutting off his right ear is mentioned. While Mark does not explicitly mention Peter as the one responsible, the first-tier commentaries note that this detail is available in Matthew's account.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.8420635479176393,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.59,
+            "commentatorTierSimilarities": [
+                36.74,
+                28.45,
+                34.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this particular account, Mark briefly mentions the incident where a servant's ear was cut off, without explicitly stating that it was Peter who wielded the sword. To gain a fuller understanding of this event, one can look to Matthew, Luke, and John, where the servant is identified as Malchus and the action of cutting off his right ear is described. While Mark omits certain details, the first-tier commentaries indicate that a more comprehensive account can be found in Matthew's Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.5677411479773045,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.47,
+            "commentatorTierSimilarities": [
+                34.68,
+                27.06,
+                38.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Mark briefly mentions the incident where a servant's ear was cut off, leaving out the details of Peter's involvement and Jesus' rebuke. However, by cross-referencing with other Gospels like Matthew, Luke, and John, a fuller picture emerges. These accounts identify the servant as Malchus, describe the severing of his right ear, and provide more context around Peter's action and Jesus' response. While Mark's account is concise, the additional information in the other Gospels adds depth to the narrative.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.4420074961811866,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                32.52,
+                30.33,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, Mark briefly mentions the incident where a servant's ear was cut off, without explicitly identifying Peter as the one responsible or including Jesus' rebuke. However, cross-referencing with Matthew, Luke, and John reveals that it was indeed Peter who acted, cutting off the right ear of the servant named Malchus. Although Mark's narrative is concise, the other Gospels provide more details that enhance our understanding of this event.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.57367535706623,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.67,
+            "commentatorTierSimilarities": [
+                35.09,
+                27.27,
+                37.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, Mark briefly mentions the incident where a servant's ear was cut off, providing limited details about Peter's involvement and Jesus' rebuke. However, cross-referencing with other Gospels like Matthew, Luke, and John offers a more comprehensive understanding. These accounts reveal that it was Peter who struck the servant named Malchus, severing his right ear. While Mark's narrative lacks certain specifics, the other Gospels fill in the gaps, providing a more complete picture of the event.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.484773502729752,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.71,
+            "commentatorTierSimilarities": [
+                32.9,
+                28.32,
+                38.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

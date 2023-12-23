@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:21:57",
+    "verseRef": "Mark 5:1",
+    "bestBHT": {
+        "bht": "Jesus and his disciples came to the other side of the sea, into the country of the Gadarenes, possibly referring to the ruins of the village Khersa in the district of Gadara. This region is also referred to as the country of the Gergesenes, which was the preferable form in some authorities. It is believed that the city of Gadara was either adjacent to or within the country of the Gergesenes. This country is described as a heathen territory, both because of its location and the behavior of its people.",
+        "wordCount": 90,
+        "quoteTokenProportion": 47.17,
+        "qualityScore": 1.4023003067791757,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.97,
+        "commentatorTierSimilarities": [
+            38.25,
+            24.61,
+            37.14
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "1. And they came over unto the other",
+            "\tside of the sea, into the country of the Gadarenes."
+        ],
+        "Philip Schaff": [
+            "The Gerasenes. The preferable form here. 'Gergesenes' is found in some of the best authorities.\" ",
+            "The latter is the preferable reading in Luke, although there is good authority for 'Gerasenes' there also.\" ",
+            "On the locality and in explanation of the cut, see Matthew 8:28."
+        ],
+        "Archibald T. Robertson": [
+            "The ruins of the village Khersa (Gerasa) probably point to this site which is in the district of Gadara..."
+        ],
+        "John Gill": [
+            "The country of the Gadarenes, as do most copies; so called from Gadara, a city either adjacent to, or within the country of the Gergesenes; which was called by both names, from these different places.",
+            "Chammath was a mile from e Tiberias, and this Chammath was so near to the country of Gadara, that it is often called, \u05d7\u05de\u05ea \u05d3\u05d2\u05d3\u05e8, 'Chammath of Gadara.'",
+            "It appears to be an Heathen country, both from its situation, and the manners of the people."
+        ],
+        "John Wesley": [
+            "Matthew 8:28; Luke 8:26."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus and his disciples came to the other side of the sea, into the country of the Gadarenes, possibly referring to the ruins of the village Khersa in the district of Gadara. This region is also referred to as the country of the Gergesenes, which was the preferable form in some authorities. It is believed that the city of Gadara was either adjacent to or within the country of the Gergesenes. This country is described as a heathen territory, both because of its location and the behavior of its people.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.4023003067791757,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.97,
+            "commentatorTierSimilarities": [
+                38.25,
+                24.61,
+                37.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus and his disciples arrived in the country of the Gadarenes, also known as the Gerasenes, located near the ruins of the village Khersa in the district of Gadara. This region was recognized as a heathen territory due to its location and the behavior of its people. The city of Gadara was possibly adjacent to or within the country of the Gergesenes, which explains the dual names.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3191486098649423,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.2,
+            "commentatorTierSimilarities": [
+                45.23,
+                14.98,
+                39.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus and his disciples reached the country of the Gadarenes, or Gergesenes, believed to be the ruins of the village Khersa in the Gadara district. This heathen region was known for its location and the conduct of its inhabitants. The city of Gadara may have been nearby or even part of the country of the Gergesenes, hence the dual names.",
+            "wordCount": 60,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.3489124893925013,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.19,
+            "commentatorTierSimilarities": [
+                45.01,
+                17.02,
+                37.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus and his disciples arrived in the country of the Gadarenes, possibly referring to the ruins of the village Khersa in the district of Gadara. This region is also known as the country of the Gergesenes, a heathen territory due to its location and the behavior of its people. The city of Gadara was likely adjacent to or within the country of the Gergesenes, explaining the dual names.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.3822651195334683,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.3,
+            "commentatorTierSimilarities": [
+                46.15,
+                14.39,
+                39.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus and his disciples came to the other side of the sea, into the country of the Gadarenes, an area likely associated with the ruins of the village Khersa in the district of Gadara. This region was also known as the country of the Gergesenes, indicating that the city of Gadara was either adjacent to or within this territory. It is noteworthy that this area was considered a heathen and Gentile land, based on both its location and the behavior of its inhabitants.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.3437660190926421,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.02,
+            "commentatorTierSimilarities": [
+                45.89,
+                15.19,
+                38.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:28:11",
+    "verseRef": "Mark 14:7",
+    "bestBHT": {
+        "bht": "The accounts of Matthew and John align in such a way that indicates Mark did not compile his account from theirs. There is an implied reproach towards Judas in these words, likely referring to his responsibility of giving to the poor. The phrase For ye have the poor with you always...and whensoever ye will ye may do them good subtly hints at Jesus' imminent departure and the value of His presence. Mark amplifies this statement, emphasizing the importance of being proactive in helping the less fortunate.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.4767433854580083,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.44,
+        "commentatorTierSimilarities": [
+            38.67,
+            38.88,
+            22.45
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The agreement verbatim here of Matthew and John... is decisive against the idea that St. Mark compiled his account from the other two.",
+            "In these words there appears to be a reproach conveyed to Judas.",
+            "Perhaps an allusion to the office of giving to the poor being his."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For ye have the poor with you always...and whensoever ye will ye may do them good.\" ",
+            "Me ye have not always.\" ",
+            "A gentle hint of His approaching departure, by One who knew the worth of His own presence."
+        ],
+        "Marvin Vincent": [
+            "And whensoever ye will, etc. Note Mark's amplification."
+        ],
+        "Philip Schaff": [
+            "Mark 14:7. Whensoever ye will ye can do them good. Peculiar to Mark, but implied in the other accounts.",
+            "\t"
+        ],
+        "John Gill": [
+            "For ye have the poor with you always...and whensoever ye will ye may do them good.\" ",
+            "Me ye have not always..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:7, the agreement between Matthew and John, as well as the reproach conveyed to Judas in these words, suggests that Mark did not compile his account from the other two. The mention of giving to the poor being Judas's responsibility adds to the context of the verse. The statement For ye have the poor with you always...and whensoever ye will ye may do them good can be seen as a gentle hint of Jesus' imminent departure, emphasizing the value of His presence. Mark's amplification of this statement further highlights the importance of helping the poor. These words convey the idea that while the opportunity to do good unto the poor is always present, the presence of Jesus is not. Hence, it is crucial to make the most of His time among them.",
+            "wordCount": 136,
+            "quoteTokenProportion": 46.91,
+            "qualityScore": 1.3523628187896084,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.31,
+            "commentatorTierSimilarities": [
+                40.21,
+                34.16,
+                25.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The agreement between Matthew and John in these words decisively refutes the idea that Mark compiled his account from the other two. In this verse, there is a reproach conveyed to Judas, possibly alluding to his duty of giving to the poor. The statement about the perpetual presence of the poor juxtaposed with the temporary presence of Jesus hints at His forthcoming departure, emphasizing the preciousness of His time with them. Mark's expansion of this idea stresses the importance of helping those in need.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.2505835618158918,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.93,
+            "commentatorTierSimilarities": [
+                52.22,
+                40.88,
+                6.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The accounts of Matthew and John align in such a way that indicates Mark did not compile his account from theirs. There is an implied reproach towards Judas in these words, likely referring to his responsibility of giving to the poor. The phrase For ye have the poor with you always...and whensoever ye will ye may do them good subtly hints at Jesus' imminent departure and the value of His presence. Mark amplifies this statement, emphasizing the importance of being proactive in helping the less fortunate.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.4767433854580083,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.44,
+            "commentatorTierSimilarities": [
+                38.67,
+                38.88,
+                22.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The agreement between Matthew and John supports the idea that Mark did not borrow his account from theirs. These words hint at a reproach towards Judas, possibly referring to his duty of giving to the poor. The phrase For ye have the poor with you always...and whensoever ye will ye may do them good suggests Jesus' imminent departure and the significance of His presence. Mark expands on this statement, highlighting the importance of seizing opportunities to help those in need.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.440848367927749,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.25,
+            "commentatorTierSimilarities": [
+                39.98,
+                36.54,
+                23.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The agreement among Matthew, John, and Mark about these words confirms that Mark didn't compile his account from the other two. There is a veiled reproach to Judas, possibly alluding to his responsibility of providing for the poor. The statement For ye have the poor with you always...and whensoever ye will ye may do them good subtly signifies Jesus' impending departure and the value of His presence. Mark's expansion on this notion emphasizes the importance of seizing opportunities to assist those in need.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.4343012990579775,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.03,
+            "commentatorTierSimilarities": [
+                40.89,
+                35.2,
+                23.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

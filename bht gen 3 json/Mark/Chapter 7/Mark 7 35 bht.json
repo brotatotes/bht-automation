@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:24:31",
+    "verseRef": "Mark 7:35",
+    "bestBHT": {
+        "bht": "When Jesus opened the man's ears, the impediment to his plain speech was removed. The string of his tongue was loosed, and he began to speak correctly and plainly. This immediate and complete healing showcased the power of Christ's words. Likewise, those who have been spiritually transformed by Christ can speak plainly about what they have heard, seen, and felt. They can convey a clear account of their conviction, encounter with Christ, and recognition of His sufficiency as a Savior.",
+        "wordCount": 82,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.815449161702381,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+        "commentatorTierSimilarities": [
+            17.81,
+            36.36,
+            45.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35.] the fetter, or the bond:\u2014the hindrance, whatever it was, which prevented him from speaking plainly before."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And straightway his ears were opened\u2014This is mentioned first as the source of the other derangement.\" ",
+            "The cure was thus alike instantaneous and perfect.",
+            "and the string of his tongue was loosed, and he spake plain."
+        ],
+        "Albert Barnes": [
+            "The string of his tongue was loosed - The difficulty in his speaking was removed."
+        ],
+        "Marvin Vincent": [
+            "Plain [\u03bf\u03c1\u03b8\u03c9\u03c2] . Lit., rightly. So Wyc."
+        ],
+        "Philip Schaff": [
+            "The string of his tongue, the impediment, whatever it was, was loosed, was removed.",
+            "And he spake plainly (or 'rightly').",
+            "'Mark shows, in his account of the miracles, a preference for those healings, in which the gradual process of the cure, as connected with the instrument and the development of it, is vividly presented' (Lange)."
+        ],
+        "Archibald T. Robertson": [
+            "He spake plain (\u03b5\u03bb\u03b1\u03bb\u03b5 \u03bf\u03c1\u03b8\u03c9\u03c2). He began to speak correctly. Inchoative imperfect tense. "
+        ],
+        "John Gill": [
+            "Such a power went along with the words of Christ... as quick as ever he did before he lost it, or, as any other man.",
+            "Those whose ears are opened, and whose tongues are loosed in a spiritual manner by Christ, speak plainly of what they have heard and seen, and felt.",
+            "They can give a plain and clear account of the work of God upon their souls; how they have been convinced... how they have seen Christ to be an all sufficient and suitable Saviour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Immediately after Jesus opened the man's ears, the hindrance that prevented him from speaking plainly was removed. The string of his tongue was loosed, and he began to speak correctly. This cure was instantaneous and perfect, as the man was able to speak as well as any other person. Just as the physical impediment was removed, spiritual healing also enables believers to speak plainly about their experiences with God, testifying to the work that Christ has done in their lives. They can give a clear and straightforward account of their conviction, their encounter with Christ, and how they have experienced His sufficiency as a Savior.",
+            "wordCount": 106,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9234565677548772,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.3,
+            "commentatorTierSimilarities": [
+                21.04,
+                40.02,
+                38.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As soon as Jesus opened the man's ears, the obstacle hindering him from speaking clearly was removed. His tongue was unbound, and he began to speak correctly. This immediate and complete healing exemplifies the power of Christ's words. Similarly, in a spiritual sense, believers whose ears are opened and tongues loosed can speak plainly about their encounters with God. They can articulate how God has worked in their lives, expressing their conviction, their experience with Christ, and His efficacy as a Savior.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7839173924690126,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                19.05,
+                36.16,
+                44.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus restored the man's ability to hear, the hindrance that prevented him from speaking coherently was removed, and he began to speak perfectly. The instantaneous and complete healing demonstrated the immense power of Christ's words. In a spiritual sense, those who have experienced Christ's transformative work in their lives can speak plainly about their experiences, testifying to the conviction they have felt, their encounter with Christ, and the sufficiency of His salvation. They can vividly and accurately describe how God has worked in their souls.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.602801225300048,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.64,
+            "commentatorTierSimilarities": [
+                14.27,
+                26.26,
+                59.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Jesus opened the man's ears, the hindrance that prevented him from speaking plainly was removed. The string of his tongue was loosed and he spoke correctly. This sudden and complete healing illustrated the power of Christ's words. Similarly, those who have experienced spiritual transformation can speak plainly about their encounters with God. They can provide a clear account of the conviction, the experience of Christ, and the sufficiency of His salvation in their lives. They can articulate how God's work has personally impacted and transformed them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7319831233245628,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                17.84,
+                36.86,
+                45.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus opened the man's ears, the impediment to his plain speech was removed. The string of his tongue was loosed, and he began to speak correctly and plainly. This immediate and complete healing showcased the power of Christ's words. Likewise, those who have been spiritually transformed by Christ can speak plainly about what they have heard, seen, and felt. They can convey a clear account of their conviction, encounter with Christ, and recognition of His sufficiency as a Savior.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.815449161702381,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                17.81,
+                36.36,
+                45.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

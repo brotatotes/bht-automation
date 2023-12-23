@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:22:17",
+    "verseRef": "Mark 5:3",
+    "bestBHT": {
+        "bht": "This description paints a vivid picture of a man living in the tombs, seeking refuge in unclean places haunted by dead men's bones. He had become so strong that no chains or handcuffs could restrain him. The horrifying portrayal of his condition underscores the distress and alarm that arise from being under the control of Satan. This man's extraordinary strength, surpassing his natural capacity, suggests the possibility of the devil's influence. It serves as a poignant reminder of the devastating consequences of being under the tyranny of evil forces.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.166778909434623,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.14,
+        "commentatorTierSimilarities": [
+            33.21,
+            0.0,
+            66.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He ware no clothes, neither abode in any house.",
+            "These tombs were hewn out of the rocky caves of the locality.",
+            "Served for shelters and lurking places."
+        ],
+        "Marvin Vincent": [
+            "The picture of the miserable man is fearful; and in drawing it, each evangelist has some touches which are peculiarly his own; but St. Mark's is the most eminently graphic of all...\" ",
+            "The kata, down, gives the sense of a settled habitation. Compare our phrase settled down. So Tynd., his abiding.\" ",
+            "In unclean places, unclean because of the dead men's bones which were there... they would attract those who sought to flee from all fellowship of their kind."
+        ],
+        "John Calvin": [
+            "We often perceive in madmen much greater strength than belongs to their natural capacity; and we are not at liberty to deny that, in such cases, the devil does his part when God permits him.",
+            "It was indeed a sad and shocking exhibition, but may serve to remind us how wretched and alarming it is to be placed under the tyranny of Satan.",
+            "Bodily agony, however violent or cruel, is not more to be dreaded than distress of mind."
+        ],
+        "Archibald T. Robertson": [
+            "No man could any more bind him, no, not with a chain.\" ",
+            "This demoniac snapped a handcuff as if a string.",
+            "Instrumental case \u03b1\u03bb\u03c5\u03c3\u03b5, a handcuff (\u03b1 privative and \u03bb\u03c5\u03c9, to loosen)."
+        ],
+        "John Gill": [
+            "the sign of a madman, that he goeth out in the night, and lodges among the tombs, and rends his garments, and loses what is given to him.",
+            "this could not be by his own natural strength.",
+            "not only cords were insufficient to hold, but even chains of iron; so strong was he through the possession."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse describes a man who lived among the tombs, finding shelter in the unclean places where dead men's bones laid. He wore no clothes and had become so strong that no one could bind him, not even with handcuffs or chains. The vivid description of this miserable and tormented man highlights the terrifying reality of being under the tyranny of Satan. It serves as a reminder of the wretchedness and alarm that comes from being under his control. The image of a madman dwelling in the darkness, tearing his garments, and losing all sense of human connection is truly distressing. The commentator suggests that this extraordinary display of strength cannot be attributed solely to the man's natural capacity, but may involve the influence of the devil when permitted by God.",
+            "wordCount": 133,
+            "quoteTokenProportion": 37.76,
+            "qualityScore": 1.2769325912309235,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.8,
+            "commentatorTierSimilarities": [
+                35.99,
+                0.0,
+                64.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This description paints a vivid picture of a man living in the tombs, seeking refuge in unclean places haunted by dead men's bones. He had become so strong that no chains or handcuffs could restrain him. The horrifying portrayal of his condition underscores the distress and alarm that arise from being under the control of Satan. This man's extraordinary strength, surpassing his natural capacity, suggests the possibility of the devil's influence. It serves as a poignant reminder of the devastating consequences of being under the tyranny of evil forces.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.166778909434623,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.14,
+            "commentatorTierSimilarities": [
+                33.21,
+                0.0,
+                66.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Living among the tombs and seeking shelter in unclean places, this man was stripped of his garments and possessed superhuman strength that even handcuffs and chains could not restrain. The graphic depiction of his wretchedness unveils the terrifying consequences of succumbing to the control of Satan. The astonishing display of power, beyond his natural capacity, suggests the involvement of demonic influence. It serves as a somber reminder of the profound misery and alarm that accompanies the dominion of evil.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.1224229619989976,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.66,
+            "commentatorTierSimilarities": [
+                29.96,
+                0.0,
+                70.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This tormented man resided in the tombs, finding shelter in the unclean caves where dead men's bones were scattered. Stripped of clothing and possessing an inexplicable strength, no chain or handcuff could confine him. The vivid imagery used by St. Mark captures the raw and distressing reality of this individual's condition. It serves as a powerful reminder of the harrowing consequences of being under the dominion of Satan, highlighting the wretchedness and alarming nature of such existence.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.2620393712440046,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.31,
+            "commentatorTierSimilarities": [
+                42.48,
+                0.0,
+                57.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This scene depicts a man who sought refuge among the tombs and rocky caves, forsaking clothing and any semblance of a proper dwelling. His pitiful state, described by St. Mark, conveys the sheer horror of his existence. The astonishing strength he possessed, demonstrated by effortlessly breaking handcuffs and defying chains, adds further weight to his woeful condition. Such a vivid and graphic portrayal serves as a distressing reminder of how calamitous and alarming it is to be ensnared by the powers of darkness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.2163621693899618,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.79,
+            "commentatorTierSimilarities": [
+                39.27,
+                0.0,
+                60.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

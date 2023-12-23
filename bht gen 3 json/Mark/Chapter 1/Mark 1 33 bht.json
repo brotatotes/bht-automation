@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:20:04",
+    "verseRef": "Mark 1:33",
+    "bestBHT": {
+        "bht": "The bustling scene painted by the first-tier commentary shows the gathering of the entire city at Peter's door, where the sick and curious spectators eagerly await the miraculous works of Jesus. This vivid depiction, unique to Mark, reflects the eyewitness account of Peter, deepening the reader's understanding of the impact Jesus had on the people. Peter, filled with gratitude and pride, witnesses the multitude being healed as Jesus stands in the doorway, a poignant testament to His power and compassion.",
+        "wordCount": 83,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.6590680629329844,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+        "commentatorTierSimilarities": [
+            42.35,
+            30.15,
+            27.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And all the city was gathered together at the door\u2014of Peter's house; that is, the sick and those who brought them, and the wondering spectators.\" ",
+            "This bespeaks the presence of an eye-witness, and is one of those lively examples of word-painting so frequent in this Gospel."
+        ],
+        "Marvin Vincent": [
+            "All the city was gathered together at the door",
+            "Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "Mark 1:33. Gathered together at the door. Peculiar to Mark, and suggesting the impression made on Peter looking out from the house.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The whole city was gathered together there. He is seeing with Peter's eyes again.",
+            "Peter no doubt watched the beautiful scene with pride and gratitude as Jesus stood in the door and healed the great crowds in the glory of that sunset.",
+            "All sorts of sick folk came and were healed."
+        ],
+        "John Gill": [
+            "the inhabitants of the city of Capernaum, a very great number of them at least",
+            "being willing to see what miraculous cures might be wrought by Christ",
+            "got together in great crowds about the door"
+        ],
+        "John Wesley": [
+            "And the whole city was gathered together at the door \u2014 O what a fair prospect was here!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene in Mark 1:33 is vividly described through word-painting, as the whole city of Capernaum gathers at the door of Peter's house. The presence of an eyewitness is evident, as the commentary notes that this detail is peculiar to Mark and emphasizes the impression made on Peter. The crowd consists of the sick and those who brought them, as well as curious onlookers. As Jesus stands in the doorway, healing the multitude, Peter surely felt a sense of pride and gratitude. The sight of all sorts of sick individuals being healed is a testament to the power and compassion of Jesus, drawing a great number of people to witness this miraculous scene.",
+            "wordCount": 114,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 1.6634994832962398,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                40.93,
+                30.76,
+                28.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The vibrant description in the first-tier commentary of the city of Capernaum gathering at Peter's house creates a vivid image of the multitude seeking healing and witnessing the miracles performed by Jesus. The presence of an eyewitness is suggested, and Peter's perspective adds a personal touch to the scene. This unique detail, peculiar to Mark, conveys the impact of Jesus' presence and the awe-inspiring nature of the healings. The diverse crowd, consisting of the sick and their caretakers, flocks around Jesus, eager to witness the remarkable works he performs.",
+            "wordCount": 93,
+            "quoteTokenProportion": 23.44,
+            "qualityScore": 1.494001419360667,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.02,
+            "commentatorTierSimilarities": [
+                43.93,
+                30.56,
+                25.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The bustling scene painted by the first-tier commentary shows the gathering of the entire city at Peter's door, where the sick and curious spectators eagerly await the miraculous works of Jesus. This vivid depiction, unique to Mark, reflects the eyewitness account of Peter, deepening the reader's understanding of the impact Jesus had on the people. Peter, filled with gratitude and pride, witnesses the multitude being healed as Jesus stands in the doorway, a poignant testament to His power and compassion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.6590680629329844,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                42.35,
+                30.15,
+                27.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As depicted in the lively word-painting of the first-tier commentary, the entire city gathers at Peter's house, captivated by the healing and miracles performed by Jesus. This portrayal, unique to Mark, offers a glimpse into Peter's perspective, adding a personal touch to the narrative. The diverse crowd consists of the sick seeking healing and those accompanying them, as well as curious spectators. The scene, illuminated by the glory of the sunset, showcases Jesus' power and draws a large number of people who witness various miraculous healings.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.464663521990361,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.04,
+            "commentatorTierSimilarities": [
+                44.68,
+                26.01,
+                29.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The depiction in the first-tier commentary reveals a vibrant scene where the entire city gathers at Peter's house, marveling at the multitude of people being healed by Jesus. This eyewitness account, unique to Mark's Gospel, adds a sense of authenticity and vividness to the narrative. The diverse crowd includes the sick and those bringing them, as well as curious onlookers. As Jesus stands in the doorway, bathed in the glow of the sunset, His healing power is on full display, drawing a remarkable assembly of individuals seeking His miracles.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.4990766768000903,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                43.04,
+                24.37,
+                32.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

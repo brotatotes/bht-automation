@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:22:15",
+    "verseRef": "Mark 4:40",
+    "bestBHT": {
+        "bht": "The disciples' fear during the storm revealed their lack of trust in Jesus' power and authority. Despite having faith and seeking His help, they were still afraid. Their small and feeble faith made them doubt if Jesus could save them in time. Jesus, being the Master even in the midst of the storm, questioned their fear and lack of faith. This episode highlights the relatability of the disciples' struggles to our own in times of trouble.",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.676239079031593,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+        "commentatorTierSimilarities": [
+            35.81,
+            28.59,
+            35.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "There is a natural apprehension under danger; but there was unbelief in their fear.",
+            "Faith they had, for they applied to Christ for relief: but little, for they were afraid, though Christ was in the ship.",
+            "Faith dispels fear, but only in proportion to its strength."
+        ],
+        "Philip Schaff": [
+            "Have ye not yet faith.\" ",
+            "Mark, in many instances, brings out the weakness of the disciples most prominently.",
+            "A significant fact, if we remember that Peter was his authority."
+        ],
+        "Archibald T. Robertson": [
+            "They had the Lord of the wind and the waves with them in the boat. He was still Master even if asleep in the storm.",
+            "Not yet had they come to feel that Jesus was really Lord of nature. They had accepted his Messiaship, but all the conclusions from it they had not yet drawn.",
+            "How like us in our troubles they were!"
+        ],
+        "John Gill": [
+            "Why are ye so fearful?...how is it that ye have no faith?",
+            "Faith they had, but it was very small, and scarcely to be called faith.",
+            "They feared it was too late...and were just perishing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples in the boat were filled with fear during the storm, despite having faith and seeking help from Jesus. Their fear revealed their lack of trust in His power and authority. Although they recognized Jesus as the Messiah, they had not fully grasped His ability to control nature. Jesus, being the Master even in the midst of the storm, questioned their fear and lack of faith. Their small and feeble faith made them doubt whether He could save them in time. This episode shows us how relatable the disciples' struggles are to our own in times of trouble.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.573439090478209,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                39.23,
+                26.73,
+                34.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples' fear during the storm revealed their lack of trust in Jesus' power and authority, despite having faith and seeking His help. Although they recognized Jesus as the Messiah, they had not fully understood His control over nature. Jesus, the Master even in the storm, questioned their fear and lack of faith. Their small faith made them doubt if Jesus could save them in time. This episode highlights the relatability of the disciples' struggles to our own troubles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.5824655636547162,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.96,
+            "commentatorTierSimilarities": [
+                36.9,
+                29.95,
+                33.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples in the boat were filled with fear during the storm, despite having faith and seeking help from Jesus. Their fear revealed their lack of trust in His power and authority. Although they recognized Jesus as the Messiah, they had not fully grasped His ability to control nature. Jesus, being the Master even in the midst of the storm, questioned their fear and lack of faith. Their small and feeble faith made them doubt whether He could save them in time. This episode shows us how relatable the disciples' struggles are to our own in times of trouble.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.573439090478209,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.66,
+            "commentatorTierSimilarities": [
+                39.23,
+                26.73,
+                34.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples' fear during the storm revealed their lack of trust in Jesus' power and authority. Although they had faith and sought His help, their fear overshadowed their belief. While they acknowledged Jesus as the Messiah, they hadn't fully comprehended His control over nature. Jesus, the Master even in the storm, questioned their fear and faithlessness. Their small, wavering faith made them doubt if Jesus could save them. This episode demonstrates the relatability of the disciples' struggles to our own in times of trouble.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.588211418056512,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                37.91,
+                28.87,
+                33.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples' fear during the storm revealed their lack of trust in Jesus' power and authority. Despite having faith and seeking His help, they were still afraid. Their small and feeble faith made them doubt if Jesus could save them in time. Jesus, being the Master even in the midst of the storm, questioned their fear and lack of faith. This episode highlights the relatability of the disciples' struggles to our own in times of trouble.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.676239079031593,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                35.81,
+                28.59,
+                35.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

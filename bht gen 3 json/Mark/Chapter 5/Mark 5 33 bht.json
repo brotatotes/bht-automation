@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:23:17",
+    "verseRef": "Mark 5:33",
+    "bestBHT": {
+        "bht": "The healed woman, trembling and alarmed, could no longer hide and came forward to declare before all the people the tale of her chronic misery, her desperate attempts at finding relief, and the instant healing she received by touching the Great Healer. Her public testimony vividly portrayed her past suffering and the miraculous transformation she experienced. Despite her fears and trembling, she bravely confessed the truth, allowing her faith to triumph over her timidity. Her story encourages us to boldly share our own encounters of grace for the glory of God and the benefit of others.",
+        "wordCount": 96,
+        "quoteTokenProportion": 26.47,
+        "qualityScore": 1.50688478508969,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+        "commentatorTierSimilarities": [
+            27.68,
+            37.72,
+            34.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "alarmed, as a humble,",
+            "\tshrinking female would naturally be, at the necessity of so public an",
+            "\texposure of herself, yet conscious that she had a tale to tell which",
+            "\twould speak for her.\" ",
+            "When the woman saw that she was not hid, she",
+            "\tcame trembling, and falling down before Him, she declared unto Him",
+            "\tbefore all the people for what cause she had touched Him, and how she",
+            "\twas healed immediately.",
+            "This, though it tried the modesty of",
+            "\tthe believing woman, was just what Christ wanted in dragging her",
+            "\tforth, her public testimony to the facts of her case\u2014the disease,",
+            "\twith her abortive efforts at a cure, and the instantaneous and",
+            "\tperfect relief which her touching the Great Healer had brought her."
+        ],
+        "Philip Schaff": [
+            "Her experience in the past well accounts for her conduct; rough physicians, painful treatment, loss of means, constant diminution of health, the nature of her disease, all led to the secret mode she adopted, and this was in keeping with that.",
+            "Told him all the truth, and that too 'before all the people' (Luke 8:47). Her faith is brought out and triumphs thus over her timidity.",
+            "To this day, physicians complain of want of candor in female patients, or at least of a failure to accurately state their symptoms, etc. So that the naturalness of the picture is remarkable."
+        ],
+        "Archibald T. Robertson": [
+            "These participles vividly portray this woman who had tried to hide in the crowd.",
+            "She had to come and confess, for something 'has happened' (\u03b3\u03b5\u03b3\u03bf\u03bd\u03b5\u03bd, second perfect active indicative, still true) to her.",
+            "She told 'the pitiful tale of chronic misery' (Bruce)."
+        ],
+        "John Gill": [
+            "After conversion, after souls have laid hold on Christ for righteousness and life; after they have had the pardon of their sins, and are cured of their diseases, they are not without their fears and tremblings, though there is no just reason for them.",
+            "They fear where no fear is; that is, where there is no true cause of fear; which was this woman's ease: they are sometimes afraid they have no interest in Christ, and in his love; that they are hypocrites; that the truth of grace is not in them; that they shall never hold out to the end; that they shall perish, and come short of eternal glory, notwithstanding they know, as this woman did, what has been done in them, and done for them.",
+            "The secret experiences of grace in our souls we should not be ashamed to relate to others; this makes for the glory of divine grace, and the good of others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Alarmed and trembling, the woman who had been healed could not hide in the crowd any longer. Though it tried her modesty, she came forth to declare before all the people the tale of her chronic misery, the fruitless efforts to find a cure, and the instantaneous relief she experienced when she touched the Great Healer. In her public testimony, she vividly portrayed her past suffering and the miraculous change that had occurred. Despite her fears and trembling, she bravely confessed the truth, allowing her faith to triumph over her timidity. Her story serves as a reminder that we, too, should not be ashamed to share our secret experiences of grace, for it brings glory to God and benefits others.",
+            "wordCount": 120,
+            "quoteTokenProportion": 34.12,
+            "qualityScore": 1.546824660094269,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.77,
+            "commentatorTierSimilarities": [
+                29.47,
+                36.23,
+                34.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The healed woman, initially alarmed and trembling, could no longer hide her tale of chronic misery. Despite her modesty, she publicly declared the facts of her case, recounting her efforts to find a cure and the immediate relief she received by touching the Great Healer. Her courageous testimony served as a vivid portrayal of her past suffering and the miraculous transformation she experienced. Her story encourages us to share our own experiences of grace, bringing glory to God and benefiting others.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.458277837689505,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.83,
+            "commentatorTierSimilarities": [
+                31.08,
+                37.52,
+                31.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Alarmed and trembling, the woman who had been healed could not hide in the crowd any longer. Though it tried her modesty, she came forth to declare before all the people the tale of her chronic misery, the fruitless efforts to find a cure, and the instantaneous relief she experienced when she touched the Great Healer. In her public testimony, she vividly portrayed her past suffering and the miraculous change that had occurred. Despite her fears and trembling, she bravely confessed the truth, allowing her faith to triumph over her timidity. Her story serves as a reminder that we, too, should not be ashamed to share our secret experiences of grace, for it brings glory to God and benefits others.",
+            "wordCount": 120,
+            "quoteTokenProportion": 34.12,
+            "qualityScore": 1.546824660094269,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.77,
+            "commentatorTierSimilarities": [
+                29.47,
+                36.23,
+                34.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The healed woman, alarmed and trembling, could not hide in the crowd. She courageously came forth, publicly declaring the tale of her chronic misery, the fruitless efforts to find a cure, and the instant relief from touching the Great Healer. Through her testimony, she vividly portrayed her past suffering and miraculous transformation. Despite her fears and trembling, she bravely confessed the truth, allowing her faith to triumph. Her story serves as a reminder for us not to be ashamed of sharing our experiences of grace, bringing glory to God and benefiting others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 1.4632333596479536,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.0,
+            "commentatorTierSimilarities": [
+                29.16,
+                35.53,
+                35.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The healed woman, trembling and alarmed, could no longer hide and came forward to declare before all the people the tale of her chronic misery, her desperate attempts at finding relief, and the instant healing she received by touching the Great Healer. Her public testimony vividly portrayed her past suffering and the miraculous transformation she experienced. Despite her fears and trembling, she bravely confessed the truth, allowing her faith to triumph over her timidity. Her story encourages us to boldly share our own encounters of grace for the glory of God and the benefit of others.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 1.50688478508969,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+            "commentatorTierSimilarities": [
+                27.68,
+                37.72,
+                34.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:24:30",
+    "verseRef": "Mark 7:32",
+    "bestBHT": {
+        "bht": "In their eagerness, they bring a man who is deaf and has difficulty speaking to Jesus, seeking his touch and healing. Not absolutely dumb, but with an impediment in his speech, this man reflects the state of sinners who are deaf to the voice of both the law and the Gospel. Just as the friends and family of this man believed in Christ's ability to bring healing, believers bring their loved ones who are spiritually deaf and dumb under the means of grace, receiving both speech and hearing from Christ.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 1.624670497033053,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+        "commentatorTierSimilarities": [
+            20.92,
+            27.06,
+            52.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In their eagerness they appear to have been somewhat too officious.",
+            "Though usually doing as here suggested, He will deal with this case in His own way."
+        ],
+        "Albert Barnes": [
+            "One that was deaf, and had an impediment in his speech - Not entirely mute, but who spoke indistinctly or with difficulty.",
+            "His deafness might not have been of long standing, and his speech, therefore, not entirely ruined.",
+            "Blessings were commonly imparted by laying on the hands."
+        ],
+        "Marvin Vincent": [
+            "Deaf [\u03ba\u03c9\u03c6\u03bf\u03bd] . See on Matthew 9:32.",
+            "Had an impediment in his speech [\u03bc\u03bf\u03b3\u03b9\u03bb\u03b1\u03bb\u03bf\u03bd] . Mogiv, with difficulty; lalov, speaking.",
+            "Not absolutely dumb. Compare he spake plain, verse 35."
+        ],
+        "John Calvin": [
+            "But it is evident that he made abundant use of outward signs, when they were found to be advantageous.",
+            "Thus, by touching the tongue with spittle, he intended to point out that the faculty of speech was communicated by himself alone.",
+            "Readers of sobriety and judgment will be satisfied with this single instruction, that we obtain from Christ, in answer to our prayers, both speech and hearing."
+        ],
+        "Philip Schaff": [
+            "Deafness usually causes dumbness.",
+            "This man was not possessed, as many thus afflicted were.",
+            "They thought this was necessary."
+        ],
+        "Archibald T. Robertson": [
+            "And they bring unto him (\u03ba\u03b1 \u03c6\u03b5\u03c1\u03bf\u03c5\u03c3\u03b9\u03bd \u03b1\u03c5\u03c4\u03c9). Another of Mark's dramatic presents. This incident only in Mark. "
+        ],
+        "John Gill": [
+            "The case of this man much resembles that of a sinner in a state of nature, who is deaf to the voice, both of law and Gospel.",
+            "He is deaf to all the instructions, directions, cautions, and exhortations, of the ministers of the word; and even of his best friends, relations, and acquaintance.",
+            "As the friends and relations of this man, having a great opinion of Christ, and a persuasion of his ability to relieve and cure him, bring him unto him, that he might put his hands upon him; so do such who know Christ themselves, and have felt the power of his grace upon their own souls, bring their deaf and dumb, their relations in a state of nature, under the means of grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In their eagerness, they bring a man who is deaf and has difficulty speaking to Jesus, seeking his touch and healing. Not absolutely dumb, but struggling to communicate, this man represents those who are unable to hear the voice of both the law and the Gospel. Just as the friends and family of this man believed in Christ's ability to bring healing, so believers bring their loved ones who are deaf and dumb, spiritually speaking, under the means of grace. From Christ, we can receive both speech and hearing, opening our ears to the instructions, cautions, and exhortations of the ministers of the word.",
+            "wordCount": 105,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.4439751041366207,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.35,
+            "commentatorTierSimilarities": [
+                18.72,
+                24.92,
+                56.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In their eagerness, they bring a man who is deaf and has difficulty speaking to Jesus, seeking his touch and healing. Not absolutely dumb, but struggling to communicate, this man represents those who are unable to hear the voice of both the law and the Gospel. From Christ, we can receive both speech and hearing, opening our ears to the instructions, cautions, and exhortations of the ministers of the word.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.4575799231086095,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "commentatorTierSimilarities": [
+                19.68,
+                25.21,
+                55.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their eagerness, they bring a man who is deaf and has difficulty speaking to Jesus, seeking his touch and healing. Not absolutely dumb, but with an impediment in his speech, this man reflects the state of sinners who are deaf to the voice of both the law and the Gospel. Just as the friends and family of this man believed in Christ's ability to bring healing, believers bring their loved ones who are spiritually deaf and dumb under the means of grace, receiving both speech and hearing from Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.624670497033053,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                20.92,
+                27.06,
+                52.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In their eagerness, they bring a man who is deaf and has an impediment in his speech to Jesus, seeking his touch and healing. This man's condition reflects that of sinners who are deaf to the voice of both the law and the Gospel. Like the friends and family who believed in Christ's ability to bring healing, believers bring their spiritually deaf and dumb loved ones under the means of grace. It is through Christ that we can receive both speech and hearing, enabling us to heed the instructions and exhortations of the ministers of the word.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.452449124793175,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.64,
+            "commentatorTierSimilarities": [
+                16.68,
+                24.78,
+                58.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their eagerness, they bring a man who is deaf and has an impediment in his speech to Jesus, seeking his touch and healing. This man's condition reflects that of sinners who are spiritually deaf, unable to hear the voice of both the law and the Gospel. Believers, like the friends and family of this man, bring their loved ones who are spiritually deaf and dumb to Christ, trusting in his ability to provide speech and hearing through the means of grace.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.5685550865723792,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+            "commentatorTierSimilarities": [
+                17.87,
+                27.61,
+                54.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

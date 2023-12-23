@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:20:35",
+    "verseRef": "Mark 1:34",
+    "bestBHT": {
+        "bht": "Jesus cast out the spirits with a word of command, silencing their testimony about His Messiahship. This fulfilled the prophecy of Isaiah, as Jesus Himself took our infirmities and bore our sicknesses. These spirits, or demons, are special powers of evil that influence and disturb our physical, mental, and moral being. He did not allow the demons to speak because their knowledge of Him would not have helped His cause. Despite this, Jesus healed many who were sick of various diseases, demonstrating His great power over them.",
+        "wordCount": 87,
+        "quoteTokenProportion": 47.06,
+        "qualityScore": 1.8004520731575986,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+        "commentatorTierSimilarities": [
+            32.82,
+            30.85,
+            36.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He cast out the spirits with His word; or rather, 'with a word' - a word of command.",
+            "Evidently they would have spoken, if permitted, proclaiming His Messiahship in such terms as in the synagogue; but once in one day, and that testimony immediately silenced, was enough.",
+            "That it might be fulfilled which was spoken by Esaias the prophet, saying (Matthew 8:17- :), Himself took our infirmities, and bare our sicknesses."
+        ],
+        "Marvin Vincent": [
+            "In biblical Greek the process is the reverse, this doctrine being rejected for that of an overruling personal providence, and the strange gods, 'obscure to human knowledge and alien to human life,' taking the abstract term uniformly in an evil sense.",
+            "While in Hesiod the demons are all good, according to Empedocles they are both bad and good. This conception relieved the gods of the responsibility for proceedings unbecoming the divine nature.",
+            "Demons are synonymous with unclean spirits... They are special powers of evil, influencing and disturbing the physical, mental, and moral being."
+        ],
+        "John Calvin": [
+            "He did not permit the devils to speak...because the time of the full revelation was not yet come.\" ",
+            "He refused to have, as heralds and witnesses of his divinity, those whose praise could have no other effect than to soil and injure his character.\" ",
+            "The prince of death, and his agents, are in a state of irreconcileable enmity with the Author of eternal salvation and life."
+        ],
+        "Philip Schaff": [
+            "This does not imply that some were not healed, either because there was not time, or because they lacked faith; both Matthew (Matthew 8:16) and Luke (Luke 4:40) say that all were healed.",
+            "Our Lord could be Himself the witness to His claims (comp. John 8:14-18); practically no man ever believes in Christ without first believing Christ Himself independently of other witnesses.",
+            "But Satan and Satan\u2019s emissaries can speak the truth when it will serve an evil end."
+        ],
+        "Archibald T. Robertson": [
+            "Demons it should be translated always.",
+            "The reason given is 'because they knew him.'",
+            "Testimony from such a source was not calculated to help the cause of Christ with the people."
+        ],
+        "John Gill": [
+            "And he healed many that were sick of divers diseases...he healed all that came, or were brought to him, which were many, of every sort of disease, which were divers, with which they were afflicted.",
+            "He suffered not the devils to speak...which shows his great power over them.",
+            "He would not suffer them to say a word about him, because he knew that they knew that he was the Christ, the Son of God."
+        ],
+        "John Wesley": [
+            "He suffered not the devils to say that they knew him \u2014 That is, according to Dr. Mead's hypothesis, (that the Scriptural demoniacs were only diseased persons,) He suffered not the diseases to say that they knew him!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus cast out the spirits with a word of command, silencing their testimony about His Messiahship. This fulfilled the prophecy of Isaiah, as Jesus himself took on our infirmities and bore our sicknesses. These spirits, or demons, are special powers of evil that influence and disturb our physical, mental, and moral well-being. While the demons knew Jesus, He did not allow them to speak because their testimony would not have helped His cause with the people. Jesus had power over the demons and chose not to let them reveal His identity, as their praise could have tarnished His character. Despite this, Jesus healed many who were sick of various diseases, demonstrating His great power and authority.",
+            "wordCount": 117,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.870803133738205,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                32.33,
+                32.34,
+                35.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus cast out the spirits with a word, silencing their testimony about His Messiahship. He fulfilled the prophecy of Isaiah, taking our infirmities and bearing our sicknesses. These demons are special powers of evil, disturbing our physical, mental, and moral well-being. While they knew Jesus, He did not let them speak, as their testimony would not have helped His cause. Despite this, Jesus healed many with diverse diseases, displaying His great power over them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7110466966290905,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                33.23,
+                30.95,
+                35.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus cast out the spirits with a word of command, silencing their testimony about His Messiahship. This fulfilled the prophecy of Isaiah, as Jesus Himself took our infirmities and bore our sicknesses. These spirits, or demons, are special powers of evil that influence and disturb our physical, mental, and moral being. He did not allow the demons to speak because their knowledge of Him would not have helped His cause. Despite this, Jesus healed many who were sick of various diseases, demonstrating His great power over them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.8004520731575986,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                32.82,
+                30.85,
+                36.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus cast out the spirits with a word, silencing their testimony about His Messiahship. He fulfilled the prophecy of Isaiah, taking our infirmities and bearing our sicknesses. These demons are special powers of evil, disturbing our physical, mental, and moral well-being. While they knew Jesus, He did not let them speak, as their testimony would not have helped His cause. Despite this, Jesus healed many with diverse diseases, displaying His great power over them.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7110466966290905,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                33.23,
+                30.95,
+                35.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus cast out the spirits with a word of command, fulfilling the prophecy of Isaiah by taking on our infirmities and bearing our sicknesses. These demons, or special powers of evil, influence and disturb our physical, mental, and moral being. While the demons knew Jesus, He did not permit them to speak because their testimony would not have aided His cause with the people. Nevertheless, Jesus healed many afflicted with diverse diseases, showing His great power over them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.79769429796823,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.12,
+            "commentatorTierSimilarities": [
+                33.39,
+                31.07,
+                35.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

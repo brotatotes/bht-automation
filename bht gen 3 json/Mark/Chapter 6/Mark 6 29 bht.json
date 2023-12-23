@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:23:41",
+    "verseRef": "Mark 6:29",
+    "bestBHT": {
+        "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion. He, who wept at the grave of Lazarus, would not have taken such news lightly. Jesus may have allowed John's disciples to be with Him until the end, providing them with an opportunity to honor their teacher's body. This was a mournful time for them, but they showed their commitment by carefully laying John's body in a tomb, despite the dangers involved.",
+        "wordCount": 84,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 1.668280784537383,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+        "commentatorTierSimilarities": [
+            37.91,
+            25.86,
+            36.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How Jesus felt, or what He said, on receiving this intelligence, is not recorded; but He of whom it was said, as He stood by the grave of His friend Lazarus, 'Jesus wept,' was not likely to receive such intelligence without deep emotion.\" (Mark 6:29)",
+            "And one reason why He might not be unwilling that a small body of John's disciples should cling to him to the last, might be to provide some attached friends who should do for his precious body, on a small scale, what was afterwards to be done for His own.\" (Mark 6:29)",
+            "Here, for the first time, all the four streams of sacred text run parallel. The occasion and all the circumstances of this grand section are thus brought before us with a vividness quite remarkable.\" (Mark 6:30-44)"
+        ],
+        "Marvin Vincent": [
+            "This man, whose inner life was burnt out; who was made up of contradictions, speaking of his kingdom like Ahasuerus, and yet the slave of his Jezebel.\" ",
+            "Willingly hearing the prophet, and unwillingly killing him; who will be a Sadducee, and yet thinks of a resurrection.\" ",
+            "Who has a superstitious fear of the Lord Jesus, and yet a curiosity to see him."
+        ],
+        "John Calvin": [
+            "Though the honor of burial is of no importance to the dead, yet it is the will of the Lord that we should observe this ceremony as a token of the last resurrection.",
+            "God was pleased with the carefulness which was manifested by the disciples when they came to commit to the tomb the body of their master.",
+            "This confession was therefore worthy of praise, more especially as it was not without danger; for they could not do honor to a man who had been put to death by the executioner without exciting against themselves the rage of the tyrant."
+        ],
+        "Philip Schaff": [
+            "Mark 6:29. His disciples, i.e., those of John. They \u2018came and told Jesus\u2019 (Matthew 14:12).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "His corpse (\u03c4\u03bf \u03c0\u03c4\u03c9\u03bc\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c5). It was a mournful time for the disciples of John.",
+            "It was a mournful time for the disciples of John.",
+            "What else could they do?"
+        ],
+        "John Gill": [
+            "And when his disciples heard of it... they came; to the prison in the castle of Machaerus.",
+            "they took up his corpse; the trunk of his body; for his head was carried away, to glut the revenge of Herodias.",
+            "and laid it in a tomb."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion, as He was not one to receive such intelligence without being moved. Jesus may have allowed John's disciples to cling to Him until the end, providing them with the opportunity to honor John's body, just as would later be done for Jesus. The circumstances surrounding this significant section in Mark are brought before us with vividness. It was indeed a mournful time for the disciples of John, and in their carefulness to give him a proper burial, they showed their commitment to him despite the dangers involved.",
+            "wordCount": 108,
+            "quoteTokenProportion": 48.05,
+            "qualityScore": 1.7182622324761603,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                37.81,
+                31.65,
+                30.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion. He, who wept at the grave of Lazarus, would not have taken such news lightly. Jesus may have allowed John's disciples to be with Him until the end, providing them with an opportunity to honor their teacher's body. This was a mournful time for them, but they showed their commitment by carefully laying John's body in a tomb, despite the dangers involved.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.668280784537383,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                37.91,
+                25.86,
+                36.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus received the news of John the Baptist's death, it is likely that He felt deep emotion. He, who wept at the grave of Lazarus, would not have taken such news lightly. Jesus may have allowed John's disciples to be with Him until the end, providing them with an opportunity to honor their teacher's body. This was a mournful time for them, but they showed their commitment by carefully laying John's body in a tomb, despite the dangers involved.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.668280784537383,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.81,
+            "commentatorTierSimilarities": [
+                37.91,
+                25.86,
+                36.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon receiving the news of John the Baptist's death, it is likely that Jesus experienced deep emotion. Just as He wept at Lazarus' grave, the thought of John's demise would not leave Him unaffected. He may have allowed John's disciples to remain with Him until the end, providing them an opportunity to pay their respects for their beloved teacher. In this mournful time, they carefully laid John's body in a tomb, demonstrating their unwavering commitment, despite the inherent dangers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5789513861267102,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.84,
+            "commentatorTierSimilarities": [
+                38.8,
+                24.88,
+                36.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' reception of the news of John the Baptist's death likely stirred deep emotion within Him. Just as He wept at the grave of Lazarus, Jesus would not have taken this news lightly. Perhaps He permitted John's disciples to cling to Him until the end, allowing them to honor their beloved teacher's body. Despite the dangers involved, they showed their commitment by carefully laying John's body in a tomb, signifying their devotion and respect for him during this mournful time.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6471660969383943,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                38.31,
+                26.1,
+                35.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

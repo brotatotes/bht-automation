@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:24:20",
+    "verseRef": "Mark 8:13",
+    "bestBHT": {
+        "bht": "Jesus visibly displayed his displeasure by leaving the Pharisees and Sadducees, leaving them with tangible indications of his discontent. He quietly boarded a ship and departed to another place. This departure serves as the setting for his subsequent cautionary words to his disciples about the dangerous influence of the leaven of the Pharisees and Sadducees.",
+        "wordCount": 55,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.1716941150325284,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.3,
+        "commentatorTierSimilarities": [
+            22.95,
+            36.04,
+            41.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "13. And he left them\u2014no doubt",
+            "\twith tokens of displeasure. ",
+            "\t",
+            "and entering into the ship",
+            "\tagain, departed to the other side.",
+            "",
+            "The Leaven of the Pharisees and",
+            "\tSadducees (Mark 8:14-21)."
+        ],
+        "Philip Schaff": [
+            "This presents more distinctly than the parallel in Matthew the immediate departure in the waiting boat.",
+            "He returned to Galilee but once again, and then as quietly as possible.",
+            "Then as quietly as possible."
+        ],
+        "John Gill": [
+            "And he left them,.... As a perverse and hardened generation of men, and as such with whom it was not worth while to discourse.",
+            "and entering into the ship again; which brought him over, and waited for him.",
+            "departed to the other side; of the sea of Galilee, towards Bethsaida, Mark 8:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus was clearly displeased with the Pharisees and Sadducees, so much so that he left them, perhaps as a symbol of his discontent. He then silently boarded a ship and discreetly departed to the other side. It seems that Jesus wanted minimal attention as he moved away from these religious leaders. This event sets the stage for the following passage, where Jesus cautions his disciples about the leaven of the Pharisees and Sadducees.",
+            "wordCount": 73,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.0349573792686808,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.76,
+            "commentatorTierSimilarities": [
+                24.81,
+                32.38,
+                42.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus displayed his displeasure towards the Pharisees and Sadducees by leaving them, leaving behind visible signs of his dissatisfaction. He then quietly boarded a ship and discreetly departed to his destination. This departure serves as a backdrop for the subsequent admonition of Jesus to his disciples about the leaven of the Pharisees and Sadducees.",
+            "wordCount": 54,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.1562764508596046,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.79,
+            "commentatorTierSimilarities": [
+                22.46,
+                37.43,
+                40.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, visibly displeased, left the Pharisees and Sadducees, showing his dissatisfaction. He silently entered a ship and departed to another location. This departure served as a precursor to Jesus' caution to his disciples against the influence of the Pharisees and Sadducees.",
+            "wordCount": 41,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.0936806136791808,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.71,
+            "commentatorTierSimilarities": [
+                24.97,
+                31.97,
+                43.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus made his dissatisfaction clear by leaving the Pharisees and Sadducees, leaving them with visible signs of his disapproval. He quietly boarded a ship and departed to a different location. This departure serves as the backdrop for Jesus' later warning to his disciples about the influence of the leaven of the Pharisees and Sadducees.",
+            "wordCount": 54,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.1385335665327239,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.2,
+            "commentatorTierSimilarities": [
+                22.33,
+                36.41,
+                41.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus visibly displayed his displeasure by leaving the Pharisees and Sadducees, leaving them with tangible indications of his discontent. He quietly boarded a ship and departed to another place. This departure serves as the setting for his subsequent cautionary words to his disciples about the dangerous influence of the leaven of the Pharisees and Sadducees.",
+            "wordCount": 55,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.1716941150325284,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.3,
+            "commentatorTierSimilarities": [
+                22.95,
+                36.04,
+                41.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

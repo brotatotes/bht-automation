@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:29:21",
+    "verseRef": "Mark 14:51",
+    "bestBHT": {
+        "bht": "During Jesus' arrest, a young man, possibly an attached disciple, fled from the scene in such haste that he left behind the linen cloth he was wearing, symbolizing the desperation of the moment. The vivid, lifelike detail highlights the rage of the wicked men who sought to harm those associated with Jesus. While the disciples managed to evade capture, this young man, perhaps due to his clothes or expression of sympathy, was apprehended. Mark's account reveals the intense opposition Jesus faced and emphasizes the divine power that ultimately protected his followers.",
+        "wordCount": 92,
+        "quoteTokenProportion": 32.39,
+        "qualityScore": 1.705924060955274,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+        "commentatorTierSimilarities": [
+            28.88,
+            36.26,
+            34.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The young man fled and left the linen cloth with which he was girt.",
+            "It seems to have been some attached disciple of the Lord.",
+            "The disciples were not laid hold of:\u2014this perhaps was throwing some obstacle in the way of the removal of Jesus."
+        ],
+        "Marvin Vincent": [
+            "Linen cloth [\u03c3\u03b9\u03bd\u03b4\u03bf\u03bd\u03b1]. The probable derivation is from jIndov, an Indian.",
+            "India being the source from which came this fine fabric used for wrapping dead bodies.",
+            "In which Christ's body was enveloped."
+        ],
+        "John Calvin": [
+            "Those wicked men \u2014 as usually happens in riotous assemblies stormed and raved without shame or modesty.",
+            "We certainly perceive \u2014 as I just now said \u2014 that those wicked men raged with cruel violence.",
+            "They did not even spare a poor young man, who had left his bed, almost naked, and run, on hearing the noise."
+        ],
+        "Philip Schaff": [
+            "A certain young man. Not one of the Apostles, all of whom had fled, but a disciple.",
+            "He may have been seized because of some expression of sympathy, or simply because of his strange attire.",
+            "If it was anyone well-known to the first readers of the Gospel, it was no doubt the Evangelist himself."
+        ],
+        "Archibald T. Robertson": [
+            "A certain young man. This incident alone in Mark.",
+            "It is a lifelike touch quite in keeping with such a situation.",
+            "Note the vivid dramatic present \u03ba\u03c1\u03b1\u03c4\u03bf\u03c5\u03c3\u03b9\u03bd (they seize him)."
+        ],
+        "John Gill": [
+            "he had only a piece of linen wrapped about his middle, to cover his nakedness; and in this garb ran out, to see what was doing.",
+            "The design of Mark in relating this incident, is to show the rage and fury of these men; who were for sparing none that appeared to be or were thought to be the followers of Christ.",
+            "the preservation of the disciples was entirely owing to the wonderful power of Christ."
+        ],
+        "John Wesley": [
+            "A young man \u2014 It does not appear, that he was one of Christ's disciples.",
+            "Probably hearing an unusual noise, he started up out of his bed, not far from the garden, and ran out with only the sheet about him, to see what was the matter.",
+            "And the young men laid hold on him \u2014 Who was only suspected to be Christ's disciple: but could not touch them who really were so."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus was being arrested in the garden, a young man who was likely an attached disciple of the Lord quickly fled, leaving behind the linen cloth he was wearing. This detail, unique to the Gospel of Mark, brings a vivid and lifelike touch to the dramatic situation. The young man's hasty departure and the seizing of him by the wicked men show the rage and fury of those who sought to harm anyone associated with Jesus. It is notable that while the disciples were not apprehended, this young man was, perhaps due to his attire or some expression of sympathy. In sharing this incident, Mark emphasizes both the violent opposition Jesus faced and the preservation of his followers, which was due to the divine power of Christ.",
+            "wordCount": 129,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 1.7319117318766781,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                27.76,
+                37.43,
+                34.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During Jesus' arrest, a young man, possibly an attached disciple, fled from the scene in such haste that he left behind the linen cloth he was wearing, symbolizing the desperation of the moment. The vivid, lifelike detail highlights the rage of the wicked men who sought to harm those associated with Jesus. While the disciples managed to evade capture, this young man, perhaps due to his clothes or expression of sympathy, was apprehended. Mark's account reveals the intense opposition Jesus faced and emphasizes the divine power that ultimately protected his followers.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.705924060955274,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+            "commentatorTierSimilarities": [
+                28.88,
+                36.26,
+                34.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the dramatic scene of Jesus' arrest, a young man, likely an attached disciple, hastily fled, leaving his linen cloth behind. This lifelike detail serves to highlight the furious rage of the wicked men, who sought to harm all who were associated with Jesus. While the disciples managed to escape, this young man, potentially due to his clothing or act of sympathy, was captured by the violent crowd. Mark's inclusion of this incident emphasizes both the intense opposition Jesus faced and the divine protection granted to his followers.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.6774118080487435,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                27.79,
+                36.28,
+                35.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus faced arrest, a young man, likely an attached disciple, hurriedly fled, leaving behind his linen cloth. This vivid and lifelike detail showcases the violent opposition and fury of the wicked men who sought to harm anyone associated with Jesus. Despite the disciples managing to escape, this young man, possibly due to his attire or expression of sympathy, was apprehended. Mark's account highlights this incident to underscore the intense rage directed against Christ's followers and the divine power that ultimately protected them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.7027896699222702,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                27.51,
+                38.29,
+                34.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of Jesus' arrest, a young man, likely an attached disciple, swiftly fled, leaving behind his linen cloth. This lifelike touch serves to depict the scene's vivid drama, highlighting the rage and fury of the wicked men who sought to harm Jesus and his followers. While the disciples managed to escape, this young man, perhaps due to his attire or sympathetic disposition, was seized by the crowd. Mark's inclusion of this incident showcases both the intense opposition faced by Jesus and the divine protection granted to his disciples.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.690625626367214,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.56,
+            "commentatorTierSimilarities": [
+                28.54,
+                36.77,
+                34.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

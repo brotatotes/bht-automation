@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-22-2023 23:20:51",
+    "verseRef": "Mark 3:33",
+    "bestBHT": {
+        "bht": "Jesus, inquiring, Who is my mother, or my brethren?, emphasizes the importance of his spiritual relationships and his elevated worth in relation to them. This challenges certain notions and reverence for the Virgin Mary, underscoring the significance of a spiritual connection with Jesus over a physical one.",
+        "wordCount": 47,
+        "quoteTokenProportion": 44.74,
+        "qualityScore": 2.123588042562468,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Who is my mother, or my brethren? [...] expressing his superior value to his spiritual relations.\" ",
+            "Which looks with no favourable aspect on the superstitious notions, and veneration of the virgin Mary among the papists."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus asks the rhetorical question, Who is my mother, or my brethren? By doing so, he is emphasizing the importance of his spiritual relations and expressing his superior value to them. This statement challenges superstitious notions and veneration of the Virgin Mary among certain groups, highlighting the significance of one's connection with Jesus in a spiritual sense rather than a physical one.",
+            "wordCount": 66,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.913434262856452,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, in questioning  Who is my mother, or my brethren? accentuates the significance of his spiritual relations and his elevated value in relation to them. This challenges certain beliefs and reverence for the Virgin Mary, highlighting the importance of a spiritual connection with Jesus over a physical one.",
+            "wordCount": 48,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 1.8176086424619364,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, inquiring, Who is my mother, or my brethren?, emphasizes the importance of his spiritual relationships and his elevated worth in relation to them. This challenges certain notions and reverence for the Virgin Mary, underscoring the significance of a spiritual connection with Jesus over a physical one.",
+            "wordCount": 47,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 2.123588042562468,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus questions, Who is my mother, or my brethren? as a way to highlight the supremacy of his spiritual connections and their greater significance. This challenges the conventional beliefs and veneration of the Virgin Mary, particularly among certain religious sects. Instead, Jesus emphasizes the importance of a spiritual, rather than physical, bond with him.",
+            "wordCount": 54,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.594827732510171,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.37,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus raises a thought-provoking question, Who is my mother, or my brethren?, shining a light on his elevated value in relation to his spiritual relations. This challenges prevailing superstitious beliefs regarding the veneration of the Virgin Mary amongst certain sects. Jesus emphasizes the importance of a profound spiritual connection, surpassing the significance of physical bonds.",
+            "wordCount": 56,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.8590010964416932,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.15,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

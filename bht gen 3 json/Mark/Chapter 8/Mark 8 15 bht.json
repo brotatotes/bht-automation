@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:24:52",
+    "verseRef": "Mark 8:15",
+    "bestBHT": {
+        "bht": "Jesus warns his disciples about the dangerous leaven of the Pharisees and the Sadducees, as well as the Herodians. Whether it is their bad theology, bad politics, or hypocrisy, their teachings and actions can easily spread and influence others. Jesus's repeated charge emphasizes the need for caution and discernment. The Pharisees, Sadducees, and Herodians may have differed in their beliefs and motivations, but they all lacked spiritual understanding. This warning serves as a reminder to guard against false teachings and worldly influences, relying instead on true faith and discernment.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.8374028987402213,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+        "commentatorTierSimilarities": [
+            37.92,
+            30.04,
+            32.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The teaching or 'doctrine' of the Pharisees and of the Sadducees was quite different, but both were equally pernicious.",
+            "The Herodians, though rather a political party, were equally envenomed against our Lord's spiritual teaching.",
+            "The penetrating and diffusive quality of leaven, for good or bad, is the ground of the comparison."
+        ],
+        "Philip Schaff": [
+            "On the alliance of the Pharisees and Herodians, see on chap. Mark 3:6.",
+            "The one common characteristic of the Pharisees, Sadducees, and Herodians was 'hypocrisy'.",
+            "The last named party coquetting with the other two as politicians do, and of course acting hypocritically."
+        ],
+        "Archibald T. Robertson": [
+            "Take heed, beware of the leaven of the Pharisees, and the leaven of Herod.",
+            "He repeatedly charged, showing that the warning was needed.",
+            "Jesus definitely warns the disciples against 'the leaven of Herod' (bad politics) and the leaven of the Pharisees and Sadducees (bad theology and also bad politics)."
+        ],
+        "John Gill": [
+            "Take heed, beware of the leaven of the Pharisees; and of the leaven of Herod.\" [Mark 8:15]",
+            "Christ cautions against the doctrines of the Pharisees, which regarded the traditions of the elders, and of the Sadducees, concerning the resurrection, and of the Herodians, who thought Herod to be the Messiah.\" ",
+            "Against the unreasonable request and demand of them all to have a sign from heaven, in proof of his own Messiahship."
+        ],
+        "John Wesley": [
+            "Beware of the leaven of the Pharisees and of Herod, or of the Sadducees; two opposite extremes.",
+            "Their hearts were hardened; that having eyes they saw not, having ears they heard not; that they did not consider, neither understand.",
+            "All these strong expressions do not necessarily import anything more than the present want of spiritual understanding."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus warns his disciples to beware of the dangerous teachings of the Pharisees and the Sadducees, as well as the bad politics represented by the Herodians. The leaven of these groups, whether it be their false theology or their hypocritical actions, can easily spread and influence others. Jesus's repeated warning emphasizes the importance of being cautious and discerning. The Pharisees, Sadducees, and Herodians may have had different beliefs and motivations, but they all lacked spiritual understanding and were resistant to the truth. Jesus's caution against their leaven serves as a reminder to guard against false teachings and worldly influences, instead relying on true faith and discernment.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.84559661260589,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+            "commentatorTierSimilarities": [
+                37.91,
+                29.34,
+                32.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus warns against the harmful doctrines of the Pharisees and Sadducees, as well as the bad politics of the Herodians. The leaven, which represents the penetrating and diffusive nature of these teachings and actions, can easily spread and influence others. Jesus's repeated charge shows the necessity of being cautious. The warning is not only about bad theology and bad politics, but also about the lack of spiritual understanding and openness to truth exhibited by these groups. It serves as a reminder to be discerning and avoid false teachings and worldly influences.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.598446734667169,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.49,
+            "commentatorTierSimilarities": [
+                40.44,
+                27.9,
+                31.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus warns his disciples about the dangerous leaven of the Pharisees and the Sadducees, as well as the Herodians. Whether it is their bad theology, bad politics, or hypocrisy, their teachings and actions can easily spread and influence others. Jesus's repeated charge emphasizes the need for caution and discernment. The Pharisees, Sadducees, and Herodians may have differed in their beliefs and motivations, but they all lacked spiritual understanding. This warning serves as a reminder to guard against false teachings and worldly influences, relying instead on true faith and discernment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8374028987402213,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                37.92,
+                30.04,
+                32.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus urges his disciples to be on guard against the pernicious leaven of the Pharisees, Sadducees, and Herodians. The penetrating and diffusive nature of their teachings, whether it be bad theology or bad politics, can easily spread and influence others. Jesus's repeated warning highlights the importance of discernment. These groups, despite their differences, shared a lack of spiritual understanding and resistance to the truth. Thus, Jesus's caution serves as a reminder to be vigilant against false teachings and the influence of the world, instead relying on genuine faith and discernment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.6167406048545772,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                38.89,
+                27.56,
+                33.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus warns his disciples to beware of the harmful leaven of the Pharisees, Sadducees, and Herodians. Whether it is their false theology, bad politics, or hypocrisy, their teachings and actions can easily spread and have a detrimental effect. This repeated charge emphasizes the need for caution. Despite their differing beliefs and motivations, these groups lacked spiritual understanding and were resistant to the truth. Jesus's warning serves as a reminder to guard against false teachings and worldly influences, relying instead on true faith and discernment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.5169946435670678,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                39.21,
+                26.47,
+                34.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

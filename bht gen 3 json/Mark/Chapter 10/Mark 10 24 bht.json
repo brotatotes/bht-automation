@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:26:21",
+    "verseRef": "Mark 10:24",
+    "bestBHT": {
+        "bht": "A look of blank astonishment was on their faces at this statement of Jesus, showing their growing perplexity. The disciples had expected the kingdom of the Messiah to be established in great worldly pomp and grandeur. Jesus tenderly acknowledges their difficulty, emphasizing how hard it is for those who trust in riches to enter the kingdom of God. He softens the harsh truth by delivering it with compassion, highlighting the near-impossibility for a rich man to enter the kingdom. Thus, it becomes clear that this trust in riches is often inseparable from the possession of wealth.",
+        "wordCount": 97,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.557702104191474,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+        "commentatorTierSimilarities": [
+            18.95,
+            39.86,
+            41.2
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] Children is remarkable, and a trace of exactitude: see John xxi. 5:\u2014go also looked round about, ver. 23."
+        ],
+        "Philip Schaff": [
+            "Were amazed...Children, how hard it is for them that trust in riches, etc.\" ",
+            "That this trust is almost inseparable from the possession of riches.",
+            "Some ancient authorities omit: 'for them that trust in riches,' thus making the statement more general."
+        ],
+        "Archibald T. Robertson": [
+            "A look of blank astonishment was on their faces at this statement of Jesus.",
+            "This tender note is due to their growing perplexity.",
+            "These words do not occur... as an evident addition to explain the difficult words of Jesus."
+        ],
+        "John Gill": [
+            "For they expected, in a little while, that the kingdom of the Messiah would be set up in great worldly pomp and grandeur.",
+            "How hard is it for them that trust in riches to enter into the kingdom of God!",
+            "The great difficulty, or rather impossibility of such, at least continuing so, entering into the kingdom of God."
+        ],
+        "John Wesley": [
+            "See how he softens the harsh truth, by the manner of delivering it!",
+            "How hard is it for them that trust in riches - Either for defence, or happiness, or deliverance from the thousand dangers that life is continually exposed to.",
+            "Therefore, it is easier for a camel to go through the eye of a needle, than for a rich man to enter the kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A look of blank astonishment was on their faces at this statement of Jesus, showing their growing perplexity. The disciples had expected the kingdom of the Messiah to be established in great worldly pomp and grandeur. Jesus tenderly acknowledges their difficulty, emphasizing how hard it is for those who trust in riches to enter the kingdom of God. He softens the harsh truth by delivering it with compassion, highlighting the near-impossibility for a rich man to enter the kingdom. Thus, it becomes clear that this trust in riches is often inseparable from the possession of wealth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.557702104191474,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                18.95,
+                39.86,
+                41.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A look of blank astonishment was on their faces at Jesus' statement, displaying their perplexity. Jesus acknowledges their difficulty, emphasizing how hard it is for those who trust in riches to enter the kingdom of God. This shows the inseparable connection between possessing wealth and a trust in it. By delivering this truth with compassion, Jesus softens the harsh reality. As they expected worldly grandeur, Jesus reminds them that it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.512760746596447,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.64,
+            "commentatorTierSimilarities": [
+                21.49,
+                37.88,
+                40.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A look of blank astonishment was on their faces at this statement of Jesus, showing their growing perplexity. The disciples had expected the kingdom of the Messiah to be established in great worldly pomp and grandeur. Jesus tenderly acknowledges their difficulty, emphasizing how hard it is for those who trust in riches to enter the kingdom of God. He softens the harsh truth by delivering it with compassion, highlighting the near-impossibility for a rich man to enter the kingdom. Thus, it becomes clear that this trust in riches is often inseparable from the possession of wealth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.557702104191474,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.14,
+            "commentatorTierSimilarities": [
+                18.95,
+                39.86,
+                41.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' statement left the disciples in a state of blank astonishment, revealing their deep perplexity. They had expected the kingdom of the Messiah to materialize in grand worldly splendor. Yet, Jesus tenderly acknowledges their struggle and underscores the immense difficulty for those who place their trust in riches to enter the kingdom of God. He compassionately highlights the near-impossibility for a wealthy individual to be part of the kingdom. This highlights the inseparable connection between possessing wealth and a reliance on it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.3777898055149602,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "commentatorTierSimilarities": [
+                20.43,
+                39.59,
+                39.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A look of astonishment crossed their faces as Jesus spoke, revealing their mounting perplexity. They had anticipated the kingdom of the Messiah to rise in worldly grandeur. Yet, Jesus compassionately acknowledges their struggle, emphasizing the hardship for those who trust in riches to enter the kingdom of God. He softens the stark truth by delivering it with tenderness, emphasizing the almost insurmountable challenge for the wealthy to enter. This highlights the inherent link between wealth possession and reliance on it.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.3307762281556492,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.59,
+            "commentatorTierSimilarities": [
+                20.39,
+                39.51,
+                40.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

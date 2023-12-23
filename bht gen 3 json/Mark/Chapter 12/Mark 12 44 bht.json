@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:27:34",
+    "verseRef": "Mark 12:44",
+    "bestBHT": {
+        "bht": "This teaches us valuable lessons about stewardship and giving. It reminds us of our duty to devote our property to God, seeking His guidance in how we use it. True love for the cause of religion is not measured by the amount given, but by the proportion compared to our means. Regardless of age or social status, we can express our love for the cause of religion through giving. The woman's act of giving everything she had, even though she may not have had an abundance, exemplifies the importance of sacrificial giving in God's eyes.",
+        "wordCount": 97,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.132386876067441,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.0,
+        "commentatorTierSimilarities": [
+            0.0,
+            68.91,
+            31.09
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "That it is our duty to devote our property to God...we shall not employ it in a proper manner unless we feel that we are stewards, and ask of him what we shall do with it.\" ",
+            "That the highest evidence of love to the cause of religion is not the 'amount' given, but the amount compared with our means.",
+            "That there are none who may not in this way show their love to the cause of religion...the time to 'begin' to be benevolent and to do good is in early life, in childhood."
+        ],
+        "Philip Schaff": [
+            "The worth of a gift is to be determined not by its intrinsic value, but by what it costs the giver.",
+            "She could not have hoped for 'glory of men,' but she received praise from One who spake as never man spake.",
+            "We are here taught, not simply to give, but how to measure the cost of gifts."
+        ],
+        "John Gill": [
+            "For all they did cast in of their abundance... they abounded in the things of the world, of which they gave only a part; and though they might give much, yet they could easily spare it, and had enough remaining.",
+            "But she, of her want... did cast in all that she had, even all her living; her whole substance, all that she had in the world.",
+            "She left herself nothing, but gave away all, and trusted to providence for immediate supply."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches us valuable lessons about stewardship and giving. It reminds us that it is our duty to use our possessions for God's purposes and to seek His guidance in doing so. The true measure of love for the cause of religion is not the amount given, but the proportion of what we give compared to our means. It also emphasizes that anyone, regardless of age or social status, can show their love for the cause of religion through giving. Furthermore, it illuminates the importance of giving sacrificially, with the worth of a gift determined not by its intrinsic value, but by what it costs the giver. The actions of the woman in the verse exemplify this, as she gave everything she had, even though she may not have had an abundance to spare. Her act of selfless giving was praised by Jesus, highlighting the significance of heartfelt and sacrificial giving in the eyes of God.",
+            "wordCount": 158,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.3060516823539385,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                64.64,
+                35.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage teaches us important lessons about stewardship and giving. It shows that it is our duty to use our possessions for God's purposes and seek His guidance in doing so. True love for the cause of religion is not measured by the amount given, but by how much it costs us in relation to our means. It also reminds us that anyone can show their love for the cause of religion through giving, regardless of age or social status. The woman's selfless act of giving everything she had, even though she may have had little, exemplifies the importance of sacrificial giving in God's eyes.",
+            "wordCount": 108,
+            "quoteTokenProportion": 49.32,
+            "qualityScore": 1.1705743915039521,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                68.27,
+                31.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This teaches us valuable lessons about stewardship and giving. It highlights our duty to use our possessions for God's purposes, seeking His guidance. True love for the cause of religion is not measured by the amount given, but by the cost relative to our means. It shows that anyone can express their love for the cause of religion through giving, regardless of age or social status. The woman giving everything she had, despite having little, demonstrates the significance of sacrificial giving in God's eyes.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.1189640243256662,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                65.39,
+                34.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This verse teaches us about stewardship and giving, emphasizing our duty to use our possessions for God's purposes. True love for the cause of religion is not measured by the amount given, but by the proportion relative to our means. It reminds us that anyone, regardless of age or social status, can express their love through giving. The woman's act of giving everything she had, despite having little, exemplifies the significance of sacrificial giving in God's eyes. Her selflessness and trust in Providence serve as an inspiration for us to give wholeheartedly.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.1403037833271599,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.26,
+            "commentatorTierSimilarities": [
+                0.0,
+                60.33,
+                39.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This teaches us valuable lessons about stewardship and giving. It reminds us of our duty to devote our property to God, seeking His guidance in how we use it. True love for the cause of religion is not measured by the amount given, but by the proportion compared to our means. Regardless of age or social status, we can express our love for the cause of religion through giving. The woman's act of giving everything she had, even though she may not have had an abundance, exemplifies the importance of sacrificial giving in God's eyes.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.132386876067441,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.0,
+            "commentatorTierSimilarities": [
+                0.0,
+                68.91,
+                31.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

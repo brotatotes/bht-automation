@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:28:15",
+    "verseRef": "Mark 14:12",
+    "bestBHT": {
+        "bht": "On the day before the Passover lamb was slain, the disciples made the necessary preparations. This was the customary practice, as the lamb was to be killed on the fifteenth day. It is interesting to note the absence of the two disciples' names, which could be due to Peter's oversight of this Gospel. We should approach this account with caution and refrain from indulging in fanciful interpretations, focusing instead on the customary practices associated with the Passover.",
+        "wordCount": 78,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.6179329209970503,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+        "commentatorTierSimilarities": [
+            63.77,
+            0.0,
+            36.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "when they killed the passover, like St. Luke\u2019s expression 'when the passover must be killed,' denotes the ordinary day, when they (i.e. the Jews) sacrificed the Passover.",
+            "We may notice that if this Gospel, as traditionally reported, was drawn up under the superintendence of Peter, we could hardly have failed to have the names of the two disciples given.",
+            "It becomes a duty to warn students of the sacred word against fanciful interpretations."
+        ],
+        "Archibald T. Robertson": [
+            "The paschal lamb (note \u03c0\u03b1\u03c3\u03c7\u03b1) was slain at 6 P.M., beginning of the fifteenth of the month (Exodus 12:6), but the preparations were made beforehand on the fourteenth (Thursday).\" ",
+            "Imperfect indicative, customary practice.\" ",
+            "See on Matthew 26:17 for discussion of 'eat the passover.'"
+        ],
+        "John Gill": [
+            "An Israelite kills (the passover), and a priest receives (the blood), and gives it to his neighbour, and his neighbour to his neighbour, and he receives (the basin) full, and returns it empty; the priest that is near to the altar sprinkles it, at one sprinkling, over against the bottom of it.",
+            "The whole nation does the work of a priest; every one particularly bringing the sacrifices for himself, and then slaying them with his own hands.",
+            "For it was now Thursday morning, and the passover was to be slain after the middle of the day, between the two evenings, and eaten in Jerusalem at night."
+        ],
+        "John Wesley": [
+            "Matthew 26:17; Luke 22:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Passover lamb was killed, which was the customary practice on the fourteenth day, the disciples prepared for the Passover meal. This happened on the day before the lamb was actually eaten, as the lamb was supposed to be slain on the fifteenth day. It is worth noting that the Gospel does not specify the names of the two disciples who handled the preparations, an omission which could be attributed to the fact that this Gospel was likely overseen by Peter. It is important to approach this passage with care, being cautious of fanciful interpretations and focusing on the customary practices surrounding the Passover.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.7067638186066587,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                60.42,
+                0.0,
+                39.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the day before the Passover lamb was slain, the disciples made the necessary preparations. This was the customary practice, as the lamb was to be killed on the fifteenth day. It is interesting to note the absence of the two disciples' names, which could be due to Peter's oversight of this Gospel. We should approach this account with caution and refrain from indulging in fanciful interpretations, focusing instead on the customary practices associated with the Passover.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.6179329209970503,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "commentatorTierSimilarities": [
+                63.77,
+                0.0,
+                36.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the ordinary day before the Passover lamb was sacrificed, the disciples made the necessary preparations for the meal. This was the customary practice, as the lamb was supposed to be slain on the fifteenth day. It is interesting to note that the Gospel does not mention the names of the two disciples involved in the preparations, which might be attributed to the influence of Peter in the writing of this account. It is important to approach this passage with caution, avoiding fanciful interpretations and focusing on the established customs surrounding the Passover.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.618136215675262,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.15,
+            "commentatorTierSimilarities": [
+                63.1,
+                0.0,
+                36.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In preparation for the Passover, the disciples undertook the necessary arrangements on the day prior to the sacrifice of the paschal lamb. This customary practice, which took place on the fourteenth day, aimed to ensure that everything was ready for the fifteenth, when the lamb was actually slain. Interestingly, the Gospel does not provide the names of the two disciples involved in these preparations, a detail that could be attributed to Peter's influence in the writing of this account. It is important to approach this verse thoughtfully, avoiding fanciful interpretations and focusing on the established customs surrounding the Passover.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.5559081512008326,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                61.53,
+                0.0,
+                38.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the day before the Passover lamb was sacrificed, the disciples made the necessary preparations according to the customary practice. This involved ensuring that everything was ready for the actual slaughtering of the lamb on the fifteenth day. Notably, the Gospel does not mention the names of the two disciples engaged in these preparations, possibly due to Peter's involvement in its composition. It is crucial to approach this with caution, avoiding fanciful interpretations and focusing on the established rituals associated with the Passover.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5380368938267868,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.48,
+            "commentatorTierSimilarities": [
+                60.36,
+                0.0,
+                39.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

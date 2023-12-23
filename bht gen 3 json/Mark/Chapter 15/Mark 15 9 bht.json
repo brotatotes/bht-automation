@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:29:10",
+    "verseRef": "Mark 15:9",
+    "bestBHT": {
+        "bht": "In this account, it is clear that Pilate deliberately sharpens the contrast between Jesus and Barabbas by referring to Jesus as the King of the Jews, a provocative title that would have incensed the Jewish leaders. It is uncertain whether Pilate's words were meant to mock both Jesus and the crowd or to sway them into requesting Jesus' release. However, Pilate's actions display his willingness to sacrifice justice in order to appease the angry mob, which only serves to further enrage them.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.94,
+        "qualityScore": 1.2291514784867492,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.21,
+        "commentatorTierSimilarities": [
+            39.59,
+            0.0,
+            60.41
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] Here our account differs from Matthew and agrees with John, ver. 39."
+        ],
+        "Archibald T. Robertson": [
+            "The King of the Jews...sharpened the contrast between Jesus and Barabbas.\" ",
+            "Barabbas or Jesus which is called Christ.",
+            "See discussion there."
+        ],
+        "John Gill": [
+            "Being satisfied of the innocence of Jesus, and being willing to dismiss him.",
+            "which he either said by way of derision both of Christ, and them.",
+            "or else in order to prevail upon them to ask his release, it being scandalous and reproachful to put their king to death."
+        ],
+        "John Wesley": [
+            "The poor coward sacrifices justice to popular clamour.\" ",
+            "Enrages those whom he seeks to appease.\" ",
+            "Repeating that title, The king of the Jews, which he could not but know was so highly offensive to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 15:9, we find a contrast between Jesus and Barabbas as Pilate presents them to the crowd. This difference is emphasized when Pilate refers to Jesus as the King of the Jews, a title that would have been highly offensive to the Jewish leaders. Pilate seems to make this statement either as a form of derision towards both Jesus and the crowd or in an attempt to convince them to ask for Jesus' release. However, Pilate's actions reveal his cowardice, as he sacrifices justice for the sake of appeasing the unruly crowd, further enraging them.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.3489100302934005,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.19,
+            "commentatorTierSimilarities": [
+                45.92,
+                0.0,
+                54.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, it is clear that Pilate deliberately sharpens the contrast between Jesus and Barabbas by referring to Jesus as the King of the Jews, a provocative title that would have incensed the Jewish leaders. It is uncertain whether Pilate's words were meant to mock both Jesus and the crowd or to sway them into requesting Jesus' release. However, Pilate's actions display his willingness to sacrifice justice in order to appease the angry mob, which only serves to further enrage them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.2291514784867492,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.21,
+            "commentatorTierSimilarities": [
+                39.59,
+                0.0,
+                60.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, Pilate's remark about Jesus, the King of the Jews, highlights the contrast between Jesus and Barabbas. This provocative title would have been offensive to the Jewish leaders. It is unclear whether Pilate made this statement to deride Jesus and the crowd or to persuade them to ask for Jesus' release. Regardless, Pilate's actions reveal his cowardice as he compromises justice to appease the furious mob, further fueling their anger.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.1794703549185195,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.56,
+            "commentatorTierSimilarities": [
+                39.27,
+                0.0,
+                60.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Pilate presents Jesus and Barabbas, he intentionally underscores the distinction between them by referring to Jesus as the King of the Jews. This provocative title would have offended the Jewish leaders. Pilate's motive in uttering these words is unclear \u2013 whether to ridicule Jesus and the crowd or to encourage them to demand Jesus' release. Nevertheless, Pilate's actions reveal his cowardice, as he prioritizes appeasing the enraged mob over upholding justice.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.1895487617374552,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.9,
+            "commentatorTierSimilarities": [
+                40.03,
+                0.0,
+                59.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, Pilate purposefully emphasizes the contrast between Jesus and Barabbas by calling Jesus the King of the Jews. This intentionally provocative title was offensive to the Jewish leaders. It is uncertain whether Pilate used this statement to mock Jesus and the crowd or to persuade them to request Jesus' release. Nonetheless, Pilate's actions display his cowardice, as he sacrifices justice to pacify the angry mob, further enraging them.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.226959228558686,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.14,
+            "commentatorTierSimilarities": [
+                39.15,
+                0.0,
+                60.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:27:08",
+    "verseRef": "Mark 11:22",
+    "bestBHT": {
+        "bht": "Our Lord Jesus taught his disciples a valuable lesson: have faith in God. This instruction is exemplified by the swift fulfillment of the curse on the fig tree. It is a reminder to believers to trust in God as the object of their faith, a faith that is supported by God's power and encouraged by His goodness, truth, and faithfulness. This faith is not limited to small miracles but extends to even greater accomplishments. It is a call to rely on God, the Creator of all things, who can effortlessly destroy thousands of creatures with a single word.",
+        "wordCount": 99,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.5531884780322063,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+        "commentatorTierSimilarities": [
+            33.7,
+            30.38,
+            35.92
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "22. And Jesus answering saith unto",
+            "\tthem, Have faith in God."
+        ],
+        "Philip Schaff": [
+            "Have faith in God, the object of faith.",
+            "The words have in themselves the widest application.",
+            "They are therefore directed to Almighty God as the object of their faith."
+        ],
+        "Archibald T. Robertson": [
+            "Have faith in God.\" ",
+            "That was the lesson for the disciples from the curse on the fig tree so promptly fulfilled.",
+            "See this point explained by Jesus in Matthew 21:21 which see for 'this mountain' also."
+        ],
+        "John Gill": [
+            "Have faith in God; or 'the faith of God', so the Vulgate Latin, Syriac, Persic, and Ethiopic versions; that is, exercise, and make use of that faith which has God for its author, which is the work of God, and of his operation, a free grace gift of his...\" ",
+            "...which has God for its object; and is supported by his power, and encouraged by his goodness, truth, and faithfulness...",
+            "...not only that such things may be done, as the drying up a fig tree, but those that are much greater."
+        ],
+        "John Wesley": [
+            "Have faith in God.",
+            "If the Creator and Proprietor of all things were to destroy, by a single word of his mouth, a thousand of his inanimate creatures...",
+            "...to imprint this important lesson more deeply on one immortal spirit?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Have faith in God. This is the lesson that Jesus taught his disciples when the fig tree withered as a result of his curse. The words have faith in God have a broad application and are directed to Almighty God as the object of our faith. We are encouraged to exercise and make use of the faith that God has given us, a faith that is supported by his power, goodness, truth, and faithfulness. With this faith, we can believe in and accomplish even greater things than the withering of a fig tree. The Creator and Proprietor of all things has the ability to destroy thousands of inanimate creatures with a single word, so how much more important is it for us to have faith in him, to trust in his promises and rely on his unfailing character?",
+            "wordCount": 138,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.8405927775134452,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                33.41,
+                33.17,
+                33.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Have faith in God, a lesson exemplified by the swift fulfillment of the curse on the fig tree. This teaching from Jesus emphasizes the importance of having faith in God as the object of our trust. Our faith, which is a gift from God, is supported by his power, goodness, truth, and faithfulness. It is not limited to the accomplishment of small miracles, but encompasses even greater deeds. If God can effortlessly destroy thousands of creatures, how much more should we trust in him, the Creator and Sustainer of all things?",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.5037695912790596,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.34,
+            "commentatorTierSimilarities": [
+                33.12,
+                29.38,
+                37.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus instructed the disciples to have faith in God, which was demonstrated through the swift fulfillment of the curse on the fig tree. This command holds a broad application, directing believers to place their trust in the Almighty. Our faith, a gift from God, is empowered by His goodness, truth, and faithfulness. It is not limited to small miracles, but extends to greater works. If God can easily destroy thousands of creatures by a word, how much more should we rely on Him, the Creator of all things?",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.4486635014625149,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.51,
+            "commentatorTierSimilarities": [
+                31.6,
+                32.79,
+                35.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus taught his disciples to have faith in God, as evidenced by the fulfillment of the curse on the fig tree. This admonition has wide-ranging implications, urging believers to place their trust in the Almighty. Our faith, a divine gift, is strengthened by God's power, goodness, truth, and faithfulness. It is not limited to minor miracles but extends to even greater achievements. If God can effortlessly destroy numerous inanimate creatures with a single word, how much more crucial is it for us to have unwavering faith in Him, the Creator of all things?",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.4462259412176284,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.43,
+            "commentatorTierSimilarities": [
+                32.64,
+                29.36,
+                37.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord Jesus taught his disciples a valuable lesson: have faith in God. This instruction is exemplified by the swift fulfillment of the curse on the fig tree. It is a reminder to believers to trust in God as the object of their faith, a faith that is supported by God's power and encouraged by His goodness, truth, and faithfulness. This faith is not limited to small miracles but extends to even greater accomplishments. It is a call to rely on God, the Creator of all things, who can effortlessly destroy thousands of creatures with a single word.",
+            "wordCount": 99,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.5531884780322063,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+            "commentatorTierSimilarities": [
+                33.7,
+                30.38,
+                35.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

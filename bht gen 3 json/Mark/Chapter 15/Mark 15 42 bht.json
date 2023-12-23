@@ -1,0 +1,92 @@
+{
+    "timestamp": "12-22-2023 23:29:32",
+    "verseRef": "Mark 15:42",
+    "bestBHT": {
+        "bht": "The mentioned day is known as the day before the Sabbath or Friday, which began at sunset. It is called the preparation because it was necessary to take down the bodies of Jesus and the other crucified men before the Sabbath day. The Jews had already made arrangements for their removal as they did not want the bodies to remain on the cross during the Sabbath. This day of preparation ensured that everything was ready for the upcoming solemn Sabbath day.",
+        "wordCount": 81,
+        "quoteTokenProportion": 54.72,
+        "qualityScore": 2.458005428850001,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.07,
+        "commentatorTierSimilarities": [
+            22.18,
+            38.79,
+            39.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the name by which Friday is now generally known in Asia and Greece.",
+            "The three Evangelists do not imply that this 'preparation' had any thing especial in it.",
+            "The Friday afternoon (the preparation\u2014Parascev\u00e9, 'the name by which Friday is now generally known in Asia and Greece.')"
+        ],
+        "Albert Barnes": [
+            "The even - The time after three o\u2019clock in the afternoon.",
+            "The Preparation ... - The following day was to be a day of special solemnity, called the 'great day' of the feast.",
+            "More than ordinary preparation was therefore made for 'that' Sabbath on the day before. Hence, the day was known as a day of preparation."
+        ],
+        "Marvin Vincent": [
+            "Even. See on Matthew 27:57. ",
+            "The day before the Sabbath [\u03c0\u03c1\u03bf\u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03bf\u03bd] . The fore Sabbath. Peculiar to Mark, and only here."
+        ],
+        "Philip Schaff": [
+            "The day before the Sabbath, i.e., Friday.",
+            "Joseph and the Jews (John 19:31) desired 'that the bodies should not remain upon the cross on the Sabbath.'",
+            "The Sabbath of the festival week was, as usual in such cases, a 'high day' (John 19:31)."
+        ],
+        "Archibald T. Robertson": [
+            "The preparation (\u03c0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03b7). Mark explains the term as meaning 'the day before the sabbath' (\u03c0\u03c1\u03bf\u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03bf\u03bd), that is our Friday, which began at sunset.\" ",
+            "The Jews had already taken steps to get the bodies removed (John 19:31).",
+            "[None]"
+        ],
+        "John Gill": [
+            "Of the preparation\", as the Syriac version reads; or \"the night of the sixth day\":, as the Persic version renders it, \"Friday\" night."
+        ],
+        "John Wesley": [
+            "Because it was the day before the Sabbath \u2014 And the bodies might not hang on the Sabbath day: therefore they were in haste to have them taken down."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "The day mentioned in this verse is known as the day before the Sabbath or Friday, which began at sunset. It is called the preparation because it was the time when the bodies of Jesus and the other crucified men needed to be taken down from the cross before the Sabbath day. The Jews had already made arrangements to have the bodies removed, as they did not want them to remain on the cross during the Sabbath. This day of preparation was necessary in order to ensure that everything was ready for the upcoming Sabbath, which was a day of special solemnity.",
+            "wordCount": 102,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.4019167449845855,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.2,
+            "commentatorTierSimilarities": [
+                21.96,
+                38.15,
+                39.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mentioned day is known as the day before the Sabbath or Friday, which began at sunset. It is called the preparation because it was necessary to take down the bodies of Jesus and the other crucified men before the Sabbath day. The Jews had already made arrangements for their removal as they did not want the bodies to remain on the cross during the Sabbath. This day of preparation ensured that everything was ready for the upcoming solemn Sabbath day.",
+            "wordCount": 81,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 2.458005428850001,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.07,
+            "commentatorTierSimilarities": [
+                22.18,
+                38.79,
+                39.03
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

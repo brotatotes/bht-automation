@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-22-2023 23:30:28",
+    "verseRef": "Mark 16:20",
+    "bestBHT": {
+        "bht": "The apostles, empowered by Jesus, embark on a mission to spread the gospel throughout all lands, confirming the word with signs and miracles. Their ministry leads to the rapid dissemination of the gospel, from the east to the west, carrying the message of eternal salvation. Through their efforts and the working of the Lord, the name of Christ becomes known worldwide. The disciples, once unlearned, are instruments in bringing nations under the rule of the crucified and risen Savior.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.8581381667474304,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+        "commentatorTierSimilarities": [
+            28.45,
+            37.25,
+            34.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "their sound is gone forth into all lands",
+            "No inference can be drawn from this word as to the date",
+            "for the external evidence, see as above"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We have in this closing verse a most important link of connection with the Acts of the Apostles.",
+            "Thus illustrating His own promise for the rounding and building up of the Church, 'LO, I AM WITH YOU alway!'",
+            "Confirming the word with signs following."
+        ],
+        "Albert Barnes": [
+            "The Lord worked with them - By miracles; by removing obstacles; by supporting them; and by giving the gospel success and making it effectual to saving men.",
+            "Confirming the word - Showing it to be the word of God or a revelation from heaven.By signs following - By attending miracles. By raising the dead, healing the sick, etc., as signs that God was with them, and had sent them forth to preach.",
+            "The Son of God has solemnly declared that he shall be damned. He will judge the world, and there is none that can deliver out of his hand. No excuse will be allowed for not believing. Unless a man has faith he must be lost for ever."
+        ],
+        "Marvin Vincent": [
+            "Following closely: force of ejpi.\" ",
+            "The subject of the last twelve verses of this Gospel may be found critically discussed in...",
+            "Some two hundred expressions or phrases may be found which are common to Luke and Paul, and more or less foreign to other New Testament writers."
+        ],
+        "John Calvin": [
+            "Christ was taken up into heaven, not to enjoy blessed rest at a distance from us, but to govern the world for the salvation of all believers.",
+            "Was it to be expected that men who were unlearned, and were held in no esteem, and had even deserted their Master, should, by the sound of their voice, reduce so many scattered nations into subjection to him who had been crucified?",
+            "We ought to understand that [the ministers of the word] have no power beyond what [God] bestows, and that by planting and watering they do no good, unless the increase come from the secret efficacy of the Spirit."
+        ],
+        "Philip Schaff": [
+            "The writer cannot mean that our Lord ascended from that room.",
+            "The gospel was diffused very rapidly, and at the date of Mark\u2019s Gospel the use of this general term was perfectly justifiable.",
+            "The emphasis hitherto given to His miracles is preserved in this brief sketch of their activity, and that too in close connection with Him as the Glorified Redeemer, still working the same wonders. J. A. Alexander: \u2018If the original conclusion of this book is lost, its place has been wonderfully well supplied.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The Lord working with them.\" ",
+            "And after these things Jesus himself also sent forth through them from the east even unto the west the holy and incorruptible proclamation of the eternal salvation."
+        ],
+        "John Gill": [
+            "And preached every where.",
+            "the Lord working with them.",
+            "And confirming the word with signs following."
+        ],
+        "John Wesley": [
+            "They preached every where \u2014 At the time St. Mark wrote, the apostles had already gone into all the known world.",
+            "Each of them was there known where he preached.",
+            "The name of Christ only was known throughout the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The book of Mark closes with the proclamation of the gospel reaching all lands, as the apostles go forth empowered by Jesus, who is ever present with them. They confirm the word with signs and miracles, illustrating His promise to be with them always. The rapid spread of the gospel is evident, as the ministry of the apostles in proclaiming the eternal salvation reaches from the east to the west. Their preaching, coupled with the working of the Lord and the signs that follow, leads to the knowledge of Christ throughout the known world. The disciples, despite their humble beginnings, are able to bring nations under the rule of the crucified and risen Savior.",
+            "wordCount": 114,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 1.8943594021974342,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.33,
+            "commentatorTierSimilarities": [
+                28.51,
+                39.06,
+                32.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The proclamation of the gospel spreads far and wide, as the apostles are sent by Jesus to all lands. They confirm the word with signs and miracles, revealing His promise to be ever-present. The swift dissemination of the gospel is evident, with the preaching of the apostles reaching from the east to the west. Through their ministry and the working of the Lord, the name of Christ becomes known throughout the world, bringing nations under His rule.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.8242153698067392,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                28.01,
+                37.96,
+                34.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles embark on a mission to spread the gospel throughout all lands, fulfilling the promise of Jesus to be with them always. Their ministry is accompanied by signs and miracles, confirming the word they proclaim. The rapid expansion of the gospel is remarkable, as the apostles journey from the east to the west, carrying the message of eternal salvation. Through their efforts and with the working of the Lord, the name of Christ becomes known and His authority is acknowledged worldwide.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8499783336036235,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                27.52,
+                40.25,
+                32.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles, empowered by Jesus, embark on a mission to spread the gospel throughout all lands, confirming the word with signs and miracles. Their ministry leads to the rapid dissemination of the gospel, from the east to the west, carrying the message of eternal salvation. Through their efforts and the working of the Lord, the name of Christ becomes known and His authority acknowledged worldwide. The disciples, once unlearned and deserted, are instruments in bringing nations under the rule of the crucified and risen Savior.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.853184280962466,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                27.84,
+                37.95,
+                34.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles, empowered by Jesus, embark on a mission to spread the gospel throughout all lands, confirming the word with signs and miracles. Their ministry leads to the rapid dissemination of the gospel, from the east to the west, carrying the message of eternal salvation. Through their efforts and the working of the Lord, the name of Christ becomes known worldwide. The disciples, once unlearned, are instruments in bringing nations under the rule of the crucified and risen Savior.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.8581381667474304,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                28.45,
+                37.25,
+                34.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

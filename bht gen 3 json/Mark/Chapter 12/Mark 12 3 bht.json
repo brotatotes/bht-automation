@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:26:44",
+    "verseRef": "Mark 12:3",
+    "bestBHT": {
+        "bht": "The religious leaders in their plot to harm Jesus were looking for an opportunity to capture Him through His words. They hoped to lay hold on Him by some saying of His, intending to prevent His teachings from spreading further. Eventually, their plan succeeded as they caught Him and subjected Him to violence. This treatment of Jesus reflects the abuse that the prophets of the Lord endured at the hands of the Jewish nation. Their actions ultimately resulted in Him being sent away empty-handed, failing to achieve their desired outcome.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.4870583561070905,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+        "commentatorTierSimilarities": [
+            63.17,
+            0.0,
+            36.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They wished to lay hold on him by some saying of His.\" "
+        ],
+        "John Gill": [
+            "And they caught him... denotes the rudeness and violence with which the prophets of the Lord were used by the Jewish nation.",
+            "and beat him... till the skin was flayed off.",
+            "and sent him away empty; without any fruit to carry with him, or give an account of, to the owner of the vineyard."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders in the verse plotted to find a way to accuse Jesus. They were seeking an opportunity to capture Him through His words, hoping to lay hold on Him by some saying of His. Their intention was to harm Him and prevent His teachings from spreading further. They eventually succeeded in catching Him, subjecting Him to cruelty and violence. The treatment of Jesus reflects the violent treatment that the prophets of the Lord endured at the hands of the Jewish nation. In the end, they sent Him away empty, without accomplishing their goal of stopping His ministry and without producing any good fruit from their actions.",
+            "wordCount": 108,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.4204559512120576,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.57,
+            "commentatorTierSimilarities": [
+                61.23,
+                0.0,
+                38.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders in their plot to harm Jesus were looking for an opportunity to capture Him through His words. They hoped to lay hold on Him by some saying of His, intending to prevent His teachings from spreading further. Eventually, their plan succeeded as they caught Him and subjected Him to violence. This treatment of Jesus reflects the abuse that the prophets of the Lord endured at the hands of the Jewish nation. Their actions ultimately resulted in Him being sent away empty-handed, failing to achieve their desired outcome.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.4870583561070905,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.79,
+            "commentatorTierSimilarities": [
+                63.17,
+                0.0,
+                36.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In their malicious intent, the religious leaders sought to find a way to accuse Jesus and capture Him through His words. Their goal was to lay hold on Him using the things He said, hoping to halt the spread of His teachings. Eventually, they succeeded in catching Him, subjecting Him to violence and mistreatment. This brutal treatment is reminiscent of how the prophets of God were treated by the Israelites. Ultimately, their actions resulted in Jesus being sent away empty-handed, without achieving their desired outcome.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.3322721070317893,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.64,
+            "commentatorTierSimilarities": [
+                61.93,
+                0.0,
+                38.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With sinister intentions, the religious leaders sought to ensnare Jesus by seizing upon his words. Their goal was to capture him by distorting what he said, thereby obstructing the spread of his teachings. Their plan eventually succeeded, as they managed to apprehend him and unleash violence upon him. This treatment reflected the harsh treatment suffered by the Lord's prophets at the hands of the Jewish people. In the end, they sent him away unfulfilled, without any fruits to show, denying him the opportunity to bear the fruit of his ministry.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.3259621683681817,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.43,
+            "commentatorTierSimilarities": [
+                57.37,
+                0.0,
+                42.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders devised a plot to trap Jesus by exploiting his words, with the intention of apprehending him. Their objective was to hinder his teachings. Eventually, they succeeded in capturing him and subjected him to brutality. This mirrors the treatment endured by the Lord's prophets at the hands of the Jewish nation. Ultimately, they sent him away empty-handed, failing to achieve their desired goal of silencing his ministry and extinguishing the fruit that he bore.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.1786549383220741,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.53,
+            "commentatorTierSimilarities": [
+                54.5,
+                0.0,
+                45.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:24:12",
+    "verseRef": "Mark 8:17",
+    "bestBHT": {
+        "bht": "Have ye your heart yet hardened, as after the first miracle? Perceive ye not yet the meaning of the parabolical expressions and Jesus' power in providing food for many with very little? It is surprising that these disciples, who have witnessed such instances, still have confused understanding, anxieties, doubts, and unbelief.",
+        "wordCount": 51,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.0000175190538931,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.59,
+        "commentatorTierSimilarities": [
+            21.71,
+            0.0,
+            78.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "17. have ye your heart yet",
+            "\thardened?\u2014How strong an expression to use of true-hearted",
+            "\tdisciples! See on Mark 6:52."
+        ],
+        "John Gill": [
+            "Perceive ye not yet, neither understand? the meaning of the parabolical expressions, which he had used them to; or his power in providing food for them, and supporting a great number of persons with very little food, of which they had some very late instances.",
+            "Have ye your heart yet hardened? as after the first miracle; see Mark 6:52, for it might have been expected, that by a second miracle of the loaves, their understandings would have been more enlightened, and their faith increased, and that they would have relinquished their gross notions, their anxieties, doubts, and unbelief."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Perceive ye not yet the meaning of the parabolical expressions and the power of provision displayed by Jesus? Have ye your heart yet hardened, as you did after the first miracle of the loaves? It is surprising to see such strong words used for true-hearted disciples, who should have their understanding enlightened and their faith increased by witnessing these miracles. May these instances relinquish any anxieties, doubts, and unbelief.",
+            "wordCount": 70,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 0.948061707729595,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.87,
+            "commentatorTierSimilarities": [
+                22.98,
+                0.0,
+                77.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Perceive ye not yet the meaning of the parabolical expressions and the power of provision? Have ye your heart yet hardened, as after the first miracle of the loaves? It is surprising to see such strong words used for true-hearted disciples, who should have their understanding enlightened and their faith increased by witnessing these miracles. May these instances relinquish any anxieties, doubts, and unbelief.",
+            "wordCount": 65,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 0.9431368198988808,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.7,
+            "commentatorTierSimilarities": [
+                23.85,
+                0.0,
+                76.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Have ye your heart yet hardened, as after the first miracle? Perceive ye not yet the meaning of the parabolical expressions, the power of provision and supporting a great number of persons with very little food? It is surprising that these true-hearted disciples, who have witnessed these miracles, still do not understand and continue to hold onto anxieties, doubts, and unbelief.",
+            "wordCount": 62,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.0828002639530854,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.35,
+            "commentatorTierSimilarities": [
+                21.88,
+                0.0,
+                78.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Perceive ye not yet the meaning of the parabolical expressions that Jesus used? Have ye your heart yet hardened, as after the first miracle of the loaves? It is surprising that these disciples, who have witnessed the power of provision and the support of many with little food, still lack understanding and cling to anxieties, doubts, and unbelief.",
+            "wordCount": 58,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.0946721879129733,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.74,
+            "commentatorTierSimilarities": [
+                24.77,
+                0.0,
+                75.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Have ye your heart yet hardened, as after the first miracle? Perceive ye not yet the meaning of the parabolical expressions and Jesus' power in providing food for many with very little? It is surprising that these disciples, who have witnessed such instances, still have confused understanding, anxieties, doubts, and unbelief.",
+            "wordCount": 51,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0000175190538931,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.59,
+            "commentatorTierSimilarities": [
+                21.71,
+                0.0,
+                78.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

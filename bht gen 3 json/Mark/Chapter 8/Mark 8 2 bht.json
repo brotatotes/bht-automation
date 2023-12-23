@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:24:17",
+    "verseRef": "Mark 8:2",
+    "bestBHT": {
+        "bht": "Jesus' compassion for the multitude arose from a profound empathy within His noble entrails, or the inward parts and seat of His affections. He saw their physical need after spending three days together, and His deep emotion preceded His remarkable intervention for their relief. His care extended to both their bodies and souls, as His bowels yearned towards them all. Despite His exhaustion, Jesus was driven by His love and concern for the people, voicing His desire to provide a solution for their lack of food.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.1508708445732108,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.61,
+        "commentatorTierSimilarities": [
+            36.66,
+            0.0,
+            63.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I have compassion on the multitude\u2014an expression of that deep emotion in the Redeemer's heart which always preceded some remarkable interposition for relief.\" ",
+            "because they have now been with me\u2014in constant attendance.\" ",
+            "three days, and have nothing to eat."
+        ],
+        "Marvin Vincent": [
+            "A peculiar verb, from splagcna, the inward parts, especially the nobler entrails - the heart, lungs, liver, and kidneys.",
+            "These came gradually to denote the seat of the affections, like our word heart.",
+            "The Rev. has properly rejected it in every such case, using it only in its literal sense in the single passage, Acts 1:18."
+        ],
+        "Archibald T. Robertson": [
+            "Now three days (\u03b7\u03b4\u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1 \u03c4\u03c1\u03b5\u03b9\u03c2). This text preserves a curious parenthetic nominative of time (Robertson, Grammar, p. 460). See on Matthew 15:32. "
+        ],
+        "John Gill": [
+            "Christ is a compassionate Saviour both of the bodies and souls of men.",
+            "His bowels yearned towards them all.",
+            "They have now been with me three days, and have nothing to eat."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how Jesus had compassion on the multitude because they had been with him for three days and had nothing to eat. This compassion was not just a surface-level emotion, but a deep feeling that stirred within the innermost parts of Jesus' heart. He saw their physical need and was moved to provide for them, showing his care for both their bodies and souls. Despite being exhausted from their time together, Jesus was driven by his love and concern for the people, and his bowels yearned towards them all.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2397423728352046,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.56,
+            "commentatorTierSimilarities": [
+                41.83,
+                0.0,
+                58.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' compassion for the multitude was not a shallow response but stemmed from a deep and genuine care within the core of His being. He understood their physical need, having spent three days with them, and recognized the urgency to provide for them. His love extended far beyond their material well-being, encompassing their souls as well. Despite his own weariness, Jesus' innermost being stirred with compassion, yearning to meet the needs of everyone present.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.0721031486798727,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.99,
+            "commentatorTierSimilarities": [
+                45.05,
+                0.0,
+                54.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' compassion for the multitude arose from a profound empathy within His noble entrails, or the inward parts and seat of His affections. He saw their physical need after spending three days together, and His deep emotion preceded His remarkable intervention for their relief. His care extended to both their bodies and souls, as His bowels yearned towards them all. Despite His exhaustion, Jesus was driven by His love and concern for the people, voicing His desire to provide a solution for their lack of food.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.1508708445732108,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.61,
+            "commentatorTierSimilarities": [
+                36.66,
+                0.0,
+                63.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus was moved with compassion for the multitude, with His deep emotions stirred within. Having spent three days together, He witnessed their desperate need for food. His care extended to their physical and spiritual well-being, as His very core longed to meet their needs. Even though exhausted from His time with them, Jesus' love and concern compelled Him to provide for them. His compassion exemplified His role as a compassionate Savior, providing for both their bodies and souls.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.0959672497597759,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.78,
+            "commentatorTierSimilarities": [
+                37.08,
+                0.0,
+                62.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' compassion for the multitude stemmed from His deep emotion and constant presence with them for three days. He saw their dire circumstances, with nothing to eat. His care extended to their physical needs, as His inward parts, the seat of His affections, were moved by their plight. Despite His fatigue, Jesus' love and concern drove Him to intervene and provide relief. His compassion exemplified his role as a Savior who cared for both their bodies and souls.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.1044208901874621,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.07,
+            "commentatorTierSimilarities": [
+                37.3,
+                0.0,
+                62.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:24:37",
+    "verseRef": "Mark 8:36",
+    "bestBHT": {
+        "bht": "What does it profit a man to gain the whole world and lose his own soul? The pursuit of worldly wealth and success may seem appealing, but it holds no true value in the long run. Even if one were to amass great riches and enjoy the pleasures of the world, it would all be in vain if their soul is ultimately lost. The soul continues forever, and its loss and damnation carry eternal torment. The fleeting enjoyment of the world cannot compare to the everlasting consequences of losing one's soul.",
+        "wordCount": 92,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.3552759056485437,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.41,
+        "commentatorTierSimilarities": [
+            40.64,
+            0.0,
+            59.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Gain - lose. See on Matthew 16:26."
+        ],
+        "John Gill": [
+            "For what shall it profit a man,.... In the long run, in the issue of things, who by denying Christ, and his Gospel, may not only save his life for the present, but procure for himself great riches and wealth.\" ",
+            "yet supposing he had his desire, of what avail would this be in the upshot of things, should the following be his case, as it will, and lose his own soul?\" ",
+            "The world can only be enjoyed for a season, and that with a great deal of fatigue and trouble; but the soul continues forever; and if it is lost and damned, its torment always abides, and the smoke of it ascends forever, its worm never dies, and its fire is never quenched."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What does it profit a man to gain the whole world and lose his own soul? The pursuit of worldly wealth and success may seem appealing and profitable in the present, but in the grand scheme of things, it holds no true value. Even if one were to amass great riches and enjoy the pleasures of the world, it would all be in vain if their soul is ultimately lost. The temporary enjoyment of worldly things pales in comparison to the eternal consequences of losing one's soul. The soul is everlasting, and its loss and damnation carry eternal torment. The fleeting comforts of the world cannot compare to the everlasting peace and joy that come from aligning oneself with Christ.",
+            "wordCount": 121,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.1964195509729223,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.12,
+            "commentatorTierSimilarities": [
+                37.77,
+                0.0,
+                62.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What does it profit a man to gain the whole world and lose his own soul? The pursuit of worldly wealth and success may seem appealing, but it holds no true value in the grand scheme of things. Even if one were to amass great riches, it would all be in vain if their soul is ultimately lost. The soul is everlasting, and its loss and damnation carry eternal torment. The fleeting comforts of the world cannot compare to the everlasting peace and joy that come from aligning oneself with Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.1900593033164746,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.91,
+            "commentatorTierSimilarities": [
+                37.49,
+                0.0,
+                62.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What does it profit a man to gain the whole world and lose his own soul? The pursuit of worldly wealth and success may seem appealing, but it holds no true value in the long run. Even if one were to amass great riches and enjoy the pleasures of the world, it would all be in vain if their soul is ultimately lost. The soul continues forever, and its loss and damnation carry eternal torment. The fleeting enjoyment of the world cannot compare to the everlasting consequences of losing one's soul.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.3552759056485437,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.41,
+            "commentatorTierSimilarities": [
+                40.64,
+                0.0,
+                59.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What does it profit to gain the world and lose one's soul? The pursuit of earthly gain may offer temporary prosperity, but it holds no lasting value. In contrast, the soul is eternal, and its loss and damnation bring everlasting torment. The allure of worldly pleasures cannot outweigh the eternal consequences of a lost soul. True fulfillment lies in aligning oneself with Christ, finding everlasting peace and joy that surpasses the transient comforts of this world.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.262346229467242,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+            "commentatorTierSimilarities": [
+                43.19,
+                0.0,
+                56.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "What does it profit a man to gain the whole world and lose his own soul? The pursuit of worldly wealth and success may seem appealing and profitable in the present, but in the grand scheme of things, it holds no true value. Even if one were to amass great riches and enjoy the pleasures of the world, it would all be in vain if their soul is ultimately lost. The temporary enjoyment of worldly things pales in comparison to the eternal consequences of losing one's soul. The soul is everlasting, and its loss and damnation carry eternal torment. The fleeting comforts of the world cannot compare to the everlasting peace and joy that come from aligning oneself with Christ.",
+            "wordCount": 121,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.1964195509729223,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.12,
+            "commentatorTierSimilarities": [
+                37.77,
+                0.0,
+                62.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

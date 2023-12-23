@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:23:57",
+    "verseRef": "Mark 7:8",
+    "bestBHT": {
+        "bht": "Jesus exposes the religious leaders' disregard for God's commandments by highlighting their preference for human traditions in contrast to divine authority. The scribes and elders prioritize the oral teachings of men rather than the written law of God. Their devotion to human tradition comes at the expense of God's commandments, showing their misplaced priorities. This indictment is confirmed by the Talmud, providing specific evidence of their actions. Their willingness to set aside God's commandments to uphold human tradition is a grave sin that is compounded by the numerous other transgressions they commit.",
+        "wordCount": 95,
+        "quoteTokenProportion": 26.56,
+        "qualityScore": 1.8245876054079175,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.01,
+        "commentatorTierSimilarities": [
+            40.85,
+            33.87,
+            25.28
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] Not contained in Matthew, but important, as setting forth their depreciating of God\u2019s command in comparison with human tradition, before their absolute violation of that command in vv. 10, 11."
+        ],
+        "Philip Schaff": [
+            "This verse is peculiar to Mark, \u2018setting forth their depreciating of God\u2019s command in comparison with human tradition, before their absolute violation of that command in Mark 7:10-11.\u2019",
+            "\u2018Men \u2018as in contrast to \u2018God,\u2019 implying that the \u2018elders\u2019 (Mark 7:5) had no other than human authority.",
+            "The rest of the verse is to be omitted, according to the best authorities."
+        ],
+        "Archibald T. Robertson": [
+            "Note the sharp contrast between the command of God and the traditions of men.",
+            "Jesus here shows that they care more for the oral teaching of the scribes and elders than for the written law of God.",
+            "The Talmud gives abundant and specific confirmation of the truthfulness of this indictment."
+        ],
+        "John Gill": [
+            "For laying aside the commandment of God,.... Meaning not any particular commandment, but all the commandments of God, the whole written law.",
+            "which exposes and aggravates their sin, that they should leave the one, which had the stamp of divine authority on them, and hold the other, which were only the devices of men's brains.",
+            "And many other such like things you do; so many, that it is almost endless to reckon up."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus exposes the religious leaders' disregard for God's commandments by highlighting their preference for human traditions in contrast to divine authority. The scribes and elders prioritize the oral teachings of men rather than the written law of God. Their devotion to human tradition comes at the expense of God's commandments, showing their misplaced priorities. This indictment is confirmed by the Talmud, providing specific evidence of their actions. Their willingness to set aside God's commandments to uphold human tradition is a grave sin that is compounded by the numerous other transgressions they commit.",
+            "wordCount": 95,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.8245876054079175,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.01,
+            "commentatorTierSimilarities": [
+                40.85,
+                33.87,
+                25.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus points out the religious leaders' preference for human traditions over God's commandments. They prioritize the oral teachings of men, neglecting the written law of God. This contrast highlights their disregard for divine authority and the importance of God's commandments. The evidence provided by the Talmud confirms this indictment. By prioritizing human tradition instead of God's commands, the religious leaders commit a grave sin and engage in numerous other transgressions.",
+            "wordCount": 73,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 1.7203960366252424,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.55,
+            "commentatorTierSimilarities": [
+                40.98,
+                33.25,
+                25.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus exposes the religious leaders' disregard for God's commandments by highlighting their preference for human traditions over divine authority. Their care for the oral teaching of the scribes and elders exceeds their concern for the written law of God. The Talmud confirms this indictment, providing specific evidence of their actions. By leaving aside God's commandments, which carry divine authority, and holding onto the inventions of men, they compound their sin. Their numerous transgressions are too abundant to fully enumerate.",
+            "wordCount": 81,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.5367346935423656,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.44,
+            "commentatorTierSimilarities": [
+                38.46,
+                30.44,
+                31.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus reveals the religious leaders' inclination to prioritize human traditions over God's commandments. They prioritize the oral teachings of the scribes and elders rather than the written law of God. The Talmud offers ample evidence to support this accusation. By disregarding the commandments of God, they demonstrate a concerning disregard for divine authority, and their continuous transgressions are extensive and numerous.",
+            "wordCount": 62,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 1.6524325310948393,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.29,
+            "commentatorTierSimilarities": [
+                39.27,
+                30.66,
+                30.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus highlights the religious leaders' preference for human traditions over God's commandments, exposing their neglect of divine authority. They value the oral teachings of the scribes and elders more than the written law of God. The Talmud provides substantial confirmation of this accusation. By disregarding God's commandments, which have divine authority, and holding onto the inventions of men, the religious leaders commit a significant offense. The extent of their transgressions is nearly limitless.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.549148750954994,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.85,
+            "commentatorTierSimilarities": [
+                37.76,
+                33.03,
+                29.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

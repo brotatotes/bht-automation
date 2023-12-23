@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:24:49",
+    "verseRef": "Mark 8:11",
+    "bestBHT": {
+        "bht": "The Pharisees sought a sign from Jesus, tempting Him, but He condemned their hypocrisy and urged them to discern the signs of the times. Like predicting the weather, they should recognize the signs pointing to the manifestation of the Messiah. The miracles Jesus performed were not just displays of power, but proofs of His divine authority and ethical significance. The Pharisees, already in alliance with the Herodians against Jesus, immediately engaged Him in a controversy, revealing their antagonistic intent.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.7904735559193772,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+        "commentatorTierSimilarities": [
+            35.97,
+            26.85,
+            37.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "REQUEST FOR A SIGN FROM HEAVEN."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The first part of the answer is given in Matthew alone: 'He answered and said unto them, When it is evening, ye say, It will be fair weather; for the sky is red. And in the morning, It will be foul weather today: for the sky is red and lowering [sullen, gloomy].'",
+            "Hypocrites! ye can discern the face of the sky; but can ye not discern the signs of the times?",
+            "The same simplicity of purpose and careful observation of the symptoms of approaching events which they showed in common things would enable them to 'discern the signs of the times'\u2014or rather 'seasons,' to which the prophets pointed for the manifestation of the Messiah."
+        ],
+        "Marvin Vincent": [
+            "The beginnings of things seem to have a peculiar interest for Mark.",
+            "As applied to the miracles of our Lord, this word [sign] emphasizes their ethical purport.",
+            "The miraculous act points back of itself to the grace and power or divine character or authority of the doer."
+        ],
+        "Philip Schaff": [
+            "The skeptical Sadducees were entirely hypocritical in asking a sign from heaven.",
+            "Spying hostility is implied.",
+            "These details are peculiar to Mark."
+        ],
+        "Archibald T. Robertson": [
+            "At once they met Jesus and opened a controversy.",
+            "The Pharisees and Herodians had already joined hands against Jesus in the sabbath controversy.",
+            "They began at once and kept it up."
+        ],
+        "John Gill": [
+            "The Pharisees came forth.",
+            "Began to question with him.",
+            "Seeking of him a sign from heaven, tempting him."
+        ],
+        "John Wesley": [
+            "Tempting him \u2014 That is, trying to ensnare him. Matthew 16:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisees came forth, seeking of Jesus a sign from heaven, tempting him. In response, Jesus rebuked their hypocrisy and emphasized the importance of discerning the signs of the times. Just as they were able to predict the weather based on the appearance of the sky, they should also recognize the signs pointing to the manifestation of the Messiah. The miracles performed by Jesus were not merely displays of power, but proofs of His divine authority and the ethical significance behind them. The Pharisees, already allied with the Herodians against Jesus, began a controversy with him, demonstrating their hostile intentions.",
+            "wordCount": 100,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.782562038935826,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.61,
+            "commentatorTierSimilarities": [
+                37.76,
+                26.67,
+                35.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees sought a sign from Jesus, tempting Him, but He condemned their hypocrisy and urged them to discern the signs of the times. Like predicting the weather, they should recognize the signs pointing to the manifestation of the Messiah. The miracles Jesus performed were not just displays of power, but proofs of His divine authority and ethical significance. The Pharisees, already in alliance with the Herodians against Jesus, immediately engaged Him in a controversy, revealing their antagonistic intent.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7904735559193772,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                35.97,
+                26.85,
+                37.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees came forth, seeking a sign from Jesus, tempting Him. Jesus rebuked their hypocrisy and emphasized the importance of discerning the signs of the times. He compared their ability to predict the weather based on the appearance of the sky with their inability to recognize the signs pointing to the manifestation of the Messiah. The miracles performed by Jesus showcased not only His power, but also His divine authority and ethical significance. The Pharisees, already allied with the Herodians against Jesus, immediately started a controversy with Him, revealing their hostile intentions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.750711690277432,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.55,
+            "commentatorTierSimilarities": [
+                35.5,
+                25.56,
+                38.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees sought a sign from Jesus, tempting Him. Jesus rebuked their hypocrisy, highlighting the importance of discerning the signs of the times. He compared the Pharisees' astute observation of everyday phenomena to their failure in recognizing the signs pointing to the manifestation of the Messiah. The miracles Jesus performed were not mere displays of power, but demonstrated His divine authority and ethical significance. The Pharisees, already allied with the Herodians, immediately engaged in a contentious controversy with Jesus, exposing their antagonistic intentions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.773540691654142,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.31,
+            "commentatorTierSimilarities": [
+                34.01,
+                27.89,
+                38.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees sought a sign from Jesus, tempting Him. Jesus rebuked their hypocrisy and stressed the importance of discerning the signs of the times. He compared their ability to forecast the weather by observing the sky to their failure in recognizing the signs that pointed to the manifestation of the Messiah. The miracles Jesus performed were not mere displays of power, but illustrations of His divine authority and ethical significance. The Pharisees, already aligned with the Herodians, immediately engaged in a contentious controversy with Jesus, revealing their hostile intentions.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7405637020553013,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                36.17,
+                26.75,
+                37.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

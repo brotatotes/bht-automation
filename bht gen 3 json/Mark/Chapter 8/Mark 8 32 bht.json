@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:24:45",
+    "verseRef": "Mark 8:32",
+    "bestBHT": {
+        "bht": "Jesus did not keep his impending suffering and death a secret, but rather spoke openly and plainly about it, without reservation. He repeatedly conveyed this message to his disciples, not holding back any details. Mark draws attention to the fact that he does not depict the commendation of Peter like other accounts, but rather presents the sharp rebuke Jesus gave him. After Jesus disclosed this information, Peter, who had just been given a position of honor, was deeply troubled and confronted Jesus, pleading with him to reconsider.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.4535520297994597,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.67,
+        "commentatorTierSimilarities": [
+            32.56,
+            25.13,
+            42.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Not as a secret or mystery, as in his words about being lifted up, or building the temple in three days.",
+            "Not ambiguously, but explicitly.",
+            "Wyc., plainly."
+        ],
+        "Philip Schaff": [
+            "Mark 8:32. And he spake the saying openly. Not necessarily in public, but rather without concealment, explicitly, not indirectly. Peculiar to Mark.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "He held back nothing, told it all, without reserve, to all of them.",
+            "Imperfect tense \u03b5\u03bb\u03b1\u03bb\u03b5 shows that Jesus did it repeatedly.",
+            "Mark does not give the great eulogy of Peter in Matthew 16:17; Matthew 16:19 after his confession, but he does tell the stinging rebuke given Peter by Jesus on this occasion."
+        ],
+        "John Gill": [
+            "He not only spoke it before them all, but in plain words, without a figure; so that it might be, and was clearly understood by them; and he spake it as the word will also bear, not only very freely, but likewise boldly, with an undaunted courage, with intrepidity of mind; being not in the least discouraged, nor showing any concern or fear about what was to befall him.",
+            "Peter might more especially be concerned at this free and open account Christ gave of his sufferings and death, because he had just now acquainted him, that he should have the keys of the kingdom of heaven; by which he might understand some high post in the temporal kingdom of the Messiah he expected; and immediately to hear of his sufferings and death, damped his spirits, and destroyed his hopes, and threw him into such difficulties he was not able to remove",
+            "Therefore he takes Christ aside, and very warmly expostulates with him about what he had said, and chides him for it, and entreats him that he would not think, or talk of such like things"
+        ],
+        "John Wesley": [
+            "He spake that saying openly \u2014 Or in express terms. Till now he had only intimated it to them.",
+            "And Peter taking hold of him \u2014 Perhaps by the arms or clothes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus spoke openly and plainly, without reservation or ambiguity, about his impending suffering and death. He did this repeatedly, not holding back any details from his disciples. Mark highlights this moment of rebuke towards Peter, emphasizing that Jesus did not give any great eulogy or praise to Peter like in other accounts. Peter, who had just been given the keys to the kingdom, might have been concerned and dismayed by Jesus' explicit words. Thus, he took Jesus aside and earnestly questioned and entreated him to reconsider.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.3683925034983395,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+            "commentatorTierSimilarities": [
+                33.28,
+                21.38,
+                45.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus openly and plainly spoke about his forthcoming suffering and death, not as a secret or mystery, but explicitly and without reserve. He repeatedly relayed this message to his disciples, not holding anything back. Mark highlights the contrast between Peter's exalted position and Jesus' sobering revelation, leading Peter to confront Jesus privately and plead with him to reconsider.",
+            "wordCount": 59,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3608279545020077,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.59,
+            "commentatorTierSimilarities": [
+                33.48,
+                24.2,
+                42.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus did not keep his impending suffering and death a secret, but rather spoke openly and plainly about it, without reservation. He repeatedly conveyed this message to his disciples, not holding back any details. Mark draws attention to the fact that he does not depict the commendation of Peter like other accounts, but rather presents the sharp rebuke Jesus gave him. After Jesus disclosed this information, Peter, who had just been given a position of honor, was deeply troubled and confronted Jesus, pleading with him to reconsider.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.4535520297994597,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.67,
+            "commentatorTierSimilarities": [
+                32.56,
+                25.13,
+                42.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus openly and plainly spoke about his forthcoming suffering and death, not as a secret or mystery, but explicitly and without reserve, repeatedly conveying this message to his disciples. Mark highlights the contrast between Peter's exalted position and Jesus' sobering revelation. Peter, who had just been given a position of honor, was deeply troubled and confronted Jesus, pleading with him to reconsider.",
+            "wordCount": 63,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.2789774303566133,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.87,
+            "commentatorTierSimilarities": [
+                31.77,
+                22.72,
+                45.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus openly and explicitly spoke about his impending suffering and death, holding nothing back from his disciples. Mark emphasizes the contrast between Peter's exalted position and Jesus' sobering revelation, which deeply troubled Peter. Feeling the weight of his dashed hopes and confused expectations, Peter privately confronted Jesus, earnestly pleading with him to reconsider.",
+            "wordCount": 54,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 1.280612510703521,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.92,
+            "commentatorTierSimilarities": [
+                30.89,
+                22.42,
+                46.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

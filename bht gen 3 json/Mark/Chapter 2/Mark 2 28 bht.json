@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:20:50",
+    "verseRef": "Mark 2:28",
+    "bestBHT": {
+        "bht": "The Son of Man is not a slave to the Sabbath, but rather the Master of it. He did not come to abolish the Sabbath, but to interpret and uphold its importance. As Lord, He has the authority to dispense with His own laws, including the Sabbath. The Sabbath was made for the benefit of man, and therefore, the Son of Man is Lord over it, ensuring its true fulfillment.",
+        "wordCount": 70,
+        "quoteTokenProportion": 54.76,
+        "qualityScore": 2.40779929123012,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.4,
+        "commentatorTierSimilarities": [
+            22.94,
+            43.47,
+            33.59
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "28.] also, as well as of His other domains elements of lordship and power."
+        ],
+        "Philip Schaff": [
+            "Since the Sabbath was made for the benefit of man, it follows that the Son of Man is Lord also of the Sabbath.\" (Mark 2:28) ",
+            "The Son of Man... is Lord... also of the Sabbath; i.e., not for its abolition, but for its true fulfillment.\" (Mark 2:28) ",
+            "The Son of Man... [is] Sovereign over all that belongs to the interest of man.\" (Mark 2:28)"
+        ],
+        "Archibald T. Robertson": [
+            "He was not the slave of the sabbath, but the master of it.\" ",
+            "Even of the sabbath, so invaluable in your eyes.",
+            "Lord, not to abolish, but to interpret and keep in its own place, and give it a new name."
+        ],
+        "John Gill": [
+            "Therefore the son of man is Lord also of the sabbath.\" ",
+            "Meaning himself, who had a power not only to dispense with it, but to abrogate it as he did, with the rest of the rituals of the ceremonial law.\" ",
+            "So that it did not become them to find fault with what his disciples did, with his leave and approbation."
+        ],
+        "John Wesley": [
+            "Being the supreme Lawgiver, he hath power to dispense with his own laws.\" ",
+            "The Son of man is Lord even of the Sabbath.",
+            "He hath power to dispense with his own laws; and with this in particular."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "The Son of Man is the master of the Sabbath, not its slave. He came not to abolish the Sabbath, but to interpret and fulfill its purpose. As the Sovereign over all that belongs to the interest of man, he has the authority to dispense with His own laws. Therefore, it is not for us to find fault with what His disciples do, for He has given them His leave and approval. The Son of Man is indeed Lord even of the Sabbath.",
+            "wordCount": 83,
+            "quoteTokenProportion": 53.06,
+            "qualityScore": 2.1168932008494314,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.73,
+            "commentatorTierSimilarities": [
+                21.56,
+                41.85,
+                36.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son of Man is the master of the Sabbath, not its slave. He came not to abolish the Sabbath, but to interpret and fulfill its purpose. As the Sovereign over all that belongs to man, He has the authority to dispense with His own laws. Therefore, it is not for us to find fault with what His disciples do, for He has given them His leave and approval. The Son of Man is indeed Lord even of the Sabbath.",
+            "wordCount": 80,
+            "quoteTokenProportion": 54.17,
+            "qualityScore": 2.1061261794053228,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                21.85,
+                41.18,
+                36.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Son of Man is not a slave to the Sabbath, but rather the Master of it. He did not come to abolish the Sabbath, but to interpret and uphold its importance. As Lord, He has the authority to dispense with His own laws, including the Sabbath. The Sabbath was made for the benefit of man, and therefore, the Son of Man is Lord over it, ensuring its true fulfillment. Thus, when His disciples acted within His permission, it was not for others to find fault with them.",
+            "wordCount": 88,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 2.1749562707609194,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.66,
+            "commentatorTierSimilarities": [
+                22.61,
+                41.79,
+                35.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Son of Man is not a slave to the Sabbath, but rather the Master of it. He did not come to abolish the Sabbath, but to interpret and uphold its importance. As Lord, He has the authority to dispense with His own laws, including the Sabbath. The Sabbath was made for the benefit of man, and therefore, the Son of Man is Lord over it, ensuring its true fulfillment.",
+            "wordCount": 70,
+            "quoteTokenProportion": 54.76,
+            "qualityScore": 2.40779929123012,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.4,
+            "commentatorTierSimilarities": [
+                22.94,
+                43.47,
+                33.59
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:28:18",
+    "verseRef": "Mark 14:27",
+    "bestBHT": {
+        "bht": "Jesus accurately predicts that All ye shall be offended because of me this night, linking to Zechariah 13:7 where it is written that the shepherd will be struck and the sheep scattered. In this context, Jesus represents the shepherd and the apostles as the sheep. Jesus specifically warns Peter that he will deny Him thrice before the cock crows twice, expected to be before three in the morning. Jesus's remarkable foresight and knowledge of cock crowing timing demonstrate His supernatural understanding and wisdom.",
+        "wordCount": 83,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.5685384823039317,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "All ye shall be offended because of me this night.\" ",
+            "For it is written in Zechariah 13:7, I will smite the shepherd, and the sheep shall be scattered.",
+            "Christ is meant by the shepherd, and the apostles by the sheep."
+        ],
+        "John Wesley": [
+            "The expression there is peculiarly significant. Verily I say to thee, that thou thyself, confident as thou art, to-day, even within four and twenty hours.",
+            "Before the cock crow twice, before three in the morning, wilt deny me thrice.",
+            "Our Lord doubtless spoke so determinately, as knowing a cock would crow once before the usual time of cock crowing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus tells his disciples, All ye shall be offended because of me this night. This statement is in accordance with Zechariah 13:7, where it is written that the shepherd will be struck and the sheep scattered. The shepherd referred to here is Christ, while the sheep represent the apostles. Jesus's warning to Peter is particularly striking, as He predicts that Peter, despite his confidence, will deny Him three times before the cock crows twice, which is expected before three in the morning. Jesus's precise knowledge of the timing of the cock crowing indicates His wisdom and foresight.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.5450332058541343,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's statement that All ye shall be offended because of me this night aligns with Zechariah 13:7, which prophesies the scattering of the sheep when the shepherd is struck. Here, the shepherd symbolizes Christ, and the sheep represent the apostles. Jesus specifically addresses Peter, warning him that, despite his confidence, he will deny Him three times before the cock crows twice, which happens before three in the morning. Jesus's precise knowledge of the timing of the cock crowing emphasizes His wisdom and foreknowledge.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.5295395203588948,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus foretells that All ye shall be offended because of me this night, foretelling the fulfillment of Zechariah 13:7 where the shepherd is smitten and the sheep scatter. The shepherd represents Christ, while the sheep symbolize the apostles. Jesus singles out Peter, confidently stating that he will deny Him three times before the cock crows twice, happening before three in the morning. This precise timing shows Jesus's knowledge of future events, further highlighting His wisdom and foresight.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.3628709020771104,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus accurately predicts that All ye shall be offended because of me this night, linking to Zechariah 13:7 where it is written that the shepherd will be struck and the sheep scattered. In this context, Jesus represents the shepherd and the apostles as the sheep. Jesus specifically warns Peter that he will deny Him thrice before the cock crows twice, expected to be before three in the morning. Jesus's remarkable foresight and knowledge of cock crowing timing demonstrate His supernatural understanding and wisdom.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5685384823039317,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.5,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's anticipation that All ye shall be offended because of me this night aligns with Zechariah 13:7, prophesying the scattering of the sheep when the shepherd is struck. The shepherd symbolizes Christ, and the sheep represent the apostles. Jesus directs his warning towards Peter, confidently predicting his denial of Him thrice before the cock crows twice, typically happening before three in the morning. By accurately knowing the timing of the cock crowing, Jesus displays His wisdom and foresight in this matter.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5497762188033928,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

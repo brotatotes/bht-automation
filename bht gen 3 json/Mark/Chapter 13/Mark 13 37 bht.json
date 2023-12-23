@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:28:18",
+    "verseRef": "Mark 13:37",
+    "bestBHT": {
+        "bht": "Watch and be on guard, for this command applies not only to those who were expecting the calamities of their time, but to all who are soon to face death and judgment. We do not know the time of our death or the return of the Lord, so we must always be ready. Let us be faithful and vigilant, casting off any sloth and negligence, for this exhortation is suitable for all believers in all times.",
+        "wordCount": 76,
+        "quoteTokenProportion": 53.7,
+        "qualityScore": 1.8086075680256002,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+        "commentatorTierSimilarities": [
+            26.88,
+            42.23,
+            30.89
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And what I say unto you\u2014this discourse, it will be remembered, was delivered in private.",
+            "I say unto all, Watch\u2014anticipating and requiring the diffusion of His teaching by them among all His disciples, and its perpetuation through all time."
+        ],
+        "Albert Barnes": [
+            "This command was proper, not only for those who were expecting the calamities that were soon to come upon the Jews, but for all who are soon to die and to go to the judgment.",
+            "We know not the time of our death. We know not how soon we shall be called to the judgment.",
+            "Oh how important it is to be ready, and to escape the awful sufferings of an eternal hell!"
+        ],
+        "Marvin Vincent": [
+            "Watch. The closing and summary word is the stronger word of verse 35 Be awake and on guard. "
+        ],
+        "Philip Schaff": [
+            "I say unto all, watch.\" ",
+            "The time of our Lord's coming, whether at our death or in His personal appearing, is uncertain; therefore we should always be ready.\" ",
+            "Faithfulness to Him bids us not only work but watch."
+        ],
+        "Archibald T. Robertson": [
+            "Watch (\u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03b5\u03b9\u03c4\u03b5). Be on the watch. Present imperative of a verb made on the second perfect, \u03b5\u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03b1, to be awake. Stay awake till the Lord comes. "
+        ],
+        "John Gill": [
+            "And what I say unto you... I say unto all.",
+            "Watch, and be upon their guard, and cast off all sloth and negligence.",
+            "The same exhortation is suitable to saints in all ages, times, and places."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Watch and be on guard, for this command applies not only to those who were expecting the calamities of their time, but to all who are soon to face death and judgment. We do not know the time of our death or the return of the Lord, so we must always be ready. Let us be faithful and vigilant, casting off any sloth and negligence, for this exhortation is suitable for all believers in all times.",
+            "wordCount": 76,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 1.8086075680256002,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                26.88,
+                42.23,
+                30.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be on guard and watch, for the Lord's command is meant for all. This discourse, originally given in private, is now to be spread and perpetuated among all of His followers. Stay awake and be ready, for the time of the Lord's coming is uncertain, whether it be at our death or in His personal appearing. This command is not only for those expecting imminent calamities, but for all who are soon to face judgment. Let us cast off laziness and negligence, always being faithful and prepared, in order to escape the sufferings of an eternal hell.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.6609089460440978,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+            "commentatorTierSimilarities": [
+                33.73,
+                41.77,
+                24.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be on guard and watch, for the Lord's command is meant for all. This discourse, originally given in private, is now to be spread and perpetuated among all of His followers. Stay awake and be ready, for the time of the Lord's coming is uncertain, whether it be at our death or in His personal appearing. This command is not only for those expecting imminent calamities, but for all who are soon to face judgment. Let us cast off laziness and negligence, always being faithful and prepared, in order to escape the sufferings of an eternal hell.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.6609089460440978,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+            "commentatorTierSimilarities": [
+                33.73,
+                41.77,
+                24.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be on guard and watch, for the Lord's command is meant for all. Stay awake and be ready, for the time of the Lord's coming is uncertain, whether at our death or His personal appearing. This command is not only for those expecting calamities, but for all who are soon to face judgment. Cast off negligence, be faithful, and escape the sufferings of an eternal hell. Spread and perpetuate His teaching among all disciples, always being prepared.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.6452512489339468,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                31.48,
+                42.54,
+                25.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Be awake and on guard, for the Lord's command applies to all disciples. Spread His teaching among all and be ready, as the time of His coming is uncertain. We should watch and be prepared, casting off laziness and negligence. This command is not only for those expecting calamities, but for all who will face judgment. Let us be faithful and escape the sufferings of hell, always ready for the Lord's coming, whether in death or in His personal appearing.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.584685003093414,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+            "commentatorTierSimilarities": [
+                30.83,
+                43.63,
+                25.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:22:15",
+    "verseRef": "Mark 4:21",
+    "bestBHT": {
+        "bht": "Jesus asks whether a candle should be hidden under a bushel or under a bed, rather than being placed on a candlestick. The lamp represents the Gospel, which is designed to give light and should not be concealed. Jesus teaches using parables to shed light on the truth and expects his disciples to understand and impart this knowledge to others. They are to function as lights in the world, openly shining the light of the Gospel to benefit others and bring glory to God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.8727929215748746,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+        "commentatorTierSimilarities": [
+            24.12,
+            42.12,
+            33.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?",
+            "That they which enter in may see the light.",
+            "This is nearly a repetition."
+        ],
+        "Albert Barnes": [
+            "A candle is not lit up to be put immediately under a measure or a bed, where it can give no light. Its design is to give light.\" ",
+            "So my preaching by parables is not designed to obscure the truth, but to throw light on it.",
+            "You should understand those parables, and, understanding them, should impart the truth to others also, as a candle throws its beams upon a dark world."
+        ],
+        "Marvin Vincent": [
+            "Doth the lamp come? This impersonation or investing the lamp with motion is according to Mark's lively mode of narrative\" (Commentary)",
+            "The lamp: the article indicating a familiar household implement\" (Commentary)",
+            "The modius was nearer a peck than a bushel\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Although thus spoken in secret, they were not to remain mysteries, confined to a few; the purpose, as in case of a lamp, was to give light.\"\t",
+            "Hence they should take care to learn their meaning, 'not hiding them under a blunted understanding, nor when they did understand them, neglecting the teaching of them to others' (Alford)."
+        ],
+        "Archibald T. Robertson": [
+            "To put the lamp under the bushel would put it out besides giving no light.\" ",
+            "So as to the bed or table-couch, if it was raised above the floor and liable to be set on fire.\" ",
+            "It is a curious instance of early textual corruption that both Aleph and B, the two oldest and best documents, have 'under the lampstand' instead of 'on the lampstand,' making shipwreck of the sense."
+        ],
+        "John Gill": [
+            "For as the Gospel might be compared to seed, so likewise to a candle, the design and use of which is to give light to men.",
+            "Is it proper that it should be covered with a bushel, or any other hollow vessel? Is it not most fitting and convenient, that it should be set in a candlestick, and then it will be of use to all in the room?",
+            "But that the light of it should be communicated, especially to them his disciples, who were to be the lights of the world, and which were to shine openly before men, for their good, and the glory of his heavenly Father."
+        ],
+        "John Wesley": [
+            "I explain these things to you, I give you this light, not to conceal, but to impart it to others.",
+            "And if I conceal any thing from you now, it is only that it may be more effectually manifested hereafter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus asks the rhetorical question, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick? His message is clear: a lamp is meant to be put on a stand, not hidden away. The lamp represents the Gospel, the light of truth that should be shared with others. Jesus uses parables to shed light on the truth, and he expects his disciples to understand and pass on this knowledge to others. They are meant to be the lights of the world, shining openly before men. Jesus wants the light of the Gospel to be communicated and not concealed, so that it may illuminate the lives of those around them.",
+            "wordCount": 120,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.737019948700844,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                25.85,
+                40.99,
+                33.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus asks, Is a candle brought to be put under a bushel or under a bed, and not to be set on a candlestick? He emphasizes that a lamp is meant to be placed on a stand, not hidden away. The lamp symbolizes the Gospel, which is intended to bring illumination to others. Jesus uses parables to shed light on the truth, and his followers are expected to understand and share this knowledge. They are to be the lights of the world, openly shining the light of the Gospel for all to see and benefit from.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8235747826851623,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.98,
+            "commentatorTierSimilarities": [
+                28.26,
+                40.78,
+                30.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus questions whether a candle is meant to be hidden under a bushel or a bed, rather than being placed on a candlestick, where it can provide light for all to see. The lamp represents the Gospel, which Jesus wants to be shared openly and not concealed. He uses parables to shed light on the truth and expects his disciples to understand and pass on this knowledge. They are to be the lights of the world, spreading the light of the Gospel for the benefit of others and the glory of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.8100062989422168,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                23.6,
+                40.88,
+                35.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus questions whether a candle should be hidden under a bushel or a bed instead of being placed on a candlestick. The lamp symbolizes the Gospel, which is meant to bring light to others. Jesus uses parables to illuminate the truth and expects his disciples to comprehend and share this knowledge. They are meant to be the lights of the world, openly radiating the light of the Gospel for all to see. Jesus desires that the light of the Gospel be shared, not concealed, so it can have a transformative impact on the lives of those around them.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.7702815292741276,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                23.75,
+                41.74,
+                34.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus asks whether a candle should be hidden under a bushel or under a bed, rather than being placed on a candlestick. The lamp represents the Gospel, which is designed to give light and should not be concealed. Jesus teaches using parables to shed light on the truth and expects his disciples to understand and impart this knowledge to others. They are to function as lights in the world, openly shining the light of the Gospel to benefit others and bring glory to God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8727929215748746,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                24.12,
+                42.12,
+                33.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

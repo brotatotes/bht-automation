@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:22:43",
+    "verseRef": "Mark 5:32",
+    "bestBHT": {
+        "bht": "Jesus, aware of the difference between touch and touch, searched the crowd for the woman who had been healed. His purpose was not to find a culprit, but to obtain her testimony of what He had done for her. He sought to commend her faith and actions, while also encouraging others to exercise their own faith in Him. This searching gaze revealed Jesus' well pleasedness in her, and served as a powerful example for Jairus, the ruler of the synagogue, who was in great distress and needed to witness the power of faith firsthand.",
+        "wordCount": 94,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.8478949410470875,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+        "commentatorTierSimilarities": [
+            30.31,
+            24.5,
+            45.19
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32.] Peculiar to Mark, and indicative of an eye-witness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not for the purpose of summoning forth a culprit...",
+            "...to obtain from the healed one a testimony to what He had done for her.",
+            "...to obtain from the healed one a testimony to what He had done for her."
+        ],
+        "Marvin Vincent": [
+            "He looked round about [\u03c0\u03b5\u03c1\u03b9\u03b5\u03b2\u03bb\u03b5\u03c0\u03b5\u03c4\u03bf] . Imperfect tense. He kept looking around for the woman, who had hidden herself in the crowd."
+        ],
+        "Philip Schaff": [
+            "And he looked round about. Peculiar in this form to Mark.",
+            "To see her. This indicates, what is implied in any fair view of the whole transaction, that He knew who had done it."
+        ],
+        "Archibald T. Robertson": [
+            "He kept looking around to find out.",
+            "The answer of Jesus to the protest of the disciples was this scrutinizing gaze.",
+            "Jesus knew the difference between touch and touch."
+        ],
+        "John Gill": [
+            "Christ, as God, being omniscient, knew who she was, and where she was [...] to express his well pleasedness in her faith and actions, and to observe it to others.",
+            "Not in an ostentatious way, to gain glory to himself, but to commend her faith, and encourage others in the exercise of it on him.",
+            "Especially Jairus, the ruler of the synagogue, who was with him, and in great distress, on account of his daughter, whom Christ was going to raise from the dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, having the knowledge of who had touched Him and the understanding of the difference between touch and touch, kept looking around to find the healed woman who had hidden herself in the crowd. This searching gaze was not meant to summon forth a culprit, but to obtain from the healed one a testimony to what He had done for her. His purpose behind looking around was to express his well pleasedness in her faith and actions, and to observe it to others, most importantly Jairus, the ruler of the synagogue, who was in great distress and needed to see the power of faith in action.",
+            "wordCount": 106,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.9992350971311554,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.82,
+            "commentatorTierSimilarities": [
+                30.84,
+                27.19,
+                41.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, aware of the difference between touch and touch, searched the crowd for the woman who had been healed. His purpose was not to find a culprit, but to obtain her testimony of what He had done for her. He sought to commend her faith and actions, while also encouraging others to exercise their own faith in Him. This searching gaze revealed Jesus' well pleasedness in her, and served as a powerful example for Jairus, the ruler of the synagogue, who was in great distress and needed to witness the power of faith firsthand.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8478949410470875,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.78,
+            "commentatorTierSimilarities": [
+                30.31,
+                24.5,
+                45.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, equipped with His omniscience as God, knew the identity and whereabouts of the woman who had touched Him. He looked around, not to display His own glory, but to commend her faith and inspire others to exercise their own faith in Him. This searching gaze was a testament to Jesus' well pleasedness in her actions, and was especially impactful for Jairus, who was deeply troubled and in need of witnessing the power of faith in action as Jesus was about to raise his daughter from the dead.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7783344995338206,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                24.23,
+                22.66,
+                53.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, as an eyewitness, looked around for the healed woman who had concealed herself. His purpose was not to accuse or demand. Rather, He wanted to obtain her testimony about the healing and express His approval of her faith and actions. Jesus' searching gaze revealed His knowledge of who she was and where she was. This not only showcased His omniscience, but also served as an encouragement for others to exercise their faith in Him, particularly Jairus, who was distressed over his daughter's condition and needed to witness the power of faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.797446372324469,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.11,
+            "commentatorTierSimilarities": [
+                31.31,
+                25.69,
+                43.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, fully aware of the difference between touch and touch, persistently searched the crowd to find the healed woman who had hidden herself. His intention was not to accuse or blame, but rather to elicit a testimony from her about what He had done. His thorough scrutiny allowed Him to express His satisfaction with her faith and actions, and served as a powerful example for others, especially Jairus, to witness the significance of exercising faith in Him amidst challenging circumstances such as Jairus' own daughter facing death.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7443810482978996,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                30.02,
+                27.32,
+                42.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

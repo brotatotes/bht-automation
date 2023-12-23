@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:26:46",
+    "verseRef": "Mark 12:10",
+    "bestBHT": {
+        "bht": "This scripture refers to the stone that the builders rejected, which has now become the head of the corner. The rejected stone symbolizes Jesus, the true Messiah, while the builders represent the chief priests, Scribes, and elders. Jesus is exalted above angels and men and is now seated at the right hand of God.",
+        "wordCount": 54,
+        "quoteTokenProportion": 37.84,
+        "qualityScore": 1.834189763752452,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+        "commentatorTierSimilarities": [
+            45.17,
+            0.0,
+            54.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Scripture [\u03b3\u03c1\u03b1\u03c6\u03b7\u03bd] . A passage of scripture : hence frequently this scripture; another scripture; the same scripture. Luke 4:21; John 19:37; Acts 1:16."
+        ],
+        "Archibald T. Robertson": [
+            "This scripture (\u03c4\u03b7\u03bd \u03b3\u03c1\u03b1\u03c6\u03b7\u03bd \u03c4\u03b1\u03c5\u03c4\u03b7\u03bd). This passage of scripture (Luke 4:21; John 19:37; Acts 1:16). It is a quotation from Psalms 118:22. See on Matthew 21:42 for discussion. "
+        ],
+        "John Gill": [
+            "And have ye not read this Scripture?... the stone which the builders rejected, is become the head of the corner.",
+            "By 'the stone' is meant... himself, the true Messiah; and by 'the builders,' the chief priests, Scribes, and elders.",
+            "[Jesus] was to be, and now is become, the head of the corner, exalted above angels and men, at the right hand of God."
+        ],
+        "John Wesley": [
+            "Psalm 118:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Scripture refers to a passage of scripture, and in this case, it is a quotation from Psalm 118:22. This scripture mentions the stone that the builders rejected becoming the head of the corner. The stone signifies Jesus, the true Messiah, while the builders represent the chief priests, Scribes, and elders. Jesus, exalted above angels and men, has now become the head of the corner and is seated at the right hand of God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.202686367986015,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.58,
+            "commentatorTierSimilarities": [
+                50.2,
+                0.0,
+                49.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This scripture refers to the stone that the builders rejected, which has now become the head of the corner. The rejected stone symbolizes Jesus, the true Messiah, while the builders represent the chief priests, Scribes, and elders. Jesus is exalted above angels and men and is now seated at the right hand of God.",
+            "wordCount": 54,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.834189763752452,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                45.17,
+                0.0,
+                54.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This scripture passage from Psalm 118:22 speaks of the stone that the builders rejected, which has now become the head of the corner. The stone represents Jesus, the true Messiah, and the builders symbolize the chief priests, Scribes, and elders. Jesus, having been exalted above angels and men, now occupies the position of honor at the right hand of God.",
+            "wordCount": 59,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 2.0703510605909976,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                47.78,
+                0.0,
+                52.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This scripture quote from Psalm 118:22 reveals the significance of the stone that the builders initially rejected, which has now become the head of the corner. Jesus himself is represented by this stone, symbolizing his role as the true Messiah. Meanwhile, the builders refer to the chief priests, Scribes, and elders. Today, Jesus has been exalted above angels and mankind, occupying the esteemed position at the right hand of God.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8173257711836928,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                48.01,
+                0.0,
+                51.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This scripture quote emphasizes the stone, originally rejected by the builders, that now serves as the head of the corner. Jesus himself is represented by this stone, signifying his role as the true Messiah. The builders refer to the chief priests, Scribes, and elders who failed to recognize Jesus' significance. As a result, Jesus has been exalted above both angels and mankind and now holds the esteemed position at the right hand of God.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.7916094371810978,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.91,
+            "commentatorTierSimilarities": [
+                49.13,
+                0.0,
+                50.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

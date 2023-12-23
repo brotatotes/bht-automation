@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:29:13",
+    "verseRef": "Mark 14:68",
+    "bestBHT": {
+        "bht": "Peter's reply in Mark 14:68 combines two distinct answers, indicating his confusion and fluctuating resolve. The various verbal differences among the Gospel accounts suggest missing information. The mention of the porch, the cock crowing twice, and Peter's denial being fuller in Mark contribute to the authenticity of the narrative. Peter's surprise and confounded state of mind caused him to disassociate from Jesus by denying any association, despite Christ's previous warning.",
+        "wordCount": 73,
+        "quoteTokenProportion": 25.45,
+        "qualityScore": 1.5910203812782637,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.24,
+        "commentatorTierSimilarities": [
+            40.09,
+            30.79,
+            29.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "68.] Peter\u2019s reply is an union of two separate answers, which form the 1st and 2nd in Matthew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I know not, neither understand I what thou sayest\u2014in Luke (Matthew 26:70- :), 'I know Him not.'\" ",
+            "Doubtless by this time his mind would be getting into a sea of commotion, and would fluctuate every moment in its resolves.",
+            "There is here a verbal difference among the Evangelists, which without some information which has been withheld, cannot be quite extricated."
+        ],
+        "Marvin Vincent": [
+            "Porch (proaulion). Only here in New Testament. The vestibule, extending from the outside gate to the court."
+        ],
+        "Philip Schaff": [
+            "Into the porch, or \u2018forecourt,\u2019 a different word from that used by Matthew, but referring to the same place.",
+            "And the cock crew. The first or mid-night crow.",
+            "The insertion of this detail is probably due to Peter\u2019s own recollection."
+        ],
+        "Archibald T. Robertson": [
+            "This denial is fuller in Mark, briefest in John.",
+            "Can be understood as a direct question.",
+            "Mark alone alludes to the cock crowing twice, originally (Mark 14:30), and twice in verse Mark 14:72, besides verse Mark 14:68 which is hardly genuine."
+        ],
+        "John Gill": [
+            "But he denied,.... That he was with Jesus, or a disciple of his:",
+            "saying, I know not; Jesus of Nazareth: neither understand I what thou sayest...\" ",
+            "...being surprised and confounded at such a challenge...",
+            "...he took no notice of it, nor remembered what Christ had but a few hours before said to him: or if he did, he might hope he should not meet with another attack, or he should have more courage and strength than to deny a second time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's response to the accusations against him in Mark 14:68 combines two separate answers, revealing his confusion and the turmoil in his mind. His denial is more fully portrayed in Mark's account, emphasizing the depth of his betrayal. The use of the word porch in describing the location adds to the authenticity of the narrative. The mention of the cock crowing twice suggests Peter's personal recollection of the events, while the differences among the Gospel accounts hint at missing information. Amidst the surprise and confusion, Peter denies being associated with Jesus, failing to recall Christ's earlier warning.",
+            "wordCount": 100,
+            "quoteTokenProportion": 23.88,
+            "qualityScore": 1.516229307115415,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.76,
+            "commentatorTierSimilarities": [
+                33.82,
+                37.81,
+                28.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's response in Mark 14:68 intertwines two answers, reflecting his uncertain state of mind amidst the accusations against him. The variations among the Gospel accounts, along with the mention of the porch and the crowing of the cock, lend credibility to the narrative. Peter's denial is depicted more fully in Mark, underscoring the gravity of his betrayal. Despite Jesus' earlier caution, Peter's surprise and confusion lead him to disassociate himself from Jesus, failing to recall the warning.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.5522347675112709,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                36.07,
+                34.03,
+                29.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's reply in Mark 14:68 combines two distinct answers, indicating his confusion and fluctuating resolve. The various verbal differences among the Gospel accounts suggest missing information. The mention of the porch, the cock crowing twice, and Peter's denial being fuller in Mark contribute to the authenticity of the narrative. Peter's surprise and confounded state of mind caused him to disassociate from Jesus by denying any association, despite Christ's previous warning.",
+            "wordCount": 73,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.5910203812782637,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.24,
+            "commentatorTierSimilarities": [
+                40.09,
+                30.79,
+                29.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's response to the accusations against him merges two separate answers, revealing his mind's commotion and fluctuating resolve. The verbal differences among the Gospel accounts, without the withheld information, add to the complexity of the situation. The reference to the porch and the crowing of the cock, which is twice mentioned in Mark, contribute to the authenticity of the account. Surprised and confounded, Peter denied any association with Jesus, disregarding his earlier warning and hoping to muster the courage to avoid another attack.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.4467769068905818,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.45,
+            "commentatorTierSimilarities": [
+                38.52,
+                27.64,
+                33.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's response in denying his association with Jesus combines two separate answers, pointing to his confusion and wavering resolution. The variations in the Gospel accounts allude to missing information that would clarify the situation. The mention of the porch and the cock crowing twice in Mark's account lends credibility to the narrative. Peter's surprise and confusion led him to disavow any connection to Jesus, disregarding the earlier warning, possibly relying on newfound courage to prevent another confrontation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.4965800039187236,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.1,
+            "commentatorTierSimilarities": [
+                35.63,
+                30.43,
+                33.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

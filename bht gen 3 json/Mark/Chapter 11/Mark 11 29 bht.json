@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-22-2023 23:26:25",
+    "verseRef": "Mark 11:29",
+    "bestBHT": {
+        "bht": "When Jesus says, I will also ask of you one question, it is significant that he uses the word word or thing. This implies that the question he poses is not just a mere rhetorical device, but something of utmost importance. The use of this word prompts us to take Jesus' question seriously and to ponder its deeper meaning.",
+        "wordCount": 59,
+        "quoteTokenProportion": 53.33,
+        "qualityScore": 2.054162096827083,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "I will also ask of you one question; or 'one word', or 'one thing'; \u03bb\u03bf\u03b3\u03bf\u03c2, here answers to the Hebrew word \u05d3\u05d1\u05e8, which signifies both 'word' and 'thing'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus says, I will also ask of you one question, it is significant that he uses the word word or thing. This implies that the question he poses is not just a mere rhetorical device, but something of utmost importance. The use of this word prompts us to take Jesus' question seriously and to ponder its deeper meaning.",
+            "wordCount": 59,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 2.054162096827083,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse in Mark 11:29 presents an intriguing question or matter of importance. The commentators suggest that Jesus's request for an answer can be seen as asking for a one word or one thing response. The significance of this question may lie in the dual meaning of the Greek word used, which can refer to both a word and a thing. This suggests that Jesus is seeking not only a verbal response but also a deeper understanding or demonstration of faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.7374896446797996,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.11,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The passage poses a profound question, emphasizing the significance of a concise and thoughtful reply. The commentators propose that Jesus is seeking not just a verbal response but an answer that encapsulates both word and action. By employing the Greek term meaning both word and thing, Jesus implies a deeper level of understanding is necessary. His intention seems to be to provoke not only a spoken reply but also a demonstration of faith through action.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.3615573327792319,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse at hand presents an intriguing request, emphasizing the significance of a concise reply. The commentators suggest that Jesus is seeking not just a verbal response but an answer that encompasses both word and action. By utilizing the Greek term denoting both word and thing, Jesus implies a deeper level of understanding is required. It seems that Jesus aims to provoke not only a spoken reply but also a demonstration of faith through action.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.3794813733852738,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The passage in question brings forth an intriguing inquiry, underscoring the importance of a concise and thoughtful response. Scholars propose that Jesus is not simply seeking a verbal answer, but rather a comprehensive reply that encompasses both words and actions. By employing a Greek term that signifies both word and thing, Jesus implies a deeper level of comprehension is necessary. It appears that Jesus intends to elicit not only a spoken response but also a manifestation of faith through genuine action.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3925018475797521,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

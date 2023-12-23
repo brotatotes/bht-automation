@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:27:02",
+    "verseRef": "Mark 12:13",
+    "bestBHT": {
+        "bht": "Their plan was to entrap Him into some expression construed as disaffection to the Roman government, knowing the Pharisees were discontented with the Roman yoke. They wanted to catch Him in talk and sent a combination of Pharisees and Herodians to achieve this. They thought they should unavoidably catch Him, just as prey is taken in a net. If He declared against giving tribute to Caesar, the Herodians would accuse Him, and the Pharisees would be witnesses against Him; if He supported it, the Pharisees would expose Him as an enemy to civil liberties.",
+        "wordCount": 94,
+        "quoteTokenProportion": 43.33,
+        "qualityScore": 1.6411489345868162,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+        "commentatorTierSimilarities": [
+            46.67,
+            0.0,
+            53.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Their plan, then, was to entrap Him into some expression which might be construed into disaffection to the Roman government.\" ",
+            "The Pharisees themselves being notoriously discontented with the Roman yoke.",
+            "Tribute to C\u00e6sar."
+        ],
+        "Marvin Vincent": [
+            "Catch [\u03b1\u03b3\u03c1\u03b5\u03c5\u03c3\u03c9\u03c3\u03b9\u03bd] . From agra, hunting, the chase. Hence the picture in the word is that of hunting, while that in Matthew's word, pagideuswsin, is that of catching in a trap. See on Matthew 22:15."
+        ],
+        "Archibald T. Robertson": [
+            "That they might catch him in talk.\" ",
+            "Here alone in the N.T.",
+            "Mark and Matthew note here the combination of Pharisees and Herodians."
+        ],
+        "John Gill": [
+            "These two parties of such different sentiments, they sent to him, to catch him in his words.\" ",
+            "They thought they should unavoidably catch him, one way or another; just as a prey is hunted, and taken in a net or snare.",
+            "If he declared against giving tribute to Caesar, the Herodians would have whereof to accuse him, and the Pharisees would be witnesses against him; and if he should be for it, the latter would expose him among the people, as an enemy to their civil liberties."
+        ],
+        "John Wesley": [
+            "Matthew 22:15; Luke 20:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their plan was to entrap Him into some expression which might be construed into disaffection to the Roman government, knowing that the Pharisees themselves were notoriously discontented with the Roman yoke. They wanted to catch Him in talk and sent a combination of Pharisees and Herodians to achieve this. They thought they should unavoidably catch Him, one way or another, just as a prey is hunted and taken in a net or snare. If He declared against giving tribute to Caesar, the Herodians would have whereof to accuse Him, and the Pharisees would be witnesses against Him; and if He should be for it, the latter would expose Him among the people as an enemy to their civil liberties. (Matthew 22:15; Luke 20:20)",
+            "wordCount": 121,
+            "quoteTokenProportion": 47.44,
+            "qualityScore": 1.674840050905978,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.03,
+            "commentatorTierSimilarities": [
+                36.39,
+                0.0,
+                63.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their plan was to entrap Him into some expression construed as disaffection to the Roman government, knowing the Pharisees were discontented with the Roman yoke. They wanted to catch Him in talk and sent a combination of Pharisees and Herodians to achieve this. They thought they should unavoidably catch Him, just as prey is taken in a net. If He declared against giving tribute to Caesar, the Herodians would accuse Him, and the Pharisees would be witnesses against Him; if He supported it, the Pharisees would expose Him as an enemy to civil liberties.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.6411489345868162,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                46.67,
+                0.0,
+                53.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their plan was to entrap Him by trying to catch Him in talk, aiming to find some expression that could be seen as disaffection towards the Roman government. They knew that the Pharisees, who were notoriously discontented with the Roman yoke, would be witnesses against Him. The Pharisees and Herodians were sent together for this purpose, seeking to expose Him either as an enemy to civil liberties if He supported giving tribute to Caesar, or as an opponent to the Roman rule if He opposed it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.6288275283169398,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                50.04,
+                0.0,
+                49.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their plan was to catch Him in talk and entrap Him by trying to find some expression that could be construed as disaffection towards the Roman government. The combination of Pharisees and Herodians was sent to achieve this goal. They were aware that the Pharisees, being discontented with the Roman yoke, would be witnesses against Him. They sought to expose Him as an enemy to civil liberties if He supported giving tribute to Caesar, or as opposing the Roman rule if He opposed it.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.512505225267329,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                49.77,
+                0.0,
+                50.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their plan was to catch Him in talk and entrap Him by finding an expression that could be construed as disaffection towards the Roman government. The Pharisees, known for their discontent with the Roman yoke, would serve as witnesses against Him. The combination of Pharisees and Herodians was sent for this purpose. If He declared against giving tribute to Caesar, the Herodians would have a basis to accuse Him, and if He supported it, the Pharisees would expose Him as an enemy of civil liberties.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.5427974522483543,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                50.43,
+                0.0,
+                49.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:26:52",
+    "verseRef": "Mark 11:8",
+    "bestBHT": {
+        "bht": "The excited crowds greeted Jesus' entry into the city by laying branches of palm-trees and their own garments along the way. In doing so, they publicly declared Jesus as the Messiah, eagerly anticipating his reign and deliverance. The act of spreading the branches and garments symbolized honor, joy, and the people's expectation of Jesus overthrowing Roman rule and establishing the long-awaited Jewish dominion. Their enthusiastic proclamations of Hosanna reflected their plea for salvation and the conviction that Jesus was the chosen one.",
+        "wordCount": 85,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.315277482141274,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.08,
+        "commentatorTierSimilarities": [
+            34.7,
+            13.34,
+            51.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "branches] called branches of palm-trees, John, ver. 13: the word signifies not merely branches, but branches cut for the purpose of being littered to walk on\" ",
+            "and thus implies the strawing in the way",
+            "which has been unskilfully supplied"
+        ],
+        "Marvin Vincent": [
+            "They threw their garments into the way and spread them there.",
+            "A litter of branches and leaves cut from the fields (only Mark) near by.",
+            "Hosanna. Meaning, O save!"
+        ],
+        "Philip Schaff": [
+            "Killed him, and east him forth out of the vineyard.",
+            "This variation is perhaps a caution against interpreting the details of the parable too closely.",
+            "A caution against interpreting the details of the parable too closely."
+        ],
+        "Archibald T. Robertson": [
+            "The deliberate conduct of Jesus on this occasion could have but one meaning. It was the public proclamation of himself as the Messiah, now at last for his 'hour' has come.",
+            "The excited crowds... fully realize the significance of it all. Hence their unrestrained enthusiasm.",
+            "They expect Jesus, of course, now to set up his rule in opposition to that of Caesar, to drive Rome out of Palestine, to conquer the world for the Jews."
+        ],
+        "John Gill": [
+            "Many spread their garments in the way... in honour to him as a king.",
+            "Others cut down branches off the trees and strawed them in the way... in token of joy, as at the feast of tabernacles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus entered the city, the crowds laid branches of palm-trees and even their own garments along the path, creating a colorful carpet for the Messiah. This deliberate act was a proclamation of Jesus as the awaited Savior, arousing the enthusiastic anticipation of the people. Their actions reflected their belief and expectation that Jesus would establish his own reign, overthrowing Roman rule and fulfilling the long-awaited Jewish dominion. The cries of Hosanna echoed through the air, signifying their plea for salvation. In their excitement, the people eagerly embraced Jesus as their king, spreading their garments and strewing branches as tokens of honor and joy. Through these symbolic acts, the crowds recognized the significance of Jesus' entry and demonstrated their anticipation of the great things to come.",
+            "wordCount": 128,
+            "quoteTokenProportion": 23.75,
+            "qualityScore": 1.2858146135924966,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.1,
+            "commentatorTierSimilarities": [
+                31.67,
+                15.26,
+                53.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus entered the city, the crowds created a path for him by laying branches of palm-trees and their own garments. This deliberate act proclaimed Jesus as the Messiah and excitedly ignited anticipation among the people. Their enthusiasm stemmed from the belief that Jesus would establish his rule, ousting Roman domination and establishing Jewish sovereignty. Their cries of Hosanna and the spreading of garments and branches conveyed honor and joy, signifying their expectation of a victorious and glorious reign.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.2819894445353608,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.97,
+            "commentatorTierSimilarities": [
+                33.64,
+                12.44,
+                53.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The excited crowds greeted Jesus' entry into the city by laying branches of palm-trees and their own garments along the way. In doing so, they publicly declared Jesus as the Messiah, eagerly anticipating his reign and deliverance. The act of spreading the branches and garments symbolized honor, joy, and the people's expectation of Jesus overthrowing Roman rule and establishing the long-awaited Jewish dominion. Their enthusiastic proclamations of Hosanna reflected their plea for salvation and the conviction that Jesus was the chosen one.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.315277482141274,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.08,
+            "commentatorTierSimilarities": [
+                34.7,
+                13.34,
+                51.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The enthusiastic crowds welcomed Jesus by laying branches of palm-trees and garments on the ground, a symbolic act denoting honor, joy, and the anticipation of Jesus as the Messiah. Their shouts of Hosanna expressed their plea for salvation while acknowledging Jesus as the chosen one. This intentional gesture of spreading branches and garments demonstrated their belief in Jesus' ability to establish his reign, overcoming Roman rule and fulfilling the long-awaited Jewish sovereignty. The people's excitement was a clear proclamation of their hope and expectation for Jesus' triumph.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.2809304800453458,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.93,
+            "commentatorTierSimilarities": [
+                35.88,
+                14.08,
+                50.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The excited crowds gladly received Jesus, proclaiming Him as the Messiah. They laid branches of palm-trees and garments, creating a path fit for a king. Their joyful shouts of Hosanna expressed their plea for salvation and anticipation of Jesus' reign. This deliberate act carried rich symbolic meaning, signifying their belief that Jesus would bring deliverance by overthrowing Roman rule and establishing Jewish dominion. The enthusiastic response reflected their hope and expectation for Jesus' victorious and glorious rule.",
+            "wordCount": 78,
+            "quoteTokenProportion": 21.67,
+            "qualityScore": 1.2593294006467426,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.22,
+            "commentatorTierSimilarities": [
+                34.34,
+                16.05,
+                49.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

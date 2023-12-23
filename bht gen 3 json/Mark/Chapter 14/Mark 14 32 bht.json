@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:28:27",
+    "verseRef": "Mark 14:32",
+    "bestBHT": {
+        "bht": "Jesus and his disciples reach Gethsemane, a significant place where Jesus begins to bear the weight of our sins. Matthew 26:36 mentions that Jesus instructs his disciples to sit while he prays, emphasizing the separation and the gravity of the moment. Gethsemane, named for its olive trees, provides the backdrop for Jesus to experience the beginning of his sacrifice. This location holds such importance that the disciples are sent to a specific nearby spot, setting the stage for the profound events that are about to unfold.",
+        "wordCount": 85,
+        "quoteTokenProportion": 30.36,
+        "qualityScore": 1.555894622350433,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+        "commentatorTierSimilarities": [
+            49.42,
+            0.0,
+            50.58
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Gethsemane. See on Matthew 26:36."
+        ],
+        "Archibald T. Robertson": [
+            "Which was named (\u03bf\u03c5 \u03c4\u03bf \u03bf\u03bd\u03bf\u03bc\u03b1). Literally, 'whose name was.'",
+            "On Gethsemane see on Matthew 26:36.",
+            "Matthew adds 'go yonder' (\u03b1\u03c0\u03b5\u03bb\u03b8\u03c9\u03bd \u03b5\u03ba\u03b5)."
+        ],
+        "John Gill": [
+            "And they came to a place which is named Gethsemane,.... At the foot of the Mount of Olives, where the olives, which grew in great plenty on the mount, were pressed: and where our Lord began to be bruised, for our sins:\" ",
+            "and be saith to his disciples: to eight of them: sit ye here while I shall pray; at some distance from hence;"
+        ],
+        "John Wesley": [
+            "Matthew 26:36."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:32, Jesus and his disciples arrive at Gethsemane, a place at the foot of the Mount of Olives. It is here that Jesus instructs eight of his disciples to sit while he goes to pray. The significance of Gethsemane is emphasized, as it is where Jesus begins to experience the burden of the sins he will bear. The disciples are separated from Jesus as he goes to pray, as Matthew 26:36 adds the instruction for them to go to a specific location nearby.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.638136108322779,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                46.26,
+                0.0,
+                53.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At Gethsemane, Jesus and his disciples reach a crucial moment. The name itself reflects the significance of this place, where Jesus starts to bear the weight of our sins. He separates from his disciples, instructing them to sit while he goes to pray. This act hints at the deep burden Jesus is about to face. Matthew 26:36 adds the detail of the disciples being sent to a specific location nearby, further emphasizing the importance of Gethsemane as the beginning of Jesus' ultimate sacrifice.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4997955993703074,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.21,
+            "commentatorTierSimilarities": [
+                51.04,
+                0.0,
+                48.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus and his disciples arrive at Gethsemane, a place of great significance. Gethsemane, named for its abundance of olive trees, becomes the setting where Jesus begins to experience the immense weight of our sins. Instructing eight of his disciples to sit and wait, Jesus goes further away to pray. This separation emphasizes the profound burden he will bear on behalf of humanity. Matthew 26:36 adds the detail of Jesus directing his disciples to a specific location nearby, underscoring the significance of Gethsemane in this pivotal moment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.4732180668197499,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.33,
+            "commentatorTierSimilarities": [
+                49.29,
+                0.0,
+                50.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus and his disciples reach Gethsemane, a significant place where Jesus begins to bear the weight of our sins. Matthew 26:36 mentions that Jesus instructs his disciples to sit while he prays, emphasizing the separation and the gravity of the moment. Gethsemane, named for its olive trees, provides the backdrop for Jesus to experience the beginning of his sacrifice. This location holds such importance that the disciples are sent to a specific nearby spot, setting the stage for the profound events that are about to unfold.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.555894622350433,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                49.42,
+                0.0,
+                50.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus and his disciples arrive at Gethsemane, a place with great significance. As Jesus begins to bear the weight of our sins, the separation is apparent as he instructs eight of his disciples to sit while he goes to pray, as mentioned in Matthew 26:36. Gethsemane's name itself reflects the gravity of this location, where Jesus starts to experience the burden he will endure for humanity. The disciples are sent to a specific nearby location, further emphasizing the critical nature of Gethsemane in this crucial moment.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.448445161090473,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.5,
+            "commentatorTierSimilarities": [
+                48.0,
+                0.0,
+                52.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

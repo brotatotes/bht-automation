@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:22:57",
+    "verseRef": "Mark 5:38",
+    "bestBHT": {
+        "bht": "As the hired mourners cry al-alai, a cacophony of wailing and lamenting for the dead ensues. The noise is filled with the monotonous wail of the mourning women and the clanging of cymbals. In the midst of this chaotic scene, relatives, friends, and neighbors gather, expressing their concern through words and gestures. The mourners play doleful tunes on musical instruments, adding to the atmosphere of grief. Amidst the tumultuous noise, the crowd weeps and wails bitterly, their profound sorrow evident.",
+        "wordCount": 81,
+        "quoteTokenProportion": 23.33,
+        "qualityScore": 1.6347539434550626,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+        "commentatorTierSimilarities": [
+            26.44,
+            30.84,
+            42.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And he cometh\u2014rather, 'they come.'",
+            "'the minstrels and the people making a noise' (Matthew 9:23)",
+            "lamenting for the dead. (See 2 Chronicles 35:25; Jeremiah 9:20; Amos 5:16)."
+        ],
+        "Marvin Vincent": [
+            "Seeth [\u03b8\u03b5\u03c9\u03c1\u03b5\u03b9] . Rev., beholdeth. See on verse 15. ",
+            "Wailing [\u03b1\u03bb\u03b1\u03bb\u03b1\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2] . A descriptive word of the hired mourners crying al - a - lai!"
+        ],
+        "Philip Schaff": [
+            "Mark gives prominence to the noise common in such circumstances; Matthew, to the 'minstrels; 'Luke, to the weeping."
+        ],
+        "Archibald T. Robertson": [
+            "Wailing greatly (\u03b1\u03bb\u03b1\u03bb\u03b1\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c0\u03bf\u03bb\u03bb\u03b1). An onomatopoetic word from Pindar down.\" ",
+            "Used of clanging cymbals (1 Corinthians 13:1).",
+            "Like \u03bf\u03bb\u03bf\u03bb\u03c5\u03b6\u03c9 in James 5:1. It is used here of the monotonous wail of the hired mourners."
+        ],
+        "John Gill": [
+            "And seeing the tumult; the throng and crowd of people, of relations, friends, neighbours, and acquaintance, on this occasion, all in a hurry, and in one motion or another, expressing their concern by words and gestures.",
+            "And them that wept and wailed bitterly; the mourning women, the same with the 'preficae' of the Romans, who sung mournful songs, and made hideous noises, being hired for this purpose.",
+            "As also those who played doleful tunes on musical instruments."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the people gather and the hired mourners cry al-alai, there is a great commotion of wailing and lamenting for the dead. The noise is deafening, filled with the piercing cries of the mourning women and the clanging of cymbals. It is a tumultuous scene, with relatives, friends, and neighbors expressing their concern through their words and gestures. The mourners play doleful tunes on musical instruments, their monotonous wail echoing through the air. In the midst of this chaotic noise, the crowd weeps and wails bitterly, their grief palpable and intense.",
+            "wordCount": 92,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 1.610368725188647,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.89,
+            "commentatorTierSimilarities": [
+                25.0,
+                31.42,
+                43.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the people come together, the hired mourners cry al-alai, creating a cacophony of wailing and lamenting for the dead. Their monotonous wail, like clanging cymbals, fills the air. This noisy commotion consists of relatives, friends, and neighbors expressing their concern through words and gestures. The mourners, playing doleful tunes on musical instruments, add to the chaos. Amidst this tumultuous scene, the crowd weeps and wails bitterly, their grief evident and intense.",
+            "wordCount": 73,
+            "quoteTokenProportion": 20.69,
+            "qualityScore": 1.5082538494511089,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.49,
+            "commentatorTierSimilarities": [
+                26.12,
+                28.1,
+                45.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the people gather, the hired mourners cry al-alai, creating a deafening wail of lamentation for the dead. The noise is filled with the monotonous wails of the mourning women, resembling clanging cymbals. In the midst of this noisy tumult, relatives, friends, and neighbors express their concern through words and gestures. The mourners play doleful tunes on musical instruments, heightening the intensity of the scene. Amidst the chaos, the crowd weeps and wails bitterly, their grief palpable and overwhelming.",
+            "wordCount": 80,
+            "quoteTokenProportion": 21.67,
+            "qualityScore": 1.5833559596377518,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.99,
+            "commentatorTierSimilarities": [
+                26.08,
+                30.06,
+                43.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the hired mourners cry al-alai, a cacophony of wailing and lamenting for the dead ensues. The noise is filled with the monotonous wail of the mourning women and the clanging of cymbals. In the midst of this chaotic scene, relatives, friends, and neighbors gather, expressing their concern through words and gestures. The mourners play doleful tunes on musical instruments, adding to the atmosphere of grief. Amidst the tumultuous noise, the crowd weeps and wails bitterly, their profound sorrow evident.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.6347539434550626,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                26.44,
+                30.84,
+                42.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the hired mourners cry al-alai, a chaotic scene unfolds with a cacophony of wailing and lamenting for the dead. The mourners' monotonous wail, resembling clanging cymbals, fills the air. Amid the commotion, relatives, friends, and neighbors gather, expressing their concern through words and gestures. The mourners accompany the mournful atmosphere with  doleful tunes played on musical instruments. In the midst of this tumultuous noise, the crowd is filled with intense weeping and bitter wailing, reflecting their profound sorrow.",
+            "wordCount": 80,
+            "quoteTokenProportion": 21.31,
+            "qualityScore": 1.6015892126171207,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.6,
+            "commentatorTierSimilarities": [
+                27.3,
+                29.86,
+                42.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

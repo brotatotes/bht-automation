@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:24:53",
+    "verseRef": "Mark 9:10",
+    "bestBHT": {
+        "bht": "After witnessing the transfiguration of Jesus on the mountaintop, the disciples were puzzled by His command to keep the experience to themselves. They began questioning and discussing among themselves the meaning of Jesus' reference to rising from the dead, which had previously eluded them. This account highlights the disciples' growing awareness of the profound truth that Jesus would conquer death through His resurrection. Despite their confusion, they clung to this mysterious saying, pondering and seeking understanding among themselves.",
+        "wordCount": 78,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.5078499494888176,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+        "commentatorTierSimilarities": [
+            54.16,
+            30.08,
+            15.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Probably this particular saying about the resurrection as the limit of their silence about what they had seen on the mount.",
+            "The unexampled fact, now the basis of our faith in a Living Saviour, could not be understood in advance.",
+            "They doubtless continued wondering when and how the time would come when they could speak."
+        ],
+        "Archibald T. Robertson": [
+            "They kept the saying to themselves as Jesus had directed, but questioning among themselves.\" ",
+            "Now they notice his allusion to rising from the dead which had escaped them before."
+        ],
+        "John Gill": [
+            "They retained it in their own mind.\" ",
+            "They took notice of particularly, and laid hold upon.",
+            "They inquired, disputed, and reasoned with one another."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After witnessing the transfiguration of Jesus on the mountaintop, the disciples were puzzled by His command to keep the experience to themselves. As they journeyed down the mountain, they began to discuss among themselves the meaning of Jesus' reference to rising from the dead, a concept that had previously eluded them. This account highlights the disciples' growing awareness of the profound truth that Jesus would conquer death through His resurrection. Despite their confusion, they clung to this mysterious saying, pondering and seeking understanding amongst themselves.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.447848029368894,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.48,
+            "commentatorTierSimilarities": [
+                53.27,
+                32.64,
+                14.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After witnessing the transfiguration of Jesus on the mountaintop, the disciples were puzzled by His command to keep the experience to themselves. They began questioning and discussing amongst themselves the meaning of Jesus' allusion to rising from the dead, a concept that had previously escaped their understanding. This account highlights the disciples' growing awareness of the profound truth that Jesus would conquer death through His resurrection. Despite their confusion, they clung to this mysterious saying, pondering and seeking understanding amongst themselves.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5014457239718664,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                54.36,
+                30.47,
+                15.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After they witnessed the transfiguration of Jesus on the mountain, the disciples kept His command to keep the experience to themselves. However, they couldn't help but question and discuss amongst themselves the meaning of Jesus' reference to rising from the dead, a concept they had failed to comprehend before. This shows their growing awareness of the profound truth that Jesus would conquer death through His resurrection. Despite their confusion, they continued to ponder and seek understanding amongst themselves, eager to comprehend the significance of Jesus' words.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.4935525992441558,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "commentatorTierSimilarities": [
+                53.1,
+                35.36,
+                11.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After witnessing the transfiguration of Jesus on the mountaintop, the disciples were instructed to keep the experience to themselves. However, they couldn't help but question and discuss amongst themselves the meaning of Jesus' reference to rising from the dead, a concept they had previously overlooked. This reveals their growing understanding of the profound truth that Jesus would conquer death through His resurrection. Despite their initial confusion, they held onto this mysterious saying, engaging in dialogue and seeking understanding amongst themselves.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.494293695976375,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                52.18,
+                32.73,
+                15.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After witnessing the transfiguration of Jesus on the mountaintop, the disciples were puzzled by His command to keep the experience to themselves. They began questioning and discussing among themselves the meaning of Jesus' reference to rising from the dead, which had previously eluded them. This account highlights the disciples' growing awareness of the profound truth that Jesus would conquer death through His resurrection. Despite their confusion, they clung to this mysterious saying, pondering and seeking understanding among themselves.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.5078499494888176,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                54.16,
+                30.08,
+                15.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

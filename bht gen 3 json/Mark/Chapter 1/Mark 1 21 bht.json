@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:20:09",
+    "verseRef": "Mark 1:21",
+    "bestBHT": {
+        "bht": "As Jesus settled in Capernaum, He immediately entered the synagogue on the sabbaths and taught. This practice became regular for Him, as the synagogue in Capernaum provided the best opening for His teaching and preaching. Jesus both taught and preached in the Jewish synagogues as opportunity was offered by the leaders. This event marked the beginning of His ministry in Capernaum and preceded other significant events and teachings that would follow. (Luke 4:31)",
+        "wordCount": 72,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 1.986562309113169,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+        "commentatorTierSimilarities": [
+            38.31,
+            25.98,
+            35.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "21.] Not immediately after the preceding. The calling of the Apostles, the Sermon on the Mount, the healing of the leper, and of the centurion\u2019s servant, precede the following miracle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Straightway on the sabbaths He entered into the synagogue and taught.\" ",
+            "The meaning is, that as He began this practice on the very first sabbath after coming to settle at Capernaum, so He continued it regularly thereafter.\" ",
+            "He continued to teach."
+        ],
+        "Philip Schaff": [
+            "This was probably the beginning of our Lord\u2019s ministry in that place.\" ",
+            "The events recorded by Matthew, chaps, Mark 5:1 to Mark 8:13, occurred later.",
+            "Synagogue."
+        ],
+        "Archibald T. Robertson": [
+            "The synagogue in Capernaum afforded the best opening for the teaching of Jesus.",
+            "Jesus both taught and preached in the Jewish synagogues as opportunity was offered by the chief or leader of the synagogue.",
+            "Jesus was a preacher of over a year when he began to teach in the Capernaum synagogue."
+        ],
+        "John Gill": [
+            "immediately, as soon as he entered the city, it being then sabbath day; or, as soon as the sabbath day came, he went to the synagogue at Capernaum",
+            "where the people used to meet weekly to hear the law read, and to be instructed in divine things",
+            "which opportunity Christ laid hold on to preach the Gospel to them, and teach them things concerning the kingdom of God."
+        ],
+        "John Wesley": [
+            "Luke 4:31."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus settled in Capernaum, He wasted no time in beginning His ministry. He immediately entered the synagogue on the sabbath and taught the people. This practice became a regular occurrence for Him, as the synagogue in Capernaum provided the perfect platform for His teaching. Jesus was not only a preacher but also a teacher, taking advantage of opportunities to preach the Gospel and teach about the kingdom of God to the people who gathered in the synagogue. This event signifies the start of His ministry in Capernaum, and it preceded other significant miracles and teachings that would follow. (Luke 4:31)",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.887813454175911,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.11,
+            "commentatorTierSimilarities": [
+                37.0,
+                26.27,
+                36.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus wasted no time in beginning His ministry as He settled in Capernaum. Straightway, on the sabbaths, He entered the synagogue, making it a regular practice of teaching and preaching the Gospel. This synagogue in Capernaum became the best opening for Jesus to instruct the people in divine things. This event marked the start of His ministry in that place and preceded other significant events that would occur later. (Luke 4:31)",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8607680852758746,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                34.24,
+                27.94,
+                37.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus settled in Capernaum, He immediately entered the synagogue on the sabbaths to teach the people. This became a regular practice for Him, and the synagogue in Capernaum provided the best opening for His teaching. Jesus both taught and preached in the Jewish synagogues, taking every opportunity offered by the leaders of the synagogues. This event marked the beginning of His ministry in Capernaum and preceded other significant events and teachings that would follow. (Luke 4:31)",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9709773492296514,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                38.0,
+                26.52,
+                35.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus settled in Capernaum, He wasted no time in beginning His ministry. He immediately entered the synagogue on the sabbath and continued to teach regularly thereafter. The synagogue in Capernaum was the best opportunity for Jesus to teach and preach to the people. He took advantage of the weekly gatherings to proclaim the Gospel and instruct them in divine matters. This marked the beginning of His ministry in Capernaum and preceded other significant events and teachings. (Luke 4:31)",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.8620970455694845,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                36.54,
+                25.77,
+                37.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus settled in Capernaum, He immediately entered the synagogue on the sabbaths and taught. This practice became regular for Him, as the synagogue in Capernaum provided the best opening for His teaching and preaching. Jesus both taught and preached in the Jewish synagogues as opportunity was offered by the leaders. This event marked the beginning of His ministry in Capernaum and preceded other significant events and teachings that would follow. (Luke 4:31)",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.986562309113169,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                38.31,
+                25.98,
+                35.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

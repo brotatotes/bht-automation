@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:22:03",
+    "verseRef": "Mark 4:11",
+    "bestBHT": {
+        "bht": "Discipleship means initiation into the secret of God's kingdom and it will come gradually to those within Jesus' circle of followers. Without the key to understanding the parables, which veil the truth of the kingdom stated in terms of another realm, they are hard to grasp. The purpose of these parables is not to give good moral advice, but to reveal otherwise unknown truths\u2014the peculiar doctrines of the gospel. As for those outside the circle, the mysteries are hidden from them, preventing them from entering the kingdom of God.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 2.076592349911417,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+        "commentatorTierSimilarities": [
+            28.79,
+            39.5,
+            31.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the mysteries\" Matthew and Luke.",
+            "them that are without\" means the multitudes\u2014those out of the circle of his followers.",
+            "In the Epistles, all who are not Christians,\u2014the corresponding meaning for those days,\u2014are designated by it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11, 12. And he said unto them, Unto",
+            "\tyou it is given to know the mystery of the kingdom of God: but unto",
+            "\tthem, &amp;c.\u2014See on :-."
+        ],
+        "Marvin Vincent": [
+            "The phrase means those outside of our circle.",
+            "Its sense is always determined by the contrast to it.",
+            "Matthew (xiii. 11), with less precision, uses simply ejkeinoiv (to them), the pronoun of remote reference."
+        ],
+        "Philip Schaff": [
+            "All the mysteries of the gospel form but one mystery, namely, the mystery of Christ for and in His people.",
+            "These parables are to reveal, not good moral advice, but truth otherwise unknown, the peculiar doctrines of the gospel.",
+            "But their position was according to their own choice; Christ forbade none, and the disciples in this case were not merely the Twelve chosen by Him, but all who would come."
+        ],
+        "Archibald T. Robertson": [
+            "Discipleship means initiation into the secret of God's kingdom and it will come gradually to these men.",
+            "Without the key the parables are hard to understand, for parables veil the truth of the kingdom being stated in terms of another realm.",
+            "If the notion of purpose is preserved in the use of \u03b9\u03bd\u03b1 in Mark and Luke, there is probably some irony also in the sad words of Jesus."
+        ],
+        "John Gill": [
+            "Unto you it is given to know the mystery of the kingdom of God.\" ",
+            "The mysterious doctrines of grace.",
+            "All [these] things are done in parables; are wrapped up in dark sayings, and figurative expressions."
+        ],
+        "John Wesley": [
+            "To them that are without... all obstinate unbelievers: for they shall not enter into his kingdom.\" ",
+            "They shall abide in outer darkness.",
+            "The Jews termed the heathens... so our Lord terms all obstinate unbelievers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Discipleship means initiation into the secret of God's kingdom and it will come gradually to those within the circle of Jesus' followers. Without the key to understanding, the parables are hard to grasp, for they veil the truth of the kingdom being stated in terms of another realm. The mysteries of the gospel form one overarching mystery\u2014Christ for and in His people. The purpose of these parables is not to give good moral advice, but to reveal the otherwise unknown truths, the peculiar doctrines of the gospel. As for those outside the circle, the multitudes and obstinate unbelievers, the mysteries remain hidden and they shall not enter into the kingdom of God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 2.125363080329513,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                26.33,
+                43.05,
+                30.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Discipleship means initiation into the secret of God's kingdom, gradually revealed to those within the circle of Jesus' followers. Without the key to understanding the parables, which veil the truth of the kingdom, they remain difficult to comprehend. These parables reveal the unknown doctrines of the gospel, not just offering moral advice. However, for those outside the circle\u2014multitudes and obstinate unbelievers\u2014the mysteries remain hidden, preventing them from entering the kingdom of God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.0216275412776388,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+            "commentatorTierSimilarities": [
+                26.33,
+                41.2,
+                32.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Discipleship means initiation into the secret of God's kingdom and it will come gradually to those within Jesus' circle of followers. Without the key to understanding the parables, which veil the truth of the kingdom stated in terms of another realm, they are hard to grasp. The purpose of these parables is not to give good moral advice, but to reveal otherwise unknown truths\u2014the peculiar doctrines of the gospel. As for those outside the circle, the mysteries are hidden from them, preventing them from entering the kingdom of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.076592349911417,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.39,
+            "commentatorTierSimilarities": [
+                28.79,
+                39.5,
+                31.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Discipleship means initiation into the secret of God's kingdom, gradually revealed to those within the circle of Jesus' followers. Without the key to understanding, the parables, which veil the truth of the kingdom, are hard to grasp. The purpose of these parables is not to give good moral advice, but to reveal the unknown doctrines of the gospel. However, for those outside the circle\u2014multitudes and obstinate unbelievers\u2014the mysteries remain hidden, preventing them from entering the kingdom of God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.049328341279554,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                27.07,
+                40.95,
+                31.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Discipleship means initiation into the secret of God's kingdom, gradually revealed to those within the circle of Jesus' followers. Without the key to understanding, the parables, which veil the truth of the kingdom, are hard to grasp. For those outside the circle\u2014multitudes and obstinate unbelievers\u2014the mysteries remain hidden, preventing them from entering the kingdom of God. The purpose of the parables is to reveal the unknown doctrines of the gospel, not merely offer moral advice.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.047761130683054,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.43,
+            "commentatorTierSimilarities": [
+                27.51,
+                39.59,
+                32.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

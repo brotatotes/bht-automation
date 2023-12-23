@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:25:02",
+    "verseRef": "Mark 9:9",
+    "bestBHT": {
+        "bht": "The disciples struggled to comprehend Jesus's cryptic mention of rising from the dead, a revelation marked by apostolic authority and connected to his death. The disciples were led through a sequence of events, questioning and disputing among themselves. Although they had experienced a sacred and profound encounter, they were instructed to keep it secret until after the Son of Man's resurrection. This transfiguration, involving Jesus, Moses, Elijah, and a voice from a bright cloud, served as a testament to Christ's divine sonship.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.3886922707741647,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.52,
+        "commentatorTierSimilarities": [
+            31.92,
+            0.0,
+            68.08
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Two remarkable additions occur in our text;\u2014ver. 10, which indicates apostolic authority, and that of one of the Three.",
+            "What the rising from the dead should mean does not refer to the Resurrection generally, but to His Resurrection as connected with his Death.",
+            "The whole was enigmatical to them."
+        ],
+        "Marvin Vincent": [
+            "Mark's word is more graphic than Matthew's eiphte.",
+            "The word is from dia, through, and hJgeomai, to lead the way. Hence to lead one through a series of events : to narrate.",
+            "Questioning. Wyc., asking. Tynd., disputing."
+        ],
+        "Archibald T. Robertson": [
+            "Save when (\u03b5 \u03bc\u03b7 \u03bf\u03c4\u03b1\u03bd). Matthew has 'until' (\u03b5\u03c9\u03c2 \u03bf\u03c5).\" ",
+            "Should have risen (\u03b1\u03bd\u03b1\u03c3\u03c4\u03b7). Second aorist active subjunctive. More exactly, 'should rise' (punctiliar aorist and futuristic, not with any idea of perfect tense).\" ",
+            "It was a high and holy secret experience that the chosen three had had for their future good and for the good of all."
+        ],
+        "John Gill": [
+            "He ordered to keep the whole of this a secret from every man, even from their fellow disciples...\" ",
+            "...till the Son of man were risen from the dead.",
+            "...the transfiguration of himself, the persons of Moses and Elias, and the bright cloud from whence the voice came, which bore testimony of Christ's sonship..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were perplexed by Jesus's enigmatic statement about rising from the dead, not truly understanding the depth of its meaning. Mark's vivid word choice paints a clearer picture of how the disciples were led through a series of events, almost narrating the confusion and questioning that arose among them. Though the disciples had experienced a high and holy secret revelation for their future benefit, they were instructed to keep it to themselves until the Son of Man had risen. This transfiguration encounter, involving Jesus, Moses, Elijah, and a voice from a bright cloud, testified to Christ's sonship.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.3740834895540202,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.03,
+            "commentatorTierSimilarities": [
+                33.3,
+                0.0,
+                66.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples struggled to comprehend Jesus's cryptic mention of rising from the dead, a revelation marked by apostolic authority and connected to his death. The disciples were led through a sequence of events, questioning and disputing among themselves. Although they had experienced a sacred and profound encounter, they were instructed to keep it secret until after the Son of Man's resurrection. This transfiguration, involving Jesus, Moses, Elijah, and a voice from a bright cloud, served as a testament to Christ's divine sonship.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.3886922707741647,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.52,
+            "commentatorTierSimilarities": [
+                31.92,
+                0.0,
+                68.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples, perplexed by Jesus's enigmatic words about rising from the dead, were led through a series of events, questioning and disputing among themselves. Jesus's instruction to keep their experience a secret until after his resurrection highlighted the significance of their sacred encounter. This transfiguration, involving Jesus, Moses, and Elijah, served as a testimony to Christ's divine identity. The disciples, though struggling to fully grasp the message, were entrusted with this profound revelation for their own growth and the benefit of all.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.349502178612008,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.21,
+            "commentatorTierSimilarities": [
+                34.02,
+                0.0,
+                65.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were puzzled by Jesus's enigmatic statement about rising from the dead and were led through a sequence of perplexing events. Jesus instructed them to keep their sacred encounter a secret until after his resurrection, emphasizing its profound significance. This transfiguration, with Jesus, Moses, and Elijah, bore witness to Christ's divine sonship. Despite their confusion, the disciples were entrusted with this powerful experience for their own growth and the greater good of all.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.309199998501047,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.87,
+            "commentatorTierSimilarities": [
+                33.92,
+                0.0,
+                66.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Perplexed by Jesus's enigmatic mention of rising from the dead, the disciples engaged in questioning and disputing, trying to understand its meaning. Jesus ordered them to keep their sacred encounter a secret until after his resurrection, underscoring its profound importance. The transfiguration, featuring Jesus, Moses, and Elijah, served as a testimony to Christ's divine sonship. Although the disciples may have been puzzled, they were entrusted with this transformative experience for their personal growth and the benefit of others.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.2993144893340878,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.55,
+            "commentatorTierSimilarities": [
+                33.06,
+                0.0,
+                66.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

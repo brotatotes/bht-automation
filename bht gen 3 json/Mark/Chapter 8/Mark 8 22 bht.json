@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:24:56",
+    "verseRef": "Mark 8:22",
+    "bestBHT": {
+        "bht": "Arriving in Bethsaida, Jesus is met by a crowd that brings a blind man to Him, imploring Him to touch him. This particular account is exclusively recorded in Mark's gospel, underscoring the significant nature of the event. Interestingly, Jesus chooses to heal the blind man gradually, demonstrating His freedom in His methods. This blind man serves as a symbol for those who are spiritually blind, devoid of awareness of their sinful condition and the need for Christ's salvation and grace.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.518137959445447,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+        "commentatorTierSimilarities": [
+            18.51,
+            41.47,
+            40.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And he cometh to Bethsaida\u2014Bethsaida Julias, on the northeast side of the lake, whence after this He proceeded to C\u00e6sarea Philippi.\" ",
+            "And they bring a blind man unto him, and besought him to touch him."
+        ],
+        "Albert Barnes": [
+            "The healing of the blind man of Bethsaida is recorded only by Mark.",
+            "Besought him to touch him - That is, to heal him, for they believed that his touch would restore his sight.",
+            "They bring a blind man unto him."
+        ],
+        "John Calvin": [
+            "Christ restored sight to the blind man, not in an instant, as he was generally accustomed to do, but in a gradual manner.",
+            "He did so most probably for the purpose of proving, in the case of this man, that he had full liberty as to his method of proceeding.",
+            "And so the grace of Christ, which had formerly been poured out suddenly on others, flowed by drops, as it were, on this man."
+        ],
+        "Philip Schaff": [
+            "Our Lord did not intend to remain there; He was seeking retirement, to prepare His disciples for the future.",
+            "A blind man. Probably not born blind.",
+            "To touch him, as though the touch was necessary to heal him."
+        ],
+        "Archibald T. Robertson": [
+            "Bethsaida Julias.\" ",
+            "Note dramatic presents they come, they bring.",
+            "This incident in Mark alone."
+        ],
+        "John Gill": [
+            "This man is an emblem of such who are spiritually blind: he had no natural sight at all; he could see nothing; he had not the least glimmering of any thing, until he was touched by Christ.",
+            "So men, in a state of nature, are quite dark, even darkness itself, until they are made light by the Lord: they have no sight, nor sense of themselves, of their sinful, lost, and dangerous estate and condition they are in.",
+            "They have no sight of Christ, neither of the glory of his person, nor of the fulness of his grace, nor of the nature, necessity, and suitableness of his salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus arrives in Bethsaida, accompanied by his disciples, a blind man is brought to him, and the people fervently request Jesus to touch him. This account is unique to Mark's gospel, emphasizing the dramatic nature of the event and the specific location. The blind man's gradual healing reveals Christ's freedom in his healing methods, as he restores the man's sight drop by drop. Symbolically, this blind man represents those who are spiritually blind, lacking any understanding of their sinful state or knowledge of Christ. Just as the blind man needed Christ's touch to see, so too do men in their natural condition require the illumination of God's grace to perceive the glory of Christ and the salvation he offers.",
+            "wordCount": 126,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.4420384689250567,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                16.43,
+                39.27,
+                44.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus arrives in Bethsaida, a blind man is brought to him, with the people urgently requesting Jesus to touch him. This incident, unique to Mark, highlights the dramatic nature of the event. The gradual healing of the blind man demonstrates Christ's freedom in his healing methods, as he restores the man's sight drop by drop. Symbolically, the blind man represents those who are spiritually blind, lacking the understanding of their sinful state and the knowledge of Christ's salvation and grace.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.4931676845068262,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.99,
+            "commentatorTierSimilarities": [
+                21.62,
+                39.4,
+                38.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Arriving in Bethsaida, Jesus is met by a crowd that brings a blind man to Him, imploring Him to touch him. This particular account is exclusively recorded in Mark's gospel, underscoring the significant nature of the event. Interestingly, Jesus chooses to heal the blind man gradually, demonstrating His freedom in His methods. This blind man serves as a symbol for those who are spiritually blind, devoid of awareness of their sinful condition and the need for Christ's salvation and grace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.518137959445447,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.82,
+            "commentatorTierSimilarities": [
+                18.51,
+                41.47,
+                40.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Bethsaida, Jesus is brought a blind man, and the crowd fervently requests Him to touch the man for healing. This incident, exclusively found in Mark's gospel, showcases the dramatic nature of the event. The gradual restoration of the blind man's sight reveals Jesus' freedom in choosing His healing approach. Symbolically, this blind man represents those who are spiritually blind, lacking awareness of their sinful state and ignorance of the glory of Christ's salvation and grace.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.4402029139766779,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.23,
+            "commentatorTierSimilarities": [
+                18.27,
+                41.62,
+                40.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Arriving in Bethsaida, Jesus is approached by a crowd bringing a blind man and urgently asking Him to touch him. This unique event in Mark's gospel emphasizes the intense nature of the situation. Rather than instantaneously healing the blind man, Jesus intentionally restores his sight gradually, showcasing His freedom to choose His method. Symbolically, the blind man represents those spiritually blind, lacking perception of their sinful condition and the revelation of Christ's glory and salvation. Only through the touch of Christ can they receive spiritual sight and understanding.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.4351658376036702,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.06,
+            "commentatorTierSimilarities": [
+                18.89,
+                39.78,
+                41.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

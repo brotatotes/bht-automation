@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:28:09",
+    "verseRef": "Mark 14:2",
+    "bestBHT": {
+        "bht": "Due to the two million people gathered in Jerusalem for the festival, the religious leaders were concerned about the potential for a dangerous uproar if they were to seize Jesus during the feast. They had previously planned to kill him at the feast, but the unexpected offer of Judas allowed them to delay their plans. The divine counsel brought their plans to fruition, as Jesus was too popular and had a large following. They decided to wait until after the feast to execute their plan, ensuring that there would be no disruption among the people.",
+        "wordCount": 95,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 1.3536583744122785,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.35,
+        "commentatorTierSimilarities": [
+            48.65,
+            5.82,
+            45.53
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In consequence of the vast influx of strangers, embracing all the male population of the land who had reached a certain age, there were within the walls of Jerusalem at this festival some two million people; and in their excited state, the danger of tumult and bloodshed among 'the people,' who for the most part took Jesus for a prophet, was extreme.\" ",
+            "What plan, if any, these ecclesiastics fixed upon for seizing our Lord, does not appear. But the proposal of Judas being at once and eagerly gone into, it is probable they were till then at some loss for a plan sufficiently quiet and yet effectual. So, just at the feast time shall it be done; the unexpected offer of Judas relieving them of their fears.",
+            "Thus, as BENGEL remarks, did the divine counsel take effect."
+        ],
+        "Philip Schaff": [
+            "Mark 14:2. Lest haply there shall be a tumult. The form indicates expectation that this would certainly result.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They had first planned to kill him at the feast, but the Triumphal Entry and great Tuesday debate had made them decide to wait till after the feast was over.",
+            "It was plain that Jesus had too large and powerful a following.",
+            "See on Matthew 26:47."
+        ],
+        "John Gill": [
+            "But they said not on the feast day... and therefore they did not choose to seize him, and put him to death at that time.\" ",
+            "Lest there should be an uproar of the people; or among them, lest they should rise in his favour, and rescue him out of their hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Due to the two million people gathered in Jerusalem for the festival, the religious leaders were concerned about the potential for a dangerous uproar if they were to seize Jesus during the feast. They had previously planned to kill him at the feast, but the unexpected offer of Judas allowed them to delay their plans. The divine counsel brought their plans to fruition, as Jesus was too popular and had a large following. They decided to wait until after the feast to execute their plan, ensuring that there would be no disruption among the people.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.3536583744122785,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.35,
+            "commentatorTierSimilarities": [
+                48.65,
+                5.82,
+                45.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Due to the vast crowd gathered in Jerusalem for the festival, the religious leaders were concerned about potential chaos if they were to seize Jesus during the feast. Their original plan was to kill him at the feast, but the unexpected offer of Judas relieved them of their fears. With Jesus' growing popularity and large following, they decided to wait until after the feast to execute their plan and avoid any potential uproar among the people. The divine counsel orchestrated these events according to God's plan.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.2795845449421483,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.89,
+            "commentatorTierSimilarities": [
+                50.04,
+                8.24,
+                41.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With a staggering number of people gathered in Jerusalem for the festival, the religious leaders feared the risk of chaos if they were to seize Jesus during the feast. Initially, they intended to kill Him at the feast but were relieved when Judas offered his assistance. Realizing Jesus' increasing popularity and powerful following, they wisely chose to postpone their plans until after the feast to prevent a potential uprising among the people. These circumstances were orchestrated by divine counsel, aligning with God's sovereign plan.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.3073743680362633,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.81,
+            "commentatorTierSimilarities": [
+                46.81,
+                12.73,
+                40.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the vast crowd that had gathered in Jerusalem for the festival, the religious leaders were concerned about the potential for turmoil if they were to seize Jesus during the feast. While their original plan was to kill Him at the feast, the unexpected offer of Judas allowed them to delay their intentions. Recognizing Jesus' immense popularity and substantial following, they decided to wait until after the feast to execute their plot, thereby avoiding any potential uprising among the people. This divine orchestration fulfilled God's plan.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.291635140436528,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.29,
+            "commentatorTierSimilarities": [
+                49.48,
+                11.82,
+                38.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders found themselves in a predicament as they contemplated the arrest of Jesus during the festival. The immense crowd of two million people created a heightened risk of chaos and violence. Although they initially planned to kill Jesus at the feast, the unexpected offer from Judas allowed them to postpone their scheme. With Jesus' popularity and influential following, they wisely decided to wait until after the feast, thus averting any potential uproar among the people. This divine intervention aligned with God's sovereign plan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.1443367039943528,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.39,
+            "commentatorTierSimilarities": [
+                52.13,
+                12.46,
+                35.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

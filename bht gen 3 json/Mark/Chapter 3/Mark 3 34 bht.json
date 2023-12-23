@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:21:32",
+    "verseRef": "Mark 3:34",
+    "bestBHT": {
+        "bht": "Jesus' outstretched hand towards his disciples, as mentioned by eyewitnesses, serves as a compelling detail testifying to the authenticity and diversity of the recorded accounts. By stating that those who do God's will are his family, Jesus emphasizes the spiritual relationship he shares with his followers, surpassing any earthly ties. The presence of his hostile brothers only adds poignancy to his words. In this context, one can't help but empathize with Mary, who must depart without witnessing the marvels of her extraordinary Son.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.4491365915580636,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+        "commentatorTierSimilarities": [
+            58.2,
+            0.0,
+            41.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He stretched forth his hand upon his disciples.",
+            "Both accounts were from eye-witnesses, the one noticing the outstretched hand; the other, the look cast round.",
+            "Deeply interesting are such particulars, the more so, as shewing the way in which the records arose, and their united strength derived from their independence and variety."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus calls those who do the will of God his mother, brothers, and sisters.",
+            "The brothers were hostile and that gives point to the tragic words of Jesus.",
+            "One's heart goes out to Mary who has to go back home without even seeing her wondrous Son."
+        ],
+        "John Gill": [
+            "Behold my mother and my brethren: not in a natural, but in a spiritual sense; his mother, because, in regeneration, he was formed in them.\" ",
+            "His brethren, because, by adoption, his God was their God, his Father their Father."
+        ],
+        "John Wesley": [
+            "Behold my mother and my brethren - In this preference of his true disciples even to the Virgin Mary, considered merely as his mother after the flesh, he not only shows his high and tender affection for them.",
+            "He seems designedly to guard against those excessive and idolatrous honours.",
+            "He foresaw would in after ages be paid to her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 3:34, we see Jesus extending his hand towards his disciples, a detail provided by eyewitnesses. This act, along with his declaration that those who do God's will are his family, collectively demonstrate the strength and independence of the records. Jesus' words take on added significance when we consider that his brothers were hostile towards him, highlighting the tragic nature of their relationship. Meanwhile, we can't help but empathize with Mary, who is unable to witness her Son's wonders in person. Ultimately, Jesus uses this occasion to emphasize the spiritual bond he shares with his disciples, revealing the true extent of their relationship as his mother and brethren in a spiritual sense.",
+            "wordCount": 115,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 1.4584198678318059,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+            "commentatorTierSimilarities": [
+                54.6,
+                0.0,
+                45.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, we witness Jesus reaching out to his disciples, a gesture that holds significant meaning. The inclusion of these specific details, as reported by multiple eyewitnesses, attests to the authenticity and strength of the accounts. By proclaiming those who do God's will as his true family, Jesus distinguishes the spiritual bond he shares with his followers. This distinction becomes even more poignant when considering the strained relationship he had with his earthly brothers, adding depth to his words. It is impossible not to feel for Mary, who must return home without having seen her remarkable Son.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3253517223743936,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.41,
+            "commentatorTierSimilarities": [
+                57.86,
+                0.0,
+                42.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' outstretched hand towards his disciples, as mentioned by eyewitnesses, serves as a compelling detail testifying to the authenticity and diversity of the recorded accounts. By stating that those who do God's will are his family, Jesus emphasizes the spiritual relationship he shares with his followers, surpassing any earthly ties. The presence of his hostile brothers only adds poignancy to his words. In this context, one can't help but empathize with Mary, who must depart without witnessing the marvels of her extraordinary Son.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.4491365915580636,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.53,
+            "commentatorTierSimilarities": [
+                58.2,
+                0.0,
+                41.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' outstretched hand upon his disciples, as noted by eyewitnesses, reveals fascinating details about the origin and strength of the records. It signifies the independent and varied nature of the accounts, alluding to their authenticity. Furthermore, Jesus' declaration that those who do God's will are his family highlights the profound spiritual connection shared with his followers. Conversely, the presence of his hostile brothers imparts a tragic undertone to his words. Our hearts go out to Mary, who returns home without witnessing the wonders of her remarkable Son.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.29,
+            "qualityScore": 1.3471388549533443,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.14,
+            "commentatorTierSimilarities": [
+                62.83,
+                0.0,
+                37.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reaching out with his hand towards his disciples, as witnessed by those present, serves as a significant detail demonstrating the origin and credibility of the records. It showcases their independence and richness. Jesus's words, calling those who do God's will his family, carry weight and highlight the strained relationship he had with his earthly brothers. The absence of Mary, unable to see her wondrous Son, elicits compassion. It becomes clear that Jesus emphasizes a spiritual bond with his disciples beyond any natural connections.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.3997663457160212,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.89,
+            "commentatorTierSimilarities": [
+                59.32,
+                0.0,
+                40.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

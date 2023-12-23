@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:23:13",
+    "verseRef": "Mark 6:15",
+    "bestBHT": {
+        "bht": "Some people believed that the man in question was a prophet, but not the ultimate Prophet they were waiting for. Others thought he might be Elijah, while some believed he was simply a prophet like those of old. These opinions were based on popular beliefs, and it's unclear where the Evangelist found this expression. Nonetheless, the consensus was that this man was indeed a prophet, not inferior to the prophets of old.",
+        "wordCount": 73,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 2.2202811622963856,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+        "commentatorTierSimilarities": [
+            25.83,
+            32.57,
+            41.6
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "(He is) a prophet as one of the prophets;\u2014i. e. in their meaning, 'He is not The Prophet for whom all are waiting, but only some prophet like those who have gone before.'",
+            "Where did our Evangelist get this remarkable expression, in his supposed compilation from Matthew and Luke?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15. Others said, That it is Elias.",
+            "\tAnd others, That it is a prophet, or as one of the prophets\u2014(See",
+            "\ton :-)."
+        ],
+        "Philip Schaff": [
+            "The current popular opinions are here given and not what was said to Herod.\" ",
+            "A prophet as one of the prophets. The meaning is: A prophet like the old prophets."
+        ],
+        "John Gill": [
+            "Others said that it is Elias... of many of the Jews, who expected that Elias the Tishbite would come in person, before the coming of the Messiah.",
+            "Others said, that it is a prophet: or 'the prophet', that was to come, whom Moses had spoken of.",
+            "This new prophet lately raised up, is as one of the old prophets, Isaiah, Jeremiah, and others."
+        ],
+        "John Wesley": [
+            "A prophet, as one of the prophets \u2014 Not inferior to one of the ancient prophets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some people believed that the man in question was a prophet, but not the ultimate Prophet they were waiting for. Others thought he might be Elijah, while some believed he was simply a prophet like those of old. These opinions were based on popular beliefs, and it's unclear where the Evangelist found this expression. Nonetheless, the consensus was that this man was indeed a prophet, not inferior to the prophets of old.",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.2202811622963856,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                25.83,
+                32.57,
+                41.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some people believed that Jesus was a prophet, but not the Prophet they were expecting. This view held that he was just like the prophets of old, not a unique figure. There were also those who thought he might be Elijah or another prophet who had returned. These various opinions reflect the confusion and speculation surrounding Jesus' identity. It is interesting to consider where the author of Mark obtained this particular expression, as it differs from what is found in Matthew and Luke. Ultimately, the consensus among the people was that Jesus was a prophet, on par with the great prophets of the past. But their understanding was limited and did not fully grasp the true significance of who Jesus was.",
+            "wordCount": 121,
+            "quoteTokenProportion": 46.91,
+            "qualityScore": 1.8873400246911185,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                27.78,
+                32.82,
+                39.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some believed Jesus was a prophet, but not the awaited Prophet. They saw him as a prophet like those before him. Others speculated that he might be Elijah or another returning prophet. These differing opinions highlight the confusion surrounding Jesus' identity. The author of Mark included this unique expression, distinct from Matthew and Luke. Ultimately, the general consensus was that Jesus was a prophet, esteemed like the great prophets of the past. However, their understanding fell short, failing to comprehend the true significance of Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8909708726423746,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                27.14,
+                31.9,
+                40.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some believed Jesus to be a prophet but not the awaited Prophet, considering him merely as one of the prophets from the past. There were also suggestions that he might be Elijah or another prophet returning. These diverse opinions reveal the confusion surrounding Jesus' true identity. The author of Mark deliberately included this distinct expression, which differs from the accounts in Matthew and Luke. Ultimately, the prevailing consensus was that Jesus was a prophet held in high regard, yet their understanding fell short of recognizing his true significance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.8829359626875002,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                27.84,
+                31.91,
+                40.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some regarded Jesus as a prophet but not as the long-awaited Prophet. They considered him to be on par with the prophets of old. Others speculated that he might be Elijah or another prophet making a return. These various views reflect the confusion surrounding Jesus' true identity. The author of Mark included this distinctive expression, which is different from what is found in Matthew and Luke. Ultimately, the prevailing belief was that Jesus was a highly esteemed prophet, yet they did not fully comprehend the profound significance of his being.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.887434938696087,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                28.05,
+                31.22,
+                40.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

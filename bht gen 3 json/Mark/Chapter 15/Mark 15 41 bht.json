@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:29:47",
+    "verseRef": "Mark 15:41",
+    "bestBHT": {
+        "bht": "These faithful women were last at the Cross as they stood afar and saw the dreadful end to all their hopes. Our Evangelist mentions that they had accompanied Him to Jerusalem and that they followed and ministered to Him when He was in Galilee. They were in the habit of supporting and serving Jesus during His ministry, along with many other women. These women not only followed Him, but also provided Him with necessaries, ministering unto Him of their worldly substance. Their dedication to Jesus is evident in their presence at the Cross, even when their hopes seemed shattered.",
+        "wordCount": 99,
+        "quoteTokenProportion": 51.56,
+        "qualityScore": 1.5861496898088674,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+        "commentatorTierSimilarities": [
+            52.13,
+            0.0,
+            47.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Evangelist mentions that they had accompanied Him to Jerusalem.",
+            "We may observe a curious variation of the wording, in 'followed Him when He was in Galilee,' and 'followed Jesus from Galilee'\u2014the former rendering necessary the additional clause.",
+            "Which came up with Him."
+        ],
+        "Marvin Vincent": [
+            "Followed - ministered [\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u03c5\u03bd\u03b4\u03b9\u03b7\u03ba\u03bf\u03bd\u03bf\u03c5\u03bd] . Both imperfects : were in the habit, accustomed to."
+        ],
+        "Archibald T. Robertson": [
+            "Followed him and ministered unto him (\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u03c5\u03bd \u03ba\u03b1 \u03b4\u03b9\u03b7\u03ba\u03bf\u03bd\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03c9). Two imperfects describing the long Galilean ministry of these three women and many other women in Galilee",
+            "This summary description in Mark is paralleled in Matthew 27:55 and Luke 23:49.",
+            "These faithful women were last at the Cross as they stood afar and saw the dreadful end to all their hopes."
+        ],
+        "John Gill": [
+            "Who also, when he was in Galilee, followed him.... and ministered unto him.\" ",
+            "[They] ministered unto him of their worldly substance.",
+            "Many other women which came up with him into Jerusalem."
+        ],
+        "John Wesley": [
+            "Who served him \u2014 Provided him with necessaries."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There were faithful women who not only followed Jesus when He was in Galilee but also came up with Him to Jerusalem. These women were in the habit of ministering to Him, supporting Him with their worldly substance. They stood by the Cross, witnessing the horrific end to all their hopes. Their devotion and service to Jesus, both in Galilee and in Jerusalem, exemplify their unwavering commitment to Him.",
+            "wordCount": 69,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.5078414249662528,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                45.53,
+                0.0,
+                54.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These faithful women had followed Jesus and ministered to Him during His ministry in Galilee, and now they were present at His crucifixion, witnessing the tragic end to their hopes. It is worth noting the slight variation in wording, with some translations stating that these women accompanied Jesus to Jerusalem, emphasizing their loyalty and commitment to Him. These women, along with many others, not only followed Him but also provided for Him materially, serving Him with their worldly possessions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.5469210890803018,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.78,
+            "commentatorTierSimilarities": [
+                52.23,
+                0.0,
+                47.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These faithful women, who had followed Jesus and ministered to Him during His ministry in Galilee, were now present at His crucifixion, standing afar and witnessing the dreadful end to all their hopes. The Evangelist mentions that they had accompanied Jesus to Jerusalem, emphasizing their loyalty and commitment to Him. They not only followed Him in Galilee but also served Him, ministering to Him of their worldly substance. These women were joined by many others who came up with Him to Jerusalem, all serving Him and providing for Him during his time on earth.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.6421339963133517,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                45.23,
+                0.0,
+                54.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These faithful women, who had followed Jesus and ministered to Him during His ministry in Galilee, were now present at His crucifixion, standing afar and witnessing the dreadful end to all their hopes. They accompanied Jesus to Jerusalem, emphasizing their loyalty to Him. They not only followed Him but also served Him, ministering to His needs. Along with many others, they provided for Him from their worldly possessions.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 1.526657180071588,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.1,
+            "commentatorTierSimilarities": [
+                41.76,
+                0.0,
+                58.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These faithful women were last at the Cross as they stood afar and saw the dreadful end to all their hopes. Our Evangelist mentions that they had accompanied Him to Jerusalem and that they followed and ministered to Him when He was in Galilee. They were in the habit of supporting and serving Jesus during His ministry, along with many other women. These women not only followed Him, but also provided Him with necessaries, ministering unto Him of their worldly substance. Their dedication to Jesus is evident in their presence at the Cross, even when their hopes seemed shattered.",
+            "wordCount": 99,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 1.5861496898088674,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                52.13,
+                0.0,
+                47.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

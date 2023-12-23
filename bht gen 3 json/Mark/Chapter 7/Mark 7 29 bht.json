@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:24:28",
+    "verseRef": "Mark 7:29",
+    "bestBHT": {
+        "bht": "Amazed by the woman's great faith, Jesus commended her for her quick and bright response. He marveled only at faith and unbelief, and in that very moment, the devil was gone from her daughter. By casting out the devil, Jesus fulfilled the woman's request, granting her peace. It was a call worth answering, even if it meant sacrificing his rest, because her words carried the power to bring about the desired outcome.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.439628889854162,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.21,
+        "commentatorTierSimilarities": [
+            41.63,
+            18.65,
+            39.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "O woman, great is thy faith.",
+            "Jesus 'marvelled' only at two things\u2014faith and unbelief.",
+            "For this saying go thy way; the devil is gone out of thy daughter\u2014That moment the deed was done."
+        ],
+        "Philip Schaff": [
+            "Mark 7:29. For this saying. As an evidence of her faith.",
+            "\t",
+            " The demon is gone out. As He spoke, the miracle was performed (Matthew 15:28).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "She had faith, great faith as Matthew 15:28 shows.",
+            "It was her quick and bright repartee that pleased Jesus.",
+            "He had missed his rest, but it was worth it to answer a call like this."
+        ],
+        "John Gill": [
+            "For with the blessing of this word, the devil is gone out of thy daughter.",
+            "Go thy way; in peace, thy request is granted; it is as thou wouldst have it.",
+            "Christ, who as God is every where, and whose divine power reaches to all places, persons, and things had, in a secret and powerful manner, cast the devil out of this woman's daughter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, marveling at the woman's great faith, commended her saying. It was her quick and bright response that pleased him, for she had faith\u2014great faith\u2014as evident from her words. In that very moment, as Jesus spoke, the miracle occurred. The devil was gone out of her daughter. With a simple command, Jesus, whose divine power reaches all places and things, had cast the devil out, granting the woman's request and giving her peace. It was a call worth answering, even if it meant missing some rest.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.335104610668744,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.74,
+            "commentatorTierSimilarities": [
+                40.53,
+                20.75,
+                38.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, amazed by the woman's great faith, praised her saying. It was her quick and sharp response that pleased him. In that very instant, as Jesus spoke, the miracle happened. The devil was expelled from her daughter. With a single word, Jesus, whose divine power reaches every place, person, and thing, had cast out the devil, fulfilling the woman's request and granting her peace. It was a call worth answering, even if it meant sacrificing his rest.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.32882670808707,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.53,
+            "commentatorTierSimilarities": [
+                42.57,
+                19.53,
+                37.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amazed by the woman's great faith, Jesus commended her for her quick and bright response. He marveled only at faith and unbelief, and in that very moment, the devil was gone from her daughter. By casting out the devil, Jesus fulfilled the woman's request, granting her peace. It was a call worth answering, even if it meant sacrificing his rest, because her words carried the power to bring about the desired outcome.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.439628889854162,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.21,
+            "commentatorTierSimilarities": [
+                41.63,
+                18.65,
+                39.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, impressed by the woman's great faith, praised her for her response. It was her quick and bright repartee that pleased him. In that moment, as Jesus spoke, the devil was gone out of her daughter. With his divine power, Jesus had cast out the devil, granting the woman's request and giving her peace. It was a call worth answering, even if it meant missing his rest. Her words carried the power to bring about the desired outcome.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.3319323667343792,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.63,
+            "commentatorTierSimilarities": [
+                44.86,
+                18.24,
+                36.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amazed by the woman's great faith, Jesus commended her, saying, O woman, great is thy faith. He marveled at only two things, faith and unbelief. With her quick and bright repartee, the woman pleased Jesus, and in that moment, as Jesus spoke, the devil left her daughter. By declaring her trust in him, Jesus granted her request and brought peace. Despite forsaking his rest, it was a call worth answering, considering the power her words held.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.3793998555943137,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "commentatorTierSimilarities": [
+                48.19,
+                20.09,
+                31.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

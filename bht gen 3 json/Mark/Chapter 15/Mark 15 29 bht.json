@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:30:00",
+    "verseRef": "Mark 15:29",
+    "bestBHT": {
+        "bht": "The mocking cries of Ah! The Latin vah! Destroyest echoed, the same word used in ancient games for applause. It seemed to be applied ironically to our Lord, perhaps with reproach. Thou that destroyest the temple... and buildest it in three days, they jeered, mocking His power. But now, where was their bravado? These words serve as a reminder of the futility of boasting and the transient nature of human pride. (Matthew 27:39)",
+        "wordCount": 72,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.189222283622034,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.89,
+        "commentatorTierSimilarities": [
+            29.53,
+            36.79,
+            33.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Ah! [\u03bf\u03c5\u03b1] . The Latin vah! ",
+            "Destroyest. The same word as at Mark 13:2."
+        ],
+        "Philip Schaff": [
+            "Ah. The Greek word is the one used in the ancient games, as a shout of applause.",
+            "Here it seems to be applied ironically to our Lord.",
+            "But it might have been an expression of reproach."
+        ],
+        "John Gill": [
+            "Ah! thou that destroyest the temple... and buildest it in three days.\" ",
+            "Thou poor vain miserable creature, that boasted of thy power, where art thou now?\" ",
+            "And what dost thou think of thyself?"
+        ],
+        "John Wesley": [
+            "Matthew 27:39."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Ah! The Latin vah! Destroyest. The same word as at Mark 13:2. Ah. The Greek word is the one used in the ancient games, as a shout of applause. Here it seems to be applied ironically to our Lord. But it might have been an expression of reproach. Ah! thou that destroyest the temple... and buildest it in three days. Thou poor vain miserable creature, that boasted of thy power, where art thou now? And what dost thou think of thyself? (Matthew 27:39).",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.1501713472376471,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.59,
+            "commentatorTierSimilarities": [
+                33.74,
+                32.69,
+                33.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mocking cries of Ah! The Latin vah! Destroyest echoed, the same word used in ancient games for applause. It seemed to be applied ironically to our Lord, perhaps with reproach. Thou that destroyest the temple... and buildest it in three days, they jeered, mocking His power. But now, where was their bravado? These words serve as a reminder of the futility of boasting and the transient nature of human pride. (Matthew 27:39)",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.189222283622034,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.89,
+            "commentatorTierSimilarities": [
+                29.53,
+                36.79,
+                33.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The derisive cries of Ah! The Latin vah! Destroyest resounded, with the same word used in ancient games for applause. It appears to be an ironic application, perhaps meant as reproach. Thou that destroyest the temple... and buildest it in three days, they scornfully uttered, belittling His power. Where is their vainglory now? These words remind us of the emptiness of boasting and the fleeting nature of human arrogance. (Matthew 27:39)",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.1721402218419958,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.32,
+            "commentatorTierSimilarities": [
+                33.98,
+                32.74,
+                33.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mocking cries of Ah! The Latin vah! Destroyest echoed, the same word used in ancient games for applause. It seemed to be applied ironically to our Lord, perhaps with reproach. Thou that destroyest the temple... and buildest it in three days, they jeered, mocking His power. But now, where was their bravado? These words serve as a reminder of the futility of boasting and the transient nature of human pride. (Matthew 27:39)",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.189222283622034,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.89,
+            "commentatorTierSimilarities": [
+                29.53,
+                36.79,
+                33.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Ah! The Latin vah! Destroyest, echoed mockingly, the same word used in ancient games for applause. It seemed to be applied ironically to our Lord, perhaps with reproach. Thou that destroyest the temple... and buildest it in three days, they jeered, mocking His power. But now, where was their bravado? These words serve as a reminder of the futility of boasting and the transient nature of human pride. (Matthew 27:39)",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.1326639674240806,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.0,
+            "commentatorTierSimilarities": [
+                30.51,
+                35.14,
+                34.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

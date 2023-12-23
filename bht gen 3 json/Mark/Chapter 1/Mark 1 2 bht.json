@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:20:10",
+    "verseRef": "Mark 1:2",
+    "bestBHT": {
+        "bht": "The citation in Mark 1:2 is from two prophets, Isaiah and Malachi, and it is interesting to note that the Western and Neutral classes read Isaiah, while the Alexandrian and Syrian read 'the prophets.' However, Isaiah is mentioned as the chief of the prophets. John the Baptist is referred to as a messenger, emphasizing the importance and significance of his message. The prophecy in Malachi is recognized by some Jewish writers as a prophecy of the Messiah, highlighting the message that John the Baptist was sent to proclaim.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 1.884895219731929,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+        "commentatorTierSimilarities": [
+            43.78,
+            0.0,
+            56.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The citation here is from two prophets, Isa. and Mal.\" ",
+            "See reff.",
+            "The fact will not fail to be observed by the careful and honest student of the Gospels."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2, 3. As it is written in the",
+            "\tprophets, Behold, I send my messenger before thy face, which shall",
+            "\tprepare thy way before thee\u2014 (Malachi 3:1;",
+            "\tIsaiah 40:3)."
+        ],
+        "Archibald T. Robertson": [
+            "The Western and Neutral classes read Isaiah, the Alexandrian and Syrian, 'the prophets,' an evident correction because part of it is from Malachi.\" ",
+            "But Isaiah is mentioned as the chief of the prophets.\" ",
+            "This is Mark's only prophetic quotation on his own account."
+        ],
+        "John Gill": [
+            "John the Baptist is here called a messenger, and the message he was sent and came with, was of the greatest moment and importance, and required the closest attention to it.",
+            "The reason of his being called the messenger of God, may be observed in the text itself, 'behold, I send': the words in Malachi are by us rendered, 'behold, I will send'... for the greater elucidation of the matter.",
+            "That the prophecy in Malachi here cited, is a prophecy of the Messiah, is owned by several Jewish writers... who expressly say, that those words which follow, 'the Lord whom ye seek', are to be understood of the king Messiah."
+        ],
+        "John Wesley": [
+            "Malachi 3:1"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The citation in Mark 1:2 is from two prophets, Isaiah and Malachi, and it is interesting to note that the Western and Neutral classes read Isaiah, while the Alexandrian and Syrian read 'the prophets'. However, Isaiah is mentioned as the chief of the prophets. John the Baptist is referred to as a messenger, emphasizing the importance and significance of his message. The prophecy in Malachi is recognized by some Jewish writers as a prophecy of the Messiah. This verse serves as Mark's only prophetic quotation on his own account, highlighting the message that John the Baptist was sent to proclaim. ",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8452587065071193,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "commentatorTierSimilarities": [
+                44.45,
+                0.0,
+                55.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The citation in Mark 1:2 is from two prophets, Isaiah and Malachi, and it is interesting to note that the Western and Neutral classes read Isaiah, while the Alexandrian and Syrian read 'the prophets.' However, Isaiah is mentioned as the chief of the prophets. John the Baptist is referred to as a messenger, emphasizing the importance and significance of his message. The prophecy in Malachi is recognized by some Jewish writers as a prophecy of the Messiah, highlighting the message that John the Baptist was sent to proclaim.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.884895219731929,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                43.78,
+                0.0,
+                56.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The citation in Mark 1:2 is from two prophets, Isaiah and Malachi. John the Baptist is referred to as a messenger, emphasizing the importance of his message. It is interesting to note that the Western and Neutral classes read Isaiah, while the Alexandrian and Syrian read 'the prophets.' However, Isaiah is mentioned as the chief of the prophets. The prophecy in Malachi is recognized by some Jewish writers as a prophecy of the Messiah, highlighting the significance of John the Baptist's role in preparing the way.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.8604759318023851,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                45.38,
+                0.0,
+                54.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark 1:2 quotes from the prophets Isaiah and Malachi. It is interesting to note that while some classes read Isaiah, others read 'the prophets.' John the Baptist is referred to as a messenger, emphasizing the importance of his message. The prophecy in Malachi is recognized as pertaining to the Messiah by some Jewish writers. This verse serves as Mark's only prophetic quotation and underscores the significance of John the Baptist's role in preparing the way for Jesus.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.7580779931962394,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                41.96,
+                0.0,
+                58.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark 1:2 references the prophets Isaiah and Malachi. John the Baptist is depicted as a messenger, signifying the importance of his message. It is noteworthy that different classes of readers prefer either Isaiah or 'the prophets' as the source. Nevertheless, Isaiah is identified as the chief among the prophets. Some Jewish writers acknowledge the prophecy in Malachi as relating to the Messiah. This verse stands as Mark's lone independent prophetic quotation, accentuating the significance of John the Baptist's role in paving the way for Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7296234519926488,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                43.45,
+                0.0,
+                56.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

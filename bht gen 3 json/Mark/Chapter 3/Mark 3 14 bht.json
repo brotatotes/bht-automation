@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:21:02",
+    "verseRef": "Mark 3:14",
+    "bestBHT": {
+        "bht": "The disciples were appointed by Jesus to be princes in the new Israel, marked by a double ministry of preaching and healing. To prepare them, they had to be constantly with Him, witnessing his teachings and miracles. Only through this intimate discipleship did they become Apostles, ready to be sent forth for the work they were chosen for.",
+        "wordCount": 58,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.700058114046818,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+        "commentatorTierSimilarities": [
+            25.71,
+            44.98,
+            29.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "14.] The literal sense of the word rendered ordained is made: i.e. nominated,\u2014set apart. We have here the most distinct intimation of any, of the reason of this appointment."
+        ],
+        "Marvin Vincent": [
+            "Ordained [\u03b5\u03c0\u03bf\u03b9\u03b7\u03c3\u03b5\u03bd] . Lit., made. Rev., appointed. ",
+            "Might send them forth [\u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03bb\u03b7] . As apostles. Compare the kindred noun ajpostoloi, apostles."
+        ],
+        "Philip Schaff": [
+            "The best preparation for doing Christ's work is being with Christ.",
+            "The discipleship was the main point while Christ lived.",
+            "Only through the direct choice of the Master to the most intimate discipleship, did they become Apostles."
+        ],
+        "Archibald T. Robertson": [
+            "They were to be princes in the new Israel.",
+            "The very word \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2 is from \u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03bb\u03bb\u03c9.",
+            "This double ministry of preaching and healing was to mark their work."
+        ],
+        "John Gill": [
+            "That they should be with him; constantly, in private and in public; be taken into his family, and reckoned such; be his familiars, and privy to all his affairs; hear all his discourses, and see his miracles...",
+            "...that so they might be trained up and fitted for the great work he designed them for.",
+            "...after they had been with him some time, and were better qualified for such service, he sent them forth..."
+        ],
+        "John Wesley": [
+            "Matthew 10:2; Luke 6:13; Acts 1:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were not just any ordinary followers of Jesus; they were specifically chosen and appointed by Him. The word appointed suggests that they were set apart and made princes in the new Israel. This appointment involved a double ministry of preaching and healing, which would distinguish their work. The disciples had to be with Jesus, not only to witness His teachings and miracles, but also to be trained and prepared for the important task that lay ahead. Through this intimate discipleship, they would eventually become Apostles.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.6415063823417693,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.92,
+            "commentatorTierSimilarities": [
+                32.23,
+                42.45,
+                25.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were appointed and set apart by Jesus to be princes in the new Israel. This appointment involved a double ministry of preaching and healing, which would mark their work. To prepare them for this important task, they had to be with Jesus constantly, witnessing his teachings and miracles. Only through this intimate discipleship did they become Apostles, ready to be sent forth to fulfill the purpose for which they were chosen.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.6584814823424354,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+            "commentatorTierSimilarities": [
+                28.03,
+                43.87,
+                28.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were appointed by Jesus to be princes in the new Israel, marked by a double ministry of preaching and healing. To prepare them, they had to be constantly with Him, witnessing his teachings and miracles. Only through this intimate discipleship did they become Apostles, ready to be sent forth for the work they were chosen for.",
+            "wordCount": 58,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.700058114046818,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.87,
+            "commentatorTierSimilarities": [
+                25.71,
+                44.98,
+                29.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus appointed the disciples, setting them apart as princes in the new Israel. Their appointment involved a double ministry of preaching and healing, distinguishing their work. To prepare them for this task, Jesus required their constant companionship, where they would witness his teachings and miracles. Through this intimate discipleship, they would become Apostles, ready to be sent forth to fulfill the purpose for which they were chosen.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.6252435552725975,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+            "commentatorTierSimilarities": [
+                30.81,
+                40.91,
+                28.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus appointed the disciples, making them princes in the new Israel. Their appointment involved a double ministry of preaching and healing, marking their work. To prepare them, Jesus required their constant companionship, where they would witness his teachings and miracles. Through this intimate discipleship, they would become Apostles, ready to be sent forth for the task they were chosen for.",
+            "wordCount": 60,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6377052184659222,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                29.76,
+                41.52,
+                28.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

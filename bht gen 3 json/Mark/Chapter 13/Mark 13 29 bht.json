@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:27:48",
+    "verseRef": "Mark 13:29",
+    "bestBHT": {
+        "bht": "Know that the kingdom of God is nigh, even at the doors. It is in the process of coming to pass, bringing with it redemption from the oppressions and miseries of the present state. This could refer to the imminent destruction of Jerusalem or the imminent coming of the Son of Man to take vengeance on it. Alternatively, it could signify a glorious display of Christ's kingly power in the destruction of his enemies and the spread of his Gospel in the Gentile world.",
+        "wordCount": 85,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 1.5363637715185345,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+        "commentatorTierSimilarities": [
+            46.76,
+            0.0,
+            53.24
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Know that it - the kingdom of God - is nigh, even at the doors.",
+            "For till then it admitted of no full development.",
+            "Redemption from all the oppressions and miseries of the present state at the second appearing of the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "Come to pass [\u03b3\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd\u03b1] . The present participle, and therefore better as Rev., coming to pass; in process of fulfilment."
+        ],
+        "John Gill": [
+            "Know that it, or he is nigh, even at the doors.\" ",
+            "Either that the destruction of Jerusalem is near; or that the son of man is just ready to come to take vengeance on it; or as Luke says, Luke 21:31, the kingdom of God is nigh at hand.",
+            "Or a more glorious display of the kingly power of Christ, in the destruction of his enemies, and a greater spread of his Gospel in the Gentile world."
+        ],
+        "John Wesley": [
+            "He is nigh \u2014 The Son of man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Know that the kingdom of God is nigh, even at the doors. It is in the process of coming to pass, bringing with it redemption from the oppressions and miseries of the present state. This could refer to the imminent destruction of Jerusalem or the imminent coming of the Son of Man to take vengeance on it. Alternatively, it could signify a glorious display of Christ's kingly power in the destruction of his enemies and the spread of his Gospel in the Gentile world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.5363637715185345,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+            "commentatorTierSimilarities": [
+                46.76,
+                0.0,
+                53.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Know that the kingdom of God is nigh - even at the doors. It is in the process of fulfilment, bringing redemption from the present state's oppressions and miseries. This could refer to the upcoming destruction of Jerusalem or the imminent vengeance of the Son of Man on it. Alternatively, it could signify a magnificent display of Christ's kingly power in destroying his enemies and spreading the Gospel among the Gentiles.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.4695919717863408,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.21,
+            "commentatorTierSimilarities": [
+                45.11,
+                0.0,
+                54.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Know that the kingdom of God is nigh, even at the doors. It is in the process of coming to pass, bringing with it redemption from the oppressions and miseries of the present state. This could refer to the imminent destruction of Jerusalem or the imminent coming of the Son of Man to take vengeance on it. Alternatively, it could signify a glorious display of Christ's kingly power in the destruction of his enemies and the spread of his Gospel in the Gentile world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.5363637715185345,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+            "commentatorTierSimilarities": [
+                46.76,
+                0.0,
+                53.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Know that the kingdom of God is nigh - even at the doors. It is in the process of fulfilment, bringing redemption from the present state's oppressions and miseries. This could refer to the upcoming destruction of Jerusalem or the imminent vengeance of the Son of Man on it. Alternatively, it could signify a magnificent display of Christ's kingly power in destroying his enemies and spreading the Gospel among the Gentiles.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.4695919717863408,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.21,
+            "commentatorTierSimilarities": [
+                45.11,
+                0.0,
+                54.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Know that the kingdom of God is nigh, even at the doors. It is in the process of coming to pass, bringing with it redemption from the oppressions and miseries of the present state. This could refer to the imminent destruction of Jerusalem or the imminent coming of the Son of Man to take vengeance on it. Alternatively, it could signify a glorious display of Christ's kingly power in the destruction of his enemies and the spread of his Gospel in the Gentile world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.5363637715185345,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.43,
+            "commentatorTierSimilarities": [
+                46.76,
+                0.0,
+                53.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

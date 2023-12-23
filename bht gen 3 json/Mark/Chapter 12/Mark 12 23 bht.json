@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:27:03",
+    "verseRef": "Mark 12:23",
+    "bestBHT": {
+        "bht": "When the Sadducees posed their question about marriage in the resurrection, they were not asking specifically about whose wife she would be of the seven, but rather about when the wife and the seven brothers would rise. The woman in question was considered the lawful wife of each brother according to the law, so why would one brother have a special claim to her above the others? Jesus' response corrects their misconception by affirming that in the resurrection, there is no marriage, but those who are raised are like angels in heaven.",
+        "wordCount": 92,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 1.7874760542721675,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.78,
+        "commentatorTierSimilarities": [
+            39.0,
+            0.0,
+            61.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23.] when they shall rise does not here mean, \u2018when men (the dead) shall rise,\u2019 but when they (the wife and seven brothers) shall rise: see on ver. 25."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "23. In the resurrection therefore",
+            "\twhen they shall rise, &amp;c."
+        ],
+        "Archibald T. Robertson": [
+            "To wife (\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03b1). Predicate accusative in apposition with \"her\" (\u03b1\u03c5\u03c4\u03b7\u03bd). So Luke, but Matthew merely has \"had her\" (\u03b5\u03c3\u03c7\u03bf\u03bd \u03b1\u03c5\u03c4\u03b7\u03bd), constative aorist indicative active. "
+        ],
+        "John Gill": [
+            "In the resurrection therefore, when they shall rise...in the resurrection of the dead I will raise thee.",
+            "The question put on supposition of a resurrection...whose wife shall she be of them? of the seven brethren.",
+            "She was, according to the law, the lawful wife of all seven; what particular and special claim could one have to her above the rest?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the Sadducees posed a question about marriage in the resurrection, they were not asking whose wife she would be of the seven, but rather, when the wife and the seven brothers would rise. The woman in question was considered the lawful wife of each brother according to the law, so why would one brother have a special claim to her above the others? Jesus' response highlights the misconception about the nature of the resurrection and marriage. He affirms that in the resurrection, there is no marriage, but rather all are like angels in heaven.",
+            "wordCount": 95,
+            "quoteTokenProportion": 55.0,
+            "qualityScore": 1.6420440407780479,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                38.55,
+                0.0,
+                61.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Sadducees posed their question about marriage in the resurrection, they were not asking specifically about whose wife she would be of the seven, but rather about when the wife and the seven brothers would rise. The woman in question was considered the lawful wife of each brother according to the law, so why would one brother have a special claim to her above the others? Jesus' response corrects their misconception by affirming that in the resurrection, there is no marriage, but those who are raised are like angels in heaven.",
+            "wordCount": 92,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.7874760542721675,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.78,
+            "commentatorTierSimilarities": [
+                39.0,
+                0.0,
+                61.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the Sadducees questioned Jesus about marriage in the resurrection, they were not asking whose wife she would be, but rather when they would all rise. The woman had been the lawful wife of each brother, so there was no special claim for one above the others. Jesus clarifies that in the resurrection, there is no marriage, and those who are raised are like the angels in heaven.",
+            "wordCount": 68,
+            "quoteTokenProportion": 64.0,
+            "qualityScore": 1.6896591536887966,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.52,
+            "commentatorTierSimilarities": [
+                39.24,
+                0.0,
+                60.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Mark 12:23, the concept of rising in the resurrection is not referring to the dead rising, but rather to the wife and the seven brothers. The question posed in the resurrection is whose wife she will be out of the seven brothers. According to the law, she was the lawful wife of all seven, so it is unclear which brother would have a special claim to her. This verse highlights the complexity and intricacies of marriage in the resurrection.",
+            "wordCount": 79,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.7986335570545666,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.15,
+            "commentatorTierSimilarities": [
+                38.94,
+                0.0,
+                61.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The idea presented in this passage is that in the resurrection, there arises a question about the wife and her relationship with the seven brothers. As the lawful wife of all seven, it becomes uncertain which brother could have a particular and unique claim to her. This situation highlights the intricate and complex nature of marriage in the context of resurrection.",
+            "wordCount": 61,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.4622079556038212,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+            "commentatorTierSimilarities": [
+                35.39,
+                0.0,
+                64.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

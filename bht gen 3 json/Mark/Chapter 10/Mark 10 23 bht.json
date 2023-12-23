@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:25:51",
+    "verseRef": "Mark 10:23",
+    "bestBHT": {
+        "bht": "As the wealthy man departed, Jesus cast his gaze upon the Twelve, desiring to ascertain the impact of the encounter upon them. With a look that conveyed his earnest sadness, he proceeded to impart a significant lesson about the arduousness with which a rich man can enter the kingdom of God. The Gospel dispensation embraces all, including those who possess riches, imploring them to embrace its doctrines and submit to its ordinances.",
+        "wordCount": 72,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.2071204780137181,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.48,
+        "commentatorTierSimilarities": [
+            30.04,
+            19.44,
+            50.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 10:23. Looked round. A second look of Jesus, in earnest sadness, we may well suppose.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "To see what impression the incident had made on the Twelve.",
+            "When the man was gone the Lord's eye swept round the circle of the Twelve, as he drew for them the lesson of the incident.",
+            "With difficulty (\u03b4\u03c5\u03c3\u03ba\u03bf\u03bb\u03c9\u03c2) shall a rich man."
+        ],
+        "John Gill": [
+            "How hardly shall they that have riches enter into the kingdom of God!\" ",
+            "The Gospel dispensation, by embracing the doctrines, and submitting to the ordinances of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the wealthy man walked away, Jesus turned his gaze towards the Twelve, wanting to know how they were affected by the encounter. His look conveyed a sense of deep sadness and he began to teach them the valuable lesson that difficult it is for the rich to enter the kingdom of God. The Gospel dispensation seeks to embrace all, including those with wealth, encouraging them to embrace its teachings and submit to its ordinances.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.0843984424769133,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.4,
+            "commentatorTierSimilarities": [
+                33.26,
+                15.31,
+                51.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the man departed, Jesus turned his gaze towards the Twelve, seeking to discern the impact of the encounter on their hearts. His solemn look expressed a profound sense of concern as he proceeded to impart a vital teaching about the challenges faced by the wealthy in entering the kingdom of God. The Gospel dispensation extends its embrace to all, including those who possess material abundance, urging them to wholeheartedly embrace its teachings and faithfully submit to its sacred ordinances.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 0.965708961392921,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.45,
+            "commentatorTierSimilarities": [
+                31.22,
+                18.21,
+                50.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the wealthy man departed, Jesus cast his gaze upon the Twelve, desiring to ascertain the impact of the encounter upon them. With a look that conveyed his earnest sadness, he proceeded to impart a significant lesson about the arduousness with which a rich man can enter the kingdom of God. The Gospel dispensation embraces all, including those who possess riches, imploring them to embrace its doctrines and submit to its ordinances.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.2071204780137181,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.48,
+            "commentatorTierSimilarities": [
+                30.04,
+                19.44,
+                50.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After the wealthy man left, Jesus turned his gaze towards the Twelve, curiosity evident as he sought to discern the impression the incident had left on them. With a contemplative look, he began to teach them the profound lesson woven within the encounter, emphasizing the difficulty that a rich man faces in obtaining entry into the kingdom of God. Within the Gospel dispensation, all are welcome, even those who possess great riches, as they are encouraged to embrace its doctrines and submit to its holy ordinances.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.1718441313639079,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.31,
+            "commentatorTierSimilarities": [
+                34.71,
+                17.14,
+                48.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon the departure of the wealthy man, Jesus turned his gaze towards the Twelve, eager to gauge their response to the incident. His concerned look reflected a deep understanding of the challenges faced by the rich in entering the kingdom of God. The Gospel dispensation extends its arms to embrace those with wealth, urging them to accept its teachings and comply with its divine ordinances. Jesus's poignant lesson resounds in his solemn admonition that entering God's kingdom is a difficult path for the prosperous.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.0811783802314543,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.29,
+            "commentatorTierSimilarities": [
+                31.17,
+                19.2,
+                49.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

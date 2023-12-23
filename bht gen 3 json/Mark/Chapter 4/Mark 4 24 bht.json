@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:22:07",
+    "verseRef": "Mark 4:24",
+    "bestBHT": {
+        "bht": "As much attention as you give, so much knowledge shall be served out to you, teaching us the important principle that the more we invest ourselves in listening and understanding what we hear, the more knowledge we will receive. We should carefully consider the things we allow ourselves to hear, making sure to focus on what is worth hearing. If we heed what we hear and faithfully communicate it to others, we can expect a larger measure and greater degree of spiritual knowledge to be bestowed upon us.",
+        "wordCount": 88,
+        "quoteTokenProportion": 47.46,
+        "qualityScore": 2.1581198697571238,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.1,
+        "commentatorTierSimilarities": [
+            32.82,
+            29.5,
+            37.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "more shall be given unto you, more shall be added, i.e. more knowledge: as much attention as you give, so much knowledge shall be served out to you, and not only so much, but even more.\" ",
+            "with what measure ye measure your attention, with the same shall knowledge be measured to you.",
+            "as much attention as you give, so much knowledge shall be served out to you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Take heed what ye hear\u2014In Luke ( :-) it is, 'Take heed how ye hear.' The one implies the other, but both precepts are very weighty.",
+            "with what measure ye mete, it shall be measured to you\u2014See on :-.",
+            "unto you that hear\u2014that is, thankfully, teachably, profitably, shall more be given."
+        ],
+        "Albert Barnes": [
+            "Take heed what ye hear - Or, consider well what you hear. Make a good improvement of it.",
+            "You shall be treated according to the use you make of your opportunities of learning.",
+            "To you who are 'attentive,' and who improve what you hear."
+        ],
+        "Philip Schaff": [
+            "What we hear really depends on how we hear.",
+            "Giving and receiving are reciprocal.",
+            "The promise of increased knowledge is certainly given to those who faithfully teach in God's kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "Some things should not be heard at all for they besmirch the mind and heart.",
+            "What is worth hearing should be heard rightly and heeded.",
+            "With what measure."
+        ],
+        "John Gill": [
+            "Take heed what you hear: diligently attend to it, seek to understand it, and lay it up in your minds and memories, that it may be of use to you in time to come, and you may be useful in communicating it to others.",
+            "If the disciples carefully hearkened to what they heard from Christ, and studiously laboured to understand it, and faithfully dispensed it to others, in return, a larger measure, and greater degree of spiritual knowledge, would be bestowed upon them.",
+            "That hear so as to understand, keep, and make a good use of what they hear, more shall be communicated to them; they shall have an increase of knowledge in the doctrines of grace, and mysteries of the Gospel."
+        ],
+        "John Wesley": [
+            "Take heed what ye hear, attend to what you hear, that it may have its due influence upon you.",
+            "With what measure you mete, according to the improvement you make of what you have heard, still farther assistance shall be given.",
+            "And to you that hear, with improvement."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As much attention as you give, so much knowledge shall be served out to you, teaching us the important principle that the more we invest ourselves in listening and understanding what we hear, the more knowledge we will receive. We should carefully consider the things we allow ourselves to hear, making sure to focus on what is worth hearing, amidst the noise that can easily besmirch our minds and hearts. It is not just about what we hear, but how we hear it, with a teachable and thankful heart. If we heed what we hear and faithfully communicate it to others, we can expect a larger measure and greater degree of spiritual knowledge to be bestowed upon us.",
+            "wordCount": 118,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.044264359000042,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+            "commentatorTierSimilarities": [
+                32.24,
+                30.61,
+                37.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As much attention as you give, so much knowledge shall be served out to you, teaching us the important principle that the more we invest ourselves in listening and understanding what we hear, the more knowledge we will receive. We should carefully consider the things we allow ourselves to hear, making sure to focus on what is worth hearing. If we heed what we hear and faithfully communicate it to others, we can expect a larger measure and greater degree of spiritual knowledge to be bestowed upon us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.1581198697571238,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.1,
+            "commentatorTierSimilarities": [
+                32.82,
+                29.5,
+                37.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As much attention as you give, so much knowledge shall be served out to you, teaching us that the measure of our attention determines the measure of knowledge we receive. We should be mindful of what we hear, avoiding things that may negatively impact our minds and hearts. By heeding what we hear with understanding and gratitude, and faithfully sharing it with others, we can expect an increase in spiritual knowledge. Our receptiveness and application of what we hear determines the measure of further assistance we receive.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.8377462727078875,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                34.04,
+                27.74,
+                38.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The principle of as much attention as you give, so much knowledge shall be served out to you reminds us that our receptiveness and engagement with what we hear directly impacts the knowledge we gain. It is crucial to discern and prioritize what deserves our attention, filtering out harmful influences. By actively listening with a teachable and thankful heart, faithfully applying and sharing what we learn, we can expect an increase in spiritual understanding. Our continued growth is determined by the measure of our attentiveness and application of what we hear.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.6694433766028542,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.85,
+            "commentatorTierSimilarities": [
+                33.65,
+                29.11,
+                37.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "According to the principle of as much attention as you give, so much knowledge shall be served out to you, we are reminded that our receptiveness and engagement with what we hear directly impact our acquisition of knowledge. We should carefully consider what we listen to, choosing to focus on valuable information and disregarding that which may tarnish our minds and hearts. By heeding what we hear with understanding and gratitude, faithfully applying it to our lives and sharing it with others, we create the conditions for spiritual growth and the deepening of our understanding.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.7370459145995616,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.1,
+            "commentatorTierSimilarities": [
+                32.68,
+                28.05,
+                39.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

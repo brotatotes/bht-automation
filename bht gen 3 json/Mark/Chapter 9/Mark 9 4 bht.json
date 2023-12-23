@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:24:54",
+    "verseRef": "Mark 9:4",
+    "bestBHT": {
+        "bht": "Both Elijah and Moses, prophets who dealt with the law and experienced mysterious deaths, appear together in this account. Elijah seems to have a more prominent role, possibly witnessed by Peter. Their presence serves as a confirmation of the conversation they were having with Jesus. What is fascinating is that while the disciples expected Elijah, the unexpected appearance of Moses adds an element of surprise to this encounter.",
+        "wordCount": 68,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.5648669884265671,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.37,
+        "commentatorTierSimilarities": [
+            30.34,
+            29.28,
+            40.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 9:4. Elijah with Moses. Elijah is more prominent in this account, and probably was in the scene as witnessed by Peter.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Elijah with Moses. Both, as a matter of fact were prophets and both dealt with law.",
+            "Both had mysterious deaths.",
+            "The other order in Mark 9:5."
+        ],
+        "John Gill": [
+            "And there appeared unto them Elias with Moses...",
+            "They were talking with Jesus.",
+            "This might have been a confirmation of these things to them."
+        ],
+        "John Wesley": [
+            "Elijah \u2014 Whom they expected: Moses, whom they did not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see the presence of both Elijah and Moses, who were both prophets that dealt with the law. Not only do they share this similarity, but they also both had mysterious deaths. It is worth noting that in this account, Elijah seems to be more prominent, possibly witnessed by Peter. The appearance of Elijah and Moses to the disciples may have been a confirmation of the things they were discussing with Jesus, and it is interesting that while they expected Elijah, Moses was unexpected.",
+            "wordCount": 87,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 1.6572869656663327,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.45,
+            "commentatorTierSimilarities": [
+                31.78,
+                32.05,
+                36.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The presence of both Elijah and Moses in Mark 9:4 is significant. These two prophets, who dealt with the law and had mysterious deaths, appear to the disciples. Elijah's prominence is highlighted, possibly witnessed by Peter. Their appearance could be seen as a confirmation of the things discussed with Jesus. It is interesting that while the disciples expected Elijah, Moses's unexpected presence adds an element of surprise to the encounter.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.4411726231182542,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.26,
+            "commentatorTierSimilarities": [
+                33.85,
+                27.65,
+                38.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Both Elijah and Moses, prophets who dealt with the law and experienced mysterious deaths, appear together in this account. Elijah seems to have a more prominent role, possibly witnessed by Peter. Their presence serves as a confirmation of the conversation they were having with Jesus. What is fascinating is that while the disciples expected Elijah, the unexpected appearance of Moses adds an element of surprise to this encounter.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5648669884265671,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.37,
+            "commentatorTierSimilarities": [
+                30.34,
+                29.28,
+                40.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, we see the simultaneous appearance of both Elijah and Moses. Both of these prophets were deeply connected to the law and had mysterious deaths. The prominence of Elijah is notable, as witnessed by Peter. Their presence can be understood as a confirmation of the ongoing conversation with Jesus. It is intriguing that while the disciples expected Elijah, the unexpected presence of Moses added an element of surprise to this significant encounter.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4936226082733421,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.01,
+            "commentatorTierSimilarities": [
+                31.95,
+                29.95,
+                38.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, both Elijah and Moses are present, two prophets who dealt with the law and had mysterious deaths. Elijah's prominence is evident, possibly witnessed by Peter. Their appearance can be seen as a confirmation of the ongoing conversation with Jesus. It is interesting that while the disciples expected Elijah, the unexpected presence of Moses adds a surprising element to this significant encounter.",
+            "wordCount": 65,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.4207692554177198,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.58,
+            "commentatorTierSimilarities": [
+                31.19,
+                29.57,
+                39.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

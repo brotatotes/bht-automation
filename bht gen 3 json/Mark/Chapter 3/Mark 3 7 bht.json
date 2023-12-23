@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:20:52",
+    "verseRef": "Mark 3:7",
+    "bestBHT": {
+        "bht": "Jesus, aware of the danger from his enemies, departed from the synagogue and the city to find safety near the shore of the sea of Galilee. He brought his disciples with him, not out of fear, but because there was still work to be done. A great multitude, consisting of people from Galilee and Judea, followed him, indicating the broad reach of his ministry. Mark highlights Jesus' need for rest and solitude, as he frequently withdrew to pray, rest, and confer privately with his disciples.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.6489166782840499,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+        "commentatorTierSimilarities": [
+            44.42,
+            0.0,
+            55.58
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Mark alone notes no less than eleven occasions on which Jesus retired from his work, in order to escape his enemies or to pray in solitude, for rest, or for private conference with his disciples.\" ",
+            "A great multitude [\u03c0\u03bf\u03bb\u03c5 \u03c0\u03bb\u03b7\u03b8\u03bf\u03c2]. Compare verse 8, where the order of the Greek words is reversed. In the former case the greatness of the mass of people is emphasized; in the latter, the mass of people itself."
+        ],
+        "Archibald T. Robertson": [
+            "He and His would be safer by the open beach\" (Swete).",
+            "He has the disciples with him.",
+            "But, as often, a great multitude from Galilee followed him."
+        ],
+        "John Gill": [
+            "Knowing their evil designs against him, he departed out of the synagogue, and city of Capernaum...",
+            "...taking his disciples with him, he went to the shore of the sea of Galilee; not out of fear, but because his time was not yet come, and he had more work to do.",
+            "...from the several parts of [Galilee], in which country he now was, and from Judea, that part of the land of Israel, which was particularly so called, and belonged to the tribe of Judah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mark 3:7 is a significant verse that highlights Jesus' need for rest and solitude amidst his work. The first-tier commentary points out that Mark specifically mentions eleven occasions where Jesus took a step back to either elude his enemies, pray privately, or confer with his disciples. In this particular instance, a large crowd from Galilee followed him, which is further emphasized in verse 8. However, Jesus sought refuge by the open beach, accompanied by his disciples, not out of fear, but because it wasn't yet time for him to reveal himself fully. This passage also highlights the expansive reach of Jesus' ministry, as people from different parts of Galilee and Judea gathered to be with him.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.648377803702071,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.15,
+            "commentatorTierSimilarities": [
+                50.69,
+                0.0,
+                49.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, aware of the plans against him, departed from the synagogue and the city, seeking safety near the shore of the sea of Galilee. He took his disciples with him, not out of fear, but because his time had not yet arrived and there was more work to be done. A multitude, composed of people from Galilee and Judea, followed him, demonstrating the broad impact of his ministry. Mark highlights the significance of Jesus' moments of retreat, where he found solace and discussed matters in private with his disciples.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5879869606717365,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.14,
+            "commentatorTierSimilarities": [
+                40.31,
+                0.0,
+                59.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, knowing the threats against him, withdrew from the synagogue and the city, seeking refuge by the open beach with his disciples. This retreat was not out of fear, but rather because it was not yet the time for him to fully reveal himself. The vast crowd that followed him consisted of people from Galilee and Judea, illustrating the widespread impact of his ministry. It is notable that Mark records multiple instances where Jesus intentionally sought solitude for rest, prayer, and private conversation with his disciples.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5441021452584731,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.68,
+            "commentatorTierSimilarities": [
+                42.31,
+                0.0,
+                57.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, aware of the danger from his enemies, departed from the synagogue and the city to find safety near the shore of the sea of Galilee. He brought his disciples with him, not out of fear, but because there was still work to be done. A great multitude, consisting of people from Galilee and Judea, followed him, indicating the broad reach of his ministry. Mark highlights Jesus' need for rest and solitude, as he frequently withdrew to pray, rest, and confer privately with his disciples.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6489166782840499,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                44.42,
+                0.0,
+                55.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, being aware of the evil designs against him, left the synagogue and the city of Capernaum, taking his disciples with him to the shore of the sea of Galilee. This retreat was not due to fear, but because it was not yet the appointed time, and there was more work to be carried out. The gathering multitudes from Galilee and Judea demonstrate the widespread impact of Jesus' ministry. Mark's account emphasizes the need for Jesus to find moments of solitude, for rest, prayer, and private discussion with his disciples.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.4419576834291532,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.29,
+            "commentatorTierSimilarities": [
+                37.51,
+                0.0,
+                62.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:26:57",
+    "verseRef": "Mark 12:16",
+    "bestBHT": {
+        "bht": "Jesus asks the people about the image and superscription on a coin, to which they answer it belongs to Caesar. The image refers to the emperor's physical depiction on the coin, and the superscription represents the words encircling it. Scholars suggest that the coin in question is a Roman penny, likely featuring the head of the current emperor, possibly Tiberius, along with his name and a motto. This exchange confirms the people's acknowledgement of Caesar's authority and power.",
+        "wordCount": 81,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.3211686876265691,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.27,
+        "commentatorTierSimilarities": [
+            35.17,
+            0.0,
+            64.83
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Whose is this image\u2014stamped upon the coin.\" ",
+            "And superscription?\u2014the words encircling it on the obverse side.",
+            "And they said unto him, C\u00e6sar's."
+        ],
+        "Marvin Vincent": [
+            "Image and superscription. See on Matthew 22:20."
+        ],
+        "John Gill": [
+            "The penny, which was a Roman one, and worth seven pence halfpenny of our money.",
+            "For it had the head of an emperor upon it, very likely the image of the then reigning emperor Tiberius, and a superscription on it, expressing his name, and perhaps a motto along with it.",
+            "One of the Roman emperors, Augustus, or Tiberius; most probably the latter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 12:16, Jesus asks whose image and superscription are on a coin, to which the people reply, Caesar's. The image refers to the physical depiction of the emperor on the coin, while the superscription represents the words encircling it on the obverse side. The coin in question is likely a Roman penny, worth seven pence halfpenny, and it probably featured the head of the current emperor, possibly Tiberius, along with his name and a motto. This interaction highlights the people's recognition and acknowledgment of Caesar's authority and power.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.2872506315483616,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.14,
+            "commentatorTierSimilarities": [
+                34.13,
+                0.0,
+                65.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus asks the people whose image and superscription are on a coin. They respond by saying it belongs to Caesar. The image represents the physical depiction of the emperor on the coin, while the superscription refers to the words encircling it on the obverse side. It is likely that the coin in question is a Roman penny, possibly featuring the head of the current emperor, such as Tiberius, along with his name and a motto. This exchange serves to acknowledge Caesar's authority and power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.2207623698182617,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.93,
+            "commentatorTierSimilarities": [
+                35.32,
+                0.0,
+                64.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Jesus addresses the people's knowledge of the image and superscription on a coin. They reveal that it belongs to Caesar, indicating their recognition of his authority. The image refers to the physical representation of the emperor on the coin, while the superscription denotes the words encircling it. The specific coin in question is likely a Roman penny, potentially featuring the likeness of Tiberius, the reigning emperor at the time, along with his name and a possible motto. This interaction highlights the crowd's acknowledgment of Caesar's power.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.1123501850137412,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.33,
+            "commentatorTierSimilarities": [
+                35.61,
+                0.0,
+                64.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus asks the people about the image and superscription on a coin, to which they answer it belongs to Caesar. The image refers to the emperor's physical depiction on the coin, and the superscription represents the words encircling it. Scholars suggest that the coin in question is a Roman penny, likely featuring the head of the current emperor, possibly Tiberius, along with his name and a motto. This exchange confirms the people's acknowledgement of Caesar's authority and power.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.3211686876265691,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.27,
+            "commentatorTierSimilarities": [
+                35.17,
+                0.0,
+                64.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Mark 12:16, Jesus asks the people about the image and superscription on a coin, and they respond that it belongs to Caesar. The image represents the physical depiction of the emperor on the coin, and the superscription signifies the words encircling it. It is speculated that the coin in question is a Roman penny, possibly featuring the head of the current emperor, Tiberius, along with his name and a motto. This interaction underscores the people's recognition of Caesar's authority and power.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.2716645032578366,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.63,
+            "commentatorTierSimilarities": [
+                30.59,
+                0.0,
+                69.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

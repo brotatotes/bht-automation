@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:21:16",
+    "verseRef": "Mark 3:17",
+    "bestBHT": {
+        "bht": "The disciples James and John earned the nickname Boanerges, meaning sons of thunder, likely due to their zealous and passionate temperament. This title may have also referred to their fervent preaching style, characterized by profound and solemn utterances similar to the power of thunder. While the precise reason remains uncertain, this nickname highlights their significant role in spreading the message of Christ, demonstrating their courage in opposing adversaries and their impactful delivery as enthusiastic disciples.",
+        "wordCount": 75,
+        "quoteTokenProportion": 25.45,
+        "qualityScore": 1.9064667096746144,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+        "commentatorTierSimilarities": [
+            25.53,
+            43.08,
+            31.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] Boanerges,\u2014perhaps on account of their vehement and zealous disposition, of which we see marks Luke ix. 54: Mark ix. 38; x. 37: see also 2 John 10; but this is uncertain."
+        ],
+        "Marvin Vincent": [
+            "He surnamed them Boanerges [\u03b5\u03c0\u03b5\u03b8\u03b7\u03ba\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03bf\u03bd\u03bf\u03bc\u03b1 \u03b2\u03bf\u03b1\u03bd\u03b7\u03c1\u03b3\u03b5\u03c2] . Lit., he put upon them the name.\" ",
+            "The reason of its bestowal we do not know. It seems to have been intended as a title of honor.",
+            "The Greek Church calls John Brontofwnov, the thunder - voiced."
+        ],
+        "Philip Schaff": [
+            "Sons of thunder. This seems to have been occasioned by their 'vehement and zealous disposition, as indicated in Luke 9:54; comp. Mark 9:38.' This does not imply censure; for these traits, when sanctified, would be praiseworthy.",
+            "John was not, as he is often portrayed, of a soft and almost effeminate disposition. Such neutral characters are rarely heroes of faith. The Apocalypse reveals the son of thunder.",
+            "The name may refer also to the corresponding character of their eloquence. Powerful, fervid preachers are still thus termed. With the ancients, thunder was the symbol for profound and solemn utterances."
+        ],
+        "Archibald T. Robertson": [
+            "Boanerges, which is Sons of thunder... It may refer to the fiery temperament revealed in Luke 9:34 when James and John wanted to call down fire on the Samaritan villages that were unfriendly to them.\" ",
+            "The word literally means sons of tumult, sons of thunder in Syriac.",
+            "Matthew is a Hebrew name meaning gift of God."
+        ],
+        "John Gill": [
+            "He surnamed them Boanerges, which is, the sons of thunder: either because of their loud and sonorous voice; or their warm zeal for Christ, and fervency in their ministry.",
+            "Or for their courage in opposing the enemies of Christ, and the power that went along with their words; which either put to confusion and silence, or issued in conviction and conversion.",
+            "There is a city which was in the tribe of Dan, mentioned in Joshua 19:45, which is called 'Bene-berak, the sons of lightning'; and is spoken of in the Jewish writings, as a place where several of the Rabbins met, and conversed together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples James and John were given the nickname Boanerges, which means sons of thunder. While the reason for this title is uncertain, it may reflect their fervent and zealous temperament, as seen in their desire to call down fire on unwelcoming villagers. This name may also suggest their powerful and solemn preaching style, as thunder symbolizes profound utterances. Furthermore, it could indicate their courage in opposing enemies and the impactful nature of their words, which could either silence or convert. Regardless of the exact meaning, this nickname demonstrates their significant role in spreading the message of Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.726462491802901,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                25.01,
+                42.6,
+                32.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples James and John were surnamed Boanerges, meaning sons of thunder. The reason for this name is uncertain, but it likely relates to their zealous disposition and fiery temperament, as shown in their desire to call down fire on unfriendly villagers. This title may also reflect their powerful and fervid preaching style, with thunder symbolizing profound utterances. Overall, this nickname highlights their significant role in spreading the message of Christ, as courageous opponents and impactful preachers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8233307286785376,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                26.29,
+                43.92,
+                29.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples James and John were given the nickname Boanerges, which means sons of thunder. This name was likely bestowed upon them due to their vehement and zealous disposition. Their fiery temperament is seen in their desire to call down fire on the Samaritan villages. The term sons of thunder could also signify their powerful and fervid preaching style, where thunder symbolizes solemn and profound utterances. This title demonstrates their significant role in spreading the message of Christ and their courage in opposing enemies.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8312782570451351,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                27.0,
+                40.6,
+                32.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples James and John were called Boanerges, or sons of thunder, possibly because of their zealous and vehement nature. This term could also reflect their fiery temperament, seen in their wish to summon fire upon unfriendly Samaritans. Moreover, sons of thunder might describe their powerful and fervent preaching style, reminiscent of thunder's deep and solemn sound. Regardless of the exact reason, this nickname underscores their critical role in proclaiming the message of Christ and their fearless opposition to adversaries.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.8669833288727964,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.42,
+            "commentatorTierSimilarities": [
+                25.08,
+                41.69,
+                33.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples James and John earned the nickname Boanerges, meaning sons of thunder, likely due to their zealous and passionate temperament. This title may have also referred to their fervent preaching style, characterized by profound and solemn utterances similar to the power of thunder. While the precise reason remains uncertain, this nickname highlights their significant role in spreading the message of Christ, demonstrating their courage in opposing adversaries and their impactful delivery as enthusiastic disciples.",
+            "wordCount": 75,
+            "quoteTokenProportion": 25.45,
+            "qualityScore": 1.9064667096746144,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                25.53,
+                43.08,
+                31.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

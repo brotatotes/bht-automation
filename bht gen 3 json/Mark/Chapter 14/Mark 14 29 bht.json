@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:28:09",
+    "verseRef": "Mark 14:29",
+    "bestBHT": {
+        "bht": "Mark preserves Peter's expression of unwavering loyalty amidst the anticipated desertion of all others. This profound declaration highlights Peter's unparalleled devotion, contrasting with the eventual abandonment of the disciples as told in all the Gospel accounts. This pivotal moment showcases Peter's unparalleled confidence in his own steadfastness, foreshadowing the trials that will put his claim to the test.",
+        "wordCount": 61,
+        "quoteTokenProportion": 31.11,
+        "qualityScore": 1.381909639828503,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.29,
+        "commentatorTierSimilarities": [
+            85.05,
+            0.0,
+            14.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Yet will not I. Mark records here Peter's boast of loyalty even though all desert him.",
+            "Peter's boast of loyalty even though all desert him.",
+            "All the Gospels tell it."
+        ],
+        "John Gill": [
+            "Although all shall be offended, yet will not I.\" ",
+            "Though all the rest of the disciples... should fall off from Christ... yet he would do neither."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mark 14:29 captures Peter's bold declaration of unwavering loyalty to Jesus, despite the potential abandonment of all others. The enormity of Peter's claim is emphasized by Mark's recording of it, highlighting the contrast between his professed devotion and the eventual desertion of the disciples. This moment underscores Peter's confidence in his own faithfulness, setting the stage for the subsequent events that challenge his boast.",
+            "wordCount": 67,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.31900375047141,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.2,
+            "commentatorTierSimilarities": [
+                76.98,
+                0.0,
+                23.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter boldly declares his unwavering loyalty, even in the face of potential desertion by all others. Mark captures this boast, highlighting the stark contrast between Peter's professed devotion and the eventual abandonment of the disciples, a fact acknowledged by all the Gospel accounts. This moment serves to emphasize Peter's unwavering confidence in his faithfulness, a confidence that will soon be challenged by the events that unfold.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.3644744548526038,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.71,
+            "commentatorTierSimilarities": [
+                78.46,
+                0.0,
+                21.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recorded in Mark's Gospel is Peter's bold claim of loyalty, an assertion that stands in stark contrast to the eventual desertion of his fellow disciples. This declaration speaks to Peter's unwavering confidence in his own faithfulness, despite the likelihood of others falling away. It is a moment that sets the stage for the events that follow, where Peter's boast will be tested and his true character revealed.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.2531936889714144,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.01,
+            "commentatorTierSimilarities": [
+                77.67,
+                0.0,
+                22.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark preserves Peter's expression of unwavering loyalty amidst the anticipated desertion of all others. This profound declaration highlights Peter's unparalleled devotion, contrasting with the eventual abandonment of the disciples as told in all the Gospel accounts. This pivotal moment showcases Peter's unparalleled confidence in his own steadfastness, foreshadowing the trials that will put his claim to the test.",
+            "wordCount": 61,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.381909639828503,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.29,
+            "commentatorTierSimilarities": [
+                85.05,
+                0.0,
+                14.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's resolute commitment to Jesus, even in the face of potential abandonment by others, is recorded by Mark. This bold declaration of loyalty serves as a striking juxtaposition to the eventual desertion of the disciples, as recounted in all the Gospel accounts. Peter's boast is a testament to his unwavering conviction in his own faithfulness, a conviction that will soon be challenged by the unfolding events.",
+            "wordCount": 68,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.2664737107198567,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.45,
+            "commentatorTierSimilarities": [
+                82.66,
+                0.0,
+                17.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:27:12",
+    "verseRef": "Mark 12:17",
+    "bestBHT": {
+        "bht": "The people stood in continuous wonder as Jesus responded to the dilemma of paying taxes to Caesar. His addition to the maxim was profound, leaving them in great astonishment. They marveled greatly at his wisdom and prudence in returning such an answer, dissolving any argument against him. The incident exemplified the incomparable brevity, clarity, and weight of Jesus' teachings, causing the people to hold their peace and go their way in awe of his words.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.4159510205665344,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.42,
+        "commentatorTierSimilarities": [
+            36.6,
+            0.0,
+            63.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] they marvelled is in the original in the imperfect tense, and is graphic. This was going on, when the next incident began."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Putting it in this general form, it was impossible for sedition itself to dispute it, and yet it dissolved the snare.",
+            "How much is there in this profound but to them startling addition to the maxim, and how incomparable is the whole for fulness, brevity, clearness, weight!",
+            "and they marvelled at him... and left Him, and went their way."
+        ],
+        "Marvin Vincent": [
+            "They marvelled greatly.\" ",
+            "The preposition 'ex', out of, indicates great astonishment.\" ",
+            "The imperfect denotes continuance: they stood wondering."
+        ],
+        "Archibald T. Robertson": [
+            "Marvelled greatly at him (\u03b5\u03be\u03b5\u03b8\u03b1\u03c5\u03bc\u03b1\u03b6\u03bf\u03bd \u03b5\u03c0' \u03b1\u03c5\u03c4\u03c9). Imperfect tense with perfective use of the preposition \u03b5\u03be.\" ",
+            "Both Matthew and Luke use the ingressive aorist.\" ",
+            "Luke adds that they 'held their peace' (\u03b5\u03c3\u03b9\u03b3\u03b7\u03c3\u03b1\u03bd) while Matthew notes that they 'went their way' (\u03b1\u03c0\u03b7\u03bb\u03b8\u03b1\u03bd), went off or away."
+        ],
+        "John Gill": [
+            "Render to Caesar the things that are Caesar's...",
+            "...and to God the things that are God's",
+            "...they marvelled at him; at his wisdom and prudence in returning such an answer, which cut off all occasion against him."
+        ],
+        "John Wesley": [
+            "They marvelled at him \u2014 At the wisdom of his answer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When faced with the dilemma of paying taxes to Caesar, the people stood in astonishment at Jesus' response. His profound and concise addition to the maxim left them in awe and dissolved any possible argument against him. They marveled greatly at his wisdom and prudence in returning such an answer, causing them to hold their peace and go their own way. This incident exemplifies the incomparable depth, brevity, and clarity of Jesus' teachings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.3223554747545325,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.31,
+            "commentatorTierSimilarities": [
+                35.88,
+                0.0,
+                64.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the people were presented with the question of paying taxes to Caesar, their continuous amazement at Jesus' response was evident. His wise and astute answer left them in great astonishment. They marveled greatly at his wisdom and prudence, acknowledging the profound depth and clarity of his teachings. As a result, they held their peace and went their own way, impressed by the incomparable nature of his words.",
+            "wordCount": 68,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.4134707712743486,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.34,
+            "commentatorTierSimilarities": [
+                35.63,
+                0.0,
+                64.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people, struck in utter disbelief, marveled greatly at Jesus' skillful response regarding the matter of paying taxes to Caesar. His profound and concise addition to the maxim left no room for dispute, dismantling any potential snare set for him. The people were astonished at his wisdom and prudence in returning such an answer, which effectively silenced them and caused them to go their separate ways. This incident exemplified the exceptional clarity and depth of Jesus' teachings, leaving an indelible impression on those who witnessed it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.2761602509927479,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.78,
+            "commentatorTierSimilarities": [
+                46.41,
+                0.0,
+                53.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people stood in continuous wonder as Jesus responded to the dilemma of paying taxes to Caesar. His addition to the maxim was profound, leaving them in great astonishment. They marveled greatly at his wisdom and prudence in returning such an answer, dissolving any argument against him. The incident exemplified the incomparable brevity, clarity, and weight of Jesus' teachings, causing the people to hold their peace and go their way in awe of his words.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.4159510205665344,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.42,
+            "commentatorTierSimilarities": [
+                36.6,
+                0.0,
+                63.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people witnessed Jesus' remarkable answer about paying taxes to Caesar and were left astonished. They marveled greatly at his wisdom and prudence, recognizing the depth and clarity of his teachings. His profound response dissolved any possible dispute, causing them to hold their peace and go their way. This incident showcased the incomparable nature of Jesus' words, leaving a lasting impression on those who witnessed it.",
+            "wordCount": 66,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.3420956556662493,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.97,
+            "commentatorTierSimilarities": [
+                40.86,
+                0.0,
+                59.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

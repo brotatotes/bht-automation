@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:25:11",
+    "verseRef": "Mark 8:38",
+    "bestBHT": {
+        "bht": "In a generation marked by adultery and sin, it is crucial not to be ashamed of Christ and His words. The prophecy predicts Christ's final coming, favoring those who boldly confess faith in Him and His Gospel. Conversely, those who conceal their faith out of fear or shame will be overlooked. This paragraph emphasizes the importance of unashamedly professing faith in Christ and His teachings.",
+        "wordCount": 66,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.7247826884896296,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+        "commentatorTierSimilarities": [
+            30.99,
+            33.26,
+            35.75
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Mark and St. Luke here agree: and St. Matthew, ver. 27, bears traces of this verse, having apparently abridged it in transcribing his report...\" ",
+            "On adulterous, see Matt. xii. 39, and observe the addition...",
+            "belonging to the precision and graphic character of our Evangelist\u2019s narrative."
+        ],
+        "Marvin Vincent": [
+            "One may confess Christ in general and yet be ashamed of this or that saying.\" ",
+            "In this adulterous and sinful generation.\" ",
+            "Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "Shall be ashamed of me, and my words.",
+            "There is a hint of the same thought in Matthew\u2019s account (Matthew 16:27), and something analogous is found in Matthew 10:33.",
+            "In this adulterous and sinful generation. Com. Matthew 12:39. These words, peculiar to Mark in this connection, suggest that being ashamed of Christ is the result of paying attention to the verdict of such a generation."
+        ],
+        "Archibald T. Robertson": [
+            "The conduct of men toward Christ now determines Christ's conduct then.",
+            "This is a clear prediction of the final eschatological coming of Christ.",
+            "These two verses in Mark 8:38; Mark 9:1 form one paragraph and should go together."
+        ],
+        "John Gill": [
+            "Whoever through scandal of the cross, and fear of men, will be ashamed of Christ, and dare not profess faith in him, but shall conceal and keep it to themselves.",
+            "Should they be deterred by these men from a free and open profession of him, and his Gospel, by which it would appear that they were ashamed of both.",
+            "He will take no notice of him; he will not confess his name; but, as one that he is ashamed of, he will turn away from him."
+        ],
+        "John Wesley": [
+            "Whosoever shall be ashamed of me and of my words... both by word and action.",
+            "Avowing whatever I have said... particularly of self denial and the daily cross.",
+            "Matthew 10:32; Luke 9:26; Luke 12:8."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this generation filled with adultery and sin, one must be cautious not to be ashamed of Christ and His words. It is important to openly confess faith in Him and His Gospel, even if it means going against the opinions of the world. The prophecy in Mark 8:38 foretells the ultimate eschatological coming of Christ, where He will take notice of those who boldly profess their faith and avow His teachings, while those who are too fearful or ashamed to do so will be left behind. This verse, along with Mark 9:1, forms a cohesive paragraph that emphasizes the significance of not being ashamed of Christ and His words.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8967372013281611,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.41,
+            "commentatorTierSimilarities": [
+                28.99,
+                35.35,
+                35.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a generation marked by adultery and sin, one must avoid the temptation to be ashamed of Christ and His teachings. It is crucial to openly confess faith in Him and His Gospel, even if it means going against societal opinions. This prophecy presents a clear indication of the final coming of Christ, where He will favor those who boldly proclaim their faith, while those who are too fearful or ashamed to do so will be left behind. This passage goes hand in hand with the adjacent text to emphasize the importance of fearinglessly professing faith in Christ and His teachings.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.7631013528414305,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.96,
+            "commentatorTierSimilarities": [
+                30.04,
+                34.1,
+                35.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a generation characterized by adultery and sin, it is crucial not to be ashamed of Christ and His teachings. The prophecy in Mark 8:38 predicts Christ's final eschatological coming, rewarding those who unashamedly confess faith in Him and His Gospel. Conversely, those who conceal their faith due to fear or shame will be overlooked. This verse, as part of a paragraph between Mark 8:38 and Mark 9:1, emphasizes the significance of boldly professing faith in Christ and His teachings, even if it means going against societal norms.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7130433390265933,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                33.21,
+                33.05,
+                33.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a generation characterized by adultery and sin, it is crucial not to be ashamed of Christ and His teachings. The prophecy in this passage predicts Christ's final eschatological coming and highlights the importance of openly confessing faith in Him and His Gospel, regardless of societal opinions. Those who fearfully conceal their faith will be overlooked, while those who boldly profess their belief will be rewarded. This paragraph emphasizes the significance of unashamedly declaring faith in Christ and His teachings.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.685989694680483,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.4,
+            "commentatorTierSimilarities": [
+                32.5,
+                34.19,
+                33.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a generation marked by adultery and sin, it is crucial not to be ashamed of Christ and His words. The prophecy predicts Christ's final coming, favoring those who boldly confess faith in Him and His Gospel. Conversely, those who conceal their faith out of fear or shame will be overlooked. This paragraph emphasizes the importance of unashamedly professing faith in Christ and His teachings.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.7247826884896296,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.69,
+            "commentatorTierSimilarities": [
+                30.99,
+                33.26,
+                35.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

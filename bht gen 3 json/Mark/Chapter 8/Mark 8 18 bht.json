@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:24:20",
+    "verseRef": "Mark 8:18",
+    "bestBHT": {
+        "bht": "Having physical eyes, see ye not? and having ears, hear ye not? They had bodily eyes and natural hearing, but they took little notice of the miracles Jesus performed and did not diligently attend to His teachings. In their forgetfulness, they failed to remember the interpretations of parables and the miracles of the loaves that were given to them before. They lacked awareness, attentiveness, and the ability to connect past and present situations.",
+        "wordCount": 73,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 1.1836572138393375,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.7,
+        "commentatorTierSimilarities": [
+            32.93,
+            0.0,
+            67.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "18. Having eyes, see ye not? and",
+            "\thaving ears, hear ye not?\u2014See on :-. ",
+            "\t",
+            "and do ye not remember?"
+        ],
+        "John Gill": [
+            "Having eyes, see ye not?... they had bodily eyes, and with them saw the miracles he wrought, and yet took little notice of them.",
+            "and having ears, hear ye not?... they had their natural hearing, and yet made but little use of it; and did not so diligently attend to the sound of Christ's words.",
+            "and do ye not remember?... the interpretation of parables formerly given, and the miracles of the loaves lately wrought."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Having physical eyes, they saw the miracles Jesus performed, yet they failed to truly comprehend their significance. Similarly, with their physical ears, they heard the words of Jesus, but they did not fully grasp the depth of His teachings. They lacked awareness and attentiveness, missing the spiritual truths Jesus was conveying. Furthermore, they failed to remember the past interpretations of parables and miracles, neglecting to connect them to present situations.",
+            "wordCount": 70,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 0.878693869252088,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.56,
+            "commentatorTierSimilarities": [
+                14.28,
+                0.0,
+                85.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having physical eyes, see ye not? and having ears, hear ye not? They had bodily eyes and natural hearing, but they took little notice of the miracles Jesus performed and did not diligently attend to His teachings. In their forgetfulness, they failed to remember the interpretations of parables and the miracles of the loaves that were given to them before. They lacked awareness, attentiveness, and the ability to connect past and present situations.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.1836572138393375,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.7,
+            "commentatorTierSimilarities": [
+                32.93,
+                0.0,
+                67.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Having physical eyes, they saw the miracles Jesus wrought but took little notice of them. Similarly, with their natural hearing, they made little use of it and did not diligently attend to the sound of His words. Their lack of remembrance of the interpretation of parables and the miracles of the loaves hindered their understanding of the deeper spiritual truths being conveyed.",
+            "wordCount": 62,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 0.9431046369888845,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.7,
+            "commentatorTierSimilarities": [
+                10.48,
+                0.0,
+                89.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite having physical eyes, they failed to truly see and comprehend the miracles that Jesus performed. Likewise, with their natural hearing, they lacked attentiveness and did not fully grasp the significance of His teachings. Their lack of remembrance and failure to connect past interpretations of parables and miracles with present situations hindered their understanding of the spiritual truths being revealed.",
+            "wordCount": 60,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 0.8721844088661332,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.34,
+            "commentatorTierSimilarities": [
+                14.16,
+                0.0,
+                85.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Having physical eyes, they had the ability to see the miracles Jesus performed, yet they took little notice of them. Similarly, with their natural hearing, they had the capacity to hear the words of Jesus, but they did not diligently listen and comprehend. Their lack of remembrance of past interpretations of parables and recent miracles of the loaves hindered their understanding. They missed the deeper spiritual truths being presented due to their lack of awareness, attentiveness, and ability to connect the dots.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 0.8877998365108264,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.86,
+            "commentatorTierSimilarities": [
+                13.94,
+                0.0,
+                86.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

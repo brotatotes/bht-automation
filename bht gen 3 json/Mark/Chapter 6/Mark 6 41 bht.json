@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:23:53",
+    "verseRef": "Mark 6:41",
+    "bestBHT": {
+        "bht": "In this account, Jesus performed a miraculous act of feeding a large crowd with only a few loaves and fishes. Every individual, including those at a distance, could clearly see what He was doing. The moment of thanksgiving and blessing was a significant turning point in the miracle, signifying the food's ability to sustain thousands and foreshadowing the disciples' future ministry. The continuous act of breaking and distributing showcased the abundance of the miracle. Indeed, there were more fishes than there were baskets filled with bread. This miracle carried both physical sustenance and profound symbolism.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.23,
+        "qualityScore": 1.3701878503182148,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+        "commentatorTierSimilarities": [
+            30.64,
+            32.17,
+            37.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thus would the most distant of them see distinctly what He was doing.",
+            "This thanksgiving for the meal, and benediction of it as the food of thousands, was the crisis of the miracle.",
+            "thus virtually holding forth these men as His future ministers."
+        ],
+        "Marvin Vincent": [
+            "The aorist implies the instantaneous, the imperfect the continuous act.",
+            "He brake, and kept giving out.",
+            "The multiplication evidently took place in Christ's hands, between the acts of breaking and distributing."
+        ],
+        "Philip Schaff": [
+            "The greater detail in regard to the bread was probably due to its higher symbolical meaning.",
+            "Moreover all did not partake of the fishes; comp. John 6:11.",
+            "Mark\u2019s mention of the division of the fishes is another evidence of the exactness so characteristic of this Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "Apparently the fishes were in excess of the twelve baskets full of broken pieces of bread.",
+            "See on Matthew 14:20 for discussion of \u03ba\u03bf\u03c6\u03b9\u03bd\u03bf\u03c2 and \u03c3\u03c6\u03c5\u03c1\u03b9\u03c2, the two kinds of baskets."
+        ],
+        "John Gill": [
+            "He looked up to heaven, and blessed, and brake the loaves.\" ",
+            "And gave them to his disciples to set before them; the multitude, in order to eat of them.",
+            "And the two fishes divided he among them all; that every one might have a part."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse from Mark 6, Jesus performs the miracle of multiplying the loaves and fishes to feed the multitude. The commentators note that Jesus wanted everyone, even those far away, to see what He was doing. This act of thanksgiving and blessing marked a significant moment in the miracle, as it symbolized the food becoming sustenance for thousands and pointed to the future ministry of the disciples. The continuous act of breaking and distributing the food emphasized the abundance of the miracle. The mention of the two different kinds of baskets in Matthew 14 suggests that there were probably more fish than the twelve baskets filled with bread. This miracle not only satisfied the physical hunger of the crowd, but it also held deep symbolic meaning.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4004863419937645,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.91,
+            "commentatorTierSimilarities": [
+                28.45,
+                33.46,
+                38.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, Jesus performed a miraculous act of feeding a large crowd with only a few loaves and fishes. He wanted even those far away to witness it. This moment of thanksgiving and blessing marked the climax of the miracle and signified the sustenance the food provided for thousands, foreshadowing the role of His disciples as ministers. The continuous act of breaking and distributing highlighted the abundance of the miracle, which included not only bread but also an abundance of fish. This miraculous event held both physical and symbolic significance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.2543720369920188,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.05,
+            "commentatorTierSimilarities": [
+                28.61,
+                29.34,
+                42.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus performed a remarkable miracle by multiplying a small amount of loaves and fishes to feed a large crowd. He intentionally ensured that everyone, even those at a distance, could witness this extraordinary act. The moment of thanksgiving and blessing marked a significant turning point in the miracle, symbolizing the food becoming sustenance for thousands and indicating the future ministry of the disciples. The continuous act of breaking and distributing emphasized the abundant provision of the miracle, which even included an excess of fish. This miracle carried profound physical and symbolic meaning.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.2330080845474811,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.34,
+            "commentatorTierSimilarities": [
+                30.35,
+                32.41,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, Jesus performed a miraculous act of feeding a large crowd with only a few loaves and fishes. Every individual, including those at a distance, could clearly see what He was doing. The moment of thanksgiving and blessing was a significant turning point in the miracle, signifying the food's ability to sustain thousands and foreshadowing the disciples' future ministry. The continuous act of breaking and distributing showcased the abundance of the miracle. Indeed, there were more fishes than there were baskets filled with bread. This miracle carried both physical sustenance and profound symbolism.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.3701878503182148,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+            "commentatorTierSimilarities": [
+                30.64,
+                32.17,
+                37.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus performed a remarkable miracle, multiplying a small amount of bread and fish to feed a large crowd. He made sure that everyone, even those far away, could witness His actions clearly. This moment of thanksgiving and blessing was a crucial point in the miracle, signifying the food as sustenance for thousands and anticipating the future ministry of the disciples. The continuous act of breaking and distributing highlighted the abundant provision of the miracle. In fact, there were more fishes than the twelve baskets filled with broken pieces of bread. This miraculous event held both physical and symbolic significance.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.3011599343804865,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.61,
+            "commentatorTierSimilarities": [
+                32.58,
+                30.88,
+                36.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

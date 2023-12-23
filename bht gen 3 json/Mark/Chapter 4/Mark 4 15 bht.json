@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:21:39",
+    "verseRef": "Mark 4:15",
+    "bestBHT": {
+        "bht": "The truth emphasized here is that unbroken and hard hearts are not suitable soil for the saving truth of the Gospel. These individuals fail to grasp the significance of the Gospel and are easily drawn away by worldly attractions, allowing the evil one to quickly snatch away the message sown within them. The depiction of Satan as a tangible being confirms his existence as a real force of evil. Their casual and accidental exposure to the Gospel leaves them vulnerable to the devil's tactics in diverting their attention.",
+        "wordCount": 89,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.6588459423333255,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+        "commentatorTierSimilarities": [
+            25.47,
+            44.22,
+            30.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The great truth here taught is, that hearts all unbroken and hard are no fit soil for saving truth.",
+            "They apprehend it not as God's means of restoring them to Himself; it penetrates not, makes no impression.",
+            "The wicked one\u2014afraid of losing a victim by his 'believing to salvation'\u2014finds some frivolous subject by whose greater attractions to draw off the attention, and straightway it is gone."
+        ],
+        "Philip Schaff": [
+            "Being spoken of in the explanation of the parable, or in a didactic way, Satan must be a real personal being, and not merely the symbol of evil."
+        ],
+        "Archibald T. Robertson": [
+            "Satan... the evil one... the devil.\" ",
+            "Sown in them. Within them, not just among them.",
+            "In his heart."
+        ],
+        "John Gill": [
+            "Such hearers are represented by the way side...who, coming where the Gospel is preached, stop awhile and hear it...and so are only casual and accidental hearers of it.",
+            "...before they are well got out of the place of hearing, Satan cometh immediately and taketh away the word that was sown in their hearts.",
+            "The devil...is very busy with them; filling their minds with other things suitable to their dispositions, and setting before them other objects, whereby their minds are, at once, taken off from what they have been hearing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches that unbroken and hard hearts are not suitable for receiving and understanding the saving truth. Such hearts fail to grasp the significance of the Gospel and are easily distracted by worldly attractions. Satan, portrayed as the wicked one, takes advantage of their lack of receptivity and snatches away the Word of God sown in their hearts. Being described in a didactic manner confirms that Satan is a real personal being and not just a symbol of evil. These hearers, represented as the way side, only casually listen to the Gospel before Satan swiftly leads their minds astray, preventing the Word from taking root.",
+            "wordCount": 106,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.9387716328936038,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                22.3,
+                48.71,
+                28.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The hard and unbroken hearts of individuals are unsuitable for receiving the saving truth. These people are unable to fully comprehend the Gospel and it fails to make any impression on them. The evil one, Satan, fears losing a potential follower and employs various distractions to divert their attention. Apart from being casually exposed to the Word, these individuals quickly succumb to worldly temptations and allow Satan to snatch away the message from their hearts. Satan's actions validate his role as a literal entity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.5101195731410488,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.55,
+            "commentatorTierSimilarities": [
+                26.52,
+                42.16,
+                31.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The teaching in this passage emphasizes that hard and unbroken hearts are not receptive to the saving truth of the Gospel. Such individuals fail to understand its significance and are easily distracted by worldly attractions. The devil, depicted as the wicked one, capitalizes on their lack of receptivity by diverting their attention away from the Gospel message. The Word of God is sown within them, but Satan swiftly takes it away, leaving no lasting impact. This portrayal of Satan as a personal being underscores his role as a literal evil force.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.6099278163865383,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                23.57,
+                46.0,
+                30.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This teaching highlights that hearts that are unbroken and hard are not receptive to the transforming truth of the Gospel. The significance of the Gospel does not penetrate or make any impression on them. The devil, represented as the evil one, is afraid of losing a potential follower, so he strategically distracts them with worldly attractions. In their distracted state, the Gospel message is swiftly snatched away, unable to take root in their hearts. The portrayal of the devil as a personal being emphasizes the reality of his evil influence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.599969333119165,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                27.88,
+                44.2,
+                27.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The truth emphasized here is that unbroken and hard hearts are not suitable soil for the saving truth of the Gospel. These individuals fail to grasp the significance of the Gospel and are easily drawn away by worldly attractions, allowing the evil one to quickly snatch away the message sown within them. The depiction of Satan as a tangible being confirms his existence as a real force of evil. Their casual and accidental exposure to the Gospel leaves them vulnerable to the devil's tactics in diverting their attention.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6588459423333255,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                25.47,
+                44.22,
+                30.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

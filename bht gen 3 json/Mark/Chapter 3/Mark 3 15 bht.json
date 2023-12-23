@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:20:51",
+    "verseRef": "Mark 3:15",
+    "bestBHT": {
+        "bht": "The disciples were given the authority to preach and to cast out demons. Their power to drive out demons was intended to confirm the truthfulness of their teachings. While the phrase 'to heal sicknesses' is omitted, Mark emphasizes the disciples' ability to cast out demons. Through their appointment as apostles, Jesus bestowed upon them the power to heal various physical ailments and to expel evil spirits, showcasing his authority over both the spiritual and physical domains.",
+        "wordCount": 76,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 1.8580875181211,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+        "commentatorTierSimilarities": [
+            44.23,
+            22.35,
+            33.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "To preach and to have authority to cast out.\" ",
+            "The power of preaching and the power of exorcising were so different.",
+            "The power of driving out demons was given that they might apply it in confirmation of their teaching."
+        ],
+        "Philip Schaff": [
+            "Mark 3:15. The phrase, \u2018to heal sicknesses\u2019 is to be omitted. Mark gives special prominence to the power of casting out demons.",
+            "\t"
+        ],
+        "John Gill": [
+            "And to have power to heal sicknesses... all manner of corporeal diseases that attend men and women.",
+            "And to cast out devils... from such who were possessed with them.",
+            "He chose and appointed them to be his apostles, with a view of conferring such powers upon them hereafter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes that the disciples were given the mission to preach and to have authority to cast out demons. Their power to drive out demons was not just for show, but was intended to confirm the truth of their teachings. While the phrase to heal sicknesses is to be omitted, Mark highlights the significance of the disciples' power to cast out demons. By choosing and appointing them as apostles, Jesus intended to confer upon them the ability to heal all manner of physical ailments, demonstrating his authority over both spiritual and physical realms.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.77043652419859,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                43.58,
+                23.76,
+                32.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were given the authority to preach and to cast out demons, both of which were distinctly powerful. This power was not merely for show, but to confirm the truth of their teachings. While the phrase 'to heal sicknesses' is omitted in this passage, Mark places special emphasis on the disciples' ability to cast out demons. By appointing them as apostles, Jesus conferred upon them the power to heal various physical ailments and to drive out evil spirits, showcasing his authority over both the spiritual and physical realms.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.730544263809299,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.88,
+            "commentatorTierSimilarities": [
+                43.08,
+                23.19,
+                33.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were given the authority to preach and to cast out demons. Their power to drive out demons was intended to confirm the truthfulness of their teachings. While the phrase 'to heal sicknesses' is omitted, Mark emphasizes the disciples' ability to cast out demons. Through their appointment as apostles, Jesus bestowed upon them the power to heal various physical ailments and to expel evil spirits, showcasing his authority over both the spiritual and physical domains.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.8580875181211,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                44.23,
+                22.35,
+                33.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were chosen and appointed by Jesus to preach and have authority to cast out demons. Their power to drive out evil spirits was given to confirm the truth of their teachings. Although the phrase to heal sicknesses is excluded, Mark highlights the disciples' ability to cast out demons as a significant aspect. Through their appointment as apostles, Jesus also bestowed upon them the power to heal various physical ailments, demonstrating his authority over both the spiritual realm and corporeal diseases.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.6941792151253239,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.67,
+            "commentatorTierSimilarities": [
+                42.18,
+                22.71,
+                35.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were appointed by Jesus with the authority to preach and cast out demons. This power was not only for display but served to validate their teachings. Although the phrase to heal sicknesses is excluded, Mark particularly emphasizes the disciples' ability to cast out demons. By choosing them as apostles, Jesus granted them the power to heal various physical ailments and to expel evil spirits, establishing his authority over both the spiritual and physical aspects of human existence.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6435061853424031,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                41.52,
+                23.94,
+                34.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:22:29",
+    "verseRef": "Mark 5:24",
+    "bestBHT": {
+        "bht": "Jesus went with Jairus and his disciples, while a great multitude followed and thronged him, even choking and stifling him. The pressing crowd made it difficult for Jesus to move and breathe. Despite the weakness of Jairus' faith, Jesus immediately responded to his request and navigated through the troubled streets to perform the miracle that the people were eager to witness.",
+        "wordCount": 61,
+        "quoteTokenProportion": 37.78,
+        "qualityScore": 1.6024350485193035,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+        "commentatorTierSimilarities": [
+            36.37,
+            34.29,
+            29.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] St. Matthew adds, \u201cand his disciples.\u201d"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. And Jesus went with him; and",
+            "\tmuch people followed him, and thronged him\u2014The word in Luke ( :-) is stronger\u2014\"choked,\" \"stifled Him."
+        ],
+        "Philip Schaff": [
+            "The thronging of the people is prominent in the accounts of Mark and Luke.",
+            "That so important a person as Jairus had asked our Lord\u2019s help may have occasioned unusual excitement.",
+            "Though multitudes usually followed Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "A great multitude followed him, was following, kept following.",
+            "They thronged him, were pressing Jesus so that he could hardly move because of the jam, or even to breathe.",
+            "Went off with him promptly."
+        ],
+        "John Gill": [
+            "Immediately without objecting to the weakness of his faith.",
+            "To see the miracle performed, which they were exceedingly fond of.",
+            "It was with some difficulty and trouble that he passed along the streets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went with Jairus, accompanied by a great multitude that was following and thronging him. The crowd was so large and pressurizing that Jesus was almost choked and stifled. Promptly responding to Jairus' request, Jesus navigated through the difficulty and trouble of passing through the streets, not objecting to the weakness of Jairus' faith. The people were eager to witness the miracle they were exceedingly fond of seeing.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.5636775546158106,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.33,
+            "commentatorTierSimilarities": [
+                27.67,
+                33.88,
+                38.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus went with Jairus and his disciples, while a great multitude followed and thronged him, even choking and stifling him. The pressing crowd made it difficult for Jesus to move and breathe. Despite the weakness of Jairus' faith, Jesus immediately responded to his request and navigated through the troubled streets to perform the miracle that the people were eager to witness.",
+            "wordCount": 61,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.6024350485193035,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                36.37,
+                34.29,
+                29.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus went with Jairus, and a great multitude followed him, thronging him so much that he could hardly move or breathe. Jesus promptly responded to Jairus' request, not objecting to the weakness of his faith, and navigated through the trouble and difficulty of the crowded streets. The people eagerly followed Jesus, fondly anticipating the miracle they were about to witness.",
+            "wordCount": 60,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.5904043076775758,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                31.34,
+                32.67,
+                35.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus went with Jairus and his disciples, accompanied by a great multitude that was following and thronging him. The crowd was so large and pressurizing that Jesus was almost choked and stifled. Promptly responding to Jairus' request, Jesus navigated through the difficulty and trouble of passing through the streets, not objecting to the weakness of Jairus' faith. The people were eager to witness the miracle they were exceedingly fond of seeing.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.5941029031985143,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                29.69,
+                33.88,
+                36.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus went with Jairus and his disciples, while a great multitude followed him, thronging him so that he could hardly move or breathe. Jesus promptly responded to Jairus' request, not objecting to the weakness of his faith, and navigated through the trouble and difficulty of the crowded streets. The people were eager to witness the miracle and were exceedingly fond of seeing it performed.",
+            "wordCount": 64,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.5303230912088337,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                28.91,
+                29.58,
+                41.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

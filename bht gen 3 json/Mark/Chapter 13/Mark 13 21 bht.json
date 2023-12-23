@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:27:38",
+    "verseRef": "Mark 13:21",
+    "bestBHT": {
+        "bht": "During the days of tribulation, false Christs and false prophets will emerge, claiming to know the whereabouts of Christ and offering deliverance from affliction and Roman bondage. However, we are warned not to believe them, as their signs and wonders are deceitful. This prophecy is strikingly fulfilled in Josephus' account of events preceding Jerusalem's destruction. These deceitful attempts aim to seduce even the elect, yet this assurance brings comfort that it will ultimately prove impossible. Stay resolute, for false reports should not easily sway us.",
+        "wordCount": 86,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.3025669519224998,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.65,
+        "commentatorTierSimilarities": [
+            71.84,
+            0.0,
+            28.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And then, if any man shall say to you, Lo, here is Christ; or, lo he is there; believe him not\u2014So Luke 17:23.",
+            "For false Christs and false prophets shall rise, and shall show signs and wonders. No one can read JOSEPHUS' account of what took place before the destruction of Jerusalem without seeing how strikingly this was fulfilled.",
+            "to seduce, if it were possible, even the elect\u2014implying that this, though all but done, will prove impossible. What a precious assurance! (Compare Luke 17:23- :)."
+        ],
+        "John Gill": [
+            "During those days of tribulation and affliction, or when shortened and at an end:",
+            "The Messiah has appeared in such or in such a place, to deliver you from your national distresses and calamities, and from the Roman yoke and bondage:",
+            "Give no credit to such a report, for the reason following:"
+        ],
+        "John Wesley": [
+            "Matthew 24:23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the days of tribulation, there will be those who claim to know the whereabouts of Christ, urging others to believe them. However, we are warned not to be swayed by such false claims. The rise of false Christs and false prophets, who perform deceptive signs and wonders, is a clear fulfillment of the prophecies. These individuals will try, if possible, to deceive even the elect. This should bring great comfort, as it is a confirmation that the elect will not be led astray. So, let us remain steadfast in our faith, not being easily swayed by empty promises or false reports.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.1170677058946397,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.49,
+            "commentatorTierSimilarities": [
+                67.4,
+                0.0,
+                32.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the days of tribulation, false Christs and prophets will arise, claiming to know the location of Christ and offering deliverance from afflictions and Roman oppression. However, we are warned not to believe them, as their signs and wonders are deceptive. This is a fulfillment of prophecies, and serves as a test of the elect's steadfastness. They will not be seduced by these falsehoods, unable to be led astray. We should be cautious and not easily swayed by false reports or empty promises.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.0530875686129644,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.36,
+            "commentatorTierSimilarities": [
+                64.34,
+                0.0,
+                35.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the days of tribulation, false Christs and false prophets will emerge, claiming to know the whereabouts of Christ and offering deliverance from affliction and Roman bondage. However, we are warned not to believe them, as their signs and wonders are deceitful. This prophecy is strikingly fulfilled in Josephus' account of events preceding Jerusalem's destruction. These deceitful attempts aim to seduce even the elect, yet this assurance brings comfort that it will ultimately prove impossible. Stay resolute, for false reports should not easily sway us.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.3025669519224998,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.65,
+            "commentatorTierSimilarities": [
+                71.84,
+                0.0,
+                28.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the days of tribulation, false Christs and prophets will arise, claiming to know the location of Christ and promising deliverance from afflictions and Roman oppression. However, we are cautioned not to put our trust in them, for their signs and wonders are deceptive. These prophecies are undeniably fulfilled, as seen in Josephus' account of events preceding the destruction of Jerusalem. While they may attempt to deceive even the elect, we can find solace in knowing that ultimately their seduction will be impossible. Let us remain steadfast, not easily swayed by false reports or empty promises.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.2446168523723449,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.73,
+            "commentatorTierSimilarities": [
+                68.85,
+                0.0,
+                31.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the days of tribulation, there will be false Christs and prophets who claim to know the whereabouts of Christ, seeking to deceive with signs and wonders. This prophecy is strikingly fulfilled in Josephus' account. However, we are urged not to be swayed by these false reports and empty promises. Even though they may attempt to seduce the elect, we can find reassurance in the fact that their influence will ultimately prove impossible. Let us remain steadfast, not easily deceived by their deceitful tactics.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.233071696749039,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.34,
+            "commentatorTierSimilarities": [
+                72.66,
+                0.0,
+                27.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

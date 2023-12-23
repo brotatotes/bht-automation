@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:23:13",
+    "verseRef": "Mark 6:6",
+    "bestBHT": {
+        "bht": "Jesus' surprise at the lack of faith from his own countrymen reflects the duality of his nature. As both fully human and divine, he had divine knowledge yet experienced human limitations, leading him to genuinely marvel at their unbelief. In contrast, he had previously marveled at the unexpected faith of a Roman centurion. This rejection in Nazareth marked the beginning of his journey through Galilee, where he tirelessly taught the people about the kingdom of God, despite encountering disbelief. Even Jesus' mother, Mary, never wavered in her faith in her extraordinary Son.",
+        "wordCount": 92,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 1.6897704716368218,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+        "commentatorTierSimilarities": [
+            36.03,
+            35.24,
+            28.73
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Marvelled\u2014this need not surprise us, nor be construed otherwise than as a literal description of the Lord\u2019s mind.",
+            "In the mystery of his humanity...so He might wonder at the unbelief of His countrymen.",
+            "And he went round... see Matt. ix. 35."
+        ],
+        "Philip Schaff": [
+            "He marvelled because of their unbelief. To be taken literally. On another occasion our Lord 'marvelled' (Matthew 8:10; Luke 7:9) at the great faith of a heathen centurion. Both instances indicate the great importance of faith.",
+            "The unbelief of Nazareth did not stop our Lord's activity. This circuit was closely connected with the sending forth of the Twelve (Mark 6:7); hence it seems to be identical with that mentioned in Matthew 9:35, if we refer the latter to a distinct journey.",
+            "It would be the third circuit through Galilee, which began with this rejection at Nazareth and continued until the return of the Apostles, when they all withdrew (Mark 6:30)."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus had divine knowledge and accurate insight into the human heart, but he had human limitations in certain things that are not clear to us.",
+            "He marvelled at the faith of the Roman centurion where one would not expect faith. Here he marvels at the lack of faith where he had a right to expect it.",
+            "One may excuse Mary, the mother of Jesus, from this unbelief, puzzled, as she probably was, by his recent conduct. There is no proof that she ever lost faith in her wonderful Son."
+        ],
+        "John Gill": [
+            "It was a surprise to Christ, as man, that his countrymen should not believe in him, but reject him as the Messiah.",
+            "The proofs of Christ's deity and Messiahship are so plain and incontestable, that it is amazing that there should be any, who have read them or heard of them, that should be deists, or continue unbelievers.",
+            "He took a circuit throughout all the little towns and villages round about Nazareth, instructing the ignorant country people, in the things concerning the kingdom of God."
+        ],
+        "John Wesley": [
+            "He marvelled \u2014 As man. As he was God, nothing was strange to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Jesus marvels at the lack of faith displayed by his own countrymen. As a human, it was not surprising that he would feel astonishment at their unbelief, especially considering his divine knowledge and accurate insight into the human heart. Interestingly, he had previously marveled at the great faith of a Roman centurion, showing the stark contrast between expected and unexpected belief. It is worth noting that while Mary, the mother of Jesus, could be excused for her momentary unbelief, there is no evidence that she ever lost faith in her wonderful Son. This rejection in Nazareth marked the beginning of Jesus' third circuit through Galilee, during which he continued to spread the message of the kingdom of God despite the unbelief he encountered.",
+            "wordCount": 126,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8278612536234156,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                34.95,
+                38.12,
+                26.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' astonishment at the lack of faith among his own countrymen reflects the mystery of his humanity and his divine knowledge. Despite his insight into the human heart, he had limitations that led to genuine surprise. Conversely, he had previously marveled at a Roman centurion's unexpected faith. This rejection in Nazareth marked the start of Jesus' third circuit through Galilee, during which he continued to spread the message of the kingdom of God, undeterred by the unbelief he encountered. Even Mary, the mother of Jesus, could be excused for her temporary doubt, but her unwavering faith remains evident.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.6325783053324803,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.63,
+            "commentatorTierSimilarities": [
+                37.31,
+                36.36,
+                26.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' astonishment at the lack of faith among his own countrymen is a literal description of his mind. While he had divine knowledge and insight into the human heart, he was still limited in certain ways. This contrast is seen when he previously marveled at the great faith of a Roman centurion. Despite the unbelief he encountered in Nazareth, Jesus continued his mission, embarking on a journey through Galilee to spread the message of the kingdom of God. Even Mary, the mother of Jesus, remained faithful throughout.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5767680967644129,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                37.33,
+                33.65,
+                29.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' astonishment at the lack of faith among his countrymen is a true reflection of his humanity, while also allowing us to ponder the mystery of his divinity. Despite having divine knowledge and insight, Jesus had human limitations that caused him to genuinely marvel at the unbelief he encountered. In contrast, he previously marveled at the unexpected faith of a Roman centurion. This rejection in Nazareth marked the start of Jesus' journey through Galilee, where he continued to teach the people about the kingdom of God, undeterred by their unbelief. Even Mary, Jesus' mother, maintained her unwavering faith in her Son.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.762366140873171,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.94,
+            "commentatorTierSimilarities": [
+                35.82,
+                37.05,
+                27.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' surprise at the lack of faith from his own countrymen reflects the duality of his nature. As both fully human and divine, he had divine knowledge yet experienced human limitations, leading him to genuinely marvel at their unbelief. In contrast, he had previously marveled at the unexpected faith of a Roman centurion. This rejection in Nazareth marked the beginning of his journey through Galilee, where he tirelessly taught the people about the kingdom of God, despite encountering disbelief. Even Jesus' mother, Mary, never wavered in her faith in her extraordinary Son.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.6897704716368218,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                36.03,
+                35.24,
+                28.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

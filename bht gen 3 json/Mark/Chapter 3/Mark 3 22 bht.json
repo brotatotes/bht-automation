@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:21:25",
+    "verseRef": "Mark 3:22",
+    "bestBHT": {
+        "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These learned and cunning men, seeking to oppose Him, made their way to Galilee to observe and find fault. Unfortunately, their influence led even the common people to doubt His works. It is concerning how easily a person of knowledge can dismiss clear evidence of God's work, explaining it away without acknowledging His involvement.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.1,
+        "qualityScore": 1.436936199338577,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.12,
+        "commentatorTierSimilarities": [
+            28.13,
+            37.0,
+            34.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The scribes which came down from Jerusalem...\" ",
+            "He hath Beelzebub... If He was possessed by Beelzebub, the prince of mons, He would thus have authority over the inferior evil spirits."
+        ],
+        "Marvin Vincent": [
+            "Beelzebub. See on Matthew 10:25.\" ",
+            "And. Not connecting two parts of one accusation, but two accusations, as is evident from the two otiv, which are equivalent to quotation marks."
+        ],
+        "Philip Schaff": [
+            "Mark thus defines the parties, while Matthew (Matthew 12:23) states the occasion of the accusation.",
+            "The purpose of their coming was doubtless to entrap and oppose Him.",
+            "Mark...states with greatest definiteness that they charged Him, not only with exercising Satanic power, but with being Himself possessed by an evil spirit."
+        ],
+        "John Gill": [
+            "These were they, who having heard much of the doctrine and miracles of Christ, came down from Jerusalem, which lay in the upper, and higher part of the land of Israel, into Galilee, a low country, to make their observations upon him and take every advantage they could against him, being men, in their way, letter learned, and artful, and cunning.",
+            "Beelzebub possessed him, and assisted him, and there was a confederacy and familiarity between them.",
+            "For so they reckoned Beelzebub to be."
+        ],
+        "John Wesley": [
+            "The common people now began to drink in the poison, from these learned, good, honourable men!",
+            "How easily may a man of learning elude the strongest proof of a work of God!",
+            "How readily can he account for every incident without ever taking God into the question."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. This accusation was made in an attempt to oppose and entrap Him. The scribes, being learned and cunning, came to Galilee specifically to observe and find fault with Him. Sadly, their influence and reputation caused even the common people to doubt and question the works and teachings of Jesus. It is astounding to see how easily a person of learning can dismiss the undeniable evidence of God's work and explain it away without acknowledging His involvement. The power of knowledge and influence can be a dangerous force, leading people away from acknowledging the true work of God.",
+            "wordCount": 133,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.4083895074313735,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.17,
+            "commentatorTierSimilarities": [
+                28.18,
+                38.31,
+                33.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scribes from Jerusalem accused Him of being possessed by Beelzebub, implying that His authority over evil spirits was due to his own possession. These cunning and learned men came to Galilee with the purpose of finding fault and opposing Him. Unfortunately, their influence caused even the common people to doubt His works. It is alarming to witness how easily someone with knowledge can dismiss the evidence of God's work, explaining it away without acknowledging His involvement. The power of influence can veer people away from recognizing the true work of God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.3248176117674288,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.39,
+            "commentatorTierSimilarities": [
+                27.33,
+                35.6,
+                37.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These learned and cunning men, seeking to oppose Him, made their way to Galilee to observe and find fault. Unfortunately, their influence led even the common people to doubt His works. It is concerning how easily a person of knowledge can dismiss clear evidence of God's work, explaining it away without acknowledging His involvement.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.436936199338577,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.12,
+            "commentatorTierSimilarities": [
+                28.13,
+                37.0,
+                34.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scribes from Jerusalem accused Him of being possessed by Beelzebub, implying that His authority over evil spirits was due to his own possession. These cunning and learned men sought to find fault with Him, even causing doubt among the common people. It is alarming how easily someone with knowledge can dismiss God's work, explaining it away without acknowledging His involvement. The power of influence can divert people from recognizing the true work of God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3392052337083142,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.87,
+            "commentatorTierSimilarities": [
+                28.65,
+                32.87,
+                38.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scribes who came from Jerusalem accused Him of being possessed by Beelzebub, suggesting that if He had authority over evil spirits, it must be because He himself was possessed by the prince of demons. These cunning and learned men came to Galilee specifically to observe and find fault with Him. Sadly, their influence and reputation caused even the common people to doubt and question the works and teachings of Jesus. It is astounding to see how easily a person of learning can dismiss the undeniable evidence of God's work and explain it away without acknowledging His involvement. The power of knowledge and influence can be a dangerous force, leading people away from acknowledging the true work of God.",
+            "wordCount": 120,
+            "quoteTokenProportion": 37.8,
+            "qualityScore": 1.3640464380065338,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.7,
+            "commentatorTierSimilarities": [
+                27.42,
+                34.13,
+                38.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

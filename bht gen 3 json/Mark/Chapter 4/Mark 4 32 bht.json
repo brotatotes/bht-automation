@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:22:00",
+    "verseRef": "Mark 4:32",
+    "bestBHT": {
+        "bht": "The mustard seed, a small garden herb, symbolizes the remarkable expansion of the kingdom of God. Jesus uses this parable to illustrate the growth from insignificance to greatness. As the tree provides shelter for birds, so does God's kingdom offer provision and protection. The parable not only teaches patience and hope but also highlights that the Gospel surpasses human traditions and philosophies. Like the mustard seed, the grace of God in believers' hearts spreads and enlarges, ultimately leading to eternal glory.",
+        "wordCount": 82,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.3503780325915267,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+        "commentatorTierSimilarities": [
+            29.77,
+            33.24,
+            36.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The word denotes garden - or pot - herbs, as distinguished from wild herbs.\" ",
+            "On branches, see note on Matthew 24:32.",
+            "Another says that he was wont to climb into it as men climb into a fig - tree."
+        ],
+        "Philip Schaff": [
+            "This parable, setting forth the wonderful extension of the kingdom of God, is an appropriate close to the selections made by our Evangelist.\" ",
+            "After the difficulties in the beginning (the sower) and the slow growth independently of human agency have been emphasized, the successful result is foretold.",
+            "The lesson of patience is again enforced, but hope is more directly encouraged."
+        ],
+        "Archibald T. Robertson": [
+            "The use of the mustard seed for smallness seems to have been proverbial and Jesus employs it elsewhere.",
+            "Both use \u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b7\u03bd\u03bf\u03b9\u03bd, to tent or camp down, make nests in the branches in the shade or hop on the ground under the shade just like a covey of birds.",
+            "The birds have nests (\u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b7\u03bd\u03c9\u03c3\u03b5\u03b9\u03c2)."
+        ],
+        "John Gill": [
+            "there was no stopping it; though the Jewish sanhedrim charged the apostles to speak no more in the name of Jesus, they regarded them not",
+            "the Gospel exceeds the traditions of the Jews, and the philosophy of the Gentiles, and any human scheme whatever, in its nature, usefulness, and the largeness of its spread",
+            "the grace of God in the heart, is vastly above nature, and does that which nature can never perform; and which spreads and enlarges, and at last issues in eternal glory"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the mustard seed in Mark 4:32 illustrates the incredible expansion of the kingdom of God. Jesus uses the image of a small garden herb to show that, although initially insignificant, the mustard seed grows into a great tree. The birds find shelter in the branches, highlighting the provision and protection of God's kingdom. This parable not only teaches about the patience and hope required in the growth of God's kingdom, but also emphasizes the surpassing nature of the Gospel compared to human traditions and philosophies. Just as the mustard seed spreads and enlarges, so does the grace of God in the hearts of believers, leading to eternal glory.",
+            "wordCount": 112,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.4442470624636425,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+            "commentatorTierSimilarities": [
+                31.48,
+                31.33,
+                37.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mustard seed, a small garden herb, symbolizes the remarkable expansion of the kingdom of God. Jesus uses this parable to illustrate the growth from insignificance to greatness. As the tree provides shelter for birds, so does God's kingdom offer provision and protection. The parable not only teaches patience and hope but also highlights that the Gospel surpasses human traditions and philosophies. Like the mustard seed, the grace of God in believers' hearts spreads and enlarges, ultimately leading to eternal glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.3503780325915267,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+            "commentatorTierSimilarities": [
+                29.77,
+                33.24,
+                36.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the mustard seed in Mark 4:32 reveals the extraordinary expansion of the kingdom of God. Jesus uses the imagery of a small garden herb growing into a large tree, providing shelter for birds. This parable signifies how the Gospel goes beyond human traditions and philosophies, surpassing all expectations. It teaches the vital lessons of patience and hope, while emphasizing the remarkable nature of God's grace in the hearts of believers, leading to ultimate, eternal glory.",
+            "wordCount": 78,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.2734535149770838,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.69,
+            "commentatorTierSimilarities": [
+                24.78,
+                33.14,
+                42.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mustard seed parable showcases the exceptional growth of God's kingdom. Jesus compares it to a small garden herb that transforms into a substantial tree, providing shelter for birds. This parable emphasizes that the Gospel surpasses human traditions and philosophies, expanding beyond expectations. It teaches the valuable lessons of patience and hope and highlights the remarkable nature of God's grace in believers' hearts, leading to everlasting glory. The kingdom's expansion is unstoppable, defying all attempts to hinder it.",
+            "wordCount": 81,
+            "quoteTokenProportion": 22.95,
+            "qualityScore": 1.222560549619865,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.99,
+            "commentatorTierSimilarities": [
+                25.1,
+                36.15,
+                38.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Like a mustard seed that grows into a great tree, the kingdom of God expands exponentially. This parable signifies the remarkable expansion of the Gospel, surpassing human traditions and philosophies. It teaches the virtues of patience and hope and highlights the extraordinary nature of God's grace in believers' hearts, ultimately leading to eternal glory. Attempts to halt its progress are futile, as the kingdom's growth is unstoppable. The branches of the tree provide shelter for birds, symbolizing God's provision and protection within his kingdom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.2492290972582345,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.88,
+            "commentatorTierSimilarities": [
+                25.31,
+                36.65,
+                38.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

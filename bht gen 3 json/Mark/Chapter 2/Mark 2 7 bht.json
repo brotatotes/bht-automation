@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:20:38",
+    "verseRef": "Mark 2:7",
+    "bestBHT": {
+        "bht": "The people question Jesus' authority to forgive sins, recognizing that only God possesses this power. Jesus treats them as deserving of evidence and provides it through the healing of a paralyzed man. This occurrence proves the incorrectness of their judgment and shows that Jesus is not blaspheming, but rather exercising the prerogative of God in forgiving sins. Ultimately, no one but God can forgive sins, and it is only through faith in Christ that one can receive the remission of sins.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 1.7909522401671243,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+        "commentatorTierSimilarities": [
+            32.51,
+            16.37,
+            51.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "7. this man thus] the first word depreciates; the second exaggerates."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who can forgive sins but God only?\" - The people question Jesus' authority to forgive sins, recognizing that only God possesses this power.",
+            "They could not, on the first blush of it, but regard as in the last degree startling.\" - The people are initially taken aback by Jesus' claim to forgive sins.",
+            "Our Lord deals with them as men entitled to such evidence, and supplies it.\" - Jesus responds to the people's doubt by providing evidence to support his claim, treating them as deserving of this evidence."
+        ],
+        "Philip Schaff": [
+            "Why doth this man thus speak? He blasphemeth! Who can, etc. This is the best established sense of the verse.",
+            "If our Lord were what the scribes deemed Him, their judgment was correct.",
+            "This occurrence is to prove the incorrectness of their estimate of Him."
+        ],
+        "Archibald T. Robertson": [
+            "The correct text here has this verb.",
+            "Their logic was correct. The only flaw in it was the possibility that Jesus held a peculiar relation to God which justified his claim.",
+            "Knowing full well that he had exercised the prerogative of God in forgiving the man's sins he proceeds to justify his claim by healing the man."
+        ],
+        "John Gill": [
+            "They were right in saying that none but God could forgive sin, against whom it is committed; but wrong in charging Christ with blasphemy on this account; because he is truly God, as well as man, as his omniscience and omnipotence hereafter manifested, did abundantly show.",
+            "The ministers of the Gospel may be said to remit sins ministerially, or declaratively, by preaching the doctrine of pardon, declaring that such as believe in Christ shall receive the remission of sins.",
+            "Nor can any man procure the forgiveness of his sins by anything he has or can do; not by his riches, his repentance, his faith, or his good works."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in Mark 2:7 question Jesus' authority to forgive sins, recognizing that only God possesses this power. Initially taken aback by Jesus' claim, they fail to see the possibility that Jesus holds a unique relationship with God that justifies his claim. Jesus understands their doubt and treats them as deserving of evidence, providing it through the healing of a paralyzed man. This occurrence proves the incorrectness of their judgment and shows that Jesus is not blaspheming, but rather exercising the prerogative of God in forgiving sins. Ultimately, no one but God can forgive sins, and it is only through faith in Christ that one can receive the remission of sins.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.8355850510985152,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                33.57,
+                19.12,
+                47.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people question Jesus' authority to forgive sins, recognizing that only God possesses this power. Initially taken aback, they fail to see the possibility that Jesus holds a unique relationship with God that justifies his claim. Jesus treats them as deserving of evidence and provides it through the healing of a paralyzed man. This occurrence shows the incorrectness of their judgment and proves that Jesus is not blaspheming, but rather exercising the prerogative of God in forgiving sins. Ultimately, no one but God can forgive sins, and it is only through faith in Christ that one can receive the remission of sins.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.8071656254164263,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.43,
+            "commentatorTierSimilarities": [
+                33.77,
+                18.56,
+                47.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people question Jesus' authority to forgive sins, recognizing that only God possesses this power. Jesus treats them as deserving of evidence and provides it through the healing of a paralyzed man. This occurrence proves the incorrectness of their judgment and shows that Jesus is not blaspheming, but rather exercising the prerogative of God in forgiving sins. Ultimately, no one but God can forgive sins, and it is only through faith in Christ that one can receive the remission of sins.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.7909522401671243,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                32.51,
+                16.37,
+                51.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people question Jesus' authority to forgive sins, recognizing that only God possesses this power. Jesus treats them as deserving of evidence and provides it through the healing of a paralyzed man. This occurrence proves the incorrectness of their judgment and shows that Jesus is not blaspheming, but rather exercising the prerogative of God in forgiving sins. Ultimately, no one but God can forgive sins, and it is only through faith in Christ that one can receive the remission of sins.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.7909522401671243,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                32.51,
+                16.37,
+                51.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people question Jesus' authority to forgive sins but fail to see the possibility that Jesus holds a unique relationship with God that justifies his claim. Jesus treats them as deserving of evidence and provides it through the healing of a paralyzed man. This occurrence proves their judgment incorrect and establishes that Jesus is not blaspheming, but rather exercising the prerogative of God in forgiving sins. Ultimately, only God can forgive sins, and it is through faith in Christ that one can receive the remission of sins.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7785968461394668,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "commentatorTierSimilarities": [
+                33.03,
+                15.18,
+                51.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

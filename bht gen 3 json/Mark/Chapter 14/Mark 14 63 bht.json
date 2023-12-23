@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:29:03",
+    "verseRef": "Mark 14:63",
+    "bestBHT": {
+        "bht": "Upon hearing the alleged blasphemy, the high priest responded by tearing his clothes, specifically his tunics instead of his priestly robe, which was reserved for temple use. This act of tearing clothes was a customary expression of horror at blasphemy, as seen in 2 Kings 18:37. The use of the plural clothes suggests that individuals of importance would wear two inner garments. The high priest's statement, What need we any further witnesses? indicates his view that the alleged blasphemy was sufficient evidence, reflecting his quick judgment and seriousness in addressing the accusation.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.81,
+        "qualityScore": 1.690614613036783,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+        "commentatorTierSimilarities": [
+            32.6,
+            0.0,
+            67.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His clothes, literally, his tunics\u2014not his priestly robe, which was worn only in the temple, and when officiating.",
+            "The plural perhaps is due to the wearing of two inner garments by persons of note.",
+            "The plural perhaps is due to the wearing of two inner garments by persons of note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "63. Then the high priest rent his",
+            "\tclothes\u2014On this expression of horror of blasphemy, see",
+            "\t2 Kings 18:37. ",
+            "\t",
+            "and saith, What need we any",
+            "\tfurther witnesses? (Also see on 2 Kings 18:37- :.)"
+        ],
+        "John Gill": [
+            "The high priest rent his clothes.... As was usual upon hearing blasphemy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The high priest, upon hearing the alleged blasphemy, tore his clothes, a common response to blasphemy in the Bible (2 Kings 18:37). The use of the plural clothes indicates that it was his tunics, not his priestly robe, that he rent. This detail is significant because the priestly robe could only be worn in the temple or during official functions. The mention of the high priest's action adds weight to the situation and emphasizes the seriousness of the accusation. The high priest's statement, What need we any further witnesses? suggests that he considered the alleged blasphemy to be sufficient evidence on its own. This response reflects the high priest's deep concern and quick judgment in response to what he perceived as a blasphemous statement.",
+            "wordCount": 125,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.481912711297236,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.62,
+            "commentatorTierSimilarities": [
+                28.62,
+                0.0,
+                71.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tearing of the high priest's clothes, specifically his tunics rather than his priestly robe, upon hearing the alleged blasphemy echoes the response to blasphemy in 2 Kings 18:37. The mention of the plural clothes signifies that persons of note would wear two inner garments. This detail emphasizes the seriousness of the accusation. The high priest's statement, What need we any further witnesses? implies that he deemed the alleged blasphemy as sufficient evidence. His swift judgment and deep concern regarding the perceived blasphemy is evident.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.4400319928839884,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.22,
+            "commentatorTierSimilarities": [
+                32.55,
+                0.0,
+                67.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon hearing the alleged blasphemy, the high priest responded by tearing his clothes, specifically his tunics instead of his priestly robe, which was reserved for temple use. This act of tearing clothes was a customary expression of horror at blasphemy, as seen in 2 Kings 18:37. The use of the plural clothes suggests that individuals of importance would wear two inner garments. The high priest's statement, What need we any further witnesses? indicates his view that the alleged blasphemy was sufficient evidence, reflecting his quick judgment and seriousness in addressing the accusation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.690614613036783,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+            "commentatorTierSimilarities": [
+                32.6,
+                0.0,
+                67.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The high priest, upon hearing the alleged blasphemy, tore his clothes, specifically his tunics, in a customary act of horror at blasphemy, as seen in 2 Kings 18:37. The mention of the plural clothes suggests that individuals of importance would wear two inner garments. This detail emphasizes the seriousness of the accusation. The high priest's response, What need we any further witnesses?, implies that he deemed the alleged blasphemy as sufficient evidence. His swift judgment and deep concern regarding the perceived blasphemy is evident.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4142209252133593,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.37,
+            "commentatorTierSimilarities": [
+                31.41,
+                0.0,
+                68.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The high priest, in response to the alleged blasphemy, tear his clothes, particularly his tunics, which were distinct from his priestly robe worn exclusively in the temple. The plural reference to clothes suggests that individuals of significance would wear multiple inner garments. This detail highlights the severity of the accusation. Moreover, when the high priest exclaimed, What need we any further witnesses?, he essentially conveyed his belief that the alleged blasphemy alone constituted enough evidence. This reaction showcases the high priest's swift judgment and deep concern regarding the perceived blasphemy.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3618861831903153,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+            "commentatorTierSimilarities": [
+                30.78,
+                0.0,
+                69.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

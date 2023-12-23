@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:20:54",
+    "verseRef": "Mark 2:23",
+    "bestBHT": {
+        "bht": "As Jesus and his disciples were walking through the cornfields on the Sabbath day, they began to pluck the ears of corn and eat them. While some suggest that they created a path by plucking the stalks, this interpretation is likely mistaken, as they wouldn't have needed to do so. The offense that the Pharisees took was not at the disciples' actions of clearing a path, but rather at the work of preparing food on the Sabbath. This incident is also paralleled in Matthew 12:1-8 and Luke 6:1 for a more thorough discussion.",
+        "wordCount": 92,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 1.7997911711074792,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+        "commentatorTierSimilarities": [
+            38.04,
+            31.22,
+            30.74
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The interpretation of this narrative given by Meyer, I believe to be an entirely mistaken one.",
+            "Could it be said that any necessity compelled them to clear the path by pulling up the overhanging stalks of corn?",
+            "Fritzache\u2019s rendering, \u2018to mark the way by plucking ears and strewing them in it,\u2019 is still worse."
+        ],
+        "Marvin Vincent": [
+            "Began, as they went, to pluck...does not mean that the disciples broke a way for themselves through the standing corn by plucking the ears.\" ",
+            "They could not have made a way by plucking the heads of the grain.",
+            "The offense given the Pharisees was the preparation of food on the Sabbath."
+        ],
+        "Philip Schaff": [
+            "That they ate the grain, appears not only from the parallel passages, but from the reference to David\u2019s eating.",
+            "Some think the sense is: broke a way through the grain by plucking off the ears. But this would not have been necessary, since they could tread a path through.",
+            "Evidently this account also in Mark 2:27 points to an act of necessity."
+        ],
+        "Archibald T. Robertson": [
+            "Through the cornfields... They began to make their way plucking the ears of corn.\" ",
+            "Work of preparing food the rabbis called it.",
+            "See on Matthew 12:1-8 for discussion of this passage, parallel also in Luke 6:15."
+        ],
+        "John Gill": [
+            "And it came to pass,.... The Vulgate Latin adds, 'again'; and so Beza says it was read in one of his copies.",
+            "That he went through the corn fields on the sabbath day, and his disciples began, as they went, to pluck the ears of corn, and to rub them, and get the grain out of them, and eat them;",
+            "-"
+        ],
+        "John Wesley": [
+            "Matthew 12:1; Luke 6:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus and his disciples were walking through the cornfields on the Sabbath day, they began to pluck the ears of corn and eat them. While some suggest that they created a path by plucking the stalks, this interpretation is likely mistaken, as they wouldn't have needed to do so. The offense that the Pharisees took was not at the disciples' actions of clearing a path, but rather at the work of preparing food on the Sabbath. This incident is also paralleled in Matthew 12:1-8 and Luke 6:1 for a more thorough discussion.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7997911711074792,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                38.04,
+                31.22,
+                30.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus and his disciples were walking through the cornfields on the Sabbath day, they began to pluck the ears of corn and eat them. The Pharisees took offense not at the disciples' actions of clearing a path, but rather at the work of preparing food on the Sabbath. This incident is also paralleled in Matthew 12:1-8 and Luke 6:1.",
+            "wordCount": 58,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7251662484670338,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                36.64,
+                24.23,
+                39.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While Jesus and his disciples were walking through the cornfields on the Sabbath day, they began to pluck the ears of corn and eat them. The Pharisees were offended by the work of preparing food on the Sabbath. This incident is also found in Matthew 12:1-8 and Luke 6:1.",
+            "wordCount": 47,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6653390201897014,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                38.22,
+                21.72,
+                40.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus and his disciples made their way through the cornfields on the Sabbath day, they began to pluck the ears of corn, which, contrary to some interpretations, did not involve breaking a path through the standing corn. The offense given to the Pharisees was not the act of clearing a path, but rather the work of preparing food on the Sabbath. This incident is further discussed in parallel passages such as Matthew 12:1-8 and Luke 6:1.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.784157764146014,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+            "commentatorTierSimilarities": [
+                37.49,
+                29.68,
+                32.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus and his disciples walked through the cornfields on the Sabbath day, they began to pluck the ears of corn to eat. However, it is important to note that they did not have to break a path through the standing corn to do so. The offense given to the Pharisees was not the act of clearing a path, but rather the work of preparing food on the Sabbath. This incident is also discussed in parallel passages such as Matthew 12:1-8 and Luke 6:1.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.6733281276178307,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                38.27,
+                30.23,
+                31.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

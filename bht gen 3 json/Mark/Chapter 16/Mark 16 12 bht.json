@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-22-2023 23:30:23",
+    "verseRef": "Mark 16:12",
+    "bestBHT": {
+        "bht": "Jesus appeared in another form as he walked and went into the country with two disciples. At first, their eyes were unable to recognize him, but it was during their meal together that Jesus revealed himself in his usual form. This encounter, narrated by the Third Evangelist, emphasizes the significance of Jesus appearing in a different form after a previous manifestation. Although the disciples did not immediately recognize him, they eventually came to know and acknowledge that it was indeed Jesus who appeared to them.",
+        "wordCount": 85,
+        "quoteTokenProportion": 57.14,
+        "qualityScore": 1.9139410374606884,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+        "commentatorTierSimilarities": [
+            34.81,
+            32.8,
+            32.39
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This verse epitomizes the events on the journey to Emmaus.",
+            "It was not as they walked, but as they sat at meat that he was manifested to them.",
+            "His being in his usual form being declared by Jesus himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "After that he appeared in another form.\" ",
+            "Unto two of them as they walked, and went into the country.\" ",
+            "The reference here, of course, is to His manifestation to the two disciples going to Emmaus, so exquisitely told by the Third Evangelist."
+        ],
+        "Albert Barnes": [
+            "He appeared in another form - In a form unlike his ordinary appearance.\" (Commentary)",
+            "So much so that they did not at first know him.\" (Commentary)",
+            "As they walked and went into the country.\" (Commentary)"
+        ],
+        "Marvin Vincent": [
+            "After these things [\u03bc\u03b5\u03c4\u03b1 \u03c4\u03b1\u03c5\u03c4\u03b1] . An expression never used by Mark. ",
+            "Another form [\u03b5\u03c4\u03b5\u03c1\u03b1 \u03bc\u03bf\u03c1\u03c6\u03b7] . More correctly, a different form."
+        ],
+        "Philip Schaff": [
+            "This expression, peculiar to this section, marks definitely a second appearance, after the \u2018first\u2019 (Mark 16:9).",
+            "In another form, so that they did not recognize Him.",
+            "The manifestation took place at the close of the walk, but this is the language of brevity."
+        ],
+        "Archibald T. Robertson": [
+            "After these things (\u03bc\u03b5\u03c4\u03b1 \u03c4\u03b1\u03c5\u03c4\u03b1). Only here in Mark.",
+            "In another form (\u03b5\u03bd \u03b5\u03c4\u03b5\u03c1\u03b1 \u03bc\u03bf\u03c1\u03c6\u03b7). It was not a \u03bc\u03b5\u03c4\u03b1\u03bc\u03bf\u03c1\u03c6\u03c9\u03c3\u03b9\u03c2 or transfiguration like that described in Mark 9:2.",
+            "Their eyes were holden so that they could not recognize Jesus."
+        ],
+        "John Gill": [
+            "He appeared in another form... very likely in the habit of a Scribe, or doctor... took bread, and blessed it, when at supper with them.\" ",
+            "This is not to be understood of any change in the shape of his body, or the features of his face; for... they knew him perfectly well.",
+            "This appearance was unto two of them... as they walked, and went into the country."
+        ],
+        "John Wesley": [
+            "Luke 24:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage, Jesus appeared to two disciples in another form, different from his usual appearance. As they walked and went into the country, their eyes were unable to recognize him at first. This particular event recalls the journey to Emmaus, where Jesus revealed himself as the disciples sat down to eat. This second appearance by Jesus, after the initial one, signifies a significant encounter that took place during their walk. Though in a different form, Jesus was known to the disciples, and this encounter was captured vividly by the Third Evangelist.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.8266964254811842,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.08,
+            "commentatorTierSimilarities": [
+                34.17,
+                33.27,
+                32.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus manifested himself to two disciples in another form as they walked and went into the country. Their eyes were initially unable to recognize him, but it was during their meal together that his usual form was revealed. This significant encounter, beautifully recounted by the Third Evangelist, depicts Jesus appearing in a different form after a previous manifestation. The disciples, although initially unaware, came to know and understand that it was Jesus who appeared to them.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.8199416363541856,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                34.31,
+                32.41,
+                33.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus appeared in another form as he walked and went into the country with two disciples. At first, their eyes were unable to recognize him, but it was during their meal together that Jesus revealed himself in his usual form. This encounter, narrated by the Third Evangelist, emphasizes the significance of Jesus appearing in a different form after a previous manifestation. Although the disciples did not immediately recognize him, they eventually came to know and acknowledge that it was indeed Jesus who appeared to them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 1.9139410374606884,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                34.81,
+                32.8,
+                32.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus appeared to two disciples in another form as they walked and went into the country. Their eyes were unable to recognize him at first, but during their meal together, Jesus revealed himself in his usual form. This event, described by the Third Evangelist, highlights the significance of Jesus appearing in a different form after a previous manifestation. Although the disciples initially did not recognize him, they eventually came to know that it was Jesus who appeared to them.",
+            "wordCount": 79,
+            "quoteTokenProportion": 55.93,
+            "qualityScore": 1.9063795261069634,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                34.76,
+                32.1,
+                33.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse relates to an event on the journey to Emmaus, where Jesus appeared in a different form to two disciples as they walked and went into the country. Their eyes were held so that they did not initially recognize him. This unique form of manifestation occurred after other significant events and was distinct from the transfiguration. Some suggest that Jesus may have appeared in the guise of a Scribe or doctor, as he later took bread and blessed it during supper with them. The full story can be found in Luke 24:13.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.68,
+            "qualityScore": 1.6926359228995453,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                29.57,
+                28.62,
+                41.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

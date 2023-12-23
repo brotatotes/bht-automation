@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:24:34",
+    "verseRef": "Mark 7:24",
+    "bestBHT": {
+        "bht": "Jesus went away to a place in the region of Tyre, seeking privacy and rest after challenging the Pharisees. Although His mission focused on the lost sheep of Israel, He did not turn away the lost Gentiles who sought Him. His fame had spread to the area, and he could not go unnoticed. This incident highlights the contrast between the rejection of the Jews and the faith of the Gentile woman who came to Jesus, demonstrating that Jesus did not prevent the Gentiles from seeking Him.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.8352355473510695,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+        "commentatorTierSimilarities": [
+            33.91,
+            39.92,
+            26.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "from thence is not, from the land of Gennesaret (Meyer),\u2014for ch. vi. 55, 56, has completely removed definiteness from the locality;\u2014but refers to the (un-specified) place of the last discourse.\" ",
+            "the borders] The place must have been the neighbourhood of Tyre."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His immediate object seems to have been to avoid the wrath of the Pharisees at the withering exposure He had just made of their traditional religion.",
+            "But though not 'sent but to the lost sheep of the house of Israel,' He hindered not the lost sheep of the vast Gentile world from coming to Him, nor put them away when they did come\u2014as this incident was designed to show.",
+            "but he could not be hid\u2014Christ's fame had early spread from Galilee to this very region."
+        ],
+        "Marvin Vincent": [
+            "Went away. See on chapter Mark 6:31. The entering into the house and the wish to be secluded are peculiar to Mark."
+        ],
+        "John Calvin": [
+            "He wished that no man should know it.",
+            "In that respect it is said that what he wished, as man, he was unable to accomplish.",
+            "This occurrence...tends powerfully to condemn the Jews...while this woman...came of her own accord to Christ."
+        ],
+        "Philip Schaff": [
+            "Went. Matthew: 'withdrew,' to avoid the Pharisees.",
+            "And he could not be hid. From the desire of the mother who came.",
+            "Some however suppose that the first entreaty (Matthew 15:22) took place outside the house and the final entreaty within it, so that 'He could not be hid,' because she pressed in."
+        ],
+        "Archibald T. Robertson": [
+            "It was not merely the edge of Phoenicia, but into the parts of Tyre and Sidon.",
+            "Jesus wanted to be alone in the house after all the strain in Galilee. He craved a little privacy and rest.",
+            "Note the adversative sense of \u03ba\u03b1 here= 'but.'"
+        ],
+        "John Gill": [
+            "And entered into an house; in some one of the towns, or cities, in those parts; which house might be, for the entertainment and lodging of strangers.\" ",
+            "That nobody should know who, and where he was; that the Gentiles, on whose borders he was, might not flock to him, which would create envy and disgust in the Jews.\" ",
+            "He had wrought so many miracles in Galilee, and his fame was so much spread, and he had been seen, and was known by so many persons, that, humanly speaking, it was next to impossible, that he should be long unknown in such a place."
+        ],
+        "John Wesley": [
+            "Matthew 15:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus went away to a place in the region of Tyre, seeking privacy and rest after confronting the Pharisees. Although His mission was primarily focused on the lost sheep of Israel, He did not turn away the lost sheep of the Gentile world who sought Him. His fame had already spread to this region, and despite His desire for seclusion, He could not go unnoticed. The incident in Tyre demonstrates the contrast between the rejection of the Jews and the faith of this Gentile woman who came to Jesus on her own accord. By entering a house, Jesus attempted to avoid attention, but his previous miracles and widespread recognition made it nearly impossible for Him to remain unknown in this area.",
+            "wordCount": 121,
+            "quoteTokenProportion": 36.71,
+            "qualityScore": 1.8263074141129696,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                34.61,
+                39.07,
+                26.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus went away to a place in the region of Tyre, seeking privacy and rest after challenging the Pharisees. Although His mission focused on the lost sheep of Israel, He did not turn away the lost Gentiles who sought Him. His fame had spread to the area, and he could not go unnoticed. This incident highlights the contrast between the rejection of the Jews and the faith of the Gentile woman who came to Jesus, demonstrating that Jesus did not prevent the Gentiles from seeking Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.8352355473510695,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                33.91,
+                39.92,
+                26.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus sought privacy and rest in the region of Tyre after exposing the traditional religion of the Pharisees. Despite being primarily sent to the lost sheep of Israel, Jesus did not reject the lost sheep of the Gentile world who sought him. His fame had already reached this area, making it impossible for him to remain hidden. This incident reveals the contrast between the Jews' rejection and the faith of the Gentile woman, emphasizing that Jesus welcomed Gentiles who came to him willingly.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7822771486177011,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                34.15,
+                38.51,
+                27.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus sought rest in Tyre after exposing the traditional religion of the Pharisees. Despite his mission to the lost sheep of Israel, he welcomed Gentiles who sought him. His fame had spread already, making it impossible for him to remain concealed. This incident contrasts the Jews' rejection with the faith of the Gentile woman, demonstrating Jesus' acceptance of those who approach him willingly.",
+            "wordCount": 63,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6512464164064968,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.25,
+            "commentatorTierSimilarities": [
+                33.01,
+                38.57,
+                28.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Seeking rest in Tyre after exposing the traditional religion of the Pharisees, Jesus drew Gentiles who sought him despite his mission to the lost sheep of Israel. His widespread fame made it impossible to remain concealed, highlighting the contrast between Jewish rejection and the faith of the Gentile woman who approached him willingly. This incident affirmed Jesus' acceptance of those who came to him, demonstrating the openness of his ministry to both Jews and Gentiles.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.7082576015243103,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.14,
+            "commentatorTierSimilarities": [
+                31.22,
+                36.52,
+                32.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

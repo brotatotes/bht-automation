@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:24:09",
+    "verseRef": "Mark 7:25",
+    "bestBHT": {
+        "bht": "The woman, whose little daughter was badly demonized, had been following Jesus and His disciples and had heard of His fame. When she finally encountered Jesus, she fell at His feet, worshipping Him and earnestly entreating mercy for her child. It is remarkable to consider how distress, even from a distance, can lead one to recognize the power and authority of Jesus and compel them to seek His help.",
+        "wordCount": 69,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.6513835581841505,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.25,
+        "commentatorTierSimilarities": [
+            32.1,
+            19.72,
+            48.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] The woman had been following Him, and His disciples before, Matthew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Distress is quick of hearing.",
+            "One wonders how.",
+            "Whose young daughter had an unclean spirit\u2014or, as in Matthew, 'was badly demonized.'"
+        ],
+        "Marvin Vincent": [
+            "Daughter [\u03b8\u03c5\u03b3\u03b1\u03c4\u03c1\u03b9\u03bf\u03bd] . Diminutive. Rev., little daughter. See on chapter Mark 5:23."
+        ],
+        "Philip Schaff": [
+            "Mark 7:25. Having heard of him, came. Probably into the house.",
+            "\t",
+            " Fell at his feet. In her final entreaty also she \u2018worshipped Him\u2019 (Matthew 15:25).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Whose little daughter (\u03b7\u03c2 \u03c4\u03bf \u03b8\u03c5\u03b3\u03b1\u03c4\u03c1\u03b9\u03bf\u03bd \u03b1\u03c5\u03c4\u03b7\u03c2). Diminutive with tender touch. Note 'whose' and 'her' like vernacular today.",
+            "Having heard of him (\u03b1\u03ba\u03bf\u03c5\u03c3\u03b1\u03c3\u03b1 \u03c0\u03b5\u03c1 \u03b1\u03c5\u03c4\u03bf\u03c5). Even in this heathen territory the fame of Jesus was known.",
+            "When the Sermon on the Mount was preached people were there from 'the sea coast of Tyre and Sidon' (Luke 6:17)."
+        ],
+        "John Gill": [
+            "One way and means by which he came to be more openly discovered who he was, was this...",
+            "hearing of some miracles he had wrought in healing the sick, and casting out devils...",
+            "threw herself at his feet, and earnestly entreated mercy for her child; believing he had power to cast the devil out of her, though at a distance from her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman, whose young daughter was badly demonized, had been following Jesus and His disciples and had heard of His fame. When she finally encountered Jesus, she fell at His feet, worshipping Him and earnestly entreating mercy for her child. It is remarkable to consider how distress, even from a distance, can lead one to recognize the power and authority of Jesus and compel them to seek His help.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.648580025156581,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.16,
+            "commentatorTierSimilarities": [
+                32.36,
+                18.89,
+                48.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman, whose little daughter was badly demonized, had been following Jesus and His disciples and had heard of His fame. When she finally encountered Jesus, she fell at His feet, worshipping Him and earnestly entreating mercy for her child. It is remarkable to consider how distress, even from a distance, can lead one to recognize the power and authority of Jesus and compel them to seek His help.",
+            "wordCount": 69,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6513835581841505,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.25,
+            "commentatorTierSimilarities": [
+                32.1,
+                19.72,
+                48.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman, whose little daughter had an unclean spirit, had been following Him and His disciples, having heard of Him and the miracles He had performed in healing the sick and casting out devils. Finally, she threw herself at His feet, worshiping Him and earnestly entreating mercy for her child, believing in His power to cast out the devil even from a distance. It is truly amazing how distress can lead one to recognize the authority and ability of Jesus, compelling them to seek His help.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5370863980885063,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                22.41,
+                13.51,
+                64.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman, whose little daughter had an unclean spirit, had been following Him and His disciples, having heard of Him and the miracles He had performed. Finally, she threw herself at His feet, earnestly entreating mercy for her child, believing in His power to cast out the devil even from a distance. It is amazing how distress can lead one to recognize Jesus' authority and ability, prompting them to seek His help.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.5595219589977964,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.2,
+            "commentatorTierSimilarities": [
+                26.48,
+                12.96,
+                60.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Having heard of Him and the miracles He had performed in healing the sick and casting out devils, the woman whose young daughter was badly demonized followed Jesus and His disciples. She threw herself at His feet, earnestly entreating mercy for her child, believing He had the power to cast out the devil even from a distance. It is remarkable how distress can lead one to recognize and acknowledge the authority and ability of Jesus, compelling them to seek His help.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.5612095561969364,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.25,
+            "commentatorTierSimilarities": [
+                23.81,
+                11.75,
+                64.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

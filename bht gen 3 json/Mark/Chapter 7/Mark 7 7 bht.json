@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:23:32",
+    "verseRef": "Mark 7:7",
+    "bestBHT": {
+        "bht": "Their worship, though attended with a great show of sanctity and religion, was a mere empty thing, devoid of life, power, and spirituality. It neither issued in the glory of God, nor brought any true pleasure or solid peace to themselves. Alas, they would find, by sad experience, that their hope of being in the favor of God, and of enjoying eternal happiness on account of it, would prove a vain hope.",
+        "wordCount": 72,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.990025322992779,
+        "qualityScoreNormalizedComparedToV2BHTs": 90.76,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Their worship of him, though attended with a great show of sanctity and religion, was a vain thing, a mere empty thing, devoid of life, power, and spirituality, unacceptable to God, and of no real use, profit, and advantage to themselves.\" ",
+            "It neither issued in the glory of God, nor brought any true pleasure, or solid peace to themselves.",
+            "They would find, by sad experience, that their hope of being in the favour of God, and of enjoying eternal happiness on account of it, would prove a vain hope."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their worship was a mere empty thing, devoid of life and power, and unacceptable to God. Though they displayed great sanctity and religion, it brought no true pleasure or peace to themselves. Their hope of being in God's favor and enjoying eternal happiness would prove to be in vain.",
+            "wordCount": 50,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 2.5632430917432885,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.57,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their worship, though accompanied by a great show of sanctity and religion, was a vain and empty thing, lacking life, power, and spirituality. Not only was it unacceptable to God, but it also brought no real benefit or advantage to themselves. It failed to bring forth the glory of God and did not provide them with true pleasure or lasting peace. In the end, their hope of finding favor with God and attaining eternal happiness would prove to be an empty and futile hope.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.343870551856087,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their worship, though filled with sanctity and religion, was a vain and empty display, lacking in life, power, and spirituality. It brought no real benefit to themselves, failing to bring forth God's glory or provide true pleasure or peace. Their hope of finding favor with God and attaining eternal happiness would ultimately prove to be in vain.",
+            "wordCount": 58,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 2.539879106603683,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.79,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their worship, though attended with a great show of sanctity and religion, was a mere empty thing, devoid of life, power, and spirituality. It neither issued in the glory of God, nor brought any true pleasure or solid peace to themselves. Alas, they would find, by sad experience, that their hope of being in the favor of God, and of enjoying eternal happiness on account of it, would prove a vain hope.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.990025322992779,
+            "qualityScoreNormalizedComparedToV2BHTs": 90.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their worship, though accompanied with sanctity and religion, was a vain and empty thing, devoid of life, power, and spirituality. It neither brought glory to God nor provided true pleasure or peace to themselves. Their hope of finding God's favor and eternal happiness would prove to be in vain.",
+            "wordCount": 50,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 2.611003392506654,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.16,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

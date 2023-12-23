@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:21:04",
+    "verseRef": "Mark 3:2",
+    "bestBHT": {
+        "bht": "The Scribes and Pharisees carefully watched Jesus, ready to accuse him of breaking their Sabbath rules. Their determination to catch him grew as their pride, anger, and shame turned into malice. Mark emphasizes their vigilant observation, noting how they were eagerly waiting to see if Jesus would heal on the Sabbath. Their intention was clear - to find a way to accuse him, just as they had done with his disciples before.",
+        "wordCount": 71,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 1.7608736598754602,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.89,
+        "commentatorTierSimilarities": [
+            36.99,
+            14.9,
+            48.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "2.] St. Luke only adds that it was the Scribes and Pharisees who watched Him."
+        ],
+        "Marvin Vincent": [
+            "They watched. They kept watching.",
+            "The compound verb, with para, by the side of, means to watch carefully or closely.",
+            "He would heal. Future tense: whether he will heal, the reader being placed at the time of the watching, and looking forward to the future."
+        ],
+        "Philip Schaff": [
+            "Mark 3:2. And they watched him. Watched Him closely.",
+            "\t",
+            " Whether he would. Lit., \u2018will\u2019 Mark\u2019s account being in the present tense.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They watched (\u03c0\u03b1\u03c1\u03b5\u03c4\u03b7\u03c1\u03bf\u03c5\u03bd). Imperfect tense, were watching on the side (or sly).",
+            "It was the sabbath day and in the synagogue and they were there ready to catch him in the act if he should dare to violate their rules as he had done in the wheat fields on the previous sabbath.",
+            "They were determined to accuse him. The sabbath controversy offered the best opening. So here they are ready for business."
+        ],
+        "John Gill": [
+            "And they watched him... diligently... to see whether he would heal him on the sabbath day.\" ",
+            "According to the Evangelist Matthew, they put a question to him, whether it was lawful to heal on the sabbath day? with this view, that they might, one way or another, have something to accuse him of.",
+            "...that they might accuse him; as they had accused his disciples before, of the violation of the sabbath."
+        ],
+        "John Wesley": [
+            "Pride, anger, and shame, after being so often put to silence, began now to ripen into malice.",
+            "Pride, anger, and shame, after being so often put to silence, began now to ripen into malice.",
+            "Pride, anger, and shame, after being so often put to silence, began now to ripen into malice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Scribes and Pharisees diligently watched Jesus, determined to catch him violating their Sabbath rules, just as he had done before. Their intentions were clear - they wanted to accuse him. Mark emphasizes that they carefully watched him, eager to see if he would heal on the Sabbath, in order to have a basis for their accusations. Their pride, anger, and shame, after being silenced by Jesus multiple times, were now growing into malice.",
+            "wordCount": 73,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.7130538366387196,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.3,
+            "commentatorTierSimilarities": [
+                36.33,
+                14.33,
+                49.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They kept a close eye on Jesus, waiting for an opportunity to catch him breaking their Sabbath laws, just as he had done in the past. Their intent was to accuse him. Mark emphasizes their watchfulness, as they were eager to see if Jesus would heal on the Sabbath. Their pride, anger, and shame, having been repeatedly silenced by Jesus, were now manifesting as malice.",
+            "wordCount": 65,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.6009413057029946,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.57,
+            "commentatorTierSimilarities": [
+                35.6,
+                12.15,
+                52.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Scribes and Pharisees carefully watched Jesus, ready to accuse him of breaking their Sabbath rules. Their determination to catch him grew as their pride, anger, and shame turned into malice. Mark emphasizes their vigilant observation, noting how they were eagerly waiting to see if Jesus would heal on the Sabbath. Their intention was clear - to find a way to accuse him, just as they had done with his disciples before.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.7608736598754602,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.89,
+            "commentatorTierSimilarities": [
+                36.99,
+                14.9,
+                48.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Scribes and Pharisees were closely watching Jesus, carefully observing his actions on the Sabbath, with the intent to accuse him. Mark points out their determined scrutiny, as they eagerly waited to see if Jesus would heal on this day of rest. Their vigilance stemmed from their pride, anger, and shame, which had been building up and were now turning into malicious intent. Their ultimate goal was to find something against Jesus, just as they had done previously with his disciples.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.6101334954059496,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.88,
+            "commentatorTierSimilarities": [
+                37.78,
+                14.54,
+                47.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Scribes and Pharisees kept a close watch on Jesus, hoping to catch him breaking their Sabbath rules. Mark emphasizes their vigilant observation, as they eagerly awaited whether Jesus would heal on the Sabbath, intending to use it against him. Their persistent surveillance stemmed from their unyielding determination to accuse him. Their pride, anger, and shame, silenced by Jesus before, now festered into malice.",
+            "wordCount": 64,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.658196874976742,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+            "commentatorTierSimilarities": [
+                35.03,
+                15.13,
+                49.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

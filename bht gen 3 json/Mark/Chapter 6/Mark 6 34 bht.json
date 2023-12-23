@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:23:42",
+    "verseRef": "Mark 6:34",
+    "bestBHT": {
+        "bht": "At the sight of the multitudes, who had followed Him by land and even got before Him, Jesus was moved with compassion because they were like shepherdless sheep, as to forego both privacy and rest that He might minister to them. Although He had come for rest, his heart was touched by the pathos of this situation. These excited and exciting people greatly needed teaching, and Jesus recognized their hunger for the word of righteousness. Despite his weariness, he kindly and tenderly received them, acknowledging their fervent desire for the bread of life.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.5552311622738428,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+        "commentatorTierSimilarities": [
+            42.91,
+            26.96,
+            30.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is nothing in Matthew to imply that He had reached his place of solitude before the multitudes came up.",
+            "John indeed, vv. 3\u20137, seems to imply this; but He may very well have mounted the hill or cliff from the sea before He saw the multitudes.",
+            "This would be on his disembarkation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "At the sight of the multitudes who had followed Him by land and even got before Him, He was so moved, as was His wont in such cases, with compassion, because they were like shepherdless sheep, as to forego both privacy and rest that He might minister to them.",
+            "Now the passover, the feast of the Jews, was nigh.\" This accounts for the multitudes that now crowded around Him. They were on their way to keep that festival at Jerusalem.",
+            "But Jesus did not go up to this festival, as John expressly tells us...remaining in Galilee, because the ruling Jews sought to kill Him."
+        ],
+        "Philip Schaff": [
+            "It is not certain that the needed rest was obtained.",
+            "He began to teach them many things. This shows what He deemed their greatest need to be.",
+            "'Began' may mean, either that He began at once, or that He only began, the day being already far spent. The former is more probable."
+        ],
+        "Archibald T. Robertson": [
+            "They were as sheep not having a shepherd.\" ",
+            "These excited and exciting people greatly needed teaching.",
+            "Jesus had come over for rest, but his heart was touched by the pathos of this situation."
+        ],
+        "John Gill": [
+            "Christ observed, that they were hungering and thirsting after the word of righteousness, and had no faithful, spiritual pastors to feed them with knowledge and understanding.",
+            "Hence they followed Christ, wherever he went, with great zeal and fervency, earnestly desiring the bread of life.",
+            "Instead of reproving them for giving him this fresh trouble, kindly and tenderly received them."
+        ],
+        "John Wesley": [
+            "Coming out \u2014 of the vessel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus disembarked and saw the multitudes, he was moved with compassion for them, like shepherdless sheep in need of guidance. Although he had come for rest, he recognized their great need for teaching and began to minister to them. Even though he had avoided the passover festival due to the threat on his life, the approaching feast accounted for the large crowds. Despite his weariness, Jesus kindly received them, acknowledging their hunger for the word of righteousness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5190060351023176,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.85,
+            "commentatorTierSimilarities": [
+                42.78,
+                27.68,
+                29.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the sight of the multitudes, who had followed Him by land and even got before Him, Jesus was moved with compassion because they were like shepherdless sheep, as to forego both privacy and rest that He might minister to them. Although He had come for rest, his heart was touched by the pathos of this situation. These excited and exciting people greatly needed teaching, and Jesus recognized their hunger for the word of righteousness. Despite his weariness, he kindly and tenderly received them, acknowledging their fervent desire for the bread of life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.5552311622738428,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.05,
+            "commentatorTierSimilarities": [
+                42.91,
+                26.96,
+                30.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moved with compassion, Jesus was deeply touched by the sight of the multitudes, who had followed Him and were like shepherdless sheep. Foregoing his privacy and rest, he ministered to them, recognizing their great need for teaching. Despite his weariness, he kindly received them, acknowledging their fervent desire for the word of righteousness. These excited and exciting people greatly hungered and thirsted for the bread of life, seeking guidance in the absence of faithful spiritual pastors to feed them with knowledge and understanding.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.3675208722884098,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.81,
+            "commentatorTierSimilarities": [
+                37.06,
+                26.45,
+                36.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the sight of the multitudes, Jesus was moved with compassion because they were like shepherdless sheep, as to forego both privacy and rest that He might minister to them. Even though he had come for rest, the approaching feast accounted for the large crowds. Despite his weariness, Jesus kindly received them, acknowledging their hunger for the word of righteousness. They greatly needed teaching as they fervently desired the bread of life and their need for guidance in the absence of faithful spiritual pastors.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.452940374306734,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                43.73,
+                23.9,
+                32.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Overwhelmed with compassion upon seeing the multitudes, Jesus selflessly set aside his need for solitude and rest. The approaching Jewish feast contributed to the large crowds that had gathered to listen to him. They were like shepherdless sheep, hungry for guidance and teaching. Jesus, recognizing their fervent desire for the word of righteousness, warmly welcomed them. Despite his weariness, he devoted himself to ministering to their spiritual hunger, leading them in their search for the bread of life.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3408960064900453,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.93,
+            "commentatorTierSimilarities": [
+                44.44,
+                22.42,
+                33.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

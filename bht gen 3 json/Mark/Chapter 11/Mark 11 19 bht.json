@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:26:57",
+    "verseRef": "Mark 11:19",
+    "bestBHT": {
+        "bht": "Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place not only on the evening of the temple purification, but also on other evenings. The use of the word whenever makes it clear that this was a regular occurrence. It is worth noting that all the specific details of this account are found only in the book of Mark. In this particular instance, Jesus left the city at evening and most likely went to Bethany, where he had stayed the previous night with Lazarus, Martha, and Mary.",
+        "wordCount": 95,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.4751593326369148,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.39,
+        "commentatorTierSimilarities": [
+            30.32,
+            29.84,
+            39.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "19.] See note on Matthew, ver. 17. On the Monday and Tuesday evenings, our Lord appears to have gone to Bethany."
+        ],
+        "Marvin Vincent": [
+            "Whenever evening came on; not on the evening of the purging of the temple merely, but each day at evening.\" ",
+            "All the details are peculiar to Mark.",
+            "Compare Matthew 21:20-22."
+        ],
+        "Philip Schaff": [
+            "Mark 11:19. Out of the city. To Bethany, as on the evening previous (Mark 11:11). Comp. Matthew 21:17, which also refers to Monday evening.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Literally, whenever evening came on or more exactly whenever it became late.\" ",
+            "The use of \u03b1\u03bd makes the clause more indefinite and general.\" ",
+            "The imperfect tense... suggests 'whenever' as the meaning here."
+        ],
+        "John Gill": [
+            "And when evening was come, he went out of the city.\" ",
+            "Probably he went to Bethany, where he had lodged the last night, with Lazarus, Martha, and Mary.",
+            "Christ took his disciples with him, as is evident from the following verse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place not only on the evening of the temple purification, but also on other evenings. The use of the word whenever makes it clear that this was a regular occurrence. It is worth noting that all the specific details of this account are found only in the book of Mark. In this particular instance, Jesus left the city at evening and most likely went to Bethany, where he had stayed the previous night with Lazarus, Martha, and Mary. His disciples accompanied him on this occasion as well.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.4243295449422266,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+            "commentatorTierSimilarities": [
+                29.31,
+                26.53,
+                44.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place not only on the evening of the temple purification, but also on other evenings. The use of the word whenever makes it clear that this was a regular occurrence. It is worth noting that all the specific details of this account are found only in the book of Mark. In this particular instance, Jesus left the city at evening and most likely went to Bethany, where he had stayed the previous night with Lazarus, Martha, and Mary.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.4751593326369148,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.39,
+            "commentatorTierSimilarities": [
+                30.32,
+                29.84,
+                39.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Whenever evening came, our Lord would often leave and go to Bethany, where he had stayed the previous night. This was a regular occurrence, not limited to just the evening of the temple purification. The use of the word whenever emphasizes the frequency of this practice. It is worth noting that the specific details mentioned in this account are unique to the book of Mark. In this instance, Jesus went out of the city at evening, most likely to Bethany, accompanied by his disciples.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.4262867170121547,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.77,
+            "commentatorTierSimilarities": [
+                29.9,
+                32.36,
+                37.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whenever evening came, our Lord would often leave the city and go to Bethany. This practice occurred not just on the evening of the temple cleansing, but regularly. The word whenever emphasizes the frequency of these departures. The specific details of this account are only found in the book of Mark. On this particular evening, Jesus most likely went to Bethany, where he had stayed the night before with Lazarus, Martha, and Mary. His disciples joined him on this occasion as well.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.38885750749896,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.52,
+            "commentatorTierSimilarities": [
+                30.18,
+                25.12,
+                44.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Whenever evening came, our Lord would often leave the city and go to Bethany. This practice took place regularly, not just on the evening of the temple cleanse. The word whenever highlights the frequency of these departures. It is worth noting that the specific details mentioned in this account are unique to the book of Mark. On this particular evening, Jesus most likely went to Bethany, where he had stayed with Lazarus, Martha, and Mary the previous night. His disciples accompanied him on this occasion as well.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.3827871418837314,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.32,
+            "commentatorTierSimilarities": [
+                30.04,
+                26.07,
+                43.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

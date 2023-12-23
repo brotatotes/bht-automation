@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:26:05",
+    "verseRef": "Mark 10:15",
+    "bestBHT": {
+        "bht": "Jesus presents the little child with simple and loving obedience as the model for adults in coming into the kingdom. Only as a little child can anyone enter. It is a promise that His grace will not fail. Whosoever shall not receive the kingdom of God as a little child shall not enter but attain no true spiritual knowledge of the Gospel. We must lay aside pride and prejudice, attending with humility and meekness, disclaiming all worthiness and fitness as a week old.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.8399974178318326,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+        "commentatorTierSimilarities": [
+            33.8,
+            32.03,
+            34.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Only as a little child can any one enter the kingdom.",
+            "Children in years can be Christians, recognized as such by their parents' act and the Master's act through His ministers.",
+            "A promise that His grace will not fail, where our faith does not fail."
+        ],
+        "Archibald T. Robertson": [
+            "The little child learns to obey its parents simply and uncomplainingly.",
+            "Jesus here presents the little child with trusting and simple and loving obedience as the model for adults in coming into the kingdom.",
+            "Jesus does not here say that children are in the kingdom of God because they are children."
+        ],
+        "John Gill": [
+            "Verily I say, unto you,.... A form of speech used when our Lord was about to asseverate a thing, and assert something of moment and importance, and which he would have attended to.",
+            "Whosoever shall not receive the kingdom of God; the Gospel, and the mysteries of it:",
+            "as a little child; laying aside all pride and prejudice, attending thereunto with humility and meekness.",
+            "He shall not enter therein; he shall attain to no true spiritual knowledge of the Gospel; nor should he be admitted into a Gospel church state, and to the ordinances of it."
+        ],
+        "John Wesley": [
+            "Whosoever shall not receive the kingdom of God as a little child \u2014 As totally disclaiming all worthiness and fitness, as if he were but a week old."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The little child learns to obey its parents simply and uncomplainingly. Jesus here presents the little child with trusting and simple and loving obedience as the model for adults in coming into the kingdom. Jesus does not here say that children are in the kingdom of God because they are children. Only as a little child can anyone enter the kingdom. It is a promise that His grace will not fail, where our faith does not fail. Verily I say unto you, whosoever shall not receive the kingdom of God as a little child shall not enter therein, but attain to no true spiritual knowledge of the Gospel. We must lay aside all pride and prejudice, attending with humility and meekness, disclaiming all worthiness and fitness as if we were but a week old.",
+            "wordCount": 134,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 2.175926752821563,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.69,
+            "commentatorTierSimilarities": [
+                40.05,
+                29.63,
+                30.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus presents the little child with simple and loving obedience as the model for adults coming into the kingdom. Only as a little child can anyone enter. It is a promise that His grace will not fail. Whosoever shall not receive the kingdom of God as a little child shall not enter, but attain no true spiritual knowledge of the Gospel. We must lay aside pride and prejudice, attending with humility and meekness, disclaiming all worthiness and fitness as if we were but a week old.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8384619264762414,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.47,
+            "commentatorTierSimilarities": [
+                33.76,
+                31.8,
+                34.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus presents the little child with simple and loving obedience as the model for adults in coming into the kingdom. Only as a little child can anyone enter. It is a promise that His grace will not fail. Whosoever shall not receive the kingdom of God as a little child shall not enter but attain no true spiritual knowledge of the Gospel. We must lay aside pride and prejudice, attending with humility and meekness, disclaiming all worthiness and fitness as if we were a week old.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.831151009951447,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                33.72,
+                31.99,
+                34.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus presents the little child with simple and loving obedience as the model for adults in coming into the kingdom. Only as a little child can anyone enter. It is a promise that His grace will not fail. Whosoever shall not receive the kingdom of God as a little child shall not enter but attain no true spiritual knowledge of the Gospel. We must lay aside pride and prejudice, attending with humility and meekness, disclaiming all worthiness and fitness as a week old.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8399974178318326,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                33.8,
+                32.03,
+                34.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus presents the little child's simple and loving obedience as the model for adults entering the kingdom. Only as a little child can anyone enter. Those who don't receive the kingdom of God with childlike humility and meekness will not enter or attain true spiritual knowledge of the Gospel. We must lay aside pride and prejudice, disclaiming all worthiness and fitness as if we were a week old. His grace will not fail where our faith does not fail.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6995129824527722,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+            "commentatorTierSimilarities": [
+                32.91,
+                32.78,
+                34.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

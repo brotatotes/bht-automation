@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:24:50",
+    "verseRef": "Mark 8:31",
+    "bestBHT": {
+        "bht": "Jesus, with his disciples and a crowd around him, looked at his disciples and told them, Follow me. The disciples had been informed earlier about Jesus' impending death, but the concept of his resurrection on the third day seemed to pass over their heads. The mention of the third day was vital because it had been destined and prophesied in the Scriptures as the time for the Son of Man's suffering. The distinction between after three days and on the third day reinforced the idea that the fourth day was impossible.",
+        "wordCount": 92,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6275567380066218,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+        "commentatorTierSimilarities": [
+            40.8,
+            26.19,
+            33.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Mark adds... that the Lord said the words looking on his disciples.\" ",
+            "St. Mark writes 'follow me' in ver. 34: possibly from the information of him, to whom it was said, 'What is that to thee? Follow thou me,' John xxi. 22.",
+            "What wonder that a crowd should here, as every where else, have collected about Him and the disciples?"
+        ],
+        "Philip Schaff": [
+            "Mark 8:31. After three days. Matthew and Luke: \u2018the third day.\u2019 The latter is the more definite expression for the same period.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Matthew 16:21 expressly says 'from that time.' They had to be told soon about the approaching death of Jesus.",
+            "The resurrection on the third day is mentioned, but it made no impression on their minds. This rainbow on the cloud was not seen.",
+            "In popular language 'after three days' can and often does mean 'on the third day,' but the fourth day is impossible."
+        ],
+        "John Gill": [
+            "...that the son of man must suffer many things...because it was so determined by God, and foretold in the Scriptures...",
+            "...the builders that were prophesied of by whom he should be rejected...",
+            "...after the third day was come; that is, 'on the third day'..."
+        ],
+        "John Wesley": [
+            "Matthew 16:21; Luke 9:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, along with a crowd, gathered around as Jesus looked at his disciples and said, Follow me. This came as no surprise, as they had been told about the approaching death of Jesus, but it seemed that the resurrection on the third day didn't make much of an impression on their minds. The mention of the third day was significant, as it was a specific and predetermined time for the suffering of the Son of Man, just as it had been foretold in the Scriptures. This rejection and suffering were foreseen by the builders and would culminate on the third day. The distinction between after three days and on the third day is important as it emphasizes the impossibility of the fourth day.",
+            "wordCount": 125,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5077513935170401,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                40.38,
+                27.42,
+                32.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples gathered around Jesus as he looked at them and said, Follow me. While they had been informed about his impending death, the resurrection on the third day seemed to have little impact on their understanding. This mention of the third day was significant, as it was a predetermined time for the suffering of the Son of Man, as foretold in the Scriptures. The distinction between after three days and on the third day highlights the impossibility of a fourth day.",
+            "wordCount": 82,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.5443526582813325,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.69,
+            "commentatorTierSimilarities": [
+                39.74,
+                28.74,
+                31.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus addressed his disciples while the crowd gathered around, he instructed them to follow him. Though they had been informed about his coming death, the mention of the resurrection on the third day seemed to have little effect on their understanding. This timeframe was significant, as it was predetermined and foretold in the Scriptures as the time for the suffering of the Son of Man. The distinction between after three days and on the third day emphasized the impossibility of a fourth day.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4574827004842656,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.8,
+            "commentatorTierSimilarities": [
+                40.02,
+                27.24,
+                32.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus turned to his disciples as the crowd gathered around and said, Follow me. While the disciples had been forewarned about Jesus' impending death, the notion of his resurrection on the third day failed to register with them. This mention of the third day carried great significance, as it was a predetermined time for the suffering of the Son of Man, as written in the Scriptures. The distinction between after three days and on the third day underscores the impossibility of any additional time beyond the third day.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.6589823825796985,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                40.12,
+                29.91,
+                29.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, with his disciples and a crowd around him, looked at his disciples and told them, Follow me. The disciples had been informed earlier about Jesus' impending death, but the concept of his resurrection on the third day seemed to pass over their heads. The mention of the third day was vital because it had been destined and prophesied in the Scriptures as the time for the Son of Man's suffering. The distinction between after three days and on the third day reinforced the idea that the fourth day was impossible.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6275567380066218,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+            "commentatorTierSimilarities": [
+                40.8,
+                26.19,
+                33.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

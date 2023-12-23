@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:24:01",
+    "verseRef": "Mark 7:2",
+    "bestBHT": {
+        "bht": "The mention of unwashed hands in this context serves as an explanation for Gentile readers, outlining the correct method of washing hands to ensure that water does not go above the wrist or back onto the hand. The term holding signifies a resolute adherence to tradition, while the use of common refers to what is vulgar or profane. It is important to note that the objection raised in this situation is based on ceremonial, not sanitary, grounds, shedding further light on the intended meaning of the narrative.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 1.527955080186679,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+        "commentatorTierSimilarities": [
+            36.63,
+            31.08,
+            32.29
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A mark of particularity.",
+            "Supposed by some to be a gloss, explaining defiled.",
+            "The explanation seems necessary to what follows, especially for Gentile readers."
+        ],
+        "Marvin Vincent": [
+            "The Rev. gives in the margin the simplest meaning, the literal one, with the fist; that is, rubbing the uncleansed hand with the other doubled.",
+            "For when water was poured upon the hands they had to be lifted, yet so that the water should neither run up above the wrist, nor back again upon the hand; best, therefore, by doubling the fingers into a fist.",
+            "Holding [\u03ba\u03c1\u03b1\u03c4\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2] . Strictly, holding, firmly or fast. So Hebrews 4:14; Revelation 2:25; denoting obstinate adherence to the tradition."
+        ],
+        "Philip Schaff": [
+            "This incident naturally brings to view the constant and intrusive surveillance to which our Lord and His disciples were subjected.\" ",
+            "That is unwashen hands. This explanation shows that the Gospel was written for Gentile readers.",
+            "The clause: 'they found fault,' is to be omitted, the construction is broken by the explanation of Mark 7:3-4."
+        ],
+        "Archibald T. Robertson": [
+            "Originally \u03ba\u03bf\u03b9\u03bd\u03bf\u03c2 meant what was common to everybody like the Koine Greek. But in later Greek it came also to mean as here what is vulgar or profane.",
+            "So Peter in Acts 10:14 'common and unclean.' The next step was the ceremonially unclean.",
+            "But the objection raised is on ceremonial, not sanitary, grounds."
+        ],
+        "John Gill": [
+            "He that despiseth washing of hands, shall be rooted out of the world; for in it is the secret of the decalogue.",
+            "Who is one of the people of the earth, or a plebeian? he that does not eat his common food with purity.",
+            "If he washed his hands, and blessed, he was known to be an Israelite, but if not, a Gentile."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 7:2, the mention of unwashed hands serves as a mark of particularity, possibly intended as an explanation for Gentile readers. The literal meaning is described as rubbing the uncleansed hand with a doubled fist, which was a proper way of washing hands without the water running above the wrist or back onto the hand. The term holding denotes obstinate adherence to tradition. The use of common in this context refers to what is vulgar or profane, and Peter in Acts 10:14 refers to things as common and unclean. It is important to note that the objection raised is on ceremonial, not sanitary, grounds.",
+            "wordCount": 103,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5767215728159794,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.77,
+            "commentatorTierSimilarities": [
+                38.87,
+                27.06,
+                34.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mention of unwashed hands in this passage is meant to explain a proper way of washing hands without the water running above the wrist or back onto the hand. The term holding signifies obstinate adherence to tradition, while the use of common refers to what is vulgar or profane. The objection raised here is on ceremonial, not sanitary, grounds.",
+            "wordCount": 60,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.4692981458157628,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                41.96,
+                21.35,
+                36.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of unwashed hands in Mark 7:2 provides an explanation for Gentile readers, describing the proper way of washing hands without water running above the wrist or back onto the hand. The term holding denotes a firm adherence to tradition, and the use of common refers to what is vulgar or profane. It's important to note that the objection raised in this context is centered on ceremonial, not sanitary grounds.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5784929854394347,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                35.91,
+                29.93,
+                34.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mention of unwashed hands in this verse helps to shed light on the proper method of washing hands, avoiding water running above the wrist or back onto the hand. The term holding conveys a stubborn adherence to tradition, while common refers to what is vulgar or profane. It's worth noting that the objection raised pertains to ceremonial, rather than sanitary concerns. These details serve to provide clarity and understanding regarding the actions described in the verse.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.3573136889104447,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.47,
+            "commentatorTierSimilarities": [
+                37.55,
+                27.94,
+                34.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of unwashed hands in this context serves as an explanation for Gentile readers, outlining the correct method of washing hands to ensure that water does not go above the wrist or back onto the hand. The term holding signifies a resolute adherence to tradition, while the use of common refers to what is vulgar or profane. It is important to note that the objection raised in this situation is based on ceremonial, not sanitary, grounds, shedding further light on the intended meaning of the narrative.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.527955080186679,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                36.63,
+                31.08,
+                32.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

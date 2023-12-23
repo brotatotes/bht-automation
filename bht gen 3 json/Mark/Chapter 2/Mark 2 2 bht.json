@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:20:42",
+    "verseRef": "Mark 2:2",
+    "bestBHT": {
+        "bht": "Mark's attention to detail is on display in this scene, challenging the theory of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so crowded that there was no room, not even around the door opening directly onto the street. The gravity of Jesus' teaching was as serious as the prattling of children or the chatter of birds. The gathering crowd spilled over into the porch, expanding from the interior court. This incident took place while Jesus was actively teaching and performing miraculous healings.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.444536252265256,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+        "commentatorTierSimilarities": [
+            36.77,
+            33.61,
+            29.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In this verse we have again the peculiar minute depicting of Mark.",
+            "I mention this, to show what shifts the advocates of the theory of the 'inter-dependence' of the Evangelists are now reduced.",
+            "He speaking to them the word, when that which is about to be related happened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is one of Mark's graphic touches.",
+            "Had He gone forth, as He naturally would, the paralytic's faith would have had no such opportunity to display itself.",
+            "The miracle that is now to be described was among the most glorious and worthy to be recorded of many then performed."
+        ],
+        "Albert Barnes": [
+            "So much as about the door - In the 'court' or 'yard' before the door. They could not get near enough to hear him.",
+            "Preached the word unto them - The word of God; the revelation or doctrine which he came to deliver, called 'the Word,' and 'the Word of God,' because it was spoken or revealed by God.",
+            "Compare Acts 6:2-7."
+        ],
+        "Philip Schaff": [
+            "Insomuch that not even the parts about (or \u2018towards\u2019) the door (much less the house), could any longer hold them.\" ",
+            "This suggests a constantly increasing crowd, at length filling even the porch leading from the interior court to the door.",
+            "He was speaking the word, i.e., \u2018was teaching\u2019 (Luke). He was doing this when this incident occurred. From Luke\u2019s account we infer that He had already healed others on this occasion."
+        ],
+        "Archibald T. Robertson": [
+            "So that there was no longer room for them, no, not even about the door.\" ",
+            "This house door apparently opened into the street, not into a court as in the larger houses.",
+            "Note this word \u03bb\u03b1\u03bb\u03b5\u03c9 about the preaching of Jesus (originally just sounds like the chatter of birds, the prattling of children, but here of the most serious kind of speech."
+        ],
+        "John Gill": [
+            "From all parts of the city, insomuch that there was no room to receive them...",
+            "The crowd was so great, that neither the house, nor the out places before, could hold them, nor could they come even near the door...",
+            "He preached the Gospel, the word of grace and truth, of life and salvation, to as many as could come near him, and were within the hearing of him."
+        ],
+        "John Wesley": [
+            "And immediately many were gathered together \u2014 Hitherto continued the general impression on their hearts. Hitherto, even at Capernaum, all who heard received the word with joy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Mark once again showcases his ability to provide vivid details. The theory of the 'inter-dependence' of the Evangelists is challenged by the unique way in which Mark presents the events. Jesus, while speaking the word, found Himself in a crowded house with no room for anyone, not even near the door. The house door opened directly into the street, making it even more difficult for people to approach Jesus. The preaching of Jesus, though serious in nature, was as powerful as the prattling of children or the chatter of birds. The immense crowd forced the people to gather in the courtyard and overflow into the porch, as others had already been healed by Jesus prior to this incident.",
+            "wordCount": 122,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.5348522280700423,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "commentatorTierSimilarities": [
+                35.78,
+                33.71,
+                30.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Within this passage, Mark's attention to detail shines through once again. The unique depiction challenges the notion of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became overwhelmingly packed, leaving no space even around the door. The house's entrance opened right onto the street, rather than a typical courtyard. Jesus' speech carried the weight of profound truth, comparable to the prattling of children or the chatter of birds. The large crowd gathered around the porch, expanding from the interior court. This incident occurred while Jesus was already engaged in teaching others and performing miraculous healings.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.3673185668553482,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.81,
+            "commentatorTierSimilarities": [
+                33.37,
+                34.12,
+                32.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Mark's meticulous attention to detail is evident once again. The unique portrayal challenges the belief in the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so full that there was no longer any space, not even around the door. The house's entrance led directly into the street, rather than opening into a courtyard. The seriousness of Jesus' teaching resembled the chirping of birds or the chattering of children. The crowd continued to expand, filling the porch and spilling into the interior court. This event occurred as Jesus was actively engaged in teaching and performing healings.",
+            "wordCount": 103,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.2829365298688078,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.0,
+            "commentatorTierSimilarities": [
+                33.74,
+                36.09,
+                30.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark's attention to detail is on display in this scene, challenging the theory of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so crowded that there was no room, not even around the door opening directly onto the street. The gravity of Jesus' teaching was as serious as the prattling of children or the chatter of birds. The gathering crowd spilled over into the porch, expanding from the interior court. This incident took place while Jesus was actively teaching and performing miraculous healings.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.444536252265256,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                36.77,
+                33.61,
+                29.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark's unique attention to detail is evident in this passage, challenging the idea of the 'inter-dependence' of the Evangelists. As Jesus spoke, the house became so crowded that there was no space, not even around the door opening directly onto the street. The seriousness of Jesus' speech was comparable to the prattling of children or the chatter of birds. The expanding crowd spilled into the porch from the interior court, as Jesus continued to teach and perform miraculous healings.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5771180176601096,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "commentatorTierSimilarities": [
+                34.69,
+                33.65,
+                31.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

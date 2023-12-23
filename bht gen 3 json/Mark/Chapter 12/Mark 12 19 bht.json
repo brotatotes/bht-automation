@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:26:59",
+    "verseRef": "Mark 12:19",
+    "bestBHT": {
+        "bht": "The Pharisees approach Jesus with a question about a situation mentioned by Moses in the law. They refer to a widow who marries a series of brothers, each of whom dies without leaving children. This law, written by Moses, has significance for the Pharisees as they adhere to its literal interpretation. By raising this case, the Pharisees aim to test Jesus' understanding and wisdom in interpreting the law, engaging in a complex and contentious discussion.",
+        "wordCount": 75,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 1.3966630763814534,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+        "commentatorTierSimilarities": [
+            47.56,
+            0.0,
+            52.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "If a man's brother die, and leave his wife behind him . . . And the seven had her, and left no seed: last of all the woman died also.",
+            "Master, Moses wrote unto us\u2014 (Deuteronomy 25:5).",
+            "And the seven had her, and left no seed: last of all the woman died also."
+        ],
+        "Archibald T. Robertson": [
+            "Moses wrote (\u039c\u03c9\u03c5\u03c3\u03b7\u03c2 \u03b5\u03b3\u03c1\u03b1\u03c8\u03b5\u03bd). So Luke 20:28 (Genesis 38:8; Genesis 25:5). Matthew has \"said\" (\u03b5\u03b9\u03c0\u03b5\u03bd). "
+        ],
+        "John Gill": [
+            "Moses wrote unto us...the following precept to observe...",
+            "They acknowledged the writings of Moses...",
+            "Adhering to the literal sense of them..."
+        ],
+        "John Wesley": [
+            "Deuteronomy 25:5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 12:19, the Pharisees bring up the case of a widow who marries seven brothers consecutively, each dying without leaving any children. Their question is rooted in the law Moses wrote in Deuteronomy 25:5 about a brother marrying his deceased sibling's widow. The first-tier commentary emphasizes that Moses wrote this law, and the second-tier commentary adds that the Pharisees acknowledged and adhered to the literal sense of Moses' writings. This background helps us understand why the Pharisees bring up this case to Jesus, highlighting their desire to test Him with a complex and contentious legal question.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5745210922532187,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.7,
+            "commentatorTierSimilarities": [
+                52.52,
+                0.0,
+                47.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the Pharisees raise a question based on a scenario outlined by Moses in the law, where a widow marries a series of brothers who all die without leaving any children. This law penned by Moses holds significance for the Pharisees, as they adhere to the literal interpretation of his writings. By bringing up this case, the Pharisees aim to challenge Jesus with a complex legal issue, seeking to test his wisdom and expertise in interpreting the law.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.3757513038078444,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.09,
+            "commentatorTierSimilarities": [
+                45.64,
+                0.0,
+                54.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisees approach Jesus with a question regarding a situation described by Moses in the law. The scenario involves a widow married to seven brothers consecutively, all of whom die without leaving any children. The law that Moses wrote holds significant importance for the Pharisees, as they firmly adhere to its literal interpretation. Through this question, they seek to test Jesus, challenging his understanding and wisdom in interpreting the law. This interaction highlights their desire to engage in a complex and contentious discussion about legal matters.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.1175931825070449,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.5,
+            "commentatorTierSimilarities": [
+                46.17,
+                0.0,
+                53.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees bring up a scenario outlined in the law, written by Moses, where a widow marries multiple brothers consecutively, all of whom die without leaving children. This law holds importance for the Pharisees, as they adhere to its literal interpretation. Their intention is to test Jesus by posing a complex legal question, showcasing their desire to engage in a contentious discussion regarding the law.",
+            "wordCount": 65,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.1867577700078915,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.8,
+            "commentatorTierSimilarities": [
+                43.06,
+                0.0,
+                56.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisees approach Jesus with a question about a situation mentioned by Moses in the law. They refer to a widow who marries a series of brothers, each of whom dies without leaving children. This law, written by Moses, has significance for the Pharisees as they adhere to its literal interpretation. By raising this case, the Pharisees aim to test Jesus' understanding and wisdom in interpreting the law, engaging in a complex and contentious discussion.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.3966630763814534,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+            "commentatorTierSimilarities": [
+                47.56,
+                0.0,
+                52.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

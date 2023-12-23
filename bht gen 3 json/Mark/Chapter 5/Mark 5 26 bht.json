@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:22:48",
+    "verseRef": "Mark 5:26",
+    "bestBHT": {
+        "bht": "This poignant account vividly paints a tragic picture of a woman who, after trying countless human remedies for her chronic condition, found no relief but rather grew worse. It serves as a stark reminder of the vanity and ineffectiveness of relying on worldly solutions for spiritual ailments. The woman's desperate situation reflects the futility of self-righteous acts and external religious practices in finding true healing. Instead, this story points us to Jesus as the ultimate source of hope and restoration, illustrating the transformative power of his grace.",
+        "wordCount": 89,
+        "quoteTokenProportion": 26.39,
+        "qualityScore": 1.3902510312809686,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.57,
+        "commentatorTierSimilarities": [
+            33.57,
+            27.58,
+            38.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Emblem of our natural state as fallen creatures, and illustrating the worse than vanity of all human remedies for spiritual maladies.",
+            "The higher design of all our Lord's miracles of healing irresistibly suggests this way of viewing the present case.",
+            "The propriety of [viewing the case from this perspective] will still more appear as we proceed."
+        ],
+        "Marvin Vincent": [
+            "Mark is much fuller and more vivid than Matthew or Luke.",
+            "Had suffered [\u03c0\u03b1\u03b8\u03bf\u03c5\u03c3\u03b1] . To be taken, as everywhere in the New Testament, in the sense of suffering pain, not merely subjected to treatment.",
+            "And was nothing bettered, but rather grew worse."
+        ],
+        "Philip Schaff": [
+            "Our Lord\u2019s conduct was a protest against both these. Just in proportion as His influence permeates society, is woman not only elevated, but tenderly dealt with...\" (36 words)",
+            "All, physicians included, may learn a lesson here in the treatment of invalids of the female sex.\" (18 words)"
+        ],
+        "Archibald T. Robertson": [
+            "A pathetic picture of a woman with a chronic case who had tried doctor after doctor.",
+            "The tragedy of it was that she 'was nothing bettered, but rather grew worse.'",
+            "Her money was gone, her disease was gaining on her, her one chance came now with Jesus."
+        ],
+        "John Gill": [
+            "She took many a nauseous medicine, and had gone through courses of physic with different physicians; for there were many among the Jews that pretended to the cure of fluxes.",
+            "This is often the case of persons who are, in some measure, sensible of the disease of sin, but are ignorant of the proper methods to be taken for the cure of it. They apply to their own works of righteousness, moral and civil, to the duties of religion, private and public, to a legal repentance, external humiliation and tears, and an outward reformation of life.",
+            "For such a course of action, such conduct and methods as these bring them into a spirit of bondage; for when they fail in their duties, do not come up to the rules prescribed them, what terror of mind possesses them!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse presents a vivid and poignant depiction of a woman who had suffered from a chronic condition for a long time and had exhausted every possible remedy. It symbolizes the futility of human efforts to cure spiritual ailments, emphasizing the ultimate need for divine intervention. The woman's tragic situation reflects the desperation of relying on worldly solutions that only lead to disappointment and further deterioration. This portrayal also serves as a stark contrast to the healing power of Jesus, for whom no affliction is too severe or incurable. In this narrative, we are reminded of the uselessness of self-righteous acts and external religious practices in finding true restoration. Instead, the woman's encounter with Jesus offers a hopeful reminder of the transformative impact of divine grace.",
+            "wordCount": 129,
+            "quoteTokenProportion": 28.72,
+            "qualityScore": 1.3474643309285077,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.15,
+            "commentatorTierSimilarities": [
+                33.18,
+                29.06,
+                37.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This story vividly illustrates the futility of human remedies for spiritual maladies. The woman in this account represents our fallen state as she had suffered from a chronic condition and grew worse with each failed attempt at finding a cure. It serves as a poignant reminder of the limitations of worldly solutions and the need for divine intervention. Through her encounter with Jesus, we witness the transformative power of his healing touch, offering hope and redemption to those who are desperately in need of it.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3172509115046966,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+            "commentatorTierSimilarities": [
+                36.62,
+                27.04,
+                36.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This passage portrays the tragic situation of a woman who had sought relief from her chronic condition but only grew worse. It serves as a powerful reminder of the vanity of human remedies for spiritual maladies and the need for divine intervention. The woman's desperate state reflects the futility of relying on worldly solutions, highlighting the ultimate inefficacy of self-righteous acts and external religious practices. This narrative ultimately points to the healing power of Jesus, offering hope and redemption to those who turn to him in faith.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.3399991244779494,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.9,
+            "commentatorTierSimilarities": [
+                33.79,
+                27.27,
+                38.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This poignant account reveals the tragic reality of a woman who had exhausted all human remedies for her chronic condition and only grew worse. It serves as a sobering reminder of the futility of relying on worldly solutions to address spiritual maladies. The woman's desperation highlights the emptiness of self-righteous acts and external religious practices as a means of finding true restoration. Rather, this narrative ultimately points us to the healing power of Jesus, offering hope and redemption to those who humbly seek him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.32440491401865,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.38,
+            "commentatorTierSimilarities": [
+                34.9,
+                24.54,
+                40.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This poignant account vividly paints a tragic picture of a woman who, after trying countless human remedies for her chronic condition, found no relief but rather grew worse. It serves as a stark reminder of the vanity and ineffectiveness of relying on worldly solutions for spiritual ailments. The woman's desperate situation reflects the futility of self-righteous acts and external religious practices in finding true healing. Instead, this story points us to Jesus as the ultimate source of hope and restoration, illustrating the transformative power of his grace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.39,
+            "qualityScore": 1.3902510312809686,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.57,
+            "commentatorTierSimilarities": [
+                33.57,
+                27.58,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

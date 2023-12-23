@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-22-2023 23:29:51",
+    "verseRef": "Mark 14:56",
+    "bestBHT": {
+        "bht": "The testimonies against Him were not equal or consistent with one another, which was necessary for a legal conviction. Even if just two of them had agreed, it would have been enough to bring about His arrest. It is remarkable how the enemies of Jesus managed to fumble their attempts to produce credible witnesses. While they were asserting that God had abandoned Him, God, His ultimate Witness, was watching over Him. Their testimonies did not match, making it difficult to meet the requirement of the law that demanded two witnesses. There were many false witnesses who spoke against Him, but none of them could provide joint testimony that would justify a capital sentence.",
+        "wordCount": 113,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.0497879502658343,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+        "commentatorTierSimilarities": [
+            36.0,
+            32.16,
+            31.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their testimonies were not equal, i.e. consistent with one another.",
+            "It was necessary that two witnesses should agree.",
+            "Deut. xvii. 6."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If even two of them had been agreed, it would have been greedily enough laid hold of, as all that the law insisted upon even in capital cases.",
+            "One cannot but admire the providence which secured this result; since, on the one hand, it seems astonishing that those unscrupulous prosecutors and their ready tools should so bungle a business in which they felt their whole interests bound up.",
+            "At the very time when His enemies were saying, 'God hath forsaken Him; persecute and take Him; for there is none to deliver Him,' He whose Witness He was and whose work He was doing was keeping Him as the apple of His eye."
+        ],
+        "Marvin Vincent": [
+            "Their witness agreed not. Peculiar to Mark. Lit., their testimonies were not equal.",
+            "Hence the difficulty of fulfilling the requirement of the law, which demanded two witnesses.",
+            "See Deuteronomy 27:6; and compare Matthew 28:16; 1 Timothy 5:19; Hebrews 10:28."
+        ],
+        "Philip Schaff": [
+            "Agreed not together; 'were not equal.' Not necessarily implying contradiction.",
+            "No two agreed on one point, so as to give the evidence necessary for a legal conviction."
+        ],
+        "Archibald T. Robertson": [
+            "The testimonies were not equal. They did not correspond with each other on essential points.\u201d",
+            "Many were bearing false witness against him.\u201d",
+            "No two witnesses bore joint testimony to justify a capital sentence according to the law.\u201d"
+        ],
+        "John Gill": [
+            "The word 'false', is not expressed in the Syriac, Persic, and Ethiopic versions: which only signify, that they bore witness against him, accused him of, and laid many things to his charge.",
+            "which showed it to be false, and so not to be admitted; for witnesses were to be as one in their testimony, or not to be received.",
+            "they were not sufficient to prove a capital crime upon him, in order to put him to death, which was what they wanted: they only respected some light and trivial matters, and did not amount to a charge of blasphemy, or sedition."
+        ],
+        "John Wesley": [
+            "Their evidences were not sufficient.",
+            "Were not equal: not equal to the charge of a capital crime.",
+            "It is the same word in the 59th verse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The testimonies against Him were not equal or consistent with one another, which was necessary for a legal conviction. Even if just two of them had agreed, it would have been enough to bring about His arrest. It is remarkable how the enemies of Jesus, who were desperate to ensure His demise, managed to fumble their attempts to produce credible witnesses. While they were asserting that God had abandoned Him and there was no one to save Him, God, His ultimate Witness, was watching over Him with the utmost care. Their testimonies did not match, making it difficult to meet the requirement of the law that demanded two witnesses. There were many false witnesses who spoke against Him, but none of them could provide joint testimony that would justify a capital sentence.",
+            "wordCount": 132,
+            "quoteTokenProportion": 49.44,
+            "qualityScore": 2.050967823438384,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                35.63,
+                32.44,
+                31.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The testimonies against Him were not equal or consistent with one another, which was necessary for a legal conviction. Even if just two of them had agreed, it would have been enough to bring about His arrest. It is remarkable how the enemies of Jesus managed to fumble their attempts to produce credible witnesses. While they were asserting that God had abandoned Him, God, His ultimate Witness, was watching over Him. Their testimonies did not match, making it difficult to meet the requirement of the law that demanded two witnesses. There were many false witnesses who spoke against Him, but none of them could provide joint testimony that would justify a capital sentence.",
+            "wordCount": 113,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.0497879502658343,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                36.0,
+                32.16,
+                31.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The testimonies against Him were not equal or consistent, which was necessary for a legal conviction. If even two of them had agreed, it would have been enough to bring about His arrest. It is astonishing how those unscrupulous prosecutors and their ready tools managed to bungle the case. At a time when His enemies believed God had forsaken Him, the Divine Witness was keeping Him under His protection. Their testimonies did not match, making it difficult to satisfy the law's requirement of two witnesses. Many bore false witness against Him, but no two provided joint testimony justifying a capital sentence.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.007993680148777,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.11,
+            "commentatorTierSimilarities": [
+                35.58,
+                33.25,
+                31.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The testimonies against Him were not equal or consistent, which was necessary for a legal conviction. If even two of them had agreed, it would have been enough. It is astonishing how His enemies bungled the case that they believed would bring Him down. Despite their claims of abandonment, God was protecting Him. Their testimonies did not match, making it difficult to meet the law's requirement of two witnesses. False witnesses abounded, but none provided joint testimony for a capital sentence.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.9259848983308672,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                33.87,
+                35.55,
+                30.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The testimonies against Him were not equal or consistent, necessary for a legal conviction. Even if two agreed, it would have been enough. His foes bungled the case they believed would end Him. While they claimed divine abandonment, God protected Him. Their testimonies didn't match laws requiring two witnesses. Many falsely witnessed against Him, but none justified a capital sentence.",
+            "wordCount": 61,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.8788034312823667,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.81,
+            "commentatorTierSimilarities": [
+                32.11,
+                37.28,
+                30.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

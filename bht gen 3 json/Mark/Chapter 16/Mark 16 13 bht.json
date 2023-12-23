@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:30:21",
+    "verseRef": "Mark 16:13",
+    "bestBHT": {
+        "bht": "Upon their return to Jerusalem, the disciples went and told the rest of the believers what had happened, but neither believed they them. This lack of belief is highlighted by the fact that even though some of the disciples had already seen Jesus in Jerusalem, there was still a division of opinion, with some doubting and others believing. The conflict between doubt and belief was natural, considering the magnitude of the event and the different accounts that were being shared.",
+        "wordCount": 80,
+        "quoteTokenProportion": 51.72,
+        "qualityScore": 1.8843061670165129,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+        "commentatorTierSimilarities": [
+            26.51,
+            30.94,
+            42.55
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not consistent with Luke xxiv. 33, 34.",
+            "Here again the Harmonists have used every kind of distortion of the plain meaning of words to reconcile the two accounts.",
+            "Assuming that some believed and some doubted, that they first doubted and then believed; or, according to Bengel, first believed and then doubted."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13. And they went and told it unto",
+            "\tthe residue: neither believed they them, &amp;c."
+        ],
+        "Albert Barnes": [
+            "The residue - The remainder. Those who remained at Jerusalem."
+        ],
+        "Philip Schaff": [
+            "The rest, i.e., of \u2018them that had been with Him\u2019 (Mark 16:10).",
+            "And them also they believed not. Despite the repeated testimony.",
+            "A conflict of doubt and belief would be very natural, or even a division of opinion, some doubting and some believing."
+        ],
+        "Archibald T. Robertson": [
+            "Neither believed they them.\" ",
+            "But Luke's report of the two on the way to Emmaus is to the effect that they met a hearty welcome by them in Jerusalem.",
+            "There was probably an element who still discredited all the resurrection stories as was true on the mountain in Galilee later when 'some doubted'."
+        ],
+        "John Gill": [
+            "Upon their return to Jerusalem, which was on the same night, they went to the eleven apostles, and the other disciples that were with them, and related the whole affair to them.\" ",
+            "neither believed they them.\" ",
+            "the reason of which Dr. Lightfoot thinks was this, that Peter hearing that Christ was risen, and went before them into Galilee, was eager to see him, and therefore took this journey along with Cleophas, which the rest of the disciples knew; and he returning so soon, they concluded he had seen him: but when he, and Cleophas, told the whole affair, they were as unbelieving as ever."
+        ],
+        "John Wesley": [
+            "Neither believed they them \u2014 They were moved a little by the testimony of these, added to that of St. Peter, Luke 24:34; but they did not yet fully believe it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon their return to Jerusalem, the disciples went and told the rest of the believers about their encounter with the risen Jesus. However, their testimonies were met with skepticism and disbelief. This lack of belief is highlighted by the fact that even though some of the disciples had already seen Jesus in Jerusalem, there was an element among them who still doubted and discredited the resurrection stories. Despite the repeated testimony, the disciples were divided in their opinions, with some doubting and others believing. The conflict between doubt and belief was natural, considering the magnitude of the event and the various accounts that were being shared. However, it is important to note that even though some did not immediately believe, there were those who welcomed the disciples and their testimony with open hearts.",
+            "wordCount": 133,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 1.7717908840593841,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "commentatorTierSimilarities": [
+                28.17,
+                28.5,
+                43.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon their return to Jerusalem, the disciples went and told the rest of the believers, but neither believed they them. This lack of belief is highlighted by the fact that even though some of the disciples had already seen Jesus in Jerusalem, there was an element among them who still doubted and discredited the resurrection stories. Despite the repeated testimony, the disciples were divided in their opinions, with some doubting and others believing. The conflict between doubt and belief was natural, considering the magnitude of the event and the various accounts that were being shared.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.9241757198611427,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                27.68,
+                29.95,
+                42.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon their return to Jerusalem, the disciples went and told the rest of the believers what had happened, but neither believed they them. This lack of belief is highlighted by the fact that even though some of the disciples had already seen Jesus in Jerusalem, there was still a division of opinion, with some doubting and others believing. The conflict between doubt and belief was natural, considering the magnitude of the event and the different accounts that were being shared.",
+            "wordCount": 80,
+            "quoteTokenProportion": 51.72,
+            "qualityScore": 1.8843061670165129,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                26.51,
+                30.94,
+                42.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the women who had encountered the risen Christ returned and shared their experiences with the rest of the disciples in Jerusalem, they were met with doubt and disbelief. Despite the testimonies of these women, the disciples found it difficult to fully accept the reality of the resurrection. This skepticism may have stemmed from previous doubts and conflicting accounts, leading to hesitation and a division of opinion among the disciples. However, it is important to note that there were some, like Peter, who did believe and had experienced the presence of the resurrected Jesus. The initial disbelief of the disciples highlights the challenges they faced in comprehending the miraculous event that had taken place.",
+            "wordCount": 114,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 1.5513891217433133,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                28.07,
+                23.73,
+                48.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Upon their return to Jerusalem, the women who encountered the risen Christ shared their experiences with the rest of the disciples, but they were met with doubt and disbelief. Despite the testimonies given, the disciples struggled to fully believe in the reality of the resurrection. This division of opinion may have stemmed from previous doubts and conflicting accounts. However, Peter, having personally experienced the presence of the resurrected Jesus, was among those who did believe. The initial skepticism of the disciples shows the difficulties they faced in comprehending the miraculous event that had occurred.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.5931890415235277,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.32,
+            "commentatorTierSimilarities": [
+                28.36,
+                25.76,
+                45.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:19:49",
+    "verseRef": "Mark 1:17",
+    "bestBHT": {
+        "bht": "Jesus called the fishermen to become His disciples, leaving behind their business to serve Him. He promised to make them fishers of men, an honorable and more excellent occupation than catching fish. This process would be slow, but Jesus had the ability and determination to accomplish it. By using the fishing metaphor, Jesus made it clear that the souls of men are of greater worth than fishes.",
+        "wordCount": 67,
+        "quoteTokenProportion": 49.06,
+        "qualityScore": 1.404534616734866,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.04,
+        "commentatorTierSimilarities": [
+            31.76,
+            23.56,
+            44.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "To become (\u00e3\u00e5\u00ed\u00e5\u0301\u00f3\u00e8\u00e1\u00e9)",
+            "An addition of Mark."
+        ],
+        "Philip Schaff": [
+            "Come ye after me.\" A more literal rendering of the command recorded by Matthew: 'Follow me.'",
+            "To become.\" More strictly accurate than Matthew 4:19, hence not copied nor condensed from that account."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus would undertake to make fishers of men out of fishermen.",
+            "Preachers are made out of laymen who are willing to leave their business for service for Christ.",
+            "Become. It would be a slow and long process, but Jesus could and would do it."
+        ],
+        "John Gill": [
+            "Leave your worldly employments, and become my disciples.\" ",
+            "I will make you to become fishers of men: which will be a much more excellent and honourable employment.",
+            "Men, and the souls of men, are more excellent, and of more worth than fishes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus called to the fishermen and said, Come, follow me, and I will teach you how to fish for people. This addition in Mark emphasizes that Jesus would transform these fishermen into preachers, leaving behind their businesses to serve Him. While it would be a slow and long process, Jesus had the power and determination to make it happen. By using the metaphor of fishing for people, Jesus highlighted the greater value and honor of leading souls to Him compared to catching fish.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.479611552456182,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.54,
+            "commentatorTierSimilarities": [
+                35.26,
+                29.16,
+                35.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus called to the fishermen, inviting them to leave their worldly employments and become His disciples. He promised to make them fishers of men, an honorable and more excellent occupation. The process of transformation would be slow and long, but Jesus had the ability and determination to accomplish it. By using the metaphor of fishing for people, Jesus emphasized the superior value of souls compared to fishes.",
+            "wordCount": 67,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.353670179008331,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.35,
+            "commentatorTierSimilarities": [
+                31.26,
+                23.35,
+                45.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus called the fishermen to become His disciples, leaving behind their business to serve Him. He promised to make them fishers of men, an honorable and more excellent occupation than catching fish. This process would be slow, but Jesus had the ability and determination to accomplish it. By using the fishing metaphor, Jesus made it clear that the souls of men are of greater worth than fishes.",
+            "wordCount": 67,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.404534616734866,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.04,
+            "commentatorTierSimilarities": [
+                31.76,
+                23.56,
+                44.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus called the fishermen and said, Come, follow me, and I will teach you how to fish for people. This addition in Mark emphasizes that Jesus would transform these fishermen into preachers, leaving behind their businesses to serve Him. While it would be a slow and long process, Jesus had the power and determination to make it happen. By using the metaphor of fishing for people, Jesus highlighted the greater value and honor of leading souls to Him compared to catching fish.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.4789022438602677,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+            "commentatorTierSimilarities": [
+                35.12,
+                29.14,
+                35.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus beckoned the fishermen, inviting them to abandon their worldly employments and become His disciples. His promise to fashion them into fishers of men emphasized the superior value of souls over fishes. Though the transformation would be a gradual and extensive process, Jesus possessed the ability and resolve to accomplish it. This summons symbolized the transition from fishermen to preachers, signifying a more honorable and noble calling.",
+            "wordCount": 67,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.2385941196978754,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.53,
+            "commentatorTierSimilarities": [
+                32.58,
+                22.29,
+                45.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

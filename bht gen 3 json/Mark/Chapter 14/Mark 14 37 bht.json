@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:28:31",
+    "verseRef": "Mark 14:37",
+    "bestBHT": {
+        "bht": "In a time of great crisis, Jesus' loyal disciple Simon failed to live up to his boasts of loyalty. Jesus, fully aware of the weakness of human flesh, gently questioned Simon, asking him why he was asleep. This interaction between Jesus and Simon highlights the discrepancy between Simon's self-professed loyalty and his inability to stay awake and support Jesus during His hour of need.",
+        "wordCount": 66,
+        "quoteTokenProportion": 31.91,
+        "qualityScore": 1.4695376283128778,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+        "commentatorTierSimilarities": [
+            74.1,
+            0.0,
+            25.9
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Already his boasted loyalty was failing in the hour of crisis.",
+            "Jesus fully knows the weakness of human flesh.",
+            "Simon, sleepest thou?"
+        ],
+        "John Gill": [
+            "Christ calls him by the name he first went by, and not by that which he had given him\" ",
+            "he not now having that firmness and constancy, though he boasted of it, which answers to that name",
+            "couldst thou not watch one hour?"
+        ],
+        "John Wesley": [
+            "Saith to Peter \u2014 The zealous, the confident Peter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In a time of great crisis, Jesus' loyal disciple Simon failed to live up to his boasts of loyalty. Jesus, fully aware of the weakness of human flesh, gently questioned Simon, asking him why he was asleep. This interaction between Jesus and Simon highlights the discrepancy between Simon's self-professed loyalty and his inability to stay awake and support Jesus during His hour of need.",
+            "wordCount": 66,
+            "quoteTokenProportion": 31.91,
+            "qualityScore": 1.4695376283128778,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                74.1,
+                0.0,
+                25.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the moment of crisis, Simon's boasted loyalty was already faltering, revealing Jesus' intimate knowledge of the weakness found in human flesh. When Jesus questioned Simon, who had fallen asleep, He used Simon's original name rather than the name He had given him, emphasizing Simon's lack of firmness and constancy. Jesus' question, couldst thou not watch one hour? gently pointed out Simon's failure to stay alert and fulfill his boasts. This interaction with Simon, the zealous and confident disciple, serves as a poignant reminder of the contradiction between his proclaimed loyalty and his inability to support Jesus in His hour of need.",
+            "wordCount": 106,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.2807748754461066,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.93,
+            "commentatorTierSimilarities": [
+                59.88,
+                0.0,
+                40.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the time of crisis, Simon's boasted loyalty failed him, exposing Jesus' understanding of the weakness of human flesh. Jesus questioned him, using his original name to highlight his lack of steadfastness. Jesus gently asked, couldst thou not watch one hour? exemplifying Simon's inability to stay awake and deliver on his claims. This encounter, where Simon, the zealous and confident follower, fell short of supporting Jesus, serves as a powerful reminder of the disparity between professed loyalty and actual commitment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.2202888548802904,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.92,
+            "commentatorTierSimilarities": [
+                56.27,
+                0.0,
+                43.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of crisis, Simon's professed loyalty wavered, exposing Jesus' awareness of human frailty. Jesus directly addressed Simon's failure to stay awake, using his original name to emphasize his lack of constancy. Jesus' gentle inquiry, couldst thou not watch one hour?, highlighted Simon's inability to fulfill his boasts. This interaction serves as a poignant reminder that even the most ardent and self-assured followers may struggle to uphold their commitments when confronted with challenging circumstances.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.1205652571139364,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.6,
+            "commentatorTierSimilarities": [
+                59.72,
+                0.0,
+                40.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simon's boasted loyalty crumbled in the midst of crisis, revealing Jesus' understanding of human frailty. Addressing Simon by his original name, Jesus underscored his inconsistency and inability to fulfill his claims. With the question, couldst thou not watch one hour?, Jesus compassionately highlighted Simon's failure to remain alert. This exchange serves as a poignant reminder of the stark contrast between proclaimed fidelity and actual commitment, even among zealous and confident disciples like Simon.",
+            "wordCount": 75,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.1810909819744793,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.61,
+            "commentatorTierSimilarities": [
+                55.95,
+                0.0,
+                44.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

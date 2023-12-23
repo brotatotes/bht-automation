@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:27:37",
+    "verseRef": "Mark 12:32",
+    "bestBHT": {
+        "bht": "The scribe affirms Jesus' statement that there is one God. The scribe's response is genuine and honest, as he agrees with Jesus, acknowledging that there is only one true God. This scribe, who represents a group outside the visible church, demonstrates a more hopeful condition than the Pharisees. Mark emphasizes that the scribe's softened response is noteworthy, highlighting his openness to the truth spoken by Jesus. Moreover, Jesus takes the opportunity to expose the false holiness of the scribes, emphasizing the singular truth that there is one God, unlike the many idols and fictitious deities of the Gentiles.",
+        "wordCount": 100,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.6583717618596627,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+        "commentatorTierSimilarities": [
+            29.87,
+            31.49,
+            38.65
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "There is one God; and there is none other but he.\" ",
+            "The genuine text here seems clearly to have been, 'There is one,' without the word 'God'; and so nearly all critical editors and expositors read."
+        ],
+        "Marvin Vincent": [
+            "Well, Master, thou hast said the truth; for there is one God.\" ",
+            "All the best texts omit God.",
+            "Thou hast truthfully said that he is one."
+        ],
+        "John Calvin": [
+            "Mark alone mentions that the scribe was softened down; and it is worthy of notice that, though he had attacked Christ maliciously... he openly and candidly assents to what Christ had said.",
+            "Thus we see that he did not belong to the class of those enemies whose obstinacy is incurable...",
+            "From this reply it may also be concluded, that Christ did not precisely include under these two words the rule of life, but embraced the opportunity which presented itself for reproving the false and hypocritical holiness of the scribes..."
+        ],
+        "Philip Schaff": [
+            "Without doubt the scribe spoke candidly.",
+            "He represents a large class, outside the kingdom, in a more hopeful condition than Pharisees in the visible church.",
+            "The form is impressive."
+        ],
+        "Archibald T. Robertson": [
+            "Fine, Teacher. Of a truth (\u03b5\u03c0' \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1\u03c2) didst thou say.",
+            "Well (\u03ba\u03b1\u03bb\u03c9\u03c2). Not to be taken with 'saidst' (\u03b5\u03b9\u03c0\u03b5\u03c2) as the Revised Version has it following Wycliff.",
+            "Probably \u03ba\u03b1\u03bb\u03c9\u03c2 (well) is exclamatory."
+        ],
+        "John Gill": [
+            "What thou hast said is truth, and thou hast expressed it in a most beautiful manner.",
+            "For there is one God, and there is none other but he.",
+            "This he said, in opposition to the many idols, and fictitious deities of the Gentiles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scribe affirms Jesus' statement that there is one God. The scribe's response is genuine and honest, as he agrees with Jesus, acknowledging that there is only one true God. This scribe, who represents a group outside the visible church, demonstrates a more hopeful condition than the Pharisees. Mark emphasizes that the scribe's softened response is noteworthy, highlighting his openness to the truth spoken by Jesus. Moreover, Jesus takes the opportunity to expose the false holiness of the scribes, emphasizing the singular truth that there is one God, unlike the many idols and fictitious deities of the Gentiles.",
+            "wordCount": 100,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6583717618596627,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.48,
+            "commentatorTierSimilarities": [
+                29.87,
+                31.49,
+                38.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scribe candidly agrees with Jesus' statement that there is one God. This response is genuine, and noteworthy according to Mark, as it shows the scribe's openness to the truth. The scribe represents a hopeful group outside the visible church, in contrast to the Pharisees. Jesus takes the opportunity to expose the false holiness of the scribes, emphasizing the singular truth that there is one God, differentiating from the idols worshiped by the Gentiles.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.602136238415171,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.61,
+            "commentatorTierSimilarities": [
+                26.03,
+                36.52,
+                37.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The scribe acknowledges the truth in Jesus' statement that there is only one God. Mark highlights the sincerity of the scribe's response, which represents a more hopeful condition than that of the Pharisees. The scribe openly assents to what Jesus had said, contrasting his candid agreement with the false and hypocritical holiness of the scribes. Jesus seizes the opportunity to expose the multitude of idols and fictitious deities worshipped by the Gentiles, reinforcing the essential truth that there is only one true God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.5865741332932108,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                29.53,
+                27.94,
+                42.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scribe openly agrees with Jesus' statement about the existence of one God, showing genuine sincerity. Mark underlines the scribe's candor, noteworthy in comparison to the Pharisees. This response implies a more hopeful stance for those outside the visible church. Jesus seizes the moment to expose the false holiness of the scribes, emphasizing that there is only one true God, distinct from the numerous idols and fictional deities worshipped by the Gentiles.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5101623041203884,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.56,
+            "commentatorTierSimilarities": [
+                27.71,
+                34.59,
+                37.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The scribe openly affirms Jesus' statement that there is only one God. Mark emphasizes the sincerity and candor of the scribe's response, contrasting it with the false holiness of the scribes. This interaction presents a more hopeful perspective for those outside the visible church. Jesus takes this opportunity to expose the multitude of idols and fake deities worshipped by the Gentiles, emphasizing the singular truth that there is only one true God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.4990643758059996,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                29.5,
+                30.37,
+                40.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:22:20",
+    "verseRef": "Mark 4:34",
+    "bestBHT": {
+        "bht": "Jesus often taught using parables, which were stories that conveyed spiritual messages. In fact, he would not speak to the crowds without using parables. However, he would privately explain the meaning of these parables to his disciples. This was a way for Jesus to gradually introduce spiritual truths to the people, as some of them may have had preconceived notions that would have hindered their understanding. Jesus would take the time to unfold and explain these parables to his disciples privately, leading them into a deeper knowledge of himself and the mysteries of the kingdom of heaven.",
+        "wordCount": 97,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1009319306640513,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+        "commentatorTierSimilarities": [
+            23.96,
+            37.34,
+            38.7
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We have three such instances\u2014the sower, the tares, Matt. xiii. 36 ff., and the saying concerning defilement, Matt. xv. 16 ff.",
+            "To these we may add the two parables in John\u2014ch. x. 1\u201318, which however was publicly explained,\u2014and ch. xv. 1\u201312;\u2014and perhaps Luke xvi. 9; xviii. 6\u20138.",
+            "other ships] These were probably some of the multitudes following, who seem to have been a rated from them in the gale."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But without a parable spake he not unto them.",
+            "He expounded all things to his disciples.",
+            "The time of this section is very definitely marked by our Evangelist, and by him alone."
+        ],
+        "Albert Barnes": [
+            "Without a parable spake he not unto them - That is, the things pertaining to his kingdom.",
+            "On these, such was their prejudice, so many notions had they contrary to the nature of his kingdom, and so liable would plain instructions have been to give offence, that he employed this method to 'insinuate' truth gradually into their minds.",
+            "He expounded - Explained. Showed them more at length the spiritual meaning of the parables."
+        ],
+        "Philip Schaff": [
+            "Without a parable spake he not.",
+            "He taught a certain set of truths in this way alone.",
+            "The specimens recorded by the Evangelists are sufficient to guide us in interpretation."
+        ],
+        "Archibald T. Robertson": [
+            "To his own (\u03b9\u03b4\u03b9\u03bf\u03b9\u03c2) disciples in private, in distinction from the mass of the people Jesus was in the habit of disclosing, revealing, all things (\u03c0\u03b1\u03bd\u03c4\u03b1) in plain language without the parabolic form used before the crowds.",
+            "This verb \u03b5\u03c0\u03b9\u03bb\u03c5\u03c9 occurs in the N.T. only here and in Acts 19:39 where the town-clerk of Ephesus says of the troubles by the mob: 'It shall be settled in the regular assembly' (\u03b5\u03bd \u03c4\u03b7 \u03b5\u03bd\u03bd\u03bf\u03bc\u03c9 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03b1 \u03b5\u03c0\u03b9\u03bb\u03c5\u03b8\u03b7\u03c3\u03b5\u03c4\u03b1).",
+            "In private the further disclosures of Jesus amounted to fresh revelations concerning the mysteries of the kingdom of God."
+        ],
+        "John Gill": [
+            "But without a parable spake he not unto them,.... For the above reason, as well as for the accomplishment of Scripture.",
+            "And when they were alone, he expounded all things to his disciples: after they returned with him from the sea side, to the house in Capernaum.",
+            "He unfolded and explained all these parables to his disciples, and led them into a large knowledge of himself, and the mysteries of the kingdom of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus often taught using parables, which were stories that conveyed spiritual messages. In fact, he would not speak to the crowds without using parables. However, he would privately explain the meaning of these parables to his disciples. This was a way for Jesus to gradually introduce spiritual truths to the people, as some of them may have had preconceived notions that would have hindered their understanding. Jesus would take the time to unfold and explain these parables to his disciples privately, leading them into a deeper knowledge of himself and the mysteries of the kingdom of heaven.",
+            "wordCount": 97,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1009319306640513,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+            "commentatorTierSimilarities": [
+                23.96,
+                37.34,
+                38.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus frequently taught using parables, stories that conveyed spiritual messages. He would only speak to the crowds in parables, but privately explain their meaning to his disciples. This gradual approach allowed him to insinuate truth into their minds without causing offense. Jesus took the time to unfold and explain these parables to his disciples, leading them into a deep understanding of himself and the mysteries of the kingdom of heaven.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.011812523377824,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                23.2,
+                37.3,
+                39.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus often taught using parables as a means to convey spiritual truths. He would not speak to the crowds without employing this storytelling technique. However, he would privately expound and explain the meaning behind these parables to his disciples. This approach allowed Jesus to gradually immerse the disciples in a deeper understanding of himself and the mysteries of the kingdom of God. Through these private sessions, Jesus provided fresh revelations and insights concerning the kingdom.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.8977529473691144,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                25.37,
+                35.58,
+                39.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus frequently used parables to teach, ensuring that he spoke to the crowds only in this manner. However, he would privately explain these parables to his disciples, unveiling the mysteries of the kingdom of God. This distinction between public and private teaching allowed Jesus to gradually introduce profound spiritual truths, insinuating them gradually into the minds of his disciples. These private explanations served as fresh revelations, deepening the disciples' knowledge and understanding of the kingdom of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.0257312732784065,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                26.09,
+                33.63,
+                40.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus consistently taught through parables, using these stories to convey spiritual truths. He exclusively spoke to the crowds in parables but privately expounded the meaning of these stories to his disciples. This approach allowed Jesus to gradually introduce and explain the mysteries of the kingdom of God to his chosen followers. With these private explanations, Jesus provided fresh revelations and deeper insights into the nature of his kingdom, guiding his disciples into a more comprehensive understanding.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.015884134637406,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                25.61,
+                33.99,
+                40.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

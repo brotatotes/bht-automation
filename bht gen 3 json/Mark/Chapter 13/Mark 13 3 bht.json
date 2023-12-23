@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:27:43",
+    "verseRef": "Mark 13:3",
+    "bestBHT": {
+        "bht": "As Jesus and His disciples Peter, James, John, and Andrew were traveling, they arrived at the summit of the Mount of Olives. From this vantage point, Jesus had a clear and unobstructed view of the magnificent temple in Jerusalem. Mark highlights these specific details, emphasizing the intimate setting in which Peter, James, John, and Andrew asked Jesus about His earlier comments. The Mount of Olives, opposite the temple, provided a significant backdrop, enhancing the anticipation for the profound discourse that would ensue.",
+        "wordCount": 82,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.233923102682969,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+        "commentatorTierSimilarities": [
+            34.3,
+            38.48,
+            27.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] Peter and James and John and Andrew are \u201chis disciples\u201d in Matthew, and \u201csome\u201d in Luke."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "On their way from Jerusalem to Bethany they would cross Mount Olivet; on its summit He seats Himself, over against the temple, having the city all spread out under His eye.\" ",
+            "How graphically is this set before us by our Evangelist!\" ",
+            "But Mark not only says that it was four of them, but names them; and they were the first quarternion of the Twelve."
+        ],
+        "Albert Barnes": [
+            "On the mount of Olives, over against the temple - The Mount of Olives was directly east of Jerusalem, and from it there was a fine view of the temple."
+        ],
+        "Marvin Vincent": [
+            "Note the particularity of detail in Mark. He adds, over against the temple, and the names of the four who asked the question. With the following discourse compare Matthew 24:0."
+        ],
+        "Philip Schaff": [
+            "Over against the temple. A graphic stroke, peculiar to Mark.\" ",
+            "The summit of Olivet is directly opposite the temple, the city lying spread out like a map before one sitting there.",
+            "Andrew (the brother of Peter) is added to the more private company on this occasion."
+        ],
+        "Archibald T. Robertson": [
+            "In their bewilderment they ask Jesus a bit to one side, though probably all the rest drew up as Jesus began to speak this great eschatological discourse.",
+            "Peter and James and John and Andrew (named only in Mark) had evidently been discussing the strange comment of Jesus as they were coming out of the temple.",
+            "Privately... they ask Jesus a bit to one side."
+        ],
+        "John Gill": [
+            "Where he could have a full view of it; the eastern wall of the temple being lower than the rest.",
+            "Apart from the rest of the disciples, they being, especially the first three, his favorites, and very familiar with him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On their way from Jerusalem to Bethany, four disciples -- Peter, James, John, and Andrew -- approached Jesus and asked Him privately about His earlier comments. They found themselves on the Mount of Olives, which provided a panoramic view of Jerusalem and the temple. Mark vividly portrays this setting, emphasizing the names of the four disciples and their secluded conversation with Jesus. The particularity of detail in Mark's account adds to its vividness, and it is worth comparing this discourse with the one in Matthew. The Mount of Olives, situated east of Jerusalem, offered a direct view of the temple. This specific location was significant, allowing Jesus to see the temple in all its grandeur and evoking a sense of anticipation for what He was about to reveal.",
+            "wordCount": 127,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.197463544721695,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.41,
+            "commentatorTierSimilarities": [
+                34.2,
+                39.68,
+                26.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus and His chosen disciples, Peter, James, John, and Andrew, made their way from Jerusalem to Bethany, they reached the summit of the Mount of Olives. From this vantage point, Jesus could see the temple below, spread out like a map before Him. Seated there, over against the temple, He began to speak, initiating a striking eschatological discourse. Mark's attention to these specific details highlights the significance of the location and the intimate conversation that took place, setting the stage for Jesus' profound teachings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.1692677221122367,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.47,
+            "commentatorTierSimilarities": [
+                33.56,
+                35.26,
+                31.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus and His disciples Peter, James, John, and Andrew were traveling, they arrived at the summit of the Mount of Olives. From this vantage point, Jesus had a clear and unobstructed view of the magnificent temple in Jerusalem. Mark highlights these specific details, emphasizing the intimate setting in which Peter, James, John, and Andrew asked Jesus about His earlier comments. The Mount of Olives, opposite the temple, provided a significant backdrop, enhancing the anticipation for the profound discourse that would ensue.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.233923102682969,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                34.3,
+                38.48,
+                27.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus and His disciples journeyed towards Bethany, they ascended the Mount of Olives. It was from this elevated position that Jesus sat facing the temple, with the entire city spread out before Him. Mark's attention to detail is evident as he names the four disciples who approached Jesus privately, seeking clarification on His earlier remarks. The specific location of the Mount of Olives, directly opposite the temple, adds depth to the scene and sets the stage for the profound discourse that would follow.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1660114949627944,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+            "commentatorTierSimilarities": [
+                32.55,
+                35.25,
+                32.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Seated on the Mount of Olives, Jesus and four of His disciples, namely Peter, James, John, and Andrew, conversed privately. From this elevated position, they had a panoramic view of the magnificent temple and the sprawling city. Mark's vivid portrayal emphasizes the significance of the location and the intimate nature of their discussion. The detailed account adds richness to the scene, setting the stage for the profound teachings that were about to unfold.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6792108778076733,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.18,
+            "commentatorTierSimilarities": [
+                32.93,
+                32.55,
+                34.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

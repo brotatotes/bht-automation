@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:20:14",
+    "verseRef": "Mark 1:22",
+    "bestBHT": {
+        "bht": "The people were struck with a mixture of fear, wonder, and joy as they listened to Jesus' teaching, astonished not only by the substance of his doctrine but also by the authoritative way he delivered it. Unlike the scribes, Jesus taught with divine authority, drawing his power directly from God. This caused a sensation among the people, who recognized that Jesus possessed a unique authenticity and an intimate connection to the divine. His preaching was marked by the illuminating power of the Holy Spirit, earning the admiration even of those who were irreligious and indifferent.",
+        "wordCount": 95,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.5078534337222482,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+        "commentatorTierSimilarities": [
+            31.27,
+            5.74,
+            62.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And they were astonished at his doctrine... referring quite as much to the manner as the matter of it.\" ",
+            "For he taught them as one that had authority, and not as the scribes.\" ",
+            "See on :-."
+        ],
+        "Marvin Vincent": [
+            "He taught (\u00e7\u0313\u0342\u00ed \u00e4\u00e9\u00e4\u00e1\u0301\u00f3\u00ea\u00f9\u00ed)",
+            " ",
+            "",
+            "return to 'Top of Page'",
+            ""
+        ],
+        "John Calvin": [
+            "The devil dexterously acknowledges, that Christ is the Holy One of God, in order to insinuate into the minds of men a suspicion, that there was some secret understanding between him and Christ... The reason why Christ rebukes him.",
+            "The power of the Spirit shone in the preaching of Christ with such brightness, as to extort admiration even from irreligious and cold hearers.",
+            "The preaching of Christ was eminently distinguished by the divine power of the Spirit, which procured for him the respect of his hearers."
+        ],
+        "Philip Schaff": [
+            "Mark 1:22. See on Matthew 7:28-29; comp. Luke 4:32.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They were astonished... meaning strictly to strike a person out of his senses by some strong feeling, such as fear, wonder, or even joy.",
+            "He struck a note not found by the rabbi... the people noticed at once that here was a personality who got his power (authority) direct from God, not from the current scribes.",
+            "The chief controversy in Christ's life was with these scribes, the professional teachers of the oral law and mainly Pharisees... He made a sensation in the best sense of that word."
+        ],
+        "John Gill": [
+            "And they were astonished at his doctrine... for he taught them as one having authority, and not as the Scribes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people were struck with a mixture of fear, wonder, and joy as they listened to Jesus' teaching, astonished not only by the substance of his doctrine but also by the commanding way in which he delivered it. Unlike the scribes, Jesus taught with divine authority, drawing his power directly from God. This caused a sensation among the people, who recognized that Jesus possessed a unique authenticity and an intimate connection to the divine. His preaching was marked by the illuminating power of the Holy Spirit, earning the admiration even of those who were irreligious and indifferent.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.4854185825675632,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.73,
+            "commentatorTierSimilarities": [
+                31.15,
+                5.47,
+                63.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people were struck with awe as they witnessed Jesus' teaching. They were astonished both by the substance of his doctrine and the authoritative manner in which he delivered it. Unlike the scribes, Jesus taught with divine power, deriving his authority directly from God. This caused a sensation among the people, who recognized Jesus as a unique and authentic figure. His preaching was marked by the illuminating power of the Holy Spirit, which garnered admiration even from those who were indifferent or irreligious.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.4611794747173137,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "commentatorTierSimilarities": [
+                31.49,
+                6.81,
+                61.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people marveled at Jesus' teaching, which struck them with fear, wonder, and even joy. They were astonished not only by the substance of his doctrine but also by the commanding authority with which he delivered it. Unlike the scribes, Jesus taught with a power that came directly from God, causing a sensation among the people. His preaching was marked by the divine illumination of the Holy Spirit, earning the respect and admiration of both religious and irreligious listeners.\n",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.4527366161552955,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                33.09,
+                2.56,
+                64.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people were struck with a mixture of fear, wonder, and joy as they listened to Jesus' teaching, astonished not only by the substance of his doctrine but also by the authoritative way he delivered it. Unlike the scribes, Jesus taught with divine authority, drawing his power directly from God. This caused a sensation among the people, who recognized that Jesus possessed a unique authenticity and an intimate connection to the divine. His preaching was marked by the illuminating power of the Holy Spirit, earning the admiration even of those who were irreligious and indifferent.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5078534337222482,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                31.27,
+                5.74,
+                62.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people were struck with awe as they witnessed Jesus' teaching. They were astonished both by the substance of his doctrine and the authoritative manner in which he delivered it. Unlike the scribes, Jesus taught with divine power, deriving his authority directly from God. This caused a sensation among the people, who recognized Jesus as a unique and authentic figure. His preaching was marked by the illuminating power of the Holy Spirit, which garnered admiration even from those who were indifferent or irreligious.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.4611794747173137,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.93,
+            "commentatorTierSimilarities": [
+                31.49,
+                6.81,
+                61.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

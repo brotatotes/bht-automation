@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:21:35",
+    "verseRef": "Mark 4:16",
+    "bestBHT": {
+        "bht": "Superficial hearts eagerly welcome the truth but quickly lose their zeal when faced with tribulations, resembling the seed sown on stony ground. Ministers often encounter disappointing outcomes when their faithful teachings fail to penetrate these hearers' hardened hearts. Lacking a genuine understanding of sin and their need for Christ, their delight in the truth stems from self-interest and the desire for a well-connected scheme of eternal happiness. Without true brokenness and transformation, their initial promise of fruitfulness fades away like dried-up plants in the scorching sun.",
+        "wordCount": 89,
+        "quoteTokenProportion": 25.35,
+        "qualityScore": 0.9644774541048367,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.41,
+        "commentatorTierSimilarities": [
+            27.22,
+            -3.05,
+            75.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] likewise, after the same analogy:\u2014carrying on a like principle of interpretation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The great truth here taught is that hearts superficially impressed are apt to receive the truth with readiness, and even with joy, but the heat of tribulation or persecution because of the word, or the trials which their new profession brings upon them quickly dries up their relish for the truth, and withers all the hasty promise of fruit which they showed.",
+            "Such disappointing issues of a faithful and awakening ministry\u2014alas, how frequent are they!",
+            "The sun, beating on it, as quickly scorches and withers it up, because it has no root and lacks moisture."
+        ],
+        "Philip Schaff": [
+            "Mark 4:16. Likewise, or, \u2018in like manner.\u2019 \u2018After the same analogy carrying on a like principle of interpretation\u2019 (Alford).",
+            "\t"
+        ],
+        "John Gill": [
+            "Such sort of hearers of the word are signified by the stony ground, on which the seed were sown, who are constant hearers of the word, and have some understanding of it, and some sort of affection for it, and yet their hearts are not truly broken by it...",
+            "They are not brought to a thorough sight and sense of sin, and of their need of Christ, and salvation by him; their stony hearts are not taken away, and hearts of flesh given them.",
+            "Seem highly pleased, and greatly delighted with it, as being a well-connected scheme of things; and which declares things, as heaven and eternal happiness, which they, from a principle of self-love, are desirous of enjoying."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches that those who superficially receive the truth with joy but lack a deep-rooted faith will quickly lose their enthusiasm for the truth when confronted with tribulations or trials. This phenomenon is all too common and can be disheartening for faithful ministers. Like the seed sown on the stony ground, these hearers have some understanding and affection for the word, but their hearts are not truly broken by it. They may initially delight in the interconnected scheme of salvation and eternal happiness, but their lack of a genuine encounter with the truth prevents them from experiencing true transformation.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.0908887977481732,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.62,
+            "commentatorTierSimilarities": [
+                30.21,
+                4.43,
+                65.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hearts superficially impressed display a readiness and joy in receiving the truth. However, when faced with tribulations or trials, their enthusiasm quickly withers away, like the seed sown on stony ground. Such disappointing outcomes are all too common for faithful ministers. These hearers may delight in the interconnected scheme of salvation, yet their lack of a genuine encounter with the truth prevents genuine transformation. Their hearts remain unbroken and unreceptive to the deeper realities of sin and their need for Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 0.9357828115860253,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.46,
+            "commentatorTierSimilarities": [
+                30.04,
+                1.39,
+                68.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Superficially impressed hearts eagerly receive the truth with joy but falter when faced with the heat of tribulation or persecution. Their initial promise of bearing fruit quickly fades away. Disappointingly, this is a common outcome for faithful ministers. These hearers lack a true understanding of sin and their need for Christ. Their hearts remain unbroken, preventing them from experiencing genuine transformation and the blessings of eternal happiness. Their affection for the truth is shallow, driven by self-love rather than a sincere desire for spiritual growth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.87,
+            "qualityScore": 0.888992676211833,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.9,
+            "commentatorTierSimilarities": [
+                30.78,
+                -1.58,
+                70.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Superficially receptive hearts eagerly embrace the truth initially, only to be discouraged by tribulations and trials that dry up their enthusiasm and cause their promise of bearing fruit to wither away. Disappointingly, this outcome is all too frequent for devoted ministers. Despite having some understanding and affection for the word, their hearts remain unbroken and they lack a genuine sense of sin and the need for Christ. Their delight in the truth is motivated by self-love rather than a sincere longing for true transformation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 0.9341647817336749,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.41,
+            "commentatorTierSimilarities": [
+                28.67,
+                -2.21,
+                73.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Superficial hearts eagerly welcome the truth but quickly lose their zeal when faced with tribulations, resembling the seed sown on stony ground. Ministers often encounter disappointing outcomes when their faithful teachings fail to penetrate these hearers' hardened hearts. Lacking a genuine understanding of sin and their need for Christ, their delight in the truth stems from self-interest and the desire for a well-connected scheme of eternal happiness. Without true brokenness and transformation, their initial promise of fruitfulness fades away like dried-up plants in the scorching sun.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.35,
+            "qualityScore": 0.9644774541048367,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.41,
+            "commentatorTierSimilarities": [
+                27.22,
+                -3.05,
+                75.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

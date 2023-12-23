@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:27:35",
+    "verseRef": "Mark 13:7",
+    "bestBHT": {
+        "bht": "During the period leading up to the destruction of Jerusalem, there were various threats and calamities looming over the Hebrew Christians. Famines, outbreaks, wars, and natural disasters all caused distress and fear. However, Jesus reassured his disciples that these events were to be expected, and while they were signs of the impending end, the ultimate destruction and end would not happen immediately. Therefore, the disciples were encouraged not to be troubled or distressed, but to continue in their work of preaching the Gospel, trusting in God's sovereignty over the unfolding events.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.4136618705557273,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+        "commentatorTierSimilarities": [
+            46.09,
+            0.0,
+            53.91
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For such things must needs be; but the end shall not be yet.",
+            "The end is not by and by, or immediately.",
+            "Worse must come before all is over."
+        ],
+        "Marvin Vincent": [
+            "Such as would be a cause of terror to the Hebrew Christians; as the three threats of war against the Jews by Caligula, Claudius, and Nero.",
+            "During the reign of Claudius, A. D. 41 - 54, four famines are recorded: One at Rome, A. D. 41, 42; one in Judaea, A. D. 44; one in Greece, A. D. 50; and again at Rome, A. D. 52.",
+            "The houses were choked with dead, the roads with funerals: neither sex nor age escaped. Slaves and freemen perished equally amidst the wailings of their wives and children, who were often hurried to the pyre by which they had sat in tears, and consumed together with them."
+        ],
+        "Archibald T. Robertson": [
+            "Already there were outbreaks against the Jews in Alexandria, at Seleucia with the slaughter of more than fifty thousand, at Jamnia, and elsewhere.",
+            "Caligula, Claudius, Nero will threaten war before it finally comes with the destruction of the city and temple by Titus in A.D. 70.",
+            "Vincent notes that between this prophecy by Jesus in A.D. 30 (or 29) and the destruction of Jerusalem there was an earthquake in Crete (A.D. 46 or 47), at Rome (A.D. 51), at Apamaia in Phrygia (A.D. 60), at Campania (A.D. 63)."
+        ],
+        "John Gill": [
+            "Be not troubled; keep your place, abide by your work, go on preaching the Gospel, without distressing yourselves about the event of things.\" ",
+            "[Such things] must needs be: being decreed by God, foretold by Christ, and made necessary by the sins of the people.\" ",
+            "But the end shall not be yet; of the temple, of Jerusalem, and of the Jewish state and nation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the period leading up to the destruction of Jerusalem, there were various threats and calamities looming over the Hebrew Christians. Famines, outbreaks, wars, and natural disasters all caused distress and fear. However, Jesus reassured his disciples that these events were to be expected, and while they were signs of the impending end, the ultimate destruction and end would not happen immediately. Therefore, the disciples were encouraged not to be troubled or distressed, but to continue in their work of preaching the Gospel, trusting in God's sovereignty over the unfolding events.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4136618705557273,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+            "commentatorTierSimilarities": [
+                46.09,
+                0.0,
+                53.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the lead-up to the destruction of Jerusalem, Hebrew Christians faced numerous threats, including famines, outbreaks, and wars. Jesus acknowledged that these events were unavoidable and signs of the impending end, but reassured his disciples that the ultimate destruction would not happen immediately. Despite the distress caused, Jesus encouraged them to remain steadfast and continue their work of spreading the Gospel, trusting in God's sovereignty over the unfolding events.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.3928872921386701,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.66,
+            "commentatorTierSimilarities": [
+                43.94,
+                0.0,
+                56.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the period before the destruction of Jerusalem, there were threats such as famines, outbreaks, and wars that caused distress among Hebrew Christians. However, Jesus reminded them that these events were necessary and foretold, but the ultimate end would not be immediate. He encouraged his disciples not to be troubled, but to continue their work of preaching the Gospel. Despite the challenging circumstances, they were to trust in God's sovereignty over the unfolding events.",
+            "wordCount": 75,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.2560849573071953,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+            "commentatorTierSimilarities": [
+                38.36,
+                0.0,
+                61.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warned the Hebrew Christians about the difficult times that would precede the end. This included the threats of war against the Jews by Caligula, Claudius, and Nero, as well as famines and outbreaks that caused widespread suffering. However, Jesus assured his disciples that these challenges were necessary and would not immediately bring about the end. He urged them to remain steadfast and focused on their mission of spreading the Gospel, without being troubled or distressed by the events unfolding around them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.3060821419391382,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.77,
+            "commentatorTierSimilarities": [
+                45.77,
+                0.0,
+                54.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus cautioned the Hebrew Christians of the hardships they would face before the end would come. These included the threats of war, famines, and outbreaks, such as those during the reign of Claudius and the violence against the Jews. Despite these challenges, Jesus reassured them that the end was not immediate and encouraged them not to be troubled. He advised them to remain steadfast in their work and to continue preaching the Gospel, trusting in God's plan and sovereignty over the unfolding events.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.2630133918816173,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.34,
+            "commentatorTierSimilarities": [
+                40.13,
+                0.0,
+                59.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

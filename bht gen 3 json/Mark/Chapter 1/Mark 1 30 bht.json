@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:19:42",
+    "verseRef": "Mark 1:30",
+    "bestBHT": {
+        "bht": "Laying sick of a great fever, the woman's condition was described by Luke, the beloved physician, who differentiated it from small fevers. Aware of Jesus' compassion and power, the disciples immediately informed Him, hoping for a miraculous display. They believed that Jesus had the power to remove such a violent and dangerous fever, as they beseeched Him to restore her.",
+        "wordCount": 61,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.5032785238412356,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.33,
+        "commentatorTierSimilarities": [
+            45.67,
+            17.43,
+            36.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Luke, as was natural in 'the beloved physician,' describes it professionally; calling it a 'great fever,'",
+            "and thus distinguishing it from that lighter kind which the Greek physicians were wont to call 'small fevers.'",
+            "naturally hoping that His compassion and power towards one of His own disciples would not be less signally displayed than towards the demonized stranger in the synagogue."
+        ],
+        "Marvin Vincent": [
+            "Lay sick of a fever (\u00ea\u00e1\u00f4\u00e5\u0301\u00ea\u00e5\u00e9\u00f4\u00ef \u00f0\u00f5\u00f1\u00e5\u0301\u00f3\u00f3\u00ef\u00f5\u00f3\u00e1)"
+        ],
+        "Philip Schaff": [
+            "Mark 1:30. And straightway they tell him of her. Matthew omits this telling; Luke says: \u2018they besought Him for her.\u2019",
+            "\t"
+        ],
+        "John Gill": [
+            "A very violent one, which threatened with death, and must be very dangerous to an old person.",
+            "They acquainted him with her case, and beseeched him to look upon her, and restore her.",
+            "They might rightly conclude he had power to remove a fever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage speaks of a woman who was laying sick of a great fever, a distinction made by Luke to highlight the severity of her condition. Being a beloved physician, Luke described it professionally, differentiating it from small fevers known to Greek physicians. The disciples, knowing Jesus' compassion and power, immediately informed Him of her condition, hoping He would display His miraculous abilities just as He had done for others. It was clear to them that Jesus had the power to bring healing and restore her back to health.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.3502604650735208,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.24,
+            "commentatorTierSimilarities": [
+                42.89,
+                25.92,
+                31.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Laying sick of a great fever, the woman's condition was described by Luke, the beloved physician, who differentiated it from small fevers. Aware of Jesus' compassion and power, the disciples immediately informed Him, hoping for a miraculous display. They believed that Jesus had the power to remove such a violent and dangerous fever, as they beseeched Him to restore her.",
+            "wordCount": 61,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5032785238412356,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.33,
+            "commentatorTierSimilarities": [
+                45.67,
+                17.43,
+                36.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Laying sick of a great fever, the woman's condition was described professionally by Luke, who distinguished it from small fevers known to Greek physicians. The disciples, aware of Jesus' compassion and power, immediately informed Him, hoping for a miraculous display. They believed that Jesus had the power to remove the violent and dangerous fever, as they beseeched Him to restore her.",
+            "wordCount": 62,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.4815930361640117,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.61,
+            "commentatorTierSimilarities": [
+                44.02,
+                18.63,
+                37.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Laying sick of a great fever, the woman's condition was described professionally by Luke, who distinguished it from small fevers known to Greek physicians. The disciples, aware of Jesus' compassion and power, immediately informed Him, hoping for a miraculous display. They believed that Jesus had the power to remove the violent and dangerous fever and beseeched Him to restore her.",
+            "wordCount": 61,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4685700145675624,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.17,
+            "commentatorTierSimilarities": [
+                43.8,
+                18.51,
+                37.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Laying sick of a great fever, the woman was in a severe condition, as described professionally by Luke, the beloved physician. The disciples, aware of Jesus' compassion and power, promptly informed Him, hopeful that He would display His miraculous abilities. They believed Jesus possessed the power to remove the dangerous fever and earnestly beseeched Him to restore her to health.",
+            "wordCount": 60,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.369244253930833,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.87,
+            "commentatorTierSimilarities": [
+                41.61,
+                19.09,
+                39.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

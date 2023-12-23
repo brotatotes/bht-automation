@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:26:14",
+    "verseRef": "Mark 9:40",
+    "bestBHT": {
+        "bht": "All those who believe in and preach Jesus Christ without bitterly opposing each other are helpers of each other's work. If someone reveres His name and promotes His cause, they are to be regarded as being with us. This profound saying throws a flood of light in every direction, emphasizing the absence of neutrality in regards to Christ and His people. We are called to judge ourselves rigorously and each other candidly. Let all Christians remember this and unite in advancing the kingdom of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.6750311649427978,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+        "commentatorTierSimilarities": [
+            33.78,
+            33.9,
+            32.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All those who, notwithstanding outward differences of communion and government, believe in and preach Jesus Christ, without bitterly and uncharitably opposing each other, are hereby declared to be helpers forward of each other's work.",
+            "O that all Christians would remember this!",
+            "In the divided state of the critical evidence, the reading must be ever doubtful."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "No one will readily speak evil of Me who has the faith to do a miracle in My name.",
+            "If such a person cannot be supposed to be against us, ye are to consider him for us.",
+            "Such a person was to be regarded, although he did not [follow them], namely, as a reverer of His name and a promoter of His cause."
+        ],
+        "John Calvin": [
+            "For he who is not against us is for us.",
+            "He does not enjoin us to give a loose rein to rash men, and to be silent while they intermeddle with this and the other matter, according to their own fancy, and disturb the whole order of the Church.",
+            "He only affirms that they act improperly, who unseasonably prevent the kingdom of God from being advanced by any means whatever."
+        ],
+        "Philip Schaff": [
+            "Against us is for us.\" ",
+            "As regards Christ and His people, there is no neutrality.",
+            "The saying in Matthew refers more to inward unity with Christ; this one to outward conformity with His people."
+        ],
+        "Archibald T. Robertson": [
+            "He that is not against us is with us. This profound saying throws a flood of light in every direction.",
+            "The complement of this logion is that in Matthew 12:30: 'He that is not with me is against me.' Both are needed.",
+            "Some people imagine that they are really for Christ who refuse to take a stand in the open with him and for him."
+        ],
+        "John Gill": [
+            "For he that is not against us, is on our part.",
+            "Inasmuch as he was opposing the same common enemy, and did nothing against them, he ought to be reckoned as one for them.",
+            "It is a proverbial expression, signifying that all that are not against a man, and take not the part of his enemy, are to be accounted his friends."
+        ],
+        "John Wesley": [
+            "For he that is not against you, is for you.\" ",
+            "The war between him and Satan admitted of no neutrality.",
+            "We are to be rigorous in judging ourselves, and candid in judging each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All those who believe in and preach Jesus Christ, without bitterly opposing each other, are declared to be helpers of each other's work. If a person reveres His name and promotes His cause, they are to be regarded as being with us. This profound saying throws a flood of light in every direction. There is no neutrality when it comes to Christ and His people. Inward unity with Christ and outward conformity with His people go hand in hand. We are called to be rigorous in judging ourselves and candid in judging each other. Let all Christians remember this and be united in advancing the kingdom of God.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7064092998044311,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+            "commentatorTierSimilarities": [
+                30.58,
+                39.77,
+                29.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All those who believe in and preach Jesus Christ, without bitterly opposing each other, are declared to be helpers of each other's work. If a person reveres His name and promotes His cause, they are to be regarded as being with us. This profound saying throws a flood of light in every direction. There is no neutrality when it comes to Christ and His people. We are called to be rigorous in judging ourselves and candid in judging each other. Let all Christians remember this and be united in advancing the kingdom of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.6646476297048178,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                33.06,
+                35.52,
+                31.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All those who believe in and preach Jesus Christ without bitterly opposing each other are helpers of each other's work. If someone reveres His name and promotes His cause, they are to be regarded as being with us. This profound saying throws a flood of light in every direction, emphasizing the absence of neutrality in regards to Christ and His people. We are called to judge ourselves rigorously and each other candidly. Let all Christians remember this and unite in advancing the kingdom of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.6750311649427978,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                33.78,
+                33.9,
+                32.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who believe in and preach Jesus Christ, without bitterly opposing each other, are helpers of each other's work. If someone reveres His name and promotes His cause, they are to be regarded as being with us. This profound saying highlights the absence of neutrality when it comes to Christ and His people. We are called to be rigorous in judging ourselves and candid in judging each other. Let all Christians remember this and unite in advancing the kingdom of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.6671435965059067,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+            "commentatorTierSimilarities": [
+                31.62,
+                34.16,
+                34.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All who believe in and preach Jesus Christ, without bitterly opposing each other, are helpers of one another's work. If someone reveres His name and promotes His cause, they are to be regarded as being with us. This profound saying sheds light on the absence of neutrality in relation to Christ and His people. We must judge ourselves with rigor and extend candor in judging one another. Let this reminder unite all Christians in advancing the kingdom of God together.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.6148854877092491,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.04,
+            "commentatorTierSimilarities": [
+                31.96,
+                34.5,
+                33.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

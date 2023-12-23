@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:26:11",
+    "verseRef": "Mark 10:48",
+    "bestBHT": {
+        "bht": "As Jesus passed by, many charged the blind beggar to hold his peace, to not call him the Son of David, and to not ask anything of him. However, the blind beggar cried out even more, lifting up his voice more loudly and with greater vehemency. The blind beggar's persistent cries for mercy from the Son of David displayed an unwavering faith and a desperate need for healing.",
+        "wordCount": 69,
+        "quoteTokenProportion": 45.83,
+        "qualityScore": 1.1647661814083334,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.07,
+        "commentatorTierSimilarities": [
+            19.18,
+            22.61,
+            58.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "48.] See on Matthew vv. 20, 31."
+        ],
+        "Philip Schaff": [
+            "Mark 10:48. See Matthew 20:31 . The continued crying is even more strongly set forth here.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Should hold his peace (\u03c3\u03b9\u03c9\u03c0\u03b7\u03c3\u03b7). Ingressive aorist subjunctive, become silent.",
+            "The more a great deal (\u03c0\u03bf\u03bb\u03bb\u03c9 \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd). So Luke 18:39.",
+            "Only \u03bc\u03b5\u03b9\u03b6\u03bf\u03bd in Matthew 20:31."
+        ],
+        "John Gill": [
+            "And many charged him that he should hold his peace,.... And be silent, and not call him the son of David, at least; nor ask any thing of him.\" ",
+            "But he cried the more a great deal: he lifted up his voice more loudly, and repeated the same words quicker and oftener, and with greater vehemency and importunity.\" ",
+            "Thou son of David, have mercy on me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus passed by, many people charged the blind beggar to be silent, to not call him the Son of David, and to not ask anything of him. However, the blind beggar cried out even more, lifting up his voice in greater desperation and urgency, repeating his plea for mercy from Jesus, the Son of David. This persistence and fervency in the blind beggar's cries is emphasized in Mark's account, even more so than in Matthew's parallel passage.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.2857627307319186,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.09,
+            "commentatorTierSimilarities": [
+                22.9,
+                29.03,
+                48.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus passed by, many urged the blind beggar to become silent, withholding his plea for mercy from the Son of David. However, the blind beggar cried out with even greater force, his voice echoing in desperation and urgency, as he repeated his plea for mercy. This fervent persistence in the blind beggar's cries is emphasized in Mark's account, highlighting the intensity of his longing for healing.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.0393552228248988,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.9,
+            "commentatorTierSimilarities": [
+                17.96,
+                31.05,
+                50.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus passed by, many charged the blind beggar to hold his peace, to not call him the Son of David, and to not ask anything of him. However, the blind beggar cried out even more, lifting up his voice more loudly and with greater vehemency. The blind beggar's persistent cries for mercy from the Son of David displayed an unwavering faith and a desperate need for healing.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.1647661814083334,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.07,
+            "commentatorTierSimilarities": [
+                19.18,
+                22.61,
+                58.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus passed by, many urged the blind beggar to be silent and not call him the Son of David. Despite their admonitions, the blind beggar cried out more fervently, his voice becoming louder and more urgent. His persistent plea for mercy demonstrated his unwavering faith and desperate need for Jesus, the Son of David, to show him compassion. In Mark's account, the intensity of the blind beggar's cries is especially emphasized, highlighting the depth of his longing for healing.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.0641112926743745,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.73,
+            "commentatorTierSimilarities": [
+                20.53,
+                25.67,
+                53.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus passed by, many urged the blind beggar to be silent, not calling Him the Son of David or making any requests. However, the blind beggar cried out even more, his voice growing louder and more urgent. This persistent plea for mercy showcased the blind beggar's unwavering faith and desperate need for Jesus, the Son of David. Mark's account emphasizes the intensity of the blind beggar's cries, underscoring the depth of his longing for healing.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.0775814181951702,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.17,
+            "commentatorTierSimilarities": [
+                21.81,
+                27.16,
+                51.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

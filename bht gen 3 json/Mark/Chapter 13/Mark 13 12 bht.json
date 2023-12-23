@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:27:28",
+    "verseRef": "Mark 13:12",
+    "bestBHT": {
+        "bht": "As a result of being offended, many individuals will betray and hate one another, even to the extent of brothers turning against each other. This treachery stems from fear, the allure of rewards, and a deep-seated hostility towards the gospel. These actions highlight the depravity of those times and the innate resistance of the human heart towards the message of Christ. The shocking reality of such betrayal within close relationships speaks to the unfathomable darkness and unsettling nature of these events.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.6697146066125645,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+        "commentatorTierSimilarities": [
+            42.45,
+            33.5,
+            24.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "12.] This is expressed by \u201cthen shall many be offended, and shall betray one another, and shall hate one another,\u201d Matthew, ver. 10."
+        ],
+        "Albert Barnes": [
+            "The brother shall betray ... - The brother shall give up in a treacherous manner his brother to be put to death, on account of his attachment to Jesus.",
+            "Through fear, or from the hope of reward and from the hatred of the gospel, he will overcome all the natural ties of brotherhood.",
+            "Perhaps nothing could more clearly show the dreadful evil of those times, as well as the natural opposition of the heart to the religion of Christ."
+        ],
+        "John Gill": [
+            "Signifying, that such should be the rage of men, particularly the Jews, against Christ and his Gospel...",
+            "those that were in the nearest relation, were of the same flesh and blood, children of the same parents, should betray and deliver up each other into the hands of the civil magistrate, in order to be put to death...",
+            "things unnatural and shocking"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is expressed that many will be offended, betray one another, and hate one another. Some commentators further explain that the betrayal will occur even between brothers, with one giving up the other in a treacherous manner out of fear, hope of reward, or hatred towards the gospel. These actions are seen as evidence of the dreadful evil of the times, demonstrating the natural opposition of the heart to the religion of Christ. It is a shocking and unnatural reality that even those in the closest relationships will deliver each other into the hands of the authorities in order to face death.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.883742739717464,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.98,
+            "commentatorTierSimilarities": [
+                40.28,
+                36.7,
+                23.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is foretold that as a result of their offense, many people will betray and hate one another. This includes brothers turning against each other, willing to deliver one another to death out of fear, greed, or enmity towards the gospel message. These actions reveal the deep darkness and evil of those times, reflecting the innate opposition of the human heart towards the message of Christ. It is a disturbing and unnatural reality to witness such betrayals even within the closest of relationships, ultimately leading to dire consequences.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.676840667413197,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.1,
+            "commentatorTierSimilarities": [
+                40.39,
+                35.14,
+                24.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a result of being offended, many individuals will betray and hate one another, even to the extent of brothers turning against each other. This treachery stems from fear, the allure of rewards, and a deep-seated hostility towards the gospel. These actions highlight the depravity of those times and the innate resistance of the human heart towards the message of Christ. The shocking reality of such betrayal within close relationships speaks to the unfathomable darkness and unsettling nature of these events.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6697146066125645,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.86,
+            "commentatorTierSimilarities": [
+                42.45,
+                33.5,
+                24.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Many will be offended, betraying and hating one another, even within the closest bonds of brotherhood. This betrayal is driven by fear, the potential for reward, and sheer animosity towards the gospel. It reveals the deep wickedness of those times and the inherent opposition of the human heart to the message of Christ. Such betrayals, especially between family members, are shocking and unnatural, demonstrating the intense hostility that individuals will have towards each other during this tumultuous period.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.6525499662912946,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.29,
+            "commentatorTierSimilarities": [
+                39.3,
+                36.03,
+                24.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In these times, many will betray and hate one another, even among brothers, due to offense. The betrayal stems from fear, hope of reward, and a strong aversion to the gospel. These actions reflect the profound evil of the era and the intrinsic resistance of the human heart to Christ's message. The unnatural and appalling reality of close relations delivering each other to authorities for execution epitomizes the intense animosity that prevails during these turbulent times.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.6318788820357542,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                39.29,
+                38.21,
+                22.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

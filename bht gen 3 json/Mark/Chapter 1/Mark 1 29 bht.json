@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:20:18",
+    "verseRef": "Mark 1:29",
+    "bestBHT": {
+        "bht": "The mention of four specific witnesses in this passage\u2014the first of many instances where Peter's hand is believed to be involved\u2014highlights the trio of Peter, James, and John as a threefold cord of testimony. It is worth noting that Andrew, present in his own house, was married prior to following Jesus. Each Gospel adds its own unique details to the narrative, and this tender scene sets the stage for Christ's private and familiar illustration of his grace to his disciples. This miracle is a powerful display of Christ's healing power, in which he chooses to touch the woman's hand, either out of affection or because he understands its significance.",
+        "wordCount": 115,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.569796558317929,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+        "commentatorTierSimilarities": [
+            41.04,
+            27.72,
+            31.24
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The mention of these four\u2014which is peculiar to Mark\u2014is the first of those traces of Peter's hand in this Gospel, of which we shall find many more.\" ",
+            "It is interesting to observe this minute specification of the number and names of the witnesses; interesting also as the first occasion on which the sacred triumvirate of Peter and James and John are selected from among the rest, to be a threefold cord of testimony to certain events in their Lord's life.",
+            "Andrew being present on this occasion, as the occurrence took place in his own house."
+        ],
+        "John Calvin": [
+            "The Evangelists appear to have taken particular notice of this miracle...because, by means of it, Christ gave to his disciples a private and familiar illustration of his grace.",
+            "A single word, in Luke's narrative, presents to us more strikingly the power which Christ displayed...he removed a strong and violent disease.",
+            "He might have done it by the slightest expression of his will; but he touched her hand...either to mark his affection, or because he was aware that this sign was, at that time, advantageous."
+        ],
+        "Philip Schaff": [
+            "The particularity favors the theory that Peter had told Mark of it.",
+            "The twelve were not yet chosen; though these four had been called to follow Christ.",
+            "Mark alone mentions these."
+        ],
+        "Archibald T. Robertson": [
+            "Peter was evidently married before he began to follow Jesus.",
+            "Each Gospel gives touches of its own to the story.",
+            "It was a tender scene."
+        ],
+        "John Gill": [
+            "Christ having wrought this miracle, and finished his sermon, and the whole synagogue service being over...\" (25 words)",
+            "he, and they that were with him, departed from it, and directly, being not far from it...\" (22 words)",
+            "whom they took along with them, being fellow disciples of Christ.\" (10 words)"
+        ],
+        "John Wesley": [
+            "Matthew 8:14; Luke 4:38."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The mention of four specific witnesses in this passage\u2014the first of many instances where Peter's hand is believed to be involved\u2014highlights the trio of Peter, James, and John as a threefold cord of testimony. It is worth noting that Andrew, present in his own house, was married prior to following Jesus. Each Gospel adds its own unique details to the narrative, and this tender scene sets the stage for Christ's private and familiar illustration of his grace to his disciples. This miracle is a powerful display of Christ's healing power, in which he chooses to touch the woman's hand, either out of affection or because he understands its significance.",
+            "wordCount": 115,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.569796558317929,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                41.04,
+                27.72,
+                31.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inclusion of four specific witnesses, a detail unique to Mark's Gospel, suggests Peter's involvement in the account. Peter, along with James and John, is depicted as a threefold cord of testimony. Andrew's presence in his own house is noteworthy, implying his pre-existing marriage. The Gospel narratives each contribute their own nuances to the story, while this particular incident presents a poignant scene where Christ reveals his grace privately and intimately to his disciples. The miracle itself showcases Christ's power and his deliberate choice to touch the woman's hand, either out of affection or recognizing the significance of this gesture.",
+            "wordCount": 106,
+            "quoteTokenProportion": 29.33,
+            "qualityScore": 1.5066931568949622,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+            "commentatorTierSimilarities": [
+                40.14,
+                30.87,
+                28.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of four specific witnesses in this narrative, peculiar to Mark's Gospel, suggests Peter's involvement. Peter, along with James and John, serves as a threefold cord of testimony. Andrew's presence in his own home indicates his existing marital status. Each Gospel contributes unique elements to the story, setting the stage for Christ's intimate portrayal of his grace towards his disciples. The miracle itself demonstrates Christ's healing power, as he deliberately touches the woman's hand out of affection or understanding its significance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.5045199178861157,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                39.59,
+                31.67,
+                28.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The inclusion of four specific witnesses, which is unique to Mark's Gospel, hints at Peter's involvement in the account. Peter, James, and John emerge as a threefold cord of testimony, selected among the disciples to bear witness to certain events in the life of Jesus. This particular incident takes place in Andrew's own house, indicating that Peter was already married before following Jesus. Each Gospel adds its own unique touches to the story, accentuating the tenderness of the scene and underscoring Christ's display of grace and healing power.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.6785853004441689,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.16,
+            "commentatorTierSimilarities": [
+                43.35,
+                30.38,
+                26.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of four specific witnesses, unique to Mark's Gospel, suggests Peter's involvement in the narrative. Peter, James, and John are portrayed as a threefold cord of testimony, chosen by Jesus to bear witness to significant events. Andrew's presence in his own house indicates that Peter was married before following Jesus. Each Gospel provides distinct details, painting a tender scene and highlighting Christ's display of grace. The miracle reflects Christ's healing power, manifested through his deliberate touch, displaying either affection or recognizing the symbolism involved.",
+            "wordCount": 90,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 1.6376535662533198,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.79,
+            "commentatorTierSimilarities": [
+                40.83,
+                32.03,
+                27.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

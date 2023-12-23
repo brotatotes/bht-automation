@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-22-2023 23:27:20",
+    "verseRef": "Mark 13:18",
+    "bestBHT": {
+        "bht": "Pray that your flight will not coincide with the winter, when the days are short, roads are bad, and the weather is inclement, making it difficult and uncomfortable to find shelter in the mountains. Moreover, be aware not to be caught in the midst of your escape on the Sabbath day, as the fear of violating its sacred rest might deceive you into staying when you should be fleeing for your life.",
+        "wordCount": 72,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.073704705510258,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+        "commentatorTierSimilarities": [
+            43.25,
+            0.0,
+            56.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] St. Matthew adds, \u201cnor on the sabbath day.\u201d St. Mark wrote mostly for Gentile readers, and thus perhaps was not likely to report this."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Pray ye that your flight be not in the winter\u2014making escape perilous, or tempting you to delay your flight.",
+            "Neither on the sabbath day,\" when, from fear of a breach of its sacred rest, they might be induced to remain."
+        ],
+        "John Gill": [
+            "And pray ye that your flight be not in winter. When days are short, roads bad, the weather inclement; and when to lodge in mountains, is very incommodious, and uncomfortable.\" ",
+            "The Persic version adds, 'neither on the sabbath day'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pray that when the time comes for you to flee, it will not be during the winter, as the harsh conditions and difficult roads may hinder your escape or tempt you to delay it. Be especially vigilant not to be caught in flight on the Sabbath day, as the fear of breaking its sacred rest may lead you to stay when you should be fleeing for safety.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8617759273339962,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                51.32,
+                0.0,
+                48.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pray that when the time comes for you to flee, it will not be during the winter when days are short, roads are bad, and the weather is inclement, making it inconvenient and uncomfortable to find shelter in the mountains. Also, be cautious not to be caught in flight on the Sabbath day, as the fear of breaking its sacred rest may lead you to stay, putting your safety at risk.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.9740140273496996,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.98,
+            "commentatorTierSimilarities": [
+                42.76,
+                0.0,
+                57.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pray that when the time comes for you to escape, it will not be during the winter, as the days are short, roads are bad, and the weather is inclement, making it very inconvenient and uncomfortable to find shelter in the mountains. Additionally, be cautious not to be caught in flight on the Sabbath day, as the fear of breaking its sacred rest may tempt you to stay instead of fleeing for safety.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.0104463804235286,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                43.99,
+                0.0,
+                56.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pray that your flight will not coincide with the winter, when the days are short, roads are bad, and the weather is inclement, making it difficult and uncomfortable to find shelter in the mountains. Moreover, be aware not to be caught in the midst of your escape on the Sabbath day, as the fear of violating its sacred rest might deceive you into staying when you should be fleeing for your life.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.073704705510258,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                43.25,
+                0.0,
+                56.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pray that your flight will not be in winter, as this season presents challenging conditions for escape, with short days, bad roads, and inclement weather, which makes finding shelter in the mountains inconvenient and uncomfortable. Similarly, be cautious not to be caught in flight on the Sabbath day, as the fear of breaking its sacred rest may lead you to stay instead of seeking safety.",
+            "wordCount": 65,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.983699395340263,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+            "commentatorTierSimilarities": [
+                43.63,
+                0.0,
+                56.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

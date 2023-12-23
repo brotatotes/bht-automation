@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:24:19",
+    "verseRef": "Mark 7:22",
+    "bestBHT": {
+        "bht": "The range of sins listed here exposes the active wickedness, lawless insolence, and wantonness that spring from the human heart. Pride demonstrates an arrogant disposition towards God and others. Covetousness, coupled with blasphemous anger, exemplifies the insatiable desire and abusive language associated with these sins. Jesus, being pure, understands the deep-seated nature of these sins and seeks to rescue humanity from their destructive force. Mark presents a unique compilation that sheds light on the malevolent affections and foolishness ingrained within the human heart.",
+        "wordCount": 84,
+        "quoteTokenProportion": 26.15,
+        "qualityScore": 1.5140801848732082,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+        "commentatorTierSimilarities": [
+            32.22,
+            36.56,
+            31.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Wickedness [\u03c0\u03bf\u03bd\u03b7\u03c1\u03b9\u03b1\u03b9]...indicates active wickedness...dangerous, destructive.",
+            "Lasciviousness [\u03b1\u03c3\u03b5\u03bb\u03b3\u03b5\u03b9\u03b1]...lawless insolence and wanton caprice...wantonness.",
+            "Pride [\u03c5\u03c0\u03b5\u03c1\u03b7\u03c6\u03b1\u03bd\u03b9\u03b1]...the sin of an uplifted heart against God and man."
+        ],
+        "Philip Schaff": [
+            "Covetings, lit., \u2018covetousnesses,\u2019 grasping, greedy desires, with the attending peculiarities.",
+            "Blasphemy. Proud and spiteful anger, manifesting itself in abusive language against God.",
+            "A fearful catalogue, true to nature still. How well our Lord, the purest of the pure, knew the depths of iniquity from which He would save sinful men!"
+        ],
+        "John Gill": [
+            "which, excepting 'blasphemy', are not taken notice of by the other evangelists",
+            "covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness",
+            "Mark omits 'false witnesses', and adds the following"
+        ],
+        "John Wesley": [
+            "Wickedness - The word means ill natured, cruelty, inhumanity, and all malevolent affections.",
+            "Foolishness - Directly contrary to sobriety of thought and discourse: all kind of wild imaginations and extravagant passions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 7:22, the Bible enumerates various sins that come from the heart of man. Wickedness refers to destructive and dangerous active wickedness. Lasciviousness denotes lawless insolence and wantonness, while pride signifies an uplifted heart against God and man. These sins are accompanied by covetousness, blasphemous anger, and other manifestations of iniquity. Jesus, being the purest of the pure, understood the depths of these sins and sought to save sinful humanity from their grasp. This catalog of sins, unique to Mark, sheds light on the malevolent affections and foolishness that plague the human heart.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.5033245383599039,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.33,
+            "commentatorTierSimilarities": [
+                35.63,
+                33.75,
+                30.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the Bible unveils the various sins that spring from the human heart. Wickedness represents destructive and dangerous active wickedness. Lasciviousness embodies lawless insolence and wantonness, while pride implies a haughty attitude towards God and others. These sins are accompanied by covetousness and blasphemous anger. Jesus, being pure, understood the profound depths of these sins and sought to redeem humanity from their grip. This catalog of sins, unique to Mark, sheds light on the malevolent affections and foolishness that plague the human heart.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.4425572695689381,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.31,
+            "commentatorTierSimilarities": [
+                35.1,
+                33.41,
+                31.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The heart of man reveals a dark disposition through various sins. Wickedness indicates active, dangerous wickedness; lasciviousness signifies lawless insolence and wantonness; and pride denotes an uplifted heart against God and man. Covetousness, along with blasphemous anger, further contributes to this sinful nature. Jesus, understanding the depths of these sins, seeks to rescue humanity from their destructive power. Mark's unique catalog of sins sheds light on the malevolent affections and foolishness deeply embedded in the human heart.",
+            "wordCount": 78,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.4990279270040219,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.19,
+            "commentatorTierSimilarities": [
+                33.95,
+                36.82,
+                29.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The catalog of sins in this passage exposes the active wickedness, lawless insolence, and wantonness that emanate from the human heart. Pride signifies an arrogant disposition towards God and fellow human beings. Covetousness, along with blasphemous anger, portrays the relentless grasping and abusive language associated with these sins. Jesus, the epitome of purity, understands the profound depths of these sins and endeavors to deliver humanity from their destructive influence. Mark's exclusive compilation of sins reveals the malevolent affections and foolishness deeply entrenched within the human heart.",
+            "wordCount": 87,
+            "quoteTokenProportion": 23.44,
+            "qualityScore": 1.524528090019819,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.03,
+            "commentatorTierSimilarities": [
+                32.25,
+                36.94,
+                30.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The range of sins listed here exposes the active wickedness, lawless insolence, and wantonness that spring from the human heart. Pride demonstrates an arrogant disposition towards God and others. Covetousness, coupled with blasphemous anger, exemplifies the insatiable desire and abusive language associated with these sins. Jesus, being pure, understands the deep-seated nature of these sins and seeks to rescue humanity from their destructive force. Mark presents a unique compilation that sheds light on the malevolent affections and foolishness ingrained within the human heart.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.5140801848732082,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                32.22,
+                36.56,
+                31.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:27:02",
+    "verseRef": "Mark 11:27",
+    "bestBHT": {
+        "bht": "The day after Jesus cursed the fig tree and two days after his triumphal entry into Jerusalem, he was walking in the temple with his disciples and a multitude of people. A committee of the Sanhedrin, composed of both Sadducees and Pharisees, confronted Jesus to challenge his authority in cleansing the temple and teaching in it. Jesus, in his teachings as he walked, attracted attention and scrutiny from the Sanhedrin, prompting them to question him further.",
+        "wordCount": 76,
+        "quoteTokenProportion": 39.22,
+        "qualityScore": 1.3818724569979248,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.29,
+        "commentatorTierSimilarities": [
+            38.29,
+            15.76,
+            45.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Walking. An addition of Mark. ===Mr_12 ",
+            "CHAPTER XII ",
+            "- 11. Compare Matthew 21:33-46."
+        ],
+        "Philip Schaff": [
+            "As if at home, or in His Father's house.",
+            "Possibly to see if the profanation had been renewed.",
+            "He seems to have taught as He walked, which was not at all singular."
+        ],
+        "Archibald T. Robertson": [
+            "These three classes were in the Sanhedrin.",
+            "Clearly a large committee of the Sanhedrin including both Sadducees and Pharisees here confront Jesus in a formal attack upon his authority for cleansing the temple and teaching in it.",
+            "Note the article with each separate group as in Luke 20:1 and Matthew 21:23."
+        ],
+        "John Gill": [
+            "And as he was walking in the temple; not alone, but his disciples with him, and a multitude of people, whom he was teaching and preaching the Gospel to, as he walked to and fro.",
+            "The Jewish sanhedrim; for of these that great council of the nation consisted.",
+            "Luke 20:1, that it was 'on one of those days'; and the Persic version here reads, 'on another day': it was the day after the cursing of the fig tree, and two days after his public entrance into Jerusalem."
+        ],
+        "John Wesley": [
+            "Matthew 21:23; Luke 20:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, accompanied by his disciples and a multitude of people, walked in the temple. It was on the day after Jesus cursed the fig tree and two days after his triumphal entry into Jerusalem. In the temple, a committee of the Sanhedrin, including both Sadducees and Pharisees, confronted Jesus to challenge his authority. They sought to undermine his actions of cleansing the temple and teaching in it. Evidently, Jesus taught as he walked in the temple. His presence and teachings created quite a stir, prompting the Sanhedrin to question him further.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.348425702109798,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.18,
+            "commentatorTierSimilarities": [
+                35.46,
+                23.34,
+                41.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, along with his disciples and a multitude of people, was walking in the temple. This occurred on the day after he cursed the fig tree and two days after his triumphant entry into Jerusalem. In the temple, a committee of the Sanhedrin, consisting of both Sadducees and Pharisees, confronted Jesus to challenge his authority. They took issue with his actions of cleansing the temple and teaching in it. Jesus, in his teachings, seemed to have taught as he walked, which attracted attention and prompted further inquiry from the Sanhedrin.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.329227037097516,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.54,
+            "commentatorTierSimilarities": [
+                35.51,
+                20.52,
+                43.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Accompanied by his disciples and a multitude of people, Jesus was walking in the temple. This took place the day after he cursed the fig tree and two days after his triumphant entry into Jerusalem. A committee of the Sanhedrin, a council of the Jewish nation, including both Sadducees and Pharisees, confronted Jesus to challenge his authority. They questioned his actions of cleansing the temple and teaching in it. Jesus, while walking, continued to teach and preach the Gospel to the people, which sparked further controversy and scrutiny.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.2428314484103937,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.67,
+            "commentatorTierSimilarities": [
+                36.21,
+                16.35,
+                47.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The day after Jesus cursed the fig tree and two days after his triumphal entry into Jerusalem, he was walking in the temple with his disciples and a multitude of people. A committee of the Sanhedrin, composed of both Sadducees and Pharisees, confronted Jesus to challenge his authority in cleansing the temple and teaching in it. Jesus, in his teachings as he walked, attracted attention and scrutiny from the Sanhedrin, prompting them to question him further.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.3818724569979248,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.29,
+            "commentatorTierSimilarities": [
+                38.29,
+                15.76,
+                45.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, accompanied by his disciples and a multitude of people, walked in the temple. It was on the day after Jesus cursed the fig tree and two days after his triumphal entry into Jerusalem. In the temple, a committee of the Sanhedrin, including both Sadducees and Pharisees, confronted Jesus to challenge his authority. They sought to undermine his actions of cleansing the temple and teaching in it. Evidently, Jesus taught as he walked in the temple. His presence and teachings created quite a stir, prompting the Sanhedrin to question him further.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.348425702109798,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.18,
+            "commentatorTierSimilarities": [
+                35.46,
+                23.34,
+                41.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

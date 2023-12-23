@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:23:09",
+    "verseRef": "Mark 5:40",
+    "bestBHT": {
+        "bht": "How capricious must the Evangelist have been, according to modern criticism, to include such abundant details throughout this Gospel. The laughter of those who knew the girl was dead and their scorn testify to the reality of her death. Undeterred by their mockery, Jesus removes all disruptive presence to create a solemn space for the miracle that is about to take place. Mark emphasizes the significance of the occasion by including the presence of the girl's parents and the three disciples, Peter, James, and John.",
+        "wordCount": 86,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.3664838658691938,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.78,
+        "commentatorTierSimilarities": [
+            48.15,
+            22.39,
+            29.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How capricious, according to modern criticism, must this Evangelist have been.",
+            "Can testimony be stronger to the untenableness of such a view, and the independence of his narration?",
+            "And yet such abound in every chapter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And they laughed him to scorn\u2014rather, simply, 'laughed at Him'\u2014'knowing that she was dead'; an important testimony this to the reality of her death.",
+            "But when he had put them all out\u2014The word is strong\u2014'turned them all out'; meaning all those who were making this noise, and any others that may have been there from sympathy, that only those might be present who were most nearly concerned, and those whom He had Himself brought as witnesses of the great act about to be done.",
+            "He taketh the father and the mother of the damsel, and them that were with him\u2014Peter, and James, and John."
+        ],
+        "Marvin Vincent": [
+            "Wonderful authority in the house of a stranger.",
+            "He was really master of the house.",
+            "Only Mark relates the taking of the parents with the three disciples into the chamber."
+        ],
+        "Philip Schaff": [
+            "Mark 5:40. Entereth in where the damsel was. The whole account, just here, seems to have been derived directly from Peter who was present.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "They jeered at him\" (Weymouth). Note imperfect tense. They kept it up. (Quote 1)",
+            "The loud laughter was ill suited to the solemn occasion. (Quote 2)",
+            "The presence of some people will ruin the atmosphere for spiritual work. (Quote 3)"
+        ],
+        "John Gill": [
+            "And they laughed him to scorn...\" ",
+            "...but when he had put them all out...\" ",
+            "...he taketh the father, and the mother, of the damsel..."
+        ],
+        "John Wesley": [
+            "Them that were with him \u2014 Peter, James, and John."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "How capricious must the Evangelist have been to include details that modern critics might dismiss as irrelevant or inconsistent, and yet they are abundant throughout the Gospel according to Mark. In this verse, we see the reality of the girl's death testified to by the laughter and scorn of those who knew she had passed. Jesus, undeterred by their mocking, removes all those who would disrupt the solemnity of the occasion, preserving a sacred space for the miracle about to take place. Not even strangers could stand in the way of His authority. Only Mark records the presence of the girl's parents and the three disciples, Peter, James, and John, in the chamber, highlighting the significance of this moment in the narrative. The laughter of the skeptics, the removal of the disturbance, and the inclusion of the girl's closest family and disciples all contribute to a deeper understanding of the events unfolding in Mark 5:40.",
+            "wordCount": 157,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.3437839177343442,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.02,
+            "commentatorTierSimilarities": [
+                45.97,
+                24.37,
+                29.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "How capricious must the Evangelist have been, according to modern criticism, to include such abundant details throughout this Gospel. The laughter of those who knew the girl was dead and their scorn testify to the reality of her death. Undeterred by their mockery, Jesus removes all disruptive presence to create a solemn space for the miracle that is about to take place. Mark emphasizes the significance of the occasion by including the presence of the girl's parents and the three disciples, Peter, James, and John.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.3664838658691938,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.78,
+            "commentatorTierSimilarities": [
+                48.15,
+                22.39,
+                29.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The criticism that the Evangelist must have been capricious for including such details is dismissed by the strong testimony of the laughter and scorn in this verse. Jesus takes decisive action by removing all those who would disturb the sacred moment, ensuring only those closest to Him are present. Mark's exclusive mention of the girl's parents and the three disciples highlights the authority and significance of the occasion. The laughter of the skeptics, the removal of disruptions, and the inclusion of the girl's family and disciples enrich our understanding of the unfolding events.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.314846606411817,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.06,
+            "commentatorTierSimilarities": [
+                56.21,
+                27.85,
+                15.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Evangelist's decision to include abundant details, which modern critics might deem capricious, is supported by the testimony of the laughter and scorn in this account. Undeterred, Jesus removes those creating disruption, preserving a solemn atmosphere for the forthcoming miracle. Mark's unique mention of the girl's parents and the three disciples emphasizes the authority and significance of the moment. The skeptics' laughter, the removal of disturbances, and the inclusion of the girl's family and disciples contribute to a deeper understanding of the unfolding events.",
+            "wordCount": 88,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 1.1650989923711808,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.08,
+            "commentatorTierSimilarities": [
+                69.24,
+                19.47,
+                11.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Evangelist's decision to include abundant details, despite criticism, is supported by testimony of the laughter and scorn. Undeterred, Jesus removes disruptive individuals, creating a solemn atmosphere for the forthcoming miracle. Mark's unique mention of the parents and three disciples highlights the authority and significance of the moment. The skeptics' laughter, removal of disturbances, and inclusion of family and disciples enrich understanding of the unfolding events.",
+            "wordCount": 68,
+            "quoteTokenProportion": 18.37,
+            "qualityScore": 1.1859525840964087,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.78,
+            "commentatorTierSimilarities": [
+                72.32,
+                10.35,
+                17.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

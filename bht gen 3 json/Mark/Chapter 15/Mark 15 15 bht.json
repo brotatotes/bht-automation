@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:29:18",
+    "verseRef": "Mark 15:15",
+    "bestBHT": {
+        "bht": "To appease the people and remove their grounds of complaint, Pilate delivered Jesus after ordering his scourging. Pilate's decision was motivated by his fear of the crowd, fully controlled by the Sanhedrin, and aware that they would present unfavorable reports about him to Caesar. Although Pilate initially desired to release Jesus, he succumbed to the pressure of the mob, compromising his own conscience, violating legal principles, and solely seeking to gratify the people's desires.",
+        "wordCount": 76,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 1.650183343964437,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+        "commentatorTierSimilarities": [
+            26.46,
+            33.13,
+            40.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "To content [\u03c4\u03bf \u03b9\u03ba\u03b1\u03bd\u03bf\u03bd \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03b9] . Lit., to do the sufficient thing. Compare the popular phrase, Do the right thing. A Latinism, and used by Mark only. Wyc., to do enough to the people."
+        ],
+        "Philip Schaff": [
+            "The word 'wishing' points to a decision, a determination, neither a hearty desire, nor a mere permission.\" ",
+            "Pilate wanted to release Jesus, but in the dilemma (of his own making) concluded to gratify the mob.",
+            "On the scourging see on Matthew 27:26."
+        ],
+        "Archibald T. Robertson": [
+            "To content the multitude (\u03c4\u03c9 \u03bf\u03c7\u03bb\u03c9 \u03c4\u03bf \u03b9\u03ba\u03b1\u03bd\u03bf\u03bd \u03c0\u03bf\u03b9\u03b7\u03c3\u03b1). A Latin idiom (satisfacere alicui), to do what is sufficient to remove one's ground of complaint.",
+            "Pilate was afraid of this crowd now completely under the control of the Sanhedrin. He knew what they would tell Caesar about him.",
+            "See on Matthew 27:26 for discussion of the scourging."
+        ],
+        "John Gill": [
+            "And so Pilate, willing to content the people... delivered Jesus when he had scourged him...\" (Quote 1).",
+            "To satisfy and make them easy, who were become very noisy and tumultuous... therefore to humour them, and keep in their favour...\" (Quote 2).",
+            "...in which he acted contrary to law and justice, to the violation of his own conscience, and merely to gratify the humour of the people...\" (Quote 3)."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To do what is sufficient to remove one's ground of complaint, Pilate delivered Jesus to be scourged and ultimately crucified. He was motivated by fear of the crowd's influence, knowing that they would tell Caesar unfavorable things about him. Although Pilate initially wanted to release Jesus, he ultimately chose to gratify the mob's desires. This decision went against his own conscience and the principles of law and justice, serving solely to appease the people. Thus, Pilate sacrificed his integrity to satisfy the tumultuous demands of the multitude.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.448179607999722,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.49,
+            "commentatorTierSimilarities": [
+                26.54,
+                33.7,
+                39.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To do the sufficient thing and content the multitude, Pilate made the decision to deliver Jesus to be scourged and crucified. Driven by fear of the crowd under the control of the Sanhedrin, Pilate prioritized appeasing the people and protecting his own interests. Despite his initial inclination to release Jesus, Pilate yielded to the crowd's demands, disregarding his conscience and the principles of justice and law. In doing so, Pilate sacrificed his integrity to gain favor with the turbulent multitude.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.494489112548798,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                26.09,
+                32.44,
+                41.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To do what is sufficient and content the multitude, Pilate decided to deliver Jesus after having him scourged. Pilate's motivation stemmed from his fear of the crowd, which was now completely under the control of the Sanhedrin. He was aware of the negative reports they would relay to Caesar about him. Initially, Pilate wished to release Jesus, but due to the dilemma he created, he ultimately decided to gratify the crowd's demands. This act went against his own conscience and compromised his sense of justice.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3528577658398497,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.33,
+            "commentatorTierSimilarities": [
+                29.25,
+                32.62,
+                38.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To content the multitude, Pilate chose to do the sufficient thing by delivering Jesus to be scourged. His decision was driven by fear of the crowd, which was under the control of the Sanhedrin. Pilate understood the potential consequences and negative reports that would be presented to Caesar by the people. Although Pilate originally intended to release Jesus, he ultimately bowed to the will of the mob, disregarding his own conscience and principles of justice in order to appease the crowd.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.5460870419017736,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.75,
+            "commentatorTierSimilarities": [
+                30.97,
+                34.96,
+                34.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To appease the people and remove their grounds of complaint, Pilate delivered Jesus after ordering his scourging. Pilate's decision was motivated by his fear of the crowd, fully controlled by the Sanhedrin, and aware that they would present unfavorable reports about him to Caesar. Although Pilate initially desired to release Jesus, he succumbed to the pressure of the mob, compromising his own conscience, violating legal principles, and solely seeking to gratify the people's desires.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.650183343964437,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.21,
+            "commentatorTierSimilarities": [
+                26.46,
+                33.13,
+                40.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-22-2023 23:28:05",
+    "verseRef": "Mark 13:30",
+    "bestBHT": {
+        "bht": "Verily I say unto you, that this generation shall not pass until all these things be done or fulfilled. Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or that the generation then existing would not pass away without seeing a begun fulfillment of this prediction, the facts entirely correspond. For either the whole was fulfilled in the destruction accomplished by Titus, or, if we stretch it out, till the thorough dispersion of the Jews a little later, every requirement of our Lord's words seems to be met.",
+        "wordCount": 100,
+        "quoteTokenProportion": 50.72,
+        "qualityScore": 1.957893790143288,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+        "commentatorTierSimilarities": [
+            58.89,
+            0.0,
+            41.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "30.] this generation\u2014see on Matthew, ver. 34."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Verily I say unto you, that this generation shall not pass fill all these things be done or fulfilled.",
+            "Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or, according to a usual way of speaking, that the generation then existing would not pass away without seeing a begun fulfilment of this prediction, the facts entirely correspond.",
+            "For either the whole was fulfilled in the destruction accomplished by Titus, as many think; or, if we stretch it out, according to others, till the thorough dispersion of the Jews a little later, under Adrian, every requirement of our Lord's words seems to be met."
+        ],
+        "John Gill": [
+            "Verily I say unto you, that this generation shall not pass... till all these things be done.\" ",
+            "Not the generation of men, in general, or Jews in particular, nor of Christians; but that present generation of men, they should not all go off the stage of life...",
+            "...which were now predicted by Christ, concerning the destruction of Jerusalem, the signs of it, and what should immediately follow upon it..."
+        ],
+        "John Wesley": [
+            "All these things \u2014 Relating to the temple and the city."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Verily I say unto you, that this generation shall not pass until all these things be done or fulfilled. Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or that the generation then existing would not pass away without seeing a begun fulfillment of this prediction, the facts entirely correspond. For either the whole was fulfilled in the destruction accomplished by Titus, as many think; or, if we stretch it out, according to others, till the thorough dispersion of the Jews a little later, under Adrian, every requirement of our Lord's words seems to be met.",
+            "wordCount": 108,
+            "quoteTokenProportion": 51.32,
+            "qualityScore": 1.9581264381476902,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                59.93,
+                0.0,
+                40.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Verily I say unto you, that this generation shall not pass until all these things be done or fulfilled. Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or that the generation then existing would not pass away without seeing a begun fulfillment of this prediction, the facts entirely correspond. For either the whole was fulfilled in the destruction accomplished by Titus, or, if we stretch it out, till the thorough dispersion of the Jews a little later, every requirement of our Lord's words seems to be met.",
+            "wordCount": 100,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 1.957893790143288,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                58.89,
+                0.0,
+                41.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Verily I say unto you, that this generation shall not pass until all these things be done or fulfilled. Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or that the generation then existing would not pass away without seeing a begun fulfillment of this prediction, the facts entirely correspond. For either the whole was fulfilled in the destruction accomplished by Titus, or till the thorough dispersion of the Jews a little later, every requirement of our Lord's words seems to be met.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.9383231305272592,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                58.41,
+                0.0,
+                41.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Verily I say unto you, that this generation shall not pass until all these things be done or fulfilled. Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or that the generation then existing would not pass away without seeing a begun fulfillment of this prediction, the facts entirely correspond. For either the whole was fulfilled in the destruction accomplished by Titus, as many think; or, if we stretch it out, till the thorough dispersion of the Jews a little later, under Adrian, every requirement of our Lord's words seems to be met.",
+            "wordCount": 105,
+            "quoteTokenProportion": 51.35,
+            "qualityScore": 1.9432847035090455,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                59.31,
+                0.0,
+                40.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Verily I say unto you, that this generation shall not pass until all these things be done or fulfilled. Whether we take this to mean that the whole would be fulfilled within the limits of the generation then current, or that the generation then existing would not pass away without seeing a begun fulfillment of this prediction, the facts entirely correspond. For either the whole was fulfilled in the destruction accomplished by Titus, or till the thorough dispersion of the Jews a little later, every requirement of our Lord's words seems to be met.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.9383231305272592,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.79,
+            "commentatorTierSimilarities": [
+                58.41,
+                0.0,
+                41.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

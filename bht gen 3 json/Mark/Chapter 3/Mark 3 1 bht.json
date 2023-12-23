@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:21:05",
+    "verseRef": "Mark 3:1",
+    "bestBHT": {
+        "bht": "On another Sabbath, in the synagogue at Capernaum, there was a man with a withered hand. The use of the perfect passive participle in the Greek indicates that the hand had become withered as a result of accident or disease, rather than being congenitally withered. This incident serves as a reminder of Jesus' compassion and his willingness to heal those in need. The man may have come to the synagogue seeking healing or to participate in worship, highlighting the power and mercy of Jesus in addressing physical afflictions.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.7437316667662053,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+        "commentatorTierSimilarities": [
+            25.79,
+            30.15,
+            44.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "1.] again, see ch. i. 21; \u201con another Sabbath,\u201d Luke. The synagogue was at Capernaum"
+        ],
+        "Marvin Vincent": [
+            "The participle indicates that the withering was not congenital, but the result of accident or disease.",
+            "More correctly Rev., his hand withered.",
+            "Luke says his right hand."
+        ],
+        "Philip Schaff": [
+            "Again may refer to Mark 1:21. In that case the place was Capernaum.",
+            "The synagogue. It is doubtful whether we should render: 'the' or 'a' synagogue.",
+            "Withered. This word suggests disease or accident as the cause. It was the 'right hand' (Luke)."
+        ],
+        "Archibald T. Robertson": [
+            "Had his hand withered (\u03b5\u03be\u03b7\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b7\u03bd \u03b5\u03c7\u03c9\u03bd \u03c4\u03b7\u03bd \u03c7\u03b5\u03b9\u03c1\u03b1).",
+            "He had his ( the in the Greek, common idiom with article as possessive) hand (right hand, Luke 6:6) in a withered state, perfect passive participle (adjective \u03be\u03b7\u03c1\u03b1\u03bd in Matthew and Luke), showing that it was not congenital, but the result of injury by accident or disease.",
+            "Bengel: Non ex utero, sed morbo aut vulnere."
+        ],
+        "John Gill": [
+            "Perhaps in Capernaum, where he had before cast out the unclean spirit; but not on the same day, nor on that day he had had the debate with the Pharisees, about his disciples plucking the ears of corn on the sabbath day; but on another sabbath.\" ",
+            "And there was a man there which had a withered hand; who came there either for a cure, knowing Christ to be in the synagogue, or for the sake of worship."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On another Sabbath, in the synagogue, a man with a withered hand stood before Jesus. This withered state was not congenital, but the result of accident or disease, as indicated by the perfect passive participle used in the Greek. It is possible that the man came to the Capernaum synagogue specifically seeking a cure or to worship, knowing that Jesus was present. The specific mention of his right hand by Luke provides additional detail. This incident took place at a different time than the previous encounters Jesus had in Capernaum, demonstrating the ongoing need for healing and the compassion of Jesus towards those in need.",
+            "wordCount": 105,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.7325211714105648,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                27.65,
+                29.08,
+                43.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On another Sabbath, in the synagogue in Capernaum, there was a man with a withered hand. The perfect passive participle used in the Greek indicates that his hand was not congenitally withered, but rather the result of accident or disease. It is possible that the man came specifically seeking a cure or for the sake of worship. Luke's mention of the man's right hand provides additional detail about the condition. This incident serves as a reminder of Jesus' ongoing compassion and willingness to heal those in need.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6926203858765245,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                27.86,
+                31.42,
+                40.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On another Sabbath, in the synagogue at Capernaum, there was a man with a withered hand. The fact that the hand was withered indicates that it was not a congenital condition, but rather the result of accident or disease. The use of the perfect passive participle in the Greek suggests that the hand had been in this state for some time. It is possible that the man came to the synagogue seeking healing or to worship. Jesus' compassion and willingness to heal those in need is evident in this incident.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.7303121129803465,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                27.52,
+                32.68,
+                39.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On another Sabbath in Capernaum, a man with a withered hand stood in the synagogue. The hand was not congenitally withered, but had become withered due to either accident or disease. The man may have come to the synagogue specifically seeking healing or to participate in worship. It is a reminder of Jesus' ongoing compassion and his willingness to heal those in need. This incident showcases the power and mercy of Jesus in addressing physical afflictions.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6177420938286429,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                24.3,
+                31.23,
+                44.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On another Sabbath, in the synagogue at Capernaum, there was a man with a withered hand. The use of the perfect passive participle in the Greek indicates that the hand had become withered as a result of accident or disease, rather than being congenitally withered. This incident serves as a reminder of Jesus' compassion and his willingness to heal those in need. The man may have come to the synagogue seeking healing or to participate in worship, highlighting the power and mercy of Jesus in addressing physical afflictions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.7437316667662053,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "commentatorTierSimilarities": [
+                25.79,
+                30.15,
+                44.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:24:46",
+    "verseRef": "Mark 9:13",
+    "bestBHT": {
+        "bht": "The suffering of the forerunner, who is referred to as Elijah, can be understood by inferring from the Old Testament prophecy of Elijah's sufferings. The statement [...] that Elias is indeed come... implies that Elijah's suffering has already taken place, as it is written that the people did to him whatever they pleased. This aligns with the prophecy which states that what follows pertains to what the Scribes and Pharisees, along with the people of the Jews, did to John according to their own desires.",
+        "wordCount": 86,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.9486790707357968,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+        "commentatorTierSimilarities": [
+            0.0,
+            59.36,
+            40.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "There is no direct prophecy of the sufferings of the predicted Elijah.",
+            "But as the prophet Elijah suffered, it might be inferred from the Old Testament.",
+            "The forerunner of the Messiah (called Elijah) would suffer, especially in view of the predicted sorrows of the Messiah Himself."
+        ],
+        "John Gill": [
+            "But I say unto you, that Elias is indeed come...\" ",
+            "And they have done unto him whatsoever they listed;",
+            "...what follows, as it is written of him, respects not what the Scribes and Pharisees, and the people of the Jews did to John at their pleasure..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that just as the prophet Elijah suffered, it could be inferred from the Old Testament that the forerunner of the Messiah, known as Elijah, would also suffer, especially in light of the predicted sorrows of the Messiah Himself. The statement [...] that Elias is indeed come... implies that the suffering of Elijah has already occurred, with the subsequent sentence indicating that people have done to him whatever they wanted. This aligns with the prophecy written about him, which refers to what the Scribes, Pharisees, and the people of the Jews did to John as they pleased.",
+            "wordCount": 98,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0850152988054145,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                63.07,
+                36.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The suffering of the forerunner, who is referred to as Elijah, can be understood by inferring from the Old Testament prophecy of Elijah's sufferings. The statement [...] that Elias is indeed come... implies that Elijah's suffering has already taken place, as it is written that the people did to him whatever they pleased. This aligns with the prophecy which states that what follows pertains to what the Scribes and Pharisees, along with the people of the Jews, did to John according to their own desires.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.9486790707357968,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                0.0,
+                59.36,
+                40.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Old Testament prophecy of Elijah's sufferings and the statement [...] that Elias is indeed come... suggest that the forerunner of the Messiah, referred to as Elijah, would also experience suffering. This suffering is exemplified through what was done to him as written, indicating that the people acted according to their own will. The subsequent references to the Scribes, Pharisees, and the people of the Jews affirm that the events described reflect their actions towards John.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7068240010591822,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                0.0,
+                60.52,
+                39.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophecy and the statement [...] that Elias is indeed come... imply that the suffering of the forerunner, known as Elijah, was to be expected, as depicted in the Old Testament. Moreover, it is evident that the people had complete autonomy in their treatment of him (...they have done unto him whatsoever they listed;). The subsequent reference to the Scribes, Pharisees, and the people of the Jews highlights their unrestricted conduct towards John, aligning with what was written about him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.4303983937275326,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.9,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.85,
+                44.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The suffering of the forerunner, referred to as Elijah, can be understood by inferring from the Old Testament prophecy. The statement [...] that Elias is indeed come... implies that Elijah's suffering has already occurred, with the subsequent sentence indicating that people have done to him whatever they wanted. This aligns with the prophecy written about him, which refers to what the Scribes, Pharisees, and the people did to John as they pleased.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.9056284933375929,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                0.0,
+                60.61,
+                39.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

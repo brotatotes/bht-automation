@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:22:33",
+    "verseRef": "Mark 5:13",
+    "bestBHT": {
+        "bht": "Mark offers a detailed and unique account of an astonishing event where Jesus permits a legion of demons to enter a large herd of about two thousand pigs, causing them to rush with hasty motion into the sea. Although the loss of property raises questions, it is evident that Jesus prioritizes the deliverance and mercy extended to the tormented man over the swine. This miraculous incident demonstrates Jesus' authority over evil spirits, His compassion for the oppressed, and serves to spread His fame far and wide.",
+        "wordCount": 86,
+        "quoteTokenProportion": 30.3,
+        "qualityScore": 1.2484160874914723,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.85,
+        "commentatorTierSimilarities": [
+            26.49,
+            7.31,
+            66.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Mark, who gives us usually accurate details of this kind.",
+            "Peculiar to Mark.",
+            "John (vi. 7) also mentions the sum."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Go!",
+            "The owners, if Jews, drove an illegal trade; if heathens, they insulted the national religion: in either case the permission was just.",
+            "The number of them is given by this graphic Evangelist alone."
+        ],
+        "Marvin Vincent": [
+            "Ran [\u03c9\u03c1\u03bc\u03b7\u03c3\u03b5\u03bd]. The verb indicates hasty, headlong motion. Hence, as Rev., rushed.\" ",
+            "Two Thousand. As usual, Mark alone gives the detail of number.\" ",
+            "A steep place. But the noun has the definite article: tou krhmnou, the steep, as Rev."
+        ],
+        "Philip Schaff": [
+            "Being about two thousand.\" ",
+            "The correct reading omits the verb, and we supply: being.",
+            "The rest agrees entirely, though not verbally, with Matthew\u2019s account."
+        ],
+        "Archibald T. Robertson": [
+            "Certainly it was better for hogs to perish than men, but this loss of property raises a difficulty of its own akin to the problem of tornadoes and earthquakes.",
+            "The question of one man containing so many demons is difficult also, but not much more so than how one demon can dwell in a man and make his home there.",
+            "Imperfect tense picturing graphically the disappearance of pig after pig in the sea."
+        ],
+        "John Gill": [
+            "this shows not only the existence of spirits, but their going from one to another shows that they are circumscribed by space; that they are here, and not there, or there, and not here",
+            "had he destroyed it himself, since he is Lord of all, the proprietor of all creatures, who has all under him, and at his disposal, can give and take away as he pleases, no charge of evil and injustice can be brought against him",
+            "by suffering the devils to go into the swine, several valuable ends were answered, infinitely preferable to the herd of swine; such as evincing the truth of the dispossession; showing the greatness of the mercy to the dispossessed; the power of Christ over the devils; and making for the spread of the fame of this miracle the more"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This passage from Mark, which is exclusive to this Gospel, describes an extraordinary event where Jesus permits a legion of demons to enter a herd of about two thousand pigs. The swift rush of the demons into the swine resulted in their impulsive destruction as they plunged into the sea. While the loss of property raises questions, it is evident that Jesus prioritized the deliverance of a tormented man over the preservation of the swine. Additionally, the astonishing nature of one man housing such a multitude of demons mirrors the enigma of how one demon can possess and afflict an individual. Ultimately, this miracle not only demonstrates the reality of spirits and their localized presence but also showcases Jesus' authority over demonic forces and His deep compassion for those in need.",
+            "wordCount": 131,
+            "quoteTokenProportion": 36.26,
+            "qualityScore": 1.1395384093866803,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.23,
+            "commentatorTierSimilarities": [
+                28.13,
+                0.1,
+                71.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This unique account by Mark vividly describes the moment when Jesus allows a multitude of demons to enter a large herd of pigs, leading them to rush headlong into the sea and perish. While the loss of property raises some questions, it is clear that Jesus prioritized the deliverance of a tormented man above all else. This incident not only demonstrates the reality of spirits and their confined presence but also exemplifies Jesus' authority over dark forces and His profound compassion for those in need.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.2321910804766578,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.31,
+            "commentatorTierSimilarities": [
+                29.26,
+                8.2,
+                62.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark offers a detailed and unique account of an astonishing event where Jesus permits a legion of demons to enter a large herd of about two thousand pigs, causing them to rush with hasty motion into the sea. Although the loss of property raises questions, it is evident that Jesus prioritizes the deliverance and mercy extended to the tormented man over the swine. This miraculous incident demonstrates Jesus' authority over evil spirits, His compassion for the oppressed, and serves to spread His fame far and wide.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.2484160874914723,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.85,
+            "commentatorTierSimilarities": [
+                26.49,
+                7.31,
+                66.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This remarkable incident recounted by Mark presents a unique and vivid snapshot of Jesus allowing a multitude of demons to enter a large herd of about two thousand pigs. The demons swiftly rush into the swine, which then plunge into the sea and drown. While the loss of property may raise concerns, it is clear that Jesus prioritizes the deliverance of the tormented man over the preservation of the swine. This event serves to demonstrate Jesus' authority over demonic forces and His compassion for those in need, ultimately spreading His fame and establishing His power.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.121431658611798,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.63,
+            "commentatorTierSimilarities": [
+                29.05,
+                3.63,
+                67.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this unique account by Mark, Jesus permits a legion of demons to enter a large herd of approximately two thousand pigs. The demons hastily rush into the swine, causing them to plunge into the sea. While the loss of the pigs may be perplexing, it highlights Jesus' prioritization of delivering the tormented man. This event showcases Jesus' authority over evil spirits, His deep compassion, and serves to spread the fame of His miraculous actions.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.1624959805617883,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.0,
+            "commentatorTierSimilarities": [
+                28.11,
+                5.47,
+                66.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

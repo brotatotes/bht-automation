@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:20:02",
+    "verseRef": "Mark 1:37",
+    "bestBHT": {
+        "bht": "By this time, all the people of Capernaum who had sought after Jesus would have arrived and, by coming to Him and urging Him to stay, demonstrated their impatience. Even though He had retired to an unfrequented spot and the will of the multitude did not govern Him as they supposed, Peter and the crowd beseeched Jesus to return. The disciples, aware of the value of this opportunity to do good, were reluctant for it to be missed.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.598142392261036,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+        "commentatorTierSimilarities": [
+            30.41,
+            41.79,
+            27.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "By this time, 'the multitudes' who... sought after Him... would have arrived, and 'came unto Him and stayed Him, that He should not depart from them'.\" ",
+            "All now urging His return to their impatient townsmen."
+        ],
+        "Marvin Vincent": [
+            "All",
+            "All the people of Capernaum, all are seeking thee. The continuous present tense. So Rev., better than A. V. The all is peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "Search and uncertainty is implied, since He had retired to an unfrequented spot.",
+            "The will of the multitude did not govern Him, as they supposed, hence the reply in the next verse.",
+            "Peter said this to induce Him to return, and the crowd besought Him to stay."
+        ],
+        "John Gill": [
+            "In the desert and solitary place, where he had been praying.",
+            "All men seek for thee.",
+            "The disciples were loath that such an opportunity of doing good should be missed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By this time, all the people of Capernaum, who had sought after Jesus, finally arrived and urged Him to stay with them. They didn't want Him to depart from their presence. However, Jesus recognized that the will of the multitude did not govern Him, and so He replied with a resolute decision. Peter also tried to persuade Him to return, and the crowd desperately begged Him to stay. Although Jesus had retired to an unfrequented spot, the disciples were concerned that such a valuable opportunity to do good would be missed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.4417990009202488,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.28,
+            "commentatorTierSimilarities": [
+                28.79,
+                46.0,
+                25.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By this time, all the people of Capernaum who had sought after Jesus would have arrived and, by coming to Him and urging Him to stay, demonstrated their impatience. Even though He had retired to an unfrequented spot and the will of the multitude did not govern Him as they supposed, Peter and the crowd beseeched Jesus to return. The disciples, aware of the value of this opportunity to do good, were reluctant for it to be missed.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.598142392261036,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "commentatorTierSimilarities": [
+                30.41,
+                41.79,
+                27.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of Capernaum, all of them, were seeking after Jesus and they followed Him to an unfrequented spot, desperately urging Him to stay with them. They wanted Him to return to their town, but Jesus knew that His mission was not confined to one place. He had been praying in a desert and solitary place. The disciples, aware of the opportunity for good, desired for Jesus to fulfill the will of the multitude, but Jesus had a greater purpose in mind.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.3621963930965508,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.64,
+            "commentatorTierSimilarities": [
+                26.04,
+                34.69,
+                39.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All the people of Capernaum, all are seeking thee. The multitudes came unto Him and stayed Him, not wanting Him to depart. The disciples were loath that such an opportunity of doing good should be missed. The will of the multitude did not govern Jesus, as they supposed, hence His reply in the next verse. Jesus had retired to an unfrequented spot, where He had been praying. He knew His mission was not confined to one place.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4145147294550824,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.38,
+            "commentatorTierSimilarities": [
+                27.15,
+                36.94,
+                35.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All the people of Capernaum desperately sought after Jesus and followed Him to an unfrequented spot, urging Him to stay. Though the disciples desired Him to fulfill the will of the multitude, Jesus knew that His purpose extended beyond one place. He had been praying in a solitary and desert place, seeking guidance. The opportunity to do good was evident, but Jesus understood that His mission required him to move forward.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.4509359247661344,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.59,
+            "commentatorTierSimilarities": [
+                27.69,
+                36.56,
+                35.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

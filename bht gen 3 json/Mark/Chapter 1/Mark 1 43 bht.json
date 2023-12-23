@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:20:07",
+    "verseRef": "Mark 1:43",
+    "bestBHT": {
+        "bht": "In a firm and powerful manner, Jesus strictly charged the healed leper to keep it a secret, urging him not to share his story before he could be officially pronounced clean by the priests. The reason behind this command was Jesus' desire to prevent any premature hostility from his enemies and to avoid potential denial or skepticism about the man's former leprosy or his miraculous cleansing. By refraining from sharing the healing, unnecessary opposition could be avoided, preserving room for Jesus to continue his ministry.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.7898666802340364,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+        "commentatorTierSimilarities": [
+            35.82,
+            25.37,
+            38.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Strictly charged (\u00e5\u0313\u00ec\u00e2\u00f1\u00e9\u00ec\u00e7\u00f3\u00e1\u0301\u00ec\u00e5\u00ed\u00ef\u00f2)... The Lord evidently spoke to him peremptorily.",
+            "The reason for this charge and dismissal lay in the desire of Jesus not to thwart his ministry by awaking the premature violence of his enemies.",
+            "If they should see the leper and hear his story before he had been officially pronounced clean by the priest, they might deny either that he had been a leper or had been truly cleansed."
+        ],
+        "Philip Schaff": [
+            "Solemnly charged him. This implies strong emotion. Our Lord perceived the man\u2019s disobedient spirit.",
+            "Straightway sent him away. Not out of the house, for there is no evidence that the miracle was performed in a house.",
+            "Away from Himself, for despite our Lord\u2019s compassion, feelings of grief seem to have been awakened by the man."
+        ],
+        "Archibald T. Robertson": [
+            "It is a strong word for the snorting of a horse and expresses powerful emotion as Jesus stood here face to face with leprosy, itself a symbol of sin and all its train of evils.",
+            "The command to report to the priests was in accord with the Mosaic regulations.",
+            "The prohibition against talking about it was to allay excitement and to avoid needless opposition to Christ."
+        ],
+        "John Gill": [
+            "Either with the sin which had been the cause of this leprosy, and to take care that he sinned that sin no more, lest a worse evil should befall him.",
+            "These seven things are, in another place, said to be an evil tongue, shedding of blood, a vain oath, uncleanness, a proud spirit, theft, and envy.",
+            "Or rather the charge was to tell no man of his cure, before he came to the priest: nor to him, or any other, how he came by it, and by whom he was healed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus sternly warned the former leper, emphatically commanding him to keep silent about the miraculous healing. Jesus wanted to protect the man from the premature hostility of his enemies, ensuring that he would still have the opportunity to present himself to the priests as required by the law. By not disclosing his miraculous restoration, the man would avoid any potential denial or skepticism from others. This charge was also meant to prevent unnecessary excitement or opposition to Christ's ministry. Jesus understood the powerful symbolism of the leprosy, which represented sin and its consequences, and the urgent need to avoid any disruption to his mission.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.6179834946062275,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.14,
+            "commentatorTierSimilarities": [
+                35.63,
+                27.43,
+                36.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus spoke to the former leper with a sense of urgency, instructing him to remain silent about his healing. This was to protect the man before he could present himself to the priests for confirmation. Jesus knew that if the people saw the leper and heard his story before the official pronouncement, they might deny that he was ever a leper or question the legitimacy of his cleansing. By avoiding unnecessary opposition and excitement, Jesus could continue his ministry undisturbed. The leprosy itself was a potent symbol of sin and its consequences, warranting caution and discretion.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6049557739966556,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.71,
+            "commentatorTierSimilarities": [
+                37.27,
+                26.96,
+                35.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a firm and powerful manner, Jesus strictly charged the healed leper to keep it a secret, urging him not to share his story before he could be officially pronounced clean by the priests. The reason behind this command was Jesus' desire to prevent any premature hostility from his enemies and to avoid potential denial or skepticism about the man's former leprosy or his miraculous cleansing. By refraining from sharing the healing, unnecessary opposition could be avoided, preserving room for Jesus to continue his ministry.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7898666802340364,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.85,
+            "commentatorTierSimilarities": [
+                35.82,
+                25.37,
+                38.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus resolutely instructed the healed leper to keep silent about his miraculous healing, emphasizing the need to avoid arousing premature hostility from his enemies. The importance of presenting himself to the priests as required by the law also played a role in this charge, as speaking prematurely could lead to doubts about his past condition or the authenticity of his cleansing. By maintaining secrecy, unnecessary excitement and opposition to Jesus' ministry could be minimized, allowing him to continue his mission unhindered.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.5513978288085266,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                37.88,
+                25.98,
+                36.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus forcefully commanded the healed leper not to disclose his miraculous cure, to prevent arousing premature opposition and skepticism. It was vital for the man to be officially declared clean by the priests before sharing his story, preventing any denial or doubts about his past leprosy or the authenticity of his healing. This strict charge aimed to avoid unnecessary commotion and opposition to Jesus' ministry, ensuring a peaceful continuation of his mission. The leprosy symbolized sin, emphasizing the urgency to handle the situation with discretion and wisdom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.6131578833401372,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.98,
+            "commentatorTierSimilarities": [
+                36.93,
+                24.21,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

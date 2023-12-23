@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:20:08",
+    "verseRef": "Mark 1:7",
+    "bestBHT": {
+        "bht": "The various expressions used by Matthew and Mark reveal their independent accounts of John the Baptist's acknowledgment of the superior Messiah. Mark's attention to detail is evident in his inclusion of the act of stooping down and untying the sandal latchet, setting him apart as the most meticulous Evangelist. John's sincere humility is emphasized as he recognizes his unworthiness in light of the Messiah's greatness, demonstrating his profound reverence as the messenger of Jesus.",
+        "wordCount": 78,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.8503562287569242,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+        "commentatorTierSimilarities": [
+            25.18,
+            48.04,
+            26.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The variety is itself indicative of the independence of Matthew and Mark of one another.",
+            "St. John used the two expressions at different times, and our witnesses have reported both.",
+            "Stoop down is added by St. Mark, who, as we shall find, is more minute in circumstantial detail than the other Evangelists."
+        ],
+        "Marvin Vincent": [
+            "To stoop down",
+            "Compare to bear; Matthew 3:11."
+        ],
+        "Philip Schaff": [
+            "The denunciation and warning recorded by Matthew and Luke are omitted by Mark, who merely gives the sum of John\u2019s preaching as a forerunner of the Messiah.",
+            "It is [Mark's] peculiarity to mention gestures. The perfect independence of the Evangelists thus appears.",
+            "Nothing could more vividly depict to an eastern audience the inferiority of John the Baptist to the Messiah, than these words."
+        ],
+        "Archibald T. Robertson": [
+            "Mightier than I. In each of the Synoptics. Gould calls it a skeptical depreciation of himself by John. But it was sincere on John's part and he gives a reason for it.",
+            "The Latchet. The thong of the sandal which held it together. When the guest comes into the house, performed by a slave before one enters the bath. Mark alone gives this touch."
+        ],
+        "John Gill": [
+            "From whence it appears, that John was a preacher of Jesus Christ; of the dignity of his person, the excellency of his office, and the nature and importance of his work.\"  ",
+            "the latchet of whose shoes I am not worthy to stoop down and unloose; expressing the great veneration he had for him, and the great sense he had of his own unworthiness, to be concerned in the lowest and meanest service of life for him.\"  ",
+            "he was far from being worthy of the high honour done him, to be his messenger and forerunner."
+        ],
+        "John Wesley": [
+            "The latchet of whose shoes I am not worthy to unloose \u2014 That is, to do him the very meanest service."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mark 1:7 presents John the Baptist acknowledging his unworthiness compared to the coming Messiah. The use of different expressions in Matthew and Mark indicates the independence of these accounts. St. Mark's attention to detail, such as mentioning the act of stooping down and untying the sandal latchet, highlights his distinct style. John sincerely humbled himself, declaring that the Messiah is mightier than him and expressing his unworthiness even to perform the lowest service for him. This passage eloquently reveals John's reverence for Jesus and the honor he felt in being His messenger.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.7794889791005652,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.51,
+            "commentatorTierSimilarities": [
+                25.7,
+                44.9,
+                29.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist humbly recognized the superiority of the Messiah in Mark 1:7. This verse showcases the independence of Matthew and Mark's accounts, as they use different expressions. St. Mark's attention to detail is evident, as he highlights John's gesture of stooping down and untying the sandal latchet. John sincerely acknowledged his unworthiness, emphasizing the Messiah's mightiness and expressing humility in being His messenger.",
+            "wordCount": 67,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 1.815040013889853,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                26.45,
+                48.57,
+                24.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The diverse expressions used by Matthew and Mark highlight their independent perspectives on John the Baptist's acknowledgement of the Messiah's superiority. Mark's meticulous attention to detail is demonstrated in his inclusion of the act of stooping down and untying the sandal latchet, emphasizing his distinction as the most detailed of the Evangelists. John's humble admission of unworthiness reflects his sincere appreciation for the Messiah's surpassing greatness, offering humility in his role as His messenger.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.8320344392326686,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.26,
+            "commentatorTierSimilarities": [
+                25.34,
+                46.92,
+                27.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The variety of expressions used by Matthew and Mark in relation to John the Baptist's recognition of the Messiah's superiority points to their independent perspectives. Mark's meticulous attention to detail, evident in his emphasis on the act of stooping down and untying the sandal latchet, sets him apart as the most detailed of the Evangelists. John's genuine humility shines through as he acknowledges his unworthiness in light of the Messiah's greatness, underscoring his profound reverence as the messenger of Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8450346299541773,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.69,
+            "commentatorTierSimilarities": [
+                25.73,
+                46.34,
+                27.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The various expressions used by Matthew and Mark reveal their independent accounts of John the Baptist's acknowledgment of the superior Messiah. Mark's attention to detail is evident in his inclusion of the act of stooping down and untying the sandal latchet, setting him apart as the most meticulous Evangelist. John's sincere humility is emphasized as he recognizes his unworthiness in light of the Messiah's greatness, demonstrating his profound reverence as the messenger of Jesus.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.8503562287569242,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                25.18,
+                48.04,
+                26.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

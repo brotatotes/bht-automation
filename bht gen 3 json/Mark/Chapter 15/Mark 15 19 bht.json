@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:29:12",
+    "verseRef": "Mark 15:19",
+    "bestBHT": {
+        "bht": "In a humiliating display, the soldiers mocked Jesus with false worship, repeatedly striking him and spitting on him. Their actions were a mockery of the respect and honor shown to kings, as they saw Jesus not as divine, but as someone foolishly claiming to be a king. The mockery went even further as they smote him on the head with a reed, causing the thorns on his crown to pierce his temples, and they spat directly on his face. Even in their contempt, they still bowed their knees to him, ironically treating him like a sovereign prince.",
+        "wordCount": 97,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.9303940570160023,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+        "commentatorTierSimilarities": [
+            35.14,
+            33.45,
+            31.41
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Mocked him with the 'appearance' of homage.",
+            "The word 'worship' here delotes only the respect and honor shown to princes and kings.",
+            "They regarded him as foolishly and madly claiming to be a king - not as claiming to be divine."
+        ],
+        "Archibald T. Robertson": [
+            "Worshipped him (\u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03c5\u03bd\u03bf\u03c5\u03bd). In mockery. Imperfect tense as are \u03b5\u03c4\u03c5\u03c0\u03c4\u03bf\u03bd (smote) and \u03b5\u03bd\u03b5\u03c0\u03c4\u03c5\u03bf\u03bd (did spit upon). Repeated indignities. "
+        ],
+        "John Gill": [
+            "And they smote him on the head with a reed...which drove the sharp pointed thorns into his temples.\" ",
+            "And did spit upon him; 'upon his face', as the Syriac, Arabic, and Persic versions read.",
+            "And bowing their knees, as to a sovereign prince, worshipped him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In a humiliating display, the soldiers mocked Jesus with false worship, repeatedly striking him and spitting on him. Their actions were a mockery of the respect and honor shown to kings, as they saw Jesus not as divine, but as someone foolishly claiming to be a king. The mockery went even further as they smote him on the head with a reed, causing the thorns on his crown to pierce his temples, and they spat directly on his face. Even in their contempt, they still bowed their knees to him, ironically treating him like a sovereign prince.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.9303940570160023,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                35.14,
+                33.45,
+                31.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a cruel act of mockery, the soldiers sarcastically worshiped Jesus, repeatedly striking him and spitting on him, as a way to ridicule him. Their actions were a scornful imitation of the respect and honor shown to kings, viewing Jesus not as divine, but rather as someone foolishly claiming to be a king. They went so far as to strike him on the head, causing the sharp thorns of his crown to penetrate his temples, and even spat directly on his face. Despite their disdain, they still kneeled before him, ironically treating him as a sovereign prince.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7904858668091466,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                34.08,
+                34.66,
+                31.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a cruel mockery, the soldiers sarcastically worshiped Jesus, repeatedly striking him and spitting on him. They imitated the respect given to kings, but saw Jesus as foolishly claiming to be a king rather than divine. They even struck his head with a reed, causing the thorns of his crown to pierce his temples. Despite their contempt, they bowed their knees to him, ironically treating him as a sovereign prince.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.8458830974650686,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                33.07,
+                34.33,
+                32.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a cruel act of mockery, the soldiers sarcastically worshiped Jesus, repeatedly striking him and spitting on him. They imitated the honor shown to kings, but viewed Jesus as someone foolishly claiming to be a king, rather than divine. They went so far as to strike him on the head with a reed, which caused the sharp thorns of his crown to pierce his temples. Despite their contempt, they bowed their knees to him, humorously treating him as a sovereign prince.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8010970129700863,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.23,
+            "commentatorTierSimilarities": [
+                32.21,
+                34.89,
+                32.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a cruel act of mockery, the soldiers sarcastically worshiped Jesus, repeatedly striking him and spitting on him. They imitated the honor shown to kings, but viewed Jesus as someone foolishly claiming to be a king, rather than divine. They went so far as to strike him on the head with a reed, causing the sharp thorns of his crown to pierce his temples. Despite their contempt, they bowed their knees to him, ironically treating him as a sovereign prince.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8184086315299766,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.8,
+            "commentatorTierSimilarities": [
+                32.32,
+                34.86,
+                32.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

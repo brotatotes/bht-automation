@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:28:55",
+    "verseRef": "Mark 15:6",
+    "bestBHT": {
+        "bht": "The ruler had the habitual custom of releasing a prisoner during the feast, which was confirmed by Matthew 27:15. It was the people's usual practice to request the release of a prisoner, an action they regularly engaged in. This customary tradition was observed not only during Passover but also during other feasts throughout the year.",
+        "wordCount": 55,
+        "quoteTokenProportion": 46.51,
+        "qualityScore": 1.1745158687871715,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.4,
+        "commentatorTierSimilarities": [
+            33.71,
+            22.0,
+            44.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 15:6. He released. The original implies habitual action.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Used to release (\u03b1\u03c0\u03b5\u03bb\u03c5\u03b5\u03bd). Imperfect tense of customary action.",
+            "Matthew 27:15 has the verb \u03b5\u03b9\u03c9\u03b8\u03b5 (was accustomed to).",
+            "They asked of him (\u03c0\u03b1\u03c1\u03b7\u03b9\u03c4\u03bf\u03c5\u03bd\u03c4\u03bf). Imperfect middle, expressing their habit also."
+        ],
+        "John Gill": [
+            "The following custom was used at every feast in the year, at the feasts of pentecost and tabernacles, as well as at the passover; whereas it was only at the latter.",
+            "He released unto them one prisoner, whomsoever they desired.",
+            "Of this custom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how the ruler usually released a prisoner during the feast, a customary practice. In fact, Matthew 27:15 indicates that this was a habitual action. The people were accustomed to requesting the release of a prisoner, and this was something they regularly sought. It is important to note that this custom was observed at various feasts throughout the year, not just during Passover.",
+            "wordCount": 64,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.162904703064707,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.01,
+            "commentatorTierSimilarities": [
+                34.71,
+                28.11,
+                37.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ruler had a customary habit of releasing a prisoner during the feast, as Matthew 27:15 confirms. It was the people's usual practice to ask for a prisoner to be released, a habit they regularly engaged in. It is worth noting that this customary practice took place not only during Passover but also during other feasts throughout the year.",
+            "wordCount": 59,
+            "quoteTokenProportion": 48.89,
+            "qualityScore": 1.1577026379329713,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.84,
+            "commentatorTierSimilarities": [
+                35.75,
+                22.18,
+                42.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ruler had the habitual custom of releasing a prisoner during the feast, which was confirmed by Matthew 27:15. It was the people's usual practice to request the release of a prisoner, an action they regularly engaged in. This customary tradition was observed not only during Passover but also during other feasts throughout the year.",
+            "wordCount": 55,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.1745158687871715,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.4,
+            "commentatorTierSimilarities": [
+                33.71,
+                22.0,
+                44.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ruler had the customary habit of releasing a prisoner during the feast, as indicated by the verb used in Mark 15:6. This action was habitual, as Matthew 27:15 also suggests. The people would regularly ask for a prisoner to be released, reflecting their usual practice and ongoing desire. It is noteworthy that this custom was observed not only during Passover but also during other feasts throughout the year.",
+            "wordCount": 67,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.2021792988869016,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.32,
+            "commentatorTierSimilarities": [
+                34.37,
+                28.92,
+                36.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ruler had the customary habit of releasing a prisoner during the feast, as the first-tier commentary describes. It was the people's usual practice to ask for the release of a prisoner, as mentioned in the first-tier and second-tier commentary. This custom was observed not only during Passover but also during other feasts throughout the year, as the third-tier commentary explains.",
+            "wordCount": 66,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 0.9906035234489988,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.28,
+            "commentatorTierSimilarities": [
+                28.87,
+                18.09,
+                53.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

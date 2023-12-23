@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:25:39",
+    "verseRef": "Mark 10:10",
+    "bestBHT": {
+        "bht": "Jesus retreated to a house with His disciples after silencing the Pharisees and dismissing the crowd, creating an opportunity for them to privately inquire about His teachings on divorce. Recognizing their need for further understanding regarding this matter, Jesus engaged in conversation with them. It was crucial for His disciples to comprehend the profound implications of their teachings, which aimed to transform societal perspectives on marriage and elevate women. Regrettably, some women who embraced these teachings inadvertently sought to undermine their own authority, perpetuating the degradation of their gender.",
+        "wordCount": 89,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.457955343617686,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+        "commentatorTierSimilarities": [
+            0.0,
+            51.49,
+            48.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The fuller private teaching was needed, for these disciples were to teach the world new lessons on the subject of marriage and divorce, and thus elevate women.",
+            "Sadly enough, women who have been elevated by these teachings are seeking to overthrow their authority.",
+            "Thus unwittingly laboring for the renewed degradation of their sex."
+        ],
+        "John Gill": [
+            "And in the house,.... To which Christ retired, after he had put the Pharisees to silence, and dismissed the multitude.\" ",
+            "His disciples asked him again of the same matter; concerning the affair of divorces, be bad been discoursing with the Pharisees about.\" ",
+            "Some things being said, they had not been used to, and which they did not thoroughly understand; and therefore chose privately to converse with him on this subject, for their further information."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus took His disciples into a house to privately discuss the topic of divorce, which was a matter that had left them puzzled by His earlier teachings. It was important for them to have a deep understanding of this subject, as they were to become teachers, spreading new ideas about marriage and divorce that would elevate women. Sadly, some of these elevated women, in their newfound authority, were inadvertently contributing to the renewed degradation of their own sex. Jesus recognized the importance of clarifying His teachings to His disciples, and so He patiently engaged in further conversation with them to provide the understanding they sought.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.5429012589747229,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                55.86,
+                44.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus gathered His disciples in a private setting to address their confusion regarding the topic of divorce. He recognized the significance of their role in teaching the world new lessons about marriage and divorce, with the intention of elevating women. However, it was unfortunate that some women, as a result of this elevation, sought to overthrow the authority that had been given to them, unintentionally causing a renewed degradation of their own gender. Consequently, Jesus patiently engaged in further conversation with His disciples to provide them with the clarity and understanding they sought.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.4362849239378814,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.1,
+            "commentatorTierSimilarities": [
+                0.0,
+                54.38,
+                45.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus took His disciples to a private setting, away from the Pharisees and the crowds, to address their concerns about divorce. He understood that they needed a deeper understanding of this topic, as they were to become teachers who would transform society's view of marriage and elevate women. Unfortunately, some of these elevated women, in their newfound authority, were inadvertently contributing to the degradation of their own gender. Thus, Jesus patiently engaged in further conversation with His disciples to provide them with the clarity they sought.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.4475857484007297,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                53.95,
+                46.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus retreated to a house with His disciples after silencing the Pharisees and dismissing the crowd, creating an opportunity for them to privately inquire about His teachings on divorce. Recognizing their need for further understanding regarding this matter, Jesus engaged in conversation with them. It was crucial for His disciples to comprehend the profound implications of their teachings, which aimed to transform societal perspectives on marriage and elevate women. Regrettably, some women who embraced these teachings inadvertently sought to undermine their own authority, perpetuating the degradation of their gender.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.457955343617686,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.82,
+            "commentatorTierSimilarities": [
+                0.0,
+                51.49,
+                48.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In an intimate setting away from the Pharisees and the crowds, Jesus attended to His disciples' lingering questions on divorce. He realized the significance of their role in raising the status of women through their teachings. However, there was an unfortunate consequence - some of these elevated women unwittingly sought to overthrow the authority entrusted to them, leading to the renewed degradation of their own sex. Sensing the need for clarification, Jesus patiently engaged in a private conversation with His disciples to address their concerns and provide further enlightenment.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.4345730535284835,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.04,
+            "commentatorTierSimilarities": [
+                0.0,
+                50.89,
+                49.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

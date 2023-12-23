@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:23:22",
+    "verseRef": "Mark 6:42",
+    "bestBHT": {
+        "bht": "All four Evangelists recount the incredible miracle where Jesus feeds a multitude with only a few loaves of bread and fish. John adds that everyone was satisfied with as much food as they desired, while twelve baskets were filled with leftovers, emphasizing the magnitude of this miracle. Jesus also instructs His disciples to gather the remaining fragments, ensuring that nothing goes to waste. This event showcases Jesus' abundant provision, even in the face of limited resources, demonstrating His miraculous power and care for His followers.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.3999417772322287,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.89,
+        "commentatorTierSimilarities": [
+            77.67,
+            0.0,
+            22.33
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All the four Evangelists mention this: and John adds, 'and likewise of the fishes, as much as they would'\u2014to show that vast as was the multitude, and scanty the provisions, the meal to each and all of them was a plentiful one.",
+            "When they were filled, He said unto His disciples, Gather up the fragments that remain, that nothing be lost.",
+            "This was designed to bring out the whole extent of the miracle."
+        ],
+        "John Gill": [
+            "And they did all eat, and were filled.",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 6:42, the four Evangelists mention the miracle in which Jesus fed the multitude with just a few loaves of bread and fish. John even adds that everyone had as much as they wanted to eat. The fact that there were twelve baskets of leftovers emphasizes the full extent of this incredible miracle. Jesus then instructed his disciples to collect the remaining fragments so that nothing would go to waste. This passage showcases the abundance that Jesus provided for the people, even though the provisions seemed scarce in the beginning.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.373851894713045,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.02,
+            "commentatorTierSimilarities": [
+                77.04,
+                0.0,
+                22.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this account, all four Evangelists mention how Jesus miraculously fed a multitude of people with just a few loaves of bread and fish. John adds that everyone had as much to eat as they desired. The presence of twelve baskets of leftovers emphasizes the greatness of this miracle. Jesus also instructed his disciples to gather up the remaining fragments, emphasizing the importance of not wasting anything. This event reveals the abundance provided by Jesus, even when faced with limited resources.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.248231359251212,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.85,
+            "commentatorTierSimilarities": [
+                77.03,
+                0.0,
+                22.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, all four Evangelists mention how Jesus miraculously fed a multitude of people with just a few loaves of bread and fish. John adds that everyone had as much to eat as they desired. The presence of twelve baskets of leftovers emphasizes the greatness of this miracle. Jesus also instructed his disciples to gather up the remaining fragments, emphasizing the importance of not wasting anything. This event reveals the abundance provided by Jesus, even with limited resources.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.2428257791850674,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.67,
+            "commentatorTierSimilarities": [
+                77.02,
+                0.0,
+                22.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, all four Evangelists highlight the remarkable miracle in which Jesus miraculously fed a multitude of people using only a small amount of bread and fish. John emphasizes that everyone had as much food as they desired, underscoring the ample provisions provided by Jesus. The presence of twelve baskets brimming with leftovers illustrates the full extent of this extraordinary event. Additionally, Jesus instructed His disciples to gather up the remaining fragments to prevent any waste. This passage demonstrates the abundant provision of Jesus, even when resources appear limited.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.21943085667346,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.89,
+            "commentatorTierSimilarities": [
+                84.28,
+                0.0,
+                15.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All four Evangelists recount the incredible miracle where Jesus feeds a multitude with only a few loaves of bread and fish. John adds that everyone was satisfied with as much food as they desired, while twelve baskets were filled with leftovers, emphasizing the magnitude of this miracle. Jesus also instructs His disciples to gather the remaining fragments, ensuring that nothing goes to waste. This event showcases Jesus' abundant provision, even in the face of limited resources, demonstrating His miraculous power and care for His followers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.3999417772322287,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.89,
+            "commentatorTierSimilarities": [
+                77.67,
+                0.0,
+                22.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

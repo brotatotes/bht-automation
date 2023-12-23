@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-22-2023 23:29:04",
+    "verseRef": "Mark 15:12",
+    "bestBHT": {
+        "bht": "The people declare Jesus as the King of the Jews to Pilate, who responds by reminding them that Jesus is also known as Christ. It appears that Pilate intentionally provokes the Jews by highlighting this title. He questions their choice of releasing Barabbas over Jesus, expressing astonishment and a desire to save Jesus. Pilate seems reluctant to put Jesus to death and suggests inflicting a lesser punishment, but the people seem adamant about Jesus's execution.",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.9874648521269218,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+        "commentatorTierSimilarities": [
+            70.15,
+            0.0,
+            29.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "12.] whom ye call the King of the Jews is \u201cJesus, which is called Christ\u201d in Matthew. Neither of these expressions can well have been copied from the other."
+        ],
+        "Archibald T. Robertson": [
+            "Whom ye call the King of the Jews (\u03bf\u03bd \u03bb\u03b5\u03b3\u03b5\u03c4\u03b5 \u03c4\u03bf\u03bd \u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b1 \u03c4\u03c9\u03bd \u0399\u03bf\u03c5\u03b4\u03b1\u03b9\u03c9\u03bd). Pilate rubs it in on the Jews.\" ",
+            "The 'then' (\u03bf\u03c5\u03bd) means since you have chosen Barabbas instead of Jesus."
+        ],
+        "John Gill": [
+            "Being astonished that they should ask the release of such an infamous person; and being very desirous of saving Jesus.",
+            "Would you have me put him to death? surely this can never be desired; or would you have me inflict some slight punishment on him, and so dismiss him?",
+            "At least many of you; would you have me put him to death?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people, addressing Pilate, say that Jesus is the King of the Jews. In response, Pilate reminds them that Jesus is called Christ, which implies that he is the anointed one. It seems that Pilate is intentionally provoking the Jews by highlighting this title. Pilate further emphasizes their choice of Barabbas instead of Jesus, questioning their decision. He seems incredulous that they would prefer to release such a notorious criminal over Jesus. Pilate appears to be looking for a way to save Jesus, suggesting that he could inflict a lesser punishment, but the people seem to desire Jesus's death.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.950062448731696,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                69.63,
+                0.0,
+                30.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people declare Jesus as the King of the Jews to Pilate, who responds by reminding them that Jesus is also known as Christ. It appears that Pilate intentionally provokes the Jews by highlighting this title. He questions their choice of releasing Barabbas over Jesus, expressing astonishment and a desire to save Jesus. Pilate seems reluctant to put Jesus to death and suggests inflicting a lesser punishment, but the people seem adamant about Jesus's execution.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.9874648521269218,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                70.15,
+                0.0,
+                29.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, addressing the people, points out that Jesus is called Christ, the anointed one, in Matthew's account. He seems to be rubbing it in on the Jews by highlighting this title. Pilate questions their decision to choose Barabbas over Jesus, showing his astonishment and desire to save Jesus. He appears reluctant to put Jesus to death and considers imposing a lesser punishment, but the people seem determined for Jesus to be executed.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.7973047377430995,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                70.65,
+                0.0,
+                29.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Addressing the people, Pilate reminds them that Jesus is called Christ in Matthew, and he seemingly emphasizes this title to provoke the Jews. He questions their choice of Barabbas over Jesus, expressing astonishment and indicating a desire to save Jesus. Although Pilate appears hesitant to put Jesus to death, he considers imposing a lesser punishment. However, the people remain resolute in their demand for Jesus's execution.",
+            "wordCount": 67,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.6304977923601773,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                69.5,
+                0.0,
+                30.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, responding to the people, highlights that Jesus is called Christ in Matthew. It seems that Pilate deliberately emphasizes this title to provoke the Jews. He questions their decision to choose Barabbas over Jesus, expressing astonishment and a desire to save Jesus. Pilate appears reluctant to put Jesus to death and suggests imposing a lesser punishment. However, the people remain steadfast in their demand for Jesus's execution.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.644325289151544,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.02,
+            "commentatorTierSimilarities": [
+                74.08,
+                0.0,
+                25.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

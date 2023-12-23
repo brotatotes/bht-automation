@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:20:17",
+    "verseRef": "Mark 1:12",
+    "bestBHT": {
+        "bht": "The Spirit's forceful drive compels Jesus into the wilderness near Jericho, where he undergoes a period of fasting and temptation. Mark's use of driveth vividly portrays the powerful impulse of the Holy Spirit, contrasting with the milder terms used by Matthew and Luke. Though the exact location is unknown, the significance of this event lies in the profound connection between Jesus and the Holy Spirit throughout his earthly life. It is noteworthy that extraordinary manifestations of God's favor often bring about extraordinary temptations, as seen in related passages.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.658851444933847,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+        "commentatorTierSimilarities": [
+            38.47,
+            26.65,
+            34.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "drive = lead up Matthew, = lead Luke. It is a more forcible word than either of these to express the mighty and cogent impulse of the Spirit."
+        ],
+        "Marvin Vincent": [
+            "Tradition fixes it near Jericho, in the neighborhood of the Quarantania, the precipitous face of which is pierced with ancient cells and chapels, and a ruined church is on its topmost peak.",
+            "Dr. Tristram says that every spring a few devout Abyssinian Christians are in the habit of coming and remaining here for forty days, to keep their Lent on the spot where they suppose that our Lord fasted and was tempted.",
+            "The place is unknown."
+        ],
+        "Philip Schaff": [
+            "The E. V. uses seven different words to represent this one Greek word, which may always be rendered \u2018straightway.\u2019",
+            "The expression here used is stronger than \u2018led up\u2019 (Matthew), \u2018led\u2019 (Luke)."
+        ],
+        "Archibald T. Robertson": [
+            "Driveth him forth (\u03b1\u03c5\u03c4\u03bf\u03bd \u03b5\u03ba\u03b2\u03b1\u03bb\u03bb\u03b5). Vivid word, bolder than Matthew's 'was led up' (\u03b1\u03bd\u03b7\u03c7\u03b8\u03b7) and Luke's 'was led' (\u03b7\u03b3\u03b5\u03c4\u03bf).\" ",
+            "Mark has here 'straightway' where Matthew has 'then'.\" ",
+            "The entire earthly life of Jesus was bound up with the Holy Spirit from his birth to his death and resurrection."
+        ],
+        "John Gill": [
+            "the very selfsame day,",
+            "the Spirit driveth him into the wilderness\" ",
+            "the same Spirit is meant here, as there\" ",
+            "it is read, \"the Holy Spirit driveth him\""
+        ],
+        "John Wesley": [
+            "So in all the children of God, extraordinary manifestations of his favour are wont to be followed by extraordinary temptations.",
+            "Extraordinary manifestations of his favour are followed by extraordinary temptations.",
+            "Matthew 4:1; Luke 4:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how the Spirit forcefully drives Jesus into the wilderness, a place believed to be near Jericho where Jesus fasted and was tempted. Though the exact location is unknown, the significance of this event is clear. Mark's use of the word driveth emphasizes the powerful impulse of the Holy Spirit, with Matthew and Luke using milder terms. This exemplifies how Jesus' entire earthly life was intimately connected with the Holy Spirit. It is also noted that extraordinary manifestations of God's favor are often followed by extraordinary temptations, as seen in Matthew 4:1 and Luke 4:1.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6668235159609481,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                38.29,
+                29.57,
+                32.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Spirit forcefully drives Jesus into the wilderness, believed to be near Jericho, where he fasted and was tempted. Mark's use of driveth highlights the powerful impulse of the Holy Spirit, contrasting with Matthew's and Luke's milder terms. Although the exact location is unknown, the significance of this event lies in the close connection between Jesus and the Holy Spirit throughout his earthly life. Extraordinary displays of God's favor often bring extraordinary temptations, as seen in other passages.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5998565764969754,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                40.35,
+                24.29,
+                35.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Spirit's forceful drive propels Jesus into the wilderness near Jericho, where he embarks on a period of fasting and temptation. This intensity is emphasized by Mark's use of the word driveth, which surpasses Matthew's and Luke's less forceful terms. The exact location remains unknown, but the profound connection between Jesus and the Holy Spirit throughout his earthly journey is evident. It is significant to note that extraordinary manifestations of God's favor are often accompanied by extraordinary temptations, as can be seen in other biblical accounts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.623816441778054,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.33,
+            "commentatorTierSimilarities": [
+                39.54,
+                28.65,
+                31.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Spirit's forceful drive compels Jesus into the wilderness near Jericho, where he undergoes a period of fasting and temptation. Mark's use of driveth vividly portrays the powerful impulse of the Holy Spirit, contrasting with the milder terms used by Matthew and Luke. Though the exact location is unknown, the significance of this event lies in the profound connection between Jesus and the Holy Spirit throughout his earthly life. It is noteworthy that extraordinary manifestations of God's favor often bring about extraordinary temptations, as seen in related passages.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.658851444933847,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                38.47,
+                26.65,
+                34.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Spirit forcefully drives Jesus into the wilderness near Jericho, where he is believed to have fasted and faced temptation. Mark's choice of driveth highlights the powerful impulse of the Holy Spirit, setting it apart from the gentler descriptions used by Matthew and Luke. The location of this wilderness remains unknown, but it is significant to recognize the profound connection between Jesus and the Holy Spirit throughout his earthly life. It is also worth noting that extraordinary demonstrations of divine favor often lead to extraordinary challenges, as seen in other passages.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.5861611654725611,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                40.32,
+                24.67,
+                35.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

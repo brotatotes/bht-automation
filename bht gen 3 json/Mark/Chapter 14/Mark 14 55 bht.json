@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:28:47",
+    "verseRef": "Mark 14:55",
+    "bestBHT": {
+        "bht": "The religious leaders, seeking to condemn Jesus, knew they couldn't find valid charges. They sought false witnesses to make a case before Pilate, but their efforts were in vain. They could not find any consistent witnesses to charge Jesus with a significant crime. This situation showcases God's providence, as despite their authority and rewards, they were unable to find two consistent witnesses to substantiate their accusations against Jesus.",
+        "wordCount": 70,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.9204913358554172,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+        "commentatorTierSimilarities": [
+            54.2,
+            0.0,
+            45.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They knew they could find nothing valid; but having their Prisoner to bring before Pilate, they behooved to make a case.\" ",
+            "None that would suit their purpose, or make a decent ground of charge before Pilate.",
+            "They sought false witness."
+        ],
+        "John Gill": [
+            "- \"They begun with such evidences as tended to acquit a man, and not with such as served to condemn him; whereas this court was only seeking for such evidence to begin with, that they might condemn Jesus to death.\" (Quote 1)",
+            "- \"They sought for witness against Jesus to put him to death; on which they were determined, right or wrong.\" (Quote 2)",
+            "- \"They found none that would answer their purpose.\" (Quote 3)"
+        ],
+        "John Wesley": [
+            "What an amazing proof of the overruling providence of God, considering both their authority, and the rewards they could offer...",
+            "...that no two consistent witnesses could be procured...",
+            "...to charge him with any gross crime."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The religious leaders sought false witnesses against Jesus, even though they knew they couldn't find any valid charges. Their goal was to bring Jesus before Pilate and make a case against Him. They were determined to condemn Him to death, regardless of whether the evidence was right or wrong. However, they were unsuccessful in finding witnesses that could provide consistent testimony against Jesus. This situation is a remarkable demonstration of God's providence, as even with the authority and rewards at their disposal, the religious leaders could not find any substantial accusations to bring against Jesus.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.7444309929575321,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.34,
+            "commentatorTierSimilarities": [
+                53.63,
+                0.0,
+                46.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious leaders, knowing they couldn't find valid charges, sought false witnesses against Jesus to make a case before Pilate. Their determination to condemn Jesus to death was evident, even if the evidence was right or wrong. Yet, they found no consistent witnesses to charge Jesus with any significant crime. This highlights God's overruling providence, as even with their authority and rewards, the religious leaders were unable to find substantial accusations against Jesus.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7542004874424708,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                51.61,
+                0.0,
+                48.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious leaders, having no valid charges against Jesus, were determined to find false witnesses to make a case before Pilate. However, their search was in vain as they could not procure consistent witnesses to accuse Jesus of any substantial crimes. This demonstrates the remarkable providence of God, considering the authority and rewards at the disposal of the religious leaders. Despite their efforts, they were unable to find any evidence that would serve their purpose to condemn Jesus to death.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.579743643522219,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.87,
+            "commentatorTierSimilarities": [
+                53.04,
+                0.0,
+                46.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious leaders, knowing they could find nothing valid, sought false witnesses to make a case against Jesus before Pilate. They were determined to condemn Him, regardless of the evidence being right or wrong. However, their efforts were in vain, as they could not find any consistent witnesses to charge Jesus with any significant crime. This situation is a remarkable proof of God's providence, considering their authority and rewards, yet no two consistent witnesses could be procured to substantiate their accusations against Jesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7868903811349877,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.76,
+            "commentatorTierSimilarities": [
+                52.08,
+                0.0,
+                47.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious leaders, seeking to condemn Jesus, knew they couldn't find valid charges. They sought false witnesses to make a case before Pilate, but their efforts were in vain. They could not find any consistent witnesses to charge Jesus with a significant crime. This situation showcases God's providence, as despite their authority and rewards, they were unable to find two consistent witnesses to substantiate their accusations against Jesus.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9204913358554172,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                54.2,
+                0.0,
+                45.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:25:33",
+    "verseRef": "Mark 9:26",
+    "bestBHT": {
+        "bht": "The demon, aware that his time was limited, made one final attempt to destroy his victim, almost succeeding. But in that moment, the Lord of life, the Healer, the Stronger than the strong man armed, was present. Though the child suffered greatly from the demon's departure, becoming motionless as if dead, this quietude was a sign of the demon's absence. The demon inflicted as much harm as possible before leaving, but his works will be ultimately destroyed.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.6204623666507723,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.22,
+        "commentatorTierSimilarities": [
+            41.27,
+            25.91,
+            32.82
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The malignant, cruel spirit, now conscious that his time was come, gathers up his whole strength, with intent by a last stroke to kill his victim, and had nearly succeeded.",
+            "The Lord of life was there; the Healer of all maladies, the Friend of sinners, the Seed of the woman, 'the Stronger than the strong man armed,' was there.",
+            "Fearfully is he permitted to bruise the heel, as in this case; but his own head shall go for it\u2014his works shall be destroyed."
+        ],
+        "Philip Schaff": [
+            "Crying out, uttering an inarticulate cry [...] with the same hint of intimate connection alluded to in Mark 9:20.",
+            "And he became as one dead. [...] this very quietude was a token that the demon was gone.",
+            "The most part [...] This was the general verdict."
+        ],
+        "Archibald T. Robertson": [
+            "Having torn much (\u03c3\u03c0\u03b1\u03c1\u03b1\u03be\u03b1\u03c2). The uncompounded verb used in verse Mark 9:20.",
+            "Became as one dead (\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03c9\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03c2). As if dead from the violence of the spasm.",
+            "The demon did him all possible harm in leaving him."
+        ],
+        "John Gill": [
+            "It was he, and not the child, that cried, and made an hideous noise, at his ejection; being filled with wrath and rage.",
+            "Though sore against his will, being obliged to it, by the superior power of Christ.",
+            "The child, when the devil had left him, lay as still as if he had no breath, nor life in him."
+        ],
+        "John Wesley": [
+            "Having rent him sore \u2014 So does even the body sometimes suffer, when God comes to deliver the soul from Satan."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The demon, aware that his time was limited, made one final attempt to destroy his victim, almost succeeding. But in that moment, the Lord of life, the Healer, the Stronger than the strong man armed, was present. Though the child suffered greatly from the demon's departure, becoming motionless as if dead, this quietude was a sign of the demon's absence. The demon inflicted as much harm as possible before leaving, but his works will be ultimately destroyed.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6204623666507723,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.22,
+            "commentatorTierSimilarities": [
+                41.27,
+                25.91,
+                32.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The malignant spirit, conscious that his time was come, gathered up his whole strength to kill his victim, nearly succeeding. But the Lord of life, the Healer of maladies, the Stronger than the strong man, was present. The demon caused great harm in leaving, making the child appear lifeless. However, this stillness indicated the demon's departure. Though against his will, the demon was obliged to leave by the superior power of Christ. While the child suffered physically from the demon's presence, his works will ultimately be destroyed.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.5199731803879872,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                38.94,
+                22.37,
+                38.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cruel spirit, aware of his time running out, mustered all his strength to deliver a final blow, almost killing his victim. Yet, in that moment, the Healer of maladies, the Stronger than the strong man armed, was there. The child, ravaged by the demon, became like a lifeless body from the violent struggle. But this motionlessness proved the demon's departure. Though unwillingly, the demon was forced to leave by the superior power of Christ. Though the child suffered greatly, the demon's works will be destroyed.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.4529839637608482,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                39.24,
+                23.05,
+                37.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wicked spirit, realizing his time was up, launched a final fierce attack, nearly managing to kill his prey. However, in that critical moment, the Life-Giver, the Healer of all ailments, the Sinners' Friend, the One stronger than the strong armed man, was present. The child, subjected to the demon's onslaught, appeared lifeless, as if dead from the force of the assault. The demon inflicted maximum harm when leaving, but his actions will be obliterated.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5717361852643927,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+            "commentatorTierSimilarities": [
+                43.88,
+                22.77,
+                33.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The cruel spirit, sensing the end, gathered his strength for a final strike, almost succeeding in killing his victim. But the Life-Giver, the Healing One, the Friend of sinners, the One more powerful than the strong, was there. The child, torn and left weak, became motionless as if lifeless. However, this stillness was evidence of the demon's departure. Though unwillingly, the demon was compelled by the superior power of Christ to leave. Despite the child's suffering, the works of the demon will be destroyed.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4531022288354885,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.66,
+            "commentatorTierSimilarities": [
+                37.35,
+                25.95,
+                36.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

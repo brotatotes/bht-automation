@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:30:22",
+    "verseRef": "Mark 16:3",
+    "bestBHT": {
+        "bht": "Expressing doubt and uncertainty, the women in this narrative question, Who shall roll us away the stone from the door of the sepulchre? Their lack of hope in witnessing Jesus' resurrection is evident as they raised the problem, revealing their inability to see beyond the obstacle. However, the Lord had already removed the difficulty before it was encountered, showcasing His ability to pave the way for us in our zealous pursuit, removing seemingly insurmountable obstacles.",
+        "wordCount": 75,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.6167215348358857,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+        "commentatorTierSimilarities": [
+            34.9,
+            33.03,
+            32.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Who shall roll us away the stone from the door of the sepulchre?\" ",
+            "And are there no others who, when advancing to duty in the face of appalling difficulties, find their stone also rolled away?"
+        ],
+        "Marvin Vincent": [
+            "Peculiar to Mark."
+        ],
+        "John Calvin": [
+            "But let us learn from this, that in consequence of having been carried away by their zeal, they came there without due consideration.",
+            "They had seen a stone placed before the sepulcher, to hinder any one from entering. Why did not this occur to them, when they were at home and at leisure, but because they were seized with such fear and astonishment, that thought and recollection failed them?",
+            "But as it is a holy zeal that blinds them, God does not charge them with this fault."
+        ],
+        "Philip Schaff": [
+            "Mark 16:3. Who shall roll, etc.? A natural and graphic touch in the narrative. The Lord had removed the difficulty, before it was actually encountered.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Who shall roll us away the stone?\" - The women have no hope of the resurrection of Jesus, for they were raising the problem.",
+            "Both verbs occur in Koine writers and in the papyri.\" - The opposite of \u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bb\u03b9\u03c9 in Mark 15:46; In verse Mark 16:4 rolled back (\u03b1\u03bd\u03b5\u03ba\u03b5\u03ba\u03c5\u03bb\u03b9\u03c3\u03c4\u03b1, perfect passive indicative) occurs also.",
+            "Clearly the women have no hope of the resurrection of Jesus.\" - The women's lack of hope in witnessing Jesus' resurrection is evident as they raised the problem, expressing doubt and uncertainty."
+        ],
+        "John Gill": [
+            "Who shall roll us away the stone from the door of the sepulchre?\" ",
+            "This was the only difficulty they had, that they were aware of.",
+            "All their concern was, how, and by whom, the stone should be rolled away."
+        ],
+        "John Wesley": [
+            "Who shall roll us away the stone",
+            "This seems to have been the only difficulty they apprehended.",
+            "So they knew nothing of Pilate's having sealed the stone, and placed a guard of soldiers there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The women in Mark 16:3 express doubt and uncertainty as they pondered, Who shall roll us away the stone from the door of the sepulchre? Their lack of hope in witnessing Jesus' resurrection is evident as they raised the problem, revealing their inability to see beyond the obstacle. However, this doubt is met with the reality that the Lord had already removed the difficulty before it was encountered. This moment serves as a reminder that sometimes we, too, may encounter seemingly insurmountable obstacles when pursuing our calling. Yet, in our zealous pursuit, God graciously removes these hindrances and paves the way for us.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 1.4115077278541186,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.28,
+            "commentatorTierSimilarities": [
+                32.15,
+                32.98,
+                34.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The women's expressions of doubt and uncertainty in the verse are evident as they raise the problem of who will roll away the stone from the door of the sepulchre. Clearly lacking hope in witnessing Jesus' resurrection, they were unable to see beyond this obstacle. However, the Lord had already removed the difficulty before it was encountered, showcasing His ability to pave the way for us in our zealous pursuit of our calling and remove seemingly insurmountable obstacles.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.5497512235723636,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.87,
+            "commentatorTierSimilarities": [
+                36.03,
+                31.52,
+                32.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Expressing doubt and uncertainty, the women in this narrative question, Who shall roll us away the stone from the door of the sepulchre? Their lack of hope in witnessing Jesus' resurrection is evident as they raised the problem, revealing their inability to see beyond the obstacle. However, the Lord had already removed the difficulty before it was encountered, showcasing His ability to pave the way for us in our zealous pursuit, removing seemingly insurmountable obstacles.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.6167215348358857,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                34.9,
+                33.03,
+                32.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The women in this passage voiced their doubts and uncertainties by asking, Who shall roll us away the stone from the door of the sepulchre? Undoubtedly, their lack of hope in witnessing Jesus' resurrection is apparent as they raised the problem, expressing doubt and uncertainty. However, the Lord had already removed the difficulty before it was faced, demonstrating His ability to remove obstacles and make a way for those who ardently pursue their calling. In our own lives, we may encounter seemingly insurmountable barriers, yet God's grace and intervention can pave the way for us.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.4582522199592547,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.83,
+            "commentatorTierSimilarities": [
+                35.39,
+                35.01,
+                29.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Expressing doubt and uncertainty, the women questioned, Who shall roll us away the stone from the sepulchre? Their lack of hope in witnessing Jesus' resurrection is evident as they raised this obstacle. However, the Lord had already removed the difficulty beforehand, showcasing His ability to pave the way for those who passionately pursue their calling. We can find comfort in knowing that despite facing seemingly insurmountable barriers, God's intervention can clear the path for us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.4954305412038655,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                33.82,
+                33.96,
+                32.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

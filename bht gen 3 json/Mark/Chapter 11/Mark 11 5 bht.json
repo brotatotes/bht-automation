@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:26:21",
+    "verseRef": "Mark 11:5",
+    "bestBHT": {
+        "bht": "As Jesus approached, certain bystanders, likely the owners or their servants, questioned the disciples' intentions in taking the colt. It was a natural protest, as they wondered why Jesus' followers wanted to take the colt away and what their purpose was in doing so. This open questioning by the owners or their representatives highlights the curiosity and confusion surrounding Jesus' actions and signals the beginning of the fulfillment of prophecies concerning the Messiah.",
+        "wordCount": 73,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.2532875491924442,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+        "commentatorTierSimilarities": [
+            37.46,
+            28.22,
+            34.32
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 11:5. And certain of them that stood there . It was done openly. These persons were \u2018the owners\u2019(Luke 19:33), probably members of the family of the owner.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Certain of those that stood there (\u03c4\u03b9\u03bd\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b5\u03ba\u03b5 \u03b5\u03c3\u03c4\u03b7\u03ba\u03bf\u03c4\u03c9\u03bd). Perfect active participle, genitive plural. Bystanders.",
+            "Luke 19:33 terms them 'the owners thereof' (\u03bf \u03ba\u03c5\u03c1\u03b9\u03bf \u03b1\u03c5\u03c4\u03bf\u03c5). The lords or masters of the colt.",
+            "They make a natural protest."
+        ],
+        "John Gill": [
+            "Who were either standing hard by, or walking about the place, being inhabitants of it; and either the owners of the colt, or their servants, or both.",
+            "What do ye mean by it? do you intend to take the colt away? what business have you with it? what right have you to do so?",
+            "And what is your end in it?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus approached, certain bystanders, likely the owners or their servants, questioned the disciples' intentions in taking the colt. It was a natural protest, as they wondered why Jesus' followers wanted to take the colt away and what their purpose was in doing so. This open questioning by the owners or their representatives highlights the curiosity and confusion surrounding Jesus' actions and signals the beginning of the fulfillment of prophecies concerning the Messiah.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.2532875491924442,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                37.46,
+                28.22,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus approached, certain bystanders, who were either standing nearby or walking around, questioned the disciples' motives in taking the colt. It was a natural protest, as they wanted to know why Jesus' followers wanted to take the colt away and what their purpose was in doing so. The bystanders, possibly the owners or their servants, were curious about the disciples' intentions and were wondering what right they had to take the colt. This questioning highlights the confusion and curiosity surrounding Jesus' actions, as well as the beginning of the fulfillment of prophecies concerning the Messiah.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.2136980777864705,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.7,
+            "commentatorTierSimilarities": [
+                36.39,
+                26.46,
+                37.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus approached, certain bystanders, likely the owners or their servants, questioned the disciples' intentions in taking the colt. It was a natural protest, as they wondered why Jesus' followers wanted to take the colt away and what their purpose was in doing so. This open questioning by the owners or their representatives highlights the curiosity and confusion surrounding Jesus' actions and signals the beginning of the fulfillment of prophecies concerning the Messiah.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.2532875491924442,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                37.46,
+                28.22,
+                34.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus approached, some of the bystanders, possibly the owners or their servants, voiced their concerns regarding the disciples' motives in taking away the colt. Their questioning was a natural response, seeking to understand why Jesus' followers wanted to take the colt and what their intentions were. This questioning reflects the curiosity and confusion surrounding Jesus' actions, marking the beginning of the fulfillment of prophecies related to the coming of the Messiah.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.0273538335812535,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.5,
+            "commentatorTierSimilarities": [
+                34.07,
+                28.4,
+                37.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus approached, certain bystanders, likely the owners or their servants, protested and questioned the disciples' reasons behind taking the colt. Their natural curiosity and confusion arose from wondering why Jesus' followers desired to take the colt away and what their purpose was. These bystanders, who were either standing nearby or walking around, sought to understand the disciples' intentions and legitimacy. Their questioning signifies the beginning fulfillment of prophecies regarding the Messiah and highlights the intrigue surrounding Jesus' actions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.074746005805734,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.08,
+            "commentatorTierSimilarities": [
+                36.58,
+                28.71,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:21:57",
+    "verseRef": "Mark 5:12",
+    "bestBHT": {
+        "bht": "The demons, unwilling to forsake their wicked ways, pleaded with Jesus to let them enter the swine, for they desired to continue their malicious activites, even if it meant destroying the livelihood of the people. Their unrelenting nature to cause harm, whether to human souls or bodily harm to creatures, signifies their relentless pursuit of mischief, never content to be idle and constantly seeking to cause destruction.",
+        "wordCount": 67,
+        "quoteTokenProportion": 31.37,
+        "qualityScore": 1.3517978949224219,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.29,
+        "commentatorTierSimilarities": [
+            36.76,
+            0.0,
+            63.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "If we must quit our hold of this man, suffer us to continue our work of mischief in another form, that by entering these swine, and thus destroying the people's property, we may steel their hearts against Thee!",
+            "Had they spoken out all their mind, perhaps this would have been it...",
+            "Send us into the swine, that we may enter into them."
+        ],
+        "John Gill": [
+            "They chose to be any where, rather than depart the country; and especially than to be sent into the deep, the abyss, or bottomless pit.",
+            "The devils are unwearied in doing mischief, they cannot rest unless they are about it.",
+            "If they are not suffered to touch the lives of men, or ruin their souls, it is some satisfaction to them to be suffered to hurt their bodies; and if that is no longer permitted, rather than be doing nothing, they are desirous of doing injury to irrational creatures, the property of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The demons, desperate to continue their destructive work, begged Jesus to allow them to enter into a herd of swine, even if it meant causing harm to people's property. Their sole purpose was to wreak havoc, for they cannot rest unless they are doing mischief. Their preference to harm animals rather than be sent into the deep or ruin human lives reveals their persistent desire to inflict harm in any form possible.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.3365750862585084,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.78,
+            "commentatorTierSimilarities": [
+                33.82,
+                0.0,
+                66.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The demons, unwilling to forsake their wicked ways, pleaded with Jesus to let them enter the swine, for they desired to continue their malicious activites, even if it meant destroying the livelihood of the people. Their unrelenting nature to cause harm, whether to human souls or bodily harm to creatures, signifies their relentless pursuit of mischief, never content to be idle and constantly seeking to cause destruction.",
+            "wordCount": 67,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.3517978949224219,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.29,
+            "commentatorTierSimilarities": [
+                36.76,
+                0.0,
+                63.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The demons, desperate to persist in their havoc-wreaking ways, begged Jesus to allow them entry into a herd of swine, even if it meant causing harm to people's property. Their insatiable desire to inflict mischief and ruin souls knows no bounds. They have an unwavering determination to cause harm, and if they are denied the opportunity to harm people, they take solace in harming creatures or damaging physical possessions.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.1673759559907126,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.16,
+            "commentatorTierSimilarities": [
+                31.52,
+                0.0,
+                68.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The demons, unwilling to cease their destructive work, appealed to Jesus, requesting permission to enter a group of swine as an alternative outlet for their malevolence. They eagerly sought to persist in causing harm, both to human souls and material possessions. Their relentless pursuit of mischief and unwillingness to be inactive highlights their relentless nature to wreak havoc in any form possible.",
+            "wordCount": 62,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.069247381308357,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.9,
+            "commentatorTierSimilarities": [
+                36.42,
+                0.0,
+                63.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The demons, fearful of losing their influence, entreated Jesus to allow them to enter into a herd of swine. Their plea revealed their desire to unleash havoc upon the people's possessions, hoping to harden their hearts against Jesus. Their motivation was rooted in an insatiable need to perpetrate mischief, never ceasing their efforts to cause harm. Even if denied the ability to harm human lives, they sought solace in injuring animals, relishing in the opportunity to damage what belonged to others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.0839586788722142,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.39,
+            "commentatorTierSimilarities": [
+                40.54,
+                0.0,
+                59.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

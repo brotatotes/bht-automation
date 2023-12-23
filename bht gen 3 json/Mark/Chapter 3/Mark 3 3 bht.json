@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-22-2023 23:20:44",
+    "verseRef": "Mark 3:3",
+    "bestBHT": {
+        "bht": "Step into the middle of the room where all can see, Jesus commanded in a bold defiance of the hypocrites observing him. The commotion among these long-bearded enemies of Christ was undeniable as he called the diseased man to stand forth. Symbolically significant, this act emphasized Jesus' power to heal and made it clear to all that the man's withered hand was not a fraud. The subsequent discourse that followed was made even more striking due to the positioning of the man in the midst of the synagogue.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.4514147979112715,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+        "commentatorTierSimilarities": [
+            39.82,
+            25.91,
+            34.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Stand forth [\u03b5\u03b3\u03b5\u03b9\u03c1\u03b5 \u03b5\u03b9\u03c2 \u03c4\u03bf \u03bc\u03b5\u03c3\u03bf\u03bd] . Lit., rise into the midst. So Wyc., Rise into the middle. Tynd., Arise and stand in the midst."
+        ],
+        "Philip Schaff": [
+            "Mark 3:3. Stand forth. This command is omitted by Matthew. The account of Luke (Luke 6:8) is fullest. The subsequent discourse is rendered more impressive by the position of the diseased man.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Step into the middle of the room where all can see.",
+            "It was a bold defiance of the Christ's spying enemies.",
+            "One can see the commotion among the long-bearded hypocrites at this daring act of Jesus."
+        ],
+        "John Gill": [
+            "After he had reasoned with them from the lesser to the greater, upon their own principles and practices.",
+            "He bid him rise up from his seat, and stand forth in the midst of the synagogue.",
+            "That it might be manifest to all, that the man's hand was really withered; and that there was no fraud in the following cure."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Step into the middle of the room where all can see, Jesus commanded, in a bold defiance of his enemies. The commotion among the hypocrites was palpable as Jesus called the diseased man to stand forth. This act was not only a physical position, but a symbolic one, emphasizing the power that Jesus held to heal. The subsequent discourse was rendered even more impressive by the positioning of the man, making it clear to all that his hand was truly withered and that the following cure was no fraud.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.351321740213885,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.27,
+            "commentatorTierSimilarities": [
+                37.08,
+                27.44,
+                35.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Step into the middle of the room where all can see, Jesus commanded in a bold defiance of the hypocrites observing him. The commotion among these long-bearded enemies of Christ was undeniable as he called the diseased man to stand forth. Symbolically significant, this act emphasized Jesus' power to heal and made it clear to all that the man's withered hand was not a fraud. The subsequent discourse that followed was made even more striking due to the positioning of the man in the midst of the synagogue.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.4514147979112715,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                39.82,
+                25.91,
+                34.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Step into the middle of the room where all can see, Jesus boldly commanded, defying the long-bearded hypocrites who observed him. The commotion among them was evident as Jesus called forth the diseased man. This act not only had symbolic significance, highlighting Jesus' power to heal, but also served to demonstrate that the man's withered hand was genuine, leaving no room for doubt. The subsequent discourse that unfolded was made all the more impactful by the presence of the man in the midst of the synagogue.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.2895972915470597,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.22,
+            "commentatorTierSimilarities": [
+                40.28,
+                25.42,
+                34.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Step into the middle of the room where all can see, Jesus boldly commanded, defying the long-bearded hypocrites who observed him. The commotion among them was evident as Jesus called forth the diseased man. This act not only had symbolic significance, emphasizing Jesus' power to heal, but also served to demonstrate that the man's withered hand was genuine. The subsequent discourse that unfolded was made all the more impactful by the presence of the man in the midst of the synagogue.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.2785479727587759,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.85,
+            "commentatorTierSimilarities": [
+                39.76,
+                25.51,
+                34.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Step into the middle of the room where all can see, Jesus boldly commanded, defying the long-bearded hypocrites. The commotion among them was evident as Jesus called forth the diseased man. This act not only had symbolic significance, emphasizing Jesus' power to heal, but also served to demonstrate that the man's withered hand was genuine. The subsequent discourse that unfolded was made more impactful by the presence of the man in the midst of the synagogue.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.2764298645455259,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.78,
+            "commentatorTierSimilarities": [
+                41.66,
+                25.14,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

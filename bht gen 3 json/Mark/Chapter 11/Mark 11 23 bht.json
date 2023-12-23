@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:26:51",
+    "verseRef": "Mark 11:23",
+    "bestBHT": {
+        "bht": "Jesus teaches that faith in God can overcome moral obstacles obstructing the progress of His kingdom. The command to move mountains symbolizes the removal of any barrier to spiritual advancement. Unwavering faith and the absence of doubt are vital for manifesting God's will. Sustained faith is necessary for witnessing the fulfillment of spoken commands. Jesus assures us that when we confidently command obstacles to be removed, they will be conquered, demonstrating the power and effectiveness of faithful reliance on God.",
+        "wordCount": 81,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.3265814211218496,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.45,
+        "commentatorTierSimilarities": [
+            55.91,
+            0.0,
+            44.09
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed... he shall have whatsoever he saith.\" ",
+            "It is plain that not physical but moral obstacles to the progress of His kingdom were in the Redeemer's view.\" ",
+            "He designed to teach was the great lesson, that no obstacle should be able to stand before a confiding faith in God."
+        ],
+        "Marvin Vincent": [
+            "Shall come to pass [\u03b3\u03b9\u03bd\u03b5\u03c4\u03b1\u03b9] . Rather cometh to pass, as Rev."
+        ],
+        "Archibald T. Robertson": [
+            "Not a single act of doubt, but continued faith.\" ",
+            "Wavering doubt.",
+            "Continued faith."
+        ],
+        "John Gill": [
+            "For verily I say unto you, that whosoever shall say unto this mountain, be thou removed, and be thou cast into the sea...\" ",
+            "and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; not only as to removing a mountain, and casting it into the sea, but any thing equally difficult...\" ",
+            "he shall have whatsoever he saith: whatever he commands shall be done..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through this verse, Jesus teaches the powerful lesson that faith in God can overcome any moral obstacle in the path of His kingdom. When Jesus speaks of moving mountains, he is referring to eradicating barriers that impede spiritual progress. The key to achieving this lies in unshakable confidence in God's power and a complete absence of doubt. Jesus emphasizes that continuous faith is required, as wavering doubt hinders the manifestation of God's will. Thus, Jesus assures us that when we command obstacles to be removed with unwavering faith, we will witness the fulfillment of our words.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.400212556559414,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.9,
+            "commentatorTierSimilarities": [
+                52.2,
+                0.0,
+                47.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus's teachings in Mark 11:23 reveal that faith in God can triumph over moral obstacles hindering the progress of His kingdom. By speaking of moving mountains, Jesus metaphorically implies the removal of any barrier to spiritual advancement. He emphasizes the importance of unwavering faith, as doubt weakens the manifestation of God's will. Committed and continuous faith is necessary in order to witness the fulfillment of our spoken commands. Through this verse, Jesus assures us that when we confidently command obstacles to be removed, they will indeed be overcome.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.3958897408662754,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.76,
+            "commentatorTierSimilarities": [
+                51.29,
+                0.0,
+                48.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus teaches that faith in God can overcome moral obstacles obstructing the progress of His kingdom. The command to move mountains symbolizes the removal of any barrier to spiritual advancement. Unwavering faith and the absence of doubt are vital for manifesting God's will. Sustained faith is necessary for witnessing the fulfillment of spoken commands. Jesus assures us that when we confidently command obstacles to be removed, they will be conquered, demonstrating the power and effectiveness of faithful reliance on God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.3265814211218496,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.45,
+            "commentatorTierSimilarities": [
+                55.91,
+                0.0,
+                44.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus imparts a valuable lesson about the significance of unwavering faith in God. By using the imagery of moving mountains, he aims to convey the idea of overcoming moral obstacles hindering the advancement of His kingdom. This teaching emphasizes the importance of complete trust in God's power and an absence of doubt. Jesus stresses the need for continuous faith, as even a moment of wavering doubt can impede the manifestation of God's will. He assures that commanding obstacles with unwavering faith will result in their removal and fulfillment of our desires.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.2434443189774225,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.69,
+            "commentatorTierSimilarities": [
+                52.82,
+                0.0,
+                47.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus reveals the power of unshakable faith in God through the metaphor of moving mountains. He emphasizes that these mountains symbolize moral obstacles to the progress of His kingdom. By maintaining unwavering confidence in God's ability to overcome any challenge, we can speak with authority and expect our commands to be fulfilled. Continuous faith is essential, as doubt hinders the manifestation of God's will. Jesus assures us that with resolute faith, we possess the ability to conquer any hurdle that stands in our way.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.301878076552189,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.63,
+            "commentatorTierSimilarities": [
+                51.49,
+                0.0,
+                48.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

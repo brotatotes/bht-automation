@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:20:14",
+    "verseRef": "Mark 1:10",
+    "bestBHT": {
+        "bht": "The Gospel of Mark uses the word straightway to denote immediate action, emphasizing the swift pace of events. The sentence structure highlights the independence of Mark and Matthew, even when their narratives overlap verbatim. Mark's choice of cleft asunder to describe the opening of the heavens provides a more vivid depiction compared to the term opened used in Matthew and Luke. Jesus Himself, along with John, witnessed this remarkable sight. The Spirit of God, symbolized as a dove, guides believers into truth, sanctifies them, and justifies them in Jesus' name, preserving the simplicity of the Gospel.",
+        "wordCount": 97,
+        "quoteTokenProportion": 27.54,
+        "qualityScore": 1.5031890159659174,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.32,
+        "commentatorTierSimilarities": [
+            28.75,
+            38.11,
+            33.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Straightway (immediately) is a favourite connecting word with Mark.",
+            "The construction of the sentence is a remarkable testimony of the independence of Mark and Matthew even when parts of the narrative agree verbatim.",
+            "Cleft asunder] Peculiar to Mark; and more descriptive than 'opened,' Matthew, Luke."
+        ],
+        "Marvin Vincent": [
+            "Straightway"
+        ],
+        "Philip Schaff": [
+            "Straightway. A favorite expression in this Gospel.",
+            "He saw, i.e., Jesus Himself, though John also saw it (John 1:32).",
+            "Rending. A stronger expression than that used by Matthew and Luke."
+        ],
+        "John Gill": [
+            "He guides into all truth as it is in Jesus, and teaches to speak the word in all plainness, openness, and sincerity, and preserves the saints in the simplicity of the Gospel.",
+            "The Spirit of God is a Spirit of holiness, he is the author of sanctification; such as are washed, sanctified, and justified, are so in the name of the Lord Jesus, and by the Spirit of our God.",
+            "Christ, on whom he lighted, is comparable to a dove; he is said to have doves' eyes, Song of Solomon 5:12, and he has all the fruits and graces of the dove like Spirit of God, which rested on him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Straightway, a favorite connecting word with Mark, immediately signifies the swift action that took place in this Gospel. The construction of the sentence testifies to the independence of Mark and Matthew, even when their narratives align verbatim. The phrase cleft asunder used by Mark is more descriptive than opened as seen in Matthew and Luke. Jesus, Himself, saw the heavens opening, although John also witnessed it. This rending of the heavens is a powerful expression, emphasizing the divine moment. The Spirit of God, compared to a dove, guides into truth, sanctifies, and justifies believers in the name of Jesus, preserving them in the simplicity of the Gospel.",
+            "wordCount": 107,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6015512094587652,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                27.97,
+                41.02,
+                31.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Straightway, immediately, is a favorite connecting word in Mark's Gospel, revealing the swift action that transpired. The construction of the sentence illustrates Mark and Matthew's independence, even when their narratives align verbatim. The term cleft asunder, exclusive to Mark, vividly describes the opening of the heavens. In this divine scene, Jesus Himself witnessed the event, while John also beheld it. The Spirit of God, symbolized as a dove, guides believers into truth, sanctifies them, and justifies them in the name of Jesus, preserving their faith in the simplicity of the Gospel.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.4048206800652638,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.05,
+            "commentatorTierSimilarities": [
+                31.31,
+                35.15,
+                33.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Straightway, a favorite connecting word in Mark, signifies the immediate nature of the event. The sentence construction reveals Mark and Matthew's independence, even when their narratives align verbatim. The phrase cleft asunder, used uniquely by Mark, vividly describes the opening of the heavens. Jesus Himself and John both witnessed this powerful moment. The Spirit of God, portrayed as a dove, guides believers into truth and sanctification, justifying them in the name of Jesus. Through the Spirit's work, the simplicity of the Gospel is preserved, leading followers on the path of righteousness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.3623541979618605,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.64,
+            "commentatorTierSimilarities": [
+                29.22,
+                35.42,
+                35.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gospel of Mark uses the word straightway to denote immediate action, emphasizing the swift pace of events. The sentence structure highlights the independence of Mark and Matthew, even when their narratives overlap verbatim. Mark's choice of cleft asunder to describe the opening of the heavens provides a more vivid depiction compared to the term opened used in Matthew and Luke. Jesus Himself, along with John, witnessed this remarkable sight. The Spirit of God, symbolized as a dove, guides believers into truth, sanctifies them, and justifies them in Jesus' name, preserving the simplicity of the Gospel.",
+            "wordCount": 97,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.5031890159659174,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.32,
+            "commentatorTierSimilarities": [
+                28.75,
+                38.11,
+                33.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Straightway, a favorite connecting word with Mark, immediately signifies the swift action that took place in this Gospel. The construction of the sentence testifies to the independence of Mark and Matthew, even when their narratives align verbatim. The phrase cleft asunder used by Mark is more descriptive than opened as seen in Matthew and Luke. Jesus, Himself, saw the heavens opening, although John also witnessed it. This rending of the heavens is a powerful expression, emphasizing the divine moment. The Spirit of God, compared to a dove, guides into truth, sanctifies, and justifies believers in the name of Jesus, preserving them in the simplicity of the Gospel.",
+            "wordCount": 107,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6015512094587652,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.59,
+            "commentatorTierSimilarities": [
+                27.97,
+                41.02,
+                31.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

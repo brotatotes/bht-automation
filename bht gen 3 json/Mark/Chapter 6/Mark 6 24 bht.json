@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:23:19",
+    "verseRef": "Mark 6:24",
+    "bestBHT": {
+        "bht": "The abandoned and shameless Herodias saw an opportunity to rid herself of John the Baptist, whose fidelity had marred her pleasures. Her daughter, unprepared for her mother's ghastly response, went to Herod and asked for the head of John. This incident reveals the wretched anxiety of a bad conscience and the power of the word of God, which even in prison tortures the king's wife. Herodias, driven by the sweetness of revenge, valued having her will on the great and good man more than having half the king's dominions.",
+        "wordCount": 92,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.2770025059712156,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.8,
+        "commentatorTierSimilarities": [
+            31.25,
+            16.21,
+            52.54
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Abandoned women are more shameless and heartless than men.",
+            "The Baptist's fidelity marred the pleasures of Herodias.",
+            "This was too good an opportunity of getting rid of him to let slip."
+        ],
+        "John Calvin": [
+            "We need not wonder that Herodias attached so much importance to John\u2019s death. That her power might be more secure for the future, she longed for the death of that man whom she imagined to be her only opponent.",
+            "This shows us the wretched anxiety by which a bad conscience is always tormented.",
+            "This likewise serves to show the power of the word of God, that the voice of the holy man, even when shut up in prison, wounds and tortures in the keenest manner the mind of the king\u2019s wife."
+        ],
+        "Philip Schaff": [
+            "Mark 6:24. She went forth. The studied vindictiveness of Herodias is here brought out.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The fact that she went and spoke to her mother proves that she had not been told beforehand what to ask.",
+            "The girl's question implies by the middle voice that she is thinking of something for herself.",
+            "She was no doubt unprepared for her mother's ghastly reply."
+        ],
+        "John Gill": [
+            "To which her mother made answer, without taking any further time to think of it, being prepared for it, and determined in her mind, whenever she had an opportunity of asking a favour of the king, what it should be.\" ",
+            "So sweet is revenge, that to have her will on that great and good man, was more to her, than to have half the king's dominions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The abandoned and shameless Herodias saw an opportunity to rid herself of John the Baptist, whose fidelity had marred her pleasures. Her daughter, unprepared for her mother's ghastly response, went to Herod and asked for the head of John. This incident reveals the wretched anxiety of a bad conscience and the power of the word of God, which even in prison tortures the king's wife. Herodias, driven by the sweetness of revenge, valued having her will on the great and good man more than having half the king's dominions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.2770025059712156,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.8,
+            "commentatorTierSimilarities": [
+                31.25,
+                16.21,
+                52.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herodias, an abandoned and shameless woman, seized the opportunity to get rid of John the Baptist, whom she saw as a threat to her power and pleasures. Her daughter, without prior knowledge, went to Herod and asked for John's head, driven by her own desires. This incident demonstrates the torment of a bad conscience and the power of God's word, which even in prison deeply affected the mind of the king's wife. The fulfillment of revenge became more valuable to Herodias than having considerable power.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.1895424840699003,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.9,
+            "commentatorTierSimilarities": [
+                27.67,
+                19.36,
+                52.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Herodias, described as an abandoned and shameless woman, saw the opportunity to eliminate John the Baptist as he had disrupted her pleasures. Her daughter, acting independently, approached Herod asking for John's head. This incident highlights the anguish caused by a guilty conscience and the significant impact of the word of God, even when spoken from a prison cell, deeply affecting the mind of the king's wife. The desire for revenge outweighed any desire for power, reflecting the maliciousness of Herodias' intentions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.169401947559534,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+            "commentatorTierSimilarities": [
+                31.28,
+                21.97,
+                46.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The shameless and heartless Herodias seized the opportunity to remove John the Baptist, who had been a hindrance to her pleasures. Her daughter, acting on her own accord, approached Herod without prior knowledge, asking for the head of John. This incident reveals the torment of a guilty conscience and the immense power of God's word, which even in prison deeply affected the mind of the king's wife. The desire for revenge held greater value to Herodias than any amount of power or wealth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.183079774605568,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.68,
+            "commentatorTierSimilarities": [
+                27.98,
+                19.81,
+                52.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Impelled by her shameless and heartless nature, Herodias saw an opportunity to eliminate John the Baptist, whose faithfulness had marred her pleasures. Her daughter, acting independently, approached Herod without prior knowledge and asked for John's head. This incident exposes the torment of a guilty conscience and underscores the tremendous power of God's word, which continues to afflict the king's wife even while imprisoned. Herodias' thirst for revenge against the righteous man outweighed any other desire, demonstrating her malicious intentions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.2558077390264577,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.1,
+            "commentatorTierSimilarities": [
+                30.76,
+                22.71,
+                46.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

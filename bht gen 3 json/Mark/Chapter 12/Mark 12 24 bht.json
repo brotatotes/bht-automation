@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:27:27",
+    "verseRef": "Mark 12:24",
+    "bestBHT": {
+        "bht": "Do ye not therefore err because ye know not the scriptures and the power of God? The reason of your error is your ignorance of the scriptures and the power of God. Many educated individuals today fall into this same trap of ignorance, causing them to wander away from the truth. Understanding the Scriptures and the power of God is vital in order to avoid such errors and to grow in knowledge and wisdom.",
+        "wordCount": 74,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.5200258152282098,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+        "commentatorTierSimilarities": [
+            45.65,
+            0.0,
+            54.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "24. Do ye not therefore err, because",
+            "\tye know not the scriptures\u2014regarding the future state. ",
+            "\t",
+            "neither the power of",
+            "\tGod?\u2014before which a thousand such difficulties vanish."
+        ],
+        "Marvin Vincent": [
+            "The reason of your error is your ignorance of the scriptures and the power of God.\" (Mark 12:24)",
+            "Wander out of the way... often rendered in the New Testament deceive.\" (Mark 12:24)",
+            "Of the wandering sheep... Of the martyrs wandering in the deserts.\" (Mark 12:24)"
+        ],
+        "Archibald T. Robertson": [
+            "Is it not for this cause that ye err? Mark puts it as a question with \u03bf\u03c5 expecting the affirmative answer.",
+            "How much error today is due to this same ignorance among the educated!",
+            "The two kinds of ignorance generally go together."
+        ],
+        "John Gill": [
+            "Do ye not therefore err, because ye know not the Scriptures, neither the power of God?",
+            "What is expressed in Matthew affirmatively, is here put by way of interrogation.",
+            "A more vehement way of affirming."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Many people make the mistake of erring because they lack knowledge of the Scriptures and the power of God. This ignorance leads them astray and causes them to wander away from the truth. It is essential to understand the Scriptures and the power of God in order to avoid these errors. Today, many people in educated circles still fall into this same trap of ignorance. It is important to recognize that this lack of understanding can result in significant errors.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.2395256576555185,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.56,
+            "commentatorTierSimilarities": [
+                60.11,
+                0.0,
+                39.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do ye not therefore err because ye know not the scriptures and the power of God? The reason for your error is your ignorance of the scriptures and the power of God. This lack of understanding leads to wandering away from the truth. Many educated individuals today fall into this same trap of ignorance, which can result in significant errors. It is crucial to gain knowledge and understanding of the Scriptures and the power of God to avoid these pitfalls.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4527011457544137,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.65,
+            "commentatorTierSimilarities": [
+                49.23,
+                0.0,
+                50.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do ye not therefore err because ye know not the scriptures and the power of God? The reason for your error is your ignorance of the scriptures and the power of God. Many educated individuals today fall into this same trap of ignorance, causing them to wander away from the truth. It is crucial to gain knowledge and understanding of the Scriptures and the power of God in order to avoid these errors.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5169135768123088,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.78,
+            "commentatorTierSimilarities": [
+                45.55,
+                0.0,
+                54.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do ye not therefore err because ye know not the scriptures and the power of God? The reason of your error is your ignorance of the scriptures and the power of God. Many educated individuals today fall into this same trap of ignorance, causing them to wander away from the truth. Understanding the Scriptures and the power of God is vital in order to avoid such errors and to grow in knowledge and wisdom.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5200258152282098,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.88,
+            "commentatorTierSimilarities": [
+                45.65,
+                0.0,
+                54.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do ye not therefore err because ye know not the scriptures and the power of God? The reason of your error is your ignorance of the scriptures and the power of God. Many educated individuals today fall into this same trap of ignorance, causing them to wander away from the truth. It is crucial to gain knowledge and understanding of the Scriptures and the power of God in order to avoid these errors.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.5193827094977217,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.86,
+            "commentatorTierSimilarities": [
+                45.65,
+                0.0,
+                54.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:22:21",
+    "verseRef": "Mark 4:38",
+    "bestBHT": {
+        "bht": "Jesus and his disciples found themselves on a boat, with Jesus using a cushion as a pillow. As a tempestuous storm buffeted the vessel, the disciples, consumed by fear and unbelief, questioned Jesus, Carest thou not? In their moment of distress, they reproached him, failing to recognize the irony of their words. Meanwhile, Jesus, weary from his labors, peacefully slept amidst the turmoil. This scene illustrates the universal struggle of maintaining faith in times of trial, reflecting the disciples' wavering trust and our own challenges in trusting God's plans.",
+        "wordCount": 90,
+        "quoteTokenProportion": 32.84,
+        "qualityScore": 1.5463728529752592,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+        "commentatorTierSimilarities": [
+            32.63,
+            36.64,
+            30.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "38.] the pillow, the cushion or seat at the stern, used by our Lord as a pillow."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He sinks into a deep sleep, which even this tempest raging around and tossing the little vessel did not disturb.",
+            "Unbelief and fear made them sadly forget their place, to speak so.",
+            "They say nothing of what would become of Him, if they perished; nor think, whether, if He could not perish, it was likely He would let this happen to them; but they hardly knew what they said."
+        ],
+        "Marvin Vincent": [
+            "A pillow [\u03c4\u03bf \u03c0\u03c1\u03bf\u03c3\u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03b9\u03bf\u03bd] . The definite article indicates a well - known part of the boat's equipment - the coarse leathern cushion at the stern for the steersman."
+        ],
+        "Philip Schaff": [
+            "His weary body needed the rest, and this the disciples must have known; hence there is a tone of unkindness as well as unbelief in the language he recorded.",
+            "The various accounts indicate a variety of expressions, all of fear, though this includes a complaint.",
+            "The same want of faith is still manifest in Christians in times of trial, even though not thus expressed."
+        ],
+        "Archibald T. Robertson": [
+            "Asleep on the cushion... He was worn out from the toil of this day.",
+            "Carest thou not?... It was a rebuke to Jesus for sleeping in such a storm.",
+            "We are perishing... Precisely this same form also in Matthew 8:25 and Luke 8:24."
+        ],
+        "John Gill": [
+            "Christ was in the stern of the ship: the Persic version renders it, 'he was in the bottom of the ship, in a corner', but very wrongly.\" ",
+            "Master, arise, and save us, or we are lost: hast thou no concern for us? how canst thou lie sleeping here, when we are in such danger?",
+            "They seem to say this, not so much praying and interrogating, as complaining and reproving."
+        ],
+        "John Wesley": [
+            "On the pillow \u2014 So we translate it, for want of a proper English expression, for that particular part of the vessel near the rudder, on which he lay."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus and his disciples were on a boat, with Jesus resting his weary body on a pillow at the stern. As a powerful storm raged around them, the disciples, overcome by fear and unbelief, questioned Jesus, Carest thou not? Their words revealed their lack of trust in his ability to save them. In their distress, they reproached him, unaware of the irony that the One who could not perish would allow harm to befall them. Jesus, exhausted from the day's toil, slept soundly amidst the chaos, a sign of his humanity. Through their words and actions, we see the disciples' wavering faith and the universal struggle to trust in times of trial.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.511235287979475,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.59,
+            "commentatorTierSimilarities": [
+                30.13,
+                43.47,
+                26.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus and his disciples were on a boat, with Jesus resting on a pillow at the stern. As a storm raged, the fearful disciples questioned Jesus, Carest thou not? Their words revealed their lack of trust, reproaching him without realizing the irony. Despite their doubt, Jesus, wearied from the day's toil, slept soundly amidst the chaos. This display of humanity highlights the struggle to trust in times of trial, a struggle that remains in Christians today.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.49403500625598,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.02,
+            "commentatorTierSimilarities": [
+                32.12,
+                40.57,
+                27.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus and his disciples found themselves on a boat, with Jesus using a cushion as a pillow. As a tempestuous storm buffeted the vessel, the disciples, consumed by fear and unbelief, questioned Jesus, Carest thou not? In their moment of distress, they reproached him, failing to recognize the irony of their words. Meanwhile, Jesus, weary from his labors, peacefully slept amidst the turmoil. This scene illustrates the universal struggle of maintaining faith in times of trial, reflecting the disciples' wavering trust and our own challenges in trusting God's plans.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.5463728529752592,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                32.63,
+                36.64,
+                30.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus and his disciples were on a boat, with Jesus using a cushion as a pillow. As a storm raged, the disciples, consumed by fear and unbelief, questioned Jesus, Carest thou not? Their reproach revealed their lack of trust and failed to acknowledge the irony of their words. Meanwhile, Jesus, weary from his toils, peacefully slept amidst the chaos. This scene demonstrates the universal struggle of maintaining faith in times of trial, reflecting both the disciples' wavering trust and our own challenges in trusting God's plans.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5154756035683494,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                32.26,
+                41.21,
+                26.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus and his disciples were on a boat, with Jesus using a cushion as a pillow. As a storm raged, the disciples, consumed by fear and unbelief, questioned Jesus, Carest thou not? Meanwhile, Jesus, exhausted from the toil of the day, slept undisturbed amidst the tempest. This scene highlights the disciples' lack of faith and their failure to recognize Jesus' power and protection. It serves as a reminder of our own struggles to trust in God's providence during times of trial.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5185997723584288,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+            "commentatorTierSimilarities": [
+                33.54,
+                39.81,
+                26.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

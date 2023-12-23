@@ -1,0 +1,72 @@
+# Mark 2:16 Commentary Help Text
+
+## BHT:
+In the midst of a feast at the house of a Publican, Jesus was surrounded by a diverse group of publicans and sinners who had chosen to follow Him. However, the scribes of the Pharisees, feeling too pious to join the gathering, stood in the hall of the house and mocked Jesus and His disciples. These young theologues raised prejudices against Jesus, especially disapproved of Him eating and drinking with such infamous characters. Yet, Jesus responded with calm reasoning, addressing their skepticism.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1.  16.] The question was after the feast, at which, being in the house of a Publican, they were not present.
+
+### Marvin Vincent:
+1. "Scribes belonging to the sect of the Pharisees."
+2. "They had followed him into the hall where the company were seated."
+3. "This hall answered to the k'hawah of Arabian houses."
+
+### Philip Schaff:
+1. "Both Mark and Luke, in different forms, say that these scribes were of the Pharisees, i.e., of that party."
+2. "The correct form: He eateth ……sinners! points to an exclamation of surprise, which may have preceded the hostile question."
+3. "On Mark 2:17, see on Matthew 9:12."
+
+### Archibald T. Robertson:
+1. "These publicans and sinners not simply accepted Levi's invitation, but they imitated his example 'and were following Jesus'." 
+2. "It was a motly crew from the standpoint of these young theologues, scribes of the Pharisees, who were on hand, being invited to pick flaws if they could."
+3. "It was probably in the long hall of the house where the scribes stood and ridiculed Jesus and the disciples, unless they stood outside, feeling too pious to go into the house of a publican."
+
+### John Gill:
+1. "They were offended at his eating and drinking...because he did not fast as they...did." 
+2. "...especially, that he eat with publicans and sinners; men of very infamous characters, and bad lives, with whom the Pharisees disdained to keep company."
+3. "How is it that he eateth and drinketh with publicans and sinners?"
+
+### John Wesley:
+1. "In his answer he uses as yet no harshness, but only calm, dispassionate reasoning."
+2. "the wise men being joined by the saints of the world"
+3. "raising prejudices against our Lord"
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-22-2023 23:20:51
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 82
+- BHT Commentary Usage: 36.21%
+- BHT Quality Score: 1.797239155330911
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (58):
+	['a', 'addressing', 'against', 'and', 'at', 'by', 'calm', 'characters', 'chosen', 'disapproved', 'disciples', 'diverse', 'drinking', 'eating', 'especially', 'feast', 'feeling', 'follow', 'gathering', 'group', 'had', 'hall', 'him', 'his', 'house', 'however', 'in', 'infamous', 'jesus', 'join', 'midst', 'mocked', 'of', 'pharisees', 'pious', 'prejudices', 'publican', 'publicans', 'raised', 'reasoning', 'responded', 'scribes', 'sinners', 'skepticism', 'stood', 'such', 'surrounded', 'the', 'their', 'theologues', 'these', 'to', 'too', 'was', 'who', 'with', 'yet', 'young']
+- ChatGPT injected words (significant words only) (37):
+	['addressing', 'calm', 'characters', 'chosen', 'disapproved', 'disciples', 'diverse', 'drinking', 'eating', 'especially', 'feast', 'feeling', 'follow', 'gathering', 'group', 'hall', 'house', 'infamous', 'jesus', 'join', 'midst', 'mocked', 'pharisees', 'pious', 'prejudices', 'publican', 'publicans', 'raised', 'reasoning', 'responded', 'scribes', 'sinners', 'skepticism', 'stood', 'surrounded', 'theologues', 'young']
+
+### Logs
+- Attempt 1 BHT: Jesus was in the house of a Publican, surrounded by a motley crew of publicans and sinners who had followed Him. The scribes of the Pharisees, who viewed themselves as pious, stood in the hall and ridiculed Jesus and His disciples. They were offended that Jesus would eat and drink with such infamous characters. These young theologues were invited to pick flaws if they could, raising prejudices against our Lord. Despite their disapproval, Jesus responded calmly and dispassionately, using reasoning to address their skepticism.
+- 🔄 Mark 2:16 (attempt 1, 84 words, 41.54% quotes quality score: 1.7706454346543414, V2 normalized quality score: 50.22, commentator tiers 1-3: 35.02%, 33.58%, 31.4%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: In the midst of a feast at the house of a Publican, Jesus was surrounded by a diverse group of publicans and sinners who had chosen to follow Him. However, the scribes of the Pharisees, feeling too pious to join the gathering, stood in the hall of the house and mocked Jesus and His disciples. These young theologues raised prejudices against Jesus, especially disapproved of Him eating and drinking with such infamous characters. Yet, Jesus responded with calm reasoning, addressing their skepticism.
+- 🔄 Mark 2:16 (attempt 2, 82 words, 36.21% quotes quality score: 1.797239155330911, V2 normalized quality score: 51.1, commentator tiers 1-3: 36.5%, 33.71%, 29.79%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: In the house of a Publican, Jesus was joined by a mixed group of publicans and sinners who had not only accepted an invitation but were actively following Him. The scribes of the Pharisees, viewing themselves as pious, stood in the hall and ridiculed Jesus and His disciples, creating prejudices against Him. They were offended by His association with publicans and sinners, considering them infamous and unworthy of companionship. However, Jesus remained calm and responded with reasoned arguments, addressing their skepticism.
+- 🔄 Mark 2:16 (attempt 3, 81 words, 40.68% quotes quality score: 1.7710977341787277, V2 normalized quality score: 50.23, commentator tiers 1-3: 34.31%, 33.44%, 32.25%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: While in the house of a Publican, Jesus found Himself surrounded by a diverse company of publicans and sinners who had eagerly accepted an invitation and were following Him. However, the scribes of the Pharisees, feeling too pious, stood in the hall and mocked Jesus and His disciples, attempting to raise prejudices against Him. They were particularly offended by Jesus eating and drinking with such infamous and undeserving individuals. Nevertheless, Jesus responded to their skepticism with calm reasoning, addressing their doubts.
+- 🔄 Mark 2:16 (attempt 4, 81 words, 38.33% quotes quality score: 1.7440516449721484, V2 normalized quality score: 49.33, commentator tiers 1-3: 33.69%, 34.46%, 31.85%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: In the house of a Publican, Jesus was surrounded by publicans and sinners who had accepted an invitation from Levi and were now following Him. Meanwhile, the scribes of the Pharisees, standing in the hall, mocked Jesus and His disciples, attempting to raise prejudices against Him. They took offense at Jesus eating and drinking with such infamous individuals whom they disdained to associate with. However, Jesus responded to their skepticism with calm reasoning, offering a thoughtful reply to their question.
+- 🔄 Mark 2:16 (attempt 5, 80 words, 41.67% quotes quality score: 1.7490769434510738, V2 normalized quality score: 49.5, commentator tiers 1-3: 35.39%, 35.23%, 29.38%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 2:16 bht prompt v0.8 (82 words, 36.21% quotes)
+- quality score: 1.797239155330911, V2 normalized quality score: 51.1, commentator tiers 1-3: 36.5%, 33.71%, 29.79%)

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:28:41",
+    "verseRef": "Mark 14:15",
+    "bestBHT": {
+        "bht": "The owner of the house, likely a disciple, had prepared the guest-chamber for the Passover celebration. The disciples only needed to ready the Passover itself. The large upper room, furnished with carpets and properly spread couches, served as the setting. This room, situated on the second floor or possibly the housetop, was equipped with tables and necessary vessels. The phrase there make ready for us; the Passover emphasizes the significance of the preparations occurring in this room.",
+        "wordCount": 78,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.5721393345875503,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+        "commentatorTierSimilarities": [
+            29.87,
+            39.13,
+            31.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the midst of a verbal accordance with Luke...",
+            "The guest-chamber was already prepared for the celebration of the Passover...",
+            "The disciples had therefore only to get ready the Passover itself."
+        ],
+        "Marvin Vincent": [
+            "He will himself show you.\" So Rev.",
+            "Probably the owner of the house was a disciple.",
+            "Lit., strewed with carpets, and with couches properly spread."
+        ],
+        "Philip Schaff": [
+            "Upper room. On the second floor. Some think it was the \u2018Alijah,\u2019 or the room on the housetop.",
+            "Furnished, i.e., with tables and couches.",
+            "Make ready. The further preparations necessary for the passover."
+        ],
+        "Archibald T. Robertson": [
+            "And he himself.\" ",
+            "A large upper room, anything above ground, and particularly upstairs as here.",
+            "Furnished with carpets, and with couches properly spread."
+        ],
+        "John Gill": [
+            "A room in the highest part of the house, large enough for such a company...",
+            "Furnished and prepared...with all proper vessels necessary on such an occasion...",
+            "There make ready for us; the Passover."
+        ],
+        "John Wesley": [
+            "Furnished \u2014 The word properly means, spread with carpets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of a verbal accordance with Luke, the owner of the house, possibly a disciple, had already prepared the guest-chamber for the celebration of the Passover. The disciples, therefore, only had to get ready the Passover itself. The large upper room, furnished with carpets and properly spread couches, was the setting for this momentous occasion. It is believed that this room, located on the second floor or possibly even the housetop, was fully equipped with tables and all the necessary vessels for such an important event. The phrase there make ready for us; the Passover emphasizes the importance and significance of the preparations that were taking place in this room.",
+            "wordCount": 113,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.5668787235995958,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                30.74,
+                39.03,
+                30.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The owner of the house, likely a disciple, had prepared the guest-chamber for the Passover celebration. The disciples only needed to ready the Passover itself. The large upper room, furnished with carpets and properly spread couches, served as the setting. This room, situated on the second floor or possibly the housetop, was equipped with tables and necessary vessels. The phrase there make ready for us; the Passover emphasizes the significance of the preparations occurring in this room.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5721393345875503,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+            "commentatorTierSimilarities": [
+                29.87,
+                39.13,
+                31.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The owner, possibly a disciple, had prepared the guest-chamber for the Passover. The disciples merely needed to ready the Passover itself. The large upper room, furnished with carpets and spread couches, served as the setting. This room, located on the second floor or housetop, was equipped with necessary vessels. The phrase there make ready for us; the Passover highlights the importance of the preparations in this room.",
+            "wordCount": 68,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.5525770721988548,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.97,
+            "commentatorTierSimilarities": [
+                30.04,
+                39.8,
+                30.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The preparation for the Passover involved the owner, potentially a disciple, who had already readied the guest-chamber. The disciples' responsibility was to make ready the Passover itself. In the furnished upper room, adorned with carpets and properly spread couches, the disciples would carry out these preparations. This chamber, situated on the second floor or potentially even the housetop, was equipped with necessary vessels. The significant phrase there make ready for us; the Passover highlights the importance of the arrangements in this room for this sacred occasion.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5281216466725032,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.15,
+            "commentatorTierSimilarities": [
+                30.04,
+                40.09,
+                29.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The owner, likely a disciple, had already prepared the guest-chamber, while the disciples were tasked with readying the Passover. The large upper room, furnished with carpets and properly spread couches, served as the setting for this important event. This room, possibly on the second floor or the housetop, was equipped with necessary vessels. The phrase there make ready for us; the Passover emphasizes the significance of the preparations taking place in this furnished and prepared room.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.528928217369379,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                28.1,
+                39.65,
+                32.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

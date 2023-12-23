@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:28:31",
+    "verseRef": "Mark 14:31",
+    "bestBHT": {
+        "bht": "With great fervor, Peter vehemently asserted his loyalty to Jesus, declaring that he would never deny Him. The use of a strong compounded adverb and a double negative intensified the magnitude of his denial, representing the strongest possible affirmation. Peter repeated this declaration vigorously, demonstrating his unwavering conviction in his faithfulness. In solidarity, the other disciples echoed Peter's words, solidifying their steadfast commitment until they reached Gethsemane.",
+        "wordCount": 68,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.492629532346434,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.97,
+        "commentatorTierSimilarities": [
+            38.5,
+            33.38,
+            28.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "31.] spake the more vehemently\u2014the original implies, went on repeating superabundant"
+        ],
+        "Marvin Vincent": [
+            "I will not deny [\u03bf\u03c5 \u03bc\u03b7 \u03c3\u03b5 \u03b1\u03c0\u03b1\u03c1\u03bd\u03b7\u03c3\u03bf\u03bc\u03b1\u03b9] . The double negative with the future forms the strongest possible assertion."
+        ],
+        "Philip Schaff": [
+            "He spake exceeding vehemently. This might be paraphrased: \u2018he went on repeating superabundantly\u2019 The correct reading emphasizes the intensity of the denial.",
+            "And in like manner also, etc. These protestations occupied some time, probably continuing until they entered Gethsemane."
+        ],
+        "Archibald T. Robertson": [
+            "Exceeding vehemently.",
+            "This strong compounded adverb only in Mark and probably preserves Peter's own statement of the remark.",
+            "About the boast of Peter see on Matthew 26:35."
+        ],
+        "John Gill": [
+            "He spake the more vehemently, with a louder voice; with more spirit and eagerness; in a more peremptory and self-confident way.",
+            "If I should die with thee, I will not deny thee in any wise.",
+            "Likewise also said they all; as he said, so said 'all the disciples'."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite knowing that he would soon betray Jesus, Peter vehemently declared his loyalty, stating that he would never deny Him. The intensity of his denial is emphasized by the double negative and the use of a strong compounded adverb. This assertion was made repeatedly and with great fervor, reflecting Peter's confidence in his own faithfulness. The other disciples joined in on this boast as well, echoing Peter's words of unwavering dedication. This declaration would continue until they reached Gethsemane, highlighting the significance of their collective devotion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.418013566923106,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.49,
+            "commentatorTierSimilarities": [
+                36.65,
+                35.8,
+                27.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite knowing that he would soon betray Jesus, Peter vehemently declared his loyalty, stating that he would never deny Him. The intensity of his denial is emphasized by the use of a strong compounded adverb and a double negative, forming the strongest possible assertion. This ardent claim was repeated with great vigor, reflecting Peter's unwavering confidence in his own faithfulness. The other disciples also echoed this declaration, affirming their unwavering dedication until they reached Gethsemane.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.481080185192355,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
+            "commentatorTierSimilarities": [
+                39.48,
+                33.06,
+                27.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With great fervor, Peter vehemently asserted his loyalty to Jesus, declaring that he would never deny Him. The use of a strong compounded adverb and a double negative intensified the magnitude of his denial, representing the strongest possible affirmation. Peter repeated this declaration vigorously, demonstrating his unwavering conviction in his faithfulness. In solidarity, the other disciples echoed Peter's words, solidifying their steadfast commitment until they reached Gethsemane.",
+            "wordCount": 68,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.492629532346434,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.97,
+            "commentatorTierSimilarities": [
+                38.5,
+                33.38,
+                28.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter spoke with great intensity, repeatedly and vehemently declaring his loyalty to Jesus, emphasizing his unwavering resolve to never deny Him. This strong assertion, conveyed through the use of a double negative and a strong compounded adverb, showcased Peter's utmost confidence in his faithfulness. The other disciples echoed Peter's declaration, affirming their steadfast dedication. This resolute pledge would continue until they reached Gethsemane, underscoring the significance of their united devotion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.4009985483748086,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.93,
+            "commentatorTierSimilarities": [
+                36.04,
+                34.3,
+                29.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With unwavering conviction, Peter fervently asserted his loyalty to Jesus, vowing that he would never deny Him. The amplification of his denial through the use of a strong compounded adverb and a double negative emphasized the strength of his affirmation. Peter repeated this declaration with great zeal, demonstrating his resolute confidence in his faithfulness. The other disciples joined in, echoing Peter's words and solidifying their unwavering commitment. They would continue in this unwavering dedication until they reached Gethsemane, magnifying the significance of their collective pledge.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.4288168567017607,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                35.94,
+                35.34,
+                28.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

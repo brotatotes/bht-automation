@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:21:29",
+    "verseRef": "Mark 4:23",
+    "bestBHT": {
+        "bht": "If any man have ears to hear, let him hear. This repetition serves as a reminder for attentiveness, perhaps indicating some inattention. Its form may differ slightly in Matthew's account, but its significance remains. The message being delivered is deemed important and momentous, as seen in its repetition and emphasis. Those who are able to truly listen and understand this message are urged to do so, as its importance cannot be overstated.",
+        "wordCount": 73,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 1.2209424348102078,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+        "commentatorTierSimilarities": [
+            24.79,
+            19.05,
+            56.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "23. If any man have ears to hear,",
+            "\tlet him hear\u2014This for the second time on the same subject (see",
+            "\ton Mark 4:9)."
+        ],
+        "Philip Schaff": [
+            "Mark 4:23. This occurs in a different place and slightly different form in Matthew\u2019s account (Mark 13:9), but was probably repeated.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Repeats verse Mark 4:9 with conditional form instead of a relative clause. Perhaps some inattention was noted. "
+        ],
+        "John Gill": [
+            "If any man have ears to hear, let him hear. What is now delivered, being very momentous and important; see Matthew 11:15."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If anyone has ears to hear, let him hear. Repeating a previous verse, this serves as a reminder for attentiveness. It appears that the conditional form is used instead of a relative clause, possibly to draw attention to any inattention that may have been noticed. This statement is slightly different in Matthew's account, but it is likely that it was repeated for emphasis. The importance of this message is evident in its delivery, as it is deemed to be momentous and significant.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.3219566780396501,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                33.63,
+                22.35,
+                44.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If any man have ears to hear, let him hear. This repetition serves as a reminder for attentiveness, perhaps indicating some inattention. Its form may differ slightly in Matthew's account, but its significance remains. The message being delivered is deemed important and momentous, as seen in its repetition and emphasis. Those who are able to truly listen and understand this message are urged to do so, as its importance cannot be overstated.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.2209424348102078,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+            "commentatorTierSimilarities": [
+                24.79,
+                19.05,
+                56.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If any man has ears to hear, let him hear. Repeating a previous verse with a conditional form, this serves as a reminder for attentiveness. Perhaps some inattention was noted, leading to the need for this repetition. While slightly different in Matthew's account, it is likely that this message was repeated for emphasis. It is clear that the message being delivered is very significant and important.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.368684272828108,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.85,
+            "commentatorTierSimilarities": [
+                31.27,
+                22.98,
+                45.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If any man has ears to hear, let him hear. This repetition, using a conditional form, emphasizes the importance of attentiveness. It suggests that there may have been a lack of attention previously. The statement is similar but slightly different in Matthew's account, indicating the significance of its repetition. The message being delivered is of great importance and is deemed momentous. It is advised that those who are able should truly listen and pay heed to this message.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.1558500327402526,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.78,
+            "commentatorTierSimilarities": [
+                26.36,
+                18.21,
+                55.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If any man has ears to hear, let him hear. This repetition serves as a reminder for attentiveness, perhaps indicating some inattention. Its form may differ slightly in Matthew's account, but its significance remains. The message being delivered is deemed important and momentous, as seen in its repetition and emphasis. Those who are able to truly listen and understand this message are urged to do so, as its importance cannot be overstated.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.2055500235346923,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.43,
+            "commentatorTierSimilarities": [
+                24.52,
+                19.24,
+                56.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:23:27",
+    "verseRef": "Mark 6:13",
+    "bestBHT": {
+        "bht": "The anointing with oil by the apostles was not simply a medicinal remedy, but rather a symbol of a deeper healing power. This practice, distinct from the extreme unction of Romanists, served as an external sign of the anointing by the Holy Spirit. The oil itself, though useful in some cases, was not the universal medicine, but rather a vehicle through which God's supernatural blessing and healing virtue were manifested. Today, we acknowledge that God can work through both medicine and the doctors He has provided.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.0829809942740565,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.6,
+        "commentatorTierSimilarities": [
+            31.43,
+            32.49,
+            36.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This oil was not medicinally, but as a vehicle of healing power committed to them.\" ",
+            "A symbol of a deeper thing than the oil itself could accomplish.\" ",
+            "That such anointing has nothing in common with the extreme unction of Romanists."
+        ],
+        "Albert Barnes": [
+            "Anointing with oil was in common use among the Jews in cases of sickness. It was supposed to have a mild, soothing, and alleviating effect on the body.",
+            "It need not be supposed, however, that the apostles used oil for mere 'medical' purposes. It was used, probably, like the imposition of hands, or like our Saviour's anointing the eyes of the blind with clay; also as a sign, in expectation of imparting that aid and comfort from God which was sought.",
+            "It was 'represented' by the soothing and gentle effect of oil."
+        ],
+        "Philip Schaff": [
+            "It was \u2018the vehicle of healing power committed to them\u2019 (Alford), an external sign such as our Lord sometimes used to connect Himself and the person cured.",
+            "It was probably also a symbol of anointing by the Holy Spirit.",
+            "A practice of this kind continued in the Apostolic Church (see James 5:14); but neither the fact nor the symbolical meaning justify the Roman sacrament of extreme unction."
+        ],
+        "Archibald T. Robertson": [
+            "This is the only example in the N.T. of \u03b1\u03bb\u03b5\u03b9\u03c6\u03c9 \u03b5\u03bb\u03b1\u03b9\u03c9 used in connection with healing save in James 5:14.",
+            "It was the best medicine of the ancients and was used internally and externally.",
+            "We have today, as in the first century, God and medicine. God through nature does the real healing when we use medicine and the doctor."
+        ],
+        "John Gill": [
+            "But that oil was used by the apostles as a medicine for the healing of diseases, cannot well be thought; since oil, though it may be useful in some cases, it is not an universal medicine, which is proper to all.",
+            "healing the sick by anointing with oil, is joined with the extraordinary power of casting out devils; and it was the same power by which they performed the one, as the other.",
+            "the healing virtue was not in the means, nor was it tied to any: moreover, this was only used as an outward sign of healing, and might have some spiritual significancy in it."
+        ],
+        "John Wesley": [
+            "And it seems this was the great standing means of healing, desperate diseases in the Christian Church, long before extreme unction was used or heard of.\" (37 words)",
+            "the former being used only as a means of health; the latter only when life is despaired of.\" (19 words)",
+            "not by the natural efficacy of the oil, but by the supernatural blessing of God.\" (18 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The oil used by the apostles in Mark 6:13 was not a mere medicinal remedy, but rather a symbol of a deeper healing power. This anointing with oil, which should not be confused with the extreme unction of Romanists, connected the person to God's healing and comfort. It was an external sign of the anointing by the Holy Spirit and a practice that continued in the Apostolic Church. The oil itself was not the source of healing, but rather a vehicle through which God's healing power worked. The use of medicine and doctors today parallels this understanding that God works through nature for true healing.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1937599549998543,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                31.32,
+                33.56,
+                35.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The anointing with oil by the apostles in this passage served as a symbol, representing a deeper healing power that was not connected to Roman Catholic extreme unction. It was not simply a medicinal remedy, but rather an external sign of the anointing by the Holy Spirit. Though the oil itself was not the source of healing, it was a vehicle through which God's healing power was conveyed. This practice continued in the early Church and serves as a reminder that God works through both medicine and the doctors He has provided.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.178334324625359,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.77,
+            "commentatorTierSimilarities": [
+                30.56,
+                34.86,
+                34.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The anointing with oil by the apostles was not simply a medicinal remedy, but rather a symbol of a deeper healing power. This practice, distinct from the extreme unction of Romanists, served as an external sign of the anointing by the Holy Spirit. The oil itself, though useful in some cases, was not the universal medicine, but rather a vehicle through which God's supernatural blessing and healing virtue were manifested. Today, we acknowledge that God can work through both medicine and the doctors He has provided.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0829809942740565,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.6,
+            "commentatorTierSimilarities": [
+                31.43,
+                32.49,
+                36.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The anointing with oil by the apostles in Mark 6:13 was a symbol of a deeper healing power, distinct from the extreme unction of Romanists. While the oil had some medicinal use in the ancient world, it does not possess universal healing properties. Rather, it served as a vehicle through which God's supernatural blessing and healing virtue were conveyed. Today, we recognize that true healing comes not solely from medicine, but also from the divine power of God working through both nature and the medical profession.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.0703642910609643,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                32.41,
+                29.48,
+                38.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The anointing with oil by the apostles was not merely a medical remedy, but a symbol of a deeper healing power. It distinguished their practice from the extreme unction of Romanists. While the oil had some medicinal value, it was not a universal medicine. Instead, it served as a medium through which God's supernatural blessing operated. Today, we understand that God's healing is not limited to medicine alone; He works through both natural means and skilled doctors to bring about true healing.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8557461866703444,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                34.07,
+                29.23,
+                36.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

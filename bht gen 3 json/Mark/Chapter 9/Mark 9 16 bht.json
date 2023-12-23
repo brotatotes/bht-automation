@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-22-2023 23:25:00",
+    "verseRef": "Mark 9:16",
+    "bestBHT": {
+        "bht": "The situation in question revolves around a dispute between the Scribes and the disciples, with a concerned father stepping forward to describe the heartbreaking challenges his son faces and the disciples' inability to bring healing. Sensing the tension, Jesus interjects and inquires, What question ye with them? This revelation showcases Jesus taking charge of the situation and seeking to understand the nature of the disagreement, thus paving the way for resolution.",
+        "wordCount": 71,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.7014026808126443,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+        "commentatorTierSimilarities": [
+            42.23,
+            22.14,
+            35.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] them (first time), i.e. \u2018the multitude,\u2019 regarding the Scribes as a part of the multitude. One of the multitude answers."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ere they had time to reply, the father of the boy, whose case had occasioned the dispute, himself steps forward and answers the question.\" ",
+            "Telling a piteous tale of deafness, and dumbness, and fits of epilepsy\u2014ending with this, that the disciples, though entreated, could not perform the cure."
+        ],
+        "Philip Schaff": [
+            "Mark 9:16. Asked them. Probably the scribes. The opposition was thus transferred from the disciples to our Lord.",
+            "\t",
+            " What question ye with them? About what, what is the subject of discussion?",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "What question ye with them? (\u03a4 \u03c3\u03c5\u03bd\u03b6\u03b7\u03c4\u03b5\u03b9\u03c4\u03b5 \u03c0\u03c1\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5\u03c3;). Jesus had noticed the embarrassment of the nine and at once takes hold of the situation. "
+        ],
+        "John Gill": [
+            "He asked the Scribes, what question ye with them? what is it ye seek and require of them?",
+            "What is your dispute with them? what is your debate about?",
+            "What question ye among you?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The situation in Mark 9:16 unfolds as the Scribes engage in a dispute with the disciples, causing a sense of confusion and uncertainty within the multitude. Faced with this conflict, the father of the afflicted boy takes matters into his own hands, stepping forward to share the heartbreaking plight of his son's condition. The disciples, though implored, were unable to bring about healing. Sensing the tension, Jesus intervenes, redirecting the focus from the disciples to the Scribes by asking them, What question ye with them? In essence, Jesus seizes control of the situation, addressing the issue at hand and seeking to resolve the dispute amidst all parties involved.",
+            "wordCount": 108,
+            "quoteTokenProportion": 29.73,
+            "qualityScore": 1.4512272332031744,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.6,
+            "commentatorTierSimilarities": [
+                48.78,
+                22.59,
+                28.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The father of the afflicted boy intervenes as the Scribes engage in a dispute with the disciples, recounting the desperate circumstances of his son's epilepsy and the disciples' unsuccessful attempts to heal him. Sensing the tension, Jesus steps in and directs his inquiry towards the Scribes, asking, What question ye with them? By doing so, Jesus takes control of the situation, seeking to understand the nature of the dispute and bring resolution to the conflicting parties.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.6240129110057007,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                45.02,
+                22.02,
+                32.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The situation in question revolves around a dispute between the Scribes and the disciples, with a concerned father stepping forward to describe the heartbreaking challenges his son faces and the disciples' inability to bring healing. Sensing the tension, Jesus interjects and inquires, What question ye with them? This revelation showcases Jesus taking charge of the situation and seeking to understand the nature of the disagreement, thus paving the way for resolution.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7014026808126443,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.91,
+            "commentatorTierSimilarities": [
+                42.23,
+                22.14,
+                35.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The dispute among the Scribes and the disciples unfolds as the father of the afflicted boy steps forward, recounting the distressing effects of his son's conditions and the disciples' failure to offer a remedy. Sensing the gravity of the situation, Jesus intervenes, asking the Scribes, What question ye with them? By this inquiry, Jesus seizes control of the moment and seeks to address the core issue at hand, aiming to bring about resolution and clarity amidst the conflicting viewpoints.",
+            "wordCount": 80,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.6208555796496107,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                44.39,
+                20.61,
+                35.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the Scribes engage in a dispute with the disciples, the distressed father of the afflicted boy steps up to share the heartbreaking challenges his son faces. Despite the disciples' earnest attempts, they were unable to provide healing. Sensing the tension, Jesus takes charge by addressing the Scribes with the question, What question ye with them? This intervention reveals Jesus' ability to recognize the underlying issue and his determination to resolve the conflict and bring about a resolution among all parties involved.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.4523255120950893,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.63,
+            "commentatorTierSimilarities": [
+                47.51,
+                22.09,
+                30.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

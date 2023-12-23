@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-22-2023 23:26:40",
+    "verseRef": "Mark 10:32",
+    "bestBHT": {
+        "bht": "Jesus fearlessly went before them, astonishing the disciples with his courageous and determined stride. As they approached Jerusalem, a sense of impending disaster loomed, and they could read the grave expression on Jesus' face. Some disciples, however, were preoccupied with their own selfish ambitions while Jesus spoke of his approaching death and resurrection. Nonetheless, Jesus led the way, inspiring his followers to boldly follow him, despite their own fears of what lay ahead. His unwavering example urged them to walk in his steps with courage.",
+        "wordCount": 85,
+        "quoteTokenProportion": 34.38,
+        "qualityScore": 1.959899882562995,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+        "commentatorTierSimilarities": [
+            32.22,
+            29.61,
+            38.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32.] began, anew: He again opened this subject."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "and Jesus went before them\u2014as GROTIUS says, in the style of an intrepid Leader.",
+            "and they were amazed\u2014or 'struck with astonishment' at His courage in advancing to certain death.",
+            "These artless, lifelike touches [...] give the second Gospel a charm all its own; making us feel as if we ourselves were in the midst of the scenes it describes."
+        ],
+        "Marvin Vincent": [
+            "Were amazed. The sudden awe which fell on the disciples is noted by Mark only."
+        ],
+        "Philip Schaff": [
+            "Jesus was going before them, leading the way. Probably implying some remarkable energy in His gait, some determination or eagerness in His manner.",
+            "The Twelve nearest to Him were amazed, and the larger company of followers were afraid, though further away from Him.",
+            "That were to happen, not 'that should.' Certainty and nearness are implied."
+        ],
+        "Archibald T. Robertson": [
+            "The Lord walked in advance of the Twelve with a solemnity and a determination which foreboded danger.",
+            "They began to fear coming disaster as they neared Jerusalem. They read correctly the face of Jesus.",
+            "But Mark and Matthew show how the minds of two of the disciples were wholly occupied with plans of their own selfish ambition while Jesus was giving details of his approaching death and resurrection."
+        ],
+        "John Gill": [
+            "and Jesus went before them; as their forerunner, their guide and leader, with unconcernedness and intrepidity; though he knew what would befall him, and what designs were forming against him: and this he did to inspire his disciples with courage, and to leave them an example that they should tread in his steps.",
+            "they were amazed; at his readiness to go up to Jerusalem, and the cheerful Spirit he discovered, when he had so many, and such powerful enemies at that place, in going to which he exposed himself to the greatest dangers.",
+            "And as they followed; for they did not choose to leave him, but were determined to continue with him at all events, though they were afraid; what would be the consequence of it to themselves, as well as to him; for they being his followers, could not expect any other than ill usage from his enemies."
+        ],
+        "John Wesley": [
+            "They were amazed \u2014 At his courage and intrepidity, considering the treatment which he had himself told them he should meet with there.",
+            "And as they followed, they were afraid - Both for him and themselves.",
+            "Nevertheless he judged it best to prepare them, by telling them more particularly what was to ensue."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, their leader, fearlessly forged ahead, leaving the disciples in awe of his courage and determination. As they followed him, a sense of impending danger began to overwhelm them, as they correctly discerned the gravity of the situation. While Jesus spoke of his impending death and resurrection, two of the disciples were preoccupied with their own ambitions. The disciples' amazement and fear were palpable, as they were both awestruck by Jesus' readiness to face Jerusalem and afraid of the consequences it might bring upon them. Nevertheless, Jesus, unconcerned and undeterred, continued to pave the way for them, knowing full well what awaited him. This act of bravery served as both an example to his followers and a means of inspiring their own courage.",
+            "wordCount": 123,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.9407166314245037,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.87,
+            "commentatorTierSimilarities": [
+                30.36,
+                28.8,
+                40.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus fearlessly led the way, astonishing and captivating the disciples with his unyielding courage. Their fear and amazement grew as they approached Jerusalem, recognizing the looming danger. While Jesus spoke of his imminent death and resurrection, the disciples were immersed in self-centered ambition. Amidst their mixed emotions, they remained committed to following Jesus, even though they were apprehensive about the repercussions. Nevertheless, Jesus pressed forward, boldly setting an example for his disciples to emulate and imparting within them a sense of bravery.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9044921386082947,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                33.69,
+                28.26,
+                38.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus fearlessly went before his disciples, astonishing them with his unwavering resolve and leaving a lasting impression. As they journeyed towards Jerusalem, the disciples grew increasingly fearful, sensing the impending danger that awaited them all. While Jesus spoke of his forthcoming death and resurrection, some of the disciples were preoccupied with their own ambitions. Despite their mixed emotions, they remained committed to following Jesus, albeit with trepidation. Jesus' bold leadership and unwavering determination served as a model for his disciples, encouraging them to face their own fears with courage.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9529304931191367,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                34.76,
+                27.47,
+                37.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus fearlessly led the way, amazing his disciples with his unwavering courage and determination. As they approached Jerusalem, a sense of impending danger overwhelmed them, as they rightly discerned the gravity of the situation. While Jesus spoke of his impending death and resurrection, two disciples were consumed by their own selfish ambitions. Their fear mixed with awe, as they continued to follow Jesus, uncertain of the outcome. Nevertheless, Jesus pressed on, inspiring them by example to overcome their own fears and walk in his footsteps.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.942644862622856,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                31.51,
+                30.05,
+                38.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus fearlessly went before them, astonishing the disciples with his courageous and determined stride. As they approached Jerusalem, a sense of impending disaster loomed, and they could read the grave expression on Jesus' face. Some disciples, however, were preoccupied with their own selfish ambitions while Jesus spoke of his approaching death and resurrection. Nonetheless, Jesus led the way, inspiring his followers to boldly follow him, despite their own fears of what lay ahead. His unwavering example urged them to walk in his steps with courage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.959899882562995,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                32.22,
+                29.61,
+                38.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

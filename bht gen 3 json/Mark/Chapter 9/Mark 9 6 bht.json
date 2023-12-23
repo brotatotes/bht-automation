@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:24:56",
+    "verseRef": "Mark 9:6",
+    "bestBHT": {
+        "bht": "When Peter unknowingly spoke out of turn, his lack of understanding was evident. Unaware of the conversation between Jesus, Moses, and Elijah about Jesus' impending death, Peter and the others were oblivious to the comfort that Jesus derived from this knowledge. Peter's recent display of foolishness only emphasized his lack of comprehension. As a result, Peter and the others experienced a growing sense of fear and religious awe, not fully grasping the significance of the moment. They were so taken aback that their words and actions became somewhat disconnected from their true selves.",
+        "wordCount": 94,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.366324667264342,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+        "commentatorTierSimilarities": [
+            52.56,
+            19.49,
+            27.95
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "For they became more afraid.",
+            "All three Evangelists speak of this fear, or religious awe.",
+            "This indicates a continued and growing awe."
+        ],
+        "Archibald T. Robertson": [
+            "Luke says that he spoke, 'not knowing what he said,' as an excuse for the inappropriateness of his remarks.",
+            "Peter and the others apparently had not heard the talk of Moses and Elijah with Jesus about his decease and little knew the special comfort that Jesus had found in this understanding of the great approaching tragedy.",
+            "Peter had shown absolute stupidity so recently."
+        ],
+        "John Gill": [
+            "He did not know what he should say, or what was proper to be said by him.",
+            "All three were filled with consternation at what they saw and heard.",
+            "They were scarcely themselves, and knew not well what they said or did."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Peter unknowingly spoke out of turn, his lack of understanding was evident. Unaware of the conversation between Jesus, Moses, and Elijah about Jesus' impending death, Peter and the others were oblivious to the comfort that Jesus derived from this knowledge. Peter's recent display of foolishness only emphasized his lack of comprehension. As a result, Peter and the others experienced a growing sense of fear and religious awe, not fully grasping the significance of the moment. They were so taken aback that their words and actions became somewhat disconnected from their true selves.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.366324667264342,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+            "commentatorTierSimilarities": [
+                52.56,
+                19.49,
+                27.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Peter unknowingly spoke, it was clear that he did not fully grasp the situation. Unaware of the conversation between Jesus, Moses, and Elijah regarding Jesus' imminent death, Peter and the others were oblivious to the solace Jesus found in this understanding. Their lack of comprehension was highlighted by Peter's recent foolishness, portraying his ignorance. Consequently, a sense of fear and religious awe grew within them, yet they did not fully comprehend the magnitude of the moment. Their astonishment left them somewhat disconnected from their usual selves, impacting their words and actions.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.284788650406235,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.06,
+            "commentatorTierSimilarities": [
+                48.19,
+                18.18,
+                33.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Peter spoke without knowing the significance of the moment, it revealed his lack of understanding. Unaware of the conversation between Jesus, Moses, and Elijah about Jesus' impending death, Peter and the others were ignorant of the comfort Jesus found in this knowledge. Peter's recent foolishness further highlighted his ignorance. As a result, a sense of fear and religious awe enveloped them, growing as they failed to fully comprehend the weight of the situation. Their astonishment left them disconnected, affecting their words and actions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.3381102979726154,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.84,
+            "commentatorTierSimilarities": [
+                50.28,
+                22.15,
+                27.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Peter unintentionally spoke without knowing the gravity of the situation, it was evident that he lacked understanding. Unaware of the conversation between Jesus, Moses, and Elijah regarding Jesus' upcoming death, Peter and the others remained oblivious to the solace Jesus had found in this knowledge. Peter's recent foolishness only underscored his ignorance. As a result, fear and religious awe continued to grow within them, indicating their deepening reverence and astonishment. They were somewhat disconnected, not fully comprehending the magnitude of the moment, which impacted their words and actions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2829910798063127,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.0,
+            "commentatorTierSimilarities": [
+                48.82,
+                20.76,
+                30.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Peter spoke without knowing the weight of the situation, it revealed his lack of understanding. Unaware of the conversation between Jesus, Moses, and Elijah about Jesus' impending death, Peter and the others were ignorant of the comfort Jesus found in this knowledge. Peter's recent foolishness further highlighted his lack of comprehension. As a result, fear and religious awe grew within them, not fully comprehending the significance of the moment. Their astonishment left them somewhat disconnected, impacting their words and actions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.329046477078983,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.53,
+            "commentatorTierSimilarities": [
+                49.97,
+                21.4,
+                28.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

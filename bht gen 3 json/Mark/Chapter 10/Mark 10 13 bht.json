@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:25:59",
+    "verseRef": "Mark 10:13",
+    "bestBHT": {
+        "bht": "The disciples, engrossed in their important conversation, reprimanded those who brought the young children to Jesus. However, Jesus recognized the simple yet profound gesture and allowed the children to come to Him. It was not a matter of baptism or salvation, but a natural act seeking His blessings and prayers. This incident highlights Jesus' tender nature and follows fittingly after His teachings on the sanctity of married life.",
+        "wordCount": 68,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.450811331289814,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+        "commentatorTierSimilarities": [
+            38.02,
+            21.93,
+            40.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord was not to teach them, but only to touch, and pray over them.",
+            "This simple, seemingly superstitious application of those that brought them.",
+            "The disciples, interrupted in their converse on high and important subjects, despise and reprove."
+        ],
+        "Marvin Vincent": [
+            "They brought [\u03c0\u03c1\u03bf\u03c3\u03b5\u03c6\u03b5\u03c1\u03bf\u03bd] . Imperfect tense; they were bringing, as he went on his way. Similarly, were rebuking, as they were successively brought."
+        ],
+        "Philip Schaff": [
+            "Mark 10:13. That he should touch them. So Luke, Matthew: \u2018lay his hands on them and pray.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "This incident follows with singular fitness after the Lord's assertion of the sanctity of married life\" (Swete).",
+            " ",
+            "They were brought to Jesus for his blessing and prayers (Matthew).",
+            "There was, of course, no question of baptism or salvation involved, but a most natural thing to do."
+        ],
+        "John Gill": [
+            "And they brought young children to him... that he should touch them.",
+            "His disciples rebuked those that brought [the children].",
+            "His disciples rebuked those that brought [the children]."
+        ],
+        "John Wesley": [
+            "Matthew 19:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The incident in Mark 10:13 demonstrates the tender nature of Jesus' interactions with children. The disciples, however, interrupted their conversation on important matters and despised those who brought the children to Jesus. Nevertheless, Jesus saw value in their actions and allowed the children to approach him. There was no question of baptism or salvation involved, but rather a natural desire for Jesus' blessing and prayers. The parallel account in Matthew 19:13 further emphasizes that the purpose of bringing the children to Jesus was for him to touch them.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5216993999084591,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.94,
+            "commentatorTierSimilarities": [
+                30.41,
+                27.11,
+                42.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, engrossed in their important conversation, reprimanded those who brought the young children to Jesus. However, Jesus recognized the simple yet profound gesture and allowed the children to come to Him. It was not a matter of baptism or salvation, but a natural act seeking His blessings and prayers. This incident highlights Jesus' tender nature and follows fittingly after His teachings on the sanctity of married life.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.450811331289814,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+            "commentatorTierSimilarities": [
+                38.02,
+                21.93,
+                40.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples interrupted their conversation and despised those who brought children to Jesus, viewing it as a seemingly superstitious act. However, Jesus recognized the intention behind their actions and allowed the children to approach Him. It was not a matter of baptism or salvation, but a simple and natural desire for Jesus' blessings and prayers. This incident showcases Jesus' compassionate nature and serves as a fitting follow-up to His teachings on the sanctity of married life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.3840176505049377,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.36,
+            "commentatorTierSimilarities": [
+                39.47,
+                21.0,
+                39.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, engrossed in their important conversation, rebuked those who brought young children to Jesus, dismissing it as a seemingly superstitious act. However, Jesus understood the significance behind their intentions and allowed the children to approach Him. The incident had no connection to baptism or salvation, but was a natural and heartfelt gesture seeking Jesus' blessings and prayers. This compassionate response exemplifies Jesus' tender nature and serves as a relevant continuation from His teachings on the sanctity of married life.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.3793949377034753,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.21,
+            "commentatorTierSimilarities": [
+                36.29,
+                23.14,
+                40.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples, preoccupied with their discussion, despised and reproved those who brought the young children to Jesus, considering the act as a seemingly superstitious one. Nevertheless, Jesus recognized the significance of their actions and allowed the children to approach Him. The purpose was not about baptism or salvation, but a natural desire to receive Jesus' blessing and prayers. This incident beautifully showcases the compassionate nature of Jesus and resonates with the preceding teachings on the sanctity of married life.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.3778392010937954,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.16,
+            "commentatorTierSimilarities": [
+                39.36,
+                22.62,
+                38.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

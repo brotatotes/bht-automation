@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-22-2023 23:20:16",
+    "verseRef": "Mark 2:8",
+    "bestBHT": {
+        "bht": "Jesus, knowing their thoughts, immediately addressed them and questioned why they reasoned such things in their hearts. His knowledge was not only immediate and supernatural, but also clearly and fully aware of their thoughts. This immediate and supernatural knowledge demonstrated his power to forgive sins, and revealed his divine nature as God, who knows the most sacred thoughts in the hearts of men. By reproving them for their thoughts, Jesus reminded them that as God, He alone had the authority to forgive sins.",
+        "wordCount": 83,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 2.089439863455368,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+        "commentatorTierSimilarities": [
+            24.42,
+            34.29,
+            41.28
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] The knowledge was immediate and supernatural, as is most carefully and precisely here signified."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. Why reason ye these things in",
+            "\tyour hearts\u2014or, as in Matthew, ( :-) \"Wherefore think ye evil in your hearts?"
+        ],
+        "Marvin Vincent": [
+            "Perceived [\u03b5\u03c0\u03b9\u03b3\u03bd\u03bf\u03c5\u03c2] . The preposition ejpi gives the force of fully. He was not only immediately aware of their thought, but clearly and fully aware."
+        ],
+        "Philip Schaff": [
+            "In his spirit. An immediate and supernatural knowledge is thus indicated: itself no slight evidence of His power to forgive sins.",
+            "Why reason ye? Comp, on Matthew 9:4, where their thoughts are called \u2018evil.\u2019"
+        ],
+        "John Gill": [
+            "His divine nature, in and by which he knew all things, even the most sacred thoughts of men's hearts.",
+            "He said unto them, why reason ye these things in your hearts? thereby reproving them, not for reasoning and concluding in their own minds, that none but God can forgive sins.",
+            "He being God, as well as man, of which his knowing the thoughts and reasonings of their minds might have been a convincing proof."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, knowing their thoughts, immediately addressed them and questioned why they reasoned such things in their hearts. His knowledge was not only immediate and supernatural, but also clearly and fully aware of their thoughts. This immediate and supernatural knowledge demonstrated his power to forgive sins, and revealed his divine nature as God, who knows the most sacred thoughts in the hearts of men. By reproving them for their thoughts, Jesus reminded them that as God, He alone had the authority to forgive sins.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.089439863455368,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+            "commentatorTierSimilarities": [
+                24.42,
+                34.29,
+                41.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, possessing immediate and supernatural knowledge, perceived their thoughts and questioned why they reasoned in their hearts. His awareness revealed his divinity as God, who knows the innermost thoughts and reasonings of men. By reproving them for their thoughts, Jesus emphasized his authority to forgive sins as the Son of God. This passage exemplifies his power to know the hidden thoughts of the heart and emphasizes his unique position as both God and man.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.8622222218315059,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                20.04,
+                34.1,
+                45.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, with immediate and supernatural knowledge, perceived their thoughts and questioned why they reasoned in their hearts. By reproving them, He demonstrated His authority as the Son of God to forgive sins. This emphasizes His divinity, as He knows the innermost thoughts and reasonings of men. His ability to know the hidden thoughts of the heart showcases His unique position as both God and man.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.7867147926364846,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.75,
+            "commentatorTierSimilarities": [
+                20.22,
+                33.23,
+                46.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, possessing immediate and supernatural knowledge, perceived their thoughts and immediately addressed them, questioning why they reasoned in their hearts. His clear and full awareness revealed his divine nature, as he knew the most sacred thoughts of men. By reproving them, Jesus emphasized that only God can forgive sins and his role as both God and man. This passage exemplifies his power to know the hidden thoughts of the heart and his authority to forgive sins.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9238639353809286,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                20.6,
+                33.78,
+                45.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, possessing immediate and supernatural knowledge, perceived their thoughts and immediately addressed them, questioning why they reasoned in their hearts. His clear and full awareness revealed his divine nature, as he knew the most sacred thoughts of men. By reproving them, Jesus emphasized that only God can forgive sins and his role as both God and man. This showcases his power to know the hidden thoughts of the heart and his authority to forgive sins.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9350347652779687,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                20.65,
+                33.67,
+                45.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

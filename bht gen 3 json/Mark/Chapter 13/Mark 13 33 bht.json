@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:28:16",
+    "verseRef": "Mark 13:33",
+    "bestBHT": {
+        "bht": "The exhortation to take heed, watch and pray is a call to be wakeful and restless in our pursuit of prayer. The word watch in this context refers to being awake and alert, while pray emphasizes the importance of holding steadfast in prayer. The uncertainty of the exact time serves as a reminder to be on guard against deception and temptation. Both Matthew 24:42 and Luke 21:34 echo this call to watch and pray, emphasizing the need to remain alert and prepared.",
+        "wordCount": 80,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 1.5370152654179847,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+        "commentatorTierSimilarities": [
+            36.87,
+            29.2,
+            33.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "33. Take ye heed, watch and pray;",
+            "\tfor ye know not when the time is."
+        ],
+        "Marvin Vincent": [
+            "The word is derived from ajgreuw, to hunt, and upnov, sleep. The picture is of one in pursuit of sleep, and therefore wakeful, restless.",
+            "Wyc. 's rendering of the whole passage is striking : See! wake ye and pray ye!",
+            "See! wake ye and pray ye!"
+        ],
+        "Philip Schaff": [
+            "Watch, or, \u2018be awake;\u2019 not the word usually thus translated.",
+            "Because of this uncertainty, be awake.",
+            "For ye know not when the time is."
+        ],
+        "John Gill": [
+            "That his people might be upon their guard, against false Christs, and prophets, and their deception.\" ",
+            "Watch unto prayer, and in it, lest they fell into temptation, and that day should come upon them unawares.",
+            "They knew not the exact time, but that it might be sooner or later; and the unbelieving Jews were blinded, and in the dark about it to the very last."
+        ],
+        "John Wesley": [
+            "Matthew 24:42; Luke 21:34."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Be wakeful, restless, and in pursuit of prayer, for you do not know when the time will come. See! Wake and pray! The uncertainty of the time should keep you alert and watchful. Be upon your guard against deception and temptation, for the day may come upon you unawares. Though the exact time remains unknown, remain vigilant, for the unbelieving are blinded to it. Watch and pray, for such is the exhortation given in Matthew 24:42 and Luke 21:34.",
+            "wordCount": 77,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.4881788408526486,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                39.7,
+                29.32,
+                30.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The exhortation to take heed, watch and pray is a call to be wakeful and restless in our pursuit of prayer. The word watch in this context refers to being awake and alert, while pray emphasizes the importance of holding steadfast in prayer. The uncertainty of the exact time serves as a reminder to be on guard against deception and temptation. Both Matthew 24:42 and Luke 21:34 echo this call to watch and pray, emphasizing the need to remain alert and prepared.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.5370152654179847,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.45,
+            "commentatorTierSimilarities": [
+                36.87,
+                29.2,
+                33.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The exhortation in Mark 13:33 to take heed, watch and pray urges believers to be vigilant and alert, constantly in pursuit of wakefulness and prayer. As one commentator suggests, the word watch carries the idea of being in pursuit of sleep, remaining restless and wakeful. This constant state of watchfulness helps believers guard against the deception of false teachings and the temptation to stray from the truth. It serves as a reminder that the exact timing of future events remains uncertain, emphasizing the need to stay prepared and mindful. Thus, the call to see! wake ye and pray ye encourages believers to maintain a watchful and prayerful posture, ready for whatever lies ahead.",
+            "wordCount": 112,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.3416423777561874,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.95,
+            "commentatorTierSimilarities": [
+                42.95,
+                27.07,
+                29.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The call to take heed, watch and pray urges believers to remain vigilant, restless, and devoted to prayer. The word watch suggests actively pursuing wakefulness and being on guard against deception and temptation. This serves as a reminder to stay prepared since the exact timing of events remains uncertain. The admonition in Matthew 24:42 and Luke 21:34 echoes this need to be watchful and prayerful. Therefore, believers are encouraged to stay alert, dedicated in prayer, and ready for whatever lies ahead.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.2996803268762547,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.56,
+            "commentatorTierSimilarities": [
+                34.42,
+                25.22,
+                40.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Remaining watchful and devoted to prayer is crucial for believers, as emphasized by the command to take heed, watch and pray. The concept of watch entails actively pursuing wakefulness and resisting the temptation to become spiritually sleepy. This admonition serves as a reminder to remain prepared since the exact timing of future events remains uncertain. The exhortation to see! wake ye and pray ye amplifies the urgency for believers to maintain a state of vigilance and prayerfulness. Therefore, staying alert, devoted to prayer, and ready for any eventuality is paramount.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.3648857807249297,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.73,
+            "commentatorTierSimilarities": [
+                45.02,
+                31.16,
+                23.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

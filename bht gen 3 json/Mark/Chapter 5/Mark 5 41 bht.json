@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-22-2023 23:23:35",
+    "verseRef": "Mark 5:41",
+    "bestBHT": {
+        "bht": "Mark 5:41 reveals Jesus' tenderness and power as he raises a young girl from death, speaking to her in Aramaic with the words Talitha and rise, my child. Jesus' touch and voice give both confidence and life. This display of power demonstrates the efficacy of Christ's voice, reaching even the dead and exerting a quickening influence on death itself. His authority over death is evident in the addition of the phrase I say to you, highlighting his power to bring life and foreshadowing his victory over death through his resurrection.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.6899869690121787,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+        "commentatorTierSimilarities": [
+            25.64,
+            29.06,
+            45.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The accuracy of St. Mark\u2019s reports...often gives occasion to the insertion of the actual Syriac and Aramaic words spoken by the Lord.\" (Mark 5:41)",
+            "Talitha, in the ordinary dialect of the people, is a word of endearment addressed to a young maiden. So that the words are equivalent to Rise, my child.\" (Mark 5:41)",
+            "For she was of the age of twelve years is added, as Bengel, to show that she 'returned to the state of body congruous to her age.'\" (Mark 5:41)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And he took the damsel by the hand.\" ",
+            "Mark loves to give such wonderful words just as they were spoken.\" ",
+            "See Mark 7:34; Mark 14:36."
+        ],
+        "Marvin Vincent": [
+            "Maid (korasion). Not a classical word, but used also by Matthew."
+        ],
+        "John Calvin": [
+            "Though naturally this cry was of no avail for recalling the senses of the deceased young woman, yet Christ intended to give a magnificent display of the power of his voice, that he might more fully accustom men to listen to his doctrine.",
+            "It is easy to learn from this the great efficacy of the voice of Christ, which reaches even to the dead, and exerts a quickening influence on death itself.",
+            "Accordingly, Luke says that her spirit returned, or, in other words, that immediately on being called, it obeyed the command of Christ."
+        ],
+        "Philip Schaff": [
+            "The addition of an interpretation shows that he wrote for other than Jewish readers, but the insertion of the very words is a mark of accuracy, and of the strong impression made upon the eye-witness.",
+            "'Damsel' is a word of endearment, as if it were: 'Rise, my child,' and 'Talitha' has precisely that sense.",
+            "'I say to thee,' is inserted so that the meaning shall be as plain as possible."
+        ],
+        "Archibald T. Robertson": [
+            "Talitha cumi. These precious Aramaic words, spoken by Jesus to the child, Peter heard and remembered so that Mark gives them to us.",
+            "Mark interprets the simple words into Greek for those who did not know Aramaic (\u03c4\u03bf \u03ba\u03bf\u03c1\u03b1\u03c3\u03b9\u03bf\u03bd, \u03b5\u03b3\u03b5\u03b9\u03c1\u03b5), that is, Damsel, arise.",
+            "All three Gospels mention the fact that Jesus took her by the hand, a touch of life (\u03ba\u03c1\u03b1\u03c4\u03b7\u03c3\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c7\u03b5\u03b9\u03c1\u03bf\u03c2), giving confidence and help."
+        ],
+        "John Gill": [
+            "Talitha Cumi. The Ethiopic version reads it, 'Tabitha Cumi'; and so do some Greek copies, and Latin versions, taking it to be the same word as in Acts 9:36 whereas that signifies 'Dorcas, a roe'; but this word is of another signification, as here explained, which is, being interpreted, damsel (I say unto thee) arise.",
+            "The phrase, 'I say unto thee', is no part of the interpretation of the above Syriac words; but is added, by the evangelist, as being what was expressed by Christ at the same time, signifying his authority and power over death.",
+            "'Tali', signifies a 'boy', and 'Talitha', a 'girl'; and so they are often used in the Targums, and in the Talmud: the one is used for a boy of seventeen years of age, and the other for a girl of sixteen or seventeen years of age; so that this child might well be called by this name, since she was but twelve years of age."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mark 5:41 records a moment of great tenderness and power as Jesus raises a young girl from the dead. He speaks to her in Aramaic, using the word Talitha, which is a term of endearment for a young maiden. This shows the warmth and affection Jesus had for her. The addition of the phrase I say to you emphasizes Christ's authority and power over death. Jesus takes her by the hand, offering both physical touch and spiritual confidence. This display of power demonstrates the efficacy of Christ's voice, which reaches even to the dead and has the power to bring life. In this moment, Jesus gives a magnificent display of his authority and foreshadows his ultimate victory over death through his resurrection.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.6558364712385276,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                27.99,
+                27.39,
+                44.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mark 5:41 reveals Jesus' tenderness and power as he raises a young girl from death, speaking to her in Aramaic with the words Talitha and rise, my child. Jesus' touch and voice give both confidence and life. This display of power demonstrates the efficacy of Christ's voice, reaching even the dead and exerting a quickening influence on death itself. His authority over death is evident in the addition of the phrase I say to you, highlighting his power to bring life and foreshadowing his victory over death through his resurrection.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.6899869690121787,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.53,
+            "commentatorTierSimilarities": [
+                25.64,
+                29.06,
+                45.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark 5:41 portrays Jesus' tender and powerful act of raising a young girl from death. He speaks Aramaic, using the endearing term Talitha to address her. His touch and words instill confidence and life. This demonstrates the potency of Christ's voice, which extends even to the deceased and has the ability to revive death itself. By including the phrase I say to you, Jesus asserts his authoritative power over death, foreshadowing his triumph over death through resurrection.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6250553887072763,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+            "commentatorTierSimilarities": [
+                29.45,
+                29.7,
+                40.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark 5:41 highlights the remarkable moment when Jesus raises a young girl from the dead. Speaking in Aramaic, he uses the endearing term Talitha to call her. Jesus takes her hand, offering both physical touch and spiritual support. The inclusion of the phrase I say to you emphasizes his authority and power over death. This incredible display demonstrates the effectiveness of Christ's voice, reaching even the dead and bringing about a restoration of life. It foreshadows his ultimate triumph over death through his resurrection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5476936487529245,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                28.81,
+                28.97,
+                42.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark 5:41 recounts the extraordinary moment when Jesus raises a young girl from death. Addressing her with the endearing term Talitha, Jesus takes her hand, providing both physical touch and spiritual aid. The addition of the phrase I say to you emphasizes his authority over death. This powerful scene showcases the efficacy of Christ's voice, extending even to the deceased and possessing the ability to breathe life into death itself. It serves as a foreshadowing of Jesus' ultimate victory over death through his resurrection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.5930027682679673,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                27.63,
+                27.6,
+                44.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

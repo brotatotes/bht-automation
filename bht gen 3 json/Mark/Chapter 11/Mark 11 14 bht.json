@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:26:46",
+    "verseRef": "Mark 11:14",
+    "bestBHT": {
+        "bht": "When Jesus cursed the fig tree, his disciples heard it and marked his saying. This act sealed the tree in its barrenness, even though it had put out leaves. The tree serves as an emblem of those who make a great show of religion, yet lack the fruits of grace and righteousness. It warns outward professors of faith, who only talk of good works but do none, that they will be cast into everlasting burnings as dry wood, fit fuel for judgment.",
+        "wordCount": 82,
+        "quoteTokenProportion": 47.76,
+        "qualityScore": 1.6347956998599729,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+        "commentatorTierSimilarities": [
+            37.64,
+            16.8,
+            45.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "That word did not make the tree barren, but sealed it up in its own barrenness.",
+            "And his disciples heard it\u2014and marked the saying.",
+            "Lessons from the Cursing of the Fig Tree."
+        ],
+        "Marvin Vincent": [
+            "His disciples heard it. Peculiar to Mark."
+        ],
+        "Philip Schaff": [
+            "Mark 11:14. His disciples heard it. Another mark of accuracy, suggesting the report of an eye-witness.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "No man eat fruit from thee henceforward forever... constitutes a curse upon the tree.\" ",
+            "It was not the fault of the poor fig tree that it had put out leaves.\" ",
+            "Jesus offered no explanation at this time."
+        ],
+        "John Gill": [
+            "This tree may not only be an emblem of the Jewish people, who made a great show of religion... when instead thereof, there was nothing but talk about them, and an observance of some insignificant rites and traditions...",
+            "...of any outward professor of religion, who enjoying the means of grace... it might be expected that he should do good works... whereas he only talks of good works, but does none...",
+            "...no fruits of grace and righteousness are to be found on him; and at the last day, he will be cast as dry wood, as a withered branch, into everlasting burnings, being fit fuel for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus cursed the fig tree, his disciples heard him and took note of his saying. The tree, though it had put out leaves, was cursed and sealed in its own barrenness. Jesus offered no explanation at the time, but it is suggested that this act served as a lesson. The fig tree can be seen as a symbol of those who make a show of religion but lack true fruits of grace and righteousness. It serves as a warning to outward professors of faith who only talk of good works but do none, that they will be cast into everlasting burnings as dry wood, fit fuel for judgment.",
+            "wordCount": 109,
+            "quoteTokenProportion": 46.25,
+            "qualityScore": 1.5588879805721116,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.18,
+            "commentatorTierSimilarities": [
+                39.78,
+                15.9,
+                44.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus cursed the fig tree, his disciples heard it and marked his saying. This act sealed the tree in its barrenness, even though it had put out leaves. The tree serves as an emblem of those who make a great show of religion, yet lack the fruits of grace and righteousness. It warns outward professors of faith, who only talk of good works but do none, that they will be cast into everlasting burnings as dry wood, fit fuel for judgment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.6347956998599729,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                37.64,
+                16.8,
+                45.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus cursed the fig tree, his disciples heard and marked his saying. The tree, despite putting out leaves, was sealed in its own barrenness. This incident carries a lesson for those who make a show of religion but lack true fruits of grace and righteousness. Just as the fig tree symbolizes the Jewish people who held onto empty traditions, it serves as a warning to all outward professors of faith who only talk of good works but produce none, ultimately facing judgment and everlasting burnings.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.6302379288805484,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.55,
+            "commentatorTierSimilarities": [
+                39.12,
+                17.41,
+                43.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus cursed the fig tree, his disciples heard and marked his saying. The tree, though it had put out leaves, was sealed in its own barrenness. This act serves as a lesson, warning against the empty outward show of religion without true fruits of grace and righteousness. It symbolizes the Jewish people, who presented themselves as religious but lacked genuine substance. Likewise, it cautions against mere talk of good works without actual deeds, as such individuals will face judgment and everlasting burnings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.4617479985929778,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                36.27,
+                17.76,
+                45.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jesus cursed the fig tree, his disciples heard it and marked his saying. The tree was sealed in its own barrenness, despite having put out leaves. This incident holds a lesson, cautioning against the outward display of religion without bearing true fruits of grace and righteousness. The fig tree serves as a symbol of those who talk about good works but fail to produce them, whether among the Jewish people or any outward professors of faith. Such individuals will be cast into everlasting burnings, fit fuel for judgment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.529377864094691,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                37.06,
+                18.2,
+                44.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

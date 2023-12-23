@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:26:41",
+    "verseRef": "Mark 11:10",
+    "bestBHT": {
+        "bht": "The people's exclamation in Mark 11:10, Blessed is the kingdom of our father David, that cometh! reflects their anticipation of the restoration of King David's throne through the coming of the Messiah. They eagerly recognized Jesus as the royal Messiah, who would establish a majestic and authoritative kingdom. Although there were some mixed truths and errors in their expectations, they expressed their desire for the prosperity and enduring success of both the king and the subjects of this kingdom.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.9345077944065867,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+        "commentatorTierSimilarities": [
+            38.92,
+            30.16,
+            30.92
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "blessed\u2026David\u2014is peculiar to Mark, clearly setting forth the idea of the people that the Messiah\u2019s Kingdom, the restoration of the throne of David, was come.",
+            "the restoration of the throne of David, was come.",
+            "the idea of the people that the Messiah\u2019s Kingdom was come."
+        ],
+        "Philip Schaff": [
+            "Blessed is the kingdom of our father David, that cometh! or, \u2018the coming kingdom of our father David!\u2019 This form of the Hosannas is preserved by Mark alone.",
+            "It brings out most clearly the recognition of our Lord as the royal Messiah, who was to restore the throne of David.",
+            "What strange mingling of truth and error in the thoughts and hopes of the multitude that day!"
+        ],
+        "John Gill": [
+            "Let the kingdom promised to our father David, and to his seed for ever, that cometh in the name of the Lord; which is now coming, and appears in the auspicious reign and government of his son, the Messiah, who is clothed with majesty and authority; be prosperous and successful and be established, and endure for ever; to the glory and happiness of him as king, and of all the subjects of it.\" ",
+            "Unless the words should be rendered, as by their situation they may be, thus, 'blessed be the kingdom that cometh in the name of the Lord, of our father David'; and the sense be, let the kingdom of the Messiah, which is now come, and is set up in his name, who, as God, is David s Lord, greatly flourish, and long continue; may its king be blessed, and all its subjects happy.",
+            "Hosanna in the highest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in Mark 11:10 were filled with excitement and anticipation as they proclaimed, Blessed is the kingdom of our father David, that cometh! Their belief in the restoration of King David's throne was clear, as they eagerly recognized Jesus as the royal Messiah who would bring about this fulfillment. There was a mixture of truth and error in their thoughts and hopes, but they acknowledged that the Messiah's kingdom was dawning. They desired prosperity and success for this kingdom, recognizing Jesus as its majestic and authoritative king. Ultimately, they longed for the glory and happiness of both the king and the subjects of this enduring kingdom.",
+            "wordCount": 108,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9130460904631787,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                38.25,
+                30.39,
+                31.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people joyfully exclaimed, Blessed is the kingdom of our father David, that cometh! This statement in Mark 11:10 reveals their profound belief in the restoration of David's throne through the Messiah's arrival. The crowds recognized Jesus as the royal Messiah, eagerly awaiting the establishment of his majestic and authoritative kingdom. Though their expectations contained a mingling of truth and error, they expressed their desire for prosperity and success for the enduring kingdom, both for its king and its subjects.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.9209716236467114,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                39.48,
+                29.34,
+                31.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people's exclamation in Mark 11:10, Blessed is the kingdom of our father David, that cometh! reflects their anticipation of the restoration of King David's throne through the coming of the Messiah. They eagerly recognized Jesus as the royal Messiah, who would establish a majestic and authoritative kingdom. Although there were some mixed truths and errors in their expectations, they expressed their desire for the prosperity and enduring success of both the king and the subjects of this kingdom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9345077944065867,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                38.92,
+                30.16,
+                30.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people's exultation in Mark 11:10, Blessed is the kingdom of our father David, that cometh! reflects their belief in the Messiah's arrival, signifying the restoration of David's throne. The recognition of Jesus as the royal Messiah, who would establish a majestic and authoritative kingdom, emanated from their eager anticipation. The mingling of truth and error in their thoughts and hopes was evident. Nonetheless, they expressed their wish for the kingdom's prosperous and enduring success, both for its king and its subjects.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.7592665566861445,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                39.89,
+                31.35,
+                28.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The exclamation in Mark 11:10, Blessed is the kingdom of our father David, that cometh! reflects the people's anticipation of the Messiah's arrival and the restoration of David's throne. They joyfully acknowledged Jesus as the royal Messiah, eagerly awaiting the establishment of his authoritative and majestic kingdom. Though their expectations carried elements of truth and error, they wholeheartedly desired prosperity and enduring success for both the king and the subjects of this kingdom.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.9226517863914534,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                39.06,
+                29.45,
+                31.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

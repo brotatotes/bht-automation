@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:26:39",
+    "verseRef": "Mark 12:4",
+    "bestBHT": {
+        "bht": "The servant, sent to collect the fruit, faced hostility as stones were cast at him, resulting in injuries to his head. While the purpose of this violence was not to kill, it was a reflection of the contemptuous rejection faced by the servant. Each stone thrown playfully mocked the servant, insinuating that there was indeed fruit for him to gather. Ultimately, the servant was shamefully sent away, subjected to great ignominy and reproach.",
+        "wordCount": 73,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.6645430958717524,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "And at him they cast stones, and wounded [him] in the head...though it seems, that this servant, or this set of men, were not stoned to death, because he was afterwards said to be sent away.\" ",
+            "This servant was sent to reckon with these husbandmen, and take an account from them of the fruit of the vineyard, one cast a stone at him, saying, there is fruit for you; and a second cast another stone, saying the same thing; and so they went on one after another, till at last they said, in a deriding way, now the sum is made up with you.",
+            "Sent [him] away shamefully handled; with great ignominy and reproach."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The vineyard owner sent a servant to count the produce, but instead of receiving the fruits, the servant was stoned and injured. Each stone thrown at him mocked his purpose and ridiculed his authority, signifying the rejection of the owner's rightful claim. Eventually, he was disgracefully sent away, adding to the humiliation and shame he endured through this interaction.",
+            "wordCount": 60,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.3540807480915984,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.37,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant sent by the vineyard owner to collect the fruits was met with brutal opposition as he was stoned and wounded in the head. This act of violence was not fatal, but it served as a mockery and a denial of the owner's rightful claim. The stones thrown, one after another, taunted the servant, implying that there was indeed fruit for him to gather. However, in a final act of humiliation and disrespect, the servant was ultimately sent away, subjected to shame and disgrace.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.3842620222649247,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.37,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant sent to collect the fruit in the vineyard was met with hostility, being stoned and injured in the head. Though not fatal, the act of throwing stones served to mock the servant and deny the owner's rights. Each stone thrown ironically implied that there was, in fact, fruit for the servant to gather. Yet, in a final act of disrespect, the servant was shamefully sent away, enduring ignominy and reproach.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.5534568554368309,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.99,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sent servant was met with stones, wounded in the head but not to death. It was intended to ridicule the servant's purpose, while sarcastically suggesting there was fruit to be gathered. Ultimately, the servant was disgracefully sent away, experiencing great shame and ignominy.",
+            "wordCount": 45,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.539091554614567,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant, sent to collect the fruit, faced hostility as stones were cast at him, resulting in injuries to his head. While the purpose of this violence was not to kill, it was a reflection of the contemptuous rejection faced by the servant. Each stone thrown playfully mocked the servant, insinuating that there was indeed fruit for him to gather. Ultimately, the servant was shamefully sent away, subjected to great ignominy and reproach.",
+            "wordCount": 73,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.6645430958717524,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

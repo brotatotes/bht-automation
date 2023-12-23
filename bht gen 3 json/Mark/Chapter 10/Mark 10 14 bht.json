@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-22-2023 23:26:11",
+    "verseRef": "Mark 10:14",
+    "bestBHT": {
+        "bht": "To truly come to Jesus, we must cast away the things that differentiate us from children and become like them. Infant baptism not only justifies, but sets the normal pattern for all baptisms. Jesus felt deep emotion, even indignation, when children were hindered from coming to Him. It should be a joy for parents to bring their children to Jesus, and they will be held accountable for keeping them away. The kingdom of God consists of those who possess the innocence and humility of children and strive to cultivate a childlike temperament.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.28,
+        "qualityScore": 1.7175073651017287,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.45,
+        "commentatorTierSimilarities": [
+            41.15,
+            26.78,
+            32.07
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not only may the little infants be brought to Him,\u2014but in order for us who are mature to come to Him, we must cast away all that wherein our maturity has caused us to differ from them, and become LIKE THEM.",
+            "Not only is Infant Baptism justified, but it is the NORMAL PATTERN OF ALL BAPTISM; none can enter God\u2019s kingdom, except as an infant.",
+            "In adult baptism, the exceptional case, we strive to secure that state of simplicity and childlikeness, which in the infant we have ready and undoubted to our hands."
+        ],
+        "Philip Schaff": [
+            "How careful we should be not to call forth His displeasure, by keeping children from Him, because we are speculating on high themes about marriage and divorce.",
+            "How careful we should be not to call forth His displeasure, by keeping children from Him.",
+            "How careful we should be not to call forth His displeasure."
+        ],
+        "Archibald T. Robertson": [
+            "He was moved with indignation... became indignant, and is a strong word of deep emotion.",
+            "Surely it ought to be a joy to parents to bring their children to Jesus, certainly to allow them to come, but to hinder their coming is a crime.",
+            "There are parents who will have to give answer to God for keeping their children away from Jesus."
+        ],
+        "John Gill": [
+            "He was much displeased; with his disciples, who took too much upon them.",
+            "Suffer the little children to come unto me, and forbid them not, for of such is the kingdom of God.",
+            "Who are like to these little children; in innocence and humility."
+        ],
+        "John Wesley": [
+            "Jesus seeing it was much displeased \u2014 At their blaming those who were not blame worthy: and endeavouring to hinder the children from receiving a blessing.",
+            "Of such is the kingdom of God \u2014 The members of the kingdom which I am come to set up in the world are such as these.",
+            "As well as grown persons, of a child-like temper."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 10:14, Jesus encounters children who are brought to Him. The first-tier commentaries emphasize the importance of childlike innocence and humility in approaching God, stating that even adults must become like children to enter the kingdom. They express the idea that hindering children from coming to Jesus is a grave offense. The second-tier commentaries caution against invoking God's displeasure by preventing children from approaching Him. Overall, these insights highlight the significance of childlike faith and the need to cultivate simplicity in our relationship with God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5302206095600916,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.22,
+            "commentatorTierSimilarities": [
+                32.54,
+                33.56,
+                33.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To truly come to Jesus, we must cast away the things that differentiate us from children and adopt their innocence and humility. Preventing children from approaching Jesus is a serious offense, as they symbolize the kingdom of God. We should be cautious not to invoke His displeasure by withholding children from Him, focusing too much on complex matters instead of the simplicity of childlike faith. Childlike innocence and simplicity are essential to our relationship with God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.7098042143955796,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.19,
+            "commentatorTierSimilarities": [
+                33.41,
+                33.16,
+                33.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to approach Jesus fully, we need to shed the differences caused by maturity and become like children, as infant baptism sets the normal pattern for all baptisms. Jesus felt deep emotion, even indignation, when children were kept from Him, with parents who hinder their children's access to Jesus committing a crime. We should be cautious not to call forth His displeasure by speculating on complex matters and depriving children of the joy of coming to Him. The kingdom of God consists of those who possess the innocence and humility of children and strive to cultivate a childlike temperament.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.8384757897534483,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.47,
+            "commentatorTierSimilarities": [
+                37.2,
+                32.69,
+                30.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To truly come to Jesus, we must cast away the things that differentiate us from children and become like them. Infant baptism not only justifies, but sets the normal pattern for all baptisms. Jesus felt deep emotion, even indignation, when children were hindered from coming to Him. It should be a joy for parents to bring their children to Jesus, and they will be held accountable for keeping them away. The kingdom of God consists of those who possess the innocence and humility of children and strive to cultivate a childlike temperament.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7175073651017287,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.45,
+            "commentatorTierSimilarities": [
+                41.15,
+                26.78,
+                32.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To approach Jesus fully, we must shed the differences caused by maturity and become like children. Infant baptism establishes the normal pattern for all baptisms, as none can enter God's kingdom except as an infant. Jesus was deeply moved, even indignant, when children were prevented from coming to Him. Parents who keep their children away from Jesus will have to answer to God. The members of God's kingdom are those who possess the innocence and humility of children, both adults and children alike.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.7028468240905994,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                41.87,
+                23.81,
+                34.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

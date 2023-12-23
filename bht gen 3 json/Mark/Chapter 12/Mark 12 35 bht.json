@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-22-2023 23:27:29",
+    "verseRef": "Mark 12:35",
+    "bestBHT": {
+        "bht": "The whole controversy in the temple is regarded as one: hence the new point raised by Jesus is introduced as a rejoinder, with answered. He asks the scribes how they can believe that the Messiah is merely the son of David when David himself, in Psalm 110:1, calls the Messiah his Lord. This question challenges the scribes to reconcile their belief that the Messiah is David's son with David acknowledging the Messiah as his Lord, highlighting the problem of understanding Jesus' deity and humanity.",
+        "wordCount": 84,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 2.216133709167957,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+        "commentatorTierSimilarities": [
+            47.97,
+            17.84,
+            34.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "35.] The whole controversy in the temple is regarded as one: hence the new point raised by our Lord is introduced as a rejoinder, with answered."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How say the scribes that Christ is the son of David?\u2014How come they to give it out that Messiah is to be the son of David?",
+            "What think ye of Christ? [...] Whose son is He [to be]? They say unto Him, The son of David.",
+            "How then doth David in spirit call Him Lord?"
+        ],
+        "Philip Schaff": [
+            "The whole controversy (which we have joined as one section) is regarded as one; and this is our Lord\u2019s reply to their assaults.",
+            "Mark the impression on the people, in whose presence (Mark 12:37) the Pharisees were confounded.",
+            "The account of the former is fuller and more accurate, as regards the opening of the discussion on this point."
+        ],
+        "Archibald T. Robertson": [
+            "He contents himself with pointing out a difficulty, in the solution of which lay the key to the whole problem of His person and work\" (Swete).",
+            "The scribes all taught that the Messiah was to be the son of David...But the rabbis had overlooked the fact that David in Psalms 110:1 called the Messiah his Lord also\" (Swete).",
+            "The deity and the humanity of the Messiah are both involved in the problem\" (Swete)."
+        ],
+        "John Gill": [
+            "Not that Christ meant to deny or invalidate the truth of this; for the Messiah was certainly to be the son of David, and was; but he wanted to know, inasmuch as they commonly said, and instructed the people to believe, and it was in general believed by them, that he was David's son, how they could reconcile this to his being the Lord of David.\" ",
+            "How they could give out, that he was only and merely the Son of David, when he was David's Lord.",
+            "This question seems to be put upon that, with another along with it, how then doth David in spirit call him Lord?"
+        ],
+        "John Wesley": [
+            "Matthew 22:41; Luke 20:41."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The controversy in the temple is regarded as one, and Jesus responds by asking the scribes how they can believe that the Messiah is merely the son of David when David himself, in Psalm 110:1, calls the Messiah his Lord. This question highlights the key problem of understanding Jesus' person and work, involving both his deity and humanity. Jesus does not deny the truth of the Messiah being the son of David, but he challenges the scribes to reconcile this with the fact that David calls the Messiah his Lord. The people were confounded by this response.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.7769788553925996,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+            "commentatorTierSimilarities": [
+                43.21,
+                20.02,
+                36.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The controversy in the temple is regarded as one, and Jesus responds by asking the scribes how they can believe that the Messiah is merely the son of David when David himself, in Psalm 110:1, calls the Messiah his Lord. This question highlights the key problem of understanding Jesus' person and work, involving both his deity and humanity. Jesus challenges the scribes to reconcile this fact, confounding the people with his response.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.8546869871198668,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                42.41,
+                24.4,
+                33.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The controversy in the temple is regarded as one: hence the new point raised by Jesus is introduced as a rejoinder, with answered. He asks the scribes how they can believe that the Messiah is merely the son of David when David himself, in Psalm 110:1, calls the Messiah his Lord. This question highlights the problem of understanding Jesus' person and work, involving his deity and humanity. Jesus challenges the scribes to reconcile this fact, confounding the people with his response.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9297005925056916,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.5,
+            "commentatorTierSimilarities": [
+                44.93,
+                23.63,
+                31.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The whole controversy in the temple is regarded as one: hence the new point raised by Jesus is introduced as a rejoinder, with answered. He asks the scribes how they can believe that the Messiah is merely the son of David when David himself, in Psalm 110:1, calls the Messiah his Lord. This question challenges the scribes to reconcile their belief that the Messiah is David's son with David acknowledging the Messiah as his Lord, highlighting the problem of understanding Jesus' deity and humanity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.216133709167957,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+            "commentatorTierSimilarities": [
+                47.97,
+                17.84,
+                34.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus raises a new point in response to the temple controversy, asking how the scribes can believe that the Messiah is solely the son of David. He challenges them to reconcile this belief with David calling the Messiah his Lord in Psalm 110:1. This question forces the scribes and the people to grapple with the problem of understanding the dual nature of Jesus, both as the son of David and as Lord.",
+            "wordCount": 71,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 2.0823196319246717,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+            "commentatorTierSimilarities": [
+                44.3,
+                15.37,
+                40.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

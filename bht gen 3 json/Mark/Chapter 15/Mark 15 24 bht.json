@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-22-2023 23:29:18",
+    "verseRef": "Mark 15:24",
+    "bestBHT": {
+        "bht": "They divided his garments into four parts, and each soldier took a part. This distribution of Jesus' belongings among the soldiers is directly mentioned in Mark's account and closely followed by Matthew's. The soldiers also cast lots for his seamless coat, fulfilling a specific prophecy in Psalms. The verb used highlights the deliberative nature of the soldiers' decision-making process when determining who would take what. To delve deeper into these details, refer to Matthew's narrative.",
+        "wordCount": 79,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.1694061047289956,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+        "commentatorTierSimilarities": [
+            38.79,
+            0.0,
+            61.21
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "What each should take [\u03c4\u03b9\u03c2 \u03c4\u03b9 \u03b1\u03c1\u03b7] . Lit., who should take what. An addition of Mark."
+        ],
+        "Archibald T. Robertson": [
+            "The verb \u03b1\u03c1\u03b7 is first aorist active deliberative subjunctive retained in the indirect question.",
+            "The details in Mark 15:24-32 are followed closely by Matthew 27:35-44.",
+            "See there for discussion of details."
+        ],
+        "John Gill": [
+            "His garments they divided into four parts; and each soldier, as there were four of them, took a part.\" ",
+            "Upon his vesture, or seamless coat, because they would not rend it, they cast lots who should have it.",
+            "So fulfilled a prophecy in Psalms 22:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They divided his garments into four parts, and each soldier took a part. This detail, first mentioned in Mark's addition to the Gospel, is closely followed by Matthew and reveals the soldiers' distribution of Jesus' belongings among themselves. Additionally, the soldiers cast lots for his seamless coat, fulfilling a prophecy from Psalms 22:18. The deliberative subjunctive verb used in the passage emphasizes the decision-making process involved in determining who would take what. For a more thorough analysis of these details, refer to Matthew 27:35-44.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.2304432060763189,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.26,
+            "commentatorTierSimilarities": [
+                42.03,
+                0.0,
+                57.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They divided his garments into four parts, and each soldier took a part. This detail, first mentioned in Mark's addition, closely followed by Matthew, emphasizes the distribution of Jesus' belongings among the soldiers. They even cast lots for his seamless coat, fulfilling a prophecy from Psalms. The verb used here highlights the deliberative nature of the soldiers' decision-making process. For further examination of these details, refer to Matthew's account.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.1262237927425405,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.79,
+            "commentatorTierSimilarities": [
+                36.64,
+                0.0,
+                63.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They divided his garments into four parts, and each soldier took a part. This distribution of Jesus' belongings among the soldiers is directly mentioned in Mark's account and closely followed by Matthew's. The soldiers also cast lots for his seamless coat, fulfilling a specific prophecy in Psalms. The verb used highlights the deliberative nature of the soldiers' decision-making process when determining who would take what. To delve deeper into these details, refer to Matthew's narrative.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.1694061047289956,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.23,
+            "commentatorTierSimilarities": [
+                38.79,
+                0.0,
+                61.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They divided his garments into four parts, with each soldier taking a part. This specific description from Mark's account is closely mirrored by Matthew's narrative, shedding light on the distribution of Jesus' belongings among the soldiers. The soldiers also cast lots for his seamless coat, fulfilling a prophecy found in Psalms. The use of the deliberative subjunctive verb emphasizes the decision-making process of the soldiers, discerning who would receive what. For a more detailed analysis, consult Matthew's parallel passage.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.139774760708682,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.24,
+            "commentatorTierSimilarities": [
+                38.24,
+                0.0,
+                61.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They divided his garments into four parts, and each soldier took a part. This detail, first mentioned in Mark's addition, closely followed by Matthew, reveals the soldiers' distribution of Jesus' belongings among themselves. Additionally, the soldiers cast lots for his seamless coat, fulfilling a prophecy from Psalms. The deliberative subjunctive verb used in the verse emphasizes the decision-making process involved in determining who would take what. For a more thorough analysis, refer to Matthew's account.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.2096335308903052,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.56,
+            "commentatorTierSimilarities": [
+                41.91,
+                0.0,
+                58.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

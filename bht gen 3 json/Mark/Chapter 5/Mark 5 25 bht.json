@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:22:17",
+    "verseRef": "Mark 5:25",
+    "bestBHT": {
+        "bht": "This story illustrates the plight of a woman afflicted with a contagious and unclean disease. In a similar manner, our inherent sin is a contaminating scourge, causing separation from God and hindering our ability to associate with fellow believers. The disease of sin, prevalent since the beginning of humanity, cannot be eradicated by natural means alone. It necessitates the intervention of supernatural power and grace. Matthew 9:20 and Luke 8:43 further allude to this account.",
+        "wordCount": 73,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.1164973786085484,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.47,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "This profluvious woman is an emblem of a sinner in a state of nature: as her disease was in itself an uncleanness, and rendered her unclean by the law, whereby she was unfit for the company and society of others; so the disease of sin, with which all are infected, is a pollution itself, and of a defiling nature.",
+            "Such persons are very unfit for the society of saints on earth, and much less to be with those in heaven, nor even to be with moralized persons; for evil communications corrupt good manners: openly profane and impure sinners are infectious, and to be avoided.",
+            "The disease of sin...is what is brought into the world with men, and is as old as themselves; is natural to them, and cannot be removed by any ordinary and natural methods, but requires supernatural power and grace."
+        ],
+        "John Wesley": [
+            "Matthew 9:20; Luke 8:43."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse tells the story of a woman who had been suffering from a disease and was considered unclean by the law. Just as her disease rendered her unfit for the company of others, our sin, which is like a pollution, separates us from God and makes us unfit for the fellowship of the saints. Sin is a disease that we are all born with and cannot be removed by natural means, but only through the supernatural power and grace of God. (Matthew 9:20; Luke 8:43)",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.6301962872148592,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.55,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This story portrays a woman with an infectious disease, making her unclean and unfit for society. Similarly, our innate sin is a defiling pollution that separates us from God and hinders fellowship with other believers. Sin is an age-old affliction, deeply ingrained in human nature and incapable of removal by natural means. Only through the supernatural power and grace of God can we be cleansed and restored to communion with Him and His people.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 0.91432735092649,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This narrative of a diseased woman highlights the parallels between her uncleanliness and the innate sinfulness of humanity. Just as her ailment made her unsuitable for social interaction, our sins create a spiritual contamination that separates us from God and inhibits our ability to fellowship with the righteous. Sin is a deeply rooted disease, existing since the dawn of human existence and requiring divine intervention for healing. Scripture cites Matthew 9:20 and Luke 8:43 as additional references to this account.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.040083974432103,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.93,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This story illustrates the plight of a woman afflicted with a contagious and unclean disease. In a similar manner, our inherent sin is a contaminating scourge, causing separation from God and hindering our ability to associate with fellow believers. The disease of sin, prevalent since the beginning of humanity, cannot be eradicated by natural means alone. It necessitates the intervention of supernatural power and grace. Matthew 9:20 and Luke 8:43 further allude to this account.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.1164973786085484,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.47,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The narrative of a woman suffering from a defiling disease serves as a metaphor for the unregenerate sinner. Just as her illness rendered her impure and unfit to be in the company of others, our sin too pollutes and separates us. Sin is an inherent human condition, deeply ingrained and incapable of being remedied by natural means. It requires supernatural intervention and divine grace for restoration. The parallel accounts found in Matthew 9:20 and Luke 8:43 shed further light on this story.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 0.9669214830547924,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.49,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

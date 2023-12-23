@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:21:20",
+    "verseRef": "Mark 3:6",
+    "bestBHT": {
+        "bht": "In the presence of Jesus, the Pharisees and Herodians, opposite sects normally at odds, combine against our Lord. The Pharisees, filled with madness, sought the support of the Herodians, the political antagonists of the Pharisees but friends of the Romans. Their shared hatred for Jesus stemmed from his holiness, his reproof of their hypocrisy, and his ability to win the hearts of the people. Their eagerness to oppose the ministers of God reveals their ungodliness and their contest against God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.9755706068416061,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+        "commentatorTierSimilarities": [
+            29.33,
+            38.12,
+            32.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Why the Pharisees and Herodians should now combine, is not apparent.",
+            "There must have been some reason of which we are not aware.",
+            "United these opposite sects in enmity against our Lord."
+        ],
+        "Albert Barnes": [
+            "Straightway - Immediately, or as soon as possible.",
+            "They hated him, he was so holy; because he reproved them; because he laid open their hypocrisy; and because he won the hearts of the people and lessened their influence.",
+            "Sinners would often rather put to death the man that reproves them than forsake their sins."
+        ],
+        "John Calvin": [
+            "Their eagerness to be considered the guardians and protectors of public liberty made it necessary for them to make an open profession of mortal hatred to the ministers of that tyrant.",
+            "While ungodliness hurries men in various directions, and drives them to different courses, it engages them, with one consent, in a contest with God.",
+            "No hostilities prevent them from giving their hand to each other for opposing the truth of God."
+        ],
+        "Philip Schaff": [
+            "The Herodians were the court party, the adherents of the Herods. As friends of the Romans they were the political antagonists of the Pharisees.\" ",
+            "'Hatred of the truth produced this strange alliance. The Pharisees were 'filled with madness' (Luke), and would seek the support of those who could help them in their purpose...'Hierarchs and despots are necessary to each other,' and combine against Christ.\" "
+        ],
+        "Archibald T. Robertson": [
+            "The Pharisees could stand no more. So out they stalked at once in a rage of madness.",
+            "This is the first mention of the Herodians or adherents of Herod Antipas and the Herod family rather than the Romans.",
+            "In the presence of Jesus they unite their forces."
+        ],
+        "John Gill": [
+            "Persisting still in their evil intentions, though Christ had so fully and clearly exposed the wickedness of them.",
+            "Those men who thought it was not lawful to heal a lame man on the sabbath day, yet make no scruple of meeting and consulting together on that day.",
+            "To destroy the life of an innocent person."
+        ],
+        "John Wesley": [
+            "The Pharisees going out \u2014 Probably leaving the scribes to watch him still: took counsel with the Herodians - as bitter as they usually were against each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the presence of Jesus, the Pharisees and Herodians, opposite sects normally at odds, combine in enmity against our Lord. This strange alliance can be attributed to their shared hatred for Jesus, who reproved them, exposed their hypocrisy, and won the hearts of the people. The Pharisees, filled with madness, sought the support of the Herodians, the political antagonists of the Pharisees but friends of the Romans. Their eagerness to oppose the ministers of God, despite their different directions, reveals their ungodliness and their contest against God. Though they claimed to be guardians of public liberty, their hostility against Jesus allowed them to ally with those who opposed the truth.",
+            "wordCount": 110,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.9435294424164011,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                27.52,
+                37.27,
+                35.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the presence of Jesus, the Pharisees and Herodians, opposite sects normally at odds, combine against our Lord. The Pharisees, filled with madness, sought the support of the Herodians, the political antagonists of the Pharisees but friends of the Romans. Their shared hatred for Jesus stemmed from his holiness, his reproof of their hypocrisy, and his ability to win the hearts of the people. Their eagerness to oppose the ministers of God reveals their ungodliness and their contest against God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9755706068416061,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                29.33,
+                38.12,
+                32.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the presence of Jesus, the Pharisees and Herodians, opposite sects normally at odds, combine in enmity against our Lord. This strange alliance can be attributed to their shared hatred for Jesus, who reproved them, exposed their hypocrisy, and won the hearts of the people. The Pharisees, filled with madness, sought the support of the Herodians, the political antagonists of the Pharisees but friends of the Romans. Their eagerness to oppose the ministers of God, despite their different directions, reveals their ungodliness and their contest against God. Through this alliance, they persist in their evil intentions, unscrupulously seeking to destroy the innocent.",
+            "wordCount": 102,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.8932689631300734,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                26.95,
+                37.2,
+                35.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the presence of Jesus, the Pharisees and Herodians united in enmity against him, despite their normally opposing views. Filled with madness, the Pharisees sought the support of the Herodians, political antagonists who were friends of the Romans. Their shared hatred towards Jesus arose from his holy character, his exposure of their hypocrisy, and his popularity with the people. This strange alliance revealed their ungodliness and their contest against God, persisting in their evil intentions to harm the innocent.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.922859457498546,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                26.32,
+                39.48,
+                34.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the presence of Jesus, the Pharisees and Herodians combine in enmity against him, despite their opposing views. Filled with madness, the Pharisees sought the support of the Herodians, political antagonists but friends of the Romans. Their shared hatred towards Jesus stemmed from his holy character and his exposure of their hypocrisy. This strange alliance reveals their ungodliness and their contest against God. Persisting in their evil intentions, they seek to harm the innocent through their unity against Jesus.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.8546446153557925,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                27.41,
+                37.58,
+                35.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-22-2023 23:24:32",
+    "verseRef": "Mark 7:27",
+    "bestBHT": {
+        "bht": "The idea conveyed is that the Jews were initially given the opportunity to accept or reject the Gospel before it was offered to the Gentiles. This does not mean that the Gentiles were excluded indefinitely, but rather they would be filled once the Jews had their turn. The priority was given to the Jews, but this does not negate the possibility of the Gentiles receiving the Gospel later. Ultimately, both Jews and Gentiles can partake in the blessings and nourishment of the Gospel.",
+        "wordCount": 83,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1878812388176527,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.09,
+        "commentatorTierSimilarities": [
+            21.42,
+            35.77,
+            42.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This important addition in Mark sets forth the whole ground on which the present refusal rested.\" ",
+            "The Jews were first to have the Gospel offered to them, for their acceptance or rejection.",
+            "It was not yet time for the Gentiles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Is there hope for me here? 'Filled FIRST?' Then my turn, it seems, is coming!",
+            "Is this the death of her hopes? Nay, rather it is life from the dead. Out of the eater shall come forth meat.",
+            "Ah! I have it now. Had He kept silence, what could I have done but go unblest? but He hath spoken, and the victory is mine."
+        ],
+        "Marvin Vincent": [
+            "Let the children first be filled. Peculiar to Mark. ",
+            "The dogs. Diminutive. See on Matthew 14:26."
+        ],
+        "Philip Schaff": [
+            "The Jews were first to have the gospel offered to them for their acceptance or rejection.",
+            "It was not yet time for the Gentiles.",
+            "Let the children first be filled."
+        ],
+        "Archibald T. Robertson": [
+            "The Jews had the first claim.",
+            "Paul was the Apostle to the Gentiles, but he gave the Jew the first opportunity.",
+            "See on Matthew 15:24."
+        ],
+        "John Gill": [
+            "but when they had gone through the cities of Judea, he ordered them, after his resurrection, to go into all the world, and preach the Gospel to all nations, beginning at Jerusalem.\" ",
+            "and the expression here used, though it gives the preference to the Jew, does not exclude the Gentile.",
+            "so long as until they should despise it, and put it away from them, judging themselves unworthy of it; that then the Gentiles should have plenty of Gospel provisions set before them, and should eat of them, and be filled."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the notion that the Jews were the first to be offered the Gospel, whether they chose to accept or reject. It reinforces the idea that the Gentiles were not yet ready for the message, as it was not their time. However, this does not mean there is no hope for the Gentiles. Rather, it states that they will be filled once the Jews have had their share. The priority given to the Jews does not exclude the Gentiles from partaking in the Gospel later on, indicating that they too will receive abundant spiritual nourishment and blessings.",
+            "wordCount": 99,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 2.020900160609331,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                21.67,
+                37.41,
+                40.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The idea conveyed is that the Jews were initially given the opportunity to accept or reject the Gospel before it was offered to the Gentiles. This does not mean that the Gentiles were excluded indefinitely, but rather they would be filled once the Jews had their turn. The priority was given to the Jews, but this does not negate the possibility of the Gentiles receiving the Gospel later. Ultimately, both Jews and Gentiles can partake in the blessings and nourishment of the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1878812388176527,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.09,
+            "commentatorTierSimilarities": [
+                21.42,
+                35.77,
+                42.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gospel was first offered to the Jews, allowing for their acceptance or rejection. This prioritization did not exclude the Gentiles but rather indicated that their time would come later. While the Jews were to be filled first, the Gentiles would also have the opportunity to receive the Gospel. Both Jews and Gentiles would be able to partake in the blessings and spiritual nourishment it offered.",
+            "wordCount": 66,
+            "quoteTokenProportion": 52.27,
+            "qualityScore": 2.127599099901424,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.08,
+            "commentatorTierSimilarities": [
+                20.89,
+                40.17,
+                38.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse highlights the importance of the Jews having the first opportunity to accept or reject the Gospel. The timing was not yet right for the Gentiles. However, this should not be seen as a death of hope for the Gentile woman, but rather life from the dead. Through Jesus' words, she realizes that there is hope for her too. The Jews were given priority, but this does not exclude the Gentiles. Ultimately, the Gospel will be preached to all nations, allowing them to partake in the abundant provisions and be filled.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.810999105544835,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                22.93,
+                35.81,
+                41.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews having the first opportunity to accept or reject the Gospel was of utmost importance. This does not mean, however, that the Gentiles were without hope. Through Jesus' words, the Gentile woman finds new life and victory amidst her initial despair. While the Jews had the initial claim, the Gospel would eventually be preached to all nations, including the Gentiles. They too would have the chance to partake in the provisions of the Gospel and be filled. The expansion to the Gentiles was not excluded, but rather a future blessing.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.928253303634383,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.46,
+            "commentatorTierSimilarities": [
+                21.79,
+                36.46,
+                41.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

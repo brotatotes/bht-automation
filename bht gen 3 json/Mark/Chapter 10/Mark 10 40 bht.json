@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:26:11",
+    "verseRef": "Mark 10:40",
+    "bestBHT": {
+        "bht": "Jesus responds to James and John's request to sit at His right and left hand in the kingdom by saying that He cannot grant it as a favor, but only to those for whom it is prepared. While He does not deny their petition, it is unclear if their desired position is their true place. Nonetheless, Jesus assures that eternal life and reward are reserved for those who diligently seek glory, honor, and immortality through their faithful efforts.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.6378552725127187,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+        "commentatorTierSimilarities": [
+            59.81,
+            0.0,
+            40.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "But to sit on My right hand and on My left hand is not Mine to give, save to them for whom it is prepared.\" ",
+            "When therefore He says, 'It is not Mine to give,' the meaning is, 'I cannot give it as a favor to whomsoever I please, or on a principle of favoritism; it belongs exclusively to those for whom it is prepared.'",
+            "Our Lord, it will be observed, does not deny the petition of James and John, or say they shall not occupy the place in His kingdom which they now improperly sought:\u2014for aught we know, that may be their true place."
+        ],
+        "John Gill": [
+            "There being no such places in his kingdom in the sense they petitioned.",
+            "And though he had a power to give yet only to them who were given him of his Father and who were ordained to such happiness.",
+            "The Jew g very badly concludes from hence against the deity of Christ and his unity with the Father he not having power to do this."
+        ],
+        "John Wesley": [
+            "Them who by patient continuance in well doing, seek for glory, and honour, and immortality.",
+            "For these only eternal life is prepared.",
+            "To these, only he will give it in that day; and to every man his own reward, according to his own labour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus responds to James and John's request to sit at His right and left hand in the kingdom by saying, It is not Mine to give, save to them for whom it is prepared. He clarifies that He cannot grant this position as a favor or through favoritism, but rather it belongs exclusively to those for whom it is prepared. Jesus does not deny their petition, leaving open the possibility that this may indeed be their true place in His kingdom. However, it is important to note that Jesus does not promise such places in the exact sense they requested, but rather eternal life and reward to those who patiently seek for glory, honor, and immortality through their faithful labor.",
+            "wordCount": 121,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.7851173854420415,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                61.25,
+                0.0,
+                38.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus clarifies that He cannot grant the request of James and John to sit on His right and left hand in the kingdom, except to those for whom it is prepared. He emphasizes that He cannot give it as a favor or based on favoritism. However, Jesus does not dismiss their petition entirely, suggesting that it may still be their true place in His kingdom. Nevertheless, it is important to understand that Jesus promises eternal life and reward to those who seek glory, honor, and immortality through their faithful labor.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.5289876225115864,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                58.97,
+                0.0,
+                41.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus responds to James and John's request to sit at His right and left hand in the kingdom by saying that He cannot grant it as a favor, but only to those for whom it is prepared. While He does not deny their petition, it is unclear if their desired position is their true place. Nonetheless, Jesus assures that eternal life and reward are reserved for those who diligently seek glory, honor, and immortality through their faithful efforts.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.6378552725127187,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                59.81,
+                0.0,
+                40.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus responds to James and John's request to sit at His right and left hand in the kingdom by saying that He cannot grant it as a favor, but only to those for whom it is prepared. He emphasizes that this place of honor and authority is not within His jurisdiction to freely distribute, but is specifically designated for those chosen for it. Jesus doesn't reject their request outright, leaving open the possibility that it may indeed be their rightful place. However, it is important to understand that pursuing eternal life and reward is not a matter of entitlement, but rather a result of diligently seeking glory, honor, and immortality through faithful labor.",
+            "wordCount": 115,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.3740757805770947,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.03,
+            "commentatorTierSimilarities": [
+                56.37,
+                0.0,
+                43.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus responds to James and John's request to sit at His right and left hand in the kingdom by saying that He cannot grant it as a favor, but only to those for whom it is prepared. He clarifies that this place of honor and authority is not within His jurisdiction to freely distribute, but is specifically designated for those chosen for it. While Jesus doesn't reject their request outright, He emphasizes that pursuing eternal life and reward requires diligently seeking glory, honor, and immortality through faithful labor.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.4674723433117842,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                55.1,
+                0.0,
+                44.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

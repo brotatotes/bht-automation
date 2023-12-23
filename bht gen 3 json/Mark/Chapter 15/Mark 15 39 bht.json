@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:29:59",
+    "verseRef": "Mark 15:39",
+    "bestBHT": {
+        "bht": "In the final moments of Jesus' crucifixion, the centurion on duty was struck by the unusual and superhuman nature of Jesus' last cry. Convinced that Jesus must have been the one accused of declaring Himself the Son of God, the centurion saw Him as a hero or demigod. This revelation came amidst the darkness and earthquake, reinforcing the centurion's conviction. Truly, when Jesus cried out with such a loud and strong voice before His death, the centurion and the other soldiers recognized that this Man was indeed the Son of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.7901002284421137,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.86,
+        "commentatorTierSimilarities": [
+            41.03,
+            14.46,
+            44.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There was something in the manner of this last cry so unusual and superhuman.",
+            "The Centurion was convinced that He must have been that Person, whom He was accused as having declared Himself to be.",
+            "A minute mark of accuracy, so common in Mark."
+        ],
+        "Marvin Vincent": [
+            "Son of God. Not the Son of God, which Rev. has retained, but a son of God. To the centurion Christ was a hero or demigod. See on Matthew 27:54."
+        ],
+        "Philip Schaff": [
+            "The centurion...saw that he so gave up the ghost.\" ",
+            "Mark alone gives prominence to this point, and it is characteristic of his Gospel.",
+            "The Lion of Judah is, even in His departing, a dying lion."
+        ],
+        "Archibald T. Robertson": [
+            "The centurion...watching Jesus.",
+            "With the darkness and the earthquake.",
+            "More probably 'a Son of God.'"
+        ],
+        "John Gill": [
+            "truly this man was the Son of God",
+            "that he cried with so loud and strong a voice, and the next moment expired",
+            "the rest of the soldiers... said... this man was the Son of God"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the final moments of Jesus' crucifixion, the centurion on duty was struck by the remarkable nature of Jesus' last cry, finding it unusual and superhuman. This led the centurion to be convinced that Jesus must have been the person accused of declaring Himself the Son of God. Mark's attention to detail is evident here, highlighting the centurion's recognition of Jesus as a hero or demigod, a Son of God. This revelation came amidst the darkness and earthquake, reinforcing the centurion's conviction. Truly, when Jesus cried out with such a loud and strong voice before His death, the centurion and the other soldiers recognized that this Man was indeed the Son of God.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7715608759802632,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.25,
+            "commentatorTierSimilarities": [
+                41.29,
+                15.84,
+                42.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the final moments of Jesus' crucifixion, the centurion on duty was struck by the unusual and superhuman nature of Jesus' last cry. Convinced that Jesus must have been the one accused of declaring Himself the Son of God, the centurion saw Him as a hero or demigod. Mark's attention to detail is seen in the emphasis on this revelation, highlighting the centurion's conviction amidst the darkness and earthquake. Recognizing that this Man was the Son of God, both the centurion and the other soldiers were in awe of Jesus' powerful proclamation before His death.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.7643711468128092,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                42.57,
+                17.27,
+                40.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the crucifixion scene, the centurion was struck by the extraordinary and superhuman nature of Jesus' last cry. This led him to believe that Jesus must have been the one accused of proclaiming Himself as the Son of God. The attention to detail in Mark's Gospel is evident with the centurion's recognition of Jesus as a hero or demigod, a Son of God. As darkness and an earthquake surrounded them, the centurion and the other soldiers acknowledged that this Man truly was the Son of God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9147130430169241,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                39.72,
+                17.45,
+                42.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the final moments of Jesus' crucifixion, the centurion on duty was amazed by the extraordinary and superhuman nature of Jesus' last cry. This led him to believe that Jesus must have been the one accused of proclaiming Himself as the Son of God. Mark's attention to detail is evident here, emphasizing the centurion's conviction that Jesus was a hero or demigod, a Son of God. In the midst of darkness and an earthquake, the centurion and the other soldiers recognized that this Man truly was the Son of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.909015760122514,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+            "commentatorTierSimilarities": [
+                40.66,
+                15.36,
+                43.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the final moments of Jesus' crucifixion, the centurion on duty was struck by the unusual and superhuman nature of Jesus' last cry. Convinced that Jesus must have been the one accused of declaring Himself the Son of God, the centurion saw Him as a hero or demigod. This revelation came amidst the darkness and earthquake, reinforcing the centurion's conviction. Truly, when Jesus cried out with such a loud and strong voice before His death, the centurion and the other soldiers recognized that this Man was indeed the Son of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7901002284421137,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
+            "commentatorTierSimilarities": [
+                41.03,
+                14.46,
+                44.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:28:29",
+    "verseRef": "Mark 14:38",
+    "bestBHT": {
+        "bht": "Watch and pray, lest you enter into temptation... The disciples, recognizing their vulnerability as mere flesh and blood, were called to be vigilant and prayerful. Their ready and disposed spirit was eager to watch and pray, remaining steadfast in their commitment to Christ. In the face of the powerful adversary, Satan, they understood the necessity of constant vigilance, acknowledging their need to watch and pray.",
+        "wordCount": 65,
+        "quoteTokenProportion": 28.89,
+        "qualityScore": 0.9459563996333218,
+        "qualityScoreNormalizedComparedToV2BHTs": 22.8,
+        "commentatorTierSimilarities": [
+            0.0,
+            10.02,
+            89.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 14:38. The spirit, etc. Precisely as in Matthew, though differently translated in the E. V.",
+            "\t"
+        ],
+        "John Gill": [
+            "Watch ye and pray, lest ye enter into temptation... when they should see him apprehended, bound, and led away.\" ",
+            "The spirit truly is ready... the spirit of the disciples, their renewed spirit, which was ready and disposed watching and praying, and willing to abide by Christ.\" ",
+            "They were but flesh and blood, and so not a match of themselves for so powerful an adversary as Satan... had need to watch and pray."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Watch and pray, lest you enter into temptation... The disciples were called by Jesus to be watchful and prayerful, fully aware of the impending temptation that awaited them. Their spirit was prepared and willing to stay alert and committed to Christ. They acknowledged that, being mere flesh and blood, they were no match for their powerful adversary, Satan. This recognition underscored the importance of their vigilance in watching and praying.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 0.8245936894885797,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                7.34,
+                92.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Watch and pray, lest you enter into temptation... The disciples, recognizing their vulnerability as mere flesh and blood, were called to be vigilant and prayerful. Their ready and disposed spirit was eager to watch and pray, remaining steadfast in their commitment to Christ. In the face of the powerful adversary, Satan, they understood the necessity of constant vigilance, acknowledging their need to watch and pray.",
+            "wordCount": 65,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 0.9459563996333218,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.8,
+            "commentatorTierSimilarities": [
+                0.0,
+                10.02,
+                89.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Watch and pray, lest you enter into temptation... The disciples were urged by Jesus to be watchful and prayerful, fully aware of the impending temptation that awaited them. Their spirit, which had been renewed and made ready, was willing to stay vigilant and committed to Christ. Recognizing their own limitations as mere flesh and blood, they understood the importance of remaining watchful and engaging in fervent prayer. It was evident that they needed to watch and pray in order to face the powerful adversary, Satan.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 0.905461489506616,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.45,
+            "commentatorTierSimilarities": [
+                0.0,
+                9.78,
+                90.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Watch and pray, lest you enter into temptation... The disciples were urged to maintain vigilance and prayerfulness, recognizing the imminent temptation. Their renewed and ready spirit was willing to stay committed to Christ, acknowledging their vulnerability as mere flesh and blood. They understood the importance of remaining watchful and engaging in fervent prayer to face their powerful adversary, Satan. The disciples were aware that watching and praying were crucial in order to overcome the challenges and temptations that lay ahead.",
+            "wordCount": 80,
+            "quoteTokenProportion": 22.41,
+            "qualityScore": 0.9152891657624069,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.78,
+            "commentatorTierSimilarities": [
+                0.0,
+                11.3,
+                88.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Watch and pray, lest you enter into temptation... The disciples were called to be watchful, prayerful, and alert, fully aware of the impending temptation. Their spirit, which was ready and disposed, was eager to remain committed to Christ, embodying a sense of renewed devotion. Understanding their limitations as mere flesh and blood, they recognized the necessity of continuous vigilance and fervent prayer in facing their formidable adversary, Satan. Their readiness to watch and pray was essential to navigate the challenges and avoid falling into temptation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 0.8196452219531623,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.6,
+            "commentatorTierSimilarities": [
+                0.0,
+                4.32,
+                95.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-22-2023 23:28:06",
+    "verseRef": "Mark 12:41",
+    "bestBHT": {
+        "bht": "As Jesus sat down opposite the treasury, he observed thoughtfully how the multitude cast money into it. He watched intently as the rich were casting in their offerings. Mark draws this immortal picture of the weary Christ, who had just taken his leave of the temple, sitting by the treasury and beholding with pleasure how people, both rich and poor, were contributing. The treasury received these voluntary contributions, which were used for various purposes, such as buying wood for the altar and other necessary items.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.7086543922224129,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+        "commentatorTierSimilarities": [
+            32.49,
+            27.34,
+            40.17
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But it is hardly likely that they would be called the treasury.",
+            "Two, Bengel remarks, are noticed: she might have kept back one.",
+            "Our Lord had at this time taken his leave of the temple, and was going out of it."
+        ],
+        "Albert Barnes": [
+            "Sat over against - Opposite to, in full sight of.",
+            "The treasury - This was in the court of the women.",
+            "In that court there were fixed a number of places or coffers, made with a large open mouth in the shape of a trumpet, for the purpose of receiving the offerings of the people; and the money thus contributed was devoted to the service of the temple - to incense, sacrifices, etc."
+        ],
+        "Marvin Vincent": [
+            "Observed thoughtfully.",
+            "Note the graphic present tense: are casting.",
+            "Imperfect tense: were casting in as he looked."
+        ],
+        "Philip Schaff": [
+            "He did not leave at once, after promising the desolation of the temple, but remained quietly sitting in the court of the women.",
+            "Money. Lit, 'brass,' copper-money, which probably formed the usual offering.",
+            "That Pharisaism could do this is certain; thus they would cause these 'trumpets' to sound before them."
+        ],
+        "Archibald T. Robertson": [
+            "Sat down over against the treasury... Mark draws this immortal picture of the weary Christ sitting by the treasury...\" (Quote 1)",
+            "He was watching how the multitude cast money into the treasury.\" (Quote 2)",
+            "The rich were casting in as he watched.\" (Quote 3)"
+        ],
+        "John Gill": [
+            "Jesus having done preaching, and the Scribes and Pharisees having left him, and the multitude being dismissed, he sat down, being weary, and rested himself in this place.",
+            "and beheld; with pleasure.",
+            "they gave very liberally and largely, as they were possessed with much worldly substance; for though religion was at a low ebb with them, yet they took care to support the external and ritual part of it."
+        ],
+        "John Wesley": [
+            "He beheld how people cast money into the treasury.",
+            "This treasury received the voluntary contributions of the worshippers.",
+            "Given to buy wood for the altar, and other necessaries not provided for in any other way."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus sat down opposite the treasury, he observed thoughtfully how the multitude cast money into it. He was not merely glancing, but rather watching intently as the rich and the poor alike contributed. Mark draws this immortal picture of the weary Christ, who had just taken his leave of the temple, sitting by the treasury and beholding with pleasure how people cast money into it. It is noteworthy that some gave very liberally and largely, as they were possessed with much worldly substance, ensuring the support of the external and ritual part of religion. The treasury received these voluntary contributions which were given for various purposes, such as purchasing wood for the altar and meeting other necessities.",
+            "wordCount": 118,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.5511205587917238,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
+            "commentatorTierSimilarities": [
+                26.53,
+                28.01,
+                45.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sitting opposite the treasury, Jesus observed how the multitude cast money into it. Mark portrays the weary Christ, having just left the temple, watching intently as people contributed. Some gave generously, motivated by their abundance of worldly possessions, ensuring the support of external rituals. The treasury received these voluntary contributions for various purposes, such as buying wood for the altar and meeting other necessities. Jesus, with a thoughtful gaze, beheld the act of giving, finding pleasure in the devotion of those who contributed.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.472958530655894,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                24.28,
+                28.64,
+                47.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sitting opposite the treasury, Jesus observed how the multitude cast money into it. Mark portrays the weary Christ, having just left the temple, watching intently as people contributed. Some gave generously, motivated by their abundance of worldly possessions, ensuring the support of external rituals. The treasury received these voluntary contributions for various purposes, such as buying wood for the altar and meeting other necessities. Jesus, with a thoughtful gaze, beheld the act of giving, finding pleasure in the devotion of those who contributed.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 1.472958530655894,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.32,
+            "commentatorTierSimilarities": [
+                24.28,
+                28.64,
+                47.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sitting opposite the treasury, Jesus observed how the multitude cast money into it. Mark draws a vivid picture of the weary Christ, who had just taken his leave of the temple, sitting by the treasury and beholding how people, both rich and poor, contributed. Some gave generously, driven by their abundance of worldly possessions, while others gave more modestly. The treasury received these voluntary offerings, which were used for various purposes, such as buying wood for the altar and meeting other necessities. Jesus found pleasure in witnessing the devotion of those who contributed.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.5190513830777923,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.85,
+            "commentatorTierSimilarities": [
+                25.94,
+                29.34,
+                44.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus sat down opposite the treasury, he observed thoughtfully how the multitude cast money into it. He watched intently as the rich were casting in their offerings. Mark draws this immortal picture of the weary Christ, who had just taken his leave of the temple, sitting by the treasury and beholding with pleasure how people, both rich and poor, were contributing. The treasury received these voluntary contributions, which were used for various purposes, such as buying wood for the altar and other necessary items.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.7086543922224129,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                32.49,
+                27.34,
+                40.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:29:40",
+    "verseRef": "Mark 15:17",
+    "bestBHT": {
+        "bht": "The soldiers mockingly dressed Jesus in a purple robe, a symbol of pretended greatness. Matthew uses the term scarlet, but purple is often used as a general term for various shades of red. The color of the robe is less significant than its symbolic meaning: the soldiers placed it on Jesus as if it were a royal garment. They also added a crown of thorns and a reed, further mocking his authority as they mimicked a crown and scepter.",
+        "wordCount": 79,
+        "quoteTokenProportion": 42.59,
+        "qualityScore": 2.3194466817065704,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.46,
+        "commentatorTierSimilarities": [
+            40.66,
+            22.38,
+            36.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] purple, in Greek, is vaguely used, to signify different shades of red, and is especially convertible with \u201cscarlet\u201d as St. Matthew."
+        ],
+        "Albert Barnes": [
+            "Matthew says scarlet. See the notes at Matthew 27:28.",
+            "In the form of a garland or diadem.",
+            "The whole head was not covered, but it was placed in a circle round the temples."
+        ],
+        "Marvin Vincent": [
+            "Purple. See on Matthew 27:28. Matthew adds the word for soldier 's cloak. Mark has simply purple."
+        ],
+        "Philip Schaff": [
+            "The scarlet military cloak no more required to be a real purple, than the crown of thorns required to be a real crown, or the reed a real sceptre; for the whole transaction was an ironical drama.\" ",
+            "The staff must be a reed, the symbol of impotence; the crown must injure and pierce the brow.",
+            "The purple present the symbol of miserable pretended greatness: and this was done by its being an old camp-mantle."
+        ],
+        "Archibald T. Robertson": [
+            "Purple (\u03c0\u03bf\u03c1\u03c6\u03c5\u03c1\u03b1\u03bd). Matthew 27:28 has \"scarlet robe\" which see for discussion as well as for the crown of thorns. "
+        ],
+        "John Gill": [
+            "It was of a colour resembling purple; it was pretty near it, and therefore so called; which is what kings were used to wear.\" ",
+            "And so in derision of him, as a king, clothed him with this mock purple robe.\" ",
+            "Put it about his head; for a crown, and also a reed in his hand, instead of a sceptre."
+        ],
+        "John Wesley": [
+            "Purple \u2014 As royal robes were usually purple and scarlet..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The soldiers mockingly dressed Jesus in a purple robe, a symbol of pretended greatness. Though Matthew uses the term scarlet, the Greek word for purple is often used to signify different shades of red. It's important to note that the color of the robe is not as significant as its symbolic meaning. This cloak, along with the crown of thorns and the reed, all serve as ironic symbols of kingship. The soldiers placed the robe on Jesus as if it were a royal garment, and also placed a reed in his hand, mocking his authority with a fake scepter.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.3018688414542634,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.88,
+            "commentatorTierSimilarities": [
+                40.28,
+                23.36,
+                36.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The soldiers mockingly dressed Jesus in a purple robe, a symbol of pretended greatness. Matthew uses the term scarlet, but purple is often used as a general term for various shades of red. The color of the robe is less significant than its symbolic meaning: the soldiers placed it on Jesus as if it were a royal garment. They also added a crown of thorns and a reed, further mocking his authority as they mimicked a crown and scepter.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.3194466817065704,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.46,
+            "commentatorTierSimilarities": [
+                40.66,
+                22.38,
+                36.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers mockingly dressed Jesus in a purple robe, as purple was often associated with royalty and greatness. While Matthew calls it a scarlet robe, the Greek word used can encompass various shades of red. The color itself is not as important as the symbolic meaning it conveyed - a false display of authority. The soldiers also placed a crown of thorns on his head, mimicking a crown, and handed him a reed, pretending it was a scepter. This whole act was a mocking portrayal of Jesus as a fake king.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.093350978885154,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                39.01,
+                23.75,
+                37.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldiers sarcastically clothed Jesus in a purple robe, which was often worn by kings. Although Matthew refers to it as a scarlet robe, the Greek word used can also denote various shades of red. Rather than being a literal representation, the color serves as a symbol of false grandeur. To amplify the mockery, they placed a crown of thorns on his head, simulating a royal crown, and handed him a reed as a pretend scepter. This cruel display was a scornful depiction of Jesus as a counterfeit king.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9984831188606282,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                36.39,
+                25.27,
+                38.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers adorned Jesus with a purple robe, a symbol of superficial greatness. Although Matthew uses the term scarlet, purple and scarlet were often interchanged. The color is less important than the mocking intent behind it. The soldiers treated Jesus as a mock-king by placing the robe on him, fashioned a crown of thorns to imitate a royal crown, and handed him a reed as a fake scepter. This cruel scene portrayed Jesus as a sham king, ridiculing his authority.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0177366591336012,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                39.11,
+                24.0,
+                36.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

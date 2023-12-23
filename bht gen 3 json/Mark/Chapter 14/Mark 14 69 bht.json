@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-22-2023 23:28:54",
+    "verseRef": "Mark 14:69",
+    "bestBHT": {
+        "bht": "After denying Jesus twice, Peter is challenged by a girl at the gate, who possibly overheard the talk about him. This challenge was likely repeated by another person, making the situation even more tense. The question put to Peter is particularly sharp and pungent, serving as the climax of the accusations against him. It is clear to those present that Peter is associated with Jesus, and they all will soon join in accusing him.",
+        "wordCount": 74,
+        "quoteTokenProportion": 48.28,
+        "qualityScore": 1.4826418694263617,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.64,
+        "commentatorTierSimilarities": [
+            70.16,
+            0.0,
+            29.84
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is necessarily the same maid as before: it might be only the maid in waiting in the porch."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a girl\" or \"the girl\"; it might mean just the female who had charge of the door or gate near which Peter now was.",
+            "But there is no real difficulty, as the challenge, probably, after being made by one was reiterated by another.",
+            "This [fellow] was also with Jesus the Nazarene."
+        ],
+        "Archibald T. Robertson": [
+            "This talk about Peter was overheard by him.\" ",
+            "Soon the bystanders will join in the accusation to Peter.",
+            "...with the specially pungent question in John 18:26 which was the climax."
+        ],
+        "John Gill": [
+            "This man is one of the disciples and followers of Jesus of Nazareth; he is of that sect.\" ",
+            "He certainly belongs to them, and is come here only as a spy.",
+            "He is one of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After denying Jesus twice, Peter is challenged by a girl at the gate, who possibly overheard the talk about him. This challenge was likely repeated by another person, making the situation even more tense. The question put to Peter is particularly sharp and pungent, serving as the climax of the accusations against him. It is clear to those present that Peter is associated with Jesus, and they all will soon join in accusing him.",
+            "wordCount": 74,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.4826418694263617,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.64,
+            "commentatorTierSimilarities": [
+                70.16,
+                0.0,
+                29.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After previously denying Jesus, Peter is confronted by a girl at the gate who had likely overheard the talk about him. The challenge is repeated, intensifying the situation. The question posed to Peter is particularly pointed and serves as the climax of the accusations against him. It becomes evident to those present that Peter is connected to Jesus, and soon the bystanders will join in accusing him.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.35558501849332,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.42,
+            "commentatorTierSimilarities": [
+                69.46,
+                0.0,
+                30.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Peter stood near the gate, a girl who had been present before challenged him, possibly having overheard the conversations about him. This young girl's challenge was not the only one, as someone else likely reiterated it, adding to the tension. The question posed to Peter was especially biting, serving as a climactic moment in the accusations against him. It was clear to the onlookers that Peter was associated with Jesus, and they would soon join in accusing him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.398127396693537,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.83,
+            "commentatorTierSimilarities": [
+                76.77,
+                0.0,
+                23.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's denial of Jesus takes a new turn as he is challenged by a girl at the gate, who may have overheard the previous conversations. The repeated challenge intensifies the tension, and the question posed to Peter is particularly biting, acting as the apex of the accusations. It becomes evident to everyone present that Peter is connected to Jesus, and it won't be long before the bystanders join in accusing him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.424358304475348,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.7,
+            "commentatorTierSimilarities": [
+                67.26,
+                0.0,
+                32.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Under the weight of his denials of Jesus, Peter finds himself confronted by a girl near the gate who had likely overheard the discussions about him. The challenge is echoed, heightening the tension, and the question she poses is particularly incisive, serving as the culmination of the accusations against Peter. It becomes apparent to those present that Peter is associated with Jesus, and soon enough, the bystanders will also join in accusing him.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.4088025798337338,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.19,
+            "commentatorTierSimilarities": [
+                62.54,
+                0.0,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-22-2023 23:26:37",
+    "verseRef": "Mark 10:35",
+    "bestBHT": {
+        "bht": "Approaching Jesus cautiously, the two brothers, along with their mother, desired that Jesus would fulfill whatever they asked of Him. Their request may have been prompted by the promise of thrones for the Twelve in Jesus' coming glory. However, the brothers' approach seemed selfish and entitled, resembling spoiled children. They attempted to gain Jesus' commitment before revealing their desires. Yet, it is evident that the request originated from them directly, indicating a lack of awareness regarding the appropriateness of their petition.",
+        "wordCount": 81,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 1.2568722026940509,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+        "commentatorTierSimilarities": [
+            43.88,
+            31.11,
+            25.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "We cannot be sure with which of the parties the movement originated; but as our Lord, even in Matthew's account, addresses Himself to James and John, taking no account of the mother, it is likely the mother was merely set on by them.",
+            "The thought was doubtless suggested to her sons by the recent promise to the Twelve of 'thrones to sit on, when the Son of man should sit on the throne of His glory.'",
+            "Master, we would that thou shouldest do for us whatsoever we shall desire\u2014thus cautiously approaching the subject."
+        ],
+        "Philip Schaff": [
+            "The request doubtless originated with them.",
+            "The form of the request is more fully stated here.",
+            "There appears the same consciousness that what was desired was of doubtful propriety."
+        ],
+        "Archibald T. Robertson": [
+            "The request of the two brothers with their mother comes immediately after the talk about Christ's death.",
+            "We wish, we want, bluntly told.",
+            "They try to commit Jesus to their desires before they tell what they are, just like spoiled children."
+        ],
+        "John Gill": [
+            "We would that thou shouldst do for us whatsoever we shall desire.",
+            "That is, we earnestly desire, that thou wouldst not deny us it, be it what it will.",
+            "We can make thee amends for all the honour thou hast done us."
+        ],
+        "John Wesley": [
+            "Saying \u2014 By their mother. It was she, not they that uttered the words. Matthew 20:20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The two brothers, James and John, along with their mother, approached Jesus with a request, desiring that Jesus would do whatever they asked of him. It seems that their request was influenced by the recent promise made to the Twelve of sitting on thrones when Jesus would sit on the throne of His glory. Their approach to Jesus was cautious, trying to commit Him to their desires without explicitly stating them. However, it is likely that the request originated with the two brothers themselves. They wanted Jesus to grant them this wish, displaying a sense of entitlement and behaving like spoiled children. It appears that they were not fully aware of the propriety of their request.",
+            "wordCount": 116,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.422623157984451,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.65,
+            "commentatorTierSimilarities": [
+                38.63,
+                38.79,
+                22.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Approaching Jesus cautiously, the two brothers, along with their mother, desired that Jesus would fulfill whatever they asked of Him. Their request may have been prompted by the promise of thrones for the Twelve in Jesus' coming glory. However, the brothers' approach seemed selfish and entitled, resembling spoiled children. They attempted to gain Jesus' commitment before revealing their desires. Yet, it is evident that the request originated from them directly, indicating a lack of awareness regarding the appropriateness of their petition.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.2568722026940509,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+            "commentatorTierSimilarities": [
+                43.88,
+                31.11,
+                25.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Approaching Jesus with caution, the two brothers, along with their mother, expressed their strong desire for Jesus to fulfill whatever they asked of Him. This request may have been influenced by the promise of thrones for the Twelve in Jesus' future glory. However, their approach was self-centered and showed a sense of entitlement. They attempted to secure Jesus' agreement before disclosing their specific desires, resembling the behavior of spoiled children. It is evident that the request originated from the brothers themselves and revealed a lack of awareness regarding the appropriateness of their petition.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.2056360569036537,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.43,
+            "commentatorTierSimilarities": [
+                46.57,
+                30.48,
+                22.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Cautiously, the two brothers and their mother approached Jesus, wanting Him to grant whatever they desired. Their request may have been influenced by the promise of future thrones for the Twelve. However, their approach demonstrated a sense of entitlement and self-centeredness, resembling the behavior of spoiled children. They sought to secure Jesus' agreement before revealing their specific desires. It is clear that the request originated from the brothers themselves, showing a lack of awareness of the appropriateness of their petition.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.2529018034423345,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.0,
+            "commentatorTierSimilarities": [
+                43.1,
+                35.14,
+                21.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With cautious audacity, the two brothers, accompanied by their mother, implored Jesus to fulfill their every desire. Their request may have stemmed from the promise of future thrones for the Twelve. However, their approach revealed a sense of entitlement and a lack of awareness, resembling that of spoiled children. They aspired to secure Jesus' agreement without disclosing their specific desires upfront, asserting their own wishes above all else. It is evident that the brothers themselves initiated this audacious request, disregarding any concerns of propriety.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.19769461491519,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.17,
+            "commentatorTierSimilarities": [
+                44.63,
+                31.11,
+                24.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

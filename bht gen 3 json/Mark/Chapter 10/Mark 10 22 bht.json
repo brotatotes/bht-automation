@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-22-2023 23:26:05",
+    "verseRef": "Mark 10:22",
+    "bestBHT": {
+        "bht": "The man's countenance fell when he was told to sell all he had and give it away, for he had great possessions. This request struck a blow to his pride and self-conceit, as he was being called to part with his substance. The word used to describe his countenance falling painted a vivid picture of the gloom and sadness that clouded his face. It was exceedingly disagreeable for him to let go of his self-righteousness and mammon of unrighteousness.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.6420121572877013,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+        "commentatorTierSimilarities": [
+            27.29,
+            20.81,
+            51.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "22.] for he had great possessions\u2014so also St. Matthew."
+        ],
+        "Marvin Vincent": [
+            "He was sad [\u03c3\u03c4\u03c5\u03b3\u03bd\u03b1\u03c3\u03b1\u03c2] . Applied to the sky in Matthew 16:3; lowering. The word paints forcibly the gloom which clouded his face."
+        ],
+        "Philip Schaff": [
+            "Mark 10:22. But his countenance fell. A strong expression, peculiar to Mark, who loves such minute details of look and gesture. See on Matthew 19:22.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "But his countenance fell\" - \u03bf \u03b4\u03b5 \u03c3\u03c4\u03c5\u03b3\u03bd\u03b1\u03c3\u03b1\u03c2.",
+            "The verb is from \u03c3\u03c4\u03c5\u03b3\u03bd\u03bf\u03c2, sombre, gloomy, like a lowering cloud\" - \u03c3\u03c4\u03c5\u03b3\u03bd\u03bf\u03c2.",
+            "See on Matthew 19:22 for discussion of 'sorrowful'\" - \u03bb\u03c5\u03c0\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c2."
+        ],
+        "John Gill": [
+            "That he lacked one thing, and especially that he should be bid to sell all that he had, and give it away; and what might add to his sadness is, that he must take up the cross of reproach, affliction, persecution, and death.",
+            "Finding that he must part with two things his heart was set upon, his idol of self-righteousness, and his mammon of unrighteousness; the bladder of his pride was pricked, and his vanity and self-conceit were exposed.",
+            "He was called upon to part with his substance; all which were sadly mortifying, and exceedingly disagreeable to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man in this verse had great possessions, but his countenance fell when he was told to sell all he had and give it away. The word used to describe his countenance falling paints a vivid picture of the gloom and sadness that clouded his face. This request to give up his possessions was a difficult one, especially since it meant parting with two things he valued - his self-righteousness and his wealth. It was a blow to his pride and self-conceit, and he found it exceedingly disagreeable to part with his substance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6280887251273226,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.48,
+            "commentatorTierSimilarities": [
+                23.92,
+                24.07,
+                52.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man's countenance fell when he was told to sell all he had and give it away, as he had great possessions. This request was particularly difficult for him because it meant parting with two things he held dear - his self-righteousness and his wealth. It was a blow to his pride and self-conceit, and he found it exceedingly disagreeable to part with his substance. The word used to describe his countenance falling painted a vivid picture of the gloom and sadness that clouded his face.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.6026731127325542,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.63,
+            "commentatorTierSimilarities": [
+                23.62,
+                23.58,
+                52.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man's countenance fell when he was told to sell all he had and give it away, for he had great possessions. This request struck a blow to his pride and self-conceit, as he was being called to part with his substance. The word used to describe his countenance falling painted a vivid picture of the gloom and sadness that clouded his face. It was exceedingly disagreeable for him to let go of his self-righteousness and mammon of unrighteousness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6420121572877013,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                27.29,
+                20.81,
+                51.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man's countenance fell when he was told to sell all he had and give it away, for he had great possessions. This request struck a blow to his pride and self-conceit, as he was being called to part with his substance. The word used to describe his countenance falling painted a vivid picture of the gloom and sadness that clouded his face. It was exceedingly disagreeable for him to let go of his self-righteousness and mammon of unrighteousness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6420121572877013,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                27.29,
+                20.81,
+                51.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man's countenance fell when he was told to sell all he had and give it away because he had great possessions. This request was difficult for him as it meant parting with his self-righteousness and his wealth. The word used to describe his countenance falling depicted the gloom and sadness that clouded his face. It was challenging for him to relinquish both his pride and his material possessions, making the situation exceedingly disagreeable for him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.5918956944028604,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                25.67,
+                22.78,
+                51.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

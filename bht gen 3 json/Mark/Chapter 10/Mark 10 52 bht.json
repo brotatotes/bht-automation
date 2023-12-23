@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-22-2023 23:27:00",
+    "verseRef": "Mark 10:52",
+    "bestBHT": {
+        "bht": "The account of Bartimaeus in Mark and Luke highlights the strength of his faith as he is healed by a word from Jesus. Witnessing this miracle, people give glory to God. Bartimaeus joyfully follows Jesus into the new Jericho. Save encompasses both physical and spiritual salvation. The affirmation to go thy way assures that his prayer has been granted. This final detailed miracle encourages us to have faith. Bartimaeus' faith not only restores his physical sight but also saves him spiritually, becoming a symbol of God\u2019s people who follow Christ in enlightenment.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 1.5402585881409165,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+        "commentatorTierSimilarities": [
+            31.56,
+            31.31,
+            37.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The account here and in Luke seems to correspond more closely with the wonderful strength of his faith.",
+            "Our Lord healed by a word in such cases.",
+            "St. Luke adds, 'glorifying God,'\u2014and that all the people seeing him gave glory to God."
+        ],
+        "John Calvin": [
+            "Thy faith hath saved thee...by faith the blind man obtained that God was gracious to him, and granted his wish.",
+            "And if it was in regard to faith that God bestowed his favor on the blind man, it follows that he was justified by faith.",
+            "The use of the gifts of God is so far from being advantageous to unbelievers, that it is even hurtful."
+        ],
+        "Philip Schaff": [
+            "Go thy way. Not necessarily a command to depart, but a token that his prayer was granted.",
+            "The commendation is omitted by Matthew, who speaks of our Lord touching the blind man, but this seems more accurate.",
+            "This is the last miracle recorded in detail in the Gospels, and one of the most encouraging."
+        ],
+        "Archibald T. Robertson": [
+            "The imperfect tense picturing joyful Bartimaeus as he followed the caravan of Jesus into the new Jericho.",
+            "The word commonly means save and that may be the idea here."
+        ],
+        "John Gill": [
+            "Thy faith hath made thee whole; or 'saved thee'; and which respected not only the power of Christ in restoring his sight, but his faith in Jesus as the Messiah, the son of David: so that by Christ, the object of his faith, he was saved, both in soul and body.",
+            "This man was an emblem of the people of God, before, at, and after conversion: before conversion; for, as he was blind, so are they; they are without any spiritual sight and discerning of God, as in Christ, as the God of all grace, as their Covenant God and Father.",
+            "After conversion; for, as this man, when he had received his sight from Christ, followed him in the way; so the people of God, being enlightened by Christ, follow him as their leader and commander, as the captain of their salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The account of Mark 10:52 and Luke seems to highlight the incredible strength of Bartimaeus' faith, as our Lord healed him with just a word. St. Luke adds that all the people seeing him gave glory to God. Bartimaeus followed Jesus joyfully into the new Jericho, and it is worth noting that the word save may encompass the idea of both physical and spiritual salvation. The commendation of go thy way is a sign that his prayer was granted. This is the last detailed miracle in the Gospels and serves as a powerful reminder of the encouraging nature of faith. Through his faith, Bartimaeus was not only physically healed but saved both in soul and body. In this way, he became an emblem of the people of God, before, at, and after conversion, as they, like him, were once blind but have been enlightened by Christ and now follow Him as their leader and commander.",
+            "wordCount": 154,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.6903014681957282,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.54,
+            "commentatorTierSimilarities": [
+                29.39,
+                32.27,
+                38.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The account of Bartimaeus in Mark and Luke demonstrates the remarkable strength of his faith, as Jesus healed him with a mere word. People witnessing this miracle praised God. Bartimaeus followed Jesus gladly into the new Jericho. Save in this context signifies both physical and spiritual salvation. The affirmation to go thy way assures that his prayer was answered. This final detailed miracle serves as a powerful testament to the encouraging nature of faith. Through his faith, Bartimaeus experienced both physical and spiritual wholeness, becoming an emblem of God's people who, like him, were once blind but have now been enlightened by Christ and follow Him.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.553666846848432,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.0,
+            "commentatorTierSimilarities": [
+                30.46,
+                30.54,
+                39.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The account of Bartimaeus in Mark and Luke demonstrates the remarkable strength of his faith, as Jesus healed him with a mere word. People witnessing this miracle praised God. Bartimaeus followed Jesus gladly into the new Jericho. Save signifies both physical and spiritual salvation. The affirmation to go thy way assures that his prayer was answered. This final detailed miracle serves as a powerful testament to the encouraging nature of faith. Through his faith, Bartimaeus experienced physical and spiritual wholeness, becoming an emblem of God's people who, like him, were once blind but have now been enlightened by Christ and follow Him.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.535057278552435,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "commentatorTierSimilarities": [
+                30.06,
+                30.39,
+                39.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The account of Bartimaeus in Mark and Luke illustrates the incredible strength of his faith, as Jesus healed him with a word. Witnessing this miracle, people praised God. Bartimaeus gladly followed Jesus into the new Jericho. Save implies both physical and spiritual salvation. Go thy way signifies the granting of his prayer. This final detailed miracle is a powerful testimony to the encouraging nature of faith. Through his faith, Bartimaeus experienced both physical and spiritual wholeness, serving as an emblem of God's people who were once blind but now follow Christ in enlightenment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.5352899845033612,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+            "commentatorTierSimilarities": [
+                30.39,
+                30.67,
+                38.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The account of Bartimaeus in Mark and Luke highlights the strength of his faith as he is healed by a word from Jesus. Witnessing this miracle, people give glory to God. Bartimaeus joyfully follows Jesus into the new Jericho. Save encompasses both physical and spiritual salvation. The affirmation to go thy way assures that his prayer has been granted. This final detailed miracle encourages us to have faith. Bartimaeus' faith not only restores his physical sight but also saves him spiritually, becoming a symbol of God\u2019s people who follow Christ in enlightenment.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.5402585881409165,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.56,
+            "commentatorTierSimilarities": [
+                31.56,
+                31.31,
+                37.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

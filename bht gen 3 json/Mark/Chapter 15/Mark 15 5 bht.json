@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-22-2023 23:28:55",
+    "verseRef": "Mark 15:5",
+    "bestBHT": {
+        "bht": "Pilate, seeing through the envy of the chief priests and being sure of Jesus' innocence, marveled at the self-control Jesus displayed. He hoped that Jesus would provide a defense, relieving Pilate of the burden. Yet, Jesus remained silent, leaving Pilate to ponder the significance of his silence. It was a silence that put Jesus in great danger, which Pilate believed could have been avoided by Jesus speaking up for himself.",
+        "wordCount": 71,
+        "quoteTokenProportion": 47.17,
+        "qualityScore": 2.1765989027169708,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+        "commentatorTierSimilarities": [
+            60.95,
+            0.0,
+            39.05
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Pilate was sure of the innocence of Jesus and saw through their envy.",
+            "He marvelled at the self-control of Jesus.",
+            "He was hoping that Jesus would answer these charges to relieve him of the burden."
+        ],
+        "John Gill": [
+            "He still continued silent, and made no defence for himself.",
+            "What should be the meaning of his silence, when he was so capable of defending himself?",
+            "His silence exposed him to a great deal of danger, which Pilate thought might easily be avoided by answering for himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, recognizing Jesus' innocence and seeing through the envy of the chief priests, marveled at Jesus' self-control. He was hoping that Jesus would answer the charges brought against him, as it would relieve Pilate of the burden. Yet, Jesus remained silent, choosing not to defend himself. Pilate wondered about the meaning of this silence, considering Jesus' ability to speak up in his defense. However, Jesus' silence ultimately exposed him to greater danger, as Pilate believed that answering for himself could have easily avoided the impending consequences.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.0987520130110715,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.12,
+            "commentatorTierSimilarities": [
+                56.7,
+                0.0,
+                43.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Recognizing the envy of the chief priests and Jesus' innocence, Pilate marveled at his self-control and hoped that Jesus would answer the charges against him to lighten his own burden. However, Jesus chose to remain silent, leaving Pilate to wonder about the significance of his silence. Despite Jesus' capability to defend himself, his choice to say nothing put him in greater danger, as Pilate believed that if Jesus had spoken up, it could have easily averted the impending consequences.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9541253522203665,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                57.6,
+                0.0,
+                42.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, convinced of Jesus' innocence and seeing through the envy of the chief priests, marveled at the self-control Jesus displayed. Hoping that Jesus would speak up to relieve him of the burden, Pilate was puzzled by Jesus' continued silence. Despite his ability to defend himself, Jesus made no effort to do so, which put him at even greater risk. Pilate believed that answering for himself could have easily avoided the imminent danger that awaited him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9365084770309695,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                58.78,
+                0.0,
+                41.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing Jesus' innocence and the envy of the chief priests, Pilate marveled at his self-control and hoped that Jesus would answer the charges to lessen his own burden. Jesus, however, remained silent, causing Pilate to question the meaning behind his choice. Despite his ability to defend himself, Jesus chose not to, exposing himself to greater danger. Pilate believed that if Jesus had spoken up, it could have easily avoided the impending consequences.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.9515903920561861,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                58.61,
+                0.0,
+                41.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, seeing through the envy of the chief priests and being sure of Jesus' innocence, marveled at the self-control Jesus displayed. He hoped that Jesus would provide a defense, relieving Pilate of the burden. Yet, Jesus remained silent, leaving Pilate to ponder the significance of his silence. It was a silence that put Jesus in great danger, which Pilate believed could have been avoided by Jesus speaking up for himself.",
+            "wordCount": 71,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.1765989027169708,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.71,
+            "commentatorTierSimilarities": [
+                60.95,
+                0.0,
+                39.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

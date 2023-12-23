@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:28:25",
+    "verseRef": "Mark 14:46",
+    "bestBHT": {
+        "bht": "After Christ had said to Judas, 'friend, wherefore art thou come?' Mark omits our Lord's words to Judas. It is important to note, however, that Judas was about to betray Jesus with a kiss. This ironic act of betrayal emphasizes the depth of Jesus' love and the weight of our own choices.",
+        "wordCount": 53,
+        "quoteTokenProportion": 39.53,
+        "qualityScore": 1.7720278121709725,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+        "commentatorTierSimilarities": [
+            0.0,
+            35.46,
+            64.54
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 14:46. Mark omits our Lord\u2019s words to Judas.",
+            "\t"
+        ],
+        "John Gill": [
+            "After Christ had said to Judas, 'friend, wherefore art thou come?'",
+            "Judas, betrayest thou the son of man with a kiss?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After Christ had said to Judas, 'friend, wherefore art thou come?' (Mark 14:46), Mark omits our Lord's words to Judas. However, it is clear from other Gospel accounts that Judas was about to betray Jesus with a kiss. This moment of betrayal is filled with irony, as a gesture of friendship is used as a cover for treachery. The significance of this event reminds us of the depth of Jesus' love and the weight of our own choices.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.3803154509526505,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.24,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.44,
+                63.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After Christ had said to Judas, 'friend, wherefore art thou come?' (Mark 14:46), Judas, betrayest thou the son of man with a kiss? This moment of betrayal is filled with irony, as a gesture of friendship is used as a cover for treachery. The significance of this event reminds us of the depth of Jesus' love and the weight of our own choices.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.2115029479128776,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.63,
+            "commentatorTierSimilarities": [
+                0.0,
+                26.93,
+                73.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After Christ had said to Judas, 'friend, wherefore art thou come?' Mark omits our Lord's words to Judas. However, it is clear from other Gospel accounts that Judas was about to betray Jesus with a kiss. The significance of this event reminds us of the depth of Jesus' love and the weight of our own choices.",
+            "wordCount": 57,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.7288439244903382,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.0,
+                64.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After Christ had said to Judas, 'friend, wherefore art thou come?' Mark omits our Lord's words to Judas. It is important to note, however, that Judas was about to betray Jesus with a kiss. This ironic act of betrayal emphasizes the depth of Jesus' love and the weight of our own choices.",
+            "wordCount": 53,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.7720278121709725,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.46,
+                64.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After Christ had said to Judas, 'friend, wherefore art thou come?', Mark omits our Lord's words to Judas. This speaks to the significance of the moment, as Judas was about to betray Jesus with a kiss. This act of treachery highlights the irony of using a gesture of friendship to conceal one's betrayal. It serves as a poignant reminder of the depth of Jesus' love and the weight of our own choices.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3331453738048265,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.44,
+                64.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

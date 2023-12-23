@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:26:53",
+    "verseRef": "Mark 12:1",
+    "bestBHT": {
+        "bht": "The wine-press and vineyard imagery in this parable reflect God, the householder, entrusting the care of the vineyard to the workers. The workers are likened to the men of Israel, emphasizing the close relationship between them and God. The parable illustrates the importance of the workers fulfilling their responsibility and tending to the vineyard. Through this parable, the sense of loneliness and reflection highlights the seriousness of their role in stewarding God's vineyard.",
+        "wordCount": 75,
+        "quoteTokenProportion": 26.83,
+        "qualityScore": 1.1590013839463984,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.88,
+        "commentatorTierSimilarities": [
+            29.06,
+            0.0,
+            70.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The wine-press was constructed in the side of a sloping rock, in which a trough was excavated, which was the wine press proper.",
+            "The word here used for the whole structure strictly means this trough underneath the press.",
+            "The word means simply went abroad. So Wyc., went forth in pilgrimage; and Tynd., into a strange country."
+        ],
+        "Archibald T. Robertson": [
+            "The circumstances called forth the parabolic mood, that of one whose heart is chilled, and whose spirit is saddened by a sense of loneliness, and who, retiring within himself, by a process of reflection, frames for his thoughts forms which half conceal, half reveal them.\" ",
+            "A pit for the winepress... the vessel or trough under the winepress on the hillside to catch the juice when the grapes were trodden.",
+            "Husbandmen... workers in the ground, tillers of the soil."
+        ],
+        "John Gill": [
+            "This man is, by the Evangelist Matthew, called an 'householder': by whom is meant God the Father, as distinguished from his Son.",
+            "And by the 'vineyard', planted by him, is meant the vineyard of the Lord of hosts, the men of Israel.",
+            "And let it out to husbandmen; or 'workmen', as the Arabic version renders it, who wrought in it, and took care of the vines."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 12:1, the imagery of the wine-press and the vineyard symbolizes the labor and care that God, the householder, has invested in his people, the workers in the ground. The parabolic mood of the passage reflects a sense of loneliness and reflection, as the householder entrusts the vineyard to the workers. This imagery of a vineyard highlights the close relationship between God and the people of Israel, who are compared to workers in the vineyard. The parable emphasizes the responsibility of the workers to steward the vineyard well.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.61,
+            "qualityScore": 1.2118460782479772,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.64,
+            "commentatorTierSimilarities": [
+                31.09,
+                0.0,
+                68.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The wine-press and vineyard imagery in this parable reflect God, the householder, entrusting the care of the vineyard to the workers. The workers are likened to the men of Israel, emphasizing the close relationship between them and God. The parable illustrates the importance of the workers fulfilling their responsibility and tending to the vineyard. Through this parable, the sense of loneliness and reflection highlights the seriousness of their role in stewarding God's vineyard.",
+            "wordCount": 75,
+            "quoteTokenProportion": 26.83,
+            "qualityScore": 1.1590013839463984,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.88,
+            "commentatorTierSimilarities": [
+                29.06,
+                0.0,
+                70.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wine-press and vineyard imagery in Mark 12:1 captures the deep relationship between God, the householder, and the workers who care for the vineyard. These workers, referring to the men of Israel, have a sacred responsibility as tillers of the soil to tend to the vineyard. This parable serves as a reminder for the workers to diligently fulfill their duties and honor the trust and investment God has made in them. The parabolic mood of the passage reflects a sense of loneliness and introspection, indicating the gravity of their role in nurturing God's vineyard.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.177511733159725,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.5,
+            "commentatorTierSimilarities": [
+                35.77,
+                0.0,
+                64.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wine-press and vineyard imagery in this parable beautifully portray the intimate connection between God, the householder, and the workers who tend to the land. The workers, representing the men of Israel, hold the immense responsibility of caring for the vineyard. This parable draws us into a contemplative mood, emphasizing the seriousness of their role. Through this vivid imagery, we are reminded of the trust and investment God has placed in His people and the importance of faithfully stewarding His vineyard.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.0869237236211637,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.48,
+            "commentatorTierSimilarities": [
+                31.53,
+                0.0,
+                68.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable in Mark 12:1 utilizes the imagery of a wine-press and vineyard to convey the relationship between God, the householder, and the workers who tend to the land. These workers, symbolizing the men of Israel, bear the responsibility of cultivating the vineyard. The parable's emotional tone of introspection and solitude underscores the weightiness of their task. It serves as a poignant reminder of the trust God has placed in them to diligently care for His vineyard, emphasizing their role as faithful stewards.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.1457756754013193,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.44,
+            "commentatorTierSimilarities": [
+                33.78,
+                0.0,
+                66.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

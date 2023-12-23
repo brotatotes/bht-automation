@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:25:27",
+    "verseRef": "Mark 9:47",
+    "bestBHT": {
+        "bht": "Plucking out one's eye may seem extreme, but it is better to enter the kingdom of God with one eye than to be cast into hell-fire. The eye, which is tender and useful, represents something dear to us, perhaps even a beloved friend or companion, that becomes a stumbling block or leads us into sin. God urges us to let go of these earthly attachments if they hinder our walk with Him. The kingdom of God, prepared by His grace, is far more valuable and enduring than anything we may lose in the process.",
+        "wordCount": 96,
+        "quoteTokenProportion": 50.7,
+        "qualityScore": 1.7015387103921005,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+        "commentatorTierSimilarities": [
+            40.06,
+            0.0,
+            59.94
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell-fire.\" ",
+            "On the words 'hell' and 'hell-fire,' or 'the hell of fire,' see on :-."
+        ],
+        "Marvin Vincent": [
+            "With one eye [\u03bc\u03bf\u03bd\u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u03bd] . Lit., one - eyed. One of Mark's words which is branded as slang. Wyc. oddly renders goggle - eyed."
+        ],
+        "Archibald T. Robertson": [
+            "With one eye (\u03bc\u03bf\u03bd\u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u03bd). Literally one-eyed. See also Matthew 18:9. Vernacular Koine and condemned by the Atticists. See Matthew 18:8. Mark has here \"kingdom of God\" where Matthew 18:9 has \"life.\" "
+        ],
+        "John Gill": [
+            "And if thine eye offend thee, pluck it out,.... Than which, nothing is dearer to man, it being very tender, and exceeding useful: this metaphor the Lord sometimes makes use of, to show how dear his people are unto him, and what a tender concern he has for them, Deuteronomy 32:10.",
+            "And here it may design such, as are most beloved by men, and are their most intimate acquaintance, and bosom friends; and yet these are to be parted with, when they prove snares and stumbling blocks, or give offence, by endeavouring to draw into sin, and from Christ.",
+            "it is better for thee to enter into the kingdom of God with one eye; that kingdom, which God has prepared for his people, from the foundation of the world, and of his rich grace, gives unto them, and in which they will enjoy him to all eternity; than having two eyes, to be cast into hell fire. In the two instances before it is added, \"that never shall be quenched\"."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Plucking out one's eye may seem extreme, but it is better to enter the kingdom of God with one eye than to be cast into hell-fire. The eye, which is tender and useful, represents something dear to us, perhaps even a beloved friend or companion, that becomes a stumbling block or leads us into sin. God urges us to let go of these earthly attachments if they hinder our walk with Him. The kingdom of God, prepared by His grace, is far more valuable and enduring than anything we may lose in the process.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.7,
+            "qualityScore": 1.7015387103921005,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.92,
+            "commentatorTierSimilarities": [
+                40.06,
+                0.0,
+                59.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Plucking out one's eye may seem extreme, but it's better to enter the kingdom of God with one eye than to be cast into hell-fire. The eye symbolizes something dear to us that becomes a stumbling block or leads us astray from Christ. God urges us to let go of these earthly attachments if they hinder our walk with Him. The kingdom of God, prepared by His grace, is far more valuable and enduring than anything we may lose in the process.",
+            "wordCount": 85,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 1.66996158584455,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.87,
+            "commentatorTierSimilarities": [
+                41.61,
+                0.0,
+                58.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Plucking out one's eye may seem extreme, but it's better to enter the kingdom of God with one eye than to be cast into hell-fire. The eye symbolizes something dear that becomes a stumbling block or leads us astray from Christ. God urges us to let go of these attachments if they hinder our walk with Him. His kingdom, prepared by His grace, is far more valuable and enduring than anything we may lose in the process.",
+            "wordCount": 80,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 1.6185285450659084,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                41.13,
+                0.0,
+                58.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus warns his followers that it is better to enter the kingdom of God with one eye than to be cast into hell-fire with two eyes. This metaphor of plucking out one's eye demonstrates the tender concern and love that Jesus has for his people, as he desires their eternal well-being. Even the most beloved and intimate relationships are to be parted with if they become stumbling blocks or lead one away from Christ. Ultimately, it is better to sacrifice all that hinders us from entering the kingdom and enjoy eternal communion with God than to face the unquenchable fires of hell.",
+            "wordCount": 105,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.8020646672191205,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                36.47,
+                0.0,
+                63.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus teaches that it is better to enter the kingdom of God with one eye than to be cast into hell-fire with two eyes. This metaphor reveals the deep care and concern Jesus has for His people, urging them to part ways with anything that becomes a stumbling block or leads them away from Him. As beloved relationships or cherished possessions may present such obstacles, Jesus emphasizes the importance of prioritizing eternal communion with God over temporary attachments.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.7493339435096664,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                37.55,
+                0.0,
+                62.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

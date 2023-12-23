@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:28:35",
+    "verseRef": "Mark 13:35",
+    "bestBHT": {
+        "bht": "Watch and be ready, for the Master of the house could come at any time. This alludes to the four Roman watches of the night: evening, midnight, cock-crowing, and morning. The apostles are compared to doorkeepers, emphasizing the need for their vigilance. Just as the preparations for the morning service required everyone to be early astir, the unexpected coming of the Master is described using similar words. Therefore, remain diligent and be prepared, for the coming of the Lord will be sudden and unexpected, like the four watches of the night.",
+        "wordCount": 92,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 1.7842153175286333,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+        "commentatorTierSimilarities": [
+            43.68,
+            34.79,
+            21.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Watch ye therefore; for ye know not when the master of the house cometh.\" ",
+            "An allusion to the four Roman watches of the night.\" ",
+            "At even, or at midnight, or at the cock-crowing, or in the morning."
+        ],
+        "Albert Barnes": [
+            "Watch ye - Be diligent, faithful, and waiting for the return of your Lord, who will come at an unexpected hour.",
+            "Master of the house - Denoting here the Lord Jesus.",
+            "At even, or at midnight, or ... - This refers to the four divisions into which the Jews divided the night."
+        ],
+        "Marvin Vincent": [
+            "Watch [\u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03b5\u03b9\u03c4\u03b5]. A different word from that in verse 33...the picture in this word is that of a sleeping man rousing himself.",
+            "The apostles are thus compared with the doorkeepers...the night season is in keeping with the figure.",
+            "The preparations for the morning service required all to be early astir...the Rabbis use almost the very words in which scripture describes the unexpected coming of the Master."
+        ],
+        "Philip Schaff": [
+            "\u2018Ye\u2019 is to be omitted, since \u2018watch\u2019 is the emphatic word.",
+            "With that graphic detail which characterizes this Gospel, four watches of the night (closing at 9, 12, 3, and 6 o\u2019clock.) are mentioned.",
+            "The coming, unexpected and sudden, will be at night."
+        ],
+        "Archibald T. Robertson": [
+            "The four watches of the night are named here: evening (\u03bf\u03c8\u03b5), midnight (\u03bc\u03b5\u03c3\u03bf\u03bd\u03c5\u03ba\u03c4\u03b9\u03bf\u03bd), cock-crowing (\u03b1\u03bb\u03b5\u03ba\u03c4\u03bf\u03c1\u03bf\u03c6\u03c9\u03bd\u03b9\u03b1\u03c2), morning (\u03c0\u03c1\u03c9). "
+        ],
+        "John Gill": [
+            "Watch ye therefore,.... Against false Christs, and false prophets; over yourselves, and the whole church; for the words are particularly addressed to the disciples of Christ.",
+            "for ye know not when the master of the house cometh; when Christ, of whom the whole family in heaven, and in earth, is named, who is a Son in his own house, is an high priest over the house of God, and Lord of his church and people, whom he has bought with his blood, and provides for with his grace, and by his Spirit, when he will come to break up housekeeping with the Jews, and bring his wrath upon them to the uttermost...",
+            "The allusion seems to be to the time of the president of the temple's coming into it, who had the management of the affairs of it, and of appointing to each priest his work..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Watch out and be alert, for you never know when the Lord will return. Just as the Roman watches of the night were divided into four shifts, the coming of the Master can happen at evening, midnight, cock-crowing, or morning. The word watch in this verse implies that the apostles, like doorkeepers, should rouse themselves from their slumber and be vigilant. The mention of the four watches of the night indicates that the unexpected and sudden coming of the Lord will occur during the dark hours. Therefore, remain diligent, faithful, and ready for the return of the Lord, who will come at an unexpected hour.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8526840967413398,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.94,
+            "commentatorTierSimilarities": [
+                37.11,
+                37.78,
+                25.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Watch and be ready, for the Master of the house could come at any time. This alludes to the four Roman watches of the night: evening, midnight, cock-crowing, and morning. The apostles are compared to doorkeepers, emphasizing the need for their vigilance. Just as the preparations for the morning service required everyone to be early astir, the unexpected coming of the Master is described using similar words. Therefore, remain diligent and be prepared, for the coming of the Lord will be sudden and unexpected, like the four watches of the night.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7842153175286333,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.67,
+            "commentatorTierSimilarities": [
+                43.68,
+                34.79,
+                21.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be on guard and stay watchful, for the exact timing of the Master's arrival remains unknown. The mention of the four Roman watches of the night - evening, midnight, cock-crowing, and morning - signifies that His coming will be unexpected, like a sleeping man suddenly rousing himself. The apostles are likened to doorkeepers, emphasizing their responsibility to be alert. Just as the preparations for the morning service required early rising, the unexpected coming of the Master will demand unwavering vigilance.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.610508310161808,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.89,
+            "commentatorTierSimilarities": [
+                45.23,
+                32.07,
+                22.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stay alert and be watchful, for the arrival of the Master is uncertain. The four Roman watches of the night - evening, midnight, cock-crowing, and morning - serve as an analogy to the unexpected nature of His coming. The word used for watch in this verse indicates the picture of a sleeping person waking up, emphasizing the need for the apostles to be vigilant, just like doorkeepers. The preparation for the morning service, with its early rising, resonates with the description of the unexpected coming of the Master. Therefore, be watchful and prepared, as His return will be sudden.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7155585498000627,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.38,
+            "commentatorTierSimilarities": [
+                43.23,
+                34.99,
+                21.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Be always watchful and prepared, as the time of the Master's arrival remains uncertain. The four Roman watches of the night - evening, midnight, cock-crowing, and morning - symbolize the unexpected nature of His coming. The apostles are compared to doorkeepers, indicating their responsibility to remain vigilant. The mention of the preparations for the morning service emphasizes the need for readiness. Therefore, stay alert and be prepared, as the return of the Lord will be sudden, much like the four watches of the night.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.6361493661020554,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.74,
+            "commentatorTierSimilarities": [
+                44.11,
+                35.31,
+                20.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

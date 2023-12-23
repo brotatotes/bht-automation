@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:19:47",
+    "verseRef": "Mark 1:31",
+    "bestBHT": {
+        "bht": "Jesus, in an act of perfectness and immediateness, stood over her and took her by the hand. This powerful display of condescension, particularly felt by Peter and recorded solely by Mark, showcases the depth of her gratitude toward the glorious Healer. Immediately, she arose from the bed, fully restored, and demonstrated her thankfulness by actively participating in the preparation of food for Jesus and His disciples, even serving at the table to show her sincere appreciation.",
+        "wordCount": 76,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.4287262294825838,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+        "commentatorTierSimilarities": [
+            38.82,
+            20.87,
+            40.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And He stood over her.",
+            "This act of condescension, most felt doubtless by Peter, is recorded only by Mark.",
+            "In token both of the perfectness and immediateness of the cure, and of her gratitude to the glorious Healer."
+        ],
+        "Philip Schaff": [
+            "Mark 1:31. Took her by the hand, and raised her up. Mark is here more minute than Matthew or Luke. See on Matthew 8:15.",
+            "\t"
+        ],
+        "John Gill": [
+            "He went into the room where she lay, and took hold of her hand...in order to restore her.",
+            "She immediately arose from the bed, and put on her clothes, being at once in perfect health and strength.",
+            "In gratitude to her Saviour and physician, she assisted in preparing food for him and his disciples, and served at table to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, it is mentioned that Jesus stood over her, which shows His condescension and the immediateness of the healing. This act of compassion is unique to Mark's account. Jesus took her by the hand and raised her up, emphasizing the perfection and quickness of the cure. She immediately arose from the bed, fully healed and strong, and in gratitude, she served food to Jesus and His disciples.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.2214668958405304,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.96,
+            "commentatorTierSimilarities": [
+                36.73,
+                22.47,
+                40.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus displayed His compassion by standing over her and taking her by the hand. This demonstration of condescension, acknowledged only by Mark, signifies the immediate and perfect nature of her healing. She promptly rose from her bed, fully restored, and in gratefulness for her Savior's miraculous touch, she graciously served food to Jesus and His disciples as a token of her appreciation.",
+            "wordCount": 63,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.3145764716672177,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "commentatorTierSimilarities": [
+                35.98,
+                20.06,
+                43.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, in an act of compassion, stood over her and took her by the hand. This remarkable display of condescension, mentioned exclusively in Mark's account, signifies not only the immediacy and completeness of her healing but also her gratefulness to the glorious Healer. She promptly arose from her bed, clothed with renewed health and strength, and joyfully assisted in preparing food for Jesus and His disciples, eagerly serving them at table as a token of her gratitude.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.30205948516504,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.64,
+            "commentatorTierSimilarities": [
+                36.28,
+                17.35,
+                46.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, in an act of perfectness and immediateness, stood over her and took her by the hand. This powerful display of condescension, particularly felt by Peter and recorded solely by Mark, showcases the depth of her gratitude toward the glorious Healer. Immediately, she arose from the bed, fully restored, and demonstrated her thankfulness by actively participating in the preparation of food for Jesus and His disciples, even serving at the table to show her sincere appreciation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.4287262294825838,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.85,
+            "commentatorTierSimilarities": [
+                38.82,
+                20.87,
+                40.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a remarkable moment of condescension, Jesus stood over her and took her by the hand. This act, exclusively recorded by Mark, highlights the immediateness of her healing and the gratitude she felt towards the glorious Healer. Without delay, she rose from her bed, her health fully restored. As an expression of her thankfulness, she eagerly served Jesus and His disciples, assisting in the preparation of food and humbly serving at the table.",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.2533685551559868,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.02,
+            "commentatorTierSimilarities": [
+                35.13,
+                16.59,
+                48.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

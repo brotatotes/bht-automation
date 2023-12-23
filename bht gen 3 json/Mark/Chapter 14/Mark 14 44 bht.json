@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-22-2023 23:29:16",
+    "verseRef": "Mark 14:44",
+    "bestBHT": {
+        "bht": "As Judas approached Jesus, he planned to betray Him with a kiss, using it as a despised sign of identification. Judas wanted no mistakes to be made, ensuring Jesus would not escape as He had done before. This encounter between Judas and Jesus, however, was filled with hypocrisy and contempt. While the disciples reverently addressed Jesus as Lord, Judas deceitfully called Him Rabbi, a hypocritical act of reverence. Ultimately, this treacherous act led to Jesus being taken away, where He would face His impending crucifixion.",
+        "wordCount": 85,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 1.8015523151081885,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+        "commentatorTierSimilarities": [
+            31.55,
+            43.67,
+            24.78
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It does not quite appear whether safely is to be subjectively taken, \u2018with confidence;\u2019 or objectively, \u2018in safety.\u2019",
+            "Some suppose that it has an ironical meaning\u2014q. d. \u2018He will know how to rescue himself\u2014take care that you keep Him safe.\u2019",
+            "This of course depends on the view taken of the whole character and purpose of Judas."
+        ],
+        "Marvin Vincent": [
+            "Token [\u03c3\u03c5\u03c3\u03c3\u03b7\u03bc\u03bf\u03bd]. A later Greek compound used only by Mark in this passage.",
+            "The sun, with, gives the force of mutual token: a concerted signal.",
+            "Compare shmeion, Matthew 26:48."
+        ],
+        "Philip Schaff": [
+            "Master, \u2018Rabbi.\u2019 This was hypocritical reverence.",
+            "At the Passover, Judas used the same word, while the disciples said, \u2018Lord\u2019 (Matthew 26:25; Matthew 26:22).",
+            "Kissed him. The stronger word is here used, as in Matthew 26:49."
+        ],
+        "Archibald T. Robertson": [
+            "The signal was the kiss by Judas, a contemptible desecration of a friendly salutation.",
+            "Judas wished no slip to occur.",
+            "Mark and Matthew do not tell of the falling back upon the ground when Jesus challenged the crowd with Judas."
+        ],
+        "John Gill": [
+            "did you ever see one man go out of the north, and another from the south, and meet each other, except they made, \u05e1\u05d9\u05de\u05e0\u05d0, 'a common sign', between them.",
+            "Such an one the traitor gave his company; saying, whomsoever I shall kiss, the same is he; Jesus of Nazareth; who was to be delivered to them.",
+            "take him, and lead him away safely; with care and caution, lest he should get out of their hands, and make his escape, as he had sometimes done"
+        ],
+        "John Wesley": [
+            "Whomsoever I shall kiss \u2014 Probably our Lord, in great condescension...",
+            "in great condescension, had used (according to the Jewish custom) to permit his disciples to do this...",
+            "after they had been some time absent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Judas approached Jesus, he planned to betray Him with a kiss, using it as a despised sign of identification. Judas wanted no mistakes to be made, ensuring Jesus would not escape as He had done before. This encounter between Judas and Jesus, however, was filled with hypocrisy and contempt. While the disciples reverently addressed Jesus as Lord, Judas deceitfully called Him Rabbi, a hypocritical act of reverence. Ultimately, this treacherous act led to Jesus being taken away, where He would face His impending crucifixion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8015523151081885,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.24,
+            "commentatorTierSimilarities": [
+                31.55,
+                43.67,
+                24.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Judas approached Jesus, intending to betray Him with a kiss. This act of identification carried a mutual token, a coordinated signal, between them. Judas wanted to ensure Jesus would not escape, taking Him away with caution and care. His hypocritical reverence in calling Jesus Rabbi contrasted with the disciples addressing Him as Lord. Through this treacherous kiss, Jesus was led away, ultimately facing His crucifixion.",
+            "wordCount": 65,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.6841044791890458,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                31.81,
+                41.75,
+                26.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Judas approached Jesus, planning to betray Him. He wanted to ensure Jesus would be taken away safely, preventing any escape. The signal of betrayal was a kiss, an action that desecrated the friendly salutation. While the disciples reverently called Jesus Lord, Judas deceitfully addressed Him as Rabbi, an act of hypocritical reverence. This treacherous kiss led to Jesus being led away, where He would face the consequences of His betrayal.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.6803353153087062,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.21,
+            "commentatorTierSimilarities": [
+                32.84,
+                39.65,
+                27.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Judas hastily approached Jesus, eager to carry out his plan of betrayal. With a contemptible act of a kiss, Judas marked Jesus for capture, ensuring no slip would occur. While the disciples addressed Jesus with genuine reverence, calling Him Lord, Judas deceitfully referred to Him as Rabbi. This hypocritical gesture of reverence concealed his intention to betray Jesus to the authorities. Consequently, Jesus was led away, marking the beginning of His journey towards crucifixion.",
+            "wordCount": 74,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.7334898007232704,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.98,
+            "commentatorTierSimilarities": [
+                32.56,
+                42.77,
+                24.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Judas, driven by his treacherous intentions, approached Jesus hurriedly, with the purpose of betraying Him. He sought to ensure Jesus would not escape, taking precautions while leading Him away. The sign of betrayal was a kiss, a desecration of a friendly salutation. While the disciples reverently addressed Jesus as Lord, Judas hypocritically referred to Him as Rabbi. This deceitful act of reverence concealed his ulterior motive of handing Jesus over to the authorities. As a result, Jesus was led away, setting in motion the events leading to His crucifixion.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.6378030370742551,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                30.68,
+                41.92,
+                27.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

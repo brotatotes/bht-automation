@@ -1,0 +1,110 @@
+{
+    "timestamp": "12-22-2023 23:22:46",
+    "verseRef": "Mark 6:11",
+    "bestBHT": {
+        "bht": "Shake off the dust as a testimony against those who despise and reject the Gospel. This symbolic act signifies their refusal to receive the good news and highlights that they have heard and been given the opportunity to believe, yet have chosen to turn away. The command to shake off the dust serves as a powerful visual reminder of their condemnation for rejecting the truth. Ultimately, both Jews and Gentiles will be held accountable for their response to the Gospel, and those who reject it will face a less severe but still significant punishment.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.1636254658933698,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.03,
+        "commentatorTierSimilarities": [
+            32.99,
+            0.0,
+            67.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "The dative \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 in Mark is the dative of disadvantage and really carries the same idea as \u03b5\u03c0 in Luke.\" ",
+            "The dramatic figure of shaking out (\u03b5\u03ba\u03c4\u03b9\u03bd\u03b1\u03be\u03b1\u03c4\u03b5, effective aorist imperative, Mark and Matthew), shaking off (\u03b1\u03c0\u03bf\u03c4\u03b9\u03bd\u03b1\u03c3\u03c3\u03b5\u03c4\u03b5, present imperative, Luke)."
+        ],
+        "John Gill": [
+            "Shake off the dust under your feet, for a testimony against them; that they had been with them, and attempted to preach the Gospel to them, but they despised and rejected it.",
+            "This will be universal; all must appear in it before God, the judge of all, Jews and Gentiles; such who have lived in the earlier ages of time, as well as those that will live nearer that day.",
+            "Their punishment will be milder and more tolerable, than that of the inhabitants of such places, where the Gospel has been preached, and they have despised and rejected it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Shake off the dust as a testimony against those who reject the message of the Gospel. This act symbolizes their refusal to receive the good news and indicates that they have heard and been given a chance to believe, but have chosen to turn away. The command to shake off the dust is a strong visual reminder that they have been warned and condemned for their rejection. It serves as a witness against them and highlights the severity of their rejection of the truth. Ultimately, at the final judgment, all people, both Jews and Gentiles, will be held accountable for their response to the Gospel message. Those who reject it will face a more tolerable punishment than those in places where the Gospel has been preached and rejected, emphasizing the privilege and responsibility of hearing and receiving the truth.",
+            "wordCount": 139,
+            "quoteTokenProportion": 37.35,
+            "qualityScore": 1.048073529005998,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.19,
+            "commentatorTierSimilarities": [
+                29.23,
+                0.0,
+                70.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Shake off the dust as a testimony against those who reject the message of the Gospel. This act symbolizes their refusal to receive the good news and indicates that they have heard and been given a chance to believe, but have chosen to turn away. The command to shake off the dust is a strong visual reminder that they have been warned and condemned for their rejection. Ultimately, at the final judgment, all people will be held accountable for their response to the Gospel message.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 0.9446573286955021,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.75,
+            "commentatorTierSimilarities": [
+                28.94,
+                0.0,
+                71.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Shake off the dust as a testimony against those who despise and reject the Gospel. This gesture signifies that they have heard the message but refused to embrace it. It serves as a visual reminder that they have been warned and condemned for their rejection. At the final judgment, both Jews and Gentiles will be held accountable for their response to the Gospel. Those who spurn the Gospel will face a punishment that, although milder, still highlights the severity of their rejection.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.0032796127273316,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.7,
+            "commentatorTierSimilarities": [
+                30.4,
+                0.0,
+                69.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Shake off the dust and testify against those who reject the Gospel. This action demonstrates their refusal to accept the message, as they have been given the opportunity to believe but have chosen to turn away. The command to shake off the dust serves as a powerful reminder that these individuals have been warned and condemned for their rejection. Ultimately, everyone will be held accountable for their response to the Gospel, irrespective of their background. Those who reject it will face a punishment that is less severe but still emphasizes the gravity of their refusal.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 0.9751899403209146,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.77,
+            "commentatorTierSimilarities": [
+                30.54,
+                0.0,
+                69.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Shake off the dust as a testimony against those who despise and reject the Gospel. This symbolic act signifies their refusal to receive the good news and highlights that they have heard and been given the opportunity to believe, yet have chosen to turn away. The command to shake off the dust serves as a powerful visual reminder of their condemnation for rejecting the truth. Ultimately, both Jews and Gentiles will be held accountable for their response to the Gospel, and those who reject it will face a less severe but still significant punishment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.1636254658933698,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.03,
+            "commentatorTierSimilarities": [
+                32.99,
+                0.0,
+                67.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:27:22",
+    "verseRef": "Mark 13:17",
+    "bestBHT": {
+        "bht": "Woe and aggravated suffering are pronounced upon those who find themselves in a despairing situation, particularly for those who are with child or have young children to care for. The anguish of being torn between leaving their children behind and carrying them along, which would greatly hinder their escape, is brought to light. This emphasizes the difficult choices and potential hardships faced by individuals during times of crisis, highlighting the magnitude of the situation for those directly affected.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.2224503681146646,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.99,
+        "commentatorTierSimilarities": [
+            29.8,
+            0.0,
+            70.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Woe to them\" ",
+            "Alas for them",
+            "Aggravated suffering"
+        ],
+        "John Gill": [
+            "Woe to them that are with child... and to them that give suck in those days; who could not bear to leave their children behind, and yet would not be able to carry them with them; at least not without great trouble, and which would much retard their flight, and endanger their being taken by the enemy.\" "
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Aggravated suffering and woe are pronounced upon those who find themselves in a precarious situation, specifically for those who are with child or have young children to care for. The anguish of being torn between leaving their children behind and carrying them along, which would greatly hinder their escape, is highlighted. The verse brings to light the complicated choices and potential hardships faced by individuals in times of crisis, emphasizing the gravity of the situation for those directly affected.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.2540988301556943,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.04,
+            "commentatorTierSimilarities": [
+                30.1,
+                0.0,
+                69.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Woe and aggravated suffering are pronounced upon those who find themselves in a despairing situation, particularly for those who are with child or have young children to care for. The anguish of being torn between leaving their children behind and carrying them along, which would greatly hinder their escape, is brought to light. This emphasizes the difficult choices and potential hardships faced by individuals during times of crisis, highlighting the magnitude of the situation for those directly affected.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.2224503681146646,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.99,
+            "commentatorTierSimilarities": [
+                29.8,
+                0.0,
+                70.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Alas for them, aggravated suffering, woe to them that are with child and to them that give suck in those days; who could not bear to leave their children behind, and yet would not be able to carry them with them; at least not without great trouble, and which would much retard their flight, and endanger their being taken by the enemy. The verse sheds light on the challenging predicament faced by those who have the responsibility of caring for young ones, forcing them to make difficult decisions and potentially endure increased hardship during times of crisis.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.8278423206717298,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.12,
+            "commentatorTierSimilarities": [
+                21.99,
+                0.0,
+                78.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Aggravated suffering and woe fall upon those with child and suckling infants, who face the anguish of leaving their children behind or struggling to bring them along during times of danger. The verse captures the difficult choices and potential perils confronted by individuals in such situations. Their predicament presents a profound challenge, evoking empathy for the weight of their circumstances and underscoring the gravity of the situation.",
+            "wordCount": 67,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.181167565740154,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.62,
+            "commentatorTierSimilarities": [
+                31.26,
+                0.0,
+                68.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Alas for those with child and suckling infants, for they experience aggravated suffering and woe. They are faced with a heart-wrenching dilemma, torn between leaving their children behind or taking them along, causing great difficulty and endangering their escape. The verse reveals the immense hardships and complex choices that individuals in such circumstances encounter, emphasizing the gravity of their situation.",
+            "wordCount": 61,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4252799792919102,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.73,
+            "commentatorTierSimilarities": [
+                33.72,
+                0.0,
+                66.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

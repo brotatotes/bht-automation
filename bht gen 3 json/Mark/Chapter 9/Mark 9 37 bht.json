@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-22-2023 23:25:38",
+    "verseRef": "Mark 9:37",
+    "bestBHT": {
+        "bht": "Whoever receives a little child in Jesus' name receives both Jesus and the Father who sent him. This act of receiving a child is not merely an act of kindness, but an act of recognizing and honoring the humble followers of Christ. By receiving the least believers, we show respect not only to them but also to Christ himself. Jesus used the child as an object lesson to rebuke the disciples' arrogance and to teach them the importance of humility and inclusiveness.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.4443368604210345,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+        "commentatorTierSimilarities": [
+            23.52,
+            22.33,
+            54.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "37.] See Matt. x. 40."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whosoever shall receive one of such children...receiveth me.\" ",
+            "...whosoever shall receive me, receiveth not me, but Him that sent me.\" ",
+            "Incidental Rebuke of John for Exclusiveness."
+        ],
+        "Marvin Vincent": [
+            "In my name. Lit., \"upon [\u03b5\u03c0\u03b9] my name.\" See on Matthew 18:5."
+        ],
+        "Philip Schaff": [
+            "Mark 9:37. Comp. Matthew 18:5; and also Matthew 10:40.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "It was an object lesson to the arrogant conceit of the twelve apostles contending for primacy.",
+            "They did not learn this lesson for they will again wrangle over primacy.",
+            "The child was used as a rebuke to the apostles."
+        ],
+        "John Gill": [
+            "Whoever shows respect, and performs the least office of love and kindness to the meanest believer, comparable to a little child, for the above excellent qualities, and he does this, says Christ, in my name; on account that he belongs to Christ, is one of his, bears his image, partakes of his grace, is loved by him, and shall be glorified with him.",
+            "Such is Christ's great regard to his humble followers, that he takes it all one as if done to himself: he receiveth me.",
+            "For as showing respect to one of Christ's members is showing respect to him; so showing respect to Christ is showing respect to his Father, from whence he came, by whom he was sent, in whose name he acted, and whose work and service he was concerned in."
+        ],
+        "John Wesley": [
+            "One such little child \u2014 Either in years or in heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Whoever receives a little child in Jesus' name, receives both Jesus and the Father who sent him. This act of receiving a child is not merely an act of kindness, but an act of recognizing and honoring the humble and lowly followers of Christ. The disciples, in their desire for primacy, were rebuked by Jesus who used the child as an object lesson to teach them the importance of humility and inclusiveness. By receiving the least believers, we show respect not only to them but also to Christ himself, as if we were showing respect directly to him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4207300289959335,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.58,
+            "commentatorTierSimilarities": [
+                23.05,
+                20.86,
+                56.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Whoever receives a little child in Jesus' name receives both Jesus and the Father who sent him. This act of receiving a child is not merely an act of kindness, but an act of recognizing and honoring the humble followers of Christ. By receiving the least believers, we show respect not only to them but also to Christ himself. Jesus used the child as an object lesson to rebuke the disciples' arrogance and to teach them the importance of humility and inclusiveness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.4443368604210345,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                23.52,
+                22.33,
+                54.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we receive a little child in Jesus' name, it is not just an act of kindness, but an act that recognizes and honors the humble followers of Christ. By receiving the least believers, we show respect not only to them, but also to Christ himself. The disciples needed to learn this lesson, as they were caught up in their own desire for primacy. Jesus used the child as a rebuke to their exclusiveness and to teach them the importance of humility and inclusiveness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 54.24,
+            "qualityScore": 1.418251897749704,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.5,
+            "commentatorTierSimilarities": [
+                28.69,
+                22.13,
+                49.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Receiving a little child in Jesus' name goes beyond a simple act of kindness \u2013 it symbolizes the recognition and honor bestowed upon the humble followers of Christ. By receiving these least believers, we not only show respect to them, but also to Christ himself. The disciples, caught up in their own desire for supremacy, received a rebuke from Jesus, who used the child as an object lesson. This highlighted the importance of humility and inclusiveness, revealing the need to embrace all believers, regardless of status.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.3950791284918984,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.73,
+            "commentatorTierSimilarities": [
+                27.86,
+                21.92,
+                50.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To receive a little child in Jesus' name is more than an act of kindness; it is a way to honor and acknowledge the humble followers of Christ. By doing so, we show respect not only to them, but also to Christ himself. The disciples, engrossed in their desire for primacy, received a rebuke from Jesus. He used the child as a lesson, emphasizing the significance of humility and inclusiveness. This incident served as a reminder to embrace all believers, setting aside any claims to superiority.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.3539482719477074,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.36,
+            "commentatorTierSimilarities": [
+                30.22,
+                20.61,
+                49.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

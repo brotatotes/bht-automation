@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:23:42",
+    "verseRef": "Mark 7:16",
+    "bestBHT": {
+        "bht": "If any man have ears to hear, let him hear. This call to understanding urges individuals to truly listen and engage with the teachings of the Bible. While some early manuscripts may omit these words, they were commonly used to conclude complex instruction and invite receptiveness to the word of God. It emphasizes the importance of actively seeking comprehension and being open to the truths revealed in Scripture.",
+        "wordCount": 68,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 0.9649891844672853,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.43,
+        "commentatorTierSimilarities": [
+            0.0,
+            37.03,
+            62.97
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Mark 7:16 is not found in some early manuscripts. The words were a common close to instruction difficult to understand.",
+            "\t"
+        ],
+        "John Gill": [
+            "If any man have ears to hear, let him hear.",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If any man have ears to hear, let him hear. This verse, Mark 7:16, is a call to truly listen and understand the teachings of the Bible. While some early manuscripts do not include these words, they were commonly used to conclude complex instruction. It serves as a reminder to engage with the Scriptures, to be receptive to the word of God, and to actively seek understanding.",
+            "wordCount": 66,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.163742758568853,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.04,
+            "commentatorTierSimilarities": [
+                0.0,
+                44.43,
+                55.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If any man have ears to hear, let him hear. This verse serves as a reminder to engage with the Scriptures and to actively seek understanding. It calls for individuals to truly listen and comprehend the teachings of the Bible. While some early manuscripts do not include these words, they were commonly used to conclude complex instruction, emphasizing the importance of being receptive to the word of God.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.0503752502335006,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.27,
+            "commentatorTierSimilarities": [
+                0.0,
+                39.19,
+                60.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If any man have ears to hear, let him hear. This call to understanding urges individuals to truly listen and engage with the teachings of the Bible. While some early manuscripts may omit these words, they were commonly used to conclude complex instruction and invite receptiveness to the word of God. It emphasizes the importance of actively seeking comprehension and being open to the truths revealed in Scripture.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 0.9649891844672853,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.43,
+            "commentatorTierSimilarities": [
+                0.0,
+                37.03,
+                62.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If any man have ears to hear, let him hear. This verse not only serves as a reminder to engage with the Scriptures but also emphasizes the importance of actively seeking understanding. While some early manuscripts may omit these words, they were commonly used to conclude complex instruction and convey the significance of being receptive to the word of God. It invites individuals to truly listen and comprehend the teachings, highlighting the need for a receptive heart and a desire to grasp the truths revealed in the Bible.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 0.9499874636088763,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.93,
+            "commentatorTierSimilarities": [
+                0.0,
+                36.8,
+                63.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This reminder in the quote urges individuals to engage with the Scriptures and actively seek understanding. Although not found in all early manuscripts, these words were used to conclude complex instruction, emphasizing receptiveness to God's word. They invite genuine listening and comprehension, highlighting the importance of an open heart to grasp the revealed truths. By heeding this call, one can truly delve into the profound teachings of the Bible, enabling a deeper connection with God's message and a more enlightened spiritual journey.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 0.8246810509412454,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.77,
+            "commentatorTierSimilarities": [
+                0.0,
+                59.56,
+                40.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

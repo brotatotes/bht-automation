@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-22-2023 23:20:14",
+    "verseRef": "Mark 2:1",
+    "bestBHT": {
+        "bht": "Entering into Capernaum, his own city, Jesus's presence in the house became widely known, as people spread the rumor, He is at home, he is indoors. Capernaum served as the headquarters for his work in Galilee, drawing a multitude of people who were eager to hear him teach. This house he entered was likely the home of Simon Peter, as it was noised that he was there.",
+        "wordCount": 68,
+        "quoteTokenProportion": 44.0,
+        "qualityScore": 1.8005601446824127,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+        "commentatorTierSimilarities": [
+            29.83,
+            35.14,
+            35.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "1. And again he entered into",
+            "\tCapernaum\u2014\"His own city\" ( :-). ",
+            "\t",
+            "and it was noised that he was",
+            "\tin the house\u2014no doubt of Simon Peter ( :-)."
+        ],
+        "Albert Barnes": [
+            "And it was noised ... - He entered the city, doubtless, privately; but his being there was soon known, and so great had his popularity become that multitudes pressed to hear him.",
+            "Jesus probably remained long enough in the desert to heal the sick who were brought to him, and to give instructions to the multitudes who attended his preaching.",
+            "Capernaum was not 'the city' mentioned in Mark 1:45, and it is probable that there was no difficulty in his remaining there and preaching."
+        ],
+        "Marvin Vincent": [
+            "It was reported - he is in the house!\" ",
+            "He has gone into the house, and is there.",
+            "He was speaking when the occurrence which follows took place."
+        ],
+        "Philip Schaff": [
+            "After some days. More than one day, but how many does not appear. Still even this indefinite mark of time favors the view, that the order of this Evangelist is exact.",
+            "Noised. This suggests a private entrance into the city, and then a general report that He was there.",
+            "In the house. The article is wanting in the original; the phrase is equivalent to \u2018at home;\u2019 but with the additional idea of having come there. It is therefore probable that the house was His usual residence in Capernaum, but this is not definitely expressed."
+        ],
+        "Archibald T. Robertson": [
+            "After the first tour of Galilee when Jesus is back in the city which is now the headquarters for the work in Galilee.",
+            "In the house, at home, in the home of Peter, now the home of Jesus.",
+            "People spread the rumour, 'He is at home, he is indoors.'"
+        ],
+        "John Gill": [
+            "After he had spent some days in prayer, and private retirement in desert places.",
+            "A report was spread throughout the city that he was in the house of Simon and Andrew.",
+            "where he was before, and where he used to be when in Capernaum."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 2:1, Jesus enters into Capernaum, which was referred to as his own city. The news of his presence quickly spread, with people saying, He is at home, he is indoors. It is likely that the house he was staying at belonged to Simon Peter. Jesus had just returned from a tour of Galilee and Capernaum was the headquarters for his work in the region. The fact that Jesus was in the house became widely known, and many people gathered to hear him.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.816412047500207,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+            "commentatorTierSimilarities": [
+                31.01,
+                32.02,
+                36.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Entering into Capernaum, his own city, the news quickly spread that Jesus was in the house, rumored to be Simon Peter's. People eagerly shared the report, saying he was at home, indoors. Capernaum served as the headquarters for Jesus' work in Galilee, and his presence there drew a multitude of people who were eager to hear him teach.",
+            "wordCount": 59,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.7490299981495543,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                28.69,
+                33.89,
+                37.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Entering into Capernaum, his own city, it was widely reported that Jesus had returned and was in the house, possibly the home of Simon Peter. The news quickly spread with people saying, He is at home, he is indoors. Capernaum served as the headquarters for Jesus' work in Galilee, and his presence there drew a multitude of people who were eager to hear him teach.",
+            "wordCount": 65,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.749522964147657,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                30.43,
+                33.09,
+                36.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Entering into Capernaum, his own city, it was noised that Jesus was in the house, likely Simon Peter's. The news spread rapidly with people saying, He is at home, he is indoors. Capernaum held significance as the headquarters for Jesus' work in Galilee, attracting a multitude of people who desired to hear his teachings.",
+            "wordCount": 55,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6880980945542097,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                31.62,
+                33.55,
+                34.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Entering into Capernaum, his own city, Jesus's presence in the house became widely known, as people spread the rumor, He is at home, he is indoors. Capernaum served as the headquarters for his work in Galilee, drawing a multitude of people who were eager to hear him teach. This house he entered was likely the home of Simon Peter, as it was noised that he was there.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.8005601446824127,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                29.83,
+                35.14,
+                35.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

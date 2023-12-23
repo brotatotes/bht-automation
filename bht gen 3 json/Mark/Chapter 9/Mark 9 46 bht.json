@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-22-2023 23:25:14",
+    "verseRef": "Mark 9:46",
+    "bestBHT": {
+        "bht": "Mark's depiction exemplifies the inexorable suffering in hell, evoking the image of an unquenchable fire and an unceasing worm. The mention of the everlasting torment underscores the eternal duration of the punitive affliction that awaits the condemned. This portrayal serves as a poignant reminder of the perpetual anguish and destitution that will be experienced by those who do not secure release.",
+        "wordCount": 62,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 0.6826282677540029,
+        "qualityScoreNormalizedComparedToV2BHTs": 14.04,
+        "commentatorTierSimilarities": [
+            12.97,
+            0.0,
+            87.03
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "See on Mark 9:44 "
+        ],
+        "John Gill": [
+            "Where their worm dieth not, and the fire is not quenched.",
+            "Because from thence there can be no deliverance.",
+            "They design the eternity of hell torments, as well as point at the anguish and misery of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 9:46, we are directed to refer to the previous verse, Mark 9:44. This verse speaks of the eternal nature of hell's torments, emphasizing the unquenchable fire and the worm that does not die. The mention of this eternal suffering serves to highlight the inescapable and agonizing nature of the punishments that await. This passage grimly depicts the everlasting misery and torment that will be faced by those who do not find deliverance.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 0.903870703622891,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.4,
+            "commentatorTierSimilarities": [
+                30.39,
+                0.0,
+                69.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this portion of Mark, we are reminded of the eternal afflictions in hell, portrayed vividly as a fire that cannot be extinguished and a worm that continues its torment. By referencing the preceding verse, the emphasis on the everlasting nature of these punishments is emphasized, leaving no possibility of escape. The mention of this unending suffering serves as a stark reminder of the eternal anguish and destitution that awaits those who do not find deliverance.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 0.5731655369736011,
+            "qualityScoreNormalizedComparedToV2BHTs": 10.4,
+            "commentatorTierSimilarities": [
+                2.68,
+                0.0,
+                97.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark's account presents a somber depiction of the inescapable nature of hell's torments. The unquenchable fire and the everlasting presence of the undying worm stand as symbols of the eternal suffering that awaits the condemned. These descriptions resonate with the theme of the everlasting misery and anguish that will be encountered in the realm of hell. The verse serves as a stark reminder that there is no deliverance from such anguish, emphasizing the irrevocable nature of the punishment that awaits the unrepentant.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 0.6898020869550949,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.28,
+            "commentatorTierSimilarities": [
+                14.54,
+                0.0,
+                85.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mark's portrayal of hell reveals the unending torment that awaits its inhabitants. With the use of vivid imagery, such as the unquenchable fire and the undying worm, the passage emphasizes the everlasting nature of this punishment. It serves as a solemn reminder that there is no escape from the anguish and misery that will be experienced in the eternity of hell. The verse paints a chilling picture of the grave consequences for those who do not find deliverance.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 0.5612953202157145,
+            "qualityScoreNormalizedComparedToV2BHTs": 10.01,
+            "commentatorTierSimilarities": [
+                -0.47,
+                0.0,
+                100.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mark's depiction exemplifies the inexorable suffering in hell, evoking the image of an unquenchable fire and an unceasing worm. The mention of the everlasting torment underscores the eternal duration of the punitive affliction that awaits the condemned. This portrayal serves as a poignant reminder of the perpetual anguish and destitution that will be experienced by those who do not secure release.",
+            "wordCount": 62,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 0.6826282677540029,
+            "qualityScoreNormalizedComparedToV2BHTs": 14.04,
+            "commentatorTierSimilarities": [
+                12.97,
+                0.0,
+                87.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

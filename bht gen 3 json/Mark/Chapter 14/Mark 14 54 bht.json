@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-22-2023 23:29:00",
+    "verseRef": "Mark 14:54",
+    "bestBHT": {
+        "bht": "In a quadrangular interior court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. This reveals that Jesus didn't strictly adhere to His own teaching of turning the other cheek in this situation. As Peter followed Jesus from a distance, he sat with the officers and warmed himself at the firelight, inadvertently making himself more visible than he believed. Jesus' refusal to incriminate Himself and Peter's actions reflect the complexity of human behavior in challenging circumstances.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.4525888759287389,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.64,
+        "commentatorTierSimilarities": [
+            36.37,
+            29.74,
+            33.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "An oriental house is usually built around a quadrangular interior court.",
+            "Our Lord saw the attempt to draw Him into self-crimination, and resented it by falling back upon the right of every accused party to have some charge laid against Him by competent witnesses.",
+            "From our Lord's procedure here, by the way, it is evident enough that His own precept in the Sermon on the Mount\u2014that when smitten on the one cheek we are to turn to the smiter the other also\u2014is not to be taken to the letter."
+        ],
+        "Marvin Vincent": [
+            "Palace [\u03b1\u03c5\u03bb\u03b7\u03bd] . Rather, court, as Rev., the quadrangle round which the chambers were built.",
+            "Sat with [\u03b7\u03bd \u03c3\u03c5\u03b3\u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03bd\u03bf\u03c2] . The verb With the participle denoting continuousness. What occurred after occurred while he was sitting.",
+            "At the fire [\u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03c6\u03c9\u03c2] . Fwv is never used of the fire itself, but of the light of the fire; and this is the point to which the evangelist directs attention: that the firelight, Shining on Peter's face, Called forth the challenge of the maid (verse 66)."
+        ],
+        "Philip Schaff": [
+            "Mark 14:54. Warmed himself in the light of the Are. Lit, \u2018in the light\u2019 (comp. Luke 22:55-56). The open fire in the court gave light, and Peter was recognized by the light of the fire (Mark 14:67), comp, also John 18:15-16; John 18:18.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Peter had followed him afar off...not bold enough to take an open stand with Christ as the Beloved Disciple did, and yet unable to remain away with the other disciples.",
+            "Peter making himself at home with the officers...in his restless weary mood.",
+            "Fire has light as well as heat and it shone in Peter's face. He was not hidden as much as he supposed he was."
+        ],
+        "John Gill": [
+            "And Peter followed him afar off... and warmed himself at the fire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 14:54, the setting is described as an oriental house built around a quadrangular interior court. Jesus, being accused, asserts His rights and resents the attempt to draw Him into self-crimination. This passage also reveals that Jesus did not take His own precept of turning the other cheek literally in this situation. As Peter followed Jesus afar off, he sat with the officers and warmed himself at the firelight, which shone on his face, making him more visible than he realized.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.451628797944881,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.61,
+            "commentatorTierSimilarities": [
+                36.71,
+                25.78,
+                37.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a quadrangular interior court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. This reveals that Jesus didn't strictly adhere to His own teaching of turning the other cheek in this situation. As Peter followed Jesus from a distance, he sat with the officers and warmed himself at the firelight, inadvertently making himself more visible than he believed. Jesus' refusal to incriminate Himself and Peter's actions reflect the complexity of human behavior in challenging circumstances.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4525888759287389,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.64,
+            "commentatorTierSimilarities": [
+                36.37,
+                29.74,
+                33.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the quadrangular court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. This shows that His teaching to turn the other cheek should not be taken literally in every circumstance. As Peter followed Jesus from afar, he sat with the officers, seeking warmth from the firelight that illuminated his face. Unbeknownst to him, the light revealed his presence, highlighting the complexity of his actions and the challenges faced in difficult times.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.3884872630280016,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                34.5,
+                28.07,
+                37.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the quadrangular court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. Our Lord's response highlights the importance of competent witnesses in bringing charges against an accused party. Meanwhile, Peter, following Jesus from a distance, sat with the officers and found warmth by the firelight. Unbeknownst to him, the firelight revealed his presence and led to the maid challenging him. This scene demonstrates the significance of light and how even when Peter thought he was hidden, he was actually visible.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.3911550428543449,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.6,
+            "commentatorTierSimilarities": [
+                36.04,
+                23.37,
+                40.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the quadrangular court, Jesus resented the attempt to draw Him into self-crimination, asserting His rights as the accused. Our Lord's response highlights the importance of competent witnesses in bringing charges. Meanwhile, Peter, following Jesus from a distance, found warmth in the firelight. Unbeknownst to him, the light exposed his presence, resulting in a maid challenging him. This scene showcases the significance of light and how it revealed Peter's true position, despite his attempt to remain hidden.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.3287977601048628,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.53,
+            "commentatorTierSimilarities": [
+                37.84,
+                23.06,
+                39.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

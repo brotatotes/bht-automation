@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:26:14",
+    "verseRef": "Mark 10:27",
+    "bestBHT": {
+        "bht": "What appears impossible for humans becomes possible with God. Rather than dwelling on trivial ideas like a needle's eye gate, the focus lies on recognizing the transformative power of God. This extends beyond the realm of money and encompasses all things that hinder our entrance into God's kingdom. It calls for humility, self-denial, and a reliance on the grace of God. We are urged to seek His guidance and trust Him to shift our allegiance from worldly riches to the eternal kingdom. With God, all things are possible, even the profound task of changing our hearts.",
+        "wordCount": 99,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.2779186306856005,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.83,
+        "commentatorTierSimilarities": [
+            32.33,
+            30.89,
+            36.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "This passage opposes the love of money in every form arid among all conditions of men.",
+            "The desire for wealth, even more than the actual possession of it, interferes with entering into a kingdom where humility is a cardinal virtue and self denial an essential pre-requisite.",
+            "He has learned the lesson right, who applies this mainly to himself, seeking the almighty grace which can save him from his trust in earthly things."
+        ],
+        "Archibald T. Robertson": [
+            "The impossible by the side of men (\u03c0\u03b1\u03c1\u03b1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9\u03c2) becomes possible by the side of God.",
+            "That is the whole point and brushes to one side all petty theories of a gate called needle's eye, etc.",
+            "The impossible by the side of men (\u03c0\u03b1\u03c1\u03b1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9\u03c2) becomes possible by the side of God."
+        ],
+        "John Gill": [
+            "With God all things are possible.\" ",
+            "Even to reduce a camel to so small a size, as to go through the eye of a needle.",
+            "To work upon a rich man's heart, so as to take him off of his trust and confidence in his worldly riches, and bring him to a compliance with his will, and into his kingdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that what may seem impossible for humans becomes possible with God. So, rather than getting caught up in petty theories about the needle's eye, the emphasis is on the transformative power of God. This means that the passage is not simply about money, but about any earthly things that hinder our entrance into God's kingdom. It is a call to humility, self-denial, and a reliance on the grace of God. We are urged to seek His guidance and trust in Him, allowing Him to transform our hearts and priorities. With God, all things are possible, even the challenging task of redirecting our trust from worldly riches to His kingdom.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.3191937978803283,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.21,
+            "commentatorTierSimilarities": [
+                29.71,
+                35.44,
+                34.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What seems impossible for humans becomes possible with God. Instead of focusing on theories like a needle's eye gate, we should grasp the transformative power of God. This verse is not solely about money, but about all things that hinder our entrance into God's kingdom. It calls for humility, self-denial, and a reliance on God's grace. We are encouraged to seek His guidance and trust in Him, allowing Him to redirect our trust from worldly riches to His kingdom. With God, all things are possible, even the challenging task of transforming our hearts.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.30124630071762,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.61,
+            "commentatorTierSimilarities": [
+                30.92,
+                31.69,
+                37.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What seems impossible for humans becomes possible with God. We are reminded to not get caught up in petty theories, like the needle's eye gate, but rather focus on the transformative power of God. This goes beyond the issue of money and addresses anything that hinders our entrance into God's kingdom. It calls for humility, self-denial, and reliance on God's grace. We are encouraged to seek His guidance, trusting Him to redirect our focus from worldly riches to His kingdom. With God, all things are possible, even the task of transforming our hearts.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.274585615884391,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.72,
+            "commentatorTierSimilarities": [
+                31.17,
+                32.66,
+                36.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What appears impossible for humans becomes possible with God. Rather than dwelling on trivial ideas like a needle's eye gate, the focus lies on recognizing the transformative power of God. This extends beyond the realm of money and encompasses all things that hinder our entrance into God's kingdom. It calls for humility, self-denial, and a reliance on the grace of God. We are urged to seek His guidance and trust Him to shift our allegiance from worldly riches to the eternal kingdom. With God, all things are possible, even the profound task of changing our hearts.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.2779186306856005,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.83,
+            "commentatorTierSimilarities": [
+                32.33,
+                30.89,
+                36.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse teaches that what seems impossible for humans is possible with God. It dismisses theories like the needle's eye gate and emphasizes the transformative power of God. The focus is not solely on wealth, but on anything that obstructs entry into God's kingdom. It calls for humility, self-denial, and reliance on God's grace. Seeking His guidance, we trust Him to redirect our trust from worldly possessions to His kingdom. With God, all things are possible, even the challenging task of changing our hearts.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.2523154050508791,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.98,
+            "commentatorTierSimilarities": [
+                29.66,
+                34.07,
+                36.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

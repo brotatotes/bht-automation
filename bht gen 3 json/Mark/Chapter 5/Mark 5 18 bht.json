@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-22-2023 23:22:32",
+    "verseRef": "Mark 5:18",
+    "bestBHT": {
+        "bht": "As Jesus was entering the boat, the restored man beseeched him, showing his grateful heart and personal gratitude for his wondrous benefactor. The man's desire to be with Jesus, to enjoy communion with him, receive instruction from him, and be under his care, reflects the deep longing of those who have experienced the grace of Christ. Being with Christ means having his gracious presence, experiencing his guidance, and being uplifted by his righteousness. The restored man's request to accompany Jesus demonstrated his understanding of the blessed effects of being in the presence of the Savior.",
+        "wordCount": 97,
+        "quoteTokenProportion": 31.67,
+        "qualityScore": 1.8514528685438134,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+        "commentatorTierSimilarities": [
+            21.05,
+            36.71,
+            42.25
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "18.] Euthymius and Theophylact suppose that he feared a fresh incursion of the evil spirits."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The grateful heart, fresh from the hand of demons, clinging to its wondrous Benefactor.",
+            "How exquisitely natural!"
+        ],
+        "Marvin Vincent": [
+            "While he was stepping into the boat the restored man was beseeching him.",
+            "In order that. Not the subject but the aim of the entreaty."
+        ],
+        "Philip Schaff": [
+            "The correct reading shows that he [Jesus] had not yet entered [the boat].\" ",
+            "The reason of this request was probably personal gratitude to our Lord.",
+            "He would thus separate himself from those who rejected his Deliverer."
+        ],
+        "Archibald T. Robertson": [
+            "As he was entering (\u03b5\u03bc\u03b2\u03b1\u03b9\u03bd\u03bf\u03bd\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5). The man began to beseech him (\u03c0\u03b1\u03c1\u03b5\u03ba\u03b1\u03bb\u03b5) before it was too late. "
+        ],
+        "John Gill": [
+            "So gracious souls who know Christ, and have received out of his fulness, and grace for grace, earnestly desire to be with him, to enjoy communion with him, receive instruction from him, and be always under his care, influence, and protection.",
+            "For to be with Christ, is to have his gracious presence; to have nearness to him, and fellowship with him; to have familiarity and acquaintance with him, yet more and more; to be guided with his counsel, and upheld with the right hand of his righteousness.",
+            "They are sensible of the blessed effects of his presence; they know it brings light to their souls in darkness; that it quickens them when dead and lifeless in their frames and duties, and enlivens their spirits when dull and heavy; that it comforts and rejoices their hearts, and puts more joy and gladness into them, than any outward blessing whatever."
+        ],
+        "John Wesley": [
+            "Matthew 9:1; Luke 8:37;"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus was entering the boat, the restored man beseeched him, showing his grateful heart and personal gratitude for his wondrous benefactor. It was a natural response for someone who had just been delivered from the hand of demons. The man's desire to be with Jesus, to enjoy communion with him, receive instruction from him, and be under his care, reflects the deep longing of those who have experienced the grace of Christ. Being with Christ means having his gracious presence, experiencing his guidance, and being uplifted by his righteousness. The restored man's request to accompany Jesus demonstrated his understanding of the blessed effects of being in the presence of the Savior.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.7939925961040766,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.99,
+            "commentatorTierSimilarities": [
+                24.59,
+                36.28,
+                39.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus was entering the boat, the restored man beseeched him, showing his grateful heart and personal gratitude for his wondrous benefactor. The man's desire to be with Jesus, to enjoy communion with him, receive instruction from him, and be under his care, reflects the deep longing of those who have experienced the grace of Christ. Being with Christ means having his gracious presence, experiencing his guidance, and being uplifted by his righteousness. The restored man's request to accompany Jesus demonstrated his understanding of the blessed effects of being in the presence of the Savior.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.8514528685438134,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                21.05,
+                36.71,
+                42.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus was entering the boat, the restored man beseeched him, showing his gratitude and personal desire to be with his wondrous Benefactor. This natural response reflects the longing of souls who know Christ and have received grace from him. They earnestly desire to enjoy communion with him, receive instruction, and be under his care and protection. Being with Christ means experiencing his gracious presence, guidance, and the blessed effects it brings to their souls. The restored man's request demonstrated his understanding of the joy and gladness that come from being in the presence of the Savior.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.7233261547779186,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                21.22,
+                31.95,
+                46.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus was entering the boat, the restored man beseeched him, showing his gratitude and desire to be with his wondrous Benefactor. This natural response reflects the longing of souls who know Christ and have received grace from him. They earnestly desire to enjoy communion with him, receive instruction, and be under his care and protection. Being with Christ means experiencing his gracious presence, guidance, and the blessed effects it brings to their souls. The restored man's request demonstrated his understanding of the joy and gladness that come from being in the presence of the Savior.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.7234874521950836,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                21.85,
+                31.63,
+                46.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With deep gratitude, the man who had been restored from demonic possession begged Jesus as he was entering the boat. His heartfelt plea exemplifies the natural response of a grateful heart clinging to its wondrous Benefactor. The man's sincere desire to be with Jesus reflects the longing of those who have experienced the grace of Christ. They yearn for communion, instruction, and the protective care of their Savior. For to be with Christ is to have his gracious presence, which brings light, comfort, and immeasurable joy to their souls.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6511705905851377,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.24,
+            "commentatorTierSimilarities": [
+                26.2,
+                34.2,
+                39.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

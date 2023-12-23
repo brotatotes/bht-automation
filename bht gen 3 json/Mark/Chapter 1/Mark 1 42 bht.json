@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:19:36",
+    "verseRef": "Mark 1:42",
+    "bestBHT": {
+        "bht": "The instantaneous healing in this account is unmistakable, as the leprosy instantly departs and the man is cleansed. What is striking is that the healing seems to occur not through physical touch, but through the spoken words. The power of these words is so remarkable that they bring about an immediate cure. This showcases Jesus' incredible ability to perform miraculous healings, highlighting his divine authority and deep compassion for those in need.",
+        "wordCount": 72,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.0868193987915689,
+        "qualityScoreNormalizedComparedToV2BHTs": 27.48,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "immediately the leprosy departed from him, and he was cleansed",
+            "seems to be done not by touching him, but by the words spoken",
+            "accompanied with such power, as to effect the cure in an instant"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The healing in Mark 1:42 is described as immediate and powerful, with the leprosy departing and the man being cleansed. This suggests that the healing occurred not through physical touch, but through the words spoken. The authority and power behind the words spoken were so great that they brought about an instant cure. This verse demonstrates the miraculous healing that Jesus was capable of, showcasing his divine power and compassion for those in need.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.1027412273049917,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.01,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The instantaneous healing in this account is clearly depicted as the leprosy immediately departing from the afflicted individual, resulting in his complete cleansing. It is notable that this remarkable transformation appears to have taken place not through physical contact, but through the spoken words alone. The sheer power inherent in those words demonstrates a divine authority that possessed the ability to effect an immediate and miraculous healing. This powerful event serves as a compelling testimony to the compassionate nature of Jesus and his capacity to perform extraordinary acts of restoration and renewal.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 0.83520630593621,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.12,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The instantaneous healing in this account is unmistakable, as the leprosy instantly departs and the man is cleansed. What is striking is that the healing seems to occur not through physical touch, but through the spoken words. The power of these words is so remarkable that they bring about an immediate cure. This showcases Jesus' incredible ability to perform miraculous healings, highlighting his divine authority and deep compassion for those in need.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.0868193987915689,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.48,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The healing in this account is described as immediate and powerful, as the leprosy departs and the man is cleansed. What is noteworthy is that the healing seems to occur not through physical touch, but through the spoken words. The words spoken carry such authority and power that they bring about an instant cure. This verse demonstrates the miraculous healing that Jesus is capable of, revealing his divine power and deep compassion for those in need.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.091744631156429,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, the leprosy is immediately eradicated and the man is completely cleansed. The healing appears to take place not by physical contact, but rather through the words spoken. The manifestation of such instantaneous, powerful healing emphasizes the immense authority accompanying the words spoken by Jesus. It serves as a compelling testament to the extraordinary ability of Jesus to bring about instant healing, showcasing his divine power and boundless compassion for those in need.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.0641405254465495,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.73,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

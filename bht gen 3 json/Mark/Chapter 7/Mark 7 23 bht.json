@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:23:50",
+    "verseRef": "Mark 7:23",
+    "bestBHT": {
+        "bht": "All these evil things come from within, from the heart, which is sadly corrupted and the fountain from whence all these impure streams flow. If all these evils come from within, then the inward part of man must be sinful and polluted, prior to the commission of these evil things. Sin in thought, word, and deed is the defiling thing that should be carefully avoided, rather than focusing on external practices like diets as long as moderation is used.",
+        "wordCount": 79,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.752890652964222,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.87,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "All these evil things come from within... from his heart; which is sadly corrupted, and is the fountain from whence all these impure streams flow.",
+            "If all these evils come from within, then the inward part of man must be sinful and polluted, previous to the commission of these evil things.",
+            "Sin in thought, word, and deed, is the defiling thing, and is what ought to be carefully avoided; and not meats, and the manner of eating them, provided moderation is used."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse teaches that all evil things come from within a person, specifically from their corrupted heart. This suggests that sin is inherent and pollutes the inward part of humanity before any evil actions are committed. It emphasizes the importance of avoiding sinful thoughts, words, and actions, rather than focusing on external practices like diets or specific eating habits as long as moderation is exercised.",
+            "wordCount": 65,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.7739357389180834,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All these evil things come from within, from the heart, which is sadly corrupted and the fountain from whence all these impure streams flow. If all these evils come from within, then the inward part of man must be sinful and polluted, prior to the commission of these evil things. Sin in thought, word, and deed is the defiling thing that should be carefully avoided, rather than focusing on external practices like diets as long as moderation is used.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.752890652964222,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.87,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse reveals that all evil things stem from within, from the corrupted heart, which serves as the source of impure streams. It highlights the intrinsic sinfulness and pollution of the innermost being, even before the outward manifestation of evil deeds. This suggests the need to be cautious and mindful of sinful thoughts, words, and actions. Rather than fixating on external practices such as dietary regulations, the emphasis lies on avoiding the defilement of sin, as long as moderation is observed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6650932710937216,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All evil things come from within, from the heart\u2014the corrupted fountain from which impure streams flow. This implies the inherent sinfulness and pollution of the inner being prior to engaging in evil deeds. Sin in thought, word, and deed defiles and should be cautiously avoided. External practices like diets are secondary as long as moderation is exercised. The focus should be on steering clear of sin's contamination rather than fixating on externalities.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5843610062985434,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All these evil things come from within, from the heart; which is sadly corrupted, and is the fountain from whence all these impure streams flow. Sin in thought, word, and deed, is the defiling thing, and is what ought to be carefully avoided; and not meats, and the manner of eating them, provided moderation is used. The verse teaches that sin is inherent and pollutes the inward part of humanity before any evil actions are committed. It emphasizes the importance of avoiding sinful thoughts, words, and actions, rather than focusing on external practices like diets or specific eating habits as long as moderation is exercised.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.3257886903956626,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.67,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

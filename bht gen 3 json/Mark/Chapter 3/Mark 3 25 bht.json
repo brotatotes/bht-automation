@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-22-2023 23:20:46",
+    "verseRef": "Mark 3:25",
+    "bestBHT": {
+        "bht": "A house, be it small or great, is unable to maintain its existence when it is divided. Its disputes and discord will swiftly bring it down from a state of comfort and prosperity to one filled with hardship and adversity. Inarguably, a house that is divided against itself cannot stand.",
+        "wordCount": 50,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.879983391059006,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Any family, small or great, that house cannot stand.",
+            "Its contentions and discords will soon bring it down from a comfortable and flourishing situation, to a very distressed one.",
+            "That house, divided against itself, cannot stand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A house, whether it be a humble dwelling or a grand estate, cannot endure when it is divided internally. The strife and disagreements that arise will inevitably lead to its downfall, causing it to go from a place of stability and prosperity to one of turmoil and distress. It is clear that a house divided against itself simply cannot stand.",
+            "wordCount": 60,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 1.6928985566578567,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A house, be it small or great, is unable to maintain its existence when it is divided. Its disputes and discord will swiftly bring it down from a state of comfort and prosperity to one filled with hardship and adversity. Inarguably, a house that is divided against itself cannot stand.",
+            "wordCount": 50,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.879983391059006,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A house, no matter its size or stature, cannot stand if there is strife and division within it. Contentions and discords will eventually bring down even the most comfortable and flourishing household, leading to distress. Thus, it is vital for a family to remain united and harmonious in order to maintain a strong and stable foundation.",
+            "wordCount": 56,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.2779430235116676,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.83,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A house, whether small or great, cannot stand if it is divided against itself. The conflicts and disagreements that arise within a family will inevitably bring about its downfall, leading it from a state of comfort and prosperity to one of distress and turmoil. The unity and harmony of a household are essential for its survival and strength, as any contentions and discords are bound to weaken its foundation.",
+            "wordCount": 69,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.5883860693195306,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.16,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A house divided against itself cannot stand. Any family, whether small or great, that is marked by internal strife and discord will ultimately face ruin and distress. The contentions within such a household will erode its stability, causing it to crumble from its once flourishing state. To maintain strength and prosperity, it is crucial for a family to unite and foster harmony, for a house divided is destined for collapse.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.5844682117930438,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.03,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

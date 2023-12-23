@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-22-2023 23:26:30",
+    "verseRef": "Mark 11:1",
+    "bestBHT": {
+        "bht": "Jesus entered both Bethphage and Bethany, as stated in Luke 19:29, with Matthew 21:1 only mentioning Bethphage. The Mount of Olives is significant in relation to this event. Jesus directly addressed His opponents by sharing a series of parables, one of which mentioned a wine-press pit, a slight variation from Matthew's account. Bethphage extended from Bethany to the city, while the Latin Vulgate only mentions Bethany. Jesus dispatched two disciples, possibly Peter and John, to undertake a specific task.",
+        "wordCount": 79,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.737684439476752,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+        "commentatorTierSimilarities": [
+            46.12,
+            24.09,
+            29.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "And he began to speak unto them in parables. A series of parables was spoken.",
+            "All three accounts show that the parable was spoken in the presence of the people, but directly to the parties who had assailed Him (\u2018to them\u2019), and \u2018against them\u2019.",
+            "A pit for the wine-press. A verbal variation from Matthew\u2019s account."
+        ],
+        "Archibald T. Robertson": [
+            "Unto Bethphage and Bethany... Both together as in Luke 19:29, though Matthew 21:1 mentions only Bethphage.",
+            "See discussion in Matthew for this and the Mount of Olives."
+        ],
+        "John Gill": [
+            "Bethphage began where Bethany ended, and reached to the city itself.",
+            "The Vulgate Latin only makes mention of Bethany.",
+            "He sendeth forth two of his disciples; perhaps Peter and John."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus entered the villages of Bethphage and Bethany together, although Matthew's account only mentions Bethphage. The Mount of Olives is also referenced in relation to these villages. It is important to consult Matthew's account for a more comprehensive discussion. Jesus spoke a series of parables, directly addressing those who had opposed Him. One of the parables mentioned a pit for the wine-press, which is a slight variation from Matthew's account. Bethphage extended from where Bethany ended and stretched to the city itself, while the Latin Vulgate only mentions Bethany. Jesus sent two of His disciples, potentially Peter and John, to carry out a specific task.",
+            "wordCount": 109,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.5875505244875439,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "commentatorTierSimilarities": [
+                39.6,
+                33.16,
+                27.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus made His entry into the villages of Bethphage and Bethany together, as mentioned in Luke 19:29, while Matthew 21:1 focuses solely on Bethphage. The Mount of Olives is also associated with this event. Jesus addressed those who had opposed Him directly, speaking a series of parables, one of which mentioned a wine-press pit, varying slightly from Matthew's account. Bethphage extended where Bethany ended, reaching the city itself, and the Latin Vulgate only mentions Bethany. Jesus sent two disciples, potentially Peter and John, to carry out a task.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.6709677782762675,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.9,
+            "commentatorTierSimilarities": [
+                44.37,
+                24.41,
+                31.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus entered both Bethphage and Bethany, as stated in Luke 19:29, with Matthew 21:1 only mentioning Bethphage. The Mount of Olives is significant in relation to this event. Jesus directly addressed His opponents by sharing a series of parables, one of which mentioned a wine-press pit, a slight variation from Matthew's account. Bethphage extended from Bethany to the city, while the Latin Vulgate only mentions Bethany. Jesus dispatched two disciples, possibly Peter and John, to undertake a specific task.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.737684439476752,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                46.12,
+                24.09,
+                29.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus made His entry into the villages of Bethphage and Bethany together, as mentioned in Luke 19:29, while Matthew 21:1 focuses solely on Bethphage. The Mount of Olives is also associated with this event. Jesus addressed those who had opposed Him directly, speaking a series of parables, one of which mentioning a wine-press pit, varying slightly from Matthew's account. Bethphage extended where Bethany ended, reaching the city itself, and the Latin Vulgate only mentions Bethany. Jesus sent two disciples, potentially Peter and John, to carry out a task.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.671166549170212,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.91,
+            "commentatorTierSimilarities": [
+                44.29,
+                24.5,
+                31.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus entered the villages of Bethphage and Bethany together, although Matthew's account only mentions Bethphage. The Mount of Olives is also referenced in relation to these villages. Jesus spoke a series of parables, directly addressing those who had opposed Him. One of the parables mentioned a pit for the wine-press, which is a slight variation from Matthew's account. Bethphage extended from where Bethany ended and stretched to the city itself, while the Latin Vulgate only mentions Bethany. Jesus sent two of His disciples, potentially Peter and John, to carry out a specific task.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.666253348220728,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.75,
+            "commentatorTierSimilarities": [
+                38.46,
+                32.18,
+                29.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

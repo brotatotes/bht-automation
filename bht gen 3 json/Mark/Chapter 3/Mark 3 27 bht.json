@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-22-2023 23:21:11",
+    "verseRef": "Mark 3:27",
+    "bestBHT": {
+        "bht": "Jesus teaches about his power over Satan through a vivid analogy of a strong man's house. Like a plunderer, Satan snatches and tears things apart. However, Jesus is not in league with him; he is the conqueror of Satan. This parable depicts Satan as the robber, plundering the demons who work for him, only to be defeated by Jesus. Through this image, Jesus emphasizes his victorious authority over Satan, dismantling his power and reclaiming what he has taken.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.3217098839168933,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.29,
+        "commentatorTierSimilarities": [
+            64.87,
+            0.0,
+            35.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The verb means, primarily, to tear in pieces; to carry away, as the wind; to efface, as footsteps.\" ",
+            "So, generally, to seize as plunder, snatching right and left.\" ",
+            "The special object of the robber may be precious vessels of gold or silver; but the word is probably used in its general sense of household gear."
+        ],
+        "Archibald T. Robertson": [
+            "Picture of Satan plundering the demons, the very tools by which he carried on his business.",
+            "A reductio ad absurdum.",
+            "Jesus is the conqueror of Satan, not in league with him."
+        ],
+        "John Gill": [
+            "No man can enter into a strong man's house...\" ",
+            "This is properly a parable; the other seem to be proverbs, or sayings, that were commonly used to show the ill consequences of discords, factions, and divisions.",
+            "...as is explained in the note on."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Mark 3:27, Jesus uses a vivid image of a strong man's house to teach about his power over Satan. The analogy suggests that Satan is like a plunderer, snatching and tearing things apart. However, Jesus, as the conqueror of Satan, is not in league with him. This parable depicts Satan as the robber, plundering the demons who work for him, only to be defeated by Jesus. Through this image, Jesus emphasizes his victorious authority over Satan, dismantling his power and reclaiming what he has taken.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.332629793214739,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.65,
+            "commentatorTierSimilarities": [
+                64.23,
+                0.0,
+                35.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus teaches about his power over Satan through a vivid analogy of a strong man's house. Like a plunderer, Satan snatches and tears things apart. However, Jesus is not in league with him; he is the conqueror of Satan. This parable depicts Satan as the robber, plundering the demons who work for him, only to be defeated by Jesus. Through this image, Jesus emphasizes his victorious authority over Satan, dismantling his power and reclaiming what he has taken.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.3217098839168933,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.29,
+            "commentatorTierSimilarities": [
+                64.87,
+                0.0,
+                35.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus uses the image of a strong man's house to illustrate his power over Satan. Satan is portrayed as a plunderer, snatching and tearing things apart. However, Jesus is not aligned with him; he is the conqueror of Satan. This parable presents Satan as the robber, seizing the demons who carry out his work, only to be overcome by Jesus. In this way, Jesus asserts his victorious authority over Satan, dismantling his power and reclaiming what was taken.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.290355473639827,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.25,
+            "commentatorTierSimilarities": [
+                66.7,
+                0.0,
+                33.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' teaching in Mark 3:27 employs the powerful imagery of a strong man's house to symbolize his authority over Satan. The concept entails Satan working as a plunderer, tearing and snatching away precious possessions. Nevertheless, Jesus is decidedly distinct from Satan, as he is the triumphant conqueror, not in league with him. The parable underscores Satan's role as a robber, looting the very instruments that enable his work. Consequently, Jesus exhibits his victorious power over Satan, dismantling his influence and reclaiming what has been seized.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.283177103483155,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.01,
+            "commentatorTierSimilarities": [
+                69.22,
+                0.0,
+                30.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus uses the analogy of a strong man's house to illustrate his authority over Satan. Satan is depicted as a plunderer, tearing and snatching away possessions, but Jesus is not aligned with him. Instead, Jesus is the conqueror of Satan, dismantling his influence and reclaiming what has been taken. This parable highlights Jesus' victorious power over Satan's hold, emphasizing his role as the one who restores what has been plundered.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.3134663060651235,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.02,
+            "commentatorTierSimilarities": [
+                64.2,
+                0.0,
+                35.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
