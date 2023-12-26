@@ -1,7 +1,7 @@
 # Luke 7:27 Commentary Help Text
 
 ## BHT:
-The command to prepare is highlighted in this text, emphasizing the significance of this readiness. The expression but little or comparatively little underscores the importance of this preparation. Furthermore, a prophecy from Malachi 3:1 is referenced, reinforcing the anticipation and expectation surrounding the arrival of a significant figure.
+Prepare the way, for the one who comes is of great importance. He is the fulfillment of the prophecy in Malachi 3:1 and should not be underestimated. Though he may seem comparatively little, his role in paving the way for the Savior is of utmost significance.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -22,37 +22,34 @@ Malachi 3:1- :.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 16:16:00
+- Timestamp: 12-25-2023 21:22:57
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 47
-- BHT Commentary Usage: 31.43%
-- BHT Quality Score: 0.9594814636225177
+- BHT Word Count: 45
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 1.0376612515898591
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (35):
-	['a', 'and', 'anticipation', 'arrival', 'but', 'command', 'comparatively', 'emphasizing', 'expectation', 'expression', 'figure', 'from', 'furthermore', 'highlighted', 'importance', 'in', 'is', 'little', 'malachi', 'of', 'or', 'preparation', 'prepare', 'prophecy', 'readiness', 'referenced', 'reinforcing', 'significance', 'significant', 'surrounding', 'text', 'the', 'this', 'to', 'underscores']
-- ChatGPT injected words (significant words only) (24):
-	['anticipation', 'arrival', 'command', 'comparatively', 'emphasizing', 'expectation', 'expression', 'figure', 'furthermore', 'highlighted', 'importance', 'little', 'malachi', 'preparation', 'prepare', 'prophecy', 'readiness', 'referenced', 'reinforcing', 'significance', 'significant', 'surrounding', 'text', 'underscores']
+- ChatGPT injected words (32):
+	['and', 'be', 'comes', 'comparatively', 'for', 'fulfillment', 'great', 'he', 'his', 'importance', 'in', 'is', 'little', 'malachi', 'may', 'not', 'of', 'one', 'paving', 'prepare', 'prophecy', 'role', 'savior', 'seem', 'should', 'significance', 'the', 'though', 'underestimated', 'utmost', 'way', 'who']
+- ChatGPT injected words (significant words only) (16):
+	['comes', 'comparatively', 'fulfillment', 'great', 'importance', 'little', 'malachi', 'paving', 'prepare', 'prophecy', 'role', 'savior', 'significance', 'underestimated', 'utmost', 'way']
 
 ### Logs
-- Attempt 1 BHT: The verse highlights the concept of preparation, as seen in the phrase Prepare. This preparation is described as comparatively little or but little, emphasizing its importance. Additionally, it is associated with the fulfillment of a prophecy from Malachi 3:1. The verse alludes to the anticipation of a significant figure, as indicated by the mention of a written scriptural reference.
-- 🔄 Luke 7:27 (attempt 1, 58 words, 36.59% quotes quality score: 0.9862625437665733, V2 normalized quality score: 24.14, commentator tiers 1-3: 36.12%, 0.0%, 63.88%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The need for preparation is emphasized in this passage as it instructs to prepare for something significant. The phrase but little or comparatively little highlights the importance of this preparation. Additionally, a prophecy from Malachi 3:1 is mentioned, further alluding to the anticipation of an important figure.
-- 🔄 Luke 7:27 (attempt 2, 46 words, 44.44% quotes quality score: 1.056370254668944, V2 normalized quality score: 26.47, commentator tiers 1-3: 43.47%, 0.0%, 56.53%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: The call for preparation is emphasized, urging individuals to get ready for something of great significance. The phrase but little or comparatively little underscores the importance of this readiness. Furthermore, a reference to the prophetic words of Malachi 3:1 is made, reinforcing the anticipation surrounding the arrival of a significant figure.
-- 🔄 Luke 7:27 (attempt 3, 50 words, 35.14% quotes quality score: 0.907222948409419, V2 normalized quality score: 21.51, commentator tiers 1-3: 47.56%, 0.0%, 52.44%) 
+- Attempt 1 BHT: Prepare the way, for the one who comes is of great importance. He is the fulfillment of the prophecy in Malachi 3:1, who will prepare the hearts of the people for the coming Messiah. Though he may seem insignificant in comparison, his role in paving the way for the Savior is of utmost importance. (42 words)
+- 🔄 Luke 7:27 (attempt 1, 54 words, 40.62% quotes quality score: 0.8179271014496234, V2 normalized quality score: 18.54, commentator tiers 1-3: 32.9%, 0.0%, 67.1%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Prepare for the arrival of someone significant is the main focus of this verse. The phrase but little or comparatively little reminds us of the importance of this preparation. In addition, there is a reference to a prophecy from Malachi 3:1, which adds to the anticipation surrounding this individual.
-- 🔄 Luke 7:27 (attempt 4, 48 words, 42.86% quotes quality score: 1.07230277980682, V2 normalized quality score: 27.0, commentator tiers 1-3: 43.41%, 0.0%, 56.59%) 
+- Attempt 2 BHT: Prepare the way, for the one who comes is of great importance. He is the fulfillment of the prophecy in Malachi 3:1 and should not be underestimated. Though he may seem comparatively little, his role in paving the way for the Savior is of utmost significance.
+- 🔄 Luke 7:27 (attempt 2, 45 words, 50.0% quotes quality score: 1.0376612515898591, V2 normalized quality score: 25.85, commentator tiers 1-3: 35.85%, 0.0%, 64.15%)
+- Attempt 3 BHT: John the Baptist was the one who prepared the way for Jesus, as it was written in Malachi 3:1. In Luke 7:27, it is stated that John is the least or comparatively little in comparison to Jesus. This indicates that although John played a significant role in preparing the way for Jesus, his role was still smaller in comparison to the one who was to come.
+- 🔄 Luke 7:27 (attempt 3, 64 words, 48.65% quotes quality score: 1.3286617672388727, V2 normalized quality score: 35.52, commentator tiers 1-3: 39.81%, 0.0%, 60.19%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: The command to prepare is highlighted in this text, emphasizing the significance of this readiness. The expression but little or comparatively little underscores the importance of this preparation. Furthermore, a prophecy from Malachi 3:1 is referenced, reinforcing the anticipation and expectation surrounding the arrival of a significant figure.
-- 🔄 Luke 7:27 (attempt 5, 47 words, 31.43% quotes quality score: 0.9594814636225177, V2 normalized quality score: 23.25, commentator tiers 1-3: 49.05%, 0.0%, 50.95%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: John the Baptist, the one who prepared the way for Jesus, is described as less or comparatively little in comparison to Jesus. As stated in the book of Malachi, John fulfills the role of the one who prepares the way for the Lord. While his contribution is significant, it is smaller in comparison to the one who will come after him.
+- 🔄 Luke 7:27 (attempt 4, 61 words, 45.95% quotes quality score: 1.1433063927977367, V2 normalized quality score: 29.36, commentator tiers 1-3: 41.51%, 0.0%, 58.49%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 7:27 bht prompt v0.8 (47 words, 31.43% quotes)
-- quality score: 0.9594814636225177, V2 normalized quality score: 23.25, commentator tiers 1-3: 49.05%, 0.0%, 50.95%)
+- Attempt 5 BHT: John the Baptist, who is referred to as less or comparatively little in comparison to Jesus, fulfills the role of the one who prepares the way for the Lord, as written in Malachi. John's preparation is important, but it is smaller in comparison to the one who is to come after him.
+- 🔄 Luke 7:27 (attempt 5, 53 words, 44.12% quotes quality score: 1.2952183744821109, V2 normalized quality score: 34.41, commentator tiers 1-3: 47.85%, 0.0%, 52.15%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 7:27 bht prompt v0.8 (45 words, 50.0% quotes)
+- quality score: 1.0376612515898591, V2 normalized quality score: 25.85, commentator tiers 1-3: 35.85%, 0.0%, 64.15%)

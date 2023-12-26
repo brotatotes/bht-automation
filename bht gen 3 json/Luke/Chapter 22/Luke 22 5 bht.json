@@ -1,34 +1,34 @@
 {
-    "timestamp": "12-25-2023 20:59:36",
+    "timestamp": "12-25-2023 21:23:07",
     "verseRef": "Luke 22:5",
     "bestBHT": {
-        "bht": "One of the Twelve disciples agrees to betray Jesus for thirty pieces of silver, a sum with significant biblical associations. This payment echoes the fine payable in Exodus 21:32 for the accidental death of a servant. The value placed on Jesus in this exchange is shockingly low, reducing him to the level of mere property. The irony lies in the fact that this seemingly substantial price becomes a goodly amount for betraying the Savior. Although not explicitly mentioned, the weight of the money exchanged emphasizes the significance of this treacherous act.",
-        "wordCount": 90,
-        "quoteTokenProportion": 28.12,
-        "qualityScore": 0.9732812217173883,
-        "qualityScoreNormalizedComparedToV2BHTs": 23.71,
+        "bht": "The mention of money and the specific amount of thirty pieces in this narrative holds significance, as it represents the payment for accidentally ending the life of a servant. The phrase a goodly price that I was priced at of them portrays the satisfaction felt by one of the Twelve in offering to betray Jesus. The term put together suggests collaboration between Judas and the religious leaders, while the Ethiopian version confirms the agreed upon sum of thirty pieces of silver. This passage reveals Judas' decision to betray Jesus and highlights the role of money in his betrayal.",
+        "wordCount": 98,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.1824015725476233,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.66,
         "commentatorTierSimilarities": [
-            67.04,
+            32.31,
             0.0,
-            32.96
+            67.69
         ],
-        "generationAttempt": 3
+        "generationAttempt": 4
     },
     "choicestQuotes": {
         "Jamieson-Fausset-Brown": [
-            "thirty pieces of silver\" (Matthew 26:15).",
-            "thirty shekels, the fine payable for man- or maid-servant accidentally killed\" (Exodus 21:32).",
-            "a goodly price that I was priced at of them\" (Exodus 21:32)."
+            "money\u2014'thirty pieces",
+            "thirty shekels, the fine payable for man- or maid-servant",
+            "\t accidentally killed...and equal to between four and five pounds of our money",
+            "a goodly price that I was priced at of them"
         ],
         "Archibald T. Robertson": [
             "Ingressive aorist, a natural exultation that one of the Twelve had offered to do this thing.",
             "An old verb to put together and in the middle with one another.",
-            "Luke only mentions 'money,' but not 'thirty pieces.'"
+            "Luke only mentions 'money,' but not 'thirty pieces'."
         ],
         "John Gill": [
-            "For nothing could be more opportune and agreeable to them.",
-            "than that one of his disciples should meet them at this juncture, and offer to put him into their hands in the most private manner.",
-            "The sum they agreed to give him, and he accepted of."
+            "For nothing could be more opportune and agreeable to them, than that one of his disciples should meet them at this juncture, and offer to put him into their hands in the most private manner.",
+            "The Ethiopic version read, 'thirty pieces of silver'; which was the sum they agreed to give him, and he accepted of; see Matthew 26:15."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -48,67 +48,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "One of the disciples betrays Jesus for thirty pieces of silver, a significant sum that is reminiscent of the fine payable for accidentally killing a servant in Exodus 21:32. This choice of payment reveals the low value they placed on Jesus, considering him merely as property. The use of a goodly price in Exodus 21:32 highlights the irony of the situation, as Jesus was offered this substantial sum to be handed over to his enemies. Luke's account, although not mentioning the exact amount, emphasizes the significance of the money exchanged in this treacherous act.",
-            "wordCount": 93,
-            "quoteTokenProportion": 31.82,
-            "qualityScore": 1.1427370005294308,
-            "qualityScoreNormalizedComparedToV2BHTs": 29.34,
+            "bht": "One of the significant aspects of this verse is the mention of money, specifically thirty pieces. This amount holds significance as it is the equal payment for accidentally killing a servant, emphasizing the low value placed on Jesus. The phrase a goodly price that I was priced at of them reflects the exultation and satisfaction felt by one of the Twelve for offering to betray Jesus. Additionally, the mentioning of put together suggests a collaboration between Judas and the religious leaders. While Luke does not explicitly mention thirty pieces, the Ethiopian version clarifies that this was the agreed upon sum. Overall, this verse portrays Judas' decision to betray Jesus and highlights the monetary aspect involved in his betrayal.",
+            "wordCount": 118,
+            "quoteTokenProportion": 35.8,
+            "qualityScore": 1.108199780737138,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.19,
             "commentatorTierSimilarities": [
-                70.14,
+                36.16,
                 0.0,
-                29.86
+                63.84
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "One of the Twelve disciples offers to betray Jesus for thirty pieces of silver, a sum that carries strong biblical connotations. This amount echoes the fine payable for accidentally killing a servant as outlined in Exodus 21:32. Remarkably, this payment reveals the disturbingly low value the betrayer attributes to Jesus, effectively equating him with mere property. The chosen coins hold an ironic significance, as they are considered a goodly price for handing over the Messiah to his enemies. While Luke does not specify the exact amount, the emphasis lies on the weight that this treacherous act carries.",
-            "wordCount": 96,
-            "quoteTokenProportion": 31.08,
-            "qualityScore": 1.115206511204876,
-            "qualityScoreNormalizedComparedToV2BHTs": 28.42,
+            "bht": "One notable aspect of this passage is the mention of money and its connection to a specific amount - thirty pieces. This sum holds significance as it corresponds to the payment for unintentional harm to a servant, emphasizing the devaluation of Jesus. The phrase a goodly price that I was priced at of them reveals the satisfaction felt by one of the Twelve in offering to betray Jesus. The concept of putting together suggests collusion between Judas and the religious leaders. In this account, the Ethiopian version confirms that thirty pieces of silver were indeed agreed upon. This verse depicts Judas' decision to betray Jesus and underscores the financial aspect involved in his betrayal.",
+            "wordCount": 113,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.0965480435161816,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.8,
             "commentatorTierSimilarities": [
-                64.39,
+                34.37,
                 0.0,
-                35.61
+                65.63
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "One of the Twelve disciples agrees to betray Jesus for thirty pieces of silver, a sum with significant biblical associations. This payment echoes the fine payable in Exodus 21:32 for the accidental death of a servant. The value placed on Jesus in this exchange is shockingly low, reducing him to the level of mere property. The irony lies in the fact that this seemingly substantial price becomes a goodly amount for betraying the Savior. Although not explicitly mentioned, the weight of the money exchanged emphasizes the significance of this treacherous act.",
-            "wordCount": 90,
-            "quoteTokenProportion": 28.12,
-            "qualityScore": 0.9732812217173883,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.71,
+            "bht": "An intriguing aspect of this account is the mention of money, specifically the sum of thirty pieces. This value carries significance as it is equivalent to the compensation for unintentionally causing harm to a servant. The phrase a goodly price that I was priced at of them reveals the elation of one of the Twelve who willingly offered to carry out this act. The term put together indicates a level of cooperation and collusion between Judas and the religious leaders. Although Luke does not explicitly state thirty pieces, the Ethiopian version confirms this amount, as recorded in Matthew 26:15. This verse captures Judas' decision to betray Jesus and highlights the involvement of monetary transaction in his betrayal.",
+            "wordCount": 116,
+            "quoteTokenProportion": 34.94,
+            "qualityScore": 0.9946291255122996,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.42,
             "commentatorTierSimilarities": [
-                67.04,
+                40.27,
                 0.0,
-                32.96
+                59.73
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "One of Jesus' disciples, motivated by greed, offers to betray him for thirty pieces of silver, a sum with deep biblical connotations. This amount mirrors the fine for unintentionally causing the death of a servant, highlighting the low value placed on Jesus by the betrayer. It is striking that this treacherous act is met with a sense of triumph, demonstrated by the use of the verb to put together, signaling the betrayer's eagerness to align himself with Jesus' enemies. The mention of money implies the weightiness and significance of this act of betrayal.",
-            "wordCount": 94,
-            "quoteTokenProportion": 30.16,
-            "qualityScore": 0.9561888105366156,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.14,
+            "bht": "The mention of money and the specific amount of thirty pieces in this narrative holds significance, as it represents the payment for accidentally ending the life of a servant. The phrase a goodly price that I was priced at of them portrays the satisfaction felt by one of the Twelve in offering to betray Jesus. The term put together suggests collaboration between Judas and the religious leaders, while the Ethiopian version confirms the agreed upon sum of thirty pieces of silver. This passage reveals Judas' decision to betray Jesus and highlights the role of money in his betrayal.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.1824015725476233,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.66,
             "commentatorTierSimilarities": [
-                53.28,
+                32.31,
                 0.0,
-                46.72
+                67.69
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "One of the Twelve disciples willingly betrays Jesus and agrees to hand him over for thirty pieces of silver, a sum that carries strong biblical significance. This amount is reminiscent of the fine paid for the accidental killing of a servant, emphasizing the low value attributed to Jesus by the betrayer. The choice of payment as a goodly price ironically highlights the devaluation of the Messiah. Although not explicitly mentioned by Luke, the mention of money underscores the weight and significance of this traitorous act.",
-            "wordCount": 85,
-            "quoteTokenProportion": 30.0,
-            "qualityScore": 1.0833246359402933,
-            "qualityScoreNormalizedComparedToV2BHTs": 27.36,
+            "bht": "The mention of money is significant in this account, particularly the specific amount of thirty pieces. This sum is equal to the payment for accidentally causing harm to a servant. The phrase a goodly price that I was priced at of them expresses the satisfaction of one of the Twelve in offering to betray Jesus. The term put together suggests the collaboration between Judas and the religious leaders. While Luke does not explicitly state thirty pieces, the Ethiopian version confirms this detail, as mentioned in Matthew 26:15. This depiction highlights Judas' decision to betray Jesus and the monetary aspect of his betrayal.",
+            "wordCount": 101,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.0731767155490637,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.03,
             "commentatorTierSimilarities": [
-                63.68,
+                38.03,
                 0.0,
-                36.32
+                61.97
             ],
             "generationAttempt": 5
         }

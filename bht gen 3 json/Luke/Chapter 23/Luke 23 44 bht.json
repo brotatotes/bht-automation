@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-25-2023 21:00:46",
+    "timestamp": "12-25-2023 21:22:59",
     "verseRef": "Luke 23:44",
     "bestBHT": {
-        "bht": "Around midday, a remarkable darkness blanketed the entire earth. This darkness obscured the sun and created an extraordinary gloom that lasted for about three hours. Notably, even the moon lacked its customary brightness due to its opposition to the sun during this period. It is crucial to understand that this significant darkness is directly linked to the crucifixion of Jesus, indicating the profound impact and importance of this momentous event.",
-        "wordCount": 70,
-        "quoteTokenProportion": 35.29,
-        "qualityScore": 0.9215743340545286,
-        "qualityScoreNormalizedComparedToV2BHTs": 21.99,
+        "bht": "Around noon, darkness covered the earth, obscuring the sun and casting a shadow over all creation. It lasted for three hours, until about three in the afternoon.",
+        "wordCount": 27,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.307252230808884,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.81,
         "commentatorTierSimilarities": [
-            42.81,
+            45.76,
             0.0,
-            57.19
+            54.24
         ],
-        "generationAttempt": 4
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -24,9 +24,9 @@
             " :-."
         ],
         "John Wesley": [
-            "There was darkness over all the earth \u2014 The noon-tide darkness, covering the sun, obscured all the upper hemisphere.",
-            "And the lower was equally darkened, the moon being in opposition to the sun, and so receiving no light from it.",
-            "Matthew 27:45."
+            "There was darkness over all the earth.\" ",
+            "The noon-tide darkness, covering the sun, obscured all the upper hemisphere.",
+            "And the lower was equally darkened, the moon being in opposition to the sun, and so receiving no light from it."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -46,67 +46,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "At about noon, darkness covered the earth, obscuring the sun and creating an eerie darkness that lasted until about 3:00 pm. This darkness was not limited to the physical realm, as the moon also lost its light during this time. It is worth noting that the darkness mentioned here is in reference to the crucifixion of Jesus.",
-            "wordCount": 56,
-            "quoteTokenProportion": 46.51,
-            "qualityScore": 0.8581621264757653,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.88,
+            "bht": "At about noon, darkness covered the earth, obscuring the sun, while the moon, in opposition to the sun, remained equally dark. This darkness lasted for three hours until about three in the afternoon.",
+            "wordCount": 33,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.279154287022789,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.88,
             "commentatorTierSimilarities": [
-                31.55,
+                36.8,
                 0.0,
-                68.45
+                63.2
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "Around midday, darkness enveloped the entire earth, overshadowing the sun and causing a profound obscurity that lasted for approximately three hours. This remarkable event also affected the moon, which, being in opposition to the sun, remained devoid of its usual radiance. Notably, the darkness mentioned here is in connection to the crucifixion of Jesus, a momentous and significant occurrence.",
-            "wordCount": 59,
-            "quoteTokenProportion": 36.17,
-            "qualityScore": 0.8277462062712961,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.87,
+            "bht": "From about noon, darkness enveloped the entire earth, blocking the sunlight and casting a shadow over the land. This darkness persisted for three hours until around three in the afternoon.",
+            "wordCount": 30,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.280179703942185,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.91,
             "commentatorTierSimilarities": [
-                37.69,
+                39.14,
                 0.0,
-                62.31
+                60.86
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "The darkness that fell over all the earth at about noon was an extraordinary phenomenon, completely obscuring the sun and enveloping the world in a profound gloom that lasted for around three hours. Even the moon, in its opposition to the sun, was devoid of its usual luminosity during this time. This enigmatic darkness, associated with the crucifixion of Jesus, signifies the momentous nature of this event.",
-            "wordCount": 67,
-            "quoteTokenProportion": 42.0,
-            "qualityScore": 0.7709181826778748,
-            "qualityScoreNormalizedComparedToV2BHTs": 16.98,
+            "bht": "Around noon, darkness covered the earth, obscuring the sun and casting a shadow over all creation. It lasted for three hours, until about three in the afternoon.",
+            "wordCount": 27,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.307252230808884,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.81,
             "commentatorTierSimilarities": [
-                31.78,
+                45.76,
                 0.0,
-                68.22
+                54.24
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Around midday, a remarkable darkness blanketed the entire earth. This darkness obscured the sun and created an extraordinary gloom that lasted for about three hours. Notably, even the moon lacked its customary brightness due to its opposition to the sun during this period. It is crucial to understand that this significant darkness is directly linked to the crucifixion of Jesus, indicating the profound impact and importance of this momentous event.",
-            "wordCount": 70,
-            "quoteTokenProportion": 35.29,
-            "qualityScore": 0.9215743340545286,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.99,
+            "bht": "Around noon, darkness covered the earth, obscuring the sun and casting a shadow over all creation. It lasted for three hours, until about three in the afternoon. This period of darkness was a remarkable occurrence during this time.",
+            "wordCount": 38,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0905431886969903,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.6,
             "commentatorTierSimilarities": [
-                42.81,
+                42.1,
                 0.0,
-                57.19
+                57.9
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "At about noon, darkness covered the earth, obscuring the sun and creating an eerie gloom that lasted for approximately three hours. This darkness was not limited to the physical realm, as even the moon lost its radiance due to its opposition to the sun during this time. It is important to recognize that this profound darkness is associated with the crucifixion of Jesus, emphasizing the significance and magnitude of this pivotal event.",
-            "wordCount": 72,
-            "quoteTokenProportion": 40.38,
-            "qualityScore": 0.8356638334702553,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.13,
+            "bht": "At about midday, darkness covered the entire earth, obscuring the sun and creating a profound darkness in both the upper and lower hemispheres. This darkness lasted for three hours, until the ninth hour. The significance of this darkness is unknown, but it undoubtedly added a supernatural element to the events unfolding at that time.",
+            "wordCount": 54,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.1938123197256068,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.04,
             "commentatorTierSimilarities": [
-                31.67,
+                41.17,
                 0.0,
-                68.33
+                58.83
             ],
             "generationAttempt": 5
         }

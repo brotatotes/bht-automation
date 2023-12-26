@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-25-2023 21:00:47",
+    "timestamp": "12-25-2023 21:23:03",
     "verseRef": "Luke 17:35",
     "bestBHT": {
-        "bht": "Two women will be grinding together, in the same place, near each other, as grinding was a common task for women. The outcome is that one woman will be taken, while the other will be left. This distinction can only be attributed to the sovereign will and providence of God.",
-        "wordCount": 50,
-        "quoteTokenProportion": 60.53,
-        "qualityScore": 0.8353944580317755,
-        "qualityScoreNormalizedComparedToV2BHTs": 19.12,
+        "bht": "Two women shall be grinding together in the same place, near in proximity. The reason for one being taken and the other left cannot be pinpointed to any specific fault or merit, but rather the sovereign will and providence of God, guiding the actions of these men.",
+        "wordCount": 47,
+        "quoteTokenProportion": 51.28,
+        "qualityScore": 0.9408674732205067,
+        "qualityScoreNormalizedComparedToV2BHTs": 22.63,
         "commentatorTierSimilarities": [
-            20.48,
-            12.49,
-            67.03
+            23.39,
+            15.42,
+            61.19
         ],
-        "generationAttempt": 5
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Philip Schaff": [
@@ -22,13 +22,14 @@
             "\t"
         ],
         "Archibald T. Robertson": [
-            "Shall be grinding (\u03b5\u03c3\u03bf\u03bd\u03c4\u03b1 \u03b1\u03bb\u03b7\u03b8\u03bf\u03c5\u03c3\u03b1). Periphrastic future active indicative of \u03b1\u03bb\u03b7\u03b8\u03c9, an old verb only in the N.T.\" ",
+            "Shall be grinding.",
+            "Periphrastic future active indicative of \u03b1\u03bb\u03b7\u03b8\u03c9, an old verb only in the N.T. here and Matthew 24:41.",
             "Together (\u03b5\u03c0 \u03c4\u03bf \u03b1\u03c5\u03c4\u03bf). In the same place, near together as in Acts 2:1."
         ],
         "John Gill": [
-            "Two shall be grinding together... and at one and the same mill.\" ",
-            "Grinding was the business of women.",
-            "The one shall be taken and the other left;... for which no other reason can be given, but the sovereign will and providence of God."
+            "Two [women] shall be grinding together...and at one and the same mill...and it was common for two women to grind at one hand mill...\" ",
+            "The one shall be taken and the other left; the Roman soldiers entering the mill, will lay hold on the one, and carry her away with them, and leave the other...\" ",
+            "...no other reason can be given, but the sovereign will and providence of God, which should overrule and dispose the minds of these men, to act in such a manner."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -48,67 +49,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "In Luke 17:35, it mentions that two women shall be grinding together, which was a common task for women. The commentary emphasizes that these women will be in the same place, near together. This verse shows the sovereign will and providence of God as it states that one woman will be taken and the other left, and no other reason can be given for this outcome.",
-            "wordCount": 65,
-            "quoteTokenProportion": 48.89,
-            "qualityScore": 0.9849124787825496,
-            "qualityScoreNormalizedComparedToV2BHTs": 24.09,
+            "bht": "Two women shall be grinding together, in the same place near each other, with one hand mill; and at one and the same mill, one shall be taken and the other left. The Roman soldiers will enter the mill and lay hold on one, carrying her away while leaving the other behind. The reason for this distinction cannot be found in any specific fault or merit on the part of the women, but rather in the sovereign will and providence of God, which directs the actions of these men.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 0.9680501596381119,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.53,
             "commentatorTierSimilarities": [
-                23.34,
-                28.59,
-                48.07
+                17.1,
+                14.95,
+                67.95
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "In this passage, it is mentioned that two women will be grinding together, a common task for women. These women will be near each other, in the same place. One woman will be taken and the other left, for reasons that can only be attributed to the sovereign will and providence of God.",
-            "wordCount": 53,
-            "quoteTokenProportion": 57.89,
-            "qualityScore": 0.8904725529186838,
-            "qualityScoreNormalizedComparedToV2BHTs": 20.95,
+            "bht": "Two women shall be grinding together in the same place, near in proximity. The Roman soldiers will enter the mill and take one woman, leaving the other behind. This distinction is not based on any fault or merit of the women, but solely on the sovereign will and providence of God, which directs the actions of these men.",
+            "wordCount": 58,
+            "quoteTokenProportion": 48.89,
+            "qualityScore": 0.9327396844914995,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.36,
             "commentatorTierSimilarities": [
-                23.26,
-                17.39,
-                59.35
+                19.95,
+                16.72,
+                63.34
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "Two women, engaged in the task of grinding, are depicted in this verse. They work together, side by side, in close proximity. The outcome reveals that one woman will be taken, while the other will be left, solely based on God's sovereign will and providence.",
-            "wordCount": 46,
-            "quoteTokenProportion": 47.37,
-            "qualityScore": 0.7889000524585338,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.58,
+            "bht": "Two women shall be grinding together in the same place, near in proximity. The reason for one being taken and the other left cannot be pinpointed to any specific fault or merit, but rather the sovereign will and providence of God, guiding the actions of these men.",
+            "wordCount": 47,
+            "quoteTokenProportion": 51.28,
+            "qualityScore": 0.9408674732205067,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.63,
             "commentatorTierSimilarities": [
-                31.25,
-                12.72,
-                56.03
+                23.39,
+                15.42,
+                61.19
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "Two women shall be grinding together, in the same place, near together. The verse highlights the activity of grinding, typically performed by women. It further reveals that one woman will be taken and the other left, emphasizing the absolute sovereignty and providence of God as the underlying reason behind this distinction.",
-            "wordCount": 51,
-            "quoteTokenProportion": 45.0,
-            "qualityScore": 0.9138708825190299,
-            "qualityScoreNormalizedComparedToV2BHTs": 21.73,
+            "bht": "Two women grinding together at the same mill is the subject of Luke 17:35. The phrase shall be grinding is a periphrastic future active indicative, an old verb used only here and in Matthew 24:41. The women are grinding at the same place, near together, similar to Acts 2:1. In this verse, one woman will be taken and the other left, perhaps by Roman soldiers who will choose to take one woman and leave the other. Such actions can only be attributed to the sovereign will and providence of God, as no other reason can explain their choices.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.1311406010588119,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.95,
             "commentatorTierSimilarities": [
-                26.83,
-                9.88,
-                63.3
+                32.72,
+                20.67,
+                46.61
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "Two women will be grinding together, in the same place, near each other, as grinding was a common task for women. The outcome is that one woman will be taken, while the other will be left. This distinction can only be attributed to the sovereign will and providence of God.",
-            "wordCount": 50,
-            "quoteTokenProportion": 60.53,
-            "qualityScore": 0.8353944580317755,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.12,
+            "bht": "The future event of two women grinding together at the same mill is mentioned in the quote. This periphrastic future action, found only here and in Matthew 24:41, brings attention to the women's actions. The phrase together, in the same place adds to the description of their proximity. The possibility of Roman soldiers taking one woman and leaving the other is discussed in the quote, with the understanding that their actions are determined solely by God's sovereign will and providence.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 0.8642355919078849,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.08,
             "commentatorTierSimilarities": [
-                20.48,
-                12.49,
-                67.03
+                28.99,
+                24.22,
+                46.79
             ],
             "generationAttempt": 5
         }

@@ -1,7 +1,7 @@
 # Mark 7:5 Commentary Help Text
 
 ## BHT:
-Jesus confronts the Pharisees and scribes about their focus on the tradition of the elders rather than the commandments of God. He points out that they are more concerned with human traditions than with following God's word. Jesus emphasizes the importance of abiding by God's word as the rule for one's conduct and walk. He clarifies that the term common refers to unwashed hands, signifying uncleanness or unholiness. The rule handed down from forefathers is challenged by Jesus, who encourages obedience to the word of God for true peace.
+Why walk not thy disciples according to the tradition of the elders, but eat with unwashen hands? The Pharisees questioned Jesus about His disciples' failure to comply with the elders' traditions, specifically regarding the washing of hands before meals. However, Jesus stressed the distinction between human traditions and God's word, affirming that true believers should prioritize the latter over the former. Those who walk in accordance with God's commandments will experience peace, whereas those who adhere to the commandments of men will not find true contentment.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -10,9 +10,9 @@ Jesus confronts the Pharisees and scribes about their focus on the tradition of 
 
 
 ### John Gill:
-1. "The words 'common' is used for that which is unclean or unholy...and so signifies unwashen hands." 
-2. "Not the traditions of men, but the word of God, should be the rule of walk and conversation."
-3. "As many as walk according to this rule, peace will be upon them."
+1. "Why walk not thy disciples according to the tradition of the elders, but eat with unwashen hands?" 
+2. "The traditions of men, but the word of God, should be the rule of walk and conversation." 
+3. "As many as walk according to this rule, peace will be upon them; but those that walk according to the commandments of men, justly deserve the character given of such."
 
 ### John Wesley:
 1. The tradition of the elders — The rule delivered down from your forefathers.
@@ -21,38 +21,37 @@ Jesus confronts the Pharisees and scribes about their focus on the tradition of 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-25-2023 21:00:49
+- Timestamp: 12-25-2023 21:23:04
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 39.68%
-- BHT Quality Score: 0.9206060847875445
+- BHT Word Count: 88
+- BHT Commentary Usage: 40.0%
+- BHT Quality Score: 1.0554542551199066
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (63):
-	['abiding', 'about', 'and', 'are', 'as', 'by', 'challenged', 'clarifies', 'commandments', 'common', 'concerned', 'conduct', 'confronts', 'down', 'elders', 'emphasizes', 'encourages', 'focus', 'following', 'for', 'forefathers', 'from', 'god', 'handed', 'hands', 'he', 'human', 'importance', 'is', 'jesus', 'more', 'obedience', 'of', 'on', 'one', 'or', 'out', 'peace', 'pharisees', 'points', 'rather', 'refers', 'rule', 's', 'scribes', 'signifying', 'term', 'than', 'that', 'the', 'their', 'they', 'to', 'tradition', 'traditions', 'true', 'uncleanness', 'unholiness', 'unwashed', 'walk', 'who', 'with', 'word']
-- ChatGPT injected words (significant words only) (38):
-	['abiding', 'challenged', 'clarifies', 'commandments', 'common', 'concerned', 'conduct', 'confronts', 'elders', 'emphasizes', 'encourages', 'focus', 'following', 'forefathers', 'god', 'handed', 'hands', 'human', 'importance', 'jesus', 'obedience', 'peace', 'pharisees', 'points', 'refers', 'rule', 's', 'scribes', 'signifying', 'term', 'tradition', 'traditions', 'true', 'uncleanness', 'unholiness', 'unwashed', 'walk', 'word']
+- ChatGPT injected words (60):
+	['about', 'accordance', 'according', 'adhere', 'affirming', 'and', 'before', 'believers', 'between', 'but', 'commandments', 'comply', 'contentment', 'disciples', 'distinction', 'eat', 'elders', 'experience', 'failure', 'find', 'former', 'god', 'hands', 'his', 'however', 'human', 'in', 'jesus', 'latter', 'meals', 'men', 'not', 'of', 'over', 'peace', 'pharisees', 'prioritize', 'questioned', 'regarding', 's', 'should', 'specifically', 'stressed', 'that', 'the', 'those', 'thy', 'to', 'tradition', 'traditions', 'true', 'unwashen', 'walk', 'washing', 'whereas', 'who', 'why', 'will', 'with', 'word']
+- ChatGPT injected words (significant words only) (36):
+	['accordance', 'according', 'adhere', 'affirming', 'believers', 'commandments', 'comply', 'contentment', 'disciples', 'distinction', 'eat', 'elders', 'experience', 'failure', 'find', 'god', 'hands', 'human', 'jesus', 'meals', 'men', 'peace', 'pharisees', 'prioritize', 'questioned', 's', 'specifically', 'stressed', 'thy', 'tradition', 'traditions', 'true', 'unwashen', 'walk', 'washing', 'word']
 
 ### Logs
-- Attempt 1 BHT: The Pharisees and scribes question Jesus about his disciples not washing their hands before eating, in accordance with the tradition of the elders. Jesus rebukes them, stating that they are more concerned with human traditions than with following the commandments of God. He emphasizes the importance of abiding by the word of God rather than the traditions of men. It is through obedience to God's word that peace is found.
-- 🔄 Mark 7:5 (attempt 1, 71 words, 45.1% quotes quality score: 0.8424589793781732, V2 normalized quality score: 19.36, commentator tiers 1-3: 0.0%, 17.61%, 82.39%) 
+- Attempt 1 BHT: The Pharisees questioned Jesus, asking why His disciples did not follow the tradition of the elders by eating with unwashed hands. These traditions, though passed down by the forefathers, were not the true rule of conduct. Instead, Jesus emphasized that His followers should abide by the word of God. Those who walk according to His commandments will find peace, while those who adhere to the commandments of men cannot be truly at peace.
+- 🔄 Mark 7:5 (attempt 1, 73 words, 41.51% quotes quality score: 1.0279813144306291, V2 normalized quality score: 25.52, commentator tiers 1-3: 0.0%, 17.58%, 82.42%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The tradition of the elders, referred to as the rule delivered from forefathers, is challenged by Jesus when the Pharisees and scribes question his disciples for not washing their hands before eating. Jesus points out their focus on human traditions rather than the commandments of God. He emphasizes that it is not the traditions of men but the word of God that should be the guiding principle for one's walk and conduct. Those who follow this rule will experience peace. The term common in the verse refers to that which is unclean or unholy, specifically signifying unwashed hands.
-- 🔄 Mark 7:5 (attempt 2, 99 words, 43.84% quotes quality score: 0.966238943206101, V2 normalized quality score: 23.47, commentator tiers 1-3: 0.0%, 18.73%, 81.27%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: Jesus confronts the Pharisees and scribes about their focus on the tradition of the elders rather than the commandments of God. He points out that they are more concerned with human traditions than with following God's word. Jesus emphasizes the importance of abiding by God's word as the rule for one's conduct and walk. He clarifies that the term common refers to unwashed hands, signifying uncleanness or unholiness. The rule handed down from forefathers is challenged by Jesus, who encourages obedience to the word of God for true peace.
-- 🔄 Mark 7:5 (attempt 3, 92 words, 39.68% quotes quality score: 0.9206060847875445, V2 normalized quality score: 21.95, commentator tiers 1-3: 0.0%, 20.76%, 79.24%) 
+- Attempt 2 BHT: Why walk not thy disciples according to the tradition of the elders, but eat with unwashen hands? The Pharisees questioned Jesus about why His disciples did not conform to the established customs of the elders, especially regarding the requirement to wash hands before meals. However, Jesus highlighted the distinction between the traditions of men and the word of God, emphasizing that true believers should align their behavior with the latter. Those who adhere to the divine commandments will find peace, but those who follow the commandments of men cannot experience true tranquility.
+- 🔄 Mark 7:5 (attempt 2, 92 words, 37.7% quotes quality score: 0.9883563171945602, V2 normalized quality score: 24.21, commentator tiers 1-3: 0.0%, 15.66%, 84.34%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus challenges the Pharisees and scribes who prioritize the tradition of the elders over God's commandments. He highlights their fixation on human traditions rather than following God's word. Jesus emphasizes that one's conduct and walk should be governed by God's word, not the traditions of men. He clarifies that common refers to unwashed hands, symbolizing impurity. Jesus confronts the rule handed down from forefathers, urging obedience to God's word as the pathway to true peace.
-- 🔄 Mark 7:5 (attempt 4, 80 words, 35.09% quotes quality score: 0.9075426564809258, V2 normalized quality score: 21.52, commentator tiers 1-3: 0.0%, 17.52%, 82.48%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus rebukes the Pharisees and scribes for prioritizing the tradition of the elders over the commandments of God. He highlights their focus on human traditions instead of following God's word. Jesus underscores that it is not the traditions of men but God's word that should guide one's conduct and actions. He clarifies that common refers to unwashed hands, representing impurity. By challenging the rule passed down from earlier generations, Jesus emphasizes the importance of obedience to God's word for finding true peace.
-- 🔄 Mark 7:5 (attempt 5, 86 words, 32.2% quotes quality score: 0.8931907876954115, V2 normalized quality score: 21.04, commentator tiers 1-3: 0.0%, 20.7%, 79.3%) 
+- Attempt 3 BHT: Why walk not thy disciples according to the tradition of the elders, but eat with unwashen hands? The Pharisees questioned Jesus about His disciples' failure to comply with the elders' traditions, specifically regarding the washing of hands before meals. However, Jesus stressed the distinction between human traditions and God's word, affirming that true believers should prioritize the latter over the former. Those who walk in accordance with God's commandments will experience peace, whereas those who adhere to the commandments of men will not find true contentment.
+- 🔄 Mark 7:5 (attempt 3, 88 words, 40.0% quotes quality score: 1.0554542551199066, V2 normalized quality score: 26.44, commentator tiers 1-3: 0.0%, 15.57%, 84.43%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Mark 7:5 bht prompt v0.8 (92 words, 39.68% quotes)
-- quality score: 0.9206060847875445, V2 normalized quality score: 21.95, commentator tiers 1-3: 0.0%, 20.76%, 79.24%)
+- Attempt 4 BHT: The Pharisees questioned Jesus about His disciples' failure to adhere to the elders' traditions of washing hands before meals. However, Jesus emphasized the importance of distinguishing between human traditions and God's word. He urged His followers to prioritize obedience to God's commandments over adherence to man-made rules. Those who walk in alignment with God's commandments will find peace, while those who cling to the commandments of men will not experience true tranquility.
+- 🔄 Mark 7:5 (attempt 4, 76 words, 35.19% quotes quality score: 0.937520506665659, V2 normalized quality score: 22.52, commentator tiers 1-3: 0.0%, 17.42%, 82.58%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Why walk not thy disciples according to the tradition of the elders, but eat with unwashen hands? The Pharisees asked Jesus this question, highlighting the disciples' departure from the established customs of washing hands before meals. However, Jesus pointed out the distinction between human traditions and the word of God. He emphasized that true followers should base their conduct on God's commandments rather than on the commandments of men. Those who align their walk and conversation with God's commandments will experience peace, while those who conform to human traditions deviate from the true path.
+- 🔄 Mark 7:5 (attempt 5, 96 words, 38.46% quotes quality score: 1.0067852907079153, V2 normalized quality score: 24.82, commentator tiers 1-3: 0.0%, 15.87%, 84.13%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 7:5 bht prompt v0.8 (88 words, 40.0% quotes)
+- quality score: 1.0554542551199066, V2 normalized quality score: 26.44, commentator tiers 1-3: 0.0%, 15.57%, 84.43%)

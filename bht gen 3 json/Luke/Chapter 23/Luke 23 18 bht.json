@@ -1,18 +1,18 @@
 {
-    "timestamp": "12-25-2023 21:00:50",
+    "timestamp": "12-25-2023 21:24:37",
     "verseRef": "Luke 23:18",
     "bestBHT": {
-        "bht": "The whole multitude of them cried out in unison, demanding that he be taken away. The word all together indicates their unanimous decision, a term used only here in the New Testament. Their urgency is emphasized by the imperative take away, as they wished for him to be promptly removed. Their adamant cry, resembling the situation with Paul, made it clear that they wanted him gone: Away with this man!",
-        "wordCount": 70,
-        "quoteTokenProportion": 50.0,
-        "qualityScore": 0.9745956378374994,
-        "qualityScoreNormalizedComparedToV2BHTs": 23.75,
+        "bht": "The whole multitude cried out together, demanding the immediate removal of this man. They cried out in a most clamorous way, as if they were a single voice. They exclaimed that Jesus should be sent away, to the cross, as he was unworthy to live. Meanwhile, they advocated for the release of Barabbas.",
+        "wordCount": 53,
+        "quoteTokenProportion": 51.22,
+        "qualityScore": 1.0356330470429487,
+        "qualityScoreNormalizedComparedToV2BHTs": 25.78,
         "commentatorTierSimilarities": [
-            61.78,
+            28.91,
             0.0,
-            38.22
+            71.09
         ],
-        "generationAttempt": 2
+        "generationAttempt": 3
     },
     "choicestQuotes": {
         "Marvin Vincent": [
@@ -20,14 +20,14 @@
             "Away [\u03b1\u03b9\u03c1\u03b5] . Lit., take away. Compare Acts 21:36; Acts 22:22."
         ],
         "Archibald T. Robertson": [
-            "All together. An adverb from the adjective \u03c0\u03b1\u03bd\u03c0\u03bb\u03b7\u03b8\u03b7\u03c2, all together. Used by Dio Cassius. Only here in the N.T.",
-            "Away (\u03b1\u03b9\u03c1\u03b5). Present active imperative, Take him on away and keep him away as in Acts 21:36; Acts 22:22, of Paul.",
-            "Release (\u03b1\u03c0\u03bf\u03bb\u03c5\u03c3\u03bf\u03bd) is first aorist active imperative, do it now and at once."
+            "All together (\u03c0\u03b1\u03bd\u03c0\u03bb\u03b7\u03b8\u03b5). An adverb from the adjective \u03c0\u03b1\u03bd\u03c0\u03bb\u03b7\u03b8\u03b7\u03c2, all together. Used by Dio Cassius. Only here in the N.T.\" ",
+            "Away (\u03b1\u03b9\u03c1\u03b5). Present active imperative, Take him on away and keep him away as in Acts 21:36; Acts 22:22, of Paul.\" ",
+            "But release (\u03b1\u03c0\u03bf\u03bb\u03c5\u03c3\u03bf\u03bd) is first aorist active imperative, do it now and at once."
         ],
         "John Gill": [
-            "Away with this man; to the cross; to Calvary, the place of execution; away with him out of the world; he is not fit to live.\" (Luke 23:18)",
-            "Release unto us Barabbas.\" (Luke 23:18)",
-            "Whose character is given in the next verse.\" (Luke 23:18)"
+            "And they cried out all at once... in a most clamorous way, cried out, as one man, immediately.\" ",
+            "Saying, away with this man; to the cross; to Calvary, the place of execution; away with him out of the world; he is not fit to live.\" ",
+            "and release unto us Barabbas."
         ]
     },
     "choicestPrompt": "choicest prompt v0.4",
@@ -47,67 +47,67 @@
     "bhtAttemptsCount": 5,
     "bhtAttempts": [
         {
-            "bht": "The crowd cried out, Take him away! It was a unanimous decision, with the whole multitude of them demanding his removal. The word used here, all together, is only found in the New Testament in this verse. The imperative, take away, emphasizes the urgency and immediacy of their demand. The crowd wanted him gone, removed from their presence. They were adamant in their desire, echoing the words used when Paul was taken away and kept away. Their cry was clear: Away with this man!",
-            "wordCount": 84,
-            "quoteTokenProportion": 44.83,
-            "qualityScore": 0.8541739516332794,
-            "qualityScoreNormalizedComparedToV2BHTs": 19.75,
+            "bht": "The whole multitude came together and cried out in a most clamorous way, as one man, to take away this man. They were demanding that he be taken away, to the cross, to Calvary, out of the world, as he was not fit to live. They wanted him gone and released Barabbas instead.",
+            "wordCount": 53,
+            "quoteTokenProportion": 53.66,
+            "qualityScore": 0.9920109674706432,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.33,
             "commentatorTierSimilarities": [
-                57.23,
+                19.09,
                 0.0,
-                42.77
+                80.91
             ],
             "generationAttempt": 1
         },
         {
-            "bht": "The whole multitude of them cried out in unison, demanding that he be taken away. The word all together indicates their unanimous decision, a term used only here in the New Testament. Their urgency is emphasized by the imperative take away, as they wished for him to be promptly removed. Their adamant cry, resembling the situation with Paul, made it clear that they wanted him gone: Away with this man!",
-            "wordCount": 70,
-            "quoteTokenProportion": 50.0,
-            "qualityScore": 0.9745956378374994,
-            "qualityScoreNormalizedComparedToV2BHTs": 23.75,
+            "bht": "The whole multitude of them cried out together, demanding that this man be taken away, just as in the case of Paul in Acts 21:36 and Acts 22:22. Their clamorous cry was unanimous, as if they were a single voice, and it was a resounding call for Jesus to be removed from their presence. They declared that he should be sent to the cross, to Calvary, the place of execution, as he was unworthy to live. In contrast, they requested the release of Barabbas instead.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.219509790760388,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.89,
             "commentatorTierSimilarities": [
-                61.78,
+                39.51,
                 0.0,
-                38.22
+                60.49
             ],
             "generationAttempt": 2
         },
         {
-            "bht": "They all joined together, demanding for him to be taken away. Take him away and keep him away, they cried, echoing the words spoken about Paul in Acts. They wanted him out of their sight, quickly and without delay. The crowd's outcry was clear: Away with this man! they shouted. They wanted him gone, and instead, they called for the release of Barabbas, a man whose character is further explained in the following verse. (Luke 23:18)",
-            "wordCount": 76,
-            "quoteTokenProportion": 44.44,
-            "qualityScore": 0.8270998948984611,
-            "qualityScoreNormalizedComparedToV2BHTs": 18.85,
+            "bht": "The whole multitude cried out together, demanding the immediate removal of this man. They cried out in a most clamorous way, as if they were a single voice. They exclaimed that Jesus should be sent away, to the cross, as he was unworthy to live. Meanwhile, they advocated for the release of Barabbas.",
+            "wordCount": 53,
+            "quoteTokenProportion": 51.22,
+            "qualityScore": 1.0356330470429487,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.78,
             "commentatorTierSimilarities": [
-                29.1,
+                28.91,
                 0.0,
-                70.9
+                71.09
             ],
             "generationAttempt": 3
         },
         {
-            "bht": "They all joined together, demanding for him to be taken away. Take him away and keep him away, they cried. Away with this man! they shouted, wanting him gone. Instead, they called for the release of Barabbas, a man whose character is further explained.",
-            "wordCount": 44,
-            "quoteTokenProportion": 54.55,
-            "qualityScore": 0.6973026333619321,
-            "qualityScoreNormalizedComparedToV2BHTs": 14.53,
+            "bht": "The crowd, all together, cried out, Away! This expression, all together, is used only here in the New Testament. They wanted this man taken away, perhaps to the cross or out of the world. They were demanding his release, proclaiming, and release unto us Barabbas.",
+            "wordCount": 45,
+            "quoteTokenProportion": 54.29,
+            "qualityScore": 0.9619133310895605,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.33,
             "commentatorTierSimilarities": [
-                29.29,
+                31.74,
                 0.0,
-                70.71
+                68.26
             ],
             "generationAttempt": 4
         },
         {
-            "bht": "The multitude of people cried out, All together, take him away! Their resounding demand for his removal reveals their desire to be rid of him entirely. The imperative away reflects the urgency and insistence in their voices, much like the command to take away seen in other instances of people being forcefully removed. Their cry for his release is juxtaposed with their request for the freedom of Barabbas, emphasizing the stark contrast between the two figures and highlighting the unjust choice that would soon be made.",
-            "wordCount": 86,
-            "quoteTokenProportion": 40.0,
-            "qualityScore": 0.788750065666707,
-            "qualityScoreNormalizedComparedToV2BHTs": 17.57,
+            "bht": "The whole multitude cried out together, demanding that this man be taken away. They were united in their clamorous outcry, immediately calling for his removal, shouting, Away with this man! They wanted him to be taken to the cross, to Calvary, where they believed he deserved to die. In contrast to their demand for this man to be taken away, they also cried out for the release of Barabbas.",
+            "wordCount": 69,
+            "quoteTokenProportion": 46.51,
+            "qualityScore": 0.968369355748848,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.54,
             "commentatorTierSimilarities": [
-                46.78,
+                22.85,
                 0.0,
-                53.22
+                77.15
             ],
             "generationAttempt": 5
         }
